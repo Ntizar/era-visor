@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación Madrid Chamartín",
   "provincia": "Madrid",
-  "lat": 40.4726,
-  "lng": -3.6825
+  "lat": 40.47428106,
+  "lng": -3.68171902,
+  "metodo_geo": "via_pk"
  },
  "pk": "0+000",
  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",

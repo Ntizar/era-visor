@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre Urda y Malagón",
   "provincia": "Toledo",
-  "lat": 39.4167,
-  "lng": -3.4833
+  "lat": 39.396019707499995,
+  "lng": -3.8323499473214286,
+  "metodo_geo": "via_pk"
  },
  "pk": "122+450",
  "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",

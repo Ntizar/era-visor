@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Almudévar y Tardienta",
   "provincia": "Huesca",
-  "lat": 41.397976,
-  "lng": 1.107508
+  "lat": 41.397073052765954,
+  "lng": 1.1090898704255319,
+  "metodo_geo": "via_pk"
  },
  "pk": "51+800",
  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",

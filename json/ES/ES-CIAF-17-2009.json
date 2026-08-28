@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Algemesí",
   "provincia": "Valencia",
-  "lat": 39.1535,
-  "lng": -0.435
+  "lat": 39.20317953239415,
+  "lng": -0.4401787931565762,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 81,494",
  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",

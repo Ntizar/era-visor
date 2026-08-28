@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "línea 220 de Lleida Pirineus a L'Hospitalet de Llobregat",
   "provincia": "Barcelona",
-  "lat": 41.56546,
-  "lng": 1.951414
+  "lat": 41.601072459921994,
+  "lng": 1.8946330240497926,
+  "metodo_geo": "via_pk"
  },
  "pk": "321+017",
  "linea": "220 de Lleida Pirineus a L´Hospitalet de Llobregat",

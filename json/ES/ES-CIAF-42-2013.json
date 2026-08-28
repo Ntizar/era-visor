@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sevilla Santa Justa",
   "provincia": "Sevilla",
-  "lat": 37.410089,
-  "lng": -5.957609
+  "lat": 37.39926831967742,
+  "lng": -5.9659553570967745,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 570+580",
  "linea": "400 Alcázar de San Juan a Cádiz",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Villalba de Guadarrama",
   "provincia": "Madrid",
-  "lat": 40.602681,
-  "lng": -4.09965
+  "lat": 40.62559197246452,
+  "lng": -4.015090596283871,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 38,748",
  "linea": "100 Madrid - Hendaya",

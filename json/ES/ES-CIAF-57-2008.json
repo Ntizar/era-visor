@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Cardedeu",
   "provincia": "Barcelona",
-  "lat": 41.6353,
-  "lng": 2.3564
+  "lat": 41.63329465716514,
+  "lng": 2.366371941004587,
+  "metodo_geo": "via_pk"
  },
  "pk": "143,105",
  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",

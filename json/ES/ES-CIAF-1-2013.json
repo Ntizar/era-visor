@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Villafranca de Córdoba",
   "provincia": "Córdoba",
-  "lat": 37.946636,
-  "lng": -4.458448
+  "lat": 37.949865723515536,
+  "lng": -4.511792119192032,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 415+648",
  "linea": "400 Alcázar de San Juan – Cádiz",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre Bellvitge-Aguja 674+835 y Barcelona Sants",
   "provincia": "Barcelona",
-  "lat": 41.3534,
-  "lng": 2.1065
+  "lat": 41.36619164619355,
+  "lng": 2.1169708127741935,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 675+220",
  "linea": "200 Barcelona Sants – Madrid Chamartín",

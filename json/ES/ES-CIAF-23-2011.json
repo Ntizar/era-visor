@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Los Gavilanes",
   "provincia": "Madrid",
-  "lat": 40.3228,
-  "lng": -3.8649
+  "lat": 40.31742524413962,
+  "lng": -3.6490396114301884,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 12+379",
  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",

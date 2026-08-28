@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Vilamalla",
   "provincia": "Girona",
-  "lat": 42.234164,
-  "lng": 2.97345
+  "lat": 42.210341118069444,
+  "lng": 2.979579887221111,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 241+083",
  "linea": "270 Bifurcación Sagrera a Cerbere",

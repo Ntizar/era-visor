@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Leganés",
   "provincia": "Madrid",
-  "lat": 40.33,
-  "lng": -3.7611
+  "lat": 40.329243949974995,
+  "lng": -3.771059764325,
+  "metodo_geo": "via_pk"
  },
  "pk": "13+171",
  "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",

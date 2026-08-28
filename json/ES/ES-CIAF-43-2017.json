@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Torralba",
   "provincia": "Soria",
-  "lat": 41.731709,
-  "lng": 0.442112
+  "lat": 41.13594656,
+  "lng": -2.4929322,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 157+696",
  "linea": "200 Madrid Chamartín a Barcelona Estació França",

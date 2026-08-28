@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Puerto de Navacerrada y el apeadero de Collado Albo",
   "provincia": "Madrid",
-  "lat": 40.8333,
-  "lng": -4.0167
+  "lat": 40.764579152126124,
+  "lng": -4.025053012522522,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 7+855",
  "linea": "116 Los Cotos - Cercedilla",

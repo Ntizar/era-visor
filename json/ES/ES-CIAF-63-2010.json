@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Algemesí y Benifaió",
   "provincia": "Valencia",
-  "lat": 39.284256,
-  "lng": -0.429985
+  "lat": 39.27931643803758,
+  "lng": -0.4303546384133612,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 89+850",
  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",

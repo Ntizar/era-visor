@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre Salomó y Valls",
   "provincia": "Tarragona",
-  "lat": 42.041939,
-  "lng": -0.579677
+  "lat": 40.443878126042556,
+  "lng": -3.5292592803829788,
+  "metodo_geo": "via_pk"
  },
  "pk": "18+920",
  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",

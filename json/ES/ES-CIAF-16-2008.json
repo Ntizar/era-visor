@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Mont-Roig del Camp",
   "provincia": "Tarragona",
-  "lat": 41.0833,
-  "lng": 0.75
+  "lat": 42.537904063400006,
+  "lng": -6.7583889436,
+  "metodo_geo": "via_pk"
  },
  "pk": "263,566",
  "linea": "800 La Coruña-León",

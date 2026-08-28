@@ -29,5 +29,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Falta de identificación de zonas inundables",
+  "Procedimientos no contemplaban avenidas",
+  "Información hidrográfica no coordinada",
+  "Vigilancia específica no activada"
+ ],
+ "mitigaciones": [
+  "Protección con escollera del cauce",
+  "Tajamares de hormigón en pilas",
+  "Capa de geotextil en cauce",
+  "Limitación temporal de velocidad"
+ ],
+ "factores_humanos": [
+  "Metodología técnica no rigurosa",
+  "Coordinación insuficiente de alertas",
+  "Procedimientos de contingencia incompletos",
+  "Identificación subjetiva de riesgos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

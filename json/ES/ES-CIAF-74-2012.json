@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Laviana",
   "provincia": "Asturias",
-  "lat": 43.25,
-  "lng": -5.5667
+  "lat": 43.25080614,
+  "lng": -5.5648419,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "PK 49+700",
  "linea": "61 Gijón - Laviana",

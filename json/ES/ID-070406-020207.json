@@ -14,8 +14,9 @@
   "provincia": "Alicante",
   "pk": "395,415",
   "linea": "Madrid-Alicante",
-  "lat": 38.6360967,
-  "lng": -0.8659745
+  "lat": 38.63981209,
+  "lng": -0.8728919,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

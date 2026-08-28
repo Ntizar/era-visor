@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "línea 436 Fuengirola-Málaga",
   "provincia": "Málaga",
-  "lat": 36.681155,
-  "lng": -4.495352
+  "lat": 36.650524655103446,
+  "lng": -4.483023307103448,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 8,870",
  "linea": "436 Fuengirola-Málaga",

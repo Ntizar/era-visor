@@ -275,11 +275,8 @@
         <label>Tipo de suceso</label>
         <select id="filterType"><option value="">Todos</option></select>
 
-        <label>Año desde</label>
-        <input type="range" id="yearMin">
-        <div class="range-values"><span id="yearMinVal">—</span><span id="yearMaxTop">—</span></div>
-        <label>Año hasta</label>
-        <input type="range" id="yearMax">
+        <label>Periodo: <span id="yearLabel" style="font-weight:600;color:#2563eb">todos</span></label>
+        <input type="range" id="yearMax" min="0" max="1" value="1">
         <div class="range-values"><span id="yearMinTop">—</span><span id="yearMaxVal">—</span></div>
 
         <h3>Víctimas</h3>
@@ -350,6 +347,46 @@
                     <div class="chart-card">
                         <h3>Por país</h3>
                         <canvas id="chPais"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Por subsistema (schema v2)</h3>
+                        <canvas id="chSubsistema"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Sistema de protección del tren</h3>
+                        <canvas id="chATP"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Condiciones de explotación</h3>
+                        <canvas id="chExplotacion"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Tipo de red</h3>
+                        <canvas id="chRed"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Precursores más frecuentes</h3>
+                        <canvas id="chPrecursores"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Meteorología presente</h3>
+                        <canvas id="chMeteo"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Vía única vs múltiple</h3>
+                        <canvas id="chCirculacion"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Fase del ciclo de vida</h3>
+                        <canvas id="chFase"></canvas>
                     </div>
                 </div>
             </div>
@@ -456,8 +493,8 @@ function pintarMapa() {
 function aplicaFiltros() {
     const pais = document.getElementById('filterPais').value;
     const tipo = document.getElementById('filterType').value;
-    const a1 = Math.min(+document.getElementById('yearMin').value, +document.getElementById('yearMax').value);
-    const a2 = Math.max(+document.getElementById('yearMin').value, +document.getElementById('yearMax').value);
+    const a1 = +(document.getElementById('yearMinTop').textContent || 0) || 0;
+    const a2 = +document.getElementById('yearMax').value;
     const conVic = document.getElementById('filterVictimas').checked;
     const conInf = document.getElementById('filterInforme').checked;
     const q = (document.getElementById('filterSearch').value || '').toLowerCase();
@@ -552,6 +589,77 @@ function pintaDashboard() {
         type: 'bar', data: { labels: pp.map(x => x[0]), datasets: [{ data: pp.map(x => x[1]), backgroundColor: '#6B96CF' }] },
         options: { indexAxis: 'y', plugins: { legend: { display: false } } }
     });
+
+    pintaChartsV2();
+}
+
+/* ===== CHARTS SCHEMA V2 (KAIZEN) ===== */
+const AZULES = ['#2563eb', '#3463AC', '#6B96CF', '#93b4e3', '#1d4ed8', '#3b82f6', '#60a5fa', '#93c5fd', '#bfdbfe'];
+let chartSubsistema, chartATP, chartExplotacion, chartRed, chartPrecursores, chartMeteo, chartCirculacion, chartFase;
+
+function barrasV2(id, entries, color, chartVar, horizontal = true) {
+    if (!entries.length) {
+        document.getElementById(id).closest('.chart-card').style.opacity = 0.45;
+        return;
+    }
+    if (chartVar && chartVar.destroy) chartVar.destroy();
+    const cfg = {
+        type: 'bar',
+        data: { labels: entries.map(x => x[0]), datasets: [{ data: entries.map(x => x[1]), backgroundColor: color }] },
+        options: {
+            indexAxis: horizontal ? 'y' : 'x',
+            plugins: { legend: { display: false } },
+            scales: { y: { beginAtZero: true, ticks: { precision: 0 } } }
+        }
+    };
+    return new Chart(document.getElementById(id), cfg);
+}
+
+function pintaChartsV2() {
+    const tieneV2 = VISTA.some(r => r.subsistema || r.sistema_proteccion || (r.precursores && r.precursores.length));
+    const contar = campo => {
+        const c = {};
+        for (const r of VISTA) { const v = r[campo]; if (v) c[v] = (c[v] || 0) + 1; }
+        return Object.entries(c).sort((a, b) => b[1] - a[1]);
+    };
+    const contarLista = campo => {
+        const c = {};
+        for (const r of VISTA) for (const x of (r[campo] || [])) c[x] = (c[x] || 0) + 1;
+        return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 10);
+    };
+
+    const sub = contar('subsistema');
+    if (chartSubsistema) chartSubsistema.destroy();
+    chartSubsistema = barrasV2('chSubsistema', sub, '#2563eb');
+
+    const atp = contar('sistema_proteccion');
+    if (chartATP) chartATP.destroy();
+    chartATP = barrasV2('chATP', atp, '#CB1823');
+
+    const exp = contar('explotacion');
+    if (chartExplotacion) chartExplotacion.destroy();
+    chartExplotacion = barrasV2('chExplotacion', exp, '#e65100', null, false);
+
+    const red = contar('tipo_red');
+    if (chartRed) chartRed.destroy();
+    chartRed = barrasV2('chRed', red, '#3463AC');
+
+    const pre = contarLista('precursores');
+    if (chartPrecursores) chartPrecursores.destroy();
+    chartPrecursores = barrasV2('chPrecursores', pre, '#6B96CF');
+
+    const met = contarLista('meteorologia');
+    if (chartMeteo) chartMeteo.destroy();
+    chartMeteo = barrasV2('chMeteo', met, '#1d4ed8', null, false);
+
+    const circ = contar('circulation_type');
+    const circLbl = circ.map(([k, v]) => [k === 'via_unica' ? 'Vía única' : 'Vía múltiple', v]);
+    if (chartCirculacion) chartCirculacion.destroy();
+    chartCirculacion = barrasV2('chCirculacion', circLbl, '#3b82f6', null, false);
+
+    const fase = contar('fase_ciclo_vida');
+    if (chartFase) chartFase.destroy();
+    chartFase = barrasV2('chFase', fase, '#6B96CF');
 }
 
 /* ===== TABLA ===== */
@@ -656,10 +764,10 @@ function resetFilters() {
     document.getElementById('filterInforme').checked = false;
     document.getElementById('filterSearch').value = '';
     document.getElementById('tableSearch').value = '';
-    const r1 = document.getElementById('yearMin'), r2 = document.getElementById('yearMax');
-    r1.value = r1.min; r2.value = r2.max;
-    document.getElementById('yearMinVal').textContent = r1.min;
+    const r2 = document.getElementById('yearMax');
+    r2.value = r2.max;
     document.getElementById('yearMaxVal').textContent = r2.max;
+    document.getElementById('yearLabel').textContent = 'todos';
     aplicaFiltros();
 }
 
@@ -679,23 +787,20 @@ async function cargar() {
     const tipos = [...new Set(TODO.map(r => r.tipo))].sort();
     const selT = document.getElementById('filterType');
     for (const t of tipos) selT.insertAdjacentHTML('beforeend', `<option value="${t}">${TIPOS_ES[t] || t}</option>`);
-    // años
+    // años: un único slider "hasta el año X"
     const anios = TODO.map(r => +(r.fecha || '').slice(0, 4)).filter(Boolean);
     const amin = Math.min(...anios), amax = Math.max(...anios);
-    const r1 = document.getElementById('yearMin'), r2 = document.getElementById('yearMax');
-    r1.min = r2.min = amin; r1.max = r2.max = amax; r1.value = amin; r2.value = amax;
-    document.getElementById('yearMinVal').textContent = amin;
+    const r2 = document.getElementById('yearMax');
+    r2.min = amin; r2.max = amax; r2.value = amax;
     document.getElementById('yearMaxVal').textContent = amax;
     document.getElementById('yearMinTop').textContent = amin;
-    document.getElementById('yearMaxTop').textContent = amax;
-    const refrescaAnios = () => {
-        const v1 = Math.min(+r1.value, +r2.value), v2 = Math.max(+r1.value, +r2.value);
-        document.getElementById('yearMinVal').textContent = v1;
-        document.getElementById('yearMaxVal').textContent = v2;
-        document.getElementById('yearMinTop').textContent = v1;
-        document.getElementById('yearMaxTop').textContent = v2;
+    document.getElementById('yearLabel').textContent = 'todos';
+    r2.oninput = () => {
+        const v = +r2.value;
+        document.getElementById('yearMaxVal').textContent = v;
+        document.getElementById('yearLabel').textContent = v >= amax ? 'todos' : (amin + '–' + v);
+        aplicaFiltros();
     };
-    r1.oninput = r2.oninput = () => { refrescaAnios(); aplicaFiltros(); };
     ['filterPais', 'filterType', 'filterVictimas', 'filterInforme'].forEach(id =>
         document.getElementById(id).onchange = aplicaFiltros);
     document.getElementById('filterSearch').oninput = aplicaFiltros;

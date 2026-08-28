@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Monforte de Lemos",
   "provincia": "Lugo",
-  "lat": 42.525181,
-  "lng": -7.504582
+  "lat": 42.52256481123227,
+  "lng": -7.505545460130142,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 0+851",
  "linea": "810 Vigo – Monforte de Lemos",

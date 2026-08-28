@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Aguadulce",
   "provincia": "Sevilla",
-  "lat": 37.219327,
-  "lng": -4.881576
+  "lat": 37.22619666953823,
+  "lng": -4.933650032214706,
+  "metodo_geo": "via_pk"
  },
  "pk": "87+782",
  "linea": "422 Bif. Utrera a Fuente de Piedra",

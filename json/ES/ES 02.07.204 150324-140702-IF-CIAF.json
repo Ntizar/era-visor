@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Albacete",
   "pk": "368+925",
-  "linea": "Bifurcación Albacete-Alicante"
+  "linea": "Bifurcación Albacete-Alicante",
+  "lat": 38.81744785,
+  "lng": -0.99916507,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -28,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación degradada",
+ "precursores": [
+  "Drenaje insuficiente para escorrentía",
+  "Punto no identificado riesgo",
+  "No evaluación especial lluvias",
+  "Orden CRC marcha a la vista"
+ ],
+ "mitigaciones": [
+  "Reducción progresiva de velocidad",
+  "Indicación marcha a la vista",
+  "Identificación punto riesgo lluvia",
+  "Obras refuerzo drenaje"
+ ],
+ "factores_humanos": [
+  "Orden CRC marcha a la vista",
+  "No identificación punto riesgo",
+  "Plan contingencias no incluye PK",
+  "Maquinista reduce velocidad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Cerdanyola del Vallés",
   "provincia": "Barcelona",
-  "lat": 41.4929,
-  "lng": 2.1374
+  "lat": 41.49582517,
+  "lng": 2.14350227,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "351+200",
  "linea": "224 Cerdanyola Universitat – Cerdanyola del Vallés",

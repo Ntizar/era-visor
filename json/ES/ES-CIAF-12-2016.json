@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Mont-Roig del Camp",
   "provincia": "Tarragona",
-  "lat": 41.10458,
-  "lng": 1.10094
+  "lat": 41.1072446742439,
+  "lng": 1.104869535292683,
+  "metodo_geo": "via_pk"
  },
  "pk": "247+490",
  "linea": "600 Valencia Nord – Sant Vicenç de Calders",

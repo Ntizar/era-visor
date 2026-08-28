@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Tardienta",
   "provincia": "Huesca",
-  "lat": 41.397976,
-  "lng": 1.107508
+  "lat": 41.3985372,
+  "lng": 1.10657326,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "pk 52+950",
  "linea": "Línea 200 Madrid Chamartín a Barcelona estación de Francia",

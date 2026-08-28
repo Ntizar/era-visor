@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre el apeadero de Alegia y la estación de Tolosa, a la salida de un túnel en curva a la izquierda de radio 475 y 9,4 milésimas de pendiente ascendente en el sentido de la circulación, en las cercanías de la Ctra. Nacional I",
   "provincia": "Guipúzcoa",
-  "lat": 43.135,
-  "lng": -2.074
+  "lat": 43.11297300043312,
+  "lng": -2.091853378076433,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 594,380",
  "linea": "100 Madrid-Hendaya",

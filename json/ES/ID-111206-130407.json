@@ -13,7 +13,10 @@
   "estacion": "Vilanova i la Geltrú",
   "provincia": "Barcelona",
   "pk": "636,000",
-  "linea": "Madrid-Barcelona"
+  "linea": "Madrid-Barcelona",
+  "lat": 41.21993496,
+  "lng": 1.73090962,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

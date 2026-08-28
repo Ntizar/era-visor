@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Hostalric",
   "provincia": "Gerona",
-  "lat": 41.768148,
-  "lng": 2.672221
+  "lat": 41.74621194104478,
+  "lng": 2.626188554029851,
+  "metodo_geo": "via_pk"
  },
  "pk": "170,925",
  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",

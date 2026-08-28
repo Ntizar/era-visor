@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Vitoria – Gasteiz",
   "provincia": "Álava",
-  "lat": 42.8505845,
-  "lng": -2.66145
+  "lat": 42.84130481,
+  "lng": -2.67268418,
+  "metodo_geo": "via_pk"
  },
  "pk": "492+400",
  "linea": "100 Madrid Chamartín – Hendaya",

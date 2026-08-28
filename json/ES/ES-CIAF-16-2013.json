@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Pitis y Pinar de las Rozas",
   "provincia": "Madrid",
-  "lat": 40.525,
-  "lng": -3.875
+  "lat": 40.50678042953846,
+  "lng": -3.8229010276923074,
+  "metodo_geo": "via_pk"
  },
  "pk": "15+600",
  "linea": "100 Hendaya – Madrid Chamartín",

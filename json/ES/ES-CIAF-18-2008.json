@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre las estaciones de Santa Cruz de la Zarza y Ocaña",
   "provincia": "Toledo",
-  "lat": 40.033064,
-  "lng": -3.618547
+  "lat": 39.94452831621868,
+  "lng": -3.256421917972665,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 36,950",
  "linea": "310 Madrid-Valencia",

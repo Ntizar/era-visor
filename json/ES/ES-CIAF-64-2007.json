@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Oñoro",
   "provincia": "Salamanca",
-  "lat": 40.9833,
-  "lng": -5.7
+  "lat": 40.376257012941174,
+  "lng": -3.656882491764706,
+  "metodo_geo": "via_pk"
  },
  "pk": "5,200",
  "linea": "930 Madrid- San Fernando de Henares",

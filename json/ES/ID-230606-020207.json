@@ -13,7 +13,10 @@
   "estacion": "Cornellá",
   "provincia": "Barcelona",
   "pk": "92,700",
-  "linea": "Tarragona-Barcelona-Francia"
+  "linea": "Tarragona-Barcelona-Francia",
+  "lat": 42.10111883,
+  "lng": 2.21958301,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

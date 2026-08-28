@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Hernani",
   "provincia": "Guipúzcoa",
-  "lat": 43.272851,
-  "lng": -1.962242
+  "lat": 43.27294539280159,
+  "lng": -1.961919585292064,
+  "metodo_geo": "via_pk"
  },
  "pk": "616+351",
  "linea": "100 Hendaya a Madrid Chamartín",

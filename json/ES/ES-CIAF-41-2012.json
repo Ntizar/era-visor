@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Túnel no 73 de L’Argentera",
   "provincia": "Tarragona",
-  "lat": 41.133572,
-  "lng": 0.871009
+  "lat": 41.13566783,
+  "lng": 0.88441436,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "558+049",
  "linea": "210 Miraflores - Tarragona",

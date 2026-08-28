@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Viana de Cega",
   "provincia": "Valladolid",
-  "lat": 41.592046,
-  "lng": -4.752712
+  "lat": 41.51586729209565,
+  "lng": -4.754132521878261,
+  "metodo_geo": "via_pk"
  },
  "pk": "234+843",
  "linea": "100 Madrid - Hendaya",

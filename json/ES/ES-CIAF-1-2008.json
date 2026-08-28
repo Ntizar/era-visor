@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Alcolea de Córdoba",
   "provincia": "Córdoba",
-  "lat": 37.95,
-  "lng": -4.6667
+  "lat": 37.9324672958765,
+  "lng": -4.663323791015936,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 429,825",
  "linea": "400 Alcázar de San Juan-Cádiz",

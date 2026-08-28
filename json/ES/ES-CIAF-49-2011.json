@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sant Pol de Mar",
   "provincia": "Barcelona",
-  "lat": 41.6022,
-  "lng": 2.5968
+  "lat": 41.58870349731869,
+  "lng": 2.587813392906542,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 44+979",
  "linea": "276 Bifurcación Sagrera a Maçanet-Massanes",

@@ -31,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "Cableado antiguo con derivaciones",
+  "Hilos compartidos energía y señalización",
+  "Revisión cables no realizada",
+  "Enclavamiento permite itinerarios incompatibles"
+ ],
+ "mitigaciones": [
+  "Instalación inhibidores de rayos",
+  "Revisión descargadores enclavamiento",
+  "Puesta en servicio nuevo enclavamiento",
+  "Proyecto mejora enclavamientos eléctricos"
+ ],
+ "factores_humanos": [
+  "Falta revisión periódica cables",
+  "Procedimiento muestreo insuficiente",
+  "Documentación estación desactualizada",
+  "Consignas no adaptadas normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

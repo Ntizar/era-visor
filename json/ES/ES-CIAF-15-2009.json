@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Platja de Castelldefels",
   "provincia": "Barcelona",
-  "lat": 41.2667,
-  "lng": 1.9333
+  "lat": 41.26779710192308,
+  "lng": 1.9628715021794876,
+  "metodo_geo": "via_pk"
  },
  "pk": "656+600",
  "linea": "200 Madrid Chamartín - Barcelona Sants",

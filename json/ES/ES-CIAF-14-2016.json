@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Torrejón de Ardoz",
   "provincia": "Madrid",
-  "lat": 40.458777,
-  "lng": -3.479334
+  "lat": 40.45357587824681,
+  "lng": -3.484638113361702,
+  "metodo_geo": "via_pk"
  },
  "pk": "22+554",
  "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",

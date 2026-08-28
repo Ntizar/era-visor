@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación Atocha-Cercanías",
   "provincia": "Madrid",
-  "lat": 42.2799,
-  "lng": -8.6163
+  "lat": 40.40664652405063,
+  "lng": -3.6894731075949365,
+  "metodo_geo": "via_pk"
  },
  "pk": "0+033",
  "linea": "900 Madrid – Chamartín / Madrid – Atocha Cercanías",

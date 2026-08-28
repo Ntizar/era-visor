@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre Pozuelo y Madrid-Príncipe Pío",
   "provincia": "Madrid",
-  "lat": 40.4209619,
-  "lng": -3.7193334
+  "lat": 40.44806168376296,
+  "lng": -3.768576713387654,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 5+114",
  "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",

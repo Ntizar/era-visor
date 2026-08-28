@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Sitges",
   "provincia": "Barcelona",
-  "lat": 41.2367,
-  "lng": 1.8034
+  "lat": 41.239293715753426,
+  "lng": 1.8090553367123292,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 643,230",
  "linea": "200 Madrid Chamartín - Barcelona Sants",

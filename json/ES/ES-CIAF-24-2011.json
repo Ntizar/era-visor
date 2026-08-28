@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Calatayud",
   "provincia": "Zaragoza",
-  "lat": 41.3535,
-  "lng": -1.6458
+  "lat": 41.36573675915969,
+  "lng": -1.606915392815504,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 224+556",
  "linea": "50 Madrid Puerta de Atocha a Límite Adif- TP Ferro",

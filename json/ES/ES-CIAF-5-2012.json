@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Trubia",
   "provincia": "Asturias",
-  "lat": 43.348564,
-  "lng": -5.967582
+  "lat": 43.34861323,
+  "lng": -5.96765136,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "PK 298+108",
  "linea": "12 San Esteban de Pravia – Collanzo",

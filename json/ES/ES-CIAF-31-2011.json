@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre las estaciones de Santa Lucía y Villamanín",
   "provincia": "León",
-  "lat": 42.922248,
-  "lng": -5.651325
+  "lat": 42.932970258885106,
+  "lng": -5.6561660826950355,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 45+104",
  "linea": "130 Gijón-Cercanías a Venta de Baños",

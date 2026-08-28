@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Salbio",
   "provincia": "Álava",
-  "lat": 43.084401,
-  "lng": -3.001647
+  "lat": 43.07149508672941,
+  "lng": -2.9995139348363637,
+  "metodo_geo": "via_pk"
  },
  "pk": "218,654",
  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",

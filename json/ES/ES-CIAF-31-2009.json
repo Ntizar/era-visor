@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel entre Ronda y Setenil",
   "provincia": "Málaga",
-  "lat": 36.785492,
-  "lng": -5.143116
+  "lat": 36.755207085500004,
+  "lng": -5.1408323634999995,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 67+916",
  "linea": "420 Bif. Las Maravillas – Algeciras",

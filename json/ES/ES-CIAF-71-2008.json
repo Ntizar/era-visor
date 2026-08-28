@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Calella",
   "provincia": "Barcelona",
-  "lat": 41.6136,
-  "lng": 2.6604
+  "lat": 41.57806378295701,
+  "lng": 2.5505530272261683,
+  "metodo_geo": "via_pk"
  },
  "pk": "48,524",
  "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",

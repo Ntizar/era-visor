@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre L’Hospitalet de Llobregat y Cornellá",
   "provincia": "Barcelona",
-  "lat": 41.3595118,
-  "lng": 2.0996318
+  "lat": 41.36085728237576,
+  "lng": 2.088278415438384,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 94+316",
  "linea": "240 Sant Vicent de Calders - L’Hospitalet de Llobregat",

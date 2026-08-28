@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sant Andreu Arenal",
   "provincia": "Barcelona",
-  "lat": 41.476995,
-  "lng": 2.186551
+  "lat": 41.456385440344825,
+  "lng": 2.1869750982758625,
+  "metodo_geo": "via_pk"
  },
  "pk": "361+100",
  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Fabara",
   "provincia": "Zaragoza",
-  "lat": 41.1833,
-  "lng": 0.1
+  "lat": 41.23339154995161,
+  "lng": 0.13730240008709693,
+  "metodo_geo": "via_pk"
  },
  "pk": "470+754",
  "linea": "210 de Miraflores a Tarragona",

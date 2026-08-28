@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Valencia Nord",
   "provincia": "Valencia",
-  "lat": 39.4553,
-  "lng": -0.3697
+  "lat": 39.43151999710857,
+  "lng": -0.3888389628342857,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 108,898",
  "linea": "300 Madrid Chamartín – Valencia Estación de Nord",

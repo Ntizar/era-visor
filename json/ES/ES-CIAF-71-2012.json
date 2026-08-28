@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Miguelturra y Pozuelo de Calatrava",
   "provincia": "Ciudad Real",
-  "lat": 38.967108,
-  "lng": -3.876239
+  "lat": 38.96724227107772,
+  "lng": -3.8773295300829016,
+  "metodo_geo": "via_pk"
  },
  "pk": "257+758",
  "linea": "522 Manzanares - Ciudad Real",

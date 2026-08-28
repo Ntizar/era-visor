@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Zaragoza Delicias",
   "provincia": "Zaragoza",
-  "lat": 43.3375,
-  "lng": -1.7892
+  "lat": 41.66883892,
+  "lng": -0.92945469,
+  "metodo_geo": "via_pk"
  },
  "pk": "305+740",
  "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias",

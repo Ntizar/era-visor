@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "línea 622 Aguja Clasif. a Tarragona Clasificación",
   "provincia": "Tarragona",
-  "lat": 41.1189,
-  "lng": 1.2446
+  "lat": 41.11130219,
+  "lng": 1.25341095,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "PK 0+571",
  "linea": "622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",

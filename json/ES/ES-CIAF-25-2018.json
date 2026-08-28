@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Pedralba",
   "provincia": "Zamora",
-  "lat": 41.989119,
-  "lng": -6.550495
+  "lat": 42.030511437987805,
+  "lng": -6.698691120402439,
+  "metodo_geo": "via_pk"
  },
  "pk": "113+475",
  "linea": "822 Zamora - A Coruña",

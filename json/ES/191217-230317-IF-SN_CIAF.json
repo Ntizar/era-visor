@@ -30,5 +30,28 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Señal con visibilidad limitada",
+  "Falta de baliza previa a la señal",
+  "Incompatibilidades no reflejadas en consigna"
+ ],
+ "mitigaciones": [
+  "Instalación baliza previa posterior",
+  "Recomendación técnica AESF visibilidad",
+  "Actualización consignas operativas"
+ ],
+ "factores_humanos": [
+  "Pérdida de atención al rebasar señal",
+  "Dificultad percepción señalización",
+  "Formación insuficiente conocimiento vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

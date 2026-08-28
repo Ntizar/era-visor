@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre Boo y Mortera",
   "provincia": "Cantabria",
-  "lat": 43.433959,
-  "lng": -3.92714
+  "lat": 43.43244970481928,
+  "lng": -3.9318432511325305,
+  "metodo_geo": "via_pk"
  },
  "pk": "519+295",
  "linea": "770 RAM Santander - Oviedo",

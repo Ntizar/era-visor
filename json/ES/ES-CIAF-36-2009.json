@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel particular en Jaca",
   "provincia": "Huesca",
-  "lat": 42.5667,
-  "lng": -0.55
+  "lat": 42.52340836586021,
+  "lng": -0.3809051376147887,
+  "metodo_geo": "via_pk"
  },
  "pk": "99+367",
  "linea": "204 Bifurcación Huesca Cambiador - Canfranc",

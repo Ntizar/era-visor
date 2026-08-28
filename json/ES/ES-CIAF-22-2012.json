@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Socuéllamos",
   "provincia": "Ciudad Real",
-  "lat": 39.281299,
-  "lng": -2.74434
+  "lat": 39.27852938,
+  "lng": -2.77540415,
+  "metodo_geo": "via_pk"
  },
  "pk": "188+690",
  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",

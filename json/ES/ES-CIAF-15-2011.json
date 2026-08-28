@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Flaçà",
   "provincia": "Girona",
-  "lat": 42.0456854,
-  "lng": 2.9569565
+  "lat": 42.05695590065667,
+  "lng": 2.9629995374566667,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 224+794",
  "linea": "270 Barcelona San Andrés Condal - Cerbere",

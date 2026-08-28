@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Capçanes",
   "provincia": "Tarragona",
-  "lat": 41.106373,
-  "lng": 0.786605
+  "lat": 41.10252068,
+  "lng": 0.78366989,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "544+649",
  "linea": "210 Miraflores – Tarragona",

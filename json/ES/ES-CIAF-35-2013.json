@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre los apeaderos de Otero y La Mata de la Riba",
   "provincia": "León",
-  "lat": 43.201436,
-  "lng": -3.169331
+  "lat": 42.836244912727274,
+  "lng": -5.524716658181818,
+  "metodo_geo": "via_pk"
  },
  "pk": "26+700",
  "linea": "790 RAM Aranguren – Asunción Universidad",

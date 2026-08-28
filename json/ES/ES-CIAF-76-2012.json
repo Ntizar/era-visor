@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Valencia-Font de Sant Lluis",
   "provincia": "Valencia",
-  "lat": 39.453,
-  "lng": -0.352
+  "lat": 39.448538382,
+  "lng": -0.38271832,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 2+000",
  "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",

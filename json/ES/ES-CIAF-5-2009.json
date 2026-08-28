@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Gavá",
   "provincia": "Barcelona",
-  "lat": 41.3063,
-  "lng": 2.0033
+  "lat": 41.30538099081081,
+  "lng": 2.0161290627027033,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 663,700",
  "linea": "200 Barcelona Sants - Madrid Chamartín",

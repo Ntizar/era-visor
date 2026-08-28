@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Zumárraga",
   "provincia": "Guipúzcoa",
-  "lat": 43.0833,
-  "lng": -2.3167
+  "lat": 43.0858662,
+  "lng": -2.31161646,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "PK 566+856",
  "linea": "Tolosa - Zumárraga",

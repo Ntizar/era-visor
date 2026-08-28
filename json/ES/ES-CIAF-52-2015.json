@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Río Huerva",
   "provincia": "Zaragoza",
-  "lat": 41.6333,
-  "lng": -0.9333
+  "lat": 41.6031049740354,
+  "lng": -0.8849042237539823,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 16+973",
  "linea": "214 La Cartuja a CIM de Zaragoza",

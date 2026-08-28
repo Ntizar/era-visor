@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre las estaciones de Teruel y Caparrates",
   "provincia": "Teruel",
-  "lat": 40.314626,
-  "lng": -1.014108
+  "lat": 40.3235311923121,
+  "lng": -1.0707939325828024,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 137+810",
  "linea": "610 Sagunto – Bif. Teruel",

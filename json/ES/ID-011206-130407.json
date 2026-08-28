@@ -33,5 +33,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Personas transitaron indebidamente por vía",
+  "Falta de cerramiento en zona rural",
+  "No se usaron pasos inferiores",
+  "Acceso indebido desde infraviviendas"
+ ],
+ "mitigaciones": [
+  "Aplicación de freno de emergencia",
+  "Señales acústicas con silbato",
+  "Construcción de pasarela peatonal",
+  "Vallado de la vía"
+ ],
+ "factores_humanos": [
+  "Imprudencia de las víctimas",
+  "Transitar por lugar indebido",
+  "No se realizó alcoholemia",
+  "No constan jornadas del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

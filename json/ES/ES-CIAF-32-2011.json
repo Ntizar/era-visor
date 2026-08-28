@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Siete Picos y Puerto de Navacerrada",
   "provincia": "Madrid",
-  "lat": 40.781549,
-  "lng": -4.0333834
+  "lat": 40.75964684326126,
+  "lng": -4.032788418702703,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 7+165",
  "linea": "116 Los Cotos a Cercedilla",

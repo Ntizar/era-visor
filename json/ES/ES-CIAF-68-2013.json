@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Zalla",
   "provincia": "Vizcaya",
-  "lat": 43.2167,
-  "lng": -3.1333
+  "lat": 43.20444529025,
+  "lng": -3.1705617591875,
+  "metodo_geo": "via_pk"
  },
  "pk": "2+057",
  "linea": "790 RAM La Asunción Universidad – Aranguren",

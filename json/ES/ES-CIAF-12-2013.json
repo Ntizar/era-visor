@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Unquera y Pesués",
   "provincia": "Cantabria",
-  "lat": 43.375262,
-  "lng": -4.508342
+  "lat": 43.370312088927875,
+  "lng": -4.480203352357377,
+  "metodo_geo": "via_pk"
  },
  "pk": "457+381",
  "linea": "770 Valdecilla - La Marga a Oviedo",

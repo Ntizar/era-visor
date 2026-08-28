@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Villarreal",
   "provincia": "Castellón",
-  "lat": 39.9367,
-  "lng": -0.1997
+  "lat": 39.90031161194068,
+  "lng": -0.10217351268855931,
+  "metodo_geo": "via_pk"
  },
  "pk": "62,095",
  "linea": "600 Valencia-San Vicente de Calders",

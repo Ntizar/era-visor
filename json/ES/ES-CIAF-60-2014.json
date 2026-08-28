@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Calañas",
   "provincia": "Huelva",
-  "lat": 37.65,
-  "lng": -6.8833
+  "lat": 37.64546225760649,
+  "lng": -6.877609507779459,
+  "metodo_geo": "via_pk"
  },
  "pk": "130+742",
  "linea": "512 Zafra – Huelva Cargas",

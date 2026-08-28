@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Cornellá",
   "provincia": "Barcelona",
-  "lat": 41.3566,
-  "lng": 2.0706
+  "lat": 41.35668652340606,
+  "lng": 2.0739372402666665,
+  "metodo_geo": "via_pk"
  },
  "pk": "92+898",
  "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",

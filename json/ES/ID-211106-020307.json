@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Tarragona",
   "pk": "77,930",
-  "linea": "Lérida-Tarragona"
+  "linea": "Lérida-Tarragona",
+  "lat": 41.8867058,
+  "lng": -0.29128504,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

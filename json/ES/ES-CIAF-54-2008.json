@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Moncófar",
   "provincia": "Castellón",
-  "lat": 39.8114,
-  "lng": -0.152
+  "lat": 39.79287923779661,
+  "lng": -0.18184550627796614,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 48,748",
  "linea": "600 Valencia Estación del Nord - San Vicente de Calders",

@@ -14,8 +14,9 @@
   "provincia": "Guipúzcoa",
   "pk": "581+060",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": 43.0473269,
-  "lng": -2.2032868
+  "lat": 43.04601475,
+  "lng": -2.2000157,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -30,5 +31,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima no usó paso inferior",
+  "cruzó por paso entre andenes",
+  "se apeó del tren parado",
+  "no percibió llegada del tren"
+ ],
+ "mitigaciones": [
+  "uso del paso inferior habría evitado",
+  "señalización de advertencia existente",
+  "maquinista usó silbato",
+  "aplicación de freno de urgencia"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "no percibió llegada del tren",
+  "no usó paso inferior",
+  "advertencia acompañante insuficiente"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true
 }

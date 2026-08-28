@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Túnel de Osina",
   "provincia": "Guipúzcoa",
-  "lat": 42.974839,
-  "lng": -2.313338
+  "lat": 42.956206659598365,
+  "lng": -2.304161344221311,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 551+790",
  "linea": "100 Madrid- Hendaya",

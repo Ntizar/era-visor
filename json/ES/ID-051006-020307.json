@@ -14,8 +14,9 @@
   "provincia": "Tarragona",
   "pk": "28,570",
   "linea": "Barcelona Sants-Sant Vicent de Calders",
-  "lat": 41.2199677,
-  "lng": 1.5348566
+  "lat": 41.21680588,
+  "lng": 1.53601482,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

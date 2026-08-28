@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre Ugao-Miraballes y Llodio",
   "provincia": "Álava",
-  "lat": 43.160985,
-  "lng": -2.929483
+  "lat": 43.1449981,
+  "lng": -2.94347071,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 230+862",
  "linea": "700 Intermodal Abando Indalecio Prieto-Casetas",

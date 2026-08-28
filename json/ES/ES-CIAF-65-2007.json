@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Abaroa",
   "provincia": "Madrid",
-  "lat": 42.85,
-  "lng": -1.7167
+  "lat": 43.225504003333334,
+  "lng": -2.88655127152381,
+  "metodo_geo": "via_pk"
  },
  "pk": "241,860",
  "linea": "700 Intermodal Abando Ind. Prieto-Casetas",

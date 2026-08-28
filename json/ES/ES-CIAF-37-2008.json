@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Segur de Calafell",
   "provincia": "Tarragona",
-  "lat": 41.1924633,
-  "lng": 1.6064509
+  "lat": 41.19273172222222,
+  "lng": 1.6099074135555551,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 624,800",
  "linea": "200 Madrid-Chamartín – Barcelona-Sants",

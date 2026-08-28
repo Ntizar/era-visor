@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Valencia Sant Isidre",
   "provincia": "Valencia",
-  "lat": 39.499144,
-  "lng": -0.653887
+  "lat": 39.45729398066412,
+  "lng": -0.4094864320687023,
+  "metodo_geo": "via_pk"
  },
  "pk": "84+565",
  "linea": "310 Aranjuez – Valencia Estació del Nord",

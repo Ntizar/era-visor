@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Zorrotza",
   "provincia": "Vizcaya",
-  "lat": 43.2833,
-  "lng": -2.95
+  "lat": 43.27776157,
+  "lng": -2.97210843,
+  "metodo_geo": "via_pk"
  },
  "pk": "5+348",
  "linea": "720 Intermodal Abando Indalecio Prieto-Santurtzi",

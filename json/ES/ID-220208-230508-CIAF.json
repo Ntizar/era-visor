@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Salbio",
   "provincia": "Álava",
   "pk": "218,654",
-  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto"
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 43.07149508672941,
+  "lng": -2.9995139348363637,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

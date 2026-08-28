@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "El Caleyo",
   "provincia": "Asturias",
-  "lat": 43.3667,
-  "lng": -5.85
+  "lat": 43.33063733530667,
+  "lng": -5.870666808533333,
+  "metodo_geo": "via_pk"
  },
  "pk": "134+961",
  "linea": "130 Gijón Cercanías – Venta de Baños",

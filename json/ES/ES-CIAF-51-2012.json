@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Villa del Río y Montoro",
   "provincia": "Córdoba",
-  "lat": 38.0167,
-  "lng": -4.3833
+  "lat": 37.992676461115536,
+  "lng": -4.351333623486056,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 393+525",
  "linea": "400 Alcázar de San Juan - Cádiz",

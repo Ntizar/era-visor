@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Sant Sadurní d’Anoia y Martorell",
   "provincia": "Barcelona",
-  "lat": 41.43242,
-  "lng": 1.838498
+  "lat": 41.4300182750602,
+  "lng": 1.8355977784194173,
+  "metodo_geo": "via_pk"
  },
  "pk": "64+073",
  "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",

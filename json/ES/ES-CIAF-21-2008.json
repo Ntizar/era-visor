@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre las estaciones de El Priorato y Lora del Río",
   "provincia": "Sevilla",
-  "lat": 37.657952,
-  "lng": -5.538682
+  "lat": 37.67429782448238,
+  "lng": -5.494827870253304,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 511,635",
  "linea": "400 Alcázar de San Juan-Cádiz",

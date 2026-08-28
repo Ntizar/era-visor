@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Aluche",
   "provincia": "Madrid",
-  "lat": 40.392356,
-  "lng": -3.75711
+  "lat": 40.38745397,
+  "lng": -3.7592189,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "P.K. 7+612",
  "linea": "L/920, Móstoles – El Soto Parla (Línea C-5 de Cercanías Madrid)",

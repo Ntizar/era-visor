@@ -13,7 +13,10 @@
   "estacion": "Noaín",
   "provincia": "Navarra",
   "pk": "165+409",
-  "linea": null
+  "linea": null,
+  "lat": 42.73064918,
+  "lng": -1.62859834,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif"
@@ -27,5 +30,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Barras acopiadas sin extremos asegurados",
+  "Probable manipulación indebida de barra",
+  "Falta de aseguramiento de extremos",
+  "No se detectó anomalía en inspecciones"
+ ],
+ "mitigaciones": [
+  "Asegurar extremos de barras acopiadas",
+  "Parada del tren en Pamplona",
+  "Inspección de locomotora en Pamplona",
+  "Aviso de circulación al maquinista"
+ ],
+ "factores_humanos": [
+  "Maquinista no percibió arrastre",
+  "Maquinista ignoró avería antibloqueo",
+  "Inspección no detectó barra",
+  "Falta de aseguramiento de barra"
+ ],
+ "meteorologia": [
+  "temperatura extrema"
+ ],
+ "enriquecido_v2": true
 }

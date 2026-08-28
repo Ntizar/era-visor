@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel clase A, entre Almagro y el apeadero de El Campillo",
   "provincia": "Ciudad Real",
-  "lat": 39.060744,
-  "lng": -3.598973
+  "lat": 38.99752289683037,
+  "lng": -3.6446067882495328,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 226,669",
  "linea": "522 Manzanares - Ciudad Real",

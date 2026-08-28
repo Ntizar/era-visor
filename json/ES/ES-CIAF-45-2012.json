@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Arévalo",
   "provincia": "Ávila",
-  "lat": 41.176095,
-  "lng": -4.790809
+  "lat": 41.038126919678575,
+  "lng": -4.6963910779999996,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 169+839 / PK 169+893",
  "linea": "100 Madrid - Hendaya",

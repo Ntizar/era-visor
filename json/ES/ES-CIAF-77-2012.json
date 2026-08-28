@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Lezama",
   "provincia": "Álava",
-  "lat": 43.0134,
-  "lng": -2.976472
+  "lat": 43.02440693460036,
+  "lng": -2.9820087451488333,
+  "metodo_geo": "via_pk"
  },
  "pk": "194+047",
  "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",

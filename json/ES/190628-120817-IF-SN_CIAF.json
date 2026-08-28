@@ -30,5 +30,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rearme tras reparación avería suministro",
+  "Modificación enclavamiento no conforme procedimiento",
+  "Deficiencias diseño circuitos mando aguja",
+  "Falta validación riesgo modificación"
+ ],
+ "mitigaciones": [
+  "Frenado emergencia por maquinista",
+  "Medidas complementarias en enclavamiento",
+  "Verificación diodos en revisiones",
+  "Consigna accionamiento agujas manivela"
+ ],
+ "factores_humanos": [
+  "No ejecución conforme procedimiento",
+  "Deficiencias diseño circuitos mando",
+  "Falta validación riesgo",
+  "Falta verificación post reparación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

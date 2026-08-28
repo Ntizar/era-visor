@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Arévalo",
   "provincia": "Ávila",
-  "lat": 41.176095,
-  "lng": -4.790809
+  "lat": 41.062653241348315,
+  "lng": -4.7076881214606745,
+  "metodo_geo": "via_pk"
  },
  "pk": "172+050",
  "linea": "100 Madrid Chamartín – Hendaya",

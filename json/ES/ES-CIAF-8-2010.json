@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Pinar de Las Rozas",
   "provincia": "Madrid",
-  "lat": 40.525,
-  "lng": -3.875
+  "lat": 40.51478497064,
+  "lng": -3.8778012144800003,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 20+658",
  "linea": "100 Madrid - Hendaya",

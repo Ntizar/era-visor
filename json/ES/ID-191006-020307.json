@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Burgos",
   "pk": "420,623",
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 42.57549614,
+  "lng": -3.30160407,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

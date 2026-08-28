@@ -31,5 +31,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "transitar indebidamente por la vía",
+  "caminar en sentido de la marcha",
+  "no percatarse de la llegada del tren",
+  "hacer caso omiso de señales acústicas"
+ ],
+ "mitigaciones": [
+  "uso del silbato de la locomotora",
+  "accionamiento del freno de emergencia",
+  "instalación de cerramientos de las líneas",
+  "campañas de sensibilización ciudadana"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "transitar de espaldas al tren",
+  "ignorar señales acústicas del maquinista",
+  "transitar por centro de la caja de vía"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

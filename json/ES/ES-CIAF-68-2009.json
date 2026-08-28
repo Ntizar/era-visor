@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Pedrera",
   "provincia": "Sevilla",
-  "lat": 37.219327,
-  "lng": -4.881576
+  "lat": 37.21903151277647,
+  "lng": -4.880863913423529,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 94+716",
  "linea": "422 Bif. Utrera- Puente de Piedra",

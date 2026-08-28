@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Vilanova i la Geltrú",
   "provincia": "Barcelona",
-  "lat": 41.2193,
-  "lng": 1.7286
+  "lat": 41.21993496,
+  "lng": 1.73090962,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "635+888",
  "linea": "Línea 200 de Madrid Chamartín a Barcelona Estación de Francia",

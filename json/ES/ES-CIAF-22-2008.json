@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "túnel entre las estaciones de Pitis y Pinar de las Rozas",
   "provincia": "Madrid",
-  "lat": 40.525,
-  "lng": -3.875
+  "lat": 40.512458866,
+  "lng": -3.875652692,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 20,100",
  "linea": "100 Madrid-Hendaya",

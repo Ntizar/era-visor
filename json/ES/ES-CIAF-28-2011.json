@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "línea Madrid Puerta de Atocha a Sevilla Santa Justa",
   "provincia": "Madrid",
-  "lat": 39.5,
-  "lng": -0.7167
+  "lat": 40.33222802735849,
+  "lng": -3.6515523886792454,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 11+100",
  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",

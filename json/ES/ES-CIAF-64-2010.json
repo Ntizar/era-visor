@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Fuentes de Oñoro",
   "provincia": "Salamanca",
-  "lat": 40.593246,
-  "lng": -6.829264
+  "lat": 40.59437168727412,
+  "lng": -6.828483117785304,
+  "metodo_geo": "via_pk"
  },
  "pk": "122+116",
  "linea": "120 Vilar Formoso – Medina del Campo",

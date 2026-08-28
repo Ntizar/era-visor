@@ -14,8 +14,9 @@
   "provincia": "Teruel",
   "pk": "131,700",
   "linea": "Caminreal-Sagunto",
-  "lat": 40.3436719,
-  "lng": -1.1081939
+  "lat": 40.34275013,
+  "lng": -1.1108045,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

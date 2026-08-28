@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Tembleque",
   "provincia": "Toledo",
-  "lat": 39.728055,
-  "lng": -3.500808
+  "lat": 39.366139258800004,
+  "lng": -0.41331044485714286,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 101,270",
  "linea": "300 Madrid Chamartín - Valencia Nord",

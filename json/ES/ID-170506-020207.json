@@ -13,7 +13,10 @@
   "estacion": "Lorca San Diego",
   "provincia": "Murcia",
   "pk": "0,385",
-  "linea": "Línea 322 Murcia Cargas-Águilas"
+  "linea": "Línea 322 Murcia Cargas-Águilas",
+  "lat": 37.61337533,
+  "lng": -0.96421996,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre Ribaforada y Tudela de Navarra",
   "provincia": "Navarra",
-  "lat": 42.054813,
-  "lng": -1.593009
+  "lat": 42.01218597561086,
+  "lng": -1.5442458039366516,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 70,200",
  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",

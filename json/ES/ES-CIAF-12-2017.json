@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel clase A",
   "provincia": "Toledo",
-  "lat": 39.97872,
-  "lng": -4.282803
+  "lat": 39.97594883929918,
+  "lng": -4.3471818329836065,
+  "metodo_geo": "via_pk"
  },
  "pk": "90+594",
  "linea": "500 Bifurcación Planetario a Valencia de Alcántara",

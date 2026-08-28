@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Santa María de la Alameda y Las Nava",
   "provincia": "Ávila",
-  "lat": 40.571143,
-  "lng": -4.292006
+  "lat": 40.57143213675962,
+  "lng": -4.290260526461539,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 73+885",
  "linea": "100 Madrid Chamartín - Hendaya",

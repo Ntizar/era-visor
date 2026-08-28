@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Apartadero de El Caleyo",
   "provincia": "Asturias",
-  "lat": 43.3667,
-  "lng": -5.85
+  "lat": 43.327534150906665,
+  "lng": -5.8750298113333335,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 134,396",
  "linea": "130 Venta de Baños - Gijón",

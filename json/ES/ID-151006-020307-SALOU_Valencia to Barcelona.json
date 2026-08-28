@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Tarragona",
   "pk": "262,561",
-  "linea": "Valencia-Tarragona"
+  "linea": "Valencia-Tarragona",
+  "lat": 42.17249001,
+  "lng": -4.06968939,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

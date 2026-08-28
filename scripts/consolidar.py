@@ -70,6 +70,16 @@ def main(codigo: str):
             "conclusiones": d.get("conclusiones") or [],
             "recomendaciones": d.get("recomendaciones") or [],
             "tags": d.get("tags") or [],
+            "subsistema": d.get("subsistema"),
+            "sistema_proteccion": d.get("sistema_proteccion"),
+            "tipo_red": d.get("tipo_red"),
+            "explotacion": d.get("explotacion"),
+            "precursores": d.get("precursores") or [],
+            "mitigaciones": d.get("mitigaciones") or [],
+            "factores_humanos": d.get("factores_humanos") or [],
+            "meteorologia": d.get("meteorologia") or [],
+            "circulation_type": d.get("circulation_type"),
+            "fase_ciclo_vida": d.get("fase_ciclo_vida"),
             "fuente": d.get("fuente") or "LLM",
         }
         if not rec["lat"]:

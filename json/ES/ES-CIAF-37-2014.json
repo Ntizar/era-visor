@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sant Vicenç de Calders",
   "provincia": "Tarragona",
-  "lat": 41.2,
-  "lng": 1.6
+  "lat": 41.19065286134838,
+  "lng": 1.5337823675290323,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 25+379",
  "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",

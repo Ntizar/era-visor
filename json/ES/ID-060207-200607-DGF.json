@@ -14,8 +14,9 @@
   "provincia": "Valencia",
   "pk": "106,066",
   "linea": "La Encina - Valencia",
-  "lat": 39.4033747,
-  "lng": -0.4028759
+  "lat": 39.40470959,
+  "lng": -0.39707631,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

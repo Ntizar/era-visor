@@ -35,5 +35,27 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "falta de descanso del maquinista",
+  "uso indebido velocidad prefijada",
+  "estado somnolencia conductor"
+ ],
+ "mitigaciones": [
+  "amortiguación impacto topera",
+  "señalización protección vía"
+ ],
+ "factores_humanos": [
+  "fatiga por falta sueño",
+  "inadecuada percepción riesgo",
+  "deficiencias trazabilidad turnos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

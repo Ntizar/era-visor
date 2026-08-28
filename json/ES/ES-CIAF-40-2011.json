@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Granollers - Centre",
   "provincia": "Barcelona",
-  "lat": 41.6002,
-  "lng": 2.2863
+  "lat": 41.59483256605714,
+  "lng": 2.2908313996571428,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 134+932",
  "linea": "270 Bifurcación Sagrera - Cerbere",

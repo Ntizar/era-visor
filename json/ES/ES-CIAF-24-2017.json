@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Puesto de Bloqueo y Adelantamiento (PBA) de Brazatortas",
   "provincia": "Ciudad Real",
-  "lat": 38.736152,
-  "lng": -4.085163
+  "lat": 38.66972348212781,
+  "lng": -4.270509638435233,
+  "metodo_geo": "via_pk"
  },
  "pk": "225+965",
  "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",

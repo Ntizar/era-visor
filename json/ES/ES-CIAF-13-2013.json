@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Maliaño",
   "provincia": "Cantabria",
-  "lat": 43.45,
-  "lng": -3.85
+  "lat": 43.422718064499996,
+  "lng": -3.838129452,
+  "metodo_geo": "via_pk"
  },
  "pk": "537+005",
  "linea": "780 Bilbao Concordia – Santander",

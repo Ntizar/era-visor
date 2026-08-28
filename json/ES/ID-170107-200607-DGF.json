@@ -13,7 +13,10 @@
   "estacion": "Sigüenza",
   "provincia": "Guadalajara",
   "pk": "139,840",
-  "linea": "Madrid-Barcelona"
+  "linea": "Madrid-Barcelona",
+  "lat": 39.94283508,
+  "lng": -4.88676355,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

@@ -31,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "peatones caminando junto a vía",
+  "ausencia de cerramiento entre carretera y vía",
+  "estacionamiento de coche junto a vía",
+  "invasión del gálibo de seguridad"
+ ],
+ "mitigaciones": [
+  "frenado de emergencia del tren",
+  "señales acústicas reiteradas por locomotora",
+  "velocidad inferior a máxima autorizada",
+  "reponer cerramiento entre carretera y vía"
+ ],
+ "factores_humanos": [
+  "imprudencia de las víctimas",
+  "tránsito no autorizado por vía",
+  "falta de cerramiento en zona semiurbana",
+  "necesidad de campañas de sensibilización"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

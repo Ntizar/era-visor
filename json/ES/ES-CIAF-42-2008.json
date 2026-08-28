@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Martorell",
   "provincia": "Barcelona",
-  "lat": 41.453898,
-  "lng": 1.9821
+  "lat": 41.47886781466667,
+  "lng": 1.9259291026666667,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 73,130",
  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat",

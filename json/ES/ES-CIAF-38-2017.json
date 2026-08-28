@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Puebla de Sanabria",
   "provincia": "Zamora",
-  "lat": 42.0667,
-  "lng": -6.6333
+  "lat": 42.04540691,
+  "lng": -6.62688047,
+  "metodo_geo": "via_pk"
  },
  "pk": "106+871",
  "linea": "822 Zamora - A Coruña",

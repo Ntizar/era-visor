@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Plasencia de Jalón",
   "provincia": "Zaragoza",
-  "lat": 41.6870286,
-  "lng": -1.2643871
+  "lat": 41.69633147,
+  "lng": -1.22812208,
+  "metodo_geo": "via_pk"
  },
  "pk": "276+705",
  "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón",

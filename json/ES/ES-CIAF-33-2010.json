@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación Móstoles – El Soto",
   "provincia": "Madrid",
-  "lat": 40.3228,
-  "lng": -3.8649
+  "lat": 40.252760258978256,
+  "lng": -3.7413625401521737,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 20+655",
  "linea": "920 Móstoles-El Soto - Parla",

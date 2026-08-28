@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre las estaciones de Vitoria y Alegría de Álava",
   "provincia": "Álava",
-  "lat": 42.841973,
-  "lng": -2.678634
+  "lat": 42.84119566794792,
+  "lng": -2.6567569552916668,
+  "metodo_geo": "via_pk"
  },
  "pk": "494+315",
  "linea": "100 Hendaya - Madrid",

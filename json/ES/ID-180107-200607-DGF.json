@@ -13,7 +13,10 @@
   "estacion": "Sant Feliu de Llobregat",
   "provincia": "Barcelona",
   "pk": "88,906",
-  "linea": "Línea 240 Tarragona-Barcelona-Francia"
+  "linea": "Línea 240 Tarragona-Barcelona-Francia",
+  "lat": 42.07428804,
+  "lng": 2.2449246,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

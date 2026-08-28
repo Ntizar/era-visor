@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "línea 200 Madrid-Barcelona",
   "provincia": "Zaragoza",
-  "lat": 41.691585,
-  "lng": -0.910127
+  "lat": 41.2961878732141,
+  "lng": -1.9675598602821158,
+  "metodo_geo": "via_pk"
  },
  "pk": "214,220",
  "linea": "200 Madrid-Barcelona",

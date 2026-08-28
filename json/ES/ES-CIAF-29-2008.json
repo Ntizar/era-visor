@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Medina del Campo",
   "provincia": "Valladolid",
-  "lat": 41.3083,
-  "lng": -4.8333
+  "lat": 41.31735236,
+  "lng": -4.91007411,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 206,300",
  "linea": "100 Madrid-Hendaya",

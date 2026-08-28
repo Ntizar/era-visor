@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Figueres",
   "provincia": "Gerona",
-  "lat": 42.2637,
-  "lng": 2.9492
+  "lat": 42.26509273,
+  "lng": 2.96897025,
+  "metodo_geo": "via_pk"
  },
  "pk": "247+215",
  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",

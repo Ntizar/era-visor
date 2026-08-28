@@ -30,5 +30,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tren precedente rebasa señal avanzada",
+  "Baliza transmite información ajena",
+  "Maquinista interpreta baliza como propia",
+  "Baja visibilidad por curva y túnel"
+ ],
+ "mitigaciones": [
+  "Frenado de emergencia ASFA activado",
+  "Cambio señales avanzadas a absolutas",
+  "Formación adicional al maquinista",
+  "Seguimiento mediante acompañamientos cabina"
+ ],
+ "factores_humanos": [
+  "Error interpretación baliza previa",
+  "Confusión con tren precedente",
+  "No adecuar marcha a la vista",
+  "Percepción errónea de la señalización"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

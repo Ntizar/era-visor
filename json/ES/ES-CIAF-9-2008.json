@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sant Feliú de Llobregat",
   "provincia": "Barcelona",
-  "lat": 41.3843,
-  "lng": 2.0441
+  "lat": 41.38696604629091,
+  "lng": 2.043226305521212,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 88,906",
  "linea": "240 Barcelona - San Vicente de Calders",

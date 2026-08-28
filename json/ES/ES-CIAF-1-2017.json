@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": ", en el trayecto Nanclares-Manzanos",
   "provincia": "Álava",
-  "lat": 42.819691,
-  "lng": -2.789826
+  "lat": 42.794301148286245,
+  "lng": -2.8243868908754646,
+  "metodo_geo": "via_pk"
  },
  "pk": "477+265",
  "linea": "100 Hendaya-Madrid Chamartín",

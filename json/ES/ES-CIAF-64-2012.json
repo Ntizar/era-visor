@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones Villanueva de Gállego y Zuera",
   "provincia": "Huesca",
-  "lat": 41.905363,
-  "lng": -0.749098
+  "lat": 41.18857889159292,
+  "lng": 1.4000861411504426,
+  "metodo_geo": "via_pk"
  },
  "pk": "25+100",
  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",

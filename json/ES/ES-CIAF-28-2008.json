@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Miranda de Ebro",
   "provincia": "Burgos",
-  "lat": 42.6858,
-  "lng": -2.9464
+  "lat": 42.688971765,
+  "lng": -2.948283985,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 146,950",
  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",

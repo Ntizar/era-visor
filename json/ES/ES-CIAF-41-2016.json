@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de O Porriño",
   "provincia": "Pontevedra",
-  "lat": 42.075004,
-  "lng": -8.423906
+  "lat": 42.171318917025,
+  "lng": -8.620991556616667,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 151+911",
  "linea": "810 Bifurcación Chapela – Monforte de Lemos",

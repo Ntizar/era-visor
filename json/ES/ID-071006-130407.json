@@ -14,8 +14,9 @@
   "provincia": "Barcelona",
   "pk": "93,900",
   "linea": "Línea 240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
-  "lat": null,
-  "lng": null
+  "lat": 42.10901436,
+  "lng": 2.214335,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

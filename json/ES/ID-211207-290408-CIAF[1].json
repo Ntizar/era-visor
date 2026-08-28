@@ -13,7 +13,10 @@
   "estacion": "Salou",
   "provincia": "Tarragona",
   "pk": "263,600",
-  "linea": "600 Valencia-San Vicente Calders"
+  "linea": "600 Valencia-San Vicente Calders",
+  "lat": 42.17868286,
+  "lng": -4.06086573,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

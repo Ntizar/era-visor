@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "P.K. 137",
   "provincia": "Jaén",
-  "lat": 37.965894,
-  "lng": -3.783939
+  "lat": 37.81528671669062,
+  "lng": -3.77744099924375,
+  "metodo_geo": "via_pk"
  },
  "pk": "137+803",
  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",

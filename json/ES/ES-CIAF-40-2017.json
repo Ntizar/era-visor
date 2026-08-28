@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Lleida-Pirineus",
   "provincia": "Lleida",
-  "lat": 40.481912,
-  "lng": -3.677735
+  "lat": 41.6153240438069,
+  "lng": 0.6419730428827586,
+  "metodo_geo": "via_pk"
  },
  "pk": "p.k. 1+144",
  "linea": "200 Madrid Chamartín-Barcelona Estación de Francia",

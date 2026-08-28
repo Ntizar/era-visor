@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Túnel de Venta La Inés",
   "provincia": "Ciudad Real",
-  "lat": 38.383525,
-  "lng": -4.478294
+  "lat": 38.5672128452228,
+  "lng": -4.428460578863557,
+  "metodo_geo": "via_pk"
  },
  "pk": "245+885",
  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa",

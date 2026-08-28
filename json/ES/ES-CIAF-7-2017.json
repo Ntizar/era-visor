@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Arahal",
   "provincia": "Sevilla",
-  "lat": 37.2667,
-  "lng": -5.55
+  "lat": 37.26823307,
+  "lng": -5.54850487,
+  "metodo_geo": "via_pk"
  },
  "pk": "27+019",
  "linea": "422 Bifurcación de Utrera a Fuente de Piedra",

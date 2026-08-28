@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre Torremejía y Almendralejo",
   "provincia": "Badajoz",
-  "lat": 38.922486,
-  "lng": -6.353023
+  "lat": 38.73133215121473,
+  "lng": -6.388539789123312,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 25+564",
  "linea": "516 Mérida - Los Rosales",

@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Valencia",
   "pk": "28,363",
-  "linea": "Silla-Gandía"
+  "linea": "Silla-Gandía",
+  "lat": 41.78044188,
+  "lng": -1.15269505,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

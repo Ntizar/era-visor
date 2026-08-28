@@ -13,7 +13,10 @@
   "estacion": "San Cristóbal Industrial",
   "provincia": "Madrid",
   "pk": "9,900",
-  "linea": "Línea 300 Madrid Atocha-Valencia Nord"
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "lat": 40.44683235,
+  "lng": -3.60163633,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

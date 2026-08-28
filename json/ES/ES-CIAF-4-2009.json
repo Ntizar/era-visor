@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre Tordera y Blanes",
   "provincia": "Barcelona",
-  "lat": 41.744429,
-  "lng": 2.69368
+  "lat": 41.56175477198107,
+  "lng": 2.5105977792260776,
+  "metodo_geo": "via_pk"
  },
  "pk": "64+810",
  "linea": "276 Barcelona Sagrera a Macanet-Massanes",

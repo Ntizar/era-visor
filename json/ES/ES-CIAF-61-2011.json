@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Madrid Chamartín",
   "provincia": "Madrid",
-  "lat": 40.4726,
-  "lng": -3.6825
+  "lat": 40.40811320544304,
+  "lng": -3.6911398545569623,
+  "metodo_geo": "via_pk"
  },
  "pk": "0+482",
  "linea": "900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "O Porriño",
   "provincia": "Pontevedra",
-  "lat": 42.075004,
-  "lng": -8.423906
+  "lat": 42.16880137959921,
+  "lng": -8.621816170544047,
+  "metodo_geo": "via_pk"
  },
  "pk": "151+433",
  "linea": "810 Monforte de Lemos- Vigo",

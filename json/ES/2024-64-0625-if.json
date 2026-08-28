@@ -50,5 +50,30 @@
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causal factors:\n1. Misinterpretation by the driver of the message transmitted by signal S1/5, which caused a SPAD. (See Recommendations 1, 2, 3, 5 and 7)\n2. Authorization to resume train movement issued by the signaller at the CRC, due to failure to recognize that the SPAD had occurred. (See Recommendations 1, 2, 3 and 4)",
   "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors:\n1. Driver’s previous experience with TRIP mode activations at other points on the network. (See Recommendations 1 and 7)\n2. Shift change at the CRC. (See Recommendation 4)\n3. Failure by the driver to verify the signal aspect. (See Recommendations 1 and 7)\n4. Driver’s divided attention due to training personnel entering the cab. (See Recommendation 1)\nSystemic factors:\n1. Similarity between signal aspects FF7C and FF7D. (See Recommendation 3)\n2. Requirement for different driver actions in response to aspect FF7C within the same service, depending on the ERTMS level under which the train is operating. (See Recommendation 2)\n3. Attention required by the driver for release speed control. (See Recommendation 1)\n4. Existing track equipment with ERTMS Level 2, not operational on this section. (See Recommendation 2)\n5. Driver’s expectation of receiving the Movement Order (Exit Signal). (See Recommendations 2 and 3)"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ERTMS",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Maquinista no verifica aspecto señal",
+  "Personal formación entra cabina",
+  "Cambio turno centro regulación",
+  "Señal FF7C malinterpretada por conductor"
+ ],
+ "mitigaciones": [
+  "Modo TRIP detiene tren automáticamente",
+  "Programación modo ASFA en CRC",
+  "Protocolos comunicación RC-maquinista"
+ ],
+ "factores_humanos": [
+  "Atención dividida del maquinista",
+  "Expectativa incorrecta de autorización",
+  "Fallo reconocimiento SPAD por RC",
+  "Similitud aspectos señales ERTMS"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

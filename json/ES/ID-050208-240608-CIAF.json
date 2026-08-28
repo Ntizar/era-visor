@@ -14,8 +14,9 @@
   "provincia": "Madrid",
   "pk": "13+100",
   "linea": "300 Madrid-Valencia",
-  "lat": 40.416782,
-  "lng": -3.703507
+  "lat": 40.31764595196262,
+  "lng": -3.709557977196262,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Boñar",
   "provincia": "León",
-  "lat": 43.201436,
-  "lng": -3.169331
+  "lat": 42.862921162623834,
+  "lng": -5.328906728704663,
+  "metodo_geo": "via_pk"
  },
  "pk": "pk 30+184",
  "linea": "790 La Asunción Universidad-Aranguren (RAM)",

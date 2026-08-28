@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Vila-real",
   "provincia": "Castellón",
-  "lat": 39.9372616,
-  "lng": -0.1004465
+  "lat": 39.90639986778305,
+  "lng": -0.10232131195677965,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 62+902",
  "linea": "600 Valencia – San Vicente de Calders",

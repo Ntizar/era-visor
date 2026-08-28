@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel clase C, en la población de Monforte de Lemos, carretera de Monforte a Neiras",
   "provincia": "Lugo",
-  "lat": 42.525181,
-  "lng": -7.504582
+  "lat": 42.51204623995035,
+  "lng": -7.520432731904256,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 2,455",
  "linea": "810 Vigo - Monforte de Lemos",

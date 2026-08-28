@@ -13,7 +13,10 @@
   "estacion": "Montcada i Reixach-Santa María",
   "provincia": "Barcelona",
   "pk": "353,200",
-  "linea": "Línea 220 Lérida-Barcelona"
+  "linea": "Línea 220 Lérida-Barcelona",
+  "lat": 41.48112048,
+  "lng": 2.16554242,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe",

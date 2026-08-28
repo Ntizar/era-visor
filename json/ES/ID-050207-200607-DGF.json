@@ -14,8 +14,9 @@
   "provincia": "León",
   "pk": "157,671",
   "linea": "800 León-La Coruña SD",
-  "lat": 42.4334754,
-  "lng": -5.8875112
+  "lat": 42.4233559270358,
+  "lng": -5.905043495126491,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -31,5 +32,27 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Imprudencia de la víctima al cruzar",
+  "Ignorancia de señales acústicas y visuales",
+  "Señalización vial incompleta en carretera"
+ ],
+ "mitigaciones": [
+  "Aplicación urgente freno emergencia",
+  "Uso reiterado silbato locomotora",
+  "Semibarreras bajadas correctamente"
+ ],
+ "factores_humanos": [
+  "Conducta imprudente peatón",
+  "No respeto señalización paso nivel"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

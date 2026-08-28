@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "El Rebollar",
   "provincia": "Valencia",
-  "lat": 40.033064,
-  "lng": -3.618547
+  "lat": 39.468301483913045,
+  "lng": -0.9959805450434782,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 22+600",
  "linea": "310 Aranjuez/Valencia- Estación del Nord",

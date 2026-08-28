@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sama de Langreo",
   "provincia": "Asturias",
-  "lat": 43.2833,
-  "lng": -5.7667
+  "lat": 43.30095721006198,
+  "lng": -5.689778543363636,
+  "metodo_geo": "via_pk"
  },
  "pk": "18+055",
  "linea": "140 Bif. Tudela Veguín – El Entrego",

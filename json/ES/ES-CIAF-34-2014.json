@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre Chinchilla y Bonete",
   "provincia": "Albacete",
-  "lat": 36.4961371,
-  "lng": -4.9442104
+  "lat": 38.91245941152624,
+  "lng": -1.4109164996063535,
+  "metodo_geo": "via_pk"
  },
  "pk": "368+925",
  "linea": "042 Bif. Albacete a Alicante",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "entre las estaciones de Villaluenga-Yuncler y Villamiel de Toledo",
   "provincia": "Toledo",
-  "lat": 39.97872,
-  "lng": -4.282803
+  "lat": 39.95964291815126,
+  "lng": -4.089643018302521,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 66+480",
  "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",

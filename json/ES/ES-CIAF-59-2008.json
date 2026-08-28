@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Tudela de Navarra",
   "provincia": "Navarra",
-  "lat": 42.0615,
-  "lng": -1.6065
+  "lat": 42.05719770658371,
+  "lng": -1.5952802681447964,
+  "metodo_geo": "via_pk"
  },
  "pk": "77+050",
  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",

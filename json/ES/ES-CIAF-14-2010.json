@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Dueñas",
   "provincia": "Palencia",
-  "lat": 41.873733,
-  "lng": -4.540391
+  "lat": 41.8758948853617,
+  "lng": -4.540395140042553,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 278+952",
  "linea": "100 Madrid Chamartín – Hendaya",

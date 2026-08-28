@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Barcelona Estació de França",
   "provincia": "Barcelona",
-  "lat": 41.4309797,
-  "lng": 2.1831056
+  "lat": 41.384376222526924,
+  "lng": 2.189663434707692,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 684+991",
  "linea": "200 Madrid Chamartín – Barcelona Estació de França",

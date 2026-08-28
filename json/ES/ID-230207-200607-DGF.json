@@ -13,7 +13,10 @@
   "estacion": "Madrid-Atocha",
   "provincia": "Madrid",
   "pk": "0,619",
-  "linea": "Línea 920 Móstoles El Soto-Parla"
+  "linea": "Línea 920 Móstoles El Soto-Parla",
+  "lat": 40.4094837,
+  "lng": -3.69318758,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

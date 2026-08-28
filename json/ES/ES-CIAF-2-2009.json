@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Avilés",
   "provincia": "Asturias",
-  "lat": 43.559101,
-  "lng": -5.92129
+  "lat": 43.54980952452,
+  "lng": -5.91393910612,
+  "metodo_geo": "via_pk"
  },
  "pk": "16+863",
  "linea": "144 San Juan de Nieva – Villabona (Oviedo)",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "P.K. 8+579",
   "provincia": "Sevilla",
-  "lat": 37.197555,
-  "lng": -5.753074
+  "lat": 37.20371507380784,
+  "lng": -5.726908902066667,
+  "metodo_geo": "via_pk"
  },
  "pk": "8+579",
  "linea": "422 Bif. Utrera a Fuente de Piedra",

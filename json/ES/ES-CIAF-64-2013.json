@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Barcelona Sants",
   "provincia": "Barcelona",
-  "lat": 41.3725,
-  "lng": 2.1404
+  "lat": 41.37834802,
+  "lng": 2.13930895,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "678+098",
  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",

@@ -13,7 +13,10 @@
   "estacion": "Segur de Calafell",
   "provincia": "Barcelona",
   "pk": "625,120",
-  "linea": "Madrid-Barcelona"
+  "linea": "Madrid-Barcelona",
+  "lat": 41.40307374,
+  "lng": 2.17486274,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

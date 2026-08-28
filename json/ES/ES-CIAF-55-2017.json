@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": ", entre El Sorbito y Arahal",
   "provincia": "Sevilla",
-  "lat": 37.226577,
-  "lng": -5.598049
+  "lat": 37.225595938750004,
+  "lng": -5.601650283541667,
+  "metodo_geo": "via_pk"
  },
  "pk": "20+350",
  "linea": "422 Bif. Utrera a Fuente de la Piedra",

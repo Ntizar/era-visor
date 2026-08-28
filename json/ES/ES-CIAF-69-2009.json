@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Estación de Fuenmayor",
   "provincia": "La Rioja",
-  "lat": 42.475,
-  "lng": -2.562
+  "lat": 42.479740495617015,
+  "lng": -2.5868551547659573,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 92+020",
  "linea": "700 Intermodal Abando Indalecio Prieto – Casetas",

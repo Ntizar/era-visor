@@ -13,7 +13,10 @@
   "estacion": "Unquera - Colombres",
   "provincia": "Asturias",
   "pk": "451+557",
-  "linea": "RAM 770 Santander - Oviedo"
+  "linea": "RAM 770 Santander - Oviedo",
+  "lat": 43.38296419,
+  "lng": -4.55275167,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Mercancías",
@@ -28,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Drenaje de cuneta no eficaz",
+  "Contaminación del balasto",
+  "Mantenimiento no paliaba defectos plataforma",
+  "No se suprimió la LTV"
+ ],
+ "mitigaciones": [
+  "Limitación temporal de velocidad",
+  "Arenado automático por patinaje",
+  "Freno neumático automático",
+  "Freno de emergencia automático"
+ ],
+ "factores_humanos": [
+  "Aplicación de tracción en LTV",
+  "Velocidad superior a LTV",
+  "Mantenimiento insuficiente de plataforma",
+  "Desconexión de ASFA por maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

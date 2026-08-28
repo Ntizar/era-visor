@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Orbita - Espinosa",
   "provincia": "Ávila",
-  "lat": 41.176095,
-  "lng": -4.790809
+  "lat": 41.007327971811506,
+  "lng": -4.666131580242063,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 164+429",
  "linea": "100 Madrid – Hendaya",

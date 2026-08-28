@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Ponferrada",
   "provincia": "León",
-  "lat": 42.547151,
-  "lng": -6.661421
+  "lat": 42.54562458,
+  "lng": -6.60202612,
+  "metodo_geo": "via_pk"
  },
  "pk": "250+950",
  "linea": "800 A Coruña - León",

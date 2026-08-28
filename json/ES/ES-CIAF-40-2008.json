@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sant Celoni",
   "provincia": "Barcelona",
-  "lat": 41.6936,
-  "lng": 2.494
+  "lat": 41.68566442,
+  "lng": 2.49087141,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 156,9",
  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",

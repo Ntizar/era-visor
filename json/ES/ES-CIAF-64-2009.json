@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Granollers Centre",
   "provincia": "Barcelona",
-  "lat": 41.6002,
-  "lng": 2.2863
+  "lat": 41.612131136262384,
+  "lng": 2.293611356495413,
+  "metodo_geo": "via_pk"
  },
  "pk": "136+551",
  "linea": "270 Cerbère – Barcelona Sant Andreu Comtal",

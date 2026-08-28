@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Madrid Chamartín",
   "provincia": "Madrid",
-  "lat": 40.713736,
-  "lng": -3.794579
+  "lat": 40.48619674832941,
+  "lng": -3.6768305280235296,
+  "metodo_geo": "via_pk"
  },
  "pk": "1+026",
  "linea": "102 Bifurcación Aranda a Madrid Chamartín",

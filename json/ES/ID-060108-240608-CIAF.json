@@ -14,8 +14,9 @@
   "provincia": "Madrid",
   "pk": "20,100",
   "linea": "100 Madrid-Hendaya",
-  "lat": null,
-  "lng": null
+  "lat": 40.512458866,
+  "lng": -3.875652692,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

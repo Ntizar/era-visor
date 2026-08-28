@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "túnel no 6 “el Caracol”",
   "provincia": "Huesca",
-  "lat": 42.7533689,
-  "lng": -0.4796771
+  "lat": 42.65602929923077,
+  "lng": -0.5473721958591093,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 11+758",
  "linea": "204 Bif. Canfranc - Canfranc",

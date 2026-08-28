@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Maçanet-Massanes",
   "provincia": "Gerona",
-  "lat": 41.7774422,
-  "lng": 2.7309252
+  "lat": 41.77166902,
+  "lng": 2.67314515,
+  "metodo_geo": "via_pk"
  },
  "pk": "176+126",
  "linea": "270 Barcelona San Andrés Condal a Cerbere",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Las Navas del Marqués",
   "provincia": "Ávila",
-  "lat": 40.6,
-  "lng": -4.3333
+  "lat": 40.58797353403846,
+  "lng": -4.351164275384615,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 83,700",
  "linea": "100 Madrid - Hendaya",

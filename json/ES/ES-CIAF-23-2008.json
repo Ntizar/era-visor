@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de San Cristóbal Industrial y Getafe In",
   "provincia": "Madrid",
-  "lat": 40.3028,
-  "lng": -3.7248
+  "lat": 40.31764595196262,
+  "lng": -3.709557977196262,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 13+100",
  "linea": "300 Madrid-Valencia",

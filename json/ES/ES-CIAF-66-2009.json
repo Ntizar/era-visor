@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Sant Guim de Freixenet",
   "provincia": "Lérida",
-  "lat": 41.657569,
-  "lng": 1.420806
+  "lat": 41.65476707246403,
+  "lng": 1.4187411067985614,
+  "metodo_geo": "via_pk"
  },
  "pk": "253+775",
  "linea": "220 Lérida Pirineos – L’Hospitalet de Llobregat",

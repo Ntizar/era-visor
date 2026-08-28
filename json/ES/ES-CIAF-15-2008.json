@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Hernani Centro",
   "provincia": "Guipúzcoa",
-  "lat": 43.274996,
-  "lng": -1.958403
+  "lat": 43.26670625115544,
+  "lng": -1.9725681128860104,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 615,049",
  "linea": "100 Madrid-Hendaya",

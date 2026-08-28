@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "cambio no 6 de la Bifurcación Arcade",
   "provincia": "Pontevedra",
-  "lat": 42.526345,
-  "lng": -8.64841
+  "lat": 42.33946187,
+  "lng": -8.61042967,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 17+896",
  "linea": "824 Redondela de Galicia a Santiago de Compostela",

@@ -13,7 +13,10 @@
   "estacion": "Villena",
   "provincia": "Alicante",
   "pk": "394,075",
-  "linea": "La Encina-Alicante"
+  "linea": "La Encina-Alicante",
+  "lat": 38.64777251,
+  "lng": -0.87813764,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

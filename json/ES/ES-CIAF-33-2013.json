@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Anoeta",
   "provincia": "Guipúzcoa",
-  "lat": 43.158095,
-  "lng": -2.06841
+  "lat": 43.16490078243523,
+  "lng": -2.071708556787565,
+  "metodo_geo": "via_pk"
  },
  "pk": "600+200",
  "linea": "100 Hendaya – Madrid-Chamartín",

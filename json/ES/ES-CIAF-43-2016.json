@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": ", Canto del Estillero",
   "provincia": "Asturias",
-  "lat": 43.062391,
-  "lng": -5.738947
+  "lat": 43.019680980879386,
+  "lng": -5.768924170916861,
+  "metodo_geo": "via_pk"
  },
  "pk": "59+505",
  "linea": "130 Gijón Sanz Crespo-Venta de Baños",

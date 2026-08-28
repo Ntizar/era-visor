@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel de la estación Santa María de Huerta",
   "provincia": "Soria",
-  "lat": 41.263109,
-  "lng": -2.176422
+  "lat": 41.262355513996035,
+  "lng": -2.1796480465782175,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 191,876",
  "linea": "200 Madrid Chamartín - Barcelona Sants",

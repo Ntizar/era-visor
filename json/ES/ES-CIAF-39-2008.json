@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Nord",
   "provincia": "Albacete",
-  "lat": 39.281299,
-  "lng": -2.74434
+  "lat": 39.264674339038464,
+  "lng": -2.6196749921153843,
+  "metodo_geo": "via_pk"
  },
  "pk": "202,400",
  "linea": "300 Madrid-Chamartín Valencia–Estación de Nord",

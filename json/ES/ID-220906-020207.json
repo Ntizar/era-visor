@@ -13,7 +13,10 @@
   "estacion": "Meirama",
   "provincia": "La Coruña",
   "pk": "430,433",
-  "linea": "Zamora-La Coruña"
+  "linea": "Zamora-La Coruña",
+  "lat": 41.21244242,
+  "lng": -0.28963806,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

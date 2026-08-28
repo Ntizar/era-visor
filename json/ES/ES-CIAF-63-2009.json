@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Renedo",
   "provincia": "Cantabria",
-  "lat": 43.372215,
-  "lng": -3.902858
+  "lat": 43.35314468,
+  "lng": -3.94951772,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 495+043",
  "linea": "160 Santander - Palencia",

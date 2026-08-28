@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Grijota",
   "provincia": "Palencia",
   "pk": "5,800",
-  "linea": "Línea 130 Venta de Baños-Gijón Cercanías"
+  "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+  "lat": 43.20389671,
+  "lng": -3.16290411,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",

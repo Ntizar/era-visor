@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Santiago de Compostela",
   "provincia": "A Coruña",
-  "lat": 42.612225,
-  "lng": -8.121798
+  "lat": 42.84053987132013,
+  "lng": -8.477345828877182,
+  "metodo_geo": "via_pk"
  },
  "pk": "84+413",
  "linea": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",

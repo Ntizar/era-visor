@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "plena vía",
   "provincia": "Pontevedra",
-  "lat": 42.075004,
-  "lng": -8.423906
+  "lat": 42.28196707101587,
+  "lng": -8.613707896460317,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 165,160",
  "linea": "810 Monforte de Lemos-Vigo",

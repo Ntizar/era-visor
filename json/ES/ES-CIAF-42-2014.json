@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Apartadero de Pancorbo",
   "provincia": "Burgos",
-  "lat": 42.624103,
-  "lng": -3.169457
+  "lat": 42.62320843716124,
+  "lng": -3.1273992203030834,
+  "metodo_geo": "via_pk"
  },
  "pk": "437+301",
  "linea": "100 Madrid Chamartín - Hendaya",

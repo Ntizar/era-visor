@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Getafe Industrial",
   "provincia": "Madrid",
-  "lat": 40.3028,
-  "lng": -3.7248
+  "lat": 40.31235153945794,
+  "lng": -3.7086026837943926,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 13+860",
  "linea": "300 Madrid – Valencia",

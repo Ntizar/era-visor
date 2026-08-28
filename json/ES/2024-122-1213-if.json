@@ -47,5 +47,31 @@
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causal factors:\n1. The ineffective immobilization of the wagon rake parked on track 9 of the León Classification marshalling yard, which triggered an uncontrolled drift of the material.",
   "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors:\n1. The lack of anti-drift chocks when cutting parked material.\n2. The loss of effectiveness of the automatic brake due to air loss in the brake circuit over time. See Recommendation 122/2024-1.\n3. The ineffectiveness of the parking brake applied to cutting material by the Traffic Assistant. See Recommendation 122/2024-2.\n4. The existence of slopes at the León Classification station.\nSystemic factors:  \n1. The lack of availability of anti-drift chocks at marshalling yards, due to repeated thefts and the absence of an effective replacement system. See Recommendation 122/2024-1.\n2. The requirement, in operating protocols, to apply only one parking brake in certain cases, without establishing backup measures for possible failures, incorrect application, or damage to the parked material. See Recommendation 122/2024-2."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Inmovilización no efectiva del corte",
+  "Falta de calzos antideriva",
+  "Fuga de aire en circuito de freno",
+  "Aplicación ineficaz del freno de mano"
+ ],
+ "mitigaciones": [
+  "Aplicar tres frenos de mano",
+  "Disponer de calzos antideriva",
+  "Verificar correctamente el freno",
+  "Reponer calzos tras sustracciones"
+ ],
+ "factores_humanos": [
+  "Aplicación ineficaz del freno",
+  "Protocolo permite un solo freno",
+  "Falta de formación operativa",
+  "Sustracción de calzos recurrente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

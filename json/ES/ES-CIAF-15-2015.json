@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Aboño",
   "provincia": "Asturias",
-  "lat": 43.5833,
-  "lng": -5.75
+  "lat": 43.5067803125,
+  "lng": -5.77161551075,
+  "metodo_geo": "via_pk"
  },
  "pk": "0+943",
  "linea": "150 Aboño a Serín",

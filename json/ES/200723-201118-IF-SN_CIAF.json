@@ -31,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No inspección muro mampostería",
+  "No mantenimiento terreno adyacente",
+  "No limpieza rejilla cuneta",
+  "No respuesta escorrentía constatada"
+ ],
+ "mitigaciones": [
+  "Inspección periódica muro talud",
+  "Mantenimiento drenaje carretera",
+  "Revisión ficha temporales lluvia",
+  "Vigilancia terreno adyacente vía"
+ ],
+ "factores_humanos": [
+  "No aplicación ley sector",
+  "Ficha lluvia insuficiente",
+  "Procedimientos mantenimiento inadecuados",
+  "Falta respuesta hechos constatados"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

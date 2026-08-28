@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Majarabique",
   "provincia": "Sevilla",
-  "lat": 37.413301,
-  "lng": -5.955673
+  "lat": 37.41670486,
+  "lng": -5.9531407,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 568+250",
  "linea": "400 Alcázar de San Juan – Cádiz",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Unquera (Cantabria) y el apeadero de Colombres",
   "provincia": "Asturias",
-  "lat": 43.384025,
-  "lng": -4.546685
+  "lat": 43.38413818743429,
+  "lng": -4.543689416432653,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 451+557",
  "linea": "770 RAM Santander - Oviedo",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "A Susana",
   "provincia": "A Coruña",
-  "lat": 42.869461,
-  "lng": -8.54712
+  "lat": 42.82839237061759,
+  "lng": -8.480090154078392,
+  "metodo_geo": "via_pk"
  },
  "pk": "p.k. 366+849",
  "linea": "822 Zamora-A Coruña",

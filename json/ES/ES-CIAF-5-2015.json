@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Barcelona Marina",
   "provincia": "Barcelona",
-  "lat": 41.3923,
-  "lng": 2.1948
+  "lat": 41.39458704,
+  "lng": 2.18448644,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "364+859",
  "linea": "266 Bif. Glorias – Bif. Vilanova",

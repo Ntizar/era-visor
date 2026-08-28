@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Alfafar-Benetússer",
   "provincia": "Valencia",
-  "lat": 39.4211,
-  "lng": -0.3556
+  "lat": 39.42453858435429,
+  "lng": -0.39193452693714287,
+  "metodo_geo": "via_pk"
  },
  "pk": "107+996",
  "linea": "300 Madrid (Chamartín)- Valencia (estación del Nord)",
