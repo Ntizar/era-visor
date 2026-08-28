@@ -41,7 +41,7 @@ def descargar(codigo: str):
                 break
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    pausa = 30 * (intento + 1)
+                    pausa = 120 * (intento + 1)
                     print(f"  ⏳ 429 en {nombre[:50]} — espero {pausa}s (intento {intento + 1}/4)")
                     time.sleep(pausa)
                 else:
@@ -57,7 +57,7 @@ def descargar(codigo: str):
                 print(f"  [{codigo}] {ok}/{len(manifest)} descargados")
         else:
             fail += 1
-        time.sleep(2.0)  # cortesía con ERA (evita 429)
+        time.sleep(8.0)  # cortesía con ERA (evita 429)
     print(f"[{codigo}] LISTO: {ok} descargados, {fail} fallos, total manifest {len(manifest)}")
 
 
