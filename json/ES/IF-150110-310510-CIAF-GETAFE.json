@@ -1,0 +1,65 @@
+{
+ "id": "ES-IF-150110-310510-CIAF-GETAFE",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-150110-310510-CIAF-GETAFE.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-857",
+ "expediente": "0003/2010",
+ "titulo": "Arrollamiento mortal de persona en estación Getafe Industrial (Madrid)",
+ "fecha_suceso": "2010-01-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Getafe Industrial",
+  "provincia": "Madrid",
+  "pk": "13+860",
+  "linea": "Línea 300 Madrid – Valencia"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de media distancia 17000, sin parada prevista, arrolló a una persona que cruzaba la vía 2 por un lugar no habilitado. El maquinista activó el freno de emergencia y el silbato, pero no pudo evitar el impacto debido a la inmediatez del hecho. La víctima falleció en el acto y las vías quedaron interceptadas durante casi una hora.",
+ "causa_directa": "La víctima cruzó la vía por un lugar no habilitado para ello al tiempo que el tren circulaba por el mismo punto, sin hacer uso del paso superior existente.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person is hit by a regional passenger train when he crossed the tracks through an unauthorised place. As a result the victim died.",
+  "Location name": "Getafe Industrial station (Madrid), kilometre point 13,860; 300 Madrid-Valencia railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the tracks while the train was coming"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima cruza vía no habilitada",
+  "tren circula sin parada prescrita"
+ ],
+ "mitigaciones": [
+  "maquinista aplica freno emergencia",
+  "uso del silbato por maquinista"
+ ],
+ "factores_humanos": [
+  "comportamiento imprudente víctima",
+  "no uso paso superior existente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-300608-281008-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300608-281008-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-555",
+ "expediente": "0028/2008",
+ "titulo": "Arrollamiento de una persona por tren de mercancías en Miranda de Ebro (línea 700)",
+ "fecha_suceso": "2008-06-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Miranda de Ebro",
+  "provincia": "Burgos",
+  "pk": "146,950",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 30 de junio de 2008, el tren de mercancías 60665 de Renfe Operadora arrolló a una persona en el P.K. 146,950 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto. El suceso se produjo a la salida de la estación de Miranda de Ebro, junto al muro de la empresa azucarera Ebro. La víctima resultó gravemente herida y falleció posteriormente en el hospital. El informe concluye que el accidente tuvo su origen en el tránsito de la persona por un lugar no autorizado.",
+ "causa_directa": "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, who was near the tracks, was hit by a freight train",
+  "Location name": "Miranda de Ebro station (Burgos), at kilometre point 146,950, 700 Casetas-Intermodal Abando Indalecio Prieto",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

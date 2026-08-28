@@ -1,0 +1,60 @@
+{
+ "id": "ES-ES 05.10.2015 170627-151005-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 05.10.2015 170627-151005-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0046/2015",
+ "titulo": "Accidente por colisión durante maniobra de inversión de locomotora en la estación de Tardienta (Huesca)",
+ "fecha_suceso": "2015-10-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Tardienta",
+  "provincia": "Huesca",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Continental Rail",
+  "ADIF"
+ ],
+ "resumen": "El 5 de octubre de 2015 se produjo un accidente ferroviario en la estación de Tardienta (Huesca) durante la maniobra de inversión de la locomotora del tren de mercancías BAR 11/52, operado por Continental Rail. El maquinista ejecutó la maniobra desde la cabina contraria al sentido de la marcha y no aplicó correctamente el freno, lo que provocó una colisión y daños en la locomotora y el primer vagón. Como factores coadyuvantes se señalaron una velocidad superior a la establecida y la escasa experiencia del conductor en la línea y el material. La notificación al puesto de mando fue incompleta y se dilató en el tiempo, dificultando la actuación ágil requerida.",
+ "causa_directa": "Fallo humano del personal de conducción al ejecutar la maniobra de inversión de la locomotora sin aplicar correctamente el freno, probablemente por mala percepción del riesgo al conducir desde la cabina contraria al sentido de la marcha, incumpliendo el RGC y la Carta Circular de Reglamentación nº 8 de ADIF. Como causas coadyuvantes, la maniobra se realizó a velocidad superior a la establecida y el maquinista tenía escasa experiencia en la línea y con el material.",
+ "causas_sistemicas": "Ninguna",
+ "recomendaciones": [
+  "Incidir en la formación y reciclaje del personal de conducción en la obligación de conducir, siempre que sea posible, en la cabina de cabeza durante las maniobras.",
+  "Incidir en la formación y reciclaje del personal de conducción en la importancia de transmitir al responsable de circulación la información de un suceso por los cauces normativamente establecidos y en el menor tiempo posible.",
+  "Elaborar e incluir en el Sistema de Gestión de la Seguridad de Continental Rail un procedimiento con criterios generales para la suspensión, revocación y recuperación de habilitaciones tras un fallo humano, según su gravedad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Ejecución de inversión de locomotora",
+  "Conducción desde cabina contraria",
+  "Velocidad superior a la establecida",
+  "Aplicación incorrecta del freno"
+ ],
+ "mitigaciones": [
+  "Conducir desde primera cabina",
+  "Uso de setas de parada",
+  "Comunicación inmediata del suceso",
+  "Formación en maniobras seguras"
+ ],
+ "factores_humanos": [
+  "Mala percepción del riesgo",
+  "Falta de atención",
+  "Exceso de confianza",
+  "Escasa experiencia del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

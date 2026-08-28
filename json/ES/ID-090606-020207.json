@@ -31,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tránsito indebido de personas",
+  "Ruta de acceso creada",
+  "Víctimas en proximidades de vías",
+  "No abandonar zona de vía"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Freno de emergencia",
+  "Pasarela peatonal próxima",
+  "Velocidad inferior a máxima"
+ ],
+ "factores_humanos": [
+  "Imprudencia de las víctimas",
+  "Gestos obscenos al tren",
+  "Falta de precaución al cruzar",
+  "Tránsito no permitido frecuente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-151209-270410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-151209-270410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-852",
+ "expediente": "0065/2009",
+ "titulo": "Colisión y descarrilamiento del tren FEVE 3102 por desprendimiento de rocas entre Navia y Piñera Villaoril, Asturias",
+ "fecha_suceso": "2009-12-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Asturias",
+  "pk": "191+222",
+  "linea": "Línea 11 Ferrol-Oviedo"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El 15 de diciembre de 2009, el tren de viajeros 3102 de FEVE colisionó con un desprendimiento de rocas entre Navia y Piñera Villaoril (Asturias). El maquinista frenó en emergencia a unos 25 metros del obstáculo y a 49 km/h, pero no pudo evitar el impacto. Los dos bogies de la unidad diésel UTDE 2466 descarrilaron y colisionaron contra el talud derecho de la trinchera. El maquinista sufrió heridas leves y los 14 viajeros resultaron ilesos.",
+ "causa_directa": "La colisión del tren de viajeros 3102 con un desprendimiento de rocas caídas desde la trinchera, que provocó el descarrilamiento de los dos bogies de la unidad diésel en cabeza.",
+ "causas_sistemicas": "La malla metálica de protección no resistió el empuje del desprendimiento y se rompió; el informe señala condiciones de líneas antiguas con trazado, orografía y climatología propicias para desprendimientos recurrentes en Asturias.",
+ "recomendaciones": [
+  "Seguir las medidas correctoras del Comité de Seguridad en la Circulación de 30 de marzo de 2006 en zonas de trincheras de Asturias y extenderlas a otros puntos singulares de la red.",
+  "Vigilar especialmente la infraestructura desde los trenes y a pie, programar recorridos con locomotoras de exploración y establecer limitaciones temporales de velocidad en situaciones de riesgo.",
+  "Realizar obras de protección con mallas, mallazos, anclajes, pantallas, escolleras, muros de contención y prolongaciones de túneles.",
+  "Estudiar la estabilidad de taludes en tramos críticos.",
+  "Destinar una inversión anual sistemática para esta problemática específica."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "A passenger train, after leaving a tunnel, collides with objects which had fallen within the gauge due to a landslide. As a result, one of the vehicles derailed.",
+  "Location name": "Navia (Asturias). Open line,kilometre point 191,222, 11 Ferrol-Oviedo railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when passenger train 3102 collided with a landslide that had fallen from the cutting"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Desprendimiento de rocas en trinchera",
+  "Rotura de malla metálica de protección"
+ ],
+ "mitigaciones": [
+  "Aplicación inmediata del freno de emergencia",
+  "Velocidad inferior a la máxima permitida"
+ ],
+ "factores_humanos": [
+  "Actuación correcta del maquinista",
+  "Visibilidad limitada tras salida túnel"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -47,5 +47,31 @@
   "IM involved": "ADIF",
   "LC User fatalities": 2,
   "Total fatalities": 2
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "conductor ignora señales luminosas",
+  "vehículo invade paso a nivel",
+  "señalización carretera no reglamentaria",
+  "vegetación reduce visibilidad"
+ ],
+ "mitigaciones": [
+  "protección de clase C",
+  "señalización vertical reglamentaria",
+  "despeje de vegetación",
+  "recuento de vehículos"
+ ],
+ "factores_humanos": [
+  "conductor imprudente al cruzar",
+  "ignora señalización del paso",
+  "señalización carretera incorrecta",
+  "mantenimiento insuficiente de vegetación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

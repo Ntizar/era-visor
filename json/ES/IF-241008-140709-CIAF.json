@@ -1,0 +1,49 @@
+{
+ "id": "ES-IF-241008-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-241008-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-788",
+ "expediente": "0054/2008",
+ "titulo": "Descarrilamiento de tren de mercancías por rotura de rueda en estación de Moncófar",
+ "fecha_suceso": "2008-10-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Moncófar",
+  "provincia": "Castellón",
+  "pk": "48,748",
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 24 de octubre de 2008, el tren de mercancías 50460 de Renfe Operadora descarriló al pasar por la vía 2 de la estación de Moncófar. La locomotora volcó e interceptó las dos vías generales, y seis vagones se descarrilaron. El accidente fue causado por la rotura de una rueda debido a una grieta de fatiga iniciada en una entalla producida durante el torneado.",
+ "causa_directa": "Rotura de la rueda izquierda del tercer eje provocada por una grieta de fatiga que se desarrolló desde una entalla superficial causada por las garras del torno durante el retorneado de las ruedas.",
+ "causas_sistemicas": "Deficiencias en los procedimientos de mantenimiento y control de calidad durante el torneado de ruedas, permitiendo la existencia de marcas o entallas no detectadas que actuaron como iniciadores de grietas.",
+ "recomendaciones": [
+  "Establecer procedimientos de inspección para detectar y eliminar entallas o marcas de sujeción de torno mediante magnetoscopia.",
+  "Crear planes de actuación específicos para cada serie de vehículos afectados integrando estas operaciones en los Planes de Mantenimiento.",
+  "Realizar un seguimiento continuo de los resultados de las actuaciones hasta garantizar la desaparición del problema.",
+  "Modificar los sistemas de sujeción en los tornos para evitar la producción de entallas y establecer controles de calidad a la salida.",
+  "Comunicar las actuaciones a otras empresas ferroviarias y centros de mantenimiento para aplicar medidas similares y verificar la ausencia de defectos en torneados externos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "The freight train derailed at the exit station´s railroad switch. As a result, the locomotive and 6 of the 15 wagons that made the train were derailed. The driver was slightly injured.",
+  "Location name": "Moncófar station (Castellón), kilometre point 48,748, on 600 Valencia Estación del Nord - San Vicente de Calders railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by the breakage of the left wheel of the third axel placed at the second bogie of the locomotive."
+ }
+}

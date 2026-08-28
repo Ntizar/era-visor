@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 23.05.2017 181219-170523-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 23.05.2017 181219-170523-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0025/2017",
+ "titulo": "Descarrilamiento del tren de mercancías 90073 cerca de la estación de Inoso-Oiardo (Álava)",
+ "fecha_suceso": "2017-05-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Inoso-Oiardo",
+  "provincia": "Álava",
+  "pk": "183+815",
+  "linea": null
+ },
+ "entidades": [
+  "Transfesa",
+  "Low Cost Rail"
+ ],
+ "resumen": "El 23 de mayo de 2017, el tren de mercancías 90073 descarriló a las 12:29 horas en el PK 183+815, próximo a la estación de Inoso-Oiardo (Álava). El informe apunta como posible causa directa la rotura de la hoja maestra y su adyacente de la ballesta de suspensión del 2º eje de un vagón, aunque no puede aseverarse con certeza. Los parámetros de rodadura y vía medidos tras el suceso estaban en general dentro de tolerancia, salvo valores de alabeo próximos al límite. Como causa subyacente, el informe considera que los vagones podían estar soportando nuevos tráficos y líneas de distinto trazado, con un plan de mantenimiento no suficientemente efectivo.",
+ "causa_directa": "Posible fallo técnico del material rodante, debido a la rotura de la hoja maestra y su adyacente de la ballesta de suspensión del lado izquierdo del 2º eje del vagón 43 71 4 378 118-9, sin poderse aseverar.",
+ "causas_sistemicas": "Vagones explotados parcialmente en régimen de alquiler que podían estar soportando nuevos tráficos y líneas de diferente trazado, haciendo no efectivas las intervenciones programadas en su plan de mantenimiento; además, se señala la difícil visión de estos elementos en vía y la necesidad de un control eficaz de su estado.",
+ "recomendaciones": [
+  "Estudiar el plan de mantenimiento para ajustar la inspección y periodicidad de las intervenciones en los elementos de suspensión, extensible a otros vagones similares.",
+  "Estudiar un procedimiento eficaz para el control del estado de los elementos de suspensión en vía, dada su difícil visión."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rotura de hoja maestra y adyacente",
+  "Vagones explotados en régimen de alquiler",
+  "Circulación por líneas de distinto trazado",
+  "Intervenciones programadas de mantenimiento no efectivas"
+ ],
+ "mitigaciones": [
+  "Inspección previa de suspensión",
+  "Control del estado de suspensión",
+  "Ensayo de muelles en taller",
+  "Plan de emergencia interno-externo"
+ ],
+ "factores_humanos": [
+  "Régimen de alquiler de vagones",
+  "Tráficos distintos a los habituales",
+  "Plan de mantenimiento no efectivo",
+  "Difícil visión de suspensión en vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

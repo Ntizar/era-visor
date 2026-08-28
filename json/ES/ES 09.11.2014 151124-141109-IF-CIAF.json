@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES 09.11.2014 151124-141109-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 09.11.2014 151124-141109-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0060/2014",
+ "titulo": "Arrollamiento de un vehículo en paso a nivel entre Los Milanos y Calañas (Huelva)",
+ "fecha_suceso": "2014-11-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Huelva",
+  "pk": "130+742",
+  "linea": "línea 512 Zafra – Huelva Cargas"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif"
+ ],
+ "resumen": "El 9 de noviembre de 2014, el tren de media distancia 17907 de Renfe Viajeros circulaba por la línea Zafra-Huelva Cargas. Un vehículo de carretera accedió al paso a nivel clase A situado en el PK 130+742 cuando se aproximaba el tren, siendo arrollado a 72 km/h. Como consecuencia, el acompañante falleció y el conductor resultó herido grave. La investigación constató que el paso a nivel carecía de señalización fija de carretera en el camino de acceso.",
+ "causa_directa": "La invasión del gálibo de la vía por un vehículo de carretera que accedió al paso a nivel cuando se aproximaba el tren 17907.",
+ "causas_sistemicas": "El paso a nivel no disponía de señalización fija en el camino, incumpliendo la Orden FOM de 2 de agosto de 2001. Además, la normativa vigente no exigía protección clase B en todos los pasos clase A con visibilidad real inferior a la técnica.",
+ "recomendaciones": [
+  "Adecuar la señalización de los caminos de acceso al paso a nivel del PK 130+742 de la línea 512 Zafra-Huelva Cargas conforme al artículo 9.2 de la Orden FOM de 2 de agosto de 2001.",
+  "Analizar la posibilidad de suprimir el paso a nivel del PK 130+742 aprovechando la existencia de un paso superior de carretera en las inmediaciones.",
+  "Estudiar modificar el artículo 12 de la Orden FOM de 2 de agosto de 2001 para dotar de protección clase B a los pasos clase A cuya visibilidad real sea inferior a la técnica en alguno de sus cuadrantes, con independencia del momento de circulación AxT.",
+  "Estudiar un plan de actuación para convertir pasos clase A en clase B de forma que, en función del riesgo, todos los pasos de la red dispongan en una fecha horizonte de aviso activo hacia el usuario de la carretera."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade gálibo de vía",
+  "Acceso al paso con tren aproximándose",
+  "Falta señalización fija en camino",
+  "Señalización carretera no cumple norma"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Aplicación del freno de emergencia",
+  "Velocidad inferior a máxima permitida",
+  "Buena visibilidad en el paso"
+ ],
+ "factores_humanos": [
+  "Conductor invade paso a nivel",
+  "Falta señalización fija en camino",
+  "Señalización carretera no cumple norma",
+  "Paso con protección clase A"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

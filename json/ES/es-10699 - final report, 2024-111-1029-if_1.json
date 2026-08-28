@@ -1,0 +1,83 @@
+{
+ "id": "ES-es-10699 - final report, 2024-111-1029-if_1",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/es-10699 - final report, 2024-111-1029-if_1.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10699",
+ "expediente": "111/2024",
+ "titulo": "Colisión de tren con obstáculo y descarrilamiento en Álora (Málaga) el 29 de octubre de 2024",
+ "fecha_suceso": "2024-10-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Málaga",
+  "pk": "124/573",
+  "linea": "Línea 030 Málaga Alta Velocidad – Málaga María Zambrano"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Iryo",
+  "ADIF",
+  "ADIF AV"
+ ],
+ "resumen": "El 29 de octubre de 2024, el tren de alta velocidad 02123 de Renfe Viajeros, con 276 viajeros, colisionó a unos 200 km/h con tierra y piedras acumuladas sobre la vía en el portal norte del túnel de Álora, en el PK 124/573 de la línea 030. Como consecuencia, el primer eje del primer bogie del motor delantero descarriló. La acumulación de material fue provocada por el arrastre de tierra y rocas debido a lluvias extraordinarias en la zona. No hubo fallecidos ni heridos, aunque se produjeron daños en material rodante e infraestructura y suspensión del tráfico en la vía I.",
+ "causa_directa": "La causa directa fue la acumulación súbita de tierra y piedras sobre la vía en el portal norte del túnel de Álora, arrastradas por lluvias extraordinariamente intensas.",
+ "causas_sistemicas": "Ausencia de criterios específicos en la Hoja LAV 2 para gestionar y evaluar riesgos asociados a deformaciones de vía; falta de difusión y coordinación operativa sobre esa hoja, al no integrarse en el Plan de Contingencia de ADIF AV ni en los sistemas de gestión de la seguridad de las empresas ferroviarias.",
+ "recomendaciones": [
+  "Redactar los procedimientos sobre reporte de deformaciones de vía por conductores al gestor de infraestructura, definiendo acciones e incorporando criterios específicos para lluvia intensa o eventos meteorológicos extraordinarios.",
+  "Revisar y actualizar el catálogo de puntos críticos de riesgo de inundación, incluyendo localizaciones singulares con alta escorrentía no identificadas.",
+  "Revisar el dimensionado y la configuración geométrica del sistema de drenaje en la zona de captación del portal norte del túnel de Álora, verificando su capacidad hidráulica bajo flujos extraordinarios.",
+  "Garantizar la inspección y limpieza periódicas de cunetas y sistemas de drenaje para mantener su capacidad hidráulica y evitar acumulación de materiales.",
+  "Proporcionar al personal de los centros de regulación de circulación acceso a sistemas CCTV para obtener información visual en tiempo real del estado de la infraestructura en situaciones de riesgo.",
+  "Estudiar la viabilidad de detectar deslizamientos o eventos similares mediante sistemas tecnológicos de monitorización de taludes.",
+  "Estudiar la viabilidad de implementar sistemas automáticos de medición de lluvia en tiempo real en puntos estratégicos, especialmente en LAV y zonas con riesgos geológicos o hidrológicos.",
+  "Analizar los sistemas existentes de detección de caída de objetos para identificar zonas sin cobertura o puntos ciegos y estudiar medidas correctoras según el entorno."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "National ID 111/2024: derailment.\nOn 29 October 2024, at 12:10 hours, Renfe Viajeros high-speed train 02123, formed by unit 112.014 and operating the service between Málaga–María Zambrano and Madrid–Puerta de Atocha, carrying a total of 276 passengers, was travelling at an approximate speed of 200 km/h when it collided with an obstruction consisting of earth and rocks accumulated on the track at kilometre point 124/573 of line 030 Málaga High-Speed Junction – Málaga María Zambrano, within the municipality of Álora, at the north portal of the Álora tunnel, on track I. As a consequence, the first axle of the first bogie of the leading power car in the direction of travel derailed.\nThe train was operating under a Temporary Speed Restriction of 200 km/h imposed by the ADIF-AV Traffic Control Centre, following a report from the driver of Iryo train 06119, which had preceded train 02123 and had passed through the same location approximately 25 minutes earlier, stating that a shock had been noticed.\nThe accumulation of material on the railway infrastructure resulted from the washout of earth and rocks caused by the extraordinary rainfall recorded in the area on the same day.\nFollowing the derailment, the train travelled 1,563 metres before coming to a stop, remaining upright at all times and without fouling the adjacent track, as the right-hand rail became lodged between the derailed right wheel and the brake disc, producing a guiding and lateral containment effect.\nThere were no fatalities or injuries. The occurrence caused damage to the rolling stock and infrastructure, including the breakage of the right-hand rail at KP 124/532, which required the suspension of traffic on track I until repairs were completed.",
+  "Location name": "Álora (Málaga)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "High speed passenger train",
+  "RU involved": "Renfe Viajeros",
+  "IM involved": "Adif AV",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The causal factors of the occurrence were as follows:\n•\tSudden accumulation of earth and rocks within the track formation at the north portal of the Álora tunnel, washed onto the track as a result of extraordinarily intense rainfall.\n\nThe contributing factors to the occurrence were:\n•\tHigh rainfall intensity concentrated within a short period of time.\n•\tThe topography of the section, which favoured the washout and deposition of material onto the track.\n•\tInsufficient drainage system capacity in the tunnel area during an exceptional meteorological event.\n•\tImposition of an inadequate Temporary Speed Restriction of 200 km/h, insufficient to prevent derailment given the magnitude of the obstruction present on the track.\n•\tInsufficient and incorrect application of the procedure established in “LAV Sheet 2 – Track Deformation” following the report of a shock by the driver of the preceding train.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The systemic factors identified were:\n•\tAbsence of specific criteria in “LAV Sheet 2 – Track Deformation” for the management and assessment of risks associated with track deformation.\n•\tLack of effective dissemination and operational coordination among the parties involved regarding “LAV Sheet 2 – Track Deformation”, as it was not integrated into the ADIF AV Contingency Plan nor into the Safety Management Systems (SMS) of the railway undertakings."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Precipitaciones extraordinarias en la zona",
+  "Arrastre de tierra y piedras",
+  "Golpe notado por tren anterior",
+  "Imposición de LTV insuficiente"
+ ],
+ "mitigaciones": [
+  "Carril derecho guió el descarrilamiento",
+  "LTV redujo velocidad de impacto",
+  "Tren mantuvo posición vertical",
+  "Drenaje adecuado habría evitado acumulación"
+ ],
+ "factores_humanos": [
+  "Aplicación incorrecta del procedimiento LAV",
+  "Falta de coordinación entre partes",
+  "Criterios insuficientes para deformaciones de vía",
+  "Diseminación deficiente del procedimiento"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

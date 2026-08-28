@@ -1,0 +1,57 @@
+{
+ "id": "ES-ES 31.03.2015 160223-150331-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 31.03.2015 160223-150331-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0023/2015",
+ "titulo": "Descarrilamiento de un tren de mercancías en la estación de Medina del Campo (Valladolid)",
+ "fecha_suceso": "2015-03-31",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Medina del Campo",
+  "provincia": "Valladolid",
+  "pk": "206+831",
+  "linea": "Línea 100 Madrid – Hendaya"
+ },
+ "entidades": [
+  "Continental Rail",
+  "Adif"
+ ],
+ "resumen": "El 31 de marzo de 2015, a las 03:37 horas, un tren de mercancías de Continental Rail descarriló en la estación de Medina del Campo mientras realizaba un paso directo por la vía 4. El descarrilamiento se inició en el escape 8/14, en el PK 206+831, cuando el tren circulaba a 27 km/h. Varios bogies de los tres primeros vagones quedaron descarrilados y el tren se detuvo 375 metros después del punto cero.",
+ "causa_directa": "El accidente se produjo por un fallo de la infraestructura en la zona del suceso, concretamente por defectos de alabeo de la vía fuera de tolerancia en el escape 8/14.",
+ "causas_sistemicas": "El procedimiento específico de inspección de vía de Adif no contemplaba la inspección de la geometría de los escapes, y el último auscultador no había auscultado el escape 8-14 desde 2013.",
+ "recomendaciones": [
+  "Modificar el Procedimiento Específico ADIF-PE-301-001-VÍA-03 para incorporar el control de la geometría de los escapes.",
+  "Hacer un plan de inspección de la geometría de los escapes en vías generales y actuar para restablecer las condiciones de seguridad si se detectan deficiencias."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Alabeos fuera de tolerancia",
+  "Ausencia de auscultación del escape",
+  "Inspección sin geometría de escapes",
+  "Defecto no detectado por mantenimiento"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Frenado de urgencia por maquinista",
+  "Sistemas de seguridad del tren funcionaron"
+ ],
+ "factores_humanos": [
+  "Procedimiento de inspección insuficiente",
+  "Norma no cubría geometría de escapes",
+  "Falta de auscultación del escape"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

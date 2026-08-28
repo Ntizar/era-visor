@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-290808-181208-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-290808-181208-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-585",
+ "expediente": "0037/2008",
+ "titulo": "Arrollamiento de una persona en el paso enmaderado del apeadero de Segur de Calafell (Tarragona)",
+ "fecha_suceso": "2008-08-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Segur de Calafell",
+  "provincia": "Tarragona",
+  "pk": "624,800",
+  "linea": "200 Madrid-Chamartín-Barcelona-Sants"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 29 de agosto de 2008, a las 12:51 horas, el tren de Media Distancia 15058 de Renfe Operadora arrolló a una persona en el paso enmaderado del apeadero de Segur de Calafell, en el P.K. 624,800 de la línea 200 Madrid-Chamartín-Barcelona-Sants. La víctima, un varón de 67 años con movilidad reducida que caminaba con muleta, falleció en el acto. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. El informe concluye que el accidente se originó por el tránsito de la víctima sin percatarse de la llegada del tren.",
+ "causa_directa": "El tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren.",
+ "causas_sistemicas": "El paso enmaderado era de uso habitual para cruzar la población dividida por el ferrocarril; el paso inferior cercano no resultaba accesible para personas con movilidad reducida porque su salida a los andenes era solo por escalera; además, existían pasos viciosos y una alta densidad de tráfico.",
+ "recomendaciones": [
+  "Tomar las medidas necesarias para mejorar la permeabilidad, dada la división de núcleos urbanos por el ferrocarril y los arrollamientos similares registrados."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man crossed the tracks through an unauthorised place, being hit by a train. Despite the train driver used the whistle, the victim had no time to get safe.",
+  "Location name": "200 Madrid-Barcelona railway line, at Segur de Calafell (Tarragona) flag stop, kilometre point 624,800",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

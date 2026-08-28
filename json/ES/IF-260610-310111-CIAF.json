@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-260610-310111-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-260610-310111-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-938",
+ "expediente": "0031/2010",
+ "titulo": "Accidente en Vitoria-Gasteiz: salida del tren 407 con viajeros subiendo provoca caída y lesiones en andén",
+ "fecha_suceso": "2010-06-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Vitoria-Gasteiz",
+  "provincia": "Álava",
+  "pk": "492+400",
+  "linea": "100 Madrid Chamartín – Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de junio de 2010, a las 00:28, en la estación de Vitoria-Gasteiz, el tren de larga distancia 407 de Renfe Operadora inició la marcha tras recibir la indicación de operaciones terminadas. La agente de acompañamiento dio esa orden sin haber finalizado la subida de viajeros. Una persona cayó al andén y arrolló a otras que debían subir al tren. El jefe de circulación cerró la señal de salida y el tren se detuvo tras recorrer unos 135 metros. Cinco personas resultaron heridas leves.",
+ "causa_directa": "El accidente tuvo su origen al dar la agente de acompañamiento la indicación de operaciones terminadas, sin haber finalizado la bajada y subida de viajeros.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+  "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A passenger train is authorised, by the guard, to resume its run before some of the passengers got off the train. Five people were slightly injured.",
+  "Location name": "Vitoria-Gasteiz station (Álava), at 100 Madrid-Hendaya railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the guard (on board) authorised the movement of the train without having checked all passengers had got on/off."
+ }
+}

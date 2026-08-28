@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-191211-240712-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-191211-240712-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1312",
+ "expediente": "0061/2011",
+ "titulo": "Incidente por conexión cruzada de agujas en la estación de Madrid Chamartín",
+ "fecha_suceso": "2011-12-19",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Madrid Chamartín",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": "Línea 900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 19 de diciembre de 2011, tras trabajos de mantenimiento en la estación de Madrid Chamartín, se cruzaron los conectores de los motores de las agujas 9 y 27. Esto hizo que los itinerarios establecidos en el CTC fueran discordantes con la posición real de las agujas en campo. Tres trenes de Renfe Operadora se vieron afectados y fueron detenidos antes de talonar los cambios. La circulación por el Túnel de Sol se interrumpió y se desvió por el Túnel de Recoletos.",
+ "causa_directa": "Fallo humano: los conectores de los motores de las agujas 9 y 27 se cruzaron al módulo de mando de agujas del enclavamiento, de modo que el mando y la comprobación en el enclavamiento correspondían a la aguja contraria en campo.",
+ "causas_sistemicas": "No se realizaron pruebas de concordancia en terreno tras finalizar los trabajos. Las comunicaciones entre el encargado de trabajos y el CTC fueron verbales, sin telefonemas conforme al RGC. También contribuyeron la ausencia de etiquetas, la falta de conexión individualizada y la no diferenciación de longitudes de cable en los conectores.",
+ "recomendaciones": [
+  "Extender a los encargados de trabajos del resto de la red la sesión de formación y reciclaje impartida al encargado de Chamartín."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other",
+  "Occurrence description": "Points that were wrong settled. Nor personal neither material damage.",
+  "Location name": "Madrid Chamartín station (Madrid)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin in a human failure when the connectors that get the information from point motors nº9 and nº 27 and pass it on to the interlock command and warning module were wrongly connected so that the point detection and controls of point 9 at the interlocking system were, at track, corresponding to point 27 and vice versa. This allowed that the established routes, that were right at the centralized traffic control, were discordant at track.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Underlying cause: no finishing test was made once the works were finished._x000D_\n_x000D_\nContributory cause: no tags in the connectors, lack of tailored connections and different cable lengths for each connector."
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Conexión incorrecta de conectores",
+  "No pruebas de concordancia en terreno",
+  "Comunicación verbal sin telefonemas",
+  "Ausencia de etiquetas en conectores"
+ ],
+ "mitigaciones": [
+  "Maquinista detiene tren antes de talonar",
+  "Prueba de concordancia en terreno",
+  "Etiquetado y codificación de conectores",
+  "Formación y reciclaje del encargado"
+ ],
+ "factores_humanos": [
+  "Error humano en conexión",
+  "No comprobación en campo",
+  "Comunicación verbal no reglamentaria",
+  "Falta de etiquetado de conectores"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

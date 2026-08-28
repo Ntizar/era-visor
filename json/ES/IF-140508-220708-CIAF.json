@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-140508-220708-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-140508-220708-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-458",
+ "expediente": "0016/2008",
+ "titulo": "Arrollamiento de una persona por la máquina de vía TD200 en el paso a nivel de Villadepalos, León",
+ "fecha_suceso": "2008-05-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "apeadero de Villadepalos",
+  "provincia": "León",
+  "pk": "263,566",
+  "linea": "800 La Coruña-León"
+ },
+ "entidades": [
+  "Adif",
+  "Iberovías"
+ ],
+ "resumen": "El 14 de mayo de 2008, una máquina de vía TD200 de Iberovías arrolló a una persona en el paso a nivel clase F del apeadero de Villadepalos, línea 800 La Coruña-León. La mujer accedió a la vía para retirar a uno de sus perros sueltos e hizo caso omiso de las señales acústicas del tren. El conductor y la infraestructura ferroviaria actuaron conforme a la normativa. La víctima falleció y no hubo daños materiales ni al medio ambiente.",
+ "causa_directa": "Ocupación de la vía por la persona arrollada al intentar sacar de la misma a uno de los dos perros que la acompañaban, en el momento en que circulaba la máquina de vía TD200.",
+ "causas_sistemicas": "El camino de acceso al paso a nivel carecía de señales reglamentarias de aviso; además, el paso a nivel se encontraba en fase de supresión.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A woman is knocked down by an infrastructure works train (tamping machine), while crossing through a level crossing, type F (just for pedestrians).",
+  "Location name": "Level crossing, type F, at Villadepalos flag stop (León). Kilometre point 263,550; railway line La Coruña-León",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Infrastructure works train",
+  "RU involved": "Adif",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The woman, who was accompanied by two dogs, is hit by the train while trying to remove one of them outside the track."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Persona accede a vía con perros sueltos",
+  "Perro se detiene sobre la vía",
+  "Víctima ignora señales acústicas del tren"
+ ],
+ "mitigaciones": [
+  "Aplicación de frenos de emergencia",
+  "Supresión inminente del paso a nivel"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Falta de control de animales domésticos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

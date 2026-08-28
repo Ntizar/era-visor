@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_241212_300713_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_241212_300713_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0799",
+ "expediente": "0077/2012",
+ "titulo": "Descarrilamiento del tren de mercancías 97161 en la estación de Lezama (Álava)",
+ "fecha_suceso": "2012-12-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Lezama",
+  "provincia": "Álava",
+  "pk": "194+047",
+  "linea": "700 Intermodal Abando Indalecio Prieto a Casetas"
+ },
+ "entidades": [
+  "Activa Rail",
+  "Adif"
+ ],
+ "resumen": "El 24 de diciembre de 2012, a las 01:00 horas, el tren de mercancías 97161 de Activa Rail descarriló al entrar en la estación de Lezama (Álava), en la línea 700 Abando Indalecio Prieto-Casetas. El primer eje del primer bogie del segundo vagón remontó y cayó al exterior, provocando el corte de la composición y la activación del freno de urgencia. La investigación concluye que el suceso fue debido a un fallo de la infraestructura, con peraltes y alabeos fuera de tolerancia agravados por lluvias intensas. También pudo influir la altura mínima de pestaña de las ruedas del vagón, torneadas 12 días antes.",
+ "causa_directa": "El descarrilamiento se produce por fallo de la infraestructura. En la zona del descarrilamiento se verificaron peraltes y alabeos fuera de tolerancia de forma significativa, debido a una mala calidad de vía unido a intensas lluvias. También pudo colaborar la altura de pestaña de las ruedas del vagón descarrilado, que habían sido torneadas 12 días antes, por lo que ésta era la mínima permitida.",
+ "causas_sistemicas": "Mala calidad de vía con peraltes y alabeos fuera de tolerancia; última nivelación realizada en 2008; defectos detectados por auscultación e inspecciones en cabina; envío tardío de los datos tratados a mantenimiento; lluvias intensas previas; posible contribución de ruedas con pestaña mínima tras torneado reciente.",
+ "recomendaciones": [
+  "Intensificar la vigilancia de la vía en la zona del accidente hasta la ejecución de las obras proyectadas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Derailment of second wagon of a freight train at Lezama station (Vizcaya)",
+  "Location name": "Lezama station (Vizcaya)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "ACTIVA RAIL",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused due to an infrastructure failure. In the area was detected that values for the cant and the warping of track were out of tolerance (bad quality of rail plus heavy rains)."
+ }
+}

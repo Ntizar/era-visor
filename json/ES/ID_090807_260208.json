@@ -1,0 +1,77 @@
+{
+ "id": "ES-ID_090807_260208",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_090807_260208.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-309",
+ "expediente": "0042/2007",
+ "titulo": "Arrollamiento de peatón en paso a nivel de Ciaño, Langreo (Asturias)",
+ "fecha_suceso": "2007-08-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Ciaño",
+  "provincia": "Asturias",
+  "pk": "19/338",
+  "linea": "Soto de Rey a El Entrego"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "Un tren de Cercanías arrolló a una persona en el paso a nivel del Apeadero de Ciaño, Langreo (Asturias). La víctima cruzó por un paso peatonal con las semibarreras bajadas y las señales acústicas y luminosas funcionando. El maquinista dio aviso con silbato y frenó, pero no pudo evitar el atropello. La persona falleció y no se produjeron daños materiales, aunque varios trenes sufrieron retrasos.",
+ "causa_directa": "La víctima invadió el gálibo de la vía al cruzar el paso a nivel haciendo caso omiso de la señalización.",
+ "causas_sistemicas": "El paso a nivel carecía de varias señales de carretera prescritas y se consideraba necesario acelerar su supresión por su difícil eliminación en zona urbana.",
+ "recomendaciones": [
+  "Acelerar los trámites para eliminar el paso a nivel.",
+  "Comunicar al Ayuntamiento de Langreo la obligación de señalizar el paso a nivel conforme a la O.M. 2/08/01.",
+  "Impulsar campañas de sensibilización sobre el peligro de cruzar las vías y el uso correcto de los pasos."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person was knocked down by a train when trying improperly to pass through the level crossing.",
+  "Location name": "Ciaño flag stop (Oviedo). At a level crossing type C, kilometre point 19,338, 140 Bifurcación Tudela-Veguín - El Entrego railway line)",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "peatón cruzó con semibarreras bajadas",
+  "hizo caso omiso de señales",
+  "invadió gálibo de vía",
+  "no respetó señales acústicas"
+ ],
+ "mitigaciones": [
+  "freno de emergencia accionado",
+  "aviso acústico reiterado",
+  "semibarreras bajadas correctamente",
+  "velocidad inferior a máxima"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "no respetó señalización del paso",
+  "falta de señalización reglamentaria",
+  "necesidad de concienciación ciudadana"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

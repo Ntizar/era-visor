@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_260313_240614_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_260313_240614_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2352",
+ "expediente": "0036/2013",
+ "titulo": "Descarrilamiento de perfiladora por rotura de eje motriz entre Urda y Malagón (Toledo)",
+ "fecha_suceso": "2013-03-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Urda",
+  "provincia": "Toledo",
+  "pk": "122+450",
+  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa"
+ },
+ "entidades": [
+  "Adif",
+  "Vías y Construcciones"
+ ],
+ "resumen": "El 26 de marzo de 2013, a las 01:00, se produjo el descarrilamiento de una perfiladora en el PK 122+450 de la línea de alta velocidad 010 Madrid Puerta de Atocha-Sevilla Santa Justa, entre Urda y Malagón (Toledo). La máquina formaba parte de un tren de trabajos procedente de la base de Mora que circulaba en vía bloqueada para realizar bateo. La perfiladora descarriló al romperse un eje motriz y quedó desplazada hacia el exterior de la vía II, sin producirse víctimas. El informe concluye que el fallo se originó por un proceso de carga cíclica de fatiga.",
+ "causa_directa": "El descarrilamiento se produjo por fallo del material móvil, concretamente la rotura de un eje motriz de la perfiladora originada por un proceso de carga cíclica de fatiga.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Que la DGF inste a las empresas propietarias y mantenedoras de maquinaria pesada de vía a incluir los apartados aplicables de la Recomendación técnica 2/2014 en las instrucciones de mantenimiento de rodaje."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Performing works on track (train consisting of a profiling machine, a stabilizer and a tamping machine) the profiling machine's axle is broken down causing the derailment. No personal damages.",
+  "Location name": "Between Urda and Malagon stations (Toledo)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Infrastructure works train",
+  "RU involved": "00:00:00",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is caused by a failure of the rolling stock. The breakage of the profiling machine´s axle is caused by a process of cyclic fatigue."
+ }
+}

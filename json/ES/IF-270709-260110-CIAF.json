@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-270709-260110-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-270709-260110-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-804",
+ "expediente": "0038/2009",
+ "titulo": "Rebase indebido de señal en Bif. Clot (Barcelona) con riesgo de colisión entre trenes 15052 y 25552",
+ "fecha_suceso": "2009-07-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Bifurcación Clot",
+  "provincia": "Barcelona",
+  "pk": "102+700",
+  "linea": "262 Barcelona Sagrera - Bif. Clot"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren 15052 de media distancia rebasó indebidamente la señal de entrada E2 en parada en la bifurcación de Clot, provocando un conato de colisión con el tren 25552 que circulaba delante. El maquinista no divisó al tren precedente debido a una curva y aumentó la velocidad tras recibir indicación de vía libre en la baliza previa, actuando el freno de emergencia demasiado tarde. No hubo víctimas ni daños materiales, aunque se produjeron retrasos significativos.",
+ "causa_directa": "Incumplimiento por parte del personal de conducción de las órdenes dadas por las señales, específicamente el artículo 217 del Reglamento General de Circulación, al no mantener la marcha a la vista hasta la siguiente señal.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A passenger train (nº 15052)overrun the station signal (red aspect) causing a near miss collision with the preceding train (nº 25552) which was at the same track section. The first driver used the emergency brake system avoiding the likely collision.",
+  "Location name": "Bifurcación Clot station (Barcelona), kilometre point 102,700, 262 Barcelona Sagrera-Bifurcación Clot railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 15052 driver overtook the station signal (E2) which stated a red aspect (stop indication)."
+ }
+}

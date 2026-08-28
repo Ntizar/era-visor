@@ -1,0 +1,39 @@
+{
+ "id": "ES-IF_240713_ERA-2014-0070-EN",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_240713_ERA-2014-0070-EN.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0054/2013",
+ "titulo": "Descarrilamiento del tren Alvia 04465 cerca de la estación de Santiago de Compostela (A Coruña)",
+ "fecha_suceso": "2013-07-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Santiago de Compostela",
+  "provincia": "A Coruña",
+  "pk": "85.0",
+  "linea": "Línea 082 Coto da Torre - A Grandeira"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El informe detalla el descarrilamiento del tren Alvia 04465 en una curva próxima a Santiago de Compostela. El accidente se produjo al entrar el convoy a una velocidad excesiva para la curva, tras una reducción de velocidad no señalizada adecuadamente mediante balizas ASFA Digital. La investigación analiza los sistemas de gestión de seguridad de Adif y Renfe, así como las deficiencias en la comunicación con el maquinista.",
+ "causa_directa": "Entrada del tren en la curva a una velocidad superior a la permitida, debido a una falta de atención o distracción del conductor y a la ausencia de un sistema de frenado automático que corrigiera la velocidad excesiva antes de la curva.",
+ "causas_sistemicas": "Deficiencias en la señalización de la reducción de velocidad (falta de balizas ASFA Digital), problemas en los procedimientos de gestión de riesgos durante la puesta en servicio de nuevas líneas, y posibles fallos en la supervisión de la seguridad operativa por parte de los gestores.",
+ "recomendaciones": [
+  "Obligar a que todas las reducciones de velocidad significativas estén marcadas por señales fijas de límite de velocidad.",
+  "Instalar progresivamente balizas ASFA Digital para controlar la velocidad y activar el frenado automático si se supera el límite.",
+  "Reforzar los procedimientos del SMS de Renfe para asegurar que los defectos de seguridad detectados sean analizados y gestionados preventivamente.",
+  "Extender la recomendación anterior a otras empresas ferroviarias bajo supervisión de la autoridad nacional de seguridad.",
+  "Considerar la reactivación de los Comités Conjuntos de Seguridad de Tráfico para analizar riesgos derivados de la interacción conducción-vehículo-vía.",
+  "Incluir una evaluación específica de riesgos en el proceso de puesta en servicio de nuevas líneas y tramos alternativos.",
+  "Garantizar que las comunicaciones con el personal de conducción en cabina se realicen de forma segura y sin distracciones.",
+  "Promover la implementación progresiva de sistemas de grabación de audio (y vídeo) en las cabinas de los conductores."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

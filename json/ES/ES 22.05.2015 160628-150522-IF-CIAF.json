@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 22.05.2015 160628-150522-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 22.05.2015 160628-150522-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0028/2015",
+ "titulo": "Rebase indebido de señal de salida por locomotora aislada en la estación de Vicálvaro (Madrid)",
+ "fecha_suceso": "2015-05-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Estación de Vicálvaro",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Continental Rail",
+  "ADIF"
+ ],
+ "resumen": "El 22 de mayo de 2015, una locomotora aislada de Continental Rail rebasó indebidamente la señal de salida B107-3, situada en indicación de parada, en la estación de Vicálvaro. La señal y el enclavamiento funcionaron correctamente, y el rebase se produjo por falta de atención del maquinista. El informe señala como factor coadyuvante la no consideración de la mayor aceleración de la locomotora aislada frente a un tren de mercancías cargado.",
+ "causa_directa": "Fallo humano del maquinista por falta de atención, que provocó el rebase indebido de una señal en indicación de parada. Como causa coadyuvante, no tuvo en cuenta la diferencia de aceleración de la locomotora aislada.",
+ "causas_sistemicas": "No se constataron causas subyacentes relacionadas con cualificaciones o mantenimiento; se observó falta de énfasis en reciclaje sobre el comportamiento del material móvil y ausencia de procedimiento SGS para criterios de suspensión, revocación y recuperación de habilitaciones tras un fallo humano.",
+ "recomendaciones": [
+  "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en aceleración y frenado según las distintas circunstancias de circulación.",
+  "Que se elabore e incluya en el SGS de Continental Rail un procedimiento con criterios generales para la suspensión, revocación y recuperación de habilitaciones tras un fallo humano según su gravedad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Falta de atención del maquinista",
+  "No anticipar parada señal salida",
+  "Ignorar diferencia aceleración locomotora",
+  "Circular locomotora aislada sin precaución"
+ ],
+ "mitigaciones": [
+  "Pautas conducción locomotoras aisladas",
+  "Recordatorio técnicas de conducción",
+  "Comunicado seguridad Continental Rail",
+  "Análisis conjunto con ADIF"
+ ],
+ "factores_humanos": [
+  "Fallo humano del maquinista",
+  "Falta de atención durante conducción",
+  "Desconocimiento comportamiento locomotora",
+  "Ausencia procedimiento SGS habilitaciones"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

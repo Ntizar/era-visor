@@ -1,0 +1,77 @@
+{
+ "id": "ES-ID_070607_191007",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_070607_191007.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-285",
+ "expediente": "0036/2007",
+ "titulo": "Arrollamiento de una persona entre Vila-Real y Burriana, línea 600 Valencia Nord-San Vicente Calders, Castellón",
+ "fecha_suceso": "2007-06-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Castellón",
+  "pk": "61/700",
+  "linea": "Línea 600 Valencia Nord – San Vicente Calders"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El tren de Larga Distancia 697 de Renfe, con locomotora 252.070, arrolló a una persona en el punto kilométrico 61/700 de la línea 600 Valencia Nord-San Vicente Calders, entre Vila-Real y Burriana. El tren se detuvo y el maquinista activó el freno de emergencia tras observar a dos varones en la vía. La víctima fue evacuada al Hospital de la Plana de Vila-Real, donde falleció horas más tarde. La incidencia produjo retrasos en varios trenes.",
+ "causa_directa": "Imprudencia de la víctima al cruzar indebidamente las vías sin percatarse de la llegada del tren.",
+ "causas_sistemicas": "Tramo no vallado con numerosos pasos viciosos en una zona rural próxima a un núcleo urbano y transitada.",
+ "recomendaciones": [
+  "Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.",
+  "Intensificar el Plan de instalación de cerramientos de las líneas.",
+  "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person who was walking alongside the track is hit by a long distance train.",
+  "Location name": "Railway line from Valencia to S.V. Calders. (600 Valencia -San Vicente de Calders railway lien) At the kilometre point 61,700 near Villareal station (Castellón)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Victim´s carelessness"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce indebido de la vía por peatón",
+  "No percatarse de la llegada del tren",
+  "Ausencia de vallado en el tramo",
+  "Numerosos pasos viciosos en la zona"
+ ],
+ "mitigaciones": [
+  "Acción de silbato y freno emergencia",
+  "Retirada a tiempo de un peatón",
+  "Aviso inmediato a servicios emergencia",
+  "Instalación de vallado en toda zona"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima al cruzar",
+  "No detectar proximidad del convoy",
+  "Decisión de cruzar por pasos viciosos",
+  "Insuficiente gestión de cerramientos en vía"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

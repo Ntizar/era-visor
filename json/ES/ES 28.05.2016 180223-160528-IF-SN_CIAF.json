@@ -1,0 +1,53 @@
+{
+ "id": "ES-ES 28.05.2016 180223-160528-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 28.05.2016 180223-160528-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0027/2016",
+ "titulo": "Rebasamiento de señal de parada en la estación de Vilanova i la Geltrú (Barcelona)",
+ "fecha_suceso": "2016-05-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Vilanova i la Geltrú",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El incidente nº 0027/2016 ocurrió el 28 de mayo de 2016 en la estación de Vilanova i la Geltrú, Barcelona. El tren regional exprés 17501 pasó la señal de entrada E1 en indicación de anuncio de parada y después rebasó la señal de salida S1/2 en indicación de parada a 72 km/h. La investigación atribuyó el suceso a un fallo humano del personal de conducción, probablemente por mala percepción del riesgo. No se identificaron causas relacionadas con el marco normativo o la aplicación del sistema de gestión de la seguridad.",
+ "causa_directa": "Fallo humano del personal de conducción del tren 17501, probablemente por mala percepción del riesgo, al pasar la señal E1 en anuncio de parada y rebasar la señal S1/2 en rojo, incumpliendo los artículos 213 y 217 del Reglamento General de Circulación.",
+ "causas_sistemicas": "El tren circulaba con 14 minutos de retraso en el primer servicio de esa habilitación del maquinista y sin parada prescrita en la estación, lo que pudo favorecer la asunción del riesgo. No se identificaron causas normativas o de SGS.",
+ "recomendaciones": [
+  "Incidir en la formación y reciclaje del personal de conducción, especialmente en el conocimiento de la infraestructura, en adecuar la marcha a lo reglamentario y mantener la atención a las señales, sobre todo a las de anuncio de parada."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Pasar señal E1 en amarillo",
+  "No ponerse en disposición de parar",
+  "Retraso de catorce minutos",
+  "Primer servicio de habilitación"
+ ],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "Fallo humano del maquinista",
+  "Mala percepción del riesgo",
+  "Falta de atención o exceso de confianza",
+  "Primer servicio de habilitación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

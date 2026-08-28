@@ -1,0 +1,30 @@
+{
+ "id": "ES-RS-220609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-220609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0028/2009",
+ "titulo": "Accidente en paso a nivel de Infiesto (Asturias), línea Oviedo-Santander",
+ "fecha_suceso": "2009-06-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": "Infiesto",
+  "provincia": "Asturias",
+  "pk": null,
+  "linea": "Línea 21 Oviedo - Santander"
+ },
+ "entidades": [
+  "CIAF",
+  "Ministerio de Fomento"
+ ],
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprobó como definitivo el informe sobre el accidente ocurrido el 22 de junio de 2009. El suceso tuvo lugar en el paso a nivel de la estación de Infiesto, Asturias, dentro de la línea 21 entre Oviedo y Santander. La resolución fue emitida tras el análisis del expediente por parte del Pleno de la CIAF.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

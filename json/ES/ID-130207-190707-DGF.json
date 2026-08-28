@@ -46,5 +46,33 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Persona cruza vía no autorizada",
+  "Ganado intenta cruzar vías",
+  "Falta de vallado en la vía",
+  "Anochecer reduce visibilidad"
+ ],
+ "mitigaciones": [
+  "Frenado de emergencia del tren",
+  "Señal acústica de silbato",
+  "Instalación de vallado recomendado",
+  "Campañas de sensibilización"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Falta de percepción del tren",
+  "Inexistencia de vallado",
+  "Pasos irregulares no controlados"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

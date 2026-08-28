@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-240608-281108-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-240608-281108-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-554",
+ "expediente": "0026/2008",
+ "titulo": "Arrollamiento de dos peatones por tren en P.K. 26,100, línea Barcelona Sagrera-Maçanet-Massanes, entre Vilassar y Mataró",
+ "fecha_suceso": "2008-06-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "26,100",
+  "linea": "276 Barcelona Sagrera a Maçanet-Massanes"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 24 de junio de 2008, el tren de cercanías 25981 arrolló a dos personas que caminaban por la vía en el P.K. 26,100 de la línea 276 Barcelona Sagrera-Maçanet-Massanes, entre Vilassar de Mar y Mataró. Una mujer falleció y otra resultó herida grave tras ser despedidas hacia las rocas. En la zona existían defectos y pasos viciosos en el vallado que facilitaban el tránsito de peatones hacia el viaducto sobre la Riera de Argentona. El tren circulaba a 115 km/h, por debajo de la velocidad máxima, y el material rodante y las instalaciones funcionaron correctamente.",
+ "causa_directa": "El accidente tuvo su origen en la presencia de las víctimas en la vía en el momento en que pasaba el tren de corta distancia.",
+ "causas_sistemicas": "Discontinuidades del vallado ferroviario que permitían pasos viciosos, frecuente tránsito de peatones por la zona y ausencia de un paso alternativo sobre la Riera de Argentona, lo que empujaba a usar el puente ferroviario.",
+ "recomendaciones": [
+  "Reparar las discontinuidades del vallado que permiten el paso de personas del lado montaña al lado mar entre Vilassar y Mataró, especialmente en el puente sobre la Riera de Argentona.",
+  "Estudiar la construcción de una pasarela peatonal sobre la Riera de Argentona para evitar el tránsito peatonal por el puente ferroviario."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "Two people walking through a railway bridge were knocked down by a train. One of them died.",
+  "Location name": "Kilometre point 26,10 at 270 Barcelona-Cerbere railway line, at Cabrera del Mar (Barcelona)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

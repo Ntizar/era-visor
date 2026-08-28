@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-231009-270410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-231009-270410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-815",
+ "expediente": "0057/2009",
+ "titulo": "Arrollamiento de una persona por un tren de cercanías entre L'Hospitalet de Llobregat y Cornellá, Barcelona",
+ "fecha_suceso": "2009-10-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "94+316",
+  "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 23 de octubre de 2009, a las 12:30, el tren de cercanías 25143 de Renfe Operadora arrolló a una persona en el P.K. 94+316, entre L'Hospitalet de Llobregat y Cornellá (Barcelona). La víctima caminaba por la zona de libre gálibo de la vía 1, entre el balasto y la cuneta, en dirección contraria al tren. El maquinista usó silbato y freno de urgencia, pero no pudo evitar el atropello. El informe concluye que el origen del accidente fue la actuación de la persona al transitar por la zona de circulación ferroviaria.",
+ "causa_directa": "El accidente tuvo su origen en la actuación de la víctima al transitar en la zona de libre gálibo de circulación de trenes de la vía 1, cuando efectuaba su paso el tren de viajeros 25143.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "The victim was hit by a train when he was crossing the tracks.",
+  "Location name": "Sant Ildefons de Cornellá flag stop (Barcelona); kilometre point 94,316; 240 San Vicente de Calders-L´Hospitalet de Llobregat railway line",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim invaded the rail gauge while the train was coming"
+ }
+}

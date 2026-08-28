@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-200109-2-190509-CIAF_TORDERA Y BLANES",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-200109-2-190509-CIAF_TORDERA Y BLANES.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-694",
+ "expediente": "0004/2009",
+ "titulo": "Arrollamiento de una persona por tren de cercanías entre Tordera y Blanes (Barcelona)",
+ "fecha_suceso": "2009-01-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "64,810",
+  "linea": "276 Barcelona Sagrera a Macanet-Massanes, tramo Blanes-Macanet Massanes"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 20 de enero de 2009, el tren de cercanías 25630 de Renfe Operadora arrolló a una persona en plena vía entre Tordera y Blanes, en el PK 64,810. La víctima intentaba cruzar la vía por un lugar donde existió un paso a nivel suprimido. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el impacto. La persona falleció en el acto.",
+ "causa_directa": "La invasión del galibo de la vía por la víctima al intentar cruzar por el antiguo paso a nivel suprimido mientras pasaba el tren.",
+ "causas_sistemicas": "Restos de señalización del paso a nivel suprimido y vegetación que reducía la visibilidad en el punto de acceso a la vía.",
+ "recomendaciones": [
+  "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A passenger train failed to stop at the station exit signal, which stated a stop aspect (red). Besides the automatic train protection worked, the freight train which was at the same track section was ordered to stop by the Control Centre.",
+  "Location name": "La Florida station (Asturias), kilometre point 15,320, 61 Gijón-Laviana railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train; \nRegional passenger train",
+  "RU involved": "Feve; \n",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 5412 driver overtook the station exit signal, which had the stop indication and he didn´t stop the train as it is established in the General Operating Rules of Feve."
+ }
+}

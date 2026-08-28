@@ -1,0 +1,64 @@
+{
+ "id": "ES-IF-011209-230310-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-011209-230310-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-837",
+ "expediente": "0060/2009",
+ "titulo": "Arrollamiento de persona en paso a nivel clase C, estación O Porriño (Pontevedra)",
+ "fecha_suceso": "2009-12-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "O Porriño",
+  "provincia": "Pontevedra",
+  "pk": "151+433",
+  "linea": "810 Monforte de Lemos-Vigo"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de larga distancia 283 de Renfe Operadora arrolló a una persona que cruzaba por el paso peatonal del paso a nivel tipo C en la estación de O Porriño. El incidente ocurrió cuando las semibarreras estaban bajadas y la señalización indicaba la llegada del convoy. La víctima fue desplazada fuera de la caja de vía tras el impacto con la locomotora.",
+ "causa_directa": "La actuación de la víctima, quien cruzó el paso a nivel ignorando las semibarreras bajadas y las señales acústicas y luminosas activas.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person is killed by a long distance train as he crossed the level crossing while its protective devices were properly working.",
+  "Location name": "O Porriño station (Pontevedra), level crossing type C, kilometre point 151,433, 810 Vigo-Monforte de Lemos railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "víctima cruza con semibarreras bajadas",
+  "señalización acústica ignorada por peatón"
+ ],
+ "mitigaciones": [
+  "maquinista aplica freno de emergencia",
+  "uso del silbato de la locomotora"
+ ],
+ "factores_humanos": [
+  "imprudencia temeraria de la víctima",
+  "no respetar señales de peligro activas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

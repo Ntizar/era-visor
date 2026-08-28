@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-170409-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-170409-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-707",
+ "expediente": "0022/2009",
+ "titulo": "Colisión frontal tras rebase de señal en la estación de El Caleyo (Asturias)",
+ "fecha_suceso": "2009-04-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "El Caleyo",
+  "provincia": "Asturias",
+  "pk": "134+961",
+  "linea": "Línea 130 Gijón Cercanías – Venta de Baños"
+ },
+ "entidades": [
+  "Renfe-Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de cercanías 22126 rebasó indebidamente la señal de entrada 4S, que indicaba parada, en la estación de El Caleyo. Como consecuencia, colisionó frontalmente con el tren de viajeros 22347. La investigación determinó que el accidente se debió al incumplimiento de las órdenes de las señales por parte del personal de conducción del primer tren. Solo se produjeron daños materiales en la parte frontal de ambos convoyes.",
+ "causa_directa": "Rebase de la señal de entrada de la estación, que presentaba indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Passenger train nº22126 did not stop at the station signal which stated stop aspect. As a result, the ASFA system worked, causing the train to stop after it had run for 60 metres before its collision with another train that was in the same track section, waiting at the exit station signal(announcement to stop).",
+  "Location name": "El Caleyo station (Asturias), kilometre point 134,300, 130 Venta de Baños-Gijón railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The collision was caused as the train driver ignored the signal indication."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "no inicia reducción inmediata velocidad",
+  "continúa aplicando tracción en pendiente",
+  "paso baliza previa alta velocidad",
+  "incumple artículo 221 RGC"
+ ],
+ "mitigaciones": [
+  "frenado emergencia ASFA activado",
+  "maquinista 22347 aplica parada emergencia",
+  "velocidad colisión muy reducida",
+  "no talona cambio 2B"
+ ],
+ "factores_humanos": [
+  "despiste del maquinista causante",
+  "incumplimiento normas circulación",
+  "no comunica suceso al CTC",
+  "retroceso tras colisión indebido"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

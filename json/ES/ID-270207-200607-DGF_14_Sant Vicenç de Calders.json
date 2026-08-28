@@ -1,0 +1,73 @@
+{
+ "id": "ES-ID-270207-200607-DGF_14_Sant Vicenç de Calders",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-270207-200607-DGF_14_Sant Vicenç de Calders.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-211",
+ "expediente": "0014/2007",
+ "titulo": "Arrollamiento de una persona en el paso entre andenes de la estación de Sant Vicenç de Calders",
+ "fecha_suceso": "2007-02-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sant Vicenç de Calders",
+  "provincia": "Barcelona",
+  "pk": "618,000",
+  "linea": "Línea Madrid-Barcelona"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 27 de febrero de 2007, a las 22:05, una persona fue arrollada por el tren de Larga Distancia 15997 de Renfe en el paso entre andenes de la estación de Sant Vicenç de Calders. La víctima cruzó un paso entarimado al final del andén en lugar de usar el paso inferior, mientras el tren pasaba directo por vía I. El maquinista hizo sonar el silbato y aplicó el freno de urgencia, pero no pudo evitar el atropello. La persona falleció y no se produjeron daños materiales ni lesiones al personal ferroviario.",
+ "causa_directa": "Uso indebido del paso entre andenes para cruzar las vías, en lugar de utilizar el paso inferior existente en la estación.",
+ "causas_sistemicas": "Escasa visibilidad del paso entarimado limitada por curva; paso entre andenes accesible al público aunque destinado a personal autorizado; ausencia de rampa o acceso para personas de movilidad reducida en el paso inferior; elevado tráfico y velocidad de paso de los trenes.",
+ "recomendaciones": [
+  "Realizar un estudio para adecuar las instalaciones de la estación y garantizar el acceso a personas de movilidad reducida a los andenes sin usar el paso entre andenes.",
+  "Señalizar el paso entre andenes con cartelones que prohíban el acceso a personas no autorizadas."
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "Two persons were hit by a long distance train 61 when trying to cross the tracks.",
+  "Location name": "El Carrión flag stop. Railway from Palencia to Santander at kilometre point 310,550",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 2,
+  "Total fatalities": 2
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce indebido por paso entre andenes",
+  "no uso del paso inferior existente",
+  "no percatarse de llegada del tren",
+  "paso directo por vía I"
+ ],
+ "mitigaciones": [
+  "uso del silbato de locomotora",
+  "aplicación del freno de urgencia",
+  "paso inferior en buenas condiciones",
+  "señalización de prohibición recomendada"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "uso indebido del paso",
+  "no percepción del tren",
+  "elevado tráfico ferroviario"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

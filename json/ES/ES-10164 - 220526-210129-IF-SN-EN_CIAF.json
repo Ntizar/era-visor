@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES-10164 - 220526-210129-IF-SN-EN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10164 - 220526-210129-IF-SN-EN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "08/2021",
+ "titulo": "Incidente operacional ocurrido en el apeadero de L’Énova-Manuel (Valencia)",
+ "fecha_suceso": "2021-01-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Apeadero de L’Énova-Manuel",
+  "provincia": "Valencia",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "ADIF"
+ ],
+ "resumen": "El 29 de enero de 2021, el tren 14423 quedó con el equipo ASFA inoperativo durante la marcha entre Silla y Benifaió. Renfe Viajeros decidió realizar un cambio de material y personal con el tren 14422 en el apeadero de L’Énova-Manuel, pero la comunicación con el Puesto de Mando de ADIF fue ambigua. Los trenes invirtieron sentidos y números, y el tren 14423 inició un retroceso no autorizado. El suceso constituyó un precursor de riesgo de colisión, mitigado por la baja velocidad y la visibilidad entre maquinistas.",
+ "causa_directa": "El retroceso no autorizado del tren 14423 por el maquinista M2, contrario a las reglas del bloqueo, y la voluntad del tren 14422 (M1) de iniciar el retroceso en las mismas condiciones, provocados por una atribución incorrecta de roles y comunicaciones ineficaces entre Renfe Viajeros, ADIF y los maquinistas.",
+ "causas_sistemicas": "La normativa de Renfe Viajeros no detalla cómo deben ser las comunicaciones con el Puesto de Mando de ADIF ni está incluida en su Sistema de Gestión de la Seguridad, y ADIF carece de procedimientos en su SGS que regulen esa comunicación. Además, la falta de definición de funciones entre los responsables de circulación y sus supervisores en el Puesto de Mando hizo que el RC asumiera comunicaciones fuera de su ámbito.",
+ "recomendaciones": [
+  "Establecer procedimientos de comunicación entre los Puestos de Mando de ADIF y los Centros de Gestión de las empresas ferroviarias, regulando la transmisión de información fiable y concreta.",
+  "Elaborar un procedimiento específico, incluido en el SGS, que defina responsabilidades y funciones de todo el personal en los Puestos de Mando, así como los procedimientos operativos de sus tareas.",
+  "Incluir en el SGS de Renfe Viajeros las normas de los Centros de Gestión, modificándolas para especificar las comunicaciones con los Puestos de Mando del gestor de infraestructura y con los maquinistas.",
+  "Reforzar el conocimiento de los maquinistas sobre la normativa de circulación para que no obedezcan órdenes contrarias a la normativa y que no procedan de los responsables de circulación."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Avería ASFA no resuelta",
+  "Salida con ASFA averiado",
+  "Comunicación CG RC imprecisa",
+  "Cambio material en apeadero"
+ ],
+ "mitigaciones": [
+  "Detención inmediata ante tren",
+  "Baja velocidad de retroceso",
+  "Observación señal parada",
+  "No iniciar marcha hacia tren"
+ ],
+ "factores_humanos": [
+  "RC CTC no comprendió operación",
+  "Maquinistas asumieron bloqueo invertido",
+  "Ignorancia normas de retroceso",
+  "Comunicación deficiente entre CG PM"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

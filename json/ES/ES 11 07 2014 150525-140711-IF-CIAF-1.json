@@ -1,0 +1,60 @@
+{
+ "id": "ES-ES 11 07 2014 150525-140711-IF-CIAF-1",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 11 07 2014 150525-140711-IF-CIAF-1.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0036/2014",
+ "titulo": "Arrollamiento de una niña en bicicleta en el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid)",
+ "fecha_suceso": "2014-07-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Mataespesa de Alpedrete",
+  "provincia": "Madrid",
+  "pk": "4+569",
+  "linea": "Línea 110 Segovia a Villalba de Guadarrama"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 11 de julio de 2014, el tren 27141 de cercanías de Renfe Operadora arrolló a una niña que cruzaba en bicicleta por el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid). El tren entraba por la vía 1 para realizar una parada comercial y circulaba a unos 50 km/h cuando la víctima irrumpió en la caja de la vía. A pesar del uso del silbato y de la aplicación del freno, la niña resultó fallecida. El informe señala que el paso entre andenes era el único punto de cruce en la estación.",
+ "causa_directa": "La invasión del gálibo de la vía por la víctima, al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+ "causas_sistemicas": "El paso entre andenes era el único punto de cruce de la línea en la estación y lo usaban personas no usuarias del tren; carecía de señalización que advirtiera a los peatones de la necesidad de mirar ambos lados, y el trazado generaba un efecto barrera en la población.",
+ "recomendaciones": [
+  "Iniciar gestiones para sustituir el paso entre andenes por un paso a distinto nivel.",
+  "Mientras se mantenga el paso, reforzar su señalización con carteles que recuerden a los peatones mirar y asegurarse de que no se aproxima ningún tren.",
+  "Impulsar la actividad del grupo de trabajo sobre accidentabilidad en estaciones de la AESF."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Niña cruza sin percatarse del tren",
+  "Paso entre andenes sin carteles",
+  "Único punto para cruzar vías",
+  "No alternativa de cruce"
+ ],
+ "mitigaciones": [
+  "Instalación de burladero metálico",
+  "Cerramiento con muro de hormigón",
+  "Cancela soldada para impedir apertura",
+  "Reforzar señalización del paso"
+ ],
+ "factores_humanos": [
+  "Víctima invade gálibo de vía",
+  "Cruce sin percatarse del tren",
+  "Falta de señalización peatonal",
+  "Único acceso entre andenes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

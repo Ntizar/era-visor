@@ -1,0 +1,57 @@
+{
+ "id": "ES-ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0053/2014",
+ "titulo": "Rebase de señal en parada por maniobra de material vacío en Barcelona Estació de França",
+ "fecha_suceso": "2014-09-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Barcelona Estació de França",
+  "provincia": null,
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El incidente se produjo el 26 de septiembre de 2014 en Barcelona Estació de França. La maniobra de material vacío UT470120 rebasó la señal S1/14, que en todo momento indicó parada. El maquinista percibió erróneamente la señal como de rebase autorizado. La falta de claridad en la comunicación entre el responsable de circulación y el maquinista contribuyó al suceso.",
+ "causa_directa": "Fallo humano del maquinista de la maniobra UT470120 por error en la percepción de la señal S1/14, que indicaba parada, dando lugar a su rebase y al incumplimiento del Reglamento General de Circulación. Como factor coadyuvante, la falta de claridad en la comunicación entre el responsable de circulación y el maquinista.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Analizar conjuntamente Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales con riesgo de deslumbramiento y adoptar las medidas necesarias."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Radiación solar sobre focos señal",
+  "Falta claridad comunicación radio",
+  "Error percepción indicación parada"
+ ],
+ "mitigaciones": [
+  "Instalación nuevas viseras señales",
+  "Acción formativa factor humano",
+  "Reciclaje formativo maquinista"
+ ],
+ "factores_humanos": [
+  "Incumplimiento artículo 217.1 RGC",
+  "Iniciar marcha sin orden agente",
+  "Retroceso sin comprobar cambios"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

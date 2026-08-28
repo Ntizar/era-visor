@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-161109-310510-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-161109-310510-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-816",
+ "expediente": "0059/2009",
+ "titulo": "Arrollamiento de dos peatones en paso a nivel clase C de Sama de Langreo (Asturias)",
+ "fecha_suceso": "2009-11-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sama de Langreo",
+  "provincia": "Asturias",
+  "pk": "18+055",
+  "linea": "140 Bif. Tudela Veguín – El Entrego"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 16 de noviembre de 2009, el tren de cercanías 22211 de Renfe Operadora arrolló a dos personas que cruzaban por el paso peatonal del paso a nivel clase C de Sama de Langreo (Asturias). En el momento del suceso, las semibarreras estaban bajadas y la señalización acústica y luminosa alertaba de la llegada del tren. El maquinista aplicó el freno de emergencia y usó el silbato, pero no pudo evitar el atropello. El informe concluye que las instalaciones del paso a nivel y los equipos del tren funcionaron correctamente.",
+ "causa_directa": "La actuación de las víctimas, que cruzaron la vía por el paso a nivel mientras circulaba el tren, con las barreras bajadas y la señalización activada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "Two people crossed the level crossing when it was forbidden. As a result they were hit by a train.",
+  "Location name": "Sama de Langreo station (Asturias); level crossing type C; kilometre point 18,055; 140 Bif. Tudela-Veguín a El Entrego railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 2,
+  "Total fatalities": 2,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victims crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctimas cruzan con barreras bajadas",
+  "señalización activa indica llegada tren",
+  "tren acelera tras parada Sama",
+  "cruce peatonal durante aproximación tren"
+ ],
+ "mitigaciones": [
+  "semibarreras bajadas protegen paso a nivel",
+  "señalización activada alerta llegada tren",
+  "maquinista aplica freno emergencia",
+  "uso reiterado del silbato"
+ ],
+ "factores_humanos": [
+  "víctimas ignoran barreras bajadas",
+  "cruce peatonal indebido con tren",
+  "falta atención señalización activa",
+  "conducta imprudente de víctimas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

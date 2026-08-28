@@ -1,0 +1,80 @@
+{
+ "id": "ES-ES-10383 - 2023-11-0130-IF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10383 - 2023-11-0130-IF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10383",
+ "expediente": "11/2023",
+ "titulo": "Incendio en pantógrafos del tren 120.054 en el cambiador de ancho de Alcolea (Córdoba)",
+ "fecha_suceso": "2023-01-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "incendio",
+ "ubicacion": {
+  "estacion": "Cambiador de ancho de Alcolea",
+  "provincia": "Córdoba",
+  "pk": "000+490",
+  "linea": "408"
+ },
+ "entidades": [
+  "RENFE",
+  "ADIF"
+ ],
+ "resumen": "El 30 de enero de 2023 se produjo un incendio en la zona de pantógrafos del coche MCP del tren 120.054, que prestaba el servicio 10696 entre Barcelona y Cádiz, durante el paso por el cambiador de ancho de Alcolea (Córdoba). El fuego se originó por un fallo previo en el cambiador de Zaragoza Delicias, que afectó al pararrayos de 3 kV y provocó defectos a tierra y caídas de tensión durante la jornada siguiente. El tren continuó en estado degradado y las reconexiones sucesivas desde el centro de telecontrol soldaron el pantógrafo a la catenaria, lo que desencadenó el incendio. Tres pasajeros resultaron heridos leves.",
+ "causa_directa": "El fallo del pararrayos de 3 kV del MCP generó un defecto a tierra desde la tensión de la catenaria; las reconexiones sucesivas ordenadas por el centro de telecontrol hicieron que el pantógrafo en contacto con la catenaria se soldara y se produjera el incendio.",
+ "causas_sistemicas": "Los centros de telecontrol disponen de información limitada sobre los movimientos de trenes en cada sección; los sistemas técnicos de las subestaciones no distinguen entre consumo elevado y cortocircuitos; y existen omisiones e inexactitudes en el manual de conducción de la serie 120.050 para pasos por cambiador en estado degradado.",
+ "recomendaciones": [
+  "Estudiar la operación de cambio de ancho en situaciones degradadas, evaluar los riesgos y establecer procedimientos de mitigación documentados.",
+  "Actualizar el manual de conducción de la serie 120.050 y similares para detallar correctamente los pasos del cambio de ancho en degradado y la cancelación de pantógrafos.",
+  "Establecer procedimientos adicionales de revisión de la zona de pantógrafos tras un cambio de ancho en situación degradada, incluyendo la comunicación del evento.",
+  "Estudiar mecanismos de detección de fallos en los pararrayos y mejorar herramientas de diagnóstico como Lead Mind.",
+  "Establecer procedimientos que limiten las reconexiones de los centros de telecontrol ante cortes de tensión sucesivos y repetidos.",
+  "Estudiar que el personal de telecontrol disponga de información en tiempo real sobre el tráfico en la sección de vía.",
+  "Promover un estudio para implantar medidas técnicas en subestaciones que permitan discriminar entre alto consumo y cortocircuitos no francos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Fire in RS",
+  "Occurrence description": "National ID 11/2023: Fire in Rolling Stock at a gauge change installation (line 408, kilometre 431,26).\nThe pantograph of the 4th vehicle of train #10696 Barcelona-Cádiz caught fire while passing a gauge change installation in Alcolea. That morning the train had had problems with power supply and had changed one pantograph. As it changed the active pantograph in order to pass through the gauge change in Alcolea some electric arcs could have appeared and have caused the fire. Three passengers suffered smoke inhalation and were taken to hospital, and fire melted part of a passenger coach ceiling.",
+  "Location name": "Alcolea (Córdoba)",
+  "Railway System type": "Railway",
+  "Line type": "Multiple track",
+  "Location type": "Other",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "Renfe Viajeros",
+  "IM involved": "Adif",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causal factors: \n1. The malfunction in the 3 kV lightning rod of the MCP resulted in a ground fault from the tension supplied by the catenary (Recommendation 11/2023-3).\n2. Successive reattachments by the telecontrol center staff caused the pantograph, in contact with the catenary, to become welded to it, resulting in the fire (Recommendations 11/2023-4, 11/2023-5, and 11/2023-6).",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors: \n1. The move through the gauge changer in a degraded state at Zaragoza Delicias was not executed correctly, resulting in the malfunction of the lightning rod (Recommendation 11/2023-3).\n2. The absence of an indicator in the train system reporting a malfunction in the lightning rod contributed to the lack of diagnosis of the issue (Recommendation 11/2023-4).\n3. The lack of specificity in the information provided by Lead Mind led the Online Technical Support to underestimate the severity of the malfunction, as Lead Mind indicated it was a voltage reading error (Lead Mind is tool that provides real-time information on various train \nparameters, and it’s used when diagnosing faults) (Recommendation 11/2023).\nSystemic factors: \n1. The staff of in the telecontrol centres have limited information about the current train movements in each section of the line, leading to uncertainty in cases like the present one (Recommendation 11/2023-6).\n2. Technical systems in the power substations currently do not differentiate between power consumption and short circuits (Recommendation 11/2023-7).\n3. There are omissions and inaccuracies in the driving manual for the S 120.050 series, which can lead to errors for train operators during gauge-changing moves in degraded states, or even for maintenance staff regarding pantograph disconnection during faults (Recommendation 11/2023-2)."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Avería pararrayos en Zaragoza Delicias",
+  "Maniobra degradada incorrecta",
+  "Falta de diagnóstico oportuno",
+  "Reconexiones sucesivas por telemando"
+ ],
+ "mitigaciones": [
+  "Interceptación de la vía",
+  "Activación del plan de emergencias",
+  "Indicador de fallo en pararrayos",
+  "Limitar reconexiones del telemando"
+ ],
+ "factores_humanos": [
+  "Atribución incorrecta por telemando",
+  "Falta de diagnóstico oportuno",
+  "Información limitada del telemando",
+  "Manual de conducción impreciso"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

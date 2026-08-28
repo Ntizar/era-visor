@@ -41,5 +41,30 @@
   "LC User fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The motorcyclist crossed recklessly as the half-barriers were lowered."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "motocicleta sorteó semibarreras bajadas",
+  "segunda motocicleta cruzó indebidamente",
+  "visibilidad mermada por anochecer"
+ ],
+ "mitigaciones": [
+  "maquinista aplicó freno emergencia",
+  "uso reiterado del silbato",
+  "tren siguiente detenido antes impacto",
+  "supresión prevista paso nivel"
+ ],
+ "factores_humanos": [
+  "conductor motocicleta ignoró señalización",
+  "comportamiento indebido usuario vía pública"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

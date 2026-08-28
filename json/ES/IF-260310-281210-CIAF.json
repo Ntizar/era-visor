@@ -1,0 +1,50 @@
+{
+ "id": "ES-IF-260310-281210-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-260310-281210-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-886",
+ "expediente": "0018/2010",
+ "titulo": "Colisión por alcance entre trenes de mercancías 58242 y 58244 cerca de Arévalo (Ávila)",
+ "fecha_suceso": "2010-03-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Arévalo",
+  "provincia": "Ávila",
+  "pk": "172+050",
+  "linea": "Línea 100 Madrid Chamartín - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de marzo de 2010, a las 00:33 horas, se produjo una colisión por alcance entre los trenes de mercancías 58242 y 58244, de Renfe Operadora, en el PK 172+050 de la línea 100 Madrid Chamartín - Hendaya, cerca de la estación de Arévalo (Ávila). El tren 58242 estaba detenido ante la señal de entrada E2 en indicación de parada, mientras que el tren 58244 recibió vía libre en la señal avanzada 1734 pese a estar ocupado el cantón siguiente. El origen fue un fallo técnico en la señalización fija asociado a cambios en el enclavamiento para pruebas del bloqueo automático banalizado. Contribuyeron la no interrupción del tráfico, la falta de verificación en campo y una evaluación incorrecta del riesgo.",
+ "causa_directa": "Fallo técnico en la señalización fija, provocado por los cambios en el enclavamiento de Arévalo para pruebas, que hizo que la señal avanzada 1734 mostrara vía libre con el cantón siguiente ocupado.",
+ "causas_sistemicas": "No interrupción completa de las circulaciones ni medidas equivalentes como bloqueo alternativo o inhibición de indicaciones permisivas; falta de verificación en campo de la concordancia de señales según la consigna; incorrecta evaluación del riesgo y falta de validación documental de los cambios provisionales del enclavamiento.",
+ "recomendaciones": [
+  "Adif: establecer análisis y evaluación de las actuaciones de seguridad de la empresa instaladora conforme a UNE-EN 50126 y caso de seguridad.",
+  "Adif: interrumpir circulaciones o establecer bloqueo alternativo, verificar en campo las instalaciones de seguridad y recogerlo en la consigna con análisis de riesgos.",
+  "UTE Dimetronic-Thales: revisar procesos de seguridad/calidad, clarificar responsabilidades, controlar la verificación/validación y documentar el caso de seguridad antes de la puesta en servicio."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "Freight train number 58244 collided with the rear of freight train number 58242 that was standing at the home signal that was stating a stop aspect. As a result, the locomotive of the first train climbed onto the last carriage of the second train. Both trains were \"twins\" and were carrying steel coils .",
+  "Location name": "Near Arevalo station (Avila), kilometre point 172,050, 100 Madrid-Henday railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by technical failure of the safety of the railway plant, in particular, in the fixed signalling produced by changes  in the interlocking of Arévalo station for testing it. These changes consisted in the installation of new cards and software for the future placement in service of bi-directional ABS on the route. The rear collision happens when caution signal 1734 indicated line-clear, being  the next track circuit engaged and the home signal E2 stating a stop indication.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "There is a set of circumstances that have contributed to the occurrence of this accident:Trains running during the work were not holding up or, failing that, the establishment of measures that would have guaranteed the safety of   these trains, such as: establishing an alternative blocking system \tacting over the affected signals in order to avoid them stating aspects which authorised the train´s movements (green -yellow)/ No verification on site that the signals met the indications that were established in the special order that regulates the work. / Wrong assessment of the risk involving the performance of the works"
+ }
+}

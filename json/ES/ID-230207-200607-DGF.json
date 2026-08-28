@@ -45,5 +45,30 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "LZB",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "transito indebido de viandante",
+  "acceso no autorizado a via",
+  "escasa visibilidad nocturna"
+ ],
+ "mitigaciones": [
+  "frenado de urgencia inmediato",
+  "uso repetido de bocina",
+  "velocidad inferior a maxima"
+ ],
+ "factores_humanos": [
+  "imprudencia grave de victima",
+  "movimientos inestables persona",
+  "comportamiento temerario peaton"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

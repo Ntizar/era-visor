@@ -1,0 +1,67 @@
+{
+ "id": "ES-IF-050708-181208-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-050708-181208-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-593",
+ "expediente": "0029/2008",
+ "titulo": "Descarrilamiento del tren 408 en la estación de Medina del Campo por exceso de velocidad",
+ "fecha_suceso": "2008-07-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Medina del Campo",
+  "provincia": "Valladolid",
+  "pk": "206,300",
+  "linea": "100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 5 de julio de 2008, el tren de larga distancia 408 descarriló al entrar en la vía 4 de la estación de Medina del Campo. Los siete primeros vehículos remolcados se salieron de la vía mientras que la locomotora y los restantes vehículos permanecieron encarrilados. El suceso causó nueve heridos leves y daños materiales significativos en infraestructura y material rodante.",
+ "causa_directa": "Falta de adecuación de la conducción por parte del maquinista a las señales de limitación de velocidad (120 km/h y 90 km/h), pasando por ellas a 154 km/h y 151 km/h respectivamente.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "A sleeping car train, travelling from Paris to Madrid, entering Medina del Campo station, derailed. As a result,7 of its 24 railway carriages jumped off the track. There were no fatalities, just nine slightly injured.",
+  "Location name": "Medina del Campo (Valladolid) station, 100 Madrid-Hendaya railway line, at kilometre point 208,312",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No adecuar conducción a señales",
+  "Circular sobre velocidad permitida",
+  "Pasar señal 120 a 154",
+  "Entrar curva a 151 km/h"
+ ],
+ "mitigaciones": [
+  "Frenado inmediato tras golpe",
+  "Uso del manipulador de freno",
+  "Uso seta de urgencia",
+  "Aviso inmediato a emergencias"
+ ],
+ "factores_humanos": [
+  "Error de conducción maquinista",
+  "Falta adecuación a señales",
+  "No recordar causa frenada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

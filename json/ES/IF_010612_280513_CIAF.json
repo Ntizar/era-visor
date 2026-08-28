@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_010612_280513_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_010612_280513_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1437",
+ "expediente": "0041/2012",
+ "titulo": "Descarrilamiento tren mercancías 92559 entre Duesaigües-L'Argentera y Marçà-Falset (Tarragona)",
+ "fecha_suceso": "2012-06-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Tarragona",
+  "pk": "558+049",
+  "linea": "210 Miraflores - Tarragona"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 1 de junio de 2012, a las 14:32, el tren de mercancías 92559 de Renfe Operadora descarriló entre Duesaigües-L'Argentera y Marçà-Falset, en la línea 210 Miraflores-Tarragona. El descarrilamiento comenzó en el túnel nº 73 con el primer eje del penúltimo vagón y el tren continuó descarrilado unos 6 kilómetros. Durante el recorrido descarrilaron más ejes y vagones, se perdieron contenedores y se produjeron daños en infraestructura y material. La investigación atribuye el origen a un fallo de infraestructura por la incorrecta disposición de un cupón de vía.",
+ "causa_directa": "El accidente tuvo su origen en el fallo de la infraestructura, principalmente por una incorrecta disposición de un cupón de vía existente en la zona del túnel nº 73.",
+ "causas_sistemicas": "Deficiencias en el mantenimiento correctivo de la infraestructura: el cupón de vía tenía longitud insuficiente para la velocidad, montaje no conforme a normativa, bridas sin calzos y con tuerca faltante, grapas mal fijadas, parámetros de vía con alabeo fuera de tolerancia y problemas de filtraciones/drenaje en el túnel.",
+ "recomendaciones": [
+  "Adif: realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, conforme al Manual del Sistema de Gestión de Seguridad en la Circulación, para verificar la correcta aplicación de la normativa."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train partially derailed and became stopped at Marçá-Falset station.",
+  "Location name": "Falset (Tarragona)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "150 000 - 2 000 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in an infrastructure failure, basically for an incorrectly layout of a rail section in the area."
+ }
+}

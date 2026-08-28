@@ -1,0 +1,65 @@
+{
+ "id": "ES-IF-150110-310510-CIAF_VILA-REAL",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-150110-310510-CIAF_VILA-REAL.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-856",
+ "expediente": "0002/2010",
+ "titulo": "Arrollamiento de un motocarro por el tren 264 en el paso a nivel de Vila-real (Castellón)",
+ "fecha_suceso": "2010-01-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Vila-real",
+  "provincia": "Castellón",
+  "pk": "62+902",
+  "linea": "600 Valencia – San Vicente de Calders"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 15 de enero de 2010, el tren de larga distancia 264 de Renfe Operadora arrolló a un motocarro en el paso a nivel de clase C situado en el P.K. 62+902 de la estación de Vila-real (Castellón). El vehículo cruzó el paso a nivel con las semibarreras bajadas y las señales activas, pese a la aproximación del tren. El conductor, único ocupante, falleció tras el impacto y el arrastre del vehículo. El informe indica que los equipos del tren y las instalaciones del paso a nivel funcionaron correctamente.",
+ "causa_directa": "El accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando las semibarreras se encontraban bajadas y las señales indicaban la llegada del tren 264.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A road vehicle crossed the level crossing when the barriers were lowered and all of its devices (acoustic and lights) were working. As a result, the car was hit by the coming train killing the ocupant of the car.",
+  "Location name": "Villarreal station (Castellón), level crossing type C, kilometre point 62,902, 600 Valencia-San Vicente de Calders railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "vehículo cruza semibarreras bajadas",
+  "señales luminosas activas ignoradas"
+ ],
+ "mitigaciones": [
+  "uso inmediato freno de urgencia",
+  "activación silbato por maquinista"
+ ],
+ "factores_humanos": [
+  "conductor vehículo infringe normas",
+  "comportamiento imprudente usuario vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

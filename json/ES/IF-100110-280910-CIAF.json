@@ -1,0 +1,75 @@
+{
+ "id": "ES-IF-100110-280910-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-100110-280910-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-873",
+ "expediente": "0006/2010",
+ "titulo": "Descarrilamiento del tren 112 de Renfe en Majarabique (Sevilla)",
+ "fecha_suceso": "2010-01-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Sevilla",
+  "pk": "568+250",
+  "linea": "400 Alcázar de San Juan - Cádiz"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 10 de enero de 2010, el tren de viajeros 112 de Renfe Operadora descarriló en Majarabique (Sevilla) tras pasar por el cambiador de ancho. La rueda izquierda del primer eje del vehículo motriz de cola no quedó en el ancho de vía requerido, posiblemente por acumulación de nieve helada. El sistema de detección de cerrojos caídos no actuó, impidiendo detectar la anomalía durante el cambio de ancho. El tren recorrió varios kilómetros antes de detenerse mediante la actuación del aparato de alarma.",
+ "causa_directa": "Fallo en el proceso de cambio de ancho: la rueda izquierda del primer eje del vehículo motriz de cola no quedó en el ancho de vía requerido, posiblemente por acumulación de nieve helada en el mecanismo de cambio de la rodadura.",
+ "causas_sistemicas": "No actuación del sistema de detección de cerrojos caídos; aplicación parcial del protocolo de TALGO en condiciones de nieve; ausencia de comprobación en cabina del enclavamiento de las ruedas; insuficiente protección y duplicación de los detectores.",
+ "recomendaciones": [
+  "Estudiar y actualizar el procedimiento de paso por los cambiadores, incluyendo las últimas modificaciones y definiendo claramente las funciones de los operarios y del personal de acompañamiento en circunstancias extraordinarias.",
+  "Mantener el sistema de detección de cerrojos caídos permanentemente activado, con indicación de falta de energía y precintando los interruptores de puesta en marcha y desconexión.",
+  "Duplicar el sistema de detección de cerrojo no enclavado y mejorar la protección de los microrruptores para evitar activaciones esporádicas.",
+  "Estudiar la posibilidad de montar un sistema de indicación al maquinista para que, ante un problema en el proceso de cambio, detenga el tren.",
+  "Estudiar la posibilidad de instalar un sistema de aviso de no desplazamiento de la rueda, por rotura de conducto neumático de cristal o por pedal mecánico, que transmita un aviso de frenado al tren."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "A long distance passenger train, after it had left Majarabique break-of-gauge, came to a halt before it reached Sevilla station. The driver checked the train and noticed that the left wheel of the axle number 17 of the first bogie (direction of travel) and both wheels of axles 15 and 16 (penultimate car) were derailed.",
+  "Location name": "Kilometre point 568+250 at 400 Alcázar de San Juan â€“ Cádiz railway line, at 4,4 kilometres from Majarabique gauge changing facility (Sevilla)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by failure of the break of gauge process, when the left wheel of the driving car’s first axle didn’t set in the required gauge. This failure probably was caused by an iced snow build-up in the change mechanism of the affected bogie."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Nieve helada en mecanismo",
+  "Cumplimiento parcial del protocolo",
+  "Detección de cerrojos inactiva",
+  "Supervisión sin detectar anomalía"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia accionado",
+  "Velocidad inferior a máxima permitida",
+  "Detección de cerrojos activa",
+  "Verificación completa en foso"
+ ],
+ "factores_humanos": [
+  "Inspección parcial del foso",
+  "No activación de detectores",
+  "Falta de indicación en cabina",
+  "Procedimientos extraordinarios poco definidos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

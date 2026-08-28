@@ -30,5 +30,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "viajero permanece en andén",
+  "viajero corre junto tren",
+  "viajero intenta abrir puerta",
+  "lluvia reduce visibilidad"
+ ],
+ "mitigaciones": [
+  "maquinista detiene tren",
+  "jefe circulación cierra señal",
+  "megafonía anuncia salida",
+  "monitor CCTV verifica andén"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "intención subir en marcha",
+  "visibilidad reducida por lluvia",
+  "espejo retrovisor mojado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

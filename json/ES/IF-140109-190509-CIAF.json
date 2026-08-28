@@ -1,0 +1,69 @@
+{
+ "id": "ES-IF-140109-190509-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-140109-190509-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-693",
+ "expediente": "0002/2009",
+ "titulo": "Arrollamiento de una persona en un paso a nivel de la estación de Avilés",
+ "fecha_suceso": "2009-01-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Avilés",
+  "provincia": "Asturias",
+  "pk": "16,863",
+  "linea": "144 San Juan de Nieva – Villabona"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 14 de enero de 2009, a las 10:57 horas, el tren de cercanías 22321 de Renfe Operadora arrolló a una mujer en un paso a nivel tipo C de la estación de Avilés. La víctima cruzó la vía sorteando las semibarreras bajadas mientras funcionaban correctamente las señales acústicas y luminosas. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. La mujer falleció en el acto como consecuencia del atropello.",
+ "causa_directa": "La víctima cruzó el paso a nivel sorteando las barreras bajadas en el momento en que el tren 22321 circulaba por él.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "The commuter train 22321 knocked down a woman who crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working.",
+  "Location name": "Avilés station (Asturias, level crossing type C, kilometre point 16,863, at 144 Villabona de Asturias - San Juan de Nieva railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima sortea semibarreras bajadas",
+  "Peatón ignora señales activas",
+  "Tren se aproxima al paso a nivel"
+ ],
+ "mitigaciones": [
+  "Silbato repetido por maquinista",
+  "Freno de emergencia aplicado",
+  "Supresión prevista del paso a nivel",
+  "Señales acústicas y luminosas activas"
+ ],
+ "factores_humanos": [
+  "Víctima cruza barreras bajadas",
+  "Comportamiento peatonal de riesgo",
+  "Zona urbana muy transitada",
+  "Maquinista actúa correctamente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

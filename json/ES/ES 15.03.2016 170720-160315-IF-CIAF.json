@@ -1,0 +1,55 @@
+{
+ "id": "ES-ES 15.03.2016 170720-160315-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 15.03.2016 170720-160315-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0012/2016",
+ "titulo": "Arrollamiento de obstáculo y descarrilamiento por desmoronamiento de trinchera en Mont-Roig del Camp (Tarragona)",
+ "fecha_suceso": "2016-03-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Mont-Roig del Camp",
+  "provincia": "Tarragona",
+  "pk": "247+490",
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif"
+ ],
+ "resumen": "El 15 de marzo de 2016, el tren 11161 de Renfe Viajeros entre Barcelona y Alicante arrolló tierras y una roca desprendidas de una trinchera en plena vía, cerca de Mont-Roig del Camp (Tarragona). El impacto provocó el descarrilamiento del primer eje del bogie delantero y la circulación descarrilada durante 826 metros hasta detenerse. No hubo víctimas mortales ni heridos, aunque tres pasajeros fueron atendidos por ansiedad o lipotimia. Se produjeron daños materiales en el tren y en la infraestructura.",
+ "causa_directa": "Fallo de infraestructura por desmoronamiento parcial de la trinchera, que ocupó la vía con tierras y una roca de gran tamaño, provocando el arrollamiento del obstáculo y el descarrilamiento. Como factor coadyuvante, las fuertes lluvias de días anteriores.",
+ "causas_sistemicas": "La trinchera no estaba catalogada como punto de riesgo ni incluida en el Plan de Trincheras, y el tramo no estaba protegido con gunitado; las inspecciones no detectaron síntomas de fallo.",
+ "recomendaciones": [
+  "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "fuertes lluvias días anteriores",
+  "desmoronamiento parcial trinchera",
+  "roca ocupó caja vía"
+ ],
+ "mitigaciones": [
+  "uso freno urgencia maquinista",
+  "tren no superaba velocidad máxima",
+  "transbordo viajeros a autobuses"
+ ],
+ "factores_humanos": [
+  "inspecciones previas sin detectar riesgo",
+  "tramo no protegido con gunitado",
+  "trinchera no catalogada punto riesgo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

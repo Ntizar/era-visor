@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES-6201 - 210520-200124-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-6201 - 210520-200124-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "04/2020",
+ "titulo": "Descarrilamiento del tren 04171 en Bifurcación Cerrato (Palencia) tras desvío nº4 mal dispuesto",
+ "fecha_suceso": "2020-01-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Bifurcación Cerrato",
+  "provincia": "Palencia",
+  "pk": null,
+  "linea": "LAV Madrid - Valladolid - León"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "ADIF",
+  "ADIF-Alta Velocidad"
+ ],
+ "resumen": "Sobre las 18:25, el desvío nº4 de Bifurcación Cerrato no daba comprobación a posición invertida. Tras una inspección de la brigada de desvíos, el responsable de circulación autorizó el rebase de la señal E9 al tren 04171 mediante telefonema, pese a mantenerse la falta de comprobación. El tren de Renfe Viajeros, entre Madrid Chamartín y Gijón San Crespo, descarriló su primer bogie al pasar por la aguja nº4 a las 19:01.",
+ "causa_directa": "La disposición incompleta de la punta de la aguja del desvío nº4 a posición desviada, junto con la inspección errónea que permitió autorizar la circulación.",
+ "causas_sistemicas": "Ausencia de procedimientos específicos para la gestión de anomalías y averías por falta de comprobación de agujas; falta de comunicación reglada entre el Oficial 1ª y el PSH; escasa experiencia de la brigada; descoordinación entre contratistas de vía y señalización; y limitaciones en los pliegos de mantenimiento para exigir requisitos de seguridad y supervisión.",
+ "recomendaciones": [
+  "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas.",
+  "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación.",
+  "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación degradada",
+ "precursores": [
+  "Falta comprobación posición desviada aguja",
+  "Inspección errónea brigada de desvíos",
+  "Autorización rebase señal por telefonema",
+  "Desconocimiento causa falta comprobación"
+ ],
+ "mitigaciones": [
+  "Protocolos verificación acoplamiento agujas",
+  "Supervisión experiencia personal mantenimiento",
+  "Coordinación reglada entre equipos técnicos",
+  "Requisitos seguridad en contratos mantenimiento"
+ ],
+ "factores_humanos": [
+  "Escasa experiencia brigada desvíos",
+  "Ausencia comunicación reglada Oficial-PSH",
+  "Descoordinación brigadas desvíos-señalización",
+  "Limitaciones disponibilidad personal cualificado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

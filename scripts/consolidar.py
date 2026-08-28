@@ -64,6 +64,7 @@ def main(codigo: str):
             "erail_id": d.get("erail_id"),
             "lat": loc.get("lat") or d.get("lat"),
             "lng": loc.get("lng") or d.get("lng"),
+            "metodo_geo": loc.get("metodo_geo"),
             "resumen": d.get("resumen"),
             "descripcion": d.get("descripcion"),
             "causa_directa": d.get("causa_directa"),

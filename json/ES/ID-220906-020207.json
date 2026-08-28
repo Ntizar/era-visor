@@ -45,5 +45,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce por paso abusivo",
+  "Invasión intempestiva de vía",
+  "Existencia de paso irregular",
+  "No eliminación de paso irregular"
+ ],
+ "mitigaciones": [
+  "Uso inmediato del silbato",
+  "Aplicación urgente de freno",
+  "Velocidad inferior a máxima",
+  "Eliminación futura de paso irregular"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Desoír aviso acústico del tren",
+  "Edad avanzada de la víctima",
+  "Falta de control de accesos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

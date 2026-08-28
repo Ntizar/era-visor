@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_150612_290413_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_150612_290413_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1438",
+ "expediente": "0045/2012",
+ "titulo": "Conato de colisión por alcance entre trenes de mercancías 90602 y 82202 en la estación de Arévalo (Ávila)",
+ "fecha_suceso": "2012-06-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Arévalo",
+  "provincia": "Ávila",
+  "pk": "169+839",
+  "linea": "100 Madrid - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 15 de junio de 2012, en la estación de Arévalo, el tren de mercancías 90602 inició la marcha sin itinerario de salida ni orden de marcha mientras otro tren, el 82202, ocupaba el cantón Arévalo-Sanchidrián bajo bloqueo telefónico supletorio. Se produjo un conato de colisión por alcance, detenido por el puesto de mando a unos 15.090 metros del tren precedente. El incidente no causó víctimas y el tren 90602 retrocedió a vía 4.",
+ "causa_directa": "El incidente tuvo su origen en un fallo humano del personal de conducción del tren 90602, al reanudar la marcha sin haber recibido la orden de marcha, incumpliendo el artículo 432 del RGC.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Freight train overtook exit signal causing a near miss train collision with another freight train.",
+  "Location name": "Arévalo station (Ávila)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin in a human failure of train 90602 driver when restarting train´s march without having been authorised to do so, failing to observe article 432 of General Operating Rules"
+ }
+}

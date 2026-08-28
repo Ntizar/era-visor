@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-130711-250912-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-130711-250912-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1255",
+ "expediente": "0044/2011",
+ "titulo": "Descarrilamiento tren mercancías Logitren entre Teruel y Caparrates por mal estado de vía y estiba",
+ "fecha_suceso": "2011-07-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Caparrates",
+  "provincia": "Teruel",
+  "pk": "137+810",
+  "linea": "610 Sagunto – Bif. Teruel"
+ },
+ "entidades": [
+  "Logitren",
+  "Adif",
+  "Ben Trade Cables Ibérica S.A."
+ ],
+ "resumen": "El 13 de julio de 2011, un tren de mercancías de Logitren descarriló en el PK 137+810 de la línea 610, entre las estaciones de Teruel y Caparrates. El incidente comenzó con el remonte de una rueda del noveno vagón debido a alabeos en la vía y una inadecuada estiba de la carga. El tren circuló descarrilado durante 3,29 kilómetros hasta impactar contra una aguja en la estación de Caparrates, provocando el vuelco y descarrilamiento de varios vagones adicionales. No hubo víctimas personales.",
+ "causa_directa": "Confluencia de hechos: estado deficiente de la vía (fuertes alabeos y baches), indicios de inadecuada estiba de la carga (falta de calces) y condiciones desfavorables del trazado (curva de radio 300 m y rampa).",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train partially derailed and a container turned over.",
+  "Location name": "Between Teruel and Caparrates stations (Teruel), kilometre point 137+810, 610 Sagunto-Bif.Teruel railway line",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "LOGITREN FERROVIARIA",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "There was a confluence of circumstances that made the right wheel of the ninth wagon´s first axle to lift first and later become derailed.On one hand, there was a strong buclking of rail and some low points. On the other hand there is evidence of an inadequate loading."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Mal estado de la vía",
+  "Inadecuada estiba de carga",
+  "Curva radio 300 metros",
+  "Rampa pronunciada"
+ ],
+ "mitigaciones": [
+  "Limitación temporal velocidad",
+  "Maquinista frena al detectar polvo",
+  "Velocidad inferior a límite"
+ ],
+ "factores_humanos": [
+  "Falta calces sujeción bobinas",
+  "Incumplimiento norma técnica carga"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

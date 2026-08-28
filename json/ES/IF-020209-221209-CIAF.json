@@ -1,0 +1,67 @@
+{
+ "id": "ES-IF-020209-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-020209-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-699",
+ "expediente": "0010/2009",
+ "titulo": "Colisión lateral entre trenes de viajeros y mercancías en el túnel de Osina (Guipúzcoa)",
+ "fecha_suceso": "2009-02-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Guipúzcoa",
+  "pk": "551+790",
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 2 de febrero de 2009, los trenes de media distancia 16005 y de mercancías 57656 colisionaron lateralmente dentro del túnel de Osina. Ambos circulaban a velocidades permitidas, pero la geometría defectuosa de la vía provocó que se rozaran al cruzarse. Como resultado, una pasajera sufrió heridas leves por rotura de lunas y hubo daños materiales en el tren de viajeros.",
+ "causa_directa": "La colisión lateral tuvo su origen como consecuencia del defecto de la vía por peralte y entrecalle fuera de tolerancia.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+  "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+  "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "Both trains collided sideways.",
+  "Location name": "Osina tunnel (Guipúzcoa), kilometre point 551,790, between Zegama Otzaurte and Brinkola stations, 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train; \nRegional passenger train",
+  "RU involved": "RENFE-Operadora; \n",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The collision was caused as the rail track was deficient due to its superelevation and rail gauge measures did not comply with the standard values."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Peralte fuera de tolerancia",
+  "Entrecalle fuera de tolerancia",
+  "Defecto de vía no corregido"
+ ],
+ "mitigaciones": [
+  "Respeto de velocidad máxima permitida",
+  "Corrección de peralte y entrecalle",
+  "Mantenimiento periódico de infraestructura",
+  "Sustitución por vía en placa"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

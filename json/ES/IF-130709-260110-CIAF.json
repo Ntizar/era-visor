@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-130709-260110-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-130709-260110-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-775",
+ "expediente": "0036/2009",
+ "titulo": "Arrollamiento de un camión por el tren 15653 en paso a nivel particular en Jaca (Huesca)",
+ "fecha_suceso": "2009-07-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Huesca",
+  "pk": "99+367",
+  "linea": "204 Bifurcación Huesca Cambiador - Canfranc"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 13 de julio de 2009, el tren de media distancia 15653 arrolló a un camión articulado con remolque que invadió el paso a nivel particular situado en el P.K. 99+367, entre Jaca y Sabiñánigo. El vehículo de carretera incumplió la señalización de stop del camino de acceso al cruzar la vía mientras pasaba el tren. Como consecuencia de la colisión, resultaron heridos leves el conductor del camión y un viajero del tren.",
+ "causa_directa": "Ocupación indebida del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel incumpliendo la señalización de stop en el momento en que pasaba el tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A passenger train (nº15653) hit a truck-trailer which had crossed a private level crossing as the same time the train was approaching. As a result the train collided with the truck which overturned out of the gauge. The truck driver and a passenger were slightly injured.",
+  "Location name": "Kilometre point 99,367 at 204 Bif. Huesca-Canfranc railway line, near Sabiñánigo station (Huesca)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Camión invade paso a nivel",
+  "Vehículo incumple señal de stop",
+  "Ocupación indebida del gálibo",
+  "Acceso desde camino de tierra"
+ ],
+ "mitigaciones": [
+  "Maquinista usa silbato",
+  "Maquinista aplica freno",
+  "Visibilidad del paso es buena",
+  "Velocidad dentro de tolerancia"
+ ],
+ "factores_humanos": [
+  "Conductor camión incumple stop",
+  "No observa aproximación del tren",
+  "Omisión de precaución en paso",
+  "Maquinista cumple normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

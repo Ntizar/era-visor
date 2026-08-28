@@ -44,5 +44,28 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Material Rodante Adif",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Intento de cruzar vía no habilitada",
+  "Tren en curva con visibilidad limitada",
+  "Paso vicioso existente en vía"
+ ],
+ "mitigaciones": [
+  "Bocina y freno de emergencia",
+  "Atención inmediata por personal",
+  "Circulación por debajo velocidad máxima"
+ ],
+ "factores_humanos": [
+  "Víctima cruza lugar no habilitado",
+  "Maquinista responde correctamente",
+  "Falta de medidas de protección"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-201209-310510-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-201209-310510-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-853",
+ "expediente": "0066/2009",
+ "titulo": "Accidente ferroviario 0066/2009: arrollamiento de un niño en paso a nivel de Sant Guim de Freixenet (Lérida)",
+ "fecha_suceso": "2009-12-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sant Guim de Freixenet",
+  "provincia": "Lérida",
+  "pk": "253+775",
+  "linea": "220 Lérida Pirineos - L'Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 20 de diciembre de 2009, a las 17:07 horas, el tren de media distancia 15624 de Renfe Operadora arrolló a un niño que cruzaba corriendo por el paso a nivel clase C situado en el P.K. 253+775 de la línea 220. El paso a nivel se encontraba próximo al apeadero de Sant Guim de Freixenet, en la provincia de Lérida. Las semibarreras estaban bajadas y la señalización indicaba la llegada del tren. El maquinista aplicó el freno de emergencia y utilizó el silbato, pero no pudo evitar el atropello. No se produjeron daños al material rodante ni a la infraestructura.",
+ "causa_directa": "El accidente tuvo su origen en la actuación de la víctima, que cruzaba la vía por el paso a nivel cuando circulaba el tren, estando las barreras bajadas y la señalización alertando de la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A young boy is hit by a passenger train when he was crossing the level crossing. As a result he died.",
+  "Location name": "Sant Guim de Freixenet (Lérida), level crossing type C, kilometre point 253,775; 220 Lleida Pirineus-L´Hospitalet de Llobregat railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ }
+}

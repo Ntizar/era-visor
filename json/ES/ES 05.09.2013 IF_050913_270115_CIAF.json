@@ -1,0 +1,75 @@
+{
+ "id": "ES-ES 05.09.2013 IF_050913_270115_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 05.09.2013 IF_050913_270115_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2898",
+ "expediente": "0060/2013",
+ "titulo": "Conato de colisión entre trenes en plena vía entre Boo y Mortera (Cantabria)",
+ "fecha_suceso": "2013-09-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Cantabria",
+  "pk": "519+301",
+  "linea": "Línea 770 Santander-Oviedo, tramo Mogro-Bezana"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 5 de septiembre de 2013 se produjo un conato de colisión en el tramo Mogro-Bezana de la línea 770 entre el tren 6923 y el tren 6725. El tren 6725, con problemas eléctricos y acoplado al 6727, circulaba a baja velocidad y sufrió múltiples frenadas de emergencia con exceso de arenado. Esto provocó una pérdida de shuntado en el circuito de vía y, además, un relé de secuencia defectuoso permitió que la señal B5192 pasara a vía libre con el cantón ocupado. El tren 6923 reinició la marcha, rebasó la señal 48 metros y frenó por ASFA, quedando a 198 metros del otro tren sin víctimas ni daños materiales.",
+ "causa_directa": "El incidente se originó por un fallo combinado: el exceso de arenado del tren 6725 causó pérdida de shuntado en el circuito de vía y un relé de secuencia defectuoso abrió indebidamente la señal B5192, permitiendo que el tren 6923 reiniciara la marcha y rebasara la señal en parada.",
+ "causas_sistemicas": "Ausencia de actuaciones de mantenimiento preventivo específicas para los relés de secuencia y verificación según periodicidad del fabricante; además, los problemas eléctricos del tren y las múltiples frenadas de emergencia generaron un arenado excesivo no controlado automáticamente a baja velocidad.",
+ "recomendaciones": [
+  "Adif: Determinar dentro de la RAM los lugares con equipos similares a los descritos para analizar su estado de funcionamiento y estudiar actuaciones de mejora.",
+  "Adif: Incluir en los planes de mantenimiento de las instalaciones la revisión y verificación de relés de secuencia similares, con la periodicidad y consistencia indicadas por el fabricante.",
+  "Renfe Integria: Analizar la posibilidad de reducir los caudales de arenado de las unidades 3800, adecuándolos a las recomendaciones existentes."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Wrong-side signalling failure",
+  "Occurrence description": "Passenger train overtook block signal that stated clear line but should had stated a stop aspect.",
+  "Location name": "Polanco, between Mogro and Bezana stations (Cantabria)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin in a combined failure of the functioning both track facilities and rolling stock. On one hand, an excess of sandblasting, due to many emergency brakings of train 6725, caused the track circuit to lost its shunt. On the other hand, the unusual performance of the relay caused the improper opening of signal B5192 that stated clear line when the ATO section was engaged for train 6725."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Problemas eléctricos tren 6725",
+  "Múltiples frenadas de emergencia",
+  "Exceso de arenado en carriles",
+  "Fallo relé secuencia circuitos vía"
+ ],
+ "mitigaciones": [
+  "Freno emergencia por ASFA",
+  "Velocidad inferior a 20 km/h",
+  "Corte automático arenado baja velocidad",
+  "Reemplazo relés por software"
+ ],
+ "factores_humanos": [
+  "Falta de mantenimiento preventivo relés",
+  "Ausencia revisión periódica fabricante",
+  "Arenado manual criterio maquinista",
+  "Problemas eléctricos no resueltos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

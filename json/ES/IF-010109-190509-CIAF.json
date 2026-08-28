@@ -1,0 +1,69 @@
+{
+ "id": "ES-IF-010109-190509-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-010109-190509-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-692",
+ "expediente": "0001/2009",
+ "titulo": "Arrollamiento de una persona por tren de cercanías en la estación de Sitges",
+ "fecha_suceso": "2009-01-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sitges",
+  "provincia": "Barcelona",
+  "pk": "643,230",
+  "linea": "200 Madrid Chamartín - Barcelona Sants"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 1 de enero de 2009, el tren de cercanías 28467 de Renfe Operadora arrolló a un hombre mientras se estacionaba en la vía 1 de la estación de Sitges. La víctima intentó subir al tren antes de que este quedara completamente detenido y con las puertas abiertas. Como consecuencia del golpe, cayó a la vía y quedó aprisionada entre el andén y el bogie del tercer coche, falleciendo posteriormente durante la atención sanitaria.",
+ "causa_directa": "El acercamiento de la víctima al tren cuando este aún estaba en movimiento y no había finalizado su maniobra de estacionamiento.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, standing at the platform, prior to the train was completly stopped, fell between the train and the platform.",
+  "Location name": "Sitges station (Barcelona), at 643,243 kilometre point, on 200 Madrid-Barcelona railway.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Acercamiento de la víctima al tren",
+  "Intento de subir al tren",
+  "Tren aún no detenido",
+  "Puertas del tren cerradas"
+ ],
+ "mitigaciones": [
+  "Freno de urgencia inmediato",
+  "Velocidad inferior a máxima",
+  "Equipos de seguridad funcionaron",
+  "Atención sanitaria inmediata"
+ ],
+ "factores_humanos": [
+  "Conducta de la víctima",
+  "No espera parada completa",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

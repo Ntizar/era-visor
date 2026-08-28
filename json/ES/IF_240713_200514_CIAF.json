@@ -1,0 +1,50 @@
+{
+ "id": "ES-IF_240713_200514_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_240713_200514_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2566",
+ "expediente": "0054/2013",
+ "titulo": "Accidente grave ferroviario en las proximidades de la estación de Santiago de Compostela (A Coruña)",
+ "fecha_suceso": "2013-07-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Santiago de Compostela",
+  "provincia": "A Coruña",
+  "pk": null,
+  "linea": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El informe detalla el accidente grave ocurrido el 24 de julio de 2013 cerca de la estación de Santiago de Compostela. Se investigan los hechos inmediatos, incluyendo el descarrilamiento del tren y sus consecuencias materiales y personales. El documento analiza los sistemas de gestión de seguridad de Adif y Renfe Operadora, así como las declaraciones del personal implicado y los registros técnicos.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 80,
+ "heridos_graves": 73,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "The accident took place on 24 July 2013, at 20:41 pm, in the PK 84 +413 of 082 Bifurcación Coto da Torre – Bifurcación A Grandeira aguja km 85.0 railway line, nearby Santiago de Compostela station. _x000D_\nThe long distance passenger train Alvia 150/151 of Renfe Operadora, class S-730, consisting of 13 vehicles, running from Madrid-Chamartín station to Ferrol station (A Coruña), after making a passenger stop in Ourense, changed its train driver and resumed its route with four minutes of delay and kept running through 082 railway line (known as “Ourense-Santiago” railway line)._x000D_\nThe train ran the first 78 km of the line at a speed of about 200 km/h, with the ASFA Digital system in service, finding all signals it passed through stating clear line. _x000D_\nApproximately 6.000 m (PK 78 +280) before the start of the curve at Bifurcación A Grandeira (located at PK 84 +228, speed limited to 80 km/h), the train driver answered a service phone call, made by the ticket inspector that was on board, using the company mobile phone. _x000D_\nThe train kept on running at track 1 and passed through the Bifurcación A Grandeira´s caution signal E'7 (PK 80 +619), stating clear line, at a speed close to 200 km/h, train driver still talking through the mobile phone, which probably made him to divert his attention and not start braking at the precise time to adapt the train´s speed to the one that was prescribed for the curve of radius 402 m (starting at PK 84 +228). _x000D_\nWhen the train was very close to the home signal E7 (PK 84 +176), which also stated clear line, the last sound of the telephone conversation was recorded (one hundred seconds had passed since its beginning) and the emergency brake application was made then, passing through the signal at 195 km / h. Train 150/151 is already very close to the beginning of the curve (PK 84 +228), derailing within it after 185 meters from its starting point ( PK 84 +413), traveling at 179 km/h. _x000D_\nAll the thirteen cars derailed and were out of track 1. The first three were about 10 m separated from the following two and these were 30 m apart from the rest. Rear technical end coach (CET) caught fire and one of the cars of the last group (the eighth) flew off over a concrete wall.",
+  "Location name": "Near Santiago de Compostela station (La Coruña)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Passenger fatalities": 78,
+  "Staff fatalities": 2,
+  "Total fatalities": 80,
+  "Passenger serious injuries": 73,
+  "Total serious injuries": 73,
+  "Estimated total material costs": "150 000 - 2 000 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The cause of the accident was the train´s speeding (traveling at 179 km / h) at the curve for entering to Bifurcación A Grandeira (“Angrois curve”, speed limited to 80 km / h), when the train driver didn´t comply with what is laid down on the train 150/151´s Route Book and on the Table of Maximum Speeds book for line 082. _x000D_\nIt´s pointed, as a contributing cause, the lack of attention of the train driver as he answered a service phone call from the train´s ticket inspector which led to the application of the brake in an inadequate manner to reduce the speed before reaching that curve."
+ }
+}

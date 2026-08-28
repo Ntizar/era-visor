@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-131209-270410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-131209-270410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-838",
+ "expediente": "0062/2009",
+ "titulo": "Arrollamiento de un vehículo por un tren en el paso a nivel de Orbita-Espinosa (Ávila)",
+ "fecha_suceso": "2009-12-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Orbita-Espinosa",
+  "provincia": "Ávila",
+  "pk": "164+429",
+  "linea": "100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 13 de diciembre de 2009, a las 18:27 horas, el tren de viajeros 17212 de Renfe Operadora arrolló a un vehículo en el paso a nivel de clase A situado en el P.K. 164+429, cerca del apeadero de Orbita-Espinosa (Ávila). El vehículo cruzó el paso a nivel cuando el convoy alcanzaba el mismo y fue arrastrado 319 metros. El único ocupante del vehículo falleció como consecuencia del impacto. La investigación atribuye el origen del accidente al cruce del vehículo por el paso a nivel mientras circulaba el tren.",
+ "causa_directa": "El accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando circulaba el tren 17212.",
+ "causas_sistemicas": "La señalización de carretera del paso a nivel era incompleta y no se adaptaba a la Orden de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+ "recomendaciones": [
+  "Adecuar la señalización de carretera del paso a nivel conforme a lo establecido en la Orden de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car is knocked down by a passenger train. As a result, the sole occupant died.",
+  "Location name": "Orbita-Espinosa flag stop (Ávila), near Arévalo station, at level crossing type A, kilometre point 164,429, 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Despite the train driver had used the whistle and the lights to warn, the driver impinge the track as the train was coming."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Señalización carretera no normativa",
+  "Vehículo cruza paso a nivel",
+  "Maquinista observa dos vehículos",
+  "Vehículo invade gálibo ferroviario"
+ ],
+ "mitigaciones": [
+  "Maquinista usa silbato",
+  "Uso foco gran intensidad",
+  "Maquinista aplica freno emergencia",
+  "Señalización carretera adecuada"
+ ],
+ "factores_humanos": [
+  "Conductor invade gálibo",
+  "Vehículo cruza paso a nivel",
+  "Señalización carretera no normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-150112-221012-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-150112-221012-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1341",
+ "expediente": "0005/2012",
+ "titulo": "Descarrilamiento del tren de mercancías EB904 de Feve en la estación de Trubia, Asturias",
+ "fecha_suceso": "2012-01-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Trubia",
+  "provincia": "Asturias",
+  "pk": "PK 298+108",
+  "linea": "Línea 12 San Esteban de Pravia - Collanzo"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 15 de enero de 2012, a las 08:12, el tren especial de mercancías EB904 de Feve descarriló al salir de la estación de Trubia (Asturias). La composición, formada por dos locomotoras y dieciséis vagones de carbón, circulaba desde Aboño hacia la central térmica de Soto de Ribera. A la altura del PK 298+108, tras pasar el desvío A4, descarriló el segundo bogie del cuarto vagón y el tren se detuvo 90 metros después. No hubo daños personales.",
+ "causa_directa": "El accidente tuvo su origen en un fallo técnico de la infraestructura, por alineación y nivelación deficientes, baches considerables y contaminación del balasto en la zona del descarrilamiento.",
+ "causas_sistemicas": "La auscultación de vía previa detectó desviaciones geométricas fuera de tolerancia y no se realizaron actuaciones de mantenimiento correctivo antes del accidente.",
+ "recomendaciones": [
+  "Restablecer en el tramo donde se ha producido el accidente los valores de los parámetros geométricos de vía acordes a los de la norma NFI vía 001 para conseguir una circulación segura de los trenes.",
+  "Analizar la viabilidad de proceder al saneo y mejora de la superestructura de la vía en la zona del descarrilamiento, con el fin de evitar deformaciones prematuras.",
+  "Cuando se realicen labores de auscultación de vía y se detecten zonas con valores de parámetros fuera de tolerancia, siendo ésta significativa, actuar de una forma inmediata sobre dichas zonas del trazado realizando labores de mantenimiento."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train, once it was leaving the station, became partially derailed.",
+  "Location name": "Trubia station (Asturias), kilometre point 298,108, 12 Oviedo-San Esteban de Pravia railway line",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in the technical failure of the infrastructure since in the area of the derailment there were poor track alignment and levelling as well as significant low points on the track and polluted ballast."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Deficiencias de alineación y nivelación",
+  "Baches considerables en la vía",
+  "Contaminación del balasto con barro",
+  "No se corrigieron defectos detectados"
+ ],
+ "mitigaciones": [
+  "Corregir parámetros geométricos de vía",
+  "Saneo y mejora de superestructura",
+  "Mantenimiento inmediato tras auscultación",
+  "Circulación a velocidad adecuada"
+ ],
+ "factores_humanos": [
+  "No se realizaron labores de mantenimiento",
+  "Defectos detectados sin corrección",
+  "Falta de actuación inmediata"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

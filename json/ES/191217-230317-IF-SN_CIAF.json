@@ -53,5 +53,9 @@
   "Formación insuficiente conocimiento vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-03-23",
+ "provincia": "Madrid",
+ "estacion": "Madrid Chamartín",
+ "tipo": "Incidente"
 }

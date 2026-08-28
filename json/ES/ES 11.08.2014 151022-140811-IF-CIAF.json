@@ -1,0 +1,58 @@
+{
+ "id": "ES-ES 11.08.2014 151022-140811-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 11.08.2014 151022-140811-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0042/2014",
+ "titulo": "Incidente ferroviario en el apartadero de Pancorbo (Burgos) por devolver vía con trabajos en aguja 5",
+ "fecha_suceso": "2014-08-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Apartadero de Pancorbo",
+  "provincia": "Burgos",
+  "pk": "437+186",
+  "linea": null
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 11 de agosto de 2014 se produjo un incidente ferroviario en el apartadero de Pancorbo (Burgos). El encargado de trabajos devolvió la vía 1 al CTC mientras operarios continuaban trabajando en la aguja 5. El tren circuló sobre la aguja orientada a vía desviada y realizó una parada de emergencia, sin producirse víctimas ni daños materiales.",
+ "causa_directa": "El suceso se produjo por un fallo humano del encargado de trabajos, que devolvió la vía 1 al CTC cuando aún continuaban los trabajos en la aguja 5. Como factor coadyuvante, el equipo de la aguja 5 no colocó barra de shuntado ni señales portátiles de parada, incumpliendo el artículo 343 del RGC.",
+ "causas_sistemicas": "El acta semanal de trabajos y la consigna ATO/CTO describían las operaciones de forma muy general, sin indicar claramente la ubicación, el alcance ni la responsabilidad de los trabajos en agujas. Además, la modalidad EC contemplada no era acorde con trabajos que afectaban a la zona de agujas, y no se cumplimentó adecuadamente la guía de Adif para actas semanales.",
+ "recomendaciones": [
+  "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos).",
+  "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos)."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Devolver vía sin terminar trabajos",
+  "Desconocer alcance acta semanal",
+  "No colocar barra de shuntado",
+  "No colocar señal portátil de parada"
+ ],
+ "mitigaciones": [
+  "Colocar barra de shuntado",
+  "Colocar señal portátil de parada",
+  "Informar devolución de vía",
+  "Conocer alcance de trabajos"
+ ],
+ "factores_humanos": [
+  "Fallo humano del encargado",
+  "Desconocimiento de consignas",
+  "Incumplimiento de medidas de seguridad",
+  "Acta general sin ubicaciones"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

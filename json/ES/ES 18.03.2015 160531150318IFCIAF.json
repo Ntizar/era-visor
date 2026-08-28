@@ -1,0 +1,63 @@
+{
+ "id": "ES-ES 18.03.2015 160531150318IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 18.03.2015 160531150318IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0015/2015",
+ "titulo": "Accidente ferroviario por movimiento incontrolado de una locomotora de maniobras en Aboño (Asturias)",
+ "fecha_suceso": "2015-03-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Aboño",
+  "provincia": "Asturias",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Administrador de Infraestructuras Ferroviarias (Adif)",
+  "Autoridad Portuaria de Gijón (APG)",
+  "UTE APG Rail",
+  "Continental Rail",
+  "Logirail",
+  "Renfe Mercancías"
+ ],
+ "resumen": "El 18 de marzo de 2015 se produjo un accidente ferroviario en la estación de Aboño (Asturias) tras abandonar un operador de maniobras la cabina de una locomotora de la UTE APG Rail sin asegurar su inmovilización. La locomotora quedó en movimiento incontrolado y pudo acceder a instalaciones de Adif en dirección a la estación de Veriña. El informe señala como factores coadyuvantes la inutilización del dispositivo de hombre muerto y el funcionamiento inadecuado del freno de estacionamiento. También se constató incumplimiento del plan de mantenimiento y la ausencia de un Sistema de Gestión de la Seguridad en la Autoridad Portuaria de Gijón.",
+ "causa_directa": "Fallo humano del operador de vehículo de maniobras, que puso en marcha la locomotora y abandonó la cabina sin asegurar su inmovilización, incumpliendo el artículo 607.3 del RGC. Como coadyuvantes, el dispositivo de hombre muerto estaba inutilizado y el freno de estacionamiento no funcionaba adecuadamente.",
+ "causas_sistemicas": "Incumplimiento del plan de mantenimiento de la locomotora al superarse los plazos entre revisiones; ausencia del Sistema de Gestión de la Seguridad en la Autoridad Portuaria de Gijón; falta de autorización preceptiva del operador; y ausencia de dispositivos de infraestructura que impidan el acceso no autorizado de material rodante desde Aboño a la red de Adif.",
+ "recomendaciones": [
+  "15/15-1: Que la AESF requiera a la APG que elabore un Sistema de Gestión de la Seguridad conforme a la disposición adicional tercera del RD 810/2007.",
+  "15/15-2: Analizar la viabilidad de implantar medidas que impidan que movimientos no controlados de material rodante procedentes del Puerto de Gijón lleguen al punto de conexión con Adif.",
+  "15/15-3: Controlar el cumplimiento del plan de mantenimiento del material rodante que circule por sus instalaciones.",
+  "15/15-4: Habilitar conforme al Convenio Adif-APG a los responsables de circulación que actúan en la conexión del puerto con la RFIG administrada por Adif.",
+  "15/15-5: Asegurar el cumplimiento de los ciclos de las intervenciones de mantenimiento del material móvil de propiedad de la UTE APG Rail.",
+  "15/15-6: Verificar periódicamente por personal responsable de las empresas de la UTE APG Rail la no anulación del dispositivo 'Hombre Muerto' en el material móvil de su propiedad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Abandono cabina con locomotora en marcha",
+  "Dispositivo hombre muerto inutilizado",
+  "Freno de estacionamiento inadecuado",
+  "Incumplimiento plan mantenimiento"
+ ],
+ "mitigaciones": [
+  "No consta mitigación efectiva aplicada"
+ ],
+ "factores_humanos": [
+  "Error humano al abandonar cabina",
+  "Ausencia Sistema Gestión Seguridad",
+  "Personal sin habilitación formal completa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

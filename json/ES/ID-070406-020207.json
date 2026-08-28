@@ -31,5 +31,30 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vallado en mal estado con roturas",
+  "Acceso irregular de peatones a vía",
+  "Uso de auriculares por la víctima",
+  "Circulación nocturna con menor visibilidad"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia accionado",
+  "Uso del silbato por maquinista",
+  "Velocidad inferior a máxima permitida"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "No percatarse de llegada tren",
+  "Distracción por uso MP3",
+  "Falta conservación vallado Adif"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

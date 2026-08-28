@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES-10306- 202270 0815 IF Manresa (english version)",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10306- 202270 0815 IF Manresa (english version).pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "70/2022",
+ "titulo": "Incidente operacional con riesgo de colisión en la estación de Manresa (Barcelona)",
+ "fecha_suceso": "2022-08-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Manresa",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": "Línea 220 Lleida-Pirineus–Bifurcación Vilanova"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "resumen": "El responsable de circulación de Manresa autorizó la salida de un tren desde la vía 5 hacia Sant Vicenç de Castellet y, poco después, autorizó el rebasamiento de una señal de entrada con un itinerario incompatible. El primer tren talonó el desvío nº 19 y continuó por la vía 1, quedando enfrentado al otro tren, que circulaba hacia la vía 4. Los maquinistas detuvieron las unidades a 40 metros. Solo se dañó el desvío nº 19, sin heridos ni daños en material rodante.",
+ "causa_directa": "El responsable de circulación autorizó el rebasamiento de la señal de entrada con un itinerario incompatible con el movimiento previamente autorizado, sin comprobar que aún no se había ejecutado. Además, el tren autorizado desde la vía 5 inició la marcha cuando su orden de circulación ya no era válida, por no haber salido inmediatamente tras la autorización.",
+ "causas_sistemicas": "El enclavamiento eléctrico de Manresa presentaba peculiaridades y limitaciones que provocaban frecuentes situaciones degradadas con intervención directa del responsable de circulación sin protección del enclavamiento. También se identificaron dificultades para comprobar la salida de trenes, falta de asertividad de los agentes de circulación e interferencias del centro de gestión de la empresa ferroviaria en la gestión del tráfico.",
+ "recomendaciones": [
+  "Fomentar la asertividad de los agentes de circulación para garantizar su competencia en la gestión del tráfico y reforzar su autoridad para evitar interferencias de otros empleados ferroviarios.",
+  "Reforzar la vigilancia de las actividades relacionadas con la circulación para asegurar formación teórica y práctica suficiente de los señaleros antes y durante la asignación de tareas.",
+  "Establecer un canal y procedimiento de comunicación entre señaleros locales y centros de gestión de empresas ferroviarias para evitar interferencias en la coordinación y supervisión de la información requerida por los señaleros.",
+  "Instruir a los maquinistas sobre la importancia de la correcta transmisión de información con los señaleros y la formalización de las comunicaciones para garantizar la seguridad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Autorización incompatible sin comprobar ruta",
+  "Tren 95218 inició marcha invalidada",
+  "Solicitud traslado material averiado",
+  "Instrucción no despachar tren 95218"
+ ],
+ "mitigaciones": [
+  "Maquinistas detuvieron trenes enfrentados",
+  "Enclavamiento electrónico impediría rutas incompatibles",
+  "Listas de comprobación para autorizaciones",
+  "Refuerzo personal en situaciones degradadas"
+ ],
+ "factores_humanos": [
+  "Falta experiencia del señalero",
+  "Interferencia Centro Gestión Rodalies",
+  "Descanso indebido del maquinista",
+  "Comunicaciones incorrectas entre agentes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

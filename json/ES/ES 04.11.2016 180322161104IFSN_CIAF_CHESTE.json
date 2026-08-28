@@ -1,0 +1,58 @@
+{
+ "id": "ES-ES 04.11.2016 180322161104IFSN_CIAF_CHESTE",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 04.11.2016 180322161104IFSN_CIAF_CHESTE.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0056/2016",
+ "titulo": "Incendio en el coche de cola del tren de cercanías 24443 tras salir de Cheste (Valencia)",
+ "fecha_suceso": "2016-11-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "incendio",
+ "ubicacion": {
+  "estacion": "Cheste",
+  "provincia": "Valencia",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros"
+ ],
+ "resumen": "El tren de cercanías 24443 de Renfe Viajeros, entre Valencia Nord y Buñol, sufrió un incendio en el coche de cola tras salir de la estación de Cheste. El fuego se originó por una pérdida de gasóleo en el motor M2, relacionada con el fallo de una brida. El maquinista intentó apagarlo con los extintores del tren y el incendio fue sofocado por un vecino y luego por bomberos.",
+ "causa_directa": "Fallo técnico del material rodante: pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación, lo que provocó pérdida de gasóleo en el motor M2 e incendio.",
+ "causas_sistemicas": "Existencia de varios sucesos previos de incendio o pérdidas de gasóleo en este tipo de material, principalmente en Levante, sin medidas totalmente eficaces. No consta que se comunicara al centro de gestión la anomalía detectada el día anterior, incumpliendo el procedimiento RV-SGS-PE-SPG-14. La anomalía fue anotada de forma errónea en el libro de reparaciones.",
+ "recomendaciones": [
+  "Insistir en la formación de maquinistas para que comuniquen al centro de gestión cualquier anomalía detectada en el material, conforme al procedimiento RV-SGS-PE-SPG-14.",
+  "Profundizar en el análisis de las anomalías que provocan pérdidas de combustible en el material rodante 592 para adoptar medidas adicionales que minimicen su número."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Anotación errónea motor libro reparaciones",
+  "No aviso anomalía centro gestión",
+  "Pérdida tornillo brida tubo alimentación",
+  "Fuga gasóleo motor M2"
+ ],
+ "mitigaciones": [
+  "Uso extintores por maquinista",
+  "Detención tren entre señales",
+  "Aviso bomberos desde puesto mando",
+  "Revisiones mantenimiento al día"
+ ],
+ "factores_humanos": [
+  "Error anotación motor siniestrado",
+  "No comunicación anomalía procedimiento",
+  "Nerviosismo activación extintor",
+  "Incumplimiento aviso centro gestión"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

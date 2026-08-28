@@ -45,5 +45,27 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce indebido de la víctima",
+  "no respetar señales luminosas peatonales",
+  "barreras abatidas por paso tren"
+ ],
+ "mitigaciones": [
+  "uso del silbato por maquinista",
+  "aplicación freno de emergencia",
+  "existencia paso elevado cercano"
+ ],
+ "factores_humanos": [
+  "comportamiento imprudente peatón",
+  "irrupción súbita en vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

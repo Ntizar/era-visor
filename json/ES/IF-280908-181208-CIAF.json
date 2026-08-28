@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-280908-181208-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-280908-181208-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-598",
+ "expediente": "0045/2008",
+ "titulo": "Arrollamiento de una persona por tren 23219 en P.K. 140,750 de la línea 400 Alcázar de San Juan-Cádiz",
+ "fecha_suceso": "2008-09-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Cádiz",
+  "pk": "140,750",
+  "linea": "400 Alcázar de San Juan-Cádiz"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 28 de septiembre de 2008, a las 13:28, el tren de cercanías 23219 de Renfe Operadora arrolló a una persona en el P.K. 140,750 de la línea 400 Alcázar de San Juan-Cádiz, entre los apeaderos de San Fernando de Cádiz y Puerto Real. La víctima se encontraba en la caja de la vía, distraída y de espaldas al tren, lanzando piedras. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. El hombre falleció en el acto y Adif consideró el suceso como presunto suicidio.",
+ "causa_directa": "El accidente tuvo su origen en la ocupación de la víctima en la caja de la vía, lugar no autorizado para ello, al paso del tren de viajeros 23219.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man was standing close to the track and distractedly throwing stones. The train driver sounded the whistle, but the man didn´t seem to notice that. Despite the driver used the train´s brake, he couln´t avoid the train knocking him down.",
+  "Location name": "400 Alcázar de San Juan-Cádiz railway line, at kilometre point 140,750, between San Fernando de Cádiz and Puerto Real flag stops (Cádiz).",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

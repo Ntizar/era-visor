@@ -1,0 +1,31 @@
+{
+ "id": "ES-RS-230209-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-230209-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0013/2009",
+ "titulo": "Accidente ferroviario entre el apeadero de Ozanes y la estación de Soto Dueñas, línea Oviedo-Santander",
+ "fecha_suceso": "2009-02-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Soto Dueñas",
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 21 Oviedo-Santander"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "La Resolución aprueba como definitivo el informe del accidente ferroviario nº 0013/2009, ocurrido el 23 de febrero de 2009. El suceso se produjo entre el apeadero de Ozanes y la estación de Soto Dueñas, en la línea 21 Oviedo-Santander. El informe particular fue presentado por el técnico investigador. La CIAF emitió una recomendación dirigida a Feve.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

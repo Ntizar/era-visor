@@ -1,0 +1,43 @@
+{
+ "id": "ES-IF-230209-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-230209-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-702",
+ "expediente": "0013/2009",
+ "titulo": "Descarrilamiento de tren de Feve entre apeadero de Ozanes y estación de Soto Dueñas, Asturias",
+ "fecha_suceso": "2009-02-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Asturias",
+  "pk": "378,130",
+  "linea": "Línea 21 Oviedo-Santander"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El 23 de febrero de 2009, a las 12:30 horas, el tren de viajeros 6500 de Feve descarriló en el P.K. 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, Asturias. El maquinista se distrajo al reconocer una alarma poco visible en la pantalla de conducción por el reflejo solar. No redujo la velocidad antes de una curva limitada a 40 km/h y entró a una velocidad superior a la permitida. El descarrilamiento causó 14 heridos de diversa gravedad e interrumpió la circulación durante varias horas.",
+ "causa_directa": "El accidente tuvo su origen cuando el maquinista del tren 6500 tomó la curva a una velocidad superior a la permitida, lo que produjo el descarrilamiento del tren.",
+ "causas_sistemicas": "La distracción del maquinista por una alarma con baja visibilidad en la pantalla, dificultada por el reflejo solar, y la necesidad de reforzar actitudes y comportamientos de riesgo en la formación del personal de conducción.",
+ "recomendaciones": [
+  "Revisar los programas de reciclaje del personal de conducción, haciendo especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "A passanger train derailed at kilometre point 378,130. 14 minor injures. The train driver didn´t reduce the speed when going through a curve. As a result the rolling stock derailed.",
+  "Location name": "Between Ozanes and Soto Dueñas stations (Asturias), railway curve at kilometre point 378,130, 21 Oviedo-Santander railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve"
+ }
+}

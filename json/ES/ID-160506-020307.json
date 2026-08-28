@@ -40,5 +40,27 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima cruza con barreras bajadas",
+  "paso a nivel sin paso peatonal",
+  "imprudencia de la persona arrollada"
+ ],
+ "mitigaciones": [
+  "señales luminosas y acústicas activas",
+  "semibarreras correctamente bajadas",
+  "buena visibilidad en el tramo"
+ ],
+ "factores_humanos": [
+  "imprudencia grave de la víctima",
+  "no respetar señales de cierre"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

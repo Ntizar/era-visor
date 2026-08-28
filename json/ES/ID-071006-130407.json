@@ -33,5 +33,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce indebido de vías por persona",
+  "Falta de vallado perimetral continuo",
+  "Rebaje de andén habilitaba acceso",
+  "Paso entarimado suprimido sin cierre"
+ ],
+ "mitigaciones": [
+  "Inhabilitar rebaje de andén",
+  "Ejecutar vallado perimetral",
+  "Campañas de sensibilización ciudadana",
+  "Aplicación de freno de urgencia"
+ ],
+ "factores_humanos": [
+  "Persona cruza vías indebidamente",
+  "Edad avanzada con dificultad",
+  "Maquinista aplica freno de urgencia",
+  "Falta de control de accesos"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

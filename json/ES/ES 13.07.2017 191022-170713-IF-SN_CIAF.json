@@ -1,0 +1,58 @@
+{
+ "id": "ES-ES 13.07.2017 191022-170713-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 13.07.2017 191022-170713-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0030/2017",
+ "titulo": "Descarrilamiento en Capçanes (Tarragona) por fallo de infraestructura en la línea 210, tramo Flix-Reus",
+ "fecha_suceso": "2017-07-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Tarragona",
+  "pk": null,
+  "linea": "Línea 210 (tramo Flix-Reus)"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 13 de julio de 2017 se produjo un descarrilamiento ferroviario en Capçanes (Tarragona), en la línea 210, tramo Flix-Reus. El accidente se atribuyó a un fallo de la infraestructura, con deformación de la vía. Entre los factores concurrentes hubo tensiones tras sustituciones de carril y obra de fábrica, retirada de una limitación de velocidad, alta temperatura y falta de balasto en los hombros. La investigación concluyó además deficiencias de mantenimiento y de aplicación del SGSC de Adif.",
+ "causa_directa": "Fallo de la infraestructura, en concreto deformación de la vía, por la suma de tensiones tras sustitución de carril y reposición de obra de fábrica, retirada de LTV, elevada temperatura y falta de material en los hombros del balasto.",
+ "causas_sistemicas": "Mal estado general de la infraestructura en el tramo Flix-Reus por mantenimiento deficiente; incumplimiento de procedimientos del SGSC de Adif por falta de vigilancias a pie y no realización de auscultación geométrica.",
+ "recomendaciones": [
+  "30/2017-1: Reconsiderar una actuación de envergadura en la zona para renovar las características de la infraestructura (drenaje) y superestructura, dada la accidentalidad y el tráfico de mercancías.",
+  "30/2017-2: Cumplir rigurosamente en la línea 210, especialmente en Flix-Reus, la periodicidad de auscultaciones de vía y visitas de vigilancia a pie y en cabina del SGSC, actuando en consecuencia."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Mantenimiento deficiente de la infraestructura",
+  "Falta de vigilancias a pie en zona",
+  "No realización auscultación geométrica",
+  "Mal estado general vía Flix-Reus"
+ ],
+ "mitigaciones": [
+  "Reconocimiento inicial por maquinista",
+  "Activación plan emergencia posterior",
+  "Sustitución carril y traviesas urgente",
+  "Mejora trazado con maquinaria pesada"
+ ],
+ "factores_humanos": [
+  "Incumplimiento procedimientos SGSC Adif",
+  "Reconocimiento incompleto tren",
+  "Percepción tardía anomalía vía",
+  "Planes mantenimiento básicos insuficientes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

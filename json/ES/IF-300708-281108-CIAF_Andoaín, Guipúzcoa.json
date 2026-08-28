@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-300708-281108-CIAF_Andoaín, Guipúzcoa",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300708-281108-CIAF_Andoaín, Guipúzcoa.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-582",
+ "expediente": "0031/2008",
+ "titulo": "Arrollamiento de una persona por un tren de mercancías en el apeadero de Andoaín Centro, Guipúzcoa",
+ "fecha_suceso": "2008-07-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Andoaín Centro",
+  "provincia": "Guipúzcoa",
+  "pk": "608+155",
+  "linea": "línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 30 de julio de 2008, un tren de mercancías arrolló a una persona en el apeadero de Andoaín Centro cuando cruzaba por el paso enmaderado entre andenes. La víctima resultó fallecida. Según el informe, la persona tenía discapacidad mental, era usuaria habitual del apeadero y llevaba auriculares. No se produjeron daños materiales.",
+ "causa_directa": "El cruce de la víctima por el paso enmaderado entre andenes en el momento en que el tren de mercancías efectuaba su paso por el mismo.",
+ "causas_sistemicas": "La configuración del apeadero obligaba a cruzar las vías por un paso enmaderado para comprar billetes; la visibilidad era limitada por la curva y el túnel; el bloqueo banalizado permitía circular por la vía contraria; y existían antecedentes de incidencias similares.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "Two people were walking by the tracks, with their backs to an approaching train. Both noticed the danger and tried to stepped off the tracks, being late for one of them who was knocked down by the train.",
+  "Location name": "436 Málaga-Fuengirola railway line; at kilometre point 8,870",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-190112-271112-CIAF-El Clot-Aragó",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-190112-271112-CIAF-El Clot-Aragó.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1343",
+ "expediente": "0007/2012",
+ "titulo": "Colisión por alcance entre trenes de Renfe en el PK 109+810, entre El Clot Aragó y Bif. Glorias, Barcelona",
+ "fecha_suceso": "2012-01-19",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "109+810",
+  "linea": "262 Barcelona Sagrera a Bifurcación Clot"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 19 de enero de 2012, a las 18:30, el tren de cercanías 25652 colisionó por alcance con el tren 37506 detenido ante la señal 1094 en el PK 109+810, entre El Clot Aragó y Bif. Glorias, Barcelona. El tren 25652 había rebasado una señal permisiva y reinició la marcha desde el apeadero sin cumplir correctamente la marcha a la vista. El impacto causó el descarrilamiento del eje 13 del tren 37506 y daños materiales en ambos trenes. Resultaron heridas leves 27 personas.",
+ "causa_directa": "Fallo humano del personal de conducción del tren 25652, que no cumplió la marcha a la vista tras rebasar una señal permisiva, lo que impidió detenerse ante el tren detenido.",
+ "causas_sistemicas": "Visibilidad limitada por el túnel en curva cerrada con iluminación artificial; configuración del apeadero entre una señal permisiva y otra absoluta; uso de velocidad prefijada en circulación con marcha a la vista; y gestión del riesgo por fallo humano.",
+ "recomendaciones": [
+  "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+  "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "A commuter train collided (rear-end) with empty stock while the last one was stopped at the station. As a result of the collision the empty stock became partially derailed. A few people were slightly injured.",
+  "Location name": "El Clot-Aragó station (Barcelona), kilometre point 109,810, 262 Barcelona-Sagrera - Bifurcación Clot railway line.",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Commuter train; \nOther",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in a human failure by the commuter train driver, since the running at sight (that was mandatory) wasn´t complied."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebaso señal permisiva parada",
+  "Parada comercial en apeadero",
+  "Tren detenido ante señal absoluta"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Luces de cola funcionaban correctamente",
+  "Instalación ASFA Digital en curso"
+ ],
+ "factores_humanos": [
+  "Fallo humano personal conducción",
+  "No cumplimentar marcha a la vista",
+  "Uso inadecuado velocidad prefijada",
+  "Visibilidad limitada túnel curva"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

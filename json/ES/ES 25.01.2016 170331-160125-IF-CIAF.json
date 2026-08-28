@@ -1,0 +1,55 @@
+{
+ "id": "ES-ES 25.01.2016 170331-160125-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 25.01.2016 170331-160125-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0004/2016",
+ "titulo": "Conato de colisión por alcance en la estación de Elx Parc (Alicante) tras rebase de señal en parada",
+ "fecha_suceso": "2016-01-25",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Elx Parc",
+  "provincia": "Alicante",
+  "pk": null,
+  "linea": "336 El Reguerón a Alacant Terminal"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El tren de mantenimiento EM485 rebasó indebidamente las señales de entrada E1 y retroceso R1, ambas en indicación de parada, en la estación de Elx Parc. Este error provocó un conato de colisión por alcance con el tren 10171 que se encontraba detenido en vía libre. La investigación determinó que fue debido a una falta de atención del personal de conducción.",
+ "causa_directa": "Fallo humano del personal de conducción del tren EM485 por falta de atención, dando lugar al rebase indebido de las señales E1 y R1 en indicación de parada e incumplimiento reglamentario.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Adif",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No facilitar boletín de circulación al maquinista",
+  "Telefonema dado al conductor de perfiladora",
+  "Maquinista ignora quién dirige la marcha",
+  "Conductor no ve señal de entrada E1"
+ ],
+ "mitigaciones": [
+  "Visibilidad de señales es buena",
+  "Tren detenido ante señal de salida",
+  "Actuación sobre freno de servicio",
+  "Infraestructura funcionó correctamente"
+ ],
+ "factores_humanos": [
+  "Fallo humano del personal de conducción",
+  "Falta de atención del maquinista",
+  "Confusión de roles en conducción",
+  "Incumplimiento reglamentario del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

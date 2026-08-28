@@ -1,0 +1,75 @@
+{
+ "id": "ES-ID-300606-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-300606-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-17",
+ "expediente": "0028/2006",
+ "titulo": "Arrollamiento de dos personas por tren de Larga Distancia en la estación de Venta de Baños (Palencia)",
+ "fecha_suceso": "2006-06-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Venta de Baños",
+  "provincia": "Palencia",
+  "pk": "285,330",
+  "linea": "Madrid-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 30 de junio de 2006, dos personas fueron arrolladas por el tren de Larga Distancia nº 312 de Renfe al cruzar un paso entre andenes en la estación de Venta de Baños (Palencia). El maquinista advirtió con el silbato y aplicó el freno de urgencia, pero no pudo evitar el accidente. Las víctimas ignoraron los avisos del vigilante de seguridad y no utilizaron el paso inferior existente. No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+ "causa_directa": "Uso indebido del paso entre andenes por las víctimas, que cruzaron las vías ignorando los avisos del vigilante de seguridad y sin emplear el paso inferior disponible.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía sobre el peligro de cruzar las vías del ferrocarril.",
+  "Iniciar actuaciones para reducir al máximo el peligro potencial de los pasos entarimados.",
+  "Fomentar la supresión de los pasos entarimados disponiendo pasos inferiores o superiores alternativos.",
+  "Señalizar convenientemente los pasos entarimados que no se supriman, mediante señales fijas o señalización ligada al enclavamiento."
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "Two persons died after being hit by rolling stock in motion at a staff crossing (barrow crossing)",
+  "Location name": "Railway line from Madrid to Hendaya at kilometre point 285,330.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 2,
+  "Total fatalities": 2
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "viajeros cruzan paso entre andenes",
+  "omiten avisos del vigilante",
+  "no usan paso inferior existente",
+  "tren pasa directo sin parada"
+ ],
+ "mitigaciones": [
+  "uso de silbato y freno",
+  "aviso del vigilante de seguridad",
+  "paso inferior entre andenes disponible",
+  "velocidad inferior a la máxima"
+ ],
+ "factores_humanos": [
+  "viajeros cruzan abstraídos conversando",
+  "omiten avisos del vigilante",
+  "no perciben aproximación del tren",
+  "uso indebido del paso entarimado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,29 @@
+{
+ "id": "ES-RS-040309-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-040309-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0015/2009",
+ "titulo": "Accidente ferroviario en el apeadero de Platja de Castelldefels",
+ "fecha_suceso": "2009-03-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Platja de Castelldefels",
+  "provincia": null,
+  "pk": null,
+  "linea": "Madrid Chamartín - Barcelona Sants"
+ },
+ "entidades": [
+  "Comisión de Investigación de Accidentes Ferroviarios (CIAF)"
+ ],
+ "resumen": "La CIAF aprueba como definitivo el informe sobre el accidente ocurrido el 4 de marzo de 2009 en el apeadero de Platja de Castelldefels. El suceso tuvo lugar en la línea Madrid Chamartín - Barcelona Sants. La resolución destaca que no se establecen nuevas recomendaciones de seguridad.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": "No se establecen recomendaciones debido a la existencia de un paso elevado y señalización de peligro, además de la construcción de un paso inferior.",
+ "erail": {}
+}

@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_140813_251114_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_140813_251114_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2761",
+ "expediente": "0056/2013",
+ "titulo": "Incidente ferroviario en estación de Torralba (Soria): rebase de señal y conato de colisión",
+ "fecha_suceso": "2013-08-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Torralba",
+  "provincia": "Soria",
+  "pk": null,
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estació de França"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 14 de agosto de 2013 a las 08:58 horas, el tren de mercancías 81811 de Renfe Operadora, con origen Castellbisbal y destino Vicálvaro Clasificación, rebasó indebidamente la señal S1/1 que se encontraba en indicación de parada en la estación de Torralba. Se produjo un conato de colisión con el tren de media distancia 17301 que circulaba por la vía 1 en el trayecto entre Torralba y Sigüenza. No se produjeron heridos ni víctimas mortales.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido del tren 81811 de la señal de salida S1/1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistémicas": null,
+ "recomendaciones": [
+  "No se establecen recomendaciones al considerar adecuadas las medidas adoptadas por Renfe Operadora y Adif."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Freight train overtook exit signal S1/1, at kilometre point 157+520, at Torralba station (Soria)._x000D_\nA near miss train collision ocurred.",
+  "Location name": "Torralba station (Soria)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train 81811 improperly overrun exit signal S1/1, stating a stopping order, as driving staff didn't comply with the state of the signal."
+ }
+}

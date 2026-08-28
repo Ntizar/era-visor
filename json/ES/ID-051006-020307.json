@@ -31,5 +31,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruzar vías por paso indebido",
+  "Ignorar señal acústica del tren",
+  "No utilizar paso inferior peatonal",
+  "Tránsito no autorizado continuado"
+ ],
+ "mitigaciones": [
+  "Uso de silbato de locomotora",
+  "Aplicación de freno de emergencia",
+  "Aviso inmediato al Puesto de Mando",
+  "Campaña de señalización prohibitiva"
+ ],
+ "factores_humanos": [
+  "Conducta indebida del peatón",
+  "Ignorancia del peligro ferroviario",
+  "Tránsito no autorizado habitual",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

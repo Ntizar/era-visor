@@ -36,5 +36,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "invadir las vías por lugar indebido",
+  "cerramiento derrumbado permite acceso",
+  "paso vicioso entre vías frecuente",
+  "apeadero sin vigilancia de seguridad"
+ ],
+ "mitigaciones": [
+  "aplicación de freno de emergencia",
+  "velocidad inferior a máxima autorizada",
+  "uso del silbato de locomotora",
+  "pasarela peatonal próxima al lugar"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "cruce por lugar no autorizado",
+  "dependencia de estupefacientes",
+  "falta de vigilancia en apeadero"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

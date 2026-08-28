@@ -1,0 +1,43 @@
+{
+ "id": "ES-IF-280411-271211-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-280411-271211-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1147",
+ "expediente": "0018/2011",
+ "titulo": "Colisión por alcance entre trenes de cercanías en el apeadero de El Clot-Aragó (Barcelona)",
+ "fecha_suceso": "2011-04-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "El Clot-Aragó",
+  "provincia": "Barcelona",
+  "pk": "110+000",
+  "linea": "262 Barcelona Sagrera – Bifurcación Clot"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 28 de abril de 2011, el tren de viajeros 28913 rebasó una señal en indicación de parada en el apeadero de El Clot-Aragó. Ocupó la vía donde se encontraba detenido el tren 37507. Al reiniciar la marcha este último, fue alcanzado por cola por el primero a 21 km/h, provocando descarrilamientos parciales y dieciocho heridos leves.",
+ "causa_directa": "Incumplimiento de las órdenes dadas por las señales al personal de conducción, al no cumplimentarse reglamentariamente la marcha a la vista tras rebasar una señal permisiva en parada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "A commuter train overran a permissive signal and collided (rear-end) with empty stock at the same block section. Also, as a result, the first train partially derailed of the 2nd bogie of the first coach. 18 passengers were slightly injured.",
+  "Location name": "El Clot-Aragó station (Barcelona), 262 Barcelona - Sagrera-Bif.Clot railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the train driver failed to comply the signal instructions."
+ }
+}

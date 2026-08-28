@@ -1,0 +1,67 @@
+{
+ "id": "ES-IF-140710-250211-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-140710-250211-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-991",
+ "expediente": "0038/2010",
+ "titulo": "Descarrilamiento de tren de mercancías de Feve entre Ribadeo y Vegadeo, línea 11 Ferrol-Gijón (Lugo/Asturias)",
+ "fecha_suceso": "2010-07-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Ribadeo",
+  "provincia": "Lugo",
+  "pk": "148+845",
+  "linea": "Línea 11 Ferrol-Gijón, tramo 10 Ferrol-Pravia"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 14 de julio de 2010, a las 12:41 horas, el tren de mercancías 9121 de Feve descarriló en el P.K. 148+845 de la línea 11 Ferrol-Gijón, entre las estaciones de Ribadeo y Vegadeo. Al salir del túnel nº 31 y tomar una curva a la derecha, el tren circulaba a 73 km/h cuando la velocidad máxima del tramo era de 60 km/h. Descarrilaron la locomotora 1613 y diez plataformas, cayendo parte de la carga a la ría de Ribadeo. El informe atribuye el accidente al exceso de velocidad y señala como factor subyacente el incorrecto establecimiento de la velocidad máxima del tramo.",
+ "causa_directa": "El accidente se produjo al circular el tren 9121 con exceso de velocidad: 73 km/h frente a los 60 km/h permitidos en ese tramo.",
+ "causas_sistemicas": "Incorrecto establecimiento de la velocidad máxima del tramo en la zona del accidente; la insuficiencia de peralte para el radio de la curva y 60 km/h superaba el máximo normativo, y se había producido un descarrilamiento similar un mes antes en el mismo tramo.",
+ "recomendaciones": [
+  "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad para comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación.",
+  "Realizar una inspección del tramo Ferrol-Pravia mediante auscultación de la vía, comprobando que los parámetros cumplen la norma NFI vía 002 y que las velocidades y limitaciones permanentes son acordes a dichos parámetros."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train 9121 stopped at kilometre point 148,978 because of the derailment of one of the two locomotives and the first 10 container platform wagons, loaded with wood.",
+  "Location name": "Between Ribadeo and Vegadeo stations (Lugo), kilometre point 148,845, 11 Ferrol - Gijón railway line; line section 10 Ferrol-Pravia",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The speed limit of the line section (where the accident took place) is wrongly established."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Exceso de velocidad en curva",
+  "Incorrecta velocidad máxima del tramo",
+  "Insuficiencia de peralte fuera norma"
+ ],
+ "mitigaciones": [
+  "Activación válvula detectora descarrilamiento",
+  "Frenado de urgencia automático",
+  "Arenado de emergencia activado"
+ ],
+ "factores_humanos": [
+  "Maquinista no ajusta velocidad",
+  "Gestión incorrecta límites velocidad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

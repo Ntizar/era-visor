@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-300611-240412-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300611-240412-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1219",
+ "expediente": "0032/2011",
+ "titulo": "Descarrilamiento de trenes en la línea 116 Los Cotos-Cercedilla, entre Siete Picos y Puerto de Navacerrada (Madrid)",
+ "fecha_suceso": "2011-06-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Siete Picos",
+  "provincia": "Madrid",
+  "pk": "PK 7+165",
+  "linea": "116 Los Cotos a Cercedilla"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 30 de junio de 2011, a las 11:58, el tren de viajeros 21907 de Renfe Operadora descarriló sus cuatro bogies en el PK 7+165 de la línea 116 Los Cotos a Cercedilla, entre Siete Picos y Puerto de Navacerrada. Para evaluar la situación se envió el tren S1, que también descarriló de su primer bogie en el PK 7+150. No se produjeron daños personales y la circulación quedó suspendida hasta el 1 de julio de 2011. El informe atribuye el accidente a un fallo técnico de la infraestructura por el mal estado de traviesas, clavazón y balasto.",
+ "causa_directa": "Fallo técnico de la infraestructura como consecuencia del mal estado de las traviesas de madera, la clavazón y el balasto.",
+ "causas_sistemicas": "El tramo mantenía traviesas de madera, clavazón y balasto en mal estado pese a las labores de consolidación y reapretado realizadas en 2010.",
+ "recomendaciones": [
+  "Adif: Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presenten mal estado por otras del mismo material."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Train 21907 derailed at kilometre point 7/165 (the four bogies of the composition). Also aid train S1 partially derailed at kilometre point 7/150.",
+  "Location name": "Kilometre point 7/165, between Siete Picos and Puerto de Navacerrada stations (Madrid); 116 Los Cotos-Cercedilla railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failure due to the bad condition of sleepers, sleepers fastenings and ballast"
+ }
+}

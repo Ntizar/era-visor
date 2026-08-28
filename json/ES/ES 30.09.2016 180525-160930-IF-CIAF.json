@@ -1,0 +1,53 @@
+{
+ "id": "ES-ES 30.09.2016 180525-160930-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 30.09.2016 180525-160930-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0043/2016",
+ "titulo": "Descarrilamiento por rotura de carril en el túnel nº 15 del trayecto Busdongo-Pajares (Asturias)",
+ "fecha_suceso": "2016-09-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Asturias",
+  "pk": null,
+  "linea": "Tramo Busdongo-Pajares"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 30 de septiembre de 2016 se produjo un descarrilamiento en plena vía, dentro del túnel nº 15 del trayecto Busdongo-Pajares (Asturias). El suceso se originó por la rotura previa del carril izquierdo en el sentido de circulación del tren. La rotura se atribuyó a un defecto de fabricación del carril, agravado por corrosión y fatiga en el entorno del túnel y el tráfico pesado. Las vigilancias y la auscultación ultrasónica no detectaron la anomalía antes del accidente.",
+ "causa_directa": "Fallo de la infraestructura por rotura previa del carril izquierdo, según el sentido de circulación del tren, debido a un defecto de fabricación del carril.",
+ "causas_sistemicas": "Las vigilancias a pie y en cabina y la auscultación ultrasónica no detectaron la anomalía del carril; además, existían discrepancias entre los procedimientos operativos de Adif y las normas NAV en periodicidades y criterios de vigilancia y auscultación.",
+ "recomendaciones": [
+  "Adoptar medidas para mejorar la eficacia de las auscultaciones ultrasónicas de carril y detectar defectos internos que puedan provocar roturas.",
+  "Adecuar los procedimientos operativos y las normas NAV de vigilancia y auscultación de vía para eliminar discrepancias."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Anomalía interna no detectada",
+  "No se detectó anomalía en vigilancia",
+  "No se detectó anomalía en auscultación",
+  "Procedimientos operativos ineficaces"
+ ],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "Falta de detección de anomalías",
+  "Procedimientos operativos ineficaces",
+  "Discrepancias entre normas y procedimientos",
+  "Medios humanos y materiales insuficientes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

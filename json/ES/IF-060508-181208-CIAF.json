@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-060508-181208-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-060508-181208-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-546",
+ "expediente": "0012/2008",
+ "titulo": "Caída de persona a la vía al apearse en marcha del tren 15015 en estación de Fabara (Zaragoza)",
+ "fecha_suceso": "2008-05-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Fabara",
+  "provincia": "Zaragoza",
+  "pk": "470+754",
+  "linea": "Línea 210 Miraflores-Tarragona"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "Un pasajero cayó a la vía desde el tren de Media Distancia 15015 mientras este iniciaba su marcha en la estación de Fabara. El maquinista detuvo el tren rápidamente, evitando que las ruedas arrollaran directamente a la víctima, quien quedó atrapada entre vagones. La persona fue trasladada al hospital donde falleció horas después. Se determinó que la puerta por la que salió tenía averiado el mecanismo de los peldaños.",
+ "causa_directa": "La bajada de la víctima del tren por la segunda puerta del primer coche cuando éste había iniciado la marcha.",
+ "causas_sistemicas": "Mal funcionamiento de la puerta implicada, concretamente la rotura del eje de la bisagra y el dispositivo de desplazamiento de la plataforma, lo que ocultaba los peldaños y aumentaba la altura de caída.",
+ "recomendaciones": [
+  "Introducir en el plan de mantenimiento de Renfe Operadora para este tipo de material la comprobación de desgastes y holguras en los mecanismos de actuación de puertas (bielas, ejes), reemplazándolos si es necesario."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A passenger fell off the train as he tried to get off while the train started moving.",
+  "Location name": "Fabara station (Zaragoza), kilometre point 470,754 at 210 Miraflores-Tarragona railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Passenger fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Apeo tras iniciar la marcha",
+  "Iniciar marcha del tren",
+  "No comprobación de holguras",
+  "Puerta con dispositivo averiado"
+ ],
+ "mitigaciones": [
+  "Aplicación rápida del freno",
+  "Observación por espejo retrovisor",
+  "Parada antes de arrollar",
+  "Asistencia inmediata de personal ferroviario"
+ ],
+ "factores_humanos": [
+  "Apeo indebido en marcha",
+  "Falta de comprobación de holguras",
+  "Averías previas de puertas",
+  "Respuesta rápida del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

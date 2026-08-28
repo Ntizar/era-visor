@@ -1,0 +1,27 @@
+{
+ "id": "ES-RS-060709-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-060709-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0031/2009",
+ "titulo": "Accidente ferroviario en paso a nivel entre Ronda y Setenil (Málaga)",
+ "fecha_suceso": "2009-07-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Málaga",
+  "pk": null,
+  "linea": "420 Bif. Las Maravillas - Algeciras"
+ },
+ "entidades": [],
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprobó como definitivo el informe particular del accidente nº 0031/2009. El suceso ocurrió el 6 de julio de 2009 en el paso a nivel entre Ronda y Setenil (Málaga), en la línea 420 Bif. Las Maravillas - Algeciras. La resolución no establece recomendaciones de seguridad.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

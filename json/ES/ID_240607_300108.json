@@ -1,0 +1,75 @@
+{
+ "id": "ES-ID_240607_300108",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_240607_300108.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-287",
+ "expediente": "38/2007",
+ "titulo": "Arrollamiento mortal de persona por imprudencia al cruzar vías en estación de Vinaroz",
+ "fecha_suceso": "2007-06-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Vinaroz",
+  "provincia": "Valencia",
+  "pk": "146+805",
+  "linea": "600 Valencia Nord - San Vicenç de Calders"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "Una persona falleció tras ser arrollada por el tren de Larga Distancia 1501 en la vía 2 de la estación de Vinaroz. La víctima, tras apearse de otro tren, decidió cruzar las vías a pie en lugar de utilizar el paso inferior existente a 95 metros. El maquinista aplicó el freno de emergencia y emitió señales acústicas, pero no pudo evitar el impacto debido a la velocidad del tren (165 km/h). La investigación concluyó que el accidente se debió exclusivamente a la imprudencia de la víctima.",
+ "causa_directa": "Imprudencia de la víctima al cruzar las vías por un lugar inadecuado y no autorizado, ignorando las señales acústicas del tren y haciendo caso omiso de la existencia de un paso inferior seguro.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Sensibilizar a la población en el respeto de las normas y en el correcto uso de las zonas de paso.",
+  "Señalar con paneles informativos sobre el peligro de cruzar las vías.",
+  "Intensificar las labores de vigilancia, así como los avisos por megafonía ante la proximidad de un tren."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person who crossed the tracks at unauthorised place is hit by a long distance train Euromed 1501.",
+  "Location name": "Railway line from Valencia to S.V. Calders.(600 Valencia-San Vicente de Calders railway line) Vinaroz station (Valencia), kilometre point 146+805",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed at unauthorised place instead of using the existing underpass"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No hacer uso del paso inferior",
+  "Cruzar vía dos indebidamente",
+  "Apearse sin usar paso inferior",
+  "Ignorar silbato del tren"
+ ],
+ "mitigaciones": [
+  "Uso correcto del paso inferior",
+  "Silbato reiterado del tren",
+  "Frenada de emergencia",
+  "Aviso por megafonía"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "No respetar normas de paso",
+  "Ignorar avisos acústicos",
+  "Falta de vigilancia"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

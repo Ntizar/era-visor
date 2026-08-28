@@ -1,0 +1,58 @@
+{
+ "id": "ES-ES 20.11.2015 170131-151120-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 20.11.2015 170131-151120-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0058/2015",
+ "titulo": "Descarrilamiento de vagones por fallo en caja de grasa entre Palencia y Monzón de Campos",
+ "fecha_suceso": "2015-11-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Palencia",
+  "pk": "309+474",
+  "linea": "Tramo entre estaciones de Palencia y Monzón de Campos"
+ },
+ "entidades": [
+  "Transfesa",
+  "ADIF"
+ ],
+ "resumen": "El tren de mercancías 82697 descarriló parcialmente entre las estaciones de Palencia y Monzón de Campos. El incidente se originó por el fallo técnico del segundo eje del vagón número 24, cuya caja de grasa sufrió un sobrecalentamiento que provocó la rotura de la mangueta. Como consecuencia, varios ejes de los vagones 24, 25 y 23 salieron de la vía, aunque la locomotora y la mayoría del tren permanecieron encarrilados. No hubo víctimas mortales ni heridos, pero se produjeron daños materiales.",
+ "causa_directa": "Fallo técnico del material móvil debido a un aumento de temperatura en la caja de grasa del segundo eje del vagón 24, posiblemente por agarrotamiento del rodamiento, lo que desgastó la mangueta hasta su rotura y causó el desprendimiento de la caja fundida.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Requerir a Transfesa que presente un nuevo plan de homologación y montaje de las nuevas cajas de grasa de los ejes tipo 66 de los vagones Leks, asegurando el cumplimiento del mismo.",
+  "Hasta la implantación del nuevo plan, intensificar el mantenimiento de las actuales cajas de grasa mediante un plan complementario para asegurar su correcto funcionamiento."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Aumento temperatura caja grasa",
+  "Agarrotamiento rodamiento rueda derecha",
+  "No constancia mantenimiento correctivo caja",
+  "Retraso sustitución cajas grasa"
+ ],
+ "mitigaciones": [
+  "Detectores de ejes calientes",
+  "Sustitución ejes 66 por 65",
+  "Inspección visual cajas grasa",
+  "Intensificar mantenimiento cajas grasa"
+ ],
+ "factores_humanos": [
+  "Retraso implantación nuevas cajas grasa",
+  "Falta seguimiento estado cajas grasa",
+  "No constancia mantenimiento correctivo caja"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

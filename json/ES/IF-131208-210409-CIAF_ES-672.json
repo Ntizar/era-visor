@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-131208-210409-CIAF_ES-672",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-131208-210409-CIAF_ES-672.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-671",
+ "expediente": "0072/2008",
+ "titulo": "Arrollamiento de una persona por un tren de mercancías entre Vitoria y Alegría de Álava, PK 494,315, línea 100",
+ "fecha_suceso": "2008-12-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Álava",
+  "pk": "494,315",
+  "linea": "100 Hendaya - Madrid"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 13 de diciembre de 2008, a las 09:45 horas, el tren de mercancías 93161 de Renfe Operadora arrolló a una persona en plena vía, en el PK 494,315, entre las estaciones de Vitoria y Alegría de Álava, en la línea 100 Hendaya-Madrid. La víctima caminaba por el margen izquierdo de la vía, de espaldas al sentido de la marcha del tren, e intentó cruzar la vía cuando pasaba el tren. Aunque el maquinista usó el silbato y el freno de emergencia, no pudo evitar el arrollamiento. La persona falleció en el acto.",
+ "causa_directa": "La invasión del gálibo por la víctima, que caminaba por el margen izquierdo de la vía e intentó cruzarla cuando pasaba el tren 93161.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A commuter train knocked down a man who crossed the level crossing when the barriers were down and the light and sound signals were working.",
+  "Location name": "Calella station (Barcelona), at level crossing type C, kilometre point 48,542, on 276 Maçanet-Massanes-Barcelona-Sagrera railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Invasión del gálibo por la víctima",
+  "Caminar por margen izquierdo",
+  "Intentar cruzar al pasar tren",
+  "Puerta en montaje permitía acceso"
+ ],
+ "mitigaciones": [
+  "Uso del silbato y freno",
+  "Velocidad inferior a máxima",
+  "Buena visibilidad del tramo",
+  "Vallado, pasarela y paso"
+ ],
+ "factores_humanos": [
+  "Acceso no autorizado a vía",
+  "Caminar de espaldas al tren",
+  "Puerta para personal de mantenimiento",
+  "Obras para completar vallado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,66 @@
+{
+ "id": "ES-ID_230707_300108",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_230707_300108.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-290",
+ "expediente": "041/2007",
+ "titulo": "Arrollamiento de una persona por el tren LE568 en la estación de Bell-Lloc d'Urgell (Lleida)",
+ "fecha_suceso": "2007-07-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Bell-Lloc d'Urgell",
+  "provincia": "Lleida",
+  "pk": "196,070",
+  "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 23 de julio de 2007, el tren LE568, perteneciente al equipo de línea de electrificación de Adif, arrolló a una persona en la estación de Bell-Lloc d'Urgell. La víctima cruzó la vía por una abertura en los setos existentes junto a la vía. Como consecuencia del arrollamiento, la persona falleció. El informe señala que el accidente se produjo entre dos pasos a nivel próximos, pero con pasos viciosos en la zona.",
+ "causa_directa": "El accidente tuvo su origen en la imprudencia de la víctima al cruzar la vía por un paso indebido, sin percatarse de la llegada del tren LE568.",
+ "causas_sistemicas": "Existencia de pasos viciosos y setos próximos a la vía que dificultan la visibilidad lateral y favorecen la invasión indebida de la infraestructura ferroviaria.",
+ "recomendaciones": [
+  "Supresión de los pasos viciosos mediante un vallado que delimite la zona urbana y la separe de la vía."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man is knocked down by an infraestructure works train when he was crossing at an unauthorised place.",
+  "Location name": "Railway line from Barcelona to Lérida.(220 Lleida - L´Hospitalet de Llobregat railway line) Kilometre point 196,070 at Bell-Lloc station (Lleida).",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Infrastructure works train",
+  "RU involved": "Adif",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed at unauthorised place"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "cruce indebido por paso vicioso",
+  "visibilidad lateral reducida por setos"
+ ],
+ "mitigaciones": [
+  "uso inmediato del freno de urgencia",
+  "uso del silbato de la vagoneta"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima al cruzar",
+  "no percatarse de la llegada del tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

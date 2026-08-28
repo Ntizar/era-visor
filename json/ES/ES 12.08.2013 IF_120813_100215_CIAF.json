@@ -1,0 +1,69 @@
+{
+ "id": "ES-ES 12.08.2013 IF_120813_100215_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 12.08.2013 IF_120813_100215_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2762",
+ "expediente": "0062/2013",
+ "titulo": "Descarrilamiento de vagoneta de electrificación entre Salomó y Valls por rotura de eje",
+ "fecha_suceso": "2013-08-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": null,
+  "pk": "18+920",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 12 de agosto de 2013, una vagoneta de electrificación de Adif (tren SC507) descarriló en el PK 18+920 entre Salomó y Valls. El incidente se produjo durante trabajos de mantenimiento preventivo de la línea aérea de contacto. La causa fue la rotura de la mangueta derecha del segundo eje trasero del vehículo. Cuatro operarios resultaron heridos leves.",
+ "causa_directa": "Rotura de la mangueta derecha del segundo eje de la vagoneta, lo que provocó el descarrilamiento.",
+ "causas_sistemicas": "Insuficiencia en los planes de mantenimiento, ya que las inspecciones no destructivas de ejes (ultrasonidos y magnetoscopía) solo se realizaban cada 10 años en intervenciones de nivel IM, sin incluirse en revisiones más frecuentes como IS1 o IS2.",
+ "recomendaciones": [
+  "Estudiar la modificación de los planes de mantenimiento de vehículos similares para realizar desmontaje de cajas de grasa e inspecciones de ejes mediante ultrasonidos y magnetoscopía en un mayor número de intervenciones, acortando el tiempo entre ellas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Electrification car derailed at kilometre point 18+920",
+  "Location name": "Between Salomó and Vilabella, (Tarragona)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Infrastructure works train",
+  "RU involved": "Adif",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a failure of the rolling stock, in particular by the breakage of second axle´s right journal in the direction of travel"
+ },
+ "subsistema": "Material Rodante Adif",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Rotura de mangueta derecha eje trasero",
+  "Inspección ejes solo cada 10 años",
+  "Falta análisis laboratorio causa rotura"
+ ],
+ "mitigaciones": [
+  "Aplicación freno a fondo conductor",
+  "Detención vehículo descarrilado",
+  "Heridos leves sin víctimas mortales"
+ ],
+ "factores_humanos": [
+  "Cumplimiento normativa personal conducción",
+  "Prueba alcoholemia resultado negativo",
+  "Plan mantenimiento seguido correctamente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

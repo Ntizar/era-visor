@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF_200913_230914_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_200913_230914_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2899",
+ "expediente": "0064/2013",
+ "titulo": "Colisión por alcance y descarrilamiento en la estación de Barcelona Sants",
+ "fecha_suceso": "2013-09-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Barcelona Sants",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 20 de septiembre de 2013, el tren de cercanías 25706 pasó en indicación de rebase autorizado la señal E9 en la estación de Barcelona Sants. Al no mantener la debida atención, colisionó por alcance contra el tren 28132, que estaba estacionado en la vía 7 realizando parada comercial. Como consecuencia, descarriló el bogie de cabeza del tren 25706 y se produjeron 24 heridos leves. La investigación atribuye el suceso a un fallo humano del personal de conducción.",
+ "causa_directa": "Fallo humano del personal de conducción del tren 25706 por falta de atención, al no cumplir las condiciones reglamentarias del rebase autorizado de la señal E9.",
+ "causas_sistemicas": "Incumplimiento reglamentario de circular con velocidad prefijada en marcha a la vista, considerado factor coadyuvante que pudo facilitar el despiste y la colisión.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "Commuter train collided with the rear end of another commuter train that was standing at track 7 of Barcelona Sants station. No significant injured.",
+  "Location name": "Barcelona Sants station (Barcelona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by human failure of train driver of train 25706, in particular due to a lack of attention while driving. As a consequence, the mandatory terms for an authorised overrun of home signal E9 were not carried out correctly, breaching articles 218.1 and 141.2 of the General Operating Rules. As a contributory factor it's pointed a failure to comply with Aviso SC nº 37 (Renfe Operadora) that ordered a manual train driving instead of driving with theoretical speed."
+ }
+}

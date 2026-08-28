@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-230610-310111-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-230610-310111-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-937",
+ "expediente": "0030/2010",
+ "titulo": "Arrollamiento de personas que cruzaban vías en el apeadero de Platja de Castelldefels (Barcelona)",
+ "fecha_suceso": "2010-06-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Platja de Castelldefels",
+  "provincia": "Barcelona",
+  "pk": "656+598",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Sants"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 23 de junio de 2010, a las 23:23 horas, el tren Alaris 1202 de Renfe Operadora, sin parada establecida, arrolló a varias personas en el apeadero de Platja de Castelldefels. Momentos antes, el tren de cercanías 28391 había realizado parada en la vía contraria y un grupo de viajeros descendió con destino a la playa. Varias personas cruzaron a nivel por un lugar no autorizado, detrás del tren de cercanías y sin visibilidad del tren 1202. El maquinista hizo uso de la bocina y el freno de emergencia, pero no tuvo tiempo ni distancia para evitar el arrollamiento.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas, al cruzar por un lugar no autorizado y sin percatarse de la llegada del tren 1202.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 12,
+ "heridos_graves": 10,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A long distance train, which didn´t have scheduled stop at this halt, knocked down a group of people that were crossing the tracks to reach the opposite platform instead of doing it through the provided underground passage. As a result 12 people were killed, 10 seriously injured and 7 slightly injured.",
+  "Location name": "Platja de Castelldefels halt (Barcelona), at 200 Madrid-Barcelona railway line",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 12,
+  "Total fatalities": 12,
+  "Unauth. person serious injuries": 10,
+  "Total serious injuries": 10,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when a huge group of people crossed the tracks at unauthorised place."
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "id": "ES-ES 15.01.2017 N181219-170115-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 15.01.2017 N181219-170115-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0007/2017",
+ "titulo": "Incidente del tren 13903 por exceso de velocidad al entrar por vía desviada en la estación de Arahal (Sevilla)",
+ "fecha_suceso": "2017-01-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Arahal",
+  "provincia": "Sevilla",
+  "pk": null,
+  "linea": "Línea 422 (Arahal – Fuente de Piedra)"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El 15 de enero de 2017, el tren 13903 de RENFE VIAJEROS entró en la estación de Arahal (Sevilla) por vía desviada a 116 km/h. El maquinista no respetó la señal avanzada E'1, en anuncio de precaución, ni la señal de entrada E1, en anuncio de parada. Tras pasar la aguja A1 aplicó el freno de emergencia, detuvo el tren y lo retrocedió hasta vía 2, desde donde reanudó la marcha. La investigación concluyó que el material rodante, las comunicaciones y la señalización funcionaron correctamente.",
+ "causa_directa": "Fallo humano del maquinista del tren 13903 al entrar por vía desviada en Arahal a velocidad muy superior a la permitida, incumpliendo las órdenes de las señales E'1 y E1.",
+ "causas_sistemicas": "El informe no identifica causas subyacentes ni de raíz; como factor coadyuvante señala la inexistencia de un sistema de protección del tren en el tramo Arahal–Fuente de Piedra.",
+ "recomendaciones": [
+  "Agilizar la tramitación del proyecto BLAU con CTC y ASFA digital en el tramo Arahal–Fuente Piedra para suprimir el bloqueo telefónico.",
+  "Insistir en la formación de los maquinistas en la adecuación de la marcha a la señalización y en la atención a señales mecánicas sin sistema de protección del tren."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No respetar señal de precaución",
+  "Entrada a vía desviada excesiva velocidad",
+  "Ausencia sistema protección tren"
+ ],
+ "mitigaciones": [
+  "Aplicación freno emergencia",
+  "Limitación temporal velocidad ADIF",
+  "Dotación auxiliar cabina Renfe"
+ ],
+ "factores_humanos": [
+  "Fallo humano maquinista",
+  "Incumplimiento reglamento circulación",
+  "Pérdida atención señales vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

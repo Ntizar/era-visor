@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-111209-270410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-111209-270410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-839",
+ "expediente": "0063/2009",
+ "titulo": "Rebase de señal de salida y conato de colisión en estación de Renedo (Cantabria)",
+ "fecha_suceso": "2009-12-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Renedo",
+  "provincia": "Cantabria",
+  "pk": "495+043",
+  "linea": "160 Santander - Palencia"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 11 de diciembre de 2009, a las 21:32 horas, la locomotora aislada AE 147 de Renfe Operadora rebasó indebidamente la señal de salida S1/1 de la estación de Renedo (Cantabria), que presentaba indicación de parada. El tren talonó el desvío nº 4 y quedó detenido a 297 metros del tren de cercanías 26944, que se encontraba parado ante la señal de entrada E2. Se produjo un conato de colisión entre ambos trenes. El incidente se originó por el incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causa_directa": "El incidente tuvo su origen en el incumplimiento de las órdenes dadas por las señales al personal de conducción, provocando que el tren AE 147 rebasara indebidamente la señal de salida S1/1, que se encontraba ordenando parada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A locomotive running solo (train nºAE 147), failed to stop at the exit station signal S1/1(red aspect, forcing open the point nº 4 and causing a near miss train collision with a passenger train nº26944.",
+  "Location name": "Renedo de Piélagos station (Cantabria), kilometre point 495,043, 160 Santander-Palencia railway station.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train; \nLocomotive running solo",
+  "RU involved": "RENFE-Operadora; \n",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train AE 147 driver overtook the station exit signal (S1/1) which stated a red aspect (stop indication)."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No reducir ante anuncio de parada",
+  "Aumentar velocidad tras señal amarilla",
+  "Aplicar freno de urgencia tardíamente",
+  "Rebasar señal de entrada E1"
+ ],
+ "mitigaciones": [
+  "ASFA aplicó freno de urgencia",
+  "Maquinista aplicó seta de urgencia",
+  "Tren quedó parado a 297 metros",
+  "Tren parado ante señal E2"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de órdenes de señales",
+  "No respetar señales de parada",
+  "Influencia de procesos psicológicos",
+  "Formación en cumplimiento normativo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

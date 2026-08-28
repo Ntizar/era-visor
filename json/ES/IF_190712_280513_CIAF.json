@@ -1,0 +1,50 @@
+{
+ "id": "ES-IF_190712_280513_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_190712_280513_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0139",
+ "expediente": "0051/2012",
+ "titulo": "Descarrilamiento de tren de mercancías entre Villa del Río y Montoro (Córdoba) por fallo en caja de grasa",
+ "fecha_suceso": "2012-07-19",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Córdoba",
+  "pk": "393+525",
+  "linea": "400 Alcázar de San Juan - Cádiz"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 19 de julio de 2012, el tren de mercancías CGX10 descarriló un vagón portacontenedores en la línea 400. El incidente se originó tras una alarma de sobrecalentamiento detectada por un equipo DEC, pero la comunicación con el maquinista se retrasó porque el tren tierra no estaba conectado correctamente. A pesar de la alerta, el tren continuó su marcha hasta que la rotura de la mangueta provocó el descarrilamiento unos kilómetros después.",
+ "causa_directa": "Fallo técnico del material debido a la rotura de la mangueta izquierda del primer eje del decimoctavo vagón, causada por un sobrecalentamiento de la caja de grasa derivado de una intervención previa inadecuada (falta de tapón).",
+ "causas_sistemicas": "Gestión deficiente de la incidencia por parte del personal de circulación al no poder contactar inmediatamente con el maquinista, agravado por la falta de conexión del sistema de radiotelefonía tren-tierra asignado y la ausencia de protocolos claros para actuar ante alarmas de ejes calientes cuando falla la comunicación primaria.",
+ "recomendaciones": [
+  "Establecer normativa específica para la reparación de ejes montados sin tapón de cierre de caja de grasa, incluyendo comprobaciones detalladas y ficha de inspección.",
+  "Reforzar en los cursos de reciclaje la verificación por parte del personal de conducción de la modalidad y canal correctos del tren tierra.",
+  "Estudiar modificaciones en la normativa sobre la gestión de alarmas de los detectores de ejes calientes (DEC)."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Flat wagon of freight train derailed at kilometre point 393+525, between Villa del Río and Montoro stations (Córdoba).",
+  "Location name": "Montoro (Córdoba)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "150 000 - 2 000 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is caused by a technical failure of the rolling stock, when an axle journal broke down due to an overheating of the axle box",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The situation was not properly handled by the staff."
+ }
+}

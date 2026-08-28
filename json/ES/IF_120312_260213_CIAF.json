@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_120312_260213_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_120312_260213_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1396",
+ "expediente": "0022/2012",
+ "titulo": "Colisión del tren 222 con señal y herramientas en vía 2 de la estación de Socuéllamos",
+ "fecha_suceso": "2012-03-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Socuéllamos",
+  "provincia": "Ciudad Real",
+  "pk": "188+690",
+  "linea": "Línea 300 Madrid Chamartín – Valencia Estació del Nord"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 12 de marzo de 2012, a las 11:30 horas, el tren de viajeros 222 de Renfe Operadora, con destino Cartagena, colisionó con una señal de parada, una motoclavadora y herramientas manuales en la vía 2 de la estación de Socuéllamos, línea 300 Madrid Chamartín – Valencia Estació del Nord. No se produjeron daños personales. El accidente se originó por fallo humano del personal de circulación, que estableció un itinerario de paso por una vía con trabajos en curso, y del encargado de los trabajos, que no adoptó las medidas de seguridad pertinentes. Adif recibió recomendaciones para aplicar estrictamente la normativa y prevenir el fallo humano en trabajos en vía.",
+ "causa_directa": "Fallo humano del personal de circulación, al establecer un itinerario de paso por la vía 2 para el tren 222 cuando se estaban realizando trabajos en esa misma vía, y del encargado de los trabajos, al no tomar las medidas de seguridad pertinentes.",
+ "causas_sistemicas": "La autorización de los trabajos se condicionó a liberar el circuito de agujas para pasar el tren, lo que redujo el nivel de seguridad; el encargado no entregó el boletín de autorización y el responsable de circulación no lo reclamó; además, se retiró el cortocircuitador y se continuaron trabajos en vía incumpliendo el RGC.",
+ "recomendaciones": [
+  "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan.",
+  "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo)."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "Wrong established route for long distance train. As a result, the train run over a motor hammer and some tools were laid at the track as some works were being done at the station.",
+  "Location name": "Socuellamos station (Ciudad Real)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the train was wrongly routed through track 2, while works were being done at this track, and the relevant safety measures weren´t met."
+ }
+}

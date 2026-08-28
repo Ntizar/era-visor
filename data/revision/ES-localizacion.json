@@ -1,0 +1,6236 @@
+[
+ {
+  "id": "ES-190628-120817-IF-SN_CIAF",
+  "titulo": "Incidente por fallo de enclavamiento y aguja 17 en la estación de Puebla de Sanabria (Zamo",
+  "provincia": "Zamora",
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-191217-230317-IF-SN_CIAF",
+  "titulo": "Rebase indebido de señal de salida con riesgo de colisión en la estación de Madrid Chamart",
+  "provincia": null,
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-191217-280717-if-sn_ciaf",
+  "titulo": "Colisión de tren contra topera en la estación de França (Barcelona) por pérdida de conscie",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-200124-291117-IF-SN_CIAF",
+  "titulo": "Descarrilamiento en plena vía en el p.k. 20+350 del trayecto El Sorbito-Arahal (Sevilla)",
+  "provincia": "Sevilla",
+  "pk": "20+350",
+  "linea": "El Sorbito-Arahal",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-200421-010718-IF-SN_CIAF_",
+  "titulo": "Incidente por fallo de enclavamiento y señal en la estación de Pedralba (Zamora)",
+  "provincia": "Zamora",
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-200723-201118-IF-SN_CIAF",
+  "titulo": "Descarrilamiento por caída de muro en Vacarisses (Barcelona)",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": "Línea 220 Lleida Pirineus - L'Hospitalet de Llobregat",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-201117-091219-IF-SN_CIAF",
+  "titulo": "Rebase indebido de la señal E1 en la estación de Cornellá (Barcelona)",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-2024-122-1213-if",
+  "titulo": "Descarrilamiento por escape de material en la estación de León Clasificación el 13 de dici",
+  "provincia": null,
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-2024-64-0625-if",
+  "titulo": "Incidente operacional tras reanudar marcha después de un SPAD en la estación de Cuenca-Fer",
+  "provincia": null,
+  "pk": null,
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-ES 02.07.204 150324-140702-IF-CIAF",
+  "titulo": "Deformación de vía por acumulación de agua entre Chinchilla y Bonete (Albacete)",
+  "provincia": "Albacete",
+  "pk": "368+925",
+  "linea": "Bifurcación Albacete-Alicante",
+  "lat": 38.81744785,
+  "lng": -0.99916507,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 369.2,
+  "provincia_ine": "Albacete",
+  "coord_pkcercano": [
+   38.81744785,
+   -0.99916507
+  ],
+  "codtramo_cercano": "033000200",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ES 02.09.2014 -140902-IF-CIAF",
+  "titulo": "Descarrilamiento de tren de mercancías entre Unquera (Cantabria) y Colombres (Asturias)",
+  "provincia": "Asturias",
+  "pk": "451+557",
+  "linea": "RAM 770 Santander - Oviedo",
+  "lat": 43.38296419,
+  "lng": -4.55275167,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 451.1,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.38296419,
+   -4.55275167
+  ],
+  "codtramo_cercano": "087700100",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ES 02.09.2015 170530-150902-IF-CIAF",
+  "titulo": "Arrollamiento de una barra de carril acopiada junto a la vía en Noaín (Navarra), arrastrad",
+  "provincia": "Navarra",
+  "pk": "165+409",
+  "linea": null,
+  "lat": 42.73064918,
+  "lng": -1.62859834,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 165.3,
+  "provincia_ine": "Navarra",
+  "coord_pkcercano": [
+   42.73064918,
+   -1.62859834
+  ],
+  "codtramo_cercano": "017100050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-1-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2008 OCURRIDO EL DÍ",
+  "provincia": "Córdoba",
+  "pk": "P.K. 429,825",
+  "linea": "400 Alcázar de San Juan-Cádiz",
+  "lat": 37.9324672958765,
+  "lng": -4.663323791015936,
+  "metodo": null,
+  "dist_via_m": 220,
+  "pk_cercano": 429.7,
+  "provincia_ine": "Córdoba",
+  "coord_pkcercano": [
+   37.9332958,
+   -4.66560085
+  ],
+  "codtramo_cercano": "044000120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-1-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2009 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "P.K. 643,230",
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "lat": 41.239293715753426,
+  "lng": 1.8090553367123292,
+  "metodo": null,
+  "dist_via_m": 59,
+  "pk_cercano": 643.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.23920092,
+   1.80974408
+  ],
+  "codtramo_cercano": "022000500",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-1-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0001/2013 OCURRIDO EL DÍA 09.01.2013 EN LA",
+  "provincia": "Córdoba",
+  "pk": "PK 415+648",
+  "linea": "400 Alcázar de San Juan – Cádiz",
+  "lat": 37.949865723515536,
+  "lng": -4.511792119192032,
+  "metodo": null,
+  "dist_via_m": 98,
+  "pk_cercano": 413.7,
+  "provincia_ine": "Córdoba",
+  "coord_pkcercano": [
+   37.94953559,
+   -4.51076084
+  ],
+  "codtramo_cercano": "044000120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-1-2017",
+  "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0001/20",
+  "provincia": "Álava",
+  "pk": "477+265",
+  "linea": "100 Hendaya-Madrid Chamartín",
+  "lat": 42.794301148286245,
+  "lng": -2.8243868908754646,
+  "metodo": null,
+  "dist_via_m": 15,
+  "pk_cercano": 476,
+  "provincia_ine": "Álava",
+  "coord_pkcercano": [
+   42.7941669,
+   -2.824387
+  ],
+  "codtramo_cercano": "011000320",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-10-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0010/2008 ocurrido el dí",
+  "provincia": "Vizcaya",
+  "pk": "5+348",
+  "linea": "720 Intermodal Abando Indalecio Prieto-Santurtzi",
+  "lat": 43.27776157,
+  "lng": -2.97210843,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 5.4,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.27776157,
+   -2.97210843
+  ],
+  "codtramo_cercano": "017200050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-10-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2009 OCURRIDO EL DÍA 02.02.2009 ENTRE",
+  "provincia": "Guipúzcoa",
+  "pk": "P.K. 551+790",
+  "linea": "100 Madrid- Hendaya",
+  "lat": 42.956206659598365,
+  "lng": -2.304161344221311,
+  "metodo": null,
+  "dist_via_m": 486,
+  "pk_cercano": 550,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   42.96040025,
+   -2.30580102
+  ],
+  "codtramo_cercano": "011000390",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-10-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2012 OCURRIDO EL DÍA 09.02.2012 EN LA",
+  "provincia": "Barcelona",
+  "pk": "28+158",
+  "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+  "lat": 41.615942,
+  "lng": 2.670446,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 49.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.61594205,
+   2.67044629
+  ],
+  "codtramo_cercano": "022760110",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-10-2015",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0010/2015 ocurrido el día 13.02",
+  "provincia": "Barcelona",
+  "pk": "PK 684+991",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "lat": 41.384376222526924,
+  "lng": 2.189663434707692,
+  "metodo": null,
+  "dist_via_m": 158,
+  "pk_cercano": 684.8,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38511466,
+   2.19128363
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-10-2016",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0010/2016 ocurrido el día 23.01",
+  "provincia": "Tarragona",
+  "pk": "518+063",
+  "linea": "210 Miraflores – Tarragona",
+  "lat": 41.2167,
+  "lng": 0.5667,
+  "metodo": null,
+  "dist_via_m": 1262,
+  "pk_cercano": 515.6,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.20548681,
+   0.56445036
+  ],
+  "codtramo_cercano": "022100110",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-107-2022",
+  "titulo": "IF 107/2022 — Colisión entre trenes por alcance el 13 de diciembre de 2022",
+  "provincia": "Tarragona",
+  "pk": null,
+  "linea": null,
+  "lat": 41.0833,
+  "lng": 0.75,
+  "metodo": null,
+  "dist_via_m": 1248,
+  "pk_cercano": 541.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.09375848,
+   0.75534791
+  ],
+  "codtramo_cercano": "022100120",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-108-2022",
+  "titulo": "IF 108/2022 — El día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 41.8167,
+  "lng": 2.2667,
+  "metodo": null,
+  "dist_via_m": 2171,
+  "pk_cercano": 55.6,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.82005351,
+   2.24092274
+  ],
+  "codtramo_cercano": "022220040",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-11-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0011/2009 OCURRIDO EL DÍA 12.02.2009 ENTRE",
+  "provincia": "Barcelona",
+  "pk": "351+200",
+  "linea": "224 Cerdanyola Universitat – Cerdanyola del Vallés",
+  "lat": 41.49582517,
+  "lng": 2.14350227,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 350.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.49582517,
+   2.14350227
+  ],
+  "codtramo_cercano": "022200070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-11-2015",
+  "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0011/2015 OCURRIDO EL DÍA ",
+  "provincia": "Madrid",
+  "pk": "1+026",
+  "linea": "102 Bifurcación Aranda a Madrid Chamartín",
+  "lat": 40.48619674832941,
+  "lng": -3.6768305280235296,
+  "metodo": null,
+  "dist_via_m": 98,
+  "pk_cercano": 1.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.4853255,
+   -3.67667316
+  ],
+  "codtramo_cercano": "029060010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-11-2023",
+  "titulo": "IF 11/2023 — Incendio de material rodante ocurrido el día 30 de enero de",
+  "provincia": "Córdoba",
+  "pk": null,
+  "linea": null,
+  "lat": 39.453,
+  "lng": -0.352,
+  "metodo": null,
+  "dist_via_m": 921,
+  "pk_cercano": 7.4,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.45104058,
+   -0.3415847
+  ],
+  "codtramo_cercano": "036000040",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-114-2023",
+  "titulo": "IF 114/2023 — Descarrilamiento de tren",
+  "provincia": "Desconocida",
+  "pk": null,
+  "linea": null,
+  "lat": 40.4065,
+  "lng": -3.692,
+  "metodo": null,
+  "dist_via_m": 105,
+  "pk_cercano": 0.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.40743454,
+   -3.69214616
+  ],
+  "codtramo_cercano": "059200020",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-12-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2008 OCURRIDO EL DÍ",
+  "provincia": "Zaragoza",
+  "pk": "470+754",
+  "linea": "210 de Miraflores a Tarragona",
+  "lat": 41.23339154995161,
+  "lng": 0.13730240008709693,
+  "metodo": null,
+  "dist_via_m": 59,
+  "pk_cercano": 470,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.23316615,
+   0.13666278
+  ],
+  "codtramo_cercano": "022100090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-12-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2009 OCURRIDO EL DÍ",
+  "provincia": "Pontevedra",
+  "pk": "PK 175,050",
+  "linea": "810 Vigo – Monforte de Lemos",
+  "lat": 42.285,
+  "lng": -8.564,
+  "metodo": null,
+  "dist_via_m": 3260,
+  "pk_cercano": 11.6,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.28450969,
+   -8.60357354
+  ],
+  "codtramo_cercano": "068500020",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-12-2011",
+  "titulo": "IF 12/2011 — El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercaní",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 43.3667,
+  "lng": -4.5833,
+  "metodo": null,
+  "dist_via_m": 2442,
+  "pk_cercano": 449.1,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.38764038,
+   -4.57432465
+  ],
+  "codtramo_cercano": "087700100",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-12-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0012/2013 OCURRIDO EL DÍA 31.01.2013 ENTRE",
+  "provincia": "Cantabria",
+  "pk": "457+381",
+  "linea": "770 Valdecilla - La Marga a Oviedo",
+  "lat": 43.370312088927875,
+  "lng": -4.480203352357377,
+  "metodo": null,
+  "dist_via_m": 98,
+  "pk_cercano": 457.6,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.37003463,
+   -4.48135594
+  ],
+  "codtramo_cercano": "087700110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-12-2015",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0012/2015 ocurrido el día 04.03",
+  "provincia": "Madrid",
+  "pk": "PK 7+855",
+  "linea": "116 Los Cotos - Cercedilla",
+  "lat": 40.764579152126124,
+  "lng": -4.025053012522522,
+  "metodo": null,
+  "dist_via_m": 265,
+  "pk_cercano": 8,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.76660203,
+   -4.02338495
+  ],
+  "codtramo_cercano": "011160010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-12-2016",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario (arrollamiento de obstáculo) nº 00",
+  "provincia": "Tarragona",
+  "pk": "247+490",
+  "linea": "600 Valencia Nord – Sant Vicenç de Calders",
+  "lat": 41.1072446742439,
+  "lng": 1.104869535292683,
+  "metodo": null,
+  "dist_via_m": 271,
+  "pk_cercano": 248.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.10887608,
+   1.10727157
+  ],
+  "codtramo_cercano": "036000157",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-12-2017",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0012/2017 ocurrido el día 13.02",
+  "provincia": "Toledo",
+  "pk": "90+594",
+  "linea": "500 Bifurcación Planetario a Valencia de Alcántara",
+  "lat": 39.97594883929918,
+  "lng": -4.3471818329836065,
+  "metodo": null,
+  "dist_via_m": 465,
+  "pk_cercano": 91.4,
+  "provincia_ine": "Toledo",
+  "coord_pkcercano": [
+   39.97500226,
+   -4.3524909
+  ],
+  "codtramo_cercano": "055000110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-12-2019",
+  "titulo": "IF 12/2019 — responsabilidad del accidente o incidente y será independiente de cualquier i",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 41.7257,
+  "lng": 1.8269,
+  "metodo": null,
+  "dist_via_m": 607,
+  "pk_cercano": 301.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.72026002,
+   1.82645241
+  ],
+  "codtramo_cercano": "022200050",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-122-2024",
+  "titulo": "IF 122/2024 — Descarrilamiento por escape de material en la estación de",
+  "provincia": "León",
+  "pk": null,
+  "linea": null,
+  "lat": 42.634145,
+  "lng": -5.971415,
+  "metodo": null,
+  "dist_via_m": 10668,
+  "pk_cercano": 190.4,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.59273546,
+   -6.0888451
+  ],
+  "codtramo_cercano": "068000060",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-13-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0013/2008 OCURRIDO EL DÍ",
+  "provincia": "Zaragoza",
+  "pk": "214,220",
+  "linea": "200 Madrid-Barcelona",
+  "lat": 41.2961878732141,
+  "lng": -1.9675598602821158,
+  "metodo": null,
+  "dist_via_m": 40,
+  "pk_cercano": 213,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.2962228,
+   -1.96803946
+  ],
+  "codtramo_cercano": "022000180",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-13-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0013/2009 OCURRIDO EL DÍ",
+  "provincia": "Asturias",
+  "pk": "P.K. 378,130",
+  "linea": "21 Oviedo Santander",
+  "lat": 42.2167,
+  "lng": -4.4333,
+  "metodo": null,
+  "dist_via_m": 461,
+  "pk_cercano": 324.3,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   42.21903794,
+   -4.42868856
+  ],
+  "codtramo_cercano": "061600010",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-13-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0013/2013 OCURRIDO EL DÍA 10.02.2013 EN LA",
+  "provincia": "Cantabria",
+  "pk": "537+005",
+  "linea": "780 Bilbao Concordia – Santander",
+  "lat": 43.422718064499996,
+  "lng": -3.838129452,
+  "metodo": null,
+  "dist_via_m": 140,
+  "pk_cercano": 537.3,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.4216763,
+   -3.83910994
+  ],
+  "codtramo_cercano": "087800020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-14-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0014/2008 OCURRIDO EL DÍ",
+  "provincia": "Guipúzcoa",
+  "pk": "P.K. 594,380",
+  "linea": "100 Madrid-Hendaya",
+  "lat": 43.11297300043312,
+  "lng": -2.091853378076433,
+  "metodo": null,
+  "dist_via_m": 366,
+  "pk_cercano": 593.5,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.11000963,
+   -2.09379023
+  ],
+  "codtramo_cercano": "011000410",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-14-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0014/2010 OCURRIDO EL DÍA 05.03.2010 EN DU",
+  "provincia": "Palencia",
+  "pk": "P.K. 278+952",
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "lat": 41.8758948853617,
+  "lng": -4.540395140042553,
+  "metodo": null,
+  "dist_via_m": 161,
+  "pk_cercano": 279.2,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   41.87445238,
+   -4.54041058
+  ],
+  "codtramo_cercano": "011000200",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-14-2016",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0014/2016 ocurrido el día 16.03",
+  "provincia": "Madrid",
+  "pk": "22+554",
+  "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+  "lat": 40.45357587824681,
+  "lng": -3.484638113361702,
+  "metodo": null,
+  "dist_via_m": 291,
+  "pk_cercano": 22.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.45285919,
+   -3.48794345
+  ],
+  "codtramo_cercano": "022000060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-15-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0015/2008 OCURRIDO EL DÍ",
+  "provincia": "Guipúzcoa",
+  "pk": "P.K. 615,049",
+  "linea": "100 Madrid-Hendaya",
+  "lat": 43.26670625115544,
+  "lng": -1.9725681128860104,
+  "metodo": null,
+  "dist_via_m": 264,
+  "pk_cercano": 614.9,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.2645791,
+   -1.9740081
+  ],
+  "codtramo_cercano": "011000415",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-15-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0015/2009 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "656+600",
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "lat": 41.26779710192308,
+  "lng": 1.9628715021794876,
+  "metodo": null,
+  "dist_via_m": 263,
+  "pk_cercano": 657.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.26870069,
+   1.96577511
+  ],
+  "codtramo_cercano": "022000510",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-15-2011",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0015/2011 OCURRIDO EL DÍA 07.03.2011 EN FL",
+  "provincia": "Girona",
+  "pk": "PK 224+794",
+  "linea": "270 Barcelona San Andrés Condal - Cerbere",
+  "lat": 42.05695590065667,
+  "lng": 2.9629995374566667,
+  "metodo": null,
+  "dist_via_m": 490,
+  "pk_cercano": 223.6,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   42.06119866,
+   2.96458597
+  ],
+  "codtramo_cercano": "022700130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-15-2013",
+  "titulo": "IF 15/2013 — “La investigación técnica de los accidentes e incidentes ferroviarios llevada",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": null,
+  "lat": 42.25,
+  "lng": -5.8333,
+  "metodo": null,
+  "dist_via_m": 19361,
+  "pk_cercano": 162.5,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.40793031,
+   -5.93184217
+  ],
+  "codtramo_cercano": "068000050",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-15-2015",
+  "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2015 OCURRIDO EL DÍA ",
+  "provincia": "Asturias",
+  "pk": "0+943",
+  "linea": "150 Aboño a Serín",
+  "lat": 43.5067803125,
+  "lng": -5.77161551075,
+  "metodo": null,
+  "dist_via_m": 136,
+  "pk_cercano": 160.7,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.50713757,
+   -5.77001
+  ],
+  "codtramo_cercano": "061300270",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-16-2008",
+  "titulo": "IF 016/2008 — El día 14 de mayo de 2008, a las 10:44 horas, la máquina de vía “Bateadora-N",
+  "provincia": "Tarragona",
+  "pk": "263,566",
+  "linea": "800 La Coruña-León",
+  "lat": 42.537904063400006,
+  "lng": -6.7583889436,
+  "metodo": null,
+  "dist_via_m": 198,
+  "pk_cercano": 264,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.5371763,
+   -6.75618085
+  ],
+  "codtramo_cercano": "068000085",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-16-2010",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0016/2010 OCURRIDO EL DÍA 10.03.2010 EN LA",
+  "provincia": "La Rioja",
+  "pk": "P.K. 76+396 (Señal de salida S1/4)",
+  "linea": "700 Casetas - Intermodal Abando Indalecio Prieto",
+  "lat": 42.054813,
+  "lng": -1.593009,
+  "metodo": null,
+  "dist_via_m": 450,
+  "pk_cercano": 76.3,
+  "provincia_ine": "Navarra",
+  "coord_pkcercano": [
+   42.05150697,
+   -1.58986821
+  ],
+  "codtramo_cercano": "017000030",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-16-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0016/2013 OCURRIDO EL DÍA 27.02.2013 ENTRE",
+  "provincia": "Madrid",
+  "pk": "15+600",
+  "linea": "100 Hendaya – Madrid Chamartín",
+  "lat": 40.50678042953846,
+  "lng": -3.8229010276923074,
+  "metodo": null,
+  "dist_via_m": 107,
+  "pk_cercano": 15.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.50649464,
+   -3.82169659
+  ],
+  "codtramo_cercano": "011000025",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-17-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0017/2008 OCURRIDO EL DÍ",
+  "provincia": "Alicante",
+  "pk": "396,675",
+  "linea": "330 La Encina-Alicante",
+  "lat": 38.62700784222222,
+  "lng": -0.865082698840156,
+  "metodo": null,
+  "dist_via_m": 421,
+  "pk_cercano": 397.1,
+  "provincia_ine": "Alicante",
+  "coord_pkcercano": [
+   38.62337756,
+   -0.86373339
+  ],
+  "codtramo_cercano": "033300025",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-17-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0017/2009 OCURRIDO EL DÍ",
+  "provincia": "Valencia",
+  "pk": "P.K. 81,494",
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.20317953239415,
+  "lng": -0.4401787931565762,
+  "metodo": null,
+  "dist_via_m": 275,
+  "pk_cercano": 80.7,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.2007111,
+   -0.44019806
+  ],
+  "codtramo_cercano": "033000270",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-17-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2010 OCURRIDO EL DÍA 11.03.2010 EN EL",
+  "provincia": "León",
+  "pk": "5+037",
+  "linea": "31 León - Bilbao",
+  "lat": 43.18,
+  "lng": -5.85,
+  "metodo": null,
+  "dist_via_m": 2158,
+  "pk_cercano": 109.1,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.16745398,
+   -5.82973862
+  ],
+  "codtramo_cercano": "061300170",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-17-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2011 OCURRIDO EL DÍA 23.04.2011 ENTRE",
+  "provincia": "Barcelona",
+  "pk": "PK 675+220",
+  "linea": "200 Barcelona Sants – Madrid Chamartín",
+  "lat": 41.36619164619355,
+  "lng": 2.1169708127741935,
+  "metodo": null,
+  "dist_via_m": 345,
+  "pk_cercano": 674.8,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.36313762,
+   2.11626557
+  ],
+  "codtramo_cercano": "022000560",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-17-2015",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0017/2015 ocurrido el día 09.02",
+  "provincia": "A Coruña",
+  "pk": "p.k. 366+849",
+  "linea": "822 Zamora-A Coruña",
+  "lat": 42.82839237061759,
+  "lng": -8.480090154078392,
+  "metodo": null,
+  "dist_via_m": 226,
+  "pk_cercano": 366.5,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   42.82817929,
+   -8.47733992
+  ],
+  "codtramo_cercano": "068220111",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-18-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0018/2008 OCURRIDO EL DÍ",
+  "provincia": "Toledo",
+  "pk": "P.K. 36,950",
+  "linea": "310 Madrid-Valencia",
+  "lat": 39.94452831621868,
+  "lng": -3.256421917972665,
+  "metodo": null,
+  "dist_via_m": 320,
+  "pk_cercano": 37,
+  "provincia_ine": "Toledo",
+  "coord_pkcercano": [
+   39.94511654,
+   -3.25275051
+  ],
+  "codtramo_cercano": "033100010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-18-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0018/2009 OCURRIDO EL DÍ",
+  "provincia": "Jaén",
+  "pk": "137+803",
+  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+  "lat": 37.81528671669062,
+  "lng": -3.77744099924375,
+  "metodo": null,
+  "dist_via_m": 321,
+  "pk_cercano": 127,
+  "provincia_ine": "Jaén",
+  "coord_pkcercano": [
+   37.81297701,
+   -3.77963023
+  ],
+  "codtramo_cercano": "044020030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-18-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0018/2010 OCURRIDO EL DÍA 26.03.2010 EN LA",
+  "provincia": "Ávila",
+  "pk": "172+050",
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "lat": 41.062653241348315,
+  "lng": -4.7076881214606745,
+  "metodo": null,
+  "dist_via_m": 228,
+  "pk_cercano": 173,
+  "provincia_ine": "Ávila",
+  "coord_pkcercano": [
+   41.06462133,
+   -4.70844069
+  ],
+  "codtramo_cercano": "011000120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-18-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0018/2011 OCURRIDO EL DÍA 28.04.2011 EN EL",
+  "provincia": "Barcelona",
+  "pk": "PK 110+000",
+  "linea": "262 Barcelona Sagrera – Bifurcación Clot",
+  "lat": 38.0833,
+  "lng": -3.0833,
+  "metodo": null,
+  "dist_via_m": 27500,
+  "pk_cercano": 56.4,
+  "provincia_ine": "Jaén",
+  "coord_pkcercano": [
+   37.88185846,
+   -3.26471571
+  ],
+  "codtramo_cercano": "044100020",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-18-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0018/2013 OCURRIDO EL DÍA 07.03.2013 EN LA",
+  "provincia": "Valladolid",
+  "pk": "234+843",
+  "linea": "100 Madrid - Hendaya",
+  "lat": 41.51586729209565,
+  "lng": -4.754132521878261,
+  "metodo": null,
+  "dist_via_m": 424,
+  "pk_cercano": 234.3,
+  "provincia_ine": "Valladolid",
+  "coord_pkcercano": [
+   41.51967397,
+   -4.75433435
+  ],
+  "codtramo_cercano": "011000150",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-19-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0019/2009 OCURRIDO EL DÍ",
+  "provincia": "Ávila",
+  "pk": "P.K. 83,700",
+  "linea": "100 Madrid - Hendaya",
+  "lat": 40.58797353403846,
+  "lng": -4.351164275384615,
+  "metodo": null,
+  "dist_via_m": 111,
+  "pk_cercano": 82.8,
+  "provincia_ine": "Ávila",
+  "coord_pkcercano": [
+   40.58798916,
+   -4.34984719
+  ],
+  "codtramo_cercano": "011000090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-19-2020",
+  "titulo": "IF 19/2020 — Incidente ferroviario ocurrido en la estación de Xeraco (Valencia),",
+  "provincia": "Valencia",
+  "pk": null,
+  "linea": null,
+  "lat": 39.0333,
+  "lng": -0.2167,
+  "metodo": null,
+  "dist_via_m": 514,
+  "pk_cercano": 42.2,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.03707115,
+   -0.22013976
+  ],
+  "codtramo_cercano": "033440020",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-2-2008",
+  "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0002/2008 OCURRIDO ",
+  "provincia": "Orense",
+  "pk": "310/412",
+  "linea": "800 León-La Coruña",
+  "lat": 39.9372616,
+  "lng": -0.1004465,
+  "metodo": null,
+  "dist_via_m": 584,
+  "pk_cercano": 66.3,
+  "provincia_ine": "Castellón",
+  "coord_pkcercano": [
+   39.93294481,
+   -0.09655049
+  ],
+  "codtramo_cercano": "036000080",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-2-2009",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0002/2009 ocurrido el dí",
+  "provincia": "Asturias",
+  "pk": "16+863",
+  "linea": "144 San Juan de Nieva – Villabona (Oviedo)",
+  "lat": 43.54980952452,
+  "lng": -5.91393910612,
+  "metodo": null,
+  "dist_via_m": 478,
+  "pk_cercano": 15.7,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.54689149,
+   -5.90960011
+  ],
+  "codtramo_cercano": "061440020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-2-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0002/2010 OCURRIDO EL DÍA 15.01.2010 EN EL",
+  "provincia": "Castellón",
+  "pk": "P.K. 62+902",
+  "linea": "600 Valencia – San Vicente de Calders",
+  "lat": 39.90639986778305,
+  "lng": -0.10232131195677965,
+  "metodo": null,
+  "dist_via_m": 453,
+  "pk_cercano": 62.7,
+  "provincia_ine": "Castellón",
+  "coord_pkcercano": [
+   39.90233238,
+   -0.1021603
+  ],
+  "codtramo_cercano": "036000080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-2-2020",
+  "titulo": "IF 59/2021 — Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2",
+  "provincia": "Alicante",
+  "pk": null,
+  "linea": null,
+  "lat": 38.3452,
+  "lng": -0.4939,
+  "metodo": null,
+  "dist_via_m": 154,
+  "pk_cercano": 485.9,
+  "provincia_ine": "Alicante",
+  "coord_pkcercano": [
+   38.34546673,
+   -0.49562813
+  ],
+  "codtramo_cercano": "130420110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-20-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0020/2010 OCURRIDO EL DÍA 08.04.2010 EN SI",
+  "provincia": "Valencia",
+  "pk": null,
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.3667,
+  "lng": -0.3833,
+  "metodo": null,
+  "dist_via_m": 2463,
+  "pk_cercano": 101.6,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.37039272,
+   -0.41151976
+  ],
+  "codtramo_cercano": "033000280",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-20-2017",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0020/2017 OCURRIDO EL DÍA 23.03",
+  "provincia": "Madrid",
+  "pk": "0+000",
+  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "lat": 40.47428106,
+  "lng": -3.68171902,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.47428106,
+   -3.68171902
+  ],
+  "codtramo_cercano": "022000005",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-21-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0021/2008 OCURRIDO EL DÍ",
+  "provincia": "Sevilla",
+  "pk": "P.K. 511,635",
+  "linea": "400 Alcázar de San Juan-Cádiz",
+  "lat": 37.67429782448238,
+  "lng": -5.494827870253304,
+  "metodo": null,
+  "dist_via_m": 214,
+  "pk_cercano": 511.8,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.67528197,
+   -5.49274266
+  ],
+  "codtramo_cercano": "044000180",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-21-2016",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0021/2016 ocurrido el día 17.04",
+  "provincia": "Guipúzcoa",
+  "pk": "616+351",
+  "linea": "100 Hendaya a Madrid Chamartín",
+  "lat": 43.27294539280159,
+  "lng": -1.961919585292064,
+  "metodo": null,
+  "dist_via_m": 128,
+  "pk_cercano": 616.2,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.27251686,
+   -1.96338561
+  ],
+  "codtramo_cercano": "011000425",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-22-2008",
+  "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2008 OCURRIDO ",
+  "provincia": "Madrid",
+  "pk": "P.K. 20,100",
+  "linea": "100 Madrid-Hendaya",
+  "lat": 40.512458866,
+  "lng": -3.875652692,
+  "metodo": null,
+  "dist_via_m": 231,
+  "pk_cercano": 20.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.51409555,
+   -3.8773228
+  ],
+  "codtramo_cercano": "011000040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-22-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0022/2009 OCURRIDO EL DÍA 17.04.2009 EN LA",
+  "provincia": "Asturias",
+  "pk": "134+961",
+  "linea": "130 Gijón Cercanías – Venta de Baños",
+  "lat": 43.33063733530667,
+  "lng": -5.870666808533333,
+  "metodo": null,
+  "dist_via_m": 34,
+  "pk_cercano": 134.6,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.33089488,
+   -5.87043777
+  ],
+  "codtramo_cercano": "061300210",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-22-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0022/2012 OCURRIDO EL DÍA 12.03.2012 EN LA",
+  "provincia": "Ciudad Real",
+  "pk": "188+690",
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.27852938,
+  "lng": -2.77540415,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 188.7,
+  "provincia_ine": "Albacete",
+  "coord_pkcercano": [
+   39.27852938,
+   -2.77540415
+  ],
+  "codtramo_cercano": "033000150",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-23-2008",
+  "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0023/2008 OCURRIDO ",
+  "provincia": "Madrid",
+  "pk": "P.K. 13+100",
+  "linea": "300 Madrid-Valencia",
+  "lat": 40.31764595196262,
+  "lng": -3.709557977196262,
+  "metodo": null,
+  "dist_via_m": 70,
+  "pk_cercano": 12,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.31826815,
+   -3.70964922
+  ],
+  "codtramo_cercano": "033000070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-23-2011",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0023/2011 OCURRIDO EL DÍA 16.05.2011 A LA ",
+  "provincia": "Madrid",
+  "pk": "PK 12+379",
+  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "lat": 40.31742524413962,
+  "lng": -3.6490396114301884,
+  "metodo": null,
+  "dist_via_m": 186,
+  "pk_cercano": 4,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.31584698,
+   -3.64975541
+  ],
+  "codtramo_cercano": "120680010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-23-2015",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0023/2015 ocurrido el día 31.03",
+  "provincia": "Valladolid",
+  "pk": "PK 206+831",
+  "linea": "100 Madrid - Hendaya",
+  "lat": 41.32042407206,
+  "lng": -4.90904766502,
+  "metodo": null,
+  "dist_via_m": 348,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Valladolid",
+  "coord_pkcercano": [
+   41.31743222,
+   -4.91026883
+  ],
+  "codtramo_cercano": "011200003",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-24-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0024/2008 ocurrido el dí",
+  "provincia": "Huesca",
+  "pk": "149,950",
+  "linea": "200 Madrid-Barcelona",
+  "lat": 41.755467,
+  "lng": 0.441746,
+  "metodo": null,
+  "dist_via_m": 100,
+  "pk_cercano": 155.3,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   41.75525801,
+   0.44291636
+  ],
+  "codtramo_cercano": "022000390",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-24-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0024/2011 OCURRIDO EL DÍA 30.05.2011 EN LA",
+  "provincia": "Zaragoza",
+  "pk": "PK 224+556",
+  "linea": "50 Madrid Puerta de Atocha a Límite Adif- TP Ferro",
+  "lat": 41.36573675915969,
+  "lng": -1.606915392815504,
+  "metodo": null,
+  "dist_via_m": 387,
+  "pk_cercano": 224.3,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.36336627,
+   -1.61030743
+  ],
+  "codtramo_cercano": "120500070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-24-2017",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0024/2017 OC",
+  "provincia": "Ciudad Real",
+  "pk": "225+965",
+  "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+  "lat": 38.66972348212781,
+  "lng": -4.270509638435233,
+  "metodo": null,
+  "dist_via_m": 17,
+  "pk_cercano": 224.4,
+  "provincia_ine": "Ciudad Real",
+  "coord_pkcercano": [
+   38.66974058,
+   -4.27070666
+  ],
+  "codtramo_cercano": "140100105",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-25-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2009 OCURRIDO EL DÍA 05.06.2009 EN EL",
+  "provincia": "Gerona",
+  "pk": "176+126",
+  "linea": "270 Barcelona San Andrés Condal a Cerbere",
+  "lat": 41.77166902,
+  "lng": 2.67314515,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 175.9,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   41.77166902,
+   2.67314515
+  ],
+  "codtramo_cercano": "022700090",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-25-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2011 OCURRIDO EL DÍA 05.04.2011 EN LA",
+  "provincia": "Barcelona",
+  "pk": "PK 6+707 (Cambiador de hilo CH6)",
+  "linea": "246 Mollet Sant Fost - Castellbisbal",
+  "lat": 41.493619,
+  "lng": 2.031948,
+  "metodo": null,
+  "dist_via_m": 1917,
+  "pk_cercano": 5.8,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.47700599,
+   2.02588781
+  ],
+  "codtramo_cercano": "022460015",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-25-2017",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2017 OCURRIDO EL DÍA 23.05",
+  "provincia": "Álava",
+  "pk": "183+815",
+  "linea": "línea 700 Intermodal Abando Indalecio Prieto a Casetas",
+  "lat": 42.9527247,
+  "lng": -2.8985342,
+  "metodo": null,
+  "dist_via_m": 267,
+  "pk_cercano": 180,
+  "provincia_ine": "Álava",
+  "coord_pkcercano": [
+   42.95098713,
+   -2.90078691
+  ],
+  "codtramo_cercano": "017000120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-25-2018",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0025/2018 OCURRIDO EL DÍA 01.07",
+  "provincia": "Zamora",
+  "pk": "113+475",
+  "linea": "822 Zamora - A Coruña",
+  "lat": 42.030511437987805,
+  "lng": -6.698691120402439,
+  "metodo": null,
+  "dist_via_m": 56,
+  "pk_cercano": 113.4,
+  "provincia_ine": "Zamora",
+  "coord_pkcercano": [
+   42.03100654,
+   -6.69858031
+  ],
+  "codtramo_cercano": "068220032",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-26-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0026/2008 ocurrido el dí",
+  "provincia": "Barcelona",
+  "pk": "26,100",
+  "linea": "276 Barcelona Sagrera a Maçanet-Massanes",
+  "lat": 41.615942,
+  "lng": 2.670446,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 49.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.61594205,
+   2.67044629
+  ],
+  "codtramo_cercano": "022760110",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-26-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0026/2010 OCURRIDO EL DÍA 23.05.2010 ENTRE",
+  "provincia": "Madrid",
+  "pk": "P.K. 5+114",
+  "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",
+  "lat": 40.44806168376296,
+  "lng": -3.768576713387654,
+  "metodo": null,
+  "dist_via_m": 305,
+  "pk_cercano": 5.1,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.44681726,
+   -3.76537032
+  ],
+  "codtramo_cercano": "019100040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-26-2011",
+  "titulo": "Informe final sobre el incidente ferroviario nº 0026/2011 ocurrido el día 01.06.2011 en la",
+  "provincia": "Asturias",
+  "pk": "PK 27+510",
+  "linea": "11 Ferrol - Gijón",
+  "lat": 43.545,
+  "lng": -5.823,
+  "metodo": null,
+  "dist_via_m": 2295,
+  "pk_cercano": 31.9,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.56361482,
+   -5.83522764
+  ],
+  "codtramo_cercano": "087500040",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-26-2014",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0026/2014 OCURRIDO EL DÍA 15.04.2014 EN EL",
+  "provincia": "Pontevedra",
+  "pk": "PK 17+896",
+  "linea": "824 Redondela de Galicia a Santiago de Compostela",
+  "lat": 42.33946187,
+  "lng": -8.61042967,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 17.9,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.33946187,
+   -8.61042967
+  ],
+  "codtramo_cercano": "068240008",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-27-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0027/2009 OCURRIDO EL DÍA 18.06.2009 EN LA",
+  "provincia": "Madrid",
+  "pk": "P.K. 0+00, vía 10",
+  "linea": "100 Hendaya – Madrid Chamartín",
+  "lat": 40.524098,
+  "lng": -3.882556,
+  "metodo": null,
+  "dist_via_m": 198,
+  "pk_cercano": 21.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.52243859,
+   -3.88171116
+  ],
+  "codtramo_cercano": "011000040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-27-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0027/2013 OCURRIDO EL DÍA 07.04.2013 ENTRE",
+  "provincia": "Ciudad Real",
+  "pk": "245+885",
+  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa",
+  "lat": 38.5672128452228,
+  "lng": -4.428460578863557,
+  "metodo": null,
+  "dist_via_m": 181,
+  "pk_cercano": 244.4,
+  "provincia_ine": "Ciudad Real",
+  "coord_pkcercano": [
+   38.56559093,
+   -4.42850165
+  ],
+  "codtramo_cercano": "140100105",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-27-2016",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0027/2016 ocurrido el día 28.05",
+  "provincia": "Barcelona",
+  "pk": "635+888",
+  "linea": "Línea 200 de Madrid Chamartín a Barcelona Estación de Francia",
+  "lat": 41.21993496,
+  "lng": 1.73090962,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 636,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.21993496,
+   1.73090962
+  ],
+  "codtramo_cercano": "022000500",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-28-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008 OCURRIDO EL DÍ",
+  "provincia": "Burgos",
+  "pk": "P.K. 146,950",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 42.688971765,
+  "lng": -2.948283985,
+  "metodo": null,
+  "dist_via_m": 145,
+  "pk_cercano": 146.4,
+  "provincia_ine": "Burgos",
+  "coord_pkcercano": [
+   42.68850822,
+   -2.94994333
+  ],
+  "codtramo_cercano": "017000110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-28-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2009 OCURRIDO EL DÍA 22.06.2009 EN EL",
+  "provincia": "Asturias",
+  "pk": "361+975",
+  "linea": "21 Oviedo - Santander",
+  "lat": 43.35,
+  "lng": -5.2167,
+  "metodo": null,
+  "dist_via_m": 1210,
+  "pk_cercano": 375.9,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.3582817,
+   -5.22637253
+  ],
+  "codtramo_cercano": "087700060",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-28-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2010 OCURRIDO EL DÍA 14.06.2010 ENTRE",
+  "provincia": "A Coruña",
+  "pk": "P.K. 43+559",
+  "linea": "11 Ferrol - Gijón",
+  "lat": 43.59,
+  "lng": -7.61,
+  "metodo": null,
+  "dist_via_m": 7554,
+  "pk_cercano": 86.1,
+  "provincia_ine": "Lugo",
+  "coord_pkcercano": [
+   43.65728597,
+   -7.59782683
+  ],
+  "codtramo_cercano": "087400060",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-28-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2011 OCURRIDO EL DÍA 10.06.2011 EN EL",
+  "provincia": "Madrid",
+  "pk": "PK 11+100",
+  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "lat": 40.33222802735849,
+  "lng": -3.6515523886792454,
+  "metodo": null,
+  "dist_via_m": 83,
+  "pk_cercano": 9.8,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.33287987,
+   -3.65203634
+  ],
+  "codtramo_cercano": "140100030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-28-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 28/2012 OCURRIDO EL DÍA 18.04.2012 EN LA E",
+  "provincia": "Cantabria",
+  "pk": "545+009",
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.2333,
+  "lng": -2.8667,
+  "metodo": null,
+  "dist_via_m": 1269,
+  "pk_cercano": 7.7,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.24014316,
+   -2.87922149
+  ],
+  "codtramo_cercano": "087820010",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-28-2015",
+  "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0028/2015 ocurrido el día 22.05",
+  "provincia": "Madrid",
+  "pk": "PK 10+797 (Señal de salida B107-3)",
+  "linea": "930 Madrid Atocha Cercanías a San Fernando de Henares",
+  "lat": 40.40335,
+  "lng": -3.685494,
+  "metodo": null,
+  "dist_via_m": 170,
+  "pk_cercano": 1,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.4021524,
+   -3.68425392
+  ],
+  "codtramo_cercano": "019100006",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-29-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0029/2008 ocurrido el dí",
+  "provincia": "Valladolid",
+  "pk": "P.K. 206,300",
+  "linea": "100 Madrid-Hendaya",
+  "lat": 41.31735236,
+  "lng": -4.91007411,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 206.3,
+  "provincia_ine": "Valladolid",
+  "coord_pkcercano": [
+   41.31735236,
+   -4.91007411
+  ],
+  "codtramo_cercano": "011000140",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-3-2008",
+  "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0003/2008 OCURRIDO ",
+  "provincia": "Álava",
+  "pk": "218,654",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 43.07149508672941,
+  "lng": -2.9995139348363637,
+  "metodo": null,
+  "dist_via_m": 468,
+  "pk_cercano": 217.9,
+  "provincia_ine": "Álava",
+  "coord_pkcercano": [
+   43.06753437,
+   -2.99760257
+  ],
+  "codtramo_cercano": "017000140",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-3-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0003/2009 OCURRIDO EL DÍ",
+  "provincia": "Asturias",
+  "pk": "P.K.15, 057",
+  "linea": "61 Gijón - Laviana",
+  "lat": 40.45,
+  "lng": -3.7167,
+  "metodo": null,
+  "dist_via_m": 2063,
+  "pk_cercano": 5.5,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.44873809,
+   -3.69240676
+  ],
+  "codtramo_cercano": "033000010",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-3-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0003/2010 OCURRIDO EL DÍA 15.01.2010 EN LA",
+  "provincia": "Madrid",
+  "pk": "P.K. 13+860",
+  "linea": "300 Madrid – Valencia",
+  "lat": 40.31235153945794,
+  "lng": -3.7086026837943926,
+  "metodo": null,
+  "dist_via_m": 305,
+  "pk_cercano": 13,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.30962684,
+   -3.70818779
+  ],
+  "codtramo_cercano": "033000070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-3-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 03/2011 OCURRIDO EL DÍA 16.01.2011 EN EL P",
+  "provincia": "Sevilla",
+  "pk": "87+782",
+  "linea": "422 Bif. Utrera a Fuente de Piedra",
+  "lat": 37.22619666953823,
+  "lng": -4.933650032214706,
+  "metodo": null,
+  "dist_via_m": 304,
+  "pk_cercano": 90.3,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.22760722,
+   -4.93658786
+  ],
+  "codtramo_cercano": "044220040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-30-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0030/2008 OCURRIDO EL DÍ",
+  "provincia": "Valencia",
+  "pk": "P.K. 108,898",
+  "linea": "300 Madrid Chamartín – Valencia Estación de Nord",
+  "lat": 39.43151999710857,
+  "lng": -0.3888389628342857,
+  "metodo": null,
+  "dist_via_m": 17,
+  "pk_cercano": 108.6,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.43137644,
+   -0.38890254
+  ],
+  "codtramo_cercano": "033000285",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-30-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2009 OCURRIDO EL DÍA 26.06.2009 EN LA",
+  "provincia": "Madrid",
+  "pk": "P.K. 7+612",
+  "linea": "L/920, Móstoles – El Soto Parla (Línea C-5 de Cercanías Madrid)",
+  "lat": 40.38745397,
+  "lng": -3.7592189,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 7.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.38745397,
+   -3.7592189
+  ],
+  "codtramo_cercano": "059200020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-30-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2010 OCURRIDO EL DÍA 23.06.2010 EN EL",
+  "provincia": "Barcelona",
+  "pk": "656+598",
+  "linea": "200 Madrid Chamartín – Barcelona Sants",
+  "lat": 41.267794101976925,
+  "lng": 1.9628569563205127,
+  "metodo": null,
+  "dist_via_m": 264,
+  "pk_cercano": 657.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.26870069,
+   1.96577511
+  ],
+  "codtramo_cercano": "022000510",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-30-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2012 OCURRIDO EL DÍA 26.04.2012 EN LA",
+  "provincia": "Zaragoza",
+  "pk": "16+973",
+  "linea": "214 La Cartuja a CIM de Zaragoza",
+  "lat": 41.6031049740354,
+  "lng": -0.8849042237539823,
+  "metodo": null,
+  "dist_via_m": 87,
+  "pk_cercano": 307.6,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.60302266,
+   -0.88594114
+  ],
+  "codtramo_cercano": "120500100",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-30-2017",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2017 OCURRIDO EL DÍA 13.07",
+  "provincia": "Tarragona",
+  "pk": "544+649",
+  "linea": "210 Miraflores – Tarragona",
+  "lat": 41.10252068,
+  "lng": 0.78366989,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 544.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.10252068,
+   0.78366989
+  ],
+  "codtramo_cercano": "022100120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-31-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2009 OCURRIDO EL DÍA 06.07.2009 EN EL",
+  "provincia": "Málaga",
+  "pk": "P.K. 67+916",
+  "linea": "420 Bif. Las Maravillas – Algeciras",
+  "lat": 36.755207085500004,
+  "lng": -5.1408323634999995,
+  "metodo": null,
+  "dist_via_m": 303,
+  "pk_cercano": 68,
+  "provincia_ine": "Málaga",
+  "coord_pkcercano": [
+   36.75594562,
+   -5.13756187
+  ],
+  "codtramo_cercano": "044200030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-31-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2010 OCURRIDO EL DÍA 26.06.2010 EN LA",
+  "provincia": "Álava",
+  "pk": "492+400",
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "lat": 42.84130481,
+  "lng": -2.67268418,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 492.4,
+  "provincia_ine": "Álava",
+  "coord_pkcercano": [
+   42.84130481,
+   -2.67268418
+  ],
+  "codtramo_cercano": "011000330",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-31-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2011 OCURRIDO EL DÍA 24.05.2011 ENTRE",
+  "provincia": "León",
+  "pk": "PK 45+104",
+  "linea": "130 Gijón-Cercanías a Venta de Baños",
+  "lat": 42.932970258885106,
+  "lng": -5.6561660826950355,
+  "metodo": null,
+  "dist_via_m": 76,
+  "pk_cercano": 45,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.93228804,
+   -5.65613704
+  ],
+  "codtramo_cercano": "061300140",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-32-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0032/2008 OCURRIDO EL DÍ",
+  "provincia": "Málaga",
+  "pk": "P.K. 8,870",
+  "linea": "436 Fuengirola-Málaga",
+  "lat": 36.650524655103446,
+  "lng": -4.483023307103448,
+  "metodo": null,
+  "dist_via_m": 293,
+  "pk_cercano": 11.1,
+  "provincia_ine": "Málaga",
+  "coord_pkcercano": [
+   36.65289816,
+   -4.48159663
+  ],
+  "codtramo_cercano": "044360030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-32-2009",
+  "titulo": "Informe final sobre el incidente ferroviario nº 0032/2009 ocurrido el día 26.06.2009 en la",
+  "provincia": "Madrid",
+  "pk": "P.K. 22+800, vía 1",
+  "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+  "lat": 40.2524,
+  "lng": -3.9242,
+  "metodo": null,
+  "dist_via_m": 6768,
+  "pk_cercano": 25.8,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.23334621,
+   -3.84855743
+  ],
+  "codtramo_cercano": "055000070",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-32-2010",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0032/2010 OCURRIDO EL DÍA 29.06.2010 EN LA",
+  "provincia": "Barcelona",
+  "pk": "361+100",
+  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+  "lat": 41.456385440344825,
+  "lng": 2.1869750982758625,
+  "metodo": null,
+  "dist_via_m": 216,
+  "pk_cercano": 358.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.45468201,
+   2.18820297
+  ],
+  "codtramo_cercano": "022200090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-32-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0032/2011 OCURRIDO EL DÍA 30.06.2011 ENTRE",
+  "provincia": "Madrid",
+  "pk": "PK 7+165",
+  "linea": "116 Los Cotos a Cercedilla",
+  "lat": 40.75964684326126,
+  "lng": -4.032788418702703,
+  "metodo": null,
+  "dist_via_m": 169,
+  "pk_cercano": 7,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.76047592,
+   -4.03110611
+  ],
+  "codtramo_cercano": "011160010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-33-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0033/2009 OCURRIDO EL DÍA 08.07.09 EN EL P",
+  "provincia": "Cantabria",
+  "pk": "551+254",
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.4112444,
+  "lng": -3.7036647,
+  "metodo": null,
+  "dist_via_m": 338,
+  "pk_cercano": 550.8,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.40950309,
+   -3.70709332
+  ],
+  "codtramo_cercano": "087800050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-33-2010",
+  "titulo": "Informe final sobre el incidente ferroviario nº 0033/2010 ocurrido el día 05.07.2010 en la",
+  "provincia": "Madrid",
+  "pk": "P.K. 20+655",
+  "linea": "920 Móstoles-El Soto - Parla",
+  "lat": 40.252760258978256,
+  "lng": -3.7413625401521737,
+  "metodo": null,
+  "dist_via_m": 332,
+  "pk_cercano": 21,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.24979005,
+   -3.74170263
+  ],
+  "codtramo_cercano": "059200065",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-33-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0033/2013 OCURRIDO EL DÍA 20.04.2013 EN EL",
+  "provincia": "Guipúzcoa",
+  "pk": "600+200",
+  "linea": "100 Hendaya – Madrid-Chamartín",
+  "lat": 43.16490078243523,
+  "lng": -2.071708556787565,
+  "metodo": null,
+  "dist_via_m": 434,
+  "pk_cercano": 600.9,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.16873779,
+   -2.07073299
+  ],
+  "codtramo_cercano": "011000415",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-34-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 34/2012 OCURRIDO EL DÍA 09.05.2012 EN LA E",
+  "provincia": "Cantabria",
+  "pk": "540+075",
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.4,
+  "lng": -3.8167,
+  "metodo": null,
+  "dist_via_m": 185,
+  "pk_cercano": 540.9,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.39860059,
+   -3.8154691
+  ],
+  "codtramo_cercano": "087800030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-34-2014",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0034/2014 OCURRIDO EL DÍA 02.07.2014 ENTRE",
+  "provincia": "Albacete",
+  "pk": "368+925",
+  "linea": "042 Bif. Albacete a Alicante",
+  "lat": 38.91245941152624,
+  "lng": -1.4109164996063535,
+  "metodo": null,
+  "dist_via_m": 194,
+  "pk_cercano": 366.3,
+  "provincia_ine": "Albacete",
+  "coord_pkcercano": [
+   38.9119773,
+   -1.40876252
+  ],
+  "codtramo_cercano": "130420040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-35-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0035/2012 OCURRIDO EL DÍA 11.05.2012 ENTRE",
+  "provincia": "La Coruña",
+  "pk": "8+645",
+  "linea": "11 Ferrol - Gijón",
+  "lat": 43.48,
+  "lng": -8.234,
+  "metodo": null,
+  "dist_via_m": 940,
+  "pk_cercano": 42.8,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   43.48810137,
+   -8.23071856
+  ],
+  "codtramo_cercano": "068040010",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-35-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0035/2013 OCURRIDO EL DÍA 28.04.2013 ENTRE",
+  "provincia": "León",
+  "pk": "26+700",
+  "linea": "790 RAM Aranguren – Asunción Universidad",
+  "lat": 42.836244912727274,
+  "lng": -5.524716658181818,
+  "metodo": null,
+  "dist_via_m": 31,
+  "pk_cercano": 27.7,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.83652349,
+   -5.52470296
+  ],
+  "codtramo_cercano": "087900020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-35-2017",
+  "titulo": "Informe Final de la CIAF sobre el accidente ferroviario nº 0035/2017 ocurrido el día 28.07",
+  "provincia": "Barcelona",
+  "pk": "685+400",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "lat": 41.38422082,
+  "lng": 2.1855107,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 685.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38422082,
+   2.1855107
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-36-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2009 OCURRIDO EL DÍA 13.07.2009 EN EL",
+  "provincia": "Huesca",
+  "pk": "99+367",
+  "linea": "204 Bifurcación Huesca Cambiador - Canfranc",
+  "lat": 42.52340836586021,
+  "lng": -0.3809051376147887,
+  "metodo": null,
+  "dist_via_m": 461,
+  "pk_cercano": 95.4,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   42.52553973,
+   -0.38572548
+  ],
+  "codtramo_cercano": "022040040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-36-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2010 OCURRIDO EL DÍA 10.07.2010 ENTRE",
+  "provincia": "Álava",
+  "pk": "P.K. 230+862",
+  "linea": "700 Intermodal Abando Indalecio Prieto-Casetas",
+  "lat": 43.1449981,
+  "lng": -2.94347071,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 229.2,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.1449981,
+   -2.94347071
+  ],
+  "codtramo_cercano": "017000160",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-36-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2011 OCURRIDO EL DÍA 20.07.2011 ENTRE",
+  "provincia": "Toledo",
+  "pk": "PK 66+480",
+  "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+  "lat": 39.95964291815126,
+  "lng": -4.089643018302521,
+  "metodo": null,
+  "dist_via_m": 268,
+  "pk_cercano": 68.7,
+  "provincia_ine": "Toledo",
+  "coord_pkcercano": [
+   39.96003021,
+   -4.09274833
+  ],
+  "codtramo_cercano": "055000100",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-36-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2013 OCURRIDO EL DÍA 26.03.2013 ENTRE",
+  "provincia": "Toledo",
+  "pk": "122+450",
+  "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+  "lat": 39.396019707499995,
+  "lng": -3.8323499473214286,
+  "metodo": null,
+  "dist_via_m": 241,
+  "pk_cercano": 122.7,
+  "provincia_ine": "Toledo",
+  "coord_pkcercano": [
+   39.39413086,
+   -3.83371802
+  ],
+  "codtramo_cercano": "140100060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-36-2014",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2014 OCURRIDO EL DÍA 11.07.2014 EN LA",
+  "provincia": "Madrid",
+  "pk": "PK 4+569",
+  "linea": "Línea 110 Segovia a Villalba de Guadarrama",
+  "lat": 40.6167,
+  "lng": -4.0667,
+  "metodo": null,
+  "dist_via_m": 792,
+  "pk_cercano": 43.9,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.61030187,
+   -4.07079948
+  ],
+  "codtramo_cercano": "011000070",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-36-2016",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0036/2016 ocurrido el día 18.07",
+  "provincia": "León",
+  "pk": "pk 30+184",
+  "linea": "790 La Asunción Universidad-Aranguren (RAM)",
+  "lat": 42.862921162623834,
+  "lng": -5.328906728704663,
+  "metodo": null,
+  "dist_via_m": 35,
+  "pk_cercano": 30.2,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.86269198,
+   -5.32860688
+  ],
+  "codtramo_cercano": "087900030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-37-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0037/2008 ocurrido el dí",
+  "provincia": "Tarragona",
+  "pk": "P.K. 624,800",
+  "linea": "200 Madrid-Chamartín – Barcelona-Sants",
+  "lat": 41.19273172222222,
+  "lng": 1.6099074135555551,
+  "metodo": null,
+  "dist_via_m": 150,
+  "pk_cercano": 625,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.19256615,
+   1.60812766
+  ],
+  "codtramo_cercano": "022000480",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-37-2014",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0037/2014 OCURRIDO EL DÍA 10.07.2014 EN LA",
+  "provincia": "Tarragona",
+  "pk": "PK 25+379",
+  "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+  "lat": 41.19065286134838,
+  "lng": 1.5337823675290323,
+  "metodo": null,
+  "dist_via_m": 47,
+  "pk_cercano": 25.1,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.19023065,
+   1.53374739
+  ],
+  "codtramo_cercano": "022400010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-38-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0038/2008 ocurrido el dí",
+  "provincia": "Palencia",
+  "pk": "P.K. 279,000",
+  "linea": "100 Hendaya Madrid-Chamartín",
+  "lat": 41.87618604234043,
+  "lng": -4.540363625957447,
+  "metodo": null,
+  "dist_via_m": 193,
+  "pk_cercano": 279.2,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   41.87445238,
+   -4.54041058
+  ],
+  "codtramo_cercano": "011000200",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-38-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0038/2009 OCURRIDO EL DÍA 27.07.2009 EN BI",
+  "provincia": "Barcelona",
+  "pk": "P.K. 102+700- PB Barcelona Marina",
+  "linea": "262 Barcelona Sagrera - Bif. Clot",
+  "lat": 41.38258,
+  "lng": 2.177073,
+  "metodo": null,
+  "dist_via_m": 728,
+  "pk_cercano": 685.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38422082,
+   2.1855107
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-38-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0038/2010 OCURRIDO EL DÍA 14.07.2010 ENTRE",
+  "provincia": "Lugo",
+  "pk": "P.K. 148+845",
+  "linea": "11 Ferrol–Gijón",
+  "lat": 41.4083,
+  "lng": 2.1917,
+  "metodo": null,
+  "dist_via_m": 315,
+  "pk_cercano": 105.3,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.40966584,
+   2.18839597
+  ],
+  "codtramo_cercano": "022760160",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-38-2017",
+  "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0038/2017 ocurrido el día 12.08",
+  "provincia": "Zamora",
+  "pk": "106+871",
+  "linea": "822 Zamora - A Coruña",
+  "lat": 42.04540691,
+  "lng": -6.62688047,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 106.9,
+  "provincia_ine": "Zamora",
+  "coord_pkcercano": [
+   42.04540691,
+   -6.62688047
+  ],
+  "codtramo_cercano": "068220020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-39-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0039/2008 OCURRIDO EL DÍ",
+  "provincia": "Albacete",
+  "pk": "202,400",
+  "linea": "300 Madrid-Chamartín Valencia–Estación de Nord",
+  "lat": 39.264674339038464,
+  "lng": -2.6196749921153843,
+  "metodo": null,
+  "dist_via_m": 301,
+  "pk_cercano": 202.7,
+  "provincia_ine": "Albacete",
+  "coord_pkcercano": [
+   39.26331842,
+   -2.61665705
+  ],
+  "codtramo_cercano": "033000150",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-39-2010",
+  "titulo": "Informe final sobre el incidente ferroviario nº 0039/2010 ocurrido el día 16.07.2010 en la",
+  "provincia": "Valladolid",
+  "pk": "167+867",
+  "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+  "lat": 41.643,
+  "lng": -4.7278,
+  "metodo": null,
+  "dist_via_m": 157,
+  "pk_cercano": 248.7,
+  "provincia_ine": "Valladolid",
+  "coord_pkcercano": [
+   41.64182344,
+   -4.72675313
+  ],
+  "codtramo_cercano": "011000165",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-4-2008",
+  "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0004/2008 OCURRIDO ",
+  "provincia": "Barcelona",
+  "pk": "P.K. 148/000",
+  "linea": "270 Barcelona-Cerbere",
+  "lat": 41.6396,
+  "lng": 2.4016,
+  "metodo": null,
+  "dist_via_m": 302,
+  "pk_cercano": 147.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.63688692,
+   2.40151658
+  ],
+  "codtramo_cercano": "022700070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-4-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0004/2009 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "64+810",
+  "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+  "lat": 41.56175477198107,
+  "lng": 2.5105977792260776,
+  "metodo": null,
+  "dist_via_m": 3681,
+  "pk_cercano": 38,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.57750209,
+   2.54946552
+  ],
+  "codtramo_cercano": "022760120",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-4-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0004/2012 OCURRIDO EL DÍA 12.01.2012 EN LA",
+  "provincia": "Asturias",
+  "pk": "5+265",
+  "linea": "12 Oviedo - San Esteban",
+  "lat": 43.3667,
+  "lng": -5.8492,
+  "metodo": null,
+  "dist_via_m": 479,
+  "pk_cercano": 139.1,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.36646007,
+   -5.85510776
+  ],
+  "codtramo_cercano": "061300230",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-4-2016",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0004/2016 ocurrido el día 25.01",
+  "provincia": "Alicante",
+  "pk": "PK 20+094 (Señal E1) y PK 20+346 (Señal R1)",
+  "linea": "336 El Reguerón a Alacant Terminal",
+  "lat": 38.257694,
+  "lng": -0.720584,
+  "metodo": null,
+  "dist_via_m": 201,
+  "pk_cercano": 23.6,
+  "provincia_ine": "Alicante",
+  "coord_pkcercano": [
+   38.25656011,
+   -0.72237018
+  ],
+  "codtramo_cercano": "033360040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-4-2020",
+  "titulo": "IF 04/2020 — Accidente ferroviario ocurrido el día 24 de enero de 2020 en",
+  "provincia": "Valencia",
+  "pk": null,
+  "linea": null,
+  "lat": 39.0332,
+  "lng": -0.2152,
+  "metodo": null,
+  "dist_via_m": 515,
+  "pk_cercano": 43.2,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.02862123,
+   -0.2160906
+  ],
+  "codtramo_cercano": "033440020",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-40-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0040/2008 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "P.K. 156,9",
+  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+  "lat": 41.68566442,
+  "lng": 2.49087141,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 157.1,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.68566442,
+   2.49087141
+  ],
+  "codtramo_cercano": "022700070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-40-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0040/2011 OCURRIDO EL DÍA 27.08.2011 EN LA",
+  "provincia": "Barcelona",
+  "pk": "PK 134+932",
+  "linea": "270 Bifurcación Sagrera - Cerbere",
+  "lat": 41.59483256605714,
+  "lng": 2.2908313996571428,
+  "metodo": null,
+  "dist_via_m": 339,
+  "pk_cercano": 135.1,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.59785939,
+   2.29131789
+  ],
+  "codtramo_cercano": "022700060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-40-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2012 OCURRIDO EL DÍA 23.05.2012 EN LA",
+  "provincia": "Granada",
+  "pk": "88+612",
+  "linea": "426 Granada a Fuente de Piedra",
+  "lat": 37.1872,
+  "lng": -3.6011,
+  "metodo": null,
+  "dist_via_m": 809,
+  "pk_cercano": 56.5,
+  "provincia_ine": "Granada",
+  "coord_pkcercano": [
+   37.18384011,
+   -3.60918826
+  ],
+  "codtramo_cercano": "044160040",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-40-2017",
+  "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2017 OCURRIDO EL DÍA ",
+  "provincia": "Lleida",
+  "pk": "p.k. 1+144",
+  "linea": "200 Madrid Chamartín-Barcelona Estación de Francia",
+  "lat": 41.6153240438069,
+  "lng": 0.6419730428827586,
+  "metodo": null,
+  "dist_via_m": 26,
+  "pk_cercano": 1,
+  "provincia_ine": "Lleida",
+  "coord_pkcercano": [
+   41.61524242,
+   0.64226271
+  ],
+  "codtramo_cercano": "022000415",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-402-2013",
+  "titulo": "IF 402/2013 — El día 03/05/2021 a las 9h47, el tren ALVIA 4271 de la empresa ferroviaria R",
+  "provincia": "León",
+  "pk": null,
+  "linea": null,
+  "lat": 41.745189,
+  "lng": 2.633096,
+  "metodo": null,
+  "dist_via_m": 341,
+  "pk_cercano": 683,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   41.74800039,
+   2.6314658
+  ],
+  "codtramo_cercano": "120500277",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-41-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0041/2008 OCURRIDO EL DÍ",
+  "provincia": "Castellón",
+  "pk": "62,095",
+  "linea": "600 Valencia-San Vicente de Calders",
+  "lat": 39.90031161194068,
+  "lng": -0.10217351268855931,
+  "metodo": null,
+  "dist_via_m": 225,
+  "pk_cercano": 62.7,
+  "provincia_ine": "Castellón",
+  "coord_pkcercano": [
+   39.90233238,
+   -0.1021603
+  ],
+  "codtramo_cercano": "036000080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-41-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0041/2012 OCURRIDO EL DÍA 01.06.2012 ENTRE",
+  "provincia": "Tarragona",
+  "pk": "558+049",
+  "linea": "210 Miraflores - Tarragona",
+  "lat": 41.13566783,
+  "lng": 0.88441436,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 558.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.13566783,
+   0.88441436
+  ],
+  "codtramo_cercano": "022100120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-41-2014",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0041/2014 ocurrido el día 06.08",
+  "provincia": "Huesca",
+  "pk": "390+500",
+  "linea": "050 Madrid Puerta de Atocha a Límite Adif TP-Ferro",
+  "lat": 41.540333,
+  "lng": 0.054767,
+  "metodo": null,
+  "dist_via_m": 398,
+  "pk_cercano": 390.6,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   41.53791895,
+   0.0512365
+  ],
+  "codtramo_cercano": "120500130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-41-2016",
+  "titulo": "Informe Final de la CIAF sobre el accidente ferroviario nº 0041/2016 ocurrido el día 09.09",
+  "provincia": "Pontevedra",
+  "pk": "PK 151+911",
+  "linea": "810 Bifurcación Chapela – Monforte de Lemos",
+  "lat": 42.171318917025,
+  "lng": -8.620991556616667,
+  "metodo": null,
+  "dist_via_m": 205,
+  "pk_cercano": 152.6,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.17301883,
+   -8.62004345
+  ],
+  "codtramo_cercano": "068100060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-41-2025",
+  "titulo": "IF 41/2025 — Incidente operacional en la",
+  "provincia": "Navarra",
+  "pk": null,
+  "linea": null,
+  "lat": 42.1667,
+  "lng": -1.6667,
+  "metodo": null,
+  "dist_via_m": 327,
+  "pk_cercano": 91.4,
+  "provincia_ine": "Navarra",
+  "coord_pkcercano": [
+   42.16381121,
+   -1.66742815
+  ],
+  "codtramo_cercano": "017000040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-42-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0042/2008 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "P.K. 73,130",
+  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat",
+  "lat": 41.47886781466667,
+  "lng": 1.9259291026666667,
+  "metodo": null,
+  "dist_via_m": 23,
+  "pk_cercano": 73.2,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.47895018,
+   1.92618033
+  ],
+  "codtramo_cercano": "022400070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-42-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0042/2013 OCURRIDO EL DÍA 26.05.2013 EN LA",
+  "provincia": "Sevilla",
+  "pk": "PK 570+580",
+  "linea": "400 Alcázar de San Juan a Cádiz",
+  "lat": 37.39926831967742,
+  "lng": -5.9659553570967745,
+  "metodo": null,
+  "dist_via_m": 19,
+  "pk_cercano": 469.4,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.39909919,
+   -5.9659868
+  ],
+  "codtramo_cercano": "140100180",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-42-2014",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0042/2014 ocurrido el día 11.08",
+  "provincia": "Burgos",
+  "pk": "437+301",
+  "linea": "100 Madrid Chamartín - Hendaya",
+  "lat": 42.62320843716124,
+  "lng": -3.1273992203030834,
+  "metodo": null,
+  "dist_via_m": 179,
+  "pk_cercano": 437.7,
+  "provincia_ine": "Burgos",
+  "coord_pkcercano": [
+   42.62310938,
+   -3.12958169
+  ],
+  "codtramo_cercano": "011000280",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-43-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0043/2008 OCURRIDO EL DÍ",
+  "provincia": "Málaga",
+  "pk": "P.K. 14,250",
+  "linea": "426 Granada-Fuente de Piedra",
+  "lat": 36.764791,
+  "lng": -4.442201,
+  "metodo": null,
+  "dist_via_m": 5678,
+  "pk_cercano": 0.6,
+  "provincia_ine": "Málaga",
+  "coord_pkcercano": [
+   36.71535394,
+   -4.42654595
+  ],
+  "codtramo_cercano": "044360003",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-43-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0043/2011 OCURRIDO EL DÍA 11.07.2011 EN PL",
+  "provincia": "Huesca",
+  "pk": "PK 11+758",
+  "linea": "204 Bif. Canfranc - Canfranc",
+  "lat": 42.65602929923077,
+  "lng": -0.5473721958591093,
+  "metodo": null,
+  "dist_via_m": 123,
+  "pk_cercano": 12,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   42.65501509,
+   -0.5479734
+  ],
+  "codtramo_cercano": "022040050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-43-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0043/2013 OCURRIDO EL DÍA 04.06.2013 ENTRE",
+  "provincia": "Barcelona",
+  "pk": "64+073",
+  "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+  "lat": 41.4300182750602,
+  "lng": 1.8355977784194173,
+  "metodo": null,
+  "dist_via_m": 361,
+  "pk_cercano": 64.1,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.43242044,
+   1.83849765
+  ],
+  "codtramo_cercano": "022400040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-43-2016",
+  "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0043/20",
+  "provincia": "Asturias",
+  "pk": "59+505",
+  "linea": "130 Gijón Sanz Crespo-Venta de Baños",
+  "lat": 43.019680980879386,
+  "lng": -5.768924170916861,
+  "metodo": null,
+  "dist_via_m": 420,
+  "pk_cercano": 62.2,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.02332617,
+   -5.77024182
+  ],
+  "codtramo_cercano": "061300150",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-43-2017",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0043/2017 ocurrido el día 25.07",
+  "provincia": "Soria",
+  "pk": "PK 157+696",
+  "linea": "200 Madrid Chamartín a Barcelona Estació França",
+  "lat": 41.13594656,
+  "lng": -2.4929322,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 157.7,
+  "provincia_ine": "Soria",
+  "coord_pkcercano": [
+   41.13594656,
+   -2.4929322
+  ],
+  "codtramo_cercano": "022000150",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-43-2023",
+  "titulo": "IF 43/2023 — Fallo de señalización en Les Borges del Camp (Tarragona),",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": null,
+  "lat": 41.1667,
+  "lng": 1.0167,
+  "metodo": null,
+  "dist_via_m": 208,
+  "pk_cercano": 571.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.16511657,
+   1.01537614
+  ],
+  "codtramo_cercano": "022100120",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-44-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0044/2008 OCURRIDO EL DÍ",
+  "provincia": "Vizcaya",
+  "pk": "284+050",
+  "linea": "31 León-Bilbao",
+  "lat": 43.1917,
+  "lng": -3.1917,
+  "metodo": null,
+  "dist_via_m": 508,
+  "pk_cercano": 283,
+  "provincia_ine": "Burgos",
+  "coord_pkcercano": [
+   43.19002464,
+   -3.1975223
+  ],
+  "codtramo_cercano": "087900090",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-44-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2010 OCURRIDO EL DÍA 09.08.2010 EN EL",
+  "provincia": "Cantabria",
+  "pk": "489+795",
+  "linea": "1021 Oviedo – Santander",
+  "lat": 43.3078404,
+  "lng": -4.2317625,
+  "metodo": null,
+  "dist_via_m": 6,
+  "pk_cercano": 485.1,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.3078208,
+   -4.23183726
+  ],
+  "codtramo_cercano": "087700110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-44-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2011 OCURRIDO EL DÍA 13.07.2011 ENTRE",
+  "provincia": "Teruel",
+  "pk": "PK 137+810",
+  "linea": "610 Sagunto – Bif. Teruel",
+  "lat": 40.3235311923121,
+  "lng": -1.0707939325828024,
+  "metodo": null,
+  "dist_via_m": 199,
+  "pk_cercano": 137.2,
+  "provincia_ine": "Teruel",
+  "coord_pkcercano": [
+   40.32249231,
+   -1.07270468
+  ],
+  "codtramo_cercano": "026100090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-44-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2013 OCURRIDO EL DÍA 06.06.2013 EN EL",
+  "provincia": "Zaragoza",
+  "pk": "337+395",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+  "lat": 41.6568,
+  "lng": -0.8812,
+  "metodo": null,
+  "dist_via_m": 1394,
+  "pk_cercano": 308.7,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.64871216,
+   -0.89400175
+  ],
+  "codtramo_cercano": "120540030",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-44-2014",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0044/2014 ocurrido el día 31.08",
+  "provincia": "Zaragoza",
+  "pk": "PK 337+395",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+  "lat": 41.6568,
+  "lng": -0.8812,
+  "metodo": null,
+  "dist_via_m": 1394,
+  "pk_cercano": 308.7,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.64871216,
+   -0.89400175
+  ],
+  "codtramo_cercano": "120540030",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-45-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0045/2008 OCURRIDO EL DÍ",
+  "provincia": "Cádiz",
+  "pk": "P.K. 140,750",
+  "linea": "400 Alcázar de San Juan – Cádiz",
+  "lat": 36.48842,
+  "lng": -6.162659,
+  "metodo": null,
+  "dist_via_m": 272,
+  "pk_cercano": 140.4,
+  "provincia_ine": "Cádiz",
+  "coord_pkcercano": [
+   36.4896609,
+   -6.16004702
+  ],
+  "codtramo_cercano": "044000344",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-45-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0045/2009 OCURRIDO EL DÍA 24.08.2009 EN LA",
+  "provincia": "Barcelona",
+  "pk": "P.K. 89+150",
+  "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+  "lat": 41.38540077222222,
+  "lng": 2.0450831177777777,
+  "metodo": null,
+  "dist_via_m": 406,
+  "pk_cercano": 88.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38826565,
+   2.04207467
+  ],
+  "codtramo_cercano": "022400130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-45-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0045/2012 EN LA ESTACIÓN DE ARÉVALO (ÁVILA",
+  "provincia": "Ávila",
+  "pk": "PK 169+839 / PK 169+893",
+  "linea": "100 Madrid - Hendaya",
+  "lat": 41.038126919678575,
+  "lng": -4.6963910779999996,
+  "metodo": null,
+  "dist_via_m": 316,
+  "pk_cercano": 169.6,
+  "provincia_ine": "Ávila",
+  "coord_pkcercano": [
+   41.03584462,
+   -4.69414874
+  ],
+  "codtramo_cercano": "011000110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-46-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0046/2008 OCURRIDO EL DÍ",
+  "provincia": "León",
+  "pk": "P.K. 53,725",
+  "linea": "31 León - Bilbao (tramo Matallana-Balmaseda)",
+  "lat": 42.8,
+  "lng": -5.2,
+  "metodo": null,
+  "dist_via_m": 1082,
+  "pk_cercano": 44.2,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.80923798,
+   -5.20411157
+  ],
+  "codtramo_cercano": "087900040",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-46-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2009 OCURRIDO EL DÍA 28.08.2009 EN LA",
+  "provincia": "Valencia",
+  "pk": "PK 22+600",
+  "linea": "310 Aranjuez/Valencia- Estación del Nord",
+  "lat": 39.468301483913045,
+  "lng": -0.9959805450434782,
+  "metodo": null,
+  "dist_via_m": 145,
+  "pk_cercano": 24,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.46864721,
+   -0.99760373
+  ],
+  "codtramo_cercano": "033100080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-46-2010",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0046/2010 OCURRIDO EL DÍA 17.08.2010 EN LA",
+  "provincia": "León",
+  "pk": "250+950",
+  "linea": "800 A Coruña - León",
+  "lat": 42.54562458,
+  "lng": -6.60202612,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 251,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.54562458,
+   -6.60202612
+  ],
+  "codtramo_cercano": "068000085",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-46-2015",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0046/2015 ocurrido el día 05.10",
+  "provincia": "Huesca",
+  "pk": "pk 52+950",
+  "linea": "Línea 200 Madrid Chamartín a Barcelona estación de Francia",
+  "lat": 41.3985372,
+  "lng": 1.10657326,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 53.4,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.3985372,
+   1.10657326
+  ],
+  "codtramo_cercano": "022000440",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-46-2018",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2018 OCURRIDO EL DÍA 20.11",
+  "provincia": "Barcelona",
+  "pk": "321+017",
+  "linea": "220 de Lleida Pirineus a L´Hospitalet de Llobregat",
+  "lat": 41.601072459921994,
+  "lng": 1.8946330240497926,
+  "metodo": null,
+  "dist_via_m": 42,
+  "pk_cercano": 319.6,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.60138769,
+   1.89435833
+  ],
+  "codtramo_cercano": "022200060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-46-2022",
+  "titulo": "IF 46/2022 — Incidente Operacional - Retroceso no autorizado ocurrido el día",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 42.4984,
+  "lng": -6.5663,
+  "metodo": null,
+  "dist_via_m": 5137,
+  "pk_cercano": 249.6,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.54174372,
+   -6.5877816
+  ],
+  "codtramo_cercano": "068000070",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-47-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0047/2009 OCURRIDO EL DÍA 31.08.2009 EN LA",
+  "provincia": "Madrid",
+  "pk": "P.K. 10+200, vía 1",
+  "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+  "lat": 40.3833,
+  "lng": -3.75,
+  "metodo": null,
+  "dist_via_m": 908,
+  "pk_cercano": 7.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.38745397,
+   -3.7592189
+  ],
+  "codtramo_cercano": "059200020",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-47-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2010 OCURRIDO EL DÍA 18.08.2010 EN EL",
+  "provincia": "Sevilla",
+  "pk": "8+579",
+  "linea": "422 Bif. Utrera a Fuente de Piedra",
+  "lat": 37.20371507380784,
+  "lng": -5.726908902066667,
+  "metodo": null,
+  "dist_via_m": 404,
+  "pk_cercano": 8,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.20222409,
+   -5.73106666
+  ],
+  "codtramo_cercano": "044220010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-47-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2011 OCURRIDO EL DÍA 12.10.2011 EN LA",
+  "provincia": "Girona",
+  "pk": "PK 241+083",
+  "linea": "270 Bifurcación Sagrera a Cerbere",
+  "lat": 42.210341118069444,
+  "lng": 2.979579887221111,
+  "metodo": null,
+  "dist_via_m": 319,
+  "pk_cercano": 240.6,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   42.20752827,
+   2.98030366
+  ],
+  "codtramo_cercano": "022700130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-47-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2012 OCURRIDO EL DÍA 01.07.2012 EN EL",
+  "provincia": "Zaragoza",
+  "pk": "337+395",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+  "lat": 41.6568,
+  "lng": -0.8812,
+  "metodo": null,
+  "dist_via_m": 1394,
+  "pk_cercano": 308.7,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.64871216,
+   -0.89400175
+  ],
+  "codtramo_cercano": "120540030",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-48-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0048/2013 OCURRIDO EL DÍA 20.05.2013 ENTRE",
+  "provincia": "Badajoz",
+  "pk": "PK 25+564",
+  "linea": "516 Mérida - Los Rosales",
+  "lat": 38.73133215121473,
+  "lng": -6.388539789123312,
+  "metodo": null,
+  "dist_via_m": 215,
+  "pk_cercano": 24,
+  "provincia_ine": "Badajoz",
+  "coord_pkcercano": [
+   38.7332068,
+   -6.38794189
+  ],
+  "codtramo_cercano": "045160010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-48-2022",
+  "titulo": "2022-48-0612-if",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 43.262,
+  "lng": -2.925,
+  "metodo": null,
+  "dist_via_m": 284,
+  "pk_cercano": 249.2,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.26045979,
+   -2.92780031
+  ],
+  "codtramo_cercano": "017000180",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-49-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0049/2008 ocurrido el dí",
+  "provincia": "Alicante",
+  "pk": "P.K. 375.740",
+  "linea": "300 Madrid - Chamartín - Valencia – Estación Nord",
+  "lat": 38.873473,
+  "lng": -1.115174,
+  "metodo": null,
+  "dist_via_m": 251,
+  "pk_cercano": 357.4,
+  "provincia_ine": "Albacete",
+  "coord_pkcercano": [
+   38.8721016,
+   -1.11288013
+  ],
+  "codtramo_cercano": "033000195",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-49-2010",
+  "titulo": "Informe final sobre el accidente ferroviario nº 0049/2010 ocurrido el día 06.09.2010 en pa",
+  "provincia": "Badajoz",
+  "pk": "24+420",
+  "linea": "510 Aljucén - Cáceres",
+  "lat": 40.4065,
+  "lng": -3.692,
+  "metodo": null,
+  "dist_via_m": 105,
+  "pk_cercano": 0.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.40743454,
+   -3.69214616
+  ],
+  "codtramo_cercano": "059200020",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-49-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0049/2011 OCURRIDO EL DÍA 26.10.2011 EN LA",
+  "provincia": "Barcelona",
+  "pk": "PK 44+979",
+  "linea": "276 Bifurcación Sagrera a Maçanet-Massanes",
+  "lat": 41.58870349731869,
+  "lng": 2.587813392906542,
+  "metodo": null,
+  "dist_via_m": 208,
+  "pk_cercano": 41.7,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.58959618,
+   2.59001261
+  ],
+  "codtramo_cercano": "022760120",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-5-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0005/2009 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "PK 663,700",
+  "linea": "200 Barcelona Sants - Madrid Chamartín",
+  "lat": 41.30538099081081,
+  "lng": 2.0161290627027033,
+  "metodo": null,
+  "dist_via_m": 311,
+  "pk_cercano": 662.9,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.30418295,
+   2.01276847
+  ],
+  "codtramo_cercano": "022000520",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-5-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0005/2012 OCURRIDO EL DÍA 15.01.2012 EN LA",
+  "provincia": "Asturias",
+  "pk": "PK 298+108",
+  "linea": "12 San Esteban de Pravia – Collanzo",
+  "lat": 43.34861323,
+  "lng": -5.96765136,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 297.9,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.34861323,
+   -5.96765136
+  ],
+  "codtramo_cercano": "087620005",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-5-2014",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0005/2014 OCURRIDO EL DÍA 23.01.2014 ENTRE",
+  "provincia": "Burgos",
+  "pk": "422+950",
+  "linea": "100 Hendaya a Madrid-Chamartín",
+  "lat": 42.59611350154185,
+  "lng": -3.2907898658370045,
+  "metodo": null,
+  "dist_via_m": 500,
+  "pk_cercano": 422.7,
+  "provincia_ine": "Burgos",
+  "coord_pkcercano": [
+   42.59229042,
+   -3.29398956
+  ],
+  "codtramo_cercano": "011000280",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-5-2015",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0005/2015 ocurrido el día 12.01",
+  "provincia": "Barcelona",
+  "pk": "364+859",
+  "linea": "266 Bif. Glorias – Bif. Vilanova",
+  "lat": 41.39458704,
+  "lng": 2.18448644,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 103.5,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.39458704,
+   2.18448644
+  ],
+  "codtramo_cercano": "022760180",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-50-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0050/2008 OCURRIDO EL DÍ",
+  "provincia": "Asturias",
+  "pk": "P.K. 134,396",
+  "linea": "130 Venta de Baños - Gijón",
+  "lat": 43.327534150906665,
+  "lng": -5.8750298113333335,
+  "metodo": null,
+  "dist_via_m": 467,
+  "pk_cercano": 133.6,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.32357202,
+   -5.87694331
+  ],
+  "codtramo_cercano": "061300210",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-50-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0050/2009 OCURRIDO EL DÍA 24.09.2009 EN EL",
+  "provincia": "Cantabria",
+  "pk": "527+485",
+  "linea": "Oviedo-Santander (L-21)",
+  "lat": 43.4542471,
+  "lng": -3.8403963,
+  "metodo": null,
+  "dist_via_m": 127,
+  "pk_cercano": 527.3,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.45516145,
+   -3.84134262
+  ],
+  "codtramo_cercano": "087700140",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-50-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0050/2010 OCURRIDO EL DÍA 07.09.2010 EN EL",
+  "provincia": "Vizcaya",
+  "pk": "0+388",
+  "linea": "1031 León – Bilbao",
+  "lat": 42.894,
+  "lng": -1.612,
+  "metodo": null,
+  "dist_via_m": 7499,
+  "pk_cercano": 183,
+  "provincia_ine": "Navarra",
+  "coord_pkcercano": [
+   42.83852337,
+   -1.66413657
+  ],
+  "codtramo_cercano": "017100030",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-50-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0050/2011 OCURRIDO EL DÍA 27.10.2011 EN LA",
+  "provincia": "Cantabria",
+  "pk": "540+075",
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.4,
+  "lng": -3.8167,
+  "metodo": null,
+  "dist_via_m": 185,
+  "pk_cercano": 540.9,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.39860059,
+   -3.8154691
+  ],
+  "codtramo_cercano": "087800030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-50-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0050/2012 OCURRIDO EL DÍA 21.06.2012 EN EL",
+  "provincia": "Zaragoza",
+  "pk": "276+705",
+  "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón",
+  "lat": 41.69633147,
+  "lng": -1.22812208,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 1.4,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.69633147,
+   -1.22812208
+  ],
+  "codtramo_cercano": "022820010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-51-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0051/2008 OCURRIDO EL DÍ",
+  "provincia": "Gerona",
+  "pk": "247+215",
+  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "lat": 42.26509273,
+  "lng": 2.96897025,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 247,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   42.26509273,
+   2.96897025
+  ],
+  "codtramo_cercano": "022700150",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-51-2011",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0051/2011 OCURRIDO EL DÍA 05.11.2011 EN BI",
+  "provincia": "Barcelona",
+  "pk": "PK 110+311",
+  "linea": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+  "lat": 38.6833,
+  "lng": -6.4167,
+  "metodo": null,
+  "dist_via_m": 1471,
+  "pk_cercano": 29,
+  "provincia_ine": "Badajoz",
+  "coord_pkcercano": [
+   38.68950581,
+   -6.40175968
+  ],
+  "codtramo_cercano": "045160010",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-51-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0051/2012 OCURRIDO EL DÍA 19.07.2012 ENTRE",
+  "provincia": "Córdoba",
+  "pk": "PK 393+525",
+  "linea": "400 Alcázar de San Juan - Cádiz",
+  "lat": 37.992676461115536,
+  "lng": -4.351333623486056,
+  "metodo": null,
+  "dist_via_m": 397,
+  "pk_cercano": 393.7,
+  "provincia_ine": "Córdoba",
+  "coord_pkcercano": [
+   37.98962224,
+   -4.348988
+  ],
+  "codtramo_cercano": "044000120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-51-2014",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0051/2014 ocurrido el día 02.09",
+  "provincia": "Asturias",
+  "pk": "PK 451+557",
+  "linea": "770 RAM Santander - Oviedo",
+  "lat": 43.38413818743429,
+  "lng": -4.543689416432653,
+  "metodo": null,
+  "dist_via_m": 231,
+  "pk_cercano": 452.1,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.3844111,
+   -4.54086203
+  ],
+  "codtramo_cercano": "087700100",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-51-2016",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0051/2016 ocurrido el día 04.11",
+  "provincia": "Barcelona",
+  "pk": "95+106",
+  "linea": "220 Lleida Pirineus a L’ Hospitalet de Llobregat",
+  "lat": 41.36430941,
+  "lng": 2.10087399,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 95.2,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.36430941,
+   2.10087399
+  ],
+  "codtramo_cercano": "022760200",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-52-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0052/2008 OCURRIDO EL DÍ",
+  "provincia": "Soria",
+  "pk": "P.K. 191,876",
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "lat": 41.262355513996035,
+  "lng": -2.1796480465782175,
+  "metodo": null,
+  "dist_via_m": 121,
+  "pk_cercano": 192,
+  "provincia_ine": "Soria",
+  "coord_pkcercano": [
+   41.26322509,
+   -2.17878925
+  ],
+  "codtramo_cercano": "022000160",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-52-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0052/2009 OCURRIDO EL DÍA 28.09.2009 EN EL",
+  "provincia": "Murcia",
+  "pk": "16+708",
+  "linea": "nº 45 Cartagena – Los Nietos",
+  "lat": 38.0,
+  "lng": -1.1333,
+  "metodo": null,
+  "dist_via_m": 2803,
+  "pk_cercano": 459.3,
+  "provincia_ine": "Murcia",
+  "coord_pkcercano": [
+   37.97514015,
+   -1.13838065
+  ],
+  "codtramo_cercano": "033200070",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-52-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0052/2013 OCURRIDO EL DÍA 11.07.2013 EN LA",
+  "provincia": "Lleida",
+  "pk": "183+728",
+  "linea": "200 Madrid Chamartín - Barcelona Estació de França",
+  "lat": 41.62108393,
+  "lng": 0.63310054,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 183.6,
+  "provincia_ine": "Lleida",
+  "coord_pkcercano": [
+   41.62108393,
+   0.63310054
+  ],
+  "codtramo_cercano": "022000400",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-52-2014",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0052/2014 ocurrido el día 26.09",
+  "provincia": "Ávila",
+  "pk": "PK 73+885",
+  "linea": "100 Madrid Chamartín - Hendaya",
+  "lat": 40.57143213675962,
+  "lng": -4.290260526461539,
+  "metodo": null,
+  "dist_via_m": 51,
+  "pk_cercano": 73.8,
+  "provincia_ine": "Ávila",
+  "coord_pkcercano": [
+   40.57139535,
+   -4.29086321
+  ],
+  "codtramo_cercano": "011000090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-52-2015",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0052/2015 ocurrido el día 22.10",
+  "provincia": "Zaragoza",
+  "pk": "PK 16+973",
+  "linea": "214 La Cartuja a CIM de Zaragoza",
+  "lat": 41.6031049740354,
+  "lng": -0.8849042237539823,
+  "metodo": null,
+  "dist_via_m": 87,
+  "pk_cercano": 307.6,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.60302266,
+   -0.88594114
+  ],
+  "codtramo_cercano": "120500100",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-53-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0053/2008 OCURRIDO EL DÍ",
+  "provincia": "Madrid",
+  "pk": "P.K. 38,748",
+  "linea": "100 Madrid - Hendaya",
+  "lat": 40.62559197246452,
+  "lng": -4.015090596283871,
+  "metodo": null,
+  "dist_via_m": 387,
+  "pk_cercano": 38.9,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.62370641,
+   -4.01894212
+  ],
+  "codtramo_cercano": "011000070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-53-2010",
+  "titulo": "Informe final sobre el incidente ferroviario nº 0053/2010 ocurrido el día 30.09.2010 en la",
+  "provincia": "Pontevedra",
+  "pk": "PK 166+800",
+  "linea": "Línea 810 Vigo - Monforte de Lemos",
+  "lat": 42.075004,
+  "lng": -8.423906,
+  "metodo": null,
+  "dist_via_m": 50,
+  "pk_cercano": 120.9,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.07501595,
+   -8.42330349
+  ],
+  "codtramo_cercano": "068100040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-53-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2012 OCURRIDO EL DÍA 26.07.2012 EN LA",
+  "provincia": "Madrid",
+  "pk": "0+033",
+  "linea": "900 Madrid – Chamartín / Madrid – Atocha Cercanías",
+  "lat": 40.40664652405063,
+  "lng": -3.6894731075949365,
+  "metodo": null,
+  "dist_via_m": 67,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.4061993,
+   -3.68893679
+  ],
+  "codtramo_cercano": "029320004",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-53-2014",
+  "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0053/2014 ocurrido el día 26.09",
+  "provincia": "Barcelona",
+  "pk": "685+128",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "lat": 41.3838742436,
+  "lng": 2.188376062861538,
+  "metodo": null,
+  "dist_via_m": 242,
+  "pk_cercano": 685.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38422082,
+   2.1855107
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-54-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0054/2008 OCURRIDO EL DÍ",
+  "provincia": "Castellón",
+  "pk": "PK 48,748",
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+  "lat": 39.79287923779661,
+  "lng": -0.18184550627796614,
+  "metodo": null,
+  "dist_via_m": 466,
+  "pk_cercano": 48.7,
+  "provincia_ine": "Castellón",
+  "coord_pkcercano": [
+   39.79639914,
+   -0.17889741
+  ],
+  "codtramo_cercano": "036000080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-54-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0054/2009 OCURRIDO EL DÍA 17.10.2009 A LA ",
+  "provincia": "Guipúzcoa",
+  "pk": "PK 566+856",
+  "linea": "Tolosa - Zumárraga",
+  "lat": 43.0858662,
+  "lng": -2.31161646,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 566.5,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.0858662,
+   -2.31161646
+  ],
+  "codtramo_cercano": "011000410",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-54-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE GRAVE FERROVIARIO Nº 0054/2013 OCURRIDO EL DÍA 24.07.2013",
+  "provincia": "A Coruña",
+  "pk": "84+413",
+  "linea": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",
+  "lat": 42.84053987132013,
+  "lng": -8.477345828877182,
+  "metodo": null,
+  "dist_via_m": 260,
+  "pk_cercano": 80.1,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   42.84162451,
+   -8.48016937
+  ],
+  "codtramo_cercano": "160820120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-55-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0055/2009 OCURRIDO EL DÍA 08.10.2009 EN EL",
+  "provincia": "Lugo",
+  "pk": "P.K. 0+851",
+  "linea": "810 Vigo – Monforte de Lemos",
+  "lat": 42.52256481123227,
+  "lng": -7.505545460130142,
+  "metodo": null,
+  "dist_via_m": 198,
+  "pk_cercano": 1,
+  "provincia_ine": "Lugo",
+  "coord_pkcercano": [
+   42.5209323,
+   -7.50650995
+  ],
+  "codtramo_cercano": "068100010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-55-2017",
+  "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0055/20",
+  "provincia": "Sevilla",
+  "pk": "20+350",
+  "linea": "422 Bif. Utrera a Fuente de la Piedra",
+  "lat": 37.225595938750004,
+  "lng": -5.601650283541667,
+  "metodo": null,
+  "dist_via_m": 318,
+  "pk_cercano": 20.2,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.22651952,
+   -5.59826095
+  ],
+  "codtramo_cercano": "044220020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-56-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0056/2008 OCURRIDO EL DÍ",
+  "provincia": "Gerona",
+  "pk": "170,925",
+  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "lat": 41.74621194104478,
+  "lng": 2.626188554029851,
+  "metodo": null,
+  "dist_via_m": 31,
+  "pk_cercano": 170.5,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   41.74604553,
+   2.62589652
+  ],
+  "codtramo_cercano": "022700090",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-56-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0056/2009 OCURRIDO EL DÍA 16.10.2009 EN EL",
+  "provincia": "Valencia",
+  "pk": "107+996",
+  "linea": "300 Madrid (Chamartín)- Valencia (estación del Nord)",
+  "lat": 39.42453858435429,
+  "lng": -0.39193452693714287,
+  "metodo": null,
+  "dist_via_m": 256,
+  "pk_cercano": 107.6,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.42232749,
+   -0.39274183
+  ],
+  "codtramo_cercano": "033040010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-56-2010",
+  "titulo": "Informe final sobre el incidente ferroviario nº 0056/2010 ocurrido el día 19.10.2010 entre",
+  "provincia": "Asturias",
+  "pk": "PK 1+057 (Señal S2/P de Gijón)",
+  "linea": "61 Gijón - Laviana",
+  "lat": 43.2833,
+  "lng": -5.7833,
+  "metodo": null,
+  "dist_via_m": 2364,
+  "pk_cercano": 122.2,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.26371955,
+   -5.79457966
+  ],
+  "codtramo_cercano": "061300180",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-56-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0056/2013 OCURRIDO EL DÍA 14.08.2013 EN LA",
+  "provincia": "Soria",
+  "pk": "PK 157+520 (Señal S1/1)",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "lat": 41.731709,
+  "lng": 0.442112,
+  "metodo": null,
+  "dist_via_m": 274,
+  "pk_cercano": 159.3,
+  "provincia_ine": "Lleida",
+  "coord_pkcercano": [
+   41.73039188,
+   0.44489873
+  ],
+  "codtramo_cercano": "022000400",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-56-2016",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0056/2016 ocurrido el día 04.11",
+  "provincia": "Valencia",
+  "pk": "PK 58+934 (entre señales R2 y E2)",
+  "linea": "310 Aranjuez a Valencia - La Font de Sant Lluís",
+  "lat": 39.96459,
+  "lng": -3.486043,
+  "metodo": null,
+  "dist_via_m": 502,
+  "pk_cercano": 16,
+  "provincia_ine": "Toledo",
+  "coord_pkcercano": [
+   39.9648553,
+   -3.49191332
+  ],
+  "codtramo_cercano": "033100010",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-57-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0057/2008 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "143,105",
+  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+  "lat": 41.63329465716514,
+  "lng": 2.366371941004587,
+  "metodo": null,
+  "dist_via_m": 77,
+  "pk_cercano": 144.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.63299848,
+   2.36720427
+  ],
+  "codtramo_cercano": "022700070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-57-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0057/2009 OCURRIDO EL DÍA 23.10.2009 ENTRE",
+  "provincia": "Barcelona",
+  "pk": "P.K. 94+316",
+  "linea": "240 Sant Vicent de Calders - L’Hospitalet de Llobregat",
+  "lat": 41.36085728237576,
+  "lng": 2.088278415438384,
+  "metodo": null,
+  "dist_via_m": 219,
+  "pk_cercano": 94.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.36161049,
+   2.09069503
+  ],
+  "codtramo_cercano": "022400130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-59-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0059/2008 OCURRIDO EL DÍ",
+  "provincia": "Navarra",
+  "pk": "77+050",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 42.05719770658371,
+  "lng": -1.5952802681447964,
+  "metodo": null,
+  "dist_via_m": 225,
+  "pk_cercano": 77.3,
+  "provincia_ine": "Navarra",
+  "coord_pkcercano": [
+   42.05880821,
+   -1.59693015
+  ],
+  "codtramo_cercano": "017000030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-59-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0059/2009 OCURRIDO EL DÍA 16.11.2009 EN EL",
+  "provincia": "Asturias",
+  "pk": "18+055",
+  "linea": "140 Bif. Tudela Veguín – El Entrego",
+  "lat": 43.30095721006198,
+  "lng": -5.689778543363636,
+  "metodo": null,
+  "dist_via_m": 259,
+  "pk_cercano": 17.4,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.29894522,
+   -5.6881808
+  ],
+  "codtramo_cercano": "061400040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-6-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0006/2008 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "P.K. 3,286",
+  "linea": "276 Barcelona-Massanes",
+  "lat": 41.615942,
+  "lng": 2.670446,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 49.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.61594205,
+   2.67044629
+  ],
+  "codtramo_cercano": "022760110",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-6-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0006/2010 OCURRIDO EL DÍA 10.01.2010 EN MA",
+  "provincia": "Sevilla",
+  "pk": "P.K. 568+250",
+  "linea": "400 Alcázar de San Juan – Cádiz",
+  "lat": 37.41670486,
+  "lng": -5.9531407,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 568,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.41670486,
+   -5.9531407
+  ],
+  "codtramo_cercano": "044000240",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-60-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0060/2008 ocurrido el dí",
+  "provincia": "Ciudad Real",
+  "pk": "P.K. 226,669",
+  "linea": "522 Manzanares - Ciudad Real",
+  "lat": 38.99752289683037,
+  "lng": -3.6446067882495328,
+  "metodo": null,
+  "dist_via_m": 253,
+  "pk_cercano": 227.3,
+  "provincia_ine": "Ciudad Real",
+  "coord_pkcercano": [
+   38.99538969,
+   -3.6456061
+  ],
+  "codtramo_cercano": "045220010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-60-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0060/2009 OCURRIDO EL DÍA 01.12.2009 EN EL",
+  "provincia": "Pontevedra",
+  "pk": "151+433",
+  "linea": "810 Monforte de Lemos- Vigo",
+  "lat": 42.16880137959921,
+  "lng": -8.621816170544047,
+  "metodo": null,
+  "dist_via_m": 492,
+  "pk_cercano": 152.6,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.17301883,
+   -8.62004345
+  ],
+  "codtramo_cercano": "068100060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-60-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0060/2013 OCURRIDO EL DÍA 05.09.2013 EN PL",
+  "provincia": "Cantabria",
+  "pk": "519+295",
+  "linea": "770 RAM Santander - Oviedo",
+  "lat": 43.43244970481928,
+  "lng": -3.9318432511325305,
+  "metodo": null,
+  "dist_via_m": 76,
+  "pk_cercano": 519.3,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.43255664,
+   -3.9327722
+  ],
+  "codtramo_cercano": "087700140",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-60-2014",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0060/2014 ocurrido el día 09.11",
+  "provincia": "Huelva",
+  "pk": "130+742",
+  "linea": "512 Zafra – Huelva Cargas",
+  "lat": 37.64546225760649,
+  "lng": -6.877609507779459,
+  "metodo": null,
+  "dist_via_m": 262,
+  "pk_cercano": 130.9,
+  "provincia_ine": "Huelva",
+  "coord_pkcercano": [
+   37.64375155,
+   -6.87964346
+  ],
+  "codtramo_cercano": "045120050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-61-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0061/2008 ocurrido el dí",
+  "provincia": "Lugo",
+  "pk": "P.K. 2,455",
+  "linea": "810 Vigo - Monforte de Lemos",
+  "lat": 42.51204623995035,
+  "lng": -7.520432731904256,
+  "metodo": null,
+  "dist_via_m": 456,
+  "pk_cercano": 3,
+  "provincia_ine": "Lugo",
+  "coord_pkcercano": [
+   42.51008405,
+   -7.52531221
+  ],
+  "codtramo_cercano": "068100010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-61-2011",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0061/2011 OCURRIDO EL DÍA 19.12.2011 EN LA",
+  "provincia": "Madrid",
+  "pk": "0+482",
+  "linea": "900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",
+  "lat": 40.40811320544304,
+  "lng": -3.6911398545569623,
+  "metodo": null,
+  "dist_via_m": 114,
+  "pk_cercano": 0.3,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.40743454,
+   -3.69214616
+  ],
+  "codtramo_cercano": "059200020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-61-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0061/2012 OCURRIDO EL DÍA 06.09.2012 ENTRE",
+  "provincia": "Huesca",
+  "pk": "51+800",
+  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "lat": 41.397073052765954,
+  "lng": 1.1090898704255319,
+  "metodo": null,
+  "dist_via_m": 266,
+  "pk_cercano": 53.4,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.3985372,
+   1.10657326
+  ],
+  "codtramo_cercano": "022000440",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-61-2014",
+  "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0061/2014 ocurrido el día 18.11",
+  "provincia": "Tarragona",
+  "pk": "PK 0+571",
+  "linea": "622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",
+  "lat": 41.11130219,
+  "lng": 1.25341095,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 275.6,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.11130219,
+   1.25341095
+  ],
+  "codtramo_cercano": "026300030",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-62-2007",
+  "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0062/2007 OCURRIDO ",
+  "provincia": "Pontevedra",
+  "pk": "P.K. 165,160",
+  "linea": "810 Monforte de Lemos-Vigo",
+  "lat": 42.28196707101587,
+  "lng": -8.613707896460317,
+  "metodo": null,
+  "dist_via_m": 440,
+  "pk_cercano": 165.6,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.27824122,
+   -8.61550045
+  ],
+  "codtramo_cercano": "068100060",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-62-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0062/2008 OCURRIDO EL DÍ",
+  "provincia": "Asturias",
+  "pk": "40,996",
+  "linea": "61 Gijón-Laviana",
+  "lat": 43.2707,
+  "lng": -8.2258,
+  "metodo": null,
+  "dist_via_m": 13,
+  "pk_cercano": 524.5,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   43.27072133,
+   -8.22596121
+  ],
+  "codtramo_cercano": "068000170",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-62-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2009 OCURRIDO EL DÍA 13.12.2009 EN EL",
+  "provincia": "Ávila",
+  "pk": "P.K. 164+429",
+  "linea": "100 Madrid – Hendaya",
+  "lat": 41.007327971811506,
+  "lng": -4.666131580242063,
+  "metodo": null,
+  "dist_via_m": 111,
+  "pk_cercano": 165.6,
+  "provincia_ine": "Ávila",
+  "coord_pkcercano": [
+   41.00651493,
+   -4.66536964
+  ],
+  "codtramo_cercano": "011000110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-62-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2010 OCURRIDO EL DÍA 10.11.2010 EN LA",
+  "provincia": "A Coruña",
+  "pk": "P.K. 524+416",
+  "linea": "800 A Coruña - León",
+  "lat": 43.27072133,
+  "lng": -8.22596121,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 524.5,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   43.27072133,
+   -8.22596121
+  ],
+  "codtramo_cercano": "068000170",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-62-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2011 OCURRIDO EL DÍA 15.12.2011 ENTRE",
+  "provincia": "Valencia",
+  "pk": "84+565",
+  "linea": "310 Aranjuez – Valencia Estació del Nord",
+  "lat": 39.45729398066412,
+  "lng": -0.4094864320687023,
+  "metodo": null,
+  "dist_via_m": 297,
+  "pk_cercano": 85,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.45498543,
+   -0.40775475
+  ],
+  "codtramo_cercano": "033100090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-62-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2013 OCURRIDO EL DÍA 12.08.2013 ENTRE",
+  "provincia": "Tarragona",
+  "pk": "18+920",
+  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "lat": 40.443878126042556,
+  "lng": -3.5292592803829788,
+  "metodo": null,
+  "dist_via_m": 426,
+  "pk_cercano": 15.9,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.44285957,
+   -3.53410058
+  ],
+  "codtramo_cercano": "022000050",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-63-2007",
+  "titulo": "063/2007 — Estación de Salou,",
+  "provincia": "Barcelona",
+  "pk": "263,600",
+  "linea": "600 Valencia-San Vicente Calders",
+  "lat": 41.0768,
+  "lng": 1.144,
+  "metodo": null,
+  "dist_via_m": 1312,
+  "pk_cercano": 265.6,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.08850062,
+   1.14587335
+  ],
+  "codtramo_cercano": "026300010",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-63-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0063/2008 OCURRIDO EL DÍ",
+  "provincia": "Salamanca",
+  "pk": "P.K. 104,857",
+  "linea": "122 Salamanca - Ávila",
+  "lat": 40.97719584515831,
+  "lng": -5.5996883927851115,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 106.8,
+  "provincia_ine": "Salamanca",
+  "coord_pkcercano": [
+   40.97719571,
+   -5.59969086
+  ],
+  "codtramo_cercano": "011220030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-63-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0063/2009 OCURRIDO EL DÍA 11.12.2009 EN LA",
+  "provincia": "Cantabria",
+  "pk": "P.K. 495+043",
+  "linea": "160 Santander - Palencia",
+  "lat": 43.35314468,
+  "lng": -3.94951772,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 494.9,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.35314468,
+   -3.94951772
+  ],
+  "codtramo_cercano": "061600100",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-63-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0063/2010 OCURRIDO EL DÍA 11.11.2010 ENTRE",
+  "provincia": "Valencia",
+  "pk": "PK 89+850",
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.27931643803758,
+  "lng": -0.4303546384133612,
+  "metodo": null,
+  "dist_via_m": 380,
+  "pk_cercano": 90.7,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.28272855,
+   -0.43022283
+  ],
+  "codtramo_cercano": "033000270",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-63-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0063/2011 OCURRIDO EL DÍA 27.12.2011 EN EL",
+  "provincia": "Zaragoza",
+  "pk": "CIM-Aguja km 337,1",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias",
+  "lat": 39.15,
+  "lng": -0.6,
+  "metodo": null,
+  "dist_via_m": 12857,
+  "pk_cercano": 73.7,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.14378544,
+   -0.45129576
+  ],
+  "codtramo_cercano": "033000270",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-63-2019",
+  "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0063/2019 ocurrido el día 09.12",
+  "provincia": "Barcelona",
+  "pk": "92+898",
+  "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+  "lat": 41.35668652340606,
+  "lng": 2.0739372402666665,
+  "metodo": null,
+  "dist_via_m": 457,
+  "pk_cercano": 92.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.35847453,
+   2.06901901
+  ],
+  "codtramo_cercano": "022400130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-64-2007",
+  "titulo": "IF 064/2007 — El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 2176",
+  "provincia": "Salamanca",
+  "pk": "5,200",
+  "linea": "930 Madrid- San Fernando de Henares",
+  "lat": 40.376257012941174,
+  "lng": -3.656882491764706,
+  "metodo": null,
+  "dist_via_m": 123,
+  "pk_cercano": 4.8,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.37651186,
+   -3.65829331
+  ],
+  "codtramo_cercano": "029300020",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-64-2009",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0064/2009 OCURRIDO EL DÍA 06.12.2009 EN LA",
+  "provincia": "Barcelona",
+  "pk": "136+551",
+  "linea": "270 Cerbère – Barcelona Sant Andreu Comtal",
+  "lat": 41.612131136262384,
+  "lng": 2.293611356495413,
+  "metodo": null,
+  "dist_via_m": 399,
+  "pk_cercano": 136.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.60857047,
+   2.29304588
+  ],
+  "codtramo_cercano": "022700070",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-64-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0064/2010 OCURRIDO EL DÍA 03.12.2010 EN EL",
+  "provincia": "Salamanca",
+  "pk": "122+116",
+  "linea": "120 Vilar Formoso – Medina del Campo",
+  "lat": 40.59437168727412,
+  "lng": -6.828483117785304,
+  "metodo": null,
+  "dist_via_m": 268,
+  "pk_cercano": 123,
+  "provincia_ine": "Salamanca",
+  "coord_pkcercano": [
+   40.59637903,
+   -6.82672465
+  ],
+  "codtramo_cercano": "011200090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-64-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0064/2012 OCURRIDO EL DÍA 08.10.2012 ENTRE",
+  "provincia": "Huesca",
+  "pk": "25+100",
+  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "lat": 41.18857889159292,
+  "lng": 1.4000861411504426,
+  "metodo": null,
+  "dist_via_m": 90,
+  "pk_cercano": 25.1,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.18853175,
+   1.39901159
+  ],
+  "codtramo_cercano": "022000460",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-64-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0064/2013 OCURRIDO EL DÍA 20.09.2013 EN LA",
+  "provincia": "Barcelona",
+  "pk": "678+098",
+  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "lat": 41.37834802,
+  "lng": 2.13930895,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 677.8,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.37834802,
+   2.13930895
+  ],
+  "codtramo_cercano": "022000560",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-64-2014",
+  "titulo": "Informe Final de la CIAF sobre el accidente ferroviario nº 0064/2014 ocurrido el día 11.10",
+  "provincia": "Bizkaia",
+  "pk": "PK 9+606",
+  "linea": "720 Abando Indalecio Prieto - Santurtzi",
+  "lat": 43.30909310748077,
+  "lng": -2.994990582076923,
+  "metodo": null,
+  "dist_via_m": 381,
+  "pk_cercano": 9.3,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.3062593,
+   -2.99235033
+  ],
+  "codtramo_cercano": "017200070",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-64-2021",
+  "titulo": "IF 64/2021 — El día 11/08/2021 a las 22h15, el tren 90666 de la empresa ferroviaria LCR qu",
+  "provincia": "Desconocida",
+  "pk": null,
+  "linea": null,
+  "lat": 41.2157666,
+  "lng": -2.2753018,
+  "metodo": null,
+  "dist_via_m": 208,
+  "pk_cercano": 182,
+  "provincia_ine": "Soria",
+  "coord_pkcercano": [
+   41.21575687,
+   -2.27778299
+  ],
+  "codtramo_cercano": "022000150",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-64-2024",
+  "titulo": "IF 64/2024 — Incidente operacional en la estación de Cuenca-Fernando",
+  "provincia": "Cuenca",
+  "pk": null,
+  "linea": null,
+  "lat": 40.0335,
+  "lng": -2.1431,
+  "metodo": null,
+  "dist_via_m": 147,
+  "pk_cercano": 195.1,
+  "provincia_ine": "Cuenca",
+  "coord_pkcercano": [
+   40.03261797,
+   -2.14181874
+  ],
+  "codtramo_cercano": "130400080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-65-2007",
+  "titulo": "IF 065/2007 — El tren de mercancías nº 50565; de la empresa ferroviaria Renfe Operadora, c",
+  "provincia": "Madrid",
+  "pk": "241,860",
+  "linea": "700 Intermodal Abando Ind. Prieto-Casetas",
+  "lat": 43.225504003333334,
+  "lng": -2.88655127152381,
+  "metodo": null,
+  "dist_via_m": 178,
+  "pk_cercano": 241.6,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.22503778,
+   -2.88445233
+  ],
+  "codtramo_cercano": "017000170",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-65-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0065/2008 OCURRIDO EL DÍ",
+  "provincia": "Navarra",
+  "pk": "PK 70,200",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 42.01218597561086,
+  "lng": -1.5442458039366516,
+  "metodo": null,
+  "dist_via_m": 51,
+  "pk_cercano": 70.3,
+  "provincia_ine": "Navarra",
+  "coord_pkcercano": [
+   42.01196932,
+   -1.54370067
+  ],
+  "codtramo_cercano": "017000030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-65-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0065/2009 OCURRIDO EL DÍA 15.12.2009 ENTRE",
+  "provincia": "Asturias",
+  "pk": "P.K. 191+222",
+  "linea": "L/ 11 Ferrol-Oviedo",
+  "lat": 43.5275049,
+  "lng": -6.6755155,
+  "metodo": null,
+  "dist_via_m": 1197,
+  "pk_cercano": 195.7,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.53556522,
+   -6.68532555
+  ],
+  "codtramo_cercano": "087400100",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-66-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0066/2008 ocurrido el dí",
+  "provincia": "Toledo",
+  "pk": "PK 101,270",
+  "linea": "300 Madrid Chamartín - Valencia Nord",
+  "lat": 39.366139258800004,
+  "lng": -0.41331044485714286,
+  "metodo": null,
+  "dist_via_m": 498,
+  "pk_cercano": 101.6,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.37039272,
+   -0.41151976
+  ],
+  "codtramo_cercano": "033000280",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-66-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0066/2009 OCURRIDO EL DÍA 20.12.2009 EN EL",
+  "provincia": "Lérida",
+  "pk": "253+775",
+  "linea": "220 Lérida Pirineos – L’Hospitalet de Llobregat",
+  "lat": 41.65476707246403,
+  "lng": 1.4187411067985614,
+  "metodo": null,
+  "dist_via_m": 199,
+  "pk_cercano": 254,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.6557982,
+   1.42068911
+  ],
+  "codtramo_cercano": "022200040",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-66-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0066/2013 OCURRIDO EL DÍA 26.09.2013 EN EL",
+  "provincia": "Valladolid",
+  "pk": "167+867",
+  "linea": "AV 080 Madrid Chamartín – Valladolid Campo Grande",
+  "lat": 42.217596,
+  "lng": -5.099282,
+  "metodo": null,
+  "dist_via_m": 10743,
+  "pk_cercano": 47,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   42.25205745,
+   -4.97752838
+  ],
+  "codtramo_cercano": "061300035",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-68-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0068/2009 OCURRIDO EL DÍA 28.12.2009 EN LA",
+  "provincia": "Sevilla",
+  "pk": "P.K. 94+716",
+  "linea": "422 Bif. Utrera- Puente de Piedra",
+  "lat": 37.21903151277647,
+  "lng": -4.880863913423529,
+  "metodo": null,
+  "dist_via_m": 290,
+  "pk_cercano": 96.3,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.21883894,
+   -4.87759778
+  ],
+  "codtramo_cercano": "044220040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-68-2013",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0068/2013 OCURRIDO EL DÍA 27.10.2013 EN LA",
+  "provincia": "Vizcaya",
+  "pk": "2+057",
+  "linea": "790 RAM La Asunción Universidad – Aranguren",
+  "lat": 43.20444529025,
+  "lng": -3.1705617591875,
+  "metodo": null,
+  "dist_via_m": 3,
+  "pk_cercano": 6.8,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.20442399,
+   -3.17055067
+  ],
+  "codtramo_cercano": "087900110",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-69-2009",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0069/2009 OCURRIDO EL DÍA 30.12.2009 EN LA",
+  "provincia": "La Rioja",
+  "pk": "P.K. 92+020",
+  "linea": "700 Intermodal Abando Indalecio Prieto – Casetas",
+  "lat": 42.479740495617015,
+  "lng": -2.5868551547659573,
+  "metodo": null,
+  "dist_via_m": 324,
+  "pk_cercano": 92.1,
+  "provincia_ine": "La Rioja",
+  "coord_pkcercano": [
+   42.47683009,
+   -2.58679933
+  ],
+  "codtramo_cercano": "017000080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-69-2013",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0069/2013 OCURRIDO EL DÍA 27.10.2013 EN LA",
+  "provincia": "Barcelona",
+  "pk": "PK 361+098 (Aguja número 12)",
+  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "lat": 41.435,
+  "lng": 2.19,
+  "metodo": null,
+  "dist_via_m": 335,
+  "pk_cercano": 4.8,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.43611322,
+   2.19372554
+  ],
+  "codtramo_cercano": "022700010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-7-2002",
+  "titulo": "IF121008240209CIAF",
+  "provincia": "Asturias",
+  "pk": null,
+  "linea": null,
+  "lat": 43.4861,
+  "lng": -6.112,
+  "metodo": null,
+  "dist_via_m": 496,
+  "pk_cercano": 269.9,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.48653576,
+   -6.10589045
+  ],
+  "codtramo_cercano": "087620010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-7-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0007/2009 OCURRIDO EL DÍ",
+  "provincia": "Vizcaya",
+  "pk": "631+562",
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.2167,
+  "lng": -3.0667,
+  "metodo": null,
+  "dist_via_m": 1538,
+  "pk_cercano": 628.7,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.20487084,
+   -3.07649082
+  ],
+  "codtramo_cercano": "087800080",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-7-2011",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0007/2011 OCURRIDO EL DÍA 04.01.2011 EN ZA",
+  "provincia": "Zaragoza",
+  "pk": "305+740",
+  "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias",
+  "lat": 41.66883892,
+  "lng": -0.92945469,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 304.9,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.66883892,
+   -0.92945469
+  ],
+  "codtramo_cercano": "120600010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-7-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 07/2012 OCURRIDO EL DÍA 19.01.2012 ENTRE L",
+  "provincia": "Barcelona",
+  "pk": "109+810",
+  "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+  "lat": 41.4309797,
+  "lng": 2.1831056,
+  "metodo": null,
+  "dist_via_m": 367,
+  "pk_cercano": 361.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.42790141,
+   2.18469033
+  ],
+  "codtramo_cercano": "022200090",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-7-2017",
+  "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 007/2017 OCURRIDO EL DÍA 15.01.",
+  "provincia": "Sevilla",
+  "pk": "27+019",
+  "linea": "422 Bifurcación de Utrera a Fuente de Piedra",
+  "lat": 37.26823307,
+  "lng": -5.54850487,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 27,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.26823307,
+   -5.54850487
+  ],
+  "codtramo_cercano": "044220020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-70-2008",
+  "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0070/2008 ocurrido el dí",
+  "provincia": "Madrid",
+  "pk": "13+171",
+  "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+  "lat": 40.329243949974995,
+  "lng": -3.771059764325,
+  "metodo": null,
+  "dist_via_m": 33,
+  "pk_cercano": 13.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.32899721,
+   -3.77126752
+  ],
+  "codtramo_cercano": "055000040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-70-2022",
+  "titulo": "IF 70/2022 — Incidente operacional con riesgo de colisión ocurrido el 15 de",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 41.7257,
+  "lng": 1.8269,
+  "metodo": null,
+  "dist_via_m": 607,
+  "pk_cercano": 301.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.72026002,
+   1.82645241
+  ],
+  "codtramo_cercano": "022200050",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-71-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0071/2008 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "48,524",
+  "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+  "lat": 41.57806378295701,
+  "lng": 2.5505530272261683,
+  "metodo": null,
+  "dist_via_m": 110,
+  "pk_cercano": 38,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.57750209,
+   2.54946552
+  ],
+  "codtramo_cercano": "022760120",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-71-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 71/2012 OCURRIDO EL DÍA 29.10.2012 ENTRE L",
+  "provincia": "Ciudad Real",
+  "pk": "257+758",
+  "linea": "522 Manzanares - Ciudad Real",
+  "lat": 38.96724227107772,
+  "lng": -3.8773295300829016,
+  "metodo": null,
+  "dist_via_m": 325,
+  "pk_cercano": 258.1,
+  "provincia_ine": "Ciudad Real",
+  "coord_pkcercano": [
+   38.96784255,
+   -3.88100069
+  ],
+  "codtramo_cercano": "045220020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-71-2021",
+  "titulo": "IF 71/2021 — Descarrilamiento ocurrido el 6 de septiembre de 2021 en la",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 41.2,
+  "lng": 1.6,
+  "metodo": null,
+  "dist_via_m": 1004,
+  "pk_cercano": 624,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.1914455,
+   1.59621559
+  ],
+  "codtramo_cercano": "022000480",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-72-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0072/2008 OCURRIDO EL DÍ",
+  "provincia": "Álava",
+  "pk": "494+315",
+  "linea": "100 Hendaya - Madrid",
+  "lat": 42.84119566794792,
+  "lng": -2.6567569552916668,
+  "metodo": null,
+  "dist_via_m": 318,
+  "pk_cercano": 493.4,
+  "provincia_ine": "Álava",
+  "coord_pkcercano": [
+   42.8405309,
+   -2.66055155
+  ],
+  "codtramo_cercano": "011000340",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-74-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0074/2008 OCURRIDO EL DÍ",
+  "provincia": "Tarragona",
+  "pk": "P.K. 263,208",
+  "linea": "600 Valencia Nord - Sant Vicent de Calders",
+  "lat": 41.0768,
+  "lng": 1.144,
+  "metodo": null,
+  "dist_via_m": 1312,
+  "pk_cercano": 265.6,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.08850062,
+   1.14587335
+  ],
+  "codtramo_cercano": "026300010",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-74-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0074/2012 OCURRIDO EL DÍA 06.12.2012 EN LA",
+  "provincia": "Asturias",
+  "pk": "PK 49+700",
+  "linea": "61 Gijón - Laviana",
+  "lat": 43.25080614,
+  "lng": -5.5648419,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 49.7,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.25080614,
+   -5.5648419
+  ],
+  "codtramo_cercano": "087520075",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-76-2012",
+  "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0076/2012 OCURRIDO EL DÍA 21.12.2012 EN LA",
+  "provincia": "Valencia",
+  "pk": "PK 2+000",
+  "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+  "lat": 39.448538382,
+  "lng": -0.38271832,
+  "metodo": null,
+  "dist_via_m": 128,
+  "pk_cercano": 2.1,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.44740874,
+   -0.3829797
+  ],
+  "codtramo_cercano": "130440010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-77-2012",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0077/2012 OCURRIDO EL DÍA 24.12.2012 EN LA",
+  "provincia": "Álava",
+  "pk": "194+047",
+  "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+  "lat": 43.02440693460036,
+  "lng": -2.9820087451488333,
+  "metodo": null,
+  "dist_via_m": 42,
+  "pk_cercano": 195,
+  "provincia_ine": "Álava",
+  "coord_pkcercano": [
+   43.02402838,
+   -2.98195366
+  ],
+  "codtramo_cercano": "017000120",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-8-2010",
+  "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0008/2010 OCURRIDO EL DÍA 11.02.2010 EN PI",
+  "provincia": "Madrid",
+  "pk": "P.K. 20+658",
+  "linea": "100 Madrid - Hendaya",
+  "lat": 40.51478497064,
+  "lng": -3.8778012144800003,
+  "metodo": null,
+  "dist_via_m": 87,
+  "pk_cercano": 20.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.51409555,
+   -3.8773228
+  ],
+  "codtramo_cercano": "011000040",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-8-2021",
+  "titulo": "IF 08/2021 — Incidente operacional ocurrido en el apeadero de L’Énova-",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": null,
+  "lat": 41.3632,
+  "lng": 2.0083,
+  "metodo": null,
+  "dist_via_m": 2205,
+  "pk_cercano": 604.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.37579997,
+   2.02867193
+  ],
+  "codtramo_cercano": "120500210",
+  "veredicto": "mal",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-CIAF-9-2008",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0009/2008 OCURRIDO EL DÍ",
+  "provincia": "Barcelona",
+  "pk": "P.K. 88,906",
+  "linea": "240 Barcelona - San Vicente de Calders",
+  "lat": 41.38696604629091,
+  "lng": 2.043226305521212,
+  "metodo": null,
+  "dist_via_m": 174,
+  "pk_cercano": 88.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38826565,
+   2.04207467
+  ],
+  "codtramo_cercano": "022400130",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-9-2009",
+  "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0009/2009 OCURRIDO EL DÍ",
+  "provincia": "Asturias",
+  "pk": "P.K. 340,807",
+  "linea": "21 Oviedo-Santander",
+  "lat": 43.2,
+  "lng": -5.6167,
+  "metodo": null,
+  "dist_via_m": 4288,
+  "pk_cercano": 40.2,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.16298063,
+   -5.63128607
+  ],
+  "codtramo_cercano": "087640070",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-CIAF-9-2021",
+  "titulo": "IF 09/2021 — Incidente operacional",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null,
+  "lat": 41.6778,
+  "lng": 2.792,
+  "metodo": null,
+  "dist_via_m": 1969,
+  "pk_cercano": 60.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.6734807,
+   2.76904036
+  ],
+  "codtramo_cercano": "022760100",
+  "veredicto": "duda",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-010207-200607-DGF",
+  "titulo": "Arrollamiento de una persona por un tren en el paso entre andenes de la estación de Beasaí",
+  "provincia": "Guipúzcoa",
+  "pk": "581+060",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 43.04601475,
+  "lng": -2.2000157,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 580.5,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.04601475,
+   -2.2000157
+  ],
+  "codtramo_cercano": "011000410",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-010307-140907-DGF",
+  "titulo": "Arrollamiento de persona por tren de Media Distancia entre Valchillón y Córdoba El Higueró",
+  "provincia": "Córdoba",
+  "pk": "5/350",
+  "linea": "Línea 430 Bifurcación Córdoba El Higuerón a Málaga",
+  "lat": 37.8845813,
+  "lng": -4.7760138,
+  "metodo": null,
+  "dist_via_m": 1016,
+  "pk_cercano": 342.7,
+  "provincia_ine": "Córdoba",
+  "coord_pkcercano": [
+   37.89319242,
+   -4.77984187
+  ],
+  "codtramo_cercano": "140100140",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-011206-130407",
+  "titulo": "Arrollamiento de dos personas por un tren de mercancías entre Fuencarral y Pitis, Madrid",
+  "provincia": "Madrid",
+  "pk": "11,907",
+  "linea": "Hortaleza Bifurcación-Pitis",
+  "lat": 40.416782,
+  "lng": -3.703507,
+  "metodo": null,
+  "dist_via_m": 287,
+  "pk_cercano": 1.5,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.41420678,
+   -3.70353919
+  ],
+  "codtramo_cercano": "033000010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-030307-190707-DGF",
+  "titulo": "Arrollamiento de dos personas por tren de mercancías en la estación de Viella, Asturias",
+  "provincia": "Asturias",
+  "pk": "7,755",
+  "linea": "Línea 154 Tudela Veguín-Lugo de Llanera",
+  "lat": 43.4073407,
+  "lng": -5.7877722,
+  "metodo": null,
+  "dist_via_m": 385,
+  "pk_cercano": 9.4,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.40582053,
+   -5.79204711
+  ],
+  "codtramo_cercano": "061540030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-050207-200607-DGF",
+  "titulo": "Arrollamiento de una persona en paso a nivel de Veguellina de Orbigo, León",
+  "provincia": "León",
+  "pk": "157,671",
+  "linea": "800 León-La Coruña SD",
+  "lat": 42.4233559270358,
+  "lng": -5.905043495126491,
+  "metodo": null,
+  "dist_via_m": 204,
+  "pk_cercano": 159.5,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.42448783,
+   -5.90308505
+  ],
+  "codtramo_cercano": "068000050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-050906-020207",
+  "titulo": "Arrollamiento de una persona por un tren en la línea Santander-Palencia (Cantabria), pk 45",
+  "provincia": "Cantabria",
+  "pk": "459/200",
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": 43.1595664,
+  "lng": -4.0878382,
+  "metodo": null,
+  "dist_via_m": 3308,
+  "pk_cercano": 455.4,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.14014061,
+   -4.05701521
+  ],
+  "codtramo_cercano": "061600050",
+  "veredicto": "mal",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-051006-020307",
+  "titulo": "Arrollamiento de una persona por un tren de mercancías en la estación de El Vendrell, Tarr",
+  "provincia": "Tarragona",
+  "pk": "28,570",
+  "linea": "Barcelona Sants-Sant Vicent de Calders",
+  "lat": 41.21680588,
+  "lng": 1.53601482,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 28.1,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.21680588,
+   1.53601482
+  ],
+  "codtramo_cercano": "022400010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-060207-200607-DGF",
+  "titulo": "Arrollamiento de una persona por tren en paso vicioso junto a la estación de Catarroja, Va",
+  "provincia": "Valencia",
+  "pk": "106,066",
+  "linea": "La Encina - Valencia",
+  "lat": 39.40470959,
+  "lng": -0.39707631,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 105.6,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.40470959,
+   -0.39707631
+  ],
+  "codtramo_cercano": "033000280",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-060407-190707-DGF",
+  "titulo": "Arrollamiento mortal de un viajero en la estación de Villalba de Guadarrama (Madrid)",
+  "provincia": "Madrid",
+  "pk": "37/893",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 40.6263825,
+  "lng": -4.0081534,
+  "metodo": null,
+  "dist_via_m": 9,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.62630132,
+   -4.00812122
+  ],
+  "codtramo_cercano": "011100010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-060507-190707-DGF",
+  "titulo": "Arrollamiento mortal de una persona en paso vicioso entre Vilanova La Geltrú y Cunit, Barc",
+  "provincia": "Barcelona",
+  "pk": "632,800",
+  "linea": "Línea 200 Madrid-Barcelona",
+  "lat": 41.3825802,
+  "lng": 2.177073,
+  "metodo": null,
+  "dist_via_m": 728,
+  "pk_cercano": 685.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38422082,
+   2.1855107
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "duda",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-070207-200607-DGF",
+  "titulo": "Arrollamiento de persona por tren Altaria entre San Cristóbal de los Ángeles y San Cristób",
+  "provincia": "Madrid",
+  "pk": "9,670",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord (vía G3)",
+  "lat": 40.416782,
+  "lng": -3.703507,
+  "metodo": null,
+  "dist_via_m": 287,
+  "pk_cercano": 1.5,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.41420678,
+   -3.70353919
+  ],
+  "codtramo_cercano": "033000010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-070406-020207",
+  "titulo": "Arrollamiento mortal de un joven por tren LD en Villena (Alicante)",
+  "provincia": "Alicante",
+  "pk": "395,415",
+  "linea": "Madrid-Alicante",
+  "lat": 38.63981209,
+  "lng": -0.8728919,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 395.1,
+  "provincia_ine": "Alicante",
+  "coord_pkcercano": [
+   38.63981209,
+   -0.8728919
+  ],
+  "codtramo_cercano": "033300020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-071006-130407",
+  "titulo": "Arrollamiento de una persona en el apeadero de Sant Ildefons de Cornellá (Barcelona), líne",
+  "provincia": "Barcelona",
+  "pk": "93,900",
+  "linea": "Línea 240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+  "lat": 42.10901436,
+  "lng": 2.214335,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 94,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.10901436,
+   2.214335
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-071106-130407",
+  "titulo": "Arrollamiento mortal de una mujer por tren de Media Distancia en la estación de Teruel",
+  "provincia": "Teruel",
+  "pk": "131,700",
+  "linea": "Caminreal-Sagunto",
+  "lat": 40.34275013,
+  "lng": -1.1108045,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 132,
+  "provincia_ine": "Teruel",
+  "coord_pkcercano": [
+   40.34275013,
+   -1.1108045
+  ],
+  "codtramo_cercano": "026100080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-081006-020307",
+  "titulo": "Arrollamiento de una persona por tren en la línea Madrid-Barcelona, entre Cunit y Sant Vic",
+  "provincia": "Barcelona",
+  "pk": "625,120",
+  "linea": "Madrid-Barcelona",
+  "lat": 41.40307374,
+  "lng": 2.17486274,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 625,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.40307374,
+   2.17486274
+  ],
+  "codtramo_cercano": "120500225",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-090606-020207",
+  "titulo": "Arrollamiento de dos personas por tren Alaris en plena vía entre San Cristóbal de Los Ange",
+  "provincia": "Madrid",
+  "pk": "9,550",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "lat": 40.54524543,
+  "lng": -3.70779206,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 9.5,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.54524543,
+   -3.70779206
+  ],
+  "codtramo_cercano": "110800020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-101106-180507-DGF",
+  "titulo": "Arrollamiento de una máquina de obra y fallecimiento del piloto de seguridad en la línea 2",
+  "provincia": "Barcelona",
+  "pk": "231,500",
+  "linea": "Línea 270 Barcelona-Portbou",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-ID-111106-130407",
+  "titulo": "Arrollamiento de una persona por tren de mercancías entre Rubí y San Cugat del Vallés (Bar",
+  "provincia": "Barcelona",
+  "pk": "10,450",
+  "linea": "Línea 246 Castellbisball-Mollet Sant Fost",
+  "lat": 41.37955027,
+  "lng": 2.02640032,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 10.2,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.37955027,
+   2.02640032
+  ],
+  "codtramo_cercano": "022380020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-111206-130407",
+  "titulo": "Arrollamiento mortal de una persona en la estación de Vilanova i la Geltrú, línea Madrid-B",
+  "provincia": "Barcelona",
+  "pk": "636,000",
+  "linea": "Madrid-Barcelona",
+  "lat": 41.21993496,
+  "lng": 1.73090962,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 636,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.21993496,
+   1.73090962
+  ],
+  "codtramo_cercano": "022000500",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-120506-020207",
+  "titulo": "Arrollamiento de una persona por un tren en paso a nivel de Renedo, Cantabria, línea Santa",
+  "provincia": "Cantabria",
+  "pk": "494,174",
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-ID-130207-190707-DGF",
+  "titulo": "Arrollamiento mortal de un peatón por tren Altaria en la línea La Encina-Alicante, pk 394,",
+  "provincia": "Alicante",
+  "pk": "394,075",
+  "linea": "La Encina-Alicante",
+  "lat": 38.64777251,
+  "lng": -0.87813764,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 394.1,
+  "provincia_ine": "Alicante",
+  "coord_pkcercano": [
+   38.64777251,
+   -0.87813764
+  ],
+  "codtramo_cercano": "033300020",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-151006-020307-SALOU_Valencia to Barcelona",
+  "titulo": "Arrollamiento de un ciclomotor con dos ocupantes en paso a nivel de Salou (Tarragona)",
+  "provincia": "Tarragona",
+  "pk": "262,561",
+  "linea": "Valencia-Tarragona",
+  "lat": 42.17249001,
+  "lng": -4.06968939,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 262.6,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   42.17249001,
+   -4.06968939
+  ],
+  "codtramo_cercano": "110800150",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-151006-020307-STACRUZ",
+  "titulo": "Arrollamiento mortal de una persona por un tren de viajeros en la estación de Santa Cruz d",
+  "provincia": "Ciudad Real",
+  "pk": "239,544",
+  "linea": "Alcázar de San Juan-Cádiz",
+  "lat": 42.28876862,
+  "lng": -7.85519245,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 239.5,
+  "provincia_ine": "Ourense",
+  "coord_pkcercano": [
+   42.28876862,
+   -7.85519245
+  ],
+  "codtramo_cercano": "068220060",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-151006-150107-SFELIU_ES-24",
+  "titulo": "Arrollamiento mortal de peatón en paso a nivel de San Feliu de Llobregat (Barcelona)",
+  "provincia": "Barcelona",
+  "pk": "88,906",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia",
+  "lat": 42.07428804,
+  "lng": 2.2449246,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 89,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.07428804,
+   2.2449246
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-151106-130407",
+  "titulo": "Arrollamiento de un vehículo por un tren de Cercanías en paso a nivel entre Cullera y Tave",
+  "provincia": "Valencia",
+  "pk": "28,363",
+  "linea": "Silla-Gandía",
+  "lat": 41.78044188,
+  "lng": -1.15269505,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 28.4,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.78044188,
+   -1.15269505
+  ],
+  "codtramo_cercano": "017000010",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-160506-020307",
+  "titulo": "Arrollamiento de una persona en el paso a nivel de la estación de Villarreal (Castellón)",
+  "provincia": "Castellón",
+  "pk": "62,363",
+  "linea": "Línea 600 Valencia-Tarragona",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-ID-160906-020207",
+  "titulo": "Arrollamiento de operario y retroexcavadora por tren de mercancías en Montcada i Reixach-S",
+  "provincia": "Barcelona",
+  "pk": "353,200",
+  "linea": "Línea 220 Lérida-Barcelona",
+  "lat": 41.48112048,
+  "lng": 2.16554242,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 353.2,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.48112048,
+   2.16554242
+  ],
+  "codtramo_cercano": "022200080",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-170107-200607-DGF",
+  "titulo": "Arrollamiento de una persona en el paso entarimado de la estación de Sigüenza (Guadalajara",
+  "provincia": "Guadalajara",
+  "pk": "139,840",
+  "linea": "Madrid-Barcelona",
+  "lat": 39.94283508,
+  "lng": -4.88676355,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 140.2,
+  "provincia_ine": "Toledo",
+  "coord_pkcercano": [
+   39.94283508,
+   -4.88676355
+  ],
+  "codtramo_cercano": "055000115",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-170506-020207",
+  "titulo": "Arrollamiento mortal de un joven por tren de Cercanías en Lorca San Diego (Murcia)",
+  "provincia": "Murcia",
+  "pk": "0,385",
+  "linea": "Línea 322 Murcia Cargas-Águilas",
+  "lat": 37.61337533,
+  "lng": -0.96421996,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 0.6,
+  "provincia_ine": "Murcia",
+  "coord_pkcercano": [
+   37.61337533,
+   -0.96421996
+  ],
+  "codtramo_cercano": "033240010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-180107-200607-DGF",
+  "titulo": "Arrollamiento mortal de un peatón en paso a nivel de Sant Feliu de Llobregat (Barcelona)",
+  "provincia": "Barcelona",
+  "pk": "88,906",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia",
+  "lat": 42.07428804,
+  "lng": 2.2449246,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 89,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.07428804,
+   2.2449246
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-180307-200607-DGF",
+  "titulo": "Arrollamiento mortal de una persona por tren LD 311 entre Hernani Centro y Hernani, línea ",
+  "provincia": "Guipúzcoa",
+  "pk": "615/644",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-ID-180406-020207",
+  "titulo": "Arrollamiento de persona por tren entre San Cristóbal de los Ángeles y San Cristóbal Indus",
+  "provincia": "Madrid",
+  "pk": "9,900",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "lat": 40.44683235,
+  "lng": -3.60163633,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 9.8,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.44683235,
+   -3.60163633
+  ],
+  "codtramo_cercano": "022000030",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-191006-020307",
+  "titulo": "Arrollamiento de un vehículo por tren en paso a nivel entre Briviesca y Calzada de Bureba ",
+  "provincia": "Burgos",
+  "pk": "420,623",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 42.57549614,
+  "lng": -3.30160407,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 420.7,
+  "provincia_ine": "Burgos",
+  "coord_pkcercano": [
+   42.57549614,
+   -3.30160407
+  ],
+  "codtramo_cercano": "011000280",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-210406-020307",
+  "titulo": "Arrollamiento de persona en el apeadero de Grijota (Palencia) por tren de Larga Distancia",
+  "provincia": "Palencia",
+  "pk": "5,800",
+  "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+  "lat": 43.20389671,
+  "lng": -3.16290411,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 5.8,
+  "provincia_ine": "Vizcaya",
+  "coord_pkcercano": [
+   43.20389671,
+   -3.16290411
+  ],
+  "codtramo_cercano": "087900110",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-210806-131106-PLG (003)",
+  "titulo": "Descarrilamiento del tren LD 280 en la estación de Villada al pasar por el escape 2/4",
+  "provincia": null,
+  "pk": "46/200",
+  "linea": null,
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
+ },
+ {
+  "id": "ES-ID-211106-020307",
+  "titulo": "Arrollamiento de vehículo en paso a nivel de La Selva del Camp (Tarragona)",
+  "provincia": "Tarragona",
+  "pk": "77,930",
+  "linea": "Lérida-Tarragona",
+  "lat": 41.8867058,
+  "lng": -0.29128504,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 77.9,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   41.8867058,
+   -0.29128504
+  ],
+  "codtramo_cercano": "022000350",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-220906-020207",
+  "titulo": "Arrollamiento mortal de una persona en la estación de Meirama (La Coruña)",
+  "provincia": "La Coruña",
+  "pk": "430,433",
+  "linea": "Zamora-La Coruña",
+  "lat": 41.21244242,
+  "lng": -0.28963806,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 430.4,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.21244242,
+   -0.28963806
+  ],
+  "codtramo_cercano": "022100080",
+  "veredicto": "bien",
+  "provincia_ok": false
+ },
+ {
+  "id": "ES-ID-230207-200607-DGF",
+  "titulo": "Arrollamiento de una persona por tren de Cercanías a la entrada de la estación de Madrid-A",
+  "provincia": "Madrid",
+  "pk": "0,619",
+  "linea": "Línea 920 Móstoles El Soto-Parla",
+  "lat": 40.4094837,
+  "lng": -3.69318758,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 0.5,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.4094837,
+   -3.69318758
+  ],
+  "codtramo_cercano": "033000010",
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
+  "id": "ES-ID-230606-020207",
+  "titulo": "Arrollamiento de una persona por tren de Cercanías en Cornellá (Barcelona)",
+  "provincia": "Barcelona",
+  "pk": "92,700",
+  "linea": "Tarragona-Barcelona-Francia",
+  "lat": 42.10111883,
+  "lng": 2.21958301,
+  "metodo": null,
+  "dist_via_m": 0,
+  "pk_cercano": 93,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.10111883,
+   2.21958301
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": true
+ }
+]

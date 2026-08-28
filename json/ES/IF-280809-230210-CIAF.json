@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-280809-230210-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-280809-230210-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-807",
+ "expediente": "0046/2009",
+ "titulo": "Descarrilamiento del tren 18160 de Renfe Operadora en la estación de El Rebollar (Valencia)",
+ "fecha_suceso": "2009-08-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "El Rebollar",
+  "provincia": "Valencia",
+  "pk": "22+600",
+  "linea": "310 Aranjuez/Valencia-Estación del Nord, tramo Utiel-Buñol"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 28 de agosto de 2009, a las 13:33 horas, el tren de media distancia 18160 de Renfe Operadora descarriló en la estación de El Rebollar (Valencia). El accidente se produjo al accionar la responsable de circulación la aguja nº 2 cuando el último coche del tren se encontraba sobre ella, durante una entrada de vía 1 a vía 2 para un cruce con el tren 14501. La velocidad del tren era de 26 km/h, inferior a la permitida, y no se registraron heridos.",
+ "causa_directa": "El accionamiento indebido de la aguja nº 2 por la responsable de circulación cuando el último coche del tren 18160 se encontraba sobre ella, en incumplimiento de los artículos 268 y 311 del RGC.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Adif: en la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Two bogies of passenger train 18160 were derailed as the point nº2 of the junction was changed by the train dispatcher before the whole train had passed.",
+  "Location name": "El Rebollar station (Valencia), kilometre point 22,600, 310 Aranjuez-Valencia railway station.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF"
+ }
+}

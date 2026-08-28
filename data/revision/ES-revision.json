@@ -1,0 +1,39 @@
+[
+ {
+  "id": "ES-190628-120817-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente por fallo de enclavamiento y aguja 17 en la estación de Puebla de Sanabria (Zamora)' -> 'INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0038/2017 OCURRIDO EL DÍA 12.08.2017 EN LA ESTACIÓN DE PUEBLA DE SANABRIA (ZAMORA)'",
+   "fecha: None -> '2017-08-12'",
+   "provincia: None -> 'Zamora'",
+   "estacion: None -> 'Puebla de Sanabria'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-191217-230317-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-03-23'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Madrid Chamartín'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-191217-280717-if-sn_ciaf",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-07-28'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'França'",
+   "tipo: None -> 'Colisión contra topera'"
+  ]
+ }
+]

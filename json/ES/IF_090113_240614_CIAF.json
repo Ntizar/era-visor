@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_090113_240614_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_090113_240614_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0800",
+ "expediente": "0001/2013",
+ "titulo": "Descarrilamiento del tren 13096 en la estación de Villafranca de Córdoba por fallo técnico en cambio nº 2",
+ "fecha_suceso": "2013-01-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Villafranca de Córdoba",
+  "provincia": "Córdoba",
+  "pk": "415+648",
+  "linea": "400 Alcázar de San Juan - Cádiz"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 9 de enero de 2013, el tren de media distancia 13096 de Renfe Operadora descarriló parcialmente al entrar en la estación de Villafranca de Córdoba. El suceso ocurrió tras autorizar el rebase de una señal con marcha de maniobras debido a un fallo en la comprobación del cambio nº 2. La rotura de un pasador interno provocó que la aguja no estuviera correctamente encerrojada, abriéndose al paso del primer bogie y descarrilando el segundo. No hubo daños personales.",
+ "causa_directa": "Fallo técnico de las instalaciones debido a la desconexión de la barra de mando del accionamiento eléctrico de agujas con el tirante de maniobra del cambio nº 2, causada por la rotura del pasador de sujeción del bulón de acople.",
+ "causas_sistemicas": "La operación de mantenimiento preventivo consistía únicamente en una inspección visual del pasador, sin extraerlo de su alojamiento para comprobar su estado mecánico y de oxidación, lo que impidió detectar el deterioro previo a la rotura.",
+ "recomendaciones": [
+  "Incluir en las operaciones de mantenimiento de los cerrojos de uña (documento PEIS002F01.R06) una operación complementaria a la inspección visual que consista en sacar los pasadores de su alojamiento para comprobar su estado mecánico y de oxidación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Derailment of second bogie of passenger train at Villafranca de Córdoba station (Córdoba) when train went through switch nº2 (PK 415+648).",
+  "Location name": "Villafranca de Córdoba station (Córdoba)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a technical failure of the points, due to the disconnection of the point switch bar by the breakage of the point stretcher´s pin. This caused the switch tongue (right side in the direction of travel) was coupled but not locked and, when the first bogie passed through,it opened making the second bogie to derail."
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "id": "ES-ES 17.04.2016 171017-160417-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 17.04.2016 171017-160417-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0021/2016",
+ "titulo": "Fallo de circuito de vía que permitió itinerario sobre vía ocupada en Hernani (Guipúzcoa)",
+ "fecha_suceso": "2016-04-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Hernani",
+  "provincia": "Guipúzcoa",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 17 de abril de 2016 se produjo un accidente ferroviario en la estación de Hernani (Guipúzcoa). El tren de mercancías 82692 quedó estacionado en la vía 4, con el último vagón rebasando el piquete de las vías 2-4. El circuito de vía CVA4 no detectó la ocupación debido a la oxidación de los carriles, por lo que el enclavamiento permitió establecer un nuevo itinerario sobre una vía ocupada. El jefe del CTC no comprobó la longitud de la vía ni la liberación fehaciente del circuito, como exige el artículo 315 del RGC.",
+ "causa_directa": "El accidente se produjo por fallo del circuito de vía CVA4, que no detectó la presencia del último vagón del tren 82692, lo que permitió al enclavamiento establecer un itinerario sobre una vía ocupada. Como factor coadyuvante, el jefe del CTC no comprobó la longitud de la vía ni la liberación fehaciente del circuito.",
+ "causas_sistemicas": "Fuerte oxidación en los carriles de una vía poco utilizada, falta de limpieza y atención especial, verificación incompleta del circuito CVA4 en revisiones de mantenimiento, ausencia de inspección del exceso de óxido en el procedimiento de vigilancia de la infraestructura y falta de un procedimiento específico de vigilancia y mantenimiento de circuitos de vía.",
+ "recomendaciones": [
+  "AESF/Adif: En los cursos de reciclaje del personal de circulación, insistir en verificar de forma fehaciente la liberación de circuitos en vías poco utilizadas y en comprobar la longitud de vías de estacionamiento frente a la del tren.",
+  "AESF/Adif: Establecer un plan de inspección del óxido en desvíos de acceso desde vía general a desviadas, comprobando el correcto shuntado y limpiando cuando sea necesario.",
+  "AESF/Adif: Incluir en el procedimiento SGSC-PO-24.00.08 la revisión del exceso de óxido en la vía, especialmente en desvíos, para evitar defectos de shuntado.",
+  "AESF/Adif: Incluir en el SGS de Adif un procedimiento de vigilancia y mantenimiento de circuitos de vía que detecte problemas de shuntado en libre y ocupado."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "oxidación excesiva en carriles vía poco usada",
+  "falta de limpieza previa del circuito de vía",
+  "no verificación completa en revisión mantenimiento"
+ ],
+ "mitigaciones": [
+  "implementación cordón soldadura acero inoxidable",
+  "protocolo operativo vías apartado Subdirección Norte",
+  "identificación y registro uso vías no frecuentes"
+ ],
+ "factores_humanos": [
+  "omisión inspección estado superficie carril",
+  "procedimiento SGSC sin referencia óxido",
+  "falta procedimiento vigilancia circuitos vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

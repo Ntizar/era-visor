@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-300511-270312-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300511-270312-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1149",
+ "expediente": "0024/2011",
+ "titulo": "Descarrilamiento del tren 8476 de Renfe Operadora en la entrada de la estación de Calatayud (Zaragoza)",
+ "fecha_suceso": "2011-05-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Calatayud",
+  "provincia": "Zaragoza",
+  "pk": "224+556",
+  "linea": "50 Madrid Puerta de Atocha a Límite Adif-TP Ferro"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 30 de mayo de 2011, a las 07:20 horas, el tren de viajeros 8476 de Renfe Operadora descarriló al entrar en la estación de Calatayud, en el PK 224+556 de la línea 50 Madrid Puerta de Atocha a Límite Adif-TP Ferro. El descarrilamiento se produjo en el corazón del desvío S1 CAL 2, que no daba comprobación por un fallo técnico. El jefe de circulación autorizó el rebase de la señal de entrada con marcha a la vista y reconocimiento del desvío, y el tren pasó por el corazón a 27 km/h. No hubo víctimas personales y la circulación quedó inicialmente interceptada por ambas vías.",
+ "causa_directa": "El accidente tuvo su origen en un fallo técnico de las instalaciones, al no funcionar adecuadamente el desvío S1 CAL 2, motivado por causas mecánicas en el motor 1 del corazón del desvío.",
+ "causas_sistemicas": "Falta de pautas claras y adaptadas a alta velocidad para autorizar rebases de señal con comprobación de aparatos de vía; formación sobre desvíos de alta velocidad; gestión de la avería con autorización de paso sin comprobación y posibles dificultades de visibilidad por precipitaciones.",
+ "recomendaciones": [
+  "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad).",
+  "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Medium distance train partially derailed (first coach) when passing point S1 CAL 2.",
+  "Location name": "Calatayud (Zaragoza) station; 200 Madrid-Barcelona railway line; kilometre point 224,556",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failure of the installations due to the malfunction of point S1 CAL 2"
+ }
+}

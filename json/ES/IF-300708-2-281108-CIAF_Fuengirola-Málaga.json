@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-300708-2-281108-CIAF_Fuengirola-Málaga",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300708-2-281108-CIAF_Fuengirola-Málaga.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-581",
+ "expediente": "0032/2008",
+ "titulo": "Arrollamiento mortal de peatón por tren de cercanías en la línea 436 Fuengirola-Málaga, P.K. 8,870 (Málaga)",
+ "fecha_suceso": "2008-07-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Málaga",
+  "pk": "8,870",
+  "linea": "436 Fuengirola-Málaga"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 30 de julio de 2008, a las 18:05 horas, el tren de cercanías 23351 de Renfe Operadora arrolló a una persona que caminaba junto a otra por la vía en el P.K. 8,870 de la línea 436 Fuengirola-Málaga. La víctima, un varón de 65 años, falleció, mientras que la persona que lo acompañaba resultó ilesa. El tren circulaba a una velocidad inferior a la máxima permitida y el maquinista aplicó correctamente el freno de emergencia. El informe concluye que el origen fue el tránsito de la víctima por un lugar no autorizado.",
+ "causa_directa": "El tránsito de la víctima por un lugar no autorizado para ello en el momento que circulaba el tren de viajeros 23351.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man crossed the tracks through an unauthorised place while a freight train was approaching. The man was using headphones.",
+  "Location name": "100 Madrid-Hendaya railway line; at Andoaín Centro flag stop (Guipúzcoa), kilometre point 608,200",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim, who was a regular traveler, was mentally disabled."
+ }
+}

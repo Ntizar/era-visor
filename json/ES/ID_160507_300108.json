@@ -1,0 +1,73 @@
+{
+ "id": "ES-ID_160507_300108",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_160507_300108.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-236",
+ "expediente": "0032/2007",
+ "titulo": "Arrollamiento de una persona por tren de Cercanías cerca del apeadero de Castelldefels Playa (Barcelona)",
+ "fecha_suceso": "2007-05-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Castelldefels Playa",
+  "provincia": "Barcelona",
+  "pk": "656/750",
+  "linea": "Línea 200 Madrid-Barcelona"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 16 de mayo de 2007, un tren de Cercanías de Renfe Operadora arrolló a una persona en la vía 1 de la línea Madrid-Barcelona, en el punto kilométrico 656/750, cerca del apeadero de Castelldefels Playa, Barcelona. La víctima se encontraba andando junto a la vía e invadió el gálibo, pese a la frenada de emergencia y el uso del silbato. El accidente causó interrupción de la circulación durante 83 minutos y un retraso de 103 minutos al tren implicado.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que se encontraba en una zona no autorizada e invadió el gálibo de la vía al paso del tren.",
+ "causas_sistemicas": "Poca visibilidad de las circulaciones en el punto del suceso y necesidad de reforzar la protección perimetral y la sensibilización de la población.",
+ "recomendaciones": [
+  "Sensibilizar a la población en el respeto de las señales y el peligro que supone cruzar las vías o transitar por ellas.",
+  "Vallar la vía en los puntos más conflictivos de la línea."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person walking alongside the rail is hit by a commuter train.",
+  "Location name": "At kilometre point 656+750 in the vicinity of Castelldefels (Barcelona) Railway from Madrid to Barcelona (200 Madrid-Barcelona railway line)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Victim´s carelessness"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Cercanías",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Persona camina junto a vía",
+  "Invasión del gálibo por persona",
+  "Poca visibilidad cerca de apeadero"
+ ],
+ "mitigaciones": [
+  "Frenada de emergencia",
+  "Uso del silbato",
+  "Velocidad por debajo máxima",
+  "Equipos de seguridad correctos"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Jornada de conducción verificada",
+  "Prueba alcohol y drogas negativa",
+  "Falta de sensibilización ciudadana"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

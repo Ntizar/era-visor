@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-231008-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-231008-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-670",
+ "expediente": "0053/2008",
+ "titulo": "Rebase de señal de entrada en la estación de Villalba de Guadarrama por locomotora en prácticas",
+ "fecha_suceso": "2008-10-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Villalba de Guadarrama",
+  "provincia": "Madrid",
+  "pk": "38,748",
+  "linea": "Línea 100 Madrid - Hendaya, tramo Villalba de Guadarrama - El Escorial"
+ },
+ "entidades": [
+  "COMSA Rail Transport",
+  "Adif"
+ ],
+ "resumen": "El 23 de octubre de 2008, el tren 87018 (locomotora aislada 312302) de COMSA Rail Transport, dedicado a prácticas de habilitación, rebasó la señal de entrada E2 de la estación de Villalba de Guadarrama en indicación de parada. El frenado no redujo suficientemente la velocidad y, al pasar por la baliza previa con exceso de velocidad, el ASFA activó un frenado de emergencia. Aun así, la detención se produjo unos 50 metros después de la señal. No hubo alcance a otro tren ni talonamiento de agujas.",
+ "causa_directa": "El incidente se produjo por un frenado insuficiente que no redujo la velocidad de forma adecuada, provocando el paso por la baliza previa a velocidad excesiva y el rebase de la señal pese al frenado de emergencia del ASFA.",
+ "causas_sistemicas": "Deficiencias en el mantenimiento del material rodante, con intervención IS fuera de programación y sin CN entre IB e IS, además de zapatas en mal estado detectadas posteriormente; también se apunta a la necesidad de reforzar la formación en condiciones adversas de frenado.",
+ "recomendaciones": [
+  "Comsa Rail Transport: garantizar que todos los vehículos puestos en circulación respeten la programación del plan de mantenimiento.",
+  "Adif: realizar una campaña específica de inspecciones para analizar el grado de cumplimiento de los planes de mantenimiento del material rodante.",
+  "Centro de mantenimiento ERION: garantizar que en sus intervenciones de mantenimiento se cumplan las consistencias establecidas en los planes de mantenimiento.",
+  "Comsa Rail Transport: reforzar las prácticas de conducción en condiciones adversas de frenado y adaptarlas más a las condiciones reales."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A freight train failed to stop at the station signal, after it had passed at the station advance signal which stated a stop aspect for the upcoming signal. This incident didn´t cause any accident or damage. The train, which was used for drivers training, was stopped by ASFA system (brake system) after the train driver (on training) failed to use the brake properly.",
+  "Location name": "Villalba de Guadarrama (Madrid) station, at kilometre point 38,748, on 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "COMSA RAIL TRANSPORT",
+  "IM involved": "ADIF"
+ }
+}

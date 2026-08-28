@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-100710-290311-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-100710-290311-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-990",
+ "expediente": "0036/2010",
+ "titulo": "Descarrilamiento del tren 436 de Renfe Operadora entre Ugao-Miraballes y Llodio (Álava)",
+ "fecha_suceso": "2010-07-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Ugao-Miraballes y Llodio",
+  "provincia": "Álava",
+  "pk": "230+862",
+  "linea": "700 Intermodal Abando Indalecio Prieto-Casetas"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 10 de julio de 2010, a las 15:51 horas, el tren de viajeros de larga distancia 436 de Renfe Operadora descarriló entre las estaciones de Ugao-Miraballes y Llodio (Álava). El descarrilamiento afectó a los ejes 11 y 12 del tercer coche, tras detectarse anomalías en los bogies y avisos de mantenimiento. No se produjeron heridos como consecuencia del suceso. La causa fue el decalaje de una rueda por rotura a sección completa del casquillo deslizante.",
+ "causa_directa": "El accidente tuvo su origen por el fallo técnico del material rodante, al perderse la distancia entre las caras internas de las ruedas debido al decalaje de la rueda izquierda del primer eje del segundo bogie del tercer coche del tren 436. El decalaje se produjo por la rotura a sección completa del casquillo deslizante de dicha rueda.",
+ "causas_sistemicas": "La rotura por fatiga del casquillo deslizante se inició en la zona de transición de la parte no cilíndrica y se vio favorecida por factores geométricos, principalmente un efecto concentrador de tensiones; además, se señala la necesidad de adaptar el plan de mantenimiento e inspección del parque.",
+ "recomendaciones": [
+  "Continuar con las inspecciones, cada 30.000 km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas establecidas.",
+  "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido, y acelerarlas si se detecta algún problema en las inspecciones.",
+  "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva, pasando después al mantenimiento normal que se establezca."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Axles 11 and 12 (third car) of long distance train 436 derailed while train was running between Ugao Miraballes and Llodio stations. There were no victims.",
+  "Location name": "Between Ugao Miraballes and LLodio stations (Álava), kilometre point 230,862, 700 Casetas- Intermodal Abando Indalecio Prieto railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failiure of rolling stock as the distance between the inner face of wheels was lost due to a wheel wobble of the left wheel of the first axle of the second bogie of the third car. this was caused by the breakage of the wheel´s bush."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rotura por fatiga del casquillo deslizante",
+  "Decalaje de la rueda izquierda",
+  "Pérdida distancia entre caras ruedas"
+ ],
+ "mitigaciones": [
+  "Alerta acelerómetros sistema COSMOS",
+  "Aviso interventor sobre movimiento tren",
+  "Frenado servicio inmediato maquinista"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

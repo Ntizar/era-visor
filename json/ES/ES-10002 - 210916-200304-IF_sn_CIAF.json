@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES-10002 - 210916-200304-IF_sn_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10002 - 210916-200304-IF_sn_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "19/2020",
+ "titulo": "Incidente por despacho sin bloqueo en la estación de Xeraco (Valencia)",
+ "fecha_suceso": "2020-03-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Xeraco",
+  "provincia": "Valencia",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF"
+ ],
+ "resumen": "El 4 de marzo de 2020 se produjo un incidente ferroviario en la estación de Xeraco (Valencia). El tren 24294 quedó detenido en la vía 2 por una avería en el desvío A1. El regulador desactivó el sistema automático GRP en Xeraco y Gandía Mercancías, pero no en Tavernes, que siguió bloqueando y despachando trenes automáticamente hacia Xeraco. Aun así, autorizó la salida del tren 24294 sin verificar el bloqueo del itinerario hacia Tavernes. Ambos trenes afectados se detuvieron a unos 2.500 metros, sin coincidencia en el mismo bloqueo y sin colisión.",
+ "causa_directa": "Error humano del regulador del Centro de Control al despachar el tren 24294 con autorización de paso de señal sin haber asegurado previamente el bloqueo del itinerario Xeraco-Tavernes y sin desactivar el sistema GRP en Tavernes.",
+ "causas_sistemicas": "La avería del desvío A1 en Xeraco generó una situación degradada. La normativa AOI 28/17 sobre el sistema GRP era ambigua al no exigir claramente la desactivación en estaciones colaterales. También influyeron factores organizativos y de formación del regulador, que asumió que el bloqueo permanecería tras despachar otro tren.",
+ "recomendaciones": [
+  "En la formación y reciclaje de reguladores, insistir en que en líneas de vía única con bloqueo automático operativo el regulador debe asegurar previamente el bloqueo del itinerario en todo despacho con autorización de paso de señal.",
+  "Analizar restricciones técnicas para impedir que el sistema GRP despache automáticamente trenes cuando exista cualquier incidencia de seguridad en la estación de destino.",
+  "Actualizar las reglas del sistema GRP y la formación asociada, indicando expresamente que el GRP debe desactivarse en ambas estaciones, origen y destino, cuando por incidencias en instalaciones sea necesario despachar trenes autorizando el paso de señal.",
+  "En la formación de reguladores y guardagujas, insistir en que ante un riesgo inminente la actuación debe ser inmediata, usando los medios disponibles para garantizar la detención inmediata de los trenes afectados.",
+  "Ajustar las instrucciones locales de explotación de la estación de Xeraco a la norma general NAS 806 respecto a la detección de material rodante sin frenos, y ajustar igualmente las indicaciones en pantallas del Centro de Control."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Fallo aguja A1 estación Xeraco",
+  "Regulador no asegura bloqueo",
+  "No desactiva GRP Tavernes",
+  "GRP bloquea itinerario contrario"
+ ],
+ "mitigaciones": [
+  "Ordena detener ambos trenes",
+  "Trenes parados separados 2500 metros",
+  "Señal siguiente obliga parada",
+  "Desactivar GRP ambas estaciones"
+ ],
+ "factores_humanos": [
+  "Error humano regulador tráfico",
+  "No verifica bloqueo itinerario",
+  "Normativa GRP ambigua",
+  "Falta formación desactivar GRP"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

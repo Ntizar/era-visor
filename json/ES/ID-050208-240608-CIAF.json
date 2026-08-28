@@ -31,5 +31,27 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima camina por vía no autorizada",
+  "Persona camina en sentido de marcha"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por maquinista",
+  "Aplicación del freno de emergencia",
+  "Cuerpo queda fuera de la vía"
+ ],
+ "factores_humanos": [
+  "Víctima transita por lugar no habilitado",
+  "Maquinista actúa correctamente",
+  "Adif cataloga como suicidio"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

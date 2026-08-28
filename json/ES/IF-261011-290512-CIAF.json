@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-261011-290512-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-261011-290512-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1305",
+ "expediente": "0049/2011",
+ "titulo": "Descarrilamiento tras rebase de señal y conato de colisión en la estación de Sant Pol de Mar (Barcelona)",
+ "fecha_suceso": "2011-10-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Sant Pol de Mar",
+  "provincia": "Barcelona",
+  "pk": "PK 44+703",
+  "linea": "Línea 276 Bifurcación Sagrera a Maçanet-Massanes, tramo Arenys de Mar a Calella"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de octubre de 2011, el tren de cercanías 25736 rebasó indebidamente la señal de salida S2/1 en indicación de parada en la estación de Sant Pol de Mar. El sistema ASFA Digital activó la frenada de urgencia y detuvo el tren. A continuación, el tren retrocedió sin autorización y descarriló sobre la aguja nº 1, previamente talonada. Se produjo un conato de colisión con el tren 25639, que estaba detenido con itinerario a la vía 2.",
+ "causa_directa": "El descarrilamiento tuvo su origen en el retroceso no autorizado del tren 25736 sobre la aguja nº 1, antes talonada tras el rebase indebido de la señal de salida S2/1 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Commuter train overtook exit signal S2/1 which stated red aspect. As a result, it partially derailed.",
+  "Location name": "Sant Pol de Mar (Barcelona) station",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment had its origin when commuter train 25736 moved back, without authorization, and this movement forced to open point nº1 making train to partially derailed."
+ }
+}

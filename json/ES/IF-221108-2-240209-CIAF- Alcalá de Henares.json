@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-221108-2-240209-CIAF- Alcalá de Henares",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-221108-2-240209-CIAF- Alcalá de Henares.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-608",
+ "expediente": "0064/2008",
+ "titulo": "Arrollamiento de una persona por tren de media distancia en la estación de Alcalá de Henares",
+ "fecha_suceso": "2008-11-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Alcalá de Henares",
+  "provincia": "Madrid",
+  "pk": "32,800",
+  "linea": "Línea 200 Madrid-Barcelona"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 22 de noviembre de 2008, el tren de media distancia 17011 de Renfe Operadora arrolló a un joven en la vía G1, a la salida de la estación de Alcalá de Henares, en el PK 32,800 de la línea 200 Madrid-Barcelona. La víctima falleció como consecuencia del atropello. El tren circulaba por debajo de la velocidad máxima permitida y el material rodante funcionó correctamente. El acceso se produjo por una rotura del cerramiento, en una zona habitual de reuniones de jóvenes.",
+ "causa_directa": "El tránsito de la víctima por la caja de la vía sin estar autorizada, accediendo por una rotura del cerramiento.",
+ "causas_sistemicas": "La rotura del vallado y su mantenimiento, junto con la exposición del entorno a accesos no autorizados por uso habitual de la zona como lugar de reunión de jóvenes.",
+ "recomendaciones": [
+  "Adoptar las medidas necesarias para el mantenimiento del vallado ya reparado."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A quad bike riding within the rail gauge is hit by a train. Despite the train driver sounded the whistle, the biker failed to take him to one side.",
+  "Location name": "Kilometre point 104,500; 122 Ávila-Salamanca railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

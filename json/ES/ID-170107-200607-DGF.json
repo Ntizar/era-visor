@@ -46,5 +46,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce indebido por paso entarimado",
+  "movilidad reducida dificultó salida",
+  "señalización no percibida desde paso",
+  "no existía paso a distinto nivel"
+ ],
+ "mitigaciones": [
+  "uso del silbato de locomotora",
+  "aplicación del freno de emergencia",
+  "velocidad inferior a máxima",
+  "señalización luminosa y acústica recomendada"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "avanzada edad de la víctima",
+  "movilidad reducida de la víctima",
+  "ausencia de paso a distinto nivel"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

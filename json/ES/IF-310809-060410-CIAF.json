@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-310809-060410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-310809-060410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-808",
+ "expediente": "0047/2009",
+ "titulo": "Rebase indebido de señal de entrada en la estación de San Cristóbal Industrial (Madrid)",
+ "fecha_suceso": "2009-08-31",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "San Cristóbal Industrial",
+  "provincia": "Madrid",
+  "pk": "10+200",
+  "linea": "Línea 300 Madrid Chamartín – Valencia Estación del Nord"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "ADIF"
+ ],
+ "resumen": "El 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid), el tren de viajeros 20072 rebasó indebidamente la señal de entrada E2, que indicaba parada. El incidente provocó un conato de colisión con el tren de mercancías 91038, ambos de Renfe Operadora. El tren superó la baliza previa a la señal a 96 km/h y el frenado de emergencia no se activó por ASFA en ese punto. El tren detuvo su marcha tras rebasar la señal 43 metros, quedando a unos 695 metros del otro tren en el momento del conato.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido por el tren 20072 de la señal de entrada E2, que se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": "Como causa subyacente del suceso se señala la no activación por ASFA del frenado de emergencia (L8) al paso por la baliza previa de la señal de entrada (E2).",
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A passenger train (nº 20072 )failed to stop at the station signal (red aspect; nevertheless, the ASFA system worked avoiding the likely collision with a freight train (nº 91038)being in the same track section.",
+  "Location name": "San Cristóbal Industrial station (Madrid), kilometre point 10,200, 936 San Cristóbal Industrial-Villaverde Bajo railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 20072 driver overtook the station signal (E2) which stated a red aspect (stop indication)."
+ }
+}

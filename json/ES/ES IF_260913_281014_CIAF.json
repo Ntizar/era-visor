@@ -1,0 +1,72 @@
+{
+ "id": "ES-ES IF_260913_281014_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES IF_260913_281014_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2900",
+ "expediente": "0066/2013",
+ "titulo": "Conato de colisión en el puesto de bloqueo de Río Duero (Valladolid) por rebase de señal en parada",
+ "fecha_suceso": "2013-09-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Valladolid",
+  "pk": null,
+  "linea": "Línea de alta velocidad 080 Madrid Chamartín – Valladolid Campo Grande"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de septiembre de 2013, a las 09:19 horas, se produjo un conato de colisión en el puesto de bloqueo de Río Duero (Valladolid), en la línea de alta velocidad Madrid Chamartín–Valladolid Campo Grande. El tren de viajeros 4083 no se detuvo ante la señal E1 que indicaba parada y rebasó dicha señal, quedando a 829 metros de la aguja A2. En el lado opuesto circulaba el tren 4076 a 130 metros de la aguja, con una distancia entre trenes de 959 metros. La investigación atribuye el suceso a un fallo humano del maquinista del tren 4083, relacionado con una falta de atención en la conducción.",
+ "causa_directa": "Fallo humano del personal de conducción del tren 4083, por falta de atención, que provocó el incumplimiento de las órdenes de las señales y el rebase indebido de la señal E1 en parada.",
+ "causas_sistemicas": "Entre los factores subyacentes se menciona la transición del sistema ERTMS al ASFA analógico (STM EBICAB) en vía II en sentido Valladolid, que permitía velocidades de 200 km/h con control posterior a 160 km/h frente a los 80 km/h del desvío, lo que podía agravar una falta de atención; también se señala la situación de vía doble a única entre el puesto de bloqueo de Río Duero y Valladolid Campo Grande.",
+ "recomendaciones": [
+  "Renfe Operadora: Analizar la viabilidad de modificar el material 130 para permitir la transición del ERTMS a ASFA Digital sin necesidad de efectuarla a tren parado, y extender la recomendación a otro material que presente el mismo problema."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Long distance train overtook home signal E1 (stop aspect).",
+  "Location name": "Rio Duero interchange point station (Valladolid)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident is casued by human failure of train driver of passenger train 4083, in particular due to a lack of attention while driving. As a result, there was a failure to comply with the signal indication and an improper overrun of home signal E1 which showed a stop aspect."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Falta de atención del maquinista",
+  "No respetó señal de parada",
+  "Incumplimiento de órdenes de señales"
+ ],
+ "mitigaciones": [
+  "Restricción ERTMS a 80 km/h",
+  "Duplicación de vía a Valladolid",
+  "ASFA Digital limita velocidad",
+  "Señalización del desvío existente"
+ ],
+ "factores_humanos": [
+  "Fallo humano del maquinista",
+  "Falta de atención en conducción",
+  "Autorización verbal sin telefonema",
+  "Retroceso sin cambio de cabina"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

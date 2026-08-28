@@ -1,0 +1,73 @@
+{
+ "id": "ES-ID-260506-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-260506-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-14",
+ "expediente": "0023/2006",
+ "titulo": "Arrollamiento de una persona en paso a nivel de San Feliu de Llobregat (Barcelona)",
+ "fecha_suceso": "2006-05-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "San Feliu de Llobregat",
+  "provincia": "Barcelona",
+  "pk": "88,906",
+  "linea": "240 Tarragona-Barcelona-Francia"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El tren de Cercanías nº 25228 de RENFE, con las unidades 447.162-447.051, circulaba por vía II dirección Barcelona cuando arrolló a un varón de 97 años en el paso a nivel peatonal de clase C situado en el P.K. 88,906 de la línea 240 Tarragona-Barcelona-Francia, en San Feliu de Llobregat (Barcelona). La víctima falleció en el acto tras cruzar el haz de vías pese a la prohibición de las señales luminosas peatonales y con las barreras abatidas para el paso del tren. No se produjeron daños materiales, aunque la circulación se vio afectada durante 52 minutos en vía II y se registraron retrasos y supresiones. El paso a nivel había estado averiado desde las 11:00 hasta las 11:41, siendo el tren 25228 la primera circulación que pasaba con la señal que lo protege.",
+ "causa_directa": "El arrollamiento se produjo por el tránsito indebido de la víctima por el paso a nivel cuando las señales luminosas peatonales indicaban prohibición de pasar y las barreras estaban abatidas por el paso del tren 25228.",
+ "causas_sistemicas": "El paso a nivel tenía un elevado momento de circulación y estaba integrado en el municipio, con un proyecto de supresión por soterramiento pendiente; además, había estado averiado poco antes del suceso, aunque el informe no atribuye la avería como causa del accidente.",
+ "recomendaciones": [
+  "Proceder a la supresión del paso a nivel y ejecutar un paso inferior para tráfico peatonal y carretero.",
+  "Agilizar los trámites para iniciar la fase de obra del proyecto de supresión en San Feliu de Llobregat."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person died after being hit by rolling stock motion at level crossing protected with barriers.",
+  "Location name": "Railway line from Tarragona to Barcelona to France at the kilometre point 88,906.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Paso a nivel averiado previamente",
+  "Agente repara barrera en cruce",
+  "Víctima cruza con barreras bajas",
+  "Barreras bajan por tren próximo"
+ ],
+ "mitigaciones": [
+  "Paso elevado para peatones",
+  "Semibarreras automáticas con señalización",
+  "Señalización acústica y luminosa",
+  "Visibilidad del cruce buena"
+ ],
+ "factores_humanos": [
+  "Imprudencia de peatón anciano",
+  "Edad avanzada de víctima",
+  "Víctima ignora señal peatonal",
+  "Falta de registro eventos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

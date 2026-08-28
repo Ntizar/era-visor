@@ -1,0 +1,31 @@
+{
+ "id": "ES-RS-180609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-180609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0027/2009",
+ "titulo": "Incidente ferroviario en la estación de Madrid Chamartín",
+ "fecha_suceso": "2009-06-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Madrid Chamartín",
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 100 Madrid - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora"
+ ],
+ "resumen": "Se trata de una resolución aprobatoria del informe definitivo sobre un incidente ferroviario ocurrido el 18 de junio de 2009 en la estación de Madrid Chamartín. La Comisión de Investigación de Accidentes Ferroviarios modificó y concretó la recomendación original del técnico investigador. El documento final establece medidas dirigidas a Renfe Operadora para reforzar la seguridad operativa.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

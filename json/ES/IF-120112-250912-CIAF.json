@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-120112-250912-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-120112-250912-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1339",
+ "expediente": "0004/2012",
+ "titulo": "Colisión frontal y descarrilamiento por rebase de señal en la estación de San Claudio (Oviedo)",
+ "fecha_suceso": "2012-01-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "San Claudio",
+  "provincia": "Asturias",
+  "pk": "5+265",
+  "linea": "Línea 12 Oviedo - San Esteban (tramo 71 Oviedo-Trubia)"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 12 de enero de 2012, el tren regional 1301 de Feve, estacionado en la vía 2 de la estación de San Claudio, reanudó la marcha sin esperar el cruce previsto con el tren de cercanías 3720. El tren 1301 rebasó la señal de salida S1/2 en parada, talonó la aguja A2 y colisionó frontalmente con el tren 3720. Como consecuencia, los dos ejes del bogie trasero de la unidad de cabeza del tren 3720 descarrilaron y resultaron nueve heridos de carácter leve.",
+ "causa_directa": "El accidente tuvo su origen en el rebase indebido por el tren de viajeros 1301 de la señal de salida S1/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "Passenger train, after passengers had got off/in the train, resumed its march overtaking exit signal which stated a red aspect. As a result, this caused a head-on collision with another train which also partially derailed. Just 9 people slightly injured.",
+  "Location name": "San Claudio (Asturias) station, kilometre point 5,265, 12 Oviedo-San Esteban de Pravia railway line.",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train; \nCommuter train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train 1301 overtook exit signal (S1/2) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "reanudar marcha sin cruce",
+  "no comprobar señal de parada",
+  "no prestar atención durante conducción",
+  "no esperar cruce grafiado"
+ ],
+ "mitigaciones": [
+  "activación ASFA frenado emergencia",
+  "maquinista aplica freno emergencia",
+  "baja velocidad de colisión",
+  "recorrido breve tras frenado"
+ ],
+ "factores_humanos": [
+  "incumplimiento reglamento de circulación",
+  "falta de atención durante conducción",
+  "no verificar cruce grafiado",
+  "no comprobar señal de parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

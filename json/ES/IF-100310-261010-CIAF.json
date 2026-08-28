@@ -1,0 +1,69 @@
+{
+ "id": "ES-IF-100310-261010-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-100310-261010-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-898",
+ "expediente": "0016/2010",
+ "titulo": "Conato de colisión por rebase indebido de señal en la estación de Logroño",
+ "fecha_suceso": "2010-03-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Logroño",
+  "provincia": "La Rioja",
+  "pk": "76+396",
+  "linea": "700 Casetas - Intermodal Abando Indalecio Prieto"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 10 de marzo de 2010, el tren 933 de Renfe Operadora rebasó indebidamente la señal de salida S1/4 en parada en la estación de Logroño. Este rebase provocó el cierre intempestivo de la señal de entrada E2 para el tren de mercancías 54654. El tren de mercancías se detuvo ante dicha señal, generando un conato de colisión. No hubo víctimas y las instalaciones funcionaron correctamente.",
+ "causa_directa": "Rebase indebido de la señal S1/4 en indicación de parada por incumplimiento de las órdenes de las señales. El agente de acompañamiento indicó operaciones terminadas cuando la señal indicadora de salida seguía en parada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Long distance train number 933 overtook the exit signal (S1/4)which stated a stop aspect. This caused a near miss train collision with freigh train 54654 which was running between E`2 and E2 enter station signals.",
+  "Location name": "Logroño station (La Rioja); 700 Casetas-Intermodal Abando Indalecio Prieto railway line, kilometre point 76,396",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train; \nLong distance passenger train",
+  "RU involved": "RENFE-Operadora; \n",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused as the train driver ignored the signal indication."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "agente acompañamiento indicó operaciones terminadas",
+  "maquinista inicia marcha con señal roja",
+  "maquinista miraba espejo retrovisor",
+  "tren detenido ante señal roja"
+ ],
+ "mitigaciones": [
+  "ASFA aplica frenado urgencia",
+  "tren mercancías se detiene",
+  "señal entrada cambia a rojo",
+  "distancia entre trenes 753 metros"
+ ],
+ "factores_humanos": [
+  "maquinista miraba espejo retrovisor",
+  "agente acompañamiento indicó operaciones terminadas",
+  "incumplimiento órdenes dadas señales",
+  "fallo humano en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

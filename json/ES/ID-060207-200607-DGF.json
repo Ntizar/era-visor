@@ -32,5 +32,29 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "invasión indebida de la vía",
+  "vallado defectuoso y roto",
+  "existencia de pasos viciosos"
+ ],
+ "mitigaciones": [
+  "uso del silbato por el tren",
+  "aplicación del freno de emergencia",
+  "comunicación inmediata al CTC"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "falta de mantenimiento del cerramiento"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

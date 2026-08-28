@@ -1,0 +1,57 @@
+{
+ "id": "ES-ES 23.01.2016 170919-160123-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 23.01.2016 170919-160123-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0010/2016",
+ "titulo": "Descarrilamiento de tren de mercancías en la estación de Ascó (Tarragona) por fallo de infraestructura",
+ "fecha_suceso": "2016-01-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Ascó",
+  "provincia": "Tarragona",
+  "pk": "518+063",
+  "linea": "Línea 210"
+ },
+ "entidades": [
+  "TRANSFESA RAIL",
+  "ADIF"
+ ],
+ "resumen": "Un tren de mercancías operado por Transfesa Rail descarriló parcialmente al pasar por la estación de Ascó. El incidente ocurrió debido a variaciones significativas del peralte (alabeo) fuera de tolerancia en una zona de transición de curva. No hubo víctimas mortales ni heridos, pero se produjeron daños materiales considerables y la interrupción de la circulación durante varios días.",
+ "causa_directa": "El descarrilamiento se produjo por un fallo de la infraestructura, concretamente por la existencia de variaciones de peralte (alabeo) fuera de tolerancia en la zona del accidente.",
+ "causas_sistemicas": "Deficiencias en la aplicación del Sistema de Gestión de la Seguridad de ADIF, incluyendo el incumplimiento de los plazos para auscultaciones geométricas y la falta de visitas de vigilancia a pie o en cabina. También influyó la desconsolidación del asiento de las traviesas por un drenaje deficiente y el elevado tráfico de mercancías de gran tonelaje.",
+ "recomendaciones": [
+  "Reconsiderar una actuación de envergadura en la zona tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura.",
+  "Cumplimiento riguroso en la línea 210, principalmente en el tramo Flix-Reus, de lo establecido en el SGS referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Deficiente sistema de drenaje",
+  "Desconsolidación asiento traviesas",
+  "Exceso alabeo fuera tolerancia",
+  "Incumplimiento plazos auscultación"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior máxima permitida",
+  "Sistemas seguridad material correctos",
+  "Ancho vía dentro tolerancias"
+ ],
+ "factores_humanos": [
+  "No realizarse vigilancias a pie",
+  "No realizarse vigilancias cabina",
+  "Mantenimiento correctivo tardío"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

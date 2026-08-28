@@ -1,0 +1,72 @@
+{
+ "id": "ES-ES 07 04 2013 IF-070413-240315-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 07 04 2013 IF-070413-240315-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2250",
+ "expediente": "0027/2013",
+ "titulo": "Desprendimiento de puerta en tren Talgo y arrollamiento por otro tren en túnel Venta La Inés (Ciudad Real)",
+ "fecha_suceso": "2013-04-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Ciudad Real",
+  "pk": "257+000",
+  "linea": "Línea de Alta Velocidad Madrid-Sevilla"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif",
+  "Talgo"
+ ],
+ "resumen": "El interventor del tren 2164 cerró manualmente una puerta defectuosa en Puertollano pero no recuperó el cuadradillo, dejando la puerta condenada pero no enclavada. Al circular a alta velocidad por el túnel de Venta La Inés, las diferencias de presión desprendieron la puerta, que cayó sobre la vía contigua. El tren 2361, circulando en sentido contrario, arrolló la puerta provocando daños materiales menores sin descarrilamiento ni víctimas.",
+ "causa_directa": "Fallo humano del interventor al manipular incorrectamente el sistema de apertura/cierre manual, dejando la puerta condenada pero no enclavada, lo que permitió su desprendimiento por diferencia de presiones en el túnel.",
+ "causas_sistemicas": "Confusión conceptual del personal operativo entre los términos 'condenar' y 'bloquear/enclavar' una puerta, así como la insuficiencia del mecanismo de condena para resistir esfuerzos aerodinámicos si no se activa correctamente el enclavamiento mecánico.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other event",
+  "Occurrence description": "Passenger train´s door loosening",
+  "Location name": "Almodóvar del Campo (Ciudad Real) - Venta La Inés Tunnel",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "High speed passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The event was caused by human failure of the ticket inspector of train 2164 when wrongly manipulated the system of manual opening of the door making the door to break away when running inside a tunnel. The door was knocked down by train 2361, running the other way."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ERTMS",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Puerta no cierra correctamente en parada",
+  "Interventor cierra puerta manualmente",
+  "No recupera cuadradillo al condenar",
+  "Puerta queda desenclavada pero cerrada"
+ ],
+ "mitigaciones": [
+  "Tren detiene y reconoce avería",
+  "Marcha a la vista prescrito por mando",
+  "Sin descarrilamiento ni daños personales",
+  "Velocidad inferior a máxima permitida"
+ ],
+ "factores_humanos": [
+  "Fallo humano interventor en ruta",
+  "Desconocimiento diferencia bloquear/condenar",
+  "Manipulación incorrecta sistema apertura",
+  "Formación insuficiente procedimientos puertas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

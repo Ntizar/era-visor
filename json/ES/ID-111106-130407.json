@@ -43,5 +43,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Invasión súbita del gálibo",
+  "Uso de traviesa como yunque",
+  "Ausencia de cerramiento perimetral",
+  "No percatarse de llegada tren"
+ ],
+ "mitigaciones": [
+  "Aplicación de freno de urgencia",
+  "Silbato continuo desde cabina",
+  "Velocidad inferior a máxima",
+  "Cierre perimetral de la vía"
+ ],
+ "factores_humanos": [
+  "Invasión intempestiva del gálibo",
+  "No reaccionar a silbatos",
+  "No observar dirección de tren",
+  "Falta de protección perimetral"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

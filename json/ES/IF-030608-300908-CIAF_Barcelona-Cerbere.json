@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-030608-300908-CIAF_Barcelona-Cerbere",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-030608-300908-CIAF_Barcelona-Cerbere.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-486",
+ "expediente": "0020/2008",
+ "titulo": "Arrollamiento de una persona por tren de media distancia en paso a nivel de la estación de Figueres",
+ "fecha_suceso": "2008-06-03",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Figueres",
+  "provincia": "Gerona",
+  "pk": "247,215",
+  "linea": "270 Barcelona-Cerbere"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 3 de junio de 2008, a las 12:39 horas, el tren de media distancia 15810 de Renfe Operadora arrolló a una persona en el paso a nivel tipo C de la estación de Figueres, en el P.K. 247,215 de la línea 270 Barcelona-Cerbere. El tren circulaba a 45 km/h, por debajo de la velocidad máxima permitida, y el maquinista hizo uso del silbato y del freno de emergencia. La víctima se encontraba muy próxima a la caja de la vía en el momento en que el tren cruzaba el paso a nivel. El paso a nivel estaba dotado de semibarreras eléctricas y de pasos peatonales con barandillas transversales que no impedían el acceso directo a la vía.",
+ "causa_directa": "La presencia de la víctima muy próxima a la caja de la vía en el momento en que el tren cruzaba el paso a nivel.",
+ "causas_sistemicas": "La protección peatonal del paso a nivel no impedía el acceso directo a la vía, al disponer solo de barandillas transversales.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A road vehicle crossed a user worked crossing without noticing a train was approaching. The driver died.",
+  "Location name": "Lora del Río (Sevilla), kilometre point 511,410, Alcázar de San Juan-Cádiz railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Personas esperaban cruzar paso a nivel",
+  "Víctima se apoyaba en barandilla",
+  "Barandillas no impedían acceso directo",
+  "Tren entraba estación vía 2"
+ ],
+ "mitigaciones": [
+  "Uso silbato aproximación paso a nivel",
+  "Actuación freno de emergencia",
+  "Semibarreras eléctricas enclavadas",
+  "Supresión prevista del paso a nivel"
+ ],
+ "factores_humanos": [
+  "Presencia víctima junto a vía",
+  "Víctima se apoyaba en barandilla",
+  "Maquinista usó silbato correctamente",
+  "Alcoholemia negativa del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

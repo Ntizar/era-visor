@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-281209-290610-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-281209-290610-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-854",
+ "expediente": "0068/2009",
+ "titulo": "Descarrilamiento del tren 13924 en la estación de Pedrera (Sevilla)",
+ "fecha_suceso": "2009-12-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Pedrera",
+  "provincia": "Sevilla",
+  "pk": "94+716",
+  "linea": "422 Bif. Utrera-Puente de Piedra"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 28 de diciembre de 2009, el tren de media distancia 13924 de Renfe Operadora descarriló al entrar en la estación de Pedrera (Sevilla). El tren se detuvo ante la señal de entrada E2 en indicación de parada y la responsable de circulación autorizó por telefonema rebasarla en condiciones normales. Al pasar por el cambio nº6, el primer coche completo y el primer bogie del segundo coche se descarrilaron. El informe concluye que la señal no podía abrirse por la incorrecta posición o acoplamiento de las agujas, circunstancia no verificada por la responsable de circulación.",
+ "causa_directa": "La autorización indebida de rebase de la señal de entrada E2 en condiciones normales, cuando el comprobador mecánico de posición de agujas impedía abrirla debido a la incorrecta posición o acoplamiento de las agujas del cambio nº6, sin que la responsable de circulación verificara esa circunstancia.",
+ "causas_sistemicas": "El informe apunta a la necesidad de formación específica para agentes nuevos o sin experiencia en la ejecución de itinerarios en este tipo de enclavamientos, y menciona antecedentes de descarrilamientos en la estación de Pedrera por errores humanos al establecer itinerarios.",
+ "recomendaciones": [
+  "Realizar acciones formativas específicas sobre la ejecución de itinerarios en este tipo de enclavamientos, fundamentalmente para agentes nuevos y sin experiencia en estas instalaciones."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Passenger train (nº13924) partially derailed (first car and first bogie of second car) as it went through switch point nº 6 which was wrongly set. The train was stopped at home signal E2 (red aspect). The traffic manager authorised the train driver to overtake the signal being that the point nº 6 was wrongly set despite the established route was set. When train resumed its march and reached the point, the train became derailed.",
+  "Location name": "Pedrera station (Sevilla); kilometre point 94,176; switch point nº6; 422 Bif.Utrera-Fuente Piedra railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The traffic manager didn´t check, before authorising the overtook, the right position of point nº 6 as it´s set in the General Operating Regulation"
+ }
+}

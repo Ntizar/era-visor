@@ -48,5 +48,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce de vías por peatón",
+  "No utilizar paso entre andenes",
+  "Invadir gálibo de la vía",
+  "Desoír aviso acústico del tren"
+ ],
+ "mitigaciones": [
+  "Visibilidad superior a 600 metros",
+  "Velocidad inferior a máxima",
+  "Aviso acústico mediante silbato",
+  "Existencia de paso entre andenes"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Cruce por lugar no habilitado",
+  "No respetar aviso acústico",
+  "Falta de paso inferior seguro"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-010611-310112-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-010611-310112-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1173",
+ "expediente": "0026/2011",
+ "titulo": "Escape de ocho plataformas portabobinas vacías en la estación de Trasona (Asturias) tras desacople",
+ "fecha_suceso": "2011-06-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Trasona",
+  "provincia": "Asturias",
+  "pk": "27+510",
+  "linea": "Línea 11 Ferrol - Gijón"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 1 de junio de 2011, a las 16:00, en la estación de Trasona (Asturias), escaparon ocho plataformas portabobinas vacías del tren 9203 de Feve tras desacoplar las dos locomotoras. El corte inició deslizamiento por la pendiente de la vía 3A y accedió a la vía general, recorriendo 1.380 metros hasta detenerse cerca del apeadero de Llaranes. El informe atribuye el incidente a incumplimientos normativos del maquinista, del especialista de estaciones y de la jefa de circulación en el frenado, el corte y la posición de las agujas.",
+ "causa_directa": "El incidente se produjo por incumplimiento normativo del personal: el maquinista y el especialista de estaciones no realizaron correctamente el frenado y el corte del material, y la jefa de circulación no modificó la posición de las agujas, permitiendo que el corte accediera a la vía general.",
+ "causas_sistemicas": "Ausencia de indicadores de rasante en una vía con pendiente, desconocimiento de la pendiente por parte del especialista, mando local sin cambio preventivo de agujas y falta de documentación mediante consigna de las maniobras en la estación.",
+ "recomendaciones": [
+  "Insistir en el cumplimiento de la normativa sobre operaciones de enganche y desenganche.",
+  "Analizar la conveniencia de colocar indicadores de rasante en Trasona y estaciones similares.",
+  "Analizar la conveniencia de documentar mediante consigna las maniobras en la estación de Trasona."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other",
+  "Occurrence description": "The two locomotives that hauled the freight train wagons were uncoupled and the 8 wagons of the train ran away during 1.380 metres before stopping at kilometre point 26,130.",
+  "Location name": "Trasona station (Asturias), 11 Ferrol - Gijón railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin due to the non-compliance of the staff."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "maquinista no acciona freno neumático",
+  "especialista no descarga circuito de aire",
+  "tren entra con treinta minutos retraso",
+  "jefa no cambia posición agujas"
+ ],
+ "mitigaciones": [
+  "cambio de declividad detiene corte",
+  "indicadores de rasante habrían reducido riesgo",
+  "consigna de maniobra habría reducido",
+  "freno neumático habría evitado deslizamiento"
+ ],
+ "factores_humanos": [
+  "incumplimiento normativo del personal ferroviario",
+  "desconocimiento de pendiente en vía",
+  "especialista sin agente caracterizado acompañante",
+  "no se realizan pruebas alcoholemia"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

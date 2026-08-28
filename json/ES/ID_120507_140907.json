@@ -1,0 +1,74 @@
+{
+ "id": "ES-ID_120507_140907",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_120507_140907.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-235",
+ "expediente": "030/2007",
+ "titulo": "Arrollamiento de una persona por tren en paso vicioso cerca del apeadero de Camargo, Cantabria",
+ "fecha_suceso": "2007-05-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "antiguo apeadero de Camargo",
+  "provincia": "Cantabria",
+  "pk": "508+180",
+  "linea": "Línea 160 Santander-Palencia"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE Operadora"
+ ],
+ "resumen": "Un tren de larga distancia arrolló a una persona que cruzaba la vía por un paso no habilitado (paso vicioso) en el kilómetro 508+180 de la línea Santander-Palencia. La víctima falleció como consecuencia del impacto. El maquinista actuó correctamente aplicando la frenada de emergencia y emitiendo señales acústicas, pero no pudo evitar el atropello.",
+ "causa_directa": "Imprudencia de la víctima al cruzar la vía férrea por un lugar no autorizado para ello, invadiendo el gálibo del tren.",
+ "causas_sistemicas": "Existencia de un paso vicioso no cerrado que permitía el acceso peatonal a la zona urbana desde ambos lados de la vía.",
+ "recomendaciones": [
+  "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+  "Intensificar la vigilancia de estos pasos viciosos y sensibilizar a la población de los riesgos de cruzar las vías por lugares no autorizados."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person crossing the rail at an unauthorised place is hit by a long distance train.",
+  "Location name": "At the kilometre point 508+180 in the vicinity of Muriedas (Santander) 160 Santander - Palencia railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed through a faulty path"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce por paso no habilitado",
+  "ausencia de cerramiento en zona",
+  "paso vicioso no autorizado",
+  "persona invade gálibo del tren"
+ ],
+ "mitigaciones": [
+  "pitada y frenado de urgencia",
+  "cerramiento del paso vicioso",
+  "vigilancia de pasos viciosos",
+  "sensibilización a la población"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "presencia de paso vicioso",
+  "falta de cerramiento urbano",
+  "actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

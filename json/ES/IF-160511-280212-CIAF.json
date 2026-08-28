@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-160511-280212-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-160511-280212-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1148",
+ "expediente": "0023/2011",
+ "titulo": "Conato de colisión entre trenes 5180 y 8182 por rebase de señal de parada en estación de Los Gavilanes (Madrid)",
+ "fecha_suceso": "2011-05-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Los Gavilanes",
+  "provincia": "Madrid",
+  "pk": "12+379",
+  "linea": "Línea 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 16 de mayo de 2011, a las 19:03 horas, se produjo un conato de colisión entre los trenes 5180 y 8182 a la entrada de la estación de Los Gavilanes, en Madrid. El tren 5180 rebasó indebidamente la señal de entrada E022, que ordenaba parada, mientras el tren 8182 circulaba por el desvío 101/102. El tren 5180 salió con el ASFA Digital desconectado por fallo y no tomó transmisión de LZB, circulando al amparo de bloqueo automático supletorio.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido de la señal de entrada E022, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción del tren 5180.",
+ "causas_sistemicas": "Como factor coadyuvante, el informe menciona el no funcionamiento del sistema de bloqueo de control automático LZB y del ASFA Digital. También recomienda implantar medidas para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, especialmente en condiciones degradadas, para evitar posibles distracciones.",
+ "recomendaciones": [
+  "Implantar las medidas necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, con el fin de evitar posibles distracciones, especialmente cuando se circula en condiciones degradadas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "High speed train overtook, wrongly, home signal E022.",
+  "Location name": "Los Gavilanes station (Madrid); 10 Madrid Atocha- Sevilla Santa Justa railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "High speed passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the train overtook the home signal (E022) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "LZB",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Salida con ASFA Digital desconectado",
+  "No toma transmisión LZB",
+  "Circulación con bloqueo supletorio BAS",
+  "No prepararse para detenerse ante señal"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia por manipulador",
+  "Tren parado antes del desvío",
+  "Funcionamiento correcto de LZB y ASFA",
+  "Comunicaciones reglamentarias en cabina"
+ ],
+ "factores_humanos": [
+  "No ponerse en condiciones de parar",
+  "No detenerse ante señal parada",
+  "Comunicación por teléfono móvil",
+  "Posible distracción en cabina"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

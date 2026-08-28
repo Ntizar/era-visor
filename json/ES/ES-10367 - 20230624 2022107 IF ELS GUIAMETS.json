@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES-10367 - 20230624 2022107 IF ELS GUIAMETS",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10367 - 20230624 2022107 IF ELS GUIAMETS.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "107/2022",
+ "titulo": "Colisión entre trenes por alcance el 13 de diciembre de 2022 entre las estaciones de Els Guiamets y Mora La Nova.",
+ "fecha_suceso": "2022-12-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Tarragona",
+  "pk": "535,45",
+  "linea": "210"
+ },
+ "entidades": [
+  "Renfe Mercancías",
+  "ADIF"
+ ],
+ "resumen": "El tren de mercancías 55311 quedó detenido por avería de freno en el CV 5352, con la locomotora y cinco vagones dentro del túnel de Darmós, dejando en parada la señal 5371. El tren 55203, que circulaba detrás, rebasó sin efectuar parada la señal 5371 dotada de cartelón P y continuó en conducción a la vista en condiciones nocturnas y de lluvia. Tras ser informado de un tren detenido, aumentó la velocidad hasta 26,3 km/h; al ver la cola del 55311 a 72 metros aplicó freno máximo, pero colisionó a unos 15 km/h. Se produjeron daños materiales, incluido el descarrilamiento de un vagón, sin víctimas.",
+ "causa_directa": "Error humano del maquinista del tren 55203 al no adaptar la velocidad a las condiciones de visibilidad durante la conducción a la vista tras rebasar sin parada una señal en parada dotada de cartelón P.",
+ "causas_sistemicas": "Criterios vigentes sobre el rebase de señales en parada con cartelón P y formación/vigilancia insuficiente en marchas especiales; además, condiciones de visibilidad adversas, distracción por comunicación con el RC durante la conducción a la vista y falta de experiencia con régimen de frenado G.",
+ "recomendaciones": [
+  "Promover el establecimiento de nuevos criterios para el rebase de señales en parada cuando están dotadas con “cartelón P”.",
+  "Promover que las empresas ferroviarias incrementen las acciones formativas y de vigilancia respecto a la realización de marchas especiales de conducción de modo que se garantice que el personal de conducción esté suficientemente entrenado y aplique el rigor y atención debidos cuando se realizan."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tren detenido por avería de freno",
+  "Señal 5371 indicaba parada",
+  "Tren 55203 rebasa señal parada",
+  "Llamada a RC durante conducción"
+ ],
+ "mitigaciones": [
+  "Aplicación de freno máximo",
+  "Visualización temprana de cola",
+  "Adaptar velocidad a visibilidad",
+  "Parar ante señal con P"
+ ],
+ "factores_humanos": [
+  "Error humano del maquinista",
+  "No adaptar velocidad a visibilidad",
+  "Llamada a RC durante conducción",
+  "Falta experiencia régimen freno G"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

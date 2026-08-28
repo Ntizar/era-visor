@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-151008-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-151008-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-600",
+ "expediente": "0050/2008",
+ "titulo": "Arrollamiento de una persona por tren de cercanías en el apartadero de El Caleyo (Asturias)",
+ "fecha_suceso": "2008-10-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apartadero de El Caleyo",
+  "provincia": "Asturias",
+  "pk": "134,396",
+  "linea": "130 Venta de Baños - Gijón"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 15 de octubre de 2008, un tren de cercanías de Renfe Operadora arrolló a un hombre de 90 años que transitaba por la caja de la vía en el apartadero de El Caleyo. La víctima, no autorizada para estar en esa zona, intentó subir al andén sin éxito al percatarse del tren. Pese a la actuación correcta del maquinista, quien usó el silbato y el freno de emergencia, el impacto fue mortal. No se registraron daños materiales ni en infraestructura.",
+ "causa_directa": "El tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Evaluar, por la autoridad competente, las condiciones de seguridad del cruce a nivel entre andenes y establecer, en consecuencia, la conveniencia de mejorar la señalización, instalar protección o construir un paso a distinto nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "An old man, walking within the rail gauge, is hit by a commuter train. The train driver sounded the whistle and the man tried to get on the platform but he failed to do so.",
+  "Location name": "El Caleyo flag stop (Oviedo), kilometre point 134,396, 130 Venta de Baños-Gijón railway line",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima transita por vía no autorizada",
+  "cruce a nivel entre andenes inseguro",
+  "curvas reducen visibilidad y reacción",
+  "carretera paralela sin vallado alguno"
+ ],
+ "mitigaciones": [
+  "maquinista usa silbato y freno",
+  "velocidad inferior a máxima permitida",
+  "mejorar señalización del cruce",
+  "construir paso a distinto nivel"
+ ],
+ "factores_humanos": [
+  "víctima no autorizada en vía",
+  "movilidad reducida con bastón paraguas",
+  "actuación correcta del maquinista",
+  "falta evaluación seguridad del cruce"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-141008-210409-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-141008-210409-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-655",
+ "expediente": "0070/2008",
+ "titulo": "Arrollamiento de una persona por un tren de cercanías en la entrada de la estación de Leganés (Madrid)",
+ "fecha_suceso": "2008-10-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Leganés",
+  "provincia": "Madrid",
+  "pk": "13,171",
+  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, tramo Villaverde Alto - Leganés"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 14 de octubre de 2008, a las 14:46 horas, el tren de cercanías 27398 de Renfe Operadora arrolló a una persona a la entrada de la estación de Leganés, entre las agujas 2 y 4. El maquinista percibió un golpe seco, no observó nada por los espejos y comunicó el suceso; poco después otro tren informó de la presencia del cuerpo. La Policía Nacional confirmó la defunción de la persona, que se encontraba en la vía sin autorización. La investigación concluyó que el accidente tuvo su origen en el tránsito indebido de la víctima y no estableció recomendaciones.",
+ "causa_directa": "El tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizada para ello.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "The train driver noticed something had knocked the train and warned the control centre about the  incidente. The following train, which has been warned by the control centre, confirmed a corpse was by the tracks.",
+  "Location name": "Leganés station (Madrid, 500 Madrid-Valencia de Alcántara railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima transitó sin autorización",
+  "Caminó por vías tras andenes"
+ ],
+ "mitigaciones": [
+  "Vallado perimetral impide acceso",
+  "Buena visibilidad en tramo",
+  "Equipos de seguridad funcionaban",
+  "Velocidad inferior a máxima"
+ ],
+ "factores_humanos": [
+  "Víctima transitó sin autorización",
+  "Conocimiento del lugar por víctima"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

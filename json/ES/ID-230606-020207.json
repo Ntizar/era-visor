@@ -45,5 +45,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Personas en proximidades de vía",
+  "Acceso indebido a la vía",
+  "Celebración nocturna de la verbena",
+  "Visibilidad reducida en curva nocturna"
+ ],
+ "mitigaciones": [
+  "Vallado metálico en márgenes",
+  "Paso inferior peatonal existente",
+  "Aplicación inmediata de freno de emergencia",
+  "Construcción de viaducto ferroviario"
+ ],
+ "factores_humanos": [
+  "Imprudencia por tránsito indebido",
+  "Falta de pruebas de alcoholemia",
+  "Concienciación insuficiente de la población",
+  "Ausencia de cuadro de velocidades"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

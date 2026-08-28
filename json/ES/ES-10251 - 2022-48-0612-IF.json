@@ -1,0 +1,70 @@
+{
+ "id": "ES-ES-10251 - 2022-48-0612-IF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10251 - 2022-48-0612-IF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10251",
+ "expediente": "48/2022",
+ "titulo": "Colisión frontal de trenes en Bifurcación Vila-seca (Tarragona) el 12/06/2022",
+ "fecha_suceso": "2022-06-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Bifurcación Vila-seca",
+  "provincia": "Tarragona",
+  "pk": null,
+  "linea": "Línea 210 Miraflores - Sant Vicenç de Calders"
+ },
+ "entidades": [
+  "FGC",
+  "ADIF"
+ ],
+ "resumen": "El 12 de junio de 2022, el tren 95172, formado por dos locomotoras serie 310 de FGC, salió del taller de GMF con destino Can Tunis tras un reperfilado de ruedas extraordinario no incluido en el plan de mantenimiento. En una pendiente tras pasar por Reus, el frenado fue insuficiente y el maquinista avisó al regulador de que invadiría la señal E2V de entrada a la Bifurcación Vila-seca. El tren 18087, detenido en la estación de Vila-seca para servicio comercial, quedó en la misma vía al pasar el cambio 11 del tren 95172. A las 21:46:57 se produjo una colisión frontal entre ambos trenes, con heridos y daños materiales en infraestructura y material rodante.",
+ "causa_directa": "El frenado insuficiente del tren 95172 por la falta de ajuste del sistema de frenos tras el reperfilado extraordinario de las ruedas, lo que dejó siete de dieciséis zapatas sin contacto con la banda de rodadura.",
+ "causas_sistemicas": "Ausencia en el sistema de gestión de mantenimiento de GMF de un procedimiento que exigiera ajustar y comprobar el sistema de frenos tras operaciones de torneado o reperfilado de ruedas; falta de procedimientos de prueba de freno para locomotoras aisladas y trenes cortos en el SGS de la empresa ferroviaria y en el manual de conducción; y pruebas de freno incapaces de detectar la insuficiencia de frenado.",
+ "recomendaciones": [
+  "Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos.",
+  "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente en material con zapatas sobre la banda de rodadura y ajuste manual."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 6,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "National ID 48/2022: Trains collision at Vila-seca (line 210, kilometre 90,015).\nTrain #95172, composed with two Captrain locomotives, departed from maintenance yard. While approaching Vila-seca junction, its driver contacted with Control Centre to report problems with brakes. It passed entrance signal EV2 of Vila-seca (that ordered to stop), forced the switch #11 and finaly collided with Renfe regional passenger train 18087, that had been stopped at Vila-seca. The collision caused injuries to 23 people, and serious injuries to 6 more people.",
+  "Location name": "Vila-seca (Tarragona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Locomotive running solo",
+  "RU involved": "Captrain / Renfe Viajeros",
+  "IM involved": "Adif",
+  "Passenger serious injuries": 6,
+  "Total serious injuries": 6,
+  "Estimated total material costs": "150 000 - 2 000 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "1.\tInsufficient braking of the locomotives of train #95172.\n2.\tAfter having carried out an extraordinary wheel reprofiling operation on the 310 series locomotives, the brake rigging was not adjusted to the new diameter, so that seven of the sixteen brake pads did not touch the tread of their respective wheels.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors: \n1.\tBrake tests were unable to detect brake insufficiency on 310 series locomotives.\nSystemic factors: \n1.\tAbsence of a procedure within ECM's Maintenance Management System specifying the actions to be undertaken after wheel reprofiling works and thus requiring adjustment of the brake rigging. See Recommendation 48/2022-2.\n2.\tLack of definition of brake test procedures both in RU’s SMS and in the locomotive driving manual when the locomotives run without being part of the train composition. See Recommendation 48/2022-1.\n3.\tLack of specific procedures for setting up brake tests to detect braking problems related to mechanical elements on single locomotives and short trains. See Recommendation 48/2022-1."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "Reperfilado de ruedas no programado",
+  "Freno sin ajustar al nuevo diámetro",
+  "Prueba de freno insuficiente detectada"
+ ],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "Alcohol en conductor del tren",
+  "Ausencia procedimiento ajuste frenos",
+  "Deficiencia pruebas freno locomotoras"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

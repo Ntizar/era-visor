@@ -1,0 +1,55 @@
+{
+ "id": "ES-ES 06.01.2017 180718-170106-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 06.01.2017 180718-170106-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0001/2017",
+ "titulo": "Descarrilamiento en plena vía, pk 477+265, trayecto Nanclares-Manzanos (Álava), 06/01/2017",
+ "fecha_suceso": "2017-01-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Álava",
+  "pk": "477+265",
+  "linea": "Nanclares-Manzanos"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El informe final de la CIAF describe un descarrilamiento ferroviario ocurrido el 6 de enero de 2017 en plena vía, en el pk 477+265 del trayecto Nanclares-Manzanos (Álava). La investigación se centra en la rotura de un carril y en las deficiencias detectadas en la auscultación ultrasónica y el mantenimiento. La CIAF recomienda a Adif y a la AESF mejorar los medios, la trazabilidad, la periodicidad y la conservación de registros de las operaciones de vigilancia de vía.",
+ "causa_directa": "Rotura de un carril que provocó el descarrilamiento en plena vía.",
+ "causas_sistemicas": "Deficiencias en la vigilancia y auscultación ultrasónica de carriles, incluida la trazabilidad de registros, la periodicidad y adecuación de medios humanos y materiales, y discrepancias entre procedimientos operativos y normas NAV.",
+ "recomendaciones": [
+  "Adoptar medidas para conocer el estado interno de los carriles y detectar defectos que puedan provocar una rotura.",
+  "Reforzar la trazabilidad de los registros de mantenimiento y las comunicaciones entre la Subdirección de vía y las gerencias de mantenimiento.",
+  "Realizar las auscultaciones ultrasónicas dentro de los plazos establecidos y aplicar medidas complementarias cuando no estén disponibles los medios.",
+  "Modificar los procedimientos para conservar los registros de mantenimiento mientras los carriles estén en servicio."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Rotura de carril no detectada",
+  "Ausencia de auscultación ultrasónica reciente",
+  "Deficiencias en procedimientos de vigilancia"
+ ],
+ "mitigaciones": [
+  "Descarrilamiento sin vuelco total",
+  "Baja velocidad al paso del defecto"
+ ],
+ "factores_humanos": [
+  "Fallo en detección de defectos internos",
+  "Discrepancia entre normas y procedimientos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

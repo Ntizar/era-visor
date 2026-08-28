@@ -1,0 +1,43 @@
+{
+ "id": "ES-IF_110512_290113_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_110512_290113_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1422",
+ "expediente": "0035/2012",
+ "titulo": "Colisión y descarrilamiento del tren 1903 de Feve con un árbol caído entre Xubia y Ferrerías (La Coruña)",
+ "fecha_suceso": "2012-05-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "La Coruña",
+  "pk": "8+645",
+  "linea": "Línea 11 Ferrol - Gijón"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El día 11 de mayo de 2012, el tren de cercanías 1903 de Feve colisionó contra un pino gallego de grandes dimensiones que había caído sobre la vía debido a fuertes ráfagas de viento y pudrición de sus raíces. El impacto provocó el descarrilamiento del bogie delantero y el posterior vuelco de la unidad hacia el lado izquierdo cuando ya estaba casi detenida. No se produjeron víctimas mortales ni heridos gracias a la actuación del maquinista y las condiciones del suceso.",
+ "causa_directa": "La colisión del tren con un obstáculo (un pino de grandes dimensiones) caído sobre la vía que ocupaba el gálibo, derribado por fuertes vientos y con raíces podridas.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "Commuter train collided with a tree which was lying on the track. As a result of the impact, the train´s first bogie derailed.",
+  "Location name": "Between Xubia and Ferrerías stations (La Coruña)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Commuter train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when train 1903 collided with a big tree that was lying on the track"
+ }
+}

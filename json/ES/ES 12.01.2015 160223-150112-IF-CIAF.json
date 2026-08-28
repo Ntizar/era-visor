@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES 12.01.2015 160223-150112-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 12.01.2015 160223-150112-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0005/2015",
+ "titulo": "Incidente por rebase de señal en parada en la estación de Barcelona Marina",
+ "fecha_suceso": "2015-01-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Barcelona Marina",
+  "provincia": null,
+  "pk": null,
+  "linea": "Núcleo de Cercanías de Barcelona"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif",
+  "AESF"
+ ],
+ "resumen": "El tren 25780 rebasó indebidamente una señal en parada (señal 3646) en la estación de Barcelona Marina. El maquinista detuvo el tren brevemente pero reinició la marcha sin contactar con el puesto de mando, incumpliendo el Reglamento General de Circulación. No hubo colisión ni víctimas, pero se generó un incidente grave de seguridad operativa.",
+ "causa_directa": "Fallo humano del personal de conducción del tren 25780 debido a falta de atención, lo que provocó el rebase indebido de la señal 3646 en indicación de parada. Como factor coadyuvante, el incumplimiento normativo al reiniciar la marcha sin notificarlo al puesto de mando.",
+ "causas_sistemicas": "La señal 3646 carecía de baliza previa por insuficiencia de distancia para su emplazamiento. Además, el sistema de gestión de la seguridad de Renfe no disponía de procedimientos reglados para garantizar la trazabilidad de la formación práctica del personal de conducción.",
+ "recomendaciones": [
+  "Estudiar la posibilidad de cambiar de posición la señal 3646 para mejorar su visibilidad y dotarla, en su caso, de baliza previa.",
+  "Requerir a las empresas ferroviarias y administradores de infraestructura que incluyan en sus SGS un procedimiento que posibilite la trazabilidad de las actuaciones formativas, especialmente las prácticas.",
+  "Concretar un plazo máximo para que las disposiciones de la Resolución de 23 de diciembre de 2015 de la AESF estén incorporadas y operativas en los sistemas de gestión de la seguridad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Poca antigüedad del maquinista",
+  "Señal sin baliza previa",
+  "Visibilidad insuficiente de la señal",
+  "Falta de trazabilidad formativa"
+ ],
+ "mitigaciones": [
+  "Baliza previa en señal",
+  "Cambiar posición de señal",
+  "Protecciones de flanco mejoradas",
+  "Acompañamiento por tutor"
+ ],
+ "factores_humanos": [
+  "Poca antigüedad del maquinista",
+  "Fallo humano en conducción",
+  "Formación práctica insuficiente",
+  "Falta de trazabilidad formativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

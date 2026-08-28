@@ -1,0 +1,78 @@
+{
+ "id": "ES-ID_250407_171207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_250407_171207.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-246",
+ "expediente": "025/2007",
+ "titulo": "Arrollamiento de un turismo por tren en paso a nivel de Catoira-Puentecesures (Pontevedra)",
+ "fecha_suceso": "2007-04-25",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Pontevedra",
+  "pk": "66,722",
+  "linea": "824 Redondela-Santiago de Compostela"
+ },
+ "entidades": [
+  "Renfe-Operadora",
+  "Adif"
+ ],
+ "resumen": "El 25 de abril de 2007, el tren de Media Distancia 2424 de Renfe-Operadora arrolló a un turismo Renault Laguna en un paso a nivel de clase C situado en el pk 66,722 de la línea Redondela-Santiago de Compostela. El vehículo fue arrastrado 438 metros y quedó bajo el carenado del tren. Los tres ocupantes del turismo fallecieron y ningún viajero o empleado del tren resultó herido. El paso a nivel presentaba una avería intermitente y la señalización asociada no fue correctamente interpretada por el maquinista.",
+ "causa_directa": "La falta de adecuación de la marcha del tren a las indicaciones de la señalización del paso a nivel, junto con una avería intermitente en sus instalaciones, de modo que el maquinista no se puso en condiciones de parar ante la señal apagada.",
+ "causas_sistemicas": "El sistema de protección del paso a nivel no cumplía los requisitos funcionales del Manual de Circulación, permitía levantar las semibarreras con presencia de un tren en proximidad y las especificaciones técnicas admitían esa condición; además, la seguridad en modo degradado dependía excesivamente del factor humano y se observaron deficiencias en la señalización viaria y en la comunicación de incidencias.",
+ "recomendaciones": [
+  "Realizar campañas de reciclaje y formación del personal de conducción sobre el Reglamento General de Circulación y el Manual de Circulación.",
+  "Recordar al personal de conducción la obligación de informar de cualquier fallo observado en las instalaciones o en el funcionamiento del sistema.",
+  "Revisar y modificar la Descripción Técnica de Semibarreras Automáticas unificada de Renfe y adaptar el capítulo 8 del Manual de Circulación.",
+  "Revisar la fiabilidad de instalaciones de paso a nivel similares e investigar si las incidencias registradas se repiten en otros puntos de la red ferroviaria.",
+  "Homologar el sistema ASFA Digital una vez finalizadas las pruebas, hacerlo obligatorio en material nuevo e incorporarlo en el existente lo antes posible."
+ ],
+ "fallecidos": 3,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car, with three passengers, is hit by a long distance train when it was crossing the level crossing. The three all died.",
+  "Location name": "At kilometre point 66,722, level crossing type C, in the vicinity of Valga (Pontevedra). 824 Redondela-Santiago de Compostela railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 3,
+  "Total fatalities": 3
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tren no adaptó marcha a señalización",
+  "Vehículo invadió paso a nivel",
+  "No comunicar anomalía al Puesto de Mando",
+  "No permanecer en indicación restrictiva"
+ ],
+ "mitigaciones": [
+  "Semibarreras automáticas del paso a nivel",
+  "ASFA con aviso en cabina",
+  "Protocolos de emergencia activados",
+  "Comunicación inmediata al Puesto de Mando"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de señalización por maquinista",
+  "No informar anomalía al Puesto de Mando",
+  "Dependencia del factor humano",
+  "Necesidad de reciclaje formativo"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

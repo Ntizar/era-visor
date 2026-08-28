@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-040111-200911-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-040111-200911-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1111",
+ "expediente": "0007/2011",
+ "titulo": "Descarrilamiento del tren 621 de Renfe Operadora en el cambiador de ancho de Zaragoza Delicias",
+ "fecha_suceso": "2011-01-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "pk": "PK 305+740",
+  "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 4 de enero de 2011, a las 19:20, el tren de viajeros 621 de Renfe Operadora, con origen en Vigo y destino Barcelona Sants, descarriló al pasar por el cambiador de ancho de Zaragoza Delicias. La rueda derecha del segundo eje del primer bogie no efectuó el cambio de ancho y remontó el carril de guiado, circulando descarrilada unos 25 metros hasta la detención del tren. El informe atribuye el suceso a la pérdida de un tornillo y al afloje de otro en el soporte de la palanca del cerrojo que libera el mecanismo de bloqueo del cambio de ancho.",
+ "causa_directa": "Fallo en los dispositivos de cambio de ancho de la rueda descarrilada, debido a defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo del cambio de ancho.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Renfe Operadora: Modificar el sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho de los ejes BRAVA añadiendo una “chapa tope” a las unidades de la flota S121 que a fecha de este informe aún no hayan sido modificadas.",
+  "CAF: Estudiar, diseñar e implantar un sistema que asegure la sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho del eje BRAVA en los ejes de nueva fabricación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Long distance passenger train derailed of second axle of first bogie as it was in the operation of swapping the gauge.",
+  "Location name": "Zaragoza-Delicias station (Zaragoza), at its gauge changing facility, 060 Bif.Cambiador Zaragoza-Delicias - Cambiador Zaragoza-Delicias railway line",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a failure of the gauge changing facility devices."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Defectos en tornillería de anclaje",
+  "Pérdida tornillo exterior soporte",
+  "Aflojamiento tornillo interior soporte",
+  "No desenclavó cerrojo liberador"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior manual conducción",
+  "Cosido tornillos entre sí",
+  "Chapa tope sujeción tornillos",
+  "Inspección visual marca apriete"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

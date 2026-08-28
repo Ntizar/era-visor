@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-705",
+ "expediente": "0018/2009",
+ "titulo": "Arrollamiento de vehículo en paso a nivel entre Villargordo y Grañena (Jaén)",
+ "fecha_suceso": "2009-03-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Jaén",
+  "pk": "137,803",
+  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de viajeros 18032 arrolló a una furgoneta que invadió el paso a nivel tipo A situado entre Villargordo y Grañena. El conductor del vehículo falleció como consecuencia del impacto. Aunque el maquinista actuó correctamente aplicando el freno de emergencia y el silbato, no pudo evitar la colisión debido a la invasión repentina de la vía por parte del automóvil.",
+ "causa_directa": "El accidente tuvo su origen cuando el vehículo invade el paso a nivel en el momento en que el tren 18032 circulaba por él.",
+ "causas_sistemicas": "Acceso deficiente al paso a nivel desde la carretera N-323-A mediante un camino corto de tierra que impedía la instalación de la señalización vertical completa prevista en la normativa.",
+ "recomendaciones": [
+  "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car is hit by a train when crossing a level crossing type A. As a result, the driver died.",
+  "Location name": "Level crossing type A, kilometre point 137,803, near Villargordo station (Jaén); 402 Espeluy Aguja Km 340,1-Jaén railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the road vehicle invaded the level crossing as the train was approaching."
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-110310-261010-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-110310-261010-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-899",
+ "expediente": "0017/2010",
+ "titulo": "Arrollamiento de un automóvil por tren de cercanías en paso a nivel de Villaquilambre (León)",
+ "fecha_suceso": "2010-03-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "León",
+  "pk": "5+037",
+  "linea": "31 León - Bilbao"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El 11 de marzo de 2010, el tren de cercanías 7403 de FEVE arrolló a un automóvil que invadió el paso a nivel tipo A «El Ejido», en el P.K. 5+037 de la línea León-Bilbao, en Villaquilambre (León). La conductora del vehículo falleció como consecuencia del impacto. El informe concluye que el origen fue la invasión del gálibo de la vía por el turismo cuando pasaba el tren.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando pasaba el tren 7403.",
+ "causas_sistemicas": "Señalización de carretera incompleta y marca transversal de parada fuera de la distancia reglamentaria; visibilidad real inferior a la técnica para la velocidad del tramo; tipo de protección del paso a nivel no adecuado según la Orden Ministerial de 2 de agosto de 2001.",
+ "recomendaciones": [
+  "Ayuntamiento de Villaquilambre: Adaptar la señalización de carretera del paso a nivel conforme a la Orden Ministerial de 2 de agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del vehículo (M-4.1).",
+  "FEVE: Adaptar las condiciones del paso a nivel a la Orden Ministerial de 2 de agosto de 2001, cambiando la protección de tipo A a B, modificando las distancias de visibilidad real o reduciendo la velocidad del tramo."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "Train 7403 hit a road vehicle that was crossing the LC. The driver didn´t stop before crossing the LC as it was stated by the stop signal that protects this kind of LC.",
+  "Location name": "Level crossing, type A, kilometre point 5,037, at Villaquilambre (León), 31 León-Bilbao railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade gálibo de la vía",
+  "Conductora cruza sin detenerse",
+  "Señalización de carretera incompleta",
+  "Marca de parada fuera de distancia"
+ ],
+ "mitigaciones": [
+  "Maquinista acciona silbato y freno",
+  "Maquinista usa seta de emergencia",
+  "Adaptar señalización de carretera",
+  "Cambiar protección de A a B"
+ ],
+ "factores_humanos": [
+  "Conductora no se percata del tren",
+  "Vehículo no se detiene en paso a nivel",
+  "Señalización carretera no conforme normativa",
+  "Protección paso a nivel no normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

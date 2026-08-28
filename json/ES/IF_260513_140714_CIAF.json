@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_260513_140714_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_260513_140714_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2353",
+ "expediente": "0042/2013",
+ "titulo": "Descarrilamiento y colisión en estación Sevilla Santa Justa por fallo de infraestructura",
+ "fecha_suceso": "2013-05-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Sevilla - Santa Justa",
+  "provincia": null,
+  "pk": "570+580",
+  "linea": "Línea 400 Alcázar de San Juan a Cádiz"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren vacío 39324 descarriló al pasar por la aguja nº 18 debido a un sobreancho de vía y mal estado de las sujeciones. Los vehículos invadieron el gálibo de la vía contigua y colisionaron con el tren 2135 que circulaba en sentido contrario. La investigación atribuye el accidente a un fallo en la infraestructura no detectado en inspecciones previas.",
+ "causa_directa": "Fallo en la infraestructura: estado deficiente de las sujeciones y traviesas del desvío nº 18, lo que provocó una apertura de la vía (sobreancho) al paso del tren.",
+ "causas_sistemicas": "Deficiencias en el mantenimiento preventivo de los desvíos y en los planes de inspección específicos para vías de acceso con alta densidad de tráfico.",
+ "recomendaciones": [
+  "Hacer un plan de inspección específico de los desvíos situados en vías de acceso a instalaciones ferroviarias que soporten un número elevado de circulaciones. Ante la existencia de deficiencias de seguridad, actuar en consecuencia."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Passenger train 39324 (empty stock consisted of 2 railcars) derailed when, to start its scheduled running, moved from the station terminus it was to track 10 of Sevilla Santa Justa station. Four bogies of the two first coaches of the rear railcar derailed. These cars impinged on the adjacent track colliding then with the rear tractive unit of a passenger train that was starting its established route",
+  "Location name": "Sevilla Santa Justa station terminus (Sevilla)",
+  "Railway System type": "Railway",
+  "Line type": "Multiple track",
+  "Location type": "Siding",
+  "Movement type": "Other; \nLong distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is due to an infrastructure failure, since fastenings and sleepers of turnout nº 18 were in poor condition making the track to widen as train passed through."
+ }
+}

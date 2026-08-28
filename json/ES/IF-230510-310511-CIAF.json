@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-230510-310511-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-230510-310511-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-923",
+ "expediente": "0026/2010",
+ "titulo": "Descarrilamiento de un tren de mercancías entre Pozuelo y Príncipe Pío (Madrid)",
+ "fecha_suceso": "2010-05-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "5+114",
+  "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 23 de mayo de 2010, sobre las 22:54 horas, se produjo el descarrilamiento del tren de mercancías 95053 en el punto kilométrico 5+114 de la línea 910, entre Pozuelo y Príncipe Pío (Madrid). El suceso afectó al primer bogie del vagón-plataforma que ocupaba la duodécima posición de la composición. La rueda derecha del primer eje se desplazó fuera de la zona de calado y provocó el descarrilamiento. La investigación concluye que el accidente tuvo su origen en el decalado de dicha rueda, probablemente por mal calado.",
+ "causa_directa": "El decalado de la rueda derecha del primer eje del primer bogie del vagón-plataforma duodécimo de la composición, probablemente por mal calado de dicha rueda.",
+ "causas_sistemicas": "Posibles deficiencias en el proceso de calado de ruedas, relacionadas con mediciones, equipos o presiones de calado en valores mínimos, y con la documentación y control de calidad aplicados.",
+ "recomendaciones": [
+  "Realizar una auditoría externa a Siderúrgica Requena, S.A., sobre la documentación y el control de calidad del calado de ruedas, y verificar el estado, control y calibración de los medios de mecanizado, calado y sistemas de medición."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train 95053 running between Pozuelo and Príncipe Pio stations became derailed (first bogie of 11th wagon).",
+  "Location name": "Between Pozuelo and Principe Pio stations (Madrid), kilometre point 5+114, 910 Madrid Atocha Cercanías-Pinar de las Rozas railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin on the removal of the first axel´s right wheel of the 11th wagon, probably due to a wrong pressing on of wheel process"
+ }
+}

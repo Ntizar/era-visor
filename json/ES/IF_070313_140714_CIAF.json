@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF_070313_140714_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_070313_140714_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2150",
+ "expediente": "0018/2013",
+ "titulo": "Incidente ferroviario: tren Renfe rebasa señales en parada en estación Viana de Cega (Valladolid)",
+ "fecha_suceso": "2013-03-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Viana de Cega",
+  "provincia": "Valladolid",
+  "pk": "PK 234+843",
+  "linea": "Línea 100 Madrid - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 7 de marzo de 2013, el tren complementario VB688 de Renfe Operadora, con material vacío, rebasó indebidamente las señales E2 y R2 en parada en la estación de Viana de Cega. El rebase se produjo mientras el tren auscultador PD601 de Adif quedaba apartado en la vía 4 para realizar un cruce. Ambos trenes quedaron enfrentados a 226 metros, generando un conato de colisión. No se registraron daños personales ni materiales.",
+ "causa_directa": "El origen del incidente fue el rebase indebido de las señales E2 y R2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": "El informe señala como factor subyacente la distracción del maquinista por atender el panel de control ante los fallos recurrentes del motor; no se identifican otras causas sistémicas ni se formulan recomendaciones.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Train VB688 (empty stock) overtook both home and backing signals when entering at Viana station. This situation caused a near miss train collision. No personal or material damages.",
+  "Location name": "Viana station (Valladolid)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train VB688 (empty stock) unduly overtook both home and backing signals (E2 and R2) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver"
+ }
+}

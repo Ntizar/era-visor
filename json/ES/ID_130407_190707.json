@@ -1,0 +1,65 @@
+{
+ "id": "ES-ID_130407_190707",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_130407_190707.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-220",
+ "expediente": "0024/2007",
+ "titulo": "Arrollamiento de una persona por tren de Cercanías en el apeadero de El Tejar (Madrid)",
+ "fecha_suceso": "2007-04-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de El Tejar",
+  "provincia": "Madrid",
+  "pk": "18/200",
+  "linea": "Línea 100 Madrid-Chamartín-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "Un tren de viajeros de Cercanías arrolló a una persona que se encontraba tendida sobre la vía en el apeadero de El Tejar. La víctima, viajero del tren anterior, invadió el gálibo de la vía desconociéndose el motivo de su conducta. El accidente provocó la interrupción de la circulación y retrasos significativos en otros trenes.",
+ "causa_directa": "La víctima invadió el gálibo de la vía encontrándose tendida sobre ella, desconociéndose el motivo de dicha conducta.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person is knocked down by a commuter train 17106.",
+  "Location name": "El Tejar halt (Madrid). Railway from Madrid to Pinar de las Rozas.100 Madrid-Hendaya railway line",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim, who was found with a ticket from another train, was on the track when commuter train 17106 passed by."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "persona tendida sobre la vía",
+  "invadir el gálibo de vía"
+ ],
+ "mitigaciones": [
+  "frenado de urgencia inmediato",
+  "información al puesto de mando"
+ ],
+ "factores_humanos": [
+  "conducta desconocida de la víctima",
+  "no se identifican fallos humanos operativos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

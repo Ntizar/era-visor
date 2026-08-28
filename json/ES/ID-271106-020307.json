@@ -1,0 +1,79 @@
+{
+ "id": "ES-ID-271106-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-271106-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-35",
+ "expediente": "0051/2006",
+ "titulo": "Arrollamiento de persona por tren entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid",
+ "fecha_suceso": "2006-11-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "9,850",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord"
+ },
+ "entidades": [
+  "Renfe",
+  "Adif"
+ ],
+ "resumen": "El tren de Larga Distancia 1194 de Renfe arrolló a una persona en plena vía entre San Cristóbal de los Ángeles y San Cristóbal Industrial, en la línea Madrid Atocha-Valencia Nord. La víctima falleció y el tren circulaba a 105 km/h, por debajo de la velocidad máxima permitida. El lugar presentaba cerramientos rotos y tránsito irregular de personas hacia un poblado chabolista, pese a existir una pasarela peatonal cercana. El accidente provocó importantes retrasos en varios trenes hasta el levantamiento del cadáver.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que transitaba por las vías por un lugar no autorizado en lugar de utilizar la pasarela peatonal existente.",
+ "causas_sistemicas": "Existencia de un paso irregular hacia un poblado chabolista, roturas del cerramiento, uso del camino de servicio paralelo a las vías y reiteración de arrollamientos en el entorno, pese a la pasarela existente.",
+ "recomendaciones": [
+  "Reparar de forma permanente el cerramiento en la zona del arrollamiento.",
+  "Reponer el cerramiento con un tipo de mayor consistencia e incrementar las medidas barrera.",
+  "Reforzar la vigilancia efectiva en San Cristóbal Industrial y San Cristóbal de los Ángeles.",
+  "Ejecutar un paso inferior para facilitar el cruce de vías.",
+  "Crear un servicio lanzadera de transporte público y gratuito para las personas del poblado.",
+  "Hacer un seguimiento frecuente de las vallas y reparar los trozos rotos en el plazo más breve posible.",
+  "Intensificar la vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+  "Coordinar con el Ayuntamiento de Madrid un transporte u actuación que impida deambular por las vías."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion at a faulty crossing.",
+  "Location name": "Raiway line from Madrid to Valencia at the kilometre point 9,600.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce no autorizado de vías",
+  "roturas del cerramiento ferroviario",
+  "tránsito irregular hacia poblado",
+  "no uso de pasarela peatonal"
+ ],
+ "mitigaciones": [
+  "frenada de emergencia aplicada",
+  "uso del silbato",
+  "reparación permanente del cerramiento",
+  "intensificar vigilancia en apeadero"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "falta de vigilancia",
+  "omisión en reparar cerramiento",
+  "paso irregular conocido"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

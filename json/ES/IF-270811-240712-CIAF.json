@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-270811-240712-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-270811-240712-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1253",
+ "expediente": "0040/2011",
+ "titulo": "Descarrilamiento del tren 28480 en la estación de Granollers-Centre por rebase de señal",
+ "fecha_suceso": "2011-08-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Granollers - Centre",
+  "provincia": "Barcelona",
+  "pk": "134+932",
+  "linea": "270 Bifurcación Sagrera - Cerbere"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de cercanías 28480, estacionado en vía 7, inició la marcha confundiendo la señal verde de la vía adyacente (vía 5) con la suya propia. El auxiliar de circulación había informado erróneamente al CTC que el tren estaba en vía 5, lo que provocó que se abriera la señal incorrecta. Al no disponer la vía 7 de circuito de vía, el sistema no detectó la ocupación real. El tren rebasó la señal de parada S2/7-9, arrolló un calce descarrilador y descarriló los bogies del primer coche.",
+ "causa_directa": "Rebase indebido de la señal de salida S2/7-9 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción (confusión del maquinista).",
+ "causas_sistemicas": "Error humano del auxiliar de circulación al comunicar la posición del tren al CTC; falta de circuito de vía en la vía 7 que impidió la verificación automática de la ocupación; diseño de señales de mono bajo que facilitaron la confusión visual.",
+ "recomendaciones": [
+  "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Commuter train unduly overtook exit signal, running over scotch block nº23 and becoming partially derailed (the first two bogies)",
+  "Location name": "Granollers Centre (Barcelona), kilometre point 134,932, 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when commuter train 28480 overrun, without authorization, exit signal S2/7-9 - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ }
+}

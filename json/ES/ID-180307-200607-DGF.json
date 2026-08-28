@@ -42,5 +42,33 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima accedió a caja de vía",
+  "Cerramiento defectuoso en zonas próximas",
+  "Carpas de fiestas junto a vía",
+  "Tramo en curva reduce visibilidad"
+ ],
+ "mitigaciones": [
+  "Uso inmediato de freno de emergencia",
+  "Silbato para avisar al viandante",
+  "Foco de gran intensidad activo",
+  "Reparación del vallado dañado"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Acceso indebido a la vía",
+  "Visibilidad nocturna reducida",
+  "Organización de festejos junto vía"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true
 }

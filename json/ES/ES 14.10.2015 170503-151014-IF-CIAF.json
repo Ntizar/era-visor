@@ -1,0 +1,58 @@
+{
+ "id": "ES-ES 14.10.2015 170503-151014-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 14.10.2015 170503-151014-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0049/2015",
+ "titulo": "Incidente ferroviario en la estación de Monte la Reina (Zamora)",
+ "fecha_suceso": "2015-10-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Monte la Reina",
+  "provincia": "Zamora",
+  "pk": null,
+  "linea": "Toro-Zamora"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif"
+ ],
+ "resumen": "El incidente nº 0049/2015 ocurrió el 14 de octubre de 2015 en la estación de Monte la Reina (Zamora). El personal de conducción no cumplió las prescripciones de circulación del Bloqueo Telefónico Supletorio entre Toro y Zamora. Como factor coadyuvante, las señales avanzada y de entrada estaban giradas hacia el campo, situación no contemplada en la consigna de trabajos. El maquinista desconocía la Noticia TO Nº58 que indicaba los aspectos de las señales.",
+ "causa_directa": "El incidente se produjo por fallo humano del personal de conducción al no cumplir las prescripciones de circulación del Bloqueo Telefónico Supletorio entre Toro y Zamora.",
+ "causas_sistemicas": "Consigna ATO/CTO Nº35/52 insuficientemente detallada y no acorde con el BTS; análisis de riesgos poco detallado y generalista; falta de comunicación de la Noticia TO Nº58 al maquinista; demora del jefe de circulación en comunicar el incidente al puesto de mando.",
+ "recomendaciones": [
+  "En los cursos de reciclaje del personal de conducción, incidir en situaciones degradadas o no habituales como el bloqueo telefónico supletorio.",
+  "Asegurar que los maquinistas reciban las Noticias que les afecten antes de los servicios y que los mandos intermedios les recuerden las condiciones de circulación.",
+  "Elaborar consignas de trabajos más detalladas, describiendo las afecciones a las instalaciones de seguridad, especialmente a las señales.",
+  "Realizar el análisis de riesgos en fases previas del proyecto, verificar su mitigación y asegurar trazabilidad e intercambio de información con la consigna.",
+  "En los cursos de reciclaje del personal de circulación, insistir en la comunicación inmediata de incidencias que afecten a la seguridad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Señales giradas hacia el campo",
+  "Maquinista desconocía Noticia TO",
+  "Consigna no detallaba orientación señales"
+ ],
+ "mitigaciones": [
+  "Aplicación bloqueo telefónico supletorio",
+  "Circular operativa gestión fallo humano"
+ ],
+ "factores_humanos": [
+  "Fallo humano en conducción",
+  "Desconocimiento de noticias operativas",
+  "Retraso comunicación incidente jefe circulación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

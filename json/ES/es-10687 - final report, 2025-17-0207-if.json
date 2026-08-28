@@ -1,0 +1,79 @@
+{
+ "id": "ES-es-10687 - final report, 2025-17-0207-if",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/es-10687 - final report, 2025-17-0207-if.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10687",
+ "expediente": "17/2025",
+ "titulo": "Rebase de señal de salida en la estación de Las Matas (Madrid)",
+ "fecha_suceso": "2025-02-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Las Matas",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Mercancías",
+  "ADIF"
+ ],
+ "resumen": "El 7 de febrero de 2025, el tren 91804 de Renfe Mercancías, formado por el tren 54147 y dos locomotoras de socorro, rebasó la señal de salida S2/1 de la estación de Las Matas, que ordenaba parada. El suceso se produjo durante el movimiento de retorno a Vicálvaro-Clasificación tras el rescate del tren 54147, cuya locomotora se quedó sin combustible. Las operaciones de acoplamiento y reposicionamiento de las locomotoras no se realizaron correctamente y la prueba de frenos fue incompleta, lo que redujo la capacidad de frenado. No se registraron víctimas ni daños materiales.",
+ "causa_directa": "La causa directa fue la capacidad de frenado insuficiente del tren 91804, formado por el tren 54147 y dos locomotoras de socorro, al rebasar la señal S2/1 que ordenaba parada.",
+ "causas_sistemicas": "Deficiencias en la gestión del repostaje del material motor; ausencia de procedimientos normalizados para verificar niveles de combustible; falta de procedimientos claramente definidos para tomas y relevos de conductores; formación insuficiente del personal del CGO y de los conductores en operativas de socorro.",
+ "recomendaciones": [
+  "Implantar un sistema de gestión y control del repostaje del material motor que garantice niveles adecuados de combustible, con supervisión y trazabilidad.",
+  "Establecer procedimientos normalizados para verificar niveles de combustible en el material motor, con responsabilidades, momentos y criterios de actuación.",
+  "Definir las operativas de toma y relevo al paso, especificando tareas, tiempos necesarios y canales de comunicación al personal de conducción.",
+  "Reforzar la formación del personal del Centro de Gestión Operativa sobre características técnicas del material motor y ejecución de operativas de socorro.",
+  "Mejorar la formación del personal de conducción en operativas de socorro.",
+  "Adoptar medidas para evitar la alta rotación del personal del Centro de Gestión Operativa y reforzar la presencia de personal de supervisión."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Operational event",
+  "Occurrence description": "National ID 17/2025: operational event.\nRenfe Mercancías train 54147, with 14 wagons and dangerous goods (ethanol), changes its driver in Vicálvaro station. Less than an hour later the locomotive (333.325) runs out of fuel and stops between Pitis and Pinar de las Rozas. Another locomotive (333.367) was dispatched to tow the train to Torrelodones station, as it was blocking commuting traffic. However, this second locomotive also had a low level of fuel (it had not been refilled becouse of the hurry), so it was decided that it would be coupled to the tail of the train and bring it back to Vicálvaro. It was not possible to unblock the brake of the original locomotive (now being towed on its tail) or to supply it with air, so a third locomotive (253.093) was sent to join the useless locomotive on its tail. Once the couplings had been made, the train departed in the direction of Las Matas, with locomotive 333.367 in the lead (driven by the driver who had brought 253.093) and the other locomotives in the tail: 253.093 (with no staff on board) supplying air to 333.325. The brake test would have been done previously (before the coupling of 253.093). Already en route, the driver detected a brake failure on track 1 between Torrelodones and Las Matas. After using the parking brake, he managed to stop the train between Las Matas and Pinar de las Rozas (the rest of the trains that could have been affected were diverted). No damage was caused.\nThe Spanish NIB begun a preliminary enquiry on 18/03/2025, and decided a full-fledged investigation after preliminary results, on 22/05/2025.",
+  "Location name": "Las Matas (Madrid)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The causal factor identified was:\n\t•\tInsufficient braking capacity of train 91804, consisting of train 54147 and two rescue locomotives.\nThe contributing factors were:\n•\tInadequate preparation of train 91804 during the operations carried out prior to its departure from Torrelodones for the return journey.\n•\tIncomplete brake testing following the successive coupling of traction units to train 91804.\n•\tDeficiencies in the planning and coordination of the rescue operations for train 54147 after its locomotive ran out of fuel.\n•\tFuel exhaustion of the train locomotive of train 54147, resulting in the train coming to a standstill on the open line.\n•\tOperational pressure to clear the line quickly owing to the disruption caused to Cercanías suburban passenger services.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The following systemic factors were identified:\n•\tDeficiencies in the management of locomotive refuelling.\n•\tAbsence of standardised procedures requiring drivers to verify fuel levels in traction units.\n•\tLack of clearly defined procedures for train drivers relief and train drivers changes, including the associated tasks and their communication to train drivers.\n•\tInsufficient training of Operational Management Centre staff regarding the characteristics of traction units and rescue operations.\n•\tInsufficient training of train drivers in rescue procedures."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Agotamiento de combustible locomotora titular",
+  "Bajo nivel de combustible locomotora socorro",
+  "Reubicación locomotora socorro extremo opuesto",
+  "Acoplamiento incorrecto locomotoras socorro"
+ ],
+ "mitigaciones": [
+  "Prueba de frenado completa tras acoplamiento",
+  "Verificación de nivel de combustible",
+  "Planificación adecuada de operaciones socorro",
+  "Formación de conductores en socorro"
+ ],
+ "factores_humanos": [
+  "Deficiente preparación del tren 91804",
+  "Prueba de frenado incompleta",
+  "Deficiencias en planificación de socorro",
+  "Presión operativa por despejar vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,67 @@
+{
+ "id": "ES-IF-160710-290311-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-160710-290311-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-992",
+ "expediente": "0039/2010",
+ "titulo": "Conato de colisión entre trenes 4141 y 8168 en la señal E1 de la dependencia Río Duero (Valladolid)",
+ "fecha_suceso": "2010-07-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Río Duero",
+  "provincia": "Valladolid",
+  "pk": "167+867",
+  "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 16 de julio de 2010, a las 15:41 horas, el tren 4141 de Renfe Operadora rebasó indebidamente la señal de entrada E1 en indicación de parada en la dependencia Río Duero, Valladolid. El rebase provocó un conato de colisión con el tren 8168, que ya ocupaba el circuito de vía protegido por la señal. El personal de conducción no reconoció la indicación L1 y continuó la marcha sin cumplir las órdenes de las señales. Las instalaciones y el equipo de seguridad funcionaron correctamente.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Long distance train 4141 overtook home signal E1 (stop aspect) causing a near miss train collision with long distance train 8168 that was running at track 2.",
+  "Location name": "Rio Duero interchange point station (Valladolid), kilometre point 167,867, 80 Madrid Chamartín -Valladolid Campo Grande railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the train overtook, without authorization, the home signal (E1) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No reconocer indicación L1 previa",
+  "Continuar marcha tras frenado urgencia",
+  "Pasar baliza entrada a alta velocidad",
+  "Rebase indebido señal parada"
+ ],
+ "mitigaciones": [
+  "Frenado automático por ASFA",
+  "Detención tren antes colisión frontal",
+  "Retroceso controlado hasta señal"
+ ],
+ "factores_humanos": [
+  "Incumplimiento órdenes señales",
+  "Error reconocimiento indicación previa",
+  "Conducción sin autorización retroceso"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

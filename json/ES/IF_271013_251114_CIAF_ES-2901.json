@@ -1,0 +1,30 @@
+{
+ "id": "ES-IF_271013_251114_CIAF_ES-2901",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_271013_251114_CIAF_ES-2901.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0068/2013",
+ "titulo": "Rebase indebido de señal en parada y conato de colisión en la estación de Zalla (Vizcaya)",
+ "fecha_suceso": "2013-10-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Zalla",
+  "provincia": "Vizcaya",
+  "pk": "2+057",
+  "linea": "790 RAM La Asunción Universidad - Aranguren"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 27 de octubre de 2013, a las 08:31, el tren de cercanías 08904 de Renfe Operadora rebasó indebidamente la señal S2/2 en indicación de parada en la estación de Zalla (Vizcaya). El tren turístico 73101 estaba detenido ante la señal de entrada E1 y ambos debían cruzarse en la estación. Se produjo un conato de colisión, quedando los trenes a 191 metros de distancia, sin víctimas. El informe atribuye el incidente a un despiste del maquinista del tren 08904.",
+ "causa_directa": "El incidente se produjo por un fallo humano del personal de conducción del tren 08904, consistente en una falta de atención que provocó el rebase indebido de la señal S2/2 en indicación de parada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -1,0 +1,69 @@
+{
+ "id": "ES-IF-151211-260612-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-151211-260612-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1313",
+ "expediente": "0062/2011",
+ "titulo": "Descarrilamiento de tren de cercanías por arrollamiento de barrón ASFA desprendido en Valencia Sant Isidre",
+ "fecha_suceso": "2011-12-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Valencia Sant Isidre",
+  "provincia": "Valencia",
+  "pk": "84+565",
+  "linea": "310 Aranjuez – Valencia Estació del Nord"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 15 de diciembre de 2011, el tren de cercanías 24406 descarriló a la entrada de la estación de Valencia Sant Isidre. El incidente se originó cuando el tren arrolló un barrón soporte del captador ASFA que se había desprendido previamente del tren 24403. Dicho componente se soltó tras una inspección deficiente donde no se detectó que el barrón estaba desnivelado y dañado. No hubo heridos, pero el primer bogie del tren quedó descarrilado.",
+ "causa_directa": "Fallo técnico del material rodante: desprendimiento en plena vía del barrón soporte del captador ASFA del automotor 592069 (tren 24403), que fue arrollado posteriormente por el tren 24406.",
+ "causas_sistemicas": "Inspección visual insuficiente durante la revisión del tren 24404, donde no se detectó que el barrón soporte del captador estaba desnivelado y con fisuras previas por fatiga y oxidación, permitiendo su circulación hasta el desprendimiento.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Passenger train (24406) overwhelmed a bar lost from an ASFA receiver (from train 24403) that was on the track. As a result, the train partially derailed. \nEl día 15 de diciembre de 2011, a las 07:52 horas, a la entrada de la estación de Valencia Sant Isidre, de la línea 310 Aranjuez a Valencia Estació del Nord, se produce el descarrilamiento del tren de cercanías 24406 de la empresa ferroviaria Renfe Operadora, como consecuencia de haber arrollado el barrón soporte del captador del ASFA que se había desprendido previamente de la composición anterior (tren 24403)._x000D_\nNo hubo heridos en el accidente.",
+  "Location name": "Sant Isidre station (Valencia)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in a rolling stock failure when a bar from the ASFA system was lost by a train and was overhelmed by train 24406 causing its partial derailment. \nEl accidente tuvo su origen en un fallo técnico del material, al desprenderse en plena vía el barrón soporte del captador ASFA del automotor 592069 del tren 24403, produciendo el descarrilamiento del tren 24406 que circulaba a continuación.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": " \n"
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "golpe bajo vehículo tren 24404",
+  "desprendimiento captador ASFA",
+  "inspección deficiente barrón soporte",
+  "circulación con pieza dañada"
+ ],
+ "mitigaciones": [
+  "velocidad inferior a máxima permitida",
+  "descarrilamiento solo primer bogie",
+  "ausencia de heridos en accidente"
+ ],
+ "factores_humanos": [
+  "omisión nivelación barrón soporte",
+  "no detección pérdida pieza cola",
+  "mantenimiento preventivo insuficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

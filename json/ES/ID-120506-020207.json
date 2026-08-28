@@ -42,5 +42,30 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruzar hablando por teléfono móvil",
+  "Ignorar señal luminosa peatonal",
+  "Pasar con barreras abatidas"
+ ],
+ "mitigaciones": [
+  "Semibarreras automáticas enclavadas funcionaban correctamente",
+  "Señalización luminosa y acústica operativa",
+  "Velocidad inferior a máxima autorizada",
+  "Visibilidad correcta desde ambos márgenes"
+ ],
+ "factores_humanos": [
+  "Falta de atención de la víctima",
+  "Uso de teléfono móvil al cruzar",
+  "Ignorar prohibición de paso peatonal",
+  "Comportamiento imprudente del peatón"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

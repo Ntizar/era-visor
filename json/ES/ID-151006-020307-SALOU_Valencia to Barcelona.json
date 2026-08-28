@@ -45,5 +45,30 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Conductor sorteó semibarreras abatidas",
+  "No respetó señalización ferroviaria",
+  "Acceso sin señalización prescrita"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Correcto funcionamiento de semibarreras",
+  "Frenada de emergencia del tren",
+  "Buena visibilidad del paso nivel"
+ ],
+ "factores_humanos": [
+  "Conductor invadió la vía",
+  "No respetó señalización del paso nivel",
+  "No se realizó prueba alcoholemia",
+  "Falta de señalización en acceso"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

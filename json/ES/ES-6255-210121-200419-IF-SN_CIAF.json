@@ -1,0 +1,56 @@
+{
+ "id": "ES-ES-6255-210121-200419-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-6255-210121-200419-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "28/2019",
+ "titulo": "Incidente ferroviario en la estación de Mataró (Barcelona) el 20 de abril de 2019",
+ "fecha_suceso": "2019-04-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Mataró",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF"
+ ],
+ "resumen": "El 20 de abril de 2019 se produjo un incidente ferroviario en la estación de Mataró (Barcelona) durante un fuerte temporal marítimo. El viento y oleaje inundaron parcialmente las vías y provocaron ocupaciones artificiales en varios circuitos de vía del entorno. La situación obligó a operar en condiciones degradadas, incluyendo el establecimiento de bloqueo telefónico entre Vilassar de Mar y Mataró. El informe también destaca la elevada carga de trabajo del regulador de circulación de Mataró al asumir el telemando de Vilassar.",
+ "causa_directa": "Ocupaciones artificiales de circuitos de vía causadas por la inundación con agua de mar durante el temporal marítimo, que degradaron la señalización y la explotación en el entorno de Mataró.",
+ "causas_sistemicas": "Asignación de funciones excesiva al regulador de circulación de Mataró en situaciones de anormalidad, ausencia de protocolos específicos para controlar la línea en condiciones degradadas, deficiencias en el análisis de riesgos y diseño de circuitos de vía frente a temporales, y demora en la recuperación de la normalidad.",
+ "recomendaciones": [
+  "Revisar las tareas de los reguladores de circulación en estaciones terminales y complejas, con procedimientos de asignación de funciones en carga elevada y condiciones degradadas.",
+  "Realizar análisis de riesgos en renovaciones y modificaciones de enclavamientos y otras instalaciones de seguridad, considerando amenazas y situaciones de anormalidad.",
+  "No limitarse a los Safety Cases de contratistas; realizar un análisis de riesgos del sistema integrado que considere las anormalidades posibles."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Ocupaciones artificiales por temporal marítimo",
+  "Alta carga de trabajo del RC",
+  "Modificación reciente enclavamiento Mataró"
+ ],
+ "mitigaciones": [
+  "Bloqueo telefónico entre estaciones",
+  "Telemando Vilassar desde CTC",
+  "Rediseño circuitos vía ADIF"
+ ],
+ "factores_humanos": [
+  "Sobrecarga funciones RC",
+  "Falta verificación manual adecuada",
+  "Procedimientos insuficientes anormalidad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,76 @@
+{
+ "id": "ES-ID_250507_140907",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_250507_140907.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-238",
+ "expediente": "0034/2007",
+ "titulo": "Arrollamiento mortal de una persona en paso vicioso entre Montroig del Camp y L'Hospitalet de L'Infant, Tarragona",
+ "fecha_suceso": "2007-05-25",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Tarragona",
+  "pk": "244,350",
+  "linea": "Valencia - San Vicente de Calders"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El 25 de mayo de 2007, a las 19:17, una persona falleció al ser arrollada por el tren de Larga Distancia 1181 de RENFE mientras intentaba cruzar la vía por un paso vicioso entre Montroig del Camp y L'Hospitalet de L'Infant, en la provincia de Tarragona. El tren circulaba a 148 km/h, por debajo de la máxima permitida de 160 km/h, y el maquinista avisó con el silbato y aplicó el freno de urgencia sin poder evitar el atropello. No se produjeron daños materiales, aunque el suceso causó retrasos en varios trenes. La investigación calificó el accidente como grave y lo atribuyó a la invasión indebida de la vía.",
+ "causa_directa": "La causa directa fue la invasión indebida de la vía por parte de la persona accidentada al cruzar por un paso vicioso en el momento del paso del tren, lo que hizo inevitable el arrollamiento pese a la actuación del maquinista.",
+ "causas_sistemicas": "Existencia de un paso vicioso aparentemente bastante utilizado en un tramo en recta próximo a una curva, con acceso a la vía no impedido y alta velocidad de circulación.",
+ "recomendaciones": [
+  "Promover la adopción de medidas que impidan el acceso a la vía en la zona del accidente.",
+  "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person walking alongside the rail is hit by a train.",
+  "Location name": "At the kilometre point 244,350 in the vicinity of Hospitalet de L´Infant (Tarragona). Railway from Barcelona to San Vicente Calders. (600 Valencia-San Vicente de Calders railway line)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim was at unauthorised place"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Intento de cruzar por paso vicioso",
+  "No percatarse de llegada tren",
+  "Acceso indebido a vía",
+  "Circulación alta velocidad tras curva"
+ ],
+ "mitigaciones": [
+  "Aviso acústico con silbato",
+  "Aplicación de freno urgencia",
+  "Velocidad inferior a máxima",
+  "Visibilidad buena hacia ambos lados"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "No percatarse del tren",
+  "Falta de conciencia peligro",
+  "Uso de paso vicioso"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

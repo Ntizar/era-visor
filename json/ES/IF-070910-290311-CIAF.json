@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-070910-290311-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-070910-290311-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1041",
+ "expediente": "0050/2010",
+ "titulo": "Arrollamiento mortal de una mujer en paso a nivel entre Aranguren y Zalla (Vizcaya)",
+ "fecha_suceso": "2010-09-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Vizcaya",
+  "pk": "0+388",
+  "linea": "1031 León - Bilbao"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 7 de septiembre de 2010, a las 17:02, el tren 8939 de Feve arrolló mortalmente a una mujer en el paso a nivel clase C del P.K. 0+388 de la línea 1031 León-Bilbao, entre Aranguren y Zalla (Vizcaya). La víctima invadió el paso mientras los dispositivos de protección estaban en funcionamiento. El maquinista silbó repetidamente y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. Los equipos de seguridad del tren y del paso funcionaron correctamente, aunque se detectaron deficiencias en la señalización del camino.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, que cruzó el paso a nivel cuando pasaba el tren 8939 y los dispositivos de protección estaban en funcionamiento.",
+ "causas_sistemicas": "Se aprecian deficiencias en la señalización del camino del paso a nivel conforme a la Orden Ministerial de 2 de agosto de 2001, como señales fijas incompletas, falta de sonerías y visera, y pavimento sin contracarriles.",
+ "recomendaciones": [
+  "Adaptar la señalización del camino del paso a nivel conforme a la Orden Ministerial de 2 de agosto de 2001.",
+  "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
+  "Eliminar la semibarrera innecesaria según el sentido de circulación del vial y reponer las sonerías que faltan."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A passenger train knocked down a woman while she was crossing the LC which had all its protective devices working.",
+  "Location name": "Between Aranguren y Zalla station (Vizcaya), level crossing, type C, kilometre point 0,388, 1031 León-Bilbao railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "invasión del gálibo por víctima",
+  "cruce del paso con protección activa",
+  "señalización del camino incompleta",
+  "faltan sonerías en barreras"
+ ],
+ "mitigaciones": [
+  "uso del silbato por maquinista",
+  "aplicación del freno de emergencia",
+  "dispositivos de protección en funcionamiento",
+  "señalización del camino completa"
+ ],
+ "factores_humanos": [
+  "víctima cruza con protección activa",
+  "maquinista usa silbato y frena",
+  "señalización del camino deficiente",
+  "salida del apeadero en paso"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -45,5 +45,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce indebido de vías por víctima",
+  "Abertura ilegal en vallado de estación",
+  "Acceso al recinto ferroviario por paso vicioso",
+  "No atender indicaciones de atención en andén"
+ ],
+ "mitigaciones": [
+  "Baja velocidad de tren en estación",
+  "Carteles de aviso de peligro",
+  "Vallado reparado para cerrar paso",
+  "Evacuación inmediata de la víctima"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "No percatarse de llegada del tren",
+  "Acceso por paso vicioso",
+  "Mantenimiento del vallado recomendado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

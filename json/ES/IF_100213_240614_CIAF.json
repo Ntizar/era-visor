@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF_100213_240614_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_100213_240614_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2079",
+ "expediente": "0013/2013",
+ "titulo": "Descarrilamiento del tren de mercancías 9681 en la estación de Maliaño (Cantabria)",
+ "fecha_suceso": "2013-02-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Maliaño",
+  "provincia": "Cantabria",
+  "pk": "537+005",
+  "linea": "Línea 780 Bilbao Concordia – Santander"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 10 de febrero de 2013, el tren de mercancías 9681 de Renfe Operadora descarriló en la estación de Maliaño (Cantabria), en la línea 780 de ancho métrico. El descarrilamiento se inició en el octavo vagón y afectó a los vagones 7º, 8º, 9º, 10º y 11º, quedando interceptada la vía 2A. No hubo víctimas mortales ni heridos. La causa fue la inadecuada estiba de lingotes de aluminio, que se desplazaron lateralmente y desestabilizaron el vagón.",
+ "causa_directa": "El descarrilamiento se produce como consecuencia de una inadecuada estiba de la carga del octavo vagón, ocasionando el desplazamiento lateral del cargamento y, como consecuencia del mismo, la desestabilización del vagón e iniciándose el descarrilamiento.",
+ "causas_sistemicas": "No existía ficha técnica específica para el transporte de lingotes de aluminio; la IG-66 no era de aplicación obligatoria en Feve/RAM; la Orden FOM/2872/2010 sobre habilitación de cargadores no se aplicaba en Feve/RAM; y en la vía existían peralte con tolerancias superadas y un ligero alabeo.",
+ "recomendaciones": [
+  "Incluir lo antes posible la IG-66 como norma de aplicación obligatoria en el ámbito de la red de ancho métrico (RAM).",
+  "Incorporar lo antes posible en el ámbito de la red de ancho métrico (RAM) la normativa sobre habilitación de cargadores establecida en la Orden FOM/2872/2010, de 5 de noviembre."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train partially derailed at Maliaño station (Cantabria)",
+  "Location name": "Maliaño station (Cantabria)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is caused as a result of an inadequate stowage of the eight wagon´s load, causing lateral displacement of the load and consequently the destabilization of the wagon and the beginning of the derailment. As a contributory cause a minor warping of track is noticed, few metres before the point of derailment."
+ }
+}

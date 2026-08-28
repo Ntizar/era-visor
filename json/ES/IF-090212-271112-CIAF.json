@@ -1,0 +1,75 @@
+{
+ "id": "ES-IF-090212-271112-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-090212-271112-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1377",
+ "expediente": "0010/2012",
+ "titulo": "Colisión de tren de cercanías contra topera en estación de Mataró (Barcelona)",
+ "fecha_suceso": "2012-02-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Mataró",
+  "provincia": "Barcelona",
+  "pk": "28+158",
+  "linea": "276 Maçanet-Massanes a Bifurcación Sagrera"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 9 de febrero de 2012, a las 09:43 horas, el tren 28867 de cercanías de Renfe Operadora colisionó contra la topera de la vía 4 de la estación de Mataró. El tren pasó por los cambios a 40 km/h, superando la velocidad máxima de 30 km/h, e impactó a 23 km/h sin haber usado el freno en los últimos metros. Como consecuencia, el primer coche quedó completamente descarrilado y montado sobre la topera. Resultaron heridos graves el maquinista y 10 viajeros de carácter leve.",
+ "causa_directa": "Fallo humano del personal de conducción por incumplimiento de las órdenes dadas por las señales y no prestar la debida atención durante la conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+  "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 1,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "Commuter train, which had a scheduled stop at the station, collided with the buffer stop at track 4. As a result the first coach became totally derailed. 10 passengers were slightly injured.",
+  "Location name": "Mataró station (Barcelona), 276 Maçanet-Massanes-Barcelona-Sagrera railway line.",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff serious injuries": 1,
+  "Total serious injuries": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in a human failure due to the non-compliance of the signal instructions by the train driver"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Exceder velocidad máxima en agujas",
+  "No aplicar freno últimos metros",
+  "Incumplir señal avanzada precaución",
+  "No reducir ante señal parada"
+ ],
+ "mitigaciones": [
+  "Instalar balizas ASFA control velocidad",
+  "Instalar toperas absorbentes impacto",
+  "Plan específico conducción Barcelona",
+  "Reciclaje formativo con simulador"
+ ],
+ "factores_humanos": [
+  "Fallo humano personal conducción",
+  "No prestar debida atención",
+  "Incumplir órdenes de señales",
+  "Velocidad prefijada sin control"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

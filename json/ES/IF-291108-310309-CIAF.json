@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-291108-310309-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-291108-310309-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-653",
+ "expediente": "0066/2008",
+ "titulo": "Arrollamiento de un operario por un tren de mercancías en la estación de Tembleque",
+ "fecha_suceso": "2008-11-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Tembleque",
+  "provincia": "Toledo",
+  "pk": "101,270",
+  "linea": "Línea 300 Madrid Chamartín - Valencia Nord (tramo Castillejo Añover - Villacañas)"
+ },
+ "entidades": [
+  "Adif",
+  "Continental Rail"
+ ],
+ "resumen": "El 29 de noviembre de 2008, a las 3:00 horas, un operario de Comsa fue arrollado por el tren de mercancías 97401 de Continental Rail en la estación de Tembleque. El accidente se produjo cuando el trabajador cruzaba la vía I mientras se realizaban trabajos de desguarnecido en la vía II. La víctima falleció en el acto como consecuencia del impacto. La investigación indica que la causa fue la invasión del gálibo de la vía por el operario en el momento del paso del tren.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima en el momento en que pasaba el tren.",
+ "causas_sistemicas": "El ruido de los trabajos pudo impedir que la víctima escuchara el aviso de llegada del tren, y la iluminación nocturna pudo dificultar que viera la luz de la locomotora; además, la recomendación apunta a la necesidad de mejorar procedimientos de autorización, vigilancia y planes de seguridad en obras ferroviarias.",
+ "recomendaciones": [
+  "Establecer o analizar procedimientos para estudios, planes de salud y seguridad, autorización y vigilancia de trabajos ferroviarios, con el fin de minimizar los riesgos para las personas y la circulación."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A workman who was part of a track dismantling group is knocked down by a freight train when suddenly appeared from between the ballast-removing machinery that were working aside.",
+  "Location name": "Tembleque station, kilometre point 101,270, 300 Madrid Chamartín - Valencia Nord railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "CONTINENTAL RAIL",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1
+ }
+}

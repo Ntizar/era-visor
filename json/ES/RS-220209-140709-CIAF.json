@@ -1,0 +1,31 @@
+{
+ "id": "ES-RS-220209-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-220209-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0012/2009",
+ "titulo": "Accidente ferroviario entre las estaciones de Chapela y Vigo en la línea 810",
+ "fecha_suceso": "2009-02-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 810 Vigo – Monforte de Lemos"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprobó el informe definitivo del accidente ocurrido el 22 de febrero de 2009. El suceso tuvo lugar entre las estaciones de Chapela y Vigo, dentro de la línea 810. La resolución incluye una recomendación dirigida a Adif para mejorar la seguridad en la zona.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

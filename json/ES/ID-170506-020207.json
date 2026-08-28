@@ -46,5 +46,30 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Falta de cerramiento en vía",
+  "Pasos irregulares sobre la vía",
+  "Víctima cruza intempestivamente",
+  "Proximidad excesiva al tren"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por maquinista",
+  "Aplicación freno de emergencia",
+  "Velocidad inferior a máxima permitida",
+  "Visibilidad aceptable en zona"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Conducta temeraria peatón",
+  "Respuesta correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

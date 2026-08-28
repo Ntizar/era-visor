@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-210308-220708-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-210308-220708-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-544",
+ "expediente": "0006/2008",
+ "titulo": "Arrollamiento de una persona por tren de cercanías en puente sobre el río Besós (Barcelona)",
+ "fecha_suceso": "2008-03-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sant Adriá del Besós",
+  "provincia": "Barcelona",
+  "pk": "3,286",
+  "linea": "276 Barcelona-Massanes"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 21 de marzo de 2008, el tren de cercanías 28833 de Renfe Operadora arrolló a una persona que circulaba indebidamente por el puente ferroviario sobre el río Besós, en el P.K. 3,286 de la línea Barcelona-Massanes. El maquinista percibió un golpe, pero no observó anomalías hasta que se confirmó el arrollamiento y la presencia de un cadáver. El tren circulaba a 60 km/h, por debajo de la velocidad máxima autorizada, y los sistemas de la infraestructura funcionaron correctamente. La investigación concluyó que el origen fue el tránsito de la víctima por un lugar no autorizado, favorecido por un paso vicioso con vallado roto.",
+ "causa_directa": "El accidente tuvo su origen en el tránsito de la víctima por la vía por un lugar no autorizado para ello.",
+ "causas_sistemicas": "El vallado roto a ambos lados del puente constituía un paso vicioso que permitía el acceso indebido de personas no autorizadas a la vía.",
+ "recomendaciones": [
+  "Supresión del paso vicioso por donde accedió la víctima."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A passenger train hit a man who was crossing the metallic railway bridge over river Besós.",
+  "Location name": "Kilometre point 3,286 at 276 Maçanet-Massanes-Barcelona-Sagrera railway line, near Sant Adriá de Besós station (Barcelona)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim went through a faulty path used to arrive to a near beach."
+ }
+}

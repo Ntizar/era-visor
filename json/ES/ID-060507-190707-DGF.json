@@ -31,5 +31,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce por paso vicioso no autorizado",
+  "Ausencia de vallado en tramo",
+  "Uso de teléfono móvil por víctima",
+  "Acceso libre a la playa"
+ ],
+ "mitigaciones": [
+  "Vallado del tramo limítrofe",
+  "Campañas de concienciación",
+  "Freno de emergencia",
+  "Velocidad inferior a la máxima"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Uso de teléfono móvil",
+  "Falta de vallado",
+  "No uso de zona autorizada"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

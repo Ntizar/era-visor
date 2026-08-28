@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT ",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT .pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0051/2016",
+ "titulo": "Colisión entre trenes en la estación de L'Hospitalet de Llobregat por fallo lógico del enclavamiento y error humano",
+ "fecha_suceso": "2016-11-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El accidente consistió en una colisión entre dos trenes en la estación de L'Hospitalet de Llobregat. Se originó por un defecto en la lógica del software del enclavamiento electrónico que permitía la disolución artificial de itinerarios sin protección adecuada, combinado con actuaciones precipitadas del jefe de CTC y errores del maquinista al cambiar la banda de radio y no respetar las señales.",
+ "causa_directa": "Rebase indebido de la señal de retroceso por parte del tren 25752 debido a una percepción errónea de la señal de entrada E1 y a la imposibilidad de recibir órdenes de parada por cambio no autorizado de la banda de radiotelefonía, culminando en la colisión con el tren 25779.",
+ "causas_sistemicas": "Insuficiente verificación y pruebas del diseño del enclavamiento electrónico (fallo de software), actuación precipitada del jefe de CTC contraria a la reglamentación, falta de medidas preventivas por parte de ADIF y Renfe ante los riesgos identificados, y deficiencias en la formación del personal sobre procedimientos críticos.",
+ "recomendaciones": [
+  "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos.",
+  "Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar, en particular la Disolución Artificial de Itinerarios (DAI).",
+  "Incidir en la formación de los responsables de circulación sobre la correcta ejecución de establecimiento y disolución de itinerarios según reglamentación.",
+  "Reforzar la formación del personal de conducción sobre adecuación de marcha, atención a señales (incluidas las de retroceso) y uso correcto de la velocidad prefijada y sistemas de comunicación."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Establecimiento y anulación de itinerario por CTC",
+  "Aguja A37 en posición invertida",
+  "Circulación con velocidad prefijada incumpliendo aviso",
+  "Fallo de lógica del software del enclavamiento"
+ ],
+ "mitigaciones": [
+  "Modificación de lógica del enclavamiento electrónico",
+  "Instrucciones de comunicación con maquinista al CTC",
+  "Reconocimiento psicofísico adicional al jefe de CTC",
+  "Asesoramiento sobre medidas transitorias en estación"
+ ],
+ "factores_humanos": [
+  "Incorrecta actuación del maquinista",
+  "Actuación del jefe de CTC sin comunicación",
+  "Falta de medidas preventivas por ADIF y Renfe",
+  "Uso inadecuado de velocidad prefijada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

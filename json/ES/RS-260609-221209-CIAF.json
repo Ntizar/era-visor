@@ -1,0 +1,31 @@
+{
+ "id": "ES-RS-260609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-260609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0030/2009",
+ "titulo": "Accidente ferroviario en la estación de Aluche (Madrid) el 26/06/2009",
+ "fecha_suceso": "2009-06-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Aluche",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": "920, Móstoles – El Soto Parla"
+ },
+ "entidades": [
+  "Renfe-Operadora"
+ ],
+ "resumen": "El 26 de junio de 2009 se produjo un accidente ferroviario en la estación de Aluche, Madrid, en la línea 920 Móstoles-El Soto Parla. La Comisión de Investigación de Accidentes Ferroviarios analizó el expediente 0030/2009 y aprobó como definitivo el informe particular del técnico investigador, modificando su recomendación para hacerla más concreta. La resolución no detalla el tipo de suceso ni sus causas en el texto proporcionado. Renfe-Operadora fue destinataria de una recomendación de seguridad.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

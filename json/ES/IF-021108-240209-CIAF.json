@@ -1,0 +1,76 @@
+{
+ "id": "ES-IF-021108-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-021108-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-603",
+ "expediente": "0056/2008",
+ "titulo": "Arrollamiento mortal de una persona en el paso enmaderado del apeadero de Hostalric (Gerona)",
+ "fecha_suceso": "2008-11-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Hostalric",
+  "provincia": "Gerona",
+  "pk": "170,925",
+  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de larga distancia 475 arrolló a una joven que cruzaba las vías por un paso enmaderado en el apeadero de Hostalric. La víctima falleció en el acto al no percatarse de la proximidad del tren, a pesar de los avisos sonoros y la frenada de emergencia de la maquinista. El accidente ocurrió de noche con visibilidad reducida debido a una curva previa. No se registraron daños materiales ni lesiones en el personal ferroviario.",
+ "causa_directa": "Cruce de la víctima por el paso enmaderado sin percatarse de la proximidad del tren 475.",
+ "causas_sistemicas": "Situación de riesgo derivada de la corta distancia entre el final de una curva y el paso enmaderado, lo que reduce el tiempo de reacción para maquinistas y usuarios. Ausencia de una alternativa segura (paso a distinto nivel) para cruzar las vías en ese momento.",
+ "recomendaciones": [
+  "Señalizar el paso enmaderado.",
+  "Evaluar la conveniencia de colocar señales de silbar si no existen.",
+  "Acelerar o ejecutar las obras adjudicadas para construir pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person is knocked down by a sleeping car train when crossing by a board crossing. Despite the train driver sounded the train whistle and used the emergency brake, the accident couldn´t be avoided.",
+  "Location name": "Hostalric flag stop (Barcelona), kilometre point 171,000, 270 Barcelona-Cerbere railway line",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce por paso enmaderado",
+  "víctima no percibe tren",
+  "paso sin alternativa segura",
+  "curva reduce visibilidad"
+ ],
+ "mitigaciones": [
+  "uso del silbato",
+  "freno de emergencia",
+  "señalizar paso enmaderado",
+  "construir pasos inferiores"
+ ],
+ "factores_humanos": [
+  "víctima no percibe proximidad",
+  "visibilidad nocturna reducida",
+  "falta de paso alternativo",
+  "infraestructura con riesgo detectado"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

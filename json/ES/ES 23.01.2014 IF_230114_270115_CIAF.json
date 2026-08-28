@@ -1,0 +1,73 @@
+{
+ "id": "ES-ES 23.01.2014 IF_230114_270115_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 23.01.2014 IF_230114_270115_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-3364",
+ "expediente": "0005/2014",
+ "titulo": "Arrollamiento de plataforma portaherramientas por tren 282 entre Calzada de Bureba y Briviesca (Burgos)",
+ "fecha_suceso": "2014-01-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Burgos",
+  "pk": "422+950",
+  "linea": "Tramo entre Calzada de Bureba y Briviesca"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de viajeros 282 arrolló una plataforma portaherramientas situada en la vía II durante unos trabajos de mantenimiento. El accidente se produjo porque el jefe del CTC bloqueó por error la vía I en lugar de la vía II concedida al encargado de trabajos. A pesar de que los operarios retiraron a tiempo, no pudieron retirar todo el material antes de la llegada del tren. No hubo víctimas personales, aunque sí daños materiales.",
+ "causa_directa": "Fallo humano del personal de circulación (jefe del CTC de Miranda de Ebro) al realizar una operación incorrecta, bloqueando la vía I en lugar de la vía II donde se realizaban los trabajos.",
+ "causas_sistemicas": "La Consigna C Experimental nº 58 no preveía el uso obligatorio de útiles de cortocircuito (shunt) como medida de protección adicional para este tipo de trabajos con interrupción de circulación.",
+ "recomendaciones": [
+  "Incluir dentro de la normativa de aplicación, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "Due to an special section block that was wrongly established, a long distance passenger train collided with a tools holder platform as some works were performed at that track. No personal damages.",
+  "Location name": "Between Briviesca and Calzada de Bureba (Burgos)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by human failure of traffic agent (traffic manager at the centralized traffic control cabinet in Miranda de Ebro) when performed an improper action. By mistake he blocked track I between Calzada de Bureba and Briviesca instead of track II that had been indeed granted to the responsible of works through a telephoneme"
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Bloqueo por error de vía I",
+  "No bloquear vía II concedida",
+  "No cerrar señal de salida",
+  "No usar barra de shuntado"
+ ],
+ "mitigaciones": [
+  "Uso del freno de emergencia",
+  "Orden de retirarse de vía",
+  "Uso de barra de shuntado",
+  "Cierre de señal de salida"
+ ],
+ "factores_humanos": [
+  "Fallo humano del jefe CTC",
+  "Error en operación de circulación",
+  "No aplicación de Consigna C",
+  "Ausencia de barra de shuntado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

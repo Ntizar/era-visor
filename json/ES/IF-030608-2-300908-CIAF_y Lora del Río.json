@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-030608-2-300908-CIAF_y Lora del Río",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-030608-2-300908-CIAF_y Lora del Río.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-485",
+ "expediente": "0021/2008",
+ "titulo": "Arrollamiento de un automóvil por un tren de mercancías en paso a nivel tipo P entre El Priorato y Lora del Río",
+ "fecha_suceso": "2008-06-03",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": "entre las estaciones de El Priorato y Lora del Río",
+  "provincia": "Sevilla",
+  "pk": "511,635",
+  "linea": "Línea 400 Alcázar de San Juan-Cádiz"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 3 de junio de 2008, el tren de mercancías 55340 de Renfe Operadora arrolló a un turismo en un paso a nivel tipo P situado entre El Priorato y Lora del Río. El accidente se produjo cuando el vehículo cruzó el paso a nivel mientras pasaba el tren. El conductor del turismo falleció poco después. El paso a nivel carecía de cadenas y su señalización era incompleta.",
+ "causa_directa": "El accidente tuvo su origen en el cruce del vehículo por el paso a nivel en el momento en que circulaba el tren de mercancías 55340.",
+ "causas_sistemicas": "El paso a nivel particular no cumplía adecuadamente los requisitos de conservación, protección y señalización, al carecer de cadenas y tener señalización de carretera incompleta.",
+ "recomendaciones": [
+  "Clausura del paso a nivel por no cumplir lo establecido en el apartado 5 del artículo 8 de la Ley 39/2003.",
+  "Incluir el paso a nivel en el plan de revisión de autorizaciones de pasos a nivel particulares que Adif debía presentar antes del 31 de diciembre de 2009."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A man is knocked down by a train while waiting at the closed level crossing. The victim, who was an old person, was unbalanced and dragged by the train.",
+  "Location name": "Figueres station (Gerona), kilometre point 247,215, level crossing type C. Barcelona-Cerbere railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade paso a nivel",
+  "Falta de cadenas y candados",
+  "Señalización carretera incompleta",
+  "Mal estado del camino acceso"
+ ],
+ "mitigaciones": [
+  "Maquinista aplica freno emergencia",
+  "Uso señales acústicas visuales",
+  "Velocidad inferior máxima permitida"
+ ],
+ "factores_humanos": [
+  "Conductor cruza con tren cerca",
+  "Titulares no conservan protección",
+  "Actuación correcta maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

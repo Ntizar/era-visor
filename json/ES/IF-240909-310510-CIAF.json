@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-240909-310510-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-240909-310510-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-809",
+ "expediente": "0050/2009",
+ "titulo": "Rotura de eje en tren FEVE 6722 en el apeadero de Cazoña (Cantabria)",
+ "fecha_suceso": "2009-09-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Apeadero de Cazoña",
+  "provincia": "Cantabria",
+  "pk": "527+485",
+  "linea": "Oviedo-Santander (L-21)"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El día 24 de septiembre de 2009, se produjo la rotura de un eje en el tren regular de viajeros 6722 de FEVE mientras circulaba por el tramo Santander-Llanes. El incidente ocurrió al intentar reanudar la marcha tras una parada comercial en el apeadero de Cazoña, detectándose que un bogie permanecía frenado. La revisión posterior reveló la rotura completa de la mangueta de un eje del último coche de la composición. No hubo víctimas personales ni daños materiales significativos más allá del material rodante.",
+ "causa_directa": "La rotura de la sección completa de la mangueta de un eje fue ocasionada por una fisura previa cuyo origen se encuentra en dos entallas, posiblemente producidas durante un proceso de calado y posteriormente recargadas mediante soldadura.",
+ "causas_sistemicas": "Deficiencias en la trazabilidad de las operaciones realizadas a los ejes, lo que impidió identificar aquellos recuperados con soldaduras no estándar. Ausencia de inspecciones periódicas por ultrasonidos para detectar fisuras internas en los ejes.",
+ "recomendaciones": [
+  "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes.",
+  "Incluir una inspección por ultrasonidos en el plan de mantenimiento para localizar fisuras, con seguimiento de resultados.",
+  "Establecer Instrucciones de Control de calidad específicas para los procesos de calado de los ejes."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Broken wheels or axles",
+  "Occurrence description": "The train driver realized a bogie was stiff and didn´t work. After checking the train, it was learned a wheel was derailed due to a broken axle.",
+  "Location name": "Cazoña flag stop (Cantabria), kilometre point 527,451, Santander-Llanes railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin on the breakage of an axle journal (last car of the composition). This breakage could had been produced by a previous crack made by two notches, probably during a necking process"
+ }
+}

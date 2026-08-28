@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-081108-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-081108-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-605",
+ "expediente": "0059/2008",
+ "titulo": "Arrollamiento de una persona por tren de media distancia en la estación de Tudela de Navarra",
+ "fecha_suceso": "2008-11-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Tudela de Navarra",
+  "provincia": "Navarra",
+  "pk": "77,050",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 8 de noviembre de 2008, el tren de media distancia 18076 de Renfe Operadora arrolló a una persona a la altura de la señal de salida de la estación de Tudela de Navarra. La víctima, sentada en la vía con auriculares, no percibió la proximidad del tren y falleció en el acto. El maquinista usó silbato y freno de emergencia, actuando correctamente. El informe concluye que el accidente se originó por el tránsito no autorizado de la víctima por la vía.",
+ "causa_directa": "El tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person, using headphones, walking by the tracks is hit by a train. When the victim realized train was coming it was too late for him to walk out the tracks.",
+  "Location name": "Tudela de Navarra station (Navarra), kilometre point 77,050, 700 Casetas-Intermodal Abando Indalecio Prieto",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima no autorizada en vía",
+  "persona sentada sobre la vía",
+  "auriculares impiden percibir tren",
+  "víctima resbala al intentar huir"
+ ],
+ "mitigaciones": [
+  "maquinista usa silbato y freno",
+  "velocidad inferior máxima permitida",
+  "freno de emergencia actuado",
+  "instalaciones funcionan correctamente"
+ ],
+ "factores_humanos": [
+  "víctima distraída con auriculares",
+  "víctima de espaldas al tren",
+  "no percibe proximidad tren",
+  "maquinista actúa correctamente"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

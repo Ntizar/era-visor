@@ -1,0 +1,27 @@
+{
+ "id": "ES-RS-050609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-050609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0025/2009",
+ "titulo": "Accidente ferroviario en paso a nivel de la estación de Maçanet-Massanes (Gerona)",
+ "fecha_suceso": "2009-06-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": "Maçanet-Massanes",
+  "provincia": "Gerona",
+  "pk": null,
+  "linea": "línea 270 Barcelona San Andrés Condal a Cerbere"
+ },
+ "entidades": [],
+ "resumen": "La Resolución aprueba como definitivo el informe particular del accidente ferroviario nº 0025/2009. El suceso ocurrió el 5 de junio de 2009 en el paso a nivel de la estación de Maçanet-Massanes, en Gerona. La línea implicada era la 270 Barcelona San Andrés Condal a Cerbere. No se establecieron recomendaciones de seguridad.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

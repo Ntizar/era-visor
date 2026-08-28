@@ -1,0 +1,58 @@
+{
+ "id": "ES-ES 10.05.2015 161129150510IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 10.05.2015 161129150510IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0030/2015",
+ "titulo": "Incidente por rebase de señal en parada y conato de colisión en la estación de Barcelona Sants",
+ "fecha_suceso": "2015-05-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Barcelona Sants",
+  "provincia": null,
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "ADIF"
+ ],
+ "resumen": "El tren 39766 (material vacío) rebasó indebidamente una señal de salida en indicación de parada en la vía 3 de la estación de Barcelona Sants. El maquinista confundió dicha señal con la de la vía adyacente debido a su alineación visual desde la cabina. Se produjo un frenado automático por el sistema ERTMS y un conato de colisión con otro tren que entraba en la vía 1. No hubo heridos ni daños materiales.",
+ "causa_directa": "Fallo humano del personal de conducción al confundir la señal de salida de la vía 3 con la de la vía 4, provocando el rebase indebido de una señal en indicación de parada.",
+ "causas_sistemicas": "La posición de las señales de salida de las vías 3 y 4, alineadas desde la cabina de conducción en ciertas circunstancias, inducía a confusión. Se registraron tres sucesos similares previos en los últimos cuatro años en la misma ubicación.",
+ "recomendaciones": [
+  "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ERTMS",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Maquinista confunde señal salida",
+  "Tren inicia salida vía tres",
+  "Señal vía cuatro autoriza salida",
+  "Señal salida vía tres parada"
+ ],
+ "mitigaciones": [
+  "Sistema ERTMS detiene tren",
+  "Pantalla separa señales salida",
+  "Itinerarios establecidos correctamente",
+  "No supera velocidad máxima"
+ ],
+ "factores_humanos": [
+  "Fallo humano conducción",
+  "Confusión señales salida",
+  "Señales cercanas confusas",
+  "Incumplimiento señal parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

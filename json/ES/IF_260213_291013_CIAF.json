@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF_260213_291013_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_260213_291013_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2149",
+ "expediente": "0015/2013",
+ "titulo": "Colisión de tren con vehículo caído desde paso superior entre San Fernando de Henares y Coslada, Madrid",
+ "fecha_suceso": "2013-02-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "16+100",
+  "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de febrero de 2013, un vehículo de carretera cayó desde un paso superior al PK 16+100 de la línea 930, entre San Fernando de Henares y Coslada. El tren 21626 se detuvo ante el vehículo sin colisionar, mientras que el tren 21809 golpeó lateralmente el coche suspendido en la catenaria. El conductor del vehículo resultó herido leve. La investigación concluye que la causa directa fue la invasión del gálibo por el vehículo tras la rotura de la barandilla.",
+ "causa_directa": "La invasión del gálibo de vía por un vehículo de carretera que se precipitó desde un paso superior tras romper la barandilla metálica.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Adif: estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera.",
+  "Adif: estudiar la posibilidad de instalar sistemas de detección de caída de objetos a la vía relacionados con la señalización ferroviaria cuando los tráficos y las instalaciones lo aconsejen."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other event",
+  "Occurrence description": "A road vehicle falls from road and being hung from the catenary. The car driver wasn´t injuried.",
+  "Location name": "Coslada (Madrid)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused because a road vehicle, which had fallen from a close overpass,impinged on the track gauge"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-090508-300908-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-090508-300908-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-457",
+ "expediente": "0013/2008",
+ "titulo": "Arrollamiento de vehículo por tren en paso a nivel tipo A, línea Madrid-Barcelona, P.K. 214,220 (Zaragoza)",
+ "fecha_suceso": "2008-05-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Zaragoza",
+  "pk": "214,220",
+  "linea": "Línea 200 Madrid-Barcelona"
+ },
+ "entidades": [
+  "Renfe Operadora-Mercancías",
+  "Adif"
+ ],
+ "resumen": "El 9 de mayo de 2008, el tren de mercancías VK194 de Renfe Operadora-Mercancías arrolló a un vehículo con dos ocupantes en un paso a nivel tipo A del P.K. 214,220 de la línea 200 Madrid-Barcelona, en Zaragoza. El vehículo invadió la vía mientras el tren se aproximaba y fue arrastrado unos 724 metros. El accidente se debió a que los ocupantes no se percataron de la presencia del tren. No se produjeron daños materiales en el tren ni en la infraestructura.",
+ "causa_directa": "El cruce del vehículo por el paso a nivel en el momento en que se aproximaba el tren, sin que sus ocupantes se percataran de su presencia.",
+ "causas_sistemicas": "La falta de señalización reglamentaria al camino en el paso a nivel y las condiciones de noche con lluvia intensa, que redujeron la visibilidad y la percepción auditiva.",
+ "recomendaciones": [
+  "Trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente, conforme a la Orden de 2 de agosto de 2001."
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A road vehicle, with two passengers, is hit by a locomotive running solo while crossing a level crossing, type A (no barriers). The occupants of the vehicle died.",
+  "Location name": "Location: Cetina (Zaragoza). Level crossing, type A, kilometre point 214,240. Railway line Madrid-Barcelona.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Locomotive running solo",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 2,
+  "Total fatalities": 2
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invadió paso a nivel intempestivamente",
+  "Ocupantes no percibieron presencia tren",
+  "Faltaba señalización carretera reglamentaria",
+  "Lluvia intensa redujo percepción auditiva"
+ ],
+ "mitigaciones": [
+  "Maquinista aplicó freno emergencia",
+  "Maquinista usó silbato previo",
+  "Luces y foco encendidos",
+  "Dotar señalización carretera pertinente"
+ ],
+ "factores_humanos": [
+  "Ocupantes no percibieron tren",
+  "Conductor invadió paso intempestivamente",
+  "Falta señalización carretera reglamentaria",
+  "Señalización carretera prescribió"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-060709-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-060709-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-771",
+ "expediente": "0031/2009",
+ "titulo": "Arrollamiento de un vehículo por el tren 149 en paso a nivel entre Ronda y Setenil (Málaga)",
+ "fecha_suceso": "2009-07-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Málaga",
+  "pk": "67+916",
+  "linea": "420 Bif. Las Maravillas - Algeciras"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 6 de julio de 2009, el tren de larga distancia 149 arrolló a un automóvil que cruzaba un paso a nivel tipo B entre las estaciones de Ronda y Setenil. El vehículo invadió la vía ignorando las señales luminosas y acústicas activadas por la llegada del tren. A pesar de la actuación correcta del maquinista, quien aplicó el freno de emergencia, no se pudo evitar el impacto. Como resultado, falleció la conductora del vehículo.",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo, que cruza por el paso a nivel cuando las señales acústicas y luminosas indicaban la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A road vehicle crossed the level crossing while the train was coming. The car driver ignored the warning devices that were properly working (acoustic and lights), being hit by the train. As a result, the car driver died.",
+  "Location name": "Level crossing,type B, at kilometre point 67,916 at 420 Bobadilla-Algeciras railway line, near Ronda (Málaga)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade paso a nivel",
+  "Ignora señales acústicas y luminosas",
+  "Incumple señalización de carretera",
+  "Acceso por lado izquierdo del tren"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Maquinista usa silbato y freno",
+  "Señales luminosas y acústicas activas",
+  "Instalaciones del paso a nivel funcionaron"
+ ],
+ "factores_humanos": [
+  "Conductora invade vía intempestivamente",
+  "Ignora señales acústicas y luminosas",
+  "Maquinista aplica freno de emergencia",
+  "Alcoholemia negativa del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-070311-290512-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-070311-290512-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1121",
+ "expediente": "0015/2011",
+ "titulo": "Conato de colisión entre trenes por rebase de señal en Flaçà (Girona)",
+ "fecha_suceso": "2011-03-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Flaçà",
+  "provincia": "Girona",
+  "pk": "224+794",
+  "linea": "270 Barcelona San Andrés Condal - Cerbere"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de viajeros 212 rebasó indebidamente la señal avanzada E'2 en indicación de parada, invadiendo el cantón ocupado por el tren de mercancías 93580. El incidente se originó porque el sistema ASFA embarcado indicó erróneamente vía libre al pasar por una baliza que anunciaba parada. El maquinista actuó según la indicación del equipo y no redujo la velocidad a tiempo, provocando un conato de colisión.",
+ "causa_directa": "Rebase indebido de la señal avanzada E'2 por incumplimiento de las órdenes dadas por la señal al personal de conducción, atendiendo a una indicación errónea del sistema ASFA.",
+ "causas_sistemicas": "Funcionamiento anómalo del sistema ASFA (discrepancia entre estado real de la señal e indicación en cabina) cuya causa raíz no fue determinada. Fallo humano al confiar exclusivamente en la indicación del equipo sin verificar la señal visual.",
+ "recomendaciones": [
+  "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 para detectar funcionamientos anómalos.",
+  "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212 para verificar su correcto funcionamiento."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Unauthorised train movement other than SPAD",
+  "Occurrence description": "Long distance passenger train 212 overtook caution signal E´2 of Flaçá station.",
+  "Location name": "Flaça station (Gerona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train; \nFreight train",
+  "RU involved": "RENFE-Operadora; \nRenfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train 212 overtook caution signal E´2- which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Anomalous performing of ASFA system"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "ASFA embarcado indica vía libre",
+  "Maquinista actúa según ASFA",
+  "No reduce velocidad ante parada",
+  "Tren rebasa señal avanzada parada"
+ ],
+ "mitigaciones": [
+  "Maquinista aplica freno de urgencia",
+  "ASFA activa freno de emergencia",
+  "Freno emergencia activo 597 metros",
+  "Reducir velocidad ante anuncio parada"
+ ],
+ "factores_humanos": [
+  "Incumplimiento artículo 262 RGC",
+  "Confía en indicación ASFA",
+  "No comunica rebase al mando",
+  "No reduce velocidad ante parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

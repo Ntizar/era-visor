@@ -1,0 +1,77 @@
+{
+ "id": "ES-ID_080707_191007_Betanzos–Infesta a Ferrol,",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_080707_191007_Betanzos–Infesta a Ferrol,.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-288",
+ "expediente": "0039/2007",
+ "titulo": "Arrollamiento de una persona por tren entre Neda y Ferrol, en el puente Ponte do Couto, línea Betanzos-Infesta a Ferrol",
+ "fecha_suceso": "2007-07-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "A Coruña",
+  "pk": "37/600",
+  "linea": "Betanzos-Infesta a Ferrol"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 8 de julio de 2007, el tren de Media Distancia 2684 de Renfe arrolló a una persona en el punto kilométrico 37/600 de la línea Betanzos-Infesta a Ferrol, entre Neda y Ferrol, sobre el puente Ponte do Couto. La víctima falleció tras encontrarse pescando en una zona no autorizada e invadiendo el gálibo de la vía. El tren detuvo su marcha y la incidencia afectó a la circulación durante 132 minutos, sin daños materiales.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que se encontraba en una zona no autorizada e invadió el gálibo de la vía mientras pescaba.",
+ "causas_sistemicas": "Existían diversos puntos de acceso a las vías y la valla metálica estaba abierta en varios puntos, lo que facilitaba la intrusión de personas en la infraestructura.",
+ "recomendaciones": [
+  "Revisar el cerramiento existente en la zona y sus proximidades.",
+  "Intensificar el Plan de instalación de cerramientos de las líneas.",
+  "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man who was phising at a bridge near the rail is hit by a regional train.",
+  "Location name": "804 Betanzos Infesta-Ferrol railway line. At kilometre point 37,600 between Neda and Ferrol stations (La Coruña)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim was at unauthorised place"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Valla metálica abierta en varios puntos",
+  "Accesos no autorizados a la vía",
+  "Persona pescando sobre carril izquierdo",
+  "Cierre perimetral deficiente en puente"
+ ],
+ "mitigaciones": [
+  "Acción del freno de emergencia",
+  "Uso repetido del silbato",
+  "Revisar cerramiento existente",
+  "Instalación de cerramientos en líneas"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Invadir gálibo de vía",
+  "No percata presencia del tren",
+  "Cierre perimetral deficiente"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

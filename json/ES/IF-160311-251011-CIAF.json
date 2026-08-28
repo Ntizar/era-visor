@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-160311-251011-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-160311-251011-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1120",
+ "expediente": "0012/2011",
+ "titulo": "Colisión y descarrilamiento del tren 25267 por desprendimiento de tierras y rocas entre Olesa de Montserrat y Vacarisses Torreblanca (Barcelona)",
+ "fecha_suceso": "2011-03-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "323+320",
+  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 16 de marzo de 2011, el tren de cercanías 25267 colisionó con obstáculos procedentes de un desprendimiento en el talud derecho. La presencia de una gran roca invadió el gálibo de la vía, provocando el descarrilamiento de todos los ejes de la unidad de cabeza. Como resultado, diez viajeros y el maquinista sufrieron heridas leves y se suspendió la circulación entre Terrassa y Manresa.",
+ "causa_directa": "La colisión del tren con obstáculos (tierras y rocas) existentes en el gálibo de la vía, procedentes de un desprendimiento ocurrido en el talud derecho.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "A passenger train collided with soil and rock that were on the track due to a landslide. As a result, the train partially derailed.",
+  "Location name": "P.K. 323+320, 220 Lleida Pirineus-L´Hospitalet de Llobregat railway line, between Olesa de Montserrat and Vacarisses Torreblanca halts.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Talud derecho se desprendió",
+  "Obstáculos invadieron gálibo",
+  "Tren salió de una curva",
+  "Tren pasó baliza ASFA"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia accionado",
+  "Velocidad inferior a máxima permitida",
+  "Equipos de seguridad funcionaron"
+ ],
+ "factores_humanos": [
+  "Maquinista aplicó freno emergencia",
+  "Personal cumplía normativa vigente",
+  "Maquinista no pudo evitar colisión"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

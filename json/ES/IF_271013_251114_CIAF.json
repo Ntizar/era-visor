@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF_271013_251114_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_271013_251114_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2902",
+ "expediente": "0068/2013",
+ "titulo": "Incidente en estación de Zalla (Vizcaya): rebase indebido de señal y conato de colisión entre trenes de Renfe Operadora",
+ "fecha_suceso": "2013-10-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Zalla",
+  "provincia": "Vizcaya",
+  "pk": "2+057",
+  "linea": "790 RAM La Asunción Universidad – Aranguren"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de cercanías 08904 rebasó indebidamente la señal S2/2 en indicación de parada al iniciar su marcha tras una parada comercial. Esta maniobra provocó un conato de colisión con el tren turístico 73101, que estaba detenido ante la señal de entrada E1 para realizar el cruce previsto. Los trenes quedaron a 191 metros de distancia sin producirse víctimas ni daños materiales significativos.",
+ "causa_directa": "Fallo humano del personal de conducción del tren 08904 por falta de atención, lo que impidió cumplir correctamente la orden de parada dada por la señal S2/2.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Passenger train partially derailed (last coach) at Sant Andreu Arenal station",
+  "Location name": "Sant Andreu Arenal station (Barcelona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by human failure of traffic agent when wrongly actuated switch nº 12, while train was right passing through it, and probably being his intention to actuate switch nº4._x000D_\nThis failure might be caused by the traffic agent´s workload at that moment since he had to simultaneously authorize commuter trains´movements and help the infrastructure staff to repair the existing breakdown. Nevertheless, to actuate both switches without a previous verification that the track circuit A4 was empty were not a proper action. Non-compliance with article 268.3 of Operation Manual"
+ }
+}

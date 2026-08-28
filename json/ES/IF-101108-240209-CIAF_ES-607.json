@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-101108-240209-CIAF_ES-607",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-101108-240209-CIAF_ES-607.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-607",
+ "expediente": "0061/2008",
+ "titulo": "Arrollamiento de una persona por el tren 12604 en paso a nivel de Monforte de Lemos",
+ "fecha_suceso": "2008-11-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Monforte de Lemos",
+  "provincia": "Lugo",
+  "pk": "2,455",
+  "linea": "810 Vigo - Monforte de Lemos"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 10 de noviembre de 2008, el tren de media distancia 12604 de Renfe Operadora arrolló a una persona que cruzaba un paso a nivel clase C con las semibarreras bajadas, entre Monforte de Lemos y Canabal. La víctima falleció en el acto pese a que el maquinista usó el silbato y accionó el freno de emergencia. Las instalaciones de seguridad del paso a nivel funcionaron correctamente y el tren circulaba a velocidad inferior a la máxima permitida.",
+ "causa_directa": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando las barreras se encontraban bajadas.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Comunicar a la Diputación de Lugo la responsabilidad de adecuar las señales fijas de carretera a lo establecido en la Orden de 2 de agosto de 2001, mientras no comiencen las obras de supresión del paso a nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person didn´t pay attention to the warning devices which were indicating that he was not allow to cross the LC.",
+  "Location name": "Level crossing type C, kilometre point 2,455 (Lugo); 800 La Coruña-León railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce con barreras bajadas",
+  "No respetar señales acústicas",
+  "Señalización carretera incompleta"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Freno de emergencia",
+  "Semibarreras automáticas bajadas",
+  "Supresión prevista del paso"
+ ],
+ "factores_humanos": [
+  "Conducta imprudente de la víctima",
+  "Señalización carretera no adecuada",
+  "Ignorar silbato del tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

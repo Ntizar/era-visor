@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF_211212_250613_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_211212_250613_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0656",
+ "expediente": "0076/2012",
+ "titulo": "Conato de colisión por rebase indebido de señal en parada en Valencia-Font de Sant Lluis",
+ "fecha_suceso": "2012-12-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Valencia-Font de Sant Lluis",
+  "provincia": "Valencia",
+  "pk": "2+000",
+  "linea": "Línea 600 Valencia – Estació del Nord a Sant Vicenç de Calders"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 21 de diciembre de 2012, el tren de viajeros 1112 de Renfe Operadora rebasó indebidamente la señal E2B en indicación de parada al entrar en Valencia-Font de Sant Lluis. Tras la actuación del ASFA, el tren ocupó el cantón siguiente, donde circulaba el tren 10596, produciéndose un conato de colisión. El maquinista no percibió el rebase, rearmó el sistema y continuó hasta la señal E2. El informe concluye que la causa fue el incumplimiento de la orden dada por la señal por el personal de conducción.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido del tren de viajeros 1112 de la señal de entrada E2B, en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción.",
+ "causas_sistemicas": "El informe apunta que una posible avería en la composición con alarmas en cabina pudo desviar la atención del maquinista, quien rearmó el ASFA sin autorización tras el rebase.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Passenger train overtook signal E2B at Valencia Fuente de San Luis station (Valencia).",
+  "Location name": "Valencia Fuente de San Luis (Valencia)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the train overtook home signal (E2B) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver"
+ }
+}

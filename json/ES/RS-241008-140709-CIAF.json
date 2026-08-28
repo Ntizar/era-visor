@@ -1,0 +1,38 @@
+{
+ "id": "ES-RS-241008-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-241008-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0054/2008",
+ "titulo": "Incidente ferroviario en la estación de Moncófar por defectos en ruedas torneadas",
+ "fecha_suceso": "2008-10-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Moncófar",
+  "provincia": null,
+  "pk": null,
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif",
+  "Empresas Ferroviarias",
+  "Centros de Mantenimiento"
+ ],
+ "resumen": "La CIAF aprueba el informe definitivo sobre un incidente ocurrido en la estación de Moncófar. El suceso estuvo relacionado con defectos en las ruedas de los trenes, específicamente entallas o marcas producidas durante el proceso de torneado. La resolución modifica una recomendación para incluir a los Centros de Mantenimiento y Adif como destinatarios. Se establecen procedimientos estrictos de inspección y modificación de sistemas de sujeción en tornos.",
+ "causa_directa": "Producción de entallas o marcas de sujeción de torno en las ruedas durante el proceso de torneado.",
+ "causas_sistemicas": "Deficiencias en los sistemas de sujeción de las ruedas en los tornos y falta de procedimientos específicos de inspección post-torneado.",
+ "recomendaciones": [
+  "Establecer procedimientos y fichas de inspección para comprobar la existencia de entallas, realizar magnetoscopia y eliminar marcas en todas las ruedas afectadas.",
+  "Crear un plan de actuación por serie de vehículos indicando en qué intervención de mantenimiento se aplican los nuevos procedimientos e integrarlos en los Planes de Mantenimiento.",
+  "Realizar seguimiento del avance de las actuaciones y resultados por serie, modificando los Planes de Mantenimiento cuando se garantice la desaparición del problema.",
+  "Modificar los sistemas de sujeción en el procedimiento de torneado para evitar entallas e implementar control de calidad a la salida del torno.",
+  "Comunicar las actuaciones a Empresas Ferroviarias, Centros de Mantenimiento y Adif para que introduzcan medidas similares y verifiquen que los torneados externos no produzcan defectos."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

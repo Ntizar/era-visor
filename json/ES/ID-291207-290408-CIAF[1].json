@@ -1,0 +1,74 @@
+{
+ "id": "ES-ID-291207-290408-CIAF[1]",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-291207-290408-CIAF[1].pdf",
+ "url_pdf": null,
+ "erail_id": "ES-728",
+ "expediente": "065/2007",
+ "titulo": "Arrollamiento de una persona por tren de mercancías en el apeadero de Abaroa-San Miguel (Vizcaya)",
+ "fecha_suceso": "2007-12-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Abaroa-San Miguel",
+  "provincia": "Vizcaya",
+  "pk": "241,860",
+  "linea": "700 Intermodal Abando Ind. Prieto-Casetas"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 29 de diciembre de 2007, un tren de mercancías de Renfe Operadora arrolló a una mujer de 16 años en el apeadero de Abaroa-San Miguel (Vizcaya). La víctima cruzaba las vías desde el andén 2 al andén 1, tras descender de un tren de Cercanías, por una zona no habilitada. El maquinista aplicó el freno de urgencia, pero no pudo evitar el atropello; la mujer falleció. No hubo daños materiales y la incidencia duró 109 minutos.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima al cruzar las vías por un lugar no autorizado y sin comprobar la proximidad del tren, sin utilizar los pasos superiores habilitados.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Potenciar la señalización de advertencia, instando al uso de los pasos habilitados para el cruce de las vías en todos los andenes de estaciones y apeaderos."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A young woman, who had just got off from another train, is knocked down by a freight train, which approached from the opposite side.",
+  "Location name": "Abaroa station (Vizcaya), kilometre point 241,860, at 700 Casetas-Intermodal Abando Indalecio Prieto railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "bajada de jóvenes del tren",
+  "cruce por zona no habilitada",
+  "no utilizar paso superior",
+  "cruce sin comprobar proximidad"
+ ],
+ "mitigaciones": [
+  "aplicación del freno de urgencia",
+  "velocidad inferior a máxima permitida",
+  "visibilidad nocturna era buena",
+  "existencia de paso superior"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "cruce por lugar no autorizado",
+  "no usar pasos habilitados",
+  "conducta de grupo de jóvenes"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true
+}

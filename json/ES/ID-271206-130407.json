@@ -1,0 +1,69 @@
+{
+ "id": "ES-ID-271206-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-271206-130407.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-40",
+ "expediente": "0058/2006",
+ "titulo": "Arrollamiento de persona en paso a nivel entre Villafría y Burgos, línea Madrid-Hendaya",
+ "fecha_suceso": "2006-12-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Burgos",
+  "pk": "371,068",
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 27 de diciembre de 2006, un tren de Media Distancia arrolló a una persona en un paso a nivel de clase C entre Villafría y Burgos, en la línea Madrid-Hendaya. La víctima falleció y el paso estaba protegido con semibarreras, señales acústicas y luminosas activas. El informe concluye que la causa fue la invasión indebida de la vía por la víctima. No hubo daños materiales y el servicio se restableció tras la intervención policial y sanitaria.",
+ "causa_directa": "Invasión indebida de las vías por la víctima al cruzar el paso a nivel peatonal cuando estaban activados los sistemas de protección por la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person died after being hit by rolling stock motion at level crossing type C, protected with barriers.",
+  "Location name": "Railway line from Madrid to Hendaya at the kilometre point 371,068.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruzar con barreras bajadas",
+  "No usar paso peatonal habilitado",
+  "No percatarse de llegada tren"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima autorizada",
+  "Uso del silbato por maquinista",
+  "Visibilidad adecuada del paso",
+  "Semibarreras y luces activas"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Invasión indebida de vías",
+  "Falta de atención del peatón",
+  "No acelerar paso para eludir"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

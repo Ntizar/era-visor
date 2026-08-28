@@ -1,0 +1,78 @@
+{
+ "id": "ES-es-10728 - final report, 2025-41-0522-if",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/es-10728 - final report, 2025-41-0522-if.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10728",
+ "expediente": "41/2025",
+ "titulo": "Incidente operacional en la estación de Cortes de Navarra (Navarra) el 22 de mayo de 2025",
+ "fecha_suceso": "2025-05-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Cortes de Navarra",
+  "provincia": "Navarra",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "ADIF",
+  "AESF"
+ ],
+ "resumen": "El tren 18079 de Renfe Viajeros rebasó indebidamente una señal de salida cerrada intempestivamente por el Responsable de Circulación para permitir un adelantamiento. El error se debió a que la comunicación del cierre de señal se realizó al conductor equivocado (tren 18078). Tras el paso de señal en peligro y el talonamiento de agujas, se autorizó un retroceso incorrecto que provocó una desviación parcial de la composición hacia otra vía.",
+ "causa_directa": "Rebasamiento de señal en peligro debido a la falta de conocimiento del cambio de aspecto por parte del conductor, causado por un error de comunicación del Responsable de Circulación. Posteriormente, la autorización de retroceso sin detectar el talonamiento previo generó una ruta incorrecta.",
+ "causas_sistemicas": "Cumplimiento inconsistente de los protocolos de comunicación entre personal de conducción y circulación; defectos en el sistema 'Tren-Tierra' que causan deselección automática de trenes; deficiencias en la formación sobre identificación de talonamientos; problemas de coordinación entre puestos de control colaterales.",
+ "recomendaciones": [
+  "Garantizar mediante vigilancia interna el cumplimiento estricto de los protocolos de comunicación establecidos en los SGS.",
+  "Incidir en la formación del personal sobre la identificación de situaciones de riesgo por talonamiento de agujas o retrocesos con riesgo de descarrilamiento.",
+  "Analizar las características operativas del sistema 'Tren-Tierra' en los CTC para evitar efectos no deseados en la selección de trenes.",
+  "Mejorar la coordinación y las comunicaciones entre Responsables de Circulación de bandas colaterales dentro de un mismo CRC o distintos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Operational event",
+  "Occurrence description": "National ID 41/2025: derailment.\nRegional train 18079 stops at track #1 of the Cortes station. Dispatcher prepares the route so that long-distance train 00801 can pass the regional train #18079 via track 3, by switching point #6. He also phones the driver of train #18079 for warning him that his exit signal S1/1 is going to be closed, but he mistakes the train number and phones instead to the driver of train #18078 (stopped at a different station, Castejón de Ebro). As the driver of train #18079 has not been effectively warned, he resumes marching, signal S1/1 is suddenly closed and the train pass it and breaks the #6 switch mechanism. The dispatcher stops long distance train at the entrance of the station, and asks the driver of the regional train to check switch #6. The driver says (wrongly) that the switch is OK, so the dispatcher authorizes him to come back. As the switch was actually broken, when coming back, a part of the train followed track #1, and the last bogie followed track #3 (so that the train ended crossed between both tracks, although it didn't derail). The crossed train hits a electrification post and takes it down. No personal damages.\nThis occurrence was object of a preliminary enquiry before formally opening the investigation, because it was necessary to clarify some aspects of the communications and the type of occurrence.",
+  "Location name": "Cortes de Navarra (Navarra)",
+  "Railway System type": "Railway ",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Renfe Viajeros",
+  "IM involved": "Adif",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Event relating to the signal passed at danger\nCausal factors:\n•\tModification of the route set for train 18079 after its scheduled stop at Cortes de Navarra station by the Signaller at the Miranda de Ebro Control Centre, resulting in the setting of departure signal S1/1 to danger. \n•\tMovement of train 18079 after its scheduled stop at Cortes de Navarra station without recognising the change in aspect of departure signal S1/1 from proceed to stop. \n\n Event relating to the incorrect routing\nCausal factors:\n•\tPassing of signal S1/1 at danger and trailing through points 6 at Cortes de Navarra station by train 18079. \n•\tSetting back of train 18079 towards Cortes de Navarra station due to failure to detect the trailing movement through points 6. \n",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Event relating to the signal passed at danger\nContributory factors:\n•\tFailure by the driver of train 18079 to verify the signal aspect before restarting from track 1 at Cortes de Navarra. \n•\tCommunication error by the Signaller at the Miranda de Ebro Control Centre, who contacted train 18078 instead of train 18079 regarding the setting of signal S1/1 to danger. \n•\tAbsence of confirmation of both the location and identification of signal S1/1 during communications between the driver of train 18078 and the Signaller. \n•\tFailure of the driver of train 18079 to observe the change to a stop aspect of signal S1/1 following its alteration during the station stop. \nSystemic factors:\n•\tInconsistent compliance with communication protocols between driving staff and signalling staff. \n•\tAutomatic deselection of the train previously selected by the Signaller on the “Train–Ground” system call monitor when a new train entered the control band.\n\nEvent relating to the incorrect routing\nContributory factors:\n•\tLack of experience of the driver of train 18079 in identifying a trailing movement through points. \n•\tBoundary-of-control conditions hindering the Signaller’s ability to anticipate overtaking manoeuvres involving trains running in the opposite order. \nSystemic factors:\n•\tDeficiencies in driver training regarding trailing through points."
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cierre intempestivo de la señal",
+  "Comunicación errónea al tren equivocado",
+  "No verificación del aspecto de señal",
+  "No detección del talonamiento"
+ ],
+ "mitigaciones": [
+  "Detección temprana del talonamiento",
+  "Cumplimiento estricto de protocolos de comunicación",
+  "Formación sobre talonamiento y retroceso",
+  "Coordinación entre responsables de circulación"
+ ],
+ "factores_humanos": [
+  "Error de comunicación del RC",
+  "No verificación del aspecto de señal",
+  "Falta de experiencia en talonamiento",
+  "Protocolos de comunicación inconsistentes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

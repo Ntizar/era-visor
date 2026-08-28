@@ -1,0 +1,72 @@
+{
+ "id": "ES-ID_300407_190907_Tocón - Montefrío",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_300407_190907_Tocón - Montefrío.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-231",
+ "expediente": "0026/2007",
+ "titulo": "Arrollamiento de ciclista en paso entarimado estación Tocón-Montefrío (Granada)",
+ "fecha_suceso": "2007-04-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Tocón - Montefrío",
+  "provincia": "Granada",
+  "pk": "88,612",
+  "linea": "Línea 426 Granada – Fuente de Piedra"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "Una persona falleció al ser arrollada por el tren de Media Distancia 3927 mientras cruzaba las vías en bicicleta por un paso entarimado entre andenes no autorizado. El accidente ocurrió en la estación de Tocón-Montefrío, donde existen pasos superiores alternativos a pocos metros. A pesar de que el maquinista activó la bocina y el freno de emergencia, y el Jefe de Circulación intentó advertir a la víctima, el impacto fue inevitable debido a la velocidad del tren y la imprudencia del ciclista.",
+ "causa_directa": "Uso indebido del paso entarimado entre andenes para cruzar las vías por parte de la víctima, quien ignoró las advertencias sonoras y visuales del personal ferroviario.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Impulsar campañas de sensibilización y concienciación ciudadana sobre el peligro de cruzar las vías del ferrocarril.",
+  "Evaluar la eliminación del paso entarimado entre andenes en la estación de Tocón-Montefrío si no es estrictamente necesario.",
+  "En caso de mantenerse el paso, estudiar la instalación de señalización luminosa y acústica."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person riding a bycicle is hit by a train when crossing the station´s board crossing.",
+  "Location name": "Tocón Montefrío station (Granada). Board crossing between platforms, kilometre point 88+612; 426 Granada - Fuente Piedra railway line Railway from Granada to Bobadilla.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim used the board crossing improperly,  instead of using the two passages that existed in the station for this purpouse."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Ciclista cruza paso entarimado no autorizado",
+  "Víctima usa auriculares impidiendo oír advertencias",
+  "Tren pasa sin parada a alta velocidad"
+ ],
+ "mitigaciones": [
+  "Maquinista activa freno de emergencia",
+  "Maquinista usa bocina repetidamente",
+  "Jefe circulación intenta detener ciclista"
+ ],
+ "factores_humanos": [
+  "Imprudencia grave de la víctima",
+  "Falta de atención al entorno ferroviario",
+  "Uso indebido de infraestructura existente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

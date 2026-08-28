@@ -1,0 +1,77 @@
+{
+ "id": "ES-IF-060910-290711-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-060910-290711-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1040",
+ "expediente": "0049/2010",
+ "titulo": "Colisión de tren con camión en paso a nivel provisional por obras en Carmonita (Badajoz)",
+ "fecha_suceso": "2010-09-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Badajoz",
+  "pk": "24+420",
+  "linea": "510 Aljucén - Cáceres"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 6 de septiembre de 2010, el tren de viajeros 17015 de Renfe Operadora arrolló a un camión dumper en un paso a nivel provisional por obras situado en el PK 24+420 de la línea 510 Aljucén - Cáceres, en Carmonita (Badajoz). Tras el impacto, el tren descarriló por completo y quedó volcado el coche intermedio. En el accidente fallecieron una pasajera y el conductor del camión, y resultaron heridos graves el maquinista y otro pasajero. El origen fue la invasión del gálibo por el camión al cruzar cuando pasaba el tren, sin que estuvieran echadas las cadenas del paso.",
+ "causa_directa": "La invasión del gálibo de la vía por el camión dumper, que cruzó el paso a nivel provisional mientras pasaba el tren 17015, sin encontrarse echadas las cadenas del paso.",
+ "causas_sistemicas": "Deficiencias en la gestión del paso provisional por obras: el piloto de seguridad desconocía la consigna, las autorizaciones y comunicaciones no quedaron registradas ni fueron coherentes, y no se verificó sistemáticamente la correcta aplicación de las medidas de protección. Además, no se realizaron pruebas de alcohol y drogas a la mayoría de los implicados.",
+ "recomendaciones": [
+  "Adif: adjuntar un análisis de riesgos al solicitar autorización a la DGIF para establecer pasos provisionales por obras.",
+  "DGIF: recoger en la autorización las medidas de protección y regulación necesarias, basadas en el análisis de riesgos y ajustadas a las clases de protección de la Orden de 2 de agosto de 2001.",
+  "Adif: implantar medios técnicos para grabar las conversaciones entre responsables de circulación y pilotos de seguridad de pasos provisionales por obras.",
+  "Adif: realizar pruebas de consumo de alcohol y drogas a todos los implicados en un accidente.",
+  "Adif: incluir en los planes de seguridad visitas sistemáticas a pasos provisionales por obras para verificar la correcta aplicación de la consigna."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A dump truck is hit by a passenger train while crossing a provisional level crossing (due to works at side). The truck´s driver died.",
+  "Location name": "Near Carmonita station (Badajoz), at a provisional (type D) level crossing, kilometre point 24,420, at 510 Aljucén-Cáceres railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when the dumper truck crossed the level crossing when the train was passing, being the chains out of place"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cadenas del paso no echadas",
+  "Paso abierto sin autorización",
+  "Piloto desconocía consigna",
+  "Comunicación entre jefes deficiente"
+ ],
+ "mitigaciones": [
+  "Frenado de urgencia del tren",
+  "Cierre efectivo del paso",
+  "Análisis de riesgos del paso",
+  "Visitas sistemáticas al paso"
+ ],
+ "factores_humanos": [
+  "Piloto desconocía consigna",
+  "Contradicciones en declaraciones",
+  "Comunicación deficiente entre jefes",
+  "Piloto no ve camión"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

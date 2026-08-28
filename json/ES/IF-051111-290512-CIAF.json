@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-051111-290512-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-051111-290512-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1307",
+ "expediente": "0051/2011",
+ "titulo": "Rebase de señal en parada en Bifurcación Sagrera (Barcelona) con conato de colisión entre trenes",
+ "fecha_suceso": "2011-11-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Bifurcación Sagrera",
+  "provincia": "Barcelona",
+  "pk": "110+311",
+  "linea": "268 Bif. Aragó-Barcelona Sant Andreu Comtal"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 5 de noviembre de 2011, a las 10:43 horas, el tren 37537, material vacío del tren 874, rebasó indebidamente la señal de entrada 1107 en indicación de parada en la Bifurcación Sagrera, de la línea 268 Bif. Aragó-Barcelona Sant Andreu Comtal. En ese momento existía un itinerario establecido para el tren 274 hacia Barcelona Marina, lo que generó una situación de conato de colisión. El rebase se produjo a 2 km/h y el tren quedó detenido 3 metros después de la señal por actuación del ASFA.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido de la señal 1107, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción del tren 37537.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Empty stock (train 874) overtook home signal 1107. As a result, this triggered a near miss train collision. \nEl día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif. Aragó–Barcelona Sant Andreu Comtal, el tren de viajeros 37537, material vacío de tren 874, rebasa indebidamente la señal de entrada 1107 de Bif. Sagrera, que se encontraba en indicación de parada. Se produce una situación de conato de colisión con tren 274 que tenía establecido itinerario hacia Barcelona Marina.",
+  "Location name": "Bif.Sagrera (Barcelona) station",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train 37537 overtook home signal (1107) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver. \nEl incidente tuvo su origen en el rebase indebido por el tren 37537 (material vacío de tren 874) de la señal 1107, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": " \n"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "circulaba detrás de tren cercanías",
+  "secuencia señales anuncio parada",
+  "itinerario establecido para otro tren"
+ ],
+ "mitigaciones": [
+  "activación sistema ASFA detuvo tren",
+  "velocidad rebase muy baja 2 km/h",
+  "distancia invasión solo 3 metros"
+ ],
+ "factores_humanos": [
+  "incumplimiento orden señal parada",
+  "fallo humano en conducción",
+  "no respetar aspecto rojo señal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

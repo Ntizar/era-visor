@@ -1,0 +1,67 @@
+{
+ "id": "ES-IF-180810-290311-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-180810-290311-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1039",
+ "expediente": "0047/2010",
+ "titulo": "Arrollamiento de vehículo en paso a nivel entre Utrera y El Sorbito (Sevilla)",
+ "fecha_suceso": "2010-08-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Sevilla",
+  "pk": "8+579",
+  "linea": "422 Bif. Utrera a Fuente de Piedra"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de viajeros 13926 arrolló a un vehículo de carretera en un paso a nivel clase B situado entre las estaciones de Utrera y El Sorbito. La señalización acústica y luminosa del paso a nivel estaba activada correctamente indicando la llegada del tren. El conductor del vehículo falleció tras invadir el gálibo de la vía. El maquinista aplicó el freno de emergencia y usó el silbato, pero no pudo evitar el impacto.",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel estando los dispositivos de protección (sonería e indicadores luminosos) activados.",
+ "causas_sistemicas": "La señalización vertical de los caminos que acceden al paso a nivel era incompleta y no se adecuaba totalmente a lo establecido en la Orden de 2 de agosto de 2001.",
+ "recomendaciones": [
+  "Completar la señalización vertical de los caminos que acceden al paso a nivel para adecuarlo a lo establecido en la Orden de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A road vehicle crossed the level crossing despite that there was warning of the coming train. As a result, the vehicle was hit by the passenger train 13926, killing the car´s driver.",
+  "Location name": "Level crossing, type B, kilometre point 8,759, at 422 Bif. Utrera-Fuente Piedra railway line, between Utrera and Sorbito stations (Sevilla).",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "vehículo invade gálibo de vía",
+  "señalización vertical camino incompleta"
+ ],
+ "mitigaciones": [
+  "maquinista usa silbato y freno emergencia",
+  "dispositivos protección paso nivel activos"
+ ],
+ "factores_humanos": [
+  "conductor ignora señales activadas",
+  "falta señalización vertical reglamentaria"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

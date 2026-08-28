@@ -54,5 +54,31 @@
   "Total serious injuries": 6,
   "Estimated total material costs": "150 000 - 2 000 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Excessive speed."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Paso por escape a velocidad excesiva",
+  "Señal sin indicación de velocidad",
+  "Falta de control de velocidad",
+  "Itinerario por vía desviada"
+ ],
+ "mitigaciones": [
+  "ASFA digital control de velocidad",
+  "Señales con velocidad limitada",
+  "Señales avanzadas diferenciadas",
+  "Formación continua del personal"
+ ],
+ "factores_humanos": [
+  "Complejidad de sistemas de bloqueo",
+  "Percepción de señales banalizadas",
+  "Formación del personal ferroviario",
+  "Supervisión de registros de velocidad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

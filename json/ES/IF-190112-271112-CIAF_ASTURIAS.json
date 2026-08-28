@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-190112-271112-CIAF_ASTURIAS",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-190112-271112-CIAF_ASTURIAS.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1342",
+ "expediente": "0006/2012",
+ "titulo": "Descarrilamiento de tren de mercancías 9561 en Parres (Asturias) por exceso de velocidad",
+ "fecha_suceso": "2012-01-19",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Asturias",
+  "pk": "378+049",
+  "linea": "Línea 21 Oviedo – Santander"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El día 19 de enero de 2012, el tren de mercancías 9561 de Feve descarriló entre las estaciones de Soto de Dueñas y Arriondas. El convoy circulaba a 70 km/h al entrar en una curva con limitación permanente de velocidad de 40 km/h, provocando el descarrilamiento de siete vagones y la rotura del tren. No hubo víctimas personales, pero se produjeron daños materiales significativos.",
+ "causa_directa": "Exceso de velocidad del tren al circular por una curva con limitación permanente de velocidad, debido al incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": "Incumplimiento normativo por parte del maquinista, incluyendo la superación de la tasa de alcoholemia permitida y la falta de ajuste de la marcha a la indicada en el libro itinerario.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train became partially derailed.",
+  "Location name": "Between Soto de Dueñas and Arriondas stations (Asturias), kilometre point 378,049, 21 Oviedo-Santander railway line",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in the train overspeeding while passing by a curve where a permanent speed limit was set, due to the non-compliance of the signal instructions by the train driver"
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Conducción bajo efectos alcohol",
+  "No ajusta velocidad a itinerario",
+  "Pasa señal aviso a 70 km/h",
+  "No concentra atención en señales"
+ ],
+ "mitigaciones": [
+  "Aplicación de freno eléctrico"
+ ],
+ "factores_humanos": [
+  "Consumo de alcohol",
+  "Exceso de velocidad",
+  "Incumplimiento de señales",
+  "Falta de atención"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

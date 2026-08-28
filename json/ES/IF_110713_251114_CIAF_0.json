@@ -1,0 +1,30 @@
+{
+ "id": "ES-IF_110713_251114_CIAF_0",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_110713_251114_CIAF_0.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0052/2013",
+ "titulo": "Rebase de señal en parada del tren de mercancías 80382 en la estación de Lleida Pirineus",
+ "fecha_suceso": "2013-07-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Lleida Pirineus",
+  "provincia": "Lleida",
+  "pk": null,
+  "linea": "Línea 200 Madrid Chamartín - Barcelona Estació de França"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 11 de julio de 2013, el tren de mercancías 80382 de Renfe Operadora entró en la vía 4 de la estación de Lleida Pirineus y rebasó en 7 metros la señal S2/4A, que estaba en indicación de parada. Simultáneamente, el tren 15626 de Renfe Operadora (Rodalíes) salía desde la vía 6 por el escape formado por las agujas 7 y 5, lo que originó un conato de colisión. El maquinista aplicó el freno de emergencia a unos 115 metros de la señal, pero el tren la rebasó a 11 km/h. No se produjeron daños materiales ni personales.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido de la señal S2/4A en indicación de parada por incumplimiento de la orden dada por la señal al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

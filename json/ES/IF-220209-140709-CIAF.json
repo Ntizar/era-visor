@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-220209-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-220209-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-701",
+ "expediente": "0012/2009",
+ "titulo": "Arrollamiento de una persona por tren de media distancia entre Chapela y Vigo (Pontevedra)",
+ "fecha_suceso": "2009-02-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Chapela - Vigo",
+  "provincia": "Pontevedra",
+  "pk": "175,050",
+  "linea": "810 Vigo - Monforte de Lemos"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 22 de febrero de 2009, a las 17:29 horas, el tren de media distancia 12703 de Renfe Operadora arrolló a una persona en el PK 175,050, entre las estaciones de Chapela y Vigo. Según el maquinista, la víctima se encontraba en la caja de la vía intentando coger un objeto. El tren circulaba a 80 km/h, por debajo de la velocidad máxima permitida, y el maquinista activó silbato y freno de emergencia sin poder evitar el arrollamiento. Se produjo una víctima mortal y no hubo daños materiales.",
+ "causa_directa": "La invasión de la vía por parte de la víctima, que se encontraba en la caja de la vía intentando coger un objeto cuando pasaba el tren.",
+ "causas_sistemicas": "Acceso a la vía en zona cercana con ausencia de vallado en algunos tramos, pese a existir una pasarela peatonal, lo que facilita el paso de personas.",
+ "recomendaciones": [
+  "Estudiar la conveniencia de vallar la zona cercana al accidente."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man walking within the tracks was knocked down by a passanger train. Despite the train driver used the whistle and the emergency brake, he couldn´t avoig the accident.",
+  "Location name": "Between Chapela and Vigo stations (Pontevedra), kilometre point 175,050, 810 Monforte de Lemos-Vigo railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

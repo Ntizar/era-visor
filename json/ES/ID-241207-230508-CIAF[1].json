@@ -1,0 +1,72 @@
+{
+ "id": "ES-ID-241207-230508-CIAF[1]",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-241207-230508-CIAF[1].pdf",
+ "url_pdf": null,
+ "erail_id": "ES-730",
+ "expediente": "064/2007",
+ "titulo": "Arrollamiento de una persona por tren de cercanías en línea 930 Madrid-San Fernando de Henares, cerca de El Pozo",
+ "fecha_suceso": "2007-12-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "El Pozo",
+  "provincia": "Madrid",
+  "pk": "5,200",
+  "linea": "930 Madrid-San Fernando de Henares"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763 de Renfe Operadora arrolló a una persona en el punto kilométrico 5,200 de la línea 930 Madrid-San Fernando de Henares, cerca del apeadero de El Pozo. La víctima, un varón de 22 años, falleció como consecuencia del impacto, mientras que otra persona que caminaba con ella resultó ilesa. El maquinista aplicó el freno de emergencia y sonó el silbato, pero no pudo evitar el golpe; el tren circulaba a 98 km/h, por debajo de la velocidad máxima autorizada. El informe concluye que el origen del accidente fue el tránsito indebido de la víctima por la vía en zona no autorizada.",
+ "causa_directa": "El tránsito indebido de la víctima por la vía en zona no autorizada para el público.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar un inventario sistemático de situaciones de tránsito indebido de personas por la vía en la Red Ferroviaria de Interés General y planificar actuaciones a nivel global."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A passenger train hit one of two people were walking along the track. As a result, the victim died.",
+  "Location name": "Kilometre point 5,200; near El Pozo station (Madrid); at 930 Madrid- San Fernando de Henares railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima camina por vía",
+  "tránsito indebido de peatón",
+  "zona no autorizada para público",
+  "acompañante camina junto a víctima"
+ ],
+ "mitigaciones": [
+  "maquinista usa silbato y freno",
+  "tren circula bajo velocidad máxima",
+  "visibilidad recta de 150 metros",
+  "comunicación rápida a servicios de emergencia"
+ ],
+ "factores_humanos": [
+  "tránsito indebido de víctima",
+  "persona accede a vía",
+  "maquinista actúa correctamente",
+  "zona no autorizada para público"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-160408-300908-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-160408-300908-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-451",
+ "expediente": "0009/2008",
+ "titulo": "Arrollamiento de una mujer por tren de Cercanías en paso a nivel de Sant Feliú de Llobregat",
+ "fecha_suceso": "2008-04-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sant Feliú de Llobregat",
+  "provincia": "Barcelona",
+  "pk": "88,906",
+  "linea": "240 Barcelona - San Vicente de Calders"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 16 de abril de 2008, el tren de Cercanías 28934 de Renfe Operadora arrolló a una mujer en el paso a nivel tipo C del P.K. 88,906, dentro de la estación de Sant Feliú de Llobregat. La víctima cruzó por la zona peatonal cuando las semibarreras estaban bajadas y las señales luminosas indicaban prohibición de paso. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto. La mujer resultó herida muy grave y falleció en el lugar.",
+ "causa_directa": "La víctima cruzó el paso a nivel cuando su señalización indicaba la prohibición de paso, sorteando las semibarreras abatidas.",
+ "causas_sistemicas": "El paso a nivel tenía un momento de circulación superior al límite que obligaba a su supresión y en el mismo punto se habían producido otros arrollamientos; además, el paso superior de peatones cercano no disuadía a los usuarios de cruzar por el paso a nivel.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A young woman is knocked down by a passenger train when passing through a level crossing. It had the barriers down.",
+  "Location name": "Sant Feliu de Llobregat (Barcelona)station, at level crossing type C, kilometre point 88,906 on 240 San Vicente de Calders-L´Hospitalet de Llobregat railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim was distracted and crossed when the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima cruzó con semibarreras bajadas",
+  "víctima hablaba por móvil",
+  "víctima ignoró señales de prohibición",
+  "peatones evitaban paso superior"
+ ],
+ "mitigaciones": [
+  "maquinista usó silbato",
+  "maquinista aplicó freno de urgencia",
+  "existe paso superior de peatones",
+  "supresión del paso a nivel"
+ ],
+ "factores_humanos": [
+  "víctima ignoró señales",
+  "víctima distraída por móvil",
+  "peatones no usaban paso superior",
+  "paso a nivel aún no suprimido"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

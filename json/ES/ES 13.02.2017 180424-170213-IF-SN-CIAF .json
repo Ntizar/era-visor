@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 13.02.2017 180424-170213-IF-SN-CIAF ",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 13.02.2017 180424-170213-IF-SN-CIAF .pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0012/2017",
+ "titulo": "Accidente en paso a nivel PK 90+594, Santo Domingo-Caudilla (Toledo): tren arrolla vehículo detenido",
+ "fecha_suceso": "2017-02-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Toledo",
+  "pk": "90+594",
+  "linea": "Línea 500 Bifurcación Planetario a Valencia de Alcántara"
+ },
+ "entidades": [
+  "Adif",
+  "Ayuntamiento de Santo Domingo-Caudilla"
+ ],
+ "resumen": "El 13 de febrero de 2017 se produjo un accidente en el paso a nivel clase A del PK 90+594 de la línea 500, en Santo Domingo-Caudilla (Toledo). Un tren arrolló a un vehículo de carretera que estaba detenido y sin luces en la zona central del paso a nivel, tras invadir el gálibo de libre paso. La infraestructura, las comunicaciones y los equipos de seguridad del tren funcionaron correctamente. La señalización viaria del camino era deficiente y no cumplía la Orden FOM de 2 de agosto de 2001.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por un vehículo de carretera detenido y sin luces en la zona central del paso a nivel, que fue arrollado por el tren.",
+ "causas_sistemicas": "Deficiencias en la señalización fija vertical del camino del paso a nivel, competencia municipal, y limitaciones presupuestarias y de sensibilización de los ayuntamientos para mantener la señalización de estos pasos.",
+ "recomendaciones": [
+  "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001.",
+  "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en cuanto al estado y conservación de los caminos de acceso."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade gálibo",
+  "Vehículo detenido sin luces",
+  "Falta señalización viaria",
+  "Silbato tardío del tren"
+ ],
+ "mitigaciones": [
+  "Señalización fija vertical completa",
+  "Uso silbato al aproximarse",
+  "Inventario estatal pasos nivel",
+  "Plan institucional mejora pasos"
+ ],
+ "factores_humanos": [
+  "Conductor no retira vehículo",
+  "Maquinista incumple orden silbato",
+  "Limitación recursos municipales",
+  "Falta sensibilidad riesgo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-021008-281108-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-021008-281108-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-644",
+ "expediente": "0046/2008",
+ "titulo": "Arrollamiento de una persona por tren de FEVE en viaducto sobre el río Esla, línea León-Bilbao, provincia de León",
+ "fecha_suceso": "2008-10-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Cistierna",
+  "provincia": "León",
+  "pk": "53,725",
+  "linea": "31 León-Bilbao"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El 2 de octubre de 2008, el tren de viajeros 7606 de FEVE arrolló a una mujer en el viaducto sobre el río Esla, P.K. 53,725 de la línea 31 León-Bilbao, entre Cistierna y León. La víctima caminaba por la caja de la vía en sentido de la marcha y de espaldas al tren. El maquinista usó el silbato y el freno, pero no pudo evitar el impacto, que causó la muerte de la mujer. No hubo daños materiales.",
+ "causa_directa": "El tránsito de la víctima por un lugar no autorizado para ello.",
+ "causas_sistemicas": "Uso habitual del viaducto por personas ajenas al ferrocarril para cruzar el río Esla, al no existir una pasarela peatonal alternativa.",
+ "recomendaciones": [
+  "Repintar el cartel de prohibido el paso existente y colocar otros tres carteles, uno en cada margen de la vía y en los puntos de acceso al viaducto.",
+  "Estudiar la construcción de una pasarela peatonal que una ambas márgenes del río para evitar el uso del puente ferroviario por personas ajenas al ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A woman, with her back to a coming train and walking within the rail gauge, was knocked down by a passenger train.",
+  "Location name": "Viaduct over Esla river (León), kilometre point 53,725 on 31 León-Bilbao railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "tránsito peatón vía no autorizada",
+  "uso habitual viaducto por vecinos"
+ ],
+ "mitigaciones": [
+  "aviso acústico silbato tren",
+  "aplicación freno neumático emergencia"
+ ],
+ "factores_humanos": [
+  "peatón ajeno actividad ferroviaria",
+  "maquinista actuación correcta"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

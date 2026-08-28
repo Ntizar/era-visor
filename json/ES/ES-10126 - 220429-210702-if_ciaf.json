@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES-10126 - 220429-210702-if_ciaf",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10126 - 220429-210702-if_ciaf.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "59/2021",
+ "titulo": "Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2 de julio de 2021",
+ "fecha_suceso": "2021-07-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Alicante",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "resumen": "El 2 de julio de 2021 se produjo un accidente en un paso a nivel de Novelda (Alicante). Un turismo invadió el paso a nivel cuando las semibarreras estaban cerradas y las señales luminosas activas. Un tren que circulaba por la vía colisionó con el vehículo. El conductor del tren aplicó el freno de emergencia, pero no pudo evitar el impacto.",
+ "causa_directa": "Error humano del conductor del turismo, que no percibió las señales y la semibarrera cerrada e invadió el paso a nivel cuando el tren llegaba.",
+ "causas_sistemicas": "La disposición viaria del entorno, con una intersección en T de ángulo cerrado junto al paso a nivel, dificultaba la percepción de las barreras y permitía trazados que evitaban la semibarrera, reduciendo la eficacia de la protección.",
+ "recomendaciones": [
+  "Analizar medidas de refuerzo de seguridad en este paso a nivel, incluida la posibilidad de acelerar su supresión.",
+  "Acelerar o impulsar la aplicación del artículo 52.6 del Real Decreto 929/2020, promoviendo actuaciones o estudios entre autoridades para identificar pasos a nivel con disposición viaria propensa a accidentes similares."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Conductor ignoró semibarrera cerrada",
+  "Conductor omitió señales previas al paso a nivel",
+  "Conductor aceleró antes de colisión",
+  "Conductor invadió vía con tren aproximándose"
+ ],
+ "mitigaciones": [
+  "Frenada de emergencia del tren",
+  "Semibarreras automáticas en paso a nivel",
+  "Señales luminosas y acústicas activas",
+  "Proyecto de supresión del paso a nivel"
+ ],
+ "factores_humanos": [
+  "Error humano del conductor del coche",
+  "Distracción al aproximarse al paso a nivel",
+  "Diseño viario confuso en acceso",
+  "Aplicación insuficiente de normativa de seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

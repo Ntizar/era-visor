@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-120908-200109-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-120908-200109-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-596",
+ "expediente": "0042/2008",
+ "titulo": "Arrollamiento de persona por tren de mercancías en paso enmaderado de la estación de Martorell",
+ "fecha_suceso": "2008-09-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Martorell",
+  "provincia": "Barcelona",
+  "pk": "73,130",
+  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 12 de septiembre de 2008, el tren de mercancías 40360 arrolló a una persona que cruzaba por un paso enmaderado no autorizado en la estación de Martorell. La víctima falleció en el acto pese a los intentos del maquinista por detener el tren mediante silbato y freno de emergencia. El accidente ocurrió a la salida de un túnel con visibilidad reducida, aunque existía un paso inferior cercano y señalización prohibiendo el cruce.",
+ "causa_directa": "El tránsito de la víctima por un lugar no autorizado para ello (paso enmaderado) en el momento en que pasaba el tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, crossing through a board crossing, is knocked down by the train which he didn´t notice was approaching.",
+  "Location name": "Martorell (Barcelona) station. 240 Barcelona-San Vicente de Calders railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima cruzó por vía no autorizada",
+  "tren salió del túnel en curva"
+ ],
+ "mitigaciones": [
+  "uso repetido del silbato",
+  "acción del freno de emergencia",
+  "carteles prohibiendo cruce de vías",
+  "existencia de paso inferior"
+ ],
+ "factores_humanos": [
+  "víctima cruzó por vía no autorizada",
+  "maquinista actuó conforme a normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

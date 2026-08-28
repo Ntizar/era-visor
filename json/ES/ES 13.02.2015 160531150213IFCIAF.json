@@ -1,0 +1,50 @@
+{
+ "id": "ES-ES 13.02.2015 160531150213IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 13.02.2015 160531150213IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0010/2015",
+ "titulo": "Descarrilamiento del primer eje de un tren en la vía 3 de la Estación de Barcelona Estació de França",
+ "fecha_suceso": "2015-02-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Barcelona Estació de França",
+  "provincia": "Barcelona",
+  "pk": "684+991",
+  "linea": "vía 3"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 13 de febrero de 2015, un tren circulaba por la vía 3 de la estación de Barcelona Estació de França. Al pasar por una curva de radio 220 m a 24 km/h, la rueda derecha del primer eje descarriló en el PK 684+991 y la composición avanzó 256 m hasta detenerse junto a la topera. No hubo víctimas mortales ni heridos. El informe atribuye el suceso a deficiencias de la infraestructura de vía, principalmente sobreanchos y sujeciones deficientes.",
+ "causa_directa": "El accidente se produjo por el fallo técnico de la infraestructura de vía en la zona del accidente, principalmente por la existencia de sobreanchos y deficiencias en las sujeciones del carril.",
+ "causas_sistemicas": "No se realizaron labores de mantenimiento en la zona de andenes de la vía 3 para paliar defectos detectados, debido a la priorización de recursos en vías principales. El procedimiento general de Adif para la gestión de no conformidades era de aplicación complicada en el mantenimiento de infraestructura.",
+ "recomendaciones": [
+  "Revisar y/o complementar el procedimiento general PG-104-003-003 para concretar el tratamiento y gestión de las no conformidades detectadas en la inspección y vigilancia de la infraestructura, mejorando su operativa y asegurando su cumplimiento.",
+  "Una vez revisado el procedimiento, comprobar que la sistemática es operativa y asegurar que es conocida por el personal involucrado."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "deficiencias en infraestructura de vía",
+  "priorización recursos mantenimiento vías principales",
+  "no actuación zona andenes vía 3"
+ ],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "gestión inadecuada no conformidades",
+  "procedimiento general difícil aplicación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

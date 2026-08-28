@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-040309-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-040309-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-703",
+ "expediente": "0015/2009",
+ "titulo": "Arrollamiento de persona en el apeadero de Platja de Castelldefels al cruzar las vías por detrás de un tren estacionado",
+ "fecha_suceso": "2009-03-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Platja de Castelldefels",
+  "provincia": "Barcelona",
+  "pk": "656,600",
+  "linea": "200 Madrid Chamartín - Barcelona Sants"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 4 de marzo de 2009, a las 21:49 horas, el tren 18098 de Renfe Operadora arrolló a una persona en el apeadero de Platja de Castelldefels. La víctima intentaba cruzar las vías por detrás del tren 28387, que estaba estacionado en la vía I, sin percatarse de la llegada del tren 18098 por la vía II. El maquinista activó el freno de emergencia, pero no pudo evitar el impacto. La víctima falleció mientras era atendida por los servicios sanitarios.",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la víctima, quien intentó cruzar por detrás de un tren estacionado sin percatarse de la proximidad de otro tren circulando por la vía contigua.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A young woman (passenger of a train) crossed the tracks from platform 1 to the opposite, being hit by a train that was approaching from the other side (track 2). She had crossed behind a train was stopped at track 1, being unable to watch the caming train.",
+  "Location name": "Platja de Castelldefels station (Barcelona), kilometre point 657,000, 200 Madrid-Barcelona railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Bajar del tren estacionado en vía I",
+  "Cruzar por detrás del tren",
+  "No usar paso elevado existente",
+  "No percatarse de otro tren"
+ ],
+ "mitigaciones": [
+  "Paso elevado comunica andenes",
+  "Carteles advierten peligro cruzar",
+  "Freno de emergencia activado",
+  "Paso inferior en construcción"
+ ],
+ "factores_humanos": [
+  "Invasión del gálibo por víctima",
+  "No percibe llegada del tren",
+  "No utiliza paso elevado",
+  "Maquinista frena correctamente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

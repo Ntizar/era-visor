@@ -47,5 +47,28 @@
   "Total fatalities": 1,
   "LC User serious injuries": 1,
   "Total serious injuries": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce indebido peatón barreras bajadas",
+  "omisión señales luminosas peatonales",
+  "accidente previo mismo paso nivel"
+ ],
+ "mitigaciones": [
+  "uso silbato por maquinista",
+  "frenado emergencia tren",
+  "proyecto soterramiento línea"
+ ],
+ "factores_humanos": [
+  "conducta imprudente víctima",
+  "edad avanzada peatón",
+  "no respeto señalización activa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

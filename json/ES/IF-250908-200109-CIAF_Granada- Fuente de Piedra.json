@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-250908-200109-CIAF_Granada- Fuente de Piedra",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-250908-200109-CIAF_Granada- Fuente de Piedra.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-669",
+ "expediente": "0043/2008",
+ "titulo": "Arrollamiento de una persona por tren en P.K. 14,250 de la línea 426 Granada-Fuente de Piedra, Málaga",
+ "fecha_suceso": "2008-09-25",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Málaga",
+  "pk": "14,250",
+  "linea": "426 Granada-Fuente de Piedra"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 25 de septiembre de 2008, el tren Complementario de Media Distancia GR376 de Renfe Operadora arrolló a una mujer de 70 años en plena vía, en el P.K. 14,250 de la línea 426 Granada-Fuente de Piedra. La víctima cruzaba la vía por un lugar no autorizado y, según los vecinos, tenía problemas de audición, por lo que no percibió las señales acústicas del tren. El maquinista hizo sonar el silbato y aplicó el freno de emergencia, pero no pudo evitar el fallecimiento. No hubo daños materiales y la circulación se restableció tras el levantamiento del cadáver.",
+ "causa_directa": "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello, en el momento en que pasaba el tren.",
+ "causas_sistemicas": "El antiguo paso a nivel desmantelado se había convertido en un paso vicioso de tránsito, y la zona carecía de señales fijas de advertencia del peligro y del paso superior cercano.",
+ "recomendaciones": [
+  "Instalar señales fijas que adviertan del peligro de cruzar las vías y de la existencia de un paso superior a 200 metros."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "The restored train number BM402, consisting of a Billard railcar, owned by Asociación de Amigos del Ferrocarril de Bilbao collided with the buffer stop at the end of the line at Balmaseda Mercancías station. No one was seriously injured.",
+  "Location name": "Balmaseda Mercancías station, P.K. 284,050, at 31 León-Bilbao railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "Heritage train of Asociación de Amigos del Ferrocarril de Bilbao",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused as the braking system didn´t work and the train drifted"
+ }
+}

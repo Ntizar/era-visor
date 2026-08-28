@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF_260712__300713_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_260712__300713_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0305",
+ "expediente": "0053/2012",
+ "titulo": "Conato de colisión entre trenes por autorización indebida de rebase en Atocha-Cercanías (Madrid)",
+ "fecha_suceso": "2012-07-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Atocha-Cercanías",
+  "provincia": "Madrid",
+  "pk": "0+448",
+  "linea": "900 Madrid – Chamartín / Madrid – Atocha Cercanías"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 26 de julio de 2012, a las 14:15 horas, en la estación de Atocha-Cercanías (Madrid), el tren de larga distancia 4141 fue autorizado indebidamente a rebasar la señal de salida S1/4C. La agente de circulación entregó el boletín de autorización de rebase sin que el itinerario estuviera correctamente establecido y sin autorización del jefe de circulación. Tras rebasar la señal y talonar la travesía T10b, el tren quedó enfrentado al tren de cercanías 21232 detenido ante la señal E2-2, produciéndose un conato de colisión a unos 50 metros.",
+ "causa_directa": "Fallo humano de la agente de circulación al entregar indebidamente el boletín de autorización de rebase de la señal S1/4C al tren 4141, sin itinerario correctamente establecido y sin autorización del jefe de circulación.",
+ "causas_sistemicas": "Avería en la junta aislante del circuito de vía A6, que impedía la apertura de las señales de salida y obligaba a expedir los trenes con autorización de rebase; deficiencias en las comunicaciones por radioteléfono entre la agente de circulación y el jefe de circulación.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Long distance passenger train is wrongly authorised to overtake exit signal S1/4C at Madrid-Atocha station (Madrid). \nTren de pasajeros de larga distancia es autorizado erróneamente a rebasar señal de salida S1/4C (en indicación de parada) en la estación de Madrid-Atocha (Madrid).",
+  "Location name": "Madrid-Atocha station (Madrid)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused by a failure of the traffic agent who wrongly authorized to overtake exit signal S1/4C when the route was not rightly established and without the traffic manager´s authorization"
+ }
+}

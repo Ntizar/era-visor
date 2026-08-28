@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF_210612_260313_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_210612_260313_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0138",
+ "expediente": "0050/2012",
+ "titulo": "Descarrilamiento de tren de viajeros en el cambiador de ancho de Plasencia de Jalón (Zaragoza)",
+ "fecha_suceso": "2012-06-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Cambiador de ancho de Plasencia de Jalón",
+  "provincia": "Zaragoza",
+  "pk": "276+705",
+  "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 21 de junio de 2012, a las 8:51 horas, el tren de viajeros 601 de Renfe Operadora descarriló al pasar por el cambiador de ancho de Plasencia de Jalón (Zaragoza). El descarrilamiento afectó a la rueda izquierda del octavo eje de la composición durante el cambio de ancho de UIC a ibérico. No hubo daños personales. La investigación atribuyó el suceso a un fallo del mecanismo de enclavamiento por falta de engrase.",
+ "causa_directa": "El descarrilamiento se produjo por fallo en el sistema de cambio de ancho de ejes en la rueda izquierda del octavo eje, debido a que el mecanismo de enclavamiento no funcionó adecuadamente por falta de engrase.",
+ "causas_sistemicas": "Deficiencias en la ejecución o control del engrase de los pitones de enclavamiento durante el mantenimiento, según se desprende de las recomendaciones del informe.",
+ "recomendaciones": [
+  "Definir en las instrucciones de mantenimiento cómo se debe realizar la operación de engrase de los pitones de enclavamiento a fin de que sea efectiva; formar a los operarios y efectuar comprobaciones aleatorias de su ejecución.",
+  "Solicitar al tecnólogo el estudio de la aplicación de otros tipos de materiales al pitón y al casquillo que disminuyan el desgaste y las necesidades de engrase."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Long distance passenger train derailed ( left wheel of eight axle) as it was in the operation of changing the gauge from UIC to Iberian gauge.",
+  "Location name": "Plasencia de Jalón (Zaragoza)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a failure in the system for changing the gauge in the left wheel of eight axle since the mechanism for locking/unlocking didn´t work properly due to a lack of lubrication ."
+ }
+}

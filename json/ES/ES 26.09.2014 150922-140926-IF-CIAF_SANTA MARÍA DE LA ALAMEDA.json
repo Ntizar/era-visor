@@ -1,0 +1,56 @@
+{
+ "id": "ES-ES 26.09.2014 150922-140926-IF-CIAF_SANTA MARÍA DE LA ALAMEDA",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 26.09.2014 150922-140926-IF-CIAF_SANTA MARÍA DE LA ALAMEDA.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0052/2014",
+ "titulo": "Colisión de locomotora aislada contra tren detenido entre Santa María de la Alameda y Las Navas del Marqués",
+ "fecha_suceso": "2014-09-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": null,
+  "pk": "73+885",
+  "linea": null
+ },
+ "entidades": [
+  "Adif",
+  "Transfesa Rail"
+ ],
+ "resumen": "El informe analiza una colisión ocurrida en plena vía entre Santa María de la Alameda y Las Navas del Marqués, tras un incendio que dejó un tren detenido y necesitado de socorro. Una locomotora aislada, identificada como tren SU101, fue autorizada a circular en marcha a la vista para auxiliar a otro tren detenido. El maquinista no cumplimentó adecuadamente esa prescripción, alcanzó 67 km/h y colisionó a unos 35 km/h contra el tren detenido en el PK 73+885. Resultaron heridos leves el maquinista y un agente en prácticas.",
+ "causa_directa": "Fallo humano del personal de conducción de la locomotora aislada, por incumplimiento del artículo 141.1 del RGC al no cumplimentar adecuadamente la orden de “marcha a la vista”.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en los cursos de reciclaje del personal de conducción en el cumplimiento de las condiciones de circulación con “marcha a la vista”."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tren detenido en plena vía",
+  "Se segrega locomotora para socorro",
+  "PM ordena marcha a la vista",
+  "No cumple adecuadamente la orden"
+ ],
+ "mitigaciones": [
+  "Activación de seta de emergencia",
+  "Prescripción de marcha a la vista"
+ ],
+ "factores_humanos": [
+  "Fallo humano del maquinista",
+  "Posible fatiga del maquinista",
+  "Despiste al buscar puntos kilométricos",
+  "No cumplimentar adecuadamente la orden"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

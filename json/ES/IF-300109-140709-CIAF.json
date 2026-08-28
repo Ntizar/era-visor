@@ -1,0 +1,43 @@
+{
+ "id": "ES-IF-300109-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300109-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-697",
+ "expediente": "0007/2009",
+ "titulo": "Arrollamiento de una persona por el tren 8604 de Feve en el paso a nivel de la estación de Sodupe",
+ "fecha_suceso": "2009-01-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sodupe",
+  "provincia": "Vizcaya",
+  "pk": "631,562",
+  "linea": "24 Santander - Bilbao"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 30 de enero de 2009, el tren de viajeros 8604 de Feve arrolló a una persona en el paso a nivel tipo C situado en la estación de Sodupe. Las barreras estaban bajadas y las señales acústicas y luminosas funcionaban correctamente. El maquinista hizo uso del silbato y frenó, pero no pudo evitar el atropello. El accidente se originó por el cruce de la víctima sorteando las barreras activadas.",
+ "causa_directa": "La víctima cruzó el paso a nivel sorteando las barreras bajadas y las señales activadas mientras circulaba el tren 8604.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A young man crossed the level crossing when the barriers were lowered being hit by the passenger train number 8604. As a result, the man died.",
+  "Location name": "Sodupe station (Vizcaya), level crossing type C, kilometre point 631,562, 24 Santander-Basurto railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "id": "ES-ES-10252 - 2022-46-0601-IF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10252 - 2022-46-0601-IF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10252",
+ "expediente": "46/2022",
+ "titulo": "Retroceso no autorizado en el apeadero de El Papiol, Barcelona",
+ "fecha_suceso": "2022-06-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Apeadero de El Papiol",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "gestor de infraestructura (IM)"
+ ],
+ "resumen": "El 1 de junio de 2022 se produjo un incidente operacional consistente en un retroceso no autorizado de un tren en el apeadero de El Papiol, Barcelona. El movimiento se inició sin que se confirmara correctamente la llegada y la preparación para la salida, según el protocolo informal de 'listo para salir'. Las comunicaciones por radio tren no permitieron interceptar el tren porque el conductor había modificado el número de tren y el canal de frecuencia. El contacto se restableció posteriormente a través del teléfono móvil personal del conductor.",
+ "causa_directa": "El conductor inició un retroceso no autorizado tras interpretar incorrectamente una comunicación de 'listo para salir' y sin completar adecuadamente las comprobaciones prescritas antes de la salida.",
+ "causas_sistemicas": "Falta de apreciación del riesgo, deficiencias en procedimientos de reincorporación tras periodos largos de baja, formación y supervisión insuficientes, limitaciones en reconocimientos psicofísicos, disponibilidad limitada de personal experto y protocolos informales de comunicación 'listo para salir' en estaciones congestionadas.",
+ "recomendaciones": [
+  "Implementar procedimientos de reincorporación al trabajo para conductores tras periodos largos de baja.",
+  "Completar una nueva herramienta para exámenes psicológicos de conductores y revisar criterios de pruebas de acceso y actualización.",
+  "Promover supervisión y mentoría de conductores en tareas diarias y asegurar disponibilidad de personal cualificado.",
+  "Reforzar formación teórica y práctica sobre apreciación del riesgo y obligaciones de informar sobre aptitud para conducir.",
+  "Revisar procedimientos de comunicación 'listo para salir' cuando las comunicaciones verbales estén limitadas.",
+  "Garantizar el cumplimiento de la RT1/2020 y que los conductores dispongan de tiempo suficiente para comprender la información esencial del servicio."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Operational event",
+  "Occurrence description": "National ID 46/2022: Operational event at El Papiol (line 240, kilometre 82).\nCommuter train #77721 reversed without authorization from El Papiol halt. Control Centre detected that movement, and tried to contact with the driver, to no avail. So, they stopped all the other trains in the section, and dispatched one of them via the other track, with instructions to contact with #77721. Finally they contacted with train #77721 and it stopped at the entrace signal of the next station. Driver of #77721 stated that she had mistaken El Papiol halt with Castellbisbal station, terminus station, and had begun the return trip. As she had problems with radio to contact with Control Centre, she began the return trip by herself. The driver had been 8 months on a sick leave and alleged current familiar issues.",
+  "Location name": "El Papiol (Barcelona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Commuter train",
+  "RU involved": "Renfe Viajeros",
+  "IM involved": "Adif",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causes:\nA1. Confusion of Castellbisbal Station with El Papiol halt. Causal factor directly linked to previous staff management decisions as well as actions undertaken by the driver hours prior to the incident. \nA2. Decision to initiate the movement at El Papiol halt towards Molins de Rei. The movement started without proper communication with the TDO and the required train-checks. \nA3. Once on the move, impossibility to establish communication with the train #77721 before arriving at E4.\n\nContributing factors:\nContributing factors related to the casual factor A1\nB1.1. Deviation of the attentional focus that led to the confusion of El Papiol halt with Castellbisbal station.\nC.1.1.1. Attention to an electronic device during the rotation maneuvers that led to the deviation of the attentional focus and an inappropriate spatial appreciation of the end point of the itinerary.\nD1.1.1.1. Lack of risk appreciation during the driving operation responsibilities.\nC1.1.2. The driver´s transitory psycho-physical unfitness led to the deviation of the attentional focus.\nD1.1.2.1. Lack of risk appreciation considering the unfitness to work prior to the service.\nB1.2. The long off-work period prior to the incident is considered a contributing factor to the confusion of El Papiol halt with Castellbisbal station.\nC1.2.1. Lack of psycho-physical appropriate examinations and procedures after long off-work periods.\nC1.2.2. Insufficient communication, collaboration and coordination within the organization that would promote a trust environment between mentors and drivers, enabling premature detection of unfitness to work circumstances\nC1.2.2. Insufficient communication, collaboration and coordination within the organization that would promote a trust environment between mentors and drivers, enabling premature detection of unfitness to work circumstances.\nC1.2.3. Gaps within the access, refreshers and additional psycho-physical examinations resulting in the inappropriate assessment of the fitness to work. Furthermore, according to the current procedures the psycho-physical examinations can be trained and prepared by the drivers beforehand.\nC1.2.4. Due to the lack of enough experienced staff, the driver was not shadowed when returning to the driving operations after the long off-work period.\nB3.1. It was the first time that the driver would rotate at Castellbisbal station after returning to work. \nC3.1.1. Lack of a thorough understanding of the rotation maneuvers defined in the information provided by the RU to the driver well in advance to the commencement of the service. \nD1.3.1.1. Lack of procedures that guarantee that drivers fully comprehend the essential information of the assigned services.\nD1.3.1.2. Lack of mentors and experienced staff that would promote communication, coordination, and collaboration with drivers, as well as solve the technical or personal challenges of the day-to-day tasks.\nB1.4. Insufficient theoretical and practical training that would grant the appropriate performance of the technical and operational driving responsibilities. A lack of risk appreciation acknowledgment is also considered a contributing factor to the confusion of El Papiol halt with Castellbisbal station. \nC1.4.1. Misinterpretation of the signal “A” indicating the approach to a halt in the directi\nC1.4.2. Rotating and reverse movement along track I.on of Molins de Rei to El Papiol halt.\n\nContributing factors to the causal factor A2\nB2.1. Persistence of the deviation of the attentional focus minutes before initiating the reverse movement.\nC2.1.1. Confusion of the permissive signal E´4 with the absolute signal located at Castellbisbal station, where the rotation movement should have started. \nC2.1.2. Initiation of the movement along track I even though the train number had already changed to an even number after the rotation maneuvers. \nB2.2. The driver did not notify the TDO its readiness to the depart before starting the movement, therefore, the Centralized Traffic Centre (CTC) was not aware of the reverse movement nor the change of the train number.\nC2.1.1. The communication protocol at very congested stations where phone calls between drivers and TDOs are not operative consists of the notification across the Train-Radio of the entry in a specific channel, this is then interpreted by the TDOs as the trains are “Ready to depart”. Therefore, this informal protocol is considered a contributing factor to the initiation of the reverse movement.\nB2.3. Prior to the commencement of the services, drivers use checklists and undertake train checks to assess whether essential train and operations requirements are met. Failing to have gone through all the prescribed checks is deemed as a contributing factor to the initiation of the movement.\nC2.2.1. The current display of the checklists does not promote an assessment of all the elements disclosed in the lists, as there is an option that can be ticked as “All read” at the top of the checklists. \n\nContributing factors to the casual factor A3\nB3.1. Once the train #77721 initiated the movement and the TDO realized that the train had not arrived at Castellbisbal station, communication across the Train-Radio was attempted. However, communication was unsuccessful given that the driver had already modified the train number and the channel frequency in the direction towards Molins de Rei. This is considered as a contributing factor to the continuation of the movement. \nC3.1.1. The lack of appropriate training and application of the “Ready to Depart” procedures are considered a contributing factor.\nB3.2. Failing to establish contact across the Train-Radio, the CTC contacted the RUMC so they could get hold of the driver. Contact was eventually achieved through the driver´s personal cell phone.\nC3.2.1. Including a check accounting for the availability of the corporate cell phones prior to the commencement of the services would facilitate communications between drivers, the CTC and the RUMC across the appropriate channels without further delays.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Systemic factors: \nFCS1. Lack of risk appreciation: attention to electronic devices during the rotation maneuvers; driving under unfit psycho-physical conditions; and initiation of the services without proper acknowledgement of the service information. \nFCS2. Lack of appropriate return to work procedures that guarantee the psycho-physical fitness of the personnel after long off-work periods. \nFCS3. Insufficient communication, collaboration, and coordination between mentors and drivers. Enhancing a trust environment within the organization would enable a premature detection of anomalous situations that may potentially impact driving tasks. \nFCS4. Gaps in the psycho-physical examinations and tests (access and refreshers) that guarantee the fitness of drivers.  \nFCS5. Limitations on the availability of skilled and experienced personnel to train new starters as well as for the shadowing activities required for personnel returning after long off-work periods. \nFCS6. In need of reinforcing the mechanisms for the transmission of the service information to the drivers, promoting reading acknowledgement well in advance of the commencement of the services.\nFCS7. Reinforcement of the theoretical and practical training programs to promote an in-depth knowledge of the installations and signaling technical requirements as well as the communication protocols with the Infrastructure Manager (IM), among other skillsets.\nFCS8. Lack of formal notification procedures at very congested stations for the communications between the drivers and TDOs when the trains are ready to depart."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Uso de dispositivos electronicos durante maniobras",
+  "Conduccion bajo condiciones psicofisicas no aptas",
+  "Inicio sin confirmacion adecuada informacion servicio",
+  "Falta procedimientos retorno trabajo tras baja larga"
+ ],
+ "mitigaciones": [
+  "Procedimientos prevencion factores humanos Renfe",
+  "Nueva herramienta evaluacion aptitud AESF",
+  "Comite Medicina Psicologia Ferroviaria creado",
+  "Recomendaciones seguridad implementadas post suceso"
+ ],
+ "factores_humanos": [
+  "Desvio foco atencional maquinista",
+  "Deficiencias formacion y aptitud personal",
+  "Insuficiente comunicacion mentor-maquinista",
+  "Limitaciones disponibilidad personal experimentado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

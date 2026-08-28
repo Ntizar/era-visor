@@ -1,0 +1,36 @@
+{
+ "id": "ES-RS-231008-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-231008-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0053/2008",
+ "titulo": "Incidente ferroviario en la estación de Villalba de Guadarrama (línea 100 Madrid-Hendaya)",
+ "fecha_suceso": "2008-10-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Villalba de Guadarrama",
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Comsa Rail Transport",
+  "Adif",
+  "Centro de mantenimiento ERION"
+ ],
+ "resumen": "La CIAF resolvió el incidente ferroviario nº 0053/2008, ocurrido el 23 de octubre de 2008 en la estación de Villalba de Guadarrama, de la línea 100 Madrid-Hendaya. El informe particular del técnico investigador fue aprobado como definitivo. En la resolución se formularon recomendaciones dirigidas a Comsa Rail Transport, Adif y al centro de mantenimiento ERION.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Garantizar que todos los vehículos puestos en circulación respeten la programación del plan de mantenimiento.",
+  "Realizar una campaña específica de inspecciones para analizar el grado de cumplimiento de los planes de mantenimiento del material rodante.",
+  "Garantizar que en las intervenciones del centro de mantenimiento se cumplan las consistencias establecidas en los planes de mantenimiento.",
+  "Reforzar las prácticas de conducción en condiciones adversas de frenado y la adaptación a las condiciones reales."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

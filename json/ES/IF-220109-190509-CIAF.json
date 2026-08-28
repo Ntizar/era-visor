@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-220109-190509-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-220109-190509-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-696",
+ "expediente": "0005/2009",
+ "titulo": "Arrollamiento de una persona por el tren 30744 en la estación de Gavá (Barcelona)",
+ "fecha_suceso": "2009-01-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Gavá",
+  "provincia": "Barcelona",
+  "pk": "663,700",
+  "linea": "200 Barcelona Sants - Madrid Chamartín"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 22 de enero de 2009, a las 07:03 horas, el tren de media distancia 30744 arrolló a una persona que cruzaba las vías por un lugar no habilitado a la salida de la estación de Gavá. La víctima invadió el gálibo de la vía II tras cruzar detrás de otro tren que circulaba en sentido contrario, lo que impidió su percepción del peligro. El maquinista actuó correctamente usando silbato y freno de emergencia, pero no pudo evitar el impacto.",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la víctima, quien cruzó cuando pasaba el tren 30744 por un paso vicioso no autorizado.",
+ "causas_sistemicas": "Ausencia de vallado en la zona que permitía el tránsito de personas por lugares no autorizados (paso vicioso).",
+ "recomendaciones": [
+  "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man crossed the tracks immediately after a train had passed, then was hit by another train coming from the opposite side.",
+  "Location name": "Near Gavá station (Barcelona), kilometre point 663,700, 200 Madrid-Barcelona railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

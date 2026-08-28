@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-201208-210409-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-201208-210409-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-673",
+ "expediente": "0074/2008",
+ "titulo": "Arrollamiento de persona en paso a nivel con barreras bajadas en la estación de Salou",
+ "fecha_suceso": "2008-12-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Salou",
+  "provincia": "Tarragona",
+  "pk": "263,208",
+  "linea": "600 Valencia Nord - Sant Vicent de Calders"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de mercancías 80454 arrolló a una persona que cruzaba el paso a nivel tipo C de la estación de Salou. Las barreras estaban bajadas y las señales acústicas y luminosas activas en el momento del suceso. La víctima intentó sortear las barreras para cruzar antes de la llegada del tren, pero no lo logró. El maquinista actuó correctamente usando el silbato y el freno de emergencia, aunque no pudo evitar el impacto.",
+ "causa_directa": "La víctima cruzó el paso a nivel sorteando las barreras bajadas mientras el tren circulaba por él.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "The freight train, number 80454, knocked down a man who crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working",
+  "Location name": "Salou station (Tarragona), level crossing type C, kilometre point 263,208, at 600 Valencia Nord - Sant Vicent de Calders railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

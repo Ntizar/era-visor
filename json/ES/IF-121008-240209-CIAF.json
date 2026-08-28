@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-121008-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-121008-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-650",
+ "expediente": "0048/2008",
+ "titulo": "Arrollamiento de persona por tren de mercancías en maniobras en la estación de Pravia (Asturias)",
+ "fecha_suceso": "2008-10-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Pravia",
+  "provincia": "Asturias",
+  "pk": "0,287",
+  "linea": "Línea 11 Ferrol-Gijón"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El día 12 de octubre de 2008, el tren LL-902 de Feve realizaba maniobras de formación de trenes de mercancías en la playa de vías de la estación de Pravia. Durante las operaciones, arrolló a una persona que caminaba por la caja de la vía 3 sin autorización. La víctima falleció en el lugar. El informe concluye que el accidente se debió al tránsito no autorizado de la persona, quien utilizaba un paso vicioso habitual.",
+ "causa_directa": "El tránsito de la víctima ocupando la vía sin estar autorizada para ello.",
+ "causas_sistemicas": "Existencia de pasos peatonales viciosos debido a la falta de alternativas seguras (el paso superior cercano tiene accesos difíciles), lo que fomenta el cruce ilegal de las vías por parte de los lugareños.",
+ "recomendaciones": [
+  "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona.",
+  "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías.",
+  "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "Train LL-902, when moving to form a freight train at Pravia station rail yard, knocked down a man who suddenly crossed behind the locomotive. As a result, he died.",
+  "Location name": "Pravia station, kilometre point 0,287, 11 Ferrol-Gijón railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Shunting operation",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima camina por vía sin autorización",
+  "Paso vicioso habitual hacia vía",
+  "No alternativa segura para cruzar",
+  "Maquinista no percibe persona"
+ ],
+ "mitigaciones": [
+  "Vallado perimetral de la zona",
+  "Carteles de advertencia de peligro",
+  "Paso a distinto nivel"
+ ],
+ "factores_humanos": [
+  "Víctima accede sin autorización",
+  "Maquinista no percibe persona",
+  "Velocidad superior a permitida",
+  "No medida específica adoptada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

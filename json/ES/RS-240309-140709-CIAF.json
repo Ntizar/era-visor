@@ -1,0 +1,27 @@
+{
+ "id": "ES-RS-240309-140709-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-240309-140709-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0017/2009",
+ "titulo": "Accidente ferroviario en la estación de Algemesí (línea 300 Madrid Chamartín–Valencia Nord)",
+ "fecha_suceso": "2009-03-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": "Algemesí",
+  "provincia": null,
+  "pk": null,
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord"
+ },
+ "entidades": [],
+ "resumen": "El informe es una resolución de la CIAF sobre el accidente ferroviario nº 0017/2009. El suceso ocurrió el 24 de marzo de 2009 en la estación de Algemesí, en la línea 300 Madrid Chamartín–Valencia Estació del Nord. La resolución aprueba como definitivo el informe particular del técnico investigador. No se establecieron recomendaciones de seguridad porque el 22 de mayo de 2009 se abrió un paso inferior que clausuró el paso a nivel.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -1,0 +1,43 @@
+{
+ "id": "ES-IF-220609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-220609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-769",
+ "expediente": "0028/2009",
+ "titulo": "Arrollamiento de un peatón en el paso a nivel de Infiesto (Asturias)",
+ "fecha_suceso": "2009-06-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Infiesto",
+  "provincia": "Asturias",
+  "pk": "361+975",
+  "linea": "21 Oviedo - Santander"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 22 de junio de 2009, a las 9:20 horas, el tren de viajeros 5950 de Feve arrolló a un peatón en el paso a nivel de clase C situado en la estación de Infiesto, Asturias. Las barreras estaban bajadas, la sonería había actuado correctamente y los indicadores luminosos estaban activados. El peatón cruzó la vía invadiendo el gálibo cuando el tren estaba próximo al paso a nivel. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el fallecimiento de un varón de 90 años.",
+ "causa_directa": "La invasión del gálibo de la vía por la víctima cuando el tren estaba próximo al paso a nivel, pese a que las barreras estaban bajadas, la sonería había actuado correctamente y los indicadores luminosos estaban activados.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A man is hit by a regional train when he was crossing the LC despite its barriers were down and its acoustic and light devices were working.",
+  "Location name": "Infiesto station (Asturias), level crossing, type C, at kilometre point 361,975 at Ferrol-Bilbao railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

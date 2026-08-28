@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-070409-271009-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-070409-271009-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-706",
+ "expediente": "0019/2009",
+ "titulo": "Arrollamiento de una menor en el paso entre andenes de la estación de Las Navas del Marqués (Ávila)",
+ "fecha_suceso": "2009-04-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Las Navas del Marqués",
+  "provincia": "Ávila",
+  "pk": "83,700",
+  "linea": "Línea 100 Madrid - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de larga distancia 407 de Renfe Operadora arrolló a una niña de 13 años que cruzaba por un paso entre andenes en la estación de Las Navas del Marqués. La víctima falleció posteriormente en el hospital. El maquinista aplicó el freno de emergencia y usó el silbato al observar a las personas, pero no pudo evitar el impacto. En ese momento, otro tren circulaba por la vía contigua, lo que pudo distraer la atención de la víctima.",
+ "causa_directa": "El tránsito de la víctima por el paso entre andenes sin percatarse de que, en ese momento, el tren 407 circulaba por la estación.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A young girl is knocked down by a train when she was crossing through a board crossing. The girl crossed from left to right direction of travel as the train made its way through the station. The victim died the following day.",
+  "Location name": "Las Navas del Marqués station (Ávila), kilometre point 83,757, 100 Madrid-Hendaya railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim didn´t reallize the train was approaching as there was another train it had just left the station."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce por paso entre andenes",
+  "No percatarse del tren",
+  "Falta paso inferior peatonal",
+  "Otro tren pudo distraer"
+ ],
+ "mitigaciones": [
+  "Uso silbato y freno emergencia",
+  "Velocidad inferior máxima permitida",
+  "Carteles de peligro instalados",
+  "Estación completamente iluminada"
+ ],
+ "factores_humanos": [
+  "Víctima cruza sin percatarse",
+  "Otro tren pudo distraer",
+  "Maquinista actúa correctamente",
+  "No prueba alcoholemia maquinista"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true
+}

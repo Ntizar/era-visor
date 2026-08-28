@@ -1,0 +1,61 @@
+{
+ "id": "ES-ES 21.08.2017 190726-170821-IF-SN_CIAF ",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 21.08.2017 190726-170821-IF-SN_CIAF .pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0040/2017",
+ "titulo": "Incidente por rebase de señal en la estación de Lleida Pirineus (Lleida)",
+ "fecha_suceso": "2017-08-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Lleida Pirineus",
+  "provincia": "Lleida",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Transitia Rail",
+  "Adif"
+ ],
+ "resumen": "El 21 de agosto de 2017, un tren de Transitia Rail rebasó una señal de parada en la estación de Lleida Pirineus. El suceso se produjo durante un bloqueo telefónico por avería en el enclavamiento de Puigverd-Artesa, con el ASFA desconectado. La consigna no fue entregada al maquinista antes del servicio. No se produjeron víctimas mortales ni heridos graves.",
+ "causa_directa": "El personal de conducción no cumplió la orden de la señal de entrada a la estación, que indicaba parada. Como factores coadyuvantes, hubo falta de atención y la empresa no facilitó la consigna ATO/CTO.",
+ "causas_sistemicas": "Deficiencias del SGS de Transitia Rail en comunicación y supervisión del personal de conducción; bloqueo telefónico prolongado por avería que dejó fuera de servicio el ASFA; ausencia de medidas ante el historial de rebases del maquinista.",
+ "recomendaciones": [
+  "Considerar en la formación del personal de conducción lo establecido en la Recomendación Técnica 2/2019 de la AESF sobre situaciones operativas no ordinarias.",
+  "Desarrollar e implementar procedimientos en el SGS para asegurar que los maquinistas reciban y comprendan la documentación antes de los servicios, con trazabilidad.",
+  "Desarrollar/mejorar procedimientos del SGS para supervisar el historial del personal de conducción y detectar situaciones de riesgo, conforme a la recomendación 4/2016 de la AESF.",
+  "Incluir en el SGS de Adif lo establecido en la Ficha-Guía F-RCF-01/2019 sobre circulación con ASFA en modo BTS en incidencias o trabajos programados."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No cumplir orden de señal",
+  "Falta de atención del maquinista",
+  "No entregar consigna ATO/CTO",
+  "Bloqueo telefónico prolongado por avería"
+ ],
+ "mitigaciones": [
+  "Circular con ASFA embarcado conectado",
+  "Incorporar agentes adicionales",
+  "Extremar precauciones en bloqueo telefónico",
+  "Formación en situaciones no ordinarias"
+ ],
+ "factores_humanos": [
+  "Falta de atención del maquinista",
+  "No supervisar rebases reiterados",
+  "Deficiencias en SGS ferroviario",
+  "No comunicar documentos de trabajo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

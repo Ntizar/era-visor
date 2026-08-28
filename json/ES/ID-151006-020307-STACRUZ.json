@@ -45,5 +45,31 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce irregular por víctima",
+  "Cerramiento exterior deteriorado",
+  "Cerramiento discontinuo lado oeste",
+  "Falta de vallado en zona"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Uso de silbato y freno",
+  "Aviso inmediato a emergencias",
+  "Recomendación de vallado perimetral"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Desconcierto de la víctima",
+  "Edad avanzada de la víctima",
+  "Cerramiento no en condiciones aceptables"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

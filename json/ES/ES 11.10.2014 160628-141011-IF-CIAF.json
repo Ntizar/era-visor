@@ -1,0 +1,56 @@
+{
+ "id": "ES-ES 11.10.2014 160628-141011-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 11.10.2014 160628-141011-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0064/2014",
+ "titulo": "Descarrilamiento de vagón vacío en apartadero de Sestao (Bilbao)",
+ "fecha_suceso": "2014-10-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Desertu-Barakaldo (Apartadero de Sestao)",
+  "provincia": null,
+  "pk": "9+606",
+  "linea": "720 Abando Indalecio Prieto a Santurtzi"
+ },
+ "entidades": [
+  "Tracción Rail",
+  "ADIF"
+ ],
+ "resumen": "El tren de mercancías CGX32 operado por Tracción Rail descarriló el último vagón vacío al pasar por el apartadero de Sestao. El jefe de circulación observó la anomalía y ordenó la parada inmediata del tren, que continuó circulando descarrilado durante tres kilómetros hasta Zorrotza. No hubo víctimas mortales ni heridos, pero se produjeron daños materiales significativos en la infraestructura y el material rodante.",
+ "causa_directa": "La causa probable es un efecto sinérgico de varios factores: estado de la rodadura, suspensión del vehículo, manipulación de tracción/freno y el hecho de circular vacío en última posición, aunque ninguno fue determinante por sí solo.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Circular vagón vacío último lugar",
+  "Manipulación tracción y freno maquinista",
+  "Estado rodadura del vehículo",
+  "Suspensión del vehículo"
+ ],
+ "mitigaciones": [
+  "Observación jefe circulación descarrilamiento",
+  "Orden detención inmediata CTC",
+  "Velocidad inferior máxima admitida",
+  "Sistemas seguridad material móvil correctos"
+ ],
+ "factores_humanos": [
+  "Manipulación tracción y freno maquinista",
+  "Observación y comunicación jefe circulación",
+  "Cumplimiento normativa personal conducción",
+  "Información jefe circulación CTC"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

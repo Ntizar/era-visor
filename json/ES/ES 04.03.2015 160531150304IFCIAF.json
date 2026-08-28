@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 04.03.2015 160531150304IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 04.03.2015 160531150304IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0012/2015",
+ "titulo": "Descarrilamiento del tren 35188 entre Puerto de Navacerrada y Collado Albo (Madrid)",
+ "fecha_suceso": "2015-03-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Puerto de Navacerrada / Apeadero de Collado Albo",
+  "provincia": "Madrid",
+  "pk": "7+855",
+  "linea": "Línea 116 Los Cotos - Cercedilla"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif"
+ ],
+ "resumen": "El tren de cercanías 35188 descarriló parcialmente al entrar en una curva cerca del apeadero de Collado Albo. El incidente se debió a sobreanchos en la vía causados por el deterioro de traviesas de madera y sujeciones defectuosas. No hubo víctimas, aunque sí daños materiales en el tren y la infraestructura. La investigación reveló deficiencias en el mantenimiento y el incumplimiento de los procedimientos de inspección.",
+ "causa_directa": "Fallo técnico de la infraestructura debido al mal estado de las traviesas de madera y las sujeciones, lo que provocó sobreanchos y la apertura de la vía al paso del tren.",
+ "causas_sistemicas": "Mantenimiento deficitario en la zona, incumplimiento del procedimiento específico ADIF-301-001-VíA-03 respecto a la periodicidad de las inspecciones a pie (solo se realizó una de las dos previstas en 2014) y retraso en la ejecución del proyecto de sustitución de traviesas.",
+ "recomendaciones": [
+  "Insistir en la aplicación de la recomendación 32/11-1: analizar la viabilidad de sustituir todo el tramo de traviesas de madera por hormigón o reemplazar las defectuosas, ejecutando el proyecto pendiente.",
+  "Cumplir la periodicidad y calidad de las visitas a pie establecidas para esta línea y gestionar las no conformidades resultantes."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No se cumplió la inspección a pie",
+  "Mantenimiento de la vía deficiente",
+  "No se ejecutó proyecto de sustitución",
+  "No se corrigieron sobreanchos"
+ ],
+ "mitigaciones": [
+  "Cumplimiento de inspecciones a pie",
+  "Sustitución de traviesas de madera",
+  "Gestión de no conformidades",
+  "Reparación de desperfectos tras accidente"
+ ],
+ "factores_humanos": [
+  "Incumplimiento del procedimiento de inspección",
+  "Deficiente gestión del mantenimiento",
+  "No ejecución del proyecto de sustitución",
+  "Falta de seguimiento de no conformidades"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

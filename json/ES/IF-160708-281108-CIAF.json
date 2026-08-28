@@ -1,0 +1,64 @@
+{
+ "id": "ES-IF-160708-281108-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-160708-281108-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-580",
+ "expediente": "0030/2008",
+ "titulo": "Arrollamiento de persona por tren 1094 en PK 108,898 línea Madrid-Valencia (Valencia Nord)",
+ "fecha_suceso": "2008-07-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Valencia Nord",
+  "provincia": "Valencia",
+  "pk": "108,898",
+  "linea": "300 Madrid Chamartín – Valencia Estación de Nord"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 16 de julio de 2008, el tren de larga distancia 1094 de Renfe Operadora arrolló a una persona en el punto kilométrico 108,898 de la línea Madrid-Valencia, cerca de la estación de Valencia Nord. La víctima falleció en el acto tras ser golpeada por el convoy que circulaba a 82 km/h. El maquinista intentó frenar y usar el silbato al observar a la persona cruzando la vía desde un asentamiento chabolista cercano.",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado para ello cuando el tren efectuaba su paso por dicho punto.",
+ "causas_sistemicas": "Existencia de un asentamiento chabolista en las proximidades del lugar del accidente, lo que provoca un tránsito frecuente de personas cerca de la vía.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, with his back to a coming train, tried to cross the tracks. When he realised the train was approaching towards him, tried to step off, but he couldn´t, being knocked down, then .",
+  "Location name": "310 Aranjuez-Valencia railway line, near Valencia station, kilometre point 108,898.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tren circulando por vía II",
+  "Persona caminando por la vía"
+ ],
+ "mitigaciones": [
+  "Uso repetido del silbato",
+  "Acción del freno de emergencia"
+ ],
+ "factores_humanos": [
+  "Tránsito persona no autorizada",
+  "Asentamiento chabolista cercano"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

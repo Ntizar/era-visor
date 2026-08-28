@@ -57,5 +57,9 @@
   "deficiencias trazabilidad turnos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-07-28",
+ "provincia": "Barcelona",
+ "estacion": "França",
+ "tipo": "Colisión contra topera"
 }

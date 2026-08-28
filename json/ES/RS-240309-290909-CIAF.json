@@ -1,0 +1,31 @@
+{
+ "id": "ES-RS-240309-290909-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-240309-290909-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0018/2009",
+ "titulo": "Accidente en paso a nivel entre Villargordo y Grañena (línea 402 Jaén)",
+ "fecha_suceso": "2009-03-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Jaén",
+  "pk": "137,803",
+  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén"
+ },
+ "entidades": [
+  "Ayuntamiento de Jaén"
+ ],
+ "resumen": "La resolución aprueba como definitivo el informe del accidente ferroviario nº 0018/2009. El suceso ocurrió el 24 de marzo de 2009 en un paso a nivel clase A situado entre Villargordo y Grañena, en el P.K. 137,803 de la línea 402. El paso se encontraba en un camino del que era titular el Ayuntamiento de Jaén. El informe recomienda mejorar el acceso y la señalización del paso a nivel.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Mejorar el acceso al paso a nivel e instalar la señalización prevista en el apartado 2.1.2 del artículo 9 de la Orden de 2 agosto de 2001."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

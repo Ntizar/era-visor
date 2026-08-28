@@ -1,0 +1,63 @@
+{
+ "id": "ES-ES-6274 - 211125-200602-IF_CIAF (+ENG)",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-6274 - 211125-200602-IF_CIAF (+ENG).pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "34/2020",
+ "titulo": "Accidente ferroviario en La Hiniesta (Zamora): tren arrolla vehículo caído desde paso superior y descarrila",
+ "fecha_suceso": "2020-06-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "La Hiniesta",
+  "provincia": "Zamora",
+  "pk": "10+251",
+  "linea": "línea 822 Zamora-A Coruña"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "ADIF"
+ ],
+ "resumen": "El 2 de junio de 2020, un vehículo particular cayó a la caja de la vía desde el paso superior de la carretera ZA-P-1405 sobre la estación de La Hiniesta (Zamora). A las 16:10 horas, el tren LD Alvia 11553 de Renfe Viajeros arrolló el vehículo en el p.k. 10+251. Como consecuencia, la cabeza motriz descarriló, se desprendió del resto de la composición, volcó y chocó contra vías, una topera y traviesas apiladas. El suceso causó fallecidos, heridos y daños materiales importantes en infraestructura y material rodante.",
+ "causa_directa": "La causa directa fue un accidente de tráfico en el paso superior que provocó la caída del vehículo a la vía; el tren arrolló ese vehículo y la cabeza motriz descarriló.",
+ "causas_sistemicas": "Factores sistémicos: los titulares de la carretera son responsables del mantenimiento de sus pasos superiores y puede existir falta de conciencia sobre los riesgos de unos sistemas de contención inadecuados; además, se detectan carencias en procedimientos de inspección por ADIF y en la ausencia de detectores de caída de objetos en pasos superiores de líneas convencionales.",
+ "recomendaciones": [
+  "34/2020-1: Fomentar instrumentos legales para que los propietarios de pasos superiores sobre líneas ferroviarias realicen eficazmente su vigilancia y mantenimiento.",
+  "34/2020-2: Desarrollar reglamentos para que los gestores de infraestructura monitoricen el estado de todos los pasos superiores, incluidos sus sistemas de contención, y comuniquen los resultados a las autoridades de carreteras.",
+  "34/2020-3: Analizar la viabilidad de instalar detectores de caída de objetos en pasos superiores de líneas convencionales no incluidos en el RDSOIF cuando puedan suponer una amenaza potencial especial.",
+  "34/2020-4: Mejorar el sistema de contención de vehículos en el paso superior de la carretera ZA-P-1405 sobre la línea 822 Zamora-A Coruña.",
+  "34/2020-5: Revisar el estado y los procedimientos de mantenimiento de otros pasos superiores de la Diputación de Zamora similares al de La Hiniesta, en particular sus sistemas de contención, en las líneas 820 y 822.",
+  "34/2020-6: Comunicar a las autoridades competentes la necesidad de adoptar disposiciones legales para eliminar la incertidumbre sobre si un paso superior es elemento de la infraestructura ferroviaria y clarificar esa relación."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Accidente de tráfico en paso superior",
+  "Caída del vehículo a la vía",
+  "Deficiente mantenimiento del sistema de contención",
+  "Ausencia de detector de caída de objetos"
+ ],
+ "mitigaciones": [
+  "Instalación de detector de caída de objetos",
+  "Mantenimiento eficaz del sistema de contención",
+  "Monitorización de pasos superiores",
+  "Clarificación de titularidad legal"
+ ],
+ "factores_humanos": [
+  "Error del conductor del vehículo",
+  "Deficiente mantenimiento organizativo de la carretera",
+  "Falta de inspección del paso superior",
+  "Responsabilidad difusa entre administraciones"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

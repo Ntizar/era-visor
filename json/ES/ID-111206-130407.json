@@ -46,5 +46,30 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Persona cruza vías desde andén principal",
+  "No utiliza paso inferior peatonal disponible",
+  "Tren pasa sin parada por vía general",
+  "Visibilidad reducida por curva en traza"
+ ],
+ "mitigaciones": [
+  "Andenes altos dificultan cruce de vías",
+  "Paso inferior peatonal en buen estado",
+  "Maquinista pita y frena urgencia",
+  "Velocidad inferior a máxima permitida"
+ ],
+ "factores_humanos": [
+  "Víctima invade gálibo de vía",
+  "No percibe llegada del tren",
+  "No hace uso de pasos inferiores"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

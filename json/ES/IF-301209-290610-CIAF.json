@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-301209-290610-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-301209-290610-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-855",
+ "expediente": "0069/2009",
+ "titulo": "Colisión y descarrilamiento del tren 930 por roca desprendida en estación de Fuenmayor (La Rioja)",
+ "fecha_suceso": "2009-12-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Fuenmayor",
+  "provincia": "La Rioja",
+  "pk": "92+020",
+  "linea": "700 Intermodal Abando Indalecio Prieto - Casetas"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 30 de diciembre de 2009, a las 03:08, el tren de larga distancia 930 de Renfe Operadora, entre Gijón y Barcelona, colisionó con una roca situada en la caja de la vía en el P.K. 92+020, a la entrada de la estación de Fuenmayor (La Rioja). La roca, de aproximadamente un metro cúbico, se desprendió desde unos 25 metros de altura y no fue retenida por la malla metálica protectora. Como consecuencia, descarrilaron la locomotora y los cuatro primeros coches del convoy. El tren circulaba a velocidad inferior a la máxima permitida y los equipos de seguridad funcionaron correctamente.",
+ "causa_directa": "Colisión del tren con una roca desprendida de la ladera y situada en la caja de la vía. La malla metálica de protección no soportó el impacto de la roca, de aproximadamente 1 metro cúbico y caída desde unos 25 metros de altura.",
+ "causas_sistemicas": "Inestabilidad de taludes y trincheras con riesgo, agravada por precipitaciones intensas, y necesidad de incrementar el ritmo de tratamiento de trincheras con riesgo; la protección existente no fue suficiente frente a un desprendimiento de gran volumen.",
+ "recomendaciones": [
+  "DGIF y Adif analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "A long distance passenger train collided with a large rock, which had fallen within the gauge from a cutting. Despite the driver saw the rock and acted upon the emergency brake, it didn´t avoid that the train became partially derailed (locomotive and first four cars).",
+  "Location name": "Kilometre point 92,020, closer to Fuenmayor station (La Rioja); 700 Casetas Intermodal Abando-Indalecio Prieto railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when passenger train 930 collided with large rock (about 1cubic metre) that had fallen from the cutting. The existing mesh couldn´t resist the impact of the rock that fell from a 25 metres height."
+ }
+}

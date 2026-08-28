@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-180609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-180609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-773",
+ "expediente": "0027/2009",
+ "titulo": "Conato de colisión por rebase indebido de señal en la estación de Madrid Chamartín",
+ "fecha_suceso": "2009-06-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Madrid Chamartín",
+  "provincia": "Madrid",
+  "pk": "0+00",
+  "linea": "100 Hendaya – Madrid Chamartín"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de cercanías 27209 rebasó indebidamente una señal de parada en la vía 10 de la estación de Madrid-Chamartín. Este error provocó que el tren entrara en trayectoria de colisión lateral con el tren de larga distancia 752, que realizaba su entrada a la vía 13. El sistema ASFA detuvo al tren infractor y el maquinista del otro tren frenó inmediatamente, quedando los convoyes a unos 42 metros de distancia sin producirse el impacto.",
+ "causa_directa": "Rebase indebido de la señal de salida S1/10 que indicaba parada por parte del tren 27209, debido al incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Train 27209 overtook the signal at the end of the station which stated a stop aspect. This caused a near miss train collision with train 752 which had been authorized to enter the station. The former, which had just resumed the motion to leave the station, improperly overtook the exit signal. As a result, the ASFA system worked, avoiding the likely collision with train 752.",
+  "Location name": "Madrid Chamartín station (Madrid), kilometre point 0,000. 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train; \nLong distance passenger train",
+  "RU involved": "RENFE-Operadora; \n",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The SPAD was caused as the train driver ignored the signal indication."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebase indebido de senal de salida",
+  "No respetar orden de parada",
+  "No comunicar con puesto de mando",
+  "Retroceder sin autorizacion reglamentaria"
+ ],
+ "mitigaciones": [
+  "Actuacion del sistema ASFA",
+  "Parada inmediata del tren 752",
+  "Funcionamiento correcto de instalaciones tecnicas",
+  "Observacion por otro maquinista"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de ordenes de senales",
+  "Fallo en observacion de senales",
+  "Influencia de procesos psicologicos",
+  "Necesidad de reforzar formacion"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

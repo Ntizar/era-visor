@@ -30,5 +30,27 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima transitaba indebidamente por vía",
+  "tramo curvo con visibilidad reducida",
+  "ausencia de cerramiento perimetral"
+ ],
+ "mitigaciones": [
+  "uso del silbato por maquinista",
+  "aplicación del freno de emergencia",
+  "velocidad inferior a la máxima"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "reacción tardía al aviso sonoro"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

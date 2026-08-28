@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-120209-260110-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-120209-260110-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-700",
+ "expediente": "0011/2009",
+ "titulo": "Conato de colisión entre maquinaria de vía de Adif y tren de mercancías en Cerdanyola del Vallés",
+ "fecha_suceso": "2009-02-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Cerdanyola del Vallés",
+  "provincia": "Barcelona",
+  "pk": "351+200",
+  "linea": "Línea 224 Cerdanyola Universitat - Cerdanyola del Vallés"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 12 de febrero de 2009, a las 22:07 horas, se produjo un conato de colisión entre la maquinaria de vía de Adif, tren MQ577, y el tren de mercancías 53584 de Renfe Operadora, en la estación de Cerdanyola del Vallés. La maquinaria de vía rebasó indebidamente la señal de salida S1/4 en rojo y talonó la aguja número dos. Ambos trenes quedaron enfrentados a unos 400 metros y se detuvieron sin colisión. El puesto de mando ordenó la detención y posterior estacionamiento de cada tren.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido por el tren MQ577 de la señal de salida S1/4 con indicación de parada (rojo), incumpliendo las órdenes dadas por la señalización.",
+ "causas_sistemicas": "Ninguno de los agentes que circulaban en la maquinaria de vía estaba habilitado para ello; sus títulos y habilitaciones estaban suspendidos y no constaba autorización para las líneas. El agente de acompañamiento no conocía la presencia de la señal S1/4.",
+ "recomendaciones": [
+  "Cumplir la Orden FOM/2520/2006 sobre títulos y habilitaciones del personal ferroviario.",
+  "Implantar un procedimiento que verifique el cumplimiento de la Orden FOM/2520/2006 por el personal de conducción y acompañamiento de trenes de Adif.",
+  "Analizar un cambio normativo para que la maquinaria de vía sin ASFA y sin registrador, en vía con tráfico abierto, sea remolcada por máquinas con esos sistemas o circule bajo bloqueo por ocupación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "The infrastructure works train (managed by Adif)failed to stop at the station signal which stated a stop aspect. This caused a near miss train collision with the freight train (Renfe Operadora).",
+  "Location name": "Cerdanyola del Vallés station (Barcelona), kilometre point 351,200, 224 Cerdanyola Universitat-Cerdanyola del Vallés railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train; \nInfrastructure works train",
+  "RU involved": "Adif; \nRENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train MQ 577 driver overtook the station exit signal (S1/4) which stated a red aspect (stop indication)."
+ },
+ "subsistema": "Material Rodante Adif",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Personal sin habilitación vigente",
+  "Maquinaria sin sistema ASFA",
+  "Desconocimiento de señalización existente",
+  "Rebase indebido de señal en rojo"
+ ],
+ "mitigaciones": [
+  "Detención inmediata por golpe aguja",
+  "Parada tren mercancías al ver focos",
+  "Distancia segura entre trenes enfrentados",
+  "Comunicación rápida con puesto mando"
+ ],
+ "factores_humanos": [
+  "Incumplimiento requisitos habilitación",
+  "Falta conocimiento entorno circulación",
+  "Ausencia supervisión operativa adecuada",
+  "Error humano rebase señal parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

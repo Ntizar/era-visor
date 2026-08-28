@@ -1,0 +1,71 @@
+{
+ "id": "ES-ID_070507_191007",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_070507_191007.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-234",
+ "expediente": "0029/2007",
+ "titulo": "Arrollamiento de una persona en el paso a nivel de la estación de Algemesí",
+ "fecha_suceso": "2007-05-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Algemesí",
+  "provincia": "Valencia",
+  "pk": "81,454",
+  "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 7 de mayo de 2007, a las 19:20, una persona fue arrollada por el tren de Larga Distancia 165 de Renfe en el paso a nivel clase C de la estación de Algemesí, punto kilométrico 81,454 de la Línea 300 Madrid Puerta de Atocha – Valencia Nord. El paso a nivel estaba cerrado, con semibarreras bajadas y señales luminosas y sonoras en funcionamiento. La víctima cruzó corriendo el paso a nivel e invadió el gálibo de la vía, siendo alcanzada por la locomotora. Como consecuencia falleció una persona y la circulación quedó temporalmente interrumpida.",
+ "causa_directa": "La causa directa fue la invasión del gálibo de la vía por parte de la víctima, que cruzó el paso a nivel haciendo caso omiso de la señalización y de las advertencias del maquinista y del vigilante de seguridad.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Agilizar los trámites del proyecto de supresión del paso a nivel para realizar la obra a la mayor brevedad posible.",
+  "Impulsar campañas de sensibilización y concienciación ciudadanas sobre el peligro de cruzar las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A child misused the level crossing being hit by the long distance train.He runned through the LC while the barriers were down.",
+  "Location name": "Algemesí station (Valencia), at level crossing type C. Kilometre point 81+454. 300 Madrid-Valencia railway line. Railway from Madrid to Valencia",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Niña cruza paso a nivel cerrado",
+  "Ignora semibarreras y señales",
+  "No hace caso a advertencias verbales"
+ ],
+ "mitigaciones": [
+  "Maquinista aplica freno de emergencia",
+  "Uso repetido del silbato por tren",
+  "Vigilante intenta detener peatones"
+ ],
+ "factores_humanos": [
+  "Imprudencia grave de la víctima",
+  "Falta de supervisión adulta inmediata",
+  "Comportamiento temerario al cruzar"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

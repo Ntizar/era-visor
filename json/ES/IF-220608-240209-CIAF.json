@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-220608-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-220608-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-553",
+ "expediente": "0024/2008",
+ "titulo": "Arrollamiento de una persona por tren en P.K. 149,950 de la línea 200 Madrid-Barcelona (Huesca)",
+ "fecha_suceso": "2008-06-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Huesca",
+  "pk": "149,950",
+  "linea": "200 Madrid-Barcelona"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 22 de junio de 2008, a las 05:25 horas, el tren de Larga Distancia 11930 de Renfe Operadora arrolló a una persona que se encontraba en la vía en el P.K. 149,950 de la línea 200 Madrid-Barcelona, en Huesca. La víctima, una joven de 16 años, falleció como consecuencia del atropello. El punto del accidente coincidía con un conocido centro de ocio y su aparcamiento. No se produjeron daños materiales y la circulación se interrumpió durante 2 horas y 13 minutos.",
+ "causa_directa": "El accidente tuvo su origen en la ocupación por la víctima del gálibo de la vía al paso del tren 11930.",
+ "causas_sistemicas": "Es probable que la iluminación del centro de ocio y del aparcamiento, unido al ruido de los coches y la música, impidieran que la víctima se percatara del acercamiento del tren; además, el aparcamiento llegaba hasta el límite de la explanación ferroviaria sin separación.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A young woman is hit by a train while she was sitting down on the floor, near the tracks. The young was with a group of friends as, in the vicinity, there is a nearby nightclub.",
+  "Location name": "Kilometre point 149,950 at 200 Madrid-Barcelona railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "id": "ES-ES 06.08.2014 150922-140806-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 06.08.2014 150922-140806-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0041/2014",
+ "titulo": "Incendio en locomotora serie 252 del tren 922 entre Ballobar y Peñalba (Huesca)",
+ "fecha_suceso": "2014-08-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "incendio",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Huesca",
+  "pk": "390+500",
+  "linea": "Línea 050 Madrid - Puerta de Atocha a Límite Adif TP-Ferro"
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif",
+  "Talgo"
+ ],
+ "resumen": "El tren 922 de larga distancia se detuvo por una avería en el bogie nº 2. El maquinista detectó humo y focos de fuego en la locomotora, intentando sofocarlos sin éxito. El incendio, originado por un arco eléctrico en un conector defectuoso, dañó gravemente la locomotora y la catenaria. No hubo víctimas personales, pero la circulación quedó interrumpida durante horas.",
+ "causa_directa": "Fallo del material rodante debido a un sobrecalentamiento en uno de los conectores del conmutador del sistema Q1 de la locomotora, generado por arcos eléctricos consecuencia de un defecto en el apriete del contacto.",
+ "causas_sistemicas": "El plan de mantenimiento no contemplaba la comprobación del estado de apriete de los conectores ni inspecciones visuales para detectar fugas de aceite en la zona del transformador principal. Además, la ubicación de los detectores de incendios impidió su activación temprana.",
+ "recomendaciones": [
+  "Reconsiderar el plan de mantenimiento de las locomotoras 252 Alta Velocidad incorporando la verificación del apriete de los conectores del conmutador Q1 y la inspección visual de fugas de aceite en el transformador principal.",
+  "Mejorar el sistema de detección de incendio instalado en estas locomotoras para que sea capaz de detectar el inicio de incendios de similar naturaleza."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Apriete deficiente del conector",
+  "Acumulación de grasas y aceites",
+  "No se comprueba apriete",
+  "No se controlan fugas aceite"
+ ],
+ "mitigaciones": [
+  "Maquinista detiene tren",
+  "Aviso inmediato al CRC",
+  "Traslado viajeros a cola",
+  "Corte tensión catenaria"
+ ],
+ "factores_humanos": [
+  "Mantenimiento no verifica apriete",
+  "Mantenimiento no controla fugas",
+  "Posición detectores inadecuada",
+  "Plan mantenimiento insuficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

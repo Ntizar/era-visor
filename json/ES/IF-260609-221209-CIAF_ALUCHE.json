@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-260609-221209-CIAF_ALUCHE",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-260609-221209-CIAF_ALUCHE.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-770",
+ "expediente": "0030/2009",
+ "titulo": "Colisión por retroceso indebido de tren de cercanías en la estación de Aluche (Madrid)",
+ "fecha_suceso": "2009-06-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Aluche",
+  "provincia": "Madrid",
+  "pk": "7+612",
+  "linea": "L/920, Móstoles – El Soto Parla (tramo Cuatro Vientos - Madrid Atocha)"
+ },
+ "entidades": [
+  "Renfe-Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 26 de junio de 2009, en la estación subterránea de Aluche (Madrid), el tren de cercanías 27319 no abrió las puertas para el descenso y reinició la marcha. Tras una alarma activada por viajeros, quedó detenido en el túnel. El maquinista desconectó el LZB y retrocedió sin autorización, colisionando con el tren 27321, estacionado en la vía 2. El impacto causó 61 heridos leves y daños materiales, con descarrilamiento parcial del tren 27321.",
+ "causa_directa": "Retroceso indebido del tren 27319, realizado sin autorización por el maquinista tras desconectar el sistema LZB, incumpliendo el artículo 475 del Reglamento General de Circulación.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "Train 27321, which was stopped at the station, is collided by train 27319 after the latter moved backwards improperly, without any authorisation. Train 27319 had just left Aluche station, but doors didn’t open so, after running few metres, a passenger used emergency brake. This made the train to stop, and then the train driver, on his own initiative, moved the train backwards colliding with the train 27321, whose second bogie was derailed. Train 27321 driver, which had realised the other train was moving backwards, made the passengers evacuate. Fortunately, nobody was seriously injured.",
+  "Location name": "Aluche station (Madrid), kilometre point 7,700 at 920 Móstoles El Soto-Parla railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the train improperly moved back"
+ }
+}

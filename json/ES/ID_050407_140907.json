@@ -1,0 +1,68 @@
+{
+ "id": "ES-ID_050407_140907",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_050407_140907.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-218",
+ "expediente": "022/2007",
+ "titulo": "Arrollamiento de una persona en paso a nivel peatonal en la estación de La Garriga (Barcelona)",
+ "fecha_suceso": "2007-04-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "La Garriga",
+  "provincia": "Barcelona",
+  "pk": "37+492",
+  "linea": "Línea 222 Barcelona-Ripoll"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 5 de abril de 2007, una persona falleció al ser arrollada por el tren de Cercanías 25373 de Renfe en el paso a nivel peatonal de clase C del punto kilométrico 37+492, en la estación de La Garriga (Barcelona). El paso a nivel estaba cerrado, con semibarreras abatidas y señalización peatonal encendida. El tren circulaba por debajo de la velocidad máxima autorizada y el maquinista resultó apto. No hubo daños materiales, pero se produjeron retrasos en 8 trenes de Cercanías.",
+ "causa_directa": "La víctima cruzó las vías haciendo caso omiso de la señalización peatonal luminosa que prohibía el paso, con las barreras abatidas por el paso del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Sensibilizar a la población en el correcto uso de las zonas de paso."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person, while passing a level crossing, is hit by the train which was coming into the station.",
+  "Location name": "La Garriga station, at a level crossing type C.Railway from Barcelona to Vic. (222 Barcelona.- Ripoll railway line)",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "peatón ignora señalización luminosa peatonal",
+  "peatón cruza con barreras abatidas"
+ ],
+ "mitigaciones": [
+  "maquinista activa freno de emergencia",
+  "velocidad inferior a máxima autorizada"
+ ],
+ "factores_humanos": [
+  "imprudencia del peatón accidentado",
+  "omisión indicaciones acústicas y visuales"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

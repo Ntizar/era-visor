@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-270508-300908-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-270508-300908-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-484",
+ "expediente": "0018/2008",
+ "titulo": "Arrollamiento de una retroexcavadora por un tren en paso a nivel entre Santa Cruz de la Zarza y Ocaña (Toledo)",
+ "fecha_suceso": "2008-05-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Santa Cruz de la Zarza - Ocaña",
+  "provincia": "Toledo",
+  "pk": "36,950",
+  "linea": "310 Madrid-Valencia"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 27 de mayo de 2008, el tren de Media Distancia 18765 de Renfe Operadora arrolló a una retroexcavadora que cruzaba el paso a nivel tipo B situado en el P.K. 36,950, entre Santa Cruz de la Zarza y Ocaña, en la línea 310 Madrid-Valencia. El conductor de la excavadora falleció y dos pasajeros del tren resultaron heridos leves. El maquinista redujo la velocidad, hizo sonar el silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. Las instalaciones del paso a nivel y el material rodante funcionaban correctamente.",
+ "causa_directa": "El origen del accidente fue el cruce de la excavadora por el paso a nivel mientras circulaba el tren de Media Distancia 18765. El conductor de la excavadora hizo caso omiso de las señales que prohibían el cruce.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Fomentar campañas de educación que incidan en el respeto a las señales de los pasos a nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "An excavator shovel got through a level crossing, type B, while the train was coming. The machine driver died.",
+  "Location name": "Santa Cruz de la Zarza (Toledo), Kilometre point 39,950, Madrid-Valencia railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF_310113_291013_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_310113_291013_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2077",
+ "expediente": "0012/2013",
+ "titulo": "Descarrilamiento del tren de mercancías 9565 entre Unquera y Pesués (Cantabria)",
+ "fecha_suceso": "2013-01-31",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Unquera - Pesués",
+  "provincia": "Cantabria",
+  "pk": "457+381",
+  "linea": "770 Valdecilla - La Marga a Oviedo"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 31 de enero de 2013, el tren de mercancías 9565 de Renfe Operadora descarriló entre Unquera y Pesués (Cantabria), en la línea de ancho métrico 770. Circulaba a 61 km/h en una curva de radio reducido con velocidad máxima de 40 km/h, por lo que se descarrilaron los vagones 1º al 11º. No hubo víctimas mortales ni heridos, pero se produjeron daños en infraestructura, carga y material rodante.",
+ "causa_directa": "Fallo humano del maquinista al circular con exceso de velocidad, a 61 km/h cuando la máxima permitida era 40 km/h.",
+ "causas_sistemicas": "Se constata que la revisión obligatoria de ruedas de un vagón no se realizó dentro del plazo del plan de mantenimiento; además, las recomendaciones apuntan a la necesidad de un seguimiento sistemático del cumplimiento de velocidades y auditorías de mantenimiento del material móvil.",
+ "recomendaciones": [
+  "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+  "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train partially derailed at open line, between Unquera and Pesués stations (Cantabria)",
+  "Location name": "Val de San Vicente, Cantabria",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is produced by the train driver´s human failure for exceeding the speed limit, running at 61 km/h when the speed limit was 40 km/h."
+ }
+}

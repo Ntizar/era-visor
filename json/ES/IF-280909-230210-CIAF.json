@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-280909-230210-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-280909-230210-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-811",
+ "expediente": "0052/2009",
+ "titulo": "Arrollamiento de un automóvil en el paso a nivel Los Limoneros, línea Cartagena-Los Nietos (Murcia)",
+ "fecha_suceso": "2009-09-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Murcia",
+  "pk": "16+708",
+  "linea": "Línea 45 Cartagena - Los Nietos"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El día 28 de septiembre de 2009, a las 13:35 horas, un tren de viajeros de FEVE arrolló a un automóvil en el paso a nivel tipo B Los Limoneros, situado en el P.K. 16+708 de la línea Cartagena-Los Nietos (Murcia). El vehículo invadió la vía cuando las señales luminosas y acústicas del paso estaban activadas. Como consecuencia, falleció una mujer y el conductor resultó herido grave. El maquinista actuó correctamente con bocina y frenos, y los equipos del tren funcionaron conforme a normativa.",
+ "causa_directa": "La invasión del gálibo de la vía por el vehículo de carretera, que entró en el paso a nivel con las señales luminosas y acústicas activadas.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 1,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car came into the level crossing while its protective devices were working and the train was approaching. The car driver was seriously injured and the co-pilot died.",
+  "Location name": "Open line, near Los Nietos Viejos (Murcia; level crossing, type B (light and acoustic signage), kilometre point 16,708; 45 Cartagena-Los Nietos railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "LC User serious injuries": 1,
+  "Total serious injuries": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The car crossed the level crossing while the flashing lights and warning bell were working"
+ }
+}

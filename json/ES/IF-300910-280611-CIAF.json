@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-300910-280611-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-300910-280611-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1042",
+ "expediente": "0053/2010",
+ "titulo": "Conato de colisión entre trenes por rebase indebido de señal en la estación de Redondela (Pontevedra)",
+ "fecha_suceso": "2010-09-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Redondela",
+  "provincia": "Pontevedra",
+  "pk": "PK 166+601",
+  "linea": "Línea 810 Vigo - Monforte de Lemos"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 30 de septiembre de 2010 se produjo un conato de colisión entre los trenes de larga distancia 620 y 651 en la estación de Redondela (Pontevedra). El tren 620 rebasó indebidamente la señal de salida 1S/I, que estaba en indicación de parada, tras realizar una parada comercial. Al ocupar el circuito de vía R1, se encontró con el tren 651 en un circuito contiguo, quedando ambos enfrentados a 77 metros. La investigación atribuye el origen al incumplimiento de las órdenes dadas por las señales al personal del tren.",
+ "causa_directa": "El incidente tuvo su origen en el rebase indebido por el tren 620 de la señal de salida 1S/I, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal del tren.",
+ "causas_sistemicas": "Dificultad de visibilidad de la señal 1S/I desde el andén por los pilares de la marquesina y la curva, ausencia de baliza previa, y incumplimientos operativos del personal al comunicar operaciones terminadas con la señal en parada, realizar retroceso sin autorización y no informar del suceso.",
+ "recomendaciones": [
+  "Estudiar la viabilidad de instalar una señal indicadora de salida en la señal 1S/I de Redondela y ampliar el análisis a las demás señales de salida de la estación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Long distance passenger train 620 overtook exit signal 1S/I. As a result a near miss train collision was caused.",
+  "Location name": "Redondela station (Pontevedra), at exit signal 1S/I, kilometre point 166,601, 810 Vigo-Monforte de Lemos",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the train overtook, without authorization, the exit signal (1S/I) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-050411-280212-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-050411-280212-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1150",
+ "expediente": "0025/2011",
+ "titulo": "Descarrilamiento de tren de mercancías por rebase indebido de señal en estación de Rubí (Barcelona)",
+ "fecha_suceso": "2011-04-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Rubí",
+  "provincia": "Barcelona",
+  "pk": "6+707",
+  "linea": "246 Mollet Sant Fost - Castellbisbal"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 5 de abril de 2011, el tren de mercancías 91103 de Renfe Operadora rebasó indebidamente la señal de salida S1/1 en indicación de parada en la estación de Rubí. Como consecuencia del rebase, el tren accedió al cambiador de hilo CH6, que no estaba dispuesto para ancho UIC debido a un cruce previsto con otro tren. La pérdida de continuidad en el carril izquierdo provocó el descarrilamiento de la primera locomotora y parte de la segunda.",
+ "causa_directa": "Rebase indebido de la señal de salida S1/1 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción, lo que llevó al tren a acceder a un cambiador de hilo no preparado para su ancho.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Estudiar la posibilidad de mejorar la visibilidad de la señal de salida S1/1 de la estación de Rubí.",
+  "Estudiar la posibilidad de incluir, en el programa de explotación del enclavamiento de la estación de Rubí, condiciones en los cambiadores de hilo y demás aparatos de vía de forma que, en el establecimiento de los itinerarios, se tenga en cuenta la orientación de estos aparatos de vía, cuando estén a continuación de una señal y puedan verse afectados por un posible rebase de la misma."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train partially derailed at Rubi station when, after having overrun exit signal S1/1 (red aspect), found the dual-gauge switch (CH6) wrongly faced.",
+  "Location name": "Rubí station (Barcelona); 246 Castellbisbal-Mollet San Fost railway line; kilometre point 6,707",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when the driver overtook exit signal due to the non-compliance of the signal instructions by him. As a result, the dual-gauge switch CH6, which was arranged for a different established route, caused the train became partially derailed."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebase indebido de señal en parada",
+  "Balizas duales no operativas",
+  "Cambiador dispuesto ancho convencional"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Presencia segundo maquinista acompañante"
+ ],
+ "factores_humanos": [
+  "Incumplimiento normas conducción",
+  "Falta atención indicación señales",
+  "No preparación para detenerse"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

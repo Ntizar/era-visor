@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_271013_231214_CIAF_ES-2902",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_271013_231214_CIAF_ES-2902.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2901",
+ "expediente": "0069/2013",
+ "titulo": "Descarrilamiento del tren 28744 en la estación de Barcelona Sant Andreu Arenal por cambio erróneo de aguja",
+ "fecha_suceso": "2013-10-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Barcelona Sant Andreu Arenal",
+  "provincia": "Barcelona",
+  "pk": "361+098",
+  "linea": "Línea 220 Lleida Pirineus – L’Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 27 de octubre de 2013, el último coche del tren de viajeros 28744 descarriló al pasar por la aguja número 12 de la estación de Sant Andreu Arenal. La aguja cambió su orientación de vía directa a desviada mientras el tren aún circulaba sobre ella, provocando una colisión lateral con el andén y el desenganche de los dos últimos coches. El incidente fue causado por un error humano del jefe del Centro de Control de Tráfico (CTC), quien accionó la aguja equivocada mientras gestionaba simultáneamente una avería en otra aguja y autorizaba rebases de señales.",
+ "causa_directa": "Fallo humano del personal de circulación al accionar por error la aguja nº 12 mientras estaba ocupada por el tren, probablemente pretendiendo mover la aguja nº 4 para colaborar en la reparación de una avería.",
+ "causas_sistemicas": "Alta carga de trabajo y multitarea del jefe del CTC, que debía gestionar simultáneamente la autorización de rebases de señales por averías y la colaboración técnica con el personal de mantenimiento, lo que pudo contribuir al error de identificación de la aguja.",
+ "recomendaciones": [
+  "Insistir en los cursos de reciclaje al personal de circulación sobre el riesgo que suponen las conductas no conformes a norma, incluso cuando intentan posibilitar la explotación en condiciones degradadas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Passenger train overtook exit signal S2/2 at Zalla station._x000D_\nA near miss train collision occurred.",
+  "Location name": "Zalla station (Vizcaya)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident is caused by human failure of train driver of train 08904 in particular due to a lack of attention while driving. As a consequence, the order stated by exit signal S2/2 was not complyed with and signal was improperly overrun, breaching article 2/04/00 of Signal Book of Feve."
+ }
+}

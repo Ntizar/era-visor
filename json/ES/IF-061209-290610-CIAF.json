@@ -1,0 +1,76 @@
+{
+ "id": "ES-IF-061209-290610-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-061209-290610-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-840",
+ "expediente": "0064/2009",
+ "titulo": "Conato de colisión entre trenes en la salida de la estación de Granollers Centre (Barcelona)",
+ "fecha_suceso": "2009-12-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Granollers Centre",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": "Línea 270 Cerbère-Barcelona Sant Andreu Comtal"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 6 de diciembre de 2009, a las 08:40, se produjo un conato de colisión entre los trenes 10371 y 30557, ambos de Renfe Operadora, en la salida de la estación de Granollers Centre (Barcelona), en la línea 270. El tren 10371 recibió la orden de marche el tren de la auxiliar de circulación y salió rebasando la señal de salida B1357, mientras el tren 30557 aún ocupaba el cantón siguiente hacia Cardedeu. Según el informe, el origen estuvo en la expedición indebida del tren bajo bloqueo telefónico en vía doble. El jefe de circulación no comprobó que la orden dada a la auxiliar de circulación fuera comprendida correctamente.",
+ "causa_directa": "La expedición indebida del tren 10371 por el personal de circulación de la estación de Granollers Centre, al dar la auxiliar de circulación la orden de marche el tren cuando el cantón siguiente estaba ocupado por el tren 30557, y al no comprobar el jefe de circulación que la orden y su momento de aplicación fueran comprendidos correctamente.",
+ "causas_sistemicas": "Deficiencias en la consigna ATO 136 CTO 128 y en la noticia TO 193, que no detallaban inequívocamente las instalaciones afectadas, las fases de los trabajos ni la cadena de responsabilidades; falta de coordinación entre equipos de obra y circulación; insuficiente formación o reciclaje en gestión de circulación en condiciones no habituales; y no notificación de anomalías de la señal por los maquinistas ni del incidente por el puesto de mando.",
+ "recomendaciones": [
+  "Establecer una Consigna C que defina los cometidos y la relación entre agentes en estaciones con distribución de responsabilidades de circulación.",
+  "Analizar la calidad de la formación inicial y de reciclaje de los responsables de circulación en condiciones no habituales y establecer acciones de mejora.",
+  "Elaborar un protocolo común de actuación que garantice la coordinación de los trabajos y la cadena de transmisión de órdenes entre el interlocutor responsable y los equipos.",
+  "Especificar en las consignas qué instalaciones se modifican y su estado en cada fase, notificando al personal de conducción las que les afecten.",
+  "Aumentar la transmisión clara del contenido y alcance de las tareas asignadas, asegurando que todo el personal comprenda las instrucciones.",
+  "Trasladar al puesto de mando de Barcelona el estricto cumplimiento de la notificación inmediata del accidente o incidente a las áreas afectadas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "The traffic manager´s assistant unduly dispatched of long distance passenger train 10371 before the preceding train (medium distance train 30557) had reached its destination, being established telephone block.",
+  "Location name": "Granollers station (Barcelona); kilometre point 136,551; 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The traffic manager didn´t assured that his assistant had understood his instructions as it´s set in the General Operating Regulation. Besides, his assistant didn´t comply with what is established for a telephone block situation."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Jefe no verifica orden comprendida",
+  "Auxiliar autoriza salida cantón ocupado",
+  "Señal fuera servicio no notificada",
+  "Consigna obras no especifica señales"
+ ],
+ "mitigaciones": [
+  "Respeto bloqueo telefónico establecido",
+  "Comprobación orden por jefe",
+  "Consigna clara señales fuera servicio",
+  "Protocolo coordinación equipos trabajo"
+ ],
+ "factores_humanos": [
+  "Error auxiliar circulación",
+  "Falta comprobación jefe circulación",
+  "Formación insuficiente condiciones no habituales",
+  "Coordinación deficiente trabajos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

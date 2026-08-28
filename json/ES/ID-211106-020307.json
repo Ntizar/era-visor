@@ -46,5 +46,31 @@
   "IM involved": "ADIF",
   "LC User fatalities": 2,
   "Total fatalities": 2
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invadió gálibo ferroviario",
+  "Señalización carretera en mal estado",
+  "Firme paso nivel defectuoso",
+  "Conductor no libró gálibo"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior máxima permitida",
+  "Frenada de emergencia aplicada",
+  "Aviso inmediato Puesto Mando",
+  "Renovación firme paso nivel"
+ ],
+ "factores_humanos": [
+  "Conductor invadió paso nivel",
+  "Mantenimiento deficiente señalización carretera",
+  "Titularidad municipal señalización carretera",
+  "Maquinista en condiciones aptas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

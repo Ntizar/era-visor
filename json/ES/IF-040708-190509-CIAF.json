@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-040708-190509-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-040708-190509-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-668",
+ "expediente": "0040/2008",
+ "titulo": "Conato de colisión entre tren de cercanías y mercancías en Sant Celoni por fallo en señalización durante obras",
+ "fecha_suceso": "2008-07-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Sant Celoni",
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 4 de julio de 2008, el tren de cercanías 25461 accedió a un cantón ocupado por el tren de mercancías 91361 detenido en la estación de Sant Celoni. El incidente se produjo mientras se realizaban trabajos de sustitución del enclavamiento eléctrico por uno electrónico y actualización del bloqueo automático. La señal de avanzada mostraba incorrectamente anuncio de parada (amarillo) debido a una manipulación errónea durante las obras, permitiendo el paso del tren de cercanías hacia la vía ocupada, lo que generó un conato de colisión.",
+ "causa_directa": "Incumplimiento de la Consigna ATO nº 91-CTO nº 92, punto 2.3, párrafo 11, que establecía que las señales afectadas debían ordenar parada mientras no estuvieran reajustadas eléctricamente tras el levante de los circuitos de vía.",
+ "causas_sistemicas": "Falta de coordinación entre los departamentos implicados en los trabajos, ausencia de un interlocutor único claro para el Jefe de Circulación, falta de supervisión de Adif en cabina durante la manipulación por parte de la empresa instaladora y deficiencias en la gestión de la seguridad durante compatibilización de obras y circulación.",
+ "recomendaciones": [
+  "Especificar claramente quién es la única persona responsable de las comunicaciones con el Jefe de Circulación en consignas de trabajos de gran envergadura.",
+  "Programar este tipo de trabajos en bandas de mantenimiento o suprimir el tráfico; si no es posible, establecer Bloqueo Telefónico.",
+  "Elaborar un protocolo común de actuación que garantice la coordinación perfecta y la cadena de transmisión de órdenes entre equipos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other",
+  "Occurrence description": "A passenger train, after passing through the station advanced signal, which stated a stop aspect at the next signal(yellow),came into a track section where a freight train was stopped at the station signal (which stated a stop aspect -red).",
+  "Location name": "Sant Celoni station, at the track section before the station. Kilometre point 156,900 at 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train; \nRegional passenger train",
+  "RU involved": "RENFE-Operadora; \n",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The electrical interlocking system was being changed to an electronic one and the railway signalling was also being replaced.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The way the work was developed didn´t comply with the Operational Order ATO nº 91-CTO nº 92, 2.3, paragraph 11."
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Incumplimiento consigna ATO/91-CTO/92",
+  "Circuitos de vía no reajustados",
+  "Señales afectadas no en parada",
+  "Falta coordinación entre departamentos"
+ ],
+ "mitigaciones": [
+  "Establecer bloqueo telefónico",
+  "Programar trabajos en bandas mantenimiento",
+  "Supresión total del tráfico",
+  "Elaborar protocolo común de actuación"
+ ],
+ "factores_humanos": [
+  "Fallo humano por muchos implicados",
+  "Falta de coordinación organizativa",
+  "Incumplimiento de consigna",
+  "Responsabilidad de comunicaciones difusa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

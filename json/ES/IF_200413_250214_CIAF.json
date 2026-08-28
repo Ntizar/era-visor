@@ -1,0 +1,49 @@
+{
+ "id": "ES-IF_200413_250214_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_200413_250214_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2251",
+ "expediente": "0033/2013",
+ "titulo": "Arrollamiento de una persona en el apeadero de Anoeta (Guipúzcoa) por tren de larga distancia",
+ "fecha_suceso": "2013-04-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Anoeta",
+  "provincia": "Guipúzcoa",
+  "pk": "600+148",
+  "linea": "Línea 100 Hendaya – Madrid-Chamartín"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 20 de abril de 2013, un tren de larga distancia arrolló a una persona que cruzaba las vías por el paso entre andenes del apeadero de Anoeta. La víctima, viajera de un tren de cercanías que acababa de detenerse, no percibió la llegada del otro convoy debido a la obstrucción visual causada por el tren estacionado. Como consecuencia del impacto, la persona falleció. El informe concluye que el accidente se debió a la invasión del gálibo de la vía sin asegurarse de la ausencia de tráfico.",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la víctima al cruzar el paso entre andenes sin percatarse de la llegada del tren de larga distancia.",
+ "causas_sistemicas": "Visibilidad reducida en el paso entre andenes cuando hay cruce de trenes en sentidos opuestos; falta de dispositivos de seguridad adicionales o normativa específica para este tipo de pasos en estaciones y apeaderos.",
+ "recomendaciones": [
+  "Reiterar la recomendación del expediente 0045/2009: Realizar un inventario de estaciones y apeaderos con análisis de riesgos para elaborar un plan de medidas de seguridad jerarquizado."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A passenger, once she got off the train, crossed a board crossing without paying attention another train was coming.",
+  "Location name": "Anoeta halt (Guipúzcoa)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1,
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had ist origin when the victim went though the board crossing without noticing an approaching train."
+ }
+}

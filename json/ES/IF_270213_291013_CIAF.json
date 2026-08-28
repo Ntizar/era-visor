@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF_270213_291013_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_270213_291013_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2424",
+ "expediente": "0016/2013",
+ "titulo": "Escape y colisión de castillete autopropulsado entre Pitis y Pinar de las Rozas (Madrid)",
+ "fecha_suceso": "2013-02-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "15+600",
+  "linea": "100 Hendaya - Madrid Chamartín"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 27 de febrero de 2013, entre las estaciones de Pitis y Pinar de las Rozas (Madrid), un castillete autopropulsado de electrificación se escapó de un tren de trabajos. El castillete descendió unos 3.400 metros por la pendiente de la vía y colisionó con el tren T1, que quedó descarrilado. Se produjeron cuatro heridos leves. El accidente se originó por un fallo humano en el enganche y en la conexión del freno de emergencia.",
+ "causa_directa": "Fallo humano por incorrecto enganche del castillete a la plataforma arrastrada por la dresina y por no conectarse correctamente las mangueras del freno de emergencia, impidiendo su actuación al soltarse el castillete.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "El encargado de trabajos de Adif deberá cerciorarse y requerir que, entre el personal de la contrata que realiza trabajos de mantenimiento, hay un responsable de verificar las correctas operaciones con el material móvil que permita una circulación segura."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Runaway",
+  "Occurrence description": "Self-propelled electrification headframe ran away, stopping after colliding with a work train.",
+  "Location name": "Pitis and Pinar de las Rozas stations (Madrid)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Infrastructure works train",
+  "RU involved": "Adif",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is produced by the train driver´s human failure for wrongly coupling the tower to the platform that was being hauled by the draisine and for not connecting properly the emergency brake´s hoses."
+ }
+}

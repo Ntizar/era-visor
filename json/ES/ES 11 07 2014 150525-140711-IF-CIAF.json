@@ -1,0 +1,60 @@
+{
+ "id": "ES-ES 11 07 2014 150525-140711-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 11 07 2014 150525-140711-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0036/2014",
+ "titulo": "Arrollamiento de una niña en el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid)",
+ "fecha_suceso": "2014-07-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Mataespesa de Alpedrete",
+  "provincia": "Madrid",
+  "pk": "4+569",
+  "linea": "línea 110 Segovia a Villalba de Guadarrama"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 11 de julio de 2014, el tren de cercanías 27141 de Renfe Operadora, con destino Cercedilla, arrolló a una niña que cruzaba en bicicleta por el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid). El tren entraba por la vía 1 para realizar una parada comercial y circulaba a unos 50 km/h cuando la víctima invadió el gálibo de la vía. La niña falleció como consecuencia del arrollamiento. La investigación determinó que las instalaciones y los sistemas de seguridad funcionaron correctamente y que el personal cumplía la normativa vigente.",
+ "causa_directa": "El accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+ "causas_sistemicas": "El paso entre andenes era el único punto de cruce de la línea férrea en la zona de la estación, lo que generaba un efecto barrera y su uso por peatones no usuarios del tren. Además, carecía de carteles que recordaran la necesidad de mirar a ambos lados antes de cruzar, y no se consideraba el paso superior carretero de la M-619 como alternativa real para la zona.",
+ "recomendaciones": [
+  "Iniciar gestiones para sustituir el paso entre andenes de la estación por un paso a distinto nivel.",
+  "Mientras se mantenga el paso actual, reforzar su señalización con carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren.",
+  "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce por paso entre andenes",
+  "No percatarse de llegada tren",
+  "Falta de carteles",
+  "Único paso entre andenes"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Freno de servicio",
+  "Megafonía centralizada en funcionamiento",
+  "Paneles informativos luminosos"
+ ],
+ "factores_humanos": [
+  "No percatarse de llegada tren",
+  "Falta de señalización peatonal",
+  "Único paso entre andenes",
+  "Efecto barrera del trazado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

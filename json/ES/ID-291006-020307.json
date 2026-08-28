@@ -1,0 +1,72 @@
+{
+ "id": "ES-ID-291006-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-291006-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-28",
+ "expediente": "0043/2006",
+ "titulo": "Arrollamiento de una persona en la línea Xativa-Alcoy, entre Agres y Cocentaina (Alicante)",
+ "fecha_suceso": "2006-10-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Alicante",
+  "pk": "54,100",
+  "linea": "Xativa-Alcoy"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 29 de octubre de 2006, el tren de Media Distancia 4416 de Renfe arrolló a una persona en el punto kilométrico 54,100 de la línea Xativa-Alcoy, entre Agres y Cocentaina (Alicante). La víctima, un varón de 59 años con indumentaria de cazador, invadió la vía para retirar a un perro cuando el tren salía de una curva. El fallecido quedó fuera de la caja de la vía y no se produjeron daños materiales. La circulación se interrumpió durante 82 minutos y cuatro trenes acumularon 286 minutos de retraso.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que invadió la caja de la vía para retirar a un perro cuando el tren se aproximaba, sin tiempo para evitar el arrollamiento.",
+ "causas_sistemicas": "Se señala como causa coadyuvante la falta de vallado que impida u obstaculice el acceso a la vía, además de la escasa visibilidad a la salida de una curva y el entorno rural frecuentado por cazadores.",
+ "recomendaciones": [
+  "Fomentar campañas de concienciación destinadas a la población sobre el peligro que supone el tránsito indebido y por lugares no autorizados dentro de las líneas de ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion at open line while walking to cross the track.",
+  "Location name": "Railway line from Xativa to Alcoi at the kilometre point 54,100.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Invadió la vía para retirar perro",
+  "Perro entró en caja de vía",
+  "Falta de vallado en la línea",
+  "No había paso autorizado"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Aplicación del freno de emergencia",
+  "Velocidad inferior a máxima autorizada",
+  "Instalación de vallado perimetral"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Indumentaria de cazador",
+  "Zona frecuentada por cazadores",
+  "Falta de campañas de concienciación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

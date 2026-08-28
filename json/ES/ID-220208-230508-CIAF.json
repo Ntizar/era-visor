@@ -46,5 +46,26 @@
   "Other fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The road vehicle had had a previous traffic accident, then falling to the tracks from the highway."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "vehículo rompe pretiles de protección",
+  "vehículo cae sobre la vía",
+  "invasión de la vía",
+  "circulación de locomotora aislada"
+ ],
+ "mitigaciones": [
+  "freno de urgencia accionado",
+  "observación temprana del vehículo",
+  "intercepción de ambas vías",
+  "aviso a servicios de emergencia"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

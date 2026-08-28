@@ -1,0 +1,71 @@
+{
+ "id": "ES-ID-300407-190707-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-300407-190707-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-232",
+ "expediente": "0027/2007",
+ "titulo": "Arrollamiento mortal de una persona en paso entre andenes de la estación de San Sebastián",
+ "fecha_suceso": "2007-04-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "San Sebastián",
+  "provincia": null,
+  "pk": "622,516",
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 30 de abril de 2007, a las 22:06, una mujer de 23 años fue arrollada por el tren de Cercanías 26877 de Renfe en un paso entre andenes de la estación de San Sebastián, en el punto kilométrico 622,516 de la línea Madrid-Hendaya. La víctima cruzó por el paso entre andenes e invadió la vía por la que entraba el tren, pese a las advertencias del maquinista y del jefe de circulación. El convoy circulaba a 30 km/h, por debajo de la velocidad máxima autorizada de 100 km/h, y no se produjeron daños materiales. La mujer falleció posteriormente en un centro sanitario y el tren estuvo detenido 21 minutos.",
+ "causa_directa": "Uso indebido del paso entre andenes para cruzar las vías en lugar del paso inferior existente, con invasión imprudente de la vía e ignorando las advertencias del personal ferroviario.",
+ "causas_sistemicas": "El informe señala el elevado tráfico y la velocidad de paso como condiciones que agravan el riesgo de los pasos entre andenes, y recomienda mejorar la sensibilización ciudadana y considerar la eliminación de esos pasos.",
+ "recomendaciones": [
+  "Realizar un estudio para impulsar campañas de sensibilización y concienciación sobre el peligro de cruzar las vías del ferrocarril.",
+  "Tener en consideración la posible eliminación de los dos pasos entre andenes de la estación de San Sebastián, manteniéndolos solo si son estrictamente necesarios."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person was crossing the board crossing when was hit by a train which was approaching from the other side.",
+  "Location name": "San Sebastián station. Railway line from Madrid to Hendaya.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "víctima cruzó paso entre andenes",
+  "no usó paso inferior disponible",
+  "tren entraba en estación"
+ ],
+ "mitigaciones": [
+  "maquinista accionó freno emergencia",
+  "maquinista usó silbato repetidamente",
+  "jefe circulación intentó detenerla",
+  "velocidad tren inferior máxima"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "desatención advertencias visuales",
+  "comportamiento temerario peatón"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

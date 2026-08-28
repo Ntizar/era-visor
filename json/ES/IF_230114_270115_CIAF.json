@@ -1,0 +1,32 @@
+{
+ "id": "ES-IF_230114_270115_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_230114_270115_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0005/2014",
+ "titulo": "Arrollamiento de plataforma portaherramientas por tren entre Calzada de Bureba y Briviesca (Burgos)",
+ "fecha_suceso": "2014-01-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Burgos",
+  "pk": "422+950",
+  "linea": "Calzada de Bureba - Briviesca"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 23 de enero de 2014, el tren de viajeros 282 de Renfe Operadora, con origen en Irún y destino Vigo-Guixar, circulaba por la vía II entre Calzada de Bureba y Briviesca (Burgos). En ese trayecto se realizaban trabajos de mantenimiento en vía II con interrupción de la circulación concedida por telefonema. El jefe del CTC de Miranda de Ebro bloqueó por error la vía I en lugar de la vía II, por lo que la circulación no quedó protegida correctamente. El tren arrolló una plataforma portaherramientas situada en la vía II en el PK 422+950 a una velocidad de 126 km/h, sin producirse víctimas personales.",
+ "causa_directa": "Fallo humano del jefe del CTC de Miranda de Ebro al bloquear incorrectamente la vía I en lugar de la vía II concedida para los trabajos de mantenimiento.",
+ "causas_sistemicas": "La Consigna C Experimental nº 58 no exigía el uso obligatorio de útiles de cortocircuito o señales de protección para estos trabajos, aunque su empleo habría podido evitar el suceso; además, se detecta la necesidad de reforzar la seguridad en operaciones de circulación reguladas por CTC, la formación y las inspecciones de trabajos en vía.",
+ "recomendaciones": [
+  "Incluir en la normativa aplicable, especialmente en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado en líneas con circuitos de vía eléctricos y señales en líneas sin circuitos de vía eléctricos."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -1,0 +1,65 @@
+{
+ "id": "ES-ES-5925 - 210624-190208-if-sn_ciaf",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-5925 - 210624-190208-if-sn_ciaf.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "12/2019",
+ "titulo": "Accidente ferroviario en el antiguo apeadero de Castellgalí (Barcelona), 8 de febrero de 2019",
+ "fecha_suceso": "2019-02-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "antiguo apeadero de Castellgalí",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El 8 de febrero de 2019 se produjo un accidente ferroviario en el antiguo apeadero de Castellgalí (Barcelona). El tren 15624 fue despachado desde la vía 1 de Manresa, que carecía de señal de salida, mediante un procedimiento excepcional no conforme. El informe señala que el tren quedó identificado erróneamente y circuló en sentido incorrecto, relacionándose el suceso con el tren 25056. La investigación identifica una cadena de errores humanos y organizativos, con deficiencias en formación, supervisión, procedimientos y sistemas.",
+ "causa_directa": "La circulación del tren 15624 en sentido incorrecto, tras ser despachado indebidamente desde la vía 1 de Manresa sin señal de salida y con una identificación errónea en el CTC. El tren además pasó la señal E2 de parada sin detenerse completamente.",
+ "causas_sistemicas": "Uso habitual de un procedimiento excepcional para despachar desde vías sin señal de salida; deficiencias en formación y supervisión de reguladores, jefes de estación y maquinistas; falta de procedimientos formales claros para el intercambio de información; interfaz CTC que permite duplicar números de tren; asignación de vías distinta de la planificada y ocupación prolongada de vía 4; necesidad de actualizar equipos e instalaciones.",
+ "recomendaciones": [
+  "1.1 Reforzar la formación práctica de los jefes de estación en el uso correcto de los paneles locales de control.",
+  "1.2 Reforzar la formación práctica de los jefes de estación en el procedimiento reglamentario para despachar trenes desde vías sin señal de salida y en condiciones anormales.",
+  "2 Insistir en la formación y el reciclaje de reguladores y jefes de estación en el cumplimiento de los protocolos de intercambio de información.",
+  "3 Revisar la norma NAR 6/18 para detallar protocolos, relaciones y criterios de intercambio de información entre operadores de tráfico.",
+  "4 Reforzar la formación del personal de conducción en procedimientos para situaciones excepcionales, como circulaciones en sentido contrario o despachos desde vías sin señal de salida.",
+  "5 Considerar la actualización de la estación de Manresa para instalar señal de salida en todas sus vías de paso y comprobar otras instalaciones con situación similar.",
+  "6.1 Reforzar la monitorización y auditoría de estaciones para detectar y corregir incumplimientos en despachos desde vías sin señal de salida.",
+  "6.2 Reforzar la monitorización del personal de a bordo sobre el cumplimiento de las normas de despacho desde vías sin señal de salida y circulaciones en sentido contrario.",
+  "7 Implementar procedimientos para operadores de tráfico sobre números de tren ausentes, ocupaciones falsas y duplicación de números, y considerar avisos específicos en la interfaz CTC."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "tren estacionado en via sin salida",
+  "ruta incorrecta hacia via sin seÃ±al de salida",
+  "maquinista no detuvo completamente tren",
+  "falta de comunicaciÃ³n con CTC"
+ ],
+ "mitigaciones": [
+  "activaciÃ³n plan contingencias ferroviarias",
+  "respuesta servicios emergencia",
+  "reducciÃ³n velocidad antes impacto"
+ ],
+ "factores_humanos": [
+  "error humano en gestiÃ³n circulaciÃ³n",
+  "incumplimiento normas conducciÃ³n",
+  "deficiencias formaciÃ³n personal",
+  "supervisiÃ³n insuficiente operaciones"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

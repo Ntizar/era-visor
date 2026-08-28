@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-271211-250912-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-271211-250912-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1376",
+ "expediente": "0063/2011",
+ "titulo": "Descarrilamiento del tren 533 en el cambiador de ancho de Zaragoza Delicias",
+ "fecha_suceso": "2011-12-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Cambiador de ancho de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "pk": null,
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 27 de diciembre de 2011, a las 11:38 horas, el tren de viajeros 533 de Renfe Operadora descarriló en el cambiador de ancho de Zaragoza Delicias. El maquinista detuvo el tren al observar que no se había abierto el cerrojo de una rueda. La rueda afectada no cambió de ancho convencional a UIC porque el mecanismo de bloqueo/desbloqueo estaba suelto. Los tornillos de sujeción del mecanismo se habían desenroscado, desapareciendo uno y aflojando otro.",
+ "causa_directa": "El descarrilamiento se produjo por el fallo del sistema de cambio de ancho en la rueda derecha del segundo eje del primer bogie del segundo coche, cuyo mecanismo de bloqueo/desbloqueo estaba suelto porque los tornillos de sujeción se habían desenroscado.",
+ "causas_sistemicas": "Un suceso similar había ocurrido en enero de 2011 en el mismo cambiador. La chapa tope de seguridad no impidió el afloje de los tornillos, que se deformaron y desgastaron. La modificación definitiva de soldadura del soporte palanca aún no se había implantado.",
+ "recomendaciones": [
+  "Establecer una especial vigilancia del mecanismo del bloqueo/desbloqueo del cambio de ancho de los ejes BRAVA hasta que se efectúe la modificación prevista de su sujeción (soldadura)."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Long distance passenger train partially derailed (right wheel of second axle of first bogie at second carriage) during the operation of changing from Iberian to UIC gauge.",
+  "Location name": "Zaragoza-Delicias station (Zaragoza), at its gauge changing facility, AV 060 Bif. Cambiador Zaragoza Delicias-Cambiador Zaragoza Delicias railway line.",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a failure in the system for changing the gauge in the right wheel of second axle of first bogie at second carriage since the mechanism for locking/unlocking was loose."
+ }
+}

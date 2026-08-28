@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-131208-310309-CIAF_ES-671",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-131208-310309-CIAF_ES-671.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-672",
+ "expediente": "0071/2008",
+ "titulo": "Arrollamiento de un peatón en un paso a nivel de la estación de Calella",
+ "fecha_suceso": "2008-12-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": "Calella",
+  "provincia": "Barcelona",
+  "pk": "48,524",
+  "linea": "276 Maçanet-Massanes-Barcelona-Sagrera"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 13 de diciembre de 2008, el tren de Cercanías 25986 de Renfe Operadora arrolló a un peatón que cruzaba la vía por el paso a nivel clase C de la estación de Calella. En ese momento, las semibarreras estaban bajadas y los avisos luminosos y acústicos activados. El tren circulaba a 55 km/h, por debajo de la velocidad máxima permitida, y el maquinista accionó el silbato y el freno de emergencia. La víctima falleció como consecuencia del impacto.",
+ "causa_directa": "El origen del accidente fue el cruce de la víctima por el paso a nivel cuando las semibarreras estaban bajadas y los sistemas de aviso luminoso y acústico estaban activados.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Adif: acelerar las actuaciones encaminadas a la supresión del paso a nivel, cuyo proyecto constructivo está en fase de redacción."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, with his back to a coming train and walking within the rail gauge, was knocked down by a freight train.",
+  "Location name": "Open line, at kilometre point 494,315, between Vitoria y Alegría de Álava stations, on 100 Hendaya - Madrid railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Peatón cruza con barreras bajadas",
+  "Tren sale de estación Calella",
+  "Parada comercial previa en vía"
+ ],
+ "mitigaciones": [
+  "Maquinista acciona freno emergencia",
+  "Maquinista usa silbato",
+  "Velocidad inferior permitida",
+  "Supresión paso nivel recomendada"
+ ],
+ "factores_humanos": [
+  "Cruce indebido por peatón",
+  "Alta afluencia peatonal zona",
+  "Supresión paso nivel pendiente",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

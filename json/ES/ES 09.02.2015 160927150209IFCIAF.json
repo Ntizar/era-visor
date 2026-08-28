@@ -1,0 +1,56 @@
+{
+ "id": "ES-ES 09.02.2015 160927150209IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 09.02.2015 160927150209IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0017/2015",
+ "titulo": "Arrollamiento de topera y descarrilamiento en maniobras en la estación de A Susana (A Coruña)",
+ "fecha_suceso": "2015-02-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "A Susana",
+  "provincia": "A Coruña",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Adif",
+  "Logirail"
+ ],
+ "resumen": "El 9 de febrero de 2015 se produjo un accidente durante una maniobra en la estación de A Susana (A Coruña). La maniobra, realizada empujando dos locomotoras y catorce vagones, se dirigió hacia la topera de la vía 2 porque el auxiliar de operaciones del tren no dispuso correctamente la aguja 4 ni comprobó el itinerario. Se produjo el arrollamiento de la topera y el descarrilamiento de tres vagones, con invasión del gálibo de la vía general. No hubo fallecidos ni heridos, aunque se registraron daños materiales en vía y vagones.",
+ "causa_directa": "Fallo humano del auxiliar de operaciones del tren, que no estableció correctamente el itinerario de la maniobra y no comprobó la posición de las agujas antes de ordenar el movimiento de empuje.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "AOT no comprobó itinerario antes",
+  "escape orientado a vía directa",
+  "maniobra realizada empujando",
+  "no visión directa primer vagón"
+ ],
+ "mitigaciones": [
+  "ordenó detención inmediata",
+  "no superó velocidad máxima",
+  "equipos radiotelefonía funcionaron correctamente",
+  "AOT se percató del error"
+ ],
+ "factores_humanos": [
+  "fallo humano auxiliar operaciones",
+  "omisión comprobación itinerario",
+  "disposición incorrecta agujas",
+  "movimiento empujando limita visión"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,65 @@
+{
+ "id": "ES-IF-181008-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-181008-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-601",
+ "expediente": "0051/2008",
+ "titulo": "Arrollamiento mortal de una persona por tren de mercancías en el paso a nivel de Figueres (Gerona)",
+ "fecha_suceso": "2008-10-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Figueres",
+  "provincia": "Gerona",
+  "pk": "247,215",
+  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 18 de octubre de 2008, a las 08:06, el tren de mercancías 58551 de Renfe Operadora cruzó el paso a nivel clase C de la estación de Figueres, en el P.K. 247,215 de la línea 270. Una persona de 81 años atravesó el paso con las barreras bajadas y los avisos luminosos y acústicos activados. Tras ser desestabilizada, cayó después del paso del tren y falleció minutos más tarde. El maquinista usó el silbato y frenó; el tren circulaba a 70 km/h, por debajo del límite. No hubo daños materiales, aunque se produjeron retrasos y una vía única temporal.",
+ "causa_directa": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando las barreras estaban bajadas y los sistemas de aviso luminoso y acústico activados.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "An elder man crossed a level crossing (for pedestrians and vehicles)when the barriers were down. Despite he reached the other side, the slipstream created by the train in motion unbalanced the victim making him to fall.The level crossing was working properly.",
+  "Location name": "Figueres station (Gerona), level crossing type C, kilometre point 247,215, 270 Barcelona-Cerbere railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "Cruce peatonal con barreras bajadas",
+  "Ignorancia de señales acústicas y luminosas"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por el maquinista",
+  "Freno de emergencia inmediato",
+  "Supresión prevista del paso a nivel"
+ ],
+ "factores_humanos": [
+  "Conducta imprudente de la víctima",
+  "Edad avanzada de la víctima"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

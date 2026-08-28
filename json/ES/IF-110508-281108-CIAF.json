@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-110508-281108-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-110508-281108-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-590",
+ "expediente": "0039/2008",
+ "titulo": "Arrollamiento de una persona por tren 1186 en la entrada de Villarrobledo (Albacete)",
+ "fecha_suceso": "2008-05-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villarrobledo",
+  "provincia": "Albacete",
+  "pk": "202,400",
+  "linea": "300 Madrid-Chamartín Valencia–Estación de Nord"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 11 de mayo de 2008, a las 17:53, el tren de viajeros 1186 de Renfe Operadora arrolló a un hombre en el P.K. 202,400 de la línea Madrid-Chamartín–Valencia Nord, en la entrada de Villarrobledo (Albacete). La víctima, de 72 años y con enfermedad de Alzheimer, falleció en el acto. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. El informe concluye que el origen fue el tránsito de la víctima por un lugar no autorizado.",
+ "causa_directa": "El tránsito de la víctima por un lugar no autorizado para ello.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "An old man, walking on the tracks, is knocked down by a long distance train. The train driver sounded the horn but the man didn´t put himself aside.",
+  "Location name": "300 Madrid-Valencia railway line, kilometre point 202,400, close to Villarobledo station (Albacete)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "tránsito por lugar no autorizado",
+  "víctima circula por vía",
+  "vía sin vallar"
+ ],
+ "mitigaciones": [
+  "uso del silbato",
+  "uso del freno de emergencia",
+  "comunicación al puesto de mando",
+  "activación plan emergencia exterior"
+ ],
+ "factores_humanos": [
+  "víctima padece Alzheimer",
+  "persona no autorizada en vía",
+  "maquinista actúa correctamente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

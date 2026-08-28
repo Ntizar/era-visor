@@ -1,0 +1,71 @@
+{
+ "id": "ES-ES-10382 - 2022-108-1105-IF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10382 - 2022-108-1105-IF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10382",
+ "expediente": "108/2022",
+ "titulo": "Incidente operacional en la estación de Torelló (Barcelona) por corte de tensión y disolución de itinerario",
+ "fecha_suceso": "2022-11-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Torelló",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": "L222 Bif. Aigües - La Tour de Carol"
+ },
+ "entidades": [
+  "ADIF",
+  "Empresas Ferroviarias (EEFF)"
+ ],
+ "resumen": "El 5 de noviembre de 2022, un corte de tensión en la línea L222 dejó sin alimentación a los trenes 78355 y 78350 en su aproximación a la estación de Torelló. Tras recuperarse la tensión, el enclavamiento disolvió el itinerario previsto para el tren 78355 y estableció uno para el 78350. El maquinista del 78355 reanudó la marcha interpretando erróneamente la orden, ocupó el circuito de entrada y el RC entendió que había rebasado la señal, por lo que ordenó detener al 78350. El suceso se resolvió sin consecuencias adicionales.",
+ "causa_directa": "Falta de comprensión entre el maquinista y el RC por interpretación errónea de la posición real del tren 78355, que reanudó la marcha con el itinerario disuelto hacia la vía 2 de Torelló. Además, se estableció un itinerario de entrada para el 78350 incompatible con el disuelto para el 78355.",
+ "causas_sistemicas": "No existían prescripciones reglamentarias de un procedimiento general que restringiera la disolución y modificación de itinerarios establecidos; además, había deficiencias regulatorias y formativas sobre la condición de uso de los sistemas de detección de trenes asociados a las señales.",
+ "recomendaciones": [
+  "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+  "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Wrong-side signaling failure",
+  "Occurrence description": "National ID 108/2022: Signalling failure (line 222, kilometre 84,649).\nAfter a power failure two trains are stopped at both sides of Torelló station. Train #78350 stopped before closed signal E'2, and train #78355 stopped just after passing signal E1. The latter had stopped just after passing the signal and its beacon, although control screen at control centre didn't show that (the train was shown as placed before the signal), and its driver didn't inform the signaller of that. After power recovery, the signaller ordered the other train to enter in the station and ordered train #78355 train to \"proceed until next signal\", believing that \"next signal\" was E1 (that has been already passed). When the signaller saw the latter ocupying the entrance switches (instaed of stopping at signal E1) he ordered both trains to stop.\n\nThe Spanish NIB decided to conduct a preliminary enquiry on what happened (20/12/2022). After the first findings, it was decided to open a full fledged investigation.",
+  "Location name": "Torelló (Barcelona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Commuter train",
+  "RU involved": "Renfe Viajeros",
+  "IM involved": "THM Kft.",
+  "Passenger fatalities": "MÁV Zrt.",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causes: \n-\tThe lack of understanding between the driver and the signaller due to an erroneous interpretation of the real position of 78355 train, which caused it to resume its journey, after being stopped due to the power cut, with the route dissolved towards track 2 at Torelló station.\n-\tThe establishment of an entry route for 78350 train to track 2 at Torelló station, which was incompatible with the route that had been dissolved for train 78355.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors: \n-\tThe voltage cut in the catenary that caused 78350 and 78355 trains to stop on their approach routes to Torelló station.\n-\tThe stopping of 78355 train with its first axle in the dead zone of the high frequency TC at the entrance to Torelló station, the driver's station having exceeded the position of this signal.\n-\tLack of knowledge and guidelines on the condition of use of the high frequency TCs, due to the existence of a dead zone in which the occupation of the TC for the detection of trains cannot be guaranteed.\n-\tThe dissolution of the route set for 78355 train without verifying its location.\n-\tThe decision to suppress 78350 train at Torelló station where it would be temporarily parked. \n-\tThe recovery of the voltage by 78350 train prior to 78355 train.\nSystemic factors: \n-\tThe non-existence of regulatory prescriptions of a general procedure restricting the dissolution and modification of established routes.\n-\tRegulatory and training deficiencies on the condition of use of train detection systems associated with signals."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "corte de tensión en catenaria",
+  "disolución itinerario sin verificar posición",
+  "parada tren en zona muerta circuito vía"
+ ],
+ "mitigaciones": [
+  "orden inmediata parada otro tren",
+  "no hubo colisión ni descarrilamiento"
+ ],
+ "factores_humanos": [
+  "interpretación errónea orden RC",
+  "falta conocimiento zonas muertas CV",
+  "deficiencias formativas personal circulación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

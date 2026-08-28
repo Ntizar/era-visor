@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-100908-200109-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-100908-200109-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-594",
+ "expediente": "0041/2008",
+ "titulo": "Arrollamiento mortal de una persona por tren de mercancías en la estación de Villarreal, línea 600",
+ "fecha_suceso": "2008-09-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villarreal",
+  "provincia": "Castellón",
+  "pk": "62,095",
+  "linea": "600 Valencia-San Vicente de Calders"
+ },
+ "entidades": [
+  "Comsa Rail Transport",
+  "Adif"
+ ],
+ "resumen": "El 10 de septiembre de 2008, a las 15:14, el tren de mercancías 87456 de Comsa Rail Transport arrolló a una mujer en el P.K. 62,095 de la estación de Villarreal, en la línea 600 Valencia-San Vicente de Calders. La víctima cruzaba las vías por un lugar no autorizado, al final del cerramiento, cuando el tren pasaba junto al desvío nº 6. El maquinista usó señales acústicas y el freno de emergencia, pero no pudo evitar el impacto. Como consecuencia, la mujer falleció y se produjeron retrasos en varios trenes.",
+ "causa_directa": "El cruce de las vías por parte de la víctima por un lugar no autorizado para ello.",
+ "causas_sistemicas": "Existencia de un paso vicioso de personas en el final del cerramiento, ubicación urbana de la estación, alta intensidad de tráfico y antecedentes de arrollamientos similares en el mismo entorno.",
+ "recomendaciones": [
+  "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A woman is knocked down by a train as she was crossing the tracks through an unauthorised place.",
+  "Location name": "600 Valencia-Sant Vicent de Calders railway line, at Villareal (Castellón) station, kilometre point 62,095",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "COMSA RAIL TRANSPORT",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce indebido por lugar no autorizado",
+  "falta de cerramiento en estación",
+  "víctima usaba auriculares",
+  "señal de peligro ignorada"
+ ],
+ "mitigaciones": [
+  "uso señales acústicas por maquinista",
+  "freno de emergencia accionado",
+  "vallado del ámbito de estación",
+  "señalización de peligro existente"
+ ],
+ "factores_humanos": [
+  "víctima no percibió avisos",
+  "cruce por lugar no autorizado",
+  "falta de percepción de peligro",
+  "ausencia de medidas de permeabilidad"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

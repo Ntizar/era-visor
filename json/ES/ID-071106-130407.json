@@ -31,5 +31,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Persona transitaba por vía no autorizada",
+  "Falta de vallado perimetral",
+  "Peatón evitó paso inferior",
+  "Paso vicioso no eliminado"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Freno de urgencia accionado",
+  "Uso del silbato",
+  "Vallado perimetral recomendado"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Caminaba de espaldas al tren",
+  "No usó paso inferior",
+  "Ropas oscuras y paraguas"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
 }

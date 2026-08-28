@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-110711-270312-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-110711-270312-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1254",
+ "expediente": "0043/2011",
+ "titulo": "Descarrilamiento de tren de mercancías 54583 en el túnel nº6 'el Caracol' entre Jaca y Canfranc (Huesca)",
+ "fecha_suceso": "2011-07-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Huesca",
+  "pk": "11+758",
+  "linea": "Línea 204 Bif. Canfranc - Canfranc (tramo Jaca - Canfranc)"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 11 de julio de 2011, el tren de mercancías 54583 de Renfe Operadora descarriló en el interior del túnel nº6 'el Caracol', entre Jaca y Canfranc (Huesca). La composición, formada por locomotora y 14 vagones cargados con maíz, circulaba a unos 62 km/h cuando comenzó el descarrilamiento en el primer bogie del vagón 5. El tren recorrió descarrilado aproximadamente un kilómetro hasta detenerse fuera del túnel, quedando seccionado y con varios vagones volcados o semivolcados. El informe atribuye el accidente al mal estado de la infraestructura y no considera causa del descarrilamiento el ligero exceso de velocidad.",
+ "causa_directa": "Fallo de la infraestructura por mal estado general de traviesas, desgaste excesivo de carriles, deterioro de la clavazón y contaminación del balasto, con peraltes, alabeos, sobreanchos y estrechamientos fuera de tolerancia.",
+ "causas_sistemicas": "Deficiente mantenimiento de la infraestructura en la zona del accidente.",
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "A 14 wagons freight train, with a load consisted of corn, partially derailed at kilometre point 11,800.",
+  "Location name": "Near Canfranc station (Huesca), kilometre point 11,800, 204 Bif. Huesca-Canfranc railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Failure of the infrastructure due to a general bad condition of all of its components: sleepers, rails excessively worn out and ballast polluted. All made that the values for the cant and the warping of track were out of tolerance."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Mantenimiento deficiente de la vía",
+  "Estado general deficiente de infraestructura",
+  "Desgaste excesivo de carriles",
+  "Contaminación del balasto"
+ ],
+ "mitigaciones": [
+  "Maquinista actuó sobre el freno",
+  "Velocidad del tren adecuada",
+  "Renovación de vía en zona",
+  "Limitación temporal de velocidad"
+ ],
+ "factores_humanos": [
+  "Mantenimiento deficiente en la zona",
+  "Personal cumplió normativa vigente",
+  "Pruebas de alcoholemia negativas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

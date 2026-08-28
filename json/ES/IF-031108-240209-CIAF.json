@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-031108-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-031108-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-604",
+ "expediente": "0057/2008",
+ "titulo": "Arrollamiento de una persona por un tren de cercanías en la estación de Cardedeu (Barcelona)",
+ "fecha_suceso": "2008-11-03",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Cardedeu",
+  "provincia": "Barcelona",
+  "pk": "143,105",
+  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 3 de noviembre de 2008, el tren de cercanías 15818 de Renfe Operadora arrolló a una persona que cruzaba la vía en la estación de Cardedeu. La víctima falleció en el acto. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto. El tren circulaba a una velocidad inferior a la máxima permitida y tanto el material rodante como la infraestructura funcionaban correctamente.",
+ "causa_directa": "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+ "causas_sistemicas": "El aparcamiento junto a las vías carecía de valla o muro que impidiera el acceso libre a las vías, y muchos usuarios cruzaban directamente para acceder a la estación.",
+ "recomendaciones": [
+  "Estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación para impedir el libre acceso a las vías desde el mismo."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person crossed the tracks, at an unauthorised place in front of the passenger premises, while a train was approaching.",
+  "Location name": "Cardedeu station (Barcelona); kilometre point 143,270; 270 Barcelona-Cerbere railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce no autorizado de vía",
+  "Ausencia de valla perimetral",
+  "Acceso libre desde aparcamiento",
+  "Falta de control de accesos"
+ ],
+ "mitigaciones": [
+  "Uso de silbato",
+  "Acción de freno de emergencia",
+  "Velocidad inferior a máxima",
+  "Vallar zona de aparcamiento"
+ ],
+ "factores_humanos": [
+  "Víctima transitaba sin autorización",
+  "Falta de vallado perimetral",
+  "Comportamiento inseguro de usuario",
+  "Ausencia de control de accesos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

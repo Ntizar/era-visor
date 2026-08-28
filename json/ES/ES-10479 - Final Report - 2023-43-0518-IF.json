@@ -1,0 +1,78 @@
+{
+ "id": "ES-ES-10479 - Final Report - 2023-43-0518-IF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10479 - Final Report - 2023-43-0518-IF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10479",
+ "expediente": "43/2023",
+ "titulo": "Fallo de señalización en Les Borges del Camp (Tarragona), ocurrido el 18 de mayo de 2023",
+ "fecha_suceso": "2023-05-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Les Borges del Camp",
+  "provincia": "Tarragona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Mercancías",
+  "ADIF"
+ ],
+ "resumen": "El 18 de mayo de 2023, un tren de mercancías de Renfe Mercancías se aproximaba a la estación de Les Borges del Camp con itinerario establecido para la vía 1. Al observar que la secuencia de señales no era correcta y que no había suficiente distancia de frenado entre la señal E1 y la salida S1/1, el maquinista aplicó el freno de emergencia. Se comprobó que la secuencia existente no correspondía a la indicada en las instrucciones del enclavamiento. La causa se relacionó con una nueva versión de software instalada en febrero de 2023 durante la centralización de los bloqueos Reus-Mora. No hubo fallecidos ni heridos.",
+ "causa_directa": "El software de enclavamiento instalado presentaba un fallo en la secuencia de señales para itinerarios de entrada a vía principal, que no proporcionaba la distancia de frenado indicada en las instrucciones del enclavamiento.",
+ "causas_sistemicas": "El desarrollo del software se basó en supuestos erróneos sobre el alcance del proyecto y no hubo seguimiento ni verificación de esos supuestos en fases posteriores. Además, no se incluyó una prueba necesaria para detectar el error y existía una definición insuficiente del alcance y de las pruebas requeridas tanto por Alstom como por ADIF. También se observaron deficiencias en el protocolo normalizado de pruebas de enclavamientos IT-205-002-001.",
+ "recomendaciones": [
+  "Implementar herramientas para asegurar la disponibilidad de datos operativos antes de la generación del software y, en caso de establecer hipótesis, diseñar métodos para hacer seguimiento y validarlas.",
+  "Establecer procedimientos de doble verificación por parte del equipo de seguridad sobre las campañas de pruebas diseñadas por V&V, especialmente sobre los errores detectados, para confirmar su gestión y solución.",
+  "Incluir en los procedimientos de Alstom mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance y, en su caso, las pruebas necesarias para su correcta implementación.",
+  "Incluir en el SGS de ADIF mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance y, en su caso, las pruebas necesarias para su correcta implementación.",
+  "Desarrollar herramientas tecnológicas que permitan una mayor agilidad tanto en el registro como en la realización de las pruebas detalladas en la IT-205-002-001 “Realización de pruebas en Fábrica”, así como la mejora de dichos protocolos, que garantice un cumplimiento riguroso de los mismos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Wrong-side signaling failure",
+  "Occurrence description": "National ID 43/2023: Signalling failure (line 210, kilometre 572).\nFreight train #55115 (with dangerous goods) had an entry route set to track #1, at Les Borges del Camp station, where it was expected to stop. Entry signal was showing a yellow light (as expected), but (previous) advanced signal was showing a green light. This contradicted the operation rules for that station: the advanced signal should also show a yellow light, because distance for stopping is not enough. Had the train begin to brake at entry signal (as the lights ordered) it would have passed the station's exit signal (that was showing a red light). The train driver noticed this and triggered an emergency braking, avoiding the SPAD. Signals were checked and it was confirmed that advanced signal didn't comply with the operation rules. These station (and four others in the same line) had recently undergone a software updating, so it's suspected that this updating could have inadvertently changed the specific instructions for that signal, and this would had not been detected in the reviewing and implementation process.\n\nThe Spanish NIB decided to conduct a preliminary enquiry on what happened (07/06/2023). After the first findings, it was decided to open a full fledged investigation.",
+  "Location name": "Les Borges del Camp (Tarragona)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Mercancías",
+  "IM involved": "Adif",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causal factors: \n1. The software development was based on erroneous assumptions regarding the scope of the project. See Recommendations 43/2023-1 and 43/2023-4.\n2. There was no follow-up or verification of the initial assumptions, so they were taken as valid in later phases of the project. See Recommendations 43/2023-1",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors: \n1. The necessary test to detect the present error was not included in the technologist's testing campaign. See Recommendations 43/2023-2 and 43/2023-3.\n2. There was a lack of definition of the scope of the project scope and the specification of the necessary tests by both Alstom (technologist) and ADIF (infrastructure manager). See Recommendations 43/2023-3 and 43/2003-4."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": "Puesta en servicio",
+ "precursores": [
+  "Puesta en servicio de software defectuoso",
+  "Supuestos erróneos en desarrollo",
+  "Falta de verificación de supuestos",
+  "Pruebas de campaña de test insuficientes"
+ ],
+ "mitigaciones": [
+  "Accionamiento de freno de emergencia",
+  "Reconocimiento de secuencia de señales",
+  "Retirada de lámparas y fusibles",
+  "Actualización del software de enclavamiento"
+ ],
+ "factores_humanos": [
+  "Definición de alcance del proyecto",
+  "Falta de doble verificación de pruebas",
+  "Protocolos de prueba poco desarrollados",
+  "Supuestos no validados en fases posteriores"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

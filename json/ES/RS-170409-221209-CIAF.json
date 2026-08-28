@@ -1,0 +1,31 @@
+{
+ "id": "ES-RS-170409-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-170409-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0022/2009",
+ "titulo": "Accidente ferroviario en la estación de El Caleyo (Asturias)",
+ "fecha_suceso": "2009-04-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "El Caleyo",
+  "provincia": "Asturias",
+  "pk": null,
+  "linea": "130 Gijón Cercanías – Venta de Baños"
+ },
+ "entidades": [
+  "Renfe-Operadora"
+ ],
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprobó el informe definitivo sobre el accidente ocurrido el 17 de abril de 2009 en la estación de El Caleyo. Se modificó y concretó la recomendación del técnico investigador respecto a las medidas de seguridad. La resolución final se emitió el 22 de diciembre de 2009.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -43,5 +43,31 @@
   "IM involved": "ADIF",
   "Staff fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Autorización indebida ocupación gálibo",
+  "Máquina adopta posición transversal",
+  "Ruedas saltan carril entrevía",
+  "Descarga palets invade vía impar"
+ ],
+ "mitigaciones": [
+  "Evitar invasión gálibo impar",
+  "Régimen trabajos adecuado a medios",
+  "Campaña formativa personal",
+  "Eliminar prácticas viciosas"
+ ],
+ "factores_humanos": [
+  "Encargado autoriza ocupación indebida",
+  "Piloto estima ocupación teléfono",
+  "Prácticas viciosas trabajos vía",
+  "Velocidad mercancías superior permitida"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

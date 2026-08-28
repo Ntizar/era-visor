@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-170909-270410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-170909-270410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-812",
+ "expediente": "0054/2009",
+ "titulo": "Descarrilamiento del tren de mercancías 93614 en la entrada de la estación de Zumárraga (Guipúzcoa)",
+ "fecha_suceso": "2009-09-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Zumárraga",
+  "provincia": "Guipúzcoa",
+  "pk": "566+856",
+  "linea": "100 Madrid Chamartín - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 17 de septiembre de 2009, el tren de mercancías 93614 de Renfe Operadora descarriló en el PK 566+856 de la vía 2, entre las señales de avanzada y entrada de la estación de Zumárraga, Guipúzcoa. El tren circulaba a 28 km/h, por debajo de la velocidad máxima permitida, y tanto el material rodante como las instalaciones funcionaban correctamente. El descarrilamiento se produjo por exceso de peralte y variaciones del mismo fuera de tolerancia en la zona de la vía. Los vagones décimo, undécimo y duodécimo resultaron descarrilados.",
+ "causa_directa": "El accidente tuvo su origen en el exceso de peralte y las variaciones del mismo en la zona de la vía donde se produjo el descarrilamiento.",
+ "causas_sistemicas": "Problemas sistemáticos con los parámetros de la vía en la zona, que requerían reforzar los planes de mantenimiento para que la infraestructura cumpliera las tolerancias establecidas.",
+ "recomendaciones": [
+  "Reforzar los planes de mantenimiento en zonas de infraestructura con problemas sistemáticos de parámetros de vía, para que cumplan las tolerancias establecidas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Three wagons of freight train 93614 were derailed as the train was approaching to the station.",
+  "Location name": "Close to Zumárraga station (Guipuzcoa);kilometre point 566,856; 100 Madrid-Hendaya railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by an excess of cant"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No se corrigió peralte excesivo",
+  "No se detectó peralte excesivo",
+  "Última auscultación meses antes del accidente",
+  "Insuficiente mantenimiento de infraestructura"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Vagones correctamente cargados y estibados",
+  "Parámetros de rodadura correctos",
+  "Reforzar planes de mantenimiento de vía"
+ ],
+ "factores_humanos": [
+  "Inscripción errónea en vagones",
+  "Boletín erróneo entregado al maquinista",
+  "Mantenimiento insuficiente de infraestructura",
+  "No se detectó peralte excesivo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

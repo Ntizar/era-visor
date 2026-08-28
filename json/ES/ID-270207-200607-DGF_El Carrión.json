@@ -1,0 +1,72 @@
+{
+ "id": "ES-ID-270207-200607-DGF_El Carrión",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-270207-200607-DGF_El Carrión.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-212",
+ "expediente": "014/2007",
+ "titulo": "Arrollamiento de dos personas por tren en el apeadero de El Carrión (Palencia)",
+ "fecha_suceso": "2007-02-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de El Carrión",
+  "provincia": "Palencia",
+  "pk": "310,550",
+  "linea": "Línea 160 Santander-Palencia"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 27 de febrero de 2007, el tren de Larga Distancia nº61 de Renfe Operadora arrolló a dos personas al final del andén del apeadero de El Carrión, en la línea Santander-Palencia. Como consecuencia del suceso fallecieron un hombre de 77 años y una mujer de 75. El tren circulaba a 119 km/h, por debajo de la velocidad máxima del tramo, y se detuvo tras la frenada de emergencia. El informe concluye que el accidente se originó por la invasión del gálibo de la vía por las víctimas.",
+ "causa_directa": "La invasión del gálibo de la vía por las dos víctimas al paso del tren, calificada en el informe como imprudencia de las personas arrolladas.",
+ "causas_sistemicas": "El informe recoge como causa subyacente que el marido se tropezó al subir la rampa de acceso al andén y la esposa intentó sacarlo de la caja de la vía sin percatarse de la llegada del tren.",
+ "recomendaciones": [
+  "Fomentar campañas de sensibilización destinadas a la ciudadanía para concienciar del peligro de cruzar o transitar por las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person was hit by a long distance train 15997 when crossing a board crossing.",
+  "Location name": "Sant Vicenç de Calders station. Railway from Barcelona to Tarragona and Francia.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Paseo por andén del apeadero",
+  "Tropiezo al subir rampa",
+  "Carrera hacia caja de vía",
+  "Segunda persona siguió sin percatarse"
+ ],
+ "mitigaciones": [
+  "Frenada de emergencia tras impacto",
+  "Velocidad inferior a máxima",
+  "Buena visibilidad del tramo",
+  "Campañas de sensibilización ciudadana"
+ ],
+ "factores_humanos": [
+  "Imprudencia de las víctimas",
+  "Invadió gálibo sin percatarse",
+  "Falta de conciencia del peligro",
+  "Falta de paso peatonal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

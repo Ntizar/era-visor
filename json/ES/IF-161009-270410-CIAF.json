@@ -1,0 +1,65 @@
+{
+ "id": "ES-IF-161009-270410-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-161009-270410-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-814",
+ "expediente": "0056/2009",
+ "titulo": "Arrollamiento de una persona en el paso a nivel de Alfafar-Benetússer (Valencia)",
+ "fecha_suceso": "2009-10-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Alfafar-Benetússer",
+  "provincia": "Valencia",
+  "pk": "107+996",
+  "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 16 de octubre de 2009, el tren de cercanías 24228 de Renfe Operadora arrolló a una persona que cruzaba por la zona peatonal del paso a nivel clase C situado en el P.K. 107+996 de la línea 300 Madrid-Valencia, en la estación de Alfafar-Benetússer (Valencia). Las semibarreras estaban bajadas y la señalización alertaba de la llegada del tren. El maquinista usó el silbato y el freno de emergencia cuando circulaba a 65 km/h; la velocidad en el impacto se estimó en unos 51 km/h y el tren se detuvo tras unos 85 metros. La investigación concluyó que el accidente se originó por la actuación de la víctima y no estableció recomendaciones.",
+ "causa_directa": "La víctima cruzó por el paso a nivel cuando circulaba el tren 24228, con las semibarreras bajadas y la señalización alertando de la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "An old man crossed the level crossing while all of its protection devices were working properly.",
+  "Location name": "Alfafar-Benetusser station (Valencia); level crossing type C; kilometre point 107,996; 300 Madrid-Valencia railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "victima cruza con barreras bajadas",
+  "señalizacion activa alerta llegada tren"
+ ],
+ "mitigaciones": [
+  "maquinista usa freno emergencia",
+  "maquinista usa silbato aviso"
+ ],
+ "factores_humanos": [
+  "conducta imprudente victima",
+  "irrupcion peaton paso nivel"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-101108-310309-CIAF_ES-651",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-101108-310309-CIAF_ES-651.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-651",
+ "expediente": "0062/2008",
+ "titulo": "Rebase de señal de parada en la estación de El Entrego, Asturias, conato de colisión",
+ "fecha_suceso": "2008-11-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "El Entrego",
+  "provincia": "Asturias",
+  "pk": "40,996",
+  "linea": "61 Gijón-Laviana"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 10 de noviembre de 2008, el tren de cercanías 4918 de Feve rebasó una señal de parada en la estación de El Entrego, Asturias. El rebase se produjo tras la parada previa, cuando la señal S1/1 indicaba rojo por un cruce regular con el tren 5493. Se generó un conato de colisión, pero las instalaciones detectaron la situación y evitaron un riesgo grave. Tanto el material rodante como los sistemas de control de la infraestructura funcionaron correctamente.",
+ "causa_directa": "El maquinista del tren 4918 reinició la marcha sin atender a la señal de salida S1/1, que presentaba indicación de parada (rojo), incumpliendo el Reglamento de Circulación de Trenes y el Reglamento de Señales de Feve.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A passenger train failed to stop before leaving the station while another passenger train was in the same track section. Fortunately, the ASFA system worked and made the train to stop avoiding the likely collision.",
+  "Location name": "El Entrego station, kilometre point 41,094, 61 Gijón-Laviana railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 4918 driver overtook the station exit signal, which had the stop indication (red), and he didn´t stop the train as it is established in the General Operating Rules of Feve."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Reiniciar marcha sin atender señal",
+  "No respetar indicación parada rojo",
+  "Incumplimiento reglamento circulación trenes",
+  "Omisión control señal salida"
+ ],
+ "mitigaciones": [
+  "Instalaciones detectaron situación anómala",
+  "Impidieron conato de colisión",
+  "Tren 5493 detenido ante señal",
+  "ASFA operativo correctamente"
+ ],
+ "factores_humanos": [
+  "Error humano maquinista",
+  "No atención señal roja",
+  "Incumplimiento reglamento circulación",
+  "Actuación incorrecta salida tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

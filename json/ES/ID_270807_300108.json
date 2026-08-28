@@ -1,0 +1,75 @@
+{
+ "id": "ES-ID_270807_300108",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_270807_300108.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-359",
+ "expediente": "44/2007",
+ "titulo": "Arrollamiento mortal de una persona en Paso a Nivel Clase C, km 467,110 (Murcia)",
+ "fecha_suceso": "2007-08-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Murcia",
+  "pk": "467,110",
+  "linea": "320 Chinchilla a Cartagena"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El tren de Media Distancia 4512 arrolló a una persona que falleció al intentar cruzar la vía por el lado izquierdo del paso a nivel. El suceso ocurrió en el PK 467,110, donde las semibarreras y señales funcionaban correctamente. La investigación concluyó que fue una imprudencia de la víctima, quien ignoró la señalización activa.",
+ "causa_directa": "Imprudencia de la víctima al cruzar las vías haciendo caso omiso de la señalización activa del paso a nivel.",
+ "causas_sistemicas": "Posible confusión de la víctima al creer que ya había pasado todo el tráfico tras ver pasar un tren por una vía, sin percatarse de otro tren en la vía contraria.",
+ "recomendaciones": [
+  "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A medium distance passenger train knocked a person down who misused the level crossing.",
+  "Location name": "Railway line from Murcia to Cartagena (320 Chinchilla - Cartagena railway line), at kilometre point 467,110. Torreagüera flag stop (Murcia)at a level crossing type C.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Intentó cruzar la vía",
+  "Cruzar por la izquierda",
+  "Ignoró señalización del paso",
+  "No advirtió otro tren"
+ ],
+ "mitigaciones": [
+  "Uso continuo del silbato",
+  "Aplicación urgente del freno",
+  "Velocidad inferior a máxima",
+  "Semibarreras y señales activas"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "No respetó señalización peatonal",
+  "No advirtió tren contrario",
+  "Falta de atención peatonal"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

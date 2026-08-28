@@ -47,5 +47,31 @@
   "Total fatalities": 1,
   "Staff serious injuries": 1,
   "Total serious injuries": 1
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "No se concedió vía II",
+  "Se iniciaron trabajos en vía II",
+  "Se informó incorrectamente del retraso",
+  "No aviso de llegada del tren"
+ ],
+ "mitigaciones": [
+  "Evacuación inmediata de operarios",
+  "Corte de tensión en catenaria",
+  "Notificación a servicios de emergencia",
+  "No iniciar trabajos sin intervalo"
+ ],
+ "factores_humanos": [
+  "Incumplimiento del Reglamento",
+  "Error en información del retraso",
+  "Decisión de iniciar trabajos",
+  "Comunicación deficiente del CTC"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

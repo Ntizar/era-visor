@@ -1,0 +1,63 @@
+{
+ "id": "ES-ES-10227 - 221220-210503-IF_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10227 - 221220-210503-IF_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "38/2021",
+ "titulo": "Descarrilamiento de tren en Bifurcación Galicia, cerca de la estación de León",
+ "fecha_suceso": "2021-05-03",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "León",
+  "provincia": null,
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "ADIF-AV"
+ ],
+ "resumen": "El 3 de mayo de 2021 se produjo el descarrilamiento de un tren en la Bifurcación Galicia, en las inmediaciones de la estación de León. El suceso estuvo relacionado con trabajos sobre desvíos de ancho mixto, en los que se retiraron varillas y no se establecieron adecuadamente los requisitos de seguridad y fijación. Tras el descarrilamiento, se suspendió la circulación por la vía II hasta reparar y conectar definitivamente el desvío D2 al enclavamiento. La investigación atribuyó el evento a deficiencias en la evaluación de riesgos, formación, reglamentación y control de los trabajos.",
+ "causa_directa": "El descarrilamiento se produjo por la circulación del tren sobre un desvío de ancho mixto en condiciones no seguras, tras la retirada de varillas durante los trabajos y sin que se hubieran establecido y cumplido los requisitos de fijación/clampeo adecuados.",
+ "causas_sistemicas": "Falta de actualización de la reglamentación técnica sobre desvíos de ancho mixto; ausencia de mecanismos eficaces de control de riesgos adicionales durante los trabajos; deficiencias en la evaluación de riesgos, documentación, formación y experiencia del personal interno y externo de ADIF/ADIF-AV, y en la designación de responsables técnicos.",
+ "recomendaciones": [
+  "Establecer programas y acciones que garanticen la formación y experiencia del personal interno y externo de ADIF-AV y ADIF a cargo de la gestión y mantenimiento de elementos de infraestructura complejos o novedosos antes de su entrada en servicio, especialmente en desvíos de ancho mixto.",
+  "Establecer mecanismos internos adecuados para garantizar la aplicación del procedimiento ADIF-PE-101-003-010-SC-312 y evitar realizar trabajos no evaluados previamente en riesgos.",
+  "Estudiar la conveniencia de incluir una nueva tarea en el procedimiento ADIF-PE-101-003-010-SC-312 para detectar, documentar y recopilar nuevos peligros e incorporarlos al registro final de peligros, específico y general.",
+  "Establecer acreditaciones para garantizar que los responsables técnicos designados según ADIF-IT-301-001-007-SC-524 tengan conocimiento y experiencia reales en las áreas específicas de su responsabilidad.",
+  "Estudiar la incorporación de métodos que garanticen que los requisitos técnicos exigidos a contratistas en documentos legales y técnicos contractuales se apliquen también a los subcontratistas designados.",
+  "Garantizar la elaboración y actualización de la reglamentación técnica sobre desvíos, considerando los aspectos técnicos de los desvíos de ancho mixto en su montaje y mantenimiento, así como la correcta colocación de dispositivos de fijación autorizados por ADIF-AV y ADIF."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Montaje incorrecto de desvíos mixtos",
+  "Falta de verificación de elementos",
+  "Ausencia de evaluación de riesgos previa",
+  "Deficiencias en formación del personal"
+ ],
+ "mitigaciones": [
+  "Sujeción mecánica con abrazaderas",
+  "Bloqueo manual de agujas",
+  "Interceptación inmediata de la vía",
+  "Activación plan emergencias"
+ ],
+ "factores_humanos": [
+  "Supervisión deficiente montaje",
+  "Falta experiencia técnicos contratistas",
+  "Procedimientos riesgo no aplicados",
+  "Comunicación insuficiente entre entidades"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

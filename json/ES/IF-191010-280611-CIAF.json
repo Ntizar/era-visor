@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-191010-280611-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-191010-280611-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1043",
+ "expediente": "0056/2010",
+ "titulo": "Conato de colisión entre trenes de Feve entre Gijón y Sotiello (Asturias)",
+ "fecha_suceso": "2010-10-19",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Gijón",
+  "provincia": "Asturias",
+  "pk": "1+057",
+  "linea": "61 Gijón - Laviana"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 19 de octubre de 2010 se produjo un conato de colisión entre los trenes de cercanías 4519 y 5418 de Feve entre las estaciones de Gijón y Sotiello (Asturias). Una avería del bloqueo obligaba a autorizar el rebase de señales para la circulación de los trenes. El CTC autorizó la salida del tren 5418 desde Sotiello y, posteriormente, se autorizó al tren 4519 a rebasar la señal S2/P de Gijón hacia un cantón ocupado. Un inspector detectó la situación y ordenó la detención de ambos trenes, que quedaron enfrentados a 1.475 metros.",
+ "causa_directa": "El conato de colisión tuvo su origen al autorizar el personal responsable de la circulación el rebase de la señal S2/P al tren 4519 hacia un cantón ocupado por el tren 5418.",
+ "causas_sistemicas": "Avería del bloqueo que situó la circulación en modo degradado; incumplimiento del Reglamento de Circulación de Trenes y del Reglamento de Señales al no verificar la ocupación del cantón ni el cruzamiento previsto; deficiencias en los procedimientos de autorización por telefonema y en la trazabilidad de las comunicaciones.",
+ "recomendaciones": [
+  "Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal responsable de la circulación, principalmente en situaciones degradadas debidas a averías en los sistemas de seguridad que controlan la circulación de los trenes.",
+  "En los programas de formación y reciclaje del personal de circulación se deberán incluir prácticas de circulación en situaciones degradadas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other",
+  "Occurrence description": "Due to a failure of the automatic blocking system, the traffic manager at Gijón Centralized Traffic Control authorised the station master to allow train 4519 to overtook S2/P signal. This order was wrong, as another train had been already authorised to enter the same track section. As a result, this caused a near miss train collision, although train 4519 never overtook the signal.",
+  "Location name": "La Braña halt (Gijón), signal S2/P, kilometre point 1,057, 1061 Gijón-Laviana railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Avería del bloqueo entre estaciones",
+  "Autorización incompatible del CTC",
+  "No verificación del cruzamiento previsto",
+  "Autorización a cantón ocupado"
+ ],
+ "mitigaciones": [
+  "Alerta inmediata del inspector principal",
+  "Detención antes de rebasar señales",
+  "Comunicación con los maquinistas",
+  "Aplicación rigurosa del Reglamento"
+ ],
+ "factores_humanos": [
+  "Error de autorización incompatible",
+  "No verificación del cruzamiento",
+  "Incumplimiento del Reglamento de Circulación",
+  "Autorización sin verificar seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

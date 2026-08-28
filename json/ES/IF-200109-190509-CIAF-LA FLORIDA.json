@@ -1,0 +1,46 @@
+{
+ "id": "ES-IF-200109-190509-CIAF-LA FLORIDA",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-200109-190509-CIAF-LA FLORIDA.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-695",
+ "expediente": "0003/2009",
+ "titulo": "Incidente ferroviario por rebase de señal de salida en rojo en la estación de La Florida (Asturias)",
+ "fecha_suceso": "2009-01-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "La Florida",
+  "provincia": "Asturias",
+  "pk": "15,057",
+  "linea": "Línea 61 Gijón - Laviana"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El 20 de enero de 2009, el tren de cercanías 5412 de FEVE, con destino Gijón, rebasó la señal de salida S1/3 en indicación de parada a la salida de la estación de La Florida. El sistema ASFA detectó el rebase y activó el freno de emergencia, quedando el tren detenido tras talonar la aguja protegida. El hecho provocó un conato de colisión con el tren de mercancías TR901, que esperaba en la señal de avanzada. El operador del CTC gestionó las maniobras para resolver la situación.",
+ "causa_directa": "El maquinista del tren 5412 rebasó la señal de salida que presentaba indicación de parada (rojo), incumpliendo el Reglamento de Circulación de Trenes y el Reglamento de Señales de FEVE.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Revisar los programas de reciclaje del personal de conducción, con especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, crossing the tracks at open line, was knocked down by a commuter train. Despite the train driver used the whistle and the emergency brake, he couldn´t avoid the accident.",
+  "Location name": "Between Tordera and Blanes stations (Barcelona), kilometre point 64,810, 276 Maçanet Massanes-Barcelona Sagrera",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "In this place it was a LC which has already been removed"
+ }
+}

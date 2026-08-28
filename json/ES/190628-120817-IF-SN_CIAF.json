@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0038/2017",
- "titulo": "Incidente por fallo de enclavamiento y aguja 17 en la estación de Puebla de Sanabria (Zamora)",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0038/2017 OCURRIDO EL DÍA 12.08.2017 EN LA ESTACIÓN DE PUEBLA DE SANABRIA (ZAMORA)",
  "fecha_suceso": "2017-08-12",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -56,5 +56,9 @@
   "Falta verificación post reparación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-08-12",
+ "provincia": "Zamora",
+ "estacion": "Puebla de Sanabria",
+ "tipo": "incidente ferroviario"
 }

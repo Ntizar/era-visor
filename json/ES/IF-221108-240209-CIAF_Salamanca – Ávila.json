@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-221108-240209-CIAF_Salamanca – Ávila",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-221108-240209-CIAF_Salamanca – Ávila.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-609",
+ "expediente": "0063/2008",
+ "titulo": "Arrollamiento de un motorista por un tren de media distancia en la línea Salamanca-Ávila, PK 104,857",
+ "fecha_suceso": "2008-11-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Salamanca",
+  "pk": "104,857",
+  "linea": "122 Salamanca - Ávila"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 22 de noviembre de 2008, el tren de media distancia 18918 de Renfe Operadora arrolló a un motorista que circulaba por la caja de la vía en el PK 104,857 de la línea 122 Salamanca-Ávila, entre Salamanca y Babilafuente. El maquinista usó el silbato y accionó el freno de emergencia, pero no pudo evitar el atropello. La víctima, un hombre de 26 años, resultó herida grave y falleció poco después en el hospital.",
+ "causa_directa": "El tránsito de la víctima en motocicleta por la caja de la vía, sin estar autorizado para ello, por el lugar por donde pasaba el tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A group of youngsters were staying close to the tracks, when a train knocked one of them down. As a result, the youngster died. In the vicinity there is a park where the young people gather.",
+  "Location name": "Alcalá de Henares station (Madrid); kilometre point 32,800; 200 Madrid-Barcelona railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The fence separating the park and the tracks had been broken and been used as a faulty path"
+ }
+}

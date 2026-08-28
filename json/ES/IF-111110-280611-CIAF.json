@@ -1,0 +1,75 @@
+{
+ "id": "ES-IF-111110-280611-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-111110-280611-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1058",
+ "expediente": "0063/2010",
+ "titulo": "Descarrilamiento del tren de mercancías COX26 entre Algemesí y Benifaió (Valencia)",
+ "fecha_suceso": "2010-11-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Valencia",
+  "pk": "89+850",
+  "linea": "Línea 300 Madrid Chamartín - Valencia Estació del Nord, tramo Xátiva - Silla"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 11 de noviembre de 2010, a las 01:35 horas, el tren de mercancías COX26 de Renfe Operadora descarriló entre las estaciones de Algemesí y Benifaió, en el PK 89+850 de la línea 300 Madrid Chamartín - Valencia Estació del Nord. El descarrilamiento afectó al undécimo vagón, cuya rueda derecha del eje nº 28 perdió contacto con el carril tras la basculación del bastidor. La causa inmediata fue la pérdida de la caja de grasa izquierda del eje nº 27 por fallo mecánico del rodamiento. No hubo heridos, aunque posteriormente otro tren arrolló la caja de grasa caída y sufrió daños.",
+ "causa_directa": "Fallo técnico del material rodante: la pérdida de la caja de grasa izquierda del eje nº 27, causada por el fallo mecánico de algún elemento del rodamiento, provocó la basculación del bastidor y el descarrilamiento de la rueda derecha del eje nº 28.",
+ "causas_sistemicas": "El plan de mantenimiento solo preveía operaciones sobre cajas de grasa en intervenciones RS y R. Los detectores de ejes calientes funcionaban de forma independiente, sin seguimiento correlacionado en tiempo real. Tras conocer la pérdida de la caja de grasa no se advirtió al resto de circulaciones, y no se realizaron pruebas de alcoholemia y drogas.",
+ "recomendaciones": [
+  "Estudiar la introducción de automatismos en los detectores de ejes calientes para el control correlacionado en tiempo real de las temperaturas de riesgo.",
+  "Realizar un estudio de consistencia de las NTM y MMC de mantenimiento de cajas de grasa y rodamientos, y modificarlas si procede.",
+  "Realizar auditorías de verificación del cumplimiento de las NTM sobre revisión de cajas de grasa y rodamientos 800.302.01 y 800.302.00.",
+  "Estudiar modificaciones normativas sobre la gestión de alarmas de los detectores de ejes calientes.",
+  "Insistir en la necesidad de realizar pruebas de alcoholemia y drogadicción a todo el personal implicado."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train COX26, running between Algemesí and Benifaió stations, became partially derailed (axle nº 28, eleventh wagon).",
+  "Location name": "Between Algemesí and Benifaió stations (Valencia), kilometre point 89,850, 300 Madrid-Valencia railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failure of the rolling stock due to the loss of the grease box."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Fallo mecánico del rodamiento",
+  "Pérdida de caja de grasa",
+  "Alarma del detector de caldeo",
+  "No parada inmediata del tren"
+ ],
+ "mitigaciones": [
+  "Alarma en detector de caldeo",
+  "Parada en estación próxima",
+  "Aviso a otras circulaciones",
+  "Indicador de temperatura en cabina"
+ ],
+ "factores_humanos": [
+  "No detención inmediata del tren",
+  "No aviso a otras circulaciones",
+  "No pruebas de alcoholemia",
+  "Plan de mantenimiento insuficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

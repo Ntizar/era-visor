@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-050310-310111-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-050310-310111-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-897",
+ "expediente": "0014/2010",
+ "titulo": "Arrollamiento de un trabajador de vía por el tren 751 en la estación de Dueñas (Palencia)",
+ "fecha_suceso": "2010-03-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Dueñas",
+  "provincia": "Palencia",
+  "pk": "278+952",
+  "linea": "Línea 100 Madrid Chamartín – Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 5 de marzo de 2010, a las 01:37 horas, el tren de viajeros 751 de Renfe Operadora arrolló a un operario de una empresa subcontratista de Adif en la estación de Dueñas (Palencia). El trabajador realizaba tareas en la vía 2 e invadió el gálibo de la vía 1 por la que circulaba el tren, sin autorización del encargado de los trabajos. El maquinista aplicó el freno de urgencia, pero el tren pasó a 106 km/h y no pudo evitar el impacto.",
+ "causa_directa": "El operario invadió el gálibo de la vía 1 en el momento del paso del tren 751, sin autorización del agente autorizado de Adif.",
+ "causas_sistemicas": "Se detectan factores organizativos y de control: incumplimiento de la cadena de mando, ausencia de cartelones de aviso y necesidad de reforzar la formación y las inspecciones sobre los trabajos en vía. También se observa una baliza de limitación temporal mal ubicada, aunque sin relación directa con el accidente.",
+ "recomendaciones": [
+  "Insistir en acciones formativas para empleados de empresas de trabajos en vía sobre cadena de mando y cumplimiento exacto de órdenes con circulaciones simultáneas.",
+  "Realizar inspecciones dirigidas a neutralizar incumplimientos de las normas para la realización de trabajos."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A track worker, working at switch nº 6, is knocked down by a long distance train. As a result, he died.",
+  "Location name": "Dueñas station (Palencia), kilometre point 278,952, switch nº6, 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim invaded the rail gauge meanwhile the train was coming without work supervisor´s authoritation"
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "operario entra vía sin autorización",
+  "encargado no autorizó entrada",
+  "faltaban carteles silbar obreros",
+  "trabajos simultáneos con circulación"
+ ],
+ "mitigaciones": [
+  "frenado de urgencia ASFA digital",
+  "maquinista activa freno emergencia",
+  "corte circulación vía 2 autorizado",
+  "cartelones silbar obreros habrían avisado"
+ ],
+ "factores_humanos": [
+  "incumplimiento cadena de mando",
+  "falta autorización del encargado",
+  "operario invade gálibo",
+  "incumplimiento normas seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

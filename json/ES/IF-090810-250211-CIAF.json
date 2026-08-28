@@ -1,0 +1,69 @@
+{
+ "id": "ES-IF-090810-250211-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-090810-250211-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1037",
+ "expediente": "0044/2010",
+ "titulo": "Arrollamiento de un vehículo agrícola en un paso a nivel en Cabezón de la Sal (Cantabria)",
+ "fecha_suceso": "2010-08-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Cantabria",
+  "pk": "489+795",
+  "linea": "1021 Oviedo - Santander"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 9 de agosto de 2010, el tren de viajeros 6502 de Feve arrolló a una motosegadora agrícola en el paso a nivel clase A nº 68, situado en el P.K. 489+795 de la línea Oviedo-Santander, entre Casar de Periedo y Virgen de la Peña, en Cabezón de la Sal (Cantabria). El vehículo invadió el gálibo al cruzar mientras pasaba el tren, pese al uso de la bocina y del freno de emergencia por parte del maquinista. Como consecuencia del impacto falleció el único ocupante del vehículo agrícola. La vía quedó interceptada hasta las 17:35 horas y varios trenes sufrieron retrasos.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo agrícola, que cruzó el paso a nivel cuando pasaba el tren 6502.",
+ "causas_sistemicas": "La señalización del camino era incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; el pavimento del cruce estaba en mal estado, sin contracarriles y con carriles descarnados; y en dos cuadrantes la distancia de visibilidad real era inferior a la técnica, sin que ello obligara a una protección clase B al ser el momento de circulación inferior a 100.",
+ "recomendaciones": [
+  "Adaptar la señalización del camino del paso a nivel conforme a la Orden Ministerial de 2 de agosto de 2001."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A motor mower was hit by a passenger train when failed to stop at the stop signal. As a result the driver died.",
+  "Location name": "Level crossing, type A, kilometre point 489,795, at Cabezón de la Sal (Cantabria), 1021 Oviedo-Santander railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim invaded the rail gauge meanwhile the train was coming"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "invasión del gálibo por vehículo agrícola",
+  "señalización del camino incompleta",
+  "visibilidad inferior a la técnica",
+  "pavimento y carriles en mal estado"
+ ],
+ "mitigaciones": [
+  "uso del freno de emergencia",
+  "uso del silbato por el maquinista",
+  "velocidad inferior a la máxima permitida"
+ ],
+ "factores_humanos": [
+  "no percatarse de la llegada del tren",
+  "conductor no respetó prioridad ferroviaria"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

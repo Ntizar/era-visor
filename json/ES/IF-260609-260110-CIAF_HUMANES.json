@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF-260609-260110-CIAF_HUMANES",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-260609-260110-CIAF_HUMANES.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-774",
+ "expediente": "0032/2009",
+ "titulo": "Conato de colisión entre trenes HU171 y LU110 en la estación de Humanes (Madrid)",
+ "fecha_suceso": "2009-06-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Humanes",
+  "provincia": "Madrid",
+  "pk": "PK 22+800, vía 1",
+  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara; tramo Humanes-Fuenlabrada"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de junio de 2009, a las 10:29 horas, se produjo un conato de colisión entre los trenes de cercanías HU171 y LU110 en la estación de Humanes (Madrid). La jefa de circulación autorizó la salida del HU171 con el itinerario mal dispuesto y, al intentar dar entrada al LU110, estableció un itinerario incompatible. El maquinista del HU171 observó la aguja mal orientada y detuvo el tren, evitando el choque.",
+ "causa_directa": "Fallo humano por error de la jefa de circulación en el establecimiento del itinerario de salida del tren HU171.",
+ "causas_sistemicas": "Necesidad de formación de los responsables de circulación en condiciones no habituales; la jefa de circulación llevaba solo 12 días destinada en la estación; en el tramo se aplicaba bloqueo telefónico supletorio por avería del contador de ejes.",
+ "recomendaciones": [
+  "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Train HU171 almost collided with train LU110 which was stopped at the station signal (red aspect). Train HU171 ,which was stopped at Humanes station´s track 1, when trying to restart its march, is allowed, by the train dispatcher, to overrun the exit signal which was red. Therefore, the train dispatcher sets the route for this train and moves the switch nº4 to the appropriate position. Meanwhile, the train dispatcher sets the route for train LU110, which was arriving at Humanes station (also track one), moving the switch nº4 again. Before the train HU171 arrives at switch nº4, the driver realises it´s not in the right position, makes the train to stop and warns the train dispatcher of this situation.",
+  "Location name": "Humanes station (Madrid), kilometre point 22,800 at 500 Madrid-Valencia de Alcántara railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train dispatcher failed to set the right route for the train HU171."
+ }
+}

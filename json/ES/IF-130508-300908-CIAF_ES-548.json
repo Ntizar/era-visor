@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-130508-300908-CIAF_ES-548",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-130508-300908-CIAF_ES-548.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-548",
+ "expediente": "0015/2008",
+ "titulo": "Arrollamiento de una persona por tren en el paso entarimado del apeadero de Hernani Centro (Guipúzcoa)",
+ "fecha_suceso": "2008-05-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Hernani Centro",
+  "provincia": "Guipúzcoa",
+  "pk": "615,049",
+  "linea": "100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 13 de mayo de 2008, el tren de larga distancia 401 de Renfe Operadora arrolló a una mujer de 27 años en el paso entarimado del apeadero de Hernani Centro, en Guipúzcoa. La víctima cruzó desde el andén de la vía II a la vía I sin percatarse de la aproximación del tren. El accidente causó la muerte de la persona y una interrupción de la circulación, aunque no se produjeron daños materiales. La investigación concluyó que el origen fue el cruce imprudente de la víctima, con el uso de auriculares como circunstancia coadyuvante.",
+ "causa_directa": "El accidente tuvo su origen en el cruce de la víctima por el paso entarimado sin percatarse de que el tren 401 se aproximaba por la vía I.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A young woman, who had got off another train, crossed the tracks through a board crossing without realising another train was approaching other side.",
+  "Location name": "Hernani flag stop (Guipúzcoa), kilometre point at 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce imprudente por paso entarimado",
+  "Uso de auriculares impidiendo percepción",
+  "No mirar antes de cruzar la vía"
+ ],
+ "mitigaciones": [
+  "Señalización de aviso en ambos lados",
+  "Uso del silbato por el maquinista",
+  "Accionamiento de freno de urgencia"
+ ],
+ "factores_humanos": [
+  "Falta de atención de la víctima",
+  "Comportamiento inseguro del peatón"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

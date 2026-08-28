@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-031210-270411-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-031210-270411-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1079",
+ "expediente": "0064/2010",
+ "titulo": "Arrollamiento de furgoneta por tren de mercancías en paso a nivel entre Espeja y Fuentes de Oñoro (Salamanca)",
+ "fecha_suceso": "2010-12-03",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Salamanca",
+  "pk": "122+116",
+  "linea": "120 Vilar Formoso - Medina del Campo"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 3 de diciembre de 2010, el tren de mercancías 58727 de Renfe Operadora arrolló a una furgoneta con remolque que invadió un paso a nivel clase A en el P.K. 122+116 de la línea 120, entre Espeja y Fuentes de Oñoro (Salamanca). El maquinista observó el vehículo parado en la vía, silbó y frenó en emergencia, pero no pudo evitar el impacto. El único ocupante del vehículo falleció. La investigación atribuyó el origen del accidente a la invasión del gálibo por parte del vehículo de carretera.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando pasaba el tren 58727.",
+ "causas_sistemicas": "Deficiencias en la señalización del camino del paso a nivel respecto a la Orden Ministerial de 2 de agosto de 2001, presencia de nieve y posible hielo en el firme, y distancias de visibilidad real inferiores a la técnica necesaria para 140 km/h, aunque la protección clase A se consideró correcta según la normativa aplicable.",
+ "recomendaciones": [
+  "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "Freight train 58727 hit a van that crossed the level crossing as the train was coming. As a result, the van´s driver died.",
+  "Location name": "Level crossing, type A, kilometre point 122,116, between Espeja and Fuentes de Oñoro stations (Salamanca), 120 Vilar Formoso - Medina del Campo railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "invasión del gálibo por vehículo",
+  "señalización del camino incompleta",
+  "nieve y posible hielo en firme",
+  "visibilidad real insuficiente en paso"
+ ],
+ "mitigaciones": [
+  "uso prolongado del silbato",
+  "aplicación del freno de emergencia",
+  "comunicación inmediata al puesto de mando",
+  "adaptar señalización del camino"
+ ],
+ "factores_humanos": [
+  "conductor invadió paso a nivel",
+  "señalización municipal del camino incompleta",
+  "visibilidad insuficiente no corregida",
+  "maquinista aplicó medidas de urgencia"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

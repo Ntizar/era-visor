@@ -1,0 +1,73 @@
+{
+ "id": "ES-ID-281106-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-281106-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-36",
+ "expediente": "0052/2006",
+ "titulo": "Arrollamiento mortal de una persona por tren de Cercanías entre San Cristóbal de los Ángeles y San Cristóbal Industrial",
+ "fecha_suceso": "2006-11-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "San Cristóbal Industrial",
+  "provincia": "Madrid",
+  "pk": "9,800",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "Un tren de Cercanías de Renfe arrolló mortalmente a una persona en plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, en Madrid. El maquinista aplicó el freno de emergencia y el silbato, pero no pudo evitar el atropello. La víctima cruzó por un lugar no autorizado y prohibido, pese a existir una pasarela peatonal próxima. No hubo daños materiales, aunque se produjeron perturbaciones y retrasos en varios trenes.",
+ "causa_directa": "El accidente tuvo su origen en la imprudencia de la víctima, que transitaba por la vía e intentó cruzarla por un lugar no autorizado y prohibido para personas y carruajes.",
+ "causas_sistemicas": "Reiterado tránsito irregular de personas hacia un poblado chabolista, cerramientos rotos o provisionales, falta de vigilancia en el apeadero y uso de un paso no autorizado pese a existir una pasarela próxima.",
+ "recomendaciones": [
+  "Reparar de forma permanente el cerramiento y reforzar las medidas barrera, incluyendo un vallado de mayor consistencia.",
+  "Reforzar la vigilancia en San Cristóbal Industrial y especialmente en el apeadero de San Cristóbal de los Ángeles.",
+  "Realizar un seguimiento exhaustivo del estado de la valla y reparar los tramos deteriorados con la mayor brevedad.",
+  "Estudiar alternativas de paso seguro, como la ejecución de un paso inferior o un transporte lanzadera gratuito.",
+  "Coordinar con el Ayuntamiento de Madrid medidas de transporte o actuación para impedir que personas deambulen por las vías."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being knocked down by a rolling stock in motion while crossing the tracks.",
+  "Location name": "Railway line from Madrid to Valencia at the kilometre point 9,800.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Roturas en cerramiento de vía",
+  "Tránsito irregular de personas",
+  "Ausencia de vigilancia en apeadero"
+ ],
+ "mitigaciones": [
+  "Aplicación inmediata freno emergencia",
+  "Uso silbato tren para aviso",
+  "Velocidad inferior a máxima permitida"
+ ],
+ "factores_humanos": [
+  "Imprudencia víctima al cruzar vías",
+  "Falta de uso paso elevado existente",
+  "Comportamiento social entorno chabolista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

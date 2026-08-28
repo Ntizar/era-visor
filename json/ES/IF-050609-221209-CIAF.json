@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-050609-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-050609-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-768",
+ "expediente": "0025/2009",
+ "titulo": "Arrollamiento de vehículo en paso a nivel con barreras bajadas en estación de Maçanet-Massanes (Gerona)",
+ "fecha_suceso": "2009-06-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Maçanet-Massanes",
+  "provincia": "Gerona",
+  "pk": "176+126",
+  "linea": "270 Barcelona San Andrés Condal a Cerbere"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de mercancías 93559 arrolló a un automóvil que cruzaba el paso a nivel tipo C de la estación de Maçanet-Massanes. Las barreras del paso a nivel estaban bajadas y las señales acústicas y luminosas activas, pero el conductor del vehículo ignoró las advertencias y sorteó las barreras. El maquinista aplicó el freno de emergencia sin poder evitar el impacto, resultando fallecido el único ocupante del coche.",
+ "causa_directa": "El accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a nivel, sorteando las barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "Freight train 93559 hit a road vehicle which was crossing the level crossing when the barriers were lowered and the flashing lights and warning bell were working. As a result the car driver died.",
+  "Location name": "Maçanet-Massanes station (Gerona), at level crossing type C, kilometre point 176,126; 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Paso previo del tren regional",
+  "Barreras no abren entre trenes",
+  "Cruce indebido con barreras bajadas",
+  "Ignorar señales acústicas y luminosas"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Freno de emergencia aplicado",
+  "Velocidad inferior a la permitida",
+  "Construcción de paso superior"
+ ],
+ "factores_humanos": [
+  "Cruce imprudente de la víctima",
+  "Confusión por tren regional",
+  "Actuación correcta del maquinista",
+  "Prueba de alcoholemia negativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

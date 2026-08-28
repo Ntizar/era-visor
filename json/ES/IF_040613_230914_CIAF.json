@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_040613_230914_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_040613_230914_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2410",
+ "expediente": "0043/2013",
+ "titulo": "Bloqueo erróneo de vía y cierre intempestivo de señal entre Sant Sadurní d'Anoia y Martorell",
+ "fecha_suceso": "2013-06-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": null,
+  "pk": "PK 64+073",
+  "linea": "Tramo Sant Sadurní d'Anoia–Martorell"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 4 de junio de 2013, el tren de mercancías LK500 de Renfe Operadora circulaba por la vía II entre Sant Sadurní d'Anoia y Martorell. El jefe del CTC bloqueó por error la vía I en lugar de la vía II para unos trabajos programados, por lo que el tren fue encaminado hacia el tajo. Al colocar la barra de shuntado en la vía II, la señal intermedia 642 pasó de verde a rojo y el ASFA activó el freno de urgencia. El tren se detuvo en el PK 64+600 sin víctimas ni daños materiales.",
+ "causa_directa": "Fallo humano del jefe del CTC al establecer incorrectamente el bloqueo, bloqueando la vía I en lugar de la vía II, lo que permitió la circulación del tren LK500 por una vía con trabajos.",
+ "causas_sistemicas": "La Consigna C Experimental nº 58 no establecía el uso obligatorio de útiles de cortocircuitado en estos trabajos, y el bloqueo dependía de la intervención humana del jefe del CTC.",
+ "recomendaciones": [
+  "Incluir dentro de la normativa de aplicación, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado en líneas con circuitos de vía eléctricos y señales en líneas sin circuitos de vía eléctricos."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Other event",
+  "Occurrence description": "Wrongly dispatch of train by traffic manager.",
+  "Location name": "Between Sant Sadurní d'Anoia and Martorell stations (Barcelona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused by traffic master´s human failure when wrongly established a route blocking for the section between Sant Sadurní d'Anoia y Martorell, blocking track I instead of track II."
+ }
+}

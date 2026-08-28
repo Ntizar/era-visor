@@ -1,0 +1,65 @@
+{
+ "id": "ES-IF-140610-310111-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-140610-310111-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-936",
+ "expediente": "0028/2010",
+ "titulo": "Descarrilamiento del tren de mercancías FR 901 de Feve entre Cerdido y Ortigueira (A Coruña)",
+ "fecha_suceso": "2010-06-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Ponte Mera - Santa María de Mera",
+  "provincia": "A Coruña",
+  "pk": "43+559",
+  "linea": "Línea 11 Ferrol - Gijón"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "El 14 de junio de 2010, a las 08:32 horas, el tren de mercancías FR 901 de Feve descarriló en una curva a la derecha en el P.K. 43+559 de la línea 11 Ferrol-Gijón, entre Ponte Mera y Santa María de Mera, en el trayecto entre Cerdido y Ortigueira (A Coruña). Descarrilaron seis plataformas, desde la quinta a la décima, y el tren quedó fraccionado en dos partes. El accidente se produjo al circular el tren a 77 km/h, cuando la velocidad máxima del tramo era de 60 km/h. Como factor subyacente, el informe destaca el incorrecto establecimiento de la velocidad del tramo en la zona del accidente.",
+ "causa_directa": "El tren FR 901 circulaba con exceso de velocidad, a 77 km/h, cuando la velocidad máxima del tramo era de 60 km/h.",
+ "causas_sistemicas": "El incorrecto establecimiento de la velocidad del tramo en la zona del accidente, con una curva cuyo radio y peralte producían una insuficiencia de peralte fuera de norma incluso a la velocidad máxima autorizada.",
+ "recomendaciones": [
+  "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad para comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Six wagons of freight train FR901, which were loaded with wood, derailed at kilometre point 43,559.",
+  "Location name": "Kilometre point 43,559, between Ortigueira and Cerdido stations (A Coruña), at 11 Ferrol-Gijón railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by an excess of speed.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "It´s highlighted the wrong speed that is set in the line section."
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "circular con exceso de velocidad",
+  "incorrecta velocidad máxima del tramo"
+ ],
+ "mitigaciones": [
+  "activación frenado de urgencia",
+  "funcionamiento correcto arenado"
+ ],
+ "factores_humanos": [
+  "no se realiza prueba alcoholemia",
+  "maquinista no relevado tras accidente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

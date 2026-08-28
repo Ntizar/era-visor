@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_280413_200514_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_280413_200514_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2252",
+ "expediente": "0035/2013",
+ "titulo": "Colisión por alcance del tren 7601 entre los apeaderos de Otero y La Mata de la Riba (León)",
+ "fecha_suceso": "2013-04-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "León",
+  "pk": "26+700",
+  "linea": "790 La Asunción Universidad (León) - Aranguren"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 28 de abril de 2013, el tren 7601 de Renfe Operadora sufrió varias paradas de urgencia entre los apeaderos de Otero y La Mata de la Riba (León) por fallos del automotor 2901. El maquinista desacopló el automotor para remolcarlo con freno, pero no realizó correctamente la secuencia y el 2901 quedó en deriva por una fuerte pendiente. El automotor 2905 se detuvo por una frenada de emergencia y fue alcanzado por el 2901, produciéndose una colisión. Hubo siete heridos leves.",
+ "causa_directa": "El accidente se produce por el fallo humano del maquinista que no realizó correctamente la secuencia de operaciones para remolcar con freno el automotor 2901, conforme al Manual Básico de Maquinista.",
+ "causas_sistemicas": "La no realización de la prueba de freno parcial, la falta de observación del tren durante la marcha, los fallos eléctricos del automotor 2901 y la fuerte pendiente de la zona.",
+ "recomendaciones": [
+  "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision",
+  "Occurrence description": "A coach of a commuter train, after it had released itself from the composition, collided with the rear of the leading coach. Non personal damages.",
+  "Location name": "Between Otero and La Mata de la Riba halts (León)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Commuter train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "00:00:00",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by the train driver´s failure as he failed to properly tow the railcar according to the Operation Manual for train drivers._x000D_\nAs contributory causes:_x000D_\nhe failed to observe articles 4.04.05 and 9.03.00 of Annex IX of Traffic Regulations Manual (not test brake / not watch out for train to run complete)"
+ }
+}

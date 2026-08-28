@@ -45,5 +45,25 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Conductor sortea semibarrera bajada",
+  "Vehículo invade vía por sentido contrario"
+ ],
+ "mitigaciones": [
+  "Maquinista usa silbato y freno",
+  "Semibarreras automáticas activadas correctamente"
+ ],
+ "factores_humanos": [
+  "Imprudencia del conductor del vehículo",
+  "No percatarse de proximidad del tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

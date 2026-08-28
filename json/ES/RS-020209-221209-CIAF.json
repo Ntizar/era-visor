@@ -1,0 +1,34 @@
+{
+ "id": "ES-RS-020209-221209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-020209-221209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0010/2009",
+ "titulo": "Accidente ferroviario entre Zegama Otzaurte y Brinkola en la línea Madrid-Hendaya",
+ "fecha_suceso": "2009-02-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "DGIF"
+ ],
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprueba el informe definitivo del accidente ocurrido el 2 de febrero de 2009. El suceso tuvo lugar entre las localidades de Zegama Otzaurte y Brinkola, en la línea Madrid-Hendaya. La resolución modifica una recomendación técnica para hacerla más concreta antes de su aprobación final.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+  "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+  "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

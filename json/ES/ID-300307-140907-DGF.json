@@ -1,0 +1,77 @@
+{
+ "id": "ES-ID-300307-140907-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-300307-140907-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-230",
+ "expediente": "0016/2007",
+ "titulo": "Accidente ferroviario 0016/2007: arrollamiento de un coche en paso a nivel entre El Rebollar y Utiel (Valencia)",
+ "fecha_suceso": "2007-03-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Valencia",
+  "pk": "4/465",
+  "linea": "Línea 310 Aranjuez - Valencia"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El tren de Media Distancia 4161 de Renfe, entre Cuenca y Valencia, arrolló un automóvil en el paso a nivel del PK 4/465, entre El Rebollar y Utiel (Valencia). El accidente causó una persona fallecida y dos heridas graves. El paso a nivel estaba correctamente señalizado, la visibilidad era buena y el tren circulaba por debajo de la velocidad máxima. El maquinista frenó y usó el silbato, pero el vehículo irrumpió en el cruce.",
+ "causa_directa": "La causa directa fue la imprudencia de la conductora del automóvil, que no respetó la señal de Stop del paso a nivel e intentó cruzarlo sin percatarse de la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Impulsar campañas de sensibilización y concienciación para el respeto a normas y señales y el correcto uso de zonas de paso.",
+  "Estudiar la supresión del paso a nivel y, si no es viable, mejorar su protección con señales luminosas y acústicas."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 2,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car, with three passengers, is hit by a train when crossing the level crossing type A. One person died and the rest were injured.",
+  "Location name": "At kilometre point 4,465, level crossing type A. Railway from Valencia to Cuenca.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "LC User serious injuries": 2,
+  "Total serious injuries": 2
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No respetar señal de Stop",
+  "Intentar cruzar sin apercibirse",
+  "Vehículo irrumpe en paso a nivel",
+  "No observa llegada del tren"
+ ],
+ "mitigaciones": [
+  "Uso del silbato como aviso",
+  "Frenado de emergencia inmediato",
+  "Visibilidad muy buena en tramo",
+  "Instalar señales luminosas y acústicas"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la conductora",
+  "No respetar señal de Stop",
+  "No apercibirse de la llegada tren",
+  "Falta de atención al cruzar"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

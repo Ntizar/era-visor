@@ -1,0 +1,70 @@
+{
+ "id": "ES-IF-081009-230210-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-081009-230210-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-813",
+ "expediente": "0055/2009",
+ "titulo": "Arrollamiento de una persona por tren de mercancías en paso a nivel clase C entre Monforte de Lemos y Canabal (Lugo)",
+ "fecha_suceso": "2009-10-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Lugo",
+  "pk": "0+851",
+  "linea": "810 Vigo-Monforte de Lemos"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 8 de octubre de 2009, el tren de mercancías 50284 de Renfe Operadora arrolló a una persona en el paso a nivel clase C del P.K. 0+851 de la línea Vigo-Monforte de Lemos, entre Canabal y Monforte de Lemos (Lugo). La víctima cruzó por uno de los pasos peatonales cuando las semibarreras estaban bajadas y las señales luminosas y acústicas alertaban de la llegada del tren. El maquinista usó el silbato y el freno de emergencia circulando a 40 km/h, y tanto el tren como las instalaciones funcionaban correctamente.",
+ "causa_directa": "La víctima cruzó por el paso a nivel peatonal estando las semibarreras bajadas y activadas las señales luminosas y acústicas que indicaban la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "An old man crossed the level crossing while all of its protection devices were working properly and warning of the coming train.",
+  "Location name": "Monforte de Lemos station (Lugo), level crossing, type C (barriers and light and acoustic signage), kilometre point 000,851, 810 Vigo-Monforte de Lemos railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce imprudente de la víctima",
+  "Señales luminosas y acústicas activas",
+  "Semibarreras bajadas en el paso",
+  "Tren ocupa circuito isla"
+ ],
+ "mitigaciones": [
+  "Uso de silbato por maquinista",
+  "Freno de urgencia aplicado",
+  "Velocidad inferior a máxima",
+  "Paso a nivel cerrado correctamente"
+ ],
+ "factores_humanos": [
+  "Conducta imprudente de la víctima",
+  "No acatamiento de las semibarreras",
+  "No acatamiento de las señales",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

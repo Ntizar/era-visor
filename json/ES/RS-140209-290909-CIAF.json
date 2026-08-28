@@ -1,0 +1,33 @@
+{
+ "id": "ES-RS-140209-290909-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/RS-140209-290909-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0009/2009",
+ "titulo": "Incidente ferroviario en la estación de Lieres (línea Oviedo-Santander) por comunicaciones y conducción",
+ "fecha_suceso": "2009-02-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Lieres",
+  "provincia": null,
+  "pk": null,
+  "linea": "Línea 21 Oviedo-Santander"
+ },
+ "entidades": [
+  "Feve"
+ ],
+ "resumen": "La CIAF aprueba como definitivo el informe del incidente ferroviario nº 0009/2009, ocurrido el 14 de febrero de 2009 en la estación de Lieres, línea Oviedo-Santander. En el pleno se modifican la segunda y tercera recomendaciones del informe particular del técnico investigador. Las recomendaciones finales se dirigen a Feve y se centran en las comunicaciones entre maquinistas y CTC, el registro de comunicaciones y el cumplimiento de normas y atención en conducción en circunstancias de anormalidad.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Comprobación del buen funcionamiento de los sistemas de comunicación entre los maquinistas y el CTC que garantice la perfecta comunicación entre ambos y asegure el perfecto entendimiento entre los interlocutores.",
+  "Realizar una auditoría para evaluar el grado de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos).",
+  "Insistir en el cumplimiento riguroso de las normas en las comunicaciones de explotación, así como en el mantenimiento de la atención debida en la conducción, especialmente cuando se circula en circunstancias de anormalidad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

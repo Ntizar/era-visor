@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-121011-260612-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-121011-260612-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1282",
+ "expediente": "0047/2011",
+ "titulo": "Descarrilamiento del tren 15837 de ancho convencional en el desvío nº5 de la estación de Vilamalla (Girona)",
+ "fecha_suceso": "2011-10-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Vilamalla",
+  "provincia": "Girona",
+  "pk": "241+083",
+  "linea": "270 Bifurcación Sagrera a Cerbere"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 12 de octubre de 2011, a las 17:40, el tren de viajeros 15837 de ancho convencional descarriló en el cambio nº5 de la estación de Vilamalla, en la línea 270 Bifurcación Sagrera a Cerbere. El tren quedó detenido ante la señal E1 porque el cambio nº5 no daba comprobación en posición normal para ancho convencional. El jefe de circulación autorizó el rebase de la señal y el paso por vía desviada sin percatarse de que el escape 5/7 era solo de ancho UIC, incompatible con el tren. Descarrilaron los dos primeros ejes del primer bogie y una rueda del segundo bogie, resultando herido leve un viajero.",
+ "causa_directa": "El accidente tuvo su origen cuando un fallo técnico de las instalaciones no fue debidamente gestionado por el personal afectado: el jefe de circulación autorizó un rebase sobre un itinerario inexistente y el personal de conducción transitó por un tramo de vía con interrupción total para el material rodante que conducía.",
+ "causas_sistemicas": "Deficiencias en la formación y conocimiento de las instalaciones por parte del jefe de circulación y del maquinista en enclavamientos con diferentes anchos; aplicación insuficiente de los procedimientos para rebases de señal con comprobación de aparatos de vía; normativa y formación no suficientemente adaptadas a la gestión de averías en instalaciones con tercer carril y ancho mixto.",
+ "recomendaciones": [
+  "DGF 47/11-1: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías.",
+  "DGF 47/11-2: Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción y reciclajes en lo referente a los conocimientos técnicos sobre aparatos de vía y especialmente de los desvíos, cuando coinciden en un enclavamiento diferentes anchos.",
+  "Adif 47/11-3: Evaluar la conveniencia de intensificar la formación de los jefes de circulación que gestionan líneas dotadas de tercer carril, en lo relativo al conocimiento de las instalaciones que tienen a su cargo y en el cumplimiento del Aviso nº 43 de la Dirección de Seguridad en la Circulación de Adif."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Passenger train partially derailed at point nº5. \nEl día 12 de octubre de 2011, a las 17:40 horas, en la estación de Vilamalla, de la línea 270 Bifurcación Sagrera a Cerbere, se produce el descarrilamiento del tren 15837 de viajeros de media distancia, de ancho convencional, perteneciente a la empresa ferroviaria Renfe Operadora. Descarrilan los dos primeros ejes del primer bogie y una rueda del segundo bogie. El descarrilamiento se produce en el cambio nº5 que se encontraba en posición inadecuada para ancho convencional.",
+  "Location name": "Vilamalla station (Gerona)",
+  "Railway System type": "Railway",
+  "Line type": "Double track",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when a technical failure of the fixed plant was not duly managed by the involved staff; first of all by the traffic manager and later by the train driver. \nEl accidente tuvo su origen cuando un fallo técnico de las instalaciones no fue debidamente gestionado por el personal afectado; en primer lugar por el jefe de circulación, al autorizar un rebase sobre un itinerario inexistente, y en segundo lugar por el personal de conducción, al transitar por un tramo de vía por el que existía interrupción total para el material rodante que él conducía.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": " \n"
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "fallo técnico cambio nº5",
+  "autorización rebase itinerario inexistente",
+  "desconocimiento ancho desvío UIC",
+  "telefonema sin especificar posición"
+ ],
+ "mitigaciones": [
+  "velocidad inferior a máxima permitida",
+  "detención inmediata tras descarrilamiento"
+ ],
+ "factores_humanos": [
+  "incumplimiento Aviso nº43 DSC",
+  "falta conocimiento instalaciones JC",
+  "maquinista desconoce detalle desvío",
+  "gestión inadecuada fallo técnico"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

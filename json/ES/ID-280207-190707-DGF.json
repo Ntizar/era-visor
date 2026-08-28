@@ -1,0 +1,71 @@
+{
+ "id": "ES-ID-280207-190707-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-280207-190707-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-213",
+ "expediente": "0020/2007",
+ "titulo": "Arrollamiento de una persona por un tren de mercancías en la estación de Torredembarra, Tarragona",
+ "fecha_suceso": "2007-02-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Torredembarra",
+  "provincia": "Tarragona",
+  "pk": "13,550",
+  "linea": "Línea 600 Valencia Norte - San Vicente de Calders"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 28 de febrero de 2007, a las 05:12 horas, una persona fue arrollada por el tren de mercancías 42551 de Renfe en la estación de Torredembarra (Tarragona). La víctima resultó herida grave y falleció dos días después en el hospital. El tren circulaba por vía I a una velocidad inferior a la máxima autorizada y no se produjeron daños materiales. El informe concluye que el origen fue la invasión indebida de la vía por parte de la persona.",
+ "causa_directa": "La causa directa fue la invasión indebida de la vía por parte de la persona en el momento del paso del tren de mercancías 42551.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Intensificar la vigilancia en determinados puntos de las estaciones.",
+  "Mejorar la señalización en las estaciones que advierte de los peligros de cruzar por las vías o deambular en sus proximidades."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person was hit by a freight train when running alongside the track.",
+  "Location name": "Torredembarra station. Railway from Port Bou-Tarragona.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "invasión indebida de la vía",
+  "salto a la vía",
+  "no percibir proximidad del tren"
+ ],
+ "mitigaciones": [
+  "accionar freno de emergencia",
+  "uso de silbato",
+  "cerramiento para evitar acceso",
+  "señalización de peligro visible"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "no observar proximidad del tren",
+  "falta de percepción del peligro"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,60 @@
+{
+ "id": "ES-ES-10228 - 202171 0906 IF sn_en",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10228 - 202171 0906 IF sn_en.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "71/2021",
+ "titulo": "Descarrilamiento del tren de Rodalies 25542 en el desvío nº 4 de la estación de Prat de Llobregat",
+ "fecha_suceso": "2021-09-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Prat de Llobregat",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": "Línea 200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França"
+ },
+ "entidades": [
+  "ADIF",
+  "Rodalies"
+ ],
+ "resumen": "El tren de Rodalies 25542 descarriló en el desvío nº 4 de la estación de Prat de Llobregat. Previamente, el desvío presentaba problemas de comprobación y el equipo de mantenimiento comunicó erróneamente su posición normal. El responsable de circulación autorizó al maquinista a rebasar la señal 6668 y el tren pasó por vía directa mientras el desvío estaba a vía desviada. No hubo fallecidos ni heridos, pero se produjeron daños leves en infraestructura y material rodante, así como afectación al tráfico.",
+ "causa_directa": "El talonamiento del desvío nº 4, que se encontraba sin su comprobación. Se autorizó al maquinista a rebasar la señal 6668 y el tren circuló por vía directa mientras el desvío estaba posicionado a vía desviada.",
+ "causas_sistemicas": "Práctica habitual de intervenir sin formalizar las comprobaciones, comunicaciones no reglamentarias y terminología confusa, además de incompatibilidades no contempladas entre sistemas automáticos y órdenes del responsable de circulación.",
+ "recomendaciones": [
+  "Insistir en la obligación de formalizar pruebas, verificaciones y acciones de mantenimiento correctivo que impliquen comunicar la posición de aparatos de vía.",
+  "Elaborar un protocolo que nombre inequívocamente el estado y posición de los aparatos de vía en las comunicaciones entre mantenimiento y puesto de mando.",
+  "Definir prioridades e incompatibilidades entre sistemas automáticos de ayuda a la explotación y las operaciones manuales del responsable de circulación en software de enclavamientos o CTC, o mediante instrucciones de estación."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Desvío sin comprobación de posición",
+  "Equipo de mantenimiento no resolvió incidencia",
+  "Comunicación errónea de posición normal",
+  "RC autorizó rebasar señal protegida"
+ ],
+ "mitigaciones": [
+  "Prescribir comprobación visual al maquinista",
+  "Comunicación formal de la posición",
+  "Desactivar sistema automático incompatible",
+  "Protocolo claro de denominación"
+ ],
+ "factores_humanos": [
+  "Comunicación informal desde campo",
+  "Terminología confusa de posición",
+  "Práctica habitual sin formalizar intervención",
+  "Autorización sin exigir comprobación visual"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

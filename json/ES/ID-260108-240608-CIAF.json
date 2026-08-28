@@ -1,0 +1,72 @@
+{
+ "id": "ES-ID-260108-240608-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-260108-240608-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-543",
+ "expediente": "0002/2008",
+ "titulo": "Arrollamiento de una persona por tren de media distancia entre Montefurado y A Rúa Petín, línea 800",
+ "fecha_suceso": "2008-01-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "A Rúa Petín",
+  "provincia": "Orense",
+  "pk": "310/412",
+  "linea": "800 León-La Coruña"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de enero de 2008, el tren de media distancia 12608 de Renfe Operadora arrolló a una persona entre las estaciones de Montefurado y A Rúa Petín. La víctima cruzaba la vía por un lugar no autorizado, accediendo desde el talud del terraplén. El tren circulaba a 73 km/h, por debajo de la velocidad máxima permitida, y el maquinista usó el silbato y el freno de emergencia, sin poder evitar el impacto. La persona falleció en el acto.",
+ "causa_directa": "El accidente se originó por el cruce de la vía por parte de la víctima en un lugar no habilitado para ello, mientras circulaba el tren 12608.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar un inventario sistemático de situaciones de cruce por lugares no habilitados en la Red Ferroviaria de Interés General y planificar actuaciones a nivel global."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A medium distance passenger train knocked a man down as he was crossing the tracks at non authorised place to do so.",
+  "Location name": "Kilometre point 310,412 at 800 La Coruña-León railway line; between Montefurado and A Rúa Petín stations (Orense)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce de vía no autorizado",
+  "Acceso a vía por talud",
+  "Persona cruza entre señales",
+  "Tren circula en curva"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Freno de emergencia aplicado",
+  "Velocidad inferior a máxima",
+  "Visibilidad atmosférica buena"
+ ],
+ "factores_humanos": [
+  "Cruce indebido de persona",
+  "Actuación correcta del maquinista",
+  "No se realizó prueba alcoholemia",
+  "Activación de protocolos emergencia"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

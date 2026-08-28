@@ -1,0 +1,44 @@
+{
+ "id": "ES-IF-261108-310309-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-261108-310309-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-652",
+ "expediente": "0065/2008",
+ "titulo": "Arrollamiento de un pastor y un rebaño por tren 18073 entre Ribaforada y Tudela de Navarra",
+ "fecha_suceso": "2008-11-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Navarra",
+  "pk": "70,200",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto, tramo Cortes Navarra–Tudela Navarra"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de noviembre de 2008, el tren de viajeros 18073 de Renfe Operadora arrolló a un pastor y a unas 100 ovejas en plena vía, entre Ribaforada y Tudela de Navarra. El maquinista observó el rebaño y al pastor intentando sacarlo de la vía, por lo que usó el silbato y el freno de emergencia. No pudo evitar el impacto, y el pastor falleció en el acto.",
+ "causa_directa": "La invasión del gálibo de la vía por el pastor, que intentaba apartar el rebaño cuando pasaba el tren 18073.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A shepherd who was trying to get his flock out of the tracks, with his back to the train was hit by the train. The driver who used the whistle and the brake couldn´t avoid killing them (the shepherd and about 100 sheep).",
+  "Location name": "Open line, kilometre point 70,200, between Ribaforada and Tudela de Navarra stations. 700 Casetas-Intermodal Abando Indalecio Prieto railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

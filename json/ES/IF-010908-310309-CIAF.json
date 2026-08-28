@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-010908-310309-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-010908-310309-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-586",
+ "expediente": "0038/2008",
+ "titulo": "Arrollamiento de una pala retroexcavadora e invasión de gálibo en la estación de Dueñas, Palencia",
+ "fecha_suceso": "2008-09-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Dueñas",
+  "provincia": "Palencia",
+  "pk": "279,000",
+  "linea": "Línea 100 Hendaya Madrid-Chamartín"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 1 de septiembre de 2008, a las 17:12 horas, la locomotora aislada GLE57 de Renfe Operadora colisionó con una pala retroexcavadora que invadía el gálibo de la vía en la estación de Dueñas. La pala se encontraba realizando trabajos en las inmediaciones de la vía. Como consecuencia del impacto, el conductor de la retroexcavadora falleció en el acto y la locomotora descarriló, interceptando ambas vías.",
+ "causa_directa": "La invasión del gálibo de la vía por una pala retroexcavadora, previa autorización del agente piloto de Adif, sin atenerse a las normas establecidas en el Reglamento General de Circulación.",
+ "causas_sistemicas": "Deficiencias en la planificación y control de los trabajos: el piloto desconocía la gestión de la estación en período de cierre, el PM de Miranda no tenía conocimiento de los trabajos, el acta semanal no exigía piloto ni observaciones de afección a la circulación, no se instalaron los cartelones de silbar previstos y no se cursó la interrupción de circulación ni las comunicaciones reglamentarias.",
+ "recomendaciones": [
+  "Adif adoptará las medidas necesarias para que los pilotos cumplan con lo establecido en el Reglamento General de Circulación."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "A locomotive running solo collided with a backhoe loader when it suddenly invaded the tracks. As a result, the Backhoe loader driver died and three axles of the locomotive´s first bogie derailed.",
+  "Location name": "100 Madrid-Hendaya railway line, at Dueñas(Palencia)station , at kilometre point 279,220.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Locomotive running solo",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by the invasion of the rail gauge by the backhoe loader, after being approved by Adif´s agent (pilot), who failed to act according to the settled in the General Operating Rules"
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Autorización indebida de invasión del gálibo",
+  "No se interrumpió la circulación ferroviaria",
+  "Falta de conocimiento del PM de Miranda",
+  "No se colocaron cartelones de silbar"
+ ],
+ "mitigaciones": [
+  "Interrupción de la circulación ferroviaria",
+  "Colocación de cartelones de silbar",
+  "Cumplimiento del Reglamento General de Circulación",
+  "Coordinación con el PM correspondiente"
+ ],
+ "factores_humanos": [
+  "Desconocimiento del agente piloto",
+  "Falta de coordinación entre PM",
+  "Autorización sin aplicar normas RGC",
+  "Acta sin observaciones de seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

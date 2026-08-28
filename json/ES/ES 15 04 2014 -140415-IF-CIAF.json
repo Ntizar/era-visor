@@ -1,0 +1,56 @@
+{
+ "id": "ES-ES 15 04 2014 -140415-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 15 04 2014 -140415-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0026/2014",
+ "titulo": "Descarrilamiento de tren de mercancías en el cambio nº 6 de la bifurcación Arcade, Pontevedra",
+ "fecha_suceso": "2014-04-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Bifurcación Arcade",
+  "provincia": "Pontevedra",
+  "pk": "17+896",
+  "linea": "línea 824 Redondela de Galicia - Santiago de Compostela"
+ },
+ "entidades": [
+  "Comsa Rail Transport",
+  "Adif"
+ ],
+ "resumen": "El 15 de abril de 2014, el tren de mercancías 88828 de Comsa Rail descarriló en el cambio nº 6 de la bifurcación Arcade, en el PK 17+896 de la línea 824. Descarrilaron el segundo bogie del séptimo vagón y el primer bogie del octavo vagón, según el sentido de la marcha. El tren continuó circulando descarrilado 932 metros hasta que el maquinista aplicó el freno de emergencia y lo detuvo. No hubo fallecidos ni heridos y la causa directa quedó indeterminada.",
+ "causa_directa": "Se desconoce la causa directa; la hipótesis más probable es la suma de factores cuyo efecto sinérgico sobre la dinámica del vehículo produjo el descarrilamiento.",
+ "causas_sistemicas": "No se identificó una causa última clara; como factores concurrentes se observaron valores de altura de pestaña próximos o superiores a límites y un plan de mantenimiento que no comprobaba periódicamente los parámetros de rodadura en las visitas de seguridad.",
+ "recomendaciones": [
+  "Trasladar a la AESF la conveniencia de implantar medidas similares en otras empresas mantenedoras."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No se revisan parámetros rodadura",
+  "Altura pestaña sobre tolerancia",
+  "Vagones vacíos pasan por cambio"
+ ],
+ "mitigaciones": [
+  "Modificación planes mantenimiento",
+  "Medición parámetros rodadura cada 18 meses",
+  "Plantilla visitador en inspecciones VS",
+  "Reperfilado ruedas límite máximo"
+ ],
+ "factores_humanos": [
+  "Plan mantenimiento no medía rodadura",
+  "Inspección VS sin plantilla",
+  "No detectó pestaña elevada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

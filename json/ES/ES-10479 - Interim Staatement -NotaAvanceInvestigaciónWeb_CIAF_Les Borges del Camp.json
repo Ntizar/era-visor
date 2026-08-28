@@ -1,0 +1,54 @@
+{
+ "id": "ES-ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "43/2023",
+ "titulo": "Freno de emergencia por secuencia de señales incorrecta en Les Borges del Camp (Tarragona)",
+ "fecha_suceso": "2023-05-18",
+ "tipo_informe": "interino",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Les Borges del Camp",
+  "provincia": "Tarragona",
+  "pk": "573+750",
+  "linea": "línea 210"
+ },
+ "entidades": [
+  "RENFE",
+  "ADIF"
+ ],
+ "resumen": "El 18 de mayo de 2023, sobre las 19:00 h, el maquinista del tren 55115 de RENFE Mercancías accionó el freno de emergencia en la estación de Les Borges del Camp al observar una secuencia de señales incorrecta. La actuación de señalización, puesta en servicio el 27 de febrero de 2023, incluía la Centralización de Bloqueos Reus-Mora. La nueva versión de software mostraba Verde-Amarillo-Rojo en lugar de Amarillo-Amarillo-Rojo para itinerarios de entrada por vía principal, sin distancia de frenado suficiente entre la señal de entrada y la de salida. La CIAF acordó un examen preliminar y, después, la investigación formal del incidente.",
+ "causa_directa": "Un fallo en la nueva versión de software de señalización mostraba una secuencia Verde-Amarillo-Rojo en lugar de Amarillo-Amarillo-Rojo para los itinerarios de entrada por vía principal, lo que indujo al maquinista a aplicar el freno de emergencia por falta de distancia de frenado suficiente.",
+ "causas_sistemicas": "Procedimiento de desarrollo del software por Alstom y pruebas FAT, de concordancia y conjuntas con ADIF para verificar la funcionalidad.",
+ "recomendaciones": [],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Instalación de software con fallo",
+  "Puesta en servicio de señalización",
+  "Fallo en secuencia de señales",
+  "Distancia de frenado insuficiente"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia accionado",
+  "Maquinista detectó secuencia incorrecta"
+ ],
+ "factores_humanos": [
+  "Procedimiento de desarrollo de software",
+  "Realización de pruebas FAT",
+  "Pruebas de concordancia",
+  "Pruebas conjuntas con Adif"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

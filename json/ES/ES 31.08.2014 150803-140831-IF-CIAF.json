@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 31.08.2014 150803-140831-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 31.08.2014 150803-140831-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0044/2014",
+ "titulo": "Descarrilamiento en el cambiador de ancho de Zaragoza Delicias (Zaragoza)",
+ "fecha_suceso": "2014-08-31",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Operadora"
+ ],
+ "resumen": "El 31 de agosto de 2014 se produjo un descarrilamiento en el cambiador de ancho de Zaragoza Delicias. La rueda derecha del eje 16 no realizó el cambio de ancho estándar a ibérico y permaneció en ancho estándar, lo que provocó el descarrilamiento. El tren fue detenido por aviso del agente de mantenimiento. La causa directa fue el agarrotamiento del sistema de cambio de ancho por degradación de la grasa y desgaste de la junta (rascador).",
+ "causa_directa": "Fallo del sistema de cambio de ancho de la rueda derecha del último eje, que no realizó la traslación axial por agarrotamiento del sistema cónico dentado, debido a la degradación de la grasa contaminada por una junta (rascador) desgastada y no estanca.",
+ "causas_sistemicas": "El plan de mantenimiento no detectó el deterioro de la junta (rascador) en las revisiones ni en el último cambio de ruedas, por lo que no se sustituyó. Tampoco se detectaron los esfuerzos de traslación excesivos registrados en una revisión V1 anterior, y no había registros de las dos V1 inmediatamente anteriores al suceso.",
+ "recomendaciones": [
+  "Incluir en el plan de mantenimiento la sustitución sistemática de la junta (rascador) en los ciclos operativos GVG (1.200.000 kilómetros) y superiores, también cuando se desmonte el sistema de acoplamiento.",
+  "Seguir las investigaciones sobre la modificación de los rascadores y el nuevo dentado del sistema de cambio de ancho, con un plan de implantación de los resultados.",
+  "Terminar de implantar las modificaciones para la medición de fuerzas de traslación en el cambio de ancho y actualizar la documentación de mantenimiento correspondiente."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "no sustituir junta rascador desgastada",
+  "no registrar mediciones esfuerzo traslación",
+  "no detectar deterioro rascador",
+  "no advertir esfuerzo traslación superior"
+ ],
+ "mitigaciones": [
+  "sustituir junta rascador sistemáticamente",
+  "medir fuerzas traslación periódicamente",
+  "software resaltara valores límite",
+  "aviso automático paso por cambiador"
+ ],
+ "factores_humanos": [
+  "mantenedor no detectó defecto",
+  "omisión registros mediciones V1",
+  "valores límite no advertidos",
+  "procedimientos permitían errores coordinación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

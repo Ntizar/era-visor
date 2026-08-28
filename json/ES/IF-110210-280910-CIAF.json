@@ -1,0 +1,67 @@
+{
+ "id": "ES-IF-110210-280910-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-110210-280910-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-874",
+ "expediente": "0008/2010",
+ "titulo": "Descarrilamiento del tren 27239 en la estación de Pinar de Las Rozas (Madrid)",
+ "fecha_suceso": "2010-02-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Pinar de Las Rozas",
+  "provincia": "Madrid",
+  "pk": "20+658",
+  "linea": "Línea 100 Madrid - Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 11 de febrero de 2010, el tren de viajeros 27239 descarriló al pasar por el cambio nº 6 en la estación de Pinar de Las Rozas. El incidente se produjo durante la salida de la estación a una velocidad de 28 km/h, provocando daños materiales en la infraestructura y en el tren. La investigación determinó que no hubo víctimas mortales ni heridos graves.",
+ "causa_directa": "Fallo técnico en las instalaciones de la vía debido al deficiente estado de la sujeción del carril de unión del desvío nº 6 y un ancho de vía superior al máximo permitido.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente.",
+  "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "A passenger train, while it was leaving the station,at point nº6, became derailed: second car´s first bogie.",
+  "Location name": "Pinar de Las Rozas station (Madrid),kilometre point 20,658, 100 Madrid-Hendaya railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failure of the installations due to the inadequacy of the rail fastening of point nº6, as well as the track gauge which, in this area, was wider than permitted."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "deficiente estado de sujeción del carril",
+  "ancho de vía superior al máximo permitido",
+  "tirafondos flojos o ausentes en traviesas"
+ ],
+ "mitigaciones": [
+  "baja velocidad de circulación del tren",
+  "aplicación inmediata del freno de urgencia"
+ ],
+ "factores_humanos": [
+  "inspecciones previas sin detectar anomalías",
+  "intervalos de mantenimiento insuficientes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

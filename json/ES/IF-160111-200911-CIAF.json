@@ -1,0 +1,71 @@
+{
+ "id": "ES-IF-160111-200911-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-160111-200911-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1087",
+ "expediente": "0003/2011",
+ "titulo": "Arrollamiento de vehículo pesado en paso a nivel clase A en Aguadulce (Sevilla)",
+ "fecha_suceso": "2011-01-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Sevilla",
+  "pk": "87+782",
+  "linea": "422 Bif. Utrera a Fuente de Piedra"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El tren de media distancia 13943 arrolló a un vehículo pesado que invadió el gálibo de la vía al cruzar un paso a nivel sin cerciorarse de la circulación ferroviaria. El maquinista activó el silbato y el freno de emergencia, pero no pudo evitar el impacto. Como consecuencia, resultaron heridos leves el conductor del camión y una viajera del tren.",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando pasaba el tren.",
+ "causas_sistemicas": "Clasificación incorrecta del paso a nivel como clase A, cuando según la normativa vigente debiera ser al menos clase B debido a su momento de circulación superior a 1.000.",
+ "recomendaciones": [
+  "Adecuar el paso a nivel a lo establecido en la OM de 2/8/2001: bien dotándolo de protección clase B, o bien procediendo a su supresión promoviendo su concentración al paso a nivel del PK 86+900."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A regional train hit a lorry that crossed the level crossing. The lorry driver and a passenger of the train were slightly injured.",
+  "Location name": "Level crossing, type A, kilometre point 87,782, between Osuna and Pedrera stations (Sevilla) at 422 Bif. Utrera-Fuente Piedra railway station.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when the road vehicle crossed the level crossing when the train was passing."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade paso a nivel",
+  "Conductor no comprueba circulación",
+  "Protección clase A insuficiente",
+  "Visibilidad limitada en cuadrantes"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Activación del freno de emergencia",
+  "Velocidad inferior a permitida",
+  "Protección clase B adecuada"
+ ],
+ "factores_humanos": [
+  "No se cerciora de trenes",
+  "Paso no reclasificado clase B",
+  "Visibilidad limitada en otros cuadrantes",
+  "Maquinista alerta y frena"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 27.08.2015 161129150827IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 27.08.2015 161129150827IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0039/2015",
+ "titulo": "Incidente por sobrecalentamiento de caja de grasa en automotor serie 599 en la estación de Álora (Málaga)",
+ "fecha_suceso": "2015-08-27",
+ "tipo_informe": "final",
+ "tipo_suceso": "incendio",
+ "ubicacion": {
+  "estacion": "Álora",
+  "provincia": "Málaga",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Actren"
+ ],
+ "resumen": "El incidente ocurrió el 27 de agosto de 2015 en la estación de Álora cuando un automotor de la serie 599 sufrió un conato de incendio debido al sobrecalentamiento de la caja de grasa del primer eje derecho. La investigación determinó que el fallo técnico se originó en una caja de grasa que contenía agua y provenía de otro vehículo con mayor kilometraje acumulado desde su última revisión completa. No hubo víctimas mortales ni heridos graves, pero se evidenciaron deficiencias en los protocolos de mantenimiento preventivo para detectar contaminaciones antes de que causen fallos críticos.",
+ "causa_directa": "Fallo técnico del material rodante consistente en un sobrecalentamiento de la caja de grasa del primer eje derecho, provocado por la presencia de agua en su interior y el deterioro no detectado previamente.",
+ "causas_sistemicas": "Insuficiencia en las intervenciones de mantenimiento preventivo (IM2, IM3, IM4) para detectar la presencia de agua en las cajas de grasa sin desmontaje completo, y falta de control sobre el kilometraje acumulado de los ejes sustituidos entre vehículos distintos.",
+ "recomendaciones": [
+  "Programar el cambio del eje si se detecta agua en el interior de una caja de grasa durante las intervenciones IM2, IM3 o IM4 en vehículos serie 599.",
+  "Verificar que los kilómetros desde la revisión completa de un eje sustituto sean iguales o menores que los del tren receptor, contando desde la última R1 o R2."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Sustitución eje con más kilómetros",
+  "Primer servicio tras cambio eje",
+  "Mantenimiento sin desmontar cajas",
+  "Plan no detectó agua"
+ ],
+ "mitigaciones": [
+  "Inspección cajas grasa serie 599",
+  "Adhesivos temperatura en cajas grasa",
+  "Recorrido previo tras cambio eje",
+  "Programar cambio si agua"
+ ],
+ "factores_humanos": [
+  "Plan mantenimiento no desmontaba cajas",
+  "Cambio eje con más kilómetros",
+  "Inspección solo tapa delantera",
+  "Falta detección de agua"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

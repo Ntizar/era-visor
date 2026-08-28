@@ -1,0 +1,72 @@
+{
+ "id": "ES-ID-301106-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-301106-130407.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-37",
+ "expediente": "0053/2006",
+ "titulo": "Arrollamiento de peatón entre Arcade y Figueirido, línea Redondela-Santiago de Compostela",
+ "fecha_suceso": "2006-11-30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Pontevedra",
+  "pk": "10,320",
+  "linea": "Redondela-Santiago de Compostela"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 30 de noviembre de 2006, el tren de Larga Distancia nº 2422 de Renfe, con origen en Vigo y destino La Coruña, arrolló a una persona en el punto kilométrico 10,320 de la línea Redondela-Santiago de Compostela, entre las estaciones de Arcade y Figueirido. La víctima, un varón de 81 años, cruzó la vía por un paso abusivo no habilitado, y el maquinista usó la bocina y el freno de emergencia sin poder evitar el atropello. El accidente causó la muerte de la persona, daños en el material móvil y retrasos en varios trenes.",
+ "causa_directa": "Imprudencia de la víctima al cruzar la vía por un paso abusivo no habilitado, invadiendo el gálibo del tren a pesar de la bocina y del frenado de emergencia.",
+ "causas_sistemicas": "El informe señala la existencia de pasos abusivos, la ausencia de vallado perimetral, la escasa visibilidad por la curva y el entorno semiurbano que facilita el cruce indebido de peatones cerca de una pasarela existente.",
+ "recomendaciones": [
+  "Instalar carteles que indiquen la presencia de circulaciones, el peligro de cruzar las vías y la recomendación de usar la pasarela peatonal, para eliminar los pasos abusivos."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion at open line while walking to cross the tracks through at faulty path.",
+  "Location name": "Railway line from Santiago to Redondela at the kilometre point 10,350.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce por paso abusivo",
+  "No uso pasarela peatonal",
+  "Omisión de aviso acústico",
+  "Acceso desde caminos locales"
+ ],
+ "mitigaciones": [
+  "Uso de bocina",
+  "Frenado de emergencia",
+  "Pasarela peatonal existente",
+  "Instalación de cartelones"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Edad avanzada de la víctima",
+  "Desatención a aviso acústico",
+  "Falta de vallado perimetral"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

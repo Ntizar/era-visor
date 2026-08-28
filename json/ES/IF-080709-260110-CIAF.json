@@ -1,0 +1,66 @@
+{
+ "id": "ES-IF-080709-260110-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-080709-260110-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-772",
+ "expediente": "0033/2009",
+ "titulo": "Arrollamiento de un vehículo por tren de mercancías en paso a nivel de Villaverde de Pontones (Cantabria)",
+ "fecha_suceso": "2009-07-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villaverde de Pontones",
+  "provincia": "Cantabria",
+  "pk": "551+254",
+  "linea": "24 Santander - Bilbao"
+ },
+ "entidades": [
+  "FEVE"
+ ],
+ "resumen": "El 8 de julio de 2009, a las 18:21, un tren de mercancías de FEVE arrolló a un automóvil detenido en el centro del paso a nivel tipo C de Villaverde de Pontones (Cantabria). El conductor del vehículo falleció como consecuencia del impacto. El paso a nivel tenía las barreras bajadas y las señales luminosas activadas. El maquinista usó la bocina y el freno de emergencia, pero no pudo evitar el arrollamiento.",
+ "causa_directa": "La invasión del gálibo de la vía por un vehículo de carretera que entró en el paso a nivel con las barreras bajadas y las señales luminosas activadas, y se detuvo en el centro.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car broke the crossing barrier arm of the level crossing (with all its devices working) and remained on the gauge. The driver came out realizing the train (nº 9687) was coming but was unable to avoid being hit. Later, he died.",
+  "Location name": "Villaverde de Pontones flag stop (Cantabria), level crossing type C, at kilometre point 551,254, at Ferrol-Bilbao railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Freight train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The car trespassed the level crossing despite its protective devices were working"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "vehículo invade paso a nivel cerrado",
+  "conductor ignora barreras y señales",
+  "vehículo se detiene en vía"
+ ],
+ "mitigaciones": [
+  "maquinista acciona silbato",
+  "maquinista aplica freno emergencia",
+  "barreras semibajadas dañadas por vehículo"
+ ],
+ "factores_humanos": [
+  "invasión gálibo por usuario carretera",
+  "omisión señalización de firme irregular"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

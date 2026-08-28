@@ -1,0 +1,77 @@
+{
+ "id": "ES-ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-289",
+ "expediente": "0040/2007",
+ "titulo": "Arrollamiento de persona por tren de Cercanías en Arenys de Mar (Barcelona)",
+ "fecha_suceso": "2007-07-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Arenys de Mar",
+  "provincia": "Barcelona",
+  "pk": "37/325",
+  "linea": "Barcelona-Sagrera a Maçanet-Massanes"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El tren de Cercanías 25669, circulando entre L'Hospitalet y Blanes, arrolló a una persona que falleció en el punto kilométrico 37/325, cerca de la estación de Arenys de Mar. La víctima cruzó la vía por un paso vicioso no autorizado hacia la playa, invadiendo el gálibo del tren. El accidente provocó la suspensión temporal de la circulación y retrasos significativos en otros servicios.",
+ "causa_directa": "Imprudencia de la víctima que cruzó la vía por una zona no autorizada e invadió el gálibo del tren.",
+ "causas_sistemicas": "Existencia de un paso vicioso muy utilizado para acceder a la playa en un tramo sin vallado ni cerramientos de seguridad.",
+ "recomendaciones": [
+  "Proceder al vallado del tramo afectado para impedir el acceso a la playa por esa zona.",
+  "Intensificar el Plan de instalación de cerramientos de las líneas ferroviarias.",
+  "Impulsar campañas de sensibilización y concienciación ciudadana sobre el peligro de cruzar o deambular por las vías."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person is hit by a regional train when crossing the tracks at unauthorised place.",
+  "Location name": "Railway line from Barcelona to Massanet.(276 Maçanet-Massanes - Barcelona-Sagrera railway line) Arenys de Mar station(Barcelona), at kilometre point 37,325.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed at unauthorised place"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tramo sin vallado",
+  "Paso vicioso hacia la playa",
+  "Víctima cruzó vía sin mirar",
+  "Persona apareció desde zona de cañas"
+ ],
+ "mitigaciones": [
+  "Uso de bocina",
+  "Aplicación de freno emergencia",
+  "Velocidad menor permitida",
+  "Suspensión de circulación"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Acceso por paso no autorizado",
+  "Falta de cerramiento",
+  "Visibilidad obstruida por cañas"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

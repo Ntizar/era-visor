@@ -1,0 +1,50 @@
+{
+ "id": "ES-IF_061212_170913_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_061212_170913_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0655",
+ "expediente": "0074/2012",
+ "titulo": "Deriva de una UTE estacionada en la estación de Laviana (Asturias) por fallo de frenos",
+ "fecha_suceso": "2012-12-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Laviana",
+  "provincia": "Asturias",
+  "pk": "49+700",
+  "linea": "61 Gijón - Laviana"
+ },
+ "entidades": [
+  "Feve",
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 6 de diciembre de 2012, a las 02:35 horas, una UTE estacionada en la estación de Laviana (Asturias) comenzó a derivar hacia Gijón. La composición recorrió más de 12,8 km por vía única hasta detenerse entre Sama y La Felguera. El incidente se debió a la ineficacia del freno de estacionamiento y del freno neumático, que no retuvo el material pese a la pendiente de la vía 1.",
+ "causa_directa": "El origen del incidente fue el fallo del material por la ineficacia de los sistemas de freno, tanto del neumático como del de estacionamiento. El freno de estacionamiento indicaba aplicación cuando no frenaba y el freno neumático se liberó por pérdida de presión debida a una estanqueidad defectuosa.",
+ "causas_sistemicas": "Inconsistencias en el mantenimiento y en la verificación de frenos: la revisión R1 no detectó anomalías, pero poco después hubo una orden de trabajo por fallo del freno de estacionamiento y volvió a fallar; además se superó en 1.555 km el plazo para la revisión R2. También influyeron la pendiente de la vía de estacionamiento hacia la vía general y la ausencia de medidas físicas adicionales de inmovilización.",
+ "recomendaciones": [
+  "Renfe Operadora (SAM): estudiar el funcionamiento del freno de estacionamiento de esta serie y otras similares, evaluando su modificación y la consistencia de mantenimiento.",
+  "Renfe Operadora (SAM): auditar el cumplimiento de los ciclos de mantenimiento del material móvil de los Servicios de Ancho Métrico.",
+  "Adif (RAM): disponer medidas para garantizar la seguridad ante el riesgo de deriva de material móvil en estaciones similares a Laviana con pendiente hacia la vía general."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Runaway",
+  "Occurrence description": "Electric train units that were stabled (out of service) at Laviana station (Asturias) started their runaway at kilometre point 49,700 and came to a halt at kp 36,915. There were neither material damage nor personal.",
+  "Location name": "Laviana (Asturias)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin in a failure of the rolling stock due to an ineffieciency of the braking systems, both air and parking brake."
+ }
+}

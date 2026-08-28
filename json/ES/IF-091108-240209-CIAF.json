@@ -1,0 +1,68 @@
+{
+ "id": "ES-IF-091108-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-091108-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-606",
+ "expediente": "0060/2008",
+ "titulo": "Arrollamiento de vehículo por tren en paso a nivel entre Almagro y El Campillo (Ciudad Real)",
+ "fecha_suceso": "2008-11-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Ciudad Real",
+  "pk": "226,669",
+  "linea": "522 Manzanares-Ciudad Real"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El día 9 de noviembre de 2008, el tren de media distancia 18081 de Renfe Operadora arrolló a un turismo Peugeot 406 en un paso a nivel clase A situado entre Almagro y el apeadero de El Campillo. El conductor del vehículo falleció en el lugar tras cruzar la vía sin percatarse de la presencia del tren. Aunque el maquinista realizó las señales acústicas y luminosas reglamentarias y aplicó el freno de emergencia, no fue posible evitar el impacto.",
+ "causa_directa": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A car is knocked down by a train when crossing through the level crossing without noticing the train was approaching. As a result, the car driver was dead. The train driver, who had seen the car coming up to the LC, sounded the train whistle for warning the car driver who failed to stop.",
+  "Location name": "Level crossing, type A, at kilometre point 226,669 (Ciudad Real), 400 Alcázar de San Juan-Cádiz railway line",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Conductor no percibe presencia del tren",
+  "Vehículo cruza paso a nivel",
+  "Vehículo no se detiene en paso"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por maquinista",
+  "Señales luminosas de alerta",
+  "Frenado de emergencia del tren",
+  "Visibilidad buena de la vía"
+ ],
+ "factores_humanos": [
+  "Falta de atención del conductor",
+  "Conductor no percibe tren",
+  "Protección únicamente por señales fijas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

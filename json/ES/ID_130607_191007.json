@@ -1,0 +1,71 @@
+{
+ "id": "ES-ID_130607_191007",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_130607_191007.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-286",
+ "expediente": "0037/2007",
+ "titulo": "Arrollamiento de persona por tren de mercancías entre Reus y Vilaseca (Tarragona)",
+ "fecha_suceso": "2007-06-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Vilaseca",
+  "provincia": "Tarragona",
+  "pk": "93/250",
+  "linea": "Madrid - Barcelona vía Caspe"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "Un tren de mercancías arrolló a una persona en el punto kilométrico 93/250 de la línea Madrid-Barcelona, cerca del apeadero de Vilaseca. La víctima falleció tras invadir el gálibo de la vía durante la noche. El maquinista no percibió el incidente hasta ser avisado posteriormente. Se produjeron retrasos menores en varios trenes.",
+ "causa_directa": "Imprudencia de la víctima que invadió el gálibo de la vía al paso del tren, desconociéndose las causas de dicha conducta.",
+ "causas_sistemicas": "Existencia de puntos de acceso indebido a las vías debido a un vallado incompleto o deficiente en el tramo.",
+ "recomendaciones": [
+  "Revisar el vallado del tramo para eliminar posibles puntos de entrada a las vías.",
+  "Impulsar campañas de sensibilización y concienciación ciudadana sobre el peligro de cruzar o deambular por las vías."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person is knocked down by a freight train when walking alongside the rail.",
+  "Location name": "Railway line from Valencia to S.V. Calders. (600 Valencia - San Vicente de Calders railway line) Kilometre point 93,250 between Reus and Vilaseca stations.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Victim´s carelessness"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "tránsito indebido por inmediaciones de la vía",
+  "invadió el gálibo al paso del tren",
+  "acceso posible a las vías existentes"
+ ],
+ "mitigaciones": [
+  "marcha a la vista tras aviso",
+  "levantamiento rápido del cadáver",
+  "reanudación normal de circulación"
+ ],
+ "factores_humanos": [
+  "imprudencia de la víctima",
+  "desconocimiento causas conducta",
+  "no control alcoholemia tardío"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

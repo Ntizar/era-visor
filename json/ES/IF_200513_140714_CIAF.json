@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF_200513_140714_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_200513_140714_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-2409",
+ "expediente": "0048/2013",
+ "titulo": "Descarrilamiento de un vagón cisterna en la línea 516 entre Torremejía y Almendralejo (Badajoz)",
+ "fecha_suceso": "2013-05-20",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Badajoz",
+  "pk": "25+564",
+  "linea": "516 Mérida - Los Rosales"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Transfesa",
+  "Adif"
+ ],
+ "resumen": "El 20 de mayo de 2013, a las 11:47, se produjo el descarrilamiento de las cuatro ruedas del bogie delantero del vagón cisterna tercero del tren de mercancías 83036 en el PK 25+564 de la línea 516 Mérida-Los Rosales, entre Torremejía y Almendralejo (Badajoz). El tren, con tracción de Renfe Operadora y vagones propiedad de Transfesa, circulaba a 96 km/h y el descarrilamiento no causó víctimas. El tren recorrió 585 metros con el vagón descarrilado hasta detenerse por acción del maquinista.",
+ "causa_directa": "La hipótesis más probable de la causa del accidente es la existencia de defectos de nivelación, peralte y alabeo en las proximidades del punto de descarrilamiento.",
+ "causas_sistemicas": "Los defectos de nivelación, peralte y alabeo detectados por el tren auscultador con prioridad ZUT no constan reparados, y las inspecciones previas no observaron defectos que afectasen al tránsito.",
+ "recomendaciones": [
+  "Adif: Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente; hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Front boogie of freight train´s third empty tank wagon´s derailed at kilometre point 25+564.",
+  "Location name": "Between Almendralejo and Torremejía stations (Badajoz)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Operadora Mercancías",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The most likely hypothesis for the cause of the accident is the existence of faults (rail levelling, cant and warp) near the point of derailment (about 15-20 m)."
+ }
+}

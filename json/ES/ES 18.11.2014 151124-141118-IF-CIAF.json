@@ -1,0 +1,54 @@
+{
+ "id": "ES-ES 18.11.2014 151124-141118-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 18.11.2014 151124-141118-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0061/2014",
+ "titulo": "Descarrilamiento de tren de mercancías en vía EV de Tarragona Clasificación (Tarragona), 18/11/2014",
+ "fecha_suceso": "2014-11-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Tarragona Clasificación",
+  "provincia": "Tarragona",
+  "pk": "PK 0+571",
+  "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación"
+ },
+ "entidades": [
+  "Transfesa Rail",
+  "Adif"
+ ],
+ "resumen": "El 18 de noviembre de 2014, el tren de mercancías 87503 de Transfesa Rail, con vagones-cisterna de óxido de propileno, descarriló en la vía EV de Tarragona Clasificación al circular por maniobra a 6,9 km/h. La infraestructura presentaba sobreancho y mal estado de carriles, traviesas y sujeciones, pese a una limitación temporal de velocidad a 10 km/h vigente desde 2010. No hubo víctimas ni daños medioambientales. Los bogies de los vagones cuarto y quinto salieron del carril y el tren recorrió descarrilado unos 60 metros.",
+ "causa_directa": "Fallo de la infraestructura: la vía se abrió al paso del tren por encontrarse en estado deficiente sus sujeciones y traviesas.",
+ "causas_sistemicas": "Mal estado de la vía con sobreancho y deterioro de carriles, traviesas, sujeciones, bridas, aparatos de vía y balasto, mantenido mediante una limitación temporal de velocidad a 10 km/h desde 2010; el proyecto de renovación de puntos de riesgo redactado en 2010 no se había ejecutado. En las comunicaciones se usó lenguaje impreciso.",
+ "recomendaciones": [
+  "Impulsar la realización de un mantenimiento, tanto preventivo como correctivo, para conservar la vía EV de Tarragona Clasificación en condiciones que permitan circular con seguridad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Estado deficiente de sujeciones y traviesas",
+  "Sobreancho superior al admitido por norma",
+  "Mal estado general de la vía"
+ ],
+ "mitigaciones": [
+  "Limitación temporal velocidad a 10 km/h",
+  "Velocidad tren inferior límite establecido",
+  "Parámetros rodadura dentro tolerancias"
+ ],
+ "factores_humanos": [
+  "Lenguaje impreciso entre personal",
+  "Retraso renovación infraestructura prevista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

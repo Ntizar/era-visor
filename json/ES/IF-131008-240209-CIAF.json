@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-131008-240209-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-131008-240209-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-599",
+ "expediente": "0049/2008",
+ "titulo": "Arrollamiento de una persona por tren 1415 a la salida de La Encina, línea 300 Madrid-Chamartín-Valencia",
+ "fecha_suceso": "2008-10-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "La Encina",
+  "provincia": "Alicante",
+  "pk": "375,740",
+  "linea": "300 Madrid - Chamartín - Valencia – Estación Nord"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 13 de octubre de 2008, el tren de viajeros 1415 de Renfe Operadora arrolló a una persona que transitaba por la vía 1 a la salida de la estación de La Encina. La víctima, un varón de 83 años, falleció en el acto y su cadáver quedó fuera de la vía. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto. El suceso afectó a 9 trenes y acumuló 152 minutos de retraso.",
+ "causa_directa": "El accidente se originó por el tránsito de la víctima por la vía, sin estar autorizada para ello, mientras recogía higos en las cercanías.",
+ "causas_sistemicas": "La zona del accidente era un descampado sin vallar, lo que facilitó el acceso no autorizado a la vía; además, la edad de la víctima y su actividad pudieron contribuir a su distracción.",
+ "recomendaciones": [
+  "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person, as the train was leaving the station, crossed the tracks through an unauthorised place without noticing the approaching train.",
+  "Location name": "La Encina station (Alicante), kilometre point 375,740, 330 La Encina-Alicante railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tránsito no autorizado de persona",
+  "Recogida de higos junto vía",
+  "Zona sin vallado perimetral",
+  "Distracción de la víctima"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por maquinista",
+  "Freno de emergencia accionado",
+  "Velocidad inferior a máxima permitida",
+  "Estudio de necesidades de vallado"
+ ],
+ "factores_humanos": [
+  "Distracción de la víctima",
+  "Edad avanzada de la víctima",
+  "Acceso no autorizado a vía",
+  "Ausencia de vallado perimetral"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

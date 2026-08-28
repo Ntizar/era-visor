@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 18.07.2016 171017-160718-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 18.07.2016 171017-160718-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0036/2016",
+ "titulo": "Incidente en estación de Boñar (León): rebase de límite de maniobras por UT averiada y conato de colisión",
+ "fecha_suceso": "2016-07-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Boñar",
+  "provincia": "León",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "La unidad tren 2903, averiada y apartada en la vía 2 de la estación de Boñar, realizó una maniobra para probar el motor hacia la vía 1. El jefe de maquinistas superó la velocidad máxima permitida para maniobras (10 km/h) alcanzando 46 km/h y rebasó el límite de maniobras en 49 metros debido a una falta de atención centrada en los parámetros del motor. La unidad quedó inmovilizada en plena vía general tras un fallo en el freno de urgencia, ocupando el cantón donde se había establecido bloqueo telefónico para la llegada del tren 71490. Se produjo un conato de colisión que fue evitado gracias a la detención inmediata del tren 71490 al observar la obstrucción.",
+ "causa_directa": "Fallo humano del jefe de maquinistas por falta de atención durante la prueba de motor, lo que provocó la aplicación tardía del freno y el rebase indebido del límite de maniobras, ocupando el cantón con bloqueo telefónico activo.",
+ "causas_sistemicas": "Autorización de la maniobra por parte del jefe de circulación conociendo las condiciones no seguras (exceso de velocidad previsto) y la existencia de bloqueo telefónico en esa banda. Fallo técnico del sistema de frenado de urgencia de la UT 2903. Retraso en la notificación al puesto de mando competente.",
+ "recomendaciones": [
+  "En los cursos de formación y reciclaje a maquinistas, insistir en la necesidad de cumplir con las limitaciones de velocidad establecidas para la realización de maniobras en estaciones.",
+  "En los cursos de formación y reciclaje de jefes de circulación, insistir en la necesidad de conocer con precisión las maniobras a realizar por el material móvil a su cargo y no permitir aquellas que puedan provocar situaciones no seguras."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Autorización de maniobra con bloqueo telefónico",
+  "Prueba de rendimiento del motor",
+  "Falta de atención en conducción",
+  "Aplicación tardía del freno"
+ ],
+ "mitigaciones": [
+  "Parada voluntaria del tren 71490",
+  "Protección de la maniobra UT 2903",
+  "Aviso al tren por el jefe",
+  "Información inmediata al puesto de mando"
+ ],
+ "factores_humanos": [
+  "Falta de atención en conducción",
+  "Exceso de velocidad en maniobra",
+  "Autorización de maniobra no segura",
+  "Retraso en informar al puesto de mando"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

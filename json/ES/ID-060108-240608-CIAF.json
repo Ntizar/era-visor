@@ -31,5 +31,30 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima transitaba por vía no habilitada",
+  "Tren entró en túnel sin iluminación",
+  "Maquinista no detectó obstáculo"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Puesto de Mando ordenó reconocimiento",
+  "Activación plan emergencia externo-interno",
+  "Restablecimiento circulación normal vía 1"
+ ],
+ "factores_humanos": [
+  "Víctima transitaba por vía no habilitada",
+  "Maquinista atribuyó ruido a golpe de vía",
+  "Guardias jurados escucharon ruido metálico",
+  "Puesto de Mando coordinó respuesta"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
 }

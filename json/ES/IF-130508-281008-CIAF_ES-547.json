@@ -1,0 +1,74 @@
+{
+ "id": "ES-IF-130508-281008-CIAF_ES-547",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-130508-281008-CIAF_ES-547.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-547",
+ "expediente": "0014/2008",
+ "titulo": "Arrollamiento de una persona por tren de cercanías en la línea Madrid-Hendaya, entre Alegia y Tolosa",
+ "fecha_suceso": "2008-05-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Guipúzcoa",
+  "pk": "594,380",
+  "linea": "100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 13 de mayo de 2008, a las 12:07 horas, el tren de cercanías 26828 de Renfe Operadora arrolló a una persona en el P.K. 594,380 de la línea 100 Madrid-Hendaya, entre el apeadero de Alegia y la estación de Tolosa (Guipúzcoa). La víctima era el responsable de Seguridad y Salud de unos trabajos de electrificación contratados por Adif. El fallecimiento se produjo al invadir la persona el gálibo de la vía durante el paso del tren. No hubo daños materiales, aunque se produjeron retrasos en varios trenes.",
+ "causa_directa": "La invasión del gálibo de la vía por parte de la persona arrollada en el momento del paso del tren de cercanías 26828.",
+ "causas_sistemicas": "La escasa visibilidad y el ruido próximo a la carretera N-I, junto con la ejecución de trabajos en la zona de seguridad sin medidas especiales de protección, motivaron la recomendación de analizar la adecuación y el seguimiento de la normativa de seguridad en trabajos próximos a la vía.",
+ "recomendaciones": [
+  "Analizar la adecuación de la normativa aplicable a la seguridad de los trabajos en las proximidades de la vía y el grado de seguimiento de la misma."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A maintenance worker, working onto the railway track, didn´t realise a train was approaching and failed to step aside.",
+  "Location name": "Kilometre point 594,378, at 100 Madrid-Hendaya railway line, between Tolosa and Legorreta station (Guipúzcoa)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Invasión del gálibo por trabajador",
+  "Trabajos próximos a la vía",
+  "Poca visibilidad tras salir del túnel",
+  "No se implantaron medidas especiales"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Foco de gran intensidad encendido",
+  "Parada de emergencia del tren",
+  "Comunicación inmediata al Puesto de Mando"
+ ],
+ "factores_humanos": [
+  "Invasión del gálibo por trabajador",
+  "Percepción auditiva reducida por ruido",
+  "No se consideraron medidas especiales",
+  "Trabajos sin afectación prevista a circulación"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF-240809-260110-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-240809-260110-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-806",
+ "expediente": "0045/2009",
+ "titulo": "Arrollamiento de una mujer en silla de ruedas en la estación de Sant Feliú de Llobregat (Barcelona)",
+ "fecha_suceso": "2009-08-24",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sant Feliú de Llobregat",
+  "provincia": "Barcelona",
+  "pk": "89+150",
+  "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 24 de agosto de 2009, el tren de cercanías 25163 de Renfe Operadora arrolló a una mujer en silla de ruedas que cruzaba por el paso entarimado entre andenes de la estación de Sant Feliú de Llobregat. La víctima estaba acompañada por su hija, quien logró saltar al andén, mientras que la madre fue golpeada por el tren. El accidente se produjo cuando el tren circulaba a una velocidad inferior a la máxima permitida y sus equipos de seguridad funcionaban correctamente. El informe concluye que el origen fue la invasión indebida del gálibo de la vía por la víctima, aunque pudo contribuir el deficiente estado del pavimento del paso.",
+ "causa_directa": "El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima, que cruzaba el paso entarimado entre andenes cuando se aproximaba un tren.",
+ "causas_sistemicas": "El informe apunta que pudo contribuir el deficiente estado de conservación del pavimento del paso entarimado. Además, la recomendación señala la falta de una normativa general de dispositivos de seguridad en estaciones y la necesidad de considerar a personas con movilidad reducida.",
+ "recomendaciones": [
+  "Insistir en la implementación de la recomendación general del estudio CIAF sobre arrollamiento de personas, incluyendo un inventario y análisis de riesgos de estaciones y apeaderos, con especial atención a personas de movilidad reducida."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A disabled woman in wheelchair, accompanied by her daughter, as trying to crosss between platforms through a board crossing, is hit by a passenger train. The daughter stepped aside.",
+  "Location name": "San Feliú de Llobregat station (Barcelona), kilometre point 89,150, 240 San Vicente de Calders-L´Hospitalet de Llobregat railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim had been informed that the trains operating in this station were not adapted to disabled persons",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "The poor state of the pavement may have contributed to the accident. After the accident the former pavement was replaced by a strail one"
+ }
+}

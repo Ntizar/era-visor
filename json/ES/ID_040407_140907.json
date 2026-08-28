@@ -1,0 +1,79 @@
+{
+ "id": "ES-ID_040407_140907",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_040407_140907.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-217",
+ "expediente": "17/2007",
+ "titulo": "Arrollamiento de persona en paso entre andenes de la estación de El Caleyo (Oviedo)",
+ "fecha_suceso": "2007-04-04",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "El Caleyo",
+  "provincia": "Oviedo",
+  "pk": "134+410",
+  "linea": "Línea 130 Venta de Baños a Gijón Cercanías"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "Un tren de larga distancia arrolló mortalmente a una persona que cruzaba las vías por un paso de servicio entre andenes en la estación de El Caleyo. La víctima invadió el gálibo de la vía mientras el tren circulaba a 86 km/h, velocidad inferior a la máxima permitida. El maquinista aplicó el freno de emergencia y usó el silbato, pero no pudo evitar el impacto.",
+ "causa_directa": "Imprudencia de la víctima al invadir intempestivamente la vía por el paso entre andenes sin percatarse de la llegada del tren.",
+ "causas_sistemicas": "Ausencia de paso inferior entre andenes y falta de cerramiento entre la carretera comarcal y la estación.",
+ "recomendaciones": [
+  "Reforzar la señalización vertical en los accesos al paso entarimado.",
+  "Informar por megafonía de la aproximación de los trenes.",
+  "Estudiar la posible construcción de un paso inferior."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person crossing through a board crossing is hit by the long distance train 10620.",
+  "Location name": "El Caleyo station (Asturias). Railway from Gijón to León (130 Gijón-Venta de Baños railway line)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident arose from the impudence of the victim who did not notice the arrival of the long-distance train 10620."
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima invadió gálibo vía",
+  "Víctima no percató tren",
+  "No había paso inferior entre andenes",
+  "No había cerramiento carretera vía"
+ ],
+ "mitigaciones": [
+  "Maquinista usó silbato",
+  "Maquinista aplicó freno emergencia",
+  "Reforzar señalización vertical accesos",
+  "Instalar megafonía aproximación trenes"
+ ],
+ "factores_humanos": [
+  "Imprudencia de la víctima",
+  "Víctima no percató tren",
+  "Maquinista actuó correctamente",
+  "Falta organización seguridad peatones"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true
+}

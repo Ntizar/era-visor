@@ -1,0 +1,73 @@
+{
+ "id": "ES-IF-140209-290909-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-140209-290909-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-698",
+ "expediente": "0009/2009",
+ "titulo": "Rebase de señal de salida en rojo en Lieres con talonamiento de desvío y conato de colisión",
+ "fecha_suceso": "2009-02-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Lieres",
+  "provincia": "Asturias",
+  "pk": "340,807",
+  "linea": "Línea 21 Oviedo-Santander"
+ },
+ "entidades": [
+  "Feve",
+  "CTC de El Berrón"
+ ],
+ "resumen": "El 14 de febrero de 2009, el tren de cercanías 5714 de Feve rebasó la señal de salida S2/3 en rojo a la salida de la estación de Lieres. El rebase provocó el talonamiento del desvío 3 y un conato de colisión con el tren 5901, con el que estaba previsto un cruce. El tren 5714 circulaba con el ASFA desconectado por avería, lo que causó retraso y modificó el cruce a Lieres. Según el informe, el incidente se originó por un mal entendimiento entre el maquinista y el CTC sobre una supuesta autorización de rebase, con deficiencias en el registro y la grabación de comunicaciones.",
+ "causa_directa": "El maquinista del tren 5714 rebasó la señal de salida en rojo en Lieres tras un mal entendimiento con el CTC sobre una autorización de rebase que no quedó confirmada en los registros ni en las grabaciones.",
+ "causas_sistemicas": "Deficiencias en los sistemas de comunicación entre CTC y tren, errores en el registro de telefonemas, grabaciones de audio incompletas y circulación en circunstancias de anormalidad por ASFA desconectado.",
+ "recomendaciones": [
+  "09/09-1: Comprobar el buen funcionamiento de los sistemas de comunicación entre maquinistas y CTC para garantizar la perfecta comunicación y entendimiento.",
+  "09/09-2: Realizar una auditoría del cumplimiento de los procedimientos de registro de comunicaciones y telefonemas escritos.",
+  "09/09-3: Insistir en el cumplimiento riguroso de las normas de comunicaciones de explotación y en la atención en la conducción, especialmente en anormalidad."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "A passenger train failed to stop at the signal at the end of the station which stated a stop aspect (red). As a result, a near miss collision with the preceding train was caused.",
+  "Location name": "Lieres station, kilometre point 340,807, 21 Oviedo-Santander railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "Feve",
+  "IM involved": "Feve",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused by a misunderstanding between the driver of train 5714, which overruns the signal placed at the end of the station (stating a restrictive aspect - red), and the traffic master of the CTC which, according to the statement from the driver, gave him the order to overrun the signal (fact that is written down in the train driver telephone messages book but not in the CTC`s book)."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "ASFA desconectado por avería",
+  "Modificación del cruce previsto",
+  "Autorización para circular sin ASFA",
+  "Comunicación telefónica interrumpida"
+ ],
+ "mitigaciones": [
+  "Señal avanzada cambió a rojo",
+  "Tren 5901 se detuvo",
+  "Orden de retroceso a Lieres",
+  "Restablecimiento de circulación normal"
+ ],
+ "factores_humanos": [
+  "Mal entendimiento entre interlocutores",
+  "Deficiencias en comunicaciones de explotación",
+  "Errores en registro de telefonemas",
+  "Falta de atención en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

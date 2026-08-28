@@ -1,0 +1,53 @@
+{
+ "id": "ES-IF_060912__300713_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_060912__300713_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0308",
+ "expediente": "0061/2012",
+ "titulo": "Descarrilamiento de vagón porta-automóviles entre Almudévar y Tardienta (Huesca)",
+ "fecha_suceso": "2012-09-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Tardienta",
+  "provincia": "Huesca",
+  "pk": "51+800",
+  "linea": "Línea 200 Madrid Chamartín - Barcelona Estación de Francia"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Semat - Transfesa",
+  "Adif"
+ ],
+ "resumen": "El 6 de septiembre de 2012, el tren de mercancías 82658 entre Almudévar y Tardienta se detuvo por pérdida de freno. El maquinista comprobó que el vagón decimocuarto estaba descarrilado de ambos ejes y le faltaba la caja de grasa del segundo eje. El origen fue la rotura de una mangueta por sobrecalentamiento del rodamiento y el incumplimiento del mantenimiento, junto con una asignación errónea de alarma en el detector de ejes calientes de Casetas.",
+ "causa_directa": "Fallo del material móvil por rotura de la mangueta derecha del segundo eje del vagón decimocuarto, causada por aumento de temperatura en la caja de grasa por agarrotamiento del rodamiento, junto con un fallo del detector de ejes calientes de Casetas que asignó erróneamente la alarma a otro tren.",
+ "causas_sistemicas": "Superación del plazo límite de mantenimiento de los ejes, falta de sincronización entre ciclos de revisión del vagón y de los ejes, deficiencias en la documentación, anomalía no detectada en la aplicación de asignación de alarmas del detector y ausencia de identificación clara del vagón asociado al eje en la hoja de material.",
+ "recomendaciones": [
+  "Poner al día la documentación del mantenimiento de vagones porta-automóviles tipo Leks, haciendo coincidir el ciclo de mantenimiento de los ejes con la operación tipo R de los vagones.",
+  "Establecer con Transfesa el plan de adaptación e implantación de ejes tipo 65 a vagones tipo Leks de ejes tipo 66, con seguimiento de su implantación y resultado.",
+  "Estudiar incorporar a la hoja de material de los trenes el número de ejes por vagón para identificar fácilmente el vagón correspondiente a un eje con indicios de caldeo.",
+  "Realizar reciclaje formativo al personal del puesto de mando de Miranda sobre gestión de alarmas de caldeo de ejes calientes.",
+  "Revisar la operativa de funcionamiento de los DEC instalados en la RFIG para evitar una asignación errónea del número de tren.",
+  "Reiterar la recomendación 1 del expediente 51/2012: estudiar modificaciones normativas sobre la gestión de alarmas en equipos de detectores de ejes calientes."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Freight train partially derailed between Almudévar and Tardienta stations (Huesca). \nTren de mercancías descarrila parcialmente en la estación de Almudévar (Huesca).",
+  "Location name": "Almudévar station (Huesca)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in a failure of the rolling stock by the breakage of the right axle journal of the second axle of 14th wagon (direction of travel) due to an overheating of the grease box because of the seizing of the aforementioned axle´s bearing. Additionally, there was a failure of the hot axle detector since wrongly assigned the axle overheating alarm to another train."
+ }
+}

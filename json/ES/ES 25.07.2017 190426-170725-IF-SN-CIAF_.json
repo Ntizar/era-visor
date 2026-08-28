@@ -1,0 +1,59 @@
+{
+ "id": "ES-ES 25.07.2017 190426-170725-IF-SN-CIAF_",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 25.07.2017 190426-170725-IF-SN-CIAF_.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0043/2017",
+ "titulo": "Incidente ferroviario en Torralba (Soria): rebase de señal y deriva de locomotora aislada",
+ "fecha_suceso": "2017-07-25",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Torralba",
+  "provincia": "Soria",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Adif",
+  "Ferrovial Railway"
+ ],
+ "resumen": "El 25 de julio de 2017 se produjo un incidente ferroviario en la estación de Torralba (Soria). Una locomotora aislada del tren 90957 rebasó indebidamente la señal de entrada E1 por falta de atención del personal de conducción. La locomotora quedó sin freno automático por rotura de la transmisión cardan del motor al compresor y fugas neumáticas, y derivó hasta detenerse en zona de cambios. Los gestores de Adif coordinaron su aseguramiento con calces y el posterior apartamiento.",
+ "causa_directa": "El rebase indebido de la señal E1 se debió a la falta de atención del maquinista y del OMI. La deriva se debió a la rotura de la transmisión cardan del motor diésel al compresor de freno, que dejó inoperativo el freno automático antes de lo previsto, con fugas en el circuito neumático; como factor coadyuvante hubo una declividad superior a 3 milésimas.",
+ "causas_sistemicas": "La locomotora circuló con el ASFA analógico desconectado desde origen y el registrador detenido por falta de cuerda; en la estación no se aseguró suficientemente con el freno de estacionamiento; y la revisión de la transmisión cardan no estaba incluida en el plan de mantenimiento.",
+ "recomendaciones": [
+  "Insistir en la formación del personal de conducción sobre la atención a la señalización, la obligatoriedad de circular con ASFA y registrador conectados desde origen, y la colocación de calces antideriva ante problemas del freno automático.",
+  "Incluir en el manual de conducción de este tipo de locomotoras la obligatoriedad de colocar calces antideriva en paradas prolongadas."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "ASFA desconectado desde origen",
+  "No mantener atención señalización",
+  "No aplicar freno estacionamiento",
+  "No revisar transmisión cardan"
+ ],
+ "mitigaciones": [
+  "Colocación de calces antideriva",
+  "Aplicar freno estacionamiento correctamente",
+  "Circular con ASFA conectado",
+  "Revisar transmisión cardan periódicamente"
+ ],
+ "factores_humanos": [
+  "Falta atención a señalización",
+  "Maquinista y OMI sin atención",
+  "Circulación con ASFA desconectado",
+  "Mantenimiento omitió revisión cardan"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

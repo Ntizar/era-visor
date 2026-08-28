@@ -1,0 +1,45 @@
+{
+ "id": "ES-IF_260412_290113_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_260412_290113_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1421",
+ "expediente": "0030/2012",
+ "titulo": "Rebase de señal de salida en la estación de Río Huerva (Zaragoza) con conato de colisión",
+ "fecha_suceso": "2012-04-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Río Huerva",
+  "provincia": "Zaragoza",
+  "pk": "16+973",
+  "linea": "214 La Cartuja a CIM de Zaragoza"
+ },
+ "entidades": [
+  "Logitren",
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 26 de abril de 2012, a las 23:58 horas, el tren de mercancías 99561 de Logitren rebasó la señal de salida S1/3 en indicación de parada en la estación de Río Huerva (Zaragoza). El rebase provocó un conato de colisión con el tren 91182 de Renfe Operadora, que estaba detenido ante la señal de entrada E2 para el cruce. El tren rebasador se detuvo 18 metros después de la señal, sin talonar el cambio, y el material rodante y la infraestructura funcionaron correctamente.",
+ "causa_directa": "Rebase indebido de la señal de salida S1/3 en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Freight train (99561) overran exit signal S1/3, which stated a red aspect, at Río Huerva siding. This caused a near miss train collision with another freight train (91182).",
+  "Location name": "Rio Huerva siding (Zaragoza)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Siding",
+  "Movement type": "Freight train",
+  "RU involved": "LOGITREN FERROVIARIA; \nRENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when freight train 99561 unduly overran the exit signal S1/3 - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ }
+}

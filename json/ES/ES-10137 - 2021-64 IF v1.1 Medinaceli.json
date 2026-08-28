@@ -1,0 +1,62 @@
+{
+ "id": "ES-ES-10137 - 2021-64 IF v1.1 Medinaceli",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES-10137 - 2021-64 IF v1.1 Medinaceli.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "64/2021",
+ "titulo": "Fallo de cargamento por vuelco de contenedores en Medinaceli (Soria) debido a viento lateral",
+ "fecha_suceso": "2021-08-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Soria",
+  "pk": "161+300 - 161+500",
+  "linea": "Línea 200 Madrid-Chamartín a Barcelona-França"
+ },
+ "entidades": [
+  "ADIF",
+  "LCR",
+  "RAXELL RAIL",
+  "AESF"
+ ],
+ "resumen": "El tren 90666 sufrió el desplazamiento y vuelco de varios contenedores vacíos de tipo High Cube mientras circulaba entre Torralba y Medinaceli. El incidente fue provocado por fuertes ráfagas de viento combinadas con la orografía del terreno, que generó un efecto túnel sobre un terraplén. Los contenedores no estaban correctamente asegurados al vagón Kglps transformado, ya que el sistema de estanciones permitía holguras excesivas que no impedían el levantamiento vertical de la carga.",
+ "causa_directa": "Uso de un sistema de amarre entre contenedores y vagones que no prevenía la descomposición vertical de las unidades de carga, sumado a la aparición de ráfagas de viento que generaron una fuerza ascendente sobre los contenedores.",
+ "causas_sistemicas": "No consideración de todos los riesgos operativos posibles relacionados con la transformación de componentes ferroviarios durante la recopilación de información de riesgos; incumplimiento de las directrices de carga UIC aplicables a la empresa ferroviaria.",
+ "recomendaciones": [
+  "Informar a las empresas ferroviarias de mercancías que los vagones sin espigas ISO requieren medidas de seguridad adicionales para evitar el vuelco de unidades de carga vacías causado por componentes laterales del viento.",
+  "Supervisar y controlar que se tengan en cuenta todos los riesgos operativos al modificar vagones; rastrear y asignar cualquier riesgo no mitigado al actor relevante.",
+  "Preparar y distribuir pautas y prescripciones aplicables a la carga, ajuste y sujeción de mercancías, para que los responsables de operaciones de carga las implementen adecuadamente y las empresas ferroviarias verifiquen que se cumplen los requisitos de seguridad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Sujeción ineficiente de contenedores",
+  "Autorización especial con holguras erróneas",
+  "Suelo de madera no retirado",
+  "Incumplimiento de guías UIC de carga"
+ ],
+ "mitigaciones": [
+  "Retirada preventiva de vagones",
+  "Recomendación técnica sobre viento lateral",
+  "Verificaciones específicas antes de expedición",
+  "Modificación de procedimientos de carga"
+ ],
+ "factores_humanos": [
+  "Error en autorización de transporte",
+  "Riesgos de transformación no evaluados",
+  "Incumplimiento de guías de carga",
+  "Supervisión de riesgos insuficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

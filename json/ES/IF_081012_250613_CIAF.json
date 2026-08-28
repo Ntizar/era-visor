@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF_081012_250613_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_081012_250613_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0358",
+ "expediente": "0064/2012",
+ "titulo": "Rotura de eje del tren 15640 entre Villanueva de Gállego y Zuera, Huesca",
+ "fecha_suceso": "2012-10-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Villanueva de Gállego - Zuera",
+  "provincia": "Huesca",
+  "pk": "PK 25+100",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia, tramo San Juan de Mozarrifar - Zuera"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 8 de octubre de 2012, el tren 15640 de media distancia de Renfe Operadora se detuvo en plena vía entre Villanueva de Gállego y Zuera al observar chispas en el primer bogie. Al reconocer el tren, el maquinista comprobó que las ruedas del segundo eje apoyaban inclinadas por la rotura del cuerpo del eje. La rotura se originó en una fisura superficial causada por un contacto eléctrico, probablemente con un equipo de soldadura, que progresó por fatiga. El incidente tuvo su origen en un fallo del material rodante.",
+ "causa_directa": "Fallo del material por la rotura del segundo eje motor del primer bogie, iniciada en una fisura superficial provocada por contacto con un elemento eléctrico y progresada por fatiga.",
+ "causas_sistemicas": "El eje superó el límite del ciclo de intervención tipo R, única inspección por ultrasonidos de los cuerpos de eje, y la fisura pudo originarse por prácticas de soldadura inadecuadas, como cebar el electrodo sobre elementos del vehículo.",
+ "recomendaciones": [
+  "Analizar la viabilidad de extender las medidas adoptadas a vehículos con circunstancias similares."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Broken axles",
+  "Occurrence description": "A medium distance passenger train has to stop due to a breakage of axle nº2.",
+  "Location name": "Kilometre point 25+100 at 200 Madrid â€“ Barcelona railway line, between Villanueva de Gallego and Zuera (Huesca)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The breakage has its cause in an old crack probably made when the axle came into contact with a welding equipment."
+ }
+}

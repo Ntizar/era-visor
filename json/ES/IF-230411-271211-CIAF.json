@@ -1,0 +1,47 @@
+{
+ "id": "ES-IF-230411-271211-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-230411-271211-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1133",
+ "expediente": "0017/2011",
+ "titulo": "Descarrilamiento del tren 15400 entre Bellvitge-Aguja y Barcelona Sants por rotura de eje",
+ "fecha_suceso": "2011-04-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Bellvitge-Aguja",
+  "provincia": "Barcelona",
+  "pk": "675+220",
+  "linea": "200 Barcelona Sants - Madrid Chamartín"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 23 de abril de 2011, el tren de media distancia 15400 de Renfe Operadora descarriló del último bogie en el PK 675+220 de la línea 200, entre Bellvitge-Aguja y Barcelona Sants. No se produjeron daños personales. La investigación atribuye el suceso a la rotura de un eje motor, iniciada por una fisura provocada por un arco eléctrico debido al mal estado de la toma de tierra. El plan de mantenimiento no contemplaba la revisión de la zona de contacto de la escobilla con el eje.",
+ "causa_directa": "Rotura del último eje de la composición en el sentido de la marcha, provocada por una fisura en la zona de tracción del eje motor, muy posiblemente originada por un arco eléctrico generado por el mal funcionamiento de la toma de tierra.",
+ "causas_sistemicas": "Deficiencia del plan de mantenimiento al no incluir la inspección de la zona de contacto de la toma de tierra con el eje, lo que permitió el deterioro prolongado de la escobilla y la generación de arcos eléctricos.",
+ "recomendaciones": [
+  "Incorporar al plan de mantenimiento del material 440-470 el nuevo procedimiento de inspección de las tomas de tierra y de la zona de contacto del eje.",
+  "Analizar qué otro tipo de material móvil es susceptible de sufrir un deterioro en sus ejes por un mal funcionamiento de las tomas de tierra, incorporando a su plan de mantenimiento medidas similares.",
+  "Estudiar la inclusión en el plan de mantenimiento del material 440-470 la inspección por ultrasonidos en alguna intervención intermedia entre las R (reparación general)."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "A passenger train partially derailed near Bellvitge station.",
+  "Location name": "Kilometre point 675+220, 200 Madrid-Barcelona railway line, between Bellvitge and Barcelona Sants station (Barcelona).",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by the breakage of the last axle of the train (direction of travel) which had its origin in a crack in the traction zone of the driving axle. This probably was due to the malfunction of the electrical outlet."
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "ES-IF-290610-250211-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-290610-250211-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-988",
+ "expediente": "0032/2010",
+ "titulo": "Conato de colisión entre maniobra de material vacío y tren de cercanías en la estación de Sant Andreu Arenal, Barcelona",
+ "fecha_suceso": "2010-06-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Sant Andreu Arenal",
+  "provincia": "Barcelona",
+  "pk": "361+100",
+  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 29 de junio de 2010, a las 9:07, en la estación de Sant Andreu Arenal (Barcelona) se produjo un conato de colisión entre una maniobra de material vacío procedente del tren 25122 y el tren de cercanías 28708, ambos de Renfe Operadora. La maniobra rebasó indebidamente la señal de retroceso R3 en indicación de parada y volvió a invadir la vía 4. El tren 28708 quedó detenido frente a ella a unos 100 metros. Las instalaciones y los equipos de seguridad funcionaron correctamente.",
+ "causa_directa": "El rebase indebido de la señal de retroceso R3 en indicación de parada por la maniobra de material vacío, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "The empty stock (former commuter train 25122) being at the station, resume its march and overtook R3 signal (stated a stop aspect) causing a near miss train collision with train 25016, which was entering the station.",
+  "Location name": "Sant Andreu Arenal station (Barcelona), 220 Lleida Pirineus-L´Hospitalet de Llobregat railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the empty stock overtook, without authorization, the backing signal (R3) - which stated a stop aspect - due to the non-compliance of the signal instructions by the  train driver"
+ }
+}

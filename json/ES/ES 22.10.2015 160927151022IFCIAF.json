@@ -1,0 +1,55 @@
+{
+ "id": "ES-ES 22.10.2015 160927151022IFCIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 22.10.2015 160927151022IFCIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0052/2015",
+ "titulo": "Rebase indebido de señal de salida en Río Huerva (Zaragoza) por tren de mercancías 99563",
+ "fecha_suceso": "2015-10-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Río Huerva",
+  "provincia": "Zaragoza",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Continental Rail"
+ ],
+ "resumen": "El tren de mercancías 99563 rebasó la señal de salida S1/3 en indicación de parada en la estación de Río Huerva, Zaragoza. El maquinista comunicó que se había dormido y reconoció la falta de atención, aunque no talonó la aguja. La investigación atribuyó el suceso a un fallo humano, con factores coadyuvantes como la escasa experiencia, la posible fatiga y la superación de tiempos de conducción. También se detectaron carencias en el sistema de gestión de la seguridad de Continental Rail para controlar jornadas y tiempos de conducción.",
+ "causa_directa": "Fallo humano del personal de conducción por falta de atención, que provocó el rebase indebido de la señal de salida S1/3 en indicación de parada.",
+ "causas_sistemicas": "El SGS de Continental Rail no contemplaba procedimientos para verificar jornadas y ajustar tiempos de conducción en situaciones degradadas, ni incorporaba las Recomendaciones Técnicas 7/2014 sobre control de tiempos máximos; tampoco se constataron criterios generales para suspender, revocar o recuperar habilitaciones tras un fallo humano.",
+ "recomendaciones": [
+  "Elaborar e incluir en el SGS de Continental Rail un procedimiento para verificar jornadas de maquinistas y ajustar tiempos de conducción en situación degradada.",
+  "Incorporar al SGS de Continental Rail las Recomendaciones Técnicas 7/2014 sobre control de tiempos máximos de conducción.",
+  "Elaborar e incluir en el SGS de Continental Rail criterios para suspensión, revocación y recuperación de habilitaciones tras un fallo humano."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "falta de atención del maquinista",
+  "escasa experiencia en la vía",
+  "superación tiempo conducción continuada"
+ ],
+ "mitigaciones": [
+  "parada tren Transfesa ante señal entrada",
+  "conato colisión sin impacto material"
+ ],
+ "factores_humanos": [
+  "fatiga por jornada prolongada",
+  "desconocimiento particularidades estación",
+  "incumplimiento límites tiempos conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

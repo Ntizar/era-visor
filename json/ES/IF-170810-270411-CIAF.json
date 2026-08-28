@@ -1,0 +1,69 @@
+{
+ "id": "ES-IF-170810-270411-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-170810-270411-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1038",
+ "expediente": "0046/2010",
+ "titulo": "Conato de colisión entre trenes de mercancías por rebase de señal en Ponferrada",
+ "fecha_suceso": "2010-08-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "Ponferrada",
+  "provincia": "León",
+  "pk": "250+950",
+  "linea": "800 A Coruña - León"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 17 de agosto de 2010, el tren de mercancías 82214 rebasó indebidamente la señal de salida S2/4 en indicación de parada en la estación de Ponferrada. Al ocupar la vía contigua, se produjo un conato de colisión con el tren LK289 que entraba a la estación. El incidente fue causado por el incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+ "causa_directa": "Rebase indebido de la señal de salida S2/4, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Spad",
+  "Occurrence description": "Freight train 82214 overtook exit signal (stop aspect) but ASFA system worked making the train to stop. As a result, freight train 82214 forced open point nº1 and a near miss train collision with train LK289 was caused.",
+  "Location name": "Ponferrada station (León), exit signal S2/4, kilometre point 250,553, 800 A Coruña-León railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the train overtook, without authorization, the exit signal (S2/4) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Aumentar velocidad tras señal entrada",
+  "Ocupar circuito estacionamiento vía 4",
+  "No detenerse ante señal parada",
+  "Establecer itinerario entrada vía 3"
+ ],
+ "mitigaciones": [
+  "Activación urgencia ASFA",
+  "Buena visibilidad señal salida",
+  "Baliza pie de señal",
+  "Detención tras rebase señal"
+ ],
+ "factores_humanos": [
+  "Incumplimiento órdenes señales",
+  "Fallo humano conducción",
+  "Retroceso sin autorización",
+  "No respetar indicación parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

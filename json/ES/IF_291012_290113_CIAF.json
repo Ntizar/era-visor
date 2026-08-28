@@ -1,0 +1,48 @@
+{
+ "id": "ES-IF_291012_290113_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF_291012_290113_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-0652",
+ "expediente": "0071/2012",
+ "titulo": "Arrollamiento de vehículo en paso a nivel entre Miguelturra y Pozuelo de Calatrava, Ciudad Real",
+ "fecha_suceso": "2012-10-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Ciudad Real",
+  "pk": "257+758",
+  "linea": "522 Manzanares - Ciudad Real"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 29 de octubre de 2012, el tren de media distancia 18081 de Renfe Operadora arrolló a un vehículo de carretera en un paso a nivel clase A entre Miguelturra y Pozuelo de Calatrava. El vehículo invadió el gálibo de la vía al cruzar el paso a nivel mientras pasaba el tren. El conductor del vehículo resultó herido leve. Tras el suceso, la velocidad máxima en el paso a nivel se redujo de 60 a 40 km/h.",
+ "causa_directa": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando pasaba el tren 18081.",
+ "causas_sistemicas": "En 2012 se puso en servicio una rotonda que aumentó sustancialmente el tráfico por el Camino de Carrión, haciendo que la intensidad media diaria actual fuera superior a la considerada para la protección clase A del paso a nivel.",
+ "recomendaciones": [
+  "Solicitar al titular del camino, Ayuntamiento de Miguelturra, el valor actual de la intensidad media diaria de vehículos.",
+  "Conocido el valor actual de la IMD, adecuar las características del paso a nivel a lo establecido en la Orden de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "Passenger train knocked down a vehicle that crossed level crossing, type A, while the former was passing through it. The car´s driver was slightly injured.",
+  "Location name": "Miguelturra (Ciudad Real)",
+  "Railway System type": "Railway",
+  "Line type": "Single track",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when the road vehicle invaded the level crossing as the train was approaching."
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "id": "ES-IF-100611-290512-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/IF-100611-290512-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-1174",
+ "expediente": "0028/2011",
+ "titulo": "Arrollamiento de un tubo metálico en el PK 11+100 de la LAV Madrid Puerta de Atocha a Sevilla Santa Justa",
+ "fecha_suceso": "2011-06-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Los Gavilanes",
+  "provincia": "Madrid",
+  "pk": "11+100",
+  "linea": "LAV 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora",
+  "Gas Natural Fenosa"
+ ],
+ "resumen": "El 10 de junio de 2011, a las 09:50 horas, el tren 2071 arrolló un tubo metálico que cruzaba las vías en el PK 11+100 de la LAV Madrid Puerta de Atocha a Sevilla Santa Justa, cerca del túnel de Perales. El tubo procedía de una hinca dirigida para soterrar una línea eléctrica y se desvió de su trayectoria, rompiendo un carril e invadiendo el gálibo. El tren se detuvo por una frenada de urgencia asociada a avería del LZB, y otro tren fue detenido y autorizado a circular con precaución. Se produjeron daños en la infraestructura y en el material rodante.",
+ "causa_directa": "La invasión del gálibo por un tubo metálico desviado durante una hinca dirigida, simultaneada con la circulación de trenes.",
+ "causas_sistemicas": "Incumplimiento de las prescripciones de la autorización de Adif: no informar el inicio de la hinca, ejecutarla fuera del horario nocturno, con tensión en catenaria y con circulación por ambas vías; y falta de coordinación y control de las condiciones de seguridad.",
+ "recomendaciones": [
+  "Adif: incluir en todas las autorizaciones de obras que las prescripciones particulares se lean, traten y firmen en la reunión inicial de coordinación de seguridad y salud, dejando constancia en acta."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "Passenger train collided with a metallic pipe that was lying on both track at kilometre point 11+100 (at the begining of Perales tunnel)",
+  "Location name": "Near Madrid-Atocha station (Madrid), before Perales tunnel, 10 Madrid Atocha - Sevilla Santa Justa railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "the accident had its origin when the running of trains and the works to bury a contact line were simultaneous"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "LZB",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Realizar hinca dirigida durante circulación",
+  "No notificar inicio exacto de hinca",
+  "Hinca fuera del horario nocturno",
+  "Trabajos con tensión en catenaria"
+ ],
+ "mitigaciones": [
+  "Realizar hinca sin circulaciones",
+  "Ejecutar hinca en horario nocturno",
+  "Trabajar sin tensión en catenaria",
+  "Notificar inicio exacto de hinca"
+ ],
+ "factores_humanos": [
+  "Gas Natural Fenosa incumplió autorización",
+  "Falta de coordinación con Adif",
+  "Responsables no cumplieron prescripciones",
+  "Omisión de condiciones de seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}
