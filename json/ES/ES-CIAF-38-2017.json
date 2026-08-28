@@ -1,0 +1,86 @@
+{
+ "id": "ES-CIAF-38-2017",
+ "pais": "ES",
+ "expediente": "0038/2017",
+ "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0038/2017 ocurrido el día 12.08.2017 en la estación de Puebla de Sanabria (Zamora)",
+ "fecha_suceso": "2017-08-12",
+ "hora": "11:55",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Puebla de Sanabria",
+  "provincia": "Zamora",
+  "lat": 42.0667,
+  "lng": -6.6333
+ },
+ "pk": "106+871",
+ "linea": "822 Zamora - A Coruña",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": "RENFE VIAJEROS",
+   "tipo": "Larga Distancia",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  },
+  {
+   "numero": null,
+   "operador": "RENFE VIAJEROS",
+   "tipo": "Mercancías/Pasajeros",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 12 de agosto de 2017 en la estación de Puebla de Sanabria (Zamora), donde el tren 154 de RENFE VIAJEROS entró en vía desviada por fallo en las instalaciones de seguridad. No se registraron víctimas ni daños materiales, aunque el maquinista detuvo el tren mediante frenado de emergencia. La causa principal fue el mal funcionamiento de los diodos de protección del relé de comprobación de la aguja 17, defecto derivado de una modificación tecnológica de 2008 ejecutada sin supervisión adecuada.",
+ "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.\n2.1. SUCESO .............................................................................................................................. 8\n2.1.1. Datos .................................................................................................................................. 8\n2.1.2. Descripción del suceso ......................................................................................................... 8\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante ................................................................................................................ 14\n2.2.3. Descri",
+ "causa_directa": "Mal funcionamiento de las instalaciones de seguridad",
+ "conclusiones": [
+  "Causa directa: Mal funcionamiento de las instalaciones de seguridad de la estación de Puebla de Sanabria, que muestran la aguja 17 orientada a vía general en el cuadro de mando local y CTC, mientras que en el terreno está orientada a vía desviada. Esto fue debido al fallo de los diodos para la protección de la bobina del relé de comprobación a normal de la aguja 17, tras el arranque de la instalación tras reparar una avería en el suministro eléctrico.",
+  "Factores coadyuvantes: Los técnicos de Mantenimiento de Infraestructura no accionaron eléctricamente las agujas 17 y 19 varias veces para comprobar su funcionamiento ni realizaron pruebas de concordancia entre el campo y el cuadro de mando local antes de dar de alta la instalación. El responsable de circulación incumplió el Manual de Operación 2299 al no verificar el buen funcionamiento de la aguja 17 tras la reparación.",
+  "Factores subyacentes: El Manual de Operación 2299 no contempla la comprobación de la concordancia entre la orientación del desvío en el campo con la representación videográfica en el CTC y cuadro de mando local antes de establecer itinerarios tras el accionamiento manual. No se realizó análisis de modo de fallo en contra de la seguridad por parte de la empresa que ejecutó los trabajos de modificación del enclavamiento, los cuales no fueron supervisados técnicamente de forma adecuada.",
+  "Causa raíz: Deficiencias en el diseño de los circuitos de mando y comprobación de la aguja 17, correspondientes a la modificación tecnológica del enclavamiento original de 2008 (sustitución de accionamientos por tipo unificado), que no fueron ejecutados conforme a procedimiento."
+ ],
+ "recomendaciones": [
+  "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF-DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
+  "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc.",
+  "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF-DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente."
+  },
+  {
+   "texto": "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc."
+  },
+  {
+   "texto": "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

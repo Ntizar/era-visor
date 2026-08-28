@@ -1,0 +1,44 @@
+{
+ "id": "ES-ID-160506-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-160506-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-12",
+ "expediente": "0021/2006",
+ "titulo": "Arrollamiento de una persona en el paso a nivel de la estación de Villarreal (Castellón)",
+ "fecha_suceso": "2006-05-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villarreal",
+  "provincia": "Castellón",
+  "pk": "62,363",
+  "linea": "Línea 600 Valencia-Tarragona"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El tren de Larga Distancia nº 1501 de RENFE, con locomotora 258.065, arrolló a una persona de 52 años en el paso a nivel de la estación de Villarreal, en el punto kilométrico 62,363 de la línea Valencia-Tarragona, sobre las 23:01 del 16 de mayo de 2006. Las semibarreras, la sonería y las señales luminosas del paso a nivel funcionaban correctamente, y el tren circulaba a 138 km/h, por debajo de los 140 km/h permitidos. La investigación concluyó que el accidente se originó por el tránsito de la víctima con el paso cerrado, estimándose imprudencia de la persona arrollada. No se produjeron daños materiales.",
+ "causa_directa": "El tránsito de la víctima por el paso a nivel mientras estaba cerrado, con semibarreras bajadas y señales acústicas y luminosas funcionando; se estima imprudencia de la persona arrollada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person died after being hit by a train at a level crossing equipped with barriers.",
+  "Location name": "Villareal station. Railway line from Valencia to Tarragona at kilometre point 62,363.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

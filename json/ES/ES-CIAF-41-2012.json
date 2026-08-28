@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-41-2012",
+ "pais": "ES",
+ "expediente": "0041/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0041/2012 OCURRIDO EL DÍA 01.06.2012 ENTRE LAS ESTACIONES DE DUESAIGÜES-L’ARGENTERA Y MARÇÀ-FALSET (TARRAGONA)",
+ "fecha_suceso": "2012-06-01",
+ "hora": "14:32",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Túnel no 73 de L’Argentera",
+  "provincia": "Tarragona",
+  "lat": 41.133572,
+  "lng": 0.871009
+ },
+ "pk": "558+049",
+ "linea": "210 Miraflores - Tarragona",
+ "trenes": [
+  {
+   "numero": "92559",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 1 de junio de 2012, en Falset (Tarragona), se produjo un descarrilamiento del tren de mercancías 92559 que causó importantes daños materiales en la infraestructura y el material rodante, sin registrar víctimas mortales ni heridos. La causa principal del accidente fue un fallo de la infraestructura derivado de la incorrecta disposición de un cupón de vía que no cumplía la normativa vigente.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 7\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 12\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................13\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................",
+ "causa_directa": "Fallo de la infraestructura por incorrecta disposición de un cupón de vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el fallo de la infraestructura, principalmente por una incorrecta disposición de un cupón de vía existente en dicha zona."
+ ],
+ "recomendaciones": [
+  "En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, con objeto de verificar la correcta aplicación de la normativa al respecto."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "41/12-1",
+   "texto": "En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, con objeto de verificar la correcta aplicación de la normativa al respecto."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

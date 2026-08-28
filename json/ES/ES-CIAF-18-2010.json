@@ -1,0 +1,84 @@
+{
+ "id": "ES-CIAF-18-2010",
+ "pais": "ES",
+ "expediente": "0018/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0018/2010 OCURRIDO EL DÍA 26.03.2010 EN LAS PROXIMIDADES DE LA ESTACIÓN DE ARÉVALO (ÁVILA)",
+ "fecha_suceso": "2010-03-26",
+ "hora": "00:33",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_alcance",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Arévalo",
+  "provincia": "Ávila",
+  "lat": 41.176095,
+  "lng": -4.790809
+ },
+ "pk": "172+050",
+ "linea": "100 Madrid Chamartín – Hendaya",
+ "trenes": [
+  {
+   "numero": "58242",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de mercancías"
+  },
+  {
+   "numero": "58244",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 26 de marzo de 2010, a las 00:33 horas, se produjo una colisión por alcance entre los trenes de mercancías 58242 y 58244 de Renfe Operadora en las proximidades de la estación de Arévalo (Ávila). El tren 58242, parado ante la señal de entrada E2 en indicación de parada, fue alcanzado por el tren 58244, que circulaba con indicación de vía libre en la señal avanzada 1734 debido a un fallo técnico en la señalización fija. Este fallo fue consecuencia de los cambios en el enclavamiento de la estación para la realización de pruebas de software y tarjetas, realizados sin la verificación en campo de la concordancia del estado de las señales y sin la interrupción completa de las circulaciones.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................................6\n2.1. SUCESO.....................................................................................................................................................................6\n2.2. CIRCUNSTANCIAS DEL SUCESO..............................................................................................................................8\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................................................10\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................................13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................................13\n3.1. RESUMEN DE LAS DECLARACIONES..............................................................................",
+ "causa_directa": "Fallo técnico en las instalaciones de seguridad",
+ "conclusiones": [
+  "El accidente tuvo su origen en un fallo técnico en las instalaciones de seguridad, en concreto, en la señalización fija, producido por los cambios en el enclavamiento de la estación de Arévalo para la realización de pruebas.",
+  "La colisión por alcance se produce al presentar indicación de vía libre la señal de avanzada 1734, encontrándose el circuito posterior ocupado y la señal de entrada E2 en indicación de parada.",
+  "Causas coadyuvantes: La no interrupción completa de las circulaciones durante los trabajos o el establecimiento de medidas que hubieran garantizado la seguridad de las mismas.",
+  "Causas coadyuvantes: La no verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos.",
+  "Causas coadyuvantes: La incorrecta evaluación del riesgo que comportaba la realización de esos trabajos."
+ ],
+ "recomendaciones": [
+  "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación).",
+  "Cuando la realización de estos trabajos pueda afectar al funcionamiento de las instalaciones de seguridad que regulan (señales, balizas, aparatos de vía, etc.), se deberán tomar las siguientes medidas: Interrupción de las circulaciones o, en su defecto, el establecimiento de un sistema de bloqueo alternativo que garantice la seguridad de las mismas. Finalizados los trabajos, y antes de permitir la normal circulación, se comprobará en campo que todas las instalaciones de seguridad (señales, balizas, aparatos de vía, etc.) son acordes con lo previsto. Estos términos se deberán recoger en la consigna correspondiente, especificando: Las actividades a realizar, los responsables de las mismas y las condiciones de seguridad necesarias. Los periodos de corte de circulación durante la realización de las pruebas. Las comprobaciones (concordancia) a realizar en las situaciones provisionales a que de lugar el periodo de baja del enclavamiento, para hacerlas compatibles con el tráfico. Todo lo anterior vendrá como resultado de un análisis de riesgos documentado a realizar conjuntamente con la empresa instaladora.",
+  "Se deberán revisar los procesos del sistema de Gestión de Seguridad/Calidad de la empresa, relativos a instalaciones de seguridad, tanto nuevas como modificación de las existentes, y en los casos de mantenimiento del tráfico ferroviario, con el fin de evitar situaciones similares a las del suceso. Se deberá clarificar en estos casos las funciones y responsabilidades del jefe de puesta en servicio de la empresa, como conocedor de los riesgos técnicos derivados de estas situaciones. Los equipos de seguridad de la empresa deberán controlar que se realicen de forma efectiva las actividades para la verificación/validación de los sistemas o subsistemas a instalar, o la modificación de los existentes. Además, este equipo de seguridad deberá dar conformidad a las actividades de campo previas a la puesta en servicio. Se deberá tener constancia documental de todo lo anterior (caso de seguridad) antes de proceder a la autorización de la puesta en servicio de la instalación, bien sea nueva o modificación de una existente. Todo ello particularizado para el proyecto concreto de que se trate."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "18/10-1",
+   "texto": "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación)."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "18/10-2",
+   "texto": "Cuando la realización de estos trabajos pueda afectar al funcionamiento de las instalaciones de seguridad que regulan (señales, balizas, aparatos de vía, etc.), se deberán tomar las siguientes medidas: Interrupción de las circulaciones o, en su defecto, el establecimiento de un sistema de bloqueo alternativo que garantice la seguridad de las mismas. Finalizados los trabajos, y antes de permitir la normal circulación, se comprobará en campo que todas las instalaciones de seguridad (señales, balizas, aparatos de vía, etc.) son acordes con lo previsto. Estos términos se deberán recoger en la consigna correspondiente, especificando: Las actividades a realizar, los responsables de las mismas y las condiciones de seguridad necesarias. Los periodos de corte de circulación durante la realización de las pruebas. Las comprobaciones (concordancia) a realizar en las situaciones provisionales a que de lugar el periodo de baja del enclavamiento, para hacerlas compatibles con el tráfico. Todo lo anterior vendrá como resultado de un análisis de riesgos documentado a realizar conjuntamente con la empresa instaladora."
+  },
+  {
+   "destinatario": "UTE Dimetronic-Thales",
+   "numero": "18/10-3",
+   "texto": "Se deberán revisar los procesos del sistema de Gestión de Seguridad/Calidad de la empresa, relativos a instalaciones de seguridad, tanto nuevas como modificación de las existentes, y en los casos de mantenimiento del tráfico ferroviario, con el fin de evitar situaciones similares a las del suceso. Se deberá clarificar en estos casos las funciones y responsabilidades del jefe de puesta en servicio de la empresa, como conocedor de los riesgos técnicos derivados de estas situaciones. Los equipos de seguridad de la empresa deberán controlar que se realicen de forma efectiva las actividades para la verificación/validación de los sistemas o subsistemas a instalar, o la modificación de los existentes. Además, este equipo de seguridad deberá dar conformidad a las actividades de campo previas a la puesta en servicio. Se deberá tener constancia documental de todo lo anterior (caso de seguridad) antes de proceder a la autorización de la puesta en servicio de la instalación, bien sea nueva o modificación de una existente. Todo ello particularizado para el proyecto concreto de que se trate."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

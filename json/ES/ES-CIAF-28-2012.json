@@ -1,0 +1,56 @@
+{
+ "id": "ES-CIAF-28-2012",
+ "pais": "ES",
+ "expediente": "0028/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 28/2012 OCURRIDO EL DÍA 18.04.2012 EN LA ESTACIÓN DE HERAS (CANTABRIA)",
+ "fecha_suceso": "2012-04-18",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Heras",
+  "provincia": "Cantabria",
+  "lat": 43.2333,
+  "lng": -2.8667
+ },
+ "pk": "545+009",
+ "linea": "24 Santander - Bilbao",
+ "trenes": [],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 18 de abril de 2012 en la estación de Heras (Cantabria), donde el tren de mercancías 9860 rebasó indebidamente una señal de parada, provocando un conato de colisión con el tren especial SR507. No se registraron víctimas ni heridos, aunque se produjeron daños materiales en la infraestructura valorados en 1.362,60 euros y retrasos en la circulación. La causa principal del suceso fue el incumplimiento por parte del personal de conducción de las órdenes de las señales, al no detenerse ante la indicación de parada de la señal S2/2.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Rebase indebido de la señal de salida S2/2",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren de mercancías 9860 de la señal de salida S2/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "28/12-1",
+   "texto": "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

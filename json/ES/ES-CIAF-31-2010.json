@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-31-2010",
+ "pais": "ES",
+ "expediente": "0031/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2010 OCURRIDO EL DÍA 26.06.2010 EN LA ESTACIÓN DE VITORIA – GASTEIZ (ÁLAVA)",
+ "fecha_suceso": "2010-06-26",
+ "hora": "00:28",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Vitoria – Gasteiz",
+  "provincia": "Álava",
+  "lat": 42.8505845,
+  "lng": -2.66145
+ },
+ "pk": "492+400",
+ "linea": "100 Madrid Chamartín – Hendaya",
+ "trenes": [
+  {
+   "numero": "407",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de larga distancia (tren-hotel ELIPSOS)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 26 de junio de 2010 en la estación de Vitoria-Gasteiz, que provocó cinco heridos leves. La causa principal fue la indicación de operaciones terminadas por parte de la agente de acompañamiento antes de finalizar la subida de viajeros.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................3\n2.1. SUCESO .............................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................7\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................9\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................9\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................9\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ..........................................................................13\n3.3. NORMATIVA....................................................",
+ "causa_directa": "Indicación de operaciones terminadas sin finalizar la subida de viajeros",
+ "conclusiones": [
+  "El accidente tuvo su origen al dar la agente de acompañamiento la indicación de operaciones terminadas, sin haber finalizado la bajada y subida de viajeros."
+ ],
+ "recomendaciones": [
+  "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+  "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "31/10-1",
+   "texto": "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”"
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "31/10-2",
+   "texto": "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

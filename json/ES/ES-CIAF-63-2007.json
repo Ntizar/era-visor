@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-63-2007",
+ "pais": "ES",
+ "expediente": "063/2007",
+ "titulo": "063/2007 — Estación de Salou,",
+ "fecha_suceso": "2007-12-21",
+ "hora": "07:32",
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Salou",
+  "provincia": "Barcelona",
+  "lat": 41.0768,
+  "lng": 1.144
+ },
+ "pk": "263,600",
+ "linea": "600 Valencia-San Vicente Calders",
+ "trenes": [
+  {
+   "numero": "18059",
+   "operador": "Renfe Operadora",
+   "tipo": "Regional Express"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El accidente ocurrió el 21 de diciembre de 2007 a las 07:32 en la estación de Salou, donde el tren Regional Express nº 18059 arrolló a un hombre de 65 años que cruzaba las vías por un paso vicioso en el vallado. La víctima falleció posteriormente en el traslado en ambulancia, y la investigación determinó que la causa fue la imprudencia de la víctima al invadir el gálibo sin percatarse de la llegada del tren.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [
+  "El lugar donde se produjo el arrollamiento se sitúa en la estación de Salou, sito en el punto kilométrico 263,600 de la línea Valencia-San Vicente Calders. Es un tramo que discurre en vía única con bloqueo automático.",
+  "El tramo ferroviario dispone de buena visibilidad pero disminuida por las condiciones atmosféricas del día del accidente: de noche, fuerte lluvia y con viento.",
+  "Se constata del registro de velocidad de la U/T 470035 que el tren 18059 circulaba a velocidad inferior a la máxima permitida. El tren tenía parada prescrita en la estación.",
+  "De las pruebas de alcoholemia y de droga, se constata que el maquinista se encontraba apto para el desarrollo de sus funciones y su actuación fue correcta.",
+  "Existe un paso vicioso practicado en el vallado de la estación por donde la persona accidentada, que trabajaba en la cafetería de la estación, accedió al recinto ferroviario.",
+  "Condiciones específicas de la estación: De acuerdo al CIRTRA 2006, eL nº de circulaciones reales (media semanal) del trayecto es de 457 (197 larga distancia, 134 media distancia, 124 mercancías y 2 servicio), que corresponde a una circulación clasificada como media (entre 301 y La Dirección General de Ferrocarriles está en estos momentos redactando el proyecto de remodelación de la Estación de Salou, con el fin de adecuar ésta a las necesidades que conlleva el nuevo trazado ferroviario de conexión del corredor mediterráneo con la Línea de Alta"
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "ES-CIAF-25-2017",
+ "pais": "ES",
+ "expediente": "0025/2017",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2017 OCURRIDO EL DÍA 23.05.2017 EN LAS PROXIMIDADES DE LA ESTACIÓN DE INOSO-OIARDO (ÁLAVA)",
+ "fecha_suceso": "2017-05-23",
+ "hora": "12:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Inoso-Oiardo",
+  "provincia": "Álava",
+  "lat": 42.9527247,
+  "lng": -2.8985342
+ },
+ "pk": "183+815",
+ "linea": "línea 700 Intermodal Abando Indalecio Prieto a Casetas",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": "Low Cost Rail",
+   "tipo": "mercancías",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Low Cost Rail",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 23 de mayo de 2017 en las proximidades de la estación de Inoso-Oiardo (Álava), que provocó el descarrilamiento de un vagón sin causar víctimas. La causa principal se atribuye a un fallo técnico por rotura de la suspensión del material rodante, agravado por un plan de mantenimiento inadecuado para las condiciones de explotación.",
+ "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.Datos...........................................................................................................................................................6\n2.1.2.Descripción del suceso.................................................................................................................................6\n2.1.3.Decisión de abrir la investigación...............................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO..........................................................................................................10\n2.2.1.Personal ferroviario implicado.............................................",
+ "causa_directa": "Fallo técnico del material rodante",
+ "conclusiones": [
+  "Como posible causa del descarrilamiento, sin poderse aseverar, se puede apuntar un fallo técnico del material rodante, debido a la rotura de la hoja maestra y su adyacente de la ballesta de la suspensión del lado izquierdo del 2º eje del vagón 43 71 4 378 118-9 que ocupaba el 5º lugar, en el sentido de la marcha.",
+  "Como causa subyacente se determina que este tipo de vagones, explotados parcialmente en régimen de alquiler, pueden estar soportando nuevos tráficos, de características distintas a las habituales, y circulando por líneas de diferente trazado, haciendo no efectivas las intervenciones programadas en su actual plan de mantenimiento."
+ ],
+ "recomendaciones": [
+  "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos.",
+  "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "25/17-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria / TRANSFESA - Empresa Operadora",
+   "contenido": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos."
+  },
+  {
+   "numero": "25/17-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria / TRANSFESA - Empresa Operadora",
+   "contenido": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

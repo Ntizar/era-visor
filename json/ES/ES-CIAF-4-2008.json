@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-4-2008",
+ "pais": "ES",
+ "expediente": "0004/2008",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0004/2008 OCURRIDO EL DÍA 14.03.2008",
+ "fecha_suceso": "2008-03-14",
+ "hora": "19:54",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Llinars del Vallés",
+  "provincia": "Barcelona",
+  "lat": 41.6396,
+  "lng": 2.4016
+ },
+ "pk": "P.K. 148/000",
+ "linea": "270 Barcelona-Cerbere",
+ "trenes": [
+  {
+   "numero": "28460",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  },
+  {
+   "numero": "25453",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 14 de marzo de 2008 en la estación de Llinars del Vallés, donde un tren de Cercanías arrolló a una motocicleta. El suceso provocó la muerte del conductor de la motocicleta y no causó daños materiales al material rodante ni a la infraestructura. La causa principal fue el cruce indebido del paso a nivel sorteando las semibarreras bajadas.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n14.03.08/ 19:54\nLugar:\nP.K. 148/000 entre las señales de entrada y salida de la estación de\nLlinars del Vallés.\nLínea:\n270 Barcelona-Cerbere.\nTrayecto:\nSan Celoní-Villanova i la Geltrúi.\nProvincia:\n\nBarcelona\nEl tren de Cercanías 28460, formado por las U/T 451009 en cabeza y 451010 en cola y 6 vehículos\ncon masa total remolcada 355 TM, arrolla, en el Paso a Nivel de Clase C del P.K. 148+000 (Camino\nRural de Can Moix) a una motocicleta que intentaba cruzar (de izquierda a derecha en el sentido de la\nmarcha del tren), estando las semibarreras bajadas. Como consecuencia del impacto de la motocicleta\ncon el lateral del tren, el conductor de la misma resulta muerto en el acto. Delante de esta\nmotocicleta, cruzó otra, también sorteando las semibarreras, que no resultó accidentada\nConocido el accidente por el Puesto de Mando de Barcelona, éste avisa inmediatamente al tren\n25453, que tras su estacionamiento en la estación de Llinars, se aproximaba por la vía impar donde",
+ "causa_directa": "Cruce indebido del paso a nivel con semibarreras bajadas",
+ "conclusiones": [
+  "La infraestructura y el material rodante cumplían la normativa de seguridad y funcionaron correctamente en el momento del accidente.",
+  "El comportamiento del maquinista, haciendo uso reiterado del silbato y aplicando el freno de emergencia, fue el adecuado.",
+  "El maquinista se encontraba en perfecto estado físico y psíquico para la realización de sus funciones, con pruebas de alcoholemia negativas.",
+  "Los registros de eventos del paso a nivel y del enclavamiento, así como las cámaras de vigilancia, corroboran que las semibarreras se encontraban abatidas y el sistema funcionaba correctamente.",
+  "El accidente tuvo su origen en el cruce del paso a nivel en un momento en que éste, estando las semibarreras bajadas, no estaba habilitado para ser sobrepasado por los vehículos."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-46-2010",
+ "pais": "ES",
+ "expediente": "0046/2010",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0046/2010 OCURRIDO EL DÍA 17.08.2010 EN LA ESTACIÓN DE PONFERRADA (LEÓN)",
+ "fecha_suceso": "2010-08-17",
+ "hora": "20:04",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Ponferrada",
+  "provincia": "León",
+  "lat": 42.547151,
+  "lng": -6.661421
+ },
+ "pk": "250+950",
+ "linea": "800 A Coruña - León",
+ "trenes": [
+  {
+   "numero": "82214",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  },
+  {
+   "numero": "LK289",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 17 de agosto de 2010 en la estación de Ponferrada (León) consistió en un conato de colisión entre dos trenes de mercancías de Renfe Operadora. No se registraron víctimas ni heridos, aunque hubo daños materiales en el cambio número 1 y retrasos significativos en la circulación. La causa principal fue el rebase indebido de la señal de salida S2/4 por parte del tren 82214, motivado por el incumplimiento de las órdenes de parada por parte del personal de conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES................................................................................................................ 7\n3.2.  NORMATIVA....................................................................................................................................",
+ "causa_directa": "Rebase indebido de la señal de salida S2/4",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren de mercancías 82214 de la señal de salida S2/4, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

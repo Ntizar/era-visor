@@ -1,0 +1,35 @@
+{
+ "id": "ES-ID-010307-140907-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-010307-140907-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0018/2007",
+ "titulo": "Arrollamiento de persona por tren de Media Distancia entre Valchillón y Córdoba El Higuerón, línea 430, Córdoba",
+ "fecha_suceso": "2007-03-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Córdoba",
+  "pk": "5/350",
+  "linea": "Línea 430 Bifurcación Córdoba El Higuerón a Málaga",
+  "lat": 37.8845813,
+  "lng": -4.7760138
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 1 de marzo de 2007, el tren de Media Distancia 3067 de Renfe arrolló a una persona en el punto kilométrico 5/350 de la línea 430, entre Valchillón y Córdoba El Higuerón, en la provincia de Córdoba. El maquinista observó a un hombre caminando por el centro de la vía en el sentido de marcha y accionó el silbato y el freno de emergencia, pero no pudo evitar el atropello. La víctima falleció y no se produjeron daños materiales. La investigación atribuyó el accidente a la imprudencia de la persona al transitar indebidamente por la vía.",
+ "causa_directa": "Imprudencia de la víctima al transitar indebidamente por la vía, de espaldas al tren y sin percatarse de su llegada, haciendo caso omiso del silbato. A pesar de la actuación del maquinista con el freno de emergencia, el arrollamiento fue inevitable.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Intensificar el Plan de instalación de cerramientos de las líneas.",
+  "Impulsar campañas de sensibilización y concienciación ciudadana sobre el peligro de cruzar o deambular por las vías del ferrocarril."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

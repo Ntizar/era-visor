@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-18-2008",
+ "pais": "ES",
+ "expediente": "0018/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0018/2008 OCURRIDO EL DÍA 27.05.2008",
+ "fecha_suceso": "2008-05-27",
+ "hora": "18:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre las estaciones de Santa Cruz de la Zarza y Ocaña",
+  "provincia": "Toledo",
+  "lat": 40.033064,
+  "lng": -3.618547
+ },
+ "pk": "P.K. 36,950",
+ "linea": "310 Madrid-Valencia",
+ "trenes": [
+  {
+   "numero": "18765",
+   "operador": "Renfe Operadora",
+   "tipo": "Media Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 27 de mayo de 2008 en el paso a nivel tipo B entre las estaciones de Santa Cruz de la Zarza y Ocaña, donde el tren de Media Distancia 18765 arrolló a una retroexcavadora. El suceso provocó la muerte del conductor de la maquinaria y dos heridos leves en el tren, además de daños materiales en el material rodante y la infraestructura. La causa principal fue la invasión del paso a nivel por parte de la excavadora, ignorando las señales de prohibición de cruce.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n27.05.08/ 18:00\nLugar:\nP.K. 36,950, paso a nivel tipo B, entre las estaciones de Santa Cruz de la\nZarza y Ocaña\nLínea:\n310 Madrid-Valencia\nTrayecto:\nOcaña - Santa Cruz de la Zarza\nProvincia:\n\nToledo\nEl tren de Media Distancia 18765 de Renfe Operadora, compuesto por automotor 592-215 (3\ncoches y masa remolcada de 153 Tm), arrolla a una retroexcavadora que invade, por el lado izquierdo\nen el sentido de la marcha del tren, el paso a nivel tipo B.\nEl conductor de la excavadora fallece y dos pasajeros del tren resultan heridos leves.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 27 de mayo a las 19:03 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una excavadora\npor un de tren de Media Distancia, en el paso a nivel tipo B, de la línea 310 Madrid-Valencia.\nEl Reglamento sobre seguridad en la circulación de la Red ",
+ "causa_directa": "Cruce de la excavadora por el paso a nivel en el momento que circulaba el tren",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la excavadora por el paso a nivel en el momento que circulaba el tren de media distancia 18765.",
+  "El conductor de la excavadora hizo caso omiso de las señales que avisaban de la prohibición de cruzar el paso a nivel.",
+  "La actuación del maquinista fue correcta, actuando sobre el freno de emergencia y haciendo uso de las señales acústicas al percatarse de la irrupción de la excavadora.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (101 km/h frente a 120 km/h permitidos).",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente.",
+  "La tasa de alcoholemia y las jornadas de trabajo del maquinista cumplían la normativa vigente."
+ ],
+ "recomendaciones": [
+  "La recomendación para este accidente forma parte de una recomendación general para el fomento de campañas de educación que incidan en el respeto a las señales de los pasos a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "La recomendación para este accidente forma parte de una recomendación general para el fomento de campañas de educación que incidan en el respeto a las señales de los pasos a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

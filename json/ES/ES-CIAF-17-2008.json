@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-17-2008",
+ "pais": "ES",
+ "expediente": "0017/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0017/2008 OCURRIDO EL DÍA 24.05.2008",
+ "fecha_suceso": "2008-05-24",
+ "hora": "16:48",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Villena",
+  "provincia": "Alicante",
+  "lat": 38.6333,
+  "lng": -0.8667
+ },
+ "pk": "396,675",
+ "linea": "330 La Encina-Alicante",
+ "trenes": [
+  {
+   "numero": "1183",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 24 de mayo de 2008 en Villena (Alicante) que provocó la muerte de una mujer de 85 años al ser arrollada por un tren de larga distancia. La causa principal del siniestro fue el tránsito de la víctima por un lugar no autorizado, aprovechando una rotura en el vallado de la vía. No se detectaron fallos en el material rodante, la infraestructura ni la actuación del maquinista.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n24.05.08/ 16:48\nLugar:\nP.K. 396,675, entre la señal avanzada y de entrada de la estación de\nVillena\nLínea:\n330 La Encina-Alicante\nTrayecto:\nVillena - Sax\nProvincia:\n\nAlicante\nEl tren de viajeros de larga distancia 1183 de Renfe Operadora, formado por el automotor 101106\n(10 coches, con masa remolcada de 418 Tm), aproximándose a la estación de Villena arrolla a una\nmujer que caminaba, acompañada de un perro, por la vía y de espaldas al tren.\nEl maquinista hace uso del silbato y aplica el freno de emergencia pero no puede evitar golpear a\nla mujer que sale despedida de la caja de la vía. El tren queda detenido en el andén de la estación.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 26 de mayo a las 10:19 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una persona por el\n\n\n\n\nInvestigación del accidente\n\n\n\n\nA\n\n\n",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello."
+ ],
+ "recomendaciones": [
+  "Reforzar el vallado.",
+  "Fomentar campañas de educación y concienciación ciudadana sobre la prohibición y los peligros de circular por las instalaciones ferroviarias cuando no está autorizado."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Reforzar el vallado."
+  },
+  {
+   "texto": "Fomentar campañas de educación y concienciación ciudadana sobre la prohibición y los peligros de circular por las instalaciones ferroviarias cuando no está autorizado."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "ES-CIAF-12-2017",
+ "pais": "ES",
+ "expediente": "0012/2017",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0012/2017 ocurrido el día 13.02.2017 en el paso a nivel clase A (PK 90+594) en el término municipal de Santo Domingo-Caudilla (Toledo)",
+ "fecha_suceso": "2017-02-13",
+ "hora": "22:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Paso a nivel clase A",
+  "provincia": "Toledo",
+  "lat": 39.97872,
+  "lng": -4.282803
+ },
+ "pk": "90+594",
+ "linea": "500 Bifurcación Planetario a Valencia de Alcántara",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "Tren de viajeros de media distancia",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de febrero de 2017 en el paso a nivel de Santo Domingo-Caudilla (Toledo), que provocó una víctima mortal y daños materiales en el tren. La causa principal fue la invasión del gálibo por parte de un vehículo detenido sin luces en la vía. Como causa raíz se identificó la deficiente señalización del camino de acceso, responsabilidad del ayuntamiento titular.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ........................................................................................................................................................... 6\n2.1.2. Descripción del suceso ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación ................................................................................................................. 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ............................",
+ "causa_directa": "Invasión del gálibo de libre paso de la vía por parte del vehículo de carretera.",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de libre paso de la vía por parte del vehículo de carretera.",
+  "El vehículo se encontraba detenido y sin luces en la zona central del paso a nivel cuando el tren se aproximaba.",
+  "Como causa subyacente se indica que el paso a nivel no disponía de toda la señalización fija vertical en el camino, no cumpliéndose lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001.",
+  "Como causa raíz se indica que los ayuntamientos son generalmente los titulares de dichos caminos y por tanto responsables de su señalización."
+ ],
+ "recomendaciones": [
+  "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel.",
+  "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "12/17-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Ayuntamiento de Santo Domingo-Caudilla",
+   "contenido": "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel."
+  },
+  {
+   "numero": "12/17-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "contenido": "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

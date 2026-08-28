@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-50-2011",
+ "pais": "ES",
+ "expediente": "0050/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0050/2011 OCURRIDO EL DÍA 27.10.2011 EN LA ESTACIÓN DE ASTILLERO (CANTABRIA)",
+ "fecha_suceso": "2011-10-27",
+ "hora": "14:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Astillero",
+  "provincia": "Cantabria",
+  "lat": 43.4,
+  "lng": -3.8167
+ },
+ "pk": "540+075",
+ "linea": "24 Santander - Bilbao",
+ "trenes": [
+  {
+   "numero": "6803",
+   "operador": "Feve",
+   "tipo": "Regional de viajeros / UTDE"
+  },
+  {
+   "numero": "6414",
+   "operador": "Feve",
+   "tipo": "Regional de viajeros"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 27 de octubre de 2011 en la estación de Astillero (Cantabria), donde el tren 6803 de Feve rebasó una señal de parada provocando el descarrilamiento parcial del primer bogie. No se registraron víctimas mortales ni heridos, aunque se produjeron daños materiales en la infraestructura y el material rodante. La causa principal del suceso fue el incumplimiento por parte del personal de conducción de las órdenes de las señales, al no detenerse ante la indicación de parada de la señal S1/1L.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Rebase indebido de la señal de salida S1/1L",
+ "conclusiones": [
+  "El accidente tuvo su origen en el rebase indebido por el tren de viajeros 6803 de la señal de salida S1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [
+  "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

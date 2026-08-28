@@ -1,0 +1,95 @@
+{
+ "id": "ES-CIAF-63-2019",
+ "pais": "ES",
+ "expediente": "0063/2019",
+ "titulo": "Informe Final de la CIAF sobre el incidente ferroviario nº 0063/2019 ocurrido el día 09.12.2019 en la estación de Cornellá (Barcelona)",
+ "fecha_suceso": "2019-12-09",
+ "hora": "16:35",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cornellá",
+  "provincia": "Barcelona",
+  "lat": 41.3566,
+  "lng": 2.0706
+ },
+ "pk": "92+898",
+ "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "Tren de Cercanías",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  },
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "Material vacío",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 9 de diciembre de 2019 en la estación de Cornellá (Barcelona), donde el tren 25045 rebasó indebidamente una señal de parada con riesgo de colisión. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos operativos. La causa principal fue el error del maquinista al no mantener la marcha a la vista y confundir la indicación del sistema ASFA transmitida para el tren precedente.",
+ "descripcion": "",
+ "causa_directa": "Error del maquinista en la correcta aplicación de las órdenes de las señales",
+ "conclusiones": [
+  "Causas directas e inmediatas del suceso: (cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando lugar al rebase indebido de la señal de entrada E1 en indicación de parada.",
+  "Factores contribuyentes en relación con la actuación de las personas: (fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa de la señal E1 fuese equivalente a la indicación de la propia señal E1, lo que propicia su rebase indebido. (fc2) No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E’1, superando la velocidad máxima de 40 km/h permitida bajo estas condiciones.",
+  "Factores contribuyentes en relación con el material rodante, instalaciones técnicas e infraestructura: (fc3) Al paso por la baliza previa de la señal E1, la información recibida en cabina por el maquinista del tren 25045 es la información transmitida por dicha baliza de acuerdo con la orden de la señal E1 para el tren 95951 precedente, que se encontraba detenido en el mismo cantón al haber rebasado el primero la señal avanzada E’1, lo que confundió al maquinista del 25045, considerándola erróneamente como propia."
+ ],
+ "recomendaciones": [
+  "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada.",
+  "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones.",
+  "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "63/2019 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "RENFE Viajeros",
+   "texto": "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada."
+  },
+  {
+   "numero": "63/2019 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "RENFE Viajeros",
+   "texto": "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones."
+  },
+  {
+   "numero": "63/2019 - 3",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "texto": "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

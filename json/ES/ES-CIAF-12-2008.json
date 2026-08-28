@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-12-2008",
+ "pais": "ES",
+ "expediente": "0012/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2008 OCURRIDO EL DÍA 06.05.2008",
+ "fecha_suceso": "2008-05-06",
+ "hora": "19:20",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Fabara",
+  "provincia": "Zaragoza",
+  "lat": 41.1833,
+  "lng": 0.1
+ },
+ "pk": "470+754",
+ "linea": "210 de Miraflores a Tarragona",
+ "trenes": [
+  {
+   "numero": "15015",
+   "operador": "Renfe Operadora",
+   "tipo": "Viajeros de Media Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ocurrido el 6 de mayo de 2008 en la estación de Fabara (Zaragoza) que provocó la muerte de un viajero de 79 años al caer a la vía. La causa principal fue la bajada de la víctima durante la marcha del tren, agravada por el mal funcionamiento de la puerta debido a un eje de bisagra seccionado.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n06.05.08/ 19:20 horas\nLugar:\nEstación de Fabara\nLínea:\n210 de Miraflores a Tarragona\nProvincia:\n\nZaragoza\nEl maquinista del tren de viajeros de Media Distancia 15015, de Renfe Operadora, compuesto por\nel automotor 444002 (3 vehículos con masa remolcada de 204 Tm), procedente de la estación de\nBarcelona San Andrés con destino Zaragoza Delicias, al reanudar la marcha, tras efectuar su parada\ncomercial en la estación de Fabara, procede a la detención de la composición al observar por el espejo\nretrovisor que una persona se apea del mismo en marcha. Como consecuencia de la rápida detención\ndel tren, la persona no es arrollada por las ruedas del 3er bogie del mismo, a pesar de haber quedado\nsu cuerpo sobre el carril izquierdo, entre el primer y el segundo coche de la composición.\nLa persona accidentada, que es auxiliada en primera instancia por el maquinista, el agente de\nacompañamiento (interventor en ruta) y el factor de circulación de la estación, y que no present",
+ "causa_directa": "Caída de la víctima al intentar apearse del tren en marcha",
+ "conclusiones": [
+  "El accidente tuvo su origen en la bajada de la víctima del tren, por la segunda puerta del primer coche, cuando éste había iniciado la marcha.",
+  "Como causa subyacente, se resalta el mal funcionamiento de la puerta por la que, presumiblemente, cayó la víctima."
+ ],
+ "recomendaciones": [
+  "Se recomienda que Renfe Operadora - previo el estudio correspondiente, en las revisiones de tipo medio que determine - introduzca en el plan de mantenimiento existente para este tipo de material (que ya contempla la comprobación del correcto funcionamiento de las puertas, bisagras y escalones) la comprobación de desgastes y holguras en los mecanismos de actuación (bielas, ejes de actuación, etc.), reemplazándolos en caso necesario."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se recomienda que Renfe Operadora - previo el estudio correspondiente, en las revisiones de tipo medio que determine - introduzca en el plan de mantenimiento existente para este tipo de material (que ya contempla la comprobación del correcto funcionamiento de las puertas, bisagras y escalones) la comprobación de desgastes y holguras en los mecanismos de actuación (bielas, ejes de actuación, etc.), reemplazándolos en caso necesario."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

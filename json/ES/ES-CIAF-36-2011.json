@@ -1,0 +1,74 @@
+{
+ "id": "ES-CIAF-36-2011",
+ "pais": "ES",
+ "expediente": "0036/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2011 OCURRIDO EL DÍA 20.07.2011 ENTRE LAS ESTACIONES DE VILLALUENGA-YUNCLER Y VILLAMIEL DE TOLEDO (TOLEDO)",
+ "fecha_suceso": "2011-07-20",
+ "hora": "16:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre las estaciones de Villaluenga-Yuncler y Villamiel de Toledo",
+  "provincia": "Toledo",
+  "lat": 39.97872,
+  "lng": -4.282803
+ },
+ "pk": "PK 66+480",
+ "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+ "trenes": [
+  {
+   "numero": "17016",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 20 de julio de 2011 en Bargas (Toledo), donde el tren 17016 arrolló a un operario que realizaba trabajos de mantenimiento en un puente. La consecuencia fue la muerte de la persona afectada y leves daños materiales en el material rodante. La causa principal fue el incumplimiento de la normativa reglamentaria al encontrarse el trabajador dentro del gálibo de la vía durante el paso del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Incumplimiento de la normativa reglamentaria para trabajos en vía",
+ "conclusiones": [
+  "El accidente tuvo su origen al estar el operario dentro del gálibo de la vía en el momento en que pasaba el tren 17016, por incumplirse lo establecido en la normativa reglamentaria para este tipo de trabajos."
+ ],
+ "recomendaciones": [
+  "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
+  "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
+  "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "36/11-1",
+   "texto": "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "36/11-2",
+   "texto": "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "36/11-3",
+   "texto": "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

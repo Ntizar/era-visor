@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-59-2009",
+ "pais": "ES",
+ "expediente": "0059/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0059/2009 OCURRIDO EL DÍA 16.11.2009 EN EL PASO A NIVEL CLASE C EN SAMA DE LANGREO (ASTURIAS)",
+ "fecha_suceso": "2009-11-16",
+ "hora": "12:41",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Sama de Langreo",
+  "provincia": "Asturias",
+  "lat": 43.2833,
+  "lng": -5.7667
+ },
+ "pk": "18+055",
+ "linea": "140 Bif. Tudela Veguín – El Entrego",
+ "trenes": [
+  {
+   "numero": "22211",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 16 de noviembre de 2009 en el paso a nivel de Sama de Langreo (Asturias), donde un tren de cercanías arrolló a dos peatones. El suceso provocó la muerte de las dos víctimas y daños materiales en la señalización de la estación. La causa principal del accidente fue la actuación de las víctimas, que cruzaron la vía a pesar de tener las barreras bajadas y la señalización activa advirtiendo de la llegada del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Actuación de las víctimas cruzando la vía con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en la actuación de las víctimas que cruzaban la vía por el paso a nivel cuando circulaba el tren 22211, estando las barreras bajadas y la señalización alertando de la llegada del mencionado tren.",
+  "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
+  "Los equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente en el momento del accidente.",
+  "Se constata el buen estado de mantenimiento del firme del paso peatonal.",
+  "Según el registrador de seguridad del tren, el maquinista hizo uso del freno de emergencia y del silbato reiteradamente.",
+  "La velocidad del tren era inferior a la máxima permitida.",
+  "Las víctimas irrumpen en el paso a nivel cuando éste tenía las semibarreras bajadas y la señalización alertaba de la inminente llegada del tren.",
+  "El paso a nivel no dispone de la señalización vertical de carretera prevista en la normativa vigente."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

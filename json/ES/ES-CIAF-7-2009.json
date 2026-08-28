@@ -1,0 +1,58 @@
+{
+ "id": "ES-CIAF-7-2009",
+ "pais": "ES",
+ "expediente": "0007/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0007/2009 OCURRIDO EL DÍA 30.01.2009 EN LA ESTACIÓN DE SODUPE",
+ "fecha_suceso": "2009-01-30",
+ "hora": "19:58",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Sodupe",
+  "provincia": "Vizcaya",
+  "lat": 43.2167,
+  "lng": -3.0667
+ },
+ "pk": "631+562",
+ "linea": "24 Santander - Bilbao",
+ "trenes": [
+  {
+   "numero": "8604",
+   "operador": "Feve",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 30 de enero de 2009 en la estación de Sodupe, que provocó la muerte de un joven de 18 años al ser arrollado por el tren 8604. La causa principal del siniestro fue la acción de la víctima, quien sorteó las barreras bajadas y las señales de protección para cruzar la vía a pesar de la proximidad del tren. No se identificaron fallos en el material rodante, las instalaciones ni en la actuación del maquinista, quien cumplió con los protocolos de seguridad establecidos.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Cruce del paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen cuando la víctima cruza el paso a nivel, sorteando las barreras bajadas, en el momento en que el tren 8604 circulaba por él."
+ ],
+ "recomendaciones": [
+  "Dadas las circunstancias en que se produjo el suceso, no se establecen recomendaciones. Además, está prevista la licitación de un estudio para aumentar la capacidad en el tramo Aranguren – Zaramillo que podría implicar la supresión del paso a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Dadas las circunstancias en que se produjo el suceso, no se establecen recomendaciones. Además, está prevista la licitación de un estudio para aumentar la capacidad en el tramo Aranguren – Zaramillo que podría implicar la supresión del paso a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

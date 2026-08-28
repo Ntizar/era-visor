@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-7-2012",
+ "pais": "ES",
+ "expediente": "0007/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 07/2012 OCURRIDO EL DÍA 19.01.2012 ENTRE LOS APEADEROS DE EL CLOT ARAGÓ Y BIF. GLORIAS (BARCELONA)",
+ "fecha_suceso": "2012-01-19",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_alcance",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre los apeaderos de El Clot Aragó y Bif. Glorias",
+  "provincia": "Barcelona",
+  "lat": 41.4309797,
+  "lng": 2.1831056
+ },
+ "pk": "109+810",
+ "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 18,
+ "danos_materiales": true,
+ "resumen": "El 19 de enero de 2012, en Barcelona, se produjo una colisión por alcance entre dos trenes de Renfe Operadora que resultó en 27 heridos leves. El accidente tuvo su origen en un fallo humano del personal de conducción del tren perseguidor, al no cumplir reglamentariamente con la marcha a la vista.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El accidente tuvo su origen en un fallo humano del personal de conducción, al no cumplimentarse la marcha a la vista en la forma que reglamentariamente está establecida."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+  "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "07/12-1",
+   "texto": "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "07/12-2",
+   "texto": "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

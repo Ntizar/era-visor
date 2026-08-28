@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-56-2008",
+ "pais": "ES",
+ "expediente": "0056/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0056/2008 OCURRIDO EL DÍA 02.11.2008",
+ "fecha_suceso": "2008-11-02",
+ "hora": "22:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Hostalric",
+  "provincia": "Gerona",
+  "lat": 41.768148,
+  "lng": 2.672221
+ },
+ "pk": "170,925",
+ "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+ "trenes": [
+  {
+   "numero": "475",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 02.11.2008 en el apeadero de Hostalric, donde un tren de Renfe Operadora arrolló a una joven que cruzaba las vías por un paso enmaderado. La consecuencia fue el fallecimiento inmediato de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue el cruce de la víctima sin percatarse de la proximidad del tren, agravado por la escasa visibilidad y la corta distancia de reacción disponible.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n02.11.08/ 22:10\nLugar:\nP.K. 170,925, en el paso enmaderado del apeadero de Hostalric\nLínea:\n270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal\nTrayecto:\nRiells y Viabrea - Maçanet-Massanes\nProvincia:\n\nGerona\nEl tren de larga distancia 475 de Renfe Operadora, compuesto por la locomotora 252068, 17\ncoches y masa remolcada de 277 Tn, circulando por el apeadero de Hostalric, arrolla a una joven que\ncruzaba la vía 1, junto con otras personas, por el paso enmaderado de dicho apeadero.\nLa maquinista, al percatarse de la presencia de varias personas cruzando por el paso entablonado,\nhace uso del silbato y, finalmente, acciona el freno de emergencia al ver que no todas las personas\nhan podido apartarse ante su aviso.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 2 de noviembre a las 23:33 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el ",
+ "causa_directa": "Cruce de la víctima por el paso enmaderado sin percatarse de la proximidad del tren",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso enmaderado sin percatarse de la proximidad del tren 475."
+ ],
+ "recomendaciones": [
+  "Se recomienda que el paso enmaderado se señalice y se evalúe la conveniencia de colocar señales de silbar, en el caso de que no existan, mientras no se lleven a cabo las obras ya adjudicadas del proyecto “Línea Tarragona-Barcelona- Francia. Tramo: Granollers – Maçanet. Pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric” (BOE nº 181, de 28 de julio de 2008)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se recomienda que el paso enmaderado se señalice y se evalúe la conveniencia de colocar señales de silbar, en el caso de que no existan, mientras no se lleven a cabo las obras ya adjudicadas del proyecto “Línea Tarragona-Barcelona- Francia. Tramo: Granollers – Maçanet. Pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric” (BOE nº 181, de 28 de julio de 2008)."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

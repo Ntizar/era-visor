@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-130207-190707-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-130207-190707-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-209",
+ "expediente": "0010/2007",
+ "titulo": "Arrollamiento mortal de un peatón por tren Altaria en la línea La Encina-Alicante, pk 394,075 (Villena)",
+ "fecha_suceso": "2007-02-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villena",
+  "provincia": "Alicante",
+  "pk": "394,075",
+  "linea": "La Encina-Alicante"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El 13 de febrero de 2007, a las 18:40, el tren Altaria 1187 de RENFE, entre Alicante y Madrid, arrolló a un varón de 69 años y a varias cabezas de ganado en el pk 394,075 de la línea La Encina-Alicante, cerca de Villena. La persona falleció y no se produjeron daños materiales. El tren circulaba a 129 km/h, por debajo de la velocidad máxima de 160 km/h, y el maquinista accionó el freno de emergencia. La investigación atribuyó el suceso a la invasión indebida de la vía por un punto no autorizado.",
+ "causa_directa": "Imprudencia de la víctima al cruzar la vía por un punto no autorizado, invadiendo indebidamente la vía en el momento del paso del tren.",
+ "causas_sistemicas": "Existencia de pasos viciosos, inexistencia de vallado en el tramo, presencia de edificaciones y viviendas cercanas y visibilidad reducida por el atardecer.",
+ "recomendaciones": [
+  "Dotar de vallado ambos márgenes de la vía en unos 400 m antes y después del paso superior situado en el lugar del accidente.",
+  "Realizar campañas de sensibilización para concienciar a la población sobre los peligros de cruzar o transitar por las vías."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A sheperd and his folk were crossing the tracks through an unauthorised place when they were hit by a long distance train Altaria 1187.",
+  "Location name": "Near Villena station. Railway from Madrid to Alicante at kilometre point 394,100",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

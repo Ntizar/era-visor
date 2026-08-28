@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-23-2011",
+ "pais": "ES",
+ "expediente": "0023/2011",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0023/2011 OCURRIDO EL DÍA 16.05.2011 A LA ENTRADA DE LA ESTACIÓN DE LOS GAVILANES (MADRID)",
+ "fecha_suceso": "2011-05-16",
+ "hora": "19:03",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Los Gavilanes",
+  "provincia": "Madrid",
+  "lat": 40.3228,
+  "lng": -3.8649
+ },
+ "pk": "PK 12+379",
+ "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+ "trenes": [
+  {
+   "numero": "5180",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de alta velocidad (Talgo S-112)"
+  },
+  {
+   "numero": "8182",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 16 de mayo de 2011, en la estación de Los Gavilanes (Madrid), se produjo un incidente consistente en un conato de colisión entre dos trenes de alta velocidad de Renfe Operadora. No hubo víctimas ni daños materiales, aunque se registraron retrasos en la circulación. La causa principal fue el rebase indebido de la señal de parada por parte del tren 5180, agravado por el fallo simultáneo de los sistemas de seguridad LZB y ASFA Digital.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Rebase indebido de la señal E022",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren de alta velocidad 5180 de la señal de entrada E022, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+  "Como factor coadyuvante hay que mencionar el no funcionamiento del sistema de bloqueo de control automático (LZB), ni del ASFA Digital."
+ ],
+ "recomendaciones": [
+  "Implantar las medidas necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, con el fin de evitar posibles distracciones, especialmente cuando se circula en condiciones degradadas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif y Renfe Operadora",
+   "numero": "23/11-1",
+   "texto": "Implantar las medidas necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, con el fin de evitar posibles distracciones, especialmente cuando se circula en condiciones degradadas."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

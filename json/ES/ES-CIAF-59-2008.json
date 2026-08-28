@@ -1,0 +1,56 @@
+{
+ "id": "ES-CIAF-59-2008",
+ "pais": "ES",
+ "expediente": "0059/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0059/2008 OCURRIDO EL DÍA 08.11.2008",
+ "fecha_suceso": "2008-11-08",
+ "hora": "14:51",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Tudela de Navarra",
+  "provincia": "Navarra",
+  "lat": 42.0615,
+  "lng": -1.6065
+ },
+ "pk": "77+050",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "trenes": [
+  {
+   "numero": "18076",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 8 de noviembre de 2008 en la estación de Tudela de Navarra, donde un tren arrolló a una persona que transitaba por la vía sin autorización. La consecuencia del impacto fue el fallecimiento inmediato de la víctima, sin daños materiales adicionales. La causa principal del siniestro fue el tránsito no autorizado de la víctima por el lugar por donde circulaba el tren.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n08.11.08/ 14:51\nLugar:\nP.K. 77,050, en la estación de Tudela de Navarra\nLínea:\n700 Casetas-Intermodal Abando Indalecio Prieto\nTrayecto:\nCortes - Tudela\nProvincia:\n\nNavarra\nEl tren de media distancia 18076 de Renfe Operadora, compuesto por la unidad de tracción\n440117 (tres vehículos y masa remolcada de 154 Tn), cuando circulaba a la altura de la señal de\nsalida de la estación de Tudela de Navarra, arrolla a una persona que estaba sentada en la vía con\nauriculares puestos.\nEl maquinista hace uso del silbato y del freno de emergencia al ver a la víctima sentada sobre la\nvía. La víctima al percatarse de la proximidad del tren se levanta pero resbala y se cae sobre la vía, no\npudiendo evitar ser arrollada.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 8 de noviembre a las 15:29 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arro",
+ "causa_directa": "Tránsito no autorizado de la víctima por la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+  "El maquinista actuó correctamente al percatarse de la presencia de la víctima, haciendo uso del silbato y del freno de emergencia.",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente.",
+  "La tasa de alcoholemia y la jornada de trabajo del maquinista cumplían con la normativa vigente."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

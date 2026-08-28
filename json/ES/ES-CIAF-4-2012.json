@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-4-2012",
+ "pais": "ES",
+ "expediente": "0004/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0004/2012 OCURRIDO EL DÍA 12.01.2012 EN LA ESTACIÓN DE SAN CLAUDIO (OVIEDO)",
+ "fecha_suceso": "2012-01-12",
+ "hora": "14:19",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_trenes",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "San Claudio",
+  "provincia": "Asturias",
+  "lat": 43.3667,
+  "lng": -5.8492
+ },
+ "pk": "5+265",
+ "linea": "12 Oviedo - San Esteban",
+ "trenes": [
+  {
+   "numero": "1301",
+   "operador": "Feve",
+   "tipo": "Tren regional de viajeros"
+  },
+  {
+   "numero": "3720",
+   "operador": "Feve",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 12 de enero de 2012 en la estación de San Claudio (Oviedo), donde el tren 1301 rebasó indebidamente una señal de parada y colisionó frontalmente con el tren 3720. La colisión provocó el descarrilamiento parcial del tren entrante y causó nueve heridos de carácter leve, sin fallecidos. La causa principal del suceso fue el incumplimiento de las órdenes de señalización por parte del personal de conducción del tren 1301.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 7\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Rebase indebido de la señal de salida S1/2",
+ "conclusiones": [
+  "El accidente tuvo su origen en el rebase indebido por el tren de viajeros 1301 de la señal de salida S1/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "04/12-1",
+   "texto": "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

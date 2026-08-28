@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-28-2008",
+ "pais": "ES",
+ "expediente": "0028/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008 OCURRIDO EL DÍA 30.06.2008",
+ "fecha_suceso": "2008-06-30",
+ "hora": "21:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Miranda de Ebro",
+  "provincia": "Burgos",
+  "lat": 42.6858,
+  "lng": -2.9464
+ },
+ "pk": "P.K. 146,950",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "trenes": [
+  {
+   "numero": "60665",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 30 de junio de 2008 en Miranda de Ebro, donde un tren de mercancías arrolló a una persona que transitaba por un lugar no autorizado. La víctima, un varón de 33 años, falleció posteriormente a causa de las graves lesiones sufridas, sin que se produjeran daños materiales en la infraestructura o el material rodante. La causa principal del suceso fue el tránsito de la víctima por una zona prohibida, mientras que la actuación del maquinista y el funcionamiento de los sistemas ferroviarios se ajustaron a la normativa vigente.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n30.06.08/ 21:07\nLugar:\nP.K. 146,950, a la salida de la estación de Miranda de Ebro, en la\nBifurcación a Bilbao.\nLínea:\n700 Casetas- Intermodal Abando Indalecio Prieto\nProvincia:\n\nBurgos\nEl tren de mercancías 60665 de Renfe Operadora, compuesto por la locomotora 269263, 15\nvagones con masa remolcada de 388 Tm, procedente de Villafría destino Bilbao, efectúa la salida de la\nestación de Miranda de Ebro, y circulando parejo al muro que separa a la empresa azucarera Ebro de\nlas vías, una vez que rebasa la señal S3, el maquinista observa a dos personas que permanecen junto\na dicho muro.\nEl maquinista hace uso del silbato pero las personas quedan inmóviles, produciéndose el\narrollamiento de una de ellas que queda gravemente herida, con las piernas seccionadas, mientras\nque la otra resulta ilesa. Posteriormente, cuando la víctima está ingresada en el Hospital Santiago\nApóstol de Miranda de Ebro fallece.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accident",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

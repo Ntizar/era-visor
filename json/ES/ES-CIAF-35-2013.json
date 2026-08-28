@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-35-2013",
+ "pais": "ES",
+ "expediente": "0035/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0035/2013 OCURRIDO EL DÍA 28.04.2013 ENTRE LOS APEADEROS DE OTERO Y LA MATA DE LA RIBA (LEÓN)",
+ "fecha_suceso": "2013-04-28",
+ "hora": "09:58",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_alcance",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre los apeaderos de Otero y La Mata de la Riba",
+  "provincia": "León",
+  "lat": 43.201436,
+  "lng": -3.169331
+ },
+ "pk": "26+700",
+ "linea": "790 RAM Aranguren – Asunción Universidad",
+ "trenes": [
+  {
+   "numero": "7601",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros compuesto por automotores UTDH series 2900 (2905 y 2901)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 28 de abril de 2013, en Vegaquemada (León), se produjo un accidente ferroviario por alcance entre los automotores 2901 y 2905 que causó siete heridos leves. La causa principal fue el fallo humano del maquinista, quien no ejecutó correctamente la secuencia de operaciones para remolcar con freno la unidad averiada. Esta omisión provocó que el automotor desacoplado iniciara una deriva por la pendiente, colisionando posteriormente con la unidad traccionada.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Fallo humano del maquinista",
+ "conclusiones": [
+  "El accidente se produce por el fallo humano del maquinista que no realizó correctamente la secuencia de operaciones para realizar el remolcado del automotor 2901 con freno, conforme al Manual Básico de Maquinista.",
+  "Como causas coadyuvantes se apuntan: No realizó la prueba de freno parcial, incumpliendo el artículo 4.04.05 el Anejo IX del Reglamento de Circulación de Trenes.",
+  "Como causas coadyuvantes se apuntan: No observar el tren durante la marcha en plena vía para ver si circulaba completo, incumpliendo el artículo 9.03.00 del Anexo IX del Reglamento de Circulación de Trenes."
+ ],
+ "recomendaciones": [
+  "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "35/13-1",
+   "texto": "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

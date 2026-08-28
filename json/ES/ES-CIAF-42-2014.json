@@ -1,0 +1,72 @@
+{
+ "id": "ES-CIAF-42-2014",
+ "pais": "ES",
+ "expediente": "0042/2014",
+ "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0042/2014 ocurrido el día 11.08.2014 en el apartadero de Pancorbo (Burgos)",
+ "fecha_suceso": "2014-08-11",
+ "hora": "11:06",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Apartadero de Pancorbo",
+  "provincia": "Burgos",
+  "lat": 42.624103,
+  "lng": -3.169457
+ },
+ "pk": "437+301",
+ "linea": "100 Madrid Chamartín - Hendaya",
+ "trenes": [
+  {
+   "numero": "4087",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de viajeros de larga distancia (Serie 120, Alvia)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 11 de agosto de 2014 en el apartadero de Pancorbo (Burgos), donde un tren de viajeros detuvo su marcha de emergencia al encontrar operarios trabajando en la vía sin las debidas protecciones. No se registraron víctimas ni daños materiales como consecuencia del suceso. La causa principal fue el fallo humano del encargado de trabajos, quien devolvió la vía al control de tráfico sin verificar la finalización de las labores en la aguja 5, debido a un desconocimiento del alcance de los trabajos y una falta de coordinación con el equipo de seguridad.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ....................................",
+ "causa_directa": "Fallo humano del encargado de trabajos",
+ "conclusiones": [
+  "El suceso se produjo por fallo humano del encargado de los trabajos, al devolver al CTC la vía 1 del apartadero de Pancorbo cuando aún continuaban trabajando operarios en la aguja 5.",
+  "El encargado de trabajos consideró que los operarios en la aguja 5 no estaban bajo su responsabilidad y que su trabajo no afectaba a la vía 1, debido a que desconocía el alcance del punto 223 del acta semanal de trabajos.",
+  "Como factor coadyuvante, el equipo de trabajo de la aguja nº 5 no colocó los útiles de cortocircuitado ni las señales portátiles de parada, incumpliéndose el artículo 343 del RGC.",
+  "El punto 223 del acta semanal de trabajos describía las actividades de forma muy general sin indicar claramente las ubicaciones, y contemplaba una modalidad EC que implicaba no afección a la zona de agujas, lo cual no se cumplimentó adecuadamente.",
+  "La Consigna ATO nº 38 - CTO nº 63 reflejaba las operaciones de forma muy general y no contemplaba el movimiento de la aguja 5 a vía desviada, ni mencionaba trabajos en la aguja 7."
+ ],
+ "recomendaciones": [
+  "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos).",
+  "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "42/14-1",
+   "destinatario": "AESF",
+   "implementador": "Adif",
+   "texto": "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos)."
+  },
+  {
+   "numero": "42/14-2",
+   "destinatario": "AESF",
+   "implementador": "Adif",
+   "texto": "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos)."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

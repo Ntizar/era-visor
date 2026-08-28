@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-45-2009",
+ "pais": "ES",
+ "expediente": "0045/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0045/2009 OCURRIDO EL DÍA 24.08.2009 EN LA ESTACIÓN DE SANT FELIÚ DE LLOBREGAT (BARCELONA)",
+ "fecha_suceso": "2009-08-24",
+ "hora": "16:57",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Sant Feliú de Llobregat",
+  "provincia": "Barcelona",
+  "lat": 41.396977,
+  "lng": 2.03599
+ },
+ "pk": "P.K. 89+150",
+ "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "25163",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe Operadora, arrolla a una mujer que cruzaba en silla de ruedas por el paso entarimado entre andenes de la estación de Sant Feliú de Llobregat. El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima, pudiendo contribuir a este el deficiente estado de conservación del pavimento del paso.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................4\n2.1. SUCESO..................................................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD...........................................................................................8\n3.3. NORMATIVA...........................................................................",
+ "causa_directa": "Invasión indebida del gálibo de la vía por la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima que cruzaba el paso entarimado entre andenes cuando se aproximaba un tren.",
+  "Sin poder afirmar que fue la causa del accidente, pudo contribuir a éste el deficiente estado de conservación del pavimento del paso."
+ ],
+ "recomendaciones": [
+  "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "45/09-1",
+   "destinatario": "D.G. Infraestructuras Ferroviarias",
+   "texto": "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

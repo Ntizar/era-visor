@@ -1,0 +1,78 @@
+{
+ "id": "ES-CIAF-51-2012",
+ "pais": "ES",
+ "expediente": "0051/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0051/2012 OCURRIDO EL DÍA 19.07.2012 ENTRE LAS ESTACIONES DE VILLA DEL RÍO Y MONTORO (CÓRDOBA)",
+ "fecha_suceso": "2012-07-19",
+ "hora": "00:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Villa del Río y Montoro",
+  "provincia": "Córdoba",
+  "lat": 38.0167,
+  "lng": -4.3833
+ },
+ "pk": "PK 393+525",
+ "linea": "400 Alcázar de San Juan - Cádiz",
+ "trenes": [
+  {
+   "numero": "CGX10",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 19 de julio de 2012, un descarrilamiento del tren de mercancías CGX10 ocurrió entre las estaciones de Villa del Río y Montoro (Córdoba), provocando daños materiales significativos en la infraestructura y el material rodante, pero sin víctimas mortales ni heridos. La causa principal fue un fallo técnico derivado del sobrecalentamiento de la caja de grasa del eje 39, que provocó la rotura de la mangueta, agravado por una gestión inadecuada de la incidencia por parte del personal de circulación. Esta gestión deficiente se vio facilitada por la falta de comunicación inmediata vía tren tierra, lo que impidió detener el tren antes de que se produjera el descarrilamiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 12\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................12\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Fallo técnico del material (rotura de la mangueta izquierda del primer eje del decimoctavo vagón)",
+ "conclusiones": [
+  "El descarrilamiento se produce por un fallo técnico del material, al romperse la mangueta izquierda del primer eje del decimoctavo vagón de la composición, en el sentido de la marcha, como consecuencia de un sobrecalentamiento de la caja de grasa.",
+  "El sobrecalentamiento de la caja de grasa se atribuye probablemente a la falta del tapón de cierre, lo que facilitó la contaminación de la grasa y el deterioro progresivo de los rodamientos.",
+  "Se destaca como causa coadyuvante la gestión de la incidencia no del todo adecuada por el personal de circulación.",
+  "Se destaca como causa coadyuvante la circulación del tren descarrilado fuera del canal asignado del tren tierra, lo que impidió la comunicación inmediata con el maquinista para detener el tren en la estación de Villa del Río."
+ ],
+ "recomendaciones": [
+  "Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en rodamientos y eje; junto con una ficha de inspección a rellenar de las operaciones realizadas, a la vista de los resultados. Esta normativa podría estar incorporada a la actual Norma Técnica de Mantenimiento de Ejes Montados.",
+  "Insistir al personal de conducción en los cursos de reciclaje sobre la conveniencia de verificar que la modalidad y canal del tren tierra con la que circula son los asignados.",
+  "Se reitera la recomendación nº 4 realizada en el expediente 63/2010: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "51/12-1",
+   "texto": "Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en rodamientos y eje; junto con una ficha de inspección a rellenar de las operaciones realizadas, a la vista de los resultados. Esta normativa podría estar incorporada a la actual Norma Técnica de Mantenimiento de Ejes Montados."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "51/12-2",
+   "texto": "Insistir al personal de conducción en los cursos de reciclaje sobre la conveniencia de verificar que la modalidad y canal del tren tierra con la que circula son los asignados."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "51/12-3",
+   "texto": "Se reitera la recomendación nº 4 realizada en el expediente 63/2010: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

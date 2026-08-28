@@ -1,0 +1,47 @@
+{
+ "id": "ES-CIAF-8-2021",
+ "pais": "ES",
+ "expediente": "08/2021",
+ "titulo": "IF 08/2021 — Incidente operacional ocurrido en el apeadero de L’Énova-",
+ "fecha_suceso": "2021-02-25",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Torelló",
+  "provincia": "Madrid",
+  "lat": 41.3632,
+  "lng": 2.0083
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente operacional ocurrido el 5 de noviembre de 2022 en la estación de Torelló (Barcelona) que no provocó víctimas ni daños materiales. La causa principal fue la falta de entendimiento entre el maquinista y el responsable de circulación debido a una errónea interpretación de la posición real del tren, lo que derivó en la reanudación de la marcha con un itinerario disuelto y el establecimiento de un itinerario incompatible para otro tren.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "paso a nivel",
+  "colisión",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

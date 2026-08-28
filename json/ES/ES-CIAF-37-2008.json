@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-37-2008",
+ "pais": "ES",
+ "expediente": "0037/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0037/2008 ocurrido el día 29.08.2008",
+ "fecha_suceso": "2008-08-29",
+ "hora": "12:51",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Segur de Calafell",
+  "provincia": "Tarragona",
+  "lat": 41.1924633,
+  "lng": 1.6064509
+ },
+ "pk": "P.K. 624,800",
+ "linea": "200 Madrid-Chamartín – Barcelona-Sants",
+ "trenes": [
+  {
+   "numero": "15058",
+   "operador": "Renfe Operadora",
+   "tipo": "Viajeros de Media Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 29 de agosto de 2008 en el apeadero de Segur de Calafell (Tarragona), donde un tren arrolló a un hombre con movilidad reducida que cruzaba las vías. La víctima falleció en el acto y se produjeron daños materiales en el material rodante, además de retrasos en la circulación. La causa principal del siniestro fue el tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n29.08.08/ 12:51\nLugar:\nP.K. 624,800 paso enmaderado del apeadero de Segur de Calafell.\nLínea:\n200 Madrid Chamartín – Barcelona-Sants\nTrayecto:\nSan Vicente de Calders - Cunit\nProvincia:\n\nTarragona\nEl tren de viajeros 15058 de Renfe Operadora, compuesto por la U/T 470070 (3 vehículos y masa\nremolcada de 220 Tm), procedente de Cambrills con destino a Barcelona, a su paso por el apeadero\nde Segur de Calafell, arrolla a un hombre que, ayudado por una muleta, cruzaba, de izquierda a\nderecha (sentido ascendente de la kilometración de la vía), por el paso enmaderado existente en\ndicho apeadero.\nEl maquinista, al percatarse de la presencia de la víctima, hace uso del silbato repetidas veces y\nacciona el freno de emergencia, no pudiendo evitar el arrollamiento de la víctima, quedando ésta ya\ncadáver en la vía 2 entre el carril derecho y el andén.\n\n\n\n\nInvestigación del accidente\n\n\n\n\nA\n\n\nInforme Final\n\n\n\n\n\n\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accident",
+ "causa_directa": "Tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren."
+ ],
+ "recomendaciones": [
+  "A la vista de los arrollamientos enumerados en el punto 3.8 de este informe (Incidencias anteriores de carácter similar) y teniendo en cuenta que, en la mayoría de los casos, el ferrocarril divide a los núcleos urbanos donde se ubica, se recomienda a las autoridades competentes que tomen las medidas necesarias para mejorar la permeabilidad."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "A la vista de los arrollamientos enumerados en el punto 3.8 de este informe (Incidencias anteriores de carácter similar) y teniendo en cuenta que, en la mayoría de los casos, el ferrocarril divide a los núcleos urbanos donde se ubica, se recomienda a las autoridades competentes que tomen las medidas necesarias para mejorar la permeabilidad."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

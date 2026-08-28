@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-30-2009",
+ "pais": "ES",
+ "expediente": "0030/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2009 OCURRIDO EL DÍA 26.06.2009 EN LA ESTACIÓN DE ALUCHE (MADRID)",
+ "fecha_suceso": "2009-06-26",
+ "hora": "07:36",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_trenes",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Aluche",
+  "provincia": "Madrid",
+  "lat": 40.392356,
+  "lng": -3.75711
+ },
+ "pk": "P.K. 7+612",
+ "linea": "L/920, Móstoles – El Soto Parla (Línea C-5 de Cercanías Madrid)",
+ "trenes": [
+  {
+   "numero": "27319",
+   "operador": "Renfe-Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  },
+  {
+   "numero": "27321",
+   "operador": "Renfe-Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 26 de junio de 2009, en la estación de Aluche (Madrid), un tren de cercanías colisionó con otro estacionado tras un retroceso indebido del primero. El suceso provocó 61 heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal del accidente fue el retroceso no autorizado del tren 27319, realizado por iniciativa propia del maquinista.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUSTANCIAS EXTERNAS...................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................",
+ "causa_directa": "Retroceso indebido del tren 27319",
+ "conclusiones": [
+  "El accidente tuvo su origen en el retroceso indebido por parte del tren 27319.",
+  "El maquinista del tren 27319, al realizar indebidamente retroceso, incumple el artículo 475 del RGC y la consigna C experimental nº 43.",
+  "El personal de conducción cumple los requisitos normativos establecidos.",
+  "Los equipos de seguridad del tren 27319 y las instalaciones técnicas funcionaban correctamente en el momento del accidente."
+ ],
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe-Operadora",
+   "numero": "30/09-1",
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

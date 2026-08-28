@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-53-2010",
+ "pais": "ES",
+ "expediente": "0053/2010",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0053/2010 ocurrido el día 30.09.2010 en la estación de Redondela (Pontevedra)",
+ "fecha_suceso": "2010-09-30",
+ "hora": "08:09",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Estación de Redondela",
+  "provincia": "Pontevedra",
+  "lat": 42.075004,
+  "lng": -8.423906
+ },
+ "pk": "PK 166+800",
+ "linea": "Línea 810 Vigo - Monforte de Lemos",
+ "trenes": [
+  {
+   "numero": "620",
+   "operador": "Renfe Operadora",
+   "tipo": "Alvia tipo 200A"
+  },
+  {
+   "numero": "651",
+   "operador": "Renfe Operadora",
+   "tipo": "Locomotora 333406"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 30 de septiembre de 2010 en la estación de Redondela (Pontevedra) que provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue el rebase indebido de la señal de salida 1S/I en indicación de parada por parte del tren 620, debido al incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO.........................................................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO....................................................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................7\n2.4.  CIRCUNSTANCIAS EXTERNAS.......................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES .............................................................................................................7\n3.2.  NORM",
+ "causa_directa": "Rebase indebido de la señal de salida 1S/I en indicación de parada",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren 620 de la señal de salida 1S/I, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal del tren."
+ ],
+ "recomendaciones": [
+  "Estudiar la viabilidad de instalar señal indicadora de salida a la señal 1S/I de la estación de Redondela, dadas las especiales condiciones, al situarse en curva y ser transición de vía doble a dos vías únicas, ampliándose el análisis al resto de las señales de salida de dicha estación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "53/10-1",
+   "texto": "Estudiar la viabilidad de instalar señal indicadora de salida a la señal 1S/I de la estación de Redondela, dadas las especiales condiciones, al situarse en curva y ser transición de vía doble a dos vías únicas, ampliándose el análisis al resto de las señales de salida de dicha estación."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

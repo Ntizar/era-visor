@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-71-2008",
+ "pais": "ES",
+ "expediente": "0071/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0071/2008 OCURRIDO EL DÍA 13.12.2008 EN LA ESTACIÓN DE CALELLA",
+ "fecha_suceso": "2008-12-13",
+ "hora": "07:41",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Calella",
+  "provincia": "Barcelona",
+  "lat": 41.6136,
+  "lng": 2.6604
+ },
+ "pk": "48,524",
+ "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+ "trenes": [
+  {
+   "numero": "25986",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de diciembre de 2008 en la estación de Calella, donde un tren de Cercanías arrolló a un peatón que cruzaba la vía. El suceso provocó la muerte inmediata de la víctima y daños materiales menores en el material rodante. La causa principal fue el cruce de la víctima por el paso a nivel cuando las semibarreras ya estaban bajadas y los sistemas de aviso activados.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Cruce de la víctima por el paso a nivel con semibarreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba con las semibarreras bajadas y sus sistemas de aviso luminoso y acústico activados."
+ ],
+ "recomendaciones": [
+  "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "71/08-1",
+   "texto": "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

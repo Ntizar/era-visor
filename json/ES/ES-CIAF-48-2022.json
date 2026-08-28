@@ -1,0 +1,70 @@
+{
+ "id": "ES-CIAF-48-2022",
+ "pais": "ES",
+ "expediente": "48/2022",
+ "titulo": "2022-48-0612-if",
+ "fecha_suceso": "2022-06-12",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "grave",
+ "ubicacion": {
+  "estacion": "parada",
+  "provincia": "Barcelona",
+  "lat": 43.262,
+  "lng": -2.925
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "CAPTRAIN",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 5,
+ "danos_materiales": true,
+ "resumen": "El día 12 de junio de 2022, el tren 95172 de Captrain, tras sufrir un reperfilado de ruedas no planificado en los talleres de GMF, presentó una insuficiencia de frenado debido a una falta de ajuste en las timonerías. Al circular por una pendiente hacia Bifurcación Vila-seca, el tren no pudo detenerse ante la señal E2V en parada, rebasándola y colisionando frontalmente con el tren 18087 de Renfe, que se encontraba detenido en la vía adyacente. La causa principal fue la insuficiencia de freno por falta de ajuste post-mantenimiento, con factores contribuyentes como la prueba de freno incapaz de detectar la deficiencia y factores sistémicos relacionados con la ausencia de procedimientos adecuados para el reperfilado y las pruebas de freno.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO ............................................................................................................................................................. 9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ................................................................................................................................... 9\n3.1.1. Descripción ..................................................................................................................................................................... 9\n3.1.2. Víctimas y daños materiales ........................................................................................................................................... 9\n3.1.3. Interceptación de la vía ................................................................................................................................................. 11\n3.1.4. Personal y entidades .......................................................................",
+ "causa_directa": null,
+ "conclusiones": [
+  "Insuficiencia de frenado de las locomotoras del tren 95172.",
+  "Tras haber realizado una operación extraordinaria de reperfilado en las 310, la timonería de freno no se ajustó al nuevo diámetro de manera que siete de las dieciséis zapatas no entraban en contacto con la banda de rodadura de sus respectivas ruedas.",
+  "Factores contribuyentes Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+  "Ausencia de procedimiento dentro del Sistema de Gestión de Mantenimiento de GMF que especificara las acciones posteriores a las labores de reperfilado de ruedas y que por tanto exigiera un ajuste de las timonerías. Ver recomendación 48/2022-2.",
+  "Falta de definición de procedimientos de pruebas de freno tanto en el SGS de Captrain, como en el Manual de conducción de las locomotoras en el caso de que las locomotoras 310 circulen de forma aislada. Ver recomendación 48/2022-1.",
+  "Falta de concreción en los procedimientos para establecer pruebas de freno que detecten problemas de frenado relacionados con los elementos mecánicos en máquinas aisladas y trenes cortos. Ver recomendación 48/2022-1."
+ ],
+ "recomendaciones": [
+  "Promover que los procedimientos incluidos en los SGS de las",
+  "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "48/2022-1",
+   "texto": "Promover que los procedimientos incluidos en los SGS de las",
+   "implementador": ""
+  },
+  {
+   "numero": "48/2022-2",
+   "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual.",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "incendio",
+  "grave"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

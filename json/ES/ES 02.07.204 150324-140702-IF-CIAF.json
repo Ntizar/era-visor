@@ -1,0 +1,32 @@
+{
+ "id": "ES-ES 02.07.204 150324-140702-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 02.07.204 150324-140702-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0034/2014",
+ "titulo": "Deformación de vía por acumulación de agua entre Chinchilla y Bonete (Albacete)",
+ "fecha_suceso": "2014-07-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Albacete",
+  "pk": "368+925",
+  "linea": "Bifurcación Albacete-Alicante"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 2 de julio de 2014, el tren 5172 se detuvo a unos 3 km/h entre Chinchilla y Bonete (Albacete) por deformación de la vía I tras lluvias torrenciales localizadas. El agua acumulada y las corrientes arrastraron balasto, deformando principalmente el carril izquierdo. El informe concluye que el incidente se produjo por un fallo de infraestructura asociado a la insuficiencia del sistema de drenaje superficial. El punto no estaba identificado como riesgo y el Plan de Contingencias no se activó al no existir alerta meteorológica.",
+ "causa_directa": "Fallo de la infraestructura por deformación de la vía al paso del tren, debido a la insuficiencia del sistema de drenaje para recoger, evacuar y restituir la escorrentía de lluvias torrenciales localizadas, lo que provocó acumulación y corrientes de agua que arrastraron el balasto de la vía I.",
+ "causas_sistemicas": "Insuficiencia del drenaje superficial, no identificación del PK 368+925 como punto de riesgo en el Plan de Contingencias, falta de activación de dicho plan por ausencia de alerta meteorológica pese a precipitaciones locales muy intensas y no concreción del reconocimiento de vía prescrito por el CRC.",
+ "recomendaciones": [
+  "Adif Alta Velocidad: Establecer un plan de vigilancia hasta la finalización de la totalidad de las obras del proyecto de emergencia de refuerzo de la infraestructura de drenaje y restitución de la superestructura ferroviaria entre los PP.KK. 367+200 y 370+100 de la línea Bifurcación Albacete-Alicante."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

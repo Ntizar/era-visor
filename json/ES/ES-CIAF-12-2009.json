@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-12-2009",
+ "pais": "ES",
+ "expediente": "0012/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2009 OCURRIDO EL DÍA 22.02.2009 ENTRE LAS ESTACIONES DE CHAPELA Y VIGO",
+ "fecha_suceso": "2009-02-22",
+ "hora": "17:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Chapela y Vigo",
+  "provincia": "Pontevedra",
+  "lat": 42.285,
+  "lng": -8.564
+ },
+ "pk": "PK 175,050",
+ "linea": "810 Vigo – Monforte de Lemos",
+ "trenes": [
+  {
+   "numero": "12703",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 22 de febrero de 2009 entre las estaciones de Chapela y Vigo, que provocó la muerte de una persona al ser arrollada por el tren 12703. La causa principal del siniestro fue la invasión de la caja de la vía por parte de la víctima, quien intentaba recoger un objeto cuando el tren circulaba a 80 km/h.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1\nSUCESO..................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................5\n2.4\nCIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.............................................",
+ "causa_directa": "Invasión de la vía por parte de la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión de la vía por parte de la víctima cuando pasaba el tren 12703."
+ ],
+ "recomendaciones": [
+  "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "0012/09-1",
+   "texto": "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

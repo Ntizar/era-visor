@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-64-2010",
+ "pais": "ES",
+ "expediente": "0064/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0064/2010 OCURRIDO EL DÍA 03.12.2010 EN EL PASO A NIVEL, CLASE A, ENTRE LAS ESTACIONES DE ESPEJA Y FUENTES DE OÑORO (SALAMANCA)",
+ "fecha_suceso": "2010-12-03",
+ "hora": "10:31",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Fuentes de Oñoro",
+  "provincia": "Salamanca",
+  "lat": 40.593246,
+  "lng": -6.829264
+ },
+ "pk": "122+116",
+ "linea": "120 Vilar Formoso – Medina del Campo",
+ "trenes": [
+  {
+   "numero": "58727",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 3 de diciembre de 2010 en el paso a nivel entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca), donde un tren de mercancías arrolló una furgoneta. El suceso provocó la muerte de uno de los ocupantes del vehículo y daños materiales en el tren y la carretera. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel cuando circulaba el tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 58727."
+ ],
+ "recomendaciones": [
+  "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Ayuntamiento de Fuentes de Oñoro",
+   "numero": "64/10-1",
+   "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

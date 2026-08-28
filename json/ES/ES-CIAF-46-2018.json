@@ -1,0 +1,96 @@
+{
+ "id": "ES-CIAF-46-2018",
+ "pais": "ES",
+ "expediente": "0046/2018",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2018 OCURRIDO EL DÍA 20.11.2018 EN LA LÍNEA 220 DE LLEIDA PIRINEUS A L´HOSPITALET DE LLOBREGAT, ENTRE LAS ESTACIONES DE VACARISSES Y VACARISSES-TORREBLANCA (BARCELONA)",
+ "fecha_suceso": "2018-11-20",
+ "hora": "06:15",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "línea 220 de Lleida Pirineus a L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "lat": 41.56546,
+  "lng": 1.951414
+ },
+ "pk": "321+017",
+ "linea": "220 de Lleida Pirineus a L´Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": "Renfe Viajeros (Rodalies de Catalunya)",
+   "tipo": "Tren de cercanías",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora",
+  "Renfe Viajeros",
+  "TRAM"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 6,
+ "danos_materiales": true,
+ "resumen": "El 20 de noviembre de 2018, un accidente ferroviario en Vacarisses provocó un fallecido y 52 heridos tras la colisión del tren con rocas desprendidas por el colapso de un muro de contención. La causa principal fue el fallo de la infraestructura debido al desmoronamiento del muro, agravado por la escorrentía de aguas pluviales y deficiencias en los procedimientos de mantenimiento y gestión de riesgos de Adif.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ........................................................................................................... 7\n2.1.\nSUCESO ................................................................................................................................ 7\n2.1.1.\nDatos ............................................................................................................................. 7\n2.1.2.\nDescripción del suceso .................................................................................................... 8\n2.1.3.\nDecisión de abrir la investigación ................................................................................... 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................ 12\n2.2.1.\nPersonal ferroviario ....................................................................................................... 12\n2.2.2.\nLos trenes y su composición ..................",
+ "causa_directa": "colisión con obstáculos (rocas) debido al desmoronamiento de un muro",
+ "conclusiones": [
+  "Causa directa: Colisión con obstáculos (rocas) producida por fallo de la infraestructura, al desmoronarse parcialmente un muro de revestimiento de mampostería careada que protegía el talud izquierdo de una trinchera.",
+  "Factor coadyuvante 1: Desbordamiento de la rejilla existente en la cuneta de la derecha de la carretera autonómica C-58 por aguas de escorrentía y su posterior caída sobre el talud ferroviario y el trasdós del muro.",
+  "Factor coadyuvante 2: Probable meteorización superficial del mortero de unión de los mampuestos y posible reducción del coeficiente de rozamiento entre los mampuestos y el mortero del muro.",
+  "Causa raíz 1: No aplicación de la ley del Sector Ferroviario respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea (zona de dominio público y protección) de la carretera C-58.",
+  "Causa raíz 2: Insuficiencia de la ficha II 'Actuaciones frente a temporales de lluvia' del Manual de Prevención y Gestión de Incidencias de Adif, por discrepancias en predicciones meteorológicas y adecuación de actuaciones.",
+  "Causa raíz 3: Inadecuación de los procedimientos del Sistema de Gestión de la Seguridad en la Circulación (SGSC) de Adif relativos a la inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante hechos constatados."
+ ],
+ "recomendaciones": [
+  "Revisar la ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias y los procedimientos del Sistema de Gestión de la Seguridad de Adif (SGS) relativos a la inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante los hechos constatados.",
+  "Revisar la aplicación de la ley del Sector Ferroviario respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea de la carretera C-58, su cruce con el ferrocarril y su infraestructura.",
+  "Identificación de los muros de similares características que tengan agentes externos (otras infraestructuras o vertidos de aguas), como el de este caso, que puedan llegar a comprometer su estabilidad.",
+  "Trasladar a la CCAA de la carretera C-58 la obligatoriedad de adecuar y mejorar su sistema de drenaje de forma que no se vierta agua de escorrentía a la infraestructura ferroviaria."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "46/2018-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+   "contenido": "Revisar la ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias y los procedimientos del Sistema de Gestión de la Seguridad de Adif (SGS) relativos a la inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante los hechos constatados."
+  },
+  {
+   "numero": "46/2018-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+   "contenido": "Revisar la aplicación de la ley del Sector Ferroviario respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea de la carretera C-58, su cruce con el ferrocarril y su infraestructura."
+  },
+  {
+   "numero": "46/2018-3",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+   "contenido": "Identificación de los muros de similares características que tengan agentes externos (otras infraestructuras o vertidos de aguas), como el de este caso, que puedan llegar a comprometer su estabilidad."
+  },
+  {
+   "numero": "46/2018-4",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+   "contenido": "Trasladar a la CCAA de la carretera C-58 la obligatoriedad de adecuar y mejorar su sistema de drenaje de forma que no se vierta agua de escorrentía a la infraestructura ferroviaria."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "incendio",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

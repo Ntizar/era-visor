@@ -1,0 +1,80 @@
+{
+ "id": "ES-CIAF-53-2008",
+ "pais": "ES",
+ "expediente": "0053/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0053/2008 OCURRIDO EL DÍA 23.10.2008 EN LA ESTACIÓN DE VILLALBA DE GUADARRAMA",
+ "fecha_suceso": "2008-10-23",
+ "hora": "12:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Villalba de Guadarrama",
+  "provincia": "Madrid",
+  "lat": 40.602681,
+  "lng": -4.09965
+ },
+ "pk": "P.K. 38,748",
+ "linea": "100 Madrid - Hendaya",
+ "trenes": [
+  {
+   "numero": "87018",
+   "operador": "COMSA Rail Transport",
+   "tipo": "locomotora aislada 312302, modelo MZIII de General Motors"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "COMSA Rail Transport"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 23 de octubre de 2008 en la estación de Villalba de Guadarrama, donde una locomotora aislada rebasó la señal de entrada debido a un frenado insuficiente. No se registraron víctimas ni daños materiales, aunque el tren sufrió un retraso de 315 minutos. La causa principal fue la incapacidad del sistema de frenado para reducir la velocidad adecuadamente, lo que provocó la activación del ASFA sin impedir el rebase de la señal.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO..................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO ..............................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES........................................................................6\n2.4\nCIRCUSTANCIAS EXTERNAS....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS...........................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.............................",
+ "causa_directa": "Frenado insuficiente",
+ "conclusiones": [
+  "El incidente se produce como consecuencia del frenado insuficiente que no reduce la velocidad de forma adecuada, provocando que la locomotora pase por la baliza previa a una velocidad excesiva.",
+  "Esto hace que el ASFA se active y se produzca un frenado de emergencia que, no obstante, no impide el rebase de la señal."
+ ],
+ "recomendaciones": [
+  "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones.",
+  "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes.",
+  "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento.",
+  "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Comsa Rail Transport",
+   "numero": "53/08-1",
+   "texto": "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "53/08-2",
+   "texto": "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes."
+  },
+  {
+   "destinatario": "Centro de mantenimiento ERION",
+   "numero": "53/08-3",
+   "texto": "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento."
+  },
+  {
+   "destinatario": "Comsa Rail Transport",
+   "numero": "53/08-4",
+   "texto": "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

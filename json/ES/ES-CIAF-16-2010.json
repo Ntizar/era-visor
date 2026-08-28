@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-16-2010",
+ "pais": "ES",
+ "expediente": "0016/2010",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0016/2010 OCURRIDO EL DÍA 10.03.2010 EN LA ESTACIÓN DE LOGROÑO (LA RIOJA)",
+ "fecha_suceso": "2010-03-10",
+ "hora": "01:58",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Logroño",
+  "provincia": "La Rioja",
+  "lat": 42.054813,
+  "lng": -1.593009
+ },
+ "pk": "P.K. 76+396 (Señal de salida S1/4)",
+ "linea": "700 Casetas - Intermodal Abando Indalecio Prieto",
+ "trenes": [
+  {
+   "numero": "933",
+   "operador": "Renfe Operadora",
+   "tipo": "Larga distancia"
+  },
+  {
+   "numero": "54654",
+   "operador": "Renfe Operadora",
+   "tipo": "Mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 10 de marzo de 2010 en la estación de Logroño consistió en un conato de colisión tras el rebase indebido de una señal en rojo por parte del tren de larga distancia 933. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en otros servicios. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal del tren, derivado de una distracción del maquinista.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Rebase indebido de la señal S1/4 por el tren 933",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren 933 de la señal S1/4 de la estación de Logroño, que estaba en indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal del tren."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

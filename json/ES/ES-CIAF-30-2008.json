@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-30-2008",
+ "pais": "ES",
+ "expediente": "0030/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0030/2008 OCURRIDO EL DÍA 16.07.2008",
+ "fecha_suceso": "2008-07-16",
+ "hora": "12:17",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Valencia Nord",
+  "provincia": "Valencia",
+  "lat": 39.4553,
+  "lng": -0.3697
+ },
+ "pk": "P.K. 108,898",
+ "linea": "300 Madrid Chamartín – Valencia Estación de Nord",
+ "trenes": [
+  {
+   "numero": "1094",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de Viajeros de Larga Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 16 de julio de 2008 en Valencia Nord, donde un tren de Renfe Operadora arrolló a una persona que transitaba por un lugar no autorizado. La víctima falleció en el acto, sin que se produjeran daños materiales en el material rodante ni en la infraestructura. La causa principal del suceso fue el tránsito de la víctima por la vía en un punto no autorizado, mientras que la actuación del maquinista y el funcionamiento de los sistemas ferroviarios se consideraron correctos.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n16.07.08/ 12:17\nLugar:\nP.K. 108,898 de la vía II entre señales avanzada y entrada de Valencia\nNord\nLínea:\n300 Madrid Chamartín – Valencia Estación de Nord\nProvincia:\n\nValencia\nEl tren de viajeros 1094 de Renfe Operadora, compuesto por el autopropulsado en doble\ncomposición, motores 490203 y 490006, (6 coches, 24 ejes, 158 m. y masa remolcada de 254 Tm.),\nprocedente de la estación de Alfafar Benetusser destino Valencia Nord circulando por vía II entre las\nseñales de avanzada y de entrada a la estación Valencia Nord, el maquinista observa a una persona\nque camina por la vía de espaldas al tren, con intención de cruzarla.\nEl maquinista hace uso del silbato repetidas veces y acciona el freno de emergencia no pudiendo\nevitar el arrollamiento y resultando cadáver la persona golpeada.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 17 de julio a las 17:35 horas, a través de",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello cuando el tren efectuaba su paso por dicho punto.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (82 km/h frente a los 160 km/h permitidos).",
+  "La actuación del maquinista fue correcta, haciendo uso del silbato y accionando el freno de emergencia al percatarse de la presencia de la persona.",
+  "Tanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplían lo establecido en la normativa vigente.",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente.",
+  "En las proximidades del lugar del arrollamiento existe un asentamiento chabolista y el tránsito de personas cerca de la vía es frecuente."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

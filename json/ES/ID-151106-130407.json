@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-151106-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-151106-130407.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-33",
+ "expediente": "0049/2006",
+ "titulo": "Arrollamiento de un vehículo por un tren de Cercanías en paso a nivel entre Cullera y Tavernes (Valencia)",
+ "fecha_suceso": "2006-11-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "paso_a_nivel",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Valencia",
+  "pk": "28,363",
+  "linea": "Silla-Gandía"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 15 de noviembre de 2006, un vehículo fue arrollado por el tren de Cercanías 24215 en el paso a nivel de clase C entre Cullera y Tavernes, en el pk 28,363 de la línea Silla-Gandía, provincia de Valencia. El conductor, de 66 años, falleció. Las semibarreras estaban bajadas y la señalización luminosa y acústica funcionaba, aunque solo uno de los dos focos del lado derecho lo hacía adecuadamente. El tren circulaba a 117 km/h, por debajo del máximo de 120 km/h, y el informe atribuye el suceso a la invasión indebida de la vía por el vehículo.",
+ "causa_directa": "Invasión indebida de la vía por el vehículo en el paso a nivel, con semibarreras bajadas y señalización luminosa y acústica activas, intentando sortear la barrera.",
+ "causas_sistemicas": "El informe no atribuye el accidente a factores sistémicos, pero constata que solo uno de los dos focos del lado derecho funcionaba adecuadamente y recomienda incidir en el mantenimiento de la señalización luminosa.",
+ "recomendaciones": [
+  "Incidir en el correcto mantenimiento de la señalización luminosa del paso a nivel."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A train hit a car while it was crossing a level crossing with barriers, type C. The car driver was killed.",
+  "Location name": "Railway line from Silla to Gandía at the kilometre point 28,363.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

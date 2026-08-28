@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-2-2010",
+ "pais": "ES",
+ "expediente": "0002/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0002/2010 OCURRIDO EL DÍA 15.01.2010 EN EL PASO A NIVEL, CLASE C, SITUADO EN EL P.K. 62+902, EN LA ESTACIÓN DE VILA-REAL (CASTELLÓN)",
+ "fecha_suceso": "2010-01-15",
+ "hora": "18:26",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Vila-real",
+  "provincia": "Castellón",
+  "lat": 39.9372616,
+  "lng": -0.1004465
+ },
+ "pk": "P.K. 62+902",
+ "linea": "600 Valencia – San Vicente de Calders",
+ "trenes": [
+  {
+   "numero": "264",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  },
+  {
+   "numero": "24391",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  },
+  {
+   "numero": "24346",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 15 de enero de 2010 en el paso a nivel de la estación de Vila-real (Castellón), donde un tren de viajeros arrolló a un motocarro. Como consecuencia del impacto, falleció el único ocupante del vehículo y se produjeron daños materiales en el tren y la vía. La causa principal del siniestro fue la irrupción del vehículo en el paso a nivel cuando las semibarreras ya se encontraban bajadas y las señales indicaban la proximidad del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Cruce del motocarro en el paso a nivel con semibarreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando las semibarreras se encontraban bajadas y las señales indicaban la llegada del tren 264."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

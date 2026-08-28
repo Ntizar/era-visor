@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-15-2009",
+ "pais": "ES",
+ "expediente": "0015/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0015/2009 OCURRIDO EL DÍA 04.03.2009 EN EL APEADERO DE PLATJA DE CASTELLDEFELS",
+ "fecha_suceso": "2009-03-04",
+ "hora": "21:49",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Platja de Castelldefels",
+  "provincia": "Barcelona",
+  "lat": 41.2667,
+  "lng": 1.9333
+ },
+ "pk": "656+600",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "trenes": [
+  {
+   "numero": "18098",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros / Media distancia"
+  },
+  {
+   "numero": "28387",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren estacionado"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098 de Renfe Operadora arrolló a una joven de 19 años en el apeadero de Platja de Castelldefels. La víctima había bajado del tren 28387, estacionado en la vía I, e intentó cruzar las vías por detrás de la composición hacia la vía II, sin percatarse de la proximidad del tren 18098. Fue golpeada por el frontal del tren y falleció poco después mientras era atendida por los servicios sanitarios. El maquinista actuó correctamente aplicando el freno de emergencia al ver a la víctima en el gálibo de la vía.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, que intentaba cruzar por detrás del tren 28387, del que se acababa de bajar y que estaba estacionado en la vía I, sin percatarse de la llegada del tren 18098 por la vía II.",
+  "El tren 18098 circulaba a una velocidad inferior a la máxima permitida en el tramo (138 km/h frente a los 140 km/h autorizados).",
+  "La actuación del maquinista fue correcta, ya que hizo uso del freno de emergencia al observar a la víctima en el gálibo de la vía.",
+  "Tanto la tasa de alcoholemia del maquinista (negativa) como sus jornadas de trabajo cumplían con la normativa vigente.",
+  "Los equipos de seguridad del tren y las instalaciones técnicas funcionaban correctamente en el momento del accidente."
+ ],
+ "recomendaciones": [
+  "No se establecen recomendaciones, dada la existencia de un paso elevado que comunica los andenes y de carteles que advierten del peligro de cruzar las vías. Además, se está construyendo un paso inferior próximo al edificio de viajeros."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No se establecen recomendaciones, dada la existencia de un paso elevado que comunica los andenes y de carteles que advierten del peligro de cruzar las vías. Además, se está construyendo un paso inferior próximo al edificio de viajeros."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

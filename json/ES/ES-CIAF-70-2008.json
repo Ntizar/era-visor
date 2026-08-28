@@ -1,0 +1,52 @@
+{
+ "id": "ES-CIAF-70-2008",
+ "pais": "ES",
+ "expediente": "0070/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0070/2008 ocurrido el día 14.10.2008 en la Estación de Leganés",
+ "fecha_suceso": "2008-10-14",
+ "hora": "14:46",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Leganés",
+  "provincia": "Madrid",
+  "lat": 40.33,
+  "lng": -3.7611
+ },
+ "pk": "13+171",
+ "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+ "trenes": [
+  {
+   "numero": "27398",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 14 de octubre de 2008 en la estación de Leganés, que provocó la muerte de un varón de 45 años. El suceso se produjo cuando el tren de cercanías 27398 arrolló a la víctima en las inmediaciones de las agujas 2 y 4, sin causar daños materiales en la infraestructura o el material rodante. La causa principal del accidente fue el tránsito no autorizado de la víctima por la zona de paso del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................5\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Tránsito no autorizado de la víctima por la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

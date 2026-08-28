@@ -1,0 +1,51 @@
+{
+ "id": "ES-CIAF-64-2007",
+ "pais": "ES",
+ "expediente": "064/2007",
+ "titulo": "IF 064/2007 — El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa",
+ "fecha_suceso": "2007-12-24",
+ "hora": "20:16",
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Oñoro",
+  "provincia": "Salamanca",
+  "lat": 40.9833,
+  "lng": -5.7
+ },
+ "pk": "5,200",
+ "linea": "930 Madrid- San Fernando de Henares",
+ "trenes": [
+  {
+   "numero": "21763",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 24 de diciembre de 2007 cerca del apeadero de El Pozo, en la línea Madrid-San Fernando de Henares, que provocó la muerte de un joven al ser arrollado por el tren 21763. Las investigaciones determinaron que el maquinista actuó correctamente y el material rodante funcionaba adecuadamente, descartando fallos técnicos o humanos por parte del personal ferroviario. La causa principal del siniestro fue el tránsito indebido de la víctima por la vía en una zona no autorizada.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n24.12.07./ 20:16\nLugar:\n\nP.K. 5,200; cerca del apeadero de El Pozo\nLínea:\n930 Madrid- San Fernando de Henares\nTrayecto:\nVallecas industrial- Madrid\nProvincia:\n\nMadrid\nEl tren de cercanías 21763, circulando por vía impar, a su paso por el P.K. 5,200; de la línea 930\nMadrid- San Fernando de Henares; arrolla a un joven que, en compañía de otro, caminaba por las\nvías. El maquinista, viendo que dos personas transitan por la vía, hace sonar el silbato y acciona el\nfreno de emergencia sin poder evitar golpear a una de ellas, expulsándola fuera de la vía.\nEl maquinista, una vez detenido el tren, comunica el suceso al Puesto de Mando de Chamartín\ndesde donde se activan los protocolos de actuación para accidentes y se avisa a los servicios de\nemergencia, Seguridad Corporativa y Servicios Internos de Adif y Renfe Operadora.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel mismo ",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

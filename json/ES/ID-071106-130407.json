@@ -1,0 +1,34 @@
+{
+ "id": "ES-ID-071106-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-071106-130407.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0045/2006",
+ "titulo": "Arrollamiento mortal de una mujer por tren de Media Distancia en la estación de Teruel",
+ "fecha_suceso": "2006-11-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Teruel",
+  "provincia": "Teruel",
+  "pk": "131,700",
+  "linea": "Caminreal-Sagunto",
+  "lat": 40.3436719,
+  "lng": -1.1081939
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El 7 de noviembre de 2006, una mujer de 75 años fue arrollada mortalmente por el tren de Media Distancia 8513 de RENFE a la entrada de la estación de Teruel, en el punto kilométrico 131,700 de la línea Caminreal-Sagunto. La víctima transitaba de espaldas al tren por el lado exterior de la vía, en un entorno urbano con paso vicioso y sin vallado perimetral. El maquinista circulaba a 35 km/h, por debajo de la velocidad máxima permitida, y aplicó el freno de urgencia tras usar el silbato. No hubo daños materiales y la circulación se interrumpió durante 40 minutos.",
+ "causa_directa": "El tránsito indebido y no autorizado de la víctima sobre la vía, que caminaba de espaldas al tren dentro del gálibo, lo que provocó su arrollamiento.",
+ "causas_sistemicas": "Entorno urbano con paso vicioso e irregular, ausencia de vallado perimetral y visibilidad reducida por condiciones nocturnas y atmosféricas.",
+ "recomendaciones": [
+  "Eliminar el paso vicioso mediante la ejecución de un vallado perimetral en la margen izquierda del tramo ferroviario afectado, dentro del núcleo urbano de Teruel."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

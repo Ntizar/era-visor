@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-40-2011",
+ "pais": "ES",
+ "expediente": "0040/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0040/2011 OCURRIDO EL DÍA 27.08.2011 EN LA ESTACIÓN DE GRANOLLERS - CENTRE (BARCELONA)",
+ "fecha_suceso": "2011-08-27",
+ "hora": "21:27",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Granollers - Centre",
+  "provincia": "Barcelona",
+  "lat": 41.6002,
+  "lng": 2.2863
+ },
+ "pk": "PK 134+932",
+ "linea": "270 Bifurcación Sagrera - Cerbere",
+ "trenes": [
+  {
+   "numero": "28480",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 27 de agosto de 2011 en la estación de Granollers-Centre (Barcelona), donde el tren de cercanías 28480 rebasó una señal de parada y descarriló. El suceso no provocó víctimas mortales ni heridos, aunque causó daños materiales en la infraestructura y el material rodante, además de interrumpir la circulación durante varias horas. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción, derivado de la confusión del maquinista con la indicación de vía libre de otra señal.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Rebase indebido de la señal de salida S2/7-9",
+ "conclusiones": [
+  "El accidente tuvo su origen en el rebase indebido por el tren de viajeros 28480 de la señal de salida S2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "40/11-1",
+   "texto": "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

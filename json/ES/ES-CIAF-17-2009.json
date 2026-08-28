@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-17-2009",
+ "pais": "ES",
+ "expediente": "0017/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0017/2009 OCURRIDO EL DÍA 24.03.2009 EN LA ESTACIÓN DE ALGEMESÍ",
+ "fecha_suceso": "2009-03-24",
+ "hora": "14:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Algemesí",
+  "provincia": "Valencia",
+  "lat": 39.1535,
+  "lng": -0.435
+ },
+ "pk": "P.K. 81,494",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "trenes": [
+  {
+   "numero": "24048",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en la estación de Algemesí, que provocó la muerte de un hombre de 77 años al ser arrollado por el tren 24048. La causa principal fue el cruce del paso a nivel por parte de la víctima, quien hizo caso omiso de las señales ópticas y acústicas de prohibición de paso. No se establecieron recomendaciones adicionales dado que el paso a nivel provisional ya había sido sustituido por un paso inferior seguro.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Cruce del paso a nivel ignorando señales",
+ "conclusiones": [
+  "El accidente tuvo su origen cuando la víctima cruza el paso a nivel, haciendo caso omiso de las señales ópticas y acústicas que indicaban que no se podía cruzar, en el momento en que el pasaba el tren 24048."
+ ],
+ "recomendaciones": [
+  "No se establecen recomendaciones, dado que el 22 de mayo de 2009 se ha procedido a la apertura de un paso inferior que clausura este paso a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No se establecen recomendaciones, dado que el 22 de mayo de 2009 se ha procedido a la apertura de un paso inferior que clausura este paso a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

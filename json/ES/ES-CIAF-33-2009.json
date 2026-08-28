@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-33-2009",
+ "pais": "ES",
+ "expediente": "0033/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0033/2009 OCURRIDO EL DÍA 08.07.09 EN EL PASO A NIVEL CLASE C EN “VILLAVERDE DE PONTONES” (CANTANBRIA)",
+ "fecha_suceso": "2009-07-08",
+ "hora": "18:21",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Ribamontán al Monte",
+  "provincia": "Cantabria",
+  "lat": 43.4112444,
+  "lng": -3.7036647
+ },
+ "pk": "551+254",
+ "linea": "24 Santander - Bilbao",
+ "trenes": [
+  {
+   "numero": "9687",
+   "operador": "FEVE",
+   "tipo": "tren de mercancías (T50)"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 8 de julio de 2009 en el paso a nivel de Villaverde de Pontones (Ribamontán al Monte, Cantabria), donde un tren de mercancías arrolló un vehículo detenido en la vía. El suceso provocó la muerte del conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que ignoró las señales de parada del paso a nivel.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo",
+ "conclusiones": [
+  "El arrollamiento tiene su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel cuando éste se encontraba con las barreras bajadas y las señales luminosas activadas y se detiene en el centro del paso a nivel en el momento en que pasaba el tren 9687."
+ ],
+ "recomendaciones": [
+  "No se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

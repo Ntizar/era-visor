@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-42-2008",
+ "pais": "ES",
+ "expediente": "0042/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0042/2008 OCURRIDO EL DÍA 12.09.2008",
+ "fecha_suceso": "2008-09-12",
+ "hora": "19:49",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Martorell",
+  "provincia": "Barcelona",
+  "lat": 41.453898,
+  "lng": 1.9821
+ },
+ "pk": "P.K. 73,130",
+ "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "40360",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de Mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 12 de septiembre de 2008 en el paso enmaderado de la estación de Martorell, donde un tren de mercancías arrolló a un peatón. La consecuencia fue la muerte inmediata de la víctima y daños materiales en la locomotora. La causa principal del siniestro fue el tránsito de la persona por un lugar no autorizado, mientras que la actuación del maquinista y el funcionamiento del material se consideraron correctos.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n12.09.08/ 19:49\nLugar:\nP.K. 73,130, en el paso enmaderado de la estación de Martorell\nLínea:\n240 San Vicent de Calders- L’Hospitalet de Llobregat.\nProvincia:\n\nBarcelona\nEl tren de mercancías 40360 de Renfe Operadora, compuesto por la locomotora 250009 y 20\nvagones, con masa remolcada de 602 Tn, una vez rebasada la señal de entrada de la estación de\nMartorell y a la salida del túnel, arrolla a una persona que cruzaba por la vía II del paso enmaderado\nsituado a la salida de dicho túnel.\nEl maquinista hace uso del silbato repetidas veces antes y después de la salida del túnel,  acciona\nel freno de emergencia no pudiendo evitar el arrollamiento, resultando cadáver la persona golpeada.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 15 de septiembre a las 10:37 horas, a través de mensaje de telefonía móvil, comunicó a la\nque se había producido el arrollamiento de una\npers",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello, en el momento en que pasaba el tren.",
+  "La actuación del maquinista fue correcta, ya que hizo uso del silbato y accionó el freno de emergencia al percatarse de la presencia de la persona.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (96 km/h frente a 140 km/h permitidos).",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente.",
+  "La tasa de alcoholemia del maquinista fue negativa y sus jornadas de trabajo cumplían la normativa.",
+  "La infraestructura y la actuación del maquinista no influyeron en el desarrollo de los hechos."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

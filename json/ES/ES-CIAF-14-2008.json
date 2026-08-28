@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-14-2008",
+ "pais": "ES",
+ "expediente": "0014/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0014/2008 OCURRIDO EL DÍA 13.05.2008",
+ "fecha_suceso": "2008-05-13",
+ "hora": "12:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre el apeadero de Alegia y la estación de Tolosa, a la salida de un túnel en curva a la izquierda de radio 475 y 9,4 milésimas de pendiente ascendente en el sentido de la circulación, en las cercanías de la Ctra. Nacional I",
+  "provincia": "Guipúzcoa",
+  "lat": 43.135,
+  "lng": -2.074
+ },
+ "pk": "P.K. 594,380",
+ "linea": "100 Madrid-Hendaya",
+ "trenes": [
+  {
+   "numero": "26828",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de mayo de 2008 entre el apeadero de Alegia y la estación de Tolosa, que provocó la muerte de un trabajador de seguridad. La causa principal fue la invasión del gálibo de la vía por parte de la víctima durante la circulación del tren. No se registraron daños materiales en la infraestructura ni en el material rodante.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n13.05.08/ 12:07\nLugar:\nP.K. 594,380, entre el apeadero de Alegia y la estación de Tolosa\nLínea:\n100 Madrid-Hendaya\nTrayecto:\nIrún-Brinkola\nProvincia:\n\nGuipúzcoa\nEl tren de cercanías 26828 de Renfe Operadora, procedente de Irún y con destino a Brinkola,\narrolla a una persona con resultado de muerte, en el P.K. 594,380 de la línea 100 Madrid-Hendaya\nsituado entre el apeadero de Alegia y la estación de Tolosa. La persona arrollada pertenecía a la\nEmpresa Ingeniería y Prevención de Riesgos Laborales SL, contratada por Mantenimiento e\nInfraestructura (Adif), como consultora en materia de prevención de riesgos laborales, para los\ntrabajos que se realizaban al amparo del acta de trabajos nº 123 de la Gerencia Operativa de Miranda\nde Ebro.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 13 de mayo a las 13:27 horas, a través de mensaje de correo electrónico, comunicó a la  q",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la persona arrollada",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión, por parte de la persona arrollada, del gálibo de la vía, en el momento que efectuaba su paso el tren de cercanías 26828."
+ ],
+ "recomendaciones": [
+  "No siendo causa del accidente investigado el incumplimiento del RGC, se entiende que, por quien proceda, debería analizarse la adecuación de la normativa aplicable a la seguridad de los trabajos en las proximidades de la vía y el grado de seguimiento de la misma."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No siendo causa del accidente investigado el incumplimiento del RGC, se entiende que, por quien proceda, debería analizarse la adecuación de la normativa aplicable a la seguridad de los trabajos en las proximidades de la vía y el grado de seguimiento de la misma."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

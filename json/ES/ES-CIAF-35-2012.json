@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-35-2012",
+ "pais": "ES",
+ "expediente": "0035/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0035/2012 OCURRIDO EL DÍA 11.05.2012 ENTRE LAS ESTACIONES DE XUBIA Y FERRERÍAS (LA CORUÑA)",
+ "fecha_suceso": "2012-05-11",
+ "hora": "20:34",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_obstaculo",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Xubia y Ferrerías",
+  "provincia": "La Coruña",
+  "lat": 43.48,
+  "lng": -8.234
+ },
+ "pk": "8+645",
+ "linea": "11 Ferrol - Gijón",
+ "trenes": [
+  {
+   "numero": "1903",
+   "operador": "Feve",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 11 de mayo de 2012 en Narón (La Coruña), donde el tren de cercanías 1903 colisionó con un pino caído sobre la vía. El suceso provocó el descarrilamiento y vuelco del material rodante, sin causar víctimas mortales ni heridos, aunque generó daños materiales significativos. La causa principal del accidente fue la colisión con el obstáculo, derivado de la caída del árbol por fuertes ráfagas de viento y el estado de pudrición de sus raíces.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Colisión con un árbol caído en la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en la colisión del tren 1903 con un obstáculo –un pino de grandes dimensiones- caído y que ocupaba el gálibo de la vía."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas existentes y las adoptadas, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas existentes y las adoptadas, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

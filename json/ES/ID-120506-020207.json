@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-120506-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-120506-020207.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-11",
+ "expediente": "0020/2006",
+ "titulo": "Arrollamiento de una persona por un tren en paso a nivel de Renedo, Cantabria, línea Santander-Palencia",
+ "fecha_suceso": "2006-05-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Renedo",
+  "provincia": "Cantabria",
+  "pk": "494,174",
+  "linea": "Línea 160 Santander-Palencia"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 12 de mayo de 2006, el tren 61 de RENFE arrolló a una persona en un paso a nivel peatonal de clase C en Renedo (Piélagos, Cantabria), en la línea Santander-Palencia. La víctima falleció en el acto y su acompañante resultó ileso, aunque fue trasladado por un ataque de nervios. Las instalaciones del paso funcionaban correctamente y el tren circulaba por debajo de la velocidad máxima permitida. La investigación concluyó que la causa directa fue que la persona cruzó haciendo caso omiso de las señales luminosas peatonales y de las barreras abatidas.",
+ "causa_directa": "La víctima se dispuso a cruzar el paso a nivel haciendo caso omiso de las señales luminosas peatonales de prohibición de pasar y con las barreras abatidas.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Acelerar los trámites para redactar el proyecto y ejecutar las obras de supresión de los pasos a nivel de los P.K. 494/174 y 494/620 en Piélagos."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person died after being hit by a train when going through a station pedestrian crossing equipped with barriers and stop lights. At that moment the barriers were down and the light was red.",
+  "Location name": "Renedo station. Railway line from Palencia to Santander at kilometre point 494,174.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

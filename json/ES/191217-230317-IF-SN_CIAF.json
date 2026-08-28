@@ -1,0 +1,34 @@
+{
+ "id": "ES-191217-230317-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/191217-230317-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0020/2017",
+ "titulo": "Rebase indebido de señal de salida con riesgo de colisión en la estación de Madrid Chamartín",
+ "fecha_suceso": "2017-03-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Madrid Chamartín",
+  "provincia": null,
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El 23 de marzo de 2017, el tren 31116 de RENFE VIAJEROS rebasó la señal de salida S1/10 en indicación de parada en la estación de Madrid Chamartín. El rebase se produjo con posibilidad de colisión, aunque no se registró colisión. La investigación atribuyó el suceso a un déficit de atención del maquinista por falta de percepción del riesgo y a un uso inapropiado de la velocidad prefijada.",
+ "causa_directa": "El rebase indebido de la señal de salida S1/10 en indicación de parada, debido a un déficit de atención del maquinista por falta de percepción del riesgo.",
+ "causas_sistemicas": "El uso inapropiado de la velocidad prefijada en itinerarios de salida y aproximación a señales; además, la posibilidad de que el enclavamiento y las consignas de ADIF no generaran incompatibilidades por deslizamiento adecuadas.",
+ "recomendaciones": [
+  "Inistir en la formación y reciclaje del personal de conducción sobre la adecuación de la marcha y la atención a las señales.",
+  "Estudiar la generación de incompatibilidades entre itinerarios por deslizamiento en salidas hacia la travesía T72.",
+  "Establecer en el SGS de ADIF procedimientos para la elaboración de Consignas A basadas en análisis de riesgo."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

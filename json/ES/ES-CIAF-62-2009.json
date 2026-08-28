@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-62-2009",
+ "pais": "ES",
+ "expediente": "0062/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2009 OCURRIDO EL DÍA 13.12.2009 EN EL PASO A NIVEL, CLASE A, SITUADO EN EL P.K.164+429, EN LAS INMEDIACIONES DEL APEADERO DE ORBITA-ESPINOSA (ÁVILA)",
+ "fecha_suceso": "2009-12-13",
+ "hora": "18:27",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Orbita - Espinosa",
+  "provincia": "Ávila",
+  "lat": 41.176095,
+  "lng": -4.790809
+ },
+ "pk": "P.K. 164+429",
+ "linea": "100 Madrid – Hendaya",
+ "trenes": [
+  {
+   "numero": "17212",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de diciembre de 2009 en el paso a nivel del apeadero de Orbita-Espinosa (Ávila), donde el tren 17212 arrolló un vehículo que cruzaba la vía. El suceso provocó la muerte de un ocupante del automóvil y daños materiales en el tren. La causa principal fue el cruce del vehículo por el paso a nivel en el momento de la llegada del tren, agravado por una señalización de carretera incompleta y no conforme a la normativa vigente.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Cruce del vehículo en el paso a nivel cuando circulaba el tren",
+ "conclusiones": [
+  "El accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando circulaba el tren 17212."
+ ],
+ "recomendaciones": [
+  "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Ayuntamiento de Orbita",
+   "numero": "62/09-1",
+   "texto": "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

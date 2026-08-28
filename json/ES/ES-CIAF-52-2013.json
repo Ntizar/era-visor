@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-52-2013",
+ "pais": "ES",
+ "expediente": "0052/2013",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0052/2013 OCURRIDO EL DÍA 11.07.2013 EN LA ESTACIÓN DE LLEIDA PIRINEUS (LLEIDA)",
+ "fecha_suceso": "2013-07-11",
+ "hora": "19:59",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Lleida Pirineus",
+  "provincia": "Lleida",
+  "lat": 41.614761,
+  "lng": 0.626784
+ },
+ "pk": "183+728",
+ "linea": "200 Madrid Chamartín - Barcelona Estació de França",
+ "trenes": [
+  {
+   "numero": "80382",
+   "operador": "Renfe Operadora",
+   "tipo": "mercancías"
+  },
+  {
+   "numero": "15626",
+   "operador": "Renfe Operadora",
+   "tipo": "regional"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 11 de julio de 2013 en la estación de Lleida Pirineus, donde el tren de mercancías 80382 rebasó indebidamente una señal de parada, provocando un conato de colisión con el tren regional 15626. No se registraron víctimas ni daños materiales, aunque la vía quedó interceptada durante más de una hora. La causa principal fue el incumplimiento de la orden de parada por parte del personal de conducción del tren de mercancías.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 8\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado",
+ "causa_directa": "Rebase indebido de la señal S2/4A en indicación de parada",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido del tren de mercancías 80382 de la señal S2/4A, en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas por Renfe Operadora, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas por Renfe Operadora, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

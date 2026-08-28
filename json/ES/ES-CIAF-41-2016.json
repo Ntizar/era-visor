@@ -1,0 +1,110 @@
+{
+ "id": "ES-CIAF-41-2016",
+ "pais": "ES",
+ "expediente": "0041/2016",
+ "titulo": "Informe Final de la CIAF sobre el accidente ferroviario nº 0041/2016 ocurrido el día 09.09.2016 en la estación de O Porriño (Pontevedra)",
+ "fecha_suceso": "2016-09-09",
+ "hora": "09:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de O Porriño",
+  "provincia": "Pontevedra",
+  "lat": 42.075004,
+  "lng": -8.423906
+ },
+ "pk": "PK 151+911",
+ "linea": "810 Bifurcación Chapela – Monforte de Lemos",
+ "trenes": [
+  {
+   "numero": "420",
+   "operador": "CP (Comboios de Portugal)",
+   "tipo": "Unidad autopropulsada diésel serie 592"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 4,
+ "heridos_graves": 13,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 420 \"Tren Celta\" ocurrió el 9 de septiembre de 2016 en la estación de O Porriño (Pontevedra), provocando la muerte de cuatro personas y heridas a 47 viajeros. La causa directa fue el paso del tren a 110 km/h por un desvío con velocidad limitada a 30 km/h, debido al incumplimiento de las señales de precaución por parte del maquinista.",
+ "descripcion": "",
+ "causa_directa": "Descarrilamiento por exceso de velocidad en cambio no 2",
+ "conclusiones": [
+  "La causa directa del accidente fue el descarrilamiento motivado por el paso del tren por el cambio nº 2 de la estación de O Porriño, situado en posición desviada, a una velocidad de 110 km/h (118 km/h según registrador, corregida por la diferencia entre el diámetro de rueda grabado en el registrador y el diámetro real). La velocidad prescrita para pasar por el cambio era de 30 km/h, como indicaba la señal avanzada 1532, que ordenaba 'anuncio de precaución' (aspecto verde-amarillo).",
+  "Causas coadyuvantes del exceso de velocidad fueron, por una parte, el hecho de que el maquinista del tren 420 no cumplió la orden que le transmitía la señal 1532, y por otra el de haber reconocido las señales ópticas y acústicas del ASFA (sin tomar ninguna acción), lo que impidió la aplicación del freno de emergencia por este equipo. La información disponible no permite identificar con precisión el motivo de tal incumplimiento, pero descartados posibles fallos del material rodante y de la señalización, los indicios apuntan a una falta de atención en la conducción.",
+  "El hecho de que, las veces que realizaba el trayecto Vigo-Valença, el maquinista pasase habitualmente por O Porriño con un paso directo, sin ser cruzado ni apartado (al menos en sus últimos diez viajes, en los seis meses anteriores), y sin ninguna parada, podría haber inducido de forma inconsciente una forma de conducción más basada en la rutina que en la atención al aspecto de las señales y el cumplimiento de sus órdenes.",
+  "El hecho de que la conducción del 'Tren Celta' se realizase de manera bastante espaciada (cada varias semanas), pudo dificultar que el maquinista (a pesar de su experiencia y formación) pudiese llegar a apreciar y ser consciente de las circunstancias posibles del trayecto, más allá de las habituales antes mencionadas.",
+  "Renfe realizó, antes de la entrada en servicio comercial del 'Tren Celta', el preceptivo Estudio de Seguridad, que concluía que la circulación de los maquinistas portugueses por la red española no era un cambio significativo, y que la formación recibida por los maquinistas, junto con otros requisitos, resultaba suficiente para que los posibles riesgos particulares asociados al factor humano quedasen mitigados hasta un nivel tolerable. Sin embargo, de la presente investigación se desprende que, a pesar de la formación y experiencia de los maquinistas, los riesgos asociados a los factores subyacentes señalados anteriormente podrían haber tenido influencia en el accidente. Todo esto aconseja una actualización del Estudio de Seguridad, sus criterios y su registro de peligros, a partir de la experiencia derivada de este accidente (y teniendo en cuenta el marco regulatorio más reciente).",
+  "Aunque la decisión de establecer el itinerario del tren 420 fue motivada por la necesidad de realizar una comprobación ante una incidencia detectada previamente, el procedimiento seguido para estos casos concretos no está normalizado ni sujeto a trazabilidad.",
+  "Como se ha indicado en la conclusión nº 2, se produjo un incumplimiento de las órdenes de las señales por parte del maquinista, si bien no se ha podido determinar de manera concluyente el motivo de ese incumplimiento. La posible distracción es la única explicación verosímil que encaja con las circunstancias y que no ha quedado descartada, pero no ha podido ser demostrada de forma categórica al no existir registros de audio o vídeo en cabina que pudiesen confirmarla. Por ese motivo, y de cara a la investigación de otros sucesos similares en el futuro, resultaría de gran utilidad poder disponer de ese tipo de información."
+ ],
+ "recomendaciones": [
+  "En los procesos de formación se deberá hacer especial hincapié en las actuaciones ante situaciones distintas de las habituales, así como a las diferencias entre los sistemas de señalización y de ayuda a la conducción de España y Portugal. Estas acciones formativas deben ser tanto teóricas como prácticas, incluyendo recorridos en la línea y situaciones no habituales, con objeto de reducir el riesgo de creación de rutinas.",
+  "RENFE y CP deberán considerar, desde el punto de vista de la seguridad, la conveniencia de que los maquinistas del 'Tren Celta' presten el servicio con mayor frecuencia, con objeto de afianzar su conocimiento de las circunstancias de conducción por la línea. También debe evaluarse la conveniencia de que realicen recorridos acompañados con mayor frecuencia.",
+  "RENFE y CP deberán revisar los Estudios de Seguridad para la evaluación de riesgos operacionales del servicio del 'Tren Celta', para incorporar los hallazgos y enseñanzas derivadas de la investigación de este accidente, analizando especialmente los aspectos relacionados con el factor humano en la conducción y considerando el nuevo marco normativo.",
+  "Establecer e impulsar guías y recomendaciones que definan y detallen a las empresas operadoras (RENFE/CP) la forma de proceder en los análisis de riesgos operacionales, para la determinación de las actuaciones (mitigaciones) necesarias a realizar para la aceptación del riesgo en la conducción de trenes por diferentes países, prestando especial atención al factor humano y a la incorporación de los hallazgos y enseñanzas derivadas de la investigación de este accidente.",
+  "Ampliar las normas o procedimientos operativos, para incluir los casos en los que el administrador de la infraestructura necesite emplear un tren para realizar comprobaciones de mantenimiento sobre la infraestructura o el funcionamiento del material rodante. Deberá establecerse un procedimiento que asegure la adecuada coordinación, de modo que las actuaciones queden definidas y todo quede registrado en los canales de comunicación reglamentarios.",
+  "Estudiar la posibilidad de dotar a los vehículos de medios de grabación de audio en cabina (en caso de que aún no dispongan de ellos) y video frontal para su utilización en la investigación de accidentes e incidentes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "41/2016 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador_final": "CP / RENFE VIAJEROS",
+   "texto": "En los procesos de formación se deberá hacer especial hincapié en las actuaciones ante situaciones distintas de las habituales, así como a las diferencias entre los sistemas de señalización y de ayuda a la conducción de España y Portugal. Estas acciones formativas deben ser tanto teóricas como prácticas, incluyendo recorridos en la línea y situaciones no habituales, con objeto de reducir el riesgo de creación de rutinas."
+  },
+  {
+   "numero": "41/2016 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador_final": "CP / RENFE VIAJEROS",
+   "texto": "RENFE y CP deberán considerar, desde el punto de vista de la seguridad, la conveniencia de que los maquinistas del 'Tren Celta' presten el servicio con mayor frecuencia, con objeto de afianzar su conocimiento de las circunstancias de conducción por la línea. También debe evaluarse la conveniencia de que realicen recorridos acompañados con mayor frecuencia."
+  },
+  {
+   "numero": "41/2016 - 3",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador_final": "CP / RENFE VIAJEROS",
+   "texto": "RENFE y CP deberán revisar los Estudios de Seguridad para la evaluación de riesgos operacionales del servicio del 'Tren Celta', para incorporar los hallazgos y enseñanzas derivadas de la investigación de este accidente, analizando especialmente los aspectos relacionados con el factor humano en la conducción y considerando el nuevo marco normativo."
+  },
+  {
+   "numero": "41/2016 - 4",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador_final": "AESF",
+   "texto": "Establecer e impulsar guías y recomendaciones que definan y detallen a las empresas operadoras (RENFE/CP) la forma de proceder en los análisis de riesgos operacionales, para la determinación de las actuaciones (mitigaciones) necesarias a realizar para la aceptación del riesgo en la conducción de trenes por diferentes países, prestando especial atención al factor humano y a la incorporación de los hallazgos y enseñanzas derivadas de la investigación de este accidente."
+  },
+  {
+   "numero": "41/2016 - 5",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador_final": "ADIF",
+   "texto": "Ampliar las normas o procedimientos operativos, para incluir los casos en los que el administrador de la infraestructura necesite emplear un tren para realizar comprobaciones de mantenimiento sobre la infraestructura o el funcionamiento del material rodante. Deberá establecerse un procedimiento que asegure la adecuada coordinación, de modo que las actuaciones queden definidas y todo quede registrado en los canales de comunicación reglamentarios."
+  },
+  {
+   "numero": "41/2016 - 6",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador_final": "CP / RENFE VIAJEROS",
+   "texto": "Estudiar la posibilidad de dotar a los vehículos de medios de grabación de audio en cabina (en caso de que aún no dispongan de ellos) y video frontal para su utilización en la investigación de accidentes e incidentes."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "colisión",
+  "descarrilamiento",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-111206-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-111206-130407.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-39",
+ "expediente": "0056/2006",
+ "titulo": "Arrollamiento mortal de una persona en la estación de Vilanova i la Geltrú, línea Madrid-Barcelona",
+ "fecha_suceso": "2006-12-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Vilanova i la Geltrú",
+  "provincia": "Barcelona",
+  "pk": "636,000",
+  "linea": "Madrid-Barcelona"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El 11 de diciembre de 2006, a las 22:06, un tren de Media Distancia nº 8259 de RENFE atropelló y mató a un varón de 18 años en la estación de Vilanova i la Geltrú, PK 636,000 de la línea Madrid-Barcelona. La víctima intentó cruzar las vías desde el andén principal sin usar el paso inferior, mientras el tren pasaba sin parada por vía general 2. El tren circulaba a 101 km/h, por debajo del máximo de 130 km/h, y el maquinista dio resultado negativo en alcoholemia. No hubo daños materiales, aunque se interrumpió la circulación y se produjeron retrasos en varios trenes.",
+ "causa_directa": "El arrollamiento se produjo porque la víctima invadió el gálibo del tren al cruzar las vías por un lugar no permitido, sin percatarse de la llegada del tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Impulsar campañas de sensibilización en medios de comunicación sobre el peligro de cruzar vías por lugares no permitidos y el uso de pasos inferiores peatonales.",
+  "Reforzar la señalización de prohibición de cruzar las vías en la estación mediante cartelones y avisos por megafonía."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by a train when he tried to reach the opposite platform crossing the tracks.",
+  "Location name": "Vilanova i la Geltrú station. Railway line from Madrid to Barcelona at the kilometre point 636,00.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Other",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

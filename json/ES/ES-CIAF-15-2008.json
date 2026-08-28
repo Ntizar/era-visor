@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-15-2008",
+ "pais": "ES",
+ "expediente": "0015/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0015/2008 OCURRIDO EL DÍA 13.05.2008",
+ "fecha_suceso": "2008-05-13",
+ "hora": "16:35",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Hernani Centro",
+  "provincia": "Guipúzcoa",
+  "lat": 43.274996,
+  "lng": -1.958403
+ },
+ "pk": "P.K. 615,049",
+ "linea": "100 Madrid-Hendaya",
+ "trenes": [
+  {
+   "numero": "401",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de mayo de 2008 en el paso entarimado del apeadero de Hernani Centro, que provocó la muerte de una joven. La causa principal fue el cruce de la víctima sin percatarse de la aproximación del tren, agravado por el uso de auriculares. No se registraron daños materiales en la infraestructura ni en el material rodante.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n13.05.08/ 16:35\nLugar:\nP.K. 615,049, paso entarimado del apeadero de Hernani Centro\nLínea:\n100 Madrid-Hendaya\nTrayecto:\nAndoaín - Hernani\nProvincia:\n\nGuipúzcoa\nEl tren de viajeros de larga distancia 401 de Renfe Operadora, formado por la locomotora 252071\ny 3 coches, con masa remolcada de 150 Tm, a su paso por la vía I del apeadero de Hernani Centro,\narrolla a una joven que, en esos momentos, cruzaba por un paso entarimado  sin percatarse de la\npresencia del tren.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 13 de mayo a las 17:17 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una joven por el\ntren de larga distancia 401, en el apeadero de Hernani Centro, de la línea 100 Madrid-Hendaya.\nEl Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, aprobado\npor el Real Decreto 810",
+ "causa_directa": "Cruce imprudente de la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso entarimado sin darse cuenta de que el tren 401 se aproximaba por la vía I."
+ ],
+ "recomendaciones": [
+  "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

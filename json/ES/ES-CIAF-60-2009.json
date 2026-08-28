@@ -1,0 +1,56 @@
+{
+ "id": "ES-CIAF-60-2009",
+ "pais": "ES",
+ "expediente": "0060/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0060/2009 OCURRIDO EL DÍA 01.12.2009 EN EL PASO A NIVEL, CLASE C, SITUADO EN EL P.K.151+433, DE LA ESTACIÓN DE O PORRIÑO (PONTEVEDRA)",
+ "fecha_suceso": "2009-12-01",
+ "hora": "19:34",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "O Porriño",
+  "provincia": "Pontevedra",
+  "lat": 42.075004,
+  "lng": -8.423906
+ },
+ "pk": "151+433",
+ "linea": "810 Monforte de Lemos- Vigo",
+ "trenes": [
+  {
+   "numero": "283",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 1 de diciembre de 2009 en el paso a nivel de la estación de O Porriño (Pontevedra), que provocó la muerte de un peatón. La investigación concluye que la causa principal fue la actuación de la víctima, quien cruzó la vía a pesar de que las semibarreras estaban bajadas y la señalización alertaba de la llegada del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Cruce de la víctima por el paso a nivel con semibarreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel, cuando circulaba el tren 283 por el mismo, estando las semibarreras bajadas y la señalización alertando de la llegada del convoy."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

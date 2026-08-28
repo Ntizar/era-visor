@@ -1,0 +1,104 @@
+{
+ "id": "ES-CIAF-40-2017",
+ "pais": "ES",
+ "expediente": "0040/2017",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2017 OCURRIDO EL DÍA 21.08.2017 EN LA ESTACIÓN DE LLEIDA-PIRINEUS (LLEIDA)",
+ "fecha_suceso": "2017-08-21",
+ "hora": "08:51",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Lleida-Pirineus",
+  "provincia": "Lleida",
+  "lat": 40.481912,
+  "lng": -3.677735
+ },
+ "pk": "p.k. 1+144",
+ "linea": "200 Madrid Chamartín-Barcelona Estación de Francia",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "mercancías",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  },
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "media distancia",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Continental Rail",
+  "Renfe Viajeros",
+  "Transitia Rail"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 21 de agosto de 2017 en la estación de Lleida-Pirineus se produjo un incidente con conato de colisión entre un tren de mercancías y uno de viajeros que no dejó heridos ni daños materiales. La causa principal fue el rebasamiento de la señal de parada por parte del tren de mercancías debido a la falta de atención del maquinista y a la confusión entre señales. Este error se vio agravado por deficiencias en el sistema de gestión de seguridad de la empresa ferroviaria, que no informó adecuadamente al personal sobre las condiciones de circulación degradada.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 7\n2.1. SUCESO ....................................................................................................................................................... 7\n2.1.1.\nDatos .................................................................................................................................................... 7\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................11\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................11\n2.2.1.\nPersonal ferroviario implicado ...............................................................",
+ "causa_directa": "Rebase de señal de entrada en indicación de parada",
+ "conclusiones": [
+  "Causa directa: El personal de conducción del tren 90979 no cumplió la orden de la señal de entrada a la estación que se encontraba en indicación de parada.",
+  "Factor coadyuvante (i): Falta de atención por parte del personal de conducción.",
+  "Factor coadyuvante (ii): La empresa ferroviaria no facilitara al maquinista la información de la consigna ATO/CTO que establecía las condiciones de circulación en el tramo en el que se había establecido el bloqueo telefónico.",
+  "Factor coadyuvante (iii): Establecimiento del bloqueo telefónico por avería en las instalaciones que se ha prolongado en el tiempo, alargando la situación de circular en condiciones no ordinarias, quedando fuera de servicio el sistema ASFA.",
+  "Causa subyacente: Actuación no adecuada de la empresa ferroviaria ante los reiterados episodios de rebases ocasionados por el maquinista anteriores al suceso que nos ocupa al no adoptar ninguna medida al respecto.",
+  "Causa raíz: Los documentos del SGS de la empresa ferroviaria en relación con el personal de conducción, tanto en el seguimiento de sus labores profesionales como en la comunicación de documentos de trabajo, presentan deficiencias e incumplimientos por parte de los responsables de la empresa ferroviaria."
+ ],
+ "recomendaciones": [
+  "En los procesos de formación dirigidos al personal de conducción, se deberá considerar lo establecido en la Recomendación Técnica 2/2019 de la AESF sobre formación en situaciones operativas no ordinarias.",
+  "Desarrollar e implementar los procedimientos adecuados dentro del SGS de la empresa ferroviaria para asegurar que a los maquinistas les llegue la documentación que les afecte y la comprendan antes de la realización de los servicios, incluyendo mecanismos que aseguren la trazabilidad de dichas comunicaciones.",
+  "Desarrollar/mejorar los procedimientos operativos del SGS de la empresa ferroviaria encaminados a supervisar el historial de actuaciones en el desarrollo de sus labores profesionales del personal de conducción, de forma que se pueda evaluar y detectar situaciones de riesgo, contemplando las diferentes acciones a adoptar, dando cumplimiento a la recomendación técnica 4/2016 de la AESF.",
+  "Incluir lo establecido en la Ficha-Guía de aplicación del Reglamento de Circulación Ferroviaria F-RCF-01/2019: “Circulación con ASFA en modo BTS en caso de incidencias o trabajos programados” de la AESF, de enero de 2019, en los documentos del SGS que se estime necesarios de manera que pase a formar del mismo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "40/17-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Transitia Rail",
+   "texto": "En los procesos de formación dirigidos al personal de conducción, se deberá considerar lo establecido en la Recomendación Técnica 2/2019 de la AESF sobre formación en situaciones operativas no ordinarias."
+  },
+  {
+   "numero": "40/17-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Transitia Rail",
+   "texto": "Desarrollar e implementar los procedimientos adecuados dentro del SGS de la empresa ferroviaria para asegurar que a los maquinistas les llegue la documentación que les afecte y la comprendan antes de la realización de los servicios, incluyendo mecanismos que aseguren la trazabilidad de dichas comunicaciones."
+  },
+  {
+   "numero": "40/17-3",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Transitia Rail",
+   "texto": "Desarrollar/mejorar los procedimientos operativos del SGS de la empresa ferroviaria encaminados a supervisar el historial de actuaciones en el desarrollo de sus labores profesionales del personal de conducción, de forma que se pueda evaluar y detectar situaciones de riesgo, contemplando las diferentes acciones a adoptar, dando cumplimiento a la recomendación técnica 4/2016 de la AESF."
+  },
+  {
+   "numero": "40/17-4",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Adif",
+   "texto": "Incluir lo establecido en la Ficha-Guía de aplicación del Reglamento de Circulación Ferroviaria F-RCF-01/2019: “Circulación con ASFA en modo BTS en caso de incidencias o trabajos programados” de la AESF, de enero de 2019, en los documentos del SGS que se estime necesarios de manera que pase a formar del mismo."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

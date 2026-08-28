@@ -1,0 +1,57 @@
+{
+ "id": "ES-CIAF-16-2008",
+ "pais": "ES",
+ "expediente": "016/2008",
+ "titulo": "IF 016/2008 — El día 14 de mayo de 2008, a las 10:44 horas, la máquina de vía “Bateadora-Niveladora-",
+ "fecha_suceso": "2008-05-14",
+ "hora": "10:44",
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Mont-Roig del Camp",
+  "provincia": "Tarragona",
+  "lat": 41.0833,
+  "lng": 0.75
+ },
+ "pk": "263,566",
+ "linea": "800 La Coruña-León",
+ "trenes": [
+  {
+   "numero": "TD200",
+   "operador": "Iberovías",
+   "tipo": "Máquina de vía (Bateadora-Niveladora-Alineadora)"
+  }
+ ],
+ "entidades": [
+  "ADIF"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 14 de mayo de 2008 en el paso a nivel de Villadepalos (León), que provocó la muerte de una persona. La causa principal fue la ocupación de la vía por la víctima, quien intentaba retirar a uno de sus perros mientras circulaba la máquina de vía TD200. No se establecieron recomendaciones específicas debido a que el proceso de supresión del paso a nivel estaba a punto de finalizar.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n14.05.08./ 10:44\nLugar:\nP.N. clase F, P.K. 263,566 junto al apeadero de Villadepalos.\nLínea:\n800 La Coruña-León\nTrayecto\nToral de los Vados-Ponferrada\nProvincia:\n\nLeón\nEl tren TD200, Máquina de vía “Bateadora-Niveladora-Alineadora” de la empresa Iberovías, que\nhacía el recorrido Toral de los Vados-Ponferrada, detuvo su marcha en el km 263/500 por haber\narrollado a una persona en el km 263/566 –situado entre las estaciones de Dehesas y Toral de los\nVados- que había accedido a la vía por el Paso a Nivel clase F situado al final del andén del apeadero\nde Villadepalos en el momento de llegar el tren TD200, haciendo caso omiso de las señales acústicas\ndel mismo, lo que produjo su arrollamiento.\nLa víctima cruzaba la vía de izquierda a derecha, sentido de la línea, acompañada de dos perros\nsueltos, de los cuales, uno queda parado en la vía y al volver su dueña para retirarlo, es arrollada por\nel tren.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accident",
+ "causa_directa": null,
+ "conclusiones": [
+  "El accidente tuvo su origen en la ocupación de la vía por la persona arrollada, al intentar sacar de la misma a uno de los dos perros que la acompañaban, en el momento en que circulaba la máquina de vía, tren TD 200.",
+  "Tanto el funcionamiento de la infraestructura como la actuación del maquinista, ajustados a la normativa, no influyeron en el desarrollo de los hechos.",
+  "El conductor del tren TD200 se encontraba en perfecto estado para la realización de sus funciones y actuó correctamente.",
+  "La infraestructura ferroviaria cumplía la normativa de seguridad."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

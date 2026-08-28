@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-61-2008",
+ "pais": "ES",
+ "expediente": "0061/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0061/2008 ocurrido el día 10.11.2008",
+ "fecha_suceso": "2008-11-10",
+ "hora": "09:30",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Paso a nivel clase C, en la población de Monforte de Lemos, carretera de Monforte a Neiras",
+  "provincia": "Lugo",
+  "lat": 42.525181,
+  "lng": -7.504582
+ },
+ "pk": "P.K. 2,455",
+ "linea": "810 Vigo - Monforte de Lemos",
+ "trenes": [
+  {
+   "numero": "12604",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 10 de noviembre de 2008, a las 9:30 horas, el tren de viajeros de media distancia 12604 de Renfe Operadora arrolló a una persona de 83 años que cruzaba la vía por un paso a nivel clase C situado en el P.K. 2,455, entre las estaciones de Monforte de Lemos y Canabal. La víctima falleció en el acto, ya que cruzó la vía cuando las semibarreras del paso a nivel se encontraban bajadas, a pesar de que el maquinista accionó el freno de emergencia y usó el silbato.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n10.11.08/ 09:30\nLugar:\nPaso a nivel clase C, en el P.K. 2,455\nLínea:\n810 Vigo - Monforte de Lemos\nTrayecto:\nMonforte de Lemos - Orense\nProvincia:\n\nLugo\nEl tren de viajeros de media distancia 12604 de Renfe Operadora, compuesto por el automotor\n440181, tres coches y masa remolcada de 205 Tn, cuando circulaba por el paso a nivel clase C del\nP.K. 2,455, situado en la población de Monforte de Lemos, arrolla a una persona que cruzaba la vía,\nde izquierda a derecha en el sentido de la marcha del tren, cuando las semibarreras del paso a nivel\nse encontraban bajadas.\nAunque el maquinista hace uso del silbato repetidas veces y acciona el freno de emergencia, no\npuede evitar el arrollamiento de la víctima que resulta cadáver como consecuencia del impacto.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 10 de noviembre a las 12:54 horas, a través de mensaje de telefonía móvil, ",
+ "causa_directa": "Cruce de la víctima por el paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel, cuando éste se encontraba con las barreras bajadas.",
+  "Las instalaciones de seguridad del paso a nivel funcionaron correctamente según el registro de eventos.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (125 km/h frente a un límite de 140 km/h).",
+  "La actuación del maquinista fue correcta, haciendo uso del silbato y accionando el freno de emergencia al percatarse de la presencia de la víctima.",
+  "La tasa de alcoholemia y la jornada de trabajo del maquinista cumplían con la normativa vigente.",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente."
+ ],
+ "recomendaciones": [
+  "Aunque la supresión del paso está prevista, en tanto las obras no comiencen, se recomienda a la Dirección General de Ferrocarriles que, por las vías oportunas, comunique a la Diputación de Lugo la responsabilidad de adecuar las señales fijas de carretera a lo establecido en la Orden de 2 de agosto de 2001, en materia de supresión y protección de pasos a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Aunque la supresión del paso está prevista, en tanto las obras no comiencen, se recomienda a la Dirección General de Ferrocarriles que, por las vías oportunas, comunique a la Diputación de Lugo la responsabilidad de adecuar las señales fijas de carretera a lo establecido en la Orden de 2 de agosto de 2001, en materia de supresión y protección de pasos a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

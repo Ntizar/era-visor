@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-12-2015",
+ "pais": "ES",
+ "expediente": "0012/2015",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0012/2015 ocurrido el día 04.03.2015 entre la estación de Puerto de Navacerrada y el apeadero de Collado Albo (Madrid)",
+ "fecha_suceso": "2015-03-04",
+ "hora": "19:17",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Puerto de Navacerrada y el apeadero de Collado Albo",
+  "provincia": "Madrid",
+  "lat": 40.8333,
+  "lng": -4.0167
+ },
+ "pk": "PK 7+855",
+ "linea": "116 Los Cotos - Cercedilla",
+ "trenes": [
+  {
+   "numero": "35188",
+   "operador": "Renfe Viajeros",
+   "tipo": "Autopropulsado serie 442 (T60 N)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 35188 ocurrido el 4 de marzo de 2015 entre Puerto de Navacerrada y Collado Albo (Madrid) no causó víctimas, aunque provocó daños materiales en la infraestructura y el material rodante. La causa principal fue el fallo técnico de la infraestructura, derivado del mal estado de las traviesas de madera y sus sujeciones, lo que generó sobreanchos y la apertura de la vía.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo técnico de la infraestructura debido al mal estado de las traviesas de madera y sujeciones",
+ "conclusiones": [
+  "El accidente se produjo por el fallo técnico de la infraestructura, al encontrarse en mal estado las traviesas de madera y las sujeciones, lo que provocó la existencia de sobreanchos y la apertura de la vía al paso del tren.",
+  "El mantenimiento en la zona del descarrilamiento era deficitario. Las traviesas estaban en mal estado, las sujeciones del carril sueltas y fuera de su alojamiento y el balasto estaba contaminado.",
+  "Se incumplió el procedimiento específico ADIF -301-001-VíA-03, en lo referente a las visitas a pie a efectuar durante el año 2014, efectuándose sólo una de las dos indicadas en el procedimiento.",
+  "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad."
+ ],
+ "recomendaciones": [
+  "Se insiste en la aplicación de la recomendación 32/11-1 de la CIAF: “Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presentan mal estado por otras del mismo material” llevando a cabo la ejecución del “Proyecto de sustitución de traviesas de madera por hormigón en el tramo de 4 kilómetros”.",
+  "Cumplir la periodicidad y calidad de las visitas a pie establecidas para esta línea y reconsiderar las condiciones de circulación de la misma en función de las fichas de control y las no conformidades que resulten, gestionando éstas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se insiste en la aplicación de la recomendación 32/11-1 de la CIAF: “Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presentan mal estado por otras del mismo material” llevando a cabo la ejecución del “Proyecto de sustitución de traviesas de madera por hormigón en el tramo de 4 kilómetros”."
+  },
+  {
+   "texto": "Cumplir la periodicidad y calidad de las visitas a pie establecidas para esta línea y reconsiderar las condiciones de circulación de la misma en función de las fichas de control y las no conformidades que resulten, gestionando éstas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

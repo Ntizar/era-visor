@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-13-2008",
+ "pais": "ES",
+ "expediente": "0013/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0013/2008 OCURRIDO EL DÍA 09.05.2008",
+ "fecha_suceso": "2008-05-09",
+ "hora": "22:40",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "línea 200 Madrid-Barcelona",
+  "provincia": "Zaragoza",
+  "lat": 41.691585,
+  "lng": -0.910127
+ },
+ "pk": "214,220",
+ "linea": "200 Madrid-Barcelona",
+ "trenes": [
+  {
+   "numero": "VK194",
+   "operador": "Renfe Operadora-Mercancías",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 9 de mayo de 2008 en Cetina, donde un tren de mercancías arrolló un vehículo en un paso a nivel, causando la muerte de sus dos ocupantes. La causa principal fue el cruce del vehículo sin que sus ocupantes se percataran de la aproximación del tren, agravado por la falta de señalización reglamentaria en la carretera y las condiciones meteorológicas adversas.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n09.05.08/ 22:40\nLugar:\nP.K. 214,220, paso a nivel tipo A\nLínea:\n200 Madrid-Barcelona\nTrayecto:\nAriza – Alhama de Aragón\nProvincia:\n\nZaragoza\nEl tren de mercancías VK194 (asimilada su marcha al tren de mercancías 58160); compuesto por la\nlocomotora aislada 289102 de Renfe Operadora- Mercancías, con masa remolcada de 168 Tm;\ncirculando por el punto kilométrico 214,220 de la línea 200 Madrid-Barcelona, arrolla a un vehículo de\nmotor, modelo Nissan Pick-Up, matrícula 8205 BRL, que cruzaba un paso a nivel tipo A.\nEl vehículo había invadido de forma intempestiva la vía de izquierda a derecha sentido de la\nmarcha del tren. Tras la colisión frontal del tren con el lado derecho del vehículo, éste fue arrastrado\npor la caja de la vía, aproximadamente 724 metros, hasta quedar ambos detenidos en el P.K.\n214,944.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), el\n10 de mayo a las 00",
+ "causa_directa": "Cruce intempestivo del vehículo por el paso a nivel",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce del vehículo por el paso a nivel en el momento que el tren se aproximaba, sin que sus ocupantes se percataran de su presencia."
+ ],
+ "recomendaciones": [
+  "Puesto que el momento de circulación del paso a nivel se ajusta a la normativa, no procede recomendar su supresión, si bien se recomienda trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente (según lo establecido en la Disposición adicional sexta de la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Puesto que el momento de circulación del paso a nivel se ajusta a la normativa, no procede recomendar su supresión, si bien se recomienda trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente (según lo establecido en la Disposición adicional sexta de la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel)."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

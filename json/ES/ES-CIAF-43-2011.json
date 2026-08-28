@@ -1,0 +1,54 @@
+{
+ "id": "ES-CIAF-43-2011",
+ "pais": "ES",
+ "expediente": "0043/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0043/2011 OCURRIDO EL DÍA 11.07.2011 EN PLENA VÍA ENTRE LAS ESTACIONES DE CANFRANC Y JACA (HUESCA)",
+ "fecha_suceso": "2011-07-11",
+ "hora": "11:53",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "túnel no 6 “el Caracol”",
+  "provincia": "Huesca",
+  "lat": 42.7533689,
+  "lng": -0.4796771
+ },
+ "pk": "PK 11+758",
+ "linea": "204 Bif. Canfranc - Canfranc",
+ "trenes": [
+  {
+   "numero": "54583",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 54583 ocurrido el 11 de julio de 2011 en Villanúa (Huesca) no provocó víctimas mortales ni heridos, aunque causó daños materiales significativos en la infraestructura y el material rodante. La causa principal del suceso fue el fallo de la infraestructura debido a un mal estado general de la vía, caracterizado por el deterioro de traviesas, desgaste excesivo de carriles y contaminación del balasto. Estos defectos provocaron valores de peraltes, alabeos y sobreanchos fuera de tolerancia que favorecieron el remonte de la rueda y el posterior descarrilamiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ......................................................................................................",
+ "causa_directa": "Fallo de la infraestructura",
+ "conclusiones": [
+  "El accidente tuvo su origen en el fallo de la infraestructura, como consecuencia de un mal estado general de todos los elementos que conforman la misma (traviesas, desgaste excesivo de carriles, deterioro en la clavazón y contaminación del balasto), dando lugar a valores fuera de tolerancia tanto de peraltes como de alabeos y sobreanchos y estrechamientos alternados en la vía."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

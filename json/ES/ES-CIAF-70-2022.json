@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-70-2022",
+ "pais": "ES",
+ "expediente": "70/2022",
+ "titulo": "IF 70/2022 — Incidente operacional con riesgo de colisión ocurrido el 15 de",
+ "fecha_suceso": "2022-08-15",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Manresa",
+  "provincia": "Barcelona",
+  "lat": 41.7257,
+  "lng": 1.8269
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El responsable de circulación de Manresa (RCM) autorizó al tren 95218 a salir de vía 5. Posteriormente, autorizó al tren 78443 a rebasar la señal de entrada 3023 con un itinerario incompatible. El tren 95218 talonó el desvío nº 19 y circuló por vía 1 de frente al tren 78443. Ambos maquinistas detuvieron los trenes a 40 metros de distancia. Solo hubo daños en el desvío nº 19.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [
+  "Factor causal: Autorización indebida de rebase de señal al tren 78443 sin comprobar si el tren 95218 había iniciado la marcha y liberado la ruta.",
+  "Factor causal: El tren 95218 inició la marcha estando su orden invalidada al no haber salido inmediatamente tras la emisión del primer telefonema.",
+  "Factor contributivo: Situación degradada en la estación originada por decisiones del RCM respecto al traslado de material averiado.",
+  "Factor contributivo: Perturbación en las condiciones de explotación debida a la ocupación del circuito CVA3.",
+  "Factor contributivo: Retraso en la salida del tren 95218 debido al descanso del maquinista.",
+  "Factor sistémico: Peculiaridades del enclavamiento eléctrico de Manresa.",
+  "Factor sistémico: Condiciones de visualización de expedición de trenes en la estación.",
+  "Factor sistémico: Deficiencias en las habilidades asertivas del personal de circulación.",
+  "Factor sistémico: Problemas recurrentes de comunicación entre maquinistas y responsables de circulación."
+ ],
+ "recomendaciones": [
+  "Cuatro recomendaciones establecidas a través de la AESF dirigidas a ADIF, Renfe Viajeros y a las empresas ferroviarias."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Cuatro recomendaciones establecidas a través de la AESF dirigidas a ADIF, Renfe Viajeros y a las empresas ferroviarias."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

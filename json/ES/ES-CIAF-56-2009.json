@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-56-2009",
+ "pais": "ES",
+ "expediente": "0056/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0056/2009 OCURRIDO EL DÍA 16.10.2009 EN EL PASO A NIVEL, CLASE C, EN LA ESTACIÓN DE ALFAFAR- BENETÚSSER",
+ "fecha_suceso": "2009-10-16",
+ "hora": "11:19",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Alfafar-Benetússer",
+  "provincia": "Valencia",
+  "lat": 39.4211,
+  "lng": -0.3556
+ },
+ "pk": "107+996",
+ "linea": "300 Madrid (Chamartín)- Valencia (estación del Nord)",
+ "trenes": [
+  {
+   "numero": "24228",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  },
+  {
+   "numero": "24225",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 16 de octubre de 2009 en el paso a nivel de la estación de Alfafar-Benetússer, donde el tren de cercanías 24228 arrolló a una mujer de 78 años que cruzaba las vías. La única consecuencia fue la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la actuación de la víctima, que irrumpió en el paso a nivel cuando las semibarreras ya estaban bajadas y la señalización alertaba de la proximidad del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Cruce de la víctima en el paso a nivel con semibarreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel cuando circulaba el tren 24228, estando las semibarreras bajadas y la señalización alertando de la llegada del mismo."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

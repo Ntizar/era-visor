@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-34-2014",
+ "pais": "ES",
+ "expediente": "0034/2014",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0034/2014 OCURRIDO EL DÍA 02.07.2014 ENTRE CHINCHILLA Y BONETE (ALBACETE)",
+ "fecha_suceso": "2014-07-02",
+ "hora": "19:40",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre Chinchilla y Bonete",
+  "provincia": "Albacete",
+  "lat": 36.4961371,
+  "lng": -4.9442104
+ },
+ "pk": "368+925",
+ "linea": "042 Bif. Albacete a Alicante",
+ "trenes": [
+  {
+   "numero": "5172",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros Alstom serie 100"
+  },
+  {
+   "numero": "4100",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de alta velocidad"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ferroviario ocurrido el 2 de julio de 2014 en Bonete (Albacete), que provocó la deformación de la vía y el escoramiento del tren 5172 sin causar víctimas, aunque con daños materiales significativos. La causa principal fue el fallo de la infraestructura debido a la insuficiencia del sistema de drenaje para evacuar las lluvias torrenciales localizadas, lo que arrastró el balasto de la vía.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Deformación de la vía por insuficiencia del sistema de drenaje",
+ "conclusiones": [
+  "El incidente se produce por fallo de la infraestructura, y más concretamente por la deformación de la vía al paso del tren, debido a la insuficiencia del sistema de drenaje para recoger, evacuar y restituir la escorrentía de las lluvias torrenciales, localizadas e imprevistas caídas en la zona del suceso, produciéndose la acumulación y corrientes de agua capaces de arrastrar el balasto de la vía I en donde confluían, de forma ortogonal y con velocidad (por desnivel), las aguas de escorrentía de los márgenes de la vía y de su plataforma."
+ ],
+ "recomendaciones": [
+  "Establecer un plan de vigilancia hasta la finalización de la totalidad de las obras del “Proyecto de Emergencia de obras de refuerzo de la infraestructura de drenaje y restitución de la superestructura ferroviaria entre los PP.KK. 367+200 y 370+100 de la línea Bifurcación Albacete-Alicante”."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif Alta Velocidad",
+   "numero": "34/14-1",
+   "texto": "Establecer un plan de vigilancia hasta la finalización de la totalidad de las obras del “Proyecto de Emergencia de obras de refuerzo de la infraestructura de drenaje y restitución de la superestructura ferroviaria entre los PP.KK. 367+200 y 370+100 de la línea Bifurcación Albacete-Alicante”."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

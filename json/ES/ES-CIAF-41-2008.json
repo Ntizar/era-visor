@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-41-2008",
+ "pais": "ES",
+ "expediente": "0041/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0041/2008 OCURRIDO EL DÍA 10.09.2008",
+ "fecha_suceso": "2008-09-10",
+ "hora": "15:14",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Villarreal",
+  "provincia": "Castellón",
+  "lat": 39.9367,
+  "lng": -0.1997
+ },
+ "pk": "62,095",
+ "linea": "600 Valencia-San Vicente de Calders",
+ "trenes": [
+  {
+   "numero": "87456",
+   "operador": "Comsa Rail Transport",
+   "tipo": "mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "COMSA Rail Transport"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 10 de septiembre de 2008, a las 15:14 horas, el tren de mercancías 87456, de la empresa Comsa Rail Transport, arrolla a una persona en el P.K. 62,095, en la estación de Villarreal, de la línea 600 Valencia-San Vicente de Calders. Como consecuencia del impacto la víctima fallece.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n10.09.08/ 15:14\nLugar:\nP.K. 62,095, en la estación de Villarreal\nLínea:\n600 Valencia-San Vicente de Calders\nTrayecto:\nBurriana - Villarreal\nProvincia:\n\nCastellón\nEl tren de mercancías 87456 de Comsa Rail Transport; compuesto de locomotora, 10 vehículos y\nmasa remolcada de 770 Tm; procedente de Silla Terminal de Contenedores con destino a\nCastellbisbal, a su paso por la estación de Villarreal, arrolla a un mujer que se disponía a cruzar, de\nderecha a izquierda sentido de la marcha del tren, por el P.K. 62,095, en el momento que el tren de\nmercancías circula a la altura del desvío nº 6 de dicha estación.\nEl maquinista, al percatarse de la intención de la víctima, hace uso de las señales acústicas y\nacciona el freno de emergencia, no pudiendo evitar su arrollamiento, quedando su cadáver entre las\nvías 2 y 4, justo al comienzo del andén.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviar",
+ "causa_directa": "Cruce de vías por parte de la víctima en un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de las vías por parte de la víctima por un lugar no autorizado para ello."
+ ],
+ "recomendaciones": [
+  "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "ES-ID-191006-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-191006-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-27",
+ "expediente": "0039/2006",
+ "titulo": "Arrollamiento de un vehículo por tren en paso a nivel entre Briviesca y Calzada de Bureba (Burgos)",
+ "fecha_suceso": "2006-10-19",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Burgos",
+  "pk": "420,623",
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE Operadora"
+ ],
+ "resumen": "El 19 de octubre de 2006, el tren de Media Distancia 6021 de RENFE Operadora arrolló a un Citroën Berlingo en un paso a nivel de clase B situado entre Briviesca y Calzada de Bureba (Burgos). El conductor y el acompañante del vehículo fallecieron. Las instalaciones ferroviarias y la actuación del maquinista fueron correctas, y el tren circulaba a velocidad permitida. La investigación atribuyó el suceso a la invasión del paso a nivel por el vehículo pese a la señalización luminosa, acústica y el silbato.",
+ "causa_directa": "El conductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa y acústica y del silbato del tren.",
+ "causas_sistemicas": "La señalización vertical de carretera no se ajustaba a la Orden Ministerial de 02.08.2001 y la visibilidad podía verse reducida por vegetación y por la caseta de instalaciones del paso a nivel.",
+ "recomendaciones": [
+  "El Ayuntamiento de Briviesca, como titular del camino, debe disponer la señalización vertical del paso a nivel conforme a la Orden Ministerial de 02.08.2001.",
+  "Mejorar la visibilidad del paso a nivel mediante el despeje de vegetación.",
+  "Realizar un recuento de vehículos de carretera y, si es posible, dotar el paso a nivel de una protección de clase C."
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "2 person  died  after being hit by rolling stock motion at level crossing protect with optical/acoustic devices.",
+  "Location name": "Railway from Madrid to Hendaya at the kilometer point 420,623.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE",
+  "IM involved": "ADIF",
+  "LC User fatalities": 2,
+  "Total fatalities": 2
+ }
+}

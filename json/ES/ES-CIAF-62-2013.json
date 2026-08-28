@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-62-2013",
+ "pais": "ES",
+ "expediente": "0062/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2013 OCURRIDO EL DÍA 12.08.2013 ENTRE SALOMÓ Y VALLS",
+ "fecha_suceso": "2013-08-12",
+ "hora": "09:12",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre Salomó y Valls",
+  "provincia": "Tarragona",
+  "lat": 42.041939,
+  "lng": -0.579677
+ },
+ "pk": "18+920",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "trenes": [
+  {
+   "numero": "SC507",
+   "operador": "Adif",
+   "tipo": "Vagoneta de electrificación VLD EL"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento de la vagoneta de electrificación SC507 ocurrió el 12 de agosto de 2013 en plena vía entre Salomó y Valls, provocando cuatro heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal del suceso fue el fallo del material móvil, específicamente la rotura de la mangueta derecha del segundo eje.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Rotura de la mangueta derecha del segundo eje",
+ "conclusiones": [
+  "El descarrilamiento se produjo por fallo del material móvil, concretamente por la rotura de la mangueta derecha del segundo eje, según el sentido de la marcha."
+ ],
+ "recomendaciones": [
+  "Estudiar la posibilidad de modificar los planes de mantenimiento de los vehículos similares al de este informe (vagonetas, dresinas, etc.), de forma que las operaciones de desmontaje de cajas de grasa e inspecciones de los ejes mediante ultrasonidos y magnetoscopía se realicen en un mayor número de intervenciones, sin limitarse sólo a las de mayor nivel según lo previsto en los planes de mantenimiento, con objeto de acortar el tiempo entre las citadas intervenciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "62/13-1",
+   "destinatario": "Adif",
+   "texto": "Estudiar la posibilidad de modificar los planes de mantenimiento de los vehículos similares al de este informe (vagonetas, dresinas, etc.), de forma que las operaciones de desmontaje de cajas de grasa e inspecciones de los ejes mediante ultrasonidos y magnetoscopía se realicen en un mayor número de intervenciones, sin limitarse sólo a las de mayor nivel según lo previsto en los planes de mantenimiento, con objeto de acortar el tiempo entre las citadas intervenciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

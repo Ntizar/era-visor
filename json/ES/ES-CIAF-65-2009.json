@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-65-2009",
+ "pais": "ES",
+ "expediente": "0065/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0065/2009 OCURRIDO EL DÍA 15.12.2009 ENTRE NAVIA Y PIÑERA VILLAORIL (ASTURIAS)",
+ "fecha_suceso": "2009-12-15",
+ "hora": "17:27",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_rocas",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Navia y el apeadero de Piñera Villaoril",
+  "provincia": "Asturias",
+  "lat": 43.5275049,
+  "lng": -6.6755155
+ },
+ "pk": "P.K. 191+222",
+ "linea": "L/ 11 Ferrol-Oviedo",
+ "trenes": [
+  {
+   "numero": "3102",
+   "operador": "FEVE",
+   "tipo": "Tren regular de viajeros"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 15 de diciembre de 2009 entre Navia y Piñera Villaoril (Asturias), donde el tren de viajeros 3102 colisionó con un desprendimiento de rocas. La colisión provocó el descarrilamiento de la unidad de cabeza, causando daños materiales considerables en el material rodante y una herida leve al maquinista. La causa principal del suceso fue la colisión directa con las rocas caídas desde la trinchera, a pesar de la actuación correcta del conductor.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 6\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 6\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Colisión con un desprendimiento de rocas",
+ "conclusiones": [
+  "El accidente tuvo su origen en la colisión del tren de viajeros 3102 con un desprendimiento de rocas caídas de la trinchera."
+ ],
+ "recomendaciones": [
+  "Seguir las medidas correctoras presentadas y establecidas en el Comité de Seguridad en la Circulación, del 30 de marzo de 2006, en orden a la actuación en zonas del trazado donde la vía discurre entre trincheras, en la provincia de Asturias, extendiendo dicho estudio y actuaciones a otros puntos singulares de la red. Estas medidas son: Especial vigilancia de la infraestructura desde los trenes y a pie, programación de recorridos con locomotoras de exploración y establecimiento de limitaciones temporales de velocidad en situaciones de riesgo. Realización de obras de protección consistentes, fundamentalmente, en la instalación de mallas, mallazos, anclajes, pantallas, escolleras, muros de contención y prolongaciones de túneles. Estudio de estabilidad de taludes en tramos que se consideren críticos. Inversión anual sistemática para esta problemática específica."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "FEVE",
+   "numero": "65/09-1",
+   "texto": "Seguir las medidas correctoras presentadas y establecidas en el Comité de Seguridad en la Circulación, del 30 de marzo de 2006, en orden a la actuación en zonas del trazado donde la vía discurre entre trincheras, en la provincia de Asturias, extendiendo dicho estudio y actuaciones a otros puntos singulares de la red. Estas medidas son: Especial vigilancia de la infraestructura desde los trenes y a pie, programación de recorridos con locomotoras de exploración y establecimiento de limitaciones temporales de velocidad en situaciones de riesgo. Realización de obras de protección consistentes, fundamentalmente, en la instalación de mallas, mallazos, anclajes, pantallas, escolleras, muros de contención y prolongaciones de túneles. Estudio de estabilidad de taludes en tramos que se consideren críticos. Inversión anual sistemática para esta problemática específica."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

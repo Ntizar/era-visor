@@ -1,0 +1,45 @@
+{
+ "id": "ES-ID-181207-230508-CIAF[1]",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-181207-230508-CIAF[1].pdf",
+ "url_pdf": null,
+ "erail_id": "ES-729",
+ "expediente": "0062/2007",
+ "titulo": "Arrollamiento de una persona por vagoneta de Adif en la línea 810 entre Louredo Valos y Redondela",
+ "fecha_suceso": "2007-12-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Pontevedra",
+  "pk": "165,160",
+  "linea": "810 Monforte de Lemos-Vigo"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 18 de diciembre de 2007, una vagoneta de electrificación de Adif arrolló a una persona en la línea 810 Monforte de Lemos-Vigo, entre Louredo Valos y Redondela. La víctima, un varón de 86 años, cruzó por un paso vicioso no autorizado mientras se acercaba el tren. El maquinista frenó y usó la bocina, pero no pudo evitar el atropello; la persona falleció después en el hospital. El informe concluye que el origen fue el intento de cruzar por un lugar no habilitado.",
+ "causa_directa": "El intento de la víctima de cruzar la vía por un lugar no habilitado para ello cuando se acercaba el tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar un inventario sistemático de situaciones de este tipo en la Red Ferroviaria de Interés General y planificar actuaciones a nivel global."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "An infrastructure work train hit a man who crossed the tracks through an unauthorised place.",
+  "Location name": "Kilometre point 165,160; between Louredo Valos and Redondela stations (Pontevedra), at 810 Monforte de Lemos-Vigo railway line.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Infrastructure works train",
+  "RU involved": "Adif",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "id": "ES-CIAF-30-2017",
+ "pais": "ES",
+ "expediente": "0030/2017",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2017 OCURRIDO EL DÍA 13.07.2017 EN CAPÇANES (TARRAGONA)",
+ "fecha_suceso": "2017-07-13",
+ "hora": "17:43",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Capçanes",
+  "provincia": "Tarragona",
+  "lat": 41.106373,
+  "lng": 0.786605
+ },
+ "pk": "544+649",
+ "linea": "210 Miraflores – Tarragona",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "mercancías",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 13 de julio de 2017 en Capçanes (Tarragona) se produjo un descarrilamiento de seis vagones de un tren de mercancías que no causó víctimas, aunque generó importantes daños materiales. La causa principal fue la deformación de la vía, resultado de tensiones residuales y factores ambientales, agravada por el incumplimiento de los procedimientos de vigilancia y auscultación geométrica por parte de Adif.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado .............................................................",
+ "causa_directa": "Fallo de la infraestructura por deformación de la vía",
+ "conclusiones": [
+  "El accidente por descarrilamiento se produce por fallo de la infraestructura, y más concretamente por la deformación de la vía, como consecuencia de la suma de una serie de posibles factores: existencia de tensiones tras la sustitución de carril un año antes; tensiones en carril tras la reposición de la obra de fábrica; retirada de la LTV tres días antes del suceso; elevada temperatura el día anterior al suceso y falta de material en los hombros de la banqueta de balasto.",
+  "Como causa subyacente se señala el mal estado general de la infraestructura en el tramo comprendido entre Flix y Reus, que ha dado lugar a un relativamente elevado número de sucesos por un mantenimiento deficiente.",
+  "Como causa raíz se señala el incumplimiento de los procedimientos del Sistema de Gestión de La Seguridad en la Circulación de Adif, por la falta de vigilancias a pie (infraestructura y superestructura) en la zona y la no realización de auscultación geométrica."
+ ],
+ "recomendaciones": [
+  "Se reitera la recomendación 10/2016-1: Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura.",
+  "Se reitera la recomendación 10/2016-2: Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "30/2017 - 1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+   "contenido": "Se reitera la recomendación 10/2016-1: Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura."
+  },
+  {
+   "numero": "30/2017 - 2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Administrador de Infraestructuras Ferroviarias (ADIF)",
+   "contenido": "Se reitera la recomendación 10/2016-2: Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

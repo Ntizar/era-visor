@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-44-2013",
+ "pais": "ES",
+ "expediente": "0044/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2013 OCURRIDO EL DÍA 06.06.2013 EN EL CAMBIADOR DE ANCHO DE ZARAGOZA DELICIAS (ZARAGOZA)",
+ "fecha_suceso": "2013-06-06",
+ "hora": "11:08",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Cambiador de ancho de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "lat": 41.6568,
+  "lng": -0.8812
+ },
+ "pk": "337+395",
+ "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+ "trenes": [
+  {
+   "numero": "533",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 533 de Renfe Operadora ocurrió el 6 de junio de 2013 en el cambiador de ancho de Zaragoza Delicias, sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y las instalaciones. La causa principal fue el fallo del dispositivo de cambio de ancho debido a la rotura por fatiga de los tornillos de sujeción del soporte palanca, lo que impidió la apertura del cerrojo y dejó la rueda enclavada en ancho ibérico.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo del dispositivo de cambio de ancho debido a la no apertura del cerrojo por seccionamiento de tornillos de anclaje",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo del material móvil, concretamente del dispositivo de cambio de ancho de la rueda izquierda descarrilada perteneciente al séptimo eje, según el sentido de la marcha, como consecuencia de la no apertura del cerrojo que libera el mecanismo de bloqueo del cambio de ancho al encontrarse seccionados por fatiga los tornillos de sujeción del soporte palanca de dicho cerrojo."
+ ],
+ "recomendaciones": [
+  "Analizar la posibilidad de adelantar los plazos de implantación de la medida propuesta (“cordón de soldadura”)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "44/13-1",
+   "texto": "Analizar la posibilidad de adelantar los plazos de implantación de la medida propuesta (“cordón de soldadura”)."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

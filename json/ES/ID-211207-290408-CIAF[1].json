@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-211207-290408-CIAF[1]",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-211207-290408-CIAF[1].pdf",
+ "url_pdf": null,
+ "erail_id": "ES-727",
+ "expediente": "0063/2007",
+ "titulo": "Arrollamiento de una persona por un tren en la estación de Salou (Tarragona)",
+ "fecha_suceso": "2007-12-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Salou",
+  "provincia": "Tarragona",
+  "pk": "263,600",
+  "linea": "600 Valencia-San Vicente Calders"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 21 de diciembre de 2007, el tren de viajeros Regional Express nº 18059 de Renfe Operadora, al entrar por la vía 1 de la estación de Salou, arrolló a una persona que cruzaba las vías junto a un paso entarimado. La víctima, un varón de 65 años que trabajaba en la cafetería de la estación, falleció mientras era trasladada en ambulancia. El tren circulaba a 37 km/h, por debajo de la velocidad máxima, y no hubo daños materiales ni perturbaciones graves más allá de un retraso de 39 minutos. El informe atribuye el origen al cruce indebido de las vías por la víctima sin atender a las indicaciones de peligro.",
+ "causa_directa": "El cruce indebido de las vías por la víctima, sin percatarse de la llegada del tren y sin hacer caso a las indicaciones de peligro.",
+ "causas_sistemicas": "La existencia de una abertura en el vallado de la estación, usada como paso indebido, y las condiciones meteorológicas de lluvia y viento que reducían la visibilidad.",
+ "recomendaciones": [
+  "Mantener el vallado reparado de la estación para evitar accesos indebidos a las vías."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man, while crossing through a staff crossing, is knocked down by a passenger train when entering the station. Despite there were a couple of signs warning about the risks of crossing the tracks, the victim crossed through an unauthorised place, where the fence had been broken allowing people use this way as a faulty path.",
+  "Location name": "Salou station (Tarragona), kilometre point 263,600, at 600 Valencia-San Vicente de Calders railway line",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

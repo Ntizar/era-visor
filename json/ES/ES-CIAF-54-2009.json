@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-54-2009",
+ "pais": "ES",
+ "expediente": "0054/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0054/2009 OCURRIDO EL DÍA 17.10.2009 A LA ENTRADA DE LA ESTACIÓN DE ZUMÁRRAGA",
+ "fecha_suceso": "2009-09-17",
+ "hora": "16:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Zumárraga",
+  "provincia": "Guipúzcoa",
+  "lat": 43.0833,
+  "lng": -2.3167
+ },
+ "pk": "PK 566+856",
+ "linea": "Tolosa - Zumárraga",
+ "trenes": [
+  {
+   "numero": "93614",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 93614 ocurrido el 17 de septiembre de 2009 en la estación de Zumárraga no provocó víctimas, aunque causó daños materiales por valor de casi un millón de euros. La causa principal del suceso fue el exceso de peralte y las variaciones de la vía, que se encontraban fuera de las tolerancias establecidas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Exceso de peralte y variaciones del mismo en la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el exceso de peralte y las variaciones del mismo en la zona de la vía donde se produce el descarrilamiento.",
+  "El peralte de la vía estaba fuera de tolerancia en la zona donde se inicia el descarrilamiento del tren, con un exceso de hasta 62 milímetros.",
+  "La velocidad del tren, en el momento del accidente, era de 28 km/h, inferior a la máxima permitida en ese punto.",
+  "Las comprobaciones realizadas en los vagones descarrilados indican que los parámetros de rodadura eran correctos.",
+  "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico."
+ ],
+ "recomendaciones": [
+  "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "número": "54/09-1",
+   "texto": "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

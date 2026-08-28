@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-44-2011",
+ "pais": "ES",
+ "expediente": "0044/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2011 OCURRIDO EL DÍA 13.07.2011 ENTRE LAS ESTACIONES DE TERUEL Y CAPARRATES (TERUEL)",
+ "fecha_suceso": "2011-07-13",
+ "hora": "21:45",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "entre las estaciones de Teruel y Caparrates",
+  "provincia": "Teruel",
+  "lat": 40.314626,
+  "lng": -1.014108
+ },
+ "pk": "PK 137+810",
+ "linea": "610 Sagunto – Bif. Teruel",
+ "trenes": [
+  {
+   "numero": "97845",
+   "operador": "Logitren",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Logitren"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 97845 ocurrido el 13 de julio de 2011 entre las estaciones de Teruel y Caparrates no provocó víctimas mortales ni heridos, aunque sí cuantiosos daños materiales en el material rodante y la infraestructura. La causa principal fue una confluencia de factores que incluyeron el mal estado de la vía, con fuertes alabeos y baches, y una inadecuada estiba de la carga en el noveno vagón. Estas condiciones, sumadas a un trazado desfavorable con curva cerrada y rampa pronunciada, provocaron el remonte y posterior descarrilamiento de la rueda derecha del primer eje.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Descarrilamiento del vagón 9o debido a mal estado de la vía y mala estiba de la carga",
+ "conclusiones": [
+  "En el accidente se dieron una confluencia de hechos que ocasionaron el remonte y posterior descarrilamiento de la rueda derecha del primer eje del vagón que ocupaba la novena posición.",
+  "Por un lado, el estado de la vía que presentaba fuertes alabeos y baches.",
+  "Por otro lado, hay indicios de una inadecuada estiba de la carga.",
+  "Además, se daban unas condiciones en el trazado de la vía nada favorables, como son un radio de 300 metros y una rampa de 21,5 milésimas."
+ ],
+ "recomendaciones": [
+  "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Ben Trade Cables Ibérica S.A.",
+   "numero": "44/11-1",
+   "texto": "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,74 @@
+{
+ "id": "ES-CIAF-56-2016",
+ "pais": "ES",
+ "expediente": "0056/2016",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0056/2016 ocurrido el día 04.11.2016 en la estación de Cheste (Valencia)",
+ "fecha_suceso": "2016-11-04",
+ "hora": "20:45",
+ "tipo_informe": "final",
+ "tipo_suceso": "incendio",
+ "tipo": "incendio",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cheste",
+  "provincia": "Valencia",
+  "lat": 39.96459,
+  "lng": -3.486043
+ },
+ "pk": "PK 58+934 (entre señales R2 y E2)",
+ "linea": "310 Aranjuez a Valencia - La Font de Sant Lluís",
+ "trenes": [
+  {
+   "numero": "24443",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de cercanías (Automotor serie 592)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 4 de noviembre de 2016 en la estación de Cheste (Valencia), donde un tren de cercanías de Renfe sufrió un incendio en el motor tras la pérdida de un tornillo de sujeción de una brida de combustible. El suceso no provocó víctimas ni heridos, aunque se registraron daños materiales en el material rodante valorados en 29.756 euros. La causa principal fue un fallo técnico del material rodante, agravado por la no comunicación de una anomalía de pérdida de gasóleo detectada el día anterior.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ..................................................................................................................................................................... 5\n2.1.2. Descripción del suceso .......................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado",
+ "causa_directa": "Fallo técnico del material rodante",
+ "conclusiones": [
+  "El accidente se produjo por fallo técnico del material rodante, siendo la presunta causa inicial la pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación lo que dio lugar a la pérdida de gasóleo en el motor M2, que sufrió el incendio.",
+  "Como causa subyacente se indica el hecho de haber existido varios sucesos relacionados con incendio o pérdidas de gasoil en este tipo de material, principalmente ocurridos en la zona de Levante, sin que hasta el momento se hayan tomado acciones totalmente eficaces que resuelvan este tipo de averías.",
+  "No se puede constatar que se diera aviso a la empresa responsable del mantenimiento de la anomalía detectada el día anterior (pérdida de gasóleo), y que provocó el suceso, incumpliéndose lo establecido en el procedimiento RV-SGS-PE-SPG-14.",
+  "La anomalía detectada el día anterior (pérdida de gasóleo) por un maquinista fue anotada en el libro de reparaciones de forma errónea, al confundirse dicho maquinista de motor."
+ ],
+ "recomendaciones": [
+  "Insistir en la formación de maquinistas en la necesidad de comunicar al centro de gestión correspondiente cualquier anomalía detectada en el material, en cumplimiento del procedimiento RV-SGS-PE-SPG-14.",
+  "Profundizar en el análisis de las anomalías que provocan pérdidas de combustible en este tipo de material rodante (592) con el fin de adoptar medidas adicionales (a las ya tomadas en 2012) que minimicen su número."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "56/16-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria / Renfe Viajeros",
+   "texto": "Insistir en la formación de maquinistas en la necesidad de comunicar al centro de gestión correspondiente cualquier anomalía detectada en el material, en cumplimiento del procedimiento RV-SGS-PE-SPG-14."
+  },
+  {
+   "numero": "56/16-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria / Renfe Viajeros",
+   "texto": "Profundizar en el análisis de las anomalías que provocan pérdidas de combustible en este tipo de material rodante (592) con el fin de adoptar medidas adicionales (a las ya tomadas en 2012) que minimicen su número."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "incendio",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

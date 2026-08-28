@@ -1,0 +1,49 @@
+{
+ "id": "ES-ID-210406-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-210406-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10",
+ "expediente": "0018/2006",
+ "titulo": "Arrollamiento de persona en el apeadero de Grijota (Palencia) por tren de Larga Distancia",
+ "fecha_suceso": "2006-04-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Grijota",
+  "provincia": "Palencia",
+  "pk": "5,800",
+  "linea": "Línea 130 Venta de Baños-Gijón Cercanías"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "Un varón de 67 años falleció al ser arrollado por el tren de Larga Distancia nº78 en el punto kilométrico 5,800 del apeadero de Grijota. La víctima cruzó las vías desde el andén secundario hacia el principal, invadiendo el gálibo del tren que circulaba a 155 km/h. El maquinista realizó un aviso acústico con el silbato, pero la maniobra resultó inevitable. No se produjeron daños materiales ni heridos adicionales.",
+ "causa_directa": "Imprudencia de la víctima al cruzar las vías por un lugar no habilitado para el tránsito de personas, invadiendo el gálibo del tren en el momento de su llegada.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar un estudio pormenorizado en estaciones sin paso inferior de cruce de vías para elaborar un plan de actuaciones jerarquizado.",
+  "Mejorar la señalización pasiva en los pasos entre andenes.",
+  "Dotar de señales luminosas peatonales con accionamiento similar al de los pasos a nivel.",
+  "Sustituir los pasos actuales por pasos superiores o inferiores cuando sea necesario."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion just before reaching the platform. This person had crossed the tracks at unauthorised place.",
+  "Location name": "Grijota flag stop (Palencia) Railway line from Venta de Baños to Gijón, at kilometre point 5,800.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

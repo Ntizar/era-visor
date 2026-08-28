@@ -1,0 +1,73 @@
+{
+ "id": "ES-CIAF-46-2009",
+ "pais": "ES",
+ "expediente": "0046/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2009 OCURRIDO EL DÍA 28.08.2009 EN LA ESTACIÓN DE EL REBOLLAR (VALENCIA)",
+ "fecha_suceso": "2009-08-28",
+ "hora": "13:33",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "El Rebollar",
+  "provincia": "Valencia",
+  "lat": 40.033064,
+  "lng": -3.618547
+ },
+ "pk": "PK 22+600",
+ "linea": "310 Aranjuez/Valencia- Estación del Nord",
+ "trenes": [
+  {
+   "numero": "18160",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de media distancia"
+  },
+  {
+   "numero": "14501",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 28 de agosto de 2009, un descarrilamiento ocurrió en la estación de El Rebollar (Valencia) al accionar indebidamente la aguja nº 2 mientras el tren 18160 circulaba sobre ella. El suceso no provocó víctimas mortales ni heridos, aunque se registraron daños materiales limitados en el material rodante y la infraestructura. La causa principal del accidente fue el accionamiento indebido de la aguja por parte de la responsable de circulación, quien actuó antes de que el tren hubiera liberado completamente el cambio.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Accionamiento indebido de la aguja no 2",
+ "conclusiones": [
+  "El accidente tuvo su origen en el accionamiento indebido de la aguja nº 2, al encontrarse sobre ella el último coche del tren 18160.",
+  "La jefa de circulación actúa indebidamente pues cambia la aguja nº 2 de posición cuando el tren 18160 se encuentra sobre ella, incumpliendo el artículo 268 y 311 del Reglamento General de Circulación (RGC).",
+  "El personal implicado cumple la normativa vigente en cuanto a título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
+  "La velocidad del tren en el momento del descarrilamiento (26 km/h) era inferior a la permitida (30 km/h).",
+  "El maquinista hizo uso del freno de emergencia de forma correcta tras percibir el descarrilamiento."
+ ],
+ "recomendaciones": [
+  "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "46/09-1",
+   "texto": "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

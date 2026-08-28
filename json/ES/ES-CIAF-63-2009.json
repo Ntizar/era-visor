@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-63-2009",
+ "pais": "ES",
+ "expediente": "0063/2009",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0063/2009 OCURRIDO EL DÍA 11.12.2009 EN LA ESTACIÓN DE RENEDO (CANTABRIA)",
+ "fecha_suceso": "2009-12-11",
+ "hora": "21:32",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Renedo",
+  "provincia": "Cantabria",
+  "lat": 43.372215,
+  "lng": -3.902858
+ },
+ "pk": "P.K. 495+043",
+ "linea": "160 Santander - Palencia",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": "Renfe Operadora",
+   "tipo": "Locomotora aislada"
+  },
+  {
+   "numero": null,
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 11 de diciembre de 2009 en la estación de Renedo (Cantabria), donde el tren AE 147 rebasó indebidamente una señal de parada, talonando un desvío y provocando un conato de colisión con otro tren. El suceso no causó víctimas ni heridos, aunque generó daños materiales en las instalaciones y retrasos en el tráfico ferroviario. La causa principal fue el incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................6\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................6\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD...........................................................................................7\n3.3. NORMATIVA...........................................................................",
+ "causa_directa": "Incumplimiento de las órdenes dadas por las señales",
+ "conclusiones": [
+  "El incidente tuvo su origen en el incumplimiento de las órdenes dadas por las señales al personal de conducción, provocando que el tren AE 147 rebasara indebidamente la señal de salida S1/1, que se encontraba ordenando parada."
+ ],
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe-Operadora",
+   "numero": "63/09-1",
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

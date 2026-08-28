@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-39-2010",
+ "pais": "ES",
+ "expediente": "0039/2010",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0039/2010 ocurrido el día 16.07.2010 en la dependencia Río Duero (Valladolid)",
+ "fecha_suceso": "2010-07-16",
+ "hora": "15:41",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Dependencia Río Duero",
+  "provincia": "Valladolid",
+  "lat": 41.643,
+  "lng": -4.7278
+ },
+ "pk": "167+867",
+ "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+ "trenes": [
+  {
+   "numero": "4141",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  },
+  {
+   "numero": "8168",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de alta velocidad 80 Madrid Chamartín – Valladolid Campo Grande, se produce un conato de colisión entre los trenes de viajeros de larga distancia 4141 y 8168, ambos de la empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal de entrada E1, que se encontraba en indicación de parada. El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1.  SUCESO..................................................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4.  CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD.................................",
+ "causa_directa": "Rebase indebido de la señal de entrada E1",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de entrada E1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

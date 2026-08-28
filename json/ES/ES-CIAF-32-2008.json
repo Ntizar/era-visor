@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-32-2008",
+ "pais": "ES",
+ "expediente": "0032/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0032/2008 OCURRIDO EL DÍA 30.07.2008",
+ "fecha_suceso": "2008-07-30",
+ "hora": "18:05",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "línea 436 Fuengirola-Málaga",
+  "provincia": "Málaga",
+  "lat": 36.681155,
+  "lng": -4.495352
+ },
+ "pk": "P.K. 8,870",
+ "linea": "436 Fuengirola-Málaga",
+ "trenes": [
+  {
+   "numero": "23351",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 30 de julio de 2008 en la línea Fuengirola-Málaga, entre los apeaderos de Aeropuerto y San Julián. El suceso provocó la muerte de un varón de 65 años al ser arrollado por el tren de cercanías 23351, sin causar daños materiales ni a la infraestructura. La causa principal del accidente fue el tránsito de la víctima por un lugar no autorizado y vallado en plena vía.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n30.07.08/ 18:05\nLugar:\nP.K. 8,870, plena vía, entre los apeaderos de Aeropuerto y San Julián\nLínea:\n436 Fuengirola-Málaga\nTrayecto:\nAeropuerto – San Julián\nProvincia:\n\nMálaga\nEl tren de viajeros de cercanías 23351 de Renfe Operadora, formado por el automotor 446098; 3\nvehículos y masa remolcada de 220 Tm; circulando por el punto kilométrico  8,870 de la línea 436\nFuengirola-Málaga, arrolla a una persona que caminaba junto con otra por la caja de la vía y de\nespaldas al tren. La víctima, varón de 65 años, fue desplazada fuera del gálibo de la vía, mientras que\nla mujer que lo acompañaba resultó ilesa.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 30 de julio a las 19:47 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una persona por\nun tren de cercanías, en plena vía, entre los apeaderos de Aeropuerto y San Ju",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello en el momento que circulaba el tren de viajeros 23351."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

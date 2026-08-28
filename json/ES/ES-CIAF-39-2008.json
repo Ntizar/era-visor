@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-39-2008",
+ "pais": "ES",
+ "expediente": "0039/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0039/2008 OCURRIDO EL DÍA 11.05.2008",
+ "fecha_suceso": "2008-05-11",
+ "hora": "17:53",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Nord",
+  "provincia": "Albacete",
+  "lat": 39.281299,
+  "lng": -2.74434
+ },
+ "pk": "202,400",
+ "linea": "300 Madrid-Chamartín Valencia–Estación de Nord",
+ "trenes": [
+  {
+   "numero": "1186",
+   "operador": "Renfe Operadora",
+   "tipo": "Viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 11 de mayo de 2008, en el punto kilométrico 202,400 de la línea Madrid-Chamartín-Valencia Nord, un tren de Renfe arrolló a un hombre que circulaba por la vía, causando su fallecimiento inmediato. La investigación concluye que la causa principal del accidente fue el tránsito de la víctima por un lugar no autorizado, sin que existieran fallos en la infraestructura, el material rodante o la actuación del maquinista. Dadas estas circunstancias, no se establecen recomendaciones de seguridad.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n11.05.08/ 19:53\nLugar:\nP.K. 202,400\nLínea:\n300 Madrid-Chamartín Valencia-Estación de Nord (entre la señal de\navanzada y entrada a Villarrobledo)\nProvincia:\n\nAlbacete\nEl tren de viajeros 1186 de Renfe Operadora, compuesto por la locomotora 252046 y 22 coches\ncon masa total remolcada de 378 Tm, procedente de Madrid destino Alicante, en la entrada de la\nestación de Villarrobledo arrolla a un hombre que circula por la vía en sentido de la marcha.\nEl maquinista hace uso del silbato repetidas veces y del freno de emergencia no pudiendo evitar el\narrollamiento y resultando cadáver la persona golpeada.\nCabe destacar como información adicional que el hombre arrollado padecía la enfermedad de\nAlzheimer.\n2.1.1\nDecisión de abrir la investigación\nEl Responsable de Seguridad de Renfe-Operadora comunica, el día 29.08.2008 a la  que se había producido el arrollamiento de una persona por el\ntren de viajeros 1186 de la línea Madrid-Chamartín Estación de Valencia Nord. Inicialment",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

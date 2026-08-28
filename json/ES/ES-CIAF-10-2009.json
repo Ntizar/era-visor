@@ -1,0 +1,79 @@
+{
+ "id": "ES-CIAF-10-2009",
+ "pais": "ES",
+ "expediente": "0010/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2009 OCURRIDO EL DÍA 02.02.2009 ENTRE ZEGAMA OTZAURTE Y BRINKOLA",
+ "fecha_suceso": "2009-02-02",
+ "hora": "19:49",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_lateral",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Túnel de Osina",
+  "provincia": "Guipúzcoa",
+  "lat": 42.974839,
+  "lng": -2.313338
+ },
+ "pk": "P.K. 551+790",
+ "linea": "100 Madrid- Hendaya",
+ "trenes": [
+  {
+   "numero": "16005",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  },
+  {
+   "numero": "57656",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 2 de febrero de 2009, una colisión lateral entre un tren de media distancia y uno de mercancías ocurrió en el túnel de Osina, cerca de Zegama. El suceso provocó heridas leves a una pasajera y daños materiales en el tren de viajeros. La causa principal identificada fue el defecto de la vía debido a valores incorrectos de peralte y entrecalle.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD...........................................................................................7\n3.3. NORMATIVA...........................................................................",
+ "causa_directa": "Defecto de la vía por peralte y entrecalle",
+ "conclusiones": [
+  "La colisión lateral tuvo su origen como consecuencia del defecto de la vía por peralte y entrecalle."
+ ],
+ "recomendaciones": [
+  "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+  "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+  "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "10/09-1",
+   "texto": "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "10/09-2",
+   "texto": "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente."
+  },
+  {
+   "destinatario": "DGIF",
+   "numero": "10/09-3",
+   "texto": "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

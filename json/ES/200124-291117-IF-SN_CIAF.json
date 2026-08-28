@@ -1,0 +1,33 @@
+{
+ "id": "ES-200124-291117-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/200124-291117-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0055/2017",
+ "titulo": "Descarrilamiento en plena vía en el p.k. 20+350 del trayecto El Sorbito-Arahal (Sevilla)",
+ "fecha_suceso": "2017-11-29",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Sevilla",
+  "pk": "20+350",
+  "linea": "El Sorbito-Arahal"
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 29 de noviembre de 2017 se produjo un descarrilamiento en plena vía en el p.k. 20+350 del trayecto El Sorbito-Arahal (Sevilla). El suceso se relaciona con una avenida de agua e inundación en la zona. La investigación analizó las medidas de Adif y las deficiencias del Plan de Contingencias.",
+ "causa_directa": "La avenida de agua e inundación afectó a la vía en la zona del p.k. 20+350 y provocó el descarrilamiento.",
+ "causas_sistemicas": "Carencias del Plan de Contingencias ante fenómenos meteorológicos extraordinarios, insuficiencia de medidas adoptadas y falta de una identificación rigurosa y coordinación de puntos inundables con las Confederaciones Hidrográficas.",
+ "recomendaciones": [
+  "Diseñar un protocolo para identificar y revisar puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos.",
+  "Estudiar un protocolo operativo para coordinar e interpretar informaciones de las Confederaciones Hidrográficas sobre avenidas o crecidas que puedan afectar a la vía.",
+  "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias para el tratamiento de lluvias y fenómenos extraordinarios."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

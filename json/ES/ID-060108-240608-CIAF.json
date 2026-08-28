@@ -1,0 +1,34 @@
+{
+ "id": "ES-ID-060108-240608-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-060108-240608-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0022/2008",
+ "titulo": "Arrollamiento de una persona por un tren de cercanías en túnel entre Pitis y Pinar de las Rozas, Madrid",
+ "fecha_suceso": "2008-01-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Pitis - Pinar de las Rozas",
+  "provincia": "Madrid",
+  "pk": "20,100",
+  "linea": "100 Madrid-Hendaya",
+  "lat": null,
+  "lng": null
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 6 de enero de 2008, el tren de cercanías 27231 de Renfe Operadora circulaba entre Pitis y Pinar de las Rozas por la línea 100 Madrid-Hendaya. Al salir del túnel del punto kilométrico 20,100, el maquinista notó un golpe y un ruido metálico y avisó al Puesto de Mando de Madrid Chamartín. Otro tren, el VK195, reconoció el lugar y confirmó restos humanos en la vía, por lo que se catalogó como arrollamiento. La investigación concluyó que el accidente tuvo su origen en el tránsito de la víctima por la vía en un lugar no habilitado para ello. No hubo daños materiales, aunque la vía quedó interceptada seis horas y se produjeron retrasos.",
+ "causa_directa": "Tránsito de la víctima por la vía en un lugar no habilitado para ello.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Elaborar un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y planificar actuaciones a nivel global."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

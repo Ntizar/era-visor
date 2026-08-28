@@ -1,0 +1,35 @@
+{
+ "id": "ES-200421-010718-IF-SN_CIAF_",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/200421-010718-IF-SN_CIAF_.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0025/2018",
+ "titulo": "Incidente por fallo de enclavamiento y señal en la estación de Pedralba (Zamora)",
+ "fecha_suceso": "2018-07-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Pedralba",
+  "provincia": "Zamora",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El 1 de julio de 2018, el tren 258 se detuvo en la estación de Pedralba (Zamora) tras observar el maquinista discrepancias entre la señal de entrada 2N, que mostraba verde, y las indicaciones del ASFA y del itinerario. El mal funcionamiento se debió a derivaciones en los conductores de enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente la señal pese a estar fundido el fusible F2. El tren fue detenido por frenado de emergencia del ASFA al rebasar la señal. La investigación detectó falta de revisión de cables antiguos y una incompatibilidad no contemplada en el enclavamiento para itinerarios de entrada simultáneos de sentidos opuestos.",
+ "causa_directa": "El mal funcionamiento del enclavamiento, producido por derivaciones en los conductores de enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente el foco verde de la señal de entrada 2N pese a estar fundido el fusible F2.",
+ "causas_sistemicas": "No consta que se realizaran las revisiones de cables de señalización conforme al Procedimiento Específico MIN-PE-IS-013; la revisión por muestreo del 10% no detectó el deterioro puntual de cableado antiguo. No se identificaron causas raíz relacionadas con el Sistema de Gestión de la Seguridad, procedimientos organizativos o marco normativo.",
+ "recomendaciones": [
+  "Identificar enclavamientos cuyo cableado pueda compartir hilos de mando/comprobación y energía en el mismo multiconductor y modificarlos si es necesario.",
+  "Incluir en los procedimientos de ADIF la revisión del estado de conductores según su longevidad, fecha de fabricación y tiempo en servicio, con calendario de caducidad si procede.",
+  "Verificar y actualizar la documentación de las estaciones para que las modificaciones del enclavamiento e instalaciones queden reflejadas.",
+  "Revisar y actualizar los programas de explotación y Consignas serie A de los enclavamientos según la normativa de Explotación y Seguridad, recogiendo incompatibilidades entre itinerarios de entrada."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

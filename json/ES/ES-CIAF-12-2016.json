@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-12-2016",
+ "pais": "ES",
+ "expediente": "0012/2016",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario (arrollamiento de obstáculo) nº 0012/2016 ocurrido el día 15.03.2016 en plena vía, en Mont-Roig del Camp (Tarragona)",
+ "fecha_suceso": "2016-03-15",
+ "hora": "17:19",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_obstaculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Mont-Roig del Camp",
+  "provincia": "Tarragona",
+  "lat": 41.10458,
+  "lng": 1.10094
+ },
+ "pk": "247+490",
+ "linea": "600 Valencia Nord – Sant Vicenç de Calders",
+ "trenes": [
+  {
+   "numero": "11161",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de viajeros de larga distancia (Euromed)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 15 de marzo de 2016 en Mont-Roig del Camp (Tarragona), donde el tren 11161 arrolló un obstáculo procedente del desmoronamiento de una trinchera adyacente. El suceso provocó el descarrilamiento del primer eje del tren durante 826 metros, causando daños materiales significativos en el material rodante y la infraestructura, aunque no hubo heridos graves, solo tres pasajeros atendidos por ansiedad o lipotimia. La causa principal fue el fallo de la infraestructura por el desprendimiento de tierras y una gran roca, factor coadyuvante de las fuertes lluvias previas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación ..................................................................................................10\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................................10\n2.2.1.\nPersonal ferroviario implicado ...............................................................",
+ "causa_directa": "Desmoronamiento de la trinchera",
+ "conclusiones": [
+  "El accidente se produjo por fallo de la infraestructura, al producirse el desmoronamiento parcial de la trinchera, ocasionando la ocupación de la caja de la vía por tierras y especialmente por una roca de grandes dimensiones, que provocaron el descarrilamiento del tren por arrollamiento de obstáculo.",
+  "Como factor coadyuvante se consideran los episodios de fuertes lluvias que tuvieron lugar en la zona los días anteriores.",
+  "En las labores de vigilancia y mantenimiento no se pudo advertir la situación del estado de la trinchera.",
+  "El tramo donde ocurre el desmoronamiento no estaba protegido con gunitado.",
+  "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad."
+ ],
+ "recomendaciones": [
+  "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "12/16-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador_final": "Adif",
+   "texto": "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "ES-CIAF-55-2009",
+ "pais": "ES",
+ "expediente": "0055/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0055/2009 OCURRIDO EL DÍA 08.10.2009 EN EL PASO A NIVEL CLASE C ENTRE MONFORTE DE LEMOS Y CANABAL (LUGO)",
+ "fecha_suceso": "2009-10-08",
+ "hora": "18:30",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Monforte de Lemos",
+  "provincia": "Lugo",
+  "lat": 42.525181,
+  "lng": -7.504582
+ },
+ "pk": "P.K. 0+851",
+ "linea": "810 Vigo – Monforte de Lemos",
+ "trenes": [
+  {
+   "numero": "50284",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 8 de octubre de 2009 en el paso a nivel clase C entre Monforte de Lemos y Canabal (Lugo), que provocó la muerte de un hombre de 83 años. El suceso tuvo su origen en la actuación imprudente de la víctima, que cruzó la vía a pesar de que las semibarreras estaban bajadas y la señalización alertaba de la proximidad del tren. No se establecieron recomendaciones adicionales al constatarse el correcto funcionamiento de las instalaciones y la actuación del maquinista.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Cruce imprudente de la víctima a pesar de las señales de advertencia",
+ "conclusiones": [
+  "El accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel estando la señalización alertando de la llegada del tren 50284."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

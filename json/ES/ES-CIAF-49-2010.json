@@ -1,0 +1,89 @@
+{
+ "id": "ES-CIAF-49-2010",
+ "pais": "ES",
+ "expediente": "0049/2010",
+ "titulo": "Informe final sobre el accidente ferroviario nº 0049/2010 ocurrido el día 06.09.2010 en paso a nivel provisional por obras, en el término municipal de Carmonita (Badajoz)",
+ "fecha_suceso": "2010-09-06",
+ "hora": "12:35",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Carmonita",
+  "provincia": "Badajoz",
+  "lat": 40.4065,
+  "lng": -3.692
+ },
+ "pk": "24+420",
+ "linea": "510 Aljucén - Cáceres",
+ "trenes": [
+  {
+   "numero": "17015",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia (automotor 598.017-2)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 6 de septiembre de 2010 en el paso a nivel provisional de Carmonita (Badajoz), donde un camión invadió el gálibo de la vía al circular sin las cadenas de seguridad echadas. La colisión provocó la muerte de una pasajera y el conductor del camión, además de heridos graves y daños materiales significativos. La causa principal del siniestro fue la invasión del gálibo por parte del vehículo, que cruzó el paso a nivel cuando el tren se aproximaba y las medidas de protección no estaban activadas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 4\n2.1. SUCESO................................................................................................................................................. 4\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 9\n2.4. CIRCUNSTANCIAS EXTERNAS.............................................................................................................. 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................... 11\n3.1. RESUMEN DE LAS DECLARACIONES.................................................................................................... 11\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD............................",
+ "causa_directa": "Invasión del gálibo de la vía por el camión dumper",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del camión dumper, que cruza por el paso a nivel cuando pasaba el tren 17015, sin encontrarse echadas las cadenas del paso a nivel."
+ ],
+ "recomendaciones": [
+  "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso.",
+  "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
+  "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras.",
+  "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente.",
+  "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras - por parte del personal de seguridad - para verificar la correcta aplicación de la consigna correspondiente."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "49/10-1",
+   "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso."
+  },
+  {
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias - DGIF",
+   "numero": "49/10-2",
+   "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "49/10-3",
+   "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "49/10-4",
+   "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "49/10-5",
+   "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras - por parte del personal de seguridad - para verificar la correcta aplicación de la consigna correspondiente."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

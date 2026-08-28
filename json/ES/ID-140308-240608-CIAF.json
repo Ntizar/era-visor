@@ -1,0 +1,45 @@
+{
+ "id": "ES-ID-140308-240608-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-140308-240608-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-443",
+ "expediente": "0004/2008",
+ "titulo": "Arrollamiento de motocicleta en paso a nivel de la estación de Llinars del Vallés (Barcelona)",
+ "fecha_suceso": "2008-03-14",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Llinars del Vallés",
+  "provincia": "Barcelona",
+  "pk": "148/000",
+  "linea": "270 Barcelona-Cerbere"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 14 de marzo de 2008, el tren de Cercanías 28460 de Renfe Operadora, entre San Celoni y Villanova i la Geltrú, arrolló una motocicleta en el paso a nivel tipo C de la estación de Llinars del Vallés. Las semibarreras estaban bajadas y enclavadas, y el conductor de la motocicleta falleció. Una primera motocicleta cruzó sorteando las barreras sin resultar accidentada; la segunda fue golpeada por el lateral del tren. No hubo daños materiales en el tren ni en la infraestructura.",
+ "causa_directa": "El cruce indebido del paso a nivel sorteando las semibarreras bajadas en el momento en que circulaba el tren 28460.",
+ "causas_sistemicas": null,
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A motorcycle was knocked down by a regional train when the driver had failed to stop at the level crossing,type C.",
+  "Location name": "Llinars de Vallés station, at kilometre point 148,000 on the railway line Portbou-Cerbere-Barcelona-Sant Andreu Comtal.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The motorcyclist crossed recklessly as the half-barriers were lowered."
+ }
+}

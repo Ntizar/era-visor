@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-211106-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-211106-020307.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-34",
+ "expediente": "0050/2006",
+ "titulo": "Arrollamiento de vehículo en paso a nivel de La Selva del Camp (Tarragona)",
+ "fecha_suceso": "2006-11-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Tarragona",
+  "pk": "77,930",
+  "linea": "Lérida-Tarragona"
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El 21 de noviembre de 2006, una locomotora aislada del tren de mercancías TC569 de RENFE arrolló a un turismo en el paso a nivel de clase A del punto kilométrico 77,930 de la línea Lérida-Tarragona, en La Selva del Camp (Tarragona). Los dos ocupantes del vehículo fallecieron en el acto. El tren circulaba a 100 km/h, por debajo de la velocidad máxima permitida, y el maquinista frenó de emergencia sin poder evitar el impacto. La investigación atribuye el suceso a la invasión indebida del vehículo, que quedó dentro del gálibo de la vía.",
+ "causa_directa": "El accidente tuvo su origen en la invasión indebida del vehículo del conductor, que no libró el gálibo de la vía en el paso a nivel.",
+ "causas_sistemicas": "Se constatan deficiencias en la señalización vertical del camino, en mal estado e incompleta, así como un firme del paso a nivel en estado defectuoso de mantenimiento.",
+ "recomendaciones": [
+  "Comunicar al Ayuntamiento de La Selva del Camp la adecuación de la señalización vertical del camino.",
+  "Proceder a la renovación del firme del paso a nivel por el administrador de la infraestructura."
+ ],
+ "fallecidos": 2,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A freight train hit a car while crossing a level crossing type A (road side fixed signage. Two persons were killed.",
+  "Location name": "Railway line from Reus to La Plana at the kilometre point 77,930.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 2,
+  "Total fatalities": 2
+ }
+}

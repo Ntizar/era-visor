@@ -1,0 +1,79 @@
+{
+ "id": "ES-CIAF-9-2009",
+ "pais": "ES",
+ "expediente": "0009/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0009/2009 OCURRIDO EL DÍA 14.02.2009 EN LA ESTACIÓN DE LIERES",
+ "fecha_suceso": "2009-02-14",
+ "hora": "14:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Lieres",
+  "provincia": "Asturias",
+  "lat": 43.2,
+  "lng": -5.6167
+ },
+ "pk": "P.K. 340,807",
+ "linea": "21 Oviedo-Santander",
+ "trenes": [
+  {
+   "numero": "5714",
+   "operador": "Feve",
+   "tipo": "tren de cercanías"
+  },
+  {
+   "numero": "5901",
+   "operador": "Feve",
+   "tipo": "tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 14 de febrero de 2009 en la estación de Lieres, donde el tren 5714 rebasó una señal de parada provocando el talonamiento de un desvío y un conato de colisión sin causar víctimas. La causa principal fue un malentendido en la comunicación entre el maquinista y el centro de control, evidenciado por la falta de registro de la autorización de rebase en los libros del CTC. Se recomienda mejorar los sistemas de comunicación y auditar el cumplimiento de los procedimientos de registro de órdenes.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................6\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................8\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................8\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Malentendido entre el maquinista y el CTC",
+ "conclusiones": [
+  "El incidente tuvo su origen en el mal entendimiento entre el maquinista del tren 5714, que rebasa la señal de salida de la estación, y el factor de circulación del CTC que, según la declaración del maquinista, le da la orden de rebase, y así consta en su libro de telefonemas pero no en el libro de telefonemas del CTC, produciéndose de forma complementaria deficiencias en el sistema."
+ ],
+ "recomendaciones": [
+  "Comprobación del buen funcionamiento de los sistemas de comunicación entre los maquinistas y el CTC que garantice la perfecta comunicación entre ambos y asegure el perfecto entendimiento entre los interlocutores.",
+  "Realizar una auditoría para evaluar el grado de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos).",
+  "Insistir en el cumplimiento riguroso de las normas en las comunicaciones de explotación, así como en el mantenimiento de la atención debida en la conducción, especialmente cuando se circula en circunstancias de anormalidad."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "09/09-1",
+   "texto": "Comprobación del buen funcionamiento de los sistemas de comunicación entre los maquinistas y el CTC que garantice la perfecta comunicación entre ambos y asegure el perfecto entendimiento entre los interlocutores."
+  },
+  {
+   "destinatario": "Feve",
+   "numero": "09/09-2",
+   "texto": "Realizar una auditoría para evaluar el grado de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos)."
+  },
+  {
+   "destinatario": "Feve",
+   "numero": "09/09-3",
+   "texto": "Insistir en el cumplimiento riguroso de las normas en las comunicaciones de explotación, así como en el mantenimiento de la atención debida en la conducción, especialmente cuando se circula en circunstancias de anormalidad."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "paso a nivel",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

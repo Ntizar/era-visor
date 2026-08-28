@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-2-2009",
+ "pais": "ES",
+ "expediente": "0002/2009",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0002/2009 ocurrido el día 14.01.2009 en un paso a nivel de la estación de Avilés",
+ "fecha_suceso": "2009-01-14",
+ "hora": "10:57",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Avilés",
+  "provincia": "Asturias",
+  "lat": 43.559101,
+  "lng": -5.92129
+ },
+ "pk": "16+863",
+ "linea": "144 San Juan de Nieva – Villabona (Oviedo)",
+ "trenes": [
+  {
+   "numero": "22321",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías (automotor 463010-9)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 14 de enero de 2009 en un paso a nivel de la estación de Avilés, que provocó la muerte de una mujer al ser arrollada por el tren de cercanías 22321. La causa principal del siniestro fue la decisión de la víctima de sortear las barreras bajadas y cruzar la vía cuando los sistemas de protección ya estaban activos.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................8\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Cruce del paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen cuando la víctima cruza el paso a nivel, sorteando las barreras bajadas, en el momento en que el tren 22321 circulaba por él."
+ ],
+ "recomendaciones": [
+  "Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

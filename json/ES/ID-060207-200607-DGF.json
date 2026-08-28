@@ -1,0 +1,35 @@
+{
+ "id": "ES-ID-060207-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-060207-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0008/2007",
+ "titulo": "Arrollamiento de una persona por tren en paso vicioso junto a la estación de Catarroja, Valencia",
+ "fecha_suceso": "2007-02-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Catarroja",
+  "provincia": "Valencia",
+  "pk": "106,066",
+  "linea": "La Encina - Valencia",
+  "lat": 39.4033747,
+  "lng": -0.4028759
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 6 de febrero de 2007, a las 12:12, una persona de 91 años fue arrollada por el tren de Larga Distancia 1091 Barcelona-Alicante al intentar cruzar las vías en un paso vicioso próximo a la estación de Catarroja. El tren circulaba a 138 km/h, por debajo de la máxima de 140 km/h, y el maquinista accionó el silbato y el freno de emergencia sin evitar el golpe. La víctima falleció y se produjeron retrasos limitados en varios trenes. El informe atribuye el suceso a la invasión indebida de la vía y recomienda mejorar el vallado de la zona.",
+ "causa_directa": "Invasión indebida de la vía por la víctima, que transitaba indebidamente por la infraestructura ferroviaria e intentó cruzar las vías pese a las advertencias del tren.",
+ "causas_sistemicas": "Existencia de pasos viciosos muy frecuentados y deficiente estado del vallado, con falta de continuidad, roturas y cerramiento forzado que permitía el paso de transeúntes.",
+ "recomendaciones": [
+  "Completar el vallado en ambos márgenes de la vía entre los núcleos de población y los polígonos industriales.",
+  "Reparar y mantener adecuadamente el cerramiento existente."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -1,0 +1,48 @@
+{
+ "id": "ES-ID-151006-150107-SFELIU_ES-24",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-151006-150107-SFELIU_ES-24.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-26",
+ "expediente": "0037/2006",
+ "titulo": "Arrollamiento mortal de peatón en paso a nivel de San Feliu de Llobregat (Barcelona)",
+ "fecha_suceso": "2006-10-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "San Feliu de Llobregat",
+  "provincia": "Barcelona",
+  "pk": "88,906",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 15 de octubre de 2006, una mujer de 85 años fue arrollada por el tren de Cercanías nº18316 de Renfe en el paso a nivel peatonal de clase C del PK 88,906 de la línea 240, en San Feliu de Llobregat (Barcelona). La víctima cruzó las vías cuando las barreras estaban abatidas y las señales luminosas peatonales indicaban prohibición de paso. El tren circulaba a 89 km/h, por debajo de la velocidad máxima permitida, y no se produjeron daños materiales. El accidente causó retrasos acumulados de 104 minutos en 17 trenes de Cercanías.",
+ "causa_directa": "La víctima se dispuso a cruzar el paso a nivel haciendo caso omiso a las señales luminosas peatonales y con las barreras abatidas por el paso del tren.",
+ "causas_sistemicas": "El paso a nivel presentaba un alto momento de circulación, antecedentes de otro accidente grave en el mismo lugar y un proyecto de supresión por soterramiento aún no ejecutado.",
+ "recomendaciones": [
+  "Sensibilizar a la población en el correcto uso de las zonas de paso."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 1,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person, riding a motorcycle, was injuried and his companion died  after being hit by rolling stock motion at a level crossing type C, protected with barriers.",
+  "Location name": "Railway from Valencia to Barcelona at the kilometre point 262,561.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1,
+  "LC User serious injuries": 1,
+  "Total serious injuries": 1
+ }
+}

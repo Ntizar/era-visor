@@ -1,0 +1,32 @@
+{
+ "id": "ES-ID-081006-020307",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-081006-020307.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0036/2006",
+ "titulo": "Arrollamiento de una persona por tren en la línea Madrid-Barcelona, entre Cunit y Sant Vicent de Calders (Barcelona)",
+ "fecha_suceso": "2006-10-08",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Segur de Calafell",
+  "provincia": "Barcelona",
+  "pk": "625,120",
+  "linea": "Madrid-Barcelona"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 8 de octubre de 2006, un tren de Larga Distancia nº 1111 de Renfe arrolló a una persona en la línea Madrid-Barcelona, entre Cunit y Sant Vicent de Calders, a unos 50 metros del apeadero de Segur de Calafell. La víctima intentó cruzar las vías por un lugar no autorizado, resbaló y cayó sobre la vía I mientras el tren circulaba a 130 km/h. Resultó herida grave y falleció posteriormente en el hospital. No hubo daños materiales, aunque se produjeron retrasos en varios trenes.",
+ "causa_directa": "El tránsito indebido de la víctima al cruzar por un lugar no autorizado y no atender las indicaciones acústicas del tren, lo que provocó que cayera sobre la vía y fuera arrollada.",
+ "causas_sistemicas": "Existencia de un paso irregular por una apertura considerable en el vallado del lado montaña y falta de cerramiento completo en el lado mar, pese a la proximidad de un paso inferior.",
+ "recomendaciones": [
+  "Eliminar el paso irregular mediante un vallado completo en la zona, a cargo del administrador de la infraestructura."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

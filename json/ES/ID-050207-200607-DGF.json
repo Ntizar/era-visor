@@ -1,0 +1,35 @@
+{
+ "id": "ES-ID-050207-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-050207-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "007/2007",
+ "titulo": "Arrollamiento de una persona en paso a nivel de Veguellina de Orbigo, León",
+ "fecha_suceso": "2007-02-05",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Veguellina de Orbigo",
+  "provincia": "León",
+  "pk": "157,671",
+  "linea": "800 León-La Coruña SD",
+  "lat": 42.4334754,
+  "lng": -5.8875112
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 5 de febrero de 2007, una mujer de 56 años fue arrollada por el tren de larga distancia 280 de Renfe Operadora en el paso a nivel de clase C del punto kilométrico 157,671 de la línea 800 León-La Coruña, en Veguellina de Orbigo, León. Las semibarreras y los sistemas de aviso del paso a nivel funcionaban correctamente y el tren circulaba a 152 km/h, por debajo del límite de 155 km/h. Según el informe, la víctima ignoró las señales y los avisos acústicos, y el arrollamiento no pudo evitarse pese al silbato y la aplicación del freno de emergencia. El suceso causó retrasos, transbordos y la supresión de un tren de mercancías.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que cruzó las vías haciendo caso omiso de las señales del paso a nivel y de las advertencias acústicas del tren.",
+ "causas_sistemicas": "El camino de acceso al paso a nivel no se adecuaba a las prescripciones de la Orden Ministerial de 2 de agosto de 2001 y el paso a nivel estaba en estudio de supresión por convenio entre el Ministerio de Fomento y la Comunidad Autónoma de Castilla y León.",
+ "recomendaciones": [
+  "Comunicar al titular del camino que conduce al paso a nivel la necesidad de completar la señalización de la carretera conforme a la Orden Ministerial de 2 de agosto de 2001.",
+  "Sensibilizar a la población en el correcto uso de las zonas de paso."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

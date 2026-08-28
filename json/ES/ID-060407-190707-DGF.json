@@ -1,0 +1,34 @@
+{
+ "id": "ES-ID-060407-190707-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-060407-190707-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "23/2007",
+ "titulo": "Arrollamiento mortal de un viajero en la estación de Villalba de Guadarrama (Madrid)",
+ "fecha_suceso": "2007-04-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villalba de Guadarrama",
+  "provincia": "Madrid",
+  "pk": "37/893",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 40.6263825,
+  "lng": -4.0081534
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 6 de abril de 2007, un tren de Cercanías de Renfe salió de la vía 10 de la estación de Villalba de Guadarrama. Un viajero corrió junto al tren en marcha para intentar abrir una puerta y cayó entre el andén y la composición, resultando arrollado. El tren se detuvo tras recorrer 21 metros a una velocidad máxima de 13 km/h, pero la persona falleció. No hubo daños materiales y los viajeros fueron transbordados a otro tren.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que corrió en paralelo al tren en marcha e intentó abrir una puerta para subir, cayendo entre el andén y el tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar campañas de sensibilización para evitar que viajeros intenten subir o bajar de un tren en marcha."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

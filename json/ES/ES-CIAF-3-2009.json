@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-3-2009",
+ "pais": "ES",
+ "expediente": "0003/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0003/2009 OCURRIDO EL DÍA 20.01.2009 EN LA ESTACIÓN DE LA FLORIDA",
+ "fecha_suceso": "2009-01-20",
+ "hora": "12:08",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "La Florida",
+  "provincia": "Asturias",
+  "lat": 40.45,
+  "lng": -3.7167
+ },
+ "pk": "P.K.15, 057",
+ "linea": "61 Gijón - Laviana",
+ "trenes": [
+  {
+   "numero": "5412",
+   "operador": "FEVE",
+   "tipo": "tren de cercanías"
+  },
+  {
+   "numero": "TR901",
+   "operador": "FEVE",
+   "tipo": "tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ferroviario ocurrido el 20 de enero de 2009 en la estación de La Florida, donde el tren de cercanías 5412 rebasó una señal de parada provocando un conato de colisión. El suceso no causó víctimas mortales ni lesiones, aunque se registraron daños materiales en la aguja de la vía y retrasos en otros trenes. La causa principal fue el incumplimiento del reglamento de circulación por parte del maquinista, quien no hizo caso a la indicación de parada de la señal de salida.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Rebase de señal de salida en rojo por parte del maquinista",
+ "conclusiones": [
+  "El incidente tuvo su origen cuando el maquinista del tren 5412 rebasa la señal de salida de la estación, que presentaba la indicación de parada (rojo), incumpliendo lo estipulado en el Reglamento de Circulación de Trenes y Reglamento de señales de Feve."
+ ],
+ "recomendaciones": [
+  "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "03/09-1",
+   "texto": "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

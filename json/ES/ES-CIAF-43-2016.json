@@ -1,0 +1,76 @@
+{
+ "id": "ES-CIAF-43-2016",
+ "pais": "ES",
+ "expediente": "0043/2016",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0043/2016 OCURRIDO EL DÍA 30.09.2016 EN PLENA VÍA EN EL TÚNEL Nº15, DEL TRAYECTO BUSDONGO-PAJARES (ASTURIAS)",
+ "fecha_suceso": "2016-09-30",
+ "hora": "21:26",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": ", Canto del Estillero",
+  "provincia": "Asturias",
+  "lat": 43.062391,
+  "lng": -5.738947
+ },
+ "pk": "59+505",
+ "linea": "130 Gijón Sanz Crespo-Venta de Baños",
+ "trenes": [
+  {
+   "numero": "665",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de viajeros de larga distancia (Alvia)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren Alvia 665 ocurrido el 30 de septiembre de 2016 en el túnel Canto del Estillero de Lena no causó víctimas, aunque provocó daños materiales en el tren y la infraestructura. La causa principal fue la rotura del carril izquierdo debido a un defecto de fabricación que generó una fisura por fatiga, agravada por la corrosión del entorno. Este fallo no fue detectado por los procedimientos de auscultación ultrasónica vigentes, los cuales resultaron ineficaces para identificar la anomalía interna del carril.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2.\nDescripción del suceso ...................................................................................................................... 7\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1.\nPersonal ferroviario implicado ...........................................................",
+ "causa_directa": "Rotura del carril izquierdo",
+ "conclusiones": [
+  "Como causa directa del accidente se determina que se produjo por fallo de la infraestructura, debido a la rotura previa del carril izquierdo (según el sentido de circulación del tren), debido a un defecto de fabricación del carril.",
+  "Como factor coadyuvante se considera la situación de corrosión por las condiciones dentro del túnel y al tráfico pesado que circula por la línea, que produjeron fenómenos de fatiga en el carril ocasionando una fisura longitudinal entre la cabeza y el alma que fue progresando hasta llegar a la rotura del mismo.",
+  "Como causa subyacente se determina que en las labores de vigilancia (a pie y en cabina) llevadas a cabo conforme al procedimiento operativo SGSC-PO-24.00.08 no se detectaron las anomalías presentes en el carril que desembocaron en la rotura del mismo.",
+  "Asimismo, en la auscultación ultrasónica de la vía realizada conforme a lo establecido en el procedimiento operativo SGSC-PO-24.00.09, no se detectó la anomalía en el estado interno del carril que ocasionó la rotura del mismo.",
+  "Como causa raíz se determina que el procedimiento operativo SGSC-PO-24.00.09 de junio de 2015 “Auscultación de vía en Red Convencional” determina la manera de realizar las auscultaciones ultrasónicas de vía con el objetivo de conocer el estado interno de los carriles, detectando posibles anomalías. Este documento está integrado en el Sistema de Gestión de la Seguridad (SGS) de Adif.",
+  "Se comprueba que la auscultación realizada en la vía conforme a dicho documento ha resultado ineficaz al no detectar la anomalía que presentaba el carril.",
+  "Es por todo ello que, dada la gravedad de las consecuencias que un suceso de este tipo puede ocasionar, es necesario reconsiderar los medios utilizados tanto humanos como materiales, así como los procedimientos para la realización de esta actividad (auscultación ultrasónica)."
+ ],
+ "recomendaciones": [
+  "Adoptar las medidas necesarias a nivel procedimental, técnico y de equipos tanto humanos como materiales, con el objeto de conocer, al realizar las auscultaciones ultrasónicas de carril, incluyendo los aparatos de vía, el estado interno de los mismos y detectar de manera eficaz los defectos que puedan desembocar en una rotura posterior del carril.",
+  "Adecuar el contenido de los procedimientos operativos SGSC-PO-24.00.08 “Vigilancia del estado de la infraestructura y la vía” y SGSC-PO-24.00.09 “Auscultación de vía en red convencional” y de las normas NAV N.A.V. 7-4-0.1. “Inspección de vía. Criterios de vigilancia de la vía” y la N.A.V. 7-4-1.1. “Inspección de vía. Operaciones de vigilancia en los recorridos a pie”, de manera que no se produzcan discrepancias entre unos y otras."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "43/16-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+   "texto": "Adoptar las medidas necesarias a nivel procedimental, técnico y de equipos tanto humanos como materiales, con el objeto de conocer, al realizar las auscultaciones ultrasónicas de carril, incluyendo los aparatos de vía, el estado interno de los mismos y detectar de manera eficaz los defectos que puedan desembocar en una rotura posterior del carril."
+  },
+  {
+   "numero": "43/16-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+   "texto": "Adecuar el contenido de los procedimientos operativos SGSC-PO-24.00.08 “Vigilancia del estado de la infraestructura y la vía” y SGSC-PO-24.00.09 “Auscultación de vía en red convencional” y de las normas NAV N.A.V. 7-4-0.1. “Inspección de vía. Criterios de vigilancia de la vía” y la N.A.V. 7-4-1.1. “Inspección de vía. Operaciones de vigilancia en los recorridos a pie”, de manera que no se produzcan discrepancias entre unos y otras."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

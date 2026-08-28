@@ -1,0 +1,49 @@
+{
+ "id": "ES-CIAF-4-2020",
+ "pais": "ES",
+ "expediente": "04/2020",
+ "titulo": "IF 04/2020 — Accidente ferroviario ocurrido el día 24 de enero de 2020 en",
+ "fecha_suceso": "2020-01-24",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "grave",
+ "ubicacion": {
+  "estacion": "Xeraco",
+  "provincia": "Valencia",
+  "lat": 39.0332,
+  "lng": -0.2152
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia) el 4 de marzo de 2020, que no provocó víctimas ni daños materiales. La causa principal fue el fallo humano del Responsable de Circulación, quien expidió un tren sin establecer el bloqueo correspondiente al desactivar parcialmente los automatismos de seguridad. Este error generó una situación de riesgo de colisión frontal que fue evitada gracias a la intervención inmediata del controlador.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "grave"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

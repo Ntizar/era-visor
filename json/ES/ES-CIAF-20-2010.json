@@ -1,0 +1,70 @@
+{
+ "id": "ES-CIAF-20-2010",
+ "pais": "ES",
+ "expediente": "0020/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0020/2010 OCURRIDO EL DÍA 08.04.2010 EN SILLA (VALENCIA)",
+ "fecha_suceso": "2010-04-08",
+ "hora": "11:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Terminal de contenedores de Silla",
+  "provincia": "Valencia",
+  "lat": 39.3667,
+  "lng": -0.3833
+ },
+ "pk": null,
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "trenes": [
+  {
+   "numero": "310051",
+   "operador": "Renfe Operadora",
+   "tipo": "Locomotora de maniobras"
+  },
+  {
+   "numero": "N/A",
+   "operador": "Adif",
+   "tipo": "Material estacionado"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 8 de abril de 2010 en la terminal de contenedores de Silla (Valencia) durante maniobras de acoplamiento. El suceso provocó la muerte de un operario y el descarrilamiento de dos vagones debido a la colisión entre un corte en movimiento y material estacionado. La causa principal fue el incumplimiento de las normas del Reglamento General de Circulación por parte del personal interviniente y la ubicación inadecuada del agente fallecido en el momento del impacto.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES.......................................................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.........................",
+ "causa_directa": "Maniobra realizada sin cumplir las normas del R.G.C.",
+ "conclusiones": [
+  "La colisión y posterior descarrilamiento se produce por realizarse la maniobra sin cumplir los intervinientes directos los artículos 615 (puntos 4 y 8) y 605 (punto 3) del Reglamento General de Circulación (R.G.C.).",
+  "El arrollamiento del agente fallecido se produce al encontrarse éste situado en un lugar inadecuado en el momento de la colisión (POP/20, punto 7)."
+ ],
+ "recomendaciones": [
+  "Insistir, mediante acciones formativas dirigidas tanto al personal de conducción como a los agentes de maniobras, en el estricto cumplimiento de las normas recogidas en el R.G.C. y en el procedimiento operativo de prevención POP/20 de Adif."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "número": "20/10-1",
+   "texto": "Insistir, mediante acciones formativas dirigidas tanto al personal de conducción como a los agentes de maniobras, en el estricto cumplimiento de las normas recogidas en el R.G.C. y en el procedimiento operativo de prevención POP/20 de Adif."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

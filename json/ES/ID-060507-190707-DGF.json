@@ -1,0 +1,35 @@
+{
+ "id": "ES-ID-060507-190707-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-060507-190707-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0028/2007",
+ "titulo": "Arrollamiento mortal de una persona en paso vicioso entre Vilanova La Geltrú y Cunit, Barcelona",
+ "fecha_suceso": "2007-05-06",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "632,800",
+  "linea": "Línea 200 Madrid-Barcelona",
+  "lat": 41.3825802,
+  "lng": 2.177073
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE"
+ ],
+ "resumen": "El 6 de mayo de 2007, a las 15:41, el tren de Media Distancia 8257 de RENFE arrolló a una mujer de 36 años en un paso vicioso entre Vilanova La Geltrú y Cunit, en el punto kilométrico 632,800 de la línea 200 Madrid-Barcelona. La víctima intentaba cruzar las vías hacia la playa y falleció en el lugar. El maquinista vio a la persona al salir de una curva, aplicó el freno de emergencia y el silbato, pero no pudo evitar el arrollamiento; el tren circulaba a 102 km/h, por debajo de la velocidad máxima de 140 km/h.",
+ "causa_directa": "El informe atribuye la causa directa a la invasión indebida del gálibo de la vía por la víctima al cruzar por un paso vicioso no autorizado.",
+ "causas_sistemicas": "La existencia de un paso vicioso de acceso a la playa sin vallado ni medidas de protección adecuadas, junto con la falta de concienciación sobre el uso de pasos autorizados.",
+ "recomendaciones": [
+  "Realizar el vallado de la línea en todo el tramo limítrofe con la playa.",
+  "Impulsar campañas de concienciación en las localidades costeras sobre el peligro de no usar zonas de paso autorizadas para acceder a las playas."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

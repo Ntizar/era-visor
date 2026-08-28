@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-47-2010",
+ "pais": "ES",
+ "expediente": "0047/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2010 OCURRIDO EL DÍA 18.08.2010 EN EL PASO A NIVEL CLASE B ENTRE LAS ESTACIONES DE UTRERA Y EL SORBITO (SEVILLA)",
+ "fecha_suceso": "2010-08-18",
+ "hora": "12:16",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "P.K. 8+579",
+  "provincia": "Sevilla",
+  "lat": 37.197555,
+  "lng": -5.753074
+ },
+ "pk": "8+579",
+ "linea": "422 Bif. Utrera a Fuente de Piedra",
+ "trenes": [
+  {
+   "numero": "13926",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 18 de agosto de 2010 en el paso a nivel clase B entre las estaciones de Utrera y El Sorbito (Sevilla). El suceso provocó la muerte del conductor del vehículo de carretera que fue arrollado por el tren 13926. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, que irrumpió en el paso a nivel a pesar de que los dispositivos de protección estaban activados.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel estando los dispositivos de protección (sonería e indicadores luminosos) activados, indicando la inminente llegada del tren 13926."
+ ],
+ "recomendaciones": [
+  "Completar la señalización vertical de los caminos que acceden al paso a nivel para adecuarlo a lo establecido en la Orden de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Comunidad Autónoma de Andalucía",
+   "numero": "47/10-1",
+   "texto": "Completar la señalización vertical de los caminos que acceden al paso a nivel para adecuarlo a lo establecido en la Orden de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

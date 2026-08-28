@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-63-2011",
+ "pais": "ES",
+ "expediente": "0063/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0063/2011 OCURRIDO EL DÍA 27.12.2011 EN EL CAMBIADOR DE ZARAGOZA DELICIAS (ZARAGOZA)",
+ "fecha_suceso": "2011-12-27",
+ "hora": "11:38",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Cambiador de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "lat": 39.15,
+  "lng": -0.6
+ },
+ "pk": "CIM-Aguja km 337,1",
+ "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias",
+ "trenes": [
+  {
+   "numero": "533",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia (serie 120 de CAF)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 533 de Renfe Operadora ocurrió el 27 de diciembre de 2011 en el cambiador de ancho de Zaragoza Delicias, sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y la infraestructura. La causa principal fue el fallo del sistema de cambio de ancho debido al desenroscamiento de los tornillos de sujeción del mecanismo de bloqueo de una rueda, lo que impidió su adaptación al ancho UIC.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo en el sistema de cambio de ancho debido a un mecanismo de bloqueo/desbloqueo suelto.",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo en el sistema de cambio de ancho de la rueda derecha del segundo eje del primer bogie en el segundo coche de la composición, en el sentido de la marcha, debido a que el mecanismo del sistema de bloqueo/desbloqueo del cambio de la rueda mencionada se encontraba suelto, porque los tornillos que sujetan el citado mecanismo se habían desenroscado, desapareciendo uno de ellos y estando el otro fuera de su alojamiento."
+ ],
+ "recomendaciones": [
+  "Establecer una especial vigilancia del mecanismo del bloqueo/desbloqueo del cambio de ancho de los ejes BRAVA hasta que se efectúe la modificación prevista de su sujeción (soldadura)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Establecer una especial vigilancia del mecanismo del bloqueo/desbloqueo del cambio de ancho de los ejes BRAVA hasta que se efectúe la modificación prevista de su sujeción (soldadura)."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,79 @@
+{
+ "id": "ES-CIAF-15-2011",
+ "pais": "ES",
+ "expediente": "0015/2011",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0015/2011 OCURRIDO EL DÍA 07.03.2011 EN FLAÇÀ (GIRONA)",
+ "fecha_suceso": "2011-03-07",
+ "hora": "21:22",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Flaçà",
+  "provincia": "Girona",
+  "lat": 42.0456854,
+  "lng": 2.9569565
+ },
+ "pk": "PK 224+794",
+ "linea": "270 Barcelona San Andrés Condal - Cerbere",
+ "trenes": [
+  {
+   "numero": "212",
+   "operador": "Renfe Operadora",
+   "tipo": "Viajeros de larga distancia"
+  },
+  {
+   "numero": "93580",
+   "operador": "Renfe Operadora",
+   "tipo": "Mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ocurrido el 7 de marzo de 2011 en Flaçà (Girona) consistió en un conato de colisión entre dos trenes de Renfe Operadora tras el rebase indebido de una señal en parada por parte del tren de viajeros 212. No se registraron víctimas ni daños materiales, aunque el maquinista actuó basándose en una indicación errónea de vía libre proporcionada por el sistema ASFA. La causa principal fue el incumplimiento de las órdenes de la señal por parte del personal de conducción, siendo factor coadyuvante el funcionamiento anómalo del sistema de seguridad ASFA.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Rebase indebido de la señal avanzada E’2 por el tren de viajeros 212",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren de viajeros 212 de la señal avanzada E’2 de la de entrada, en indicación de parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción del tren.",
+  "Como factor coadyuvante hay que mencionar el funcionamiento anómalo del sistema ASFA.",
+  "Se constata una situación anómala por la discrepancia entre el estado de la señal intermedia 2268 (anuncio de parada) y la indicación del sistema ASFA Digital embarcado (vía libre).",
+  "Por parte del personal de conducción se incumple el artículo 262 del RGC, al haber atendido a la indicación en cabina del equipo ASFA que discrepaba con la información real dada por la señal.",
+  "También se incumple el artículo 213 del RGC al no ponerse el tren en condiciones de parar ante la señal siguiente.",
+  "Por otro lado se incumple el artículo 279 del RGC al no comunicarse al puesto de mando el rebase de la señal E’2.",
+  "No se ha llegado a ninguna conclusión que pueda explicar la causa de la discrepancia en el sistema ASFA tras las investigaciones realizadas."
+ ],
+ "recomendaciones": [
+  "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma.",
+  "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "15/11-1",
+   "texto": "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "15/11-2",
+   "texto": "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

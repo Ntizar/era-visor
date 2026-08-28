@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-60-2008",
+ "pais": "ES",
+ "expediente": "0060/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0060/2008 ocurrido el día 09.11.2008",
+ "fecha_suceso": "2008-11-09",
+ "hora": "09:52",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Paso a nivel clase A, entre Almagro y el apeadero de El Campillo",
+  "provincia": "Ciudad Real",
+  "lat": 39.060744,
+  "lng": -3.598973
+ },
+ "pk": "P.K. 226,669",
+ "linea": "522 Manzanares - Ciudad Real",
+ "trenes": [
+  {
+   "numero": "18081",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 9 de noviembre de 2008 en el paso a nivel clase A entre Almagro y El Campillo, donde un tren arrolló un vehículo provocando la muerte del conductor. Las investigaciones determinaron que la causa principal fue el cruce de la víctima sin percatarse de la presencia del tren, descartándose fallos en la infraestructura o la actuación del maquinista.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n09.11.08/ 09:52\nLugar:\nPaso a nivel clase A, en el P.K. 226,669\nLínea:\n522 Manzanares – Ciudad Real.\nTrayecto:\nManzanares - Almagro\nProvincia:\n\nCiudad Real\nEl tren de media distancia 18081 de la empresa ferroviaria Renfe Operadora, compuesto por la\nunidad de tracción 470041, tres vehículos y masa remolcada de 161 toneladas, a su llegada al paso a\nnivel clase A, situado en el P.K.226, 669, entre Almagro y el apeadero de El Campillo arrolla a un\nvehículo marca Peugeot 406 que se encontraba cruzando por el paso.\nEl maquinista, que se da cuenta de que un vehículo circula por el camino paralelo, hace uso del\nsilbato y realiza señales acústicas y luminosas para alertar al conductor de la llegada del tren pero no\npuede evitar el arrollamiento del vehículo tras haber accionado el freno de emergencia. El conductor\ndel vehículo, único ocupante, fallece en el lugar del accidente.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Adminis",
+ "causa_directa": "Cruce del vehículo por el paso a nivel sin percatarse del tren",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren.",
+  "La actuación del maquinista fue correcta, realizando señales acústicas y luminosas y accionando el freno de emergencia.",
+  "Tanto el funcionamiento de la infraestructura como el material rodante se ajustaron a la normativa y no influyeron en el desarrollo de los hechos.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (136 km/h frente a 140 km/h permitidos)."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

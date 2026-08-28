@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-180307-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-180307-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-214",
+ "expediente": "0021/2007",
+ "titulo": "Arrollamiento mortal de una persona por tren LD 311 entre Hernani Centro y Hernani, línea Madrid-Hendaya",
+ "fecha_suceso": "2007-03-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Hernani",
+  "provincia": "Guipúzcoa",
+  "pk": "615/644",
+  "linea": "Línea 100 Madrid-Hendaya"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 18 de marzo de 2007, el tren de Larga Distancia 311 de Renfe Operadora arrolló a una persona en plena vía entre el apeadero de Hernani Centro y la estación de Hernani, en la línea Madrid-Hendaya. La víctima falleció y el tren quedó detenido unos 52 minutos, generando retrasos. El maquinista circulaba a 88 km/h, por debajo del máximo de 105 km/h, y aplicó silbato y freno de emergencia. El informe concluye que el accidente se debió a la imprudencia de la víctima, que accedió indebidamente a la caja de vía.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que accedió y transitó indebidamente por la caja de vía sin percatarse de la llegada del tren.",
+ "causas_sistemicas": "Deficiencias del cerramiento en puntos próximos y ubicación de carpas de las fiestas de La Sidra junto a la vía.",
+ "recomendaciones": [
+  "Revisar el vallado metálico y reparar los puntos dañados o rotos en zonas próximas al tramo del accidente."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A man was hit by a long distance train as he was walking through the tracks.",
+  "Location name": "Kilometre point 615,644 between Andoaín and Hernani stations. Railway line from Madrid to Hendaya.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "id": "ES-CIAF-54-2013",
+ "pais": "ES",
+ "expediente": "0054/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE GRAVE FERROVIARIO Nº 0054/2013 OCURRIDO EL DÍA 24.07.2013 EN LAS PROXIMIDADES DE LA ESTACIÓN DE SANTIAGO DE COMPOSTELA (A CORUÑA)",
+ "fecha_suceso": "2013-07-24",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Santiago de Compostela",
+  "provincia": "A Coruña",
+  "lat": 42.612225,
+  "lng": -8.121798
+ },
+ "pk": "84+413",
+ "linea": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 147,
+ "danos_materiales": true,
+ "resumen": "Accidente grave ocurrido el 24 de julio de 2013 en las proximidades de la estación de Santiago de Compostela, que provocó 80 fallecidos y numerosos heridos. La causa principal fue el exceso de velocidad del tren, que circulaba a 179 km/h en una curva limitada a 80 km/h, debido a la distracción del maquinista por atender una llamada telefónica.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................. 9\n2.1.\nSUCESO ........................................................................................................................................................ 9\n2.1.1. Datos ........................................................................................................................................................... 9\n2.1.2. Descripción del suceso ................................................................................................................................ 9\n2.1.3. Decisión de abrir la investigación .............................................................................................................. 11\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ............................................................................................................... 12\n2.2.1. Personal ferroviario implicado ....................................",
+ "causa_directa": "Exceso de velocidad en curva",
+ "conclusiones": [
+  "La causa del accidente fue un exceso de velocidad del tren (circulaba a 179 km/h) en la curva de entrada a Bifurcación A Grandeira (curva de Angrois, limitada a 80 km/h), por no respetar el personal de conducción lo prescrito en el Libro Horario del tren 150/151 y en el Cuadro de Velocidades Máximas de la línea 082.",
+  "Como causa coadyuvante se apunta una falta de atención del personal de conducción al responder éste una llamada telefónica de servicio del propio tren, proveniente del interventor, lo que motivó la no aplicación del freno de forma adecuada para reducir la velocidad antes de la entrada a dicha curva."
+ ],
+ "recomendaciones": [
+  "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
+  "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital.",
+  "Reforzar los procedimientos establecidos en el SGS de Renfe Operadora para que las deficiencias relacionadas con la seguridad que se detecten en cualquier estamento se reconduzcan hacia los canales funcionalmente establecidos para su análisis y consideración, asegurando así una eficaz gestión preventiva.",
+  "La Autoridad Nacional de Seguridad Ferroviaria velará por la extensión de la recomendación 54/13-3.1 al resto de empresas ferroviarias.",
+  "Que se analice por la Autoridad Nacional de Seguridad Ferroviaria el restablecimiento de las Comisiones Mixtas de Seguridad en la Circulación, con asistencia de representantes de Adif y de las empresas ferroviarias y bajo la tutela de dicha Autoridad, en las que puedan analizarse las situaciones de riesgo derivadas de la interacción conducción-vehículo-vía.",
+  "En el proceso de puesta en servicio de nuevas líneas ferroviarias y variantes, incluir un análisis de riesgos específico que recoja la identificación y gestión de los posibles peligros que se deriven de la interacción de los diferentes subsistemas, en condiciones de operación normales y degradadas, y su vinculación con el personal de conducción y circulación que intervenga cuando un tren circula desde el principio hasta el final de la línea o variante, y su conexión con la red existente. Analizar la viabilidad de su implantación también en las diferentes fases de construcción. Promover, en los casos en que esté motivado, la aplicación de dicho análisis de riesgos a las líneas en servicio.",
+  "Implantar en la reglamentación general, y trasladar a las empresas ferroviarias para su inclusión en sus sistemas de gestión de la seguridad, las disposiciones necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma segura, con el fin de evitar posibles distracciones.",
+  "Potenciar la implementación progresiva de un sistema de grabación de audio en las cabinas de conducción. Analizar la viabilidad de disponer también de un sistema de grabación de video.",
+  "La Autoridad Nacional de Seguridad Ferroviaria velará por la extensión de la recomendación 54/13-7.1 al resto de empresas ferroviarias."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "54/13-1",
+   "texto": "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "54/13-2",
+   "texto": "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "54/13-3.1",
+   "texto": "Reforzar los procedimientos establecidos en el SGS de Renfe Operadora para que las deficiencias relacionadas con la seguridad que se detecten en cualquier estamento se reconduzcan hacia los canales funcionalmente establecidos para su análisis y consideración, asegurando así una eficaz gestión preventiva."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "54/13-3.2",
+   "texto": "La Autoridad Nacional de Seguridad Ferroviaria velará por la extensión de la recomendación 54/13-3.1 al resto de empresas ferroviarias."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "54/13-4",
+   "texto": "Que se analice por la Autoridad Nacional de Seguridad Ferroviaria el restablecimiento de las Comisiones Mixtas de Seguridad en la Circulación, con asistencia de representantes de Adif y de las empresas ferroviarias y bajo la tutela de dicha Autoridad, en las que puedan analizarse las situaciones de riesgo derivadas de la interacción conducción-vehículo-vía."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "54/13-5",
+   "texto": "En el proceso de puesta en servicio de nuevas líneas ferroviarias y variantes, incluir un análisis de riesgos específico que recoja la identificación y gestión de los posibles peligros que se deriven de la interacción de los diferentes subsistemas, en condiciones de operación normales y degradadas, y su vinculación con el personal de conducción y circulación que intervenga cuando un tren circula desde el principio hasta el final de la línea o variante, y su conexión con la red existente. Analizar la viabilidad de su implantación también en las diferentes fases de construcción. Promover, en los casos en que esté motivado, la aplicación de dicho análisis de riesgos a las líneas en servicio."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "54/13-6",
+   "texto": "Implantar en la reglamentación general, y trasladar a las empresas ferroviarias para su inclusión en sus sistemas de gestión de la seguridad, las disposiciones necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma segura, con el fin de evitar posibles distracciones."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "54/13-7.1",
+   "texto": "Potenciar la implementación progresiva de un sistema de grabación de audio en las cabinas de conducción. Analizar la viabilidad de disponer también de un sistema de grabación de video."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "54/13-7.2",
+   "texto": "La Autoridad Nacional de Seguridad Ferroviaria velará por la extensión de la recomendación 54/13-7.1 al resto de empresas ferroviarias."
+  }
+ ],
+ "tags": [
+  "avería",
+  "descarrilamiento",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "incendio",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

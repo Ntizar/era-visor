@@ -1,0 +1,94 @@
+{
+ "id": "ES-CIAF-21-2016",
+ "pais": "ES",
+ "expediente": "0021/2016",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0021/2016 ocurrido el día 17.04.2016 en la estación de Hernani (Guipúzcoa)",
+ "fecha_suceso": "2016-04-17",
+ "hora": "21:34",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_alcance",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Hernani",
+  "provincia": "Guipúzcoa",
+  "lat": 43.272851,
+  "lng": -1.962242
+ },
+ "pk": "616+351",
+ "linea": "100 Hendaya a Madrid Chamartín",
+ "trenes": [
+  {
+   "numero": "26882",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de viajeros (UT 447147)"
+  },
+  {
+   "numero": "82692",
+   "operador": "Renfe Mercancías",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 17 de abril de 2016, en la estación de Hernani (Guipúzcoa), se produjo una colisión por alcance entre dos trenes de Renfe que causó cinco heridos y daños materiales. El suceso fue provocado principalmente por un fallo en las instalaciones de seguridad, concretamente la no detección del tren estacionado debido a la falta de shuntado del circuito de vía. Esta anomalía técnica fue facilitada por un exceso de óxido en los carriles y se vio agravada por un factor humano relacionado con la longitud del tren respecto a la vía de estacionamiento.",
+ "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO...................................................................................................................6\n2.1.\nSUCESO.................................................................................................................................................................6\n2.1.1.Datos.....................................................................................................................................................................6\n2.1.2.Descripción del suceso..........................................................................................................................................7\n2.1.3.Decisión de abrir la investigación y composición de equipo de investigación. ......................................................9\n2.2.\nCIRCUNSTANCIAS DEL SUCESO..........................................................................................................................9\n2.2.1.Personal ferroviario implicado, t",
+ "causa_directa": "Fallo de las instalaciones de seguridad del circuito de vía CVA4",
+ "conclusiones": [
+  "El accidente se produjo por fallo de las instalaciones de seguridad y más concretamente del circuito de vía CVA4, al no detectar éste la presencia del último vagón del tren 82692 estacionado sobre él y rebasando el piquete de las vías 2-4.",
+  "La no ocupación eléctrica del mencionado circuito permitió al enclavamiento establecer itinerario por vía 2 al tren 26882, estando ocupado el circuito de agujas CVA4.",
+  "Como causa subyacente se apunta el exceso de óxido existente en los carriles, no siendo este aspecto objeto de vigilancia en las actividades de mantenimiento preventivo de la vía, y que propició la falta de shuntado del mencionado circuito de vía.",
+  "También como causa subyacente puede apuntarse la no completa verificación del funcionamiento del circuito CVA4 en la revisión de mantenimiento realizada el 27/1/2014, además de no contemplarse en esta revisión el estado de la superficie del carril.",
+  "Como factor coadyuvante se apunta el fallo humano del personal de circulación, al estacionar el tren 82692 con longitud total de 299 metros en la vía 4 de longitud 283 metros y no comprobar de forma fehaciente la liberación del circuito de vía CVA4, situado en una vía de poco uso."
+ ],
+ "recomendaciones": [
+  "En los cursos de reciclaje impartidos al personal que interviene en la circulación, insistir en la necesidad de verificar de forma fehaciente la liberación de los circuitos eléctricos existentes en vías poco utilizadas. Insistir también en verificar la longitud de las vías de estacionamiento y la de los trenes al ser estacionados en éstas.",
+  "Establecer un plan de inspección del óxido existente en los desvíos de la red ferroviaria que dan acceso desde vía general a desviadas, comprobando donde sea necesario el correcto shuntado de los circuitos de vía, procediendo en su caso a su limpieza con el fin de restablecer las condiciones que permitan circular con seguridad.",
+  "Dentro del SGS de Adif, que se incluya en el Procedimiento “Vigilancia del estado de la infraestructura y vía (SGSC-PO-24.00.08)” el exceso de óxido en la vía (principalmente en los desvíos de vías generales y vías secundarias incluidas en el enclavamiento) como un elemento más a revisar y tratar en su caso, con el fin de impedir posibles defectos de shuntado.",
+  "Dentro del SGS de Adif, que se incluya un procedimiento para la vigilancia y mantenimiento de los circuitos de vía que permita la detección de problemas de shuntado, tanto en la situación de circuito libre como ocupado (con tren shunt aplicado)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "21/2016-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+   "contenido": "En los cursos de reciclaje impartidos al personal que interviene en la circulación, insistir en la necesidad de verificar de forma fehaciente la liberación de los circuitos eléctricos existentes en vías poco utilizadas. Insistir también en verificar la longitud de las vías de estacionamiento y la de los trenes al ser estacionados en éstas."
+  },
+  {
+   "numero": "21/2016-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+   "contenido": "Establecer un plan de inspección del óxido existente en los desvíos de la red ferroviaria que dan acceso desde vía general a desviadas, comprobando donde sea necesario el correcto shuntado de los circuitos de vía, procediendo en su caso a su limpieza con el fin de restablecer las condiciones que permitan circular con seguridad."
+  },
+  {
+   "numero": "21/2016-3",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+   "contenido": "Dentro del SGS de Adif, que se incluya en el Procedimiento “Vigilancia del estado de la infraestructura y vía (SGSC-PO-24.00.08)” el exceso de óxido en la vía (principalmente en los desvíos de vías generales y vías secundarias incluidas en el enclavamiento) como un elemento más a revisar y tratar en su caso, con el fin de impedir posibles defectos de shuntado."
+  },
+  {
+   "numero": "21/2016-4",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif",
+   "contenido": "Dentro del SGS de Adif, que se incluya un procedimiento para la vigilancia y mantenimiento de los circuitos de vía que permita la detección de problemas de shuntado, tanto en la situación de circuito libre como ocupado (con tren shunt aplicado)."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

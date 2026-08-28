@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERA Visor — Accidentes ferroviarios europeos</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.2/package/dist/xlsx.full.min.js"></script>
+    <style>
+        :root {
+            --kz-azul: #1A4488;
+            --kz-rojo: #CB1823;
+            --kz-azul-medio: #3463AC;
+            --kz-azul-claro: #6B96CF;
+            --kz-naranja: #e65100;
+            --kz-bg: #f5f7fa;
+            --kz-white: #ffffff;
+            --kz-border: #e0e0e0;
+            --kz-text: #333333;
+            --kz-text-muted: #666666;
+            --kz-text-light: #999999;
+            --kz-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: var(--kz-font); background: var(--kz-bg); color: var(--kz-text); }
+
+        /* ===== HEADER ===== */
+        .app-header {
+            background: linear-gradient(135deg, var(--kz-azul) 0%, #0f2d5a 100%);
+            color: white; padding: 0.6rem 1.5rem;
+            display: flex; align-items: center; justify-content: space-between; height: 54px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15); position: relative; z-index: 100;
+        }
+        .app-header h1 { font-size: 1.05rem; font-weight: 600; }
+        .app-header .subtitle { font-size: 0.75rem; opacity: 0.8; }
+        .app-header a { color: #cfe0ff; font-size: 0.75rem; }
+
+        /* ===== TABS ===== */
+        .tabs-bar { display: flex; background: white; border-bottom: 2px solid var(--kz-border); padding: 0 1rem; }
+        .tabs-bar .tab {
+            padding: 0.7rem 1.2rem; cursor: pointer; border-bottom: 3px solid transparent;
+            font-size: 0.88rem; color: var(--kz-text-muted); transition: all 0.2s; user-select: none;
+        }
+        .tabs-bar .tab:hover { color: var(--kz-azul); background: #f0f4f8; }
+        .tabs-bar .tab.active { color: var(--kz-azul); border-bottom-color: var(--kz-azul); font-weight: 600; }
+
+        /* ===== LAYOUT ===== */
+        .main-layout { display: flex; height: calc(100vh - 98px); }
+        .sidebar {
+            width: 270px; background: white; border-right: 1px solid var(--kz-border);
+            overflow-y: auto; padding: 1rem; flex-shrink: 0;
+        }
+        .sidebar h3 {
+            font-size: 0.75rem; text-transform: uppercase; color: var(--kz-azul);
+            margin: 1rem 0 0.5rem; letter-spacing: 0.5px; border-bottom: 1px solid var(--kz-azul-claro); padding-bottom: 0.25rem;
+        }
+        .sidebar h3:first-child { margin-top: 0; }
+        .sidebar label { display: block; font-size: 0.82rem; margin-bottom: 0.25rem; color: #555; }
+        .sidebar select, .sidebar input[type="text"] {
+            width: 100%; padding: 0.4rem; border: 1px solid #ccc; border-radius: 4px;
+            font-size: 0.83rem; margin-bottom: 0.5rem; background: white;
+        }
+        .sidebar input[type="range"] { width: 100%; padding: 0; }
+        .sidebar .range-values { display: flex; justify-content: space-between; font-size: 0.73rem; color: #888; }
+        .sidebar .filter-count { font-size: 0.75rem; color: var(--kz-azul-medio); margin-top: 0.5rem; }
+        .sidebar .btn-reset {
+            background: var(--kz-rojo); color: white; border: none; padding: 0.5rem 1rem;
+            border-radius: 4px; cursor: pointer; font-size: 0.8rem; margin-top: 0.5rem; width: 100%;
+        }
+        .sidebar .btn-reset:hover { opacity: 0.85; }
+        .sidebar .chk { display: flex; align-items: center; gap: 6px; font-size: 0.82rem; margin: 0.4rem 0; }
+        .sidebar .chk input { accent-color: var(--kz-azul); }
+
+        .content { flex: 1; overflow: hidden; position: relative; }
+        .tab-content { display: none; height: 100%; overflow-y: auto; }
+        .tab-content.active { display: block; }
+
+        /* ===== MAP ===== */
+        #map { width: 100%; height: 100%; }
+        .popup-content h4 { color: var(--kz-azul); margin-bottom: 0.4rem; font-size: 0.95rem; }
+        .popup-content p { margin: 0.2rem 0; font-size: 0.82rem; line-height: 1.4; }
+        .popup-content .popup-link {
+            display: inline-block; margin-top: 0.5rem; padding: 0.3rem 0.6rem;
+            background: var(--kz-azul); color: white; text-decoration: none;
+            border-radius: 3px; font-size: 0.78rem; font-weight: 500; cursor: pointer;
+        }
+        .popup-content .popup-link:hover { background: var(--kz-azul-medio); }
+
+        .map-legend {
+            position: absolute; bottom: 30px; left: 15px; z-index: 1000;
+            background: white; padding: 10px 14px; border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 0.78rem; line-height: 1.6;
+        }
+        .map-legend h4 { font-size: 0.75rem; margin-bottom: 4px; color: var(--kz-azul); text-transform: uppercase; }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .legend-dot { width: 10px; height: 10px; border-radius: 50%; border: 1.5px solid white; box-shadow: 0 0 2px rgba(0,0,0,0.3); flex-shrink: 0; }
+
+        /* ===== DASHBOARD ===== */
+        .dashboard-grid { padding: 1.25rem; }
+        .kpi-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.8rem; margin-bottom: 1.25rem; }
+        .kpi-card {
+            background: white; padding: 1rem 1.2rem; border-left: 4px solid var(--kz-azul);
+            box-shadow: 0 1px 4px rgba(0,0,0,0.06); transition: transform 0.15s;
+        }
+        .kpi-card:hover { transform: translateY(-1px); }
+        .kpi-card.rojo { border-left-color: var(--kz-rojo); }
+        .kpi-card.medio { border-left-color: var(--kz-azul-medio); }
+        .kpi-card.claro { border-left-color: var(--kz-azul-claro); }
+        .kpi-card.naranja { border-left-color: var(--kz-naranja); }
+        .kpi-card .value { font-size: 1.8rem; font-weight: 700; color: var(--kz-azul); }
+        .kpi-card.rojo .value { color: var(--kz-rojo); }
+        .kpi-card.medio .value { color: var(--kz-azul-medio); }
+        .kpi-card.claro .value { color: var(--kz-azul-claro); }
+        .kpi-card.naranja .value { color: var(--kz-naranja); }
+        .kpi-card .label { font-size: 0.75rem; color: #666; text-transform: uppercase; letter-spacing: 0.5px; }
+
+        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; margin-bottom: 1.25rem; }
+        .chart-card { background: white; padding: 1rem; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+        .chart-card h3 {
+            font-size: 0.88rem; color: var(--kz-azul); margin-bottom: 0.7rem;
+            border-bottom: 1px solid #eee; padding-bottom: 0.4rem;
+        }
+        .chart-card canvas { width: 100% !important; max-height: 300px; }
+        .chart-note { font-size: 0.72rem; color: #999; margin-top: 0.4rem; }
+
+        /* ===== INFORMES TABLE ===== */
+        .reports-table-wrapper { padding: 1.25rem; }
+        .search-bar { display: flex; gap: 0.75rem; margin-bottom: 0.75rem; align-items: center; }
+        .search-bar input { flex: 1; padding: 0.5rem 0.75rem; border: 1px solid #ccc; border-radius: 4px; font-size: 0.88rem; }
+        .search-bar .result-count { font-size: 0.78rem; color: #888; white-space: nowrap; }
+        .btn-excel {
+            background: var(--kz-azul); color: white; border: none; padding: 0.5rem 1rem;
+            border-radius: 4px; cursor: pointer; font-size: 0.82rem; white-space: nowrap;
+        }
+        .btn-excel:hover { background: var(--kz-azul-medio); }
+        table.reports-table { width: 100%; border-collapse: collapse; background: white; font-size: 0.83rem; }
+        table.reports-table th {
+            background: var(--kz-azul); color: white; padding: 0.55rem 0.7rem; text-align: left;
+            font-weight: 500; position: sticky; top: 0; cursor: pointer; white-space: nowrap; z-index: 2;
+        }
+        table.reports-table th:hover { background: var(--kz-azul-medio); }
+        table.reports-table td { padding: 0.45rem 0.7rem; border-bottom: 1px solid #eee; }
+        table.reports-table tr { cursor: pointer; transition: background 0.15s; }
+        table.reports-table tbody tr:hover { background: #e8f0fe; }
+
+        /* ===== BADGES ===== */
+        .badge { display: inline-block; padding: 0.12rem 0.45rem; border-radius: 3px; font-size: 0.72rem; font-weight: 500; }
+        .badge-sin { background: #f0f0f0; color: #666; }
+        .badge-grave { background: #fff3e0; color: #e65100; }
+        .badge-mortal { background: #fce4ec; color: #c62828; }
+
+        /* ===== DETAIL PANEL ===== */
+        .detail-panel-overlay {
+            display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.35); z-index: 2000; animation: fadeIn 0.2s ease;
+        }
+        .detail-panel-overlay.open { display: block; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        @keyframes slideIn { from { transform: translateX(100%); } to { transform: translateX(0); } }
+
+        .detail-panel {
+            display: none; position: fixed; top: 0; right: 0; bottom: 0; width: 560px; max-width: 95vw;
+            background: white; z-index: 2001; box-shadow: -4px 0 20px rgba(0,0,0,0.2);
+            overflow-y: auto; animation: slideIn 0.3s ease;
+        }
+        .detail-panel-header {
+            background: var(--kz-azul); color: white; padding: 1rem 1.25rem;
+            display: flex; align-items: flex-start; justify-content: space-between; position: sticky; top: 0; z-index: 10;
+        }
+        .detail-panel-header h2 { font-size: 1rem; font-weight: 600; margin: 0; }
+        .detail-panel-header .detail-id { font-size: 0.8rem; opacity: 0.85; margin-top: 0.2rem; }
+        .detail-panel-close {
+            background: rgba(255,255,255,0.15); border: none; color: white; font-size: 1.3rem;
+            cursor: pointer; width: 32px; height: 32px; border-radius: 4px; display: flex;
+            align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.15s;
+        }
+        .detail-panel-close:hover { background: rgba(255,255,255,0.3); }
+
+        .detail-panel-body { padding: 1.25rem; }
+        .detail-section { margin-bottom: 1.25rem; }
+        .detail-section h3 {
+            font-size: 0.82rem; text-transform: uppercase; color: var(--kz-azul); margin-bottom: 0.5rem;
+            letter-spacing: 0.5px; border-bottom: 2px solid var(--kz-azul-claro); padding-bottom: 0.3rem;
+        }
+        .detail-info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem 1rem; }
+        .detail-info-item { font-size: 0.83rem; }
+        .detail-info-item .di-label { font-weight: 600; color: #555; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.3px; }
+        .detail-info-item .di-value { color: var(--kz-text); margin-top: 0.1rem; }
+
+        .detail-resumen {
+            background: #f0f4f8; padding: 0.75rem; border-radius: 4px; font-size: 0.83rem;
+            line-height: 1.5; color: #444; max-height: 200px; overflow-y: auto;
+        }
+
+        .detail-list { list-style: none; padding: 0; }
+        .detail-list li {
+            padding: 0.5rem 0.75rem; border-bottom: 1px solid #f0f0f0; font-size: 0.82rem;
+            line-height: 1.4; position: relative; padding-left: 1.5rem;
+        }
+        .detail-list li::before {
+            content: ''; position: absolute; left: 0.4rem; top: 0.75rem;
+            width: 6px; height: 6px; border-radius: 50%; background: var(--kz-rojo);
+        }
+        .detail-empty { color: #999; font-style: italic; font-size: 0.82rem; padding: 0.5rem 0; }
+
+        .detail-link-btn {
+            display: inline-flex; align-items: center; gap: 0.4rem;
+            background: var(--kz-azul); color: white; text-decoration: none;
+            padding: 0.5rem 1rem; border-radius: 4px; font-size: 0.85rem; font-weight: 500;
+            transition: background 0.15s;
+        }
+        .detail-link-btn:hover { background: var(--kz-azul-medio); }
+
+        /* ===== LOADING ===== */
+        .loading-overlay {
+            position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(255,255,255,0.92); display: flex; align-items: center; justify-content: center; z-index: 9999;
+        }
+        .loading-overlay.hidden { display: none; }
+        .spinner {
+            width: 40px; height: 40px; border: 4px solid #e0e0e0; border-top: 4px solid var(--kz-azul);
+            border-radius: 50%; animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 1024px) { .sidebar { width: 220px; } }
+        @media (max-width: 900px) {
+            .sidebar { display: none; }
+            .chart-row { grid-template-columns: 1fr; }
+            .kpi-row { grid-template-columns: repeat(2, 1fr); }
+            .detail-panel { width: 100vw; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- Loading overlay -->
+<div class="loading-overlay" id="loadingOverlay">
+    <div style="text-align:center">
+        <div class="spinner"></div>
+        <p style="margin-top:1rem;color:var(--kz-azul);font-size:0.9rem">Cargando informes de investigación ferroviaria...</p>
+    </div>
+</div>
+
+<!-- Header -->
+<header class="app-header">
+    <div>
+        <h1>🚂 ERA Visor — Accidentes ferroviarios en Europa</h1>
+        <div class="subtitle">Informes de investigación de accidentes e incidentes ferroviarios · 30 países</div>
+    </div>
+    <a href="https://www.era.europa.eu/era-folder/accident-investigation-reports" target="_blank">Fuente: ERA / eRAIL ↗</a>
+</header>
+
+<!-- Tabs -->
+<nav class="tabs-bar" id="tabsBar">
+    <div class="tab active" data-tab="mapa">🗺️ Mapa</div>
+    <div class="tab" data-tab="dashboard">📊 Dashboard</div>
+    <div class="tab" data-tab="informes">📋 Informes</div>
+</nav>
+
+<!-- Main -->
+<div class="main-layout">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+        <h3>Filtros</h3>
+        <label>País</label>
+        <select id="filterPais"><option value="">Todos</option></select>
+
+        <label>Tipo de suceso</label>
+        <select id="filterType"><option value="">Todos</option></select>
+
+        <label>Año desde</label>
+        <input type="range" id="yearMin">
+        <div class="range-values"><span id="yearMinVal">—</span><span id="yearMaxTop">—</span></div>
+        <label>Año hasta</label>
+        <input type="range" id="yearMax">
+        <div class="range-values"><span id="yearMinTop">—</span><span id="yearMaxVal">—</span></div>
+
+        <h3>Víctimas</h3>
+        <div class="chk"><input type="checkbox" id="filterVictimas"> Solo con víctimas</div>
+        <div class="chk"><input type="checkbox" id="filterInforme"> Solo con informe PDF</div>
+
+        <h3>Búsqueda</h3>
+        <input type="text" id="filterSearch" placeholder="Título, estación, provincia…">
+
+        <div class="filter-count" id="filterCount">Cargando...</div>
+        <button class="btn-reset" onclick="resetFilters()">Restablecer filtros</button>
+    </aside>
+
+    <!-- Content -->
+    <main class="content">
+        <!-- MAP TAB -->
+        <div class="tab-content active" id="tab-mapa">
+            <div id="map"></div>
+            <div class="map-legend">
+                <h4>Leyenda</h4>
+                <div class="legend-item"><span class="legend-dot" style="background:#CB1823"></span> Con fallecidos</div>
+                <div class="legend-item"><span class="legend-dot" style="background:#e65100"></span> Con heridos graves</div>
+                <div class="legend-item"><span class="legend-dot" style="background:#3463AC"></span> Sin víctimas</div>
+            </div>
+        </div>
+
+        <!-- DASHBOARD TAB -->
+        <div class="tab-content" id="tab-dashboard">
+            <div class="dashboard-grid">
+                <div class="kpi-row" id="kpiRow">
+                    <div class="kpi-card">
+                        <div class="value" id="kpiTotal">-</div>
+                        <div class="label">Total Informes</div>
+                    </div>
+                    <div class="kpi-card rojo">
+                        <div class="value" id="kpiFallecidos">-</div>
+                        <div class="label">Fallecidos</div>
+                    </div>
+                    <div class="kpi-card naranja">
+                        <div class="value" id="kpiHeridos">-</div>
+                        <div class="label">Heridos graves</div>
+                    </div>
+                    <div class="kpi-card medio">
+                        <div class="value" id="kpiRecomendaciones">-</div>
+                        <div class="label">Recomendaciones</div>
+                    </div>
+                    <div class="kpi-card claro">
+                        <div class="value" id="kpiPaises">-</div>
+                        <div class="label">Países</div>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Sucesos por año</h3>
+                        <canvas id="chAnio"></canvas>
+                        <div class="chart-note" id="chAnioNota"></div>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Fallecidos por año</h3>
+                        <canvas id="chFallecidos"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Por tipo de suceso</h3>
+                        <canvas id="chTipo"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Por país</h3>
+                        <canvas id="chPais"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- INFORMES TAB -->
+        <div class="tab-content" id="tab-informes">
+            <div class="reports-table-wrapper">
+                <div class="search-bar">
+                    <input type="text" id="tableSearch" placeholder="Buscar en la tabla...">
+                    <span class="result-count" id="resultCount"></span>
+                    <button class="btn-excel" onclick="exportarExcel()">⬇ Exportar Excel (selección actual)</button>
+                </div>
+                <table class="reports-table" id="tablaInformes">
+                    <thead><tr>
+                        <th data-k="fecha">Fecha</th>
+                        <th data-k="pais">País</th>
+                        <th data-k="titulo">Título</th>
+                        <th data-k="tipo">Tipo</th>
+                        <th data-k="fallecidos">Fallecidos</th>
+                        <th data-k="heridos_graves">Heridos graves</th>
+                        <th>Informe</th>
+                    </tr></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+</div>
+
+<!-- Detail panel -->
+<div class="detail-panel-overlay" id="detailOverlay" onclick="cerrarDetalle()"></div>
+<div class="detail-panel" id="detailPanel">
+    <div class="detail-panel-header">
+        <div>
+            <h2 id="dpTitulo"></h2>
+            <div class="detail-id" id="dpId"></div>
+        </div>
+        <button class="detail-panel-close" onclick="cerrarDetalle()">✕</button>
+    </div>
+    <div class="detail-panel-body" id="dpBody"></div>
+</div>
+
+<footer style="padding:0.7rem 1.5rem;background:white;border-top:1px solid var(--kz-border);font-size:0.72rem;color:var(--kz-text-light)">
+    Hecho con ❤️ por David Antizar · Datos: ERA (Agencia de Ferrocarriles de la UE) y organismos nacionales de investigación · El enlace al informe original acompaña a cada ficha
+</footer>
+
+<script>
+const TIPOS_ES = {
+    "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
+    "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
+};
+let TODO = [];
+let VISTA = [];
+let mapa, cluster;
+let chartAnio, chartFallecidos, chartTipo, chartPais;
+let ordenTabla = { k: 'fecha', asc: false };
+
+/* ===== MAPA ===== */
+let capasBase = {};
+function initMapa() {
+    mapa = L.map('map').setView([48, 8], 4);
+    capasBase.osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18, attribution: '© OpenStreetMap'
+    }).addTo(mapa);
+    // Capas ADIF (WMS) — red ferroviaria española con trazado real
+    capasBase.vias = L.tileLayer.wms('https://ideadif.adif.es/gservices/Tramificacion/wms', {
+        layers: 'TramificacionComun', format: 'image/png', transparent: true,
+        version: '1.3.0', opacity: 0.9, attribution: 'IDEADIF © Adif'
+    }).addTo(mapa);
+    // Selector de capas (vías ADIF como overlay activable)
+    L.control.layers({ 'OpenStreetMap': capasBase.osm }, { 'Vías ADIF': capasBase.vias },
+        { collapsed: true }).addTo(mapa);
+    cluster = L.markerClusterGroup();
+    mapa.addLayer(cluster);
+}
+
+function colorPunto(r) {
+    if (r.fallecidos > 0) return '#CB1823';
+    if (r.heridos_graves > 0) return '#e65100';
+    return '#3463AC';
+}
+
+function pintarMapa() {
+    cluster.clearLayers();
+    let n = 0;
+    for (const r of VISTA) {
+        if (r.lat && r.lng) {
+            n++;
+            L.circleMarker([r.lat, r.lng], {
+                radius: 6 + Math.min(10, (r.fallecidos || 0) * 2),
+                color: '#fff', weight: 1.5, fillColor: colorPunto(r), fillOpacity: 0.85
+            }).bindPopup(`<div class="popup-content">
+                <h4>${r.titulo || 'Informe'}</h4>
+                <p><span class="detail-label">${r.fecha || ''} · ${r.pais}</span></p>
+                <p>${r.estacion || r.ubicacion_nombre || ''}</p>
+                <span class="popup-link" onclick='verDetalle("${r.id}")'>Ver ficha completa</span>
+            </div>`).addTo(cluster);
+        }
+    }
+}
+
+/* ===== FILTROS ===== */
+function aplicaFiltros() {
+    const pais = document.getElementById('filterPais').value;
+    const tipo = document.getElementById('filterType').value;
+    const a1 = Math.min(+document.getElementById('yearMin').value, +document.getElementById('yearMax').value);
+    const a2 = Math.max(+document.getElementById('yearMin').value, +document.getElementById('yearMax').value);
+    const conVic = document.getElementById('filterVictimas').checked;
+    const conInf = document.getElementById('filterInforme').checked;
+    const q = (document.getElementById('filterSearch').value || '').toLowerCase();
+    const q2 = (document.getElementById('tableSearch').value || '').toLowerCase();
+
+    VISTA = TODO.filter(r => {
+        const a = +(r.fecha || '').slice(0, 4);
+        if (pais && r.pais !== pais) return false;
+        if (tipo && r.tipo !== tipo) return false;
+        if (a && (a < a1 || a > a2)) return false;
+        if (conVic && !((r.fallecidos || 0) > 0 || (r.heridos_graves || 0) > 0)) return false;
+        if (conInf && !r.url_pdf) return false;
+        const texto = `${r.titulo} ${r.estacion || ''} ${r.provincia || ''} ${r.ubicacion_nombre || ''}`.toLowerCase();
+        if (q && !texto.includes(q)) return false;
+        if (q2 && !texto.includes(q2)) return false;
+        return true;
+    });
+    pinta();
+}
+
+function pinta() {
+    // contador
+    document.getElementById('filterCount').textContent = `${VISTA.length} de ${TODO.length} informes`;
+    document.getElementById('resultCount').textContent = `${VISTA.length} resultados`;
+
+    pintarMapa();
+    pintaDashboard();
+    pintaTabla();
+}
+
+/* ===== DASHBOARD ===== */
+function pintaDashboard() {
+    const fall = VISTA.reduce((a, r) => a + (r.fallecidos || 0), 0);
+    const her = VISTA.reduce((a, r) => a + (r.heridos_graves || 0), 0);
+    document.getElementById('kpiTotal').textContent = VISTA.length;
+    document.getElementById('kpiFallecidos').textContent = fall;
+    document.getElementById('kpiHeridos').textContent = her;
+    document.getElementById('kpiPaises').textContent = new Set(VISTA.map(r => r.pais)).size;
+    document.getElementById('kpiRecomendaciones').textContent = '—';
+
+    // sucesos por año + regresión lineal
+    const porAnio = {};
+    for (const r of VISTA) { const a = (r.fecha || '').slice(0, 4); if (a) porAnio[a] = (porAnio[a] || 0) + 1; }
+    const anios = Object.keys(porAnio).sort();
+    const datos = anios.map(a => porAnio[a]);
+    if (chartAnio) chartAnio.destroy();
+    let dsAnio = [{ label: 'Sucesos', data: datos, backgroundColor: '#1A4488' }];
+    if (anios.length >= 3) {
+        // regresión lineal simple sobre (i, dato)
+        const n = datos.length;
+        const sx = anios.map((_, i) => i).reduce((a, b) => a + b, 0);
+        const sy = datos.reduce((a, b) => a + b, 0);
+        const sxy = anios.map((_, i) => i * datos[i]).reduce((a, b) => a + b, 0);
+        const sxx = anios.map((_, i) => i * i).reduce((a, b) => a + b, 0);
+        const pend = (n * sxy - sx * sy) / (n * sxx - sx * sx || 1);
+        const inter = (sy - pend * sx) / n;
+        dsAnio.push({ label: 'Tendencia', data: anios.map((_, i) => +(inter + pend * i).toFixed(1)),
+            type: 'line', borderColor: '#CB1823', borderDash: [6, 4], pointRadius: 0, fill: false });
+        const dir = pend < -0.05 ? 'descendente' : pend > 0.05 ? 'ascendente' : 'estable';
+        document.getElementById('chAnioNota').textContent = `Tendencia ${dir} (${pend >= 0 ? '+' : ''}${pend.toFixed(2)} sucesos/año)`;
+    }
+    chartAnio = new Chart(document.getElementById('chAnio'), {
+        type: 'bar', data: { labels: anios, datasets: dsAnio },
+        options: { plugins: { legend: { display: dsAnio.length > 1 } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+    });
+
+    // fallecidos por año
+    const porAnioF = {};
+    for (const r of VISTA) { const a = (r.fecha || '').slice(0, 4); if (a) porAnioF[a] = (porAnioF[a] || 0) + (r.fallecidos || 0); }
+    if (chartFallecidos) chartFallecidos.destroy();
+    chartFallecidos = new Chart(document.getElementById('chFallecidos'), {
+        type: 'bar', data: { labels: anios, datasets: [{ label: 'Fallecidos', data: anios.map(a => porAnioF[a] || 0), backgroundColor: '#CB1823' }] },
+        options: { plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true, ticks: { precision: 0 } } } }
+    });
+
+    // por tipo
+    const porTipo = {};
+    for (const r of VISTA) { const t = TIPOS_ES[r.tipo] || r.tipo || 'Otro'; porTipo[t] = (porTipo[t] || 0) + 1; }
+    const tt = Object.entries(porTipo).sort((a, b) => b[1] - a[1]).slice(0, 10);
+    if (chartTipo) chartTipo.destroy();
+    chartTipo = new Chart(document.getElementById('chTipo'), {
+        type: 'bar', data: { labels: tt.map(x => x[0]), datasets: [{ data: tt.map(x => x[1]), backgroundColor: '#3463AC' }] },
+        options: { indexAxis: 'y', plugins: { legend: { display: false } } }
+    });
+
+    // por país
+    const porPais = {};
+    for (const r of VISTA) porPais[r.pais] = (porPais[r.pais] || 0) + 1;
+    const pp = Object.entries(porPais).sort((a, b) => b[1] - a[1]).slice(0, 12);
+    if (window.chartPais) window.chartPais.destroy();
+    window.chartPais = new Chart(document.getElementById('chPais'), {
+        type: 'bar', data: { labels: pp.map(x => x[0]), datasets: [{ data: pp.map(x => x[1]), backgroundColor: '#6B96CF' }] },
+        options: { indexAxis: 'y', plugins: { legend: { display: false } } }
+    });
+}
+
+/* ===== TABLA ===== */
+function pintaTabla() {
+    const tb = document.querySelector('#tablaInformes tbody');
+    tb.innerHTML = '';
+    const filas = [...VISTA].sort((a, b) => {
+        const va = a[ordenTabla.k] ?? '', vb = (b[ordenTabla.k] ?? '');
+        const cmp = String(vb).localeCompare(String(va));
+        return ordenTabla.asc ? -cmp : cmp;
+    });
+    for (const r of filas.slice(0, 500)) {
+        const tr = document.createElement('tr');
+        tr.onclick = () => verDetalle(r.id);
+        const sev = r.fallecidos > 0 ? '<span class="badge badge-mortal">' + r.fallecidos + '</span>'
+            : r.heridos_graves > 0 ? '<span class="badge badge-grave">' + r.heridos_graves + '</span>'
+            : '<span class="badge badge-sin">0</span>';
+        tr.innerHTML = `<td>${r.fecha || '—'}</td><td>${r.pais}</td><td>${(r.titulo || '').slice(0, 100)}</td>
+            <td>${TIPOS_ES[r.tipo] || r.tipo || '—'}</td>
+            <td style="text-align:center">${sev}</td>
+            <td style="text-align:center">${r.heridos_graves || 0}</td>
+            <td>${r.url_pdf ? '<a href="' + r.url_pdf + '" target="_blank" onclick="event.stopPropagation()">PDF ↗</a>' : ''}</td>`;
+        tb.appendChild(tr);
+    }
+}
+
+/* ===== DETALLE ===== */
+async function verDetalle(id) {
+    const r = TODO.find(x => x.id === id);
+    if (!r) return;
+    // el JSON completo vive en data/db/reports/ES.json (cargado al inicio) o en json/
+    let full = r;
+    try {
+        const resp = await fetch(`../data/db/reports/${r.pais}.json`);
+        if (resp.ok) {
+            const regs = await resp.json();
+            full = regs.find(x => x.id === id) || r;
+        }
+    } catch (e) {}
+    const er = full.erail || {};
+    document.getElementById('dpTitulo').textContent = full.titulo || r.titulo || 'Informe';
+    document.getElementById('dpId').textContent = `${full.expediente || r.expediente || r.id} · ${r.pais} · ${r.fecha || full.fecha_suceso || ''}`;
+    const info = (l, v) => v ? `<div class="detail-info-item"><div class="di-label">${l}</div><div class="di-value">${v}</div></div>` : '';
+    const seccion = (t, c) => c ? `<div class="detail-section"><h3>${t}</h3>${c}</div>` : '';
+    const erCausa = er['Direct cause description (including causal and contributing factors, excluding those of systemic nature)'];
+    const erSistem = er['Underlying and root causes description (i.e. systemic factors, if any)'];
+    const tags = (full.tags || []).map(t => `<span class="detail-tag">${t}</span>`).join('');
+    const trenes = (full.trenes || []).map(t =>
+        `<div class="di-value">🚆 ${t.tipo || 'Tren'} ${t.numero || ''}${t.operador ? ' — ' + t.operador : ''}</div>`).join('');
+    document.getElementById('dpBody').innerHTML = `
+        ${full.resumen ? seccion('Resumen', `<div class="detail-resumen">${full.resumen}</div>`) : ''}
+        <div class="detail-section"><h3>Datos del suceso</h3><div class="detail-info-grid">
+            ${info('Tipo', TIPOS_ES[full.tipo] || full.tipo)}
+            ${info('Fecha', full.fecha || full.fecha_suceso)}
+            ${info('Hora', full.hora)}
+            ${info('Ubicación', [full.estacion, full.provincia, full.pk ? 'PK ' + full.pk : ''].filter(Boolean).join(' · ') || full.ubicacion_nombre)}
+            ${info('Línea', full.linea)}
+            ${info('Gravedad', full.gravedad)}
+            ${info('Fallecidos', full.fallecidos || 0)}
+            ${info('Heridos graves', full.heridos_graves || 0)}
+            ${full.danos_materiales != null ? info('Daños materiales', full.danos_materiales ? 'Sí' : 'No') : ''}
+            ${info('Expediente', full.expediente)}
+            ${info('ID eRAIL', full.erail_id)}
+        </div></div>
+        ${trenes ? seccion('Trenes implicados', trenes) : ''}
+        ${(full.descripcion || full.resumen && full.descripcion !== full.resumen) ? seccion('Descripción', `<div class="detail-resumen">${full.descripcion || ''}</div>`) : ''}
+        ${(full.causa_directa || erCausa) ? seccion('Causa directa', `<div class="detail-resumen">${full.causa_directa || erCausa}</div>`) : ''}
+        ${(full.causas_sistemicas || erSistem) ? seccion('Causas sistémicas', `<div class="detail-resumen">${full.causas_sistemicas || erSistem}</div>`) : ''}
+        ${(full.conclusiones && full.conclusiones.length) ? seccion('Conclusiones', `<ul class="detail-list">${full.conclusiones.map(x => `<li>${x}</li>`).join('')}</ul>`) : ''}
+        ${(full.entidades && full.entidades.length) ? seccion('Entidades implicadas', `<div class="detail-tags">${full.entidades.map(e => `<span class="detail-tag">${e}</span>`).join('')}</div>`) : ''}
+        ${(full.recomendaciones && full.recomendaciones.length) ? seccion('Recomendaciones de seguridad', `<ul class="detail-list recommendations">${full.recomendaciones.map(x => `<li>${typeof x === 'string' ? x : (x.texto || JSON.stringify(x))}</li>`).join('')}</ul>`) : ''}
+        ${tags ? seccion('Conceptos', `<div class="detail-tags">${tags}</div>`) : ''}
+        <div class="detail-section">
+            ${full.url_pdf || r.url_pdf ? `<a class="detail-link-btn" href="${full.url_pdf || r.url_pdf}" target="_blank">📄 Informe original (PDF)</a>` : '<span class="detail-empty">Sin PDF vinculado</span>'}
+        </div>`;
+    document.getElementById('detailOverlay').style.display = 'block';
+    document.getElementById('detailPanel').style.display = 'block';
+}
+function cerrarDetalle() {
+    document.getElementById('detailOverlay').style.display = 'none';
+    document.getElementById('detailPanel').style.display = 'none';
+}
+
+/* ===== EXPORT ===== */
+function exportarExcel() {
+    const ws = XLSX.utils.json_to_sheet(VISTA.map(r => ({
+        'Fecha': r.fecha, 'País': r.pais, 'Título': r.titulo, 'Tipo': TIPOS_ES[r.tipo] || r.tipo,
+        'Estación': r.estacion, 'Provincia': r.provincia, 'PK': r.pk, 'Línea': r.linea,
+        'Fallecidos': r.fallecidos || 0, 'Heridos graves': r.heridos_graves || 0,
+        'Informe (PDF)': r.url_pdf || '', 'ID eRAIL': r.erail_id || ''
+    })));
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, 'Sucesos');
+    XLSX.writeFile(wb, `era-visor-${new Date().toISOString().slice(0, 10)}.xlsx`);
+}
+
+/* ===== RESET ===== */
+function resetFilters() {
+    document.getElementById('filterPais').value = '';
+    document.getElementById('filterType').value = '';
+    document.getElementById('filterVictimas').checked = false;
+    document.getElementById('filterInforme').checked = false;
+    document.getElementById('filterSearch').value = '';
+    document.getElementById('tableSearch').value = '';
+    const r1 = document.getElementById('yearMin'), r2 = document.getElementById('yearMax');
+    r1.value = r1.min; r2.value = r2.max;
+    document.getElementById('yearMinVal').textContent = r1.min;
+    document.getElementById('yearMaxVal').textContent = r2.max;
+    aplicaFiltros();
+}
+
+/* ===== CARGA ===== */
+async function cargar() {
+    const idx = await (await fetch('../data/db/index.json')).json();
+    const paises = [...new Set(idx.map(r => r.pais))];
+    for (const p of paises) {
+        try {
+            const d = await (await fetch(`../data/db/reports/${p}.json`)).json();
+            TODO = TODO.concat(d);
+        } catch (e) {}
+    }
+    // filtros
+    const selP = document.getElementById('filterPais');
+    for (const p of paises) selP.insertAdjacentHTML('beforeend', `<option>${p}</option>`);
+    const tipos = [...new Set(TODO.map(r => r.tipo))].sort();
+    const selT = document.getElementById('filterType');
+    for (const t of tipos) selT.insertAdjacentHTML('beforeend', `<option value="${t}">${TIPOS_ES[t] || t}</option>`);
+    // años
+    const anios = TODO.map(r => +(r.fecha || '').slice(0, 4)).filter(Boolean);
+    const amin = Math.min(...anios), amax = Math.max(...anios);
+    const r1 = document.getElementById('yearMin'), r2 = document.getElementById('yearMax');
+    r1.min = r2.min = amin; r1.max = r2.max = amax; r1.value = amin; r2.value = amax;
+    document.getElementById('yearMinVal').textContent = amin;
+    document.getElementById('yearMaxVal').textContent = amax;
+    document.getElementById('yearMinTop').textContent = amin;
+    document.getElementById('yearMaxTop').textContent = amax;
+    const refrescaAnios = () => {
+        const v1 = Math.min(+r1.value, +r2.value), v2 = Math.max(+r1.value, +r2.value);
+        document.getElementById('yearMinVal').textContent = v1;
+        document.getElementById('yearMaxVal').textContent = v2;
+        document.getElementById('yearMinTop').textContent = v1;
+        document.getElementById('yearMaxTop').textContent = v2;
+    };
+    r1.oninput = r2.oninput = () => { refrescaAnios(); aplicaFiltros(); };
+    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme'].forEach(id =>
+        document.getElementById(id).onchange = aplicaFiltros);
+    document.getElementById('filterSearch').oninput = aplicaFiltros;
+    document.getElementById('tableSearch').oninput = aplicaFiltros;
+    // orden por columnas
+    document.querySelectorAll('#tablaInformes th[data-k]').forEach(th => th.onclick = () => {
+        const k = th.dataset.k;
+        if (ordenTabla.k === k) ordenTabla.asc = !ordenTabla.asc; else ordenTabla = { k, asc: false };
+        pintaTabla();
+    });
+    aplicaFiltros();
+    document.getElementById('loadingOverlay').classList.add('hidden');
+}
+
+/* ===== TABS ===== */
+document.querySelectorAll('.tabs-bar .tab').forEach(tab => tab.onclick = () => {
+    document.querySelectorAll('.tabs-bar .tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
+    if (tab.dataset.tab === 'mapa') setTimeout(() => mapa.invalidateSize(), 50);
+});
+
+initMapa();
+cargar();
+</script>
+</body>
+</html>

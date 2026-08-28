@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-114-2023",
+ "pais": "ES",
+ "expediente": "114/2023",
+ "titulo": "IF 114/2023 — Descarrilamiento de tren",
+ "fecha_suceso": "2023-11-26",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "avería",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Atocha-Cercanías",
+  "provincia": "Desconocida",
+  "lat": 40.4065,
+  "lng": -3.692
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 26 de noviembre de 2023, un descarrilamiento parcial del tren 00271 en la estación de Atocha-Cercanías (Madrid) provocó 14 heridos leves y daños materiales significativos. La causa principal fue la rotura del espadín derecho T10A de la travesía T10, fenómeno agravado por la alta intensidad de tráfico y las características singulares del diseño de la vía. Este fallo estructural se vio favorecido por una gestión sistémica del ciclo de vida de los elementos críticos que priorizó la disponibilidad de medios sobre los estudios de riesgo en el mantenimiento preventivo.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................13\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante .............",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [
+  "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+  "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos.",
+  "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales disponibles."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "114/2023-1",
+   "texto": "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+   "implementador": ""
+  },
+  {
+   "numero": "114/2023-2",
+   "texto": "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos.",
+   "implementador": ""
+  },
+  {
+   "numero": "114/2023-3",
+   "texto": "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales disponibles.",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "avería",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

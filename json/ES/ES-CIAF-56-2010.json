@@ -1,0 +1,72 @@
+{
+ "id": "ES-CIAF-56-2010",
+ "pais": "ES",
+ "expediente": "0056/2010",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0056/2010 ocurrido el día 19.10.2010 entre las estaciones de Gijón y Sotiello (Asturias)",
+ "fecha_suceso": "2010-10-19",
+ "hora": "15:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Gijón y Sotiello",
+  "provincia": "Asturias",
+  "lat": 43.2833,
+  "lng": -5.7833
+ },
+ "pk": "PK 1+057 (Señal S2/P de Gijón)",
+ "linea": "61 Gijón - Laviana",
+ "trenes": [
+  {
+   "numero": "4519",
+   "operador": "Feve",
+   "tipo": "Tren de viajeros de cercanías, tipo 100 (UTE 3638 en cabeza)"
+  },
+  {
+   "numero": "5418",
+   "operador": "Feve",
+   "tipo": "Tren de viajeros de cercanías, tipo 100 (UTE 3636 en cabeza)"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 19 de octubre de 2010, entre las estaciones de Gijón y Sotiello (Asturias), se produjo un conato de colisión entre dos trenes de cercanías de Feve que no causó víctimas ni daños materiales. La causa principal fue la autorización del rebase de la señal de salida hacia un cantón ya ocupado por otro tren debido a una avería en el sistema de bloqueo.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS.......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES............................................................................................................",
+ "causa_directa": "Autorización incorrecta de rebase de señales",
+ "conclusiones": [
+  "El conato de colisión tuvo su origen al autorizar el personal responsable de la circulación el rebase de la señal S2/P al tren 4519 hacia un cantón ocupado por el tren 5418."
+ ],
+ "recomendaciones": [
+  "Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal responsable de la circulación, principalmente en situaciones degradadas debidas a averías en los sistemas de seguridad que controlan la circulación de los trenes.",
+  "En los programas de formación y reciclaje del personal de circulación se deberán incluir prácticas de circulación en situaciones degradadas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "56/10-1",
+   "destinatario": "Feve",
+   "texto": "Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal responsable de la circulación, principalmente en situaciones degradadas debidas a averías en los sistemas de seguridad que controlan la circulación de los trenes."
+  },
+  {
+   "numero": "56/10-2",
+   "destinatario": "Feve",
+   "texto": "En los programas de formación y reciclaje del personal de circulación se deberán incluir prácticas de circulación en situaciones degradadas."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

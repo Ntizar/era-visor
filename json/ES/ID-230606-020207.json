@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-230606-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-230606-020207.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-16",
+ "expediente": "0027/2006",
+ "titulo": "Arrollamiento de una persona por tren de Cercanías en Cornellá (Barcelona)",
+ "fecha_suceso": "2006-06-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Cornellá",
+  "provincia": "Barcelona",
+  "pk": "92,700",
+  "linea": "Tarragona-Barcelona-Francia"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "Un tren de Cercanías arrolló a un joven de 17 años que transitaba indebidamente por la vía entre las estaciones de Cornellá y Hospitalet. El accidente ocurrió durante la noche de la verbena de San Juan, cuando el grupo de amigos de la víctima cruzó las vías para dirigirse a unas instalaciones deportivas. A pesar de la actuación del maquinista, quien aplicó el freno de emergencia, no fue posible evitar el impacto debido a la distancia de frenado y las condiciones de visibilidad.",
+ "causa_directa": "Imprudencia por tránsito indebido por la vía por parte de la víctima, quien no libró el gálibo de seguridad al ser golpeada por el tren.",
+ "causas_sistemicas": "Presencia de personas en la infraestructura ferroviaria durante eventos festivos (verbena de San Juan) y condiciones de visibilidad deficientes (noche y curva) que limitaron la capacidad de reacción del conductor.",
+ "recomendaciones": [
+  "Impulsar campañas de concienciación a la población sobre el peligro que supone cruzar las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion at an unauthorised crossing.",
+  "Location name": "Railway line from Tarragona to Barcelona to France at the kilometre point 92,700.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

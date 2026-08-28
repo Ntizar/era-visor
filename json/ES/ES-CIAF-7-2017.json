@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-7-2017",
+ "pais": "ES",
+ "expediente": "0007/2017",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 007/2017 OCURRIDO EL DÍA 15.01.2017 EN LA ESTACIÓN DE ARAHAL (SEVILLA)",
+ "fecha_suceso": "2017-01-15",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Arahal",
+  "provincia": "Sevilla",
+  "lat": 37.2667,
+  "lng": -5.55
+ },
+ "pk": "27+019",
+ "linea": "422 Bifurcación de Utrera a Fuente de Piedra",
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 15 de enero de 2017 en la estación de Arahal (Sevilla) debido a la entrada del tren 13903 por vía desviada a una velocidad superior a la permitida. La causa principal fue el fallo humano del maquinista, quien no respetó las señales de precaución y parada, provocando un fuerte desplazamiento lateral del tren. Como consecuencia, no hubo daños materiales, pero seis viajeros sufrieron contusiones leves que no requirieron atención médica inmediata.",
+ "descripcion": "",
+ "causa_directa": "Fallo humano del maquinista al no respetar las señales",
+ "conclusiones": [
+  "Fallo humano del maquinista del tren de viajeros de media distancia 13903 de RENFE VIAJEROS, cuando entra por vía desviada en la estación de Arahal a velocidad muy superior a la máxima permitida, no respetando lo ordenado por las señales: señal avanzada E’1, en indicación de anuncio de precaución y señal de entrada E1, en anuncio de parada, incumpliendo lo establecido, respectivamente, en el artículo 211 y en el artículo 213 del RGC.",
+  "Inexistencia en el tramo Arahal – Fuente de Piedra de la línea 422 de un sistema de protección del tren que mitigue los posibles errores debidos al factor humano."
+ ],
+ "recomendaciones": [
+  "Agilizar la tramitación del Proyecto “B.L.A.U. con C.T.C. y sistema de protección ASFA digital en el tramo Arahal – Fuente Piedra”, en la actualidad en fase de supervisión, a fin de que con la ejecución de las obras correspondientes se proceda a la supresión del bloqueo telefónico actual sustituyéndolo por un BLAU telemandado desde el CTC de Sevilla.",
+  "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, adecuando el contenido práctico para la habilitación de infraestructura a lo relativo a circulación por éste y por otros tramos que tengan características similares (señalización mecánica sin sistema de protección del tren)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "7/17 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "contenido": "Agilizar la tramitación del Proyecto “B.L.A.U. con C.T.C. y sistema de protección ASFA digital en el tramo Arahal – Fuente Piedra”, en la actualidad en fase de supervisión, a fin de que con la ejecución de las obras correspondientes se proceda a la supresión del bloqueo telefónico actual sustituyéndolo por un BLAU telemandado desde el CTC de Sevilla."
+  },
+  {
+   "numero": "7/17 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / RENFE VIAJEROS",
+   "contenido": "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, adecuando el contenido práctico para la habilitación de infraestructura a lo relativo a circulación por éste y por otros tramos que tengan características similares (señalización mecánica sin sistema de protección del tren)."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "paso a nivel",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-22-2009",
+ "pais": "ES",
+ "expediente": "0022/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0022/2009 OCURRIDO EL DÍA 17.04.2009 EN LA ESTACIÓN DE EL CALEYO (ASTURIAS)",
+ "fecha_suceso": "2009-04-17",
+ "hora": "18:40",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_trenes",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "El Caleyo",
+  "provincia": "Asturias",
+  "lat": 43.3667,
+  "lng": -5.85
+ },
+ "pk": "134+961",
+ "linea": "130 Gijón Cercanías – Venta de Baños",
+ "trenes": [
+  {
+   "numero": "22126",
+   "operador": "Renfe-Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  },
+  {
+   "numero": "22347",
+   "operador": "Renfe-Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 17 de abril de 2009, en la estación de El Caleyo (Asturias), se produjo una colisión frontal entre dos trenes de cercanías de Renfe-Operadora. El suceso no causó víctimas mortales ni heridos, limitándose las consecuencias a daños materiales en la parte frontal de ambos automotores. La causa principal del accidente fue el rebase indevido de la señal de parada por parte del tren 22126, debido al incumplimiento de las órdenes de señalización por parte del personal de conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1  SUCESO.................................................................................................................................................3\n2.2  CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4  CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1  RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2  SISTEMAS DE GESTIÓN DE LA SEGURIDAD........................................",
+ "causa_directa": "Rebase de señal de entrada en indicación de parada",
+ "conclusiones": [
+  "El accidente tuvo su origen en el rebase, por el tren 22126, de la señal de entrada de la estación, que presentaba la indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe-Operadora",
+   "numero": "22/09-1",
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

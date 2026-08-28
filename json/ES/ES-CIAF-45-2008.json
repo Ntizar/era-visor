@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-45-2008",
+ "pais": "ES",
+ "expediente": "0045/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0045/2008 OCURRIDO EL DÍA 28.09.2008",
+ "fecha_suceso": "2008-09-28",
+ "hora": "13:28",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre los apeaderos de San Fernando de Cádiz y Puerto Real",
+  "provincia": "Cádiz",
+  "lat": 36.48842,
+  "lng": -6.162659
+ },
+ "pk": "P.K. 140,750",
+ "linea": "400 Alcázar de San Juan – Cádiz",
+ "trenes": [
+  {
+   "numero": "23219",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 28 de septiembre de 2008 en el punto kilométrico 140,750 de la línea Alcázar de San Juan-Cádiz, entre los apeaderos de San Fernando de Cádiz y Puerto Real. El suceso provocó la muerte inmediata de un hombre que se encontraba en la caja de la vía y no generó daños materiales en el material rodante ni en la infraestructura. La causa principal del accidente fue la ocupación no autorizada de la vía por parte de la víctima, mientras que la actuación del maquinista y el funcionamiento de los sistemas ferroviarios se ajustaron a la normativa vigente.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n28.09.08/ 13:28\nLugar:\nP.K. 140,750 entre los apeaderos de San Fernando de Cádiz y Puerto\nReal.\nTrayecto:\nBahía Sur – Las Aletas\nLínea:\n400 Alcázar de San Juan – Cádiz\nProvincia:\n\nCádiz\nEl tren de viajeros 23219 de Renfe Operadora, compuesto por la UT 463215 ( 3 vehículos con\nmasa remolcada de 154 Tm), procedente del apeadero de San Fernando de Cádiz destino a Puerto\nReal, arrolla a un hombre que se encontraba en la caja de la vía, distraído, de espaldas al tren,\nlanzando piedras.\nEl maquinista hace uso del silbato repetidas veces y acciona el freno de emergencia no pudiendo\nevitar el arrollamiento de la víctima, quedando su cadáver fuera de la caja de la vía.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 28 de septiembre a las 14:28 horas, a través de mensaje de correo electrónico, comunicó a la\nque se había producido el arrollamiento de una\npersona por el tren de",
+ "causa_directa": "Ocupación de la víctima en la caja de la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en la ocupación de la víctima en la caja de la vía, lugar no autorizado para ello, al paso del tren de viajeros 23219."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

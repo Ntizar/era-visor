@@ -1,0 +1,56 @@
+{
+ "id": "ES-CIAF-31-2009",
+ "pais": "ES",
+ "expediente": "0031/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2009 OCURRIDO EL DÍA 06.07.2009 EN EL PASO A NIVEL ENTRE RONDA Y SETENIL (MÁLAGA)",
+ "fecha_suceso": "2009-07-06",
+ "hora": "16:54",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Paso a nivel entre Ronda y Setenil",
+  "provincia": "Málaga",
+  "lat": 36.785492,
+  "lng": -5.143116
+ },
+ "pk": "P.K. 67+916",
+ "linea": "420 Bif. Las Maravillas – Algeciras",
+ "trenes": [
+  {
+   "numero": "149",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 6 de julio de 2009 en el paso a nivel entre Ronda y Setenil (Málaga), donde el tren 149 arrolló a un automóvil que invadió la vía a pesar de las señales de advertencia. El suceso provocó la muerte de la conductora del vehículo y daños materiales en el tren y el coche. La causa principal del accidente fue la invasión del gálibo de la vía por parte del automóvil, que cruzó ignorando las señales acústicas y luminosas que indicaban la proximidad del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo, que cruza por el paso a nivel cuando las señales acústicas y luminosas indicaban la llegada del tren 149."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

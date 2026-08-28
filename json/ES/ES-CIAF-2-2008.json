@@ -1,0 +1,55 @@
+{
+ "id": "ES-CIAF-2-2008",
+ "pais": "ES",
+ "expediente": "0002/2008",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0002/2008 OCURRIDO EL DÍA 26.01.2008",
+ "fecha_suceso": "2008-01-26",
+ "hora": "18:27",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Montefurado y A Rúa Petín",
+  "provincia": "Orense",
+  "lat": 39.9372616,
+  "lng": -0.1004465
+ },
+ "pk": "310/412",
+ "linea": "800 León-La Coruña",
+ "trenes": [
+  {
+   "numero": "12608",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 26 de enero de 2008 en A Rúa Petín, que provocó la muerte de una persona al ser arrollada por el tren 12608. La víctima cruzaba la vía por un lugar no autorizado, lo que constituyó la causa principal del suceso. No se registraron daños materiales en el material rodante ni en la infraestructura.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n26.01.08./ 18:27\nLugar:\nP.K. 310/412 entre las señales de entrada y avanzada de la Estación de A\nRúa Petín.\nLínea:\n800 León-La Coruña.\nTrayecto:\nMotefurado-A Rúa Petín.\nProvincia:\n\nOrense\nEl tren de media distancia 12608, formado por el autopropulsado 440.166-7, que hacía su\nrecorrido de Vigo a Ponferrada, el día 26 de enero de 2008, detuvo su marcha en el P.K. 310/200 por\nhaber arrollado a una persona en el P.K. 310/412, situado entre la señal de Avanzada y de Entrada de\nla estación de A Rúa Petín, trayecto de A Rúa Petín a Montefurado, de la línea de León a La Coruña.\nLa persona accidentada, cruzaba la vía de izquierda a derecha, sentido de la marcha del tren, por\nun lugar no autorizado, en el momento de llegar el tren, lo que produjo su arrollamiento y muerte en\nel acto.\nEl maquinista, una vez detenido el tren, comunica el suceso al Puesto de Mando de León, desde\ndonde se activan los protocolos de actuación para accidentes y se avisa a Centro Permanente de\nSe",
+ "causa_directa": "Cruce de la vía por la víctima en un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la vía por la víctima por un lugar no habilitado para ello, en el momento en que circulaba el tren 12608."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

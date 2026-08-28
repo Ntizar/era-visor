@@ -1,0 +1,70 @@
+{
+ "id": "ES-CIAF-62-2010",
+ "pais": "ES",
+ "expediente": "0062/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2010 OCURRIDO EL DÍA 10.11.2010 EN LA ESTACIÓN DE BETANZOS - INFESTA (A CORUÑA)",
+ "fecha_suceso": "2010-11-10",
+ "hora": "18:20",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Estación Betanzos - Infesta",
+  "provincia": "A Coruña",
+  "lat": 43.2707175,
+  "lng": -8.225834
+ },
+ "pk": "P.K. 524+416",
+ "linea": "800 A Coruña - León",
+ "trenes": [
+  {
+   "numero": "81729",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento ocurrido el 10 de noviembre de 2010 en la estación de Betanzos-Infesta (A Coruña) no provocó víctimas ni daños en la carga, aunque sí afectó a la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío 9. Esta deficiencia provocó la apertura de la vía y la posterior caída de los primeros ejes de la locomotora.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+ "causa_directa": "Fallo técnico en las instalaciones de la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el fallo técnico en las instalaciones de la vía.",
+  "Como consecuencia del deficiente estado de la sujeción del carril de unión del desvío 9 se produjo la apertura de la vía al paso de la locomotora y la posterior caída de los primeros ejes de la misma."
+ ],
+ "recomendaciones": [
+  "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
+  "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "62/10-1",
+   "texto": "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "62/10-2",
+   "texto": "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

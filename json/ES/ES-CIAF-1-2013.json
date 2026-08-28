@@ -1,0 +1,70 @@
+{
+ "id": "ES-CIAF-1-2013",
+ "pais": "ES",
+ "expediente": "0001/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0001/2013 OCURRIDO EL DÍA 09.01.2013 EN LA ESTACIÓN DE VILLAFRANCA DE CÓRDOBA (CÓRDOBA)",
+ "fecha_suceso": "2013-01-09",
+ "hora": "11:22",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Villafranca de Córdoba",
+  "provincia": "Córdoba",
+  "lat": 37.946636,
+  "lng": -4.458448
+ },
+ "pk": "PK 415+648",
+ "linea": "400 Alcázar de San Juan – Cádiz",
+ "trenes": [
+  {
+   "numero": "13096",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia"
+  },
+  {
+   "numero": "695",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 13096 ocurrido el 9 de enero de 2013 en la estación de Villafranca de Córdoba no provocó víctimas ni daños personales graves. La causa principal fue un fallo técnico en las instalaciones, derivado de la rotura del pasador de sujeción del tirante de maniobra del cambio nº 2. Este defecto impidió el encerrojado correcto de la aguja, lo que provocó su apertura durante el paso del tren y el subsiguiente descarrilamiento del segundo bogie.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Fallo técnico de las instalaciones debido a la desconexión de la barra de mando del accionamiento eléctrico de agujas",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo técnico de las instalaciones, debido a la desconexión de la barra de mando del accionamiento eléctrico de agujas con el tirante de maniobra del cambio nº 2, al producirse la rotura del pasador de sujeción del bulón de acople del tirante de maniobra.",
+  "Esto ocasionó que el espadín de la aguja (del lado derecho según el sentido de la marcha) se encontrara acoplado pero no encerrojado, y que al efectuar su paso el primer bogie de la composición, el espadín se abriera provocando el descarrilamiento del segundo bogie."
+ ],
+ "recomendaciones": [
+  "En las operaciones de mantenimiento que se aplican a los cerrojos de uña y cuyas características se controlan mediante el documento PEIS002F01.R06, incluir una operación que complemente la inspección visual que se realiza a los pasadores. Dicha operación consistiría en sacar de su alojamiento los pasadores y comprobar su estado mecánico y de oxidación. La periodicidad de la operación se definiría en función de las características del material y condiciones de explotación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "01/13-1",
+   "texto": "En las operaciones de mantenimiento que se aplican a los cerrojos de uña y cuyas características se controlan mediante el documento PEIS002F01.R06, incluir una operación que complemente la inspección visual que se realiza a los pasadores. Dicha operación consistiría en sacar de su alojamiento los pasadores y comprobar su estado mecánico y de oxidación. La periodicidad de la operación se definiría en función de las características del material y condiciones de explotación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

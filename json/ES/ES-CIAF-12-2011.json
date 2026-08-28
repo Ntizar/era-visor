@@ -1,0 +1,57 @@
+{
+ "id": "ES-CIAF-12-2011",
+ "pais": "ES",
+ "expediente": "12/2011",
+ "titulo": "IF 12/2011 — El día 16 de marzo de 2011, a las 20:19 horas, el tren de viajeros de cercanías 25267, de la empresa",
+ "fecha_suceso": "2011-03-16",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Olesa de Montserrat",
+  "provincia": "Barcelona",
+  "lat": 43.3667,
+  "lng": -4.5833
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 16 de marzo de 2011 entre los apeaderos de Olesa de Montserrat y Vacarisses Torreblanca, donde el tren 25267 colisionó con un desprendimiento de tierras y rocas. La colisión provocó el descarrilamiento de la unidad de cabeza, resultando en heridos leves para el maquinista y diez viajeros, además de daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue la colisión con los obstáculos procedentes del desprendimiento, ante los cuales el maquinista no pudo evitar el impacto a pesar de accionar el freno de emergencia.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": null,
+ "conclusiones": [
+  "A las 20:18:16 horas el tren pasó por la baliza ASFA de la señal intermedia 3245, situada en el PK 324+358, en indicación de vía libre, circulando a la velocidad de 79 km/h.",
+  "Tras recorrer unos 1.000 metros, el maquinista actúa sobre el freno de emergencia a las 20:19:03 horas, a una velocidad de 79 km/h y unos tres segundos después el tren colisiona con obstáculos – tierras y rocas- en el PK 323+320 y seguidamente descarrila a una velocidad de 63 km/h.",
+  "En la UT de cabeza el primer bogie de la composición queda girado 90 grados con relación al sentido de la vía, el segundo bogie se desplaza hacia la izquierda en sentido de la marcha ocupando el gálibo de la vía par, el tercer bogie queda desprendido de la caja, rompiendo todos los elementos del segundo coche que se encuentran situados bajo el habitáculo de viajeros, incluido el cuarto bogie y los bogies quinto y sexto quedan en la vía impar. No se afectó la UT de cola.",
+  "El tren quedó detenido en el PK 323+240, a las 20:19:06 horas.",
+  "Como consecuencia del descarrilamiento resultan heridos leves diez viajeros y el maquinista.",
+  "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
+  "El maquinista hizo uso del freno de emergencia instantes antes del descarrilamiento.",
+  "Los equipos de seguridad del tren funcionaron correctamente.",
+  "La velocidad del tren era inferior a la máxima permitida."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

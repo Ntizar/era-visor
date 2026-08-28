@@ -1,0 +1,57 @@
+{
+ "id": "ES-CIAF-66-2009",
+ "pais": "ES",
+ "expediente": "0066/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0066/2009 OCURRIDO EL DÍA 20.12.2009 EN EL PASO A NIVEL CLASE C EN SANT GUIM DE FREIXENET (LÉRIDA)",
+ "fecha_suceso": "2009-12-20",
+ "hora": "17:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Sant Guim de Freixenet",
+  "provincia": "Lérida",
+  "lat": 41.657569,
+  "lng": 1.420806
+ },
+ "pk": "253+775",
+ "linea": "220 Lérida Pirineos – L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "15624",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia (UT 440235, Tipo 140)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 20 de diciembre de 2009 en el paso a nivel de Sant Guim de Freixenet (Lérida), donde un tren de Renfe Operadora arrolló a un niño de nueve años que cruzaba las vías corriendo. El suceso provocó la muerte de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del accidente fue la actuación de la víctima, quien ignoró las señales de alerta y las semibarreras bajadas al intentar cruzar cuando ya circulaba el tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Actuación de la víctima cruzando la vía con las barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en la actuación de la víctima que cruzaba la vía por el paso a nivel cuando circulaba el tren 15624, estando las barreras bajadas y la señalización alertando de la llegada del mencionado tren."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

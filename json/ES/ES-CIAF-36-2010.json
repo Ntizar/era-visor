@@ -1,0 +1,76 @@
+{
+ "id": "ES-CIAF-36-2010",
+ "pais": "ES",
+ "expediente": "0036/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2010 OCURRIDO EL DÍA 10.07.2010 ENTRE LAS ESTACIONES DE UGAO-MIRABALLES Y LLODIO (ÁLAVA)",
+ "fecha_suceso": "2010-07-10",
+ "hora": "15:51",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre Ugao-Miraballes y Llodio",
+  "provincia": "Álava",
+  "lat": 43.160985,
+  "lng": -2.929483
+ },
+ "pk": "P.K. 230+862",
+ "linea": "700 Intermodal Abando Indalecio Prieto-Casetas",
+ "trenes": [
+  {
+   "numero": "436",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 436 de Renfe Operadora ocurrió el 10 de julio de 2010 en Aracaldo (Álava), sin causar víctimas ni heridos. La causa principal fue el fallo técnico del material rodante, derivado de la rotura por fatiga del casquillo deslizante de una rueda. El suceso provocó daños materiales en la infraestructura y el tren, además de la interrupción del tráfico ferroviario durante aproximadamente 16 horas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................4\n2.1. SUCESO .............................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO...........................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................9\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................9\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ..........................................................................10\n3.3. NORMATIVA....................................................",
+ "causa_directa": "Fallo técnico del material rodante",
+ "conclusiones": [
+  "El accidente tuvo su origen por el fallo técnico del material rodante, al perderse la distancia entre las caras internas de las ruedas, debido al decalaje de la rueda izquierda del primer eje del segundo bogie del tercer coche del tren 436.",
+  "El decalaje se produce por la rotura a sección completa del casquillo deslizante de dicha rueda.",
+  "La rotura del casquillo deslizante del eje se produce por fatiga de la pieza, cuyo inicio se produce en la zona de transición de la parte no cilíndrica de la misma y viéndose favorecida por factores geométricos principalmente."
+ ],
+ "recomendaciones": [
+  "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido.",
+  "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1.",
+  "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "36/10-1",
+   "texto": "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "36/10-2",
+   "texto": "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "36/10-3",
+   "texto": "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

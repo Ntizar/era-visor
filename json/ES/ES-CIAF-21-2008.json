@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-21-2008",
+ "pais": "ES",
+ "expediente": "0021/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0021/2008 OCURRIDO EL DÍA 03.06.2008",
+ "fecha_suceso": "2008-06-03",
+ "hora": "19:57",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre las estaciones de El Priorato y Lora del Río",
+  "provincia": "Sevilla",
+  "lat": 37.657952,
+  "lng": -5.538682
+ },
+ "pk": "P.K. 511,635",
+ "linea": "400 Alcázar de San Juan-Cádiz",
+ "trenes": [
+  {
+   "numero": "55340",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 3 de junio de 2008, a las 19:57 horas, el tren de mercancías 55340 de Renfe Operadora arrolló a un automóvil en el paso a nivel tipo P situado en el P.K. 511,635 de la línea 400 Alcázar de San Juan-Cádiz. El accidente tuvo su origen en el cruce del vehículo por el paso a nivel en el momento que circulaba el tren, debido a la falta de señalización adecuada y la ausencia de cadenas en el paso a nivel particular.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n03.06.08/ 19:57\nLugar:\nP.K. 511,635, paso a nivel tipo P, entre las estaciones de El Priorato y\nLora del Río\nLínea:\n400 Alcázar de San Juan-Cádiz\nTrayecto:\nEl Priorato-Lora del Río\nProvincia:\n\nSevilla\nEl tren de mercancías 55340 de Renfe Operadora, compuesto por la locomotora 269851, 23\nvagones y masa remolcada de 574 Tm, arrolla a un automóvil (Ford Fiesta, matrícula SE-8723-BL) que\ninvade, por el lado derecho en el sentido de la marcha del tren, el paso a nivel tipo P, quedando el\ncoche empotrado debajo de la locomotora y siendo arrastrado unos 265 metros.\nEl conductor del vehículo, único ocupante del turismo, fallece minutos más tarde.\n\n\n\n\nInvestigación del accidente\n\n\n\n\nA\n\n\nInforme Final\n\n\n\n\n\n\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 4 de junio a las 12:45 horas, a través de mensaje de correo electrónico, comunicó a la  que se había producido el arrollamie",
+ "causa_directa": "Cruce del vehículo por el paso a nivel en el momento que circulaba el tren",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce del vehículo por el paso a nivel en el momento que circulaba el tren de mercancías 55340."
+ ],
+ "recomendaciones": [
+  "Se recomienda la clausura del paso a nivel ya que no cumple con lo establecido en el apartado 5 del artículo 8 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario: “(…) clausura de los pasos a nivel establecidos en caminos privados cuando los titulares de los mismos (…) no atiendan debidamente a su conservación, protección y señalización (…)”",
+  "No obstante, según lo dispuesto en la Resolución Circular 1/2008 de la Dirección General de Ferrocarriles, sobre plan de revisión de las autorizaciones de pasos a nivel particulares de la Red Ferroviaria de Interés General administrada por Adif, debe ser incluido en el plan para la revisión de su autorización que el Administrador de Infraestructura ha de presentar antes del 31 de diciembre de 2009 a dicha Dirección General."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se recomienda la clausura del paso a nivel ya que no cumple con lo establecido en el apartado 5 del artículo 8 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario: “(…) clausura de los pasos a nivel establecidos en caminos privados cuando los titulares de los mismos (…) no atiendan debidamente a su conservación, protección y señalización (…)”"
+  },
+  {
+   "texto": "No obstante, según lo dispuesto en la Resolución Circular 1/2008 de la Dirección General de Ferrocarriles, sobre plan de revisión de las autorizaciones de pasos a nivel particulares de la Red Ferroviaria de Interés General administrada por Adif, debe ser incluido en el plan para la revisión de su autorización que el Administrador de Infraestructura ha de presentar antes del 31 de diciembre de 2009 a dicha Dirección General."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

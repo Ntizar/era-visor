@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-30-2010",
+ "pais": "ES",
+ "expediente": "0030/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0030/2010 OCURRIDO EL DÍA 23.06.2010 EN EL APEADERO DE PLATJA DE CASTELLDEFELS (BARCELONA)",
+ "fecha_suceso": "2010-06-23",
+ "hora": "23:23",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Platja de Castelldefels",
+  "provincia": "Barcelona",
+  "lat": 41.271256,
+  "lng": 1.96998
+ },
+ "pk": "656+598",
+ "linea": "200 Madrid Chamartín – Barcelona Sants",
+ "trenes": [
+  {
+   "numero": "1202",
+   "operador": "Renfe Operadora",
+   "tipo": "Larga distancia (Alaris)"
+  },
+  {
+   "numero": "28391",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 10,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 23 de junio de 2010 en el apeadero de Platja de Castelldefels (Barcelona), que provocó 12 muertos, 10 heridos graves y 7 leves. La causa principal fue la invasión del gálibo de la vía por parte de viajeros que cruzaron las vías por un lugar no autorizado, sin percatarse de la llegada del tren Alaris 1202.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................................3\n2.1. SUCESO.....................................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO..............................................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................................................10\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................................10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...................................................................11\n3.1. RESUMEN DE LAS DECLARACIONES..............................................................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte de las víctimas",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas, al cruzar por un lugar no autorizado, y sin percatarse de la llegada del tren 1202."
+ ],
+ "recomendaciones": [
+  "No se establece ninguna recomendación.",
+  "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros países europeos, a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No se establece ninguna recomendación."
+  },
+  {
+   "texto": "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros países europeos, a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

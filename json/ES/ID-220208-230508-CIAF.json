@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-220208-230508-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-220208-230508-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-435",
+ "expediente": "0003/2008",
+ "titulo": "Arrollamiento de un vehículo de carretera por una locomotora en el apeadero de Salbio, Álava",
+ "fecha_suceso": "2008-02-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Salbio",
+  "provincia": "Álava",
+  "pk": "218,654",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto"
+ },
+ "entidades": [
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "resumen": "El 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663 de Renfe Operadora colisionó con un vehículo de carretera en el apeadero de Salbio, P.K. 218,654 de la línea 700. El vehículo se había precipitado desde el paso superior de la autopista A-625 tras romper los pretiles de protección. La maquinista accionó el freno de urgencia, pero no pudo evitar el arrollamiento y arrastró el vehículo 157 metros. El único ocupante del vehículo falleció.",
+ "causa_directa": "La invasión de la vía por un vehículo de carretera previamente accidentado, que cayó desde un paso superior y no pudo ser evitado por el tren.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Realizar un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Trains collision with an obstacle",
+  "Occurrence description": "The locomotive ME663 run down a motor vehicle which had fallen to the track from a bridge. The vehicle driver died.",
+  "Location name": "At Salbio flag stop (Álava), at kilometre point 218,800 on the railway line 700 Castejón-Bilbao.",
+  "Railway System type": "Railway",
+  "Location type": "Other",
+  "Movement type": "Locomotive running solo",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Other fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The road vehicle had had a previous traffic accident, then falling to the tracks from the highway."
+ }
+}

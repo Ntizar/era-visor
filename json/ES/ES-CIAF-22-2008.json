@@ -1,0 +1,58 @@
+{
+ "id": "ES-CIAF-22-2008",
+ "pais": "ES",
+ "expediente": "0022/2008",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2008 OCURRIDO EL DÍA 06.01.2008",
+ "fecha_suceso": "2008-01-06",
+ "hora": "16:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "túnel entre las estaciones de Pitis y Pinar de las Rozas",
+  "provincia": "Madrid",
+  "lat": 40.525,
+  "lng": -3.875
+ },
+ "pk": "P.K. 20,100",
+ "linea": "100 Madrid-Hendaya",
+ "trenes": [
+  {
+   "numero": "27231",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  },
+  {
+   "numero": "VK195",
+   "operador": "Renfe Operadora",
+   "tipo": "Locomotora"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 6 de enero de 2008 en el túnel entre las estaciones de Pitis y Pinar de las Rozas, que provocó la muerte de una persona. La investigación concluye que la causa principal fue el tránsito de la víctima por la vía en un lugar no habilitado para ello. No se identificaron fallos en el material rodante, la infraestructura ni en la actuación del personal ferroviario.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n06.01.08/ 16:25\nLugar:\nP.K. 20,100 túnel entre la estaciones de Pitis y Pinar de las Rozas\nLínea:\n100 Madrid-Hendaya\nTrayecto:\nPitis - Pinar de las Rozas\nProvincia:\n\nMadrid\nEl tren de viajeros de cercanías 27231, formado por el automotor 446015y seis vehículos, y masa\nremolcada de 398 T, que circulaba entre las estaciones de Pitis y Pinar de las Rozas por vía 1, entra\nen el túnel situado en el P.K. 20,100 de la línea Madrid-Hendaya. Tras salir de dicho túnel, el tren\nestaciona en la estación de Pinar de las Rozas y el maquinista, según su declaración, habla con unos\nguardias jurados presentes en la estación, quienes le comentan que también han escuchado un ruido\nmetálico que provenía del túnel y por ello decide informar de este suceso al Puesto de Mando de\nMadrid Chamartín.\nEl Puesto de Mando de Chamartín ordena al maquinista del tren VK195 que circule marcha a la\nvista entre las señales de avanzada y de entrada de la estación del Pinar de las Rozas y que recono",
+ "causa_directa": "Tránsito de la víctima por la vía en un lugar no habilitado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por la vía en un lugar no habilitado para ello."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

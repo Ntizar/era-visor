@@ -1,0 +1,74 @@
+{
+ "id": "ES-CIAF-55-2017",
+ "pais": "ES",
+ "expediente": "0055/2017",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0055/2017 OCURRIDO EL DÍA 29.11.2017 EN PLENA VÍA EN EL P.K. 20+350, DEL TRAYECTO EL SORBITO-ARAHAL (SEVILLA).",
+ "fecha_suceso": "2024-10-29",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": ", entre El Sorbito y Arahal",
+  "provincia": "Sevilla",
+  "lat": 37.226577,
+  "lng": -5.598049
+ },
+ "pk": "20+350",
+ "linea": "422 Bif. Utrera a Fuente de la Piedra",
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "ADIF AV",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 29 de noviembre de 2017, un tren descarriló en Arahal (Sevilla) debido a la súbita alteración de la vía provocada por el desbordamiento de cauces próximos. El suceso causó 31 heridos, sin víctimas mortales, y cuantiosos daños materiales en el tren y la infraestructura. La causa principal fue la falta de consolidación de la vía por la avenida de agua, agravada por la inexistencia de obras de drenaje adecuadas y la no identificación de la zona como punto de riesgo inundable.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................13\n3.1.4. Personal y entidades ..................................................................................................................................13\n3.1.5. Material rodante .............",
+ "causa_directa": "Desconsolidación de la vía por inundación",
+ "conclusiones": [
+  "Causa directa: El descarrilamiento tuvo lugar como consecuencia de la súbita alteración y deformación de la vía, con desconsolidación y pérdida de elementos de la superestructura, al ser sobrepasada por la altura del agua debido a las inundaciones por fuertes lluvias que ocasionaron el desbordamiento de los cauces de los ríos próximos.",
+  "Factor coadyuvante: Inexistencia de obras específicas de drenaje o encauzamiento perimetral para salvaguardar la infraestructura de las fuertes lluvias.",
+  "Causa subyacente: En el diseño del proyecto no se tuvieron en cuenta las condiciones topográficas, hidrológicas e hidráulicas de la zona, incluyendo la concurrencia en un punto bajo de las tres estructuras: puente sobre el arroyo Alameda, vía férrea y paso superior del camino.",
+  "Causa raíz (i): Falta de identificación metódica de las zonas inundables con afección a las vías férreas de la RFIG, por lo que el punto del accidente no estaba incluido entre los puntos de riesgo y no se aplicaron las medidas del Manual de Prevención y Gestión de Incidencias (MPGI).",
+  "Causa raíz (ii): El Plan de Contingencias presenta carencias para abordar fenómenos meteorológicos similares, siendo las medidas adoptadas claramente insuficientes."
+ ],
+ "recomendaciones": [
+  "Diseñar un protocolo para la identificación y revisión de puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos que puedan afectar a las vías férreas.",
+  "Estudiar la implantación de un protocolo o procedimiento operativo para coordinar las informaciones sobre posibles avenidas o crecidas de los cauces fluviales detectadas por las confederaciones hidrográficas, que puedan afectar a las vías férreas, y la interpretación de esos datos.",
+  "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias en lo relacionado con el tratamiento de las lluvias y de los fenómenos extraordinarios que acontecen."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "55/2017-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+   "contenido": "Diseñar un protocolo para la identificación y revisión de puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos que puedan afectar a las vías férreas."
+  },
+  {
+   "numero": "55/2017-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+   "contenido": "Estudiar la implantación de un protocolo o procedimiento operativo para coordinar las informaciones sobre posibles avenidas o crecidas de los cauces fluviales detectadas por las confederaciones hidrográficas, que puedan afectar a las vías férreas, y la interpretación de esos datos."
+  },
+  {
+   "numero": "55/2017-3",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF), Adif",
+   "contenido": "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias en lo relacionado con el tratamiento de las lluvias y de los fenómenos extraordinarios que acontecen."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-26-2010",
+ "pais": "ES",
+ "expediente": "0026/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0026/2010 OCURRIDO EL DÍA 23.05.2010 ENTRE POZUELO Y MADRID-PRÍNCIPE PÍO",
+ "fecha_suceso": "2010-05-23",
+ "hora": "22:54",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre Pozuelo y Madrid-Príncipe Pío",
+  "provincia": "Madrid",
+  "lat": 40.4209619,
+  "lng": -3.7193334
+ },
+ "pk": "P.K. 5+114",
+ "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",
+ "trenes": [
+  {
+   "numero": "95053",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 95053 ocurrido el 23 de mayo de 2010 entre Pozuelo y Príncipe Pío (Madrid) no provocó víctimas mortales ni heridos, aunque sí daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue el decalado de la rueda derecha del primer eje del duodécimo vagón, probablemente debido a un mal calado de dicha rueda.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................3\n2.1.  SUCESO .............................................................................................................................3\n2.2.  CIRCUNSTANCIAS DEL SUCESO...........................................................................................5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................6\n2.4.  CIRCUNSTANCIAS EXTERNAS ..............................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................7\n3.1.  RESUMEN DE LAS DECLARACIONES .....................................................................................7\n3.2.  SISTEMA DE GESTIÓN EN LA SEGURIDAD ............................................................................7\n3.3.  NORMATIVA............................................",
+ "causa_directa": "Decalado de la rueda derecha del primer eje del primer bogie",
+ "conclusiones": [
+  "El accidente tuvo su origen en el decalado de la rueda derecha del primer eje, del primer bogie, del vagón-plataforma duodécimo de la composición, probablemente por mal calado de dicha rueda, sin poder determinarse la causa del mismo."
+ ],
+ "recomendaciones": [
+  "Realizar auditoría, externa a Siderúrgica Requena, S.A., en los aspectos relativos a: 1. Documentación aplicada al calado de ruedas y control de calidad. 2. Verificar el estado, el control y la calibración de los medios de mecanizado, calado y sistemas de medición."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "26-10/1",
+   "texto": "Realizar auditoría, externa a Siderúrgica Requena, S.A., en los aspectos relativos a: 1. Documentación aplicada al calado de ruedas y control de calidad. 2. Verificar el estado, el control y la calibración de los medios de mecanizado, calado y sistemas de medición."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

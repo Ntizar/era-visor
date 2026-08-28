@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-32-2010",
+ "pais": "ES",
+ "expediente": "0032/2010",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0032/2010 OCURRIDO EL DÍA 29.06.2010 EN LA ESTACIÓN DE SANT ANDREU ARENAL (BARCELONA)",
+ "fecha_suceso": "2010-06-29",
+ "hora": "09:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Sant Andreu Arenal",
+  "provincia": "Barcelona",
+  "lat": 41.476995,
+  "lng": 2.186551
+ },
+ "pk": "361+100",
+ "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "25122",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías (material vacío para maniobra)"
+  },
+  {
+   "numero": "28708",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 29 de junio de 2010 en la estación de Sant Andreu Arenal (Barcelona) consistió en un conato de colisión entre una maniobra de material vacío y un tren de cercanías. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en la circulación. La causa principal fue el rebase indebido de la señal de retroceso R3 por parte de la maniobra, debido al incumplimiento de las órdenes de señalización por parte del personal de conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................3\n2.1.  SUCESO............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................7\n3.1.  RESUMEN DE LAS DECLARACIONES................................................................................................................ 7\n3.2.  NORMATIVA.....................................................................................................................................",
+ "causa_directa": "Rebase indebido de la señal R3 en indicación de parada",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por la maniobra de material vacío (procedente de tren de cercanías 25122) de la señal de retroceso R3, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

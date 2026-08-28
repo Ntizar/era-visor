@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-10-2012",
+ "pais": "ES",
+ "expediente": "0010/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2012 OCURRIDO EL DÍA 09.02.2012 EN LA ESTACIÓN DE MATARÓ (BARCELONA)",
+ "fecha_suceso": "2012-02-09",
+ "hora": "09:43",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_trenes",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Mataró",
+  "provincia": "Barcelona",
+  "lat": 41.615942,
+  "lng": 2.670446
+ },
+ "pk": "28+158",
+ "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+ "trenes": [
+  {
+   "numero": "28867",
+   "operador": "Renfe Operadora",
+   "tipo": "cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 1,
+ "danos_materiales": true,
+ "resumen": "El 9 de febrero de 2012, un tren de cercanías colisionó con la topera de la vía 4 en la estación de Mataró (Barcelona). El suceso provocó 11 heridos, uno de ellos grave, y daños materiales significativos en el material rodante y la infraestructura. La causa principal del accidente fue un fallo humano del maquinista, derivado del incumplimiento de las señales de parada y la falta de atención durante la conducción.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El accidente tuvo su origen en un fallo humano del personal de conducción, por incumplimiento de las órdenes dadas por las señales y no prestar la debida atención durante la conducción."
+ ],
+ "recomendaciones": [
+  "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+  "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros."
+  },
+  {
+   "texto": "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-1-2008",
+ "pais": "ES",
+ "expediente": "0001/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2008 OCURRIDO EL DÍA 10.01.2008",
+ "fecha_suceso": "2008-01-10",
+ "hora": "15:26",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_ciclista",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Alcolea de Córdoba",
+  "provincia": "Córdoba",
+  "lat": 37.95,
+  "lng": -4.6667
+ },
+ "pk": "P.K. 429,825",
+ "linea": "400 Alcázar de San Juan-Cádiz",
+ "trenes": [
+  {
+   "numero": "57361",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 10 de enero de 2008 en el paso a nivel de Alcolea de Córdoba, que provocó la muerte de un ciclista. La causa principal fue el intento de la víctima de cruzar las vías cuando las semibarreras ya estaban bajadas y la prohibición estaba adecuadamente señalizada. No se detectaron fallos en el material rodante ni en la infraestructura, recomendándose agilizar la supresión del paso a nivel debido a su alto tráfico.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n10.01.08./ 15:26\nLugar:\nEstación de Alcolea de Córdoba, Paso a Nivel, clase C, P.K. 429,825,\nestación\nLínea:\n400 Alcázar de San Juan-Cádiz\nTrayecto:\nAlcolea de Córdoba-Los Cansinos\nProvincia:\n\nCórdoba\nEl maquinista del tren de mercancías 57361, a su paso por el Paso a Nivel, clase C, de la estación\nde Alcolea de Córdoba, y según su declaración, frena cuando nota un ligero golpe en el lateral de la\nlocomotora. Al parar, 525 metros más adelante, baja para inspeccionar la máquina comprobando que\nhay sangre y viendo que, en esos momentos, en el paso a nivel el cadáver de la víctima está\ncustodiado por agentes de la Policía.\n\n\n\n\nInvestigación del accidente\n\n\n\n\nA\n\n\nInforme Final\n\n\n\n\n\n\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\na las 18:56 horas del mismo día del suceso y a través de mensaje de telefonía móvil, informó a la\nde que se había producido el arrollamiento de un",
+ "causa_directa": "Intento de cruzar el paso a nivel cuando estaba prohibido",
+ "conclusiones": [
+  "El accidente tuvo su origen en el intento de la víctima de cruzar el paso a nivel en el momento en que estaba prohibido y la prohibición adecuadamente señalizada."
+ ],
+ "recomendaciones": [
+  "Se propone estudiar la supresión del paso a nivel de esta localidad que presenta un alto momento de circulación (8.776 vehículos/día). Puesto que en la Base de Datos de Pasos a Nivel de la DGF (a 29/02/08) se recoge la intención de suprimir este paso, se recomienda agilizar dicha actuación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se propone estudiar la supresión del paso a nivel de esta localidad que presenta un alto momento de circulación (8.776 vehículos/día). Puesto que en la Base de Datos de Pasos a Nivel de la DGF (a 29/02/08) se recoge la intención de suprimir este paso, se recomienda agilizar dicha actuación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

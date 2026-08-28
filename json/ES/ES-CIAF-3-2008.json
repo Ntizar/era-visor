@@ -1,0 +1,54 @@
+{
+ "id": "ES-CIAF-3-2008",
+ "pais": "ES",
+ "expediente": "0003/2008",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0003/2008 OCURRIDO EL DÍA 22.02.2008",
+ "fecha_suceso": "2008-02-22",
+ "hora": "20:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_vehiculo",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Salbio",
+  "provincia": "Álava",
+  "lat": 43.084401,
+  "lng": -3.001647
+ },
+ "pk": "218,654",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "trenes": [
+  {
+   "numero": "ME663",
+   "operador": "Renfe Operadora",
+   "tipo": "Locomotora aislada"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663 de Renfe Operadora colisionó con un vehículo de carretera en el apeadero de Salbio. El vehículo se precipitó desde el paso superior de la autopista A-625, rompiendo los pretiles de protección, y fue arrollado por el tren. El único ocupante del vehículo falleció en el accidente.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n22.02.08./ 20:00\nLugar:\nApeadero de Salbio, P.K. 218,654, entre las estaciones de Amurrio y\nLlodio\nLínea:\n700 Casetas-Intermodal Abando Indalecio Prieto\nTrayecto:\nOrduña-Bilbao Abando\nProvincia:\n\nÁlava\nLa maquinista de la locomotora aislada ME663 a su paso por el Apeadero de Salbio, situado en el\nP.K. 218,654, observa que sobre la vía I se encuentra un vehículo de carretera, que había caído al\napeadero desde el paso superior de la carretera A 625 por un terraplén de 45º de pendiente, situado\nen el lado izquierdo sentido de la marcha del tren. La maquinista acciona el freno de urgencia pero no\npuede evitar el arrollamiento del vehículo en el P.K. 218,743, arrastrándolo 157 metros hasta pararse\nen el P.K. 218,900.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\na las 14:52 horas del día siguiente al suceso y a través de mensaje de correo electrónico, informó a la\nde que s",
+ "causa_directa": "Invasión de la vía por un vehículo de carretera",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión de la vía por el vehículo previamente accidentado, no pudiendo evitarse su arrollamiento."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

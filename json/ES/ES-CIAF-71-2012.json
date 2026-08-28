@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-71-2012",
+ "pais": "ES",
+ "expediente": "0071/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 71/2012 OCURRIDO EL DÍA 29.10.2012 ENTRE LAS ESTACIONES DE MIGUELTURRA Y POZUELO DE CALATRAVA (CIUDAD REAL)",
+ "fecha_suceso": "2012-10-29",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Miguelturra y Pozuelo de Calatrava",
+  "provincia": "Ciudad Real",
+  "lat": 38.967108,
+  "lng": -3.876239
+ },
+ "pk": "257+758",
+ "linea": "522 Manzanares - Ciudad Real",
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 29 de octubre de 2012 en el paso a nivel de Miguelturra (Ciudad Real), donde el tren 18081 arrolló a un vehículo de carretera. El suceso provocó un herido leve y daños materiales en el material rodante, sin fallecidos. La causa principal fue la invasión del gálibo de la vía por parte del vehículo, agravada por un aumento sustancial del tráfico no considerado en el diseño original del paso a nivel.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 18081.",
+  "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
+  "El paso a nivel dispone de buena visibilidad y la señalización se encontraba completa y conforme a lo establecido.",
+  "El momento de circulación considerado (AxT=236) es acorde con el tipo de protección establecido (clase A) según la Orden de 2 de agosto de 2001.",
+  "En 2012 ha entrado en servicio una actuación viaria (rotonda) que ha producido un aumento sustancial del tráfico de vehículos por el paso a nivel, haciendo que el valor actual de intensidad media diaria (IMD) sea mayor al considerado para el cálculo del momento de circulación."
+ ],
+ "recomendaciones": [
+  "A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos.",
+  "Conocido el valor actual de la IMD, proceder a adecuar por quien corresponda las características del paso a lo establecido en la OM de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "71/12-1",
+   "texto": "A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "71/12-2",
+   "texto": "Conocido el valor actual de la IMD, proceder a adecuar por quien corresponda las características del paso a lo establecido en la OM de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

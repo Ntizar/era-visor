@@ -1,0 +1,91 @@
+{
+ "id": "ES-CIAF-51-2016",
+ "pais": "ES",
+ "expediente": "0051/2016",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0051/2016 ocurrido el día 04.11.2016 en la estación de L’ Hospitalet de Llobregat (Barcelona)",
+ "fecha_suceso": "2016-11-04",
+ "hora": "21:36",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_trenes",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "L’ Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "lat": 41.3595118,
+  "lng": 2.0996318
+ },
+ "pk": "95+106",
+ "linea": "220 Lleida Pirineus a L’ Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "25752",
+   "operador": "RENFE VIAJEROS",
+   "tipo": "Tren de viajeros de cercanías"
+  },
+  {
+   "numero": "25779",
+   "operador": "RENFE VIAJEROS",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 4 de noviembre de 2016, en la estación de L’Hospitalet de Llobregat, se produjo una colisión lateral entre dos trenes de cercanías que causó daños materiales en el material rodante y la infraestructura, sin víctimas mortales ni heridos. La causa principal fue un fallo en el enclavamiento electrónico que generó una indicación de señal errónea, induciendo al maquinista a rebasar la señal de parada, agravado por la actuación precipitada del jefe de control de tráfico.",
+ "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ................................................................................................................. 8\n2.1. SUCESO .............................................................................................................................. 8\n2.1.1. Datos .................................................................................................................................. 8\n2.1.2. Descripción del suceso ......................................................................................................... 8\n2.1.3. Decisión de abrir la investigación ........................................................................................ 14\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 14\n2.2.1. Personal ferroviario implicado ............................................................................................. 14\n2.2.2. Material rodante .............",
+ "causa_directa": "Funcionamiento incorrecto del enclavamiento electrónico y fallo humano del maquinista",
+ "conclusiones": [
+  "Como causas directas e inmediatas del accidente cabe indicar el aspecto indebido de la señal de entrada, a causa de un funcionamiento incorrecto del enclavamiento electrónico instalado en la estación de L’ Hospitalet de Llobregat, que induce a error al maquinista en la percepción de la señal de entrada. También el fallo humano del maquinista del tren 25752, al no mantener la debida atención al aspecto de la señal de entrada (inducido por el funcionamiento incorrecto del enclavamiento), incumpliendo la orden de la señal de entrada percibida por el maquinista, por lo que posteriormente procede al rebase indebido de la señal de retroceso y a la colisión con el otro tren.",
+  "Como causas subyacentes pueden apuntarse la actuación precipitada del jefe del CTC, al ordenar un itinerario para el tren 25752 que inmediatamente considera inoportuno y procede a su disolución, así como su actuación también precipitada al establecer el itinerario de salida para el tren 25779 sin observar que el tren 25752 ha rebasado la señal de retroceso R1 en indicación de parada y circula por vía 4 sin itinerario establecido. También la actuación del maquinista del tren 25752, que cambia la banda del sistema de radiotelefonía Tren – Tierra a modalidad C sin autorización del Puesto de Mando, lo que impidió que el jefe de CTC se pudiera poner en contacto de inmediato con éste para ordenarle parada, evitando la colisión.",
+  "Como causa raíz puede apuntarse la insuficiente verificación y pruebas del diseño del enclavamiento de la estación de L’ Hospitalet, basado en el programa de explotación, que no pusieron de manifiesto el riesgo potencial existente y que finalmente se manifestó al realizarse la operación de establecimiento y anulación del itinerario en la forma descrita anteriormente."
+ ],
+ "recomendaciones": [
+  "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales",
+  "Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI).",
+  "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios.",
+  "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "51/2016 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "texto": "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales"
+  },
+  {
+   "numero": "51/2016 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "texto": "Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI)."
+  },
+  {
+   "numero": "51/2016 - 3",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "texto": "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios."
+  },
+  {
+   "numero": "51/2016 - 4",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / RENFE OPERADORA",
+   "texto": "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

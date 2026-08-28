@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-68-2009",
+ "pais": "ES",
+ "expediente": "0068/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0068/2009 OCURRIDO EL DÍA 28.12.2009 EN LA ESTACIÓN DE PEDRERA (SEVILLA)",
+ "fecha_suceso": "2009-12-28",
+ "hora": "20:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Pedrera",
+  "provincia": "Sevilla",
+  "lat": 37.219327,
+  "lng": -4.881576
+ },
+ "pk": "P.K. 94+716",
+ "linea": "422 Bif. Utrera- Puente de Piedra",
+ "trenes": [
+  {
+   "numero": "13924",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 28 de diciembre de 2009, un descarrilamiento en la estación de Pedrera (Sevilla) provocó daños materiales por 9.883 euros sin causar víctimas. La causa principal fue la autorización indebida de rebase de señal por parte de la responsable de circulación, quien no verificó la incorrecta posición de las agujas que impedía la apertura automática de la señal.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Autorización indebida de rebase de la señal de entrada E2",
+ "conclusiones": [
+  "El accidente tuvo su origen en la autorización indebida de rebase de la señal de entrada E2 en condiciones normales, ante la imposibilidad que existía de abrir dicha señal, debido a que lo impedía el comprobador mecánico de posición de agujas, dada la incorrecta posición de las mismas para el itinerario previsto, sin verificarse por la responsable de circulación esta circunstancia."
+ ],
+ "recomendaciones": [
+  "Realizar acciones formativas específicas sobre la ejecución de itinerarios en este tipo de enclavamientos, fundamentalmente para agentes nuevos y sin experiencia en estas instalaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "68/09-1",
+   "texto": "Realizar acciones formativas específicas sobre la ejecución de itinerarios en este tipo de enclavamientos, fundamentalmente para agentes nuevos y sin experiencia en estas instalaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

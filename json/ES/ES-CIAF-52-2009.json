@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-52-2009",
+ "pais": "ES",
+ "expediente": "0052/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0052/2009 OCURRIDO EL DÍA 28.09.2009 EN EL PASO A NIVEL CLASE B ENTRE LOS NIETOS VIEJOS Y EL ESTRECHO (MURCIA)",
+ "fecha_suceso": "2009-09-28",
+ "hora": "13:35",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cartagena",
+  "provincia": "Murcia",
+  "lat": 38.0,
+  "lng": -1.1333
+ },
+ "pk": "16+708",
+ "linea": "nº 45 Cartagena – Los Nietos",
+ "trenes": [
+  {
+   "numero": "91724",
+   "operador": "FEVE",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 1,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 28 de septiembre de 2009 en el paso a nivel de Los Limoneros (Cartagena, Murcia), donde un tren de FEVE arrolló a un automóvil. El suceso provocó la muerte de una mujer y heridas graves al conductor, además de daños materiales en ambos vehículos. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera, que cruzó el paso a nivel a pesar de que las señales de advertencia del tren estaban activadas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel cuando éste se encontraba con las señales luminosas y acústicas activadas, indicando la inminente llegada del tren 91724."
+ ],
+ "recomendaciones": [
+  "No se establecen recomendaciones"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No se establecen recomendaciones"
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

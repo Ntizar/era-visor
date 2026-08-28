@@ -1,0 +1,99 @@
+{
+ "id": "ES-CIAF-63-2010",
+ "pais": "ES",
+ "expediente": "0063/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0063/2010 OCURRIDO EL DÍA 11.11.2010 ENTRE LAS ESTACIONES DE ALGEMESÍ Y BENIFAIÓ (VALENCIA)",
+ "fecha_suceso": "2010-11-11",
+ "hora": "01:35",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Algemesí y Benifaió",
+  "provincia": "Valencia",
+  "lat": 39.284256,
+  "lng": -0.429985
+ },
+ "pk": "PK 89+850",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "trenes": [
+  {
+   "numero": "COX26",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  },
+  {
+   "numero": "82501",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías peligrosas"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 11 de noviembre de 2010, entre las estaciones de Algemesí y Benifaió, se produjo el descarrilamiento del tren de mercancías COX26, sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y retrasos significativos en la circulación. La causa principal del suceso fue un fallo técnico del material rodante, concretamente el fallo mecánico de un rodamiento que provocó la pérdida de la caja de grasa y la posterior basculación del vagón.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................. 4\n2.1. SUCESO .............................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO ...........................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.......................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS ..............................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES .....................................................................................8\n3.2. SISTEMA DE GESTIÓN EN LA SEGURIDAD ............................................................................9\n3.3. NORMATIVA .............................................",
+ "causa_directa": "Fallo técnico del material rodante",
+ "conclusiones": [
+  "El accidente tuvo su origen por el fallo técnico del material rodante.",
+  "El descarrilamiento de la rueda derecha del eje nº 28 es causado al perder el contacto con el carril por la basculación del bastidor del vagón undécimo.",
+  "La basculación fue consecuencia de la pérdida de la caja de grasa izquierda del eje nº 27.",
+  "La pérdida de la caja de grasa fue causada por el fallo mecánico de algún elemento del rodamiento.",
+  "El factor desencadenante de la pérdida de la caja de grasa fue provocado por fallo mecánico de algún elemento del rodamiento.",
+  "Se incumple el artículo 104.2 del RGC al no advertir al resto de circulaciones del riesgo potencial existente tras conocerse la pérdida de la caja de grasa.",
+  "Puede existir una contradicción entre lo reglamentado en los artículos 266 y 267 del RGC en determinadas condiciones que pueden tener consecuencias en la seguridad."
+ ],
+ "recomendaciones": [
+  "Estudiar la posibilidad de introducir automatismos en los equipos de detección de ejes calientes para el control de las variaciones de las temperaturas de riesgo al paso por los mismos, estableciendo cadenas correlacionadas e informatizadas, en tiempo real, para el seguimiento entre detectores consecutivos de una misma línea.",
+  "Realizar un estudio de consistencia de las NTM’s y MMC’s que recogen el mantenimiento de las cajas de grasa y rodamientos, modificando las mismas si procede.",
+  "Realizar auditorías de verificación de cumplimiento de las NTM’s que afectan a la revisión de cajas de grasa y rodamientos 800.302.01 y 800.302.00.",
+  "Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes.",
+  "Insistir en la necesidad de realizar pruebas de alcoholemia y drogadicción a todo el personal implicado en el accidente."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "63/10-1",
+   "texto": "Estudiar la posibilidad de introducir automatismos en los equipos de detección de ejes calientes para el control de las variaciones de las temperaturas de riesgo al paso por los mismos, estableciendo cadenas correlacionadas e informatizadas, en tiempo real, para el seguimiento entre detectores consecutivos de una misma línea."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "63/10-2",
+   "texto": "Realizar un estudio de consistencia de las NTM’s y MMC’s que recogen el mantenimiento de las cajas de grasa y rodamientos, modificando las mismas si procede."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "63/10-3",
+   "texto": "Realizar auditorías de verificación de cumplimiento de las NTM’s que afectan a la revisión de cajas de grasa y rodamientos 800.302.01 y 800.302.00."
+  },
+  {
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF)",
+   "numero": "63/10-4",
+   "texto": "Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "63/10-5",
+   "texto": "Insistir en la necesidad de realizar pruebas de alcoholemia y drogadicción a todo el personal implicado en el accidente."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "incendio",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

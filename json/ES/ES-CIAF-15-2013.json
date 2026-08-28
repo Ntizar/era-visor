@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-15-2013",
+ "pais": "ES",
+ "expediente": "15/2013",
+ "titulo": "IF 15/2013 — “La investigación técnica de los accidentes e incidentes ferroviarios llevada a cabo por la",
+ "fecha_suceso": "2020-06-02",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Coslada",
+  "provincia": "Madrid",
+  "lat": 42.25,
+  "lng": -5.8333
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 6,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 26 de febrero de 2013 entre las estaciones de San Fernando de Henares y Coslada, donde un tren de cercanías impactó lateralmente con un vehículo que se precipitó desde un paso superior. El suceso provocó una herida leve al conductor del automóvil y daños materiales en el tren y la infraestructura. La causa principal fue la invasión del gálibo de vía por el vehículo al precipitarse desde el paso superior carretero.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [
+  "La causa fue un accidente de carretera con el resultado de la precipitación del vehículo desde el paso superior a la caja de la vía, invadiendo el gálibo de libre paso del tren.",
+  "Factores contributivos: deficiente mantenimiento del sistema de contención de vehículos del paso superior, posición del vehículo tras su caída, su propia estructura y la no disponibilidad de detector de caída de objetos en el paso superior.",
+  "La existencia de un desvío a la base de mantenimiento y el impacto de la cabeza motriz contra un acopio de traviesas influyeron en las consecuencias del accidente."
+ ],
+ "recomendaciones": [
+  "Se establecen seis recomendaciones a través de la AESF.",
+  "Dos recomendaciones dirigidas al MITMA.",
+  "Dos recomendaciones dirigidas al ADIF.",
+  "Dos recomendaciones dirigidas a la Diputación de Zamora."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se establecen seis recomendaciones a través de la AESF."
+  },
+  {
+   "texto": "Dos recomendaciones dirigidas al MITMA."
+  },
+  {
+   "texto": "Dos recomendaciones dirigidas al ADIF."
+  },
+  {
+   "texto": "Dos recomendaciones dirigidas a la Diputación de Zamora."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

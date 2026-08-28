@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-50-2012",
+ "pais": "ES",
+ "expediente": "0050/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0050/2012 OCURRIDO EL DÍA 21.06.2012 EN EL CAMBIADOR DE PLASENCIA DE JALÓN (ZARAGOZA)",
+ "fecha_suceso": "2012-06-21",
+ "hora": "08:51",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Plasencia de Jalón",
+  "provincia": "Zaragoza",
+  "lat": 41.6870286,
+  "lng": -1.2643871
+ },
+ "pk": "276+705",
+ "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón",
+ "trenes": [
+  {
+   "numero": "601",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 21 de junio de 2012, un descarrilamiento del tren 601 de Renfe Operadora ocurrió en el cambiador de ancho de Plasencia de Jalón (Zaragoza), sin causar víctimas mortales ni heridos. Las consecuencias se limitaron a daños materiales en el material rodante y la infraestructura, además de la interrupción de la circulación durante varias horas. La causa principal fue el fallo del sistema de cambio de ancho debido a la falta de engrase en el mecanismo de enclavamiento de la rueda izquierda del octavo eje.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo en el sistema de cambio de ancho de ejes debido a falta de engrase",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo en el sistema de cambio de ancho de ejes en la rueda izquierda del octavo eje de la composición, en el sentido de la marcha, debido a que el mecanismo de enclavamiento del cambio de ancho de la rueda no funcionó adecuadamente, como consecuencia de falta de engrase."
+ ],
+ "recomendaciones": [
+  "Definir en las instrucciones de mantenimiento cómo se debe realizar la operación de engrase de los pitones de enclavamiento a fin de que sea efectiva. Para garantizar la operación por parte del mantenedor se formará a los operarios que la van a realizar y se efectuarán comprobaciones aleatorias de su adecuada ejecución.",
+  "Solicitar al tecnólogo el estudio de la aplicación de otros tipos de materiales al pitón y al casquillo que disminuyan el desgaste y las necesidades de engrase."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "50/12-1",
+   "destinatario": "Renfe Operadora",
+   "texto": "Definir en las instrucciones de mantenimiento cómo se debe realizar la operación de engrase de los pitones de enclavamiento a fin de que sea efectiva. Para garantizar la operación por parte del mantenedor se formará a los operarios que la van a realizar y se efectuarán comprobaciones aleatorias de su adecuada ejecución."
+  },
+  {
+   "numero": "50/12-2",
+   "destinatario": "Renfe Operadora",
+   "texto": "Solicitar al tecnólogo el estudio de la aplicación de otros tipos de materiales al pitón y al casquillo que disminuyan el desgaste y las necesidades de engrase."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

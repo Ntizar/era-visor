@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-49-2008",
+ "pais": "ES",
+ "expediente": "0049/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0049/2008 ocurrido el día 13.10.2008",
+ "fecha_suceso": "2008-10-13",
+ "hora": "12:19",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "La Encina",
+  "provincia": "Alicante",
+  "lat": 38.873473,
+  "lng": -1.115174
+ },
+ "pk": "P.K. 375.740",
+ "linea": "300 Madrid - Chamartín - Valencia – Estación Nord",
+ "trenes": [
+  {
+   "numero": "1415",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de octubre de 2008 en La Encina, donde un tren arrolló a un peatón que transitaba por la vía sin autorización. La consecuencia fue la muerte inmediata de la víctima, un hombre de 83 años, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue el tránsito no autorizado de la víctima por el trazado, lo que llevó a recomendar el estudio de las necesidades de vallado en la zona.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n13.10.08/ 12:19\nLugar:\nP.K. 375,740\nLínea:\n300 Madrid - Chamartín - Valencia – Estación Nord\nTrayecto.\nAlmansa – La Encina\nProvincia:\n\nAlicante\nEl tren de viajeros de larga distancia 1415 de Renfe Operadora, compuesto por el automotor\n490002 con 3 coches y masa remolcada de 172 Tn, arrolla a una persona que transita por la vía a la\nsalida de la estación de La Encina, lado Almansa, a la altura de la Señal M-2.\nEl maquinista, al percatarse de la presencia de la víctima, hace uso del silbato y acciona el freno de\nemergencia no pudiendo evitar el arrollamiento de la víctima cuyo cadáver queda fuera de la vía.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 13 de octubre a las 13:26 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una persona por\nun tren de viajeros a la salida de la estación de La Encina.\nEl Reglame",
+ "causa_directa": "Tránsito no autorizado de la víctima por la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello."
+ ],
+ "recomendaciones": [
+  "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

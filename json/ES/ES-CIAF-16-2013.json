@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-16-2013",
+ "pais": "ES",
+ "expediente": "0016/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0016/2013 OCURRIDO EL DÍA 27.02.2013 ENTRE LAS ESTACIONES DE PITIS Y PINAR DE LAS ROZAS (MADRID)",
+ "fecha_suceso": "2013-02-27",
+ "hora": "04:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Pitis y Pinar de las Rozas",
+  "provincia": "Madrid",
+  "lat": 40.525,
+  "lng": -3.875
+ },
+ "pk": "15+600",
+ "linea": "100 Hendaya – Madrid Chamartín",
+ "trenes": [
+  {
+   "numero": "T1",
+   "operador": "Adif",
+   "tipo": "Tren de trabajos"
+  },
+  {
+   "numero": "T3",
+   "operador": "Elecnor (Contratista de Adif)",
+   "tipo": "Tren de trabajos"
+  }
+ ],
+ "entidades": [
+  "ADIF"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 27 de febrero de 2013 entre las estaciones de Pitis y Pinar de las Rozas en Madrid, que provocó cuatro heridos leves y daños materiales en el material rodante. El suceso consistió en el escape y colisión de un castillete autopropulsado que, tras desengancharse, circuló a la deriva por la pendiente de la vía hasta impactar contra otro tren de trabajos. La causa principal del accidente fue un fallo humano derivado de un incorrecto enganche del castillete a la plataforma y la no conexión adecuada de las mangueras del freno de emergencia.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo humano en el enganche del castillete",
+ "conclusiones": [
+  "El accidente tuvo su origen en un fallo humano, por realizarse un incorrecto enganche del castillete a la plataforma arrastrada por la dresina y no conectarse correctamente las mangueras del freno de emergencia."
+ ],
+ "recomendaciones": [
+  "El encargado de trabajos de Adif deberá cerciorarse y requerir que, entre el personal de la contrata que realiza trabajos de mantenimiento, hay un responsable de verificar las correctas operaciones con el material móvil que permita una circulación segura."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "16/13-1",
+   "texto": "El encargado de trabajos de Adif deberá cerciorarse y requerir que, entre el personal de la contrata que realiza trabajos de mantenimiento, hay un responsable de verificar las correctas operaciones con el material móvil que permita una circulación segura."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

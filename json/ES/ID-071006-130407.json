@@ -1,0 +1,36 @@
+{
+ "id": "ES-ID-071006-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-071006-130407.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0048/2006",
+ "titulo": "Arrollamiento de una persona en el apeadero de Sant Ildefons de Cornellá (Barcelona), línea 240",
+ "fecha_suceso": "2006-10-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Sant Ildefons de Cornellá",
+  "provincia": "Barcelona",
+  "pk": "93,900",
+  "linea": "Línea 240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+  "lat": null,
+  "lng": null
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe"
+ ],
+ "resumen": "El 7 de octubre de 2006, a las 06:33, una persona de 80 años fue arrollada por el tren de Cercanías 18304 de Renfe en el apeadero de Sant Ildefons de Cornellá (Barcelona). La víctima cruzaba las vías y no tuvo tiempo para librar el gálibo del tren al subir al andén, resultando herida grave y falleciendo días después en el hospital. El tren circulaba a 69 km/h, por debajo de la máxima permitida, y el maquinista aplicó freno de urgencia y usó el silbato. No hubo daños materiales, aunque se produjeron perturbaciones en 12 trenes de Cercanías.",
+ "causa_directa": "El tránsito indebido de una persona sobre las vías generales del apeadero sin servicio comercial, que no pudo librar el gálibo del tren al subir al andén.",
+ "causas_sistemicas": "Ausencia de vallado perimetral continuo en el entorno del apeadero y permanencia de un rebaje de andén asociado a un paso entarimado suprimido, junto con baja visibilidad nocturna y dificultad de desplazamiento de la víctima.",
+ "recomendaciones": [
+  "Inhabilitar el rebaje de andén que daba acceso al paso entarimado suprimido.",
+  "Ejecutar, en su caso, vallado perimetral en el entorno del apeadero que disuada de su uso como alternativa al paso superior existente.",
+  "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

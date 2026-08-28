@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-74-2008",
+ "pais": "ES",
+ "expediente": "0074/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0074/2008 OCURRIDO EL DÍA 20.12.2008 EN LA ESTACIÓN DE SALOU",
+ "fecha_suceso": "2008-12-20",
+ "hora": "05:21",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Salou",
+  "provincia": "Tarragona",
+  "lat": 41.0768,
+  "lng": 1.144
+ },
+ "pk": "P.K. 263,208",
+ "linea": "600 Valencia Nord - Sant Vicent de Calders",
+ "trenes": [
+  {
+   "numero": "80454",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 20 de diciembre de 2008 en la estación de Salou, donde un tren de mercancías arrolló a un peatón que cruzó las barreras bajadas. El suceso provocó la muerte de una persona, sin daños materiales en la infraestructura ni el material rodante. La causa principal fue la acción de la víctima al sortear los sistemas de protección del paso a nivel.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................8\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Cruce del paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen cuando la víctima cruza el paso a nivel, sorteando las barreras bajadas, en el momento en que el tren 80454 circulaba por él."
+ ],
+ "recomendaciones": [
+  "Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones"
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

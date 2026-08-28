@@ -1,0 +1,31 @@
+{
+ "id": "ES-ES 02.09.2015 170530-150902-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 02.09.2015 170530-150902-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0043/2015",
+ "titulo": "Arrollamiento de una barra de carril acopiada junto a la vía en Noaín (Navarra), arrastrada por un tren",
+ "fecha_suceso": "2015-09-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Noaín",
+  "provincia": "Navarra",
+  "pk": "165+409",
+  "linea": null
+ },
+ "entidades": [
+  "Adif"
+ ],
+ "resumen": "El 2 de septiembre de 2015, un tren arrolló en Noaín (Navarra) una barra de carril de 180 m acopiada junto a la vía. El extremo de la barra, no asegurado, invadió el gálibo y quedó enganchado al primer vagón, siendo arrastrado durante unos 15 km. El maquinista percibió un impacto y una avería, pero continuó la marcha sin detectar el arrastre. La barra causó daños en infraestructura y vagones hasta que el tren fue detenido en Pamplona.",
+ "causa_directa": "Arrollamiento de una barra de carril de 180 m acopiada junto a la vía, cuyo extremo no asegurado se desplazó e invadió el gálibo. La causa de la invasión no quedó determinada, estimándose probable manipulación indebida o acto malintencionado.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Fijar convenientemente los extremos de las barras de carril acopiadas junto a vías en servicio cuando vayan a permanecer así durante un periodo considerable."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-19-2009",
+ "pais": "ES",
+ "expediente": "0019/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0019/2009 OCURRIDO EL DÍA 07.04.2009 EN LA ESTACIÓN DE LAS NAVAS DEL MARQUÉS (ÁVILA)",
+ "fecha_suceso": "2009-04-07",
+ "hora": "20:04",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Las Navas del Marqués",
+  "provincia": "Ávila",
+  "lat": 40.6,
+  "lng": -4.3333
+ },
+ "pk": "P.K. 83,700",
+ "linea": "100 Madrid - Hendaya",
+ "trenes": [
+  {
+   "numero": "407",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  },
+  {
+   "numero": "18006",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 7 de abril de 2009 en la estación de Las Navas del Marqués (Ávila), donde el tren 407 arrolló a una niña de 13 años que cruzaba entre andenes. La víctima falleció en el hospital, no habiendo daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue el tránsito de la víctima por el paso entre andenes sin percatarse de la circulación del tren, circunstancia que pudo verse agravada por la presencia simultánea de otro tren en la vía contigua.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Tránsito de la víctima por el paso entre andenes sin percatarse del tren",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el paso entre andenes sin percatarse de que, en ese momento, el tren 407 circulaba por la estación.",
+  "El tren circulaba a una velocidad inferior a su máxima permitida en el tramo (86 km/h frente a los 90 km/h permitidos para trenes tipo B).",
+  "La actuación del maquinista fue correcta, haciendo uso del silbato y del freno de emergencia al percatarse de las personas cruzando.",
+  "Las jornadas de trabajo del maquinista cumplían lo establecido en la normativa vigente.",
+  "El paso entre andenes estaba en buen estado y dotado de carteles de peligro.",
+  "Los equipos de seguridad del tren y las instalaciones técnicas funcionaban correctamente.",
+  "La presencia del tren 18006 en la vía 2 pudo distraer la atención de la víctima en el momento del accidente."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

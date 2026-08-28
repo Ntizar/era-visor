@@ -1,0 +1,78 @@
+{
+ "id": "ES-CIAF-40-2008",
+ "pais": "ES",
+ "expediente": "0040/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0040/2008 OCURRIDO EL DÍA 04.07.2008 EN LA ESTACIÓN DE SANT CELONI",
+ "fecha_suceso": "2008-07-04",
+ "hora": "21:59",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Sant Celoni",
+  "provincia": "Barcelona",
+  "lat": 41.6936,
+  "lng": 2.494
+ },
+ "pk": "P.K. 156,9",
+ "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+ "trenes": [
+  {
+   "numero": "25461",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de cercanías / tren de viajeros"
+  },
+  {
+   "numero": "91361",
+   "operador": "Adif",
+   "tipo": "tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ocurrido el 4 de julio de 2008 en la estación de Sant Celoni provocó un conato de colisión entre un tren de viajeros y uno de mercancías sin causar víctimas ni daños materiales. La causa principal fue el incumplimiento de la consigna de trabajos al permitir la indicación de anuncio de parada en una señal cuya protección eléctrica no estaba correctamente reajustada. Este fallo derivó de una deficiente coordinación y supervisión durante la sustitución del enclavamiento de la estación.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................4\n2.1\nSUCESO......................................................................................................................................................4\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................6\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................8\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Incumplimiento de la consigna ATO no 91-CTO no 92",
+ "conclusiones": [
+  "El incidente tuvo su origen en el incumplimiento de lo establecido en la Consigna ATO nº 91-CTO nº 92, punto 2.3, párrafo 11: «El “levante” eléctrico de los nuevos circuitos de vía de la cabecera del lado de Barcelona y la modificación de los circuitos de vía afectados por la nueva distribución de señales de entrada, avanzada e intermedias de bloqueo relacionadas; mientras no estén reajustados eléctricamente, las señales afectadas ordenarán parada»."
+ ],
+ "recomendaciones": [
+  "Las consignas editadas para regular los trabajos de gran envergadura en las instalaciones de seguridad, especialmente si se han de compatibilizar con la circulación de los trenes, deberán especificar claramente quién es la “única” persona responsable, de entre los distintos departamentos que participan en ellos, de las comunicaciones con el Jefe de Circulación , último y máximo responsable de autorizar o suspender la ejecución de dichos trabajos, estableciendo además la forma en que este agente le informará sobre las instalaciones de seguridad afectadas en cada fase y las limitaciones en la explotación que conllevan para que el Jefe de Circulación pueda determinar cuáles deben ser las medidas a tomar para garantizar la seguridad de la circulación.",
+  "Debido al elevado número de personas implicadas en la ejecución de este tipo de trabajos el riesgo por fallo humano resulta alto pudiéndose crear, como se ha comprobado, situaciones de peligro para la seguridad de las circulaciones, especialmente en el caso de los bloqueos automáticos, por lo que su realización debe programarse en las bandas de mantenimiento o contemplarse incluso la supresión total del tráfico en el trayecto afectado por los mismos estudiándose itinerarios alternativos para los trenes. En el caso de que esto no sea posible, deberá establecerse el Bloqueo Telefónico para garantizar la existencia de un único tren en el trayecto.",
+  "Los distintos departamentos que participan en la ejecución de los trabajos tendrán que elaborar un protocolo común de actuación que garantice la perfecta coordinación de las actividades a realizar y la cadena de transmisión de las órdenes entre el interlocutor responsable de la comunicación con el Jefe de Circulación y los equipos de trabajo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "40/08-1",
+   "texto": "Las consignas editadas para regular los trabajos de gran envergadura en las instalaciones de seguridad, especialmente si se han de compatibilizar con la circulación de los trenes, deberán especificar claramente quién es la “única” persona responsable, de entre los distintos departamentos que participan en ellos, de las comunicaciones con el Jefe de Circulación , último y máximo responsable de autorizar o suspender la ejecución de dichos trabajos, estableciendo además la forma en que este agente le informará sobre las instalaciones de seguridad afectadas en cada fase y las limitaciones en la explotación que conllevan para que el Jefe de Circulación pueda determinar cuáles deben ser las medidas a tomar para garantizar la seguridad de la circulación."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "40/08-2",
+   "texto": "Debido al elevado número de personas implicadas en la ejecución de este tipo de trabajos el riesgo por fallo humano resulta alto pudiéndose crear, como se ha comprobado, situaciones de peligro para la seguridad de las circulaciones, especialmente en el caso de los bloqueos automáticos, por lo que su realización debe programarse en las bandas de mantenimiento o contemplarse incluso la supresión total del tráfico en el trayecto afectado por los mismos estudiándose itinerarios alternativos para los trenes. En el caso de que esto no sea posible, deberá establecerse el Bloqueo Telefónico para garantizar la existencia de un único tren en el trayecto."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "40/08-3",
+   "texto": "Los distintos departamentos que participan en la ejecución de los trabajos tendrán que elaborar un protocolo común de actuación que garantice la perfecta coordinación de las actividades a realizar y la cadena de transmisión de las órdenes entre el interlocutor responsable de la comunicación con el Jefe de Circulación y los equipos de trabajo."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

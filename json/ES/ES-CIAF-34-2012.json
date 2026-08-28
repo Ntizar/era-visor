@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-34-2012",
+ "pais": "ES",
+ "expediente": "0034/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 34/2012 OCURRIDO EL DÍA 09.05.2012 EN LA ESTACIÓN DE ASTILLERO (CANTABRIA)",
+ "fecha_suceso": "2012-05-09",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Astillero",
+  "provincia": "Cantabria",
+  "lat": 43.4,
+  "lng": -3.8167
+ },
+ "pk": "540+075",
+ "linea": "24 Santander - Bilbao",
+ "trenes": [],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ferroviario ocurrido el 9 de mayo de 2012 en la estación de Astillero (Cantabria), donde el tren 6803 de Feve rebasó indebidamente una señal de parada sin causar víctimas ni daños materiales. La causa principal fue el incumplimiento por parte del maquinista de las órdenes de las señales, al reconocer incorrectamente una indicación de aviso de parada como anuncio de precaución y aumentar la velocidad.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Rebase indebido de la señal S1/1L en indicación de parada",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren de viajeros 6803 de la señal de salida S1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [
+  "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y del Reglamento de Señales de Feve.",
+  "Estudiar la posibilidad de dotar a la señal S1/1L de baliza previa."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "34/12-1",
+   "texto": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y del Reglamento de Señales de Feve."
+  },
+  {
+   "destinatario": "Feve",
+   "numero": "34/12-2",
+   "texto": "Estudiar la posibilidad de dotar a la señal S1/1L de baliza previa."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-101106-180507-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-101106-180507-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-30",
+ "expediente": "0046/2006",
+ "titulo": "Arrollamiento de una máquina de obra y fallecimiento del piloto de seguridad en la línea 270 Barcelona-Portbou",
+ "fecha_suceso": "2006-11-10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Apeadero de Camallera",
+  "provincia": "Barcelona",
+  "pk": "231,500",
+  "linea": "Línea 270 Barcelona-Portbou"
+ },
+ "entidades": [
+  "Renfe",
+  "Adif"
+ ],
+ "resumen": "El 10 de noviembre de 2006, a las 02:08, el tren de mercancías 91495 de Renfe arrolló una máquina de obra MANISCOPIC MT 1030s que invadió el gálibo de la vía impar durante trabajos de mantenimiento en la línea 270 Barcelona-Portbou, cerca del apeadero de Camallera. El suceso causó avería inmediata de la locomotora y la parada del tren, y se encontró el cuerpo sin vida del encargado de trabajos y piloto de seguridad de Adif. La circulación quedó interrumpida entre Figueras y Gerona durante unas cuatro horas y media, afectando a 18 trenes.",
+ "causa_directa": "La ocupación indebida del gálibo de la vía impar por la máquina de obra durante la descarga de palets, autorizada por el encargado de trabajos y piloto de seguridad.",
+ "causas_sistemicas": "El informe apunta a deficiencias en el régimen de trabajos y a prácticas viciosas en vía, con autorización de invasión del gálibo basada en información telefónica y en condiciones de niebla intensa que redujeron la visibilidad.",
+ "recomendaciones": [
+  "El Régimen de Trabajos debe corresponder en todos los casos a la previsión de necesidades de los trabajos y a los medios y maquinas disponibles, y viceversa.",
+  "Realizar campaña formativa tanto al personal de Circulación como de Mantenimiento con el fin de eliminar las prácticas viciosas en los trabajos en vía."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person of the staff, while he was working on the track, died after being hit by rolling stock in motion at open line in a vicious level crossing.",
+  "Location name": "Railway line from Tarragona to Barcelona to France at the kilometre point 231,500.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1
+ }
+}

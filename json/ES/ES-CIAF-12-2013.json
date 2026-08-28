@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-12-2013",
+ "pais": "ES",
+ "expediente": "0012/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0012/2013 OCURRIDO EL DÍA 31.01.2013 ENTRE LAS ESTACIONES DE UNQUERA Y PESUÉS (CANTABRIA)",
+ "fecha_suceso": "2013-01-31",
+ "hora": "15:36",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Unquera y Pesués",
+  "provincia": "Cantabria",
+  "lat": 43.375262,
+  "lng": -4.508342
+ },
+ "pk": "457+381",
+ "linea": "770 Valdecilla - La Marga a Oviedo",
+ "trenes": [
+  {
+   "numero": "9565",
+   "operador": "Renfe Operadora",
+   "tipo": "mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 31 de enero de 2013, un descarrilamiento del tren de mercancías 9565 ocurrió en Val de San Vicente (Cantabria), provocando daños materiales significativos en la infraestructura, el material rodante y la carga, sin causar víctimas. La causa principal del suceso fue el fallo humano del maquinista, quien circuló a 61 km/h en una zona con una limitación de velocidad máxima de 40 km/h.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 10\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 13\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................13\n3.1.  RESUMEN DE LAS DECLARACIONES ........................................................................................................",
+ "causa_directa": "Fallo humano del maquinista por exceso de velocidad",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo humano del maquinista al circular con exceso de velocidad, yendo a 61 km/h cuando no debía exceder la velocidad máxima permitida de 40 Km/h."
+ ],
+ "recomendaciones": [
+  "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+  "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+  },
+  {
+   "texto": "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

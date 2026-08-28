@@ -1,0 +1,89 @@
+{
+ "id": "ES-CIAF-25-2018",
+ "pais": "ES",
+ "expediente": "0025/2018",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0025/2018 OCURRIDO EL DÍA 01.07.2018 EN LA ESTACIÓN DE PEDRALBA (ZAMORA)",
+ "fecha_suceso": "2018-07-01",
+ "hora": "20:02",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallo_seguridad",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Pedralba",
+  "provincia": "Zamora",
+  "lat": 41.989119,
+  "lng": -6.550495
+ },
+ "pk": "113+475",
+ "linea": "822 Zamora - A Coruña",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": "RENFE VIAJEROS",
+   "tipo": null,
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  },
+  {
+   "numero": null,
+   "operador": "RENFE VIAJEROS",
+   "tipo": null,
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 1 de julio de 2018 en la estación de Pedralba (Zamora) que no provocó víctimas ni daños materiales. La causa principal fue el mal funcionamiento del enclavamiento debido a derivaciones en el cableado de señalización, que provocaron el encendido incorrecto de una señal de vía libre.",
+ "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO. ................................................................................................................ 9\n2.1. SUCESO. ............................................................................................................................. 9\n2.1.1. Datos .................................................................................................................................. 9\n2.1.2. Descripción del suceso ......................................................................................................... 9\n2.1.3. Decisión de abrir la investigación ........................................................................................ 13\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 13\n2.2.1. Personal Ferroviario implicado ............................................................................................ 13\n2.2.2. Material rodante ..............",
+ "causa_directa": "Mal funcionamiento del enclavamiento",
+ "conclusiones": [
+  "Causa directa: Mal funcionamiento del enclavamiento producido por derivaciones en los conductores de enlace que alimentaron eléctricamente la señal de entrada 2N, encendiendo su foco verde pese a estar fundido el fusible F2.",
+  "Factores coadyuvantes: Condiciones climatológicas adversas (tormenta) que pudieron provocar la fusión del fusible y derivaciones en el cableado.",
+  "Factores subyacentes: No se realizaron las revisiones a los cables de señalización conforme al Procedimiento Específico MIN-PE-IS-013, y la documentación de la estación no reflejaba adecuadamente la antigüedad y estado del cableado."
+ ],
+ "recomendaciones": [
+  "Identificar aquellos enclavamientos que compartan hilos para servicios de mando y energía en el mismo multiconductor y proceder a su modificación si es necesario.",
+  "En los Procedimientos del SGS de ADIF relativos a la revisión de conductores, tener en cuenta su longevidad y adoptar calendarios de caducidad si fuera necesario.",
+  "Verificar y actualizar la documentación de las estaciones para reflejar debidamente cualquier modificación en el enclavamiento e instalaciones.",
+  "Revisar y actualizar los programas de explotación y las Consignas serie A de los enclavamientos recogiendo incompatibilidades entre itinerarios de entrada."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Identificar aquellos enclavamientos que compartan hilos para servicios de mando y energía en el mismo multiconductor y proceder a su modificación si es necesario."
+  },
+  {
+   "texto": "En los Procedimientos del SGS de ADIF relativos a la revisión de conductores, tener en cuenta su longevidad y adoptar calendarios de caducidad si fuera necesario."
+  },
+  {
+   "texto": "Verificar y actualizar la documentación de las estaciones para reflejar debidamente cualquier modificación en el enclavamiento e instalaciones."
+  },
+  {
+   "texto": "Revisar y actualizar los programas de explotación y las Consignas serie A de los enclavamientos recogiendo incompatibilidades entre itinerarios de entrada."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

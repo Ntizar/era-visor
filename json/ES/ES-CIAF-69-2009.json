@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-69-2009",
+ "pais": "ES",
+ "expediente": "0069/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0069/2009 OCURRIDO EL DÍA 30.12.2009 EN LA ESTACIÓN DE FUENMAYOR (LA RIOJA)",
+ "fecha_suceso": "2009-12-30",
+ "hora": "03:08",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_rocas",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Fuenmayor",
+  "provincia": "La Rioja",
+  "lat": 42.475,
+  "lng": -2.562
+ },
+ "pk": "P.K. 92+020",
+ "linea": "700 Intermodal Abando Indalecio Prieto – Casetas",
+ "trenes": [
+  {
+   "numero": "930",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 30 de diciembre de 2009 en la estación de Fuenmayor (La Rioja), donde el tren 930 colisionó con una roca desprendida de la ladera. El suceso provocó el descarrilamiento de la locomotora y los cuatro primeros coches, causando daños materiales considerables en el material rodante y la infraestructura, aunque no hubo víctimas mortales ni heridos. La causa principal del accidente fue la colisión con la roca, cuyo impacto superó la capacidad de la malla metálica de protección existente.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................6\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Colisión con roca procedente de un desprendimiento",
+ "conclusiones": [
+  "El accidente tuvo su origen en la colisión del tren 930 con una roca existente en la caja de la vía y procedente de un desprendimiento.",
+  "La malla metálica de protección no soportó el impacto de la roca, por su volumen aproximado de 1 metro cúbico y al haberse desprendido desde una altura de unos 25 metros."
+ ],
+ "recomendaciones": [
+  "Que DGIF y ADIF analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF) y Adif",
+   "numero": "69/09-1",
+   "texto": "Que DGIF y ADIF analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

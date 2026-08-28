@@ -1,0 +1,73 @@
+{
+ "id": "ES-CIAF-74-2012",
+ "pais": "ES",
+ "expediente": "0074/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0074/2012 OCURRIDO EL DÍA 06.12.2012 EN LA ESTACIÓN DE LAVIANA (ASTURIAS)",
+ "fecha_suceso": "2012-12-06",
+ "hora": "02:35",
+ "tipo_informe": "final",
+ "tipo_suceso": "escape_material",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Laviana",
+  "provincia": "Asturias",
+  "lat": 43.25,
+  "lng": -5.5667
+ },
+ "pk": "PK 49+700",
+ "linea": "61 Gijón - Laviana",
+ "trenes": [
+  {
+   "numero": "4945",
+   "operador": "Feve",
+   "tipo": "Unidad de Tren Eléctrico (UTE)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 6 de diciembre de 2012 en la estación de Laviana (Asturias) provocó la deriva de una composición durante más de 12 kilómetros sin causar víctimas ni daños materiales. La causa principal fue el fallo del material rodante debido a la ineficacia simultánea de los sistemas de freno neumático y de estacionamiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Fallo del material por ineficacia de los sistemas de freno",
+ "conclusiones": [
+  "El incidente tuvo su origen en el fallo del material por la ineficacia de los sistemas de freno, tanto del neumático como del de estacionamiento."
+ ],
+ "recomendaciones": [
+  "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento.",
+  "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a los Servicios de Ancho Métrico (SAM).",
+  "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora (servicios de ancho métrico – SAM)",
+   "numero": "74/12-1",
+   "texto": "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento."
+  },
+  {
+   "destinatario": "Renfe Operadora (servicios de ancho métrico – SAM)",
+   "numero": "74/12-2",
+   "texto": "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a los Servicios de Ancho Métrico (SAM)."
+  },
+  {
+   "destinatario": "Adif (red de ancho métrico - RAM)",
+   "numero": "74/12-3",
+   "texto": "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general)."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

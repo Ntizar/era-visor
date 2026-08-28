@@ -1,0 +1,40 @@
+{
+ "id": "ES-ID-070207-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-070207-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0009/2007",
+ "titulo": "Arrollamiento de persona por tren Altaria entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid",
+ "fecha_suceso": "2007-02-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "9,670",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord (vía G3)",
+  "lat": 40.416782,
+  "lng": -3.703507
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 7 de febrero de 2007, el tren Altaria nº 77 de Renfe Operadora, remolcado por la locomotora 252040, arrolló a una persona en plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, en Madrid. La víctima, un varón de 33 años, falleció y su cadáver quedó interceptando la vía. El accidente provocó la detención del tren, suspensión parcial de la circulación y retrasos en varios servicios.",
+ "causa_directa": "El accidente tuvo su origen en la imprudencia de la víctima, que transitaba por las vías e intentó cruzarlas por un lugar no autorizado.",
+ "causas_sistemicas": "Reiterado tránsito indebido de personas hacia el poblado chabolista de El Salobral, cerramientos dañados o derrumbados, paso vicioso junto a las vías y falta de vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+ "recomendaciones": [
+  "Instaurar vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+  "Reparar el cerramiento actual, vigilar su conservación y agilizar un nuevo cerramiento de mayor consistencia.",
+  "Coordinar con el Ayuntamiento de Madrid transporte u otras actuaciones para impedir que las personas deambulen por las vías.",
+  "Hasta la reposición del cerramiento, vigilar el apeadero y el trayecto hasta la pasarela peatonal.",
+  "Crear un paso inferior no repulsivo y amable al tránsito.",
+  "Crear un servicio lanzadera de transporte gratuito que comunique la zona.",
+  "Erradicar el lugar de abastecimiento de estupefacientes en la zona."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

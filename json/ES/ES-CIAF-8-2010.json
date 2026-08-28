@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-8-2010",
+ "pais": "ES",
+ "expediente": "0008/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0008/2010 OCURRIDO EL DÍA 11.02.2010 EN PINAR DE LAS ROZAS (MADRID)",
+ "fecha_suceso": "2010-02-11",
+ "hora": "19:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Pinar de Las Rozas",
+  "provincia": "Madrid",
+  "lat": 40.525,
+  "lng": -3.875
+ },
+ "pk": "P.K. 20+658",
+ "linea": "100 Madrid - Hendaya",
+ "trenes": [
+  {
+   "numero": "27239",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías (Tipo 140N)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 27239 de Renfe Operadora ocurrió el 11 de febrero de 2010 en la estación de Pinar de Las Rozas (Madrid). El suceso no causó víctimas ni heridos, pero provocó daños materiales cuantificados en aproximadamente 71.400 euros en el material rodante y la infraestructura. La causa principal fue un fallo técnico en las instalaciones de la vía, derivado del deficiente estado de la sujeción del carril de unión del desvío nº 6 y de un ancho de vía superior al máximo permitido.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Fallo técnico en las instalaciones de la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el fallo técnico en las instalaciones de la vía, dado el deficiente estado de la sujeción del carril de unión del desvío nº 6, así como el valor del ancho de vía en esa zona, que era superior al máximo permitido."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente; es decir, sometidos a fuertes solicitaciones o de la misma tipología.",
+  "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "08/10-1",
+   "texto": "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente; es decir, sometidos a fuertes solicitaciones o de la misma tipología."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "08/10-2",
+   "texto": "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

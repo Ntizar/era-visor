@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-122-2024",
+ "pais": "ES",
+ "expediente": "122/2024",
+ "titulo": "IF 122/2024 — Descarrilamiento por escape de material en la estación de",
+ "fecha_suceso": "2024-12-13",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "avería",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "León Clasificación",
+  "provincia": "León",
+  "lat": 42.634145,
+  "lng": -5.971415
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente de descarrilamiento por deriva incontrolada ocurrido en la estación de León Clasificación el 13 de diciembre de 2024, que provocó daños en la infraestructura sin víctimas personales. La causa principal fue la inmovilización no efectiva del corte de vagones, derivada de la ineficacia del freno de estacionamiento y la ausencia de calces antideriva.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................10\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................10\n3.1.5. Material rodante ..........",
+ "causa_directa": null,
+ "conclusiones": [
+  "Factores contribuyentes Pérdida de efectividad del freno automático, debido a la pérdida de aire en el circuito de freno por el paso del tiempo.",
+  "Ineficacia del freno de estacionamiento aplicado al corte de material por el auxiliar de circulación. Ver Recomendación 122/2024-1.",
+  "No disposición de calces antideriva en el corte de material estacionado. Ver Recomendación Existencia de pendiente en la estación de León Clasificación.",
+  "Exigencia, en los protocolos operativos, de aplicar un único freno de estacionamiento en determinados casos de pendiente y longitud del material, sin establecer medidas de respaldo ante posibles fallos, aplicaciones incorrectas o averías. Ver Recomendación 122/2024-1.",
+  "Falta de disponibilidad de calces antideriva en las estaciones de clasificación de material, motivada por robos reiterados y la ausencia de un sistema eficaz de reposición. Ver Recomendación 122/2024-2."
+ ],
+ "recomendaciones": [
+  "Reforzar la implementación efectiva de la ficha guía F- RCF-05/2021 de la Agencia Estatal de Seguridad Ferroviaria (",
+  "Implantar un sistema de provisión y almacenamiento seguro de calces antideriva en estaciones de clasificación, que garantice su disponibilidad operativa continua y prevenga su pérdida o sustracción.",
+  "Revisar los programas de formación y habilitación del personal encargado de las operaciones en las terminales, asegurando que incluyen: el conocimiento de la infraestructura, la correcta aplicación y verificación funcional de los frenos de estacionamiento, la identificación de situaciones de riesgo, la actuación ante la ausencia de medios físicos y la comprensión de las responsabilidades compartidas entre operadores logísticos, administradores de infraestructura y"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "122/2024-1",
+   "texto": "Reforzar la implementación efectiva de la ficha guía F- RCF-05/2021 de la Agencia Estatal de Seguridad Ferroviaria (",
+   "implementador": ""
+  },
+  {
+   "numero": "122/2024-2",
+   "texto": "Implantar un sistema de provisión y almacenamiento seguro de calces antideriva en estaciones de clasificación, que garantice su disponibilidad operativa continua y prevenga su pérdida o sustracción.",
+   "implementador": ""
+  },
+  {
+   "numero": "122/2024-3",
+   "texto": "Revisar los programas de formación y habilitación del personal encargado de las operaciones en las terminales, asegurando que incluyen: el conocimiento de la infraestructura, la correcta aplicación y verificación funcional de los frenos de estacionamiento, la identificación de situaciones de riesgo, la actuación ante la ausencia de medios físicos y la comprensión de las responsabilidades compartidas entre operadores logísticos, administradores de infraestructura y",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "avería",
+  "descarrilamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

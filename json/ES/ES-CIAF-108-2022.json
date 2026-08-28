@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-108-2022",
+ "pais": "ES",
+ "expediente": "108/2022",
+ "titulo": "IF 108/2022 — El día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif",
+ "fecha_suceso": "2023-02-23",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Torelló",
+  "provincia": "Barcelona",
+  "lat": 41.8167,
+  "lng": 2.2667
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente operacional ocurrido el 5 de noviembre de 2022 en la estación de Torelló (Barcelona) que no provocó víctimas ni daños materiales. La causa principal fue la falta de entendimiento entre el maquinista y el responsable de circulación debido a una errónea interpretación de la posición real del tren, lo que derivó en la reanudación de la marcha con un itinerario disuelto y el establecimiento de un itinerario incompatible para otro tren.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ..........",
+ "causa_directa": null,
+ "conclusiones": [
+  "- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los trenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción hasta su completa detención.",
+  "- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su llegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que el tren 78350 debía pararse ante la señal E2.",
+  "- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación de Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha 4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se precisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al respecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que para el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición intermedia anterior a dicha señal.",
+  "- La recuperación de la tensión se produjo en primer lugar por el tren 78350. Pero al persistir el problema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a la vía 2 para que finalizase allí su recorrido."
+ ],
+ "recomendaciones": [
+  "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+  "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "108/2022-1",
+   "texto": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+   "implementador": ""
+  },
+  {
+   "numero": "108/2022-2",
+   "texto": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha.",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "ES-CIAF-50-2009",
+ "pais": "ES",
+ "expediente": "0050/2009",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0050/2009 OCURRIDO EL DÍA 24.09.2009 EN EL APEADERO DE CAZOÑA (CANTABRIA)",
+ "fecha_suceso": "2009-09-24",
+ "hora": "13:50",
+ "tipo_informe": "final",
+ "tipo_suceso": "rotura_eje",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cazoña",
+  "provincia": "Cantabria",
+  "lat": 43.4542471,
+  "lng": -3.8403963
+ },
+ "pk": "527+485",
+ "linea": "Oviedo-Santander (L-21)",
+ "trenes": [
+  {
+   "numero": "6722",
+   "operador": "FEVE",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 24 de septiembre de 2009 en el apeadero de Cazoña (Santander) provocó la rotura de un eje en el tren 6722 sin causar víctimas ni daños materiales graves. La causa principal fue una fisura previa en el eje, originada por entallas producidas durante un proceso de calado, que se propagó hasta la rotura completa de la mangueta.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 6\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 6\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................................................................... 7\n3.3. NORMATIVA...........................................................................",
+ "causa_directa": "Rotura de la sección completa de la mangueta de un eje",
+ "conclusiones": [
+  "El incidente tuvo su origen en la rotura de la sección completa de la mangueta de un eje, correspondiente al último coche de la composición del tren.",
+  "La rotura del eje pudo ser ocasionada por una fisura previa cuyo origen se encuentra en dos entallas, posiblemente producidas en un proceso de calado.",
+  "Se trata de un eje recuperado mediante una operación prohibida (recargue) mediante soldadura desde hace 5 años en todos los talleres de FEVE.",
+  "No existe la trazabilidad suficiente en la información de los talleres como para poder identificar aquellos ejes que en su día fueron recuperados y que pudiesen estar operativos actualmente.",
+  "La trazabilidad inadecuada de la información no permite identificar aquellos ejes que en su día fueron recuperados y que pudieran estar operativos actualmente."
+ ],
+ "recomendaciones": [
+  "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes.",
+  "Incluir, en el tipo de intervención que sea más factible de los establecidos en el plan de mantenimiento de cada una de las series de material, una inspección por ultrasonidos que permita la localización de fisuras. Seguimiento de resultados.",
+  "Establecer unas Instrucciones de Control de calidad en los procesos de calado de los ejes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "FEVE",
+   "numero": "50/09-1",
+   "texto": "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes."
+  },
+  {
+   "destinatario": "FEVE",
+   "numero": "50/09-2",
+   "texto": "Incluir, en el tipo de intervención que sea más factible de los establecidos en el plan de mantenimiento de cada una de las series de material, una inspección por ultrasonidos que permita la localización de fisuras. Seguimiento de resultados."
+  },
+  {
+   "destinatario": "FEVE",
+   "numero": "50/09-3",
+   "texto": "Establecer unas Instrucciones de Control de calidad en los procesos de calado de los ejes."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

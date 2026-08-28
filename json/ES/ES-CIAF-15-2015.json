@@ -1,0 +1,84 @@
+{
+ "id": "ES-CIAF-15-2015",
+ "pais": "ES",
+ "expediente": "0015/2015",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2015 OCURRIDO EL DÍA 18.03.2015 EN LA ESTACIÓN DE ABOÑO (ASTURIAS)",
+ "fecha_suceso": "2015-03-18",
+ "hora": "15:53",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Aboño",
+  "provincia": "Asturias",
+  "lat": 43.5833,
+  "lng": -5.75
+ },
+ "pk": "0+943",
+ "linea": "150 Aboño a Serín",
+ "trenes": [
+  {
+   "numero": "U19B05",
+   "operador": "UTE APG Rail",
+   "tipo": "Locomotora diésel eléctrica U10"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Continental Rail",
+  "Renfe Mercancías",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 18 de marzo de 2015, en la estación de Aboño (Asturias), una locomotora derivó de forma incontrolada y descarriló tras recorrer 1.200 metros, provocando daños materiales sin causar víctimas. La causa principal del accidente fue el fallo humano del operador, quien abandonó la cabina sin asegurar la inmovilización del vehículo. Esta acción se vio agravada por el mal funcionamiento del freno de estacionamiento y la inutilización del dispositivo de hombre muerto.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ....................................",
+ "causa_directa": "Fallo humano del operador de vehículos de maniobras",
+ "conclusiones": [
+  "El accidente se produjo por el fallo humano del operador de vehículos de maniobras (que es también el responsable de circulación del turno de tarde) que pone en marcha la locomotora y abandona la cabina de conducción sin tomar las medidas de seguridad necesarias para evitar el movimiento incontrolado de la locomotora.",
+  "Como causas coadyuvantes se apuntan el estar inutilizado el dispositivo de hombre muerto y el inadecuado funcionamiento del freno de estacionamiento."
+ ],
+ "recomendaciones": [
+  "Que la AESF requiera a la APG que elabore un Sistema de Gestión de la Seguridad, según se establece en la disposición adicional tercera del RD 810/2007 por el que se aprueba el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General.",
+  "Analizar la viabilidad de implantar medidas que impidan que movimientos no controlados de material rodante (deriva) procedentes del Puerto de Gijón lleguen al punto de conexión física de éste con las instalaciones de Adif.",
+  "Controlar el cumplimiento del plan de mantenimiento del material rodante que circule por sus instalaciones.",
+  "Habilitar conforme al Convenio Adif-APG a los responsables de circulación que actúan en la conexión del puerto con la RFIG administrada por Adif.",
+  "Asegurar el cumplimiento de los ciclos de las intervenciones de mantenimiento del material móvil de su propiedad.",
+  "Verificar periódicamente por personal responsable de las empresas de la UTE APG Rail la no anulación del dispositivo “Hombre Muerto” en el material móvil de su propiedad."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Que la AESF requiera a la APG que elabore un Sistema de Gestión de la Seguridad, según se establece en la disposición adicional tercera del RD 810/2007 por el que se aprueba el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General."
+  },
+  {
+   "texto": "Analizar la viabilidad de implantar medidas que impidan que movimientos no controlados de material rodante (deriva) procedentes del Puerto de Gijón lleguen al punto de conexión física de éste con las instalaciones de Adif."
+  },
+  {
+   "texto": "Controlar el cumplimiento del plan de mantenimiento del material rodante que circule por sus instalaciones."
+  },
+  {
+   "texto": "Habilitar conforme al Convenio Adif-APG a los responsables de circulación que actúan en la conexión del puerto con la RFIG administrada por Adif."
+  },
+  {
+   "texto": "Asegurar el cumplimiento de los ciclos de las intervenciones de mantenimiento del material móvil de su propiedad."
+  },
+  {
+   "texto": "Verificar periódicamente por personal responsable de las empresas de la UTE APG Rail la no anulación del dispositivo “Hombre Muerto” en el material móvil de su propiedad."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

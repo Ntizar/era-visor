@@ -1,0 +1,55 @@
+{
+ "id": "ES-CIAF-62-2007",
+ "pais": "ES",
+ "expediente": "0062/2007",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0062/2007 OCURRIDO EL DÍA 18.12.2007",
+ "fecha_suceso": "2007-12-18",
+ "hora": "14:10",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "plena vía",
+  "provincia": "Pontevedra",
+  "lat": 42.075004,
+  "lng": -8.423906
+ },
+ "pk": "P.K. 165,160",
+ "linea": "810 Monforte de Lemos-Vigo",
+ "trenes": [
+  {
+   "numero": "GY259",
+   "operador": "Adif",
+   "tipo": "vagoneta de electrificación de Mantenimiento de Infraestructura"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K. 165,160, se produce el arrollamiento de una persona por la vagoneta de electrificación de Mantenimiento de Infraestructura de Adif, tren GY259. La víctima, un varón de 86 años, resultó herida de gravedad y falleció posteriormente en el hospital. El accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no habilitado para ello cuando se acercaba el tren.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n18.12.07./ 14:10\nLugar:\nP.K. 165,160, plena vía, entre las estaciones de Louredo Valos y\nRedondela\nLínea:\n810 Monforte de Lemos-Vigo (Red Ferroviaria de Interés General\nadministrada por Adif)\nTrayecto:\nGuillarei-Redondela\nProvincia:\n\nPontevedra\nLa vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; tren GY259, a su paso\npor el P.K. 165,160, de la línea 810 Monforte de Lemos-Vigo; arrolla a una persona que cruzaba las\nvías, de izquierda a derecha (sentido de la marcha del tren) por un lugar no autorizado para ello. El\nmaquinista, viendo que una persona cruzaba al paso del tren, hace sonar la bocina repetidamente y\nacciona el freno sin evitar arrollar a la víctima que quedó herida, tendida fuera del gálibo de la vía, en\nel lado derecho sentido de la marcha del tren.\nLa víctima, aún con vida, es atendida primero por el maquinista y el personal de servicio de la\nvagoneta para posteriormente, a las 14:20 horas, ser evacuada al hospital donde hora",
+ "causa_directa": "Intento de la víctima de cruzar la vía por un lugar no habilitado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no habilitado para ello cuando se acercaba el tren."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "ES-CIAF-107-2022",
+ "pais": "ES",
+ "expediente": "107/2022",
+ "titulo": "IF 107/2022 — Colisión entre trenes por alcance el 13 de diciembre de 2022",
+ "fecha_suceso": "2022-12-13",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "avería",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Tivissa",
+  "provincia": "Tarragona",
+  "lat": 41.0833,
+  "lng": 0.75
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente de colisión por alcance ocurrido el 13 de diciembre de 2022 en Tivissa, entre las estaciones de Els Guiamets y Mora La Nova, que provocó daños materiales en la infraestructura y el material rodante sin víctimas personales. La causa principal fue la inadecuada regulación de la velocidad por parte del maquinista del tren perseguidor, quien no adaptó la marcha a la visibilidad disponible durante la noche y con condiciones meteorológicas adversas. Este fallo humano se vio agravado por factores contributivos como la falta de experiencia del conductor, la realización de una llamada telefónica durante la maniobra y las condiciones sistémicas del rebase de señales de parada.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "avería",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

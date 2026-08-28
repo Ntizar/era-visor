@@ -1,0 +1,80 @@
+{
+ "id": "ES-CIAF-46-2015",
+ "pais": "ES",
+ "expediente": "0046/2015",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0046/2015 ocurrido el día 05.10.2015 en la estación de Tardienta (Huesca)",
+ "fecha_suceso": "2015-10-05",
+ "hora": "17:17",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Tardienta",
+  "provincia": "Huesca",
+  "lat": 41.397976,
+  "lng": 1.107508
+ },
+ "pk": "pk 52+950",
+ "linea": "Línea 200 Madrid Chamartín a Barcelona estación de Francia",
+ "trenes": [
+  {
+   "numero": "BAR11/52",
+   "operador": "CONTINENTAL RAIL",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Continental Rail"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 05.10.2015 en la estación de Tardienta (Huesca) durante la maniobra de inversión de una locomotora de mercancías. El impacto provocó daños materiales considerables en la locomotora y el último vagón, además de lesiones leves al maquinista y al agente de maniobras. La causa principal fue un fallo humano del conductor, que no aplicó correctamente el freno al conducir desde la cabina contraria al sentido de la marcha, incumpliendo la normativa de seguridad.",
+ "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ..................................................................................... 6\n2.1. SUCESO .............................................................................................................................. 6\n2.1.1. Datos .......................................................................................................................... 6\n2.1.2. Descripción del suceso ............................................................................................... 7\n2.1.3. Decisión de abrir la investigación............................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................... 10\n2.2.1. Personal Ferroviario implicado ................................................................................. 10\n2.2.2. Material rodante ..................................................................................",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El accidente se produjo por fallo humano del personal de conducción del tren de mercancías BAR 11/52, al ejecutar la maniobra de inversión de la locomotora y no realizar una correcta aplicación del freno de la misma probablemente, por una mala percepción del riesgo (falta de atención o exceso de confianza) al conducir desde la cabina contraria al sentido de la marcha, incumpliendo con esto lo establecido en el Reglamento General de Circulación y en la Carta Circular de Reglamentación Nº 8 de ADIF.",
+  "Como causas coadyuvantes se apunta el realizar la maniobra a una velocidad superior a la establecida en el RGC y a la escasa experiencia del maquinista en la línea y con el material."
+ ],
+ "recomendaciones": [
+  "En las acciones de formación y reciclaje al personal de conducción incidir en la obligación de conducir, siempre que sea posible, en la cabina de cabeza cuando se realizan maniobras, con el fin de conseguir una mayor percepción de la operación.",
+  "En las acciones de formación y reciclaje al personal de conducción incidir en la importancia de transmitir al responsable de circulación, la información de un suceso por los cauces normativamente establecidos y en el menor tiempo posible.",
+  "Se reitera la recomendación de la CIAF 28/15-2: Que se elabore e incluya dentro del Sistema de Gestión de la Seguridad de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones tras un fallo humano, en función de la gravedad de éste, con el fin de conseguir un tratamiento uniforme en el proceso de reciclaje para la incorporación del trabajador a su puesto de trabajo tras una incidencia de este tipo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "46/2015 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "CONTINENTAL RAIL",
+   "texto": "En las acciones de formación y reciclaje al personal de conducción incidir en la obligación de conducir, siempre que sea posible, en la cabina de cabeza cuando se realizan maniobras, con el fin de conseguir una mayor percepción de la operación."
+  },
+  {
+   "numero": "46/2015 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "CONTINENTAL RAIL",
+   "texto": "En las acciones de formación y reciclaje al personal de conducción incidir en la importancia de transmitir al responsable de circulación, la información de un suceso por los cauces normativamente establecidos y en el menor tiempo posible."
+  },
+  {
+   "numero": "46/2015 - 3",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "CONTINENTAL RAIL",
+   "texto": "Se reitera la recomendación de la CIAF 28/15-2: Que se elabore e incluya dentro del Sistema de Gestión de la Seguridad de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones tras un fallo humano, en función de la gravedad de éste, con el fin de conseguir un tratamiento uniforme en el proceso de reciclaje para la incorporación del trabajador a su puesto de trabajo tras una incidencia de este tipo."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

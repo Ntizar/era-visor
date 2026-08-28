@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-24-2011",
+ "pais": "ES",
+ "expediente": "0024/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0024/2011 OCURRIDO EL DÍA 30.05.2011 EN LA ESTACIÓN DE CALATAYUD (ZARAGOZA)",
+ "fecha_suceso": "2011-05-30",
+ "hora": "07:20",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Calatayud",
+  "provincia": "Zaragoza",
+  "lat": 41.3535,
+  "lng": -1.6458
+ },
+ "pk": "PK 224+556",
+ "linea": "50 Madrid Puerta de Atocha a Límite Adif- TP Ferro",
+ "trenes": [
+  {
+   "numero": "8476",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia (Avant), serie 104"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 8476 de Renfe Operadora ocurrió el 30 de mayo de 2011 en la estación de Calatayud (Zaragoza), sin causar víctimas mortales ni heridos, aunque provocó daños materiales en el material rodante y la infraestructura. La causa principal del suceso fue un fallo técnico en el desvío S1 CAL 2, que no funcionó adecuadamente al no comprobarse su posición.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo técnico en el desvío S1 CAL 2",
+ "conclusiones": [
+  "El accidente tuvo su origen en un fallo técnico de las instalaciones, al no funcionar adecuadamente el desvío S1 CAL 2."
+ ],
+ "recomendaciones": [
+  "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad).",
+  "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "24/11-1",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "texto": "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad)."
+  },
+  {
+   "numero": "24/11-2",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "texto": "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

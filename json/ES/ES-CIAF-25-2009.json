@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-25-2009",
+ "pais": "ES",
+ "expediente": "0025/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2009 OCURRIDO EL DÍA 05.06.2009 EN EL PASO A NIVEL DE LA ESTACIÓN DE MAÇANET-MASSANES (GERONA)",
+ "fecha_suceso": "2009-06-05",
+ "hora": "22:42",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Maçanet-Massanes",
+  "provincia": "Gerona",
+  "lat": 41.7774422,
+  "lng": 2.7309252
+ },
+ "pk": "176+126",
+ "linea": "270 Barcelona San Andrés Condal a Cerbere",
+ "trenes": [
+  {
+   "numero": "93559",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 5 de junio de 2009 en el paso a nivel de la estación de Maçanet-Massanes (Gerona), donde un tren de mercancías arrolló un automóvil. El suceso provocó la muerte del conductor del vehículo y daños materiales menores en la locomotora. La causa principal fue el cruce indebido del automóvil, que sorteó las barreras bajadas, posiblemente confundido por la circulación previa de otro tren sin interrupción de las señales de seguridad.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1  SUCESO..................................................................................................................................................3\n2.2  CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................8\n2.4  CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1  RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2  SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Cruce indebido del vehículo por el paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a nivel, sorteando las barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+  "El tren circulaba a una velocidad inferior a su máxima permitida en el tramo.",
+  "La actuación del maquinista fue correcta, haciendo uso del silbato y del freno de emergencia al percatarse de cómo el automóvil invadía intempestivamente la vía.",
+  "Tanto la tasa de alcoholemia como la jornada de trabajo del maquinista cumplen lo establecido en las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario.",
+  "Los equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente en el momento del accidente y de acuerdo a la normativa de seguridad.",
+  "Las barreras del paso a nivel estuvieron bajadas ininterrumpidamente durante 5 minutos antes de producirse el accidente.",
+  "El paso a nivel va a ser suprimido ya que se está construyendo un paso superior en el P.K. 176+274.",
+  "Minutos antes de que hiciera su paso el tren de mercancías había pasado un tren regional por el paso a nivel sin que entre ambos trenes se abrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

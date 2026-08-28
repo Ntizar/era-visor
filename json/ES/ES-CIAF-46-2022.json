@@ -1,0 +1,89 @@
+{
+ "id": "ES-CIAF-46-2022",
+ "pais": "ES",
+ "expediente": "46/2022",
+ "titulo": "IF 46/2022 — Incidente Operacional - Retroceso no autorizado ocurrido el día",
+ "fecha_suceso": "2022-06-01",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "El Papiol",
+  "provincia": "Barcelona",
+  "lat": 42.4984,
+  "lng": -6.5663
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente operacional ocurrido el 1 de junio de 2022 en el apeadero de El Papiol (Barcelona), donde el tren 77721 realizó un retroceso no autorizado sin causar víctimas ni daños materiales. La causa principal fue la confusión del maquinista entre el apeadero de El Papiol y la estación de Castellbisbal, agravada por el desvío de la atención y el incumplimiento de los procedimientos de seguridad.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................11\n3.1.3. Interceptación de la vía ...............................................................................................................................11\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante .............",
+ "causa_directa": null,
+ "conclusiones": [
+  "Los distintos factores se desarrollan detalladamente en párrafos siguientes de este apartado; para la determinación de los factores contribuyentes se han considerado los factores causales en las distintas fases temporales de este incidente. En primer lugar, se han tenido en cuenta los días y momentos inmediatamente previos al incidente; en segundo lugar, se tienen en cuenta los factores identificados en el momento concreto de inicio de la marcha en el apeadero de El Papiol en sentido Molins de Rei; y en último lugar, se tienen en cuenta los factores contribuyentes al suceso durante el lapso temporal en el que se produjo el movimiento no autorizado.",
+  "Para la correcta comprensión de cómo los factores contribuyentes se relacionan de forma concatenada, se han nombrado con letras y números. En el árbol causal presentado en la figura 13 se han marcado en color azul los factores causales, en color naranja los factores contribuyentes y en color verde los factores contribuyentes sistémicos.",
+  "Se destaca que uno de los factores contribuyentes más relevante y presente en varias fases del suceso fue el desvío del foco atencional. La confusión del apeadero de El Papiol con la estación de Castellbisbal estuvo relacionada con que, durante las maniobras de rotación, M-77721 tenía puesta su atención en un dispositivo electrónico, entre otros factores. Además, el desvío del foco atencional"
+ ],
+ "recomendaciones": [
+  "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral. Tener en cuenta, para ello, posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura tras largos periodos de inactividad laboral.",
+  "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando el contenido y los criterios de las pruebas psicológicas y procedimiento de los RM realizados al personal de conducción, tanto en la fase de acceso (habilitación) como de reciclaje (renovación), y en todos aquellos reconocimientos adicionales que se realicen tras periodos de baja prolongada, adecuándolos a los motivos de la baja, con el fin de detectar circunstancias o situaciones incompatibles con ",
+  "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas. Estableciendo sistemas parala coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Asimismo, llevar a cabo un análisis de la disponibilidad de medios adecuados en las residencias del personal de conducción para realizar dichas labores de supervisión y tutela, así como de transferencia de conocimientos al personal con menos experiencia.",
+  "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que permita mejorar la apreciación del riesgo en actividades críticas para la seguridad. Así como incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica, de acuerdo con la DA5ª de la Orden FOM/2872/2010, si considera que podría suponer un riesgo para ejercer sus tareas con garantías de seguridad.",
+  "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados.",
+  "Garantizar el cumplimiento de la RT 1/2020 de la"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "046/2022-01",
+   "texto": "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral. Tener en cuenta, para ello, posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura tras largos periodos de inactividad laboral.",
+   "implementador": ""
+  },
+  {
+   "numero": "046/2022-02",
+   "texto": "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando el contenido y los criterios de las pruebas psicológicas y procedimiento de los RM realizados al personal de conducción, tanto en la fase de acceso (habilitación) como de reciclaje (renovación), y en todos aquellos reconocimientos adicionales que se realicen tras periodos de baja prolongada, adecuándolos a los motivos de la baja, con el fin de detectar circunstancias o situaciones incompatibles con ",
+   "implementador": ""
+  },
+  {
+   "numero": "046/2022-03",
+   "texto": "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas. Estableciendo sistemas parala coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Asimismo, llevar a cabo un análisis de la disponibilidad de medios adecuados en las residencias del personal de conducción para realizar dichas labores de supervisión y tutela, así como de transferencia de conocimientos al personal con menos experiencia.",
+   "implementador": ""
+  },
+  {
+   "numero": "046/2022-04",
+   "texto": "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que permita mejorar la apreciación del riesgo en actividades críticas para la seguridad. Así como incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica, de acuerdo con la DA5ª de la Orden FOM/2872/2010, si considera que podría suponer un riesgo para ejercer sus tareas con garantías de seguridad.",
+   "implementador": ""
+  },
+  {
+   "numero": "046/2022-05",
+   "texto": "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados.",
+   "implementador": ""
+  },
+  {
+   "numero": "046/2022-06",
+   "texto": "Garantizar el cumplimiento de la RT 1/2020 de la",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "incidente",
+  "factor humano",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

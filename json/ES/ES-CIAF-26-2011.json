@@ -1,0 +1,73 @@
+{
+ "id": "ES-CIAF-26-2011",
+ "pais": "ES",
+ "expediente": "0026/2011",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0026/2011 ocurrido el día 01.06.2011 en la estación de Trasona (Asturias)",
+ "fecha_suceso": "2011-06-01",
+ "hora": "16:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "escape_material",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Trasona",
+  "provincia": "Asturias",
+  "lat": 43.545,
+  "lng": -5.823
+ },
+ "pk": "PK 27+510",
+ "linea": "11 Ferrol - Gijón",
+ "trenes": [
+  {
+   "numero": "9203",
+   "operador": "Feve",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 1 de junio de 2011 en la estación de Trasona (Asturias) provocó el escape a la deriva de ocho plataformas portabobinas vacías, sin causar víctimas ni daños materiales. La causa principal fue el incumplimiento normativo por parte del personal ferroviario, que no realizó correctamente el frenado y el corte del material, ni modificó la posición de las agujas para contener el deslizamiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1. SUCESO ................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..................",
+ "causa_directa": "Incumplimiento normativo del personal ferroviario",
+ "conclusiones": [
+  "El incidente se produce por el incumplimiento normativo del personal ferroviario.",
+  "Por una parte, del maquinista y del especialista de estaciones al no realizar correctamente el frenado del tren y el posterior corte del material, dando origen al deslizamiento.",
+  "Por otra parte, de la jefa de circulación al no modificar la posición de las agujas originando que el corte deslizado acceda a la vía general."
+ ],
+ "recomendaciones": [
+  "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche.",
+  "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía.",
+  "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "número": "26/11-1",
+   "texto": "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche."
+  },
+  {
+   "destinatario": "Feve",
+   "número": "26/11-2",
+   "texto": "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía."
+  },
+  {
+   "destinatario": "Feve",
+   "número": "26/11-3",
+   "texto": "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-24-2008",
+ "pais": "ES",
+ "expediente": "0024/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0024/2008 ocurrido el día 22.06.2008",
+ "fecha_suceso": "2008-06-22",
+ "hora": "05:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "P.K. 149,950 de la línea 200 Madrid-Barcelona, junto a un centro de ocio denominado Imperial Drink y su aparcamiento.",
+  "provincia": "Huesca",
+  "lat": 41.755467,
+  "lng": 0.441746
+ },
+ "pk": "149,950",
+ "linea": "200 Madrid-Barcelona",
+ "trenes": [
+  {
+   "numero": "11930",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de Larga Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 22 de junio de 2008 en el P.K. 149,950 de la línea 200 Madrid-Barcelona, junto al centro de ocio Imperial Drink. El suceso provocó la muerte de una joven de 16 años al ser arrollada por el tren 11930, sin causar daños materiales a la infraestructura o el material rodante. La causa principal fue la ocupación del gálibo de la vía por parte de la víctima, circunstancia que probablemente se vio favorecida por la iluminación y el ruido del establecimiento adyacente.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n22.06.08/ 05:25 horas\nLugar:\nP.K. 149,950\nLínea:\n200 Madrid-Barcelona\nTrayecto:\nTamarite  Altorricón - Almacelles\nProvincia:\n\nHuesca\nEl tren de viajeros de Larga Distancia 11930 de Renfe Operadora, formado por la locomotora\n252041 (10 vehículos Y masa remolcada de 490 Tm), a su paso por el P.K. 149,950 de la línea 200\nMadrid-Barcelona arrolla a una persona que se encontraba en la vía, sin percatarse de la presencia del\ntren. Como consecuencia del arrollamiento, la persona resultó cadáver.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 22 de junio a las 10:37 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una joven por el\ntren de larga distancia 11930, en el P.K. 149,950 de la línea 200 Madrid-Barcelona.\nEl Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, aprobado\npor el R",
+ "causa_directa": "Ocupación del gálibo de la vía por la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la ocupación por la víctima del gálibo de la vía al paso del tren 11930."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

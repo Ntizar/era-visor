@@ -1,0 +1,58 @@
+{
+ "id": "ES-CIAF-36-2009",
+ "pais": "ES",
+ "expediente": "0036/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2009 OCURRIDO EL DÍA 13.07.2009 EN EL PASO A NIVEL PARTICULAR EN JACA (HUESCA)",
+ "fecha_suceso": "2009-07-13",
+ "hora": "18:44",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Paso a nivel particular en Jaca",
+  "provincia": "Huesca",
+  "lat": 42.5667,
+  "lng": -0.55
+ },
+ "pk": "99+367",
+ "linea": "204 Bifurcación Huesca Cambiador - Canfranc",
+ "trenes": [
+  {
+   "numero": "15653",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de media distancia (Tren tipo 120 A)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 13 de julio de 2009 en el paso a nivel particular de Jaca (Huesca), donde el tren 15653 arrolló a un camión articulado. La colisión provocó heridos leves en el conductor del vehículo y una viajera, además de daños materiales significativos en el tren y la infraestructura. La causa principal del siniestro fue la ocupación indebida del gálibo de la vía por parte del camión, que invadió el paso a nivel sin respetar la señalización de stop.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1. SUCESO..................................................................................................................................................3\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4. CIRCUSTANCIAS EXTERNAS...................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD......................................",
+ "causa_directa": "Ocupación indebida del gálibo de la vía por parte del camión",
+ "conclusiones": [
+  "El accidente tiene su origen en la ocupación indebida del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

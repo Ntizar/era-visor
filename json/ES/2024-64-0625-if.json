@@ -1,0 +1,54 @@
+{
+ "id": "ES-2024-64-0625-if",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/2024-64-0625-if.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10614",
+ "expediente": "64/2024",
+ "titulo": "Incidente operacional tras reanudar marcha después de un SPAD en la estación de Cuenca-Fernando Zóbel",
+ "fecha_suceso": "2024-06-25",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro",
+ "ubicacion": {
+  "estacion": "Cuenca-Fernando Zóbel",
+  "provincia": null,
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "ADIF AV"
+ ],
+ "resumen": "El 25 de junio de 2024, el tren de alta velocidad 05903, con origen Murcia del Carmen y destino Madrid-Puerta de Atocha, sufrió un incidente operacional en la estación de Cuenca-Fernando Zóbel. El tren rebasó la señal S1/5 en aspecto FF7C, rojo fijo y azul fijo, bajo ERTMS Nivel 1, por lo que se activó el modo TRIP y el tren quedó detenido. El conductor contactó con el Centro de Regulación de Circulación de Albacete y la reanudación de la marcha fue autorizada sin que se reconociera el SPAD. Poco después, el responsable de circulación ordenó detener el tren y retroceder a la estación.",
+ "causa_directa": "El conductor interpretó erróneamente el aspecto FF7C de la señal S1/5 y no detuvo el tren, provocando un SPAD y la activación del modo TRIP. Además, el responsable de circulación autorizó la reanudación de la marcha sin reconocer que se había producido un SPAD.",
+ "causas_sistemicas": "La similitud entre los aspectos FF7C y FF7D, la necesidad de acciones distintas del conductor según el nivel de ERTMS, la atención requerida por el control de velocidad de liberación, la existencia de equipamiento ERTMS Nivel 2 no operativo en el tramo y la expectativa del conductor de recibir la Orden de Salida. También contribuyeron la experiencia previa del conductor con activaciones TRIP, el cambio de turno en el CRC, la falta de verificación del aspecto de la señal y la atención dividida por personal de formación en la cabina.",
+ "recomendaciones": [
+  "Realizar estudios específicos para mejorar la ergonomía de las señales luminosas de color en alta velocidad, teniendo en cuenta el factor humano y realizando la correspondiente evaluación de riesgos.",
+  "Poner en servicio el ERTMS Nivel 2 en las líneas equipadas con este nivel pero donde aún no está operativo.",
+  "Estudiar en las líneas equipadas con ambos niveles de ERTMS la posibilidad de desactivar el Nivel 1 eliminando el aspecto FF7D, realizando la evaluación de riesgos y del impacto sobre la capacidad.",
+  "Revisar los protocolos de actuación para la autorización de reanudación de la marcha tras un modo TRIP, incluidos en los sistemas de gestión de seguridad, facilitando al RC la confirmación del nivel de ERTMS en casos de coexistencia de niveles.",
+  "Establecer como medida mitigadora transitoria hasta la puesta en servicio del Nivel 2 la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero donde no está operativo.",
+  "Incluir en los PPTP de los proyectos que afecten al subsistema CMS condiciones que garanticen la compatibilidad técnica con los tramos adyacentes.",
+  "Potenciar los principios de cultura justa en lo referente a los rebases de señal."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "SPAD",
+  "Occurrence description": "National ID 64/2024: SPAD.\nHigh Speed train #05903 stopped (as scheduled) at Cuenca-Fernando Zóbel station. After getting on board a trainee driver, the driver resumed the journey at seeing exit signal S1/5, that was showing red + FIXED blue lights. This reaction was a wrong interpretation of the signal, because if the signal was authorising the exit, the blue light should be flashing (no fixed). This causes a SPAD, and ATP system triggers an emergency braking. No personal nor material damages.\nDriver has admitted it was a mistake. However, the NIB has considered that this incident reveals a wrong application of operational rules by both driver and signaller in charge, and this could by a hint of deeper training shortages.",
+  "Location name": "Cuenca Fernándo Zóbel (Cuenca)",
+  "Railway System type": "Railway",
+  "Line type": "Multiple track",
+  "Location type": "Station",
+  "Movement type": "High speed passenger train",
+  "RU involved": "Renfe Viajeros",
+  "IM involved": "Adif AV",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causal factors:\n1. Misinterpretation by the driver of the message transmitted by signal S1/5, which caused a SPAD. (See Recommendations 1, 2, 3, 5 and 7)\n2. Authorization to resume train movement issued by the signaller at the CRC, due to failure to recognize that the SPAD had occurred. (See Recommendations 1, 2, 3 and 4)",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors:\n1. Driver’s previous experience with TRIP mode activations at other points on the network. (See Recommendations 1 and 7)\n2. Shift change at the CRC. (See Recommendation 4)\n3. Failure by the driver to verify the signal aspect. (See Recommendations 1 and 7)\n4. Driver’s divided attention due to training personnel entering the cab. (See Recommendation 1)\nSystemic factors:\n1. Similarity between signal aspects FF7C and FF7D. (See Recommendation 3)\n2. Requirement for different driver actions in response to aspect FF7C within the same service, depending on the ERTMS level under which the train is operating. (See Recommendation 2)\n3. Attention required by the driver for release speed control. (See Recommendation 1)\n4. Existing track equipment with ERTMS Level 2, not operational on this section. (See Recommendation 2)\n5. Driver’s expectation of receiving the Movement Order (Exit Signal). (See Recommendations 2 and 3)"
+ }
+}

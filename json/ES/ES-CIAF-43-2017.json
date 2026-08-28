@@ -1,0 +1,80 @@
+{
+ "id": "ES-CIAF-43-2017",
+ "pais": "ES",
+ "expediente": "0043/2017",
+ "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0043/2017 ocurrido el día 25.07.2017 en la estación de Torralba (Soria)",
+ "fecha_suceso": "2017-07-25",
+ "hora": "20:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Torralba",
+  "provincia": "Soria",
+  "lat": 41.731709,
+  "lng": 0.442112
+ },
+ "pk": "PK 157+696",
+ "linea": "200 Madrid Chamartín a Barcelona Estació França",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "locomotora aislada",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 25 de julio de 2017 en la estación de Torralba (Soria) consistió en el rebase indebido de una señal y la posterior deriva de una locomotora aislada, sin causar víctimas ni daños materiales. La causa principal fue la falta de atención del personal de conducción al rebasar la señal, agravada por la rotura de la transmisión cardan del compresor que inutilizó el freno automático. Como factores subyacentes se identificaron la circulación con el sistema ASFA desconectado y la insuficiente aplicación del freno de estacionamiento sin uso de calces antideriva.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1. SUCESO ....................................................................................................................................................... 6\n2.1.1.\nDatos .................................................................................................................................................... 6\n2.1.2. Descripción del suceso .......................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ........................................................................................................................... 9\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ................",
+ "causa_directa": "Rebase indebido de la señal de entrada E1",
+ "conclusiones": [
+  "El rebase indebido de la señal de entrada E1 de la estación de Torralba se produce por no mantener la debida atención al aspecto de dicha señal por parte del personal de conducción (maquinista y OMI).",
+  "La deriva se produjo por fallo del material rodante, concretamente por la rotura producida en la transmisión cardan del motor diésel al compresor de freno, lo que propició que el freno automático de la locomotora quedara inoperativo antes del tiempo establecido en sus prestaciones, por la existencia de fugas en el circuito neumático.",
+  "Como causa subyacente, para el primer suceso, se considera que la locomotora circuló con el sistema ASFA analógico desconectado desde origen.",
+  "Como causa subyacente, del segundo suceso, se considera que en la estación no se asegura la locomotora suficientemente con el freno de estacionamiento.",
+  "Otra causa subyacente es la no inclusión de la revisión de la transmisión cardan, dentro del alcance de las intervenciones programadas en el plan de mantenimiento de la locomotora."
+ ],
+ "recomendaciones": [
+  "En la formación impartida al personal de conducción, debe insistirse en la importancia de: mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía; la obligatoriedad de circular con el sistema ASFA y el registrador de seguridad conectados desde origen; la colocación de calces antideriva en este tipo de locomotoras ante cualquier problema detectado en el freno automático.",
+  "Incluir en el manual de conducción de este tipo de locomotoras la obligatoriedad de la colocación de calces antideriva en los casos de paradas prolongadas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "43/2017-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Empresa Ferrovial Railway",
+   "contenido": "En la formación impartida al personal de conducción, debe insistirse en la importancia de: mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía; la obligatoriedad de circular con el sistema ASFA y el registrador de seguridad conectados desde origen; la colocación de calces antideriva en este tipo de locomotoras ante cualquier problema detectado en el freno automático."
+  },
+  {
+   "numero": "43/2017-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Empresa Ferrovial Railway",
+   "contenido": "Incluir en el manual de conducción de este tipo de locomotoras la obligatoriedad de la colocación de calces antideriva en los casos de paradas prolongadas."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "descarrilamiento",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

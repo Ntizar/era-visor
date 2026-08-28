@@ -1,0 +1,83 @@
+{
+ "id": "ES-CIAF-402-2013",
+ "pais": "ES",
+ "expediente": "402/2013",
+ "titulo": "IF 402/2013 — El día 03/05/2021 a las 9h47, el tren ALVIA 4271 de la empresa ferroviaria RENFE VIAJEROS que cubría",
+ "fecha_suceso": "2013-05-03",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Hostalric",
+  "provincia": "León",
+  "lat": 41.745189,
+  "lng": 2.633096
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "ADIF AV",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 02.11.2008 en el apeadero de Hostalric, donde un tren de Renfe Operadora arrolló a una joven que cruzaba las vías por un paso enmaderado. La consecuencia fue el fallecimiento inmediato de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue el cruce de la víctima sin percatarse de la proximidad del tren, agravado por la escasa visibilidad y la corta distancia de reacción disponible.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. SUCESO Y CIRCUNSTANCIAS .............................................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................13\n3.1.3. Interceptación de la vía ...............................................................................................................................14\n3.1.4. Personal y entidades ..................................................................................................................................14\n3.1.5. Material rodante ......",
+ "causa_directa": null,
+ "conclusiones": [
+  "- En la actuación de junio de 2020, en la que se llevó a cabo la sustitución del desvío de ancho ibérico D4T por el escape mixto D4-D2, quedaría instalada una brida tipo C en el espadín de ancho ibérico del corazón obtuso del desvío D4 que quedaría visible en el carril. Posteriormente, en julio de 2020, debido a las fallos de comprobación, después de haber sido analizado conjuntamente por los responsables de los subsistemas tanto de infraestructura como de CMS y bajo la dirección de obra, se procedió al desmontaje de los tirantes de comprobación del desvío D4 colocando una brida de tipo sándwich en el cerrojo del motor 4 alojada en el extremo de la traviesa cajón que sustituiría a la brida tipo C previamente colocada que fue retirada, manteniéndose el tirante de tracción del motor.",
+  "- La solución adoptada para solventar los problemas de comprobación en el desvío D4 de desmontar las timonerías no fue considerada como una modificación que requería de una documentación en el proyecto por lo que éste no fue objeto de una actualización ni de la evaluación de riesgos ni de la documentación donde se reflejaran las diferencias existentes entre la actuación proyectada y la 3.- En la actuación de 2021, de conexión lógica del escape D4-D2 al enclavamiento, los mismos problemas de fallos de comprobación detectados un año antes en el desvío D4 se volvieron a"
+ ],
+ "recomendaciones": [
+  "Establecer los mecanismos internos adecuados para garantizar que se aplica el procedimiento",
+  "Estudiar la conveniencia de establecer, en el procedimiento",
+  "Establecer acreditaciones que garanticen que los responsables técnicos nombrados según el procedimiento",
+  "Estudiar la incorporación de métodos que verifiquen que los requisitos técnicos exigidos en los PCAP y en los PPTP a los contratistas sean asimismo exigidos a los subcontratistas en las áreas de su competencia.",
+  "Asegurar la elaboración y actualización de la normativa técnica referida a desvíos de manera que se contemplen los aspectos técnicos de los desvíos de ancho mixto, en particular, en lo relativo a su montaje y mantenimiento, así como a la correcta colocación de los distintos tipos de dispositivos de embridado autorizados por"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "38/2021-2",
+   "texto": "Establecer los mecanismos internos adecuados para garantizar que se aplica el procedimiento",
+   "implementador": ""
+  },
+  {
+   "numero": "38/2021-3",
+   "texto": "Estudiar la conveniencia de establecer, en el procedimiento",
+   "implementador": ""
+  },
+  {
+   "numero": "38/2021-4",
+   "texto": "Establecer acreditaciones que garanticen que los responsables técnicos nombrados según el procedimiento",
+   "implementador": ""
+  },
+  {
+   "numero": "38/2021-5",
+   "texto": "Estudiar la incorporación de métodos que verifiquen que los requisitos técnicos exigidos en los PCAP y en los PPTP a los contratistas sean asimismo exigidos a los subcontratistas en las áreas de su competencia.",
+   "implementador": ""
+  },
+  {
+   "numero": "38/2021-6",
+   "texto": "Asegurar la elaboración y actualización de la normativa técnica referida a desvíos de manera que se contemplen los aspectos técnicos de los desvíos de ancho mixto, en particular, en lo relativo a su montaje y mantenimiento, así como a la correcta colocación de los distintos tipos de dispositivos de embridado autorizados por",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

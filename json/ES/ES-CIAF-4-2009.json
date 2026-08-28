@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-4-2009",
+ "pais": "ES",
+ "expediente": "0004/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0004/2009 OCURRIDO EL DÍA 20.01.2009 EN PLENA VÍA, ENTRE TORDERA Y BLANES",
+ "fecha_suceso": "2009-01-20",
+ "hora": "13:46",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Entre Tordera y Blanes",
+  "provincia": "Barcelona",
+  "lat": 41.744429,
+  "lng": 2.69368
+ },
+ "pk": "64+810",
+ "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+ "trenes": [
+  {
+   "numero": "25630",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 20 de enero de 2009 entre Tordera y Blanes, donde un tren de cercanías arrolló a un peatón que cruzaba la vía. El suceso provocó la muerte inmediata de la víctima y la interrupción de la circulación durante aproximadamente tres horas. La causa principal del accidente fue la invasión del galibo de la vía por parte de la víctima, quien utilizó un antiguo paso a nivel ya suprimido.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Invasión del galibo de la vía por la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del galibo de la vía por la víctima cuando pasaba el tren 25630."
+ ],
+ "recomendaciones": [
+  "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "DGF",
+   "numero": "04/09-1",
+   "texto": "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

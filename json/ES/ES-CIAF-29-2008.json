@@ -1,0 +1,55 @@
+{
+ "id": "ES-CIAF-29-2008",
+ "pais": "ES",
+ "expediente": "0029/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0029/2008 ocurrido el día 05.07.2008",
+ "fecha_suceso": "2008-07-05",
+ "hora": "11:56",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Medina del Campo",
+  "provincia": "Valladolid",
+  "lat": 41.3083,
+  "lng": -4.8333
+ },
+ "pk": "P.K. 206,300",
+ "linea": "100 Madrid-Hendaya",
+ "trenes": [
+  {
+   "numero": "408",
+   "operador": "Renfe Operadora",
+   "tipo": "Larga Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de viajeros 408 ocurrido el 5 de julio de 2008 en la estación de Medina del Campo provocó 9 heridos leves y daños materiales significativos en la infraestructura y el material rodante. La causa principal fue la falta de adecuación de la conducción por parte del maquinista, quien circuló a velocidades superiores a los límites permitidos en un tramo curvo.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n05.07.08/ 11:56 horas\nLugar:\nEstación de Medina del Campo (E.V. en P.K. 206,300)\nLínea:\n100 Madrid-Hendaya.\nProvincia:\n\nValladolid.\nDescarrilamiento de tren de viajeros 408 de larga distancia, compuesto por locomotora 252031 y\n23 vehículos TALGO (337 Tm remolcadas), cuando efectuaba su paso, con 309 minutos de retraso\nsobre su horario previsto, procedente de París y con destino Madrid-Chamartín, por vía 4 de la\nestación de Medina del Campo.\nResultaron descarrilados los 7 primeros vehículos, mientras que la locomotora quedó detenida\nencarrilada, a unos 30 metros de separación de la descomposición. Los 17 vehículos restantes\ntampoco descarrilaron.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 5 de julio a las 15:46 horas, a través de mensaje de correo electrónico, comunicó a la Comisión de\n\n\n\n\nInvestigación del accidente\n\n\n\n\nA\n\n\nInforme Final\n\n\n\n\n\n\nInvestigación de a",
+ "causa_directa": "Falta de adecuación de la conducción a las señales de limitación de velocidad",
+ "conclusiones": [
+  "El descarrilamiento se produce como consecuencia de la falta de adecuación de la conducción en un tramo en curva, por parte del maquinista, a las señales existentes de limitación de velocidad de 120 Km/h (anterior a la curva) y de 90 Km/h al entrar en ella, pasando por dichas señales a 154 y 151 Km/h respectivamente."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

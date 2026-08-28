@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-7-2002",
+ "pais": "ES",
+ "expediente": "7/2002",
+ "titulo": "IF121008240209CIAF",
+ "fecha_suceso": "2008-10-12",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Villalba de Guadarrama",
+  "provincia": "Asturias",
+  "lat": 43.4861,
+  "lng": -6.112
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 23 de octubre de 2008 en la estación de Villalba de Guadarrama, donde una locomotora aislada rebasó la señal de entrada debido a un frenado insuficiente. No se registraron víctimas ni daños materiales, aunque el tren sufrió un retraso de 315 minutos. La causa principal fue la incapacidad del sistema de frenado para reducir la velocidad adecuadamente, lo que provocó la activación del ASFA sin impedir el rebase de la señal.",
+ "descripcion": "3. RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES\n4. ANÁLISIS Y CONCLUSIONES\n5. MEDIDAS ADOPTADAS",
+ "causa_directa": null,
+ "conclusiones": [
+  "El accidente tuvo lugar, en la vía 3 de la playa de vías de la estación de Pravia, en el P.K.",
+  "0,287, de la línea 11 Ferrol - Gijón, trayecto Pravia – Avilés.",
+  "Según lo declarado por el maquinista, no se percató de la presencia de la víctima en el lugar Según el registrador de seguridad de la locomotora, el tren circulaba a una velocidad ligeramente superior a la permitida para el tipo de circulación que realizaba (maniobras). No obstante, este hecho no influyó en el desarrollo de los acontecimientos.",
+  "La jornada de trabajo del maquinista cumple lo establecido en la normativa laboral de FEVE en cuanto al tiempo máximo de conducción.",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente y de acuerdo a la normativa de seguridad.",
+  "A efectos de la causalidad del accidente se ha podido comprobar que:",
+  "Según se menciona en el informe de Feve, la víctima realizaba este recorrido habitualmente.",
+  "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como el informe particular de Feve, el técnico responsable de la investigación El accidente tuvo su origen en el tránsito de la víctima, ocupando la vía, sin estar autorizado Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de"
+ ],
+ "recomendaciones": [
+  "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona.",
+  "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías.",
+  "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona."
+  },
+  {
+   "texto": "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías."
+  },
+  {
+   "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-18-2009",
+ "pais": "ES",
+ "expediente": "0018/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0018/2009 OCURRIDO EL DÍA 24.03.2009 EN EL PASO A NIVEL CLASE A, ENTRE VILLARGORDO Y GRAÑENA",
+ "fecha_suceso": "2009-03-24",
+ "hora": "22:25",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_vehiculo",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "P.K. 137",
+  "provincia": "Jaén",
+  "lat": 37.965894,
+  "lng": -3.783939
+ },
+ "pk": "137+803",
+ "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+ "trenes": [
+  {
+   "numero": "18032",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros / Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 24 de marzo de 2009 en el paso a nivel clase A entre Villargordo y Grañena, donde el tren 18032 arrolló a una furgoneta que invadió la vía. El suceso provocó la muerte del conductor del vehículo y daños materiales en el tren, sin que la actuación del maquinista fuera imputable. La causa principal del accidente fue la invasión del paso a nivel por parte del vehículo en el momento del paso del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Invasión del paso a nivel por el vehículo",
+ "conclusiones": [
+  "El accidente tuvo su origen cuando el vehículo invade el paso a nivel en el momento en que el tren 18032 circulaba por él.",
+  "El tren circulaba a una velocidad inferior a su máxima permitida en el tramo (77 km/h frente a 80 km/h autorizados).",
+  "La actuación del maquinista fue correcta, haciendo uso del silbato y del freno de emergencia al percatarse del vehículo.",
+  "La tasa de alcoholemia del maquinista fue negativa (0,00 mg/1000 ml) y las jornadas de trabajo cumplían la normativa vigente.",
+  "Los equipos de seguridad del tren funcionaban correctamente en el momento del accidente."
+ ],
+ "recomendaciones": [
+  "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "18/09-1",
+   "destinatario": "Organismo titular del camino (Ayuntamiento de Jaén)",
+   "texto": "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

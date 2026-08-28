@@ -1,0 +1,75 @@
+{
+ "id": "ES-CIAF-11-2009",
+ "pais": "ES",
+ "expediente": "0011/2009",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0011/2009 OCURRIDO EL DÍA 12.02.2009 ENTRE CERDANYOLA DEL VALLÉS Y CERDANYOLA UNIVERSITAT",
+ "fecha_suceso": "2009-02-12",
+ "hora": "22:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cerdanyola del Vallés",
+  "provincia": "Barcelona",
+  "lat": 41.4929,
+  "lng": 2.1374
+ },
+ "pk": "351+200",
+ "linea": "224 Cerdanyola Universitat – Cerdanyola del Vallés",
+ "trenes": [
+  {
+   "numero": "53584",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  },
+  {
+   "numero": "MQ577",
+   "operador": "Adif",
+   "tipo": "Maquinaria de vía"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 12 de febrero de 2009 en Cerdanyola del Vallés, donde la maquinaria de vía MQ577 rebasó una señal de parada y talonó un cambio, quedando enfrentada a un tren de mercancías a 400 metros. El suceso no provocó víctimas ni daños materiales graves, aunque interrumpió la circulación y causó retrasos en otros servicios. La causa principal fue el rebase indebido de la señalización por parte de un tren cuya tripulación carecía de la habilitación reglamentaria para conducir.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................4\n2.1. SUCESO..................................................................................................................................................4\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.........................................................................................11\n3.3. NORMATIVA............................................................................",
+ "causa_directa": "Rebase indebido de la señal de salida S1/4",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren MQ 577 de la señal de salida S1/4 con indicación de parada (rojo), incumpliendo las órdenes dadas por la señalización.",
+  "Ninguno de los agentes que circulaban en la maquinaria de vía estaba habilitado para ello."
+ ],
+ "recomendaciones": [
+  "Cumplimiento de la Orden FOM/2520/2006, de 27 julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica.",
+  "Implantar un procedimiento que verifique que el personal de conducción y acompañamiento, en su caso, de los trenes de Adif cumplan los requisitos de la Orden FOM/2520/2006, de 27 de julio.",
+  "Analizar la posibilidad de realizar un cambio normativo para que los trenes de estas características (maquinaria de vía sin sistema ASFA y sin registrador de seguridad) cuando circulen en vía con tráfico abierto, o bien deban ser remolcados por máquinas tractoras que dispongan de los referidos sistemas o bien circulen al amparo del bloqueo por ocupación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Cumplimiento de la Orden FOM/2520/2006, de 27 julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica."
+  },
+  {
+   "texto": "Implantar un procedimiento que verifique que el personal de conducción y acompañamiento, en su caso, de los trenes de Adif cumplan los requisitos de la Orden FOM/2520/2006, de 27 de julio."
+  },
+  {
+   "texto": "Analizar la posibilidad de realizar un cambio normativo para que los trenes de estas características (maquinaria de vía sin sistema ASFA y sin registrador de seguridad) cuando circulen en vía con tráfico abierto, o bien deban ser remolcados por máquinas tractoras que dispongan de los referidos sistemas o bien circulen al amparo del bloqueo por ocupación."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

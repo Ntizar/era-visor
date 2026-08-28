@@ -1,0 +1,47 @@
+{
+ "id": "ES-CIAF-71-2021",
+ "pais": "ES",
+ "expediente": "71/2021",
+ "titulo": "IF 71/2021 — Descarrilamiento ocurrido el 6 de septiembre de 2021 en la",
+ "fecha_suceso": "2021-09-16",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "avería",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "El Prat de Llobregat",
+  "provincia": "Barcelona",
+  "lat": 41.2,
+  "lng": 1.6
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 6 de septiembre de 2021, un descarrilamiento en la estación de El Prat de Llobregat provocó daños materiales en la infraestructura y el material rodante, sin causar víctimas. La causa principal fue el talonamiento del desvío nº4, que se encontraba en posición invertida y sin comprobación, debido a una comunicación informal del equipo de mantenimiento y a fallos en la visualización del estado del enclavamiento por parte del controlador.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "avería",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

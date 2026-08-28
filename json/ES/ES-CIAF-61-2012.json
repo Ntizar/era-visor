@@ -1,0 +1,98 @@
+{
+ "id": "ES-CIAF-61-2012",
+ "pais": "ES",
+ "expediente": "0061/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0061/2012 OCURRIDO EL DÍA 06.09.2012 ENTRE LAS ESTACIONES DE ALMUDÉVAR Y TARDIENTA (HUESCA)",
+ "fecha_suceso": "2012-09-06",
+ "hora": "03:07",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Almudévar y Tardienta",
+  "provincia": "Huesca",
+  "lat": 41.397976,
+  "lng": 1.107508
+ },
+ "pk": "51+800",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "trenes": [
+  {
+   "numero": "82658",
+   "operador": "Renfe Operadora",
+   "tipo": "Mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 82658 ocurrido el 6 de septiembre de 2012 entre Almudévar y Tardienta no causó víctimas, pero provocó daños materiales en la infraestructura y material rodante. La causa principal fue la rotura de la mangueta del segundo eje del vagón decimocuarto, derivada del agarrotamiento del rodamiento por superar el plazo de mantenimiento, agravada por un fallo del detector de ejes calientes que asignó erróneamente la alarma al tren siguiente.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 4\n2.1.  SUCESO ................................................................................................................................................. 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ................................................................... 10\n2.4.  CIRCUNSTANCIAS EXTERNAS .............................................................................................................. 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ...................................................... 11\n3.1.  RESUMEN DE LAS DECLARACIONES .................................................................................................... 11\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...............",
+ "causa_directa": "Fallo del material móvil por rotura de la mangueta del eje",
+ "conclusiones": [
+  "El accidente tuvo su origen en el fallo del material móvil por la rotura de la mangueta derecha del segundo eje del vagón que ocupaba el decimocuarto lugar de la composición, según el sentido de la marcha.",
+  "La rotura fue consecuencia de un aumento de la temperatura en la caja de grasa debido al agarrotamiento del rodamiento de apoyo del extremo de dicho eje.",
+  "Se había superado el plazo límite de mantenimiento de los ejes del vagón.",
+  "Hubo un fallo del detector de ejes calientes (DEC) de Casetas que asignó erróneamente la alarma de caldeo al tren 81050, que circulaba a continuación, debido a un funcionamiento anómalo del sistema de numeración que persistía desde agosto de 2009.",
+  "El personal de conducción e circulación cumplió la normativa vigente en cuanto a títulos y habilitaciones, aunque existieron errores en la interpretación de la información de los detectores (asignación de rail 1/2) y en la gestión de las alarmas."
+ ],
+ "recomendaciones": [
+  "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones.",
+  "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado.",
+  "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo.",
+  "Realizar un reciclaje formativo en materia de gestión de alarmas de caldeo de ejes calientes al personal del puesto de mando de Miranda implicado en la gestión de las alarmas de caldeo que nos ocupa en este informe.",
+  "Revisar la operativa de funcionamiento de los DECs instalados en la RFIG con el fin de evitar una posible asignación errónea del número de tren.",
+  "Se reitera la recomendación nº 1 del expediente 51/2012: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipo de detectores de ejes clientes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Transfesa",
+   "numero": "61/12-1",
+   "texto": "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "61/12-2",
+   "texto": "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "61/12-3",
+   "texto": "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "61/12-4",
+   "texto": "Realizar un reciclaje formativo en materia de gestión de alarmas de caldeo de ejes calientes al personal del puesto de mando de Miranda implicado en la gestión de las alarmas de caldeo que nos ocupa en este informe."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "61/12-5",
+   "texto": "Revisar la operativa de funcionamiento de los DECs instalados en la RFIG con el fin de evitar una posible asignación errónea del número de tren."
+  },
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "61/12-6",
+   "texto": "Se reitera la recomendación nº 1 del expediente 51/2012: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipo de detectores de ejes clientes."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

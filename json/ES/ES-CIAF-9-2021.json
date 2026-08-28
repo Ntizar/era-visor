@@ -1,0 +1,74 @@
+{
+ "id": "ES-CIAF-9-2021",
+ "pais": "ES",
+ "expediente": "09/2021",
+ "titulo": "IF 09/2021 — Incidente operacional",
+ "fecha_suceso": "2019-02-08",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Blanes",
+  "provincia": "Barcelona",
+  "lat": 41.6778,
+  "lng": 2.792
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Informe Final 09/2021\n1.  RESUMEN\nEl incidente que se investiga se produjo el día 05/02/2021 sobre las 8h00 de la mañana en el lado\nMaçanet/Massanes de la estación de Blanes. Consistió en un incidente operacional por una orden de\nmarcha indebida en el que estuvieron implicados dos trenes de RENFE Viajeros: el tren 25603, que\nhabía sido autorizado a rebasar la señal de salida en dirección a Maçanet/Massanes con el bloqueo\nestablecido en sentido contrario, y el tren 25614 que venía desde Maçanet/Massanes que se\nencontraba detenido frente a la señal de entrada E2 de la estación de Blanes. Este último era un tren\nordinario que circulaba inmediatamente después de otro tren que, al venir con retraso, tuvo que ser\nreacomodado en la malla de circulaciones como tren especial con tres numeraciones: ",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .......................................................................................................................10\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante ..........",
+ "causa_directa": null,
+ "conclusiones": [
+  "En el caso particular de los cantones de bloqueo BLA entre estaciones con CTC, cuando éstos son gestionados por un único RC, éste dispone en su puesto de una información global de la situación de los trenes, ya que la controla de forma íntegra. Sin embargo, en los cantones entre bandas de regulación colaterales, como sólo gestiona directamente uno de los lados, la coordinación entre los RC del CTC es fundamental. Este análisis ha puesto de relieve, según se desprende de las declaraciones de los RC, que durante la gestión de situaciones degradadas los conflictos entre"
+ ],
+ "recomendaciones": [
+  "Incidir en las sesiones formativas impartidas a los RC del CTC que la información mostrada en el sistema videográfico tiene únicamente carácter informativo de ayuda a la gestión.",
+  "Definir protocolos adicionales, que tengan en cuenta la cadena de mando del CTC, para la verificación de las condiciones de autorización de rebase de una señal que ordene parada, de acuerdo con el artículo 5.2.1.2 del RCF. Así pues, se debería estudiar la conveniencia de incorporar la supervisión previa, por algún nivel superior a los RC del CTC, cuando se produzcan situaciones en las que sea preciso expedir trenes con autorización de rebase de la señal de salida o la expedición desde vías sin s",
+  "Estudiar la forma en que las incidencias reportadas por los RC por pérdidas de",
+  "Establecer un canal y procedimiento de interlocución entre el PM y los CG de las EEFF, de forma que no se interfiera la coordinación y supervisión de la información que precisan los RC para desarrollar sus funciones. Madrid, 29 de abril de 2022 Informe"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "09/2021-2",
+   "texto": "Incidir en las sesiones formativas impartidas a los RC del CTC que la información mostrada en el sistema videográfico tiene únicamente carácter informativo de ayuda a la gestión.",
+   "implementador": ""
+  },
+  {
+   "numero": "09/2021-3",
+   "texto": "Definir protocolos adicionales, que tengan en cuenta la cadena de mando del CTC, para la verificación de las condiciones de autorización de rebase de una señal que ordene parada, de acuerdo con el artículo 5.2.1.2 del RCF. Así pues, se debería estudiar la conveniencia de incorporar la supervisión previa, por algún nivel superior a los RC del CTC, cuando se produzcan situaciones en las que sea preciso expedir trenes con autorización de rebase de la señal de salida o la expedición desde vías sin s",
+   "implementador": ""
+  },
+  {
+   "numero": "09/2021-4",
+   "texto": "Estudiar la forma en que las incidencias reportadas por los RC por pérdidas de",
+   "implementador": ""
+  },
+  {
+   "numero": "09/2021-5",
+   "texto": "Establecer un canal y procedimiento de interlocución entre el PM y los CG de las EEFF, de forma que no se interfiera la coordinación y supervisión de la información que precisan los RC para desarrollar sus funciones. Madrid, 29 de abril de 2022 Informe",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

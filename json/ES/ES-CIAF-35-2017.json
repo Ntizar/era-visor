@@ -1,0 +1,99 @@
+{
+ "id": "ES-CIAF-35-2017",
+ "pais": "ES",
+ "expediente": "0035/2017",
+ "titulo": "Informe Final de la CIAF sobre el accidente ferroviario nº 0035/2017 ocurrido el día 28.07.2017 en la estación de França (Barcelona)",
+ "fecha_suceso": "2017-07-28",
+ "hora": "07:24",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de França",
+  "provincia": "Barcelona",
+  "lat": 41.385478,
+  "lng": 2.192077
+ },
+ "pk": "685+400",
+ "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": "Rodalies de Catalunya (Renfe)",
+   "tipo": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 10,
+ "danos_materiales": true,
+ "resumen": "El 28 de julio de 2017, un tren de Rodalies colisionó contra la topera de la estación de França en Barcelona, provocando 60 heridos y daños materiales significativos. La causa directa fue la falta de aplicación del freno por parte del maquinista, quien perdió la consciencia presumiblemente debido a un estado de somnolencia derivado de un descanso insuficiente.",
+ "descripcion": "",
+ "causa_directa": "Falta de aplicación del freno por parte del maquinista",
+ "conclusiones": [
+  "La causa directa del accidente fue la falta de aplicación del freno por parte del maquinista del tren 25502, durante el movimiento de estacionamiento en la vía 11.",
+  "La colisión se produjo estando activada una velocidad prefijada (a 28 km/h) durante el estacionamiento, contraviniendo la normativa.",
+  "La no aplicación del freno se debió a que el maquinista perdió presumiblemente la plena consciencia tras el arranque, atribuible a un estado de somnolencia.",
+  "El Dispositivo de Vigilancia (HM) funcionaba correctamente pero no detectó la semiinconsciencia.",
+  "El posible estado de somnolencia fue causado por falta de descanso la noche anterior.",
+  "Existen deficiencias en la trazabilidad de la documentación de asignación de maquinistas en situaciones de huelga.",
+  "Se detectan deficiencias en la cultura de seguridad y percepción del riesgo del maquinista.",
+  "El diseño y estado de la topera influyó en las consecuencias del impacto."
+ ],
+ "recomendaciones": [
+  "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, revisando manuales y evitando referencias a 'conducción automática'.",
+  "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten el uso de velocidad prefijada a bajas velocidades.",
+  "Formar y concienciar al personal de conducción sobre la importancia del sueño, descanso y percepción del riesgo.",
+  "Incluir tests de trastornos del sueño en las pruebas médicas periódicas del personal de conducción.",
+  "Promover un análisis sobre dispositivos complementarios al HM para detectar situaciones de semiinconsciencia.",
+  "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas.",
+  "Instar al cumplimiento de recomendaciones sobre toperas y estudiar distancias de deslizamiento.",
+  "Mejorar los procedimientos de registro y trazabilidad en la asignación de turnos en situaciones de huelga."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, revisando manuales y evitando referencias a 'conducción automática'."
+  },
+  {
+   "texto": "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten el uso de velocidad prefijada a bajas velocidades."
+  },
+  {
+   "texto": "Formar y concienciar al personal de conducción sobre la importancia del sueño, descanso y percepción del riesgo."
+  },
+  {
+   "texto": "Incluir tests de trastornos del sueño en las pruebas médicas periódicas del personal de conducción."
+  },
+  {
+   "texto": "Promover un análisis sobre dispositivos complementarios al HM para detectar situaciones de semiinconsciencia."
+  },
+  {
+   "texto": "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas."
+  },
+  {
+   "texto": "Instar al cumplimiento de recomendaciones sobre toperas y estudiar distancias de deslizamiento."
+  },
+  {
+   "texto": "Mejorar los procedimientos de registro y trazabilidad en la asignación de turnos en situaciones de huelga."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

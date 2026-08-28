@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-170506-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-170506-020207.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-13",
+ "expediente": "0022/2006",
+ "titulo": "Arrollamiento mortal de un joven por tren de Cercanías en Lorca San Diego (Murcia)",
+ "fecha_suceso": "2006-05-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Lorca San Diego",
+  "provincia": "Murcia",
+  "pk": "0,385",
+  "linea": "Línea 322 Murcia Cargas-Águilas"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "Un tren de Cercanías de Renfe arrolló a un joven de 17 años que cruzaba la vía de forma intempestiva entre el apeadero de Lorca San Diego y la estación de Lorca Sutullena, en el punto kilométrico 0,385 de la línea 322. El accidente ocurrió el 17 de mayo de 2006 a las 19:40, con la vía en recta y buena visibilidad. El maquinista activó el silbato y el freno de emergencia, pero no pudo detener el tren. La víctima falleció y no se produjeron daños materiales.",
+ "causa_directa": "La causa directa fue la imprudencia de la víctima, que cruzó la vía por un lugar no autorizado cuando el tren estaba muy próximo.",
+ "causas_sistemicas": "La ausencia de vallado o cerramiento en el tramo urbano o periurbano, con pasos irregulares que permiten el acceso a la vía, se señala como factor coadyuvante.",
+ "recomendaciones": [
+  "Proceder al vallado de la línea en sus tramos urbanos o periurbanos",
+  "Analizar la permeabilidad de la trama urbana respecto al ferrocarril y adoptar medidas para mejorarla si es deficiente"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by a train at open line while trying to cross the tracks.",
+  "Location name": "Railway line from Murcia to Aguilas at kilometre point 0,385.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

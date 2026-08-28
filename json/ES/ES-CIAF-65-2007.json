@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-65-2007",
+ "pais": "ES",
+ "expediente": "065/2007",
+ "titulo": "IF 065/2007 — El tren de mercancías nº 50565; de la empresa ferroviaria Renfe Operadora, compuesto por la",
+ "fecha_suceso": "2007-12-29",
+ "hora": "22:42",
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Abaroa",
+  "provincia": "Madrid",
+  "lat": 42.85,
+  "lng": -1.7167
+ },
+ "pk": "241,860",
+ "linea": "700 Intermodal Abando Ind. Prieto-Casetas",
+ "trenes": [
+  {
+   "numero": "50565",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  },
+  {
+   "numero": "26712",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de Cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El accidente ocurrió el 29 de diciembre de 2007 a las 22:42 horas en el apeadero de Abaroa-San Miguel, donde un tren de mercancías de Renfe Operadora arrolló y causó la muerte a una mujer de 16 años que cruzaba las vías por una zona no habilitada, tras haber descendido de un tren de Cercanías. La investigación determinó que la causa principal fue la imprudencia de la víctima al cruzar las vías sin comprobar la proximidad de las circulaciones, no utilizando los pasos superiores habilitados.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [
+  "C.T.C. de lo ocurrido y seguidamente bajo de la máquina con la linterna y me dirijo hacia atrás para prestar ayuda a las posibles víctimas, encontrándome con dos de los jóvenes que desesperadamente buscaban a sus acompañantes. Tras un rato de búsqueda por debajo del tren, es encontrada en un hueco debajo del andén. Los servicios médicos de la Cruz Roja intentan reanimarla pero no logran hacer nada, ya que el impacto había sido fuerte y se encontraba sin vida. Me pongo a disposición de la autoridad policial presente y miembros responsable de Adif; y tras la llegada del juez y médico forense se realiza la retirada del cadáver, y se permite la continuación del tren hasta Bilbao-Mercancías.” El lugar donde se produjo el arrollamiento se sitúa en el Apeadero de Abaroa-San Miguel, sito en el punto kilométrico 241,860 de la línea Intermodal Abando Ind. Prieto-Casetas. Es un tramo que discurre en vía doble.",
+  "El apeadero dispone de paso superior entre andenes, pero la persona arrollada y quienes le acompañaban se encontraban cruzando por la vía desde el andén de la vía 2 hacia el andén de Se constata, del registro de velocidad de la locomotora 269266-3, que el tren 50565 circulaba a velocidad inferior a la máxima permitida.",
+  "La locomotora del tren 50565 circulaba con el foco reducida la intensidad, tal y como se determina en el Reglamento General de Circulación.",
+  "De la prueba de alcoholemia, se constata que el maquinista se encontraba apto para el"
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-51-2008",
+ "pais": "ES",
+ "expediente": "0051/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0051/2008 OCURRIDO EL DÍA 18.10.2008",
+ "fecha_suceso": "2008-10-18",
+ "hora": "08:06",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Figueres",
+  "provincia": "Gerona",
+  "lat": 42.2637,
+  "lng": 2.9492
+ },
+ "pk": "247+215",
+ "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+ "trenes": [
+  {
+   "numero": "58551",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 18 de octubre de 2008 en el paso a nivel de la estación de Figueres, que provocó la muerte de un hombre de 81 años. Las investigaciones determinaron que la causa principal fue el cruce de la víctima por las vías a pesar de tener las barreras bajadas y los sistemas de aviso activados. No se identificaron fallos en la infraestructura ni en la actuación del maquinista, por lo que no se emitieron recomendaciones al estar prevista la supresión del paso a nivel.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n18.10.08/ 08:06\nLugar:\nPaso a nivel clase C, en el P.K. 247,215, en la estación de Figueres\nLínea:\n270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal\nTrayecto:\nFigueres – Portbou\nProvincia:\n\nGerona\nEl tren de mercancías 58551, de Renfe Operadora, compuesto por la locomotora 269509 y doce\nvagones, con masa remolcada de 353 Tn, a su paso por el paso a nivel de la estación de Figueres,\nhace caer a una persona que segundos antes había cruzado el paso con las barreras bajadas.\nEl maquinista, que al percatarse de la presencia de la víctima hace uso del silbato, no puede evitar\nque ésta, haciendo caso omiso de la advertencia, cruce delante del tren desestabilizándose y cayendo\ntras su paso. La caída provoca lesiones a la víctima que provocan su fallecimiento minutos más tarde.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), el\n18 de octubre a las 9:49 horas, a través de mensaje ",
+ "causa_directa": "Cruce de la víctima por el paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba con las barreras bajadas y sus sistemas de aviso luminoso y acústico activados.",
+  "El funcionamiento de la infraestructura y la actuación del maquinista se ajustaron a la normativa y no influyeron en el desarrollo de los hechos.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (70 km/h frente a 100 km/h permitidos).",
+  "El maquinista actuó correctamente al percatarse de la presencia de la víctima y hacer uso del silbato repetidas veces.",
+  "Tanto la tasa de alcoholemia como la jornada de trabajo del maquinista cumplían lo establecido en la normativa vigente."
+ ],
+ "recomendaciones": [
+  "No se estiman recomendaciones puesto que la supresión de este paso a nivel está prevista dentro del proyecto de la obra Variante de Figueres. Línea Barcelona-Portbou. Fase I, encargada por el Ministerio de Fomento a la Sociedad Estatal de Infraestructuras del Transporte Terrestre (SEITT), quien ha adjudicado el contrato de ejecución con fecha 07.07.08 (BOE 169, de 14 de julio de 2008)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "No se estiman recomendaciones puesto que la supresión de este paso a nivel está prevista dentro del proyecto de la obra Variante de Figueres. Línea Barcelona-Portbou. Fase I, encargada por el Ministerio de Fomento a la Sociedad Estatal de Infraestructuras del Transporte Terrestre (SEITT), quien ha adjudicado el contrato de ejecución con fecha 07.07.08 (BOE 169, de 14 de julio de 2008)."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

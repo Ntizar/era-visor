@@ -1,0 +1,35 @@
+{
+ "id": "ES-ID-030307-190707-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-030307-190707-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0019/2007",
+ "titulo": "Arrollamiento de dos personas por tren de mercancías en la estación de Viella, Asturias",
+ "fecha_suceso": "2007-03-03",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Viella",
+  "provincia": "Asturias",
+  "pk": "7,755",
+  "linea": "Línea 154 Tudela Veguín-Lugo de Llanera",
+  "lat": 43.4073407,
+  "lng": -5.7877722
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE Operadora"
+ ],
+ "resumen": "Un tren de mercancías de RENFE arrolló a dos personas que caminaban junto a la vía, de espaldas al tren, entre la señal avanzada y la de entrada de la estación de Viella. El suceso se produjo en el punto kilométrico 7,755 de la línea Tudela Veguín-Lugo de Llanera, a una velocidad de 69 km/h. Como consecuencia, una mujer falleció en el acto y un hombre resultó herido leve. El maquinista hizo señales acústicas y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento.",
+ "causa_directa": "La imprudencia de las víctimas al caminar por la vía, lugar no autorizado, invadiendo el gálibo del tren.",
+ "causas_sistemicas": "Zona semiurbana con la línea férrea en paralelo a la Carretera Comarcal SI-3 y sin cerramiento apreciable entre ambos, lo que facilitó el acceso de peatones a la vía.",
+ "recomendaciones": [
+  "Estudiar los itinerarios hacia la estación de Viella y la necesidad de reponer el cerramiento entre la Carretera SI-3 y la línea férrea.",
+  "Impulsar campañas de sensibilización sobre la prohibición de transitar o cruzar indebidamente por las líneas ferroviarias."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

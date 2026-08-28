@@ -1,0 +1,94 @@
+{
+ "id": "ES-CIAF-20-2017",
+ "pais": "ES",
+ "expediente": "0020/2017",
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0020/2017 OCURRIDO EL DÍA 23.03.2017 EN LA ESTACIÓN DE MADRID CHAMARTÍN (MADRID)",
+ "fecha_suceso": "2017-03-23",
+ "hora": "10:59",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación Madrid Chamartín",
+  "provincia": "Madrid",
+  "lat": 40.4726,
+  "lng": -3.6825
+ },
+ "pk": "0+000",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "trenes": [
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "Cercanías",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  },
+  {
+   "numero": null,
+   "operador": null,
+   "tipo": "Material vacío",
+   "serie": null,
+   "unidad": null,
+   "velocidad": null,
+   "viajeros": null
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 23 de marzo de 2017 en la estación de Madrid Chamartín, donde un tren de cercanías rebasó indebidamente una señal de parada con riesgo de colisión, sin causar víctimas ni daños materiales. La causa principal fue un déficit de atención del maquinista, que utilizó la velocidad prefijada en lugar de la conducción manual, incumpliendo los procedimientos de seguridad establecidos.",
+ "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO.............................................................................................................. 6\n2.1. SUCESO............................................................................................................................6\n2.1.1. Datos............................................................................................................................ 6\n2.1.2. Descripción del suceso................................................................................................... 7\n2.1.3. Decisión de abrir la investigación.................................................................................. 10\n2.2. CIRCUNSTANCIAS DEL SUCESO....................................................................................10\n2.2.1. Personal Ferroviario implicado ...................................................................................... 10\n2.2.2. Material rodante .....................................................",
+ "causa_directa": "Rebase indebido de señal S1/10 en indicación de parada",
+ "conclusiones": [
+  "El incidente consistió en el rebase indebido de señal por parte del tren 31116, con posibilidad de colisión con el tren 91963.",
+  "Causa directa e inmediata: Rebase indebido de la señal de salida S1/10 y la señal S1/10A, incumpliendo el Reglamento de Circulación Ferroviaria, debido a un déficit de atención por falta de percepción del riesgo.",
+  "Factor subyacente: Uso inapropiado de la velocidad prefijada por el maquinista del tren 31116, incumpliendo el Libro de Normas del Maquinista."
+ ],
+ "recomendaciones": [
+  "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía.",
+  "Estudiar la generación de incompatibilidades entre itinerarios por deslizamiento en salidas hacia la travesía T72, teniendo en cuenta las limitaciones de velocidad establecidas.",
+  "Establecer dentro del SGS de ADIF los procedimientos generales y específicos necesarios que definan los procesos, alcance y nivel de detalle a seguir en la elaboración de las Consignas que regulan la operatividad (Consignas A) en base al análisis de riesgo previamente realizado."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "20/2017 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "RENFE",
+   "texto": "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía."
+  },
+  {
+   "numero": "20/2017 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "ADIF",
+   "texto": "Estudiar la generación de incompatibilidades entre itinerarios por deslizamiento en salidas hacia la travesía T72, teniendo en cuenta las limitaciones de velocidad establecidas."
+  },
+  {
+   "numero": "20/2017 - 3",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+   "implementador": "ADIF",
+   "texto": "Establecer dentro del SGS de ADIF los procedimientos generales y específicos necesarios que definan los procesos, alcance y nivel de detalle a seguir en la elaboración de las Consignas que regulan la operatividad (Consignas A) en base al análisis de riesgo previamente realizado."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

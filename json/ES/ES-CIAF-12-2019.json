@@ -1,0 +1,49 @@
+{
+ "id": "ES-CIAF-12-2019",
+ "pais": "ES",
+ "expediente": "12/2019",
+ "titulo": "IF 12/2019 — responsabilidad del accidente o incidente y será independiente de cualquier investigación",
+ "fecha_suceso": "2019-02-08",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Castellgalí",
+  "provincia": "Barcelona",
+  "lat": 41.7257,
+  "lng": 1.8269
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 19,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 8 de febrero de 2019 en Castellgalí (Barcelona) que provocó la muerte de una maquinista y 108 heridos. La causa directa fue la circulación indebida a contravía del tren 15624, derivada de una incorrecta disposición de un desvío en la estación de Manresa y fallos en la supervisión del personal de circulación.",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "colisión",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

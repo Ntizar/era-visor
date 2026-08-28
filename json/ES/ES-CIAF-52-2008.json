@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-52-2008",
+ "pais": "ES",
+ "expediente": "0052/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0052/2008 OCURRIDO EL DÍA 20.10.2008",
+ "fecha_suceso": "2008-10-20",
+ "hora": "12:36",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Paso a nivel de la estación Santa María de Huerta",
+  "provincia": "Soria",
+  "lat": 41.263109,
+  "lng": -2.176422
+ },
+ "pk": "P.K. 191,876",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "trenes": [
+  {
+   "numero": "17012",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 20 de octubre de 2008 en el paso a nivel de Santa María de Huerta, donde un tren arrolló a una mujer que cruzó con las barreras bajadas. La consecuencia fue la muerte inmediata de la víctima, sin daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue la decisión de la peatona de cruzar la vía cuando estaba prohibido, mientras que la actuación del maquinista y el funcionamiento de las instalaciones se ajustaron a la normativa.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n20.10.08/ 12:36\nLugar:\nPaso a nivel tipo C, de la estación Santa María de Huerta, P.K. 191,876\nLínea:\n200 Madrid Chamartín - Barcelona Sants.\nTrayecto:\nArcos de Jalón - Ariza\nProvincia:\n\nSoria\nEl tren de media distancia 17012, de Renfe Operadora, compuesto por el motor 470136 (tres\ncoches y masa remolcada de 205 Tn), a su paso por el paso a nivel de clase C, de la estación de\nSanta María de Huerta, arrolla a una mujer que cruzaba con las barreras bajadas.\nEl maquinista, que advierte la intención de la víctima de cruzar el paso, hace uso del silbato pero\nno puede evitar el arrollamiento de la víctima quien resulta cadáver como consecuencia del impacto.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 20 de octubre a las 13:30 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una persona por el\ntren de media distanc",
+ "causa_directa": "Cruce de la víctima por el paso a nivel con barreras bajadas",
+ "conclusiones": [
+  "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba con las barreras bajadas y prohibido el paso para los peatones.",
+  "El funcionamiento de la infraestructura y la actuación del maquinista se ajustaron a la normativa y no influyeron en el desarrollo de los hechos.",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (140 km/h frente a 160 km/h permitidos).",
+  "El maquinista cumplía con los requisitos de habilitación, jornadas de trabajo y tasa de alcoholemia."
+ ],
+ "recomendaciones": [
+  "Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir este paso a nivel en el Programa de Supresión y Mejora de Pasos a Nivel cuando los presupuestos lo permitan."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir este paso a nivel en el Programa de Supresión y Mejora de Pasos a Nivel cuando los presupuestos lo permitan."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

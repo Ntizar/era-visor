@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-230207-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-230207-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-210",
+ "expediente": "012/2007",
+ "titulo": "Arrollamiento de una persona por tren de Cercanías a la entrada de la estación de Madrid-Atocha",
+ "fecha_suceso": "2007-02-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Madrid-Atocha",
+  "provincia": "Madrid",
+  "pk": "0,619",
+  "linea": "Línea 920 Móstoles El Soto-Parla"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 23 de febrero de 2007, un tren de Cercanías arrolló mortalmente a una persona que transitaba indebidamente por las vías en la playa de la estación de Madrid-Atocha. El maquinista aplicó el freno de urgencia al observar a la víctima, pero no pudo evitar el impacto debido a la distancia y condiciones de visibilidad nocturna. La investigación concluyó que el accidente se debió a la imprudencia de la víctima al invadir una zona restringida.",
+ "causa_directa": "Imprudencia de la víctima al transitar e invadir las vías férreas por un lugar indebido, contraviniendo la prohibición establecida en el Reglamento del Sector Ferroviario.",
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Fomentar campañas de sensibilización destinadas a la ciudadanía para concienciar sobre el peligro de cruzar o transitar por las vías del ferrocarril."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person crossed the tracks at the station and was hit by a regional train 17551.",
+  "Location name": "Madrid Atocha station. Railway from Fuenlabrada to Móstoles.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

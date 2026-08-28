@@ -1,0 +1,34 @@
+{
+ "id": "ES-ID-070406-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-070406-020207.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0016/2006",
+ "titulo": "Arrollamiento mortal de un joven por tren LD en Villena (Alicante)",
+ "fecha_suceso": "2006-04-07",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Villena",
+  "provincia": "Alicante",
+  "pk": "395,415",
+  "linea": "Madrid-Alicante",
+  "lat": 38.6360967,
+  "lng": -0.8659745
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "Un tren de Larga Distancia arrolló a un joven de 15 años que transitaba por la banqueta de la vía cerca de la estación de Villena. La víctima no percibió la llegada del tren al llevar auriculares y caminar de espaldas, pese a los avisos acústicos del maquinista. El suceso ocurrió en una zona urbana con vallado perimetral deteriorado que permitía el acceso irregular a la infraestructura.",
+ "causa_directa": "Imprudencia de la víctima al transitar por lugar no permitido sin percatarse de la llegada del tren, agravada por el uso de auriculares que impedían escuchar las señales acústicas.",
+ "causas_sistemicas": "Falta de conservación del vallado perimetral, que presentaba roturas y agujeros facilitando el acceso de personas a la vía como pasos viciosos.",
+ "recomendaciones": [
+  "Reparación del vallado actual reforzándolo en las zonas de mayor tránsito mediante la ejecución de un vallado perimetral que aumente la seguridad."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

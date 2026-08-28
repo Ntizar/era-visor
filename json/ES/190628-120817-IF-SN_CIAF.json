@@ -1,0 +1,34 @@
+{
+ "id": "ES-190628-120817-IF-SN_CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/190628-120817-IF-SN_CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0038/2017",
+ "titulo": "Incidente por fallo de enclavamiento y aguja 17 en la estación de Puebla de Sanabria (Zamora)",
+ "fecha_suceso": "2017-08-12",
+ "tipo_informe": "final",
+ "tipo_suceso": "fallos_senal",
+ "ubicacion": {
+  "estacion": "Puebla de Sanabria",
+  "provincia": "Zamora",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "RENFE VIAJEROS"
+ ],
+ "resumen": "El 12 de agosto de 2017 se produjo un incidente ferroviario en la estación de Puebla de Sanabria (Zamora) relacionado con un fallo en el enclavamiento y en la aguja 17. Tras una avería en el suministro eléctrico, se accionó manualmente el motor de la aguja y, al reponer el servicio, no se verificó correctamente su concordancia entre el campo y los cuadros de mando. El informe señala como causa directa el incumplimiento de la consigna por el responsable de circulación. También identifica deficiencias de diseño, mantenimiento y supervisión de la modificación del enclavamiento realizada en 2008.",
+ "causa_directa": "El responsable de circulación de la estación no mandó desde el cuadro de mando local la aguja 17 a sus dos posiciones para comprobar su buen funcionamiento tras la reparación de la avería eléctrica que había originado el accionamiento manual del motor.",
+ "causas_sistemicas": "El Manual de Operación no exigía comprobar la concordancia entre la posición real de la aguja y su representación en el CTC o cuadro de mando local tras cesar las causas del accionamiento manual; la modificación del enclavamiento de 2008 no fue ejecutada ni supervisada conforme a procedimiento y no se realizó análisis de modos de fallo; además, el diseño de los circuitos de mando y comprobación de la aguja 17 presentaba deficiencias que permitieron un fallo en contra de la seguridad.",
+ "recomendaciones": [
+  "Garantizar que las modificaciones de diseño de enclavamientos eléctricos que afecten a la seguridad se ejecuten según los procedimientos de ADIF e IT aplicables, con estudio, evaluación y valoración del riesgo validado por asesor independiente.",
+  "Tras cualquier suceso o avería por comportamiento en contra de la seguridad en un enclavamiento, adoptar medidas complementarias provisionales para mitigar el riesgo hasta su modificación o sustitución.",
+  "Incorporar en los procedimientos de mantenimiento de enclavamientos eléctricos la verificación del funcionamiento eléctrico y de la concordancia entre posición real de las agujas y cuadros de mando local/CTC antes de dar de alta la instalación."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

@@ -1,0 +1,47 @@
+{
+ "id": "ES-ID-170107-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-170107-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-189",
+ "expediente": "02/2007",
+ "titulo": "Arrollamiento de una persona en el paso entarimado de la estación de Sigüenza (Guadalajara)",
+ "fecha_suceso": "2007-01-17",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sigüenza",
+  "provincia": "Guadalajara",
+  "pk": "139,840",
+  "linea": "Madrid-Barcelona"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 17 de enero de 2007, un tren de mercancías de Renfe Operadora arrolló a una persona de 88 años que intentaba cruzar por un paso entarimado en la estación de Sigüenza. El suceso se produjo en el punto kilométrico 139,840 de la línea Madrid-Barcelona, en condiciones de niebla intensa. La víctima falleció y no se produjeron daños materiales. El informe califica el accidente como grave y lo atribuye a la invasión indebida de la vía.",
+ "causa_directa": "La invasión indebida de las vías por parte de la víctima al cruzar el paso entarimado en el momento del paso del tren.",
+ "causas_sistemicas": "La avanzada edad y movilidad reducida de la víctima, la niebla intensa que redujo la visibilidad y la existencia de pasos entre andenes a nivel sin señalización luminosa y acústica perceptible en el paso entarimado.",
+ "recomendaciones": [
+  "Suprimir los dos pasos entre andenes existentes en el apeadero y situados a 48 metros del eje de la estación de viajeros.",
+  "Dotar al paso entre andenes situado en el eje de la estación de señalización luminosa y acústica similar a la de los pasos a nivel peatonales, manteniendo el paso entarimado para vehículos sobre ruedas para personas de movilidad reducida."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person walking through the station board crossing, without realising the train was coming, is hit by the freight train 54615.",
+  "Location name": "Sigüenza station. Railway from Madrid to Barcelona.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

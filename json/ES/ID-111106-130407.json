@@ -1,0 +1,44 @@
+{
+ "id": "ES-ID-111106-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-111106-130407.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-32",
+ "expediente": "0047/2006",
+ "titulo": "Arrollamiento de una persona por tren de mercancías entre Rubí y San Cugat del Vallés (Barcelona)",
+ "fecha_suceso": "2006-11-11",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "10,450",
+  "linea": "Línea 246 Castellbisball-Mollet Sant Fost"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 11 de noviembre de 2006, un tren de mercancías de Renfe arrolló a una persona en la línea 246 Castellbisball-Mollet Sant Fost, entre Rubí y San Cugat del Vallés. La víctima salió súbitamente de unos cañaverales e invadió el gálibo de la vía con una azada. El accidente se produjo a las 17:23 horas en el punto kilométrico 10,450. El maquinista circulaba a 97 km/h, por debajo de la velocidad máxima permitida, y aplicó el freno de urgencia sin evitar el golpe.",
+ "causa_directa": "La invasión intempestiva del gálibo de la vía por parte de la víctima, que salió de los cañaverales con una azada y no percibió la llegada del tren.",
+ "causas_sistemicas": "El tramo discurría por zona rural sin cerramiento o vallado, con caminos próximos a la vía y pasos irregulares, aunque el informe consideró no viable un vallado perimetral al no tratarse de un núcleo urbano.",
+ "recomendaciones": [],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being knocked down by a freight train at open line. The man had suddenly came out of the surrounding area.",
+  "Location name": "Railway line from Tarragona to Barcelona to France at the kilometre point 10,450.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

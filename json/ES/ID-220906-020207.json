@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-220906-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-220906-020207.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-21",
+ "expediente": "0034/2006",
+ "titulo": "Arrollamiento mortal de una persona en la estación de Meirama (La Coruña)",
+ "fecha_suceso": "2006-09-22",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Meirama",
+  "provincia": "La Coruña",
+  "pk": "430,433",
+  "linea": "Zamora-La Coruña"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El tren de Media Distancia nº 2436 de Renfe arrolló a una mujer de 81 años en la entrada de la estación de Meirama. La víctima cruzó la vía por un paso irregular no habilitado para peatones mientras el tren circulaba a 100 km/h. A pesar del uso del silbato y el freno de emergencia por parte del maquinista, el impacto fue inevitable y causó la muerte inmediata de la persona.",
+ "causa_directa": "Imprudencia de la víctima al invadir intempestivamente la vía por un paso abusivo de peatones, lugar no habilitado para tal uso, en el momento de llegada del tren.",
+ "causas_sistemicas": "Existencia de un paso vicioso o irregular de acceso a las vías en la zona rural donde se produjo el accidente.",
+ "recomendaciones": [
+  "Proceder a la eliminación del paso vicioso detectado en la zona del arrollamiento por parte del responsable de la infraestructura."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion at unauthorised place.",
+  "Location name": "Railway from Zamora to La Coruña at kilometre point 430,433.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

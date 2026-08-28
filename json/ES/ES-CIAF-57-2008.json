@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-57-2008",
+ "pais": "ES",
+ "expediente": "0057/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0057/2008 OCURRIDO EL DÍA 03.11.2008",
+ "fecha_suceso": "2008-11-03",
+ "hora": "20:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cardedeu",
+  "provincia": "Barcelona",
+  "lat": 41.6353,
+  "lng": 2.3564
+ },
+ "pk": "143,105",
+ "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+ "trenes": [
+  {
+   "numero": "15818",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 3 de noviembre de 2008 en la estación de Cardedeu, donde un tren de cercanías arrolló a una mujer que cruzaba las vías sin autorización, causando su fallecimiento inmediato. La investigación concluye que la causa principal fue el tránsito no autorizado de la víctima por la caja de la vía, al no haber influido en el suceso ni la actuación del maquinista ni el funcionamiento del material rodante.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n03.11.08/ 20:29\nLugar:\nP.K. 143,105, en la estación de Cardedeu\nLínea:\n270 Portbou Cerbere-Barcelona Sant Andreu Comtal.\nTrayecto:\nBarcelona Sant Andreu Comtal a Sant Celoni.\nProvincia:\n\nBarcelona\nEl tren de cercanías 15818 de Renfe Operadora, compuesto por el automotor 440185, tres coches\ny masa remolcada de 205 Tn, a su paso por la estación de Cardedeu, a la altura del edificio de\nviajeros, arrolla a una persona que cruzaba la vía, de izquierda a derecha en el sentido de la marcha\ndel tren, y que, al percatarse de la llegada del tren, intentó subirse al andén, sin conseguirlo.\nEl maquinista, cuando se percata de la presencia de la víctima en la caja de la vía, hace uso del\nsilbato y acciona el freno de emergencia no pudiendo evitar su arrollamiento.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 3 de noviembre a las 22:23 horas, a través de mensaje de telefonía mó",
+ "causa_directa": "Tránsito no autorizado de la víctima por las vías",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+  "El funcionamiento de la infraestructura y la actuación del maquinista se ajustaron a la normativa y no influyeron en el desarrollo de los hechos.",
+  "Tanto el material rodante como los sistemas de control de la infraestructura funcionaban correctamente en el momento del accidente.",
+  "El tren circulaba a una velocidad inferior a la máxima permitida en el tramo (108 km/h frente a 140 km/h permitidos)."
+ ],
+ "recomendaciones": [
+  "Se recomienda estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación, para impedir el libre acceso a las vías desde el mismo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se recomienda estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación, para impedir el libre acceso a las vías desde el mismo."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

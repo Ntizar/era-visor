@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-28-2010",
+ "pais": "ES",
+ "expediente": "0028/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2010 OCURRIDO EL DÍA 14.06.2010 ENTRE CERDIDO Y ORTIGUEIRA (A CORUÑA)",
+ "fecha_suceso": "2010-06-14",
+ "hora": "08:32",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre Cerdido y Ortigueira",
+  "provincia": "A Coruña",
+  "lat": 43.59,
+  "lng": -7.61
+ },
+ "pk": "P.K. 43+559",
+ "linea": "11 Ferrol - Gijón",
+ "trenes": [
+  {
+   "numero": "FR 901",
+   "operador": "Feve",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías FR 901 ocurrido el 14 de junio de 2010 en Ortigueira (A Coruña) no provocó víctimas mortales ni heridos, aunque causó daños materiales cuantificados en más de 200.000 euros y la interrupción de la vía. La causa principal del accidente fue la circulación del tren con un exceso de velocidad del 28% respecto al límite permitido en la curva afectada. Como factor subyacente se identificó el incorrecto establecimiento de la velocidad máxima del tramo, que no se ajustaba a los parámetros geométricos de la infraestructura.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 6\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 7\n3.1. RESUMEN DE LAS DECLARACIONES...................................................................................................... 7\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.........................",
+ "causa_directa": "Exceso de velocidad del tren",
+ "conclusiones": [
+  "El accidente se produce al circular el tren FR 901 con exceso de velocidad.",
+  "Como factor subyacente se destaca el incorrecto establecimiento de la velocidad del tramo en la zona del accidente."
+ ],
+ "recomendaciones": [
+  "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "28/10-1",
+   "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

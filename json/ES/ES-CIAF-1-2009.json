@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-1-2009",
+ "pais": "ES",
+ "expediente": "0001/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2009 OCURRIDO EL DÍA 01.01.2009 EN LA ESTACIÓN DE SITGES",
+ "fecha_suceso": "2009-01-01",
+ "hora": "08:13",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Sitges",
+  "provincia": "Barcelona",
+  "lat": 41.2367,
+  "lng": 1.8034
+ },
+ "pk": "P.K. 643,230",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "trenes": [
+  {
+   "numero": "28467",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 1 de enero de 2009 en la estación de Sitges, que provocó la muerte de un hombre al ser arrollado por el tren 28467. Las consecuencias incluyeron la fatalidad de la víctima y la interceptación de la vía, aunque no se registraron daños materiales en la infraestructura. La causa principal del siniestro fue el acercamiento de la víctima al tren antes de que este hubiera quedado completamente detenido.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Acercamiento de la víctima al tren antes de que estuviera completamente parado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el acercamiento de la víctima al tren antes de que éste estuviera completamente parado."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

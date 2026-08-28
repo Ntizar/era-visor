@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-28-2011",
+ "pais": "ES",
+ "expediente": "0028/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2011 OCURRIDO EL DÍA 10.06.2011 EN EL PK 11+100 DE LA LÍNEA MADRID PUERTA DE ATOCHA A SEVILLA SANTA JUSTA",
+ "fecha_suceso": "2011-06-10",
+ "hora": "09:50",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "línea Madrid Puerta de Atocha a Sevilla Santa Justa",
+  "provincia": "Madrid",
+  "lat": 39.5,
+  "lng": -0.7167
+ },
+ "pk": "PK 11+100",
+ "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+ "trenes": [
+  {
+   "numero": "2071",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de alta velocidad Tipo 300"
+  },
+  {
+   "numero": "2100",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de alta velocidad"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 10 de junio de 2011 en el PK 11+100 de la línea Madrid-Sevilla, donde el tren 2071 arrolló un tubo metálico que invadió el gálibo de la vía. El suceso no causó víctimas mortales ni heridos, pero provocó daños materiales en el material rodante y la infraestructura, además de graves interrupciones en la circulación. La causa principal fue el incumplimiento de las condiciones de seguridad de la autorización de obras, al simultanear trabajos de hinca dirigida con la circulación de trenes en horario comercial.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 4\n2.1.  SUCESO ................................................................................................................................................. 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .............................................................................................................. 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ...................................................... 10\n3.1.  RESUMEN DE LAS DECLARACIONES .................................................................................................... 10\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..............",
+ "causa_directa": "Simultaneidad de trabajos de hinca de un tubo metálico con la circulación de trenes",
+ "conclusiones": [
+  "El accidente tuvo su origen al simultanear los trabajos que afectaban al cruce subterráneo de la plataforma de la vía con la circulación de trenes, incumpliéndose las condiciones de seguridad estipuladas en la autorización de ejecución de dichos trabajos."
+ ],
+ "recomendaciones": [
+  "En todas las autorizaciones de obras, que contengan prescripciones particulares referentes a actuaciones que, de alguna manera, pudieran afectar a la segura circulación de los trenes, incluir un apartado que con toda claridad establezca que las prescripciones particulares sean tratadas en la reunión inicial de coordinación de seguridad y salud (la cual se realiza antes del comienzo de las obras). En dicha reunión, los representantes en la misma por parte del administrador de la infraestructura leerán las prescripciones particulares contenidas en la autorización y serán tratadas por los asistentes, de manera que se pueda aclarar su alcance y las posibles dudas que suscitaran dichas prescripciones. Todos los asistentes a la reunión, y especialmente los representantes de la parte ejecutora de la obra (dirección de obra, jefatura de obra, etc.), deberán darse por enterados y así se hará constar en el acta de la citada reunión, la cual será firmada por todos los asistentes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "En todas las autorizaciones de obras, que contengan prescripciones particulares referentes a actuaciones que, de alguna manera, pudieran afectar a la segura circulación de los trenes, incluir un apartado que con toda claridad establezca que las prescripciones particulares sean tratadas en la reunión inicial de coordinación de seguridad y salud (la cual se realiza antes del comienzo de las obras). En dicha reunión, los representantes en la misma por parte del administrador de la infraestructura leerán las prescripciones particulares contenidas en la autorización y serán tratadas por los asistentes, de manera que se pueda aclarar su alcance y las posibles dudas que suscitaran dichas prescripciones. Todos los asistentes a la reunión, y especialmente los representantes de la parte ejecutora de la obra (dirección de obra, jefatura de obra, etc.), deberán darse por enterados y así se hará constar en el acta de la citada reunión, la cual será firmada por todos los asistentes."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

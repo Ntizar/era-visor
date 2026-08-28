@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-14-2010",
+ "pais": "ES",
+ "expediente": "0014/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0014/2010 OCURRIDO EL DÍA 05.03.2010 EN DUEÑAS (PALENCIA)",
+ "fecha_suceso": "2010-03-05",
+ "hora": "01:37",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Dueñas",
+  "provincia": "Palencia",
+  "lat": 41.873733,
+  "lng": -4.540391
+ },
+ "pk": "P.K. 278+952",
+ "linea": "100 Madrid Chamartín – Hendaya",
+ "trenes": [
+  {
+   "numero": "751",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 5 de marzo de 2010 en la estación de Dueñas (Palencia), que provocó la muerte de un operario al ser arrollado por el tren 751. La causa principal fue la invasión del gálibo de la vía por parte del trabajador sin la autorización del encargado de los trabajos.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................ 3\n2.1. SUCESO ............................................................................................................................ 3\n2.2. CIRCUNSTANCIAS DEL SUCESO.......................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES...................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS ............................................................................................. 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.......................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES .................................................................................... 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD ....................................................................... 13\n3.3. NORMATIVA.....................................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del operario sin autorización",
+ "conclusiones": [
+  "El accidente se produce al invadir el operario el gálibo de la vía en el momento en que pasaba el tren 751, sin tener autorización del encargado de los trabajos (agente autorizado de Adif)."
+ ],
+ "recomendaciones": [
+  "Insistir en acciones formativas dirigidas a los empleados de empresas que participan en la realización de trabajos en vía, donde se ponga de manifiesto la importancia de seguir estrictamente la cadena de mando y la importancia de cumplir las órdenes con exactitud cuando se esté trabajando en la vía (o en sus inmediaciones) habiendo circulaciones simultáneamente a los trabajos.",
+  "Realización de inspecciones dirigidas a neutralizar los incumplimientos de las normas establecidas para la realización de trabajos."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "14/10-1",
+   "texto": "Insistir en acciones formativas dirigidas a los empleados de empresas que participan en la realización de trabajos en vía, donde se ponga de manifiesto la importancia de seguir estrictamente la cadena de mando y la importancia de cumplir las órdenes con exactitud cuando se esté trabajando en la vía (o en sus inmediaciones) habiendo circulaciones simultáneamente a los trabajos."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "14/10-2",
+   "texto": "Realización de inspecciones dirigidas a neutralizar los incumplimientos de las normas establecidas para la realización de trabajos."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

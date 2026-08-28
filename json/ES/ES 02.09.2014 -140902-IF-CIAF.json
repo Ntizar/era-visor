@@ -1,0 +1,32 @@
+{
+ "id": "ES-ES 02.09.2014 -140902-IF-CIAF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ES 02.09.2014 -140902-IF-CIAF.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0051/2014",
+ "titulo": "Descarrilamiento de tren de mercancías entre Unquera (Cantabria) y Colombres (Asturias)",
+ "fecha_suceso": "2014-09-02",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Unquera - Colombres",
+  "provincia": "Asturias",
+  "pk": "451+557",
+  "linea": "RAM 770 Santander - Oviedo"
+ },
+ "entidades": [
+  "Renfe Mercancías",
+  "Adif"
+ ],
+ "resumen": "El 2 de septiembre de 2014, el tren de mercancías 9656 de Renfe Mercancías, con locomotoras 1908 y 1907 y 19 vagones, descarriló en el PK 451+557 de la línea RAM 770 Santander-Oviedo, entre Unquera y Colombres. El tren entró en una zona con limitación temporal de velocidad a 30 km/h y, tras aplicar tracción, descarriló a 32 km/h por defectos de geometría de vía. El convoy circuló descarrilado unos 107 metros hasta detenerse, sin víctimas mortales ni heridos.",
+ "causa_directa": "El accidente se produjo por defectos en la geometría de la vía, concretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma. El remonte de las ruedas exteriores se facilitó por una curva de radio reducido con fuerte descenso del peralte y baja velocidad.",
+ "causas_sistemicas": "Las labores de mantenimiento no fueron suficientes para restablecer condiciones adecuadas de circulación y suprimir la LTV a 30 km/h por inestabilidad de la plataforma. En la zona se medían alabeos, peraltes fuera de tolerancia y contaminación del balasto por drenaje ineficaz.",
+ "recomendaciones": [
+  "Impulsar la ejecución del proyecto Segunda intervención en refuerzo de asentamientos Colombres para restablecer las condiciones normales de circulación; mientras tanto mantener la LTV y las visitas de inspección."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

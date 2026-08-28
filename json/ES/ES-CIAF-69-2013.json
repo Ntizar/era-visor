@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-69-2013",
+ "pais": "ES",
+ "expediente": "0069/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0069/2013 OCURRIDO EL DÍA 27.10.2013 EN LA ESTACIÓN DE BARCELONA SANT ANDREU ARENAL (BARCELONA)",
+ "fecha_suceso": "2013-10-27",
+ "hora": "20:01",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Barcelona Sant Andreu Arenal",
+  "provincia": "Barcelona",
+  "lat": 41.435,
+  "lng": 2.19
+ },
+ "pk": "PK 361+098 (Aguja número 12)",
+ "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "28744",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías (Tipo 120A)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 27 de octubre de 2013, un descarrilamiento en la estación de Barcelona Sant Andreu Arenal provocó tres heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal fue el fallo humano del jefe de circulación, quien accionó por error la aguja nº 12 mientras el tren circulaba sobre ella, incumpliendo la normativa de seguridad. Este error, posiblemente derivado de la alta carga de trabajo, obligó a la interrupción de la circulación y activación del protocolo de emergencia.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo humano al accionar la aguja no 12",
+ "conclusiones": [
+  "El accidente se produce por fallo humano del personal de circulación, al realizar por error el accionamiento de la aguja nº 12 de la estación mientras estaba pasando el tren por dicha aguja, siendo probablemente su intención el accionar la aguja nº 4.",
+  "Dicho error puede ser debido a la carga de trabajo que el personal de circulación soportaba en ese momento, pues debía autorizar rebases a las circulaciones de cercanías y a su vez colaborar con el personal de instalaciones en la reparación de la avería existente.",
+  "No obstante el accionamiento de la aguja número 12 no fue procedente como tampoco lo hubiera sido el de la aguja número 4, sin antes verificar la no ocupación del circuito de vía A4.",
+  "Se incumple el artículo número 268.3 del RGC, que prohíbe manejar agujas a distancia cuando se encuentran vehículos sobre ellas."
+ ],
+ "recomendaciones": [
+  "Insistir en los cursos de reciclaje al personal de circulación del riesgo que suponen las conductas no conformes a norma, aunque éstas tengan por finalidad el intento de posibilitar la explotación ferroviaria en condiciones degradadas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "69/13-1",
+   "texto": "Insistir en los cursos de reciclaje al personal de circulación del riesgo que suponen las conductas no conformes a norma, aunque éstas tengan por finalidad el intento de posibilitar la explotación ferroviaria en condiciones degradadas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

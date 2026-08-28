@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-45-2012",
+ "pais": "ES",
+ "expediente": "0045/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0045/2012 EN LA ESTACIÓN DE ARÉVALO (ÁVILA)",
+ "fecha_suceso": "2012-06-15",
+ "hora": "07:17",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Arévalo",
+  "provincia": "Ávila",
+  "lat": 41.176095,
+  "lng": -4.790809
+ },
+ "pk": "PK 169+839 / PK 169+893",
+ "linea": "100 Madrid - Hendaya",
+ "trenes": [
+  {
+   "numero": "90602",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  },
+  {
+   "numero": "82202",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente de conato de colisión por alcance ocurrido el 15 de junio de 2012 en la estación de Arévalo (Ávila). No se registraron víctimas ni daños materiales, ya que los trenes se encontraban a más de 15 kilómetros de distancia cuando se detuvieron. La causa principal fue un fallo humano del maquinista del tren 90602, quien reanudó la marcha sin recibir la orden de marcha correspondiente.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 10\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................10\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Fallo humano del personal de conducción del tren 90602",
+ "conclusiones": [
+  "El incidente tuvo su origen en un fallo humano del personal de conducción del tren 90602, al reanudar la marcha sin haber recibido la orden de marcha (marche el tren), incumpliendo el artículo 432 del RGC."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

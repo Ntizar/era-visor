@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-40-2012",
+ "pais": "ES",
+ "expediente": "0040/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0040/2012 OCURRIDO EL DÍA 23.05.2012 EN LA ESTACIÓN DE TOCÓN - MONTEFRÍO (GRANADA)",
+ "fecha_suceso": "2012-05-23",
+ "hora": "21:20",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Tocón - Montefrío",
+  "provincia": "Granada",
+  "lat": 37.1872,
+  "lng": -3.6011
+ },
+ "pk": "88+612",
+ "linea": "426 Granada a Fuente de Piedra",
+ "trenes": [
+  {
+   "numero": "13946",
+   "operador": "Renfe Operadora",
+   "tipo": "Media distancia (Tipo 160 A)"
+  },
+  {
+   "numero": "175",
+   "operador": "Renfe Operadora",
+   "tipo": "Larga distancia Talgo (Tipo 200A)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 23 de mayo de 2012 en la estación de Tocón-Montefrío (Granada), donde el tren 13946 entró a vía desviada a velocidad excesiva talonando una aguja. No se registraron víctimas ni daños materiales en la infraestructura o el material rodante. La causa principal fue el incumplimiento por parte del maquinista de la indicación de anuncio de precaución de la señal de avanzada.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO...................................................................................................... 3\n2.1.\nSUCESO ............................................................................................................................................................ 3\n2.2.\nCIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ............................................................................ 11\n2.4.\nCIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................11\n3.1.\nRESUMEN DE LAS DECLARACIONES ..............................................................................................................",
+ "causa_directa": "Incumplimiento de la señal de avanzada por parte del maquinista",
+ "conclusiones": [
+  "El incidente tuvo su origen en el incumplimiento por parte del personal de conducción de la orden dada por la señal de avanzada de la estación de Tocón – Montefrío, en indicación de anuncio de precaución."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "40/12-1",
+   "texto": "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

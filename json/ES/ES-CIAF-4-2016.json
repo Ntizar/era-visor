@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-4-2016",
+ "pais": "ES",
+ "expediente": "0004/2016",
+ "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0004/2016 ocurrido el día 25.01.2016 en la estación de Elx Parc (Alicante)",
+ "fecha_suceso": "2016-01-25",
+ "hora": "23:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Elx Parc",
+  "provincia": "Alicante",
+  "lat": 38.257694,
+  "lng": -0.720584
+ },
+ "pk": "PK 20+094 (Señal E1) y PK 20+346 (Señal R1)",
+ "linea": "336 El Reguerón a Alacant Terminal",
+ "trenes": [
+  {
+   "numero": "EM485",
+   "operador": "Adif / Acciona / Ferrovial",
+   "tipo": "Tren de mantenimiento de infraestructura (perfiladora y bateadora)"
+  },
+  {
+   "numero": "10171",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 25 de enero de 2016 en la estación de Elx Parc (Alicante), donde un tren de mantenimiento rebasó señales de parada provocando un conato de colisión con un tren de viajeros. No se registraron víctimas ni daños materiales como consecuencia del suceso. La causa principal fue un fallo humano por falta de atención del personal de conducción del tren de mantenimiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1. SUCESO ....................................................................................................................................................... 5\n2.1.1.\nDatos .................................................................................................................................................... 5\n2.1.2.\nDescripción del suceso ...................................................................................................................... 6\n2.1.3.\nDecisión de abrir la investigación .................................................................................................... 7\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1.\nPersonal ferroviario implicado ...........................................................",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El incidente se produjo por fallo humano del personal de conducción del tren EM485 [compuesto por un agente de infraestructura, en funciones de maquinista con título de conducción A y por un operador de maquinaria de infraestructura].",
+  "Más concretamente por una falta de atención, dando lugar al rebase indebido de la señal de entrada E1 y de la de retroceso R1, que se encontraban ambas en indicación de parada, y al consecuente incumplimiento reglamentario.",
+  "Ninguna causa subyacente relacionada con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria.",
+  "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

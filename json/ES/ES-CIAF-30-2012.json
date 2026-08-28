@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-30-2012",
+ "pais": "ES",
+ "expediente": "0030/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2012 OCURRIDO EL DÍA 26.04.2012 EN LA ESTACIÓN DE RÍO HUERVA (ZARAGOZA)",
+ "fecha_suceso": "2012-04-26",
+ "hora": "23:58",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Río Huerva",
+  "provincia": "Zaragoza",
+  "lat": 41.691585,
+  "lng": -0.910127
+ },
+ "pk": "16+973",
+ "linea": "214 La Cartuja a CIM de Zaragoza",
+ "trenes": [
+  {
+   "numero": "99561",
+   "operador": "Logitren",
+   "tipo": "Mercancías (T100)"
+  },
+  {
+   "numero": "91182",
+   "operador": "Renfe Operadora",
+   "tipo": "Pasajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Logitren",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 26 de abril de 2012 en la estación de Río Huerva (Zaragoza), donde el tren de mercancías 99561 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 91182. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos operativos. La causa principal fue el incumplimiento de la orden de parada por parte del personal de conducción del tren 99561.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Rebase indebido de la señal de salida S1/3 por el tren 99561",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren de mercancías 99561 de la señal de salida S1/3, en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

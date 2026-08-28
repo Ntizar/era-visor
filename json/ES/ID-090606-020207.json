@@ -1,0 +1,32 @@
+{
+ "id": "ES-ID-090606-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-090606-020207.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0026/2006",
+ "titulo": "Arrollamiento de dos personas por tren Alaris en plena vía entre San Cristóbal de Los Angeles y San Cristóbal Industrial (Madrid)",
+ "fecha_suceso": "2006-06-09",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "9,550",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El tren de Larga Distancia Alaris nº 1184 arrolló a dos personas en plena vía mientras circulaba entre las estaciones de San Cristóbal de Los Angeles y San Cristóbal Industrial. Una persona falleció y la otra resultó herida grave. El accidente ocurrió porque las víctimas se encontraban indebidamente en la zona de vías, ignorando la aproximación del tren y el aviso sonoro del maquinista.",
+ "causa_directa": "Imprudencia temeraria de las víctimas, que permanecieron en la vía viendo llegar el tren y oyendo su silbato, sin abandonar la zona.",
+ "causas_sistemicas": "Tránsito indebido frecuente de personas hacia un poblado chabolista cercano, creando una ruta no autorizada junto a la vía a pesar de existir una pasarela peatonal próxima.",
+ "recomendaciones": [
+  "Fomentar campañas de concienciación y sensibilización ciudadana sobre el peligro de cruzar las vías por lugares no autorizados."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

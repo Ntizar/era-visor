@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-77-2012",
+ "pais": "ES",
+ "expediente": "0077/2012",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0077/2012 OCURRIDO EL DÍA 24.12.2012 EN LA ESTACIÓN DE LEZAMA (ÁLAVA)",
+ "fecha_suceso": "2012-12-24",
+ "hora": "01:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Lezama",
+  "provincia": "Álava",
+  "lat": 43.0134,
+  "lng": -2.976472
+ },
+ "pk": "194+047",
+ "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+ "trenes": [
+  {
+   "numero": "97161",
+   "operador": "Activa Rail",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Activa Rail",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 24 de diciembre de 2012, a las 01:00 horas, se produce el descarrilamiento del tren de mercancías 97161 de la empresa ferroviaria Activa Rail, en la estación de Lezama (Álava) de la línea 700. Descarrila el primer eje del primer bogie del segundo vagón, produciéndose el corte de la composición. El suceso se atribuye a un fallo de la infraestructura por peraltes y alabeos fuera de tolerancia, agravado por intensas lluvias y la altura mínima de pestaña de las ruedas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 6\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 7\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo de la infraestructura",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo de la infraestructura.",
+  "En la zona del descarrilamiento se verificaron peraltes y alabeos fuera de tolerancia de forma significativa, debido a una mala calidad de vía unido a intensas lluvias.",
+  "También pudo colaborar la altura de pestaña de las ruedas del vagón descarrilado, que habían sido torneadas 12 días antes, por lo que ésta era la mínima permitida."
+ ],
+ "recomendaciones": [
+  "Intensificar la vigilancia de la vía en la zona del accidente hasta la ejecución de las obras proyectadas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Intensificar la vigilancia de la vía en la zona del accidente hasta la ejecución de las obras proyectadas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-46-2008",
+ "pais": "ES",
+ "expediente": "0046/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0046/2008 OCURRIDO EL DÍA 02.10.2008",
+ "fecha_suceso": "2008-10-02",
+ "hora": "18:12",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "viaducto río Esla",
+  "provincia": "León",
+  "lat": 42.8,
+  "lng": -5.2
+ },
+ "pk": "P.K. 53,725",
+ "linea": "31 León - Bilbao (tramo Matallana-Balmaseda)",
+ "trenes": [
+  {
+   "numero": "7606",
+   "operador": "FEVE",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 2 de octubre de 2008 en el viaducto sobre el río Esla entre Cistierna y León, que provocó la muerte de una mujer al ser arrollada por el tren 7606 de FEVE. La causa principal del siniestro fue el tránsito de la víctima por un lugar no autorizado para cruzar el río, aprovechando que se trataba de un camino habitual para los propietarios de las fincas aledañas. No se registraron daños materiales en el material rodante ni en la infraestructura, limitándose las consecuencias a la víctima fatal y a las interrupciones en la circulación.",
+ "descripcion": "Como medida definitiva se recomienda, al tratarse de una zona de tránsito habitual por\npersonas ajenas a la actividad ferroviaria, el estudio, por parte de la administración\ncompetente, de la posibilidad de construcción de una pasarela peatonal que una ambas\nmárgenes del río, lo cual evitaría el uso del puente ferroviario por personas ajenas al\nferrocarril.\n2. HECHOS INMEDIATOS DEL SUCESO\n2.1\nSUCESO\nDía / Hora:\n\n02.10.08/ 18:12\nLugar:\nP.K. 53,725 viaducto río Esla\nLínea:\n31 León-Bilbao (tramo Matallana-Balmaseda)\nProvincia:\n\nLeón\nEl tren de viajeros 7606 de FEVE, compuesto por las Unidades de Tren Diesel Eléctricas\n(UTDE) 2456 y 2406, efectúa su salida de la estación de Cistierna con destino León. Tras salir de\nla curva que precede al puente sobre el río Esla, el maquinista observa a una mujer que camina\npor la caja de la vía en sentido de la marcha y de espalda al tren.\nEl maquinista hace uso del silbato repetidas veces y del freno neumático no pudiendo evitar el\narrollamiento y resul",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello."
+ ],
+ "recomendaciones": [
+  "Se recomienda como medida provisional el repintado del cartel existente de prohibido el paso y la colocación de otros tres más, uno en cada margen de la vía y en los puntos de acceso al viaducto.",
+  "Como medida definitiva se recomienda, al tratarse de una zona de tránsito habitual por personas ajenas a la actividad ferroviaria, el estudio, por parte de la administración competente, de la posibilidad de construcción de una pasarela peatonal que una ambas márgenes del río, lo cual evitaría el uso del puente ferroviario por personas ajenas al ferrocarril."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se recomienda como medida provisional el repintado del cartel existente de prohibido el paso y la colocación de otros tres más, uno en cada margen de la vía y en los puntos de acceso al viaducto."
+  },
+  {
+   "texto": "Como medida definitiva se recomienda, al tratarse de una zona de tránsito habitual por personas ajenas a la actividad ferroviaria, el estudio, por parte de la administración competente, de la posibilidad de construcción de una pasarela peatonal que una ambas márgenes del río, lo cual evitaría el uso del puente ferroviario por personas ajenas al ferrocarril."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

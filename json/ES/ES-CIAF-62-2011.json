@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-62-2011",
+ "pais": "ES",
+ "expediente": "0062/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0062/2011 OCURRIDO EL DÍA 15.12.2011 ENTRE ALDAIA Y VALENCIA (VALENCIA)",
+ "fecha_suceso": "2011-12-15",
+ "hora": "07:52",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Valencia Sant Isidre",
+  "provincia": "Valencia",
+  "lat": 39.499144,
+  "lng": -0.653887
+ },
+ "pk": "84+565",
+ "linea": "310 Aranjuez – Valencia Estació del Nord",
+ "trenes": [
+  {
+   "numero": "24406",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de cercanías"
+  },
+  {
+   "numero": "24403",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de cercanías"
+  },
+  {
+   "numero": "24404",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 15 de diciembre de 2011, un descarrilamiento ocurrió en la línea 310 entre Aldaia y Valencia, provocado por la colisión del tren 24406 con un barrón soporte del captador ASFA desprendido del tren anterior. El suceso no causó víctimas mortales ni heridos, aunque generó daños materiales cuantificados en 27.431,69 euros y alteraciones en la circulación. La causa principal del accidente fue un fallo técnico del material rodante, consistente en la rotura y desprendimiento del barrón de sujeción del captador ASFA debido a fatiga y oxidación.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo técnico del material",
+ "conclusiones": [
+  "El accidente tuvo su origen en un fallo técnico del material, al desprenderse en plena vía el barrón soporte del captador ASFA del automotor 592069 del tren 24403, produciendo el descarrilamiento del tren 24406 que circulaba a continuación."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

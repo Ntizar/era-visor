@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-10-2016",
+ "pais": "ES",
+ "expediente": "0010/2016",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0010/2016 ocurrido el día 23.01.2016 en la estación de Ascó (Tarragona)",
+ "fecha_suceso": "2016-01-23",
+ "hora": "12:17",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Ascó",
+  "provincia": "Tarragona",
+  "lat": 41.2167,
+  "lng": 0.5667
+ },
+ "pk": "518+063",
+ "linea": "210 Miraflores – Tarragona",
+ "trenes": [
+  {
+   "numero": "97535",
+   "operador": "TRANSFESA RAIL",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Transfesa Rail"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 97535 ocurrido el 23 de enero de 2016 en la estación de Ascó (Tarragona) no provocó víctimas, pero sí daños materiales considerables en el material rodante y la infraestructura. La causa principal fue un fallo de la infraestructura derivado de variaciones significativas de peralte, agravado por un deficiente drenaje y la desconsolidación del asiento de las traviesas.",
+ "descripcion": "2. HECHOS INMEDIATOS DEL SUCESO ................................................................................................................. 6\n2.1. SUCESO .............................................................................................................................. 6\n2.1.1. Datos ..........................................................................................................6\n2.1.2. Descripción del suceso .................................................................................7\n2.1.3. Decisión de abrir la investigación ..................................................................8\n2.2. CIRCUNSTANCIAS DEL SUCESO ........................................................................................ 9\n2.2.1. Personal Ferroviario implicado .......................................................................9\n2.2.2. Material rodante ...........................................................................................9\n2.2.3. Descripció",
+ "causa_directa": "Fallo de la infraestructura por variaciones de peralte significativas",
+ "conclusiones": [
+  "El descarrilamiento se produjo por fallo de la infraestructura en la zona del accidente, en concreto por la existencia de variaciones de peralte significativas (alabeo).",
+  "Como causa subyacente se apunta la desconsolidación del asiento de las traviesas, más pronunciado bajo el hilo bajo en la zona del descarrilamiento, debido a un deficiente drenaje y a su vez al considerable tráfico de mercancías de gran tonelaje que soporta la línea.",
+  "Se incumplió lo establecido en el SGS en lo relativo a la vigilancia y auscultación de la vía."
+ ],
+ "recomendaciones": [
+  "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura.",
+  "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "10/2016 - 1",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "texto": "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura."
+  },
+  {
+   "numero": "10/2016 - 2",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "texto": "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,101 @@
+{
+ "id": "ES-CIAF-6-2010",
+ "pais": "ES",
+ "expediente": "0006/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0006/2010 OCURRIDO EL DÍA 10.01.2010 EN MAJARABIQUE (SEVILLA)",
+ "fecha_suceso": "2010-01-10",
+ "hora": "19:49",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Majarabique",
+  "provincia": "Sevilla",
+  "lat": 37.413301,
+  "lng": -5.955673
+ },
+ "pk": "P.K. 568+250",
+ "linea": "400 Alcázar de San Juan – Cádiz",
+ "trenes": [
+  {
+   "numero": "112",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia (TALGO Alvia serie 130)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 10 de enero de 2010, un descarrilamiento del tren 112 de Renfe Operadora ocurrió en Majarabique (Sevilla), provocando tres heridos leves y daños materiales significativos. La causa principal fue un fallo en el proceso de cambio de ancho debido a la acumulación de nieve helada en el mecanismo de la rodadura, que impidió el enclavamiento correcto de las ruedas. Esta situación no fue detectada por el sistema de alarma por estar inoperativo, lo que permitió la circulación del tren en condiciones inseguras hasta su detención.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO......................................................................................................4\n2.1. SUCESO............................................................................................................................................................ 4\n2.2. CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.............................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES................................................................8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS................................................................................. 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.................................................................................................. 10\n3.3. NORMATIVA..........",
+ "causa_directa": "Fallo en el proceso de cambio de ancho debido a acumulación de nieve helada",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo en el proceso de cambio de ancho, al no quedar la rueda izquierda del primer eje del vehículo motriz de cola en el ancho de vía requerido.",
+  "Este fallo, posiblemente, fue producido por la acumulación de nieve helada en el mecanismo de cambio de la rodadura del bogie afectado.",
+  "Como causa subyacente, se considera la no actuación del sistema de detección de cerrojos caídos."
+ ],
+ "recomendaciones": [
+  "Estudiar y actualizar el procedimiento de paso por los cambiadores, incluyendo las últimas modificaciones realizadas, comprobando que estén definidas claramente las funciones de los operarios de la instalación y del personal de acompañamiento del tren en casos de circunstancias extraordinarias (por ejemplo existencia de nieve o hielo).",
+  "Sistema de detección de cerrojos caídos permanentemente activado, con indicación de falta de energía. Se precintarán los interruptores de puesta en marcha y desconexión del sistema.",
+  "Duplicar el sistema de detección de cerrojo no enclavado, mejorando, asimismo, la protección de los microrruptores para evitar actuaciones esporádicas que activen este sistema y que no corresponden a incidencias reales.",
+  "Estudiar la posibilidad de montar un sistema de indicación al maquinista para que, en caso de que haya un problema en el proceso de cambio, proceda a detener el tren.",
+  "Estudiar la posibilidad de instalación de un sistema de aviso de no desplazamiento de la rueda, por rotura de conducto neumático de cristal o por pedal mecánico, transmitiendo un aviso de frenado al tren."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "06/10-1",
+   "destinatarios": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "texto": "Estudiar y actualizar el procedimiento de paso por los cambiadores, incluyendo las últimas modificaciones realizadas, comprobando que estén definidas claramente las funciones de los operarios de la instalación y del personal de acompañamiento del tren en casos de circunstancias extraordinarias (por ejemplo existencia de nieve o hielo)."
+  },
+  {
+   "numero": "06/10-2",
+   "destinatarios": [
+    "Adif"
+   ],
+   "texto": "Sistema de detección de cerrojos caídos permanentemente activado, con indicación de falta de energía. Se precintarán los interruptores de puesta en marcha y desconexión del sistema."
+  },
+  {
+   "numero": "06/10-3",
+   "destinatarios": [
+    "Adif"
+   ],
+   "texto": "Duplicar el sistema de detección de cerrojo no enclavado, mejorando, asimismo, la protección de los microrruptores para evitar actuaciones esporádicas que activen este sistema y que no corresponden a incidencias reales."
+  },
+  {
+   "numero": "06/10-4",
+   "destinatarios": [
+    "Adif"
+   ],
+   "texto": "Estudiar la posibilidad de montar un sistema de indicación al maquinista para que, en caso de que haya un problema en el proceso de cambio, proceda a detener el tren."
+  },
+  {
+   "numero": "06/10-5",
+   "destinatarios": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "texto": "Estudiar la posibilidad de instalación de un sistema de aviso de no desplazamiento de la rueda, por rotura de conducto neumático de cristal o por pedal mecánico, transmitiendo un aviso de frenado al tren."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

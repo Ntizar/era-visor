@@ -1,0 +1,58 @@
+{
+ "id": "ES-CIAF-3-2011",
+ "pais": "ES",
+ "expediente": "0003/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 03/2011 OCURRIDO EL DÍA 16.01.2011 EN EL PASO A NIVEL CLASE A, EN EL TÉRMINO MUNICIPAL DE AGUADULCE (SEVILLA)",
+ "fecha_suceso": "2011-01-16",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Aguadulce",
+  "provincia": "Sevilla",
+  "lat": 37.219327,
+  "lng": -4.881576
+ },
+ "pk": "87+782",
+ "linea": "422 Bif. Utrera a Fuente de Piedra",
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 16 de enero de 2011 en el paso a nivel de Aguadulce (Sevilla), donde un tren de Renfe arrolló a un vehículo de carretera que invadió la vía. El suceso provocó dos heridos leves y daños materiales significativos en el material rodante y la infraestructura. La causa principal fue la invasión del gálibo de la vía por parte del vehículo carretero, que cruzó el paso a nivel sin cerciorarse de la circulación del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................... 3\n2.1. SUCESO ................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ......................................................... 9\n3.1. RESUMEN DE LAS DECLARACIONES ...................................................................................................... 9\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD ..............",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo de carretera",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 13943."
+ ],
+ "recomendaciones": [
+  "Adecuar el paso a nivel a lo establecido en la OM de 2/8/2001: bien dotándolo de protección clase B, por ser su momento de circulación superior a 1.000; o bien proceder a su supresión promoviendo su concentración al paso a nivel del PK 86+900, por estar ambos situados a menos de 1.000 metros de distancia."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF)",
+   "numero": "03/11-1",
+   "texto": "Adecuar el paso a nivel a lo establecido en la OM de 2/8/2001: bien dotándolo de protección clase B, por ser su momento de circulación superior a 1.000; o bien proceder a su supresión promoviendo su concentración al paso a nivel del PK 86+900, por estar ambos situados a menos de 1.000 metros de distancia."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

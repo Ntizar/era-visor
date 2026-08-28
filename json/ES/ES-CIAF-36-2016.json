@@ -1,0 +1,84 @@
+{
+ "id": "ES-CIAF-36-2016",
+ "pais": "ES",
+ "expediente": "0036/2016",
+ "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0036/2016 ocurrido el día 18.07.2016 en la estación de Boñar (León)",
+ "fecha_suceso": "2016-07-18",
+ "hora": "08:28",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Boñar",
+  "provincia": "León",
+  "lat": 43.201436,
+  "lng": -3.169331
+ },
+ "pk": "pk 30+184",
+ "linea": "790 La Asunción Universidad-Aranguren (RAM)",
+ "trenes": [
+  {
+   "numero": "UT 2903",
+   "operador": "Renfe Viajeros",
+   "tipo": "Maniobra (Automotor diésel serie 2900)"
+  },
+  {
+   "numero": "71490",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de cercanías (Unidad 2600)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 18 de julio de 2016, en la estación de Boñar (León), se produjo un incidente con conato de colisión entre la maniobra UT 2903 y el tren 71490 que no dejó heridos ni daños materiales. La causa principal fue el fallo humano del jefe de maquinistas de la UT 2903, quien, distraído por una prueba de motor, rebasó el límite de maniobras a 46 km/h y quedó inmovilizado en plena vía.",
+ "descripcion": "2.\nHECHOS INMEDIATOS DEL SUCESO......................................................................................................6\n2.1. SUCESO.......................................................................................................................................................6\n2.1.1.\nDatos....................................................................................................................................................6\n2.1.2.\nDescripción del suceso......................................................................................................................6\n2.1.3.\nDecisión de abrir la investigación....................................................................................................8\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................9\n2.2.1.\nPersonal ferroviario implicado.....................................................................",
+ "causa_directa": "Fallo humano del jefe de maquinistas de la maniobra UT 2903",
+ "conclusiones": [
+  "El incidente se produjo por fallo humano del personal de conducción (jefe de maquinistas) de la maniobra UT 2903, concretamente por una falta de atención en la conducción que produjo el rebase indebido del límite de maniobras de la estación de Boñar por aplicación tardía del freno.",
+  "La falta de atención del jefe de maquinistas fue debida a que estaba pendiente de las indicaciones de los parámetros del motor en los relojes del pupitre de conducción, ya que realizaba una prueba de rendimiento del motor.",
+  "Para realizar la prueba de rendimiento, se superó el límite de velocidad establecido para maniobras (10 km/h), alcanzándose 46 km/h.",
+  "El jefe de circulación de Boñar autorizó la maniobra sabiendo que se iba a establecer bloqueo telefónico para otro tren y conociendo las condiciones indebidas de velocidad.",
+  "Como factor coadyuvante, el jefe de maquinistas no se puso en contacto inmediatamente con el puesto de mando de Bilbao, retrasando la actuación.",
+  "Como segundo factor coadyuvante, se produjo una avería inoportuna del frenado de urgencia de la maniobra UT 2903, lo que provocó la inmovilización total del vehículo en plena vía."
+ ],
+ "recomendaciones": [
+  "En los cursos de formación y reciclaje a maquinistas, insistir en la necesidad de cumplir con las limitaciones de velocidad establecidas para la realización de maniobras en estaciones.",
+  "En los cursos de formación y reciclaje de jefes de circulación, insistir en la necesidad de conocer con precisión las maniobras a realizar por el material móvil a su cargo y no permitir aquellas que puedan provocar situaciones no seguras."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "36/16-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Renfe Operadora",
+   "texto": "En los cursos de formación y reciclaje a maquinistas, insistir en la necesidad de cumplir con las limitaciones de velocidad establecidas para la realización de maniobras en estaciones."
+  },
+  {
+   "numero": "36/16-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador": "Adif",
+   "texto": "En los cursos de formación y reciclaje de jefes de circulación, insistir en la necesidad de conocer con precisión las maniobras a realizar por el material móvil a su cargo y no permitir aquellas que puedan provocar situaciones no seguras."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "paso a nivel",
+  "colisión",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

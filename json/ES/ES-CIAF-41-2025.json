@@ -1,0 +1,80 @@
+{
+ "id": "ES-CIAF-41-2025",
+ "pais": "ES",
+ "expediente": "41/2025",
+ "titulo": "IF 41/2025 — Incidente operacional en la",
+ "fecha_suceso": "2025-05-22",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Cortes de Navarra",
+  "provincia": "Navarra",
+  "lat": 42.1667,
+  "lng": -1.6667
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "ADIF AV",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Informe Técnico Provisional 41/2025\n1. RESUMEN\nEl 22 de mayo de 2025, a las 21:53, el tren de media distancia 18079 de Renfe Viajeros, procedente\nde Miraflores y con destino a Castejón, rebasó indebidamente la señal de salida S1/1 de la estación\nde Cortes de Navarra tras efectuar su parada comercial en la vía 1, talonando la aguja 6. La señal\nhabía sido cerrada de forma intempestiva por el Responsable de Circulación (RC) del Centro de\nRegulación de Circulación (CRC) de Miranda de Ebro, con el objetivo de retener el tren en la estación\npara que fuera adelantado por la vía 3 por el tren 00801, que circulaba detrás, sin parada en dicha\nestación. Este cierre de señal no fue conocido por el maquinista del tren 18079, ya que el RC lo\ncomunicó erróneamente al maquinista del tren 18078, que se enc",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................12\n3.1.3. Interceptación de la vía ...............................................................................................................................12\n3.1.4. Personal y entidades ..................................................................................................................................12\n3.1.5. Material rodante .............",
+ "causa_directa": null,
+ "conclusiones": [
+  "Modificación del itinerario establecido para el tren 18079 tras su parada comercial en la estación de Cortes de Navarra por parte del RC del CRC de Miranda de Ebro, que conllevó el cierre de la señal de salida S1/1. Ver Recomendaciones 41/2025-1, 41/2025-3 y 41/2025-4.",
+  "Inicio de movimiento del tren 18079 después de la parada comercial en la estación de Cortes de Navarra sin advertir del cambio de aspecto de la señal de salida S1/1 pasando de ordenar vía libre a ordenar parada. Ver Recomendación 41/2025-1.",
+  "Rebase de la señal S1/1 y talonamiento de la aguja 6 de la estación de Cortes de Navarra por el tren 18079. Ver Recomendación 41/2025-2.",
+  "Retroceso del tren 18079 hacia la estación de Cortes de Navarra debido a la falta de detección del talonamiento de la aguja 6. Ver Recomendación 41/2025-2.",
+  "Informe Técnico Provisional 41/2025 Factores contribuyentes Falta de verificación del estado de la señal por parte del maquinista del 18079 antes de reanudar la marcha en la vía 1 de Cortes de Navarra. Ver Recomendación 41/2025-1.",
+  "Error en la comunicación del cierre de la señal S1/1 por parte del RC del CRC de Miranda de Ebro al establecer contacto con el tren 18079 en lugar del 18078. Ver Recomendación Ausencia de confirmación de la ubicación y del nombre de la señal S1/1 en las"
+ ],
+ "recomendaciones": [
+  "Garantizar, mediante la vigilancia interna y supervisión de las comunicaciones entre el personal de conducción y el personal de circulación, el cumplimiento estricto, en cualquier situación operacional, de los protocolos de comunicación establecidos en los SGS del Administrador de Infraestructuras y las",
+  "Incidir en los contenidos del plan de formación del personal de conducción y circulación sobre la identificación de situaciones de riesgo en casos de talonamiento de las agujas y/o retroceso en los aparatos de vía con riesgo de descarrilamiento.",
+  "Analizar las características operativas del sistema “Tren- Tierra” en los puestos CTC durante los procesos de entrada y salida de trenes en la banda de regulación y, en su caso, adoptar medidas que eviten efectos no deseados sobre las selecciones de tren realizadas por los RC.",
+  "Mejorar la coordinación y las comunicaciones entre RC de puestos de CTC de bandas colaterales dentro de un propio CRC o de distintos CRC."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "41/2025-1",
+   "texto": "Garantizar, mediante la vigilancia interna y supervisión de las comunicaciones entre el personal de conducción y el personal de circulación, el cumplimiento estricto, en cualquier situación operacional, de los protocolos de comunicación establecidos en los SGS del Administrador de Infraestructuras y las",
+   "implementador": ""
+  },
+  {
+   "numero": "41/2025-2",
+   "texto": "Incidir en los contenidos del plan de formación del personal de conducción y circulación sobre la identificación de situaciones de riesgo en casos de talonamiento de las agujas y/o retroceso en los aparatos de vía con riesgo de descarrilamiento.",
+   "implementador": ""
+  },
+  {
+   "numero": "41/2025-3",
+   "texto": "Analizar las características operativas del sistema “Tren- Tierra” en los puestos CTC durante los procesos de entrada y salida de trenes en la banda de regulación y, en su caso, adoptar medidas que eviten efectos no deseados sobre las selecciones de tren realizadas por los RC.",
+   "implementador": ""
+  },
+  {
+   "numero": "41/2025-4",
+   "texto": "Mejorar la coordinación y las comunicaciones entre RC de puestos de CTC de bandas colaterales dentro de un propio CRC o de distintos CRC.",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "descarrilamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-5-2014",
+ "pais": "ES",
+ "expediente": "0005/2014",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0005/2014 OCURRIDO EL DÍA 23.01.2014 ENTRE LAS ESTACIONES DE CALZADA DE BUREBA Y BRIVIESCA (BURGOS)",
+ "fecha_suceso": "2014-01-23",
+ "hora": "11:43",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "entre las estaciones de Calzada de Bureba y Briviesca",
+  "provincia": "Burgos",
+  "lat": 42.6283507,
+  "lng": -3.2473609
+ },
+ "pk": "422+950",
+ "linea": "100 Hendaya a Madrid-Chamartín",
+ "trenes": [
+  {
+   "numero": "282",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia (Tipo 160A)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 23 de enero de 2014 entre las estaciones de Calzada de Bureba y Briviesca (Burgos), donde el tren 282 de Renfe Operadora arrolló una plataforma de trabajos en la vía II. No se produjeron víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y la infraestructura. La causa principal fue un fallo humano del jefe del CTC de Miranda de Ebro, quien bloqueó por error la vía I en lugar de la vía II, permitiendo la circulación del tren por la vía ocupada.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo humano del jefe del CTC al bloquear incorrectamente la vía I en lugar de la vía II",
+ "conclusiones": [
+  "El accidente se produce por fallo humano del personal de circulación (jefe del CTC de Miranda de Ebro) al realizar una operación de circulación incorrecta.",
+  "Por equivocación, el jefe del CTC bloqueó la vía I entre Calzada de Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por telefonema al encargado de trabajos."
+ ],
+ "recomendaciones": [
+  "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "05/14-1",
+   "texto": "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

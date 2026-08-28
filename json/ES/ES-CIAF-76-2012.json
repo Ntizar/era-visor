@@ -1,0 +1,58 @@
+{
+ "id": "ES-CIAF-76-2012",
+ "pais": "ES",
+ "expediente": "0076/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0076/2012 OCURRIDO EL DÍA 21.12.2012 EN LA ESTACIÓN DE VALENCIA-FONT DE SANT LLUIS",
+ "fecha_suceso": "2012-12-21",
+ "hora": "11:15",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Valencia-Font de Sant Lluis",
+  "provincia": "Valencia",
+  "lat": 39.453,
+  "lng": -0.352
+ },
+ "pk": "PK 2+000",
+ "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+ "trenes": [
+  {
+   "numero": "1112",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  },
+  {
+   "numero": "10596",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 21 de diciembre de 2012 en la estación de Valencia-Font de Sant Lluis, donde el tren 1112 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 10596. El suceso no causó víctimas ni daños materiales, aunque generó retrasos en la circulación. La causa principal fue el incumplimiento de la orden de parada por parte del maquinista, quien perdió la concentración debido a una avería en la cabina.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ................................................................................................................ 9\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ................................................................................................",
+ "causa_directa": "Rebase indebido de la señal E2B en indicación de parada",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido del tren de viajeros 1112 de la señal de entrada E2B, en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

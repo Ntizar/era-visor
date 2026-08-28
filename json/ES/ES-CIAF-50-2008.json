@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-50-2008",
+ "pais": "ES",
+ "expediente": "0050/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0050/2008 OCURRIDO EL DÍA 15.10.2008",
+ "fecha_suceso": "2008-10-15",
+ "hora": "07:31",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Apartadero de El Caleyo",
+  "provincia": "Asturias",
+  "lat": 43.3667,
+  "lng": -5.85
+ },
+ "pk": "P.K. 134,396",
+ "linea": "130 Venta de Baños - Gijón",
+ "trenes": [
+  {
+   "numero": "22003",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de cercanías / automotor 463011"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 15 de octubre de 2008 en el apartadero de El Caleyo, Asturias, que provocó la muerte de un hombre de 90 años al ser arrollado por el tren de cercanías 22003. La causa principal del siniestro fue el tránsito no autorizado de la víctima por la caja de la vía, lugar por donde circulaba el tren. No se registraron daños materiales en el material rodante ni en la infraestructura, aunque sí se produjeron retrasos en la circulación de otros trenes.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n15.10.08/ 07:31\nLugar:\nP.K. 134,396, en el apartadero de El Caleyo\nLínea:\n130 Venta de Baños - Gijón\nTrayecto:\nSoto del Rey - Oviedo\nProvincia:\n\nAsturias\nEl tren de cercanías 22003 de Renfe Operadora, compuesto por el automotor 463011 (tres coches\ny masa remolcada de 154 Tn), cuando circulaba por el apartadero de El Caleyo, arrolla a un hombre\nque transitaba por la caja de la vía, en el sentido de la marcha del tren, y que, al percatarse de la\nllegada del tren, intentó subirse al andén sin conseguirlo.\nEl maquinista hace uso del silbato y acciona el freno de emergencia no pudiendo evitar el\narrollamiento de la víctima que resulta cadáver.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 15 de octubre a las 8:28 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una persona por el\ntren de cercanías 22003 en el apart",
+ "causa_directa": "Tránsito no autorizado de la víctima por la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello."
+ ],
+ "recomendaciones": [
+  "Evaluar, por la autoridad competente, las condiciones de seguridad del cruce a nivel entre andenes y establecer, en consecuencia, la conveniencia de mejorar la señalización, instalar protección o construir un paso a distinto nivel."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Evaluar, por la autoridad competente, las condiciones de seguridad del cruce a nivel entre andenes y establecer, en consecuencia, la conveniencia de mejorar la señalización, instalar protección o construir un paso a distinto nivel."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

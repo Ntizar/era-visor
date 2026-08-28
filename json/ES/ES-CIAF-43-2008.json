@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-43-2008",
+ "pais": "ES",
+ "expediente": "0043/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0043/2008 OCURRIDO EL DÍA 25.09.2008",
+ "fecha_suceso": "2008-09-25",
+ "hora": "13:21",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Plena vía",
+  "provincia": "Málaga",
+  "lat": 36.764791,
+  "lng": -4.442201
+ },
+ "pk": "P.K. 14,250",
+ "linea": "426 Granada-Fuente de Piedra",
+ "trenes": [
+  {
+   "numero": "GR376",
+   "operador": "Renfe Operadora",
+   "tipo": "Complementario vacío de Media Distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 25 de septiembre de 2008 en el punto kilométrico 14,250 de la línea Granada-Fuente de Piedra, donde un tren arrolló a una mujer que cruzaba la vía por un lugar no autorizado. La consecuencia fue el fallecimiento inmediato de la víctima, quien presentaba problemas de audición que le impieron percibir las señales del maquinista. La causa principal del suceso fue el tránsito de la persona por un paso vicioso no autorizado en el momento del paso del tren.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n25.09.08/ 13:21\nLugar:\nP.K. 14.250, en plena vía\nTrayecto:\nAntequera - Bif. Las Maravillas\nLínea:\n426 Granada- Fuente de Piedra.\nProvincia:\n\nMálaga\nEl tren de Complementario vacío de Media Distancia GR376 de Renfe Operadora, compuesto por el\nvehículo automotor 592.042 y 3 vehículos, y masa remolcada de 133 Tn, arrolla a una mujer que\ncruzaba la vía por lugar no autorizado. La víctima no se había percatado de la presencia del tren\npuesto que, según los vecinos de la zona, padecía problemas de audición.\nEl maquinista hace uso del silbato repetidas veces  y acciona el freno de emergencia no pudiendo\nevitar el arrollamiento, resultando cadáver la persona golpeada.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 25 de septiembre a las 14:22 horas, a través de mensaje de telefonía móvil, comunicó a la\nque se había producido el arrollamiento de una\npersona por el tren de Me",
+ "causa_directa": "Tránsito de la víctima por un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello, en el momento en que pasaba el tren."
+ ],
+ "recomendaciones": [
+  "Se recomienda, a la autoridad competente, la instalación de señales fijas que adviertan del peligro de cruzar las vías y de la existencia de un paso superior a 200 metros."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Se recomienda, a la autoridad competente, la instalación de señales fijas que adviertan del peligro de cruzar las vías y de la existencia de un paso superior a 200 metros."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

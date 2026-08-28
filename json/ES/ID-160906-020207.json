@@ -1,0 +1,48 @@
+{
+ "id": "ES-ID-160906-020207",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-160906-020207.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-20",
+ "expediente": "0033/2006",
+ "titulo": "Arrollamiento de operario y retroexcavadora por tren de mercancías en Montcada i Reixach-Santa María (Barcelona)",
+ "fecha_suceso": "2006-09-16",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Montcada i Reixach-Santa María",
+  "provincia": "Barcelona",
+  "pk": "353,200",
+  "linea": "Línea 220 Lérida-Barcelona"
+ },
+ "entidades": [
+  "Renfe",
+  "Adif"
+ ],
+ "resumen": "El 16 de septiembre de 2006, un tren de mercancías de Renfe arrolló una retroexcavadora y a un operario de COVISA en la entrada del apeadero de Montcada i Reixach-Santa María, en la línea Lérida-Barcelona. El accidente causó un fallecido y un herido, además de daños materiales y un incendio en la máquina. Los trabajos se habían iniciado en vía II sin la protección adecuada, mientras el tren circulaba por esa misma vía.",
+ "causa_directa": "El arrollamiento se produjo porque los trabajos en vía II no estaban correctamente protegidos ni autorizados conforme al RGC, permitiendo que el tren de mercancías circulara por la vía donde se encontraban la retroexcavadora y el operario.",
+ "causas_sistemicas": "Deficiencias en la aplicación de los procedimientos de concesión de intervalos y protección de trabajos, con información errónea sobre el retraso del tren y posible insuficiencia de formación/reciclaje del personal.",
+ "recomendaciones": [
+  "Incidir en los planes de formación y reciclaje del personal de circulación e infraestructura de Adif en la estricta y correcta aplicación del Reglamento General de Circulación y en las consecuencias de su incumplimiento."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 1,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A backhoe loader operator died after being hit by rolling stock in motion at open line while working on the railway.",
+  "Location name": "Railway from Lérida to Barcelona at kilometre point 330,200.",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Freight train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Staff fatalities": 1,
+  "Total fatalities": 1,
+  "Staff serious injuries": 1,
+  "Total serious injuries": 1
+ }
+}

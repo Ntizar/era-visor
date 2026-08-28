@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-51-2014",
+ "pais": "ES",
+ "expediente": "0051/2014",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0051/2014 ocurrido el día 02.09.2014 entre la estación de Unquera (Cantabria) y el apeadero de Colombres (Asturias)",
+ "fecha_suceso": "2014-09-02",
+ "hora": "21:11",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Unquera (Cantabria) y el apeadero de Colombres",
+  "provincia": "Asturias",
+  "lat": 43.384025,
+  "lng": -4.546685
+ },
+ "pk": "PK 451+557",
+ "linea": "770 RAM Santander - Oviedo",
+ "trenes": [
+  {
+   "numero": "9656",
+   "operador": "Renfe Mercancías",
+   "tipo": "Tren de mercancías (Servicio de Ancho Métrico - SAM)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Mercancías"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 9656 ocurrió el 2 de septiembre de 2014 en Ribadedeva, entre Unquera y Colombres, sin causar víctimas ni heridos. La causa principal fue la existencia de defectos en la geometría de la vía, concretamente alabeos provocados por un drenaje insuficiente de la plataforma. Se produjeron daños materiales valorados en 80.000 euros en el material rodante y la infraestructura.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 7\n2.2.1. Personal ferroviario implicado ....................................",
+ "causa_directa": "Defectos en la geometría de la vía, específicamente alabeos por drenaje insuficiente",
+ "conclusiones": [
+  "El accidente se produjo por la existencia de defectos en la geometría de la vía, concretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma.",
+  "En la zona del accidente estaba establecida una LTV a 30 km/h por deformación de la vía por inestabilidad de la plataforma. Las labores de mantenimiento no fueron suficientes para restablecer las condiciones adecuadas de circulación que llevase a la supresión de la LTV.",
+  "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad."
+ ],
+ "recomendaciones": [
+  "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "51/14-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador_final": "Adif (RAM)",
+   "texto": "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

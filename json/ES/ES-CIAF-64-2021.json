@@ -1,0 +1,64 @@
+{
+ "id": "ES-CIAF-64-2021",
+ "pais": "ES",
+ "expediente": "64/2021",
+ "titulo": "IF 64/2021 — El día 11/08/2021 a las 22h15, el tren 90666 de la empresa ferroviaria LCR que realizaba el trayecto",
+ "fecha_suceso": "2021-08-11",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "p.k. 161+300 y 161+500 de la línea 200 Madrid Chamartín - Barcelona França, entre las estaciones de Torralba y Medinaceli, término municipal de Medinaceli (Soria)",
+  "provincia": "Desconocida",
+  "lat": 41.2157666,
+  "lng": -2.2753018
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Low Cost Rail",
+  "Renfe Mercancías",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 11 de agosto de 2021 en Medinaceli (Soria) que provocó la caída de cinco contenedores vacíos y daños en la infraestructura, sin víctimas mortales. La causa principal fue la ineficacia del sistema de anclaje mediante esquineros frente a las rachas de viento ascendentes generadas por una tormenta. Este fallo se vio agravado por la falta de consideración del riesgo de vuelco en los análisis de seguridad de la transformación de los vagones.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO ...........................................................................................................................................9\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS .................................................................................................................9\n3.1.1. Descripción ...................................................................................................................................................9\n3.1.2. Víctimas y daños materiales .........................................................................................................................9\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................10\n3.1.5. Material rodante .........",
+ "causa_directa": null,
+ "conclusiones": [
+  "- Las condiciones climáticas el día 11/09/2021 a las 22:15h, en el lugar del suceso eran de tormenta con abundante aparato eléctrico y fuertes rachas de viento acompañadas de importantes precipitaciones. La estación meteorológica de Arcos de Jalón llega a registrar rachas de viento de 2.- El lugar del suceso se encuentra entre los p.k. 161+300 y 161+500 de la vía 2 entre las estaciones de Torralba y Medinaceli, de la línea 200 de Madrid Chamartín a Barcelona França. En esta zona, la vía discurre de oeste a este sobre un terraplén de unos 5 m de altura de forma prácticamente perpendicular a un valle en orientación norte-sur, lo que posibilita el efecto tubo de las rachas de viento generadas por la tormenta y, a consecuencia de la orografía del lugar, que su dirección fuese perpendicular a la trayectoria del tren. Asimismo, el terraplén existente pudo favorecer la aparición de componentes verticales en la dirección del viento que ayudaron al levantamiento de los contenedores una vez estos habían iniciado el vuelco.",
+  "- El tren 90666 de LCR que sufrió la descomposición de cargamento, circulaba con 31 vagones cargados con 33 contenedores tipo HC de 40 pies vacíos con 2,895 m de altura y 4 t de peso. Todos los vagones afectados pertenecían a la serie internacional Kglps y eran propiedad de la empresa RAXELL RAIL estando alquilados por LCR.",
+  "- Los vagones Kglps disponen de esquineros como medio de sujeción de los contenedores al vagón,"
+ ],
+ "recomendaciones": [
+  "Supervisar que, dentro de los expedientes de modificación de material ferroviario, se contemplen todos los riesgos de operación, y en su caso, a quién son exportados los que queden sin mitigar.",
+  "Elaborar y distribuir las normas de aplicación al cargue, acondicionamiento y sujeción de las mercancías, con el objetivo de garantizar que son aplicadas por los Responsables de Operaciones de Carga, y que la EF pueda verificar que con dicha normativa se alcanzan los requisitos de seguridad del cargamento. Madrid, 30 de junio de 2022"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "64/2021-2",
+   "texto": "Supervisar que, dentro de los expedientes de modificación de material ferroviario, se contemplen todos los riesgos de operación, y en su caso, a quién son exportados los que queden sin mitigar.",
+   "implementador": ""
+  },
+  {
+   "numero": "64/2021-3",
+   "texto": "Elaborar y distribuir las normas de aplicación al cargue, acondicionamiento y sujeción de las mercancías, con el objetivo de garantizar que son aplicadas por los Responsables de Operaciones de Carga, y que la EF pueda verificar que con dicha normativa se alcanzan los requisitos de seguridad del cargamento. Madrid, 30 de junio de 2022",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "accidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

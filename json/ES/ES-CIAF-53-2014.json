@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-53-2014",
+ "pais": "ES",
+ "expediente": "0053/2014",
+ "titulo": "Informe final de la CIAF sobre el incidente ferroviario nº 0053/2014 ocurrido el día 26.09.2014 en Barcelona Estació de França (Barcelona)",
+ "fecha_suceso": "2014-09-26",
+ "hora": "16:46",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Barcelona Estació de França",
+  "provincia": "Barcelona",
+  "lat": 41.385478,
+  "lng": 2.192077
+ },
+ "pk": "685+128",
+ "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+ "trenes": [
+  {
+   "numero": "UT470120",
+   "operador": "Renfe Operadora",
+   "tipo": "Material vacío (maniobra)"
+  },
+  {
+   "numero": "25538",
+   "operador": "Renfe Operadora (Rodalies)",
+   "tipo": "Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ocurrido el 26 de septiembre de 2014 en Barcelona Estació de França consistió en un conato de colisión entre un material vacío y un tren de viajeros, sin causar víctimas ni daños materiales significativos. La causa principal fue un fallo humano por error en la percepción de la indicación de parada de una señal, agravado por una falta de claridad en la comunicación con el responsable de circulación.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ....................................",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El incidente se produce por fallo humano del personal de conducción del material vacío (maniobra UT470012), y más concretamente por un error en la percepción de la indicación de la señal S1/14 -que en todo momento indicó parada y el maquinista manifiesta verla en “rebase autorizado”-, dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario.",
+  "Como causa coadyuvante se apunta la falta de claridad y consecuentemente mal entendimiento entre el responsable de circulación y el maquinista del material vacío.",
+  "Ninguna causa subyacente relacionada con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria.",
+  "Ninguna causa relacionada con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad.",
+  "El responsable de circulación y el maquinista del material vacío (maniobra UT470120) actuaron incorrectamente en los momentos posteriores al rebase: el primero al ordenar el retroceso sin haberse comprobado el estado de los cambios y el segundo por acceder a ello."
+ ],
+ "recomendaciones": [
+  "Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

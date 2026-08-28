@@ -1,0 +1,72 @@
+{
+ "id": "ES-CIAF-2-2020",
+ "pais": "ES",
+ "expediente": "2/2020",
+ "titulo": "IF 59/2021 — Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2",
+ "fecha_suceso": "2021-07-02",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "paso a nivel en Novelda",
+  "provincia": "Alicante",
+  "lat": 38.3452,
+  "lng": -0.4939
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "1. SUMMARY\nOn the 2nd of July 2021, at 17:15, an Intercity passenger train, covering the Barcelona-Lorca journey\nand operated by Renfe Viajeros, crashed into a car in a level crossing located in Novelda, at the\nkilometer point 424+690 of the line 330 (La Encina – Alacant Terminal), in the vicinity of the exit of\nNovelda-Aspe station (Alicante).\nThe level crossing is an A3 type (according to Spanish national regulation on classification of level\ncrossings), equipped with horizontal and vertical signals, as well as acoustic and light signals and\nautomatic half-barriers. The car came from Rafael Altamira street, that aligns slightly parallel to the\nrailway track and converges with the main street Camí de Castella few meters South of the level\ncrossing itself. The protection systems of the lev",
+ "descripcion": "",
+ "causa_directa": null,
+ "conclusiones": [
+  "On the 2nd of July 2021, at 17:15, an Intercity passenger train, covering the Barcelona-Lorca journey and operated by Renfe Viajeros, crashed into a car in a level crossing located in Novelda, at the kilometer point 424+690 of the line 330 (La Encina – Alacant Terminal), in the vicinity of the exit of Novelda-Aspe station (Alicante).",
+  "The level crossing is an A3 type (according to Spanish national regulation on classification of level crossings), equipped with horizontal and vertical signals, as well as acoustic and light signals and automatic half-barriers. The car came from Rafael Altamira street, that aligns slightly parallel to the railway track and converges with the main street Camí de Castella few meters South of the level crossing itself. The protection systems of the level crossing worked appropriately, and the half- barriers were closed; however, and according to the witnesses, the level crossing was invaded by the car that trespassed the half-barriers.",
+  "Layout of the accident CONCLUSIONS Railway staff related to the accident, acted correctly, and complied with the regulations regarding licenses, authorizations, training, and physical and psychological requirements.",
+  "Both rolling stock and infrastructure worked correctly.",
+  "Control, command, signaling and communication equipment also worked appropriately.",
+  "The level crossing was in good conditions and had been recently checked, following the SMS of The car approached the level crossing from Rafael Altamira Street at a low speed , then reached the T junction with Camí de Castella street (immediately ahead of the level crossing) and turned"
+ ],
+ "recomendaciones": [
+  "On the basis of the detected difficulties at this level crossing, analyze safety reinforcement measures, including the possibility of accelerating its suppression process. AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (",
+  "Accelerating or leveraging the implementation of the Royal Decree 929/2020 on Railway Operational Safety and Interoperability, in particular Article 52(6), promoting concerted actions or studies between the different authorities involved, in order to identify those level crossings where road layout could be prone to similar accidents. Madrid, 29th April 2022"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "59/21-1",
+   "texto": "On the basis of the detected difficulties at this level crossing, analyze safety reinforcement measures, including the possibility of accelerating its suppression process. AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (",
+   "implementador": ""
+  },
+  {
+   "numero": "59/21-2",
+   "texto": "Accelerating or leveraging the implementation of the Royal Decree 929/2020 on Railway Operational Safety and Interoperability, in particular Article 52(6), promoting concerted actions or studies between the different authorities involved, in order to identify those level crossings where road layout could be prone to similar accidents. Madrid, 29th April 2022",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "factor humano",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

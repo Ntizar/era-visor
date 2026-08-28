@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-32-2009",
+ "pais": "ES",
+ "expediente": "0032/2009",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0032/2009 ocurrido el día 26.06.2009 en la estación de Humanes (Madrid)",
+ "fecha_suceso": "2009-06-26",
+ "hora": "10:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Humanes (Madrid)",
+  "provincia": "Madrid",
+  "lat": 40.2524,
+  "lng": -3.9242
+ },
+ "pk": "P.K. 22+800, vía 1",
+ "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+ "trenes": [
+  {
+   "numero": "HU171",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  },
+  {
+   "numero": "LU110",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 26 de junio de 2009, en la estación de Humanes (Madrid), se produjo un conato de colisión entre dos trenes de cercanías que no causó víctimas ni daños materiales. La causa principal del incidente fue el fallo humano de la jefa de circulación, quien estableció incorrectamente el itinerario de salida del tren HU171.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Fallo humano por error de la jefa de circulación",
+ "conclusiones": [
+  "El incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el establecimiento del itinerario de salida del tren HU 171."
+ ],
+ "recomendaciones": [
+  "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "32/09-1",
+   "texto": "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

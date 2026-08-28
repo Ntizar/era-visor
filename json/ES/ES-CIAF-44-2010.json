@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-44-2010",
+ "pais": "ES",
+ "expediente": "0044/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2010 OCURRIDO EL DÍA 09.08.2010 EN EL PASO A NIVEL, CLASE A, EN CABEZÓN DE LA SAL (CANTABRIA)",
+ "fecha_suceso": "2010-08-09",
+ "hora": "17:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Cabezón de la Sal",
+  "provincia": "Cantabria",
+  "lat": 43.3078404,
+  "lng": -4.2317625
+ },
+ "pk": "489+795",
+ "linea": "1021 Oviedo – Santander",
+ "trenes": [
+  {
+   "numero": "6502",
+   "operador": "Feve",
+   "tipo": "Tren regular de viajeros"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 9 de agosto de 2010 en el paso a nivel de Cabezón de la Sal (Cantabria), donde el tren 6502 de Feve arrolló a un vehículo agrícola. El suceso provocó la muerte del conductor de la motosegadora y daños materiales en el tren y el vehículo. La causa principal del accidente fue la invasión del gálibo de la vía por parte del vehículo agrícola, que cruzó el paso a nivel sin percatarse de la llegada del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1.  SUCESO................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD...................",
+ "causa_directa": "Invasión del gálibo de la vía por un vehículo agrícola",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte del vehículo agrícola, que cruza por el paso a nivel cuando pasaba el tren 6502."
+ ],
+ "recomendaciones": [
+  "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Ayuntamiento de Cabezón de la Sal",
+   "numero": "44/10-1",
+   "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

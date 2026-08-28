@@ -1,0 +1,66 @@
+{
+ "id": "ES-CIAF-44-2008",
+ "pais": "ES",
+ "expediente": "0044/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0044/2008 OCURRIDO EL DÍA 25.09.2008 EN LA ESTACIÓN DE BALMASEDA MERCANCÍAS",
+ "fecha_suceso": "2008-09-25",
+ "hora": "16:40",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Balmaseda Mercancías",
+  "provincia": "Vizcaya",
+  "lat": 43.1917,
+  "lng": -3.1917
+ },
+ "pk": "284+050",
+ "linea": "31 León-Bilbao",
+ "trenes": [
+  {
+   "numero": "BM402",
+   "operador": "Feve",
+   "tipo": "Automotor histórico BILLARD"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 25 de septiembre de 2008 en la estación de Balmaseda Mercancías, donde un automotor histórico derivó hasta impactar contra una topera. El suceso provocó dos heridos leves y daños materiales significativos en el vehículo y la infraestructura. La causa principal fue la pérdida de los sistemas de frenado del automotor, lo que generó la deriva del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................6\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Pérdida de los sistemas de frenado del automotor",
+ "conclusiones": [
+  "El accidente tuvo su origen en la pérdida de los sistemas de frenado del automotor, produciéndose la deriva del mismo.",
+  "El vehículo se quedó detenido en la vía por una avería en el motor debido a una mala alimentación de combustible.",
+  "Durante la reparación in situ, todo el sistema neumático se vació de aire, quedando el vehículo sin retención.",
+  "El freno de mano no funcionó porque no estaban conectadas las timonerías con los tirantes.",
+  "Se produjeron incumplimientos de varias normas de FEVE: no se siguió el procedimiento escrito de circulación, se circuló en Bloqueo Telefónico en lugar de Bloqueo por Ocupación, no se publicó la Orden del Día, no se señaló a la vía y no se entregó el BOI al maquinista.",
+  "El vehículo carecía de emisora de radio, confiando las comunicaciones en telefonía móvil."
+ ],
+ "recomendaciones": [
+  "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Feve",
+   "numero": "44/08-1",
+   "texto": "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

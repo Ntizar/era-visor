@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-32-2011",
+ "pais": "ES",
+ "expediente": "0032/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0032/2011 OCURRIDO EL DÍA 30.06.2011 ENTRE LAS ESTACIONES DE SIETE PICOS Y PUERTO DE NAVACERRADA (MADRID)",
+ "fecha_suceso": "2011-06-30",
+ "hora": "11:58",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Siete Picos y Puerto de Navacerrada",
+  "provincia": "Madrid",
+  "lat": 40.781549,
+  "lng": -4.0333834
+ },
+ "pk": "PK 7+165",
+ "linea": "116 Los Cotos a Cercedilla",
+ "trenes": [
+  {
+   "numero": "21907",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  },
+  {
+   "numero": "S1 (442002)",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de socorro"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 30 de junio de 2011, entre las estaciones de Siete Picos y Puerto de Navacerrada, se produjo el descarrilamiento de dos trenes de cercanías sin causar víctimas ni heridos graves. Las consecuencias se limitaron a daños materiales en el material rodante y en la infraestructura de la vía. La causa principal del accidente fue el fallo técnico de la infraestructura debido al mal estado de las traviesas de madera, la clavazón y el balasto.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ................................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ..................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS ................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ...................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ...........",
+ "causa_directa": "Fallo técnico de la infraestructura",
+ "conclusiones": [
+  "El accidente tuvo su origen en el fallo técnico de la infraestructura, como consecuencia de encontrarse en mal estado las traviesas de madera, la clavazón y el balasto."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presenten mal estado por otras del mismo material."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "32/11-1",
+   "texto": "Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presenten mal estado por otras del mismo material."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

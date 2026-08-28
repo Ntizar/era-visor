@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-180107-200607-DGF",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-180107-200607-DGF.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-204",
+ "expediente": "0003/2007",
+ "titulo": "Arrollamiento mortal de un peatón en paso a nivel de Sant Feliu de Llobregat (Barcelona)",
+ "fecha_suceso": "2007-01-18",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Sant Feliu de Llobregat",
+  "provincia": "Barcelona",
+  "pk": "88,906",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia"
+ },
+ "entidades": [
+  "Adif",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 18 de enero de 2007, un peatón falleció al ser arrollado por el tren de Cercanías 39212 en el paso a nivel de clase C del PK 88,906 de la línea Tarragona-Barcelona-Francia, en Sant Feliu de Llobregat. El paso a nivel funcionaba correctamente y disponía de semibarreras y semáforo peatonal. La víctima cruzó las vías cuando las barreras estaban bajadas y sin utilizar el paso superior existente. El maquinista aplicó el freno de emergencia, pero no pudo evitar el arrollamiento.",
+ "causa_directa": "Cruce indebido de las vías por parte de la víctima, haciendo caso omiso a las señales luminosas peatonales y estando las barreras abatidas.",
+ "causas_sistemicas": "Historial de otros accidentes graves en el mismo paso a nivel y proyecto de supresión por soterramiento de la línea.",
+ "recomendaciones": [
+  "Impulsar campañas de concienciación ciudadana sobre el peligro de no usar las zonas de paso adecuadas."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person is hit by the train 39212. This person was crossing through a level crossing when it was forbidden to cross.",
+  "Location name": "Sant Feliú de Llobregat station. The accident happened at a level crossing type C at the kilometre point 88,906. Railway line from Madrid to Barcelona.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

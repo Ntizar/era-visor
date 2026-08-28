@@ -1,0 +1,37 @@
+{
+ "id": "ES-ID-011206-130407",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-011206-130407.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0054/2006",
+ "titulo": "Arrollamiento de dos personas por un tren de mercancías entre Fuencarral y Pitis, Madrid",
+ "fecha_suceso": "2006-12-01",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Madrid",
+  "pk": "11,907",
+  "linea": "Hortaleza Bifurcación-Pitis",
+  "lat": 40.416782,
+  "lng": -3.703507
+ },
+ "entidades": [
+  "Adif",
+  "Renfe"
+ ],
+ "resumen": "El 1 de diciembre de 2006, a las 18:45, un tren de mercancías de Renfe arrolló a dos personas en la vía entre Fuencarral Fuentegrande y Pitis, Madrid. Una víctima falleció en el acto y otra resultó herida grave. El tren circulaba a 59 km/h, por debajo de la velocidad máxima de 80 km/h, y aplicó freno de emergencia y señales acústicas. La investigación concluyó que el accidente se debió al tránsito indebido de las personas sobre la vía.",
+ "causa_directa": "El accidente se originó por el tránsito indebido de las víctimas sobre las vías, al cruzar por un lugar inadecuado e invadir la caja de la vía en una zona prohibida.",
+ "causas_sistemicas": "La ausencia de cerramiento o vallado en un entorno rural con un poblado de infraviviendas, la existencia de varios puntos críticos de acceso indebido a la vía y la falta de un paso alternativo seguro para peatones.",
+ "recomendaciones": [
+  "Estudiar la viabilidad de una pasarela peatonal que conecte la estación con el poblado, salvando la carretera de enlace.",
+  "Vallar la vía en el entorno de la estación de Pitis por el elevado número de arrollamientos.",
+  "Señalizar con paneles informativos el peligro de cruzar la vía.",
+  "Intensificar las labores de vigilancia en el punto."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

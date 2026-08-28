@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-6-2008",
+ "pais": "ES",
+ "expediente": "0006/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0006/2008 OCURRIDO EL DÍA 21.03.2008",
+ "fecha_suceso": "2008-03-21",
+ "hora": "14:53",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Puente ferroviario sobre el río Besós",
+  "provincia": "Barcelona",
+  "lat": 41.615942,
+  "lng": 2.670446
+ },
+ "pk": "P.K. 3,286",
+ "linea": "276 Barcelona-Massanes",
+ "trenes": [
+  {
+   "numero": "28833",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 21 de marzo de 2008 en el puente sobre el río Besós (Barcelona), que provocó la muerte de un varón de 38 años al ser arrollado por el tren de cercanías 28833. La causa principal del siniestro fue el tránsito de la víctima por la vía a través de un paso vicioso no autorizado, ya que el funcionamiento de la infraestructura y la actuación del maquinista se ajustaron a la normativa. No se registraron daños materiales en el material rodante ni en la infraestructura.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n21.03.08/ 14:53\nLugar:\nP.K. 3,286 puente ferroviario sobre el río Besós\nLínea:\n276 Barcelona-Massanes\nTrayecto:\nBadalona - Barcelona Sagrera\nProvincia:\n\nBarcelona\nEl maquinista del tren de viajeros de cercanías 28833 formado por el automotor 465009 (cinco\ncoches y masa remolcada de 158 Tm), según su declaración, nota un golpe en el frontal lateral\nizquierdo al tiempo que el tren cruza por el puente metálico sobre el río Besós (P.K. 3,286 de la línea\n276 Barcelona-Massanes) justo antes de llegar al apeadero de Sant Adriá del Besós. Inmediatamente\ncomunica el hecho al Puesto de Mando de Barcelona, aconsejando que los trenes que circulen por el\npunto kilométrico citado lo hagan con marcha a la vista. A su llegada a la estación de Badalona\ninspecciona el frontal del automotor sin observar ninguna anomalía, continuando con el itinerario\nprevisto.\nPosteriormente, el Puesto de Mando de Barcelona contacta con el maquinista y le ordena que, en\nMasnou, inspeccione la máqu",
+ "causa_directa": "Tránsito de la víctima por la vía en un lugar no autorizado",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima por la vía por un lugar no autorizado para ello."
+ ],
+ "recomendaciones": [
+  "Supresión del paso vicioso por donde accedió la víctima."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Supresión del paso vicioso por donde accedió la víctima."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

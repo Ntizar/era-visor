@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-7-2011",
+ "pais": "ES",
+ "expediente": "0007/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0007/2011 OCURRIDO EL DÍA 04.01.2011 EN ZARAGOZA DELICIAS (ZARAGOZA)",
+ "fecha_suceso": "2011-01-04",
+ "hora": "19:20",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "lat": 43.3375,
+  "lng": -1.7892
+ },
+ "pk": "305+740",
+ "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias",
+ "trenes": [
+  {
+   "numero": "621",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 4 de enero de 2011, a las 19:20 horas, el tren de viajeros de larga distancia 621 de Renfe Operadora descarriló al efectuar su paso por el cambiador de ancho de Zaragoza Delicias. El descarrilamiento afectó a la rueda derecha del segundo eje del primer bogie, la cual no realizó el cambio de ancho debido a defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo. La rueda quedó en ancho convencional, remontó el carril de guiado y circuló por el exterior del carril derecho hasta detenerse aproximadamente 25 metros después del punto de descarrilamiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...........................................................................................................3\n2.1. SUCESO ................................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO .......................................................................................................................... 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ................................................................................. 7\n2.4. CIRCUNSTANCIAS EXTERNAS .............................................................................................................................. 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ....................................................................8\n3.1. RESUMEN DE LAS DECLARACIONES ..................................................................................",
+ "causa_directa": "Fallo en los dispositivos de cambio de ancho debido a defectos en la tornillería de anclaje",
+ "conclusiones": [
+  "El descarrilamiento se produce por fallo en los dispositivos de cambio de ancho de la rueda descarrilada, perteneciente al segundo eje del primer bogie en el sentido de la marcha, debido a defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo del cambio de ancho."
+ ],
+ "recomendaciones": [
+  "Modificar el sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho de los ejes BRAVA añadiendo una “chapa tope” a las unidades de la flota S121 que a fecha de este informe aún no hayan sido modificadas.",
+  "Estudiar, diseñar e implantar un sistema que asegure la sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho del eje BRAVA en los ejes de nueva fabricación."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "07/11-1",
+   "texto": "Modificar el sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho de los ejes BRAVA añadiendo una “chapa tope” a las unidades de la flota S121 que a fecha de este informe aún no hayan sido modificadas."
+  },
+  {
+   "destinatario": "CAF",
+   "numero": "07/11-2",
+   "texto": "Estudiar, diseñar e implantar un sistema que asegure la sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho del eje BRAVA en los ejes de nueva fabricación."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

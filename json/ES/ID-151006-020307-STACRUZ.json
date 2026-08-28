@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-151006-020307-STACRUZ",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-151006-020307-STACRUZ.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-25",
+ "expediente": "0038/2006",
+ "titulo": "Arrollamiento mortal de una persona por un tren de viajeros en la estación de Santa Cruz de Mudela, Ciudad Real",
+ "fecha_suceso": "2006-10-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": "Santa Cruz de Mudela",
+  "provincia": "Ciudad Real",
+  "pk": "239,544",
+  "linea": "Alcázar de San Juan-Cádiz"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe"
+ ],
+ "resumen": "El 15 de octubre de 2006, una persona que cruzaba las vías de la estación de Santa Cruz de Mudela fue arrollada por el tren de viajeros 15695 de Renfe, falleciendo en el suceso. El tren circulaba a 96 km/h, por debajo de la máxima permitida, y el maquinista aplicó el silbato y el freno de emergencia sin poder evitar el atropello. El informe señala que la estación carecía en la zona de un cerramiento en condiciones aceptables y que el tránsito por las vías estaba prohibido.",
+ "causa_directa": "El origen del accidente fue el tránsito de la víctima por las vías de la estación en una zona no autorizada para el paso de personas, lo que las entidades implicadas calificaron como imprudencia de la víctima.",
+ "causas_sistemicas": "El perímetro de la estación presentaba un cerramiento exterior deteriorado o discontinuo en la zona del suceso, lo que facilitaba el acceso irregular de personas a la playa de vías.",
+ "recomendaciones": [
+  "Vallar por el administrador de la infraestructura las zonas particularmente expuestas al tránsito irregular por personas no autorizadas."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person died after being hit by rolling stock in motion while crossing the tracks at unauthorised place at the station.",
+  "Location name": "Santa Cruz de Mudela station. Railway from Alcazar de San Juan to Cádiz at the kilometre point 239,544.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1
+ }
+}

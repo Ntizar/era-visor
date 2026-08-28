@@ -1,0 +1,39 @@
+{
+ "id": "ES-191217-280717-if-sn_ciaf",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/191217-280717-if-sn_ciaf.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "0035/2017",
+ "titulo": "Colisión de tren contra topera en la estación de França (Barcelona) por pérdida de consciencia del maquinista",
+ "fecha_suceso": "2017-07-28",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision",
+ "ubicacion": {
+  "estacion": "França",
+  "provincia": "Barcelona",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "Adif"
+ ],
+ "resumen": "El informe describe un accidente ferroviario ocurrido el 28 de julio de 2017 en la estación de França (Barcelona). Un tren colisionó contra una topera tras perder el maquinista la consciencia presumiblemente por somnolencia. La investigación señala como causa directa la no aplicación del freno y el uso indebido de la velocidad prefijada durante maniobras de estacionamiento.",
+ "causa_directa": "Pérdida de consciencia del maquinista (presumible estado de somnolencia) que impidió la aplicación del freno y la desactivación de la velocidad prefijada, provocando la colisión contra la topera.",
+ "causas_sistemicas": "Falta de descanso adecuado del personal, deficiencias en la cultura de seguridad respecto al riesgo de conducir sin dormir, mal uso habitual de la velocidad prefijada en maniobras, limitaciones del dispositivo 'Hombre Muerto' para detectar semiinconsciencia y problemas de trazabilidad en asignaciones durante huelgas.",
+ "recomendaciones": [
+  "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada y revisar manuales de conducción.",
+  "Estudiar limitaciones técnicas que imposibiliten el uso de la velocidad prefijada a velocidades bajas.",
+  "Formar y concienciar al personal sobre la importancia del sueño, descanso y percepción del riesgo.",
+  "Incluir tests de detección de trastornos de sueño en las pruebas médicas periódicas.",
+  "Promover el análisis de dispositivos complementarios al HM para detectar semiinconsciencia.",
+  "Asegurar el correcto diseño y mantenimiento de las toperas hidráulicas.",
+  "Instar al cumplimiento de recomendaciones previas sobre toperas y estudiar distancias de deslizamiento.",
+  "Mejorar los procedimientos de registro y trazabilidad en la asignación de turnos durante situaciones de huelga."
+ ],
+ "fallecidos": null,
+ "heridos_graves": null,
+ "notas": null,
+ "erail": {}
+}

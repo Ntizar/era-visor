@@ -1,0 +1,59 @@
+{
+ "id": "ES-CIAF-65-2008",
+ "pais": "ES",
+ "expediente": "0065/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0065/2008 OCURRIDO EL DÍA 26.11.2008 EN PLENA VÍA, P.K. 70,200 ENTRE RIBAFORADA Y TUDELA DE NAVARRA",
+ "fecha_suceso": "2008-11-26",
+ "hora": "15:21",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre Ribaforada y Tudela de Navarra",
+  "provincia": "Navarra",
+  "lat": 42.054813,
+  "lng": -1.593009
+ },
+ "pk": "PK 70,200",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "trenes": [
+  {
+   "numero": "18073",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que custodiaba un rebaño de ovejas. El accidente ocurre en plena vía, en el PK 70,200, entre las estaciones de Ribaforada y Tudela de Navarra. En el accidente también son arrolladas unas 100 ovejas.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Invasión del galibo de la vía por el pastor",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del galibo de la vía por el pastor, que intentaba apartar el rebaño de la vía, cuando pasaba el tren 18073."
+ ],
+ "recomendaciones": [
+  "Dadas las características del suceso, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Dadas las características del suceso, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

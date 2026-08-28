@@ -1,0 +1,93 @@
+{
+ "id": "ES-CIAF-11-2023",
+ "pais": "ES",
+ "expediente": "11/2023",
+ "titulo": "IF 11/2023 — Incendio de material rodante ocurrido el día 30 de enero de",
+ "fecha_suceso": "2023-01-30",
+ "hora": null,
+ "tipo_informe": "final",
+ "tipo_suceso": "avería",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Córdoba",
+  "provincia": "Córdoba",
+  "lat": 39.453,
+  "lng": -0.352
+ },
+ "pk": null,
+ "linea": null,
+ "trenes": [],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 30 de enero de 2023, un incendio en el cambiador de ancho de Alcolea (Córdoba) provocó tres heridos leves y daños materiales en el material rodante y la infraestructura. La causa principal fue una avería en el pararrayos del tren, agravada por la falta de diagnóstico oportuno y los sucesivos reenganches de tensión autorizados por el telemando.",
+ "descripcion": "3. DESCRIPCIÓN DEL SUCESO .........................................................................................................................................10\n3.1. EL SUCESO Y SUS CIRCUNSTANCIAS ...............................................................................................................10\n3.1.1. Descripción .................................................................................................................................................10\n3.1.2. Víctimas y daños materiales .......................................................................................................................10\n3.1.3. Interceptación de la vía ...............................................................................................................................10\n3.1.4. Personal y entidades ..................................................................................................................................11\n3.1.5. Material rodante .............",
+ "causa_directa": null,
+ "conclusiones": [
+  "La falta de concreción en la información proporcionada por Lead Mind provocó que ATL subestimase la gravedad de la avería al indicar Lead Mind que se trataba de un error de lectura de la tensión. Ver Recomendación 11/2023-4.",
+  "El personal presente en los telemandos posee información limitada sobre las circulaciones presentes en cada tramo de la línea, lo que genera una indeterminación en casos similares al presente suceso. Ver Recomendación 11/2023-6 Los sistemas técnicos de las subestaciones en la actualidad no discriminan entre consumos y cortocircuitos. Ver Recomendación 11/2023-7"
+ ],
+ "recomendaciones": [
+  "Estudiar la operativa de cambio de ancho en situaciones degradadas de forma que se evalúen los riesgos derivados de dicha maniobra y en especial cuando se requiere circular a una velocidad superior a los 5 km/h, estableciendo procedimientos que mitiguen esos riesgos y que se incluyan en los documentos correspondientes.",
+  "Actualizar el Manual de Conducción de la serie S 120.050 y asimilables, de manera que se reflejen de forma fidedigna y detallada los pasos a seguir en los procedimientos de cambio de ancho, especialmente en situaciones degradadas, así como los supuestos en los cuales se debe proceder a la anulación de pantógrafos.",
+  "Establecer procedimientos adicionales de revisión de la zona de pantógrafos cuando por alguna causa se haya tenido que llevar a cabo un cambio de ancho en situación degradada. En este procedimiento deberá considerarse la comunicación de tal hecho por parte de los actores involucrados en la maniobra de cambio de ancho.",
+  "Estudiar la posibilidad de establecer mecanismos de detección de averías en los pararrayos, así como evolucionar en la mejora de herramientas de diagnosis como Lead Mind.",
+  "Establecer procedimientos de actuación que limiten los reenganches de tensión por parte de los telemandos en situaciones en las que se producen sucesivos y seguidos cortes de tensión.",
+  "Estudiar la posibilidad de que el personal de los telemandos pueda disponer de información en tiempo real sobre las circulaciones existentes en un tramo.",
+  "Promover un estudio que analice la posibilidad de establecer medidas técnicas en las subestaciones que permitan que se pueda discriminar entre un consumo elevado y un cortocircuito no franco."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "11/2023-1",
+   "texto": "Estudiar la operativa de cambio de ancho en situaciones degradadas de forma que se evalúen los riesgos derivados de dicha maniobra y en especial cuando se requiere circular a una velocidad superior a los 5 km/h, estableciendo procedimientos que mitiguen esos riesgos y que se incluyan en los documentos correspondientes.",
+   "implementador": ""
+  },
+  {
+   "numero": "11/2023-2",
+   "texto": "Actualizar el Manual de Conducción de la serie S 120.050 y asimilables, de manera que se reflejen de forma fidedigna y detallada los pasos a seguir en los procedimientos de cambio de ancho, especialmente en situaciones degradadas, así como los supuestos en los cuales se debe proceder a la anulación de pantógrafos.",
+   "implementador": ""
+  },
+  {
+   "numero": "11/2023-3",
+   "texto": "Establecer procedimientos adicionales de revisión de la zona de pantógrafos cuando por alguna causa se haya tenido que llevar a cabo un cambio de ancho en situación degradada. En este procedimiento deberá considerarse la comunicación de tal hecho por parte de los actores involucrados en la maniobra de cambio de ancho.",
+   "implementador": ""
+  },
+  {
+   "numero": "11/2023-4",
+   "texto": "Estudiar la posibilidad de establecer mecanismos de detección de averías en los pararrayos, así como evolucionar en la mejora de herramientas de diagnosis como Lead Mind.",
+   "implementador": ""
+  },
+  {
+   "numero": "11/2023-5",
+   "texto": "Establecer procedimientos de actuación que limiten los reenganches de tensión por parte de los telemandos en situaciones en las que se producen sucesivos y seguidos cortes de tensión.",
+   "implementador": ""
+  },
+  {
+   "numero": "11/2023-6",
+   "texto": "Estudiar la posibilidad de que el personal de los telemandos pueda disponer de información en tiempo real sobre las circulaciones existentes en un tramo.",
+   "implementador": ""
+  },
+  {
+   "numero": "11/2023-7",
+   "texto": "Promover un estudio que analice la posibilidad de establecer medidas técnicas en las subestaciones que permitan que se pueda discriminar entre un consumo elevado y un cortocircuito no franco.",
+   "implementador": ""
+  }
+ ],
+ "tags": [
+  "avería",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "incendio",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

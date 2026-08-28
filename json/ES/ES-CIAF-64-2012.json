@@ -1,0 +1,71 @@
+{
+ "id": "ES-CIAF-64-2012",
+ "pais": "ES",
+ "expediente": "0064/2012",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0064/2012 OCURRIDO EL DÍA 08.10.2012 ENTRE LAS ESTACIONES VILLANUEVA DE GÁLLEGO Y ZUERA (ZARAGOZA)",
+ "fecha_suceso": "2012-10-08",
+ "hora": "07:48",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones Villanueva de Gállego y Zuera",
+  "provincia": "Huesca",
+  "lat": 41.905363,
+  "lng": -0.749098
+ },
+ "pk": "25+100",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "trenes": [
+  {
+   "numero": "15640",
+   "operador": "Renfe Operadora",
+   "tipo": "Media distancia (automotor 596)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 8 de octubre de 2012 entre las estaciones de Villanueva de Gállego y Zuera, que no provocó víctimas ni daños en la infraestructura. La causa principal fue la rotura catastrófica de un eje motor debido a una fisura inicial generada por arcos eléctricos, probablemente por contacto con equipos de soldadura.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3\n2.1.  SUCESO ............................................................................................................................................. 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO .......................................................................................................... 5\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ................................................................... 7\n2.4.  CIRCUNSTANCIAS EXTERNAS ............................................................................................................. 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ........................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ................................................................................................... 8\n3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD .........................",
+ "causa_directa": "Rotura del segundo eje del primer bogie",
+ "conclusiones": [
+  "El incidente tuvo su origen en el fallo del material por la rotura del segundo eje (motor) del primer bogie según el sentido de la marcha.",
+  "La rotura se produce a partir de una fisura antigua superficial provocada por haber estado el eje en contacto esporádico con algún elemento eléctrico, que produjo una serie de arcos eléctricos.",
+  "Descartado el posible contacto con un cable del propio vehículo, la hipótesis más fiable es que la fisura fuera causada por el contacto del eje con un equipo de soldadura.",
+  "Esta fisura inicial fue progresando por mecanismos de fatiga hasta provocar la rotura catastrófica del cuerpo del eje.",
+  "Se constata la rotura completa del cuerpo del segundo eje según el sentido de la marcha.",
+  "La rotura se inicia en una fisura antigua superficial que progresa por mecanismos de fatiga.",
+  "Se descarta que el origen de la fisura fuera el sobreesfuerzo en el eje así como defectos o anomalías en el acero utilizado para la fabricación del mismo.",
+  "Los análisis realizados apuntan a que la causa de la fisura es que el eje estuvo en contacto con algún elemento con corriente eléctrica, produciéndose una serie de arcos eléctricos.",
+  "Se descarta la posibilidad de que el eje hubiera estado en contacto con algún cable con corriente perteneciente al propio vehículo.",
+  "Como hipótesis más probable sobre el origen de la fisura, se apunta a que el eje, en algún momento, estuvo en contacto con equipos de soldadura eléctrica.",
+  "En cuanto al plan de mantenimiento, la intervención tipo R (reparación general, que se realiza a los 500.000 km u ocho años) se incumple, ya que en el momento del accidente el eje había recorrido 504.817 km desde la última intervención de este tipo, sobrepasando el límite máximo en 4.817 km."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, se recomienda analizar la viabilidad de extenderlas a vehículos con circunstancias similares."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, se recomienda analizar la viabilidad de extenderlas a vehículos con circunstancias similares."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

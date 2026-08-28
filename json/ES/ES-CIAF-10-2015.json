@@ -1,0 +1,72 @@
+{
+ "id": "ES-CIAF-10-2015",
+ "pais": "ES",
+ "expediente": "0010/2015",
+ "titulo": "Informe final de la CIAF sobre el accidente ferroviario nº 0010/2015 ocurrido el día 13.02.2015 en la estación de Barcelona Estació de França",
+ "fecha_suceso": "2015-02-13",
+ "hora": "14:36",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Barcelona Estació de França",
+  "provincia": "Barcelona",
+  "lat": 41.4309797,
+  "lng": 2.1831056
+ },
+ "pk": "PK 684+991",
+ "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+ "trenes": [
+  {
+   "numero": "1112",
+   "operador": "Renfe Viajeros",
+   "tipo": "Tren de viajeros"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Viajeros"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren 1112 de Renfe ocurrió el 13 de febrero de 2015 en la estación de Barcelona Estació de França, sin causar víctimas ni heridos. La causa principal fue el fallo técnico de la infraestructura, derivado de sobreanchos y deficiencias en las sujeciones del carril. Como consecuencia, se produjeron daños materiales en el material rodante y en la vía, valorados en 56.800 euros, además de la interrupción del servicio en la vía 3.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción de los hechos ................................................................................................................................. 6\n2.1.3. Decisión de abrir la investigación y composición del equipo de investigación ..................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ....................................",
+ "causa_directa": "Fallo técnico de la infraestructura de vía",
+ "conclusiones": [
+  "El accidente se produjo por el fallo técnico de la infraestructura de vía en la zona del accidente, principalmente por la existencia de sobreanchos y deficiencias en las sujeciones del carril.",
+  "No se realizaron labores de mantenimiento en la zona de andenes de la vía 3 de la estación para paliar los defectos detectados en las inspecciones llevadas a cabo.",
+  "El Sistema de Gestión de la Seguridad de Adif dispone para el tratamiento y gestión de las No Conformidades (NC) de un procedimiento general de aplicación a todas las actividades de Adif, considerándose de complicada aplicación en lo relativo al mantenimiento de infraestructura."
+ ],
+ "recomendaciones": [
+  "Que se revise y/o complemente el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” para que se detalle y concrete el tratamiento y gestión de las no conformidades detectadas en la inspección y vigilancia de la infraestructura por el personal de mantenimiento, con el fin de mejorar la operativa de dicho procedimiento y asegurar su cumplimiento.",
+  "Una vez revisado y/o complementado el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” según lo dispuesto en la Recomendación 10/15-1, comprobar que la sistemática es operativa y asegurar que es conocida por el personal involucrado."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "10/15-1",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador_final": "Adif",
+   "texto": "Que se revise y/o complemente el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” para que se detalle y concrete el tratamiento y gestión de las no conformidades detectadas en la inspección y vigilancia de la infraestructura por el personal de mantenimiento, con el fin de mejorar la operativa de dicho procedimiento y asegurar su cumplimiento."
+  },
+  {
+   "numero": "10/15-2",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+   "implementador_final": "Adif",
+   "texto": "Una vez revisado y/o complementado el procedimiento general PG-104-003-003 “No Conformidades, Acciones Correctivas, Preventivas y de Mejora” según lo dispuesto en la Recomendación 10/15-1, comprobar que la sistemática es operativa y asegurar que es conocida por el personal involucrado."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-33-2013",
+ "pais": "ES",
+ "expediente": "0033/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0033/2013 OCURRIDO EL DÍA 20.04.2013 EN EL APEADERO DE ANOETA (GUIPÚZCOA)",
+ "fecha_suceso": "2013-04-20",
+ "hora": "12:39",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Anoeta",
+  "provincia": "Guipúzcoa",
+  "lat": 43.158095,
+  "lng": -2.06841
+ },
+ "pk": "600+200",
+ "linea": "100 Hendaya – Madrid-Chamartín",
+ "trenes": [
+  {
+   "numero": "535",
+   "operador": "Renfe Operadora",
+   "tipo": "Larga distancia (Alvia)"
+  },
+  {
+   "numero": "26888",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 20 de abril de 2013 en el apeadero de Anoeta (Guipúzcoa), donde un tren de larga distancia arrolló a una persona que cruzaba las vías. La consecuencia fue el fallecimiento de la víctima, sin daños materiales en el material rodante ni en la infraestructura. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la llegada del tren debido a la obstrucción de su visibilidad por otro tren estacionado.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 4\n2.1.  SUCESO ............................................................................................................................................................ 4\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 8\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, al cruzar sin percatarse de la llegada del tren."
+ ],
+ "recomendaciones": [
+  "Se reitera la recomendación realizada en el expediente número 0045/2009: “Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "numero": "33/13-1",
+   "texto": "Se reitera la recomendación realizada en el expediente número 0045/2009: “Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

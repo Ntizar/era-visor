@@ -1,0 +1,63 @@
+{
+ "id": "ES-CIAF-26-2008",
+ "pais": "ES",
+ "expediente": "0026/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0026/2008 ocurrido el día 24.06.2008",
+ "fecha_suceso": "2008-06-24",
+ "hora": "13:36",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "línea 276 Barcelona Sagrera a Maçanet-Massanes",
+  "provincia": "Barcelona",
+  "lat": 41.615942,
+  "lng": 2.670446
+ },
+ "pk": "26,100",
+ "linea": "276 Barcelona Sagrera a Maçanet-Massanes",
+ "trenes": [
+  {
+   "numero": "25981",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de corta distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 1,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 24 de junio de 2008 en el inicio del viaducto sobre la Riera D'Argentona, donde un tren arrolló a dos peatones que circulaban por la vía. Como consecuencia, una persona falleció y otra resultó herida de gravedad, sin daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue la presencia de las víctimas en la vía, facilitada por defectos en el vallado de contención que permitían el acceso no autorizado al trazado.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n24.06.08/ 13:36\nLugar:\nP.K. 26,100\nLínea:\n276 Barcelona Sagrera- Maçanet-Massanes.\nTrayecto:\nVilassar de Mar- Mataró\nProvincia:\n\nBarcelona.\nEl tren de viajeros de corta distancia 25981 de Renfe Operadora, formado por las U/T 447047 en\ncabeza y 447083 en cola y 6 vehículos con masa total remolcada 432 Tm, procedente de L´Hospitalet\nde Llobregat con destino Maçanet-Massanes, arrolla a dos personas que caminaban por el margen de\nla Vía I (lado mar) en el P.K. 26,100. El maquinista hizo uso del freno de urgencia del tren sin poder\nevitar golpear a las víctimas, despidiéndolas hacia las rocas junto al mar, resultando cadáver una de\nellas y la otra herida de gravedad.\n\n\n\n\nInvestigación del accidente\n\n\n\n\nA\n\n\nInforme Final\n\n\n\n\n\n\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 24 de junio a las 18:17 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había p",
+ "causa_directa": "Presencia de las víctimas en la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en la presencia de las víctimas en la vía en el momento en que pasaba el tren de corta distancia."
+ ],
+ "recomendaciones": [
+  "Reparación de las discontinuidades en el vallado que permiten el paso de personas del lado montaña al lado mar en el trayecto de Vilassar hasta Mataró, en especial en la zona del puente sobre la Riera de Argentona.",
+  "Al haberse detectado un problema de movilidad urbana entre los municipios de Cabrera de Mar y Mataró (separados ambos municipios por la Riera de Argentona), se recomienda que estos organismos estudien la posibilidad de construir una pasarela peatonal sobre la Riera, que evite la utilización del puente ferroviario para el tránsito peatonal."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Reparación de las discontinuidades en el vallado que permiten el paso de personas del lado montaña al lado mar en el trayecto de Vilassar hasta Mataró, en especial en la zona del puente sobre la Riera de Argentona."
+  },
+  {
+   "texto": "Al haberse detectado un problema de movilidad urbana entre los municipios de Cabrera de Mar y Mataró (separados ambos municipios por la Riera de Argentona), se recomienda que estos organismos estudien la posibilidad de construir una pasarela peatonal sobre la Riera, que evite la utilización del puente ferroviario para el tránsito peatonal."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

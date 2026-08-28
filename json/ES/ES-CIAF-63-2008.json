@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-63-2008",
+ "pais": "ES",
+ "expediente": "0063/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0063/2008 OCURRIDO EL DÍA 22.11.2008",
+ "fecha_suceso": "2008-11-22",
+ "hora": "15:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_ciclista",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "entre Salamanca y Babilafuente",
+  "provincia": "Salamanca",
+  "lat": 39.15,
+  "lng": -0.6
+ },
+ "pk": "P.K. 104,857",
+ "linea": "122 Salamanca - Ávila",
+ "trenes": [
+  {
+   "numero": "18918",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 22 de noviembre de 2008 en el punto kilométrico 104,857 de la línea Salamanca-Ávila, entre Salamanca y Babilafuente. El suceso provocó la muerte de un motorista al ser arrollado por el tren de media distancia 18918. La causa principal fue el tránsito no autorizado de la víctima por la caja de la vía, sin que existieran fallos en la infraestructura, el material rodante o la actuación del maquinista.",
+ "descripcion": "2.1\nSUCESO\nDía / Hora:\n\n22.11.08/ 15:00 horas\nLugar:\nP.K. 104,857, entre Salamanca y Babilafuente\nLínea:\n122 Salamanca - Ávila.\nTrayecto:\nPeñaranda de Bracamonte - Salamanca\nProvincia:\n\nSalamanca\nEl tren de media distancia 18918 de Renfe Operadora, compuesto por el automotor 594102-6 (2\nvehículos y 101 Tn de masa remolcada) arrolla a una motocicleta que circulaba por la caja de la vía. El\nlugar del accidente, en plena vía, está situado en el P.K.104, 857, entre las estaciones de Babilafuente\ny Salamanca.\nEl maquinista hace uso del silbato y acciona el freno de emergencia no pudiendo evitar el\narrollamiento, resultando herida la persona que conducía la moto, la cual es trasladada al hospital\ndonde fallece.\n2.1.1\nDecisión de abrir la investigación\nEl Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),\nel 22 de noviembre a las 19:26 horas, a través de mensaje de telefonía móvil, comunicó a la  que se había producido el arrollamiento de una mot",
+ "causa_directa": "Tránsito no autorizado de la víctima por la caja de la vía",
+ "conclusiones": [
+  "El accidente tuvo su origen en el tránsito de la víctima (que circulaba en motocicleta por la caja de la vía) por el lugar por donde pasaba el tren, sin estar autorizado para ello."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "ES-ID-151006-020307-SALOU_Valencia to Barcelona",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-151006-020307-SALOU_Valencia to Barcelona.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-24",
+ "expediente": "0040/2006",
+ "titulo": "Arrollamiento de un ciclomotor con dos ocupantes en paso a nivel de Salou (Tarragona)",
+ "fecha_suceso": "2006-10-15",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Tarragona",
+  "pk": "262,561",
+  "linea": "Valencia-Tarragona"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 15 de octubre de 2006, un ciclomotor con dos ocupantes cruzó el paso a nivel de clase C situado en el PK 262,561 de la línea Valencia-Tarragona, en Salou (Tarragona). El vehículo fue arrollado por el tren 8098 de Renfe, que circulaba a 129 km/h, pese a que las semibarreras estaban bajadas y el paso funcionaba correctamente. La acompañante, de 18 años, falleció al día siguiente, mientras que el conductor resultó ileso. El informe señala además que el camino de acceso carecía de la señalización prescrita.",
+ "causa_directa": "La causa directa fue la invasión de la vía por el ciclomotor en el paso a nivel, sorteando las semibarreras que se encontraban abatidas y con la señalización óptica y acústica activas.",
+ "causas_sistemicas": "El informe destaca que el camino de acceso al paso a nivel carecía de la señalización prescrita y que en el municipio existían antecedentes de accidentes en pasos a nivel, con proyectos de supresión pendientes.",
+ "recomendaciones": [
+  "Concienciar a la población más joven en el correcto uso de los pasos a nivel y en el peligro de ignorar la señalización ferroviaria."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Level crossing accident",
+  "Occurrence description": "A person died after being hit by rolling stock motion at level crossing type C protected with barriers.",
+  "Location name": "Railway from Tarragona to Barcelona to France at the kilometre point 88,906.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Regional passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "LC User fatalities": 1,
+  "Total fatalities": 1
+ }
+}

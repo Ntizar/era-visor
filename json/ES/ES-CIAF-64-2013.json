@@ -1,0 +1,60 @@
+{
+ "id": "ES-CIAF-64-2013",
+ "pais": "ES",
+ "expediente": "0064/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0064/2013 OCURRIDO EL DÍA 20.09.2013 EN LA ESTACIÓN DE BARCELONA SANTS (BARCELONA)",
+ "fecha_suceso": "2013-09-20",
+ "hora": "10:04",
+ "tipo_informe": "final",
+ "tipo_suceso": "colision_alcance",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Barcelona Sants",
+  "provincia": "Barcelona",
+  "lat": 41.3725,
+  "lng": 2.1404
+ },
+ "pk": "678+098",
+ "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "25706",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías (tipo 120A)"
+  },
+  {
+   "numero": "28132",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de cercanías (tipo 120A)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 20 de septiembre de 2013, en la estación de Barcelona Sants, se produjo un accidente por alcance entre dos trenes de cercanías que causó 24 heridos leves y daños materiales. La causa principal fue el fallo humano del maquinista del tren 25706, quien, por falta de atención, incumplió las condiciones reglamentarias de rebase autorizado y marcha de maniobras.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El accidente se produce por fallo humano del personal de conducción del tren 25706, y más concretamente por una falta de atención en la conducción, teniendo como consecuencia el que no se cumplimente correctamente las condiciones reglamentarias prescritas para el rebase autorizado de la señal E9, al incumplirse el artículo 218.1 del RGC (circular con marcha de maniobras ante un rebase autorizado) y el artículo 141.2 del RGC (disposición de detención ante cualquier obstáculo circulando con marcha de maniobras).",
+  "Como factor coadyuvante que ha podido facilitar el suceso se apunta un incumplimiento reglamentario del personal de conducción, ya que el tren circulaba con velocidad prefijada, incumpliendo el Aviso SC nº 37 de la DSC de Renfe Operadora, que prescribe conducción manual en las circunstancias de este suceso (circular en condiciones de marcha a la vista)."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "colisión",
+  "descarrilamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

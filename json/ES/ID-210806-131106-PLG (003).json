@@ -1,0 +1,58 @@
+{
+ "id": "ES-ID-210806-131106-PLG (003)",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID-210806-131106-PLG (003).pdf",
+ "url_pdf": null,
+ "erail_id": "ES-18",
+ "expediente": "0030/2006",
+ "titulo": "Descarrilamiento del tren LD 280 en la estación de Villada al pasar por el escape 2/4",
+ "fecha_suceso": "2006-08-21",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Villada",
+  "provincia": null,
+  "pk": "46/200",
+  "linea": null
+ },
+ "entidades": [
+  "Renfe",
+  "Adif"
+ ],
+ "resumen": "El tren de Larga Distancia 280 de Renfe descarriló sus seis coches en la estación de Villada al pasar por el escape 2/4. El accidente causó 7 fallecidos y 74 heridos, además de daños en postes, señalización y pasos superiores. Las dos vías generales y varias vías de la estación quedaron interceptadas.",
+ "causa_directa": null,
+ "causas_sistemicas": null,
+ "recomendaciones": [
+  "Implantar en la reglamentación y en los enclavamientos que la señal inmediatamente anterior al aparato de vía por el que se deba circular a velocidad limitada muestre una indicación de esta circunstancia.",
+  "Proseguir las adecuaciones de enclavamientos hasta abarcar toda la red ferroviaria de interés general en el plazo más ajustado posible.",
+  "Estudiar transitoriamente que en líneas banalizadas los trenes sean recibidos en la estación mediante itinerario de entrada por vía desviada.",
+  "Estudiar que las señales avanzadas, de entrada, de bifurcaciones y escapes en vía banalizada presenten diferencias respecto de las señales de bloqueo en trayecto.",
+  "Sustituir en el Reglamento General de Circulación la denominación “anuncio de precaución” por “anuncio de paso por vía desviada” o “anuncio de reducción de velocidad”.",
+  "Estudiar mejoras en la señalización luminosa lateral mediante pantallas luminosas de indicaciones variables gráficas y alfanuméricas.",
+  "Homologar el equipo ASFA digital y establecer su obligatoriedad en material de nueva matriculación, fijando plazos para su implantación en material existente.",
+  "Proseguir la adaptación de los sistemas de formación inicial, continua y de reciclaje del personal ferroviario, incluyendo simuladores, reglamentación y comunicaciones tren-tierra.",
+  "Evaluar el incremento de la frecuencia de supervisión de los registros de velocidad y eventos del material motor y de los acompañamientos del personal de conducción y regulación."
+ ],
+ "fallecidos": 7,
+ "heridos_graves": 6,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "Seven persons died and six were injured, after a long distance train derailed at Villada Station while it was changing from track 1 to track 2.",
+  "Location name": "Railway line from León to Palencia at kilometre point 46,200.",
+  "Railway System type": "Railway",
+  "Location type": "Station",
+  "Movement type": "Long distance passenger train",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Passenger fatalities": 7,
+  "Total fatalities": 7,
+  "Passenger serious injuries": 6,
+  "Total serious injuries": 6,
+  "Estimated total material costs": "150 000 - 2 000 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Excessive speed."
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-18-2013",
+ "pais": "ES",
+ "expediente": "0018/2013",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0018/2013 OCURRIDO EL DÍA 07.03.2013 EN LA ESTACIÓN DE VIANA DE CEGA (VALLADOLID)",
+ "fecha_suceso": "2013-03-07",
+ "hora": "13:15",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Viana de Cega",
+  "provincia": "Valladolid",
+  "lat": 41.592046,
+  "lng": -4.752712
+ },
+ "pk": "234+843",
+ "linea": "100 Madrid - Hendaya",
+ "trenes": [
+  {
+   "numero": "VB688",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren complementario (material vacío, UT 592069)"
+  },
+  {
+   "numero": "PD601",
+   "operador": "Adif",
+   "tipo": "Tren auscultador"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 7 de marzo de 2013 a las 13:15 horas, el tren complementario VB688 de Renfe Operadora rebasó indebidamente las señales de entrada E2 y retroceso R2 en indicación de parada en la estación de Viana de Cega, debido a un incumplimiento de las órdenes de señalización por parte del personal de conducción. Se produjo una situación de conato de colisión con el tren auscultador PD601 de Adif, que se encontraba estacionado en la vía 4, quedando ambos trenes enfrentados a una distancia de 226 metros sin causar daños materiales ni personales.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 9\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Rebase indebido de señales de parada",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido del tren VB688 (material vacío) de las señales de entrada E2 y R2 (entrada y retroceso), en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "incidente",
+  "paso a nivel",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

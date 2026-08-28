@@ -1,0 +1,106 @@
+{
+ "id": "ES-CIAF-64-2009",
+ "pais": "ES",
+ "expediente": "0064/2009",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0064/2009 OCURRIDO EL DÍA 06.12.2009 EN LA ESTACIÓN DE GRANOLLERS CENTRE (BARCELONA)",
+ "fecha_suceso": "2009-12-06",
+ "hora": "08:40",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Granollers Centre",
+  "provincia": "Barcelona",
+  "lat": 41.6002,
+  "lng": 2.2863
+ },
+ "pk": "136+551",
+ "linea": "270 Cerbère – Barcelona Sant Andreu Comtal",
+ "trenes": [
+  {
+   "numero": "10371",
+   "operador": "Renfe Operadora",
+   "tipo": "larga distancia"
+  },
+  {
+   "numero": "30557",
+   "operador": "Renfe Operadora",
+   "tipo": "media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente de conato de colisión ocurrido el 6 de diciembre de 2009 en la estación de Granollers Centre (Barcelona) no provocó víctimas ni daños materiales. La causa principal fue la expedición indebida del tren 10371 por el personal de circulación, que incumplió las normas del bloqueo telefónico al autorizar la salida con el cantón ocupado. Este error se vio agravado por deficiencias en la comunicación de órdenes y en la gestión de las instalaciones durante los trabajos de mantenimiento.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................5\n2.1. SUCESO..................................................................................................................................................5\n2.2. CIRCUNSTANCIAS DEL SUCESO.............................................................................................................7\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................8\n2.4. CIRCUNSTANCIAS EXTERNAS.................................................................................................................8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................9\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................9\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Expedición indebida del tren 10371 por el personal de circulación",
+ "conclusiones": [
+  "El incidente tuvo su origen en la expedición indebida del tren 10371 por el personal de circulación de la estación de Granollers-Centre, incumpliendo las normas reglamentarias que rigen el bloqueo telefónico en vía doble que estaba establecido.",
+  "La actuación del jefe de circulación no comprueba que la orden dada a la auxiliar de circulación (incluyendo el momento en el que debe dar la orden de marche el tren) ha sido comprendida correctamente, (artículo 134 del RGC).",
+  "La actuación de la auxiliar de circulación que, estando establecido bloqueo telefónico normal entre las estaciones de Granollers Centre y Cardedeu, da la orden de marche el tren al 10371, estando el cantón ocupado por el tren 30557.",
+  "El jefe de circulación, al inicio de su servicio, no comprueba el estado de las instalaciones (señal de salida B1357).",
+  "El encargado de los trabajos da de baja la señal de salida sin que esté expresamente establecido en la consigna ATO 136 CTO 128 ni en la noticia TO 193 y sin incluir esta circunstancia en el telefonema de puesta en servicio de las instalaciones para el B.T.N.",
+  "La elaboración de la consigna ATO 136 CTO 128 y la noticia nº 193 es incompleta al no aparecer enumeradas las señales que quedaban fuera de servicio en las diferentes fases de implantación de las instalaciones, limitándose a comunicar que se preparaba el trayecto Granollers Centre – Cardedeu para circular al amparo del bloqueo telefónico normal.",
+  "La consigna ATO 136 CTO 138 no detalla de forma inequívoca ni las tareas a ejecutar ni las medidas a adoptar por parte de los diferentes equipos de trabajo implicados, ni las relaciones jerárquicas entre los mismos, no estableciendo un responsable único para el cumplimiento de lo establecido en la consigna.",
+  "Los maquinistas de los trenes 25401, 25403, 25405, 30557 y 10371 no comunican al puesto de mando la anomalía que presenta la señal de salida B1357, al estar tapada con la cruz de San Andrés y no estar dada de baja en la noticia nº 193. Tampoco notifican que ésta, estando tapada con la cruz, tiene un foco luciendo (artículo 281 del RGC).",
+  "El puesto de mando, no informó del incidente, incumpliendo lo establecido en la Circular de Presidencia nº 1."
+ ],
+ "recomendaciones": [
+  "En las estaciones en las que exista una distribución de responsabilidades en las tareas fundamentales de circulación, se establecerá una Consigna C que defina exactamente los cometidos de cada agente y la relación entre ellos (Art.311.4).",
+  "Realizar un análisis sobre la calidad de la formación inicial y de reciclaje de los responsables de circulación, en el aspecto específico de la gestión de la circulación en condiciones no habituales. En función de los resultados establecer las acciones necesarias para mejorar este aspecto.",
+  "Los distintos departamentos que participan en la ejecución de los trabajos tendrán que elaborar un protocolo común de actuación que garantice la perfecta coordinación de las actividades a realizar y la cadena de transmisión de las órdenes entre el interlocutor responsable de la comunicación con el Jefe de Circulación y los equipos de trabajo.",
+  "Las consignas deberán especificar qué instalaciones son motivo de modificación y el estado en el que se encuentran en las diferentes fases de la ejecución de los trabajos, notificando al personal de conducción las que les afecten.",
+  "Los responsables de la ejecución de las obras deberán incrementar sus esfuerzos en transmitir a todos los que participen en los trabajos la necesidad de conocer completamente el contenido y alcance de las tareas asignadas. Además, cada miembro del equipo que tenga a su cargo personal, trasladará las instrucciones pertinentes con claridad y se asegurará que han sido comprendidas en su totalidad.",
+  "Trasladar al puesto de mando de Barcelona la necesidad del estricto cumplimiento de lo establecido en el punto 5.3. Notificación del accidente o incidente, segundo párrafo, de la Circular de Presidencia nº 1, de 1 de enero de 2005: “El Puesto de Mando comunicará el hecho inmediatamente a los responsables de las distintas áreas del Administrador de Infraestructuras Ferroviarias afectadas.”"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "64/09-1",
+   "texto": "En las estaciones en las que exista una distribución de responsabilidades en las tareas fundamentales de circulación, se establecerá una Consigna C que defina exactamente los cometidos de cada agente y la relación entre ellos (Art.311.4)."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "64/09-2",
+   "texto": "Realizar un análisis sobre la calidad de la formación inicial y de reciclaje de los responsables de circulación, en el aspecto específico de la gestión de la circulación en condiciones no habituales. En función de los resultados establecer las acciones necesarias para mejorar este aspecto."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "64/09-3",
+   "texto": "Los distintos departamentos que participan en la ejecución de los trabajos tendrán que elaborar un protocolo común de actuación que garantice la perfecta coordinación de las actividades a realizar y la cadena de transmisión de las órdenes entre el interlocutor responsable de la comunicación con el Jefe de Circulación y los equipos de trabajo."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "64/09-4",
+   "texto": "Las consignas deberán especificar qué instalaciones son motivo de modificación y el estado en el que se encuentran en las diferentes fases de la ejecución de los trabajos, notificando al personal de conducción las que les afecten."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "64/09-5",
+   "texto": "Los responsables de la ejecución de las obras deberán incrementar sus esfuerzos en transmitir a todos los que participen en los trabajos la necesidad de conocer completamente el contenido y alcance de las tareas asignadas. Además, cada miembro del equipo que tenga a su cargo personal, trasladará las instrucciones pertinentes con claridad y se asegurará que han sido comprendidas en su totalidad."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "64/09-6",
+   "texto": "Trasladar al puesto de mando de Barcelona la necesidad del estricto cumplimiento de lo establecido en el punto 5.3. Notificación del accidente o incidente, segundo párrafo, de la Circular de Presidencia nº 1, de 1 de enero de 2005: “El Puesto de Mando comunicará el hecho inmediatamente a los responsables de las distintas áreas del Administrador de Infraestructuras Ferroviarias afectadas.”"
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

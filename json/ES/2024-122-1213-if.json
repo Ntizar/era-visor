@@ -1,0 +1,51 @@
+{
+ "id": "ES-2024-122-1213-if",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/2024-122-1213-if.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-10647",
+ "expediente": "122/2024",
+ "titulo": "Descarrilamiento por escape de material en la estación de León Clasificación el 13 de diciembre de 2024",
+ "fecha_suceso": "2024-12-13",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "León Clasificación",
+  "provincia": null,
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Mercancías SME S.A.",
+  "LOGIRAIL"
+ ],
+ "resumen": "El 13 de diciembre de 2024, a las 3:50 a.m., una rama de vagones estacionada en la vía 9 de la estación de León Clasificación sufrió un desplazamiento incontrolado debido a la pendiente. Este movimiento provocó que la aguja 29 se volteara, causando el descarrilamiento del primer eje del vehículo líder. No hubo víctimas ni afectación a los vehículos con mercancías peligrosas, aunque se produjeron daños materiales en la instalación de vía.",
+ "causa_directa": "La causa directa fue la inmovilización ineficaz de la rama de vagones estacionada, lo que desencadenó un desplazamiento incontrolado del material rodante.",
+ "causas_sistemicas": "Factores sistémicos incluyen la falta de disponibilidad de calces antideriva en las estaciones de clasificación debido a robos y ausencia de reposición efectiva, así como protocolos operativos que permitían aplicar solo un freno de estacionamiento sin medidas de respaldo ante fallos individuales.",
+ "recomendaciones": [
+  "Reforzar la implementación efectiva de la ficha guía F-RCF-05/2021 de la AESF en los procedimientos operativos de todas las entidades implicadas respecto a la inmovilización del material rodante estacionado.",
+  "Implantar un sistema de provisión y almacenamiento seguro de calces antideriva en estaciones de clasificación para garantizar su disponibilidad continua y prevenir pérdidas o sustracciones.",
+  "Revisar los programas de formación y habilitación del personal de terminales para incluir conocimiento de infraestructura, correcta aplicación y verificación de frenos de estacionamiento, identificación de riesgos y comprensión de responsabilidades compartidas."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "NIB ES",
+  "Occurrence type": "Train derailment",
+  "Occurrence description": "National ID 122/2024: runaway and derailment.\nA rake of 10 wagons, stationed in track #9 at León Clasificación marshalling yard, begins to drift away. Eight of them are loaded with dangerous goods (1st with liquid argon, 3rd to 9th with sodium hydroxide). The rake drifts for 483 metres, at 2,4 km/h. When the rake reaches the switch #29 (at the end of the track) the first wagon forces the point open and derails. No personal damages nor spills. Yard operators admitted they only had braked one wagon (out of ten in the rake) and had not used drag shoes, because of a shortage of drag shoes at the yard.\nThe Spanish NIB has considered that this occurrence reveals a wrong practice of yard staff, and this could by a hint of training shortages.",
+  "Location name": "León Clasificación (León)",
+  "Railway System type": "Railway ",
+  "Line type": "Multiple track",
+  "Location type": "Marshalling yard",
+  "Movement type": "Freight train",
+  "RU involved": "Renfe Mercancías",
+  "IM involved": "Adif",
+  "Estimated total material costs": "< 150 000 €",
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Causal factors:\n1. The ineffective immobilization of the wagon rake parked on track 9 of the León Classification marshalling yard, which triggered an uncontrolled drift of the material.",
+  "Underlying and root causes description (i.e. systemic factors, if any)": "Contributing factors:\n1. The lack of anti-drift chocks when cutting parked material.\n2. The loss of effectiveness of the automatic brake due to air loss in the brake circuit over time. See Recommendation 122/2024-1.\n3. The ineffectiveness of the parking brake applied to cutting material by the Traffic Assistant. See Recommendation 122/2024-2.\n4. The existence of slopes at the León Classification station.\nSystemic factors:  \n1. The lack of availability of anti-drift chocks at marshalling yards, due to repeated thefts and the absence of an effective replacement system. See Recommendation 122/2024-1.\n2. The requirement, in operating protocols, to apply only one parking brake in certain cases, without establishing backup measures for possible failures, incorrect application, or damage to the parked material. See Recommendation 122/2024-2."
+ }
+}

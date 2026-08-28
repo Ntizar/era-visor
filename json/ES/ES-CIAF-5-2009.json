@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-5-2009",
+ "pais": "ES",
+ "expediente": "0005/2009",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0005/2009 OCURRIDO EL DÍA 22.01.2009 EN LA ESTACIÓN DE GAVÁ",
+ "fecha_suceso": "2009-01-22",
+ "hora": "07:03",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Estación de Gavá",
+  "provincia": "Barcelona",
+  "lat": 41.3063,
+  "lng": 2.0033
+ },
+ "pk": "PK 663,700",
+ "linea": "200 Barcelona Sants - Madrid Chamartín",
+ "trenes": [
+  {
+   "numero": "30744",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de media distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 22 de enero de 2009 en la estación de Gavá, donde un tren de Renfe Operadora arrolló a un peatón que cruzaba las vías por un lugar no habilitado. El suceso provocó la muerte de una persona y no generó daños materiales en la infraestructura o el material rodante. La causa principal del accidente fue la invasión del gálibo de la vía por parte de la víctima, quien cruzó sin percatarse de la aproximación del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................6\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Invasión del gálibo de la vía por la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por la víctima que cruzó cuando pasaba el tren 30744."
+ ],
+ "recomendaciones": [
+  "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "05/09-1",
+   "texto": "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

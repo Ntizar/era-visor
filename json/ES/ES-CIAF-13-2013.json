@@ -1,0 +1,70 @@
+{
+ "id": "ES-CIAF-13-2013",
+ "pais": "ES",
+ "expediente": "0013/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0013/2013 OCURRIDO EL DÍA 10.02.2013 EN LA ESTACIÓN DE MALIAÑO (CANTABRIA)",
+ "fecha_suceso": "2013-02-10",
+ "hora": "05:43",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Maliaño",
+  "provincia": "Cantabria",
+  "lat": 43.45,
+  "lng": -3.85
+ },
+ "pk": "537+005",
+ "linea": "780 Bilbao Concordia – Santander",
+ "trenes": [
+  {
+   "numero": "9681",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El descarrilamiento del tren de mercancías 9681 ocurrido el 10 de febrero de 2013 en la estación de Maliaño (Cantabria) no causó víctimas ni heridos, aunque provocó daños materiales significativos en el material rodante y la infraestructura. La causa principal del suceso fue la inadecuada estiba de la carga en el octavo vagón, lo que generó un desplazamiento lateral del cargamento y la posterior desestabilización del tren. Como factor coadyuvante se identificó la existencia de un leve alabeo en la vía justo antes del punto del accidente.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 9\n2.4.  CIRCUNSTANCIAS EXTERNAS ........................................................................................................................ 11\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ..............................................................11\n3.1.  RESUMEN DE LAS DECLARACIONES .......................................................................................................",
+ "causa_directa": "Inadecuada estiba de la carga del octavo vagón",
+ "conclusiones": [
+  "El descarrilamiento se produce como consecuencia de una inadecuada estiba de la carga del octavo vagón, ocasionando el desplazamiento lateral del cargamento y, como consecuencia del mismo, la desestabilización del vagón e iniciándose el descarrilamiento.",
+  "Como causa coadyuvante se aprecia la existencia de un alabeo en la vía de escasa entidad unos metros antes del punto del descarrilamiento."
+ ],
+ "recomendaciones": [
+  "Incluir lo antes posible la IG-66 como norma de aplicación obligatoria en el ámbito de la red de ancho métrico (RAM).",
+  "Incorporar lo antes posible en el ámbito de la red de ancho métrico (RAM) la normativa sobre habilitación de cargadores establecida en la Orden FOM/2872/2010, de 5 de noviembre."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "numero": "13/13-1",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "texto": "Incluir lo antes posible la IG-66 como norma de aplicación obligatoria en el ámbito de la red de ancho métrico (RAM)."
+  },
+  {
+   "numero": "13/13-2",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)",
+   "texto": "Incorporar lo antes posible en el ámbito de la red de ancho métrico (RAM) la normativa sobre habilitación de cargadores establecida en la Orden FOM/2872/2010, de 5 de noviembre."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-49-2011",
+ "pais": "ES",
+ "expediente": "0049/2011",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0049/2011 OCURRIDO EL DÍA 26.10.2011 EN LA ESTACIÓN DE SANT POL DE MAR (BARCELONA)",
+ "fecha_suceso": "2011-10-26",
+ "hora": "16:24",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Sant Pol de Mar",
+  "provincia": "Barcelona",
+  "lat": 41.6022,
+  "lng": 2.5968
+ },
+ "pk": "PK 44+979",
+ "linea": "276 Bifurcación Sagrera a Maçanet-Massanes",
+ "trenes": [
+  {
+   "numero": "25736",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  },
+  {
+   "numero": "25639",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 26 de octubre de 2011 en la estación de Sant Pol de Mar (Barcelona), que provocó el descarrilamiento de un tren de cercanías sin causar víctimas mortales ni heridos, aunque sí daños materiales en el material rodante y la infraestructura. La causa principal fue el incumplimiento de las órdenes de señalización por parte del maquinista, quien rebasó una señal en parada y realizó posteriormente un retroceso no autorizado sobre una aguja talonada.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Retroceso no autorizado del tren 25736",
+ "conclusiones": [
+  "El descarrilamiento tuvo su origen en el retroceso no autorizado del tren 25736, sobre la aguja nº1, antes talonada tras el rebase indebido de la señal de salida S2/1, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "colisión",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

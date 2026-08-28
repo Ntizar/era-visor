@@ -1,0 +1,88 @@
+{
+ "id": "ES-CIAF-54-2008",
+ "pais": "ES",
+ "expediente": "0054/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0054/2008 OCURRIDO EL DÍA 24.10.2008 EN LA ESTACIÓN DE MONCÓFAR",
+ "fecha_suceso": "2008-10-24",
+ "hora": "06:28",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "tipo": "descarrilamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Moncófar",
+  "provincia": "Castellón",
+  "lat": 39.8114,
+  "lng": -0.152
+ },
+ "pk": "PK 48,748",
+ "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+ "trenes": [
+  {
+   "numero": "50460",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El 24 de octubre de 2008, un descarrilamiento en la estación de Moncófar provocó la volcadura de la locomotora y seis vagones, causando daños materiales considerables y una herida leve al maquinista. El suceso fue causado por la rotura de una rueda debido a una grieta por fatiga iniciada en una entalla producida por las garras del torno de retorneado.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................4\n2.1\nSUCESO......................................................................................................................................................4\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................6\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES...........................................................10\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS...........................................................................10\n3.2\nNORMATIVA.............................................",
+ "causa_directa": "Rotura de la rueda izquierda del tercer eje del segundo bogie",
+ "conclusiones": [
+  "El descarrilamiento se produjo por la rotura de la rueda izquierda del tercer eje, primero del segundo bogie, originando el decalado y siendo la rueda derecha la que golpea en la pata de liebre y provoca el remonte de la pestaña y el descarrilamiento.",
+  "La rotura de la rueda es provocada por una entalla desde la que se desarrolla una grieta que por fatiga va progresando hasta producir el colapso del material.",
+  "La entalla es producida por las garras del torno empleado para el retorneado de las ruedas después del calado de centros."
+ ],
+ "recomendaciones": [
+  "Establecer procedimientos y fichas de inspección para: 1. Comprobación de la existencia de entallas o marcas de sujeción de torno, 2. Inspección por magnetoscopia de la zona afectada comprobando la no existencia de grietas 3. Eliminación de las citadas marcas. Estos procedimientos afectarán a todos los tipos de ruedas, que hayan podido ser torneadas en los tornos que produzcan el problema.",
+  "Establecer para cada serie de vehículos afectados, un plan de actuación, indicando en que intervención de mantenimiento se realizará la aplicación de cada procedimiento. Introducción de estas operaciones en los Planes de Mantenimiento.",
+  "Seguimiento del avance de las actuaciones y resultado de las mismas en cada una de las series, llevando un control de resultados. En función del avance de las actuaciones, y cuando se pueda garantizar la desaparición del problema, modificar posteriormente los Planes de Mantenimiento, adaptándoles al Plan de Mantenimiento normal de este tipo de ejes.",
+  "En el procedimiento de torneado modificar los sistemas de sujeción de las ruedas, de forma que se garantice que no se producen entallas o marcas, estableciendo en el control de calidad, a la salida del torno, una ficha de inspección de comprobación de que las ruedas salen sin las citadas entallas o marcas y si estas existieran, eliminarlas conforme a procedimiento.",
+  "Todas las actuaciones anteriores deberán de ser comunicadas a las Empresas Ferroviarias, cuyas ruedas hayan podido ser torneadas en tornos que produzcan entallas o marcas y estas empresas deberán introducir en sus planes de mantenimiento actuaciones similares. Además comprobarán que los torneados que se realizan a las ruedas por las empresas fabricantes no se producen los citados defectos."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "54/08-1",
+   "texto": "Establecer procedimientos y fichas de inspección para: 1. Comprobación de la existencia de entallas o marcas de sujeción de torno, 2. Inspección por magnetoscopia de la zona afectada comprobando la no existencia de grietas 3. Eliminación de las citadas marcas. Estos procedimientos afectarán a todos los tipos de ruedas, que hayan podido ser torneadas en los tornos que produzcan el problema."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "54/08-2",
+   "texto": "Establecer para cada serie de vehículos afectados, un plan de actuación, indicando en que intervención de mantenimiento se realizará la aplicación de cada procedimiento. Introducción de estas operaciones en los Planes de Mantenimiento."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "54/08-3",
+   "texto": "Seguimiento del avance de las actuaciones y resultado de las mismas en cada una de las series, llevando un control de resultados. En función del avance de las actuaciones, y cuando se pueda garantizar la desaparición del problema, modificar posteriormente los Planes de Mantenimiento, adaptándoles al Plan de Mantenimiento normal de este tipo de ejes."
+  },
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "54/08-4",
+   "texto": "En el procedimiento de torneado modificar los sistemas de sujeción de las ruedas, de forma que se garantice que no se producen entallas o marcas, estableciendo en el control de calidad, a la salida del torno, una ficha de inspección de comprobación de que las ruedas salen sin las citadas entallas o marcas y si estas existieran, eliminarlas conforme a procedimiento."
+  },
+  {
+   "destinatario": "Empresas Ferroviarias/ Centros de Mantenimiento/ Adif",
+   "numero": "54/08-5",
+   "texto": "Todas las actuaciones anteriores deberán de ser comunicadas a las Empresas Ferroviarias, cuyas ruedas hayan podido ser torneadas en tornos que produzcan entallas o marcas y estas empresas deberán introducir en sus planes de mantenimiento actuaciones similares. Además comprobarán que los torneados que se realizan a las ruedas por las empresas fabricantes no se producen los citados defectos."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "descarrilamiento",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

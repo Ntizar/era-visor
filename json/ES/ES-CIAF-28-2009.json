@@ -1,0 +1,53 @@
+{
+ "id": "ES-CIAF-28-2009",
+ "pais": "ES",
+ "expediente": "0028/2009",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2009 OCURRIDO EL DÍA 22.06.2009 EN EL PASO A NIVEL DE INFIESTO (ASTURIAS)",
+ "fecha_suceso": "2009-06-22",
+ "hora": "09:20",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento_persona",
+ "tipo": "arrollamiento",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Piloña",
+  "provincia": "Asturias",
+  "lat": 43.35,
+  "lng": -5.2167
+ },
+ "pk": "361+975",
+ "linea": "21 Oviedo - Santander",
+ "trenes": [
+  {
+   "numero": "5950",
+   "operador": "Feve",
+   "tipo": "Tren de viajeros / Tren de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 22 de junio de 2009 en el paso a nivel de Infiesto (Asturias), donde un tren arrolló a un peatón que cruzaba las vías a pesar de que las barreras estaban bajadas. El suceso provocó la muerte de una persona de 90 años, sin causar daños materiales en la infraestructura o el material rodante. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima, actuando correctamente el personal ferroviario y los sistemas de seguridad.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.............................................................................................3\n2.1  SUCESO..................................................................................................................................................3\n2.2  CIRCUNSTANCIAS DEL SUCESO.............................................................................................................5\n2.3  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES......................................................................7\n2.4  CIRCUNSTANCIAS EXTERNAS.................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.........................................................7\n3.1  RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.........................................................................7\n3.2  SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Invasión del gálibo de la vía por la víctima",
+ "conclusiones": [
+  "El arrollamiento se produce a consecuencia de la invasión del gálibo de la vía por la víctima, cuando el tren estaba próximo al paso a nivel, pese a que las barreras estaban bajadas, la sonería había actuado correctamente y los indicadores luminosos se encontraban activados."
+ ],
+ "recomendaciones": [],
+ "recomendaciones_detalle": [],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "ES-CIAF-66-2008",
+ "pais": "ES",
+ "expediente": "0066/2008",
+ "titulo": "Informe Final sobre la Investigación del Accidente Ferroviario Nº 0066/2008 ocurrido el día 29.11.2008 en la Estación de Tembleque",
+ "fecha_suceso": "2008-11-29",
+ "hora": "03:00",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Tembleque",
+  "provincia": "Toledo",
+  "lat": 39.728055,
+  "lng": -3.500808
+ },
+ "pk": "PK 101,270",
+ "linea": "300 Madrid Chamartín - Valencia Nord",
+ "trenes": [
+  {
+   "numero": "97401",
+   "operador": "Continental Rail",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Continental Rail"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 29 de noviembre de 2008 en la estación de Tembleque, que provocó la muerte de un operario al ser arrollado por un tren de mercancías. La causa principal del siniestro fue la invasión del gálibo de la vía por parte de la víctima en el momento del paso del tren.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Invasión del gálibo de la vía por parte de la víctima",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión por parte de la víctima del gálibo de la vía en el momento en que pasaba el tren."
+ ],
+ "recomendaciones": [
+  "A la vista de los accidentes ocurridos en trabajos ferroviarios y dada la incidencia que estos tienen en la seguridad en la circulación, se recomienda a los Administradores de infraestructuras de la Red ferroviaria de interés general el establecimiento de los procedimientos necesarios, o el análisis de los mismos si estos existen, tanto para la elaboración de los estudios y planes de salud y seguridad en obras ferroviarias, como para la autorización de los trabajos y la vigilancia de los mismos durante su ejecución, con la finalidad de que la actividad de las personas participantes en los trabajos se desarrolle minimizando los riesgos para las personas y la circulación ferroviaria."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Administradores de infraestructuras de la Red ferroviaria de interés general",
+   "numero": "66/08-1",
+   "texto": "A la vista de los accidentes ocurridos en trabajos ferroviarios y dada la incidencia que estos tienen en la seguridad en la circulación, se recomienda a los Administradores de infraestructuras de la Red ferroviaria de interés general el establecimiento de los procedimientos necesarios, o el análisis de los mismos si estos existen, tanto para la elaboración de los estudios y planes de salud y seguridad en obras ferroviarias, como para la autorización de los trabajos y la vigilancia de los mismos durante su ejecución, con la finalidad de que la actividad de las personas participantes en los trabajos se desarrolle minimizando los riesgos para las personas y la circulación ferroviaria."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

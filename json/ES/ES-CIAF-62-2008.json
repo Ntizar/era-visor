@@ -1,0 +1,65 @@
+{
+ "id": "ES-CIAF-62-2008",
+ "pais": "ES",
+ "expediente": "0062/2008",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0062/2008 OCURRIDO EL DÍA 10.11.2008 EN LA ESTACIÓN DE EL ENTREGO",
+ "fecha_suceso": "2008-11-10",
+ "hora": "15:05",
+ "tipo_informe": "final",
+ "tipo_suceso": "rebase_senal",
+ "tipo": "fallos_senal",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "El Entrego",
+  "provincia": "Asturias",
+  "lat": 43.2707,
+  "lng": -8.2258
+ },
+ "pk": "40,996",
+ "linea": "61 Gijón-Laviana",
+ "trenes": [
+  {
+   "numero": "4918",
+   "operador": "Feve",
+   "tipo": "tren de viajeros de cercanías"
+  },
+  {
+   "numero": "5493",
+   "operador": "Feve",
+   "tipo": "tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ferroviario ocurrido el 10 de noviembre de 2008 en la estación de El Entrego consistió en el rebasamiento de una señal de parada por parte del tren de cercanías 4918, provocando un conato de colisión. Las consecuencias fueron daños materiales en la aguja nº 6 y retrasos acumulados de 119 minutos en otros trenes, sin haber víctimas mortales ni heridos. La causa principal del suceso fue el incumplimiento del reglamento de circulación por parte del maquinista, quien reinició la marcha sin atender la indicación de parada de la señal.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO.................................................................................................3\n2.1\nSUCESO......................................................................................................................................................3\n2.2\nCIRCUNSTANCIAS DEL SUCESO.................................................................................................................5\n2.3\nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................5\n2.4\nCIRCUNSTANCIAS EXTERNAS.....................................................................................................................6\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6\n3.1\nRESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6\n3.2\nSISTEMAS DE GESTIÓN DE LA SEGURIDAD.................",
+ "causa_directa": "Rebase de señal de parada por el maquinista del tren 4918",
+ "conclusiones": [
+  "El incidente tuvo su origen cuando el maquinista del tren 4918 rebasa la señal de salida de la estación, que presentaba la indicación de parada (rojo), incumpliendo lo estipulado en el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve."
+ ],
+ "recomendaciones": [
+  "Dadas las características del suceso, no se establecen recomendaciones"
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Dadas las características del suceso, no se establecen recomendaciones"
+  }
+ ],
+ "tags": [
+  "incidente",
+  "arrollamiento",
+  "colisión",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

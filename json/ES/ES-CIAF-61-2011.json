@@ -1,0 +1,72 @@
+{
+ "id": "ES-CIAF-61-2011",
+ "pais": "ES",
+ "expediente": "0061/2011",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0061/2011 OCURRIDO EL DÍA 19.12.2011 EN LA ESTACIÓN DE MADRID CHAMARTÍN (MADRID)",
+ "fecha_suceso": "2011-12-19",
+ "hora": "05:29",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Madrid Chamartín",
+  "provincia": "Madrid",
+  "lat": 40.4726,
+  "lng": -3.6825
+ },
+ "pk": "0+482",
+ "linea": "900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",
+ "trenes": [
+  {
+   "numero": "20204",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías (Tipo 120A)"
+  },
+  {
+   "numero": "20004",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías (Tipo 120A)"
+  },
+  {
+   "numero": "20207",
+   "operador": "Renfe Operadora",
+   "tipo": "Cercanías (Tipo 120A)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 19 de diciembre de 2011 en la estación de Madrid Chamartín que provocó la suspensión de la circulación y retrasos en 90 trenes, sin causar víctimas ni daños materiales. La causa principal fue un fallo humano consistente en la conexión incorrecta de los conectores de las agujas 9 y 27 durante trabajos de mantenimiento, lo que generó una discordancia entre las señales y la posición real de las vías. Esta situación se vio agravada por la ausencia de pruebas de concordancia en campo y la falta de identificación clara de los conectores.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3\n2.1.  SUCESO ............................................................................................................................................................ 3\n2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 6\n2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 8\n2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9\n3.1.  RESUMEN DE LAS DECLARACIONES ....................................................................................................",
+ "causa_directa": "Fallo humano en la conexión de los conectores de las agujas",
+ "conclusiones": [
+  "El incidente tuvo su origen en un fallo humano, al conexionarse de forma incorrecta entre sí los conectores que reciben y transmiten la información de los motores de las agujas nº 9 y nº 27 al módulo de mando de agujas del enclavamiento, de forma que la comprobación y el mando del cambio 9 en el enclavamiento son los correspondientes en campo al cambio 27 y viceversa.",
+  "Lo anterior permitió que itinerarios correctamente establecidos en el CTC fueran discordantes en el terreno.",
+  "Como causa subyacente se apunta el no realizar pruebas de concordancia en el terreno una vez finalizados los trabajos.",
+  "Como causa coadyuvante se apunta la ausencia de etiquetas en los conectores, la falta de una conexión individualizada y de una longitud de cable distinta para cada conector."
+ ],
+ "recomendaciones": [
+  "Que se extienda a los encargados de trabajos del resto de la red la sesión de formación y reciclaje impartida al encargado de Chamartín."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Que se extienda a los encargados de trabajos del resto de la red la sesión de formación y reciclaje impartida al encargado de Chamartín."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,67 @@
+{
+ "id": "ES-CIAF-66-2013",
+ "pais": "ES",
+ "expediente": "0066/2013",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0066/2013 OCURRIDO EL DÍA 26.09.2013 EN EL PUESTO DE BLOQUEO DE RÍO DUERO (VALLADOLID)",
+ "fecha_suceso": "2013-09-26",
+ "hora": "09:19",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Puesto de bloqueo de Río Duero",
+  "provincia": "Valladolid",
+  "lat": 42.217596,
+  "lng": -5.099282
+ },
+ "pk": "167+867",
+ "linea": "AV 080 Madrid Chamartín – Valladolid Campo Grande",
+ "trenes": [
+  {
+   "numero": "4083",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  },
+  {
+   "numero": "4076",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de viajeros de larga distancia"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 26 de septiembre de 2013 en el puesto de bloqueo de Río Duero (Valladolid), donde el tren 4083 rebasó indebidamente una señal en parada, provocando un conato de colisión con el tren 4076. No se registraron víctimas ni daños materiales, aunque se produjeron retrasos en las circulaciones afectadas. La causa principal del suceso fue un fallo humano por falta de atención del maquinista del tren 4083.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo humano del personal de conducción",
+ "conclusiones": [
+  "El incidente se produce por fallo humano del personal de conducción del tren de viajeros 4083, y más concretamente por una falta de atención en la conducción, teniendo como consecuencia el incumplimiento de las órdenes dadas por la señales y el rebase indebido de la señal E1 que indicaba parada."
+ ],
+ "recomendaciones": [
+  "Analizar la viabilidad de introducir las modificaciones necesarias en el material 130 para que sea posible la transición del ERTMS a ASFA Digital sin la necesidad de que se efectúe a tren parado. Extender, en su caso, esta recomendación al resto de material que pudiera presentar esta problemática."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe Operadora",
+   "numero": "66/13-1",
+   "texto": "Analizar la viabilidad de introducir las modificaciones necesarias en el material 130 para que sea posible la transición del ERTMS a ASFA Digital sin la necesidad de que se efectúe a tren parado. Extender, en su caso, esta recomendación al resto de material que pudiera presentar esta problemática."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "ES-CIAF-47-2009",
+ "pais": "ES",
+ "expediente": "0047/2009",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0047/2009 OCURRIDO EL DÍA 31.08.2009 EN LA ESTACIÓN DE SAN CRISTOBAL INDUSTRIAL (MADRID)",
+ "fecha_suceso": "2009-08-31",
+ "hora": "18:14",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "San Cristóbal Industrial",
+  "provincia": "Madrid",
+  "lat": 40.3833,
+  "lng": -3.75
+ },
+ "pk": "P.K. 10+200, vía 1",
+ "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+ "trenes": [
+  {
+   "numero": "20072",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de viajeros de cercanías"
+  },
+  {
+   "numero": "91038",
+   "operador": "Renfe Operadora",
+   "tipo": "tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Incidente ocurrido el 31 de agosto de 2009 en la estación de San Cristóbal Industrial (Madrid), donde el tren de viajeros 20072 rebasó indebidamente una señal de parada, provocando un conato de colisión con un tren de mercancías. No se registraron víctimas ni daños materiales, aunque se interrumpió la circulación. La causa principal fue el incumplimiento por parte del personal de conducción de las órdenes de las señales, agravado por la no activación automática del sistema ASFA.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3\n2.1. SUCESO................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7\n2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 7\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................",
+ "causa_directa": "Rebase indebido de la señal de entrada (E2) por el tren 20072",
+ "conclusiones": [
+  "El incidente tuvo su origen en el rebase indebido por el tren 20072 de la señal de entrada (E2), que se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "Como causa subyacente del suceso es necesario señalar la no activación por ASFA de emergencia (L8) al paso por la baliza previa de la señal de entrada (E2)."
+ ],
+ "recomendaciones": [
+  "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Renfe-Operadora",
+   "numero": "47/09-1",
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

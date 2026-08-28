@@ -1,0 +1,70 @@
+{
+ "id": "ES-CIAF-17-2010",
+ "pais": "ES",
+ "expediente": "0017/2010",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2010 OCURRIDO EL DÍA 11.03.2010 EN EL PASO A NIVEL CLASE A EN VILLAQUILAMBRE (LEÓN)",
+ "fecha_suceso": "2010-03-11",
+ "hora": "09:15",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "muy grave",
+ "ubicacion": {
+  "estacion": "Villaquilambre",
+  "provincia": "León",
+  "lat": 43.18,
+  "lng": -5.85
+ },
+ "pk": "5+037",
+ "linea": "31 León - Bilbao",
+ "trenes": [
+  {
+   "numero": "7403",
+   "operador": "FEVE",
+   "tipo": "Tren de viajeros de cercanías"
+  }
+ ],
+ "entidades": [
+  "FEVE"
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 11 de marzo de 2010 en el paso a nivel de Villaquilambre (León), donde un tren de FEVE arrolló a un automóvil que invadió la vía. El suceso provocó la muerte de la conductora del vehículo y daños materiales en el tren y el coche. La causa principal fue la invasión del gálibo de la vía por parte del vehículo de carretera.",
+ "descripcion": ".......................................................................................... 3\n2.1. SUCESO\n\n................................................................................................................................................. 3\n2.2. CIRCUNSTANCIAS DEL SUCESO\n\n............................................................................................................ 5\n2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES\n\n..................................................................... 8\n2.4. CIRCUNSTANCIAS EXTERNAS\n\n................................................................................................................ 8\n3.\nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES\n\n....................................................... 8\n3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS\n\n........................................................................ 8\n3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD\n\n........................................................",
+ "causa_directa": "Invasión del gálibo de la vía por parte del vehículo",
+ "conclusiones": [
+  "El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, que cruza por el paso a nivel cuando pasaba el tren 7403."
+ ],
+ "recomendaciones": [
+  "Adaptar la señalización de carretera del P.N. conforme a la Orden Ministerial de 2 de Agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del vehículo (M- 4.1)",
+  "Adaptar las condiciones de P.N. a lo establecido en la Orden Ministerial de 2 de Agosto de 2001. Bien cambiando el tipo de protección de A a B, bien modificando las distancias de visibilidad real acordes a la velocidad establecida en el tramo, o reduciendo la velocidad del tramo adecuándola a las características del P.N."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Ayuntamiento de Villaquilambre",
+   "numero": "17/10-1",
+   "texto": "Adaptar la señalización de carretera del P.N. conforme a la Orden Ministerial de 2 de Agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del vehículo (M- 4.1)"
+  },
+  {
+   "destinatario": "FEVE",
+   "numero": "17/10-2",
+   "texto": "Adaptar las condiciones de P.N. a lo establecido en la Orden Ministerial de 2 de Agosto de 2001. Bien cambiando el tipo de protección de A a B, bien modificando las distancias de visibilidad real acordes a la velocidad establecida en el tramo, o reduciendo la velocidad del tramo adecuándola a las características del P.N."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "paso a nivel",
+  "arrollamiento",
+  "colisión",
+  "señalización",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "cruzamiento",
+  "fatal"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

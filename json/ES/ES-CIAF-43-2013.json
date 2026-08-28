@@ -1,0 +1,62 @@
+{
+ "id": "ES-CIAF-43-2013",
+ "pais": "ES",
+ "expediente": "0043/2013",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0043/2013 OCURRIDO EL DÍA 04.06.2013 ENTRE LAS ESTACIONES DE SANT SADURNÍ D’ANOIA Y MARTORELL",
+ "fecha_suceso": "2013-06-04",
+ "hora": "00:30",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_incidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Entre las estaciones de Sant Sadurní d’Anoia y Martorell",
+  "provincia": "Barcelona",
+  "lat": 41.43242,
+  "lng": 1.838498
+ },
+ "pk": "64+073",
+ "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+ "trenes": [
+  {
+   "numero": "LK500",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de mercancías"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El día 4 de junio de 2013, el jefe del CTC de Villafranca estableció incorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d’Anoia y Martorell, bloqueando por error la vía I en lugar de la vía II, en la cual estaban programados trabajos. El tren de mercancías LK500 de Renfe Operadora circulaba por la vía II y, al aproximarse a la señal intermedia 642, esta cambió a rojo debido a la colocación de la barra de shuntado por el encargado de trabajos, activándose el sistema ASFA y deteniendo el tren a 533 metros de la señal. Como consecuencia del incidente no se produjeron daños personales ni materiales.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 5\n2.1.  SUCESO ....................................................................................................................................................... 5\n2.1.1. Datos ................................................................................................................................................................ 5\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo humano del jefe del CTC al establecer incorrectamente el bloqueo",
+ "conclusiones": [
+  "El incidente se produce por fallo humano del jefe del CTC al establecer incorrectamente el bloqueo en el trayecto entre Sant Sadurní d’Anoia y Martorell y bloquear por error la vía I en lugar de la vía II."
+ ],
+ "recomendaciones": [
+  "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "43/13-1",
+   "texto": "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "alcoholemia",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

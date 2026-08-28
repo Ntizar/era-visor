@@ -1,0 +1,69 @@
+{
+ "id": "ES-CIAF-27-2013",
+ "pais": "ES",
+ "expediente": "0027/2013",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0027/2013 OCURRIDO EL DÍA 07.04.2013 ENTRE LAS ESTACIONES DE VENTA LA INÉS Y CONQUISTA (CIUDAD REAL)",
+ "fecha_suceso": "2013-04-07",
+ "hora": "17:31",
+ "tipo_informe": "final",
+ "tipo_suceso": "otro_accidente",
+ "tipo": "otro",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "Túnel de Venta La Inés",
+  "provincia": "Ciudad Real",
+  "lat": 38.383525,
+  "lng": -4.478294
+ },
+ "pk": "245+885",
+ "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa",
+ "trenes": [
+  {
+   "numero": "2164",
+   "operador": "Renfe Operadora",
+   "tipo": "Larga distancia / Talgo 130"
+  },
+  {
+   "numero": "2361",
+   "operador": "Renfe Operadora",
+   "tipo": "Alta velocidad"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "Accidente ferroviario ocurrido el 7 de abril de 2013 en el túnel de Venta La Inés (Ciudad Real), donde se desprendió una puerta del tren 2164 al circular a 245 km/h. No hubo víctimas mortales ni heridos, aunque sí daños materiales en ambos trenes implicados y en la infraestructura. La causa principal fue el fallo humano del interventor, quien no enclavó correctamente la puerta tras condenarla, lo que permitió su salida por efecto de la diferencia de presión en el túnel.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 6\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 7\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 8\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo humano del interventor en ruta",
+ "conclusiones": [
+  "El accidente se produjo por el fallo humano del interventor en ruta del tren 2164, al manipular de forma incorrecta el sistema de apertura/cierre manual de la puerta izquierda del coche nº 3.",
+  "Esta manipulación provocó que la puerta quedase cerrada y condenada pero no enclavada.",
+  "Al pasar por el interior del túnel, la diferencia de presión ocasionó que la puerta se desprendiera del coche.",
+  "La puerta cayó sobre la vía I y fue arrollada por el tren 2361 que circulaba en sentido contrario."
+ ],
+ "recomendaciones": [
+  "Considerando adecuadas las medidas adoptadas, consistentes en: Por parte de Talgo: Revisión de la normativa técnica sobre puertas exteriores; Montaje en las series S-130 y S-730 de un mecanismo que impide el accionamiento de la condena de la puerta exterior sin los ganchos de retención dispuestos; Nuevas normas de condena de puertas en trenes de nueva construcción. Por parte de Renfe Operadora: Elaboración de un glosario de definiciones para la unificación de términos, y su inclusión en los cursos de reciclaje. No se establecen recomendaciones adicionales a estas medidas."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, consistentes en: Por parte de Talgo: Revisión de la normativa técnica sobre puertas exteriores; Montaje en las series S-130 y S-730 de un mecanismo que impide el accionamiento de la condena de la puerta exterior sin los ganchos de retención dispuestos; Nuevas normas de condena de puertas en trenes de nueva construcción. Por parte de Renfe Operadora: Elaboración de un glosario de definiciones para la unificación de términos, y su inclusión en los cursos de reciclaje. No se establecen recomendaciones adicionales a estas medidas."
+  }
+ ],
+ "tags": [
+  "accidente",
+  "arrollamiento",
+  "descarrilamiento",
+  "señalización",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}

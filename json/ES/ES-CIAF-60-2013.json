@@ -1,0 +1,81 @@
+{
+ "id": "ES-CIAF-60-2013",
+ "pais": "ES",
+ "expediente": "0060/2013",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0060/2013 OCURRIDO EL DÍA 05.09.2013 EN PLENA VÍA ENTRE BOO Y MORTERA (CANTABRIA)",
+ "fecha_suceso": "2013-09-05",
+ "hora": "15:44",
+ "tipo_informe": "final",
+ "tipo_suceso": "conato_colision",
+ "tipo": "colision",
+ "gravedad": "menor",
+ "ubicacion": {
+  "estacion": "entre Boo y Mortera",
+  "provincia": "Cantabria",
+  "lat": 43.433959,
+  "lng": -3.92714
+ },
+ "pk": "519+295",
+ "linea": "770 RAM Santander - Oviedo",
+ "trenes": [
+  {
+   "numero": "6725",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías (UT 3811 fusionada con UT 3808 del tren 6727)"
+  },
+  {
+   "numero": "6923",
+   "operador": "Renfe Operadora",
+   "tipo": "Tren de cercanías (UT 3803)"
+  }
+ ],
+ "entidades": [
+  "ADIF",
+  "FEVE",
+  "Renfe Operadora"
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "danos_materiales": true,
+ "resumen": "El incidente ocurrido el 5 de septiembre de 2013 en Requejada (Cantabria) provocó un conato de colisión entre dos trenes de Renfe Operadora sin causar víctimas ni daños materiales. La causa principal fue un fallo combinado que incluyó un exceso de arenado en los carriles, lo que generó una pérdida de shuntado en el circuito de vía, y el funcionamiento anómalo de un relé de seguridad que permitió la apertura indebida de la señal de paso.",
+ "descripcion": "HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 6\n2.1.  SUCESO ....................................................................................................................................................... 6\n2.1.1. Datos ................................................................................................................................................................ 6\n2.1.2. Descripción del suceso ...................................................................................................................................... 7\n2.1.3. Decisión de abrir la investigación ....................................................................................................................... 8\n2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................. 9\n2.2.1. Personal ferroviario implicado ..........",
+ "causa_directa": "Fallo combinado del funcionamiento de las instalaciones de vía y del material motor",
+ "conclusiones": [
+  "El incidente tuvo su origen en un fallo combinado del funcionamiento tanto de las instalaciones de vía como del material motor.",
+  "Por un lado, el exceso de arenado debido a las múltiples frenadas de emergencia del tren 6725 propició una pérdida de shuntado en el circuito de vía.",
+  "Por otro lado, el funcionamiento anómalo del relé encargado de controlar la secuencia de paso de los trenes por los circuitos de vía provocó la apertura indebida de la señal B5192, que pasó a indicar vía libre cuando el cantón que protegía estaba ocupado por el tren 6725."
+ ],
+ "recomendaciones": [
+  "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+  "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante.",
+  "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes."
+ ],
+ "recomendaciones_detalle": [
+  {
+   "destinatario": "Adif",
+   "numero": "60/13-1",
+   "texto": "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora."
+  },
+  {
+   "destinatario": "Adif",
+   "numero": "60/13-2",
+   "texto": "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante."
+  },
+  {
+   "destinatario": "Renfe Integria",
+   "numero": "60/13-3",
+   "texto": "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes."
+  }
+ ],
+ "tags": [
+  "incidente",
+  "colisión",
+  "mantenimiento",
+  "infraestructura",
+  "velocidad",
+  "leve"
+ ],
+ "url_pdf": "https://www.transportes.gob.es/organos-colegiados/ciaf/informes-finales-de-sucesos-investigados",
+ "fuente": "CIAF-visor",
+ "calidad": "verificado"
+}
