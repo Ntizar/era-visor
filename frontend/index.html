@@ -67,6 +67,28 @@
         }
         .sidebar input[type="range"] { width: 100%; padding: 0; }
         .sidebar .range-values { display: flex; justify-content: space-between; font-size: 0.73rem; color: #888; }
+        .dual-range { position: relative; height: 22px; }
+        .dual-range .dual-track {
+            position: absolute; top: 50%; left: 0; right: 0; height: 4px; transform: translateY(-50%);
+            background: #e2e8f0; border-radius: 2px;
+        }
+        .dual-range .dual-fill {
+            position: absolute; top: 50%; height: 4px; transform: translateY(-50%);
+            background: #2563eb; border-radius: 2px;
+        }
+        .dual-range .dual-thumb {
+            position: absolute; top: 0; left: 0; width: 100%; height: 22px;
+            -webkit-appearance: none; appearance: none; background: none; pointer-events: none; margin: 0;
+        }
+        .dual-range .dual-thumb::-webkit-slider-thumb {
+            -webkit-appearance: none; appearance: none; pointer-events: auto;
+            width: 14px; height: 14px; border-radius: 50%; background: #2563eb;
+            border: 2px solid #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.25); cursor: pointer;
+        }
+        .dual-range .dual-thumb::-moz-range-thumb {
+            pointer-events: auto; width: 14px; height: 14px; border-radius: 50%;
+            background: #2563eb; border: 2px solid #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.25); cursor: pointer;
+        }
         .sidebar .filter-count { font-size: 0.75rem; color: var(--kz-azul-medio); margin-top: 0.5rem; }
         .sidebar .btn-reset {
             background: var(--kz-rojo); color: white; border: none; padding: 0.5rem 1rem;
@@ -276,15 +298,30 @@
         <select id="filterType"><option value="">Todos</option></select>
 
         <label>Periodo: <span id="yearLabel" style="font-weight:600;color:#2563eb">todos</span></label>
-        <input type="range" id="yearMax" min="0" max="1" value="1">
-        <div class="range-values"><span id="yearMinTop">—</span><span id="yearMaxVal">—</span></div>
+        <div class="dual-range">
+            <div class="dual-track"></div>
+            <div class="dual-fill" id="yearFill"></div>
+            <input type="range" id="yearMin" class="dual-thumb">
+            <input type="range" id="yearMax" class="dual-thumb">
+        </div>
+        <div class="range-values"><span id="yearMinVal">—</span><span id="yearMaxVal">—</span></div>
 
         <h3>Víctimas</h3>
         <div class="chk"><input type="checkbox" id="filterVictimas"> Solo con víctimas</div>
         <div class="chk"><input type="checkbox" id="filterInforme"> Solo con informe PDF</div>
 
+        <h3>Análisis v2 (IA)</h3>
+        <label>Subsistema implicado</label>
+        <select id="filterSubsistema"><option value="">Todos</option></select>
+        <label>Protección de tren</label>
+        <select id="filterATP"><option value="">Todos</option></select>
+        <label>Tipo de red</label>
+        <select id="filterRed"><option value="">Todas</option></select>
+        <label>Explotación</label>
+        <select id="filterExplot"><option value="">Todas</option></select>
+
         <h3>Búsqueda</h3>
-        <input type="text" id="filterSearch" placeholder="Título, estación, provincia…">
+        <input type="text" id="filterSearch" placeholder="Título, estación, provincia, precursor…">
 
         <div class="filter-count" id="filterCount">Cargando...</div>
         <button class="btn-reset" onclick="resetFilters()">Restablecer filtros</button>
@@ -493,10 +530,15 @@ function pintarMapa() {
 function aplicaFiltros() {
     const pais = document.getElementById('filterPais').value;
     const tipo = document.getElementById('filterType').value;
-    const a1 = +(document.getElementById('yearMinTop').textContent || 0) || 0;
-    const a2 = +document.getElementById('yearMax').value;
+    const elMin = document.getElementById('yearMin'), elMax = document.getElementById('yearMax');
+    const a1 = Math.min(+elMin.value, +elMax.value);
+    const a2 = Math.max(+elMin.value, +elMax.value);
     const conVic = document.getElementById('filterVictimas').checked;
     const conInf = document.getElementById('filterInforme').checked;
+    const subs = document.getElementById('filterSubsistema').value;
+    const atp = document.getElementById('filterATP').value;
+    const red = document.getElementById('filterRed').value;
+    const expl = document.getElementById('filterExplot').value;
     const q = (document.getElementById('filterSearch').value || '').toLowerCase();
     const q2 = (document.getElementById('tableSearch').value || '').toLowerCase();
 
@@ -507,7 +549,11 @@ function aplicaFiltros() {
         if (a && (a < a1 || a > a2)) return false;
         if (conVic && !((r.fallecidos || 0) > 0 || (r.heridos_graves || 0) > 0)) return false;
         if (conInf && !r.url_pdf) return false;
-        const texto = `${r.titulo} ${r.estacion || ''} ${r.provincia || ''} ${r.ubicacion_nombre || ''}`.toLowerCase();
+        if (subs && r.subsistema !== subs) return false;
+        if (atp && r.sistema_proteccion !== atp) return false;
+        if (red && r.tipo_red !== red) return false;
+        if (expl && r.explotacion !== expl) return false;
+        const texto = `${r.titulo} ${r.estacion || ''} ${r.provincia || ''} ${r.ubicacion_nombre || ''} ${(r.precursores || []).join(' ')}`.toLowerCase();
         if (q && !texto.includes(q)) return false;
         if (q2 && !texto.includes(q2)) return false;
         return true;
@@ -764,10 +810,17 @@ function resetFilters() {
     document.getElementById('filterInforme').checked = false;
     document.getElementById('filterSearch').value = '';
     document.getElementById('tableSearch').value = '';
-    const r2 = document.getElementById('yearMax');
-    r2.value = r2.max;
-    document.getElementById('yearMaxVal').textContent = r2.max;
+    document.getElementById('filterSubsistema').value = '';
+    document.getElementById('filterATP').value = '';
+    document.getElementById('filterRed').value = '';
+    document.getElementById('filterExplot').value = '';
+    const rMin = document.getElementById('yearMin'), rMax = document.getElementById('yearMax');
+    rMin.value = rMin.min; rMax.value = rMax.max;
+    document.getElementById('yearMinVal').textContent = rMin.min;
+    document.getElementById('yearMaxVal').textContent = rMax.max;
     document.getElementById('yearLabel').textContent = 'todos';
+    document.getElementById('yearFill').style.left = '0%';
+    document.getElementById('yearFill').style.right = '0%';
     aplicaFiltros();
 }
 
@@ -787,24 +840,41 @@ async function cargar() {
     const tipos = [...new Set(TODO.map(r => r.tipo))].sort();
     const selT = document.getElementById('filterType');
     for (const t of tipos) selT.insertAdjacentHTML('beforeend', `<option value="${t}">${TIPOS_ES[t] || t}</option>`);
-    // años: un único slider "hasta el año X"
+    // años: doble tirador sobre una sola barra
     const anios = TODO.map(r => +(r.fecha || '').slice(0, 4)).filter(Boolean);
     const amin = Math.min(...anios), amax = Math.max(...anios);
-    const r2 = document.getElementById('yearMax');
-    r2.min = amin; r2.max = amax; r2.value = amax;
+    const rMin = document.getElementById('yearMin'), rMax = document.getElementById('yearMax');
+    const fill = document.getElementById('yearFill');
+    [rMin, rMax].forEach(el => { el.min = amin; el.max = amax; });
+    rMin.value = amin; rMax.value = amax;
+    document.getElementById('yearMinVal').textContent = amin;
     document.getElementById('yearMaxVal').textContent = amax;
-    document.getElementById('yearMinTop').textContent = amin;
-    document.getElementById('yearLabel').textContent = 'todos';
-    r2.oninput = () => {
-        const v = +r2.value;
-        document.getElementById('yearMaxVal').textContent = v;
-        document.getElementById('yearLabel').textContent = v >= amax ? 'todos' : (amin + '–' + v);
-        aplicaFiltros();
-    };
+    document.getElementById('yearLabel').textContent = amin + '–' + amax;
+    function pintaFill() {
+        const lo = Math.min(+rMin.value, +rMax.value), hi = Math.max(+rMin.value, +rMax.value);
+        const span = amax - amin || 1;
+        fill.style.left = ((lo - amin) / span * 100) + '%';
+        fill.style.right = ((amax - hi) / span * 100) + '%';
+        document.getElementById('yearMinVal').textContent = lo;
+        document.getElementById('yearMaxVal').textContent = hi;
+        document.getElementById('yearLabel').textContent = (lo <= amin && hi >= amax) ? 'todos' : (lo + '–' + hi);
+    }
+    [rMin, rMax].forEach(el => el.oninput = () => { pintaFill(); aplicaFiltros(); });
     ['filterPais', 'filterType', 'filterVictimas', 'filterInforme'].forEach(id =>
         document.getElementById(id).onchange = aplicaFiltros);
     document.getElementById('filterSearch').oninput = aplicaFiltros;
     document.getElementById('tableSearch').oninput = aplicaFiltros;
+    // selects v2
+    const selSubs = document.getElementById('filterSubsistema');
+    const selATP = document.getElementById('filterATP');
+    const selRed = document.getElementById('filterRed');
+    const selExpl = document.getElementById('filterExplot');
+    const uniq = arr => [...new Set(arr.filter(Boolean))].sort();
+    for (const v of uniq(TODO.map(r => r.subsistema))) selSubs.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
+    for (const v of uniq(TODO.map(r => r.sistema_proteccion))) selATP.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
+    for (const v of uniq(TODO.map(r => r.tipo_red))) selRed.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
+    for (const v of uniq(TODO.map(r => r.explotacion))) selExpl.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
+    [selSubs, selATP, selRed, selExpl].forEach(el => el.onchange = aplicaFiltros);
     // orden por columnas
     document.querySelectorAll('#tablaInformes th[data-k]').forEach(th => th.onclick = () => {
         const k = th.dataset.k;

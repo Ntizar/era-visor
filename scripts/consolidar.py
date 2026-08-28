@@ -96,6 +96,14 @@ def main(codigo: str):
                 clave = f"{int(m.group(1))}/{anio}"
         existente = por_expediente.get(clave) if clave else None
         if existente and existente["fuente"] == "CIAF-visor" and not es_ciaf:
+            # el CIAF manda, pero los campos v2 (enriquecimiento IA) son aditivos:
+            # fusionarlos en el registro CIAF en vez de descartar el trabajo LLM
+            campos_v2 = ("subsistema", "sistema_proteccion", "tipo_red", "explotacion",
+                         "precursores", "mitigaciones", "factores_humanos", "meteorologia",
+                         "circulation_type", "fase_ciclo_vida")
+            for campo in campos_v2:
+                if rec.get(campo) and not existente.get(campo):
+                    existente[campo] = rec[campo]
             continue  # CIAF ya está, no pisar con LLM
         if rec["id"] is None:
             rec["id"] = f"{codigo}-{f.stem}"
