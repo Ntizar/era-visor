@@ -32,18 +32,32 @@ def descargar(codigo: str):
             ok += 1
             continue
         url = BASE + ruta
-        try:
-            req = urllib.request.Request(url, headers=UA)
-            with urllib.request.urlopen(req, timeout=120) as r:
-                data = r.read()
-            dest.write_bytes(data)
+        datos = None
+        for intento in range(4):
+            try:
+                req = urllib.request.Request(url, headers=UA)
+                with urllib.request.urlopen(req, timeout=120) as r:
+                    datos = r.read()
+                break
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    pausa = 30 * (intento + 1)
+                    print(f"  ⏳ 429 en {nombre[:50]} — espero {pausa}s (intento {intento + 1}/4)")
+                    time.sleep(pausa)
+                else:
+                    print(f"  ✗ {nombre[:60]}: HTTP {e.code}")
+                    break
+            except Exception as e:
+                print(f"  ✗ {nombre[:60]}: {e}")
+                break
+        if datos:
+            dest.write_bytes(datos)
             ok += 1
             if ok % 25 == 0:
                 print(f"  [{codigo}] {ok}/{len(manifest)} descargados")
-        except Exception as e:
+        else:
             fail += 1
-            print(f"  ✗ {nombre[:60]}: {e}")
-        time.sleep(1.0)  # cortesía con ERA
+        time.sleep(2.0)  # cortesía con ERA (evita 429)
     print(f"[{codigo}] LISTO: {ok} descargados, {fail} fallos, total manifest {len(manifest)}")
 
 
