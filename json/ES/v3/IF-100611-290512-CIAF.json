@@ -1,0 +1,127 @@
+{
+ "titulo_normalizado": "Arrollamiento de tubo metálico por desviación de hinca dirigida en plena vía entre Los Gavilanes y Perales",
+ "idioma_original": "es",
+ "resumen": "El 10 de junio de 2011, el tren de alta velocidad 2071 arrolló un tubo metálico que cruzaba las vías en el PK 11+100 de la línea Madrid-Sevilla. El tubo emergió por la desviación de una hinca dirigida realizada para soterrar una línea eléctrica de Gas Natural Fenosa. El suceso provocó daños materiales en material rodante e infraestructura, sin víctimas. La causa principal fue el incumplimiento de las condiciones de seguridad de la autorización de obras.",
+ "hechos": "El día 10 de junio de 2011, a las 09:50 horas, en el PK 11+100 de la línea de alta velocidad 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa, a la entrada del túnel de Perales, el tren de viajeros 2071 arrolló un tubo metálico que cruzaba sobre las vías. Se estaban realizando trabajos de perforación por debajo de la plataforma (hinca dirigida) para la canalización de una línea de alta tensión de Gas Natural Fenosa. El tubo se desvió de su trayectoria, emergió por el pie del talud izquierdo, cruzó la vía 2 y la vía 1, y acodó su punta entre el alma y la cabeza del carril externo de la vía 1, rompiéndolo unos 50 centímetros. El tren 2071 circulaba por vía 1 dirección Madrid a 172 km/h, se detuvo tras activarse el freno de urgencia por avería en LZB y causó daños en carenado, acoplamiento, sistema neumático y LZB. El tren 2100, que circulaba en sentido contrario por vía 2, se detuvo en el PK 11+200 tras recibir autorización para marcha a la vista y observó el tubo invadiendo el gálibo de ambas vías.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Los Gavilanes",
+  "pk": "PK 11+100",
+  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Entrada del túnel de Perales (emboquille sur), lado Los Gavilanes, tramo Km 2,8 - Gavilanes Aguja Km 13,400, en trinchera de unos 6 metros de altura"
+ },
+ "cronologia": [
+  {
+   "hora": "09:50",
+   "evento": "El tren 2071 arrolla el tubo metálico y se detiene en el PK 9+800"
+  },
+  {
+   "hora": "09:50",
+   "evento": "El maquinista del tren 2071 informa al CRC del suceso"
+  },
+  {
+   "hora": "09:50",
+   "evento": "Ambas vías quedan interceptadas"
+  },
+  {
+   "hora": "10:40",
+   "evento": "Se restablece la circulación para trenes pares por la vía 2 entre Los Gavilanes y Atocha, con marcha a la vista entre PK 9+800 y 12+000"
+  },
+  {
+   "hora": "12:08",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "14:00",
+   "evento": "Se restablece la circulación por vía 1 con limitación de velocidad a 60 km/h"
+  },
+  {
+   "hora": "11:00",
+   "evento": "El 11 de junio se restablece la circulación en condiciones normales por ambas vías"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "2071",
+   "tipo": "Alta velocidad / viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en carenado frontal, acoplamiento motriz 1, sistema neumático y LZB; 212.170,5 €"
+  },
+  {
+   "numero": "2100",
+   "tipo": "Alta velocidad / viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "Detención y 36 minutos de retraso"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 2071",
+   "implicacion": "Conducía el tren que arrolló el tubo; título B, habilitado, sin pruebas de alcoholemia"
+  },
+  {
+   "rol": "Maquinista del tren 2100",
+   "implicacion": "Conducía el tren que se detuvo y observó la invasión del gálibo; sin pruebas de alcoholemia"
+  },
+  {
+   "rol": "Obreros de la obra",
+   "implicacion": "Responsables del tubo; retiraron el tubo ayudados por maquinaria"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo de control automático (BCA) mediante sistema LZB gestionado desde el CRC de Atocha",
+  "tipo_via": "Vía doble electrificada de ancho UIC en trinchera de aproximadamente 6 metros",
+  "velocidad_maxima": "230 km/h",
+  "ancho": "UIC",
+  "electrificacion": "Electrificada",
+  "estado_via": "Rotura del carril exterior de la vía 1 en una longitud de unos 50 centímetros",
+  "otro": "Media semanal de 855 circulaciones en el tramo (555 larga distancia, 298 media distancia, 2 servicio); GSM-R"
+ },
+ "material_rodante": {
+  "series": "Tren tipo 300, 10 coches, 418 toneladas; matrícula 9733239; Nº UIC 967191001122",
+  "averia": "Avería en LZB que originó frenada de urgencia; destrozos en schaffemberg, carenado frontal y acoplamiento motriz 1",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y el tiempo atmosférico despejado",
+ "causas": {
+  "directa": "Simultaneidad de los trabajos de hinca dirigida que afectaban al cruce subterráneo de la plataforma con la circulación de trenes, incumpliendo las condiciones de seguridad de la autorización",
+  "contribuyentes": [
+   "Desviación del tubo metálico de su trayectoria de perforación",
+   "No informar a Adif del momento exacto del inicio de la hinca",
+   "Realizar los trabajos en horario diurno, con tensión en la catenaria y con circulaciones por ambas vías"
+  ],
+  "sistemicas": [
+   "Incumplimiento de las prescripciones específicas de la autorización de obras de Adif a Gas Natural Fenosa"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 212.170,5 €. Infraestructura: rotura del carril exterior de la vía 1",
+  "afectacion_servicio": "54 trenes AVE de larga distancia con 2.303 minutos de retraso y 11 trenes AVE de media distancia con 438 minutos de retraso; vías interceptadas desde 09:50 hasta restablecimiento progresivo"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "En todas las autorizaciones de obras que contengan prescripciones particulares referentes a actuaciones que pudieran afectar a la segura circulación de los trenes, incluir un apartado que establezca con claridad que las prescripciones particulares sean tratadas en la reunión inicial de coordinación de seguridad y salud antes del comienzo de las obras; los representantes del administrador de infraestructura leerán dichas prescripciones y todos los asistentes, especialmente los de la parte ejecutora, deberán darse por enterados y firmará el acta.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "hinca_dirigida",
+  "invacion_galibo",
+  "obra",
+  "alta_velocidad",
+  "lzb",
+  "incumplimiento",
+  "seguridad_obra",
+  "adif",
+  "renfe",
+  "gas_natural_fenosa"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-100611-290512-CIAF"
+}

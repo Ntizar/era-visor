@@ -1,0 +1,170 @@
+{
+ "titulo_normalizado": "Arrollamiento de dos personas por tren de Larga Distancia en la estación de Venta de Baños (Palencia)",
+ "idioma_original": "es",
+ "resumen": "El 30 de junio de 2006, a las 02:43, el tren de Larga Distancia nº 312 de Renfe arrolló a dos personas en la estación de Venta de Baños (PK 285,330, línea Madrid-Hendaya, Palencia). Los fallecidos, viajeros del tren 12204 estacionado en vía 3, cruzaban por el paso entre andenes ignorando los avisos del vigilante de seguridad y sin usar el paso inferior existente. No hubo daños materiales ni en instalaciones ni en material móvil. La incidencia duró 112 minutos y provocó 55 minutos de retraso acumulado en 4 trenes.",
+ "hechos": "El tren de Viajeros Larga Distancia nº 312 (tipo 140) de Renfe, compuesto por la locomotora 333034 y 5 vehículos con masa remolcada de 247 Tm, efectuaba su paso directo (sin parada prescrita) por vía II de la estación de Venta de Baños. A las 02:43 del 30 de junio de 2006, el maquinista observó a un grupo de personas cruzando las vías por el paso entre andenes, por lo que hizo uso continuo del silbato y aplicó el freno de urgencia, deteniéndose en el PK 284,585. El arrollamiento se produjo a 113 km/h en el PK 285,330.\n\nLas dos víctimas, un varón de 29 años y una mujer de 34 años, eran viajeros del tren 12204 (Santander-Madrid) estacionado en vía 3, que habían descendido y cruzaban de izquierda a derecha por el paso entre andenes, ignorando los avisos a viva voz del vigilante de seguridad y la existencia de un paso inferior a 45 metros. Según la testigo presencial, el grupo iba conversando totalmente abstraído.\n\nEl tren 312 circulaba a velocidad inferior a la máxima autorizada (140 km/h). El maquinista dio negativo en alcoholemia. No se produjeron daños materiales. La Policía Judicial y la Guardia Civil procedieron al levantamiento de los cadáveres a las 04:35.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Venta de Baños",
+  "pk": "285,330",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Paso entre andenes (paso entarimado) de la estación de Venta de Baños, situado a 45 metros del paso inferior que accede a todos los andenes. El paso a nivel está destinado fundamentalmente al paso de personas con discapacidades y vehículos con ruedas."
+ },
+ "cronologia": [
+  {
+   "hora": "02:12",
+   "evento": "Entrada del tren de viajeros nº 205 (Madrid-Santander y Gijón) en vía 7"
+  },
+  {
+   "hora": "02:35",
+   "evento": "Entrada del tren de viajeros 10204 (Gijón-Madrid) en vía 1"
+  },
+  {
+   "hora": "02:40",
+   "evento": "Entrada del tren de viajeros 12204 (Santander-Madrid) en vía 3; de él se apean presuntamente las personas accidentadas"
+  },
+  {
+   "hora": "02:43",
+   "evento": "El tren 312 pasa por la estación; el maquinista observa personas cruzando, usa silbato continuo y aplica freno de urgencia; se produce el arrollamiento a 113 km/h en PK 285,330"
+  },
+  {
+   "hora": "02:43",
+   "evento": "El tren queda detenido en PK 284,585; el maquinista informa al jefe de circulación"
+  },
+  {
+   "hora": "03:13",
+   "evento": "Confirmación del fallecimiento de la segunda víctima (30 minutos después de la primera)"
+  },
+  {
+   "hora": "04:35",
+   "evento": "Levantamiento del cadáver por Policía Judicial y Guardia Civil; fin de la incidencia"
+  },
+  {
+   "hora": null,
+   "evento": "Aproximadamente 30 minutos después del arrollamiento, el maquinista reanuda la marcha con el tren previo reconocimiento de la locomotora"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "312",
+   "tipo": "Viajeros Larga Distancia (tipo 140)",
+   "operador": "Renfe",
+   "danos": "Sin daños materiales en el material móvil"
+  },
+  {
+   "numero": "12204",
+   "tipo": "Viajeros (Santander-Madrid)",
+   "operador": "Renfe",
+   "danos": null
+  },
+  {
+   "numero": "205",
+   "tipo": "Viajeros (Madrid-Santander y Gijón)",
+   "operador": "Renfe",
+   "danos": null
+  },
+  {
+   "numero": "10204",
+   "tipo": "Viajeros (Gijón-Madrid)",
+   "operador": "Renfe",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 312",
+   "implicacion": "Matrícula 9732157; observó a personas cruzando, usó silbato continuo y aplicó freno de urgencia; alcoholemia negativa (0,00 mg/1000 ml); no se le atribuye responsabilidad"
+  },
+  {
+   "rol": "Vigilante de seguridad",
+   "implicacion": "Testigo de los hechos; advirtió a viva voz a las personas accidentadas de la presencia del tren, pero no se percataron"
+  },
+  {
+   "rol": "Testigo presencial",
+   "implicacion": "Cruzó a la vez que los accidentados; relata que el grupo iba conversando totalmente abstraído"
+  },
+  {
+   "rol": "Jefe de circulación de Venta de Baños",
+   "implicacion": "Recibió aviso del maquinista; puso el tren a disposición de la estación"
+  },
+  {
+   "rol": "Puesto de mando de Miranda de Ebro",
+   "implicacion": "Cursó avisos a Seguridad Corporativa, Protección Civil, Gerencias Territoriales, Operador de Larga Distancia y servicios sanitarios"
+  },
+  {
+   "rol": "Personal de la Gerencia Territorial de Seguridad de Adif",
+   "implicacion": "Acudieron al lugar, inspeccionaron el punto del arrollamiento, tomaron pruebas (alcoholemia, extracción de memoria estática)"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2 (PK 286,508) en vía libre; señal de salida S2/2",
+  "tipo_via": "Vía doble, Bloqueo Automático de vía doble",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Adecuado; paso inferior entre andenes en PK 285,285 en adecuado estado para el uso de los viajeros",
+  "otro": "Paso entre andenes (entarimado) en PK 285,330, a 45 m del paso inferior; destinado a personas con discapacidades y vehículos con ruedas"
+ },
+ "material_rodante": {
+  "series": "Locomotora 333034 (serie 333)",
+  "averia": "Ninguna; locomotora útil para el servicio tras reconocimiento",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Uso indebido del paso entarimado entre andenes por parte de las víctimas, que cruzaron las vías ignorando los avisos del vigilante de seguridad y la existencia del paso inferior",
+  "contribuyentes": [
+   "Las víctimas no hicieron uso del paso inferior existente a 45 metros",
+   "El grupo de personas iba conversando totalmente abstraído y no se percató de la presencia del tren",
+   "El vigilante de seguridad advirtió a viva voz pero no fue escuchado",
+   "Existencia de un paso entre andenes (entarimado) que permite el cruce a nivel de las vías en una estación con elevado tráfico"
+  ],
+  "sistemicas": [
+   "Paso entarimado entre andenes que no está suprimido pese a existir paso inferior alternativo",
+   "Falta de señalización específica o barreras vinculadas al enclavamiento para impedir el uso indebido del paso entre andenes"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+  "afectacion_servicio": "Incidencia de 112 minutos (02:43 a 04:35); 55 minutos de retrasos acumulados en 4 trenes de viajeros"
+ },
+ "lecciones": [
+  "La existencia de pasos entre andenes a nivel de vías en estaciones con elevado tráfico constituye un peligro potencial para los viajeros",
+  "El uso indebido de pasos entre andenes, ignorando pasos inferiores alternativos y avisos del personal de seguridad, puede tener consecuencias fatales",
+  "La velocidad del tren (113 km/h) era inferior a la máxima autorizada (140 km/h), por lo que la velocidad no fue factor causal"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+   "destinatario": "Adif / Renfe / organismos públicos"
+  },
+  {
+   "texto": "Iniciar actuaciones destinadas a reducir al máximo el peligro potencial de los pasos entarimados entre andenes, fomentando su supresión mediante pasos inferiores y superiores alternativos.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "En los casos en los que no se realice la supresión de los pasos entre andenes, señalizarlos convenientemente mediante señales fijas (cartelones, pictogramas, etc.) o por señalización ligada al enclavamiento de la estación.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "venta de baños",
+  "paso entre andenes",
+  "paso entarimado",
+  "larga distancia",
+  "peatones",
+  "viajeros",
+  "adif",
+  "renfe",
+  "línea madrid-hendaya",
+  "fallecidos",
+  "vigilante de seguridad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-300606-020307"
+}

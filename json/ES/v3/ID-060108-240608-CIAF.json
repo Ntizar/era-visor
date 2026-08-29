@@ -1,0 +1,126 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en el túnel del P.K. 20,100 entre Pitis y Pinar de las Rozas",
+ "idioma_original": "es",
+ "resumen": "El 6 de enero de 2008, a las 16:25, el tren de cercanías 27231 de Renfe Operadora arrolló a una persona en el túnel del P.K. 20,100 de la línea 100 Madrid-Hendaya, entre Pitis y Pinar de las Rozas. El maquinista percibió un golpe y un ruido metálico, y el reconocimiento posterior confirmó restos humanos en la vía. La investigación concluyó que el accidente se originó por el tránsito de la víctima por un lugar no habilitado, catalogado por Adif como suicidio. No hubo daños materiales, pero la vía quedó interceptada seis horas y se produjeron retrasos en 26 trenes.",
+ "hechos": "El tren de viajeros de cercanías 27231, de Renfe Operadora, formado por el automotor 446015 y seis vehículos, con masa remolcada de 398 T, circulaba por vía 1 entre Pitis y Pinar de las Rozas. Al entrar y salir del túnel situado en el P.K. 20,100 de la línea 100 Madrid-Hendaya, el maquinista notó un golpe y un ruido metálico, que en un primer momento achacó a un golpe de vía. Tras estacionar en Pinar de las Rozas, unos guardias jurados le comentaron que también habían escuchado crujidos de hierros procedentes del túnel, por lo que informó al Puesto de Mando de Madrid Chamartín.\n\nEl Puesto de Mando ordenó al maquinista del tren VK195 circular a marcha a la vista entre las señales de avanzada y de entrada de la estación de Pinar de las Rozas y reconocer el punto afectado. Dicho tren confirmó la presencia de restos humanos ocupando parte de la caja de la vía, probablemente de un arrollamiento anterior, y se ordenó retroceder para evitar la diseminación de los restos. El tren 27231 estacionó después en Villalba, se reconoció la máquina sin encontrar daños y continuó su marcha hasta Cercedilla.\n\nLa víctima fue un varón de 34 años. No se produjeron daños materiales en el material rodante, la infraestructura ni el medio ambiente. La vía quedó interceptada durante seis horas, desde las 16:25 hasta las 22:25, y un total de 26 trenes sufrieron retrasos por 739 minutos. El administrador de infraestructuras catalogó el suceso como suicidio.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Pitis y Pinar de las Rozas",
+  "pk": "20,100",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Túnel entre las estaciones de Pitis y Pinar de las Rozas, vía 1, alineación en curva con poca visibilidad y túnel sin iluminación."
+ },
+ "cronologia": [
+  {
+   "hora": "16:25",
+   "evento": "El tren 27231 informa al Puesto de Mando de Madrid Chamartín de un golpe y un ruido metálico al pasar por el túnel del P.K. 20,100."
+  },
+  {
+   "hora": null,
+   "evento": "El Puesto de Mando ordena al tren VK195 circular a marcha a la vista entre las señales de avanzada y de entrada de Pinar de las Rozas y reconocer el punto afectado."
+  },
+  {
+   "hora": null,
+   "evento": "El tren VK195 confirma la presencia de restos humanos ocupando parte de la caja de la vía."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 27231 estaciona en Villalba, se reconoce la máquina sin hallar daños y continúa hasta Cercedilla."
+  },
+  {
+   "hora": "20:10",
+   "evento": "Se autoriza el levantamiento del cadáver."
+  },
+  {
+   "hora": "21:50",
+   "evento": "Se persona el servicio de bomberos para el rescate de los restos."
+  },
+  {
+   "hora": "22:20",
+   "evento": "Finaliza el rescate de los restos."
+  },
+  {
+   "hora": "22:25",
+   "evento": "Queda restablecida la circulación normal por vía 1."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "27231",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños."
+  },
+  {
+   "numero": "VK195",
+   "tipo": "locomotora",
+   "operador": null,
+   "danos": "No se produjeron daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 27231",
+   "implicacion": "Informó del golpe y ruido metálico; prueba de alcoholemia negativa, prueba de metabolitos de droga negativa y jornada conforme a la normativa."
+  },
+  {
+   "rol": "Maquinista principal del tren VK195",
+   "implicacion": "Reconoció el punto a marcha a la vista y confirmó la presencia de restos humanos en la caja de la vía."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Túnel sin iluminación, alineación en curva con poca visibilidad; vía interceptada desde las 16:25 hasta las 22:25.",
+  "otro": "Radiotelefonía modalidad A."
+ },
+ "material_rodante": {
+  "series": "Automotor 446015; locomotora VK195",
+  "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas buenas.",
+ "causas": {
+  "directa": "Tránsito de la víctima por la vía en un lugar no habilitado para ello.",
+  "contribuyentes": [
+   "Túnel sin iluminación.",
+   "Alineación en curva con poca visibilidad.",
+   "Reducción de visibilidad al pasar de la luz a la oscuridad del túnel."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "Vía interceptada durante seis horas, desde las 16:25 hasta las 22:25; 26 trenes sufrieron retrasos por un total de 739 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y subsiguiente planificación de actuaciones a nivel global.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "túnel",
+  "acceso no autorizado",
+  "suicidio",
+  "cercanías",
+  "renfe operadora",
+  "adif",
+  "línea 100",
+  "pitis",
+  "pinar de las rozas",
+  "retrasos"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-060108-240608-CIAF"
+}

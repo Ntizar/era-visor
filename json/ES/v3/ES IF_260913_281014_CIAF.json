@@ -1,0 +1,163 @@
+{
+ "titulo_normalizado": "Conato de colisión en el puesto de bloqueo de Río Duero por rebase de señal en parada del tren 4083",
+ "idioma_original": "es",
+ "resumen": "El 26 de septiembre de 2013, a las 09:19 horas, el tren de larga distancia 4083 de Renfe Operadora rebasó indebidamente la señal E1 en indicación de parada en el puesto de bloqueo de Río Duero (Valladolid), en la línea AV 080 Madrid Chamartín–Valladolid Campo Grande. El rebase provocó el cierre automático de las señales del otro extremo, deteniendo al tren 4076 que circulaba en sentido contrario por vía única, quedando ambos trenes enfrentados a 959 metros. La causa fue un fallo humano del maquinista del tren 4083 por falta de atención durante la conducción. No se produjeron víctimas ni daños materiales, aunque se generaron retrasos en tres trenes.",
+ "hechos": "El tren 4083 de Renfe Operadora, procedente de Madrid Chamartín con destino Santander, circulaba por vía I de la línea AV 080 con itinerario establecido hasta la señal E1 del puesto de bloqueo de Río Duero, que se encontraba en indicación de parada. El tren 4076, también de Renfe Operadora, procedente de Vitoria con destino Madrid Chamartín, circulaba en sentido contrario por vía única con señales E'4 en anuncio de precaución y E4 en anuncio de parada, con itinerario establecido de paso a vía II. El tren 4083 pasó por la baliza previa de la señal E'1 en anuncio de parada a 155 km/h y el maquinista la reconoció, pero no se puso en situación de parar al estar consultando el libro horario. Un minuto después, a solo siete segundos de la baliza previa de la señal E1, el maquinista aplicó freno rápido a 149 km/h y luego freno de urgencia. El tren pasó por la baliza previa de E1 a 135 km/h, momento en que el ASFA aplicó freno de urgencia, pero rebasó la señal E1 en parada a 65 km/h y se detuvo 141 metros más allá. Como consecuencia del rebase, la señal E'4 cambió a anuncio de parada y la E4 a parada, deteniendo al tren 4076 ante esta última. Ambos trenes quedaron enfrentados a 959 metros de distancia, con la aguja A2 entre ellos. El tren 4083 fue autorizado a retroceder hasta la señal E1 y posteriormente encauzado a vía II en Valladolid.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Puesto de Bloqueo de Río Duero",
+  "pk": "167+867 (señal E1); PB en PK 168+800",
+  "linea": "AV 080 Madrid Chamartín – Valladolid Campo Grande",
+  "provincia": "Valladolid",
+  "descripcion_lugar": "Puesto de bloqueo con transición de vía doble a única, en ancho estándar, con transición del sistema ETCS (ERTMS) nivel 1 por el lado Madrid al sistema ASFA por el lado Valladolid. Señal E1 en curva a izquierdas de 7.547 m de radio, alta, luminosa de cuatro focos, con baliza previa y pie de señal, buena visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "09:17:52",
+   "evento": "El tren 4083 realiza la transición ERTMS a STM EBICAB (ASFA), reconocida por el maquinista a 175 km/h"
+  },
+  {
+   "hora": "09:18:05",
+   "evento": "El tren 4083 pasa por la baliza previa de la señal avanzada E'1 (PK 164+875) a 155 km/h, en indicación de anuncio de parada, que reconoce"
+  },
+  {
+   "hora": "09:19:04",
+   "evento": "El maquinista aplica freno rápido a 149 km/h"
+  },
+  {
+   "hora": "09:19:07",
+   "evento": "El maquinista aplica freno de urgencia"
+  },
+  {
+   "hora": "09:19:11",
+   "evento": "El tren pasa por la baliza previa de la señal E1 a 135 km/h; el ASFA aplica freno de urgencia"
+  },
+  {
+   "hora": "09:19:24",
+   "evento": "El tren 4083 rebasa la señal E1 en indicación de parada a 65 km/h"
+  },
+  {
+   "hora": "09:19:39",
+   "evento": "El tren 4083 queda detenido a 141 metros de la señal E1"
+  },
+  {
+   "hora": "09:19:50",
+   "evento": "La señal E'4 cambia a anuncio de parada y la E4 a parada; el tren 4076 se detiene ante la señal E4"
+  },
+  {
+   "hora": "09:20",
+   "evento": "El jefe de circulación del CRC de Madrid-Atocha llama al maquinista del tren 4083 informándole del rebase y ordenándole retroceder"
+  },
+  {
+   "hora": "09:22",
+   "evento": "El J.C. indica al maquinista que retroceda; el maquinista manifiesta insuficiencia de freno"
+  },
+  {
+   "hora": "09:23:24",
+   "evento": "El tren 4083 realiza movimiento de retroceso, alcanza 25 km/h, acciona pulsador de rebase autorizado"
+  },
+  {
+   "hora": "09:24:47",
+   "evento": "El tren 4083 se detiene nuevamente ante la señal E1"
+  },
+  {
+   "hora": "09:31",
+   "evento": "El J.C. pide al maquinista que el interventor le acompañe a la cabina"
+  },
+  {
+   "hora": "09:32",
+   "evento": "El maquinista confirma presencia del interventor; el J.C. informa que le encauzarán a vía 2 de Valladolid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4083",
+   "tipo": "Viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  },
+  {
+   "numero": "4076",
+   "tipo": "Viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 4083",
+   "implicacion": "Falta de atención durante la conducción por consultar el libro horario; rebasó indebidamente la señal E1 en parada; incumplió artículos 217 y 221 del RGC y Carta Circular nº11; en el retroceso incumplió Carta Circular nº8 y artículos 475.2 y 141.2 del RGC (no cambió de cabina, sin telefonema, excedió 20 km/h)"
+  },
+  {
+   "rol": "Jefe de circulación del CRC de Madrid-Atocha (turno mañana, puesto 4)",
+   "implicacion": "Autorizó verbalmente el retroceso sin telefonema reglamentario, incumpliendo el artículo 475.3 del RGC"
+  },
+  {
+   "rol": "Interventor del tren 4083",
+   "implicacion": "Acompañó al maquinista a la cabina para el retroceso"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E1 (PK 167+867) en indicación de parada, alta, luminosa de 4 focos, con baliza previa y pie de señal, buena visibilidad. Señal avanzada E'1 (PK 164+875) en anuncio de parada, alta, luminosa de 2 focos, con baliza previa, buena visibilidad. Señales E'4 y E4 del otro extremo. Cartelones de anuncio, limitación y fin de limitación de velocidad a 80 km/h.",
+  "tipo_via": "Transición de vía doble a única (PB Río Duero), ancho estándar (1.435 mm). Desvío con agujas nº2 (vía I, PK 168+837) y nº4 (vía II, PK 168+717).",
+  "velocidad_maxima": "200 km/h (tramo con ASFA); 80 km/h por vía desviada; 250 km/h con ERTMS",
+  "ancho": "Estándar (1.435 mm)",
+  "electrificacion": null,
+  "estado_via": "Funcionó correctamente",
+  "otro": "Bloqueo de Señalización Lateral (BSL) gestionado desde CRC Madrid-Atocha. Transición ERTMS a ASFA en sentido Valladolid en PK 164+930; transición ASFA a ERTMS en sentido Madrid en PK 168+967. Distancia entre señales E1/E3 y agujas: 950 y 850 m. Media semanal de circulaciones del tramo: 255 (137 LD, 103 MD, 15 servicio)."
+ },
+ "material_rodante": {
+  "series": "Serie 130 Talgo, motor 130004, UIC 967191300045, Tipo 250 B, 13 vehículos, 343 toneladas, 184 metros, ancho variable",
+  "averia": "Ninguna. Funcionó correctamente. Protocolo de freno a la UT 130004 en Santander con resultado correcto.",
+  "mantenimiento": "Equipos embarcados: ERTMS nivel 1, ASFA en STM EBICAB (analógico), ASFA Digital. El cambio a ASFA Digital solo puede realizarse a tren parado en este material."
+ },
+ "clima": "De día, despejado",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren 4083: falta de atención durante la conducción (consulta del libro horario) que impidió iniciar la frenada a tiempo, provocando el rebase indebido de la señal E1 en indicación de parada.",
+  "contribuyentes": [
+   "La transición de ERTMS a ASFA analógico (STM EBICAB) permite circular a 200 km/h con adecuación a 160 km/h, lo que puede dar lugar a aproximación a la señal de entrada a velocidad no adecuada en caso de falta de atención",
+   "En material 130, la transición de ERTMS a ASFA Digital solo puede realizarse a tren parado, por lo que en este tramo se usa ASFA analógico (STM EBICAB) con curva de control menos restrictiva",
+   "El tramo entre PB Río Duero y Valladolid Campo Grande es de vía única, lo que genera la situación de conato de colisión al rebasar la señal de entrada"
+  ],
+  "sistemicas": [
+   "Dificultad operativa de la transición ERTMS-ASFA Digital en material 130 que obliga a circular con ASFA analógico (STM EBICAB) en lugar del modo digital con curva de frenado más segura",
+   "Existencia de un tramo de vía única (transición de vía doble a única) entre PB Río Duero y Valladolid Campo Grande que genera situaciones de conato de colisión ante un SPAD"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños ni a la infraestructura ni al material rodante.",
+  "afectacion_servicio": "2 trenes de larga distancia afectados con retraso total de 28 minutos; 1 tren de media distancia con retraso de 7 minutos."
+ },
+ "lecciones": [
+  "La falta de atención del maquinista, incluso durante breves segundos, puede tener consecuencias graves en alta velocidad",
+  "La transición de sistemas de seguridad (ERTMS a ASFA analógico) puede generar velocidades de aproximación a señales de parada que dificultan la detención en caso de falta de atención",
+  "El material 130 presenta una limitación operativa al no poder transicionar de ERTMS a ASFA Digital en movimiento",
+  "La existencia de tramos de vía única en líneas de alta velocidad multiplica las consecuencias de un SPAD al generar situaciones de conato de colisión frontal",
+  "Se detectó incumplimiento del RGC en la autorización de retroceso (sin telefonema) y en la ejecución del retroceso (sin cambio de cabina, excediendo 20 km/h)"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Analizar la viabilidad de introducir las modificaciones necesarias en el material 130 para que sea posible la transición del ERTMS a ASFA Digital sin la necesidad de que se efectúe a tren parado. Extender, en su caso, esta recomendación al resto de material que pudiera presentar esta problemática.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "conato de colision",
+  "rebase de señal",
+  "spad",
+  "falta de atencion",
+  "ertms",
+  "asfa",
+  "stm ebicab",
+  "via unica",
+  "rio duero",
+  "renfe operadora",
+  "serie 130 talgo",
+  "alta velocidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES IF_260913_281014_CIAF"
+}

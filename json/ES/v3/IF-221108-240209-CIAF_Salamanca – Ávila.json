@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de un motorista por tren de media distancia 18918 en plena vía, línea Salamanca-Ávila, PK 104,857",
+ "idioma_original": "es",
+ "resumen": "El 22 de noviembre de 2008 a las 15:00, el tren de media distancia 18918 de Renfe Operadora arrolló a un motorista que circulaba en motocicleta por la caja de la vía en sentido de la marcha del tren, en el PK 104,857 de la línea 122 Salamanca-Ávila. El motorista, un hombre de 26 años, resultó herido grave y falleció poco después en el hospital. El maquinista hizo uso del silbato y accionó el freno de emergencia sin poder evitar el atropello. El accidente se debió al tránsito no autorizado de la víctima por la vía. No se establecieron recomendaciones al no identificarse deficiencias del sistema ferroviario.",
+ "hechos": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918 de Renfe Operadora, compuesto por el automotor 594102-6 (2 vehículos, 101 Tn de masa remolcada), circulaba en trayecto Peñaranda de Bracamonte-Salamanca por la línea 122 Salamanca-Ávila. En el PK 104,857, entre las estaciones de Babilafuente y Salamanca, en plena vía y con trazado recto, el maquinista observó al salir de una curva a dos motoristas: uno circulando por la caja de la vía en el mismo sentido que el tren y otro por el margen exterior. El motorista de la caja de la vía había accedido a la misma desde un camino de tierra paralelo a la vía, sin estar autorizado. El maquinista hizo uso repetido del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima, un hombre de 26 años, resultó herida grave y fue evacuada a las 15:19 al hospital, donde falleció poco después. El tren circulaba a 118 km/h en el momento de accionar el freno, por debajo de la limitación de 130 km/h vigente en el tramo. La vía quedó libre y se restableció la circulación a las 16:39.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "104,857",
+  "linea": "122 Salamanca - Ávila",
+  "provincia": "Salamanca",
+  "descripcion_lugar": "Entre las estaciones de Babilafuente y Salamanca, en plena vía con trazado recto. A ambos márgenes se realizaban trabajos en la carretera. El motorista accedió desde un camino de tierra paralelo a la vía."
+ },
+ "cronologia": [
+  {
+   "hora": "15:00",
+   "evento": "Arrollamiento del motorista por el tren 18918 en el PK 104,857. El maquinista acciona el silbato y el freno de emergencia."
+  },
+  {
+   "hora": "15:19",
+   "evento": "El herido es evacuado, quedando al cuidado de los Servicios de Urgencia."
+  },
+  {
+   "hora": "16:39",
+   "evento": "La vía queda libre y se restablece la circulación en condiciones normales."
+  },
+  {
+   "hora": "19:26",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF vía telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "17/12/2008: Renfe Operadora entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "14/01/2009: Adif (Gerente Territorial de Seguridad en la Circulación Noroeste) entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "24/02/2009: Pleno de la CIAF aprueba el informe definitivo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18918",
+   "tipo": "media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en el quitarreses, captador del Asfa, freno de estacionamiento (cilindro doble y tuberías), sirgas de freno del bogie 1º, Scharffenberg, motor A (radiador de agua, filtro del aire y tuberías), motor B (guardamotor, correa bomba, manguito y toma rápida)."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 18918",
+   "implicacion": "Matrícula 9711151. Titulado y habilitado conforme a OM 2520 de 27/07/2006. Último reciclaje formativo 02/03/2006, último reconocimiento médico y psicotécnico 10/11/2005. Jornada de conducción: 7 min el día del accidente, 2h35m en 24h anteriores, 5h18m en 48h anteriores. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Actuación correcta: uso del silbato y freno de emergencia."
+  },
+  {
+   "rol": "Víctima (motorista)",
+   "implicacion": "Hombre de 26 años, circulaba en motocicleta por la caja de la vía en sentido de la marcha del tren, sin autorización. Herido grave, trasladado al hospital donde falleció poco después."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC). Limitación permanente de velocidad por curva de 130 km/h entre PK 105,040 y 104,812.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "130 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Trazado recto en el punto del accidente. A ambos márgenes se realizaban trabajos en la carretera.",
+  "otro": "Radiotelefonía modalidad A. El motorista accedió a la vía desde un camino de tierra paralelo. Circulaciones reales semanales del tramo: 130 (110 media distancia, 17 mercancías, 3 servicio), considerada baja."
+ },
+ "material_rodante": {
+  "series": "Automotor 594102-6, Nº UIC 967195941026, 2 vehículos, 101 Tn de masa remolcada",
+  "averia": "Funcionó correctamente. El registrador de seguridad confirma velocidad de 118 km/h al accionar el freno de emergencia, por debajo de la máxima autorizada.",
+  "mantenimiento": "Sin información específica en el informe."
+ },
+ "clima": "Tiempo atmosférico despejado en el momento del arrollamiento.",
+ "causas": {
+  "directa": "Tránsito de la víctima en motocicleta por la caja de la vía, sin estar autorizada para ello, por el lugar por donde pasaba el tren.",
+  "contribuyentes": [
+   "El motorista no hizo ademán de modificar su trayectoria al ver/oir el tren.",
+   "Acceso a la vía desde un camino de tierra paralelo, sin autorización.",
+   "Trabajos en la carretera a ambos márgenes de la vía que pudieron favorecer el acceso."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en el tren 18918, coche 594602-5: quitarreses, captador del Asfa, freno de estacionamiento, sirgas de freno bogie 1º, Scharffenberg, motor A y motor B.",
+  "afectacion_servicio": "Supresión de 2 trenes de media distancia (incluido el de la incidencia). Afectación de 3 trenes con 132 minutos de retraso total. Vía interceptada 1 hora 39 minutos (15:00 a 16:39)."
+ },
+ "lecciones": [
+  "La actuación del maquinista fue correcta: uso del silbato y freno de emergencia, sin poder evitar el atropello.",
+  "El material rodante y las instalaciones técnicas funcionaron correctamente.",
+  "El accidente se originó exclusivamente en el comportamiento no autorizado de la víctima, sin deficiencias del sistema ferroviario."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "motocicleta",
+  "caja de vía",
+  "media distancia",
+  "línea 122 salamanca-ávila",
+  "adif",
+  "renfe operadora",
+  "víctima no autorizada",
+  "freno de emergencia",
+  "plena vía",
+  "fallecimiento",
+  "blau"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-221108-240209-CIAF_Salamanca – Ávila"
+}

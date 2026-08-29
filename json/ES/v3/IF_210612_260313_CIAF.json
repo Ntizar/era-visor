@@ -1,0 +1,146 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de viajeros 601 en el cambiador de ancho de Plasencia de Jalón por fallo de enclavamiento del cambio de ancho",
+ "idioma_original": "es",
+ "resumen": "El 21 de junio de 2012 a las 8:51 horas, el tren de viajeros de larga distancia 601 de Renfe Operadora, con material CAF serie 120, descarriló la rueda izquierda del octavo eje al pasar por el cambiador de ancho de Plasencia de Jalón (Zaragoza). El descarrilamiento se produjo durante el cambio de ancho UIC a ibérico, circulando a 7 km/h. La causa fue la falta de engrase en el mecanismo de enclavamiento del cambio de ancho, que dejó el pitón agarrotado en posición UIC. No hubo víctimas. La circulación quedó interrumpida entre las 08:51 y las 22:04 horas, afectando a 10 trenes con 384 minutos de retraso acumulado.",
+ "hechos": "El tren de viajeros 601 de Renfe Operadora, compuesto por material CAF serie 120 con origen en Madrid-Puerta de Atocha y destino Pamplona, circulaba en ancho UIC y debía realizar el cambio a ancho ibérico al paso por el cambiador de Plasencia de Jalón. Cuando realizaba el cambio de ancho, circulando a 7 km/h, el maquinista notó unos tirones en el tren y el personal de la instalación del cambiador le avisó para detener la marcha. Se comprobó que el 8º eje estaba descarrilado: la rueda izquierda, en el sentido de la marcha, no había efectuado el cambio de ancho.\n\nAl reconocer exteriormente la composición se observó todo correcto, sin rotura ni pérdida de tornillos. Tras destapar la caja de grasa de la rueda descarrilada, se verificó la no existencia de roturas en los dispositivos de cambio de ancho ni cuerpos extraños. No obstante, el aspecto del interior evidenció falta de engrase de los elementos que componen el mecanismo de enclavamiento del cambio de ancho. Como consecuencia, el pitón que enclava la posición de la rueda quedó agarrotado en ancho UIC, no pudiendo los perfiles de guiado de la plataforma arrastrar la rueda al ancho ibérico.\n\nSe interrumpió el paso de trenes por el cambiador, desviándose al cambiador de Zaragoza Delicias. La rama 121016 de reserva fue enviada para transbordar a los viajeros, continuando viaje a las 10:53 horas. El tren 601 quedó encarrilado a las 14:55 horas y fue apartado en Casetas (Zaragoza). A las 22:04 horas el cambiador quedó reparado y operativo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Cambiador de Plasencia de Jalón",
+  "pk": "276+705",
+  "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón (AG. Km.308+600)",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Cambiador de ancho de ejes situado en Plasencia de Jalón, con plataformas independientes para material Talgo y CAF. Transición de bloqueo automático de vía única electrificada con CTC y ancho ibérico (lado Pamplona) a bloqueo automático de señalización lateral y ancho UIC (lado Madrid)."
+ },
+ "cronologia": [
+  {
+   "hora": "08:51",
+   "evento": "Descarrilamiento de la rueda izquierda del 8º eje del tren 601 al efectuar el cambio de ancho UIC a ibérico en el cambiador de Plasencia de Jalón"
+  },
+  {
+   "hora": "08:51",
+   "evento": "El maquinista informa del suceso al CRC de Zaragoza"
+  },
+  {
+   "hora": "08:51",
+   "evento": "Se interrumpe el paso de trenes por el cambiador; desvío al cambiador de Zaragoza Delicias"
+  },
+  {
+   "hora": "10:28",
+   "evento": "Llega la composición 121 de reserva a Plasencia de Jalón para transbordar a los viajeros"
+  },
+  {
+   "hora": "10:53",
+   "evento": "Viajeros transbordados continúan viaje"
+  },
+  {
+   "hora": "10:55",
+   "evento": "El tren 601 reanuda viaje según declaración del maquinista (transbordo)"
+  },
+  {
+   "hora": "14:55",
+   "evento": "El tren 601 queda encarrilado y es apartado en Casetas (Zaragoza)"
+  },
+  {
+   "hora": "22:04",
+   "evento": "El cambiador queda reparado y operativo en condiciones normales"
+  },
+  {
+   "hora": null,
+   "evento": "24 de julio de 2012: El Pleno de la CIAF acuerda abrir la investigación"
+  },
+  {
+   "hora": null,
+   "evento": "26 de marzo de 2013: Informe final emitido en Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "601",
+   "tipo": "viajeros larga distancia, serie 120 CAF, tipo 250 (velocidad máxima 250 km/h), bogies BRAVA (ancho variable), 4 vehículos, 16 ejes, 266 toneladas, Nº UIC 927161203108",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la rueda izquierda del 8º eje y en el mecanismo de enclavamiento de cambio de ancho de ejes"
+  },
+  {
+   "numero": "121016",
+   "tipo": "composición de reserva para transbordo de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 601",
+   "implicacion": "Matrícula 9757105, título B de conducción, habilitado conforme a Orden FOM/2520/2006, antigüedad desde 18/07/1983. Último reciclaje formativo 14/04/2010, último reconocimiento médico y psicotécnico 11/01/2011. Prueba de alcoholemia negativa (0,00 mg/1000 ml) a las 10:30 horas. Cumplía normativa vigente. Jornada del día 21: 1 hora y 17 minutos."
+  },
+  {
+   "rol": "Personal de la instalación del cambiador",
+   "implicacion": "Avisó al maquinista para detener la marcha del tren al detectar el descarrilamiento"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático de vía única electrificada con CTC (lado Pamplona, ancho ibérico) y bloqueo automático de señalización lateral (lado Madrid, ancho UIC)",
+  "tipo_via": "Vía única con cambiador de ancho de ejes; plataformas independientes para material Talgo y CAF",
+  "velocidad_maxima": "Inferior a 15 km/h para realizar el cambio de ancho en serie 120 (según manual de conducción)",
+  "ancho": "UIC (1435 mm) / Ibérico (1668 mm)",
+  "electrificacion": "Electrificada (lado Pamplona, ancho ibérico)",
+  "estado_via": "Funcionamiento correcto de las instalaciones técnicas antes del suceso",
+  "otro": "Media semanal de circulaciones del tramo: 62 (muy baja). Radiotelefonía modalidad C. GSM-R en ancho UIC."
+ },
+ "material_rodante": {
+  "series": "Serie 120 CAF, bogies BRAVA (Bogie de Rodadura de Ancho Variable), tipo 250, Nº UIC 927161203108",
+  "averia": "Fallo del mecanismo de enclavamiento del cambio de ancho en la rueda izquierda del 8º eje: pitón agarrotado en ancho UIC por falta de engrase. Desgaste en pitones de guiado de ambos lados y arrastre de material en la cabeza de los pitones de enclavamiento de ancho ibérico del lado derecho. Polvo rojizo detectado en el interior de la caja soporte de los ejes 7º y 8º.",
+  "mantenimiento": "Recorrido total desde fábrica: 1.672.513 km. Bogie 120-0-0044-3: 1.655.056 km. Eje 120-7-00074-5: 1.626.041 km. Última intervención V1 el 1 de junio de 2012 (a 1.652.368 km), unos 20.100 km antes del accidente. Registro documental del 31/05/2012: ACTREN verificó ausencia de suciedad, correcto engrase de pitones y casquillos, ausencia de fuga de grasa, no existencia de tornillos sueltos y ausencia de impactos. Plan de mantenimiento código 202.00.58: limpiar, verificar y engrasar pitones y casquillos en V1, V2, VL y VG."
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Fallo en el sistema de cambio de ancho de ejes en la rueda izquierda del octavo eje, debido a que el mecanismo de enclavamiento del cambio de ancho no funcionó adecuadamente como consecuencia de falta de engrase, quedando el pitón agarrotado en ancho UIC.",
+  "contribuyentes": [
+   "Falta de engrase efectiva de los elementos del mecanismo de enclavamiento pese a constar en registro documental la verificación del engrase en la intervención V1 del 1 de junio de 2012",
+   "Desgaste en los pitones de guiado y arrastre de material en la cabeza de los pitones de enclavamiento",
+   "Instrucciones de mantenimiento insuficientemente detalladas sobre cómo realizar la operación de engrase de los pitones de enclavamiento"
+  ],
+  "sistemicas": [
+   "Necesidad de formación específica a los operarios de mantenimiento sobre la operación de engrase",
+   "Falta de comprobaciones aleatorias de la adecuada ejecución del engrase por parte del mantenedor",
+   "Uso de materiales en pitón y casquillo con elevado desgaste y necesidades de engrase"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en la rueda izquierda del 8º eje y en el mecanismo de enclavamiento de cambio de ancho. Infraestructura: deformaciones en perfiles de guiado, tornillos de sujeción de los carriles y elementos metálicos de la plataforma de cambiador para material CAF.",
+  "afectacion_servicio": "Circulación interrumpida desde las 08:51 hasta las 22:04 horas (13 horas 13 minutos). Afectados 10 trenes de larga distancia (incluido el implicado) con retraso total de 384 minutos. Un tren de larga distancia suprimido en Pamplona. Desvío de tráfico al cambiador de Zaragoza Delicias."
+ },
+ "lecciones": [
+  "La verificación documental del engrase no garantiza su correcta ejecución efectiva en el mecanismo de enclavamiento",
+  "Existen precedentes de descarrilamientos similares en material CAF 120 (expedientes 7/11, 63/11 y 47/12), aunque con causalidad diferente",
+  "El diseño de materiales del pitón y casquillo conlleva elevado desgaste y necesidades de engrase que pueden comprometer la seguridad si no se controlan adecuadamente"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Definir en las instrucciones de mantenimiento cómo se debe realizar la operación de engrase de los pitones de enclavamiento a fin de que sea efectiva. Para garantizar la operación por parte del mantenedor se formará a los operarios que la van a realizar y se efectuarán comprobaciones aleatorias de su adecuada ejecución.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Solicitar al tecnólogo el estudio de la aplicación de otros tipos de materiales al pitón y al casquillo que disminuyan el desgaste y las necesidades de engrase.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambiador de ancho",
+  "falta de engrase",
+  "mecanismo enclavamiento",
+  "serie 120 CAF",
+  "bogies BRAVA",
+  "ancho UIC",
+  "ancho ibérico",
+  "Plasencia de Jalón",
+  "mantenimiento",
+  "pitón agarrotado",
+  "larga distancia"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_210612_260313_CIAF"
+}

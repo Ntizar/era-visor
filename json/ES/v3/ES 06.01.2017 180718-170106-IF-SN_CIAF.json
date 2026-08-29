@@ -1,0 +1,224 @@
+{
+ "titulo_normalizado": "Descarrilamiento en plena vía entre Nanclares y Manzanos (Álava) por rotura de carril con mancha oval",
+ "idioma_original": "es",
+ "resumen": "El 6 de enero de 2017 a las 20:57, el tren de larga distancia 312 de Renfe Viajeros (Irún-Lisboa) descarriló en el p.k. 477+265 de la línea 100 Hendaya-Madrid Chamartín, entre Nanclares y Manzanos (Álava), debido a la rotura del carril derecho según el sentido de circulación. La rotura fue causada por un defecto de fabricación del carril (enfriamiento rápido en laminación) que originó una fisura transversal interna progresiva denominada 'mancha oval'. No se produjeron víctimas mortales ni heridos, pero sí daños materiales en tren e infraestructura por los 1.960 metros que el tren circuló descarrilado. La CIAF determinó como causas subyacentes la ineficacia de la auscultación ultrasónica y la falta de trazabilidad en la gestión de defectos detectados en años anteriores.",
+ "hechos": "El día 6 de enero de 2017 a las 20:57 horas, en plena vía (p.k. 477+265) del trayecto entre las estaciones de Nanclares y Manzanos, de la línea 100 Hendaya-Madrid Chamartín, el tren de viajeros de larga distancia 312 (compuesto por una locomotora serie 252 y ocho coches material Talgo) de Renfe Viajeros, procedente de Irún y con destino Lisboa Santa Apolonia, descarriló debido a una rotura de carril. A las 18:50 el tren salió de Irún, paró en San Sebastián/Donostia (19:08) y en Vitoria/Gasteiz (20:45). A partir de Vitoria/Gasteiz circuló banalizado por la vía I. Pasó por Nanclares sobre las 20:55 con señales en vía libre. A las 20:56:48, a 139 km/h, se produjo el descarrilamiento de los cuatro últimos rodales (6, 7, 8 y 9) por la rotura del carril derecho según el sentido de marcha. Los rodales 7, 8 y 9 se encarrilaron por sí solos, quedando descarrilado únicamente el rodal 6, que circuló así 1.960 metros apoyando el yugo sobre el carril derecho y golpeando la rueda izquierda las traviesas de hormigón. El maquinista no percibió el descarrilamiento, pero el interventor y el mecánico de Talgo notaron un fuerte golpe y entrada de polvo, activando la alarma a las 20:57:03. El tren se detuvo a las 20:57:37 en el p.k. 475+200. No hubo víctimas. Se produjeron daños materiales en el tren (91.450 €) y en la infraestructura (91.475 €). Los 47 viajeros fueron transbordados al tren 16004 y continuaron en autobús desde Miranda de Ebro. La vía I quedó interrumpida 64 horas y 11 minutos, afectando a 22 trenes.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Nanclares-Manzanos",
+  "pk": "477+265",
+  "linea": "100 Hendaya-Madrid Chamartín",
+  "provincia": "Álava",
+  "descripcion_lugar": "Tramo entre las estaciones de Nanclares y Manzanos, vía doble, ancho ibérico, electrificada, con contadores de ejes (sin circuitos de vía), controlada por CTC desde Miranda de Ebro. Zona de difícil acceso por carretera, en media ladera, zona boscosa, con el río Zadorra separando el acceso a la carretera N-I. Alineación recta en planta y horizontal en alzado en el punto del suceso. Pendiente de 4,1 milésimas en el punto de detención."
+ },
+ "cronologia": [
+  {
+   "hora": "18:50",
+   "evento": "Salida del tren 312 de la estación de Irún"
+  },
+  {
+   "hora": "19:08",
+   "evento": "Primera parada comercial en San Sebastián/Donostia"
+  },
+  {
+   "hora": "20:45",
+   "evento": "Segunda parada comercial en Vitoria/Gasteiz"
+  },
+  {
+   "hora": "20:46",
+   "evento": "Salida de Vitoria/Gasteiz, circulando banalizado por vía I"
+  },
+  {
+   "hora": "20:55",
+   "evento": "Paso por la estación de Nanclares (sin parada comercial), señales en vía libre"
+  },
+  {
+   "hora": "20:56:48",
+   "evento": "Descarrilamiento en p.k. 477+265 a 139 km/h por rotura del carril derecho"
+  },
+  {
+   "hora": "20:57:03",
+   "evento": "Activación del aparato de alarma en p.k. 475+820 a 132 km/h por interventor y mecánico Talgo"
+  },
+  {
+   "hora": "20:57:33",
+   "evento": "Notificación al puesto de mando de Miranda de Ebro por el técnico de atención al viajero"
+  },
+  {
+   "hora": "20:57:37",
+   "evento": "Detención del tren en p.k. 475+200 (locomotora) y p.k. 475+305 (rodal descarrilado), tras 1.960 m descarrilado"
+  },
+  {
+   "hora": "21:34",
+   "evento": "Comunicación de Adif a la CIAF del suceso"
+  },
+  {
+   "hora": "22:20",
+   "evento": "Llegada del tren 16004 para transbordo de viajeros"
+  },
+  {
+   "hora": "22:44",
+   "evento": "Finalización del transbordo de los 47 viajeros al tren 16004"
+  },
+  {
+   "hora": "23:00",
+   "evento": "Llegada a Miranda de Ebro, continuación del viaje en autobús"
+  },
+  {
+   "hora": "23:16",
+   "evento": "Salida de vagoneta de Vitoria con personal de vía para reconocer el trayecto"
+  },
+  {
+   "hora": "01:35",
+   "evento": "Solicitud de tren taller (7 de enero)"
+  },
+  {
+   "hora": "04:30",
+   "evento": "Salida del tren taller MIT01 de Miranda"
+  },
+  {
+   "hora": "04:50",
+   "evento": "Tren taller en vía II a la altura del p.k. de incidencia"
+  },
+  {
+   "hora": "06:33",
+   "evento": "Encarrilamiento del rodal descarrilado"
+  },
+  {
+   "hora": "09:45",
+   "evento": "Marcha del tren 312 hacia Miranda de Ebro a 20 km/h"
+  },
+  {
+   "hora": "10:15",
+   "evento": "Baja de la vía I entre Nanclares y Manzanos"
+  },
+  {
+   "hora": "10:55",
+   "evento": "Llegada del tren 312 a Miranda de Ebro, apartado para reparación"
+  },
+  {
+   "hora": "13:08",
+   "evento": "Finalización de trabajos de reparación vía I (9 de enero), restablecimiento con LTV 60 km/h"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "312",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños leves en rodaduras de ruedas derechas de rodales 6, 7 y 8; daños importantes en pestaña y banda de rodadura de rueda izquierda del rodal 6; afectados ménsulas, suspensión y enganches de coches 5 y 6; rejilla de protección de fluorescentes. Total daños: 91.450 euros."
+  },
+  {
+   "numero": "16004",
+   "tipo": "viajeros",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños; utilizado para transbordo de viajeros"
+  },
+  {
+   "numero": "MIR46",
+   "tipo": "circulación",
+   "operador": null,
+   "danos": "Sin daños; se le ordenó detención inmediata en vía II"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Matrícula 8658676. Título B de conducción, habilitado desde 2005, en Renfe desde 1986. No percibió el descarrilamiento. Prueba de alcoholemia y drogas negativa a las 23:05. Jornada del día 6: 07:04 (conducción efectiva 2h19m)."
+  },
+  {
+   "rol": "operador comercial especializado (interventor)",
+   "implicacion": "Matrícula 8893984. Notó fuerte golpe y entrada de polvo en el coche 19 a la salida de Vitoria. Indicó al mecánico de Talgo tirar del aparato de alarma. Informó al técnico de atención al viajero de Miranda de Ebro."
+  },
+  {
+   "rol": "mecánico de Talgo",
+   "implicacion": "Notó fuerte golpe y entrada de polvo. Hizo uso del aparato de alarma a las 20:57:03 junto con el interventor."
+  },
+  {
+   "rol": "jefe de investigación de accidentes Adif",
+   "implicacion": "D. Cristóbal Cuesta, comunicó el suceso a la CIAF por SMS a las 21:34:00 del 6 de enero de 2017."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales avanzada E'4, entrada E4 y salida S2/1 de Nanclares en indicación de vía libre (L3). Sistema ASFA. Control de Tráfico Centralizado (CTC) desde Puesto de Mando de Miranda de Ebro. Bloqueo Automático Banalizado (BAB). Contadores de ejes (sin circuitos de vía en el trayecto Nanclares-Manzanos).",
+  "tipo_via": "Vía doble, ancho ibérico, electrificada, línea tipo A-1, radiotelefonía modalidad A (tren-tierra). Consigna A nº 2838, versión 13, de 15-12-2016. Carril UIC-54 (54 kg/ml) en barra larga soldada (BLS), fabricado por AHV (Altos Hornos de Vizcaya) en 1964, instalado en 1968. Traviesas tipo RS, sujeción tipo P2. Alineación recta en planta, horizontal en alzado.",
+  "velocidad_maxima": "145 km/h (según CVM para este tipo de tren en el trayecto Nanclares-Manzanos). Velocidad del tren en el momento del descarrilamiento: 139 km/h.",
+  "ancho": "1668 mm (ancho ibérico)",
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Rotura del carril derecho (según sentido de circulación) en p.k. 477+265, seccionado en cuatro trozos con longitud total de 2.395 mm (250 cm). Dos secciones presentaban manchas ovales (fisuras transversales internas antiguas). Daños en traviesas, carril y balasto a lo largo de 1.960 m.",
+  "otro": "Tramo Jundiz-Miranda de Ebro: media semanal de 263 circulaciones (94 LD, 96 MD, 1 cercanías, 69 mercancías, 3 servicio). No existían obras en el lugar ni proximidades."
+ },
+ "material_rodante": {
+  "series": "Locomotora serie 252 (nº UIC 95710252044-3) + 8 coches Talgo (9 rodales), 122 m, 123 t. Tipo 180 B (velocidad máxima 180 km/h según libro horario). Coches: TG4-22, TWL4U-27, TWL4G-34, TWL6D-25, TC4-01 (cafetería), TA4L-01, TA4L-05, TG4Z-05.",
+  "averia": "Rotura de pestaña y banda de rodadura de rueda izquierda del rodal 6 (circuló descarrilado 1.960 m). Daños en ménsulas, suspensión y enganches de coches 5 y 6. Rejilla de protección de fluorescentes caída. Discos, bombines, zapatas y timonería del rodal 6 correctos excepto daños del descarrilamiento.",
+  "mantenimiento": "Intervención de mantenimiento IS realizada el 4 de enero de 2017 (dos días antes): parámetros de rodadura dentro de tolerancia. Equipos de seguridad del tren (freno, ASFA, etc.) funcionaron correctamente. Registrador de seguridad DEUTA 2000 analizado. Se descarta que el tren o sus componentes fueran causa del descarrilamiento."
+ },
+ "clima": "Noche, muy bajas temperaturas entre -5 y -9 grados Celsius",
+ "causas": {
+  "directa": "Fallo de la infraestructura: rotura del carril derecho (según sentido de circulación del tren) por defecto de fabricación del carril (enfriamiento rápido en el proceso de laminación), ocasionando una fisura transversal progresiva de origen interno denominada 'mancha oval' (código de defecto 211 del Catálogo UIC).",
+  "contribuyentes": [
+   "Tiempo del carril en servicio: 49 años colocado en la vía y 53 años desde su laminación; las manchas ovales evolucionan por mecanismos de fatiga a lo largo del tiempo.",
+   "Vigilancia a pie (26/02/2016 y 07/09/2016) conforme a SGSC-PO-24.00.08 no detectó anomalías (el defecto interno es prácticamente imposible de detectar visualmente).",
+   "Vigilancia en cabina (última el 08/11/2016) no detectó anomalías.",
+   "Auscultaciones ultrasónicas de 2015 (13/10/2015) y 2016 (01/12/2016) conforme a SGSC-PO-24.00.09 no detectaron la anomalía interna del carril.",
+   "En 2014 no se realizó auscultación ultrasónica de carril, incumpliendo los procedimientos.",
+   "En 2011, 2012 y 2013 se detectó defecto (mancha oval) en el mismo p.k. mediante auscultación ultrasónica, no actuándose eficazmente: nivel 1 en 2011 (sin verificación manual inmediata), nivel 3 en 2012 (sin actuación inmediata), nivel 2 en 2013 (verificación manual portátil el 18/03/2013 no detectó anomalía, se consideró fallo del tren auscultador).",
+   "Problema con el umbral de sensibilidad del sistema de auscultación de la empresa que realizó las campañas de 2015 y 2016 (falsas alarmas y problemas de odometría) que impidió detectar el defecto ya conocido."
+  ],
+  "sistemicas": [
+   "Procedimiento operativo SGSC-PO-24.00.09 (junio 2015) 'Auscultación de vía en Red Convencional' integrado en el SGS de Adif resultó ineficaz al no detectar la anomalía interna del carril.",
+   "Ausencia de mecanismos dentro del SGS que supervisasen la adecuada trazabilidad de la gestión de acciones de mantenimiento derivadas de defectos detectados.",
+   "Procedimientos específicos solo obligan a conservar registros de mantenimiento durante 3 años, insuficiente para carriles con décadas de vida en servicio.",
+   "Discrepancias normativas entre procedimientos operativos SGSC-PO-24.00.08 y SGSC-PO-24.00.09 y las normas NAV 7-4-0.1 y 7-4-1.1 (ya señaladas en informe 43/2016)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Tren: 91.450 euros (daños en rodaduras, ménsulas, suspensión, enganches, rejilla de fluorescentes). Infraestructura: 91.475 euros (daños en traviesas, carril y balasto a lo largo de 1.960 m). Total: 182.925 euros.",
+  "afectacion_servicio": "Vía I interrumpida totalmente desde 20:57 del 6/01/2017 hasta 13:08 del 9/01/2017 (64 horas y 11 minutos). Afectados 22 trenes: tren 312 accidentado, 2 trenes MD suprimidos, 8 trenes LD con retraso de 56 min, 9 trenes MD con retraso de 188 min, 2 trenes mercancías con retraso de 41 min. 47 viajeros transbordados al tren 16004 y continuaron en autobús desde Miranda de Ebro. Restablecimiento con LTV de 60 km/h entre pp.kk. 476+800 y 477+280."
+ },
+ "lecciones": [
+  "Las roturas de carril por defectos internos de fabricación (mancha oval) son extremadamente difíciles de detectar mediante vigilancia visual a pie o en cabina.",
+  "La auscultación ultrasónica, aunque se realice conforme al procedimiento, puede resultar ineficaz si los equipos o el tratamiento de datos presentan problemas de sensibilidad o odometría.",
+  "La trazabilidad de los registros de mantenimiento debe conservarse al menos durante toda la vida en servicio del componente (no solo 3 años).",
+  "Los defectos detectados en campañas de auscultación deben gestionarse con eficacia y supervisión organizativa dentro del SGS, con verificación de que las acciones correctivas se ejecutan.",
+  "La ausencia de circuitos de vía (solo contadores de ejes) impide la detección automática de roturas de carril por ocupación intempestiva del cantón.",
+  "La edad del carril en servicio es un factor coadyuvante crítico para la evolución por fatiga de defectos internos de fabricación."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Se reitera la recomendación nº 43/16-1 de la CIAF en el informe 43/2016 de Busdongo: Adoptar las medidas necesarias a nivel procedimental, técnico y de equipos tanto humanos como materiales, con el objeto de conocer, al realizar las auscultaciones ultrasónicas de carril, incluyendo los aparatos de vía, el estado interno de los mismos y detectar de manera eficaz los defectos que puedan desembocar en una rotura posterior del carril.",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Reforzar la trazabilidad de los registros relativos a las acciones de mantenimiento y de las comunicaciones entre la Subdirección de vía y las gerencias de mantenimiento.",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Adoptar las medidas necesarias para que se lleven a cabo las auscultaciones ultrasónicas dentro de los plazos establecidos en el procedimiento operativo correspondiente, incluyendo las actuaciones o medidas complementarias a adoptar para la explotación segura en caso de indisponibilidad de los medios de auscultación.",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Modificar los procedimientos específicos referentes a mantenimiento, de forma que las fichas con los registros resultantes de las operaciones de mantenimiento se conserven al menos durante el período en el que los carriles estén en servicio.",
+   "destinatario": "AESF / Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rotura de carril",
+  "mancha oval",
+  "defecto de fabricación",
+  "auscultación ultrasónica",
+  "fatiga",
+  "sistema de gestión de seguridad",
+  "adif",
+  "renfe viajeros",
+  "línea 100",
+  "ancho ibérico",
+  "trazabilidad mantenimiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 06.01.2017 180718-170106-IF-SN_CIAF"
+}

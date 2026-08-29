@@ -1,0 +1,177 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 112 Renfe TALGO Alvia serie 130 por fallo en el cambio de ancho en Majarabique (Sevilla)",
+ "idioma_original": "es",
+ "resumen": "El 10 de enero de 2010, a las 19:49 horas, el tren de viajeros 112 de Renfe Operadora, compuesto por material TALGO Alvia serie 130, descarriló en el P.K. 568+250 de la línea 400 Alcázar de San Juan–Cádiz, a 4,4 km del cambiador de ancho de Majarabique (Sevilla). El descarrilamiento se produjo por fallo en el proceso de cambio de ancho UIC a convencional, al no quedar la rueda izquierda del primer eje de la cabeza motriz de cola enclavada, posiblemente por acumulación de nieve helada en el mecanismo. Como causa subyacente, no actuó el sistema de detección de cerrojos caídos del cambiador. Tres viajeros resultaron heridos leves y se interceptaron las dos vías generales de entrada a Sevilla Santa Justa durante más de dos días.",
+ "hechos": "El día 10 de enero de 2010, el tren de viajeros 112 de Renfe Operadora (TALGO Alvia serie 130, origen Madrid Puerta de Atocha, destino Cádiz, 11 coches, cabezas motrices en cabeza y cola, 385 t de masa remolcada) circulaba en ancho UIC (1.435 mm) y debía cambiar a ancho convencional (1.668 mm) en el cambiador de Majarabique. Durante el trayecto, debido a nieve y lluvia intensas, se cumplió el protocolo de TALGO. Al llegar al cambiador, tanto el encargado de la instalación como el mecánico de TALGO observaron la maniobra sin detectar anomalías. Sin embargo, la rueda izquierda del eje nº 17 del primer bogie (sentido de la marcha) de la cabeza motriz de cola no quedó enclavada y permaneció en una posición muy próxima al ancho ibérico. El tren recorrió 4,4 km descarrilando y encarrilando intermitentemente ese eje, hasta descarrilar completamente al pasar por el desvío 6 del P.K. 568+013 (Bif. San Bernardo). El tren se detuvo por accionamiento del freno de emergencia desde el interior por el agente de TALGO, al percibir fuertes golpes en los coches 2 y 1. La cabeza motriz de cola quedó en la vía 2, el penúltimo coche atravesado entre ambas vías con ejes 16 y 15 descarrilados, y el resto de la composición en la vía 1. Tres viajeros resultaron heridos leves.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Sevilla Santa Justa (a la entrada, lado Córdoba)",
+  "pk": "568+250",
+  "linea": "400 Alcázar de San Juan – Cádiz",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Bifurcación de San Bernardo, a 4,4 km del cambiador de ancho de Majarabique, tramo Bif. San Bernardo – Sevilla Santa Justa. El descarrilamiento completo ocurrió al pasar por el cambio del P.K. 568+013 (desvío 6)."
+ },
+ "cronologia": [
+  {
+   "hora": "19:14:10",
+   "evento": "Parada del vehículo antes de iniciar el paso por el cambiador de Majarabique"
+  },
+  {
+   "hora": "19:15:53",
+   "evento": "Inicio del proceso de cambio de ancho"
+  },
+  {
+   "hora": "19:31:48",
+   "evento": "El operador del cambiador da dispuesta la composición y finalización de la maniobra (registro de audio)"
+  },
+  {
+   "hora": "19:31:52",
+   "evento": "El tren concluye su paso por el cambiador (no superó 1,7 km/h)"
+  },
+  {
+   "hora": "19:32:16",
+   "evento": "El tren inicia su salida del cambiador de ancho de Majarabique"
+  },
+  {
+   "hora": "19:34:30",
+   "evento": "Primer descarrilamiento en el P.K. 564+399 (558 m tras salir del cambiador), velocidad 29,4 km/h"
+  },
+  {
+   "hora": "19:43:08",
+   "evento": "Depresión en tubería TFA por actuación del aparato de alarma (freno de emergencia), velocidad 22,7 km/h"
+  },
+  {
+   "hora": "19:43:17",
+   "evento": "Detención completa del tren en el P.K. 568+250 (42 m tras la actuación del aparato de alarma, 3,85 km desde el inicio del descarrilamiento)"
+  },
+  {
+   "hora": "19:49",
+   "evento": "Hora oficial del accidente registrada en el informe"
+  },
+  {
+   "hora": "21:42",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por SMS"
+  },
+  {
+   "hora": "2010-01-26",
+   "evento": "Pleno de la CIAF resuelve abrir la investigación"
+  },
+  {
+   "hora": "2010-01-12 17:45",
+   "evento": "Se entrega la vía 1 con limitación de velocidad a 30 km/h"
+  },
+  {
+   "hora": "2010-01-13 09:55",
+   "evento": "Se restablece la circulación por la vía 2 con limitación a 30 km/h"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "112",
+   "tipo": "Tren de viajeros de larga distancia (TALGO Alvia serie 130)",
+   "operador": "Renfe Operadora",
+   "danos": "Daños al material móvil por importe de 562.425,88 €. Cabeza motriz de cola cambiada de vía; penúltimo coche atravesado entre vías con ejes 16 y 15 descarrilados."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 112 (matrícula 8821415)",
+   "implicacion": "Titular del título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 10/11/09; último reconocimiento médico y psicotécnico 03/10/05. Prueba de alcoholemia negativa (0,00 mg/1000 ml) a las 21:30. Jornada del día 10: 7h42min (conducción efectiva 3h32min). Informó al puesto de mando del descarrilamiento y procedió a la protección."
+  },
+  {
+   "rol": "Mecánico de TALGO de servicio en el tren 112",
+   "implicacion": "Revisó la rodadura en Córdoba y en el foso del cambiador de Majarabique. Supervisó el paso por el cambiador desde fuera del foso (inspección parcial del protocolo). Accionó el freno de emergencia al percibir fuertes golpes en los coches 2 y 1. Realizó primera inspección ocular tras la parada y colaboró en el transbordo de viajeros."
+  },
+  {
+   "rol": "Encargado del cambiador de Majarabique (personal de EULEN)",
+   "implicacion": "Supervisó la maniobra de cambio de ancho junto al mecánico de TALGO. Solo una persona de servicio en la instalación ese día. Dio por finalizada la maniobra correctamente."
+  },
+  {
+   "rol": "Interventor de servicio",
+   "implicacion": "Comunicó al maquinista el descarrilamiento tras el frenado de emergencia. Acompañó al mecánico de TALGO en la revisión de la rodadura en Córdoba."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) y Control de Tráfico Centralizado (C.T.C.)",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "110 km/h (tramo), sin limitación temporal",
+  "ancho": "Cambio de ancho UIC (1.435 mm) a convencional (1.668 mm) en el cambiador de Majarabique",
+  "electrificacion": "Sí, vía electrificada",
+  "estado_via": "Parámetros de infraestructura en el lugar del descarrilamiento dentro de tolerancias (verificado el mismo día). Ancho de vía comprobado con resultados correctos.",
+  "otro": "Cambiador de ancho de Majarabique con dos plataformas (CAF y TALGO). Radiotelefonía modalidad A. Media semanal de 989 circulaciones en el tramo Bif. San Bernardo – Sevilla Santa Justa (85 LD, 154 MD, 661 cercanías, 79 mercancías, 10 servicio). Tráfico considerado alto."
+ },
+ "material_rodante": {
+  "series": "TALGO Alvia serie 130",
+  "averia": "La rueda izquierda del eje nº 17 del primer bogie (sentido de la marcha) de la cabeza motriz de cola no quedó enclavada en el ancho convencional tras el paso por el cambiador. Posible causa: acumulación de nieve helada en el mecanismo de cambio de la rodadura. Pruebas posteriores de cambio de ancho con el material siniestrado dieron resultados correctos.",
+  "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente. Los automotores serie 130 no disponen en cabina de sistema de comprobación para verificar el enclavamiento de ruedas tras el cambio de ancho. El tren no superó 1,7 km/h durante el paso por el cambiador (inferior a la máxima establecida en condiciones degradadas)."
+ },
+ "clima": "Nieve y lluvia intensas. Fuerte nevada desde la salida de Madrid Puerta de Atocha que acompañó al tren durante gran parte del recorrido. En Córdoba se observaba nieve en parte de las barras de guiado de los rodales, aunque no compacta, y comenzaba a llover con insistencia.",
+ "causas": {
+  "directa": "Fallo en el proceso de cambio de ancho: la rueda izquierda del primer eje del vehículo motriz de cola no quedó en el ancho de vía requerido (1.668 mm), posiblemente por acumulación de nieve helada en el mecanismo de cambio de la rodadura del bogie afectado.",
+  "contribuyentes": [
+   "No actuación del sistema de detección de cerrojos caídos del cambiador de Majarabique (avería o desconexión).",
+   "Inspección del protocolo de TALGO parcialmente cumplida: parte de la revisión se realizó desde fuera del foso en lugar de dentro.",
+   "Solo una persona de servicio en el cambiador ese día, lo que obligó al mecánico de TALGO a apearse y realizar la inspección.",
+   "Ausencia en los automotores serie 130 de un sistema en cabina para verificar el enclavamiento de las ruedas tras el cambio de ancho.",
+   "Climatología adversa (nieve helada) que pudo acumularse en el mecanismo de cambio."
+  ],
+  "sistemicas": [
+   "Inexistencia de un sistema de indicación al maquinista sobre problemas en el proceso de cambio de ancho.",
+   "Detección de cerrojos caídos no permanentemente activada ni con indicación de falta de energía.",
+   "Procedimiento de paso por cambiadores no claramente definido para circunstancias extraordinarias (nieve/hielo) en cuanto a funciones de operarios y personal de acompañamiento.",
+   "Sistema de detección de cerrojo no enclavado susceptible de actuaciones esporádicas no correspondientes a incidencias reales."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 3,
+  "danos_materiales": "Infraestructura y superestructura: 150.198,59 €. Material móvil: 562.425,88 €. Total: 712.624,47 €.",
+  "afectacion_servicio": "Interceptación de las dos vías generales de entrada a Sevilla (lado Córdoba) desde las 19:49 del 10/01. Vía 1 restablecida el 12/01 a las 17:45 con limitación a 30 km/h. Vía 2 restablecida el 13/01 a las 09:55 con limitación a 30 km/h. Afectados 19 trenes de larga distancia (206 min de retraso total), 66 de media distancia (548 min) y 161 de cercanías (251 min)."
+ },
+ "lecciones": [
+  "El sistema de detección de cerrojos caídos debe estar permanentemente activado y ser fiable; su fallo o desconexión elimina la última barrera de seguridad.",
+  "La acumulación de nieve helada en mecanismos de cambio de ancho puede impedir el enclavamiento correcto de las ruedas, y la inspección visual desde fuera del foso no garantiza la detección del problema.",
+  "La ausencia de un sistema de verificación del enclavamiento en cabina impide al maquinista detectar fallos en el cambio de ancho.",
+  "La dotación de solo una persona en el cambiador dificulta la correcta ejecución del protocolo de inspección en condiciones meteorológicas adversas.",
+  "El tren puede recorrer varios kilómetros con descarrilamientos intermitentes antes de un descarrilamiento completo, lo que agrava la situación y dificulta la detección temprana."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "06/10-1: Estudiar y actualizar el procedimiento de paso por los cambiadores, incluyendo las últimas modificaciones realizadas, comprobando que estén definidas claramente las funciones de los operarios de la instalación y del personal de acompañamiento del tren en casos de circunstancias extraordinarias (por ejemplo existencia de nieve o hielo).",
+   "destinatario": "Adif / Renfe Operadora"
+  },
+  {
+   "texto": "06/10-2: Sistema de detección de cerrojos caídos permanentemente activado, con indicación de falta de energía. Se precintarán los interruptores de puesta en marcha y desconexión del sistema.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "06/10-3: Duplicar el sistema de detección de cerrojo no enclavado, mejorando, asimismo, la protección de los microrruptores para evitar actuaciones esporádicas que activen este sistema y que no corresponden a incidencias reales.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "06/10-4: Estudiar la posibilidad de montar un sistema de indicación al maquinista para que, en caso de que haya un problema en el proceso de cambio, proceda a detener el tren.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "06/10-5: Estudiar la posibilidad de instalación de un sistema de aviso de no desplazamiento de la rueda, por rotura de conducto neumático de cristal o por pedal mecánico, transmitiendo un aviso de frenado al tren.",
+   "destinatario": "Adif / Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambio de ancho",
+  "cambiador de ancho",
+  "nieve helada",
+  "cerrojos caídos",
+  "talgo alvia serie 130",
+  "majarabique",
+  "sevilla santa justa",
+  "renfe operadora",
+  "adif",
+  "protocolo de nevadas",
+  "freno de emergencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-100110-280910-CIAF"
+}

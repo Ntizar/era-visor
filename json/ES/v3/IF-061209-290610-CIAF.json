@@ -1,0 +1,202 @@
+{
+ "titulo_normalizado": "Conato de colisión entre trenes en la salida de la estación de Granollers Centre por expedición indebida",
+ "idioma_original": "es",
+ "resumen": "El 6 de diciembre de 2009, a las 08:40 horas, se produjo un conato de colisión en la estación de Granollers Centre (Barcelona) entre el tren de larga distancia 10371 y el tren de media distancia 30557, ambos de Renfe Operadora. El incidente se originó por la expedición indebida del tren 10371 mientras el cantón siguiente seguía ocupado por el tren 30557, incumpliendo el bloqueo telefónico normal establecido. La investigación atribuye la causa principal a errores del personal de circulación y a deficiencias en la coordinación, consignas y notificación de anomalías durante los trabajos de sustitución del enclavamiento.",
+ "hechos": "El día 6 de diciembre de 2009, entre las 00:45 y las 08:00 horas, la circulación entre Granollers Centre y Cardedeu se realizaba al amparo de la consigna ATO 136 CTO 128, con mando local y bloqueo telefónico normal, por trabajos de sustitución del enclavamiento eléctrico y del bloqueo. A las 08:36 horas, el tren de larga distancia 10371, de Renfe Operadora, procedente de Madrid Chamartín y con destino Cerbère, fue recibido por la vía 1 de la estación de Granollers Centre tras rebase autorizado y se detuvo para operaciones comerciales. La auxiliar de circulación le dio la orden de marche el tren a las 08:39 horas, aunque el tren de media distancia 30557, procedente de Bellvitge y con destino Port Bou, aún ocupaba el cantón posterior de la vía impar sin haber llegado a Cardedeu.\n\nAl llegar a la señal de salida B1357, que estaba en indicación de parada, con luz roja, cruz de San Andrés superpuesta y baliza ASFA cubierta con un cubrebalizas, el maquinista del 10371 accionó el rebase autorizado y continuó la marcha hacia Cardedeu a 31 km/h. El jefe de circulación advirtió la salida indebida, comunicó la situación al puesto de mando de Barcelona y pidió la detención del tren. El CTC ordenó parar al maquinista del 10371, que quedó detenido en el P.K. 136+551 a las 08:43 horas, tras recorrer 1.220 metros.\n\nCuando el tren 30557 llegó a Cardedeu, el jefe de circulación autorizó la reanudación de la marcha del 10371. Posteriormente, el jefe de circulación y la auxiliar comprobaron que la señal de salida B1357 presentaba la cruz de San Andrés y el cubrebalizas, situación que dificultaba su visibilidad desde el andén. No hubo víctimas ni daños materiales, y no se interceptó la vía ni se perdieron minutos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Granollers Centre",
+  "pk": null,
+  "linea": "270 Cerbère – Barcelona Sant Andreu Comtal",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Señal de salida B1357 de la estación de Granollers Centre, tramo Granollers Centre – Sant Celoni, municipio de Granollers"
+ },
+ "cronologia": [
+  {
+   "hora": "2009-12-06T00:30",
+   "evento": "Comienza la suspensión de la circulación entre Granollers Centre y Cardedeu"
+  },
+  {
+   "hora": "2009-12-06T00:45",
+   "evento": "Comienza la sustitución paulatina del enclavamiento eléctrico y se prepara el trayecto para el bloqueo telefónico normal"
+  },
+  {
+   "hora": "2009-12-06T05:30",
+   "evento": "Finaliza la suspensión de la circulación"
+  },
+  {
+   "hora": "2009-12-06T05:31",
+   "evento": "El encargado de trabajos transmite al jefe de circulación el telefonema de puesta en servicio del bloqueo telefónico normal"
+  },
+  {
+   "hora": "2009-12-06T05:37",
+   "evento": "Ya establecido el bloqueo telefónico, circulan en sentido impar los trenes 25401, 25403, 25405 y 30557"
+  },
+  {
+   "hora": "2009-12-06T08:36",
+   "evento": "El tren 10371 es recibido por la vía 1 de Granollers Centre y se detiene para operaciones comerciales"
+  },
+  {
+   "hora": "2009-12-06T08:39",
+   "evento": "La auxiliar de circulación presenta al maquinista del tren 10371 la orden de marche el tren"
+  },
+  {
+   "hora": "2009-12-06T08:40",
+   "evento": "Se produce el conato de colisión al rebasar el tren 10371 la señal de salida B1357 con el cantón ocupado por el tren 30557"
+  },
+  {
+   "hora": "2009-12-06T08:43",
+   "evento": "El tren 10371 queda detenido en el P.K. 136+551 tras la orden del CTC"
+  },
+  {
+   "hora": "2009-12-06T08:43:53",
+   "evento": "Comunicación entre el jefe de circulación y el jefe del CTC para pedir la detención del tren 10371"
+  },
+  {
+   "hora": "2009-12-06T08:44:22",
+   "evento": "El jefe del CTC ordena detenerse al maquinista del tren 10371"
+  },
+  {
+   "hora": "2009-12-06T08:45:03",
+   "evento": "El CTC confirma al jefe de circulación que el tren 10371 iba a parar"
+  },
+  {
+   "hora": "2009-12-06T08:46:02",
+   "evento": "El jefe de circulación facilita su teléfono para que el maquinista contacte con él y reanudar la marcha cuando proceda"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "10371",
+   "tipo": "tren de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños"
+  },
+  {
+   "numero": "30557",
+   "tipo": "tren de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "jefe de circulación de Granollers Centre",
+   "implicacion": "No comprueba que la orden dada a la auxiliar de circulación fuera comprendida correctamente y no comprueba el estado de la señal de salida B1357 al iniciar su servicio"
+  },
+  {
+   "rol": "auxiliar de circulación de Granollers Centre",
+   "implicacion": "Da la orden de marche el tren al 10371 estando el cantón ocupado por el tren 30557; se le retira cautelarmente la habilitación"
+  },
+  {
+   "rol": "maquinista del tren 10371",
+   "implicacion": "Recibe la orden de marcha, acciona el rebase autorizado en la señal B1357 y continúa la marcha con el cantón ocupado"
+  },
+  {
+   "rol": "técnico de instalaciones de seguridad y telecomunicaciones",
+   "implicacion": "Impartió órdenes para gestionar los trabajos de puesta en servicio; no ordenó trabajos en instalaciones de seguridad en el trayecto ni en la cabecera por el lado Cardedeu"
+  },
+  {
+   "rol": "técnico de instalaciones de seguridad",
+   "implicacion": "Impartió órdenes para las modificaciones en instalaciones y su adecuación al bloqueo telefónico normal; no recuerda estar presente en las pruebas de fusión de lámparas de la señal B1357"
+  },
+  {
+   "rol": "oficial de telecomunicaciones",
+   "implicacion": "Coordinó los grupos de trabajo para colocar cartelones, cruces de San Andrés y tapar balizas; no ordenó la reposición de la señal B1357 sin cruz ni quitar el cubrebalizas"
+  },
+  {
+   "rol": "encargado de trabajos",
+   "implicacion": "Transmite el telefonema de puesta en servicio del bloqueo telefónico normal; la cruz de San Andrés en la señal de salida se colocó en su presencia"
+  },
+  {
+   "rol": "puesto de mando de Barcelona",
+   "implicacion": "Conoce el incidente pero no informa a los servicios afectados ni a la seguridad en la circulación de Adif y Renfe Operadora en tiempo y forma"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida B1357 alta y luminosa, con baliza ASFA a pie de señal y sin previa; en el momento del incidente estaba en rojo, con cruz de San Andrés superpuesta y baliza cubierta con cubrebalizas",
+  "tipo_via": "vía doble",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Enclavamiento eléctrico Marconi en mando local; bloqueo telefónico normal entre Granollers Centre y Cardedeu por sustitución del enclavamiento por uno electrónico Thales y del bloqueo automático por uno banalizado; radiotelefonía modalidad C; tráfico medio semanal del tramo 1.001 circulaciones"
+ },
+ "material_rodante": {
+  "series": "locomotora 252067, Nº UIC 957102520674, tren de 4 vehículos y 193 Tn de masa remolcada",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Era de día",
+ "causas": {
+  "directa": "Expedición indebida del tren 10371 por el personal de circulación de la estación de Granollers Centre, incumpliendo las normas reglamentarias del bloqueo telefónico normal en vía doble",
+  "contribuyentes": [
+   "El jefe de circulación no comprueba que la orden dada a la auxiliar de circulación, incluyendo el momento de dar la orden de marche el tren, ha sido comprendida correctamente",
+   "La auxiliar de circulación da la orden de marche el tren al 10371 estando el cantón ocupado por el tren 30557",
+   "El jefe de circulación no comprueba el estado de la señal de salida B1357 al inicio de su servicio",
+   "El encargado de los trabajos da de baja la señal de salida sin que estuviera expresamente establecido en la consigna ni en la noticia y sin incluirlo en el telefonema de puesta en servicio",
+   "La consigna ATO 136 CTO 128 y la noticia nº 193 no enumeran las señales fuera de servicio en las diferentes fases de implantación",
+   "La consigna no detalla inequívocamente las tareas, medidas, relaciones jerárquicas ni un responsable único",
+   "Los maquinistas de los trenes 25401, 25403, 25405, 30557 y 10371 no notifican la anomalía de la señal B1357 con cruz de San Andrés y baliza cubierta",
+   "El puesto de mando de Barcelona no informa del incidente a los servicios afectados ni a la seguridad en la circulación en tiempo y forma"
+  ],
+  "sistemicas": [
+   "Deficiencias en la calidad de la formación y reciclaje del personal de circulación para gestionar la circulación en condiciones no habituales",
+   "Falta de una consigna C que defina exactamente los cometidos de cada agente y la relación entre ellos",
+   "Ausencia de un protocolo común de coordinación y cadena de transmisión de órdenes entre departamentos y equipos de trabajo",
+   "Insuficiente especificación en consignas del estado de las instalaciones modificadas y de su notificación al personal de conducción",
+   "Deficiencias en la transmisión y comprensión de instrucciones durante la ejecución de trabajos",
+   "Incumplimiento de la obligación de notificación inmediata del incidente por el puesto de mando"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños ni a la infraestructura ni al material rodante",
+  "afectacion_servicio": "No se intercepta la vía ni se pierden minutos"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "En las estaciones en las que exista una distribución de responsabilidades en las tareas fundamentales de circulación, se establecerá una Consigna C que defina exactamente los cometidos de cada agente y la relación entre ellos (Art.311.4).",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Realizar un análisis sobre la calidad de la formación inicial y de reciclaje de los responsables de circulación, en el aspecto específico de la gestión de la circulación en condiciones no habituales. En función de los resultados establecer las acciones necesarias para mejorar este aspecto.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Los distintos departamentos que participan en la ejecución de los trabajos tendrán que elaborar un protocolo común de actuación que garantice la perfecta coordinación de las actividades a realizar y la cadena de transmisión de las órdenes entre el interlocutor responsable de la comunicación con el jefe de circulación y los equipos de trabajo.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Las consignas deberán especificar qué instalaciones son motivo de modificación y el estado en el que se encuentran en las diferentes fases de la ejecución de los trabajos, notificando al personal de conducción las que les afecten.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Los responsables de la ejecución de las obras deberán incrementar sus esfuerzos en transmitir a todos los que participen en los trabajos la necesidad de conocer completamente el contenido y alcance de las tareas asignadas. Además, cada miembro del equipo que tenga a su cargo personal, trasladará las instrucciones pertinentes con claridad y se asegurará que han sido comprendidas en su totalidad.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Trasladar al puesto de mando de Barcelona la necesidad del estricto cumplimiento de lo establecido en el punto 5.3. Notificación del accidente o incidente, segundo párrafo, de la Circular de Presidencia nº 1, de 1 de enero de 2005: “El Puesto de Mando comunicará el hecho inmediatamente a los responsables de las distintas áreas del Administrador de Infraestructuras Ferroviarias afectadas.”",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "bloqueo telefónico normal",
+  "granollers centre",
+  "adif",
+  "renfe operadora",
+  "expedición indebida",
+  "señal de salida",
+  "cruz de san andrés",
+  "asfa",
+  "consigna",
+  "formación",
+  "comunicación"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-061209-290610-CIAF"
+}

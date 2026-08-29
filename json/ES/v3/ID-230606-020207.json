@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un joven de 17 años por tren de Cercanías en plena vía entre Cornellá y Hospitalet durante la verbena de San Juan",
+ "idioma_original": "es",
+ "resumen": "El 23 de junio de 2006 a las 23:29, un tren de Cercanías nº 39262 de Renfe arrolló a un joven de 17 años en el pk 92,700 de la Línea Tarragona-Barcelona-Francia, entre las estaciones de Cornellá y Hospitalet (Barcelona). La víctima formaba parte de un grupo de jóvenes que cruzaban las vías para dirigirse a unas instalaciones deportivas durante la celebración de la verbena de San Juan. El tren circulaba a 73-76 km/h, por debajo de la velocidad máxima permitida de 100 km/h. El joven ingresó cadáver en el Hospital Príncipes de España de Bellvitge. No se produjeron daños materiales.",
+ "hechos": "El Tren Cercanías nº 39262 de Renfe, compuesto por la locomotora 447182 y material vacío, circulaba por vía II desde Cornellá dirección Barcelona. A la altura de las agujas de salida de la estación de Cornellá, en el pk 92,700 de la Línea Tarragona-Barcelona-Francia, el maquinista observó a dos personas situadas al lado de la vía y aplicó inmediatamente el freno de emergencia, sin poder evitar golpear a una de ellas. La víctima, un varón de 17 años, fue golpeada por el tope del lado derecho del tren y proyectada hacia el terraplén. Resultó herida en primera instancia y fue evacuada en ambulancia al Hospital Príncipes de España de Bellvitge, donde ingresó ya cadáver. La otra persona que acompañaba al grupo no fue alcanzada.\n\nPresuntamente la víctima se encontraba acompañada de un grupo de amigos que cruzaron las vías para dirigirse a las instalaciones deportivas del municipio, con motivo de la celebración de la verbena de San Juan. El punto del accidente coincide con un paso inferior peatonal de cruce de vías. Ambas márgenes están protegidas por vallado metálico, con densa vegetación en el margen izquierdo y una trinchera de talud considerable en el margen derecho. El tramo discurre en vía doble electrificada, en traza curva y a lo largo del núcleo urbano de Cornellá, con un tráfico medio de 145 trenes/día.\n\nEl maquinista no pudo evitar el golpe tanto por la distancia necesaria para frenar como por las deficientes condiciones de visibilidad: curva a izquierdas según la marcha del tren y de noche. No se realizó prueba de alcoholemia al maquinista por carecer de medios la noche del suceso. El Ministerio de Fomento ya había iniciado en ese municipio las obras de un viaducto ferroviario que permeabilizará completamente la zona.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Cornellá (agujas de salida)",
+  "pk": "92,700",
+  "linea": "Tarragona-Barcelona-Francia",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía entre Cornellá y Hospitalet de Llobregat, en las inmediaciones de la estación de Cornellá, parte del cinturón de cercanías de Barcelona. Vía doble electrificada, traza curva, núcleo urbano. En el pk 92,700 existe un paso inferior peatonal. Márgenes protegidas por vallado metálico, densa vegetación al margen izquierdo y trinchera de talud considerable al margen derecho."
+ },
+ "cronologia": [
+  {
+   "hora": "23:29",
+   "evento": "El tren 39262 detiene su marcha tras golpear a una persona en el pk 92,700, a la altura de las agujas de salida de Cornellá"
+  },
+  {
+   "hora": "23:35",
+   "evento": "Se personan agentes de Policía Local y Policía Nacional; el cadáver queda custodiado por ellos"
+  },
+  {
+   "hora": null,
+   "evento": "La víctima herida es evacuada en ambulancia al Hospital Príncipes de España de Bellvitge, donde ingresa ya cadáver"
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista informa al Puesto de Mando, que cursa aviso a servicios de emergencia, policía, Gerencias de Seguridad en la Circulación y Protección Civil de Adif y Renfe, operadores afectados, Logística y Jefatura de Operaciones"
+  },
+  {
+   "hora": null,
+   "evento": "Al día siguiente, agentes de Adif se personan en el lugar para la toma de datos del accidente"
+  },
+  {
+   "hora": null,
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica el arrollamiento (24 de junio de 2006)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "39262",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 39262",
+   "implicacion": "Observó a dos personas al lado de la vía y aplicó inmediatamente el freno de emergencia, sin poder evitar golpear a una de ellas. Circulaba a 73-76 km/h, por debajo de la velocidad máxima permitida (100 km/h). No se le realizó prueba de alcoholemia por carecer de medios esa noche."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con CTC",
+  "tipo_via": "Vía doble electrificada, traza curva, núcleo urbano",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Vallado metálico en ambas márgenes; densa vegetación en margen izquierdo (sentido marcha); trinchera de talud considerable en margen derecho; paso inferior peatonal en pk 92,700; tráfico medio de 145 trenes/día; Red Ferroviaria de Interés General administrada por Adif"
+ },
+ "material_rodante": {
+  "series": "Locomotora 447182 (memoria estática 957104471827)",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Nocturno; deficientes condiciones de visibilidad por curva a izquierdas y oscuridad",
+ "causas": {
+  "directa": "Imprudencia por tránsito indebido por la vía. La víctima no libró el gálibo de la vía II al cruzar las vías y fue golpeada por el tope del lado derecho del tren.",
+  "contribuyentes": [
+   "Celebración de la verbena de San Juan que motivó el cruce de un grupo de jóvenes por las vías hacia instalaciones deportivas",
+   "Deficientes condiciones de visibilidad: traza en curva a izquierdas y horario nocturno",
+   "Distancia de frenado insuficiente para evitar el impacto a 73-76 km/h",
+   "Ausencia de prueba de alcoholemia al maquinista (no se dispone de dato)"
+  ],
+  "sistemicas": [
+   "Inadecuada permeabilización peatonal del trazado en entorno urbano, resuelta con viaducto ferroviario en construcción por el Ministerio de Fomento",
+   "Alta densidad de tráfico (145 trenes/día) en zona urbana con paso inferior peatonal"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "Retrasos acumulados de 45 minutos en dos trenes de Cercanías y 17 minutos de retraso en un tren de mercancías"
+ },
+ "lecciones": [
+  "El arrollamiento se produjo por tránsito indebido de peatones por la vía en un punto con paso inferior peatonal disponible",
+  "La velocidad del tren (73-76 km/h) era inferior a la máxima permitida (100 km/h), y aun así la distancia de frenado y la visibilidad nocturna en curva impidieron evitar el impacto",
+  "No se pudo realizar prueba de alcoholemia al maquinista por falta de medios esa noche"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar campañas de concienciación a la población sobre el peligro que supone cruzar las vías del ferrocarril.",
+   "destinatario": "Administraciones competentes / opinión pública"
+  },
+  {
+   "texto": "Se estima que no es procedente la realización de otras recomendaciones adicionales, dado que el Ministerio de Fomento ya está ejecutando las obras de construcción de un viaducto ferroviario en Cornellá que permeabilizará el trazado actual.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "cercanías",
+  "verbena san juan",
+  "cornellá",
+  "barcelona",
+  "imprudencia",
+  "paso inferior peatonal",
+  "visibilidad nocturna",
+  "traza curva",
+  "viaducto ferroviario",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-230606-020207"
+}

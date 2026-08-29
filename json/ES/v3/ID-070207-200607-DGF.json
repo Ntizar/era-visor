@@ -1,0 +1,161 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren Altaria nº 77 en plena vía entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid",
+ "idioma_original": "es",
+ "resumen": "El 7 de febrero de 2007 a las 15:26, el tren de viajeros Altaria nº 77 de Renfe Operadora arrolló a un varón de 33 años en plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial (PK 9,670, vía G3, Línea 300 Madrid Atocha-Valencia Nord, Madrid). La víctima falleció en el acto. El accidente se originó por imprudencia de la víctima al cruzar las vías por un lugar no autorizado, en una zona con tránsito indebido recurrente de personas vinculadas al poblado chabolista de El Salobral. No hubo daños materiales. Se produjeron importantes perturbaciones en la circulación.",
+ "hechos": "El tren de viajeros Altaria nº 77 de Renfe Operadora, remolcado por la locomotora 252040 con 9 vehículos y 140 toneladas, procedente de Alicante y con destino Santander, arrolló a una persona en plena vía a la salida de la estación de San Cristóbal Industrial. El cadáver quedó interceptando la vía. La víctima era un varón de 33 años. Según el parte del maquinista, al aproximarse al PK 9+700 observó a una persona que intentaba cruzar las vías de izquierda a derecha; utilizó el silbato y actuó el freno de emergencia sin poder evitar el arrollamiento. El tren circulaba a 60 km/h (velocidad máxima permitida 110 km/h limitada por curva) y recorrió 175 metros desde la aplicación del freno hasta la detención. No se produjeron daños materiales. El tren permaneció detenido en el lugar hasta las 17:10, momento en que reanudó marcha sin viajeros. El cadáver quedó apartado en la entrevía de las vías G2 y G3 hasta el levantamiento a las 18:35, siendo trasladado al Instituto Anatómico Forense de Madrid. Se suspendió la circulación por las cuatro vías desde las 16:00 hasta las 16:23 por petición del SAMUR, y la vía G3 permaneció interceptada hasta las 17:15. La circulación se realizó con prescripción de marcha a la vista hasta las 18:35.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "San Cristóbal Industrial",
+  "pk": "9,670",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, vía G3, cuádruple vía (líneas 300 y 500). Zona de tránsito frecuente de personas hacia el poblado chabolista de El Salobral en margen derecha. Cerramiento de margen derecha parcialmente derrumbado. Existe paso elevado peatonal cercano y pasarela metálica peatonal a distinto nivel."
+ },
+ "cronologia": [
+  {
+   "hora": "15:25",
+   "evento": "El tren pasa por la estación de San Cristóbal Industrial"
+  },
+  {
+   "hora": "15:26",
+   "evento": "Arrollamiento de una persona en plena vía, PK 9,670, vía G3. El tren se detiene tras 175 m de frenado"
+  },
+  {
+   "hora": "16:00",
+   "evento": "Se suspende la circulación por las cuatro vías a petición del SAMUR"
+  },
+  {
+   "hora": "16:23",
+   "evento": "Se reanuda la circulación por las vías excepto G3, con prescripción de marcha a la vista"
+  },
+  {
+   "hora": "17:10",
+   "evento": "El tren reanuda la marcha sin viajeros desde el lugar del accidente"
+  },
+  {
+   "hora": "17:15",
+   "evento": "Se levanta la interceptación de la vía G3"
+  },
+  {
+   "hora": "18:35",
+   "evento": "Se levanta el cadáver y se reanuda la circulación normal. Cadáver trasladado al Instituto Anatómico Forense de Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "Altaria nº 77",
+   "tipo": "viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren Altaria nº 77",
+   "implicacion": "Observó a la persona cruzando, usó silbato y aplicó freno de emergencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 4:26 h (3:26 h efectiva). Descanso los días 5 y 6 de febrero."
+  },
+  {
+   "rol": "Supervisor de Línea de la Jefatura Técnica Operativa en Madrid",
+   "implicacion": "Nombrado jefe delegado del accidente"
+  },
+  {
+   "rol": "Supervisor de Circulación en el Puesto de Mando de Madrid-Chamartín",
+   "implicacion": "Nombrado portavoz de información"
+  },
+  {
+   "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Centro de Adif",
+   "implicacion": "Acudieron al lugar para recogida de datos e inspección del punto del arrollamiento"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales que determinaban la velocidad de 60 km/h (orden de las señales). Bloqueo Automático Banalizado con CTC en cuádruple vía.",
+  "tipo_via": "Cuádruple vía (dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara)",
+  "velocidad_maxima": "110 km/h (limitada por curva); tren circulaba a 60 km/h por orden de señales",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Cerramiento de margen derecha parcialmente derrumbado. Margen izquierda franqueada por cerramientos de varios tipos. Existe paso vicioso/irregular entre el apeadero de San Cristóbal de los Ángeles y el poblado de El Salobral. Estación de San Cristóbal Industrial vallada en su totalidad con vigilancia de seguridad. Apeadero de San Cristóbal de los Ángeles sin vigilancia. Existe pasarela metálica peatonal a distinto nivel cercana.",
+  "otro": "Poblado chabolista de El Salobral asentado en margen derecha de las vías. Zona de tránsito indebido recurrente de personas."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252040",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima al transitar e invadir las vías cruzando por lugar indebido y no autorizado",
+  "contribuyentes": [
+   "Tránsito indebido y recurrente de personas hacia el poblado chabolista de El Salobral en margen derecha",
+   "Cerramiento de la línea en margen derecha parcialmente derrumbado, permitiendo el acceso a las vías",
+   "Existencia de un paso vicioso o ruta de acceso irregular entre el apeadero de San Cristóbal de los Ángeles y el poblado",
+   "Apeadero de San Cristóbal de los Ángeles carece de vigilancia de seguridad (a diferencia de la estación de San Cristóbal Industrial), siendo utilizado como punto de acceso al poblado",
+   "Dificultad para erradicar el asentamiento y la dependencia de estupefacientes de las personas que cruzan las vías",
+   "Repetición del problema: 4 accidentes graves por arrollamiento en 2006 en las proximidades (18.04.06, 09.06.06, 27.11.06, 28.11.06)"
+  ],
+  "sistemicas": [
+   "Insuficiente protección perimetral (cerramientos) en tramos con asentamientos irregulares colindantes",
+   "Ausencia de vigilancia en apeadero utilizado como punto de acceso a zona de riesgo",
+   "Falta de infraestructura peatonal adecuada (paso inferior no repulsivo) y de transporte alternativo para la población del asentamiento",
+   "Coordinación insuficiente con administraciones locales (Ayuntamiento de Madrid) para abordar el problema social subyacente"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "Tren detenido 1h44min (15:26-17:10). Suspensión total de 4 vías de 16:00 a 16:23. Vía G3 interceptada hasta 17:15. Marcha a la vista en todas las vías hasta 18:35. Retrasos acumulados: 133 min en 9 trenes de Cercanías, 70 min en 9 trenes de Larga Distancia, 93 min en 3 trenes de Media Distancia, 242 min en 6 trenes de Mercancías."
+ },
+ "lecciones": [
+  "La presencia de asentamientos irregulares junto a la infraestructura ferroviaria genera un riesgo recurrente de arrollamiento, como evidencian los 4 accidentes graves similares en 2006 en el mismo tramo.",
+  "La instalación de vigilancia en la estación de San Cristóbal Industrial desplazó el problema al apeadero vecino no vigilado, mostrando la necesidad de medidas integrales y no solo puntuales.",
+  "La velocidad del tren (60 km/h) y la actuación del maquinista (silbato + freno de emergencia) no fueron suficientes para evitar el atropello dada la distancia de frenado (175 m) y la aparición repentina de la persona.",
+  "Las recomendaciones de Adif y Renfe Operadora coinciden plenamente con la conclusión de la DGF: la causa es la imprudencia de la víctima, pero el entorno social y la deficiencia del cerramiento son factores agravantes que requieren intervención."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Instaurar vigilancia en el apeadero de San Cristóbal de los Ángeles, al igual que se hizo en la estación de San Cristóbal Industrial.",
+   "destinatario": "Adif / Autoridades competentes"
+  },
+  {
+   "texto": "Reparar el cerramiento actual y realizar una campaña de exhaustivo seguimiento del estado de conservación del vallado; agilizar los trámites para construir un nuevo cerramiento de mayor consistencia.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Intentar coordinar con el Ayuntamiento de Madrid algún tipo de transporte o actuación para las personas del asentamiento que impida que deambulen por las vías.",
+   "destinatario": "Adif / Ayuntamiento de Madrid"
+  },
+  {
+   "texto": "Hasta tanto se lleve a cabo la reposición del cerramiento, realizar una acción de vigilancia en el Apeadero de San Cristóbal de los Ángeles y el trayecto recorrido hasta la pasarela peatonal, para permitir la elección de un camino más seguro.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Creación de un paso inferior no repulsivo a la vista y amable al tránsito.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Creación de un servicio lanzadera de transporte gratuito que comunique esta zona.",
+   "destinatario": "Adif / Autoridades locales"
+  },
+  {
+   "texto": "Mientras no se erradique este lugar de abastecimiento de estupefacientes, difícilmente se evitará el problema, pues en su mayoría el estado físico y psíquico de estas personas es lamentable.",
+   "destinatario": "Renfe Operadora / Autoridades competentes"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "imprudencia",
+  "poblado chabolista",
+  "cerramiento deficiente",
+  "paso vicioso",
+  "tránsito indebido",
+  "san cristóbal de los ángeles",
+  "san cristóbal industrial",
+  "línea 300",
+  "renfe operadora",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-070207-200607-DGF"
+}

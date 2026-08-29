@@ -1,0 +1,187 @@
+{
+ "titulo_normalizado": "Conato de colisión por rebase de señal en la entrada de la estación de Los Gavilanes (Madrid)",
+ "idioma_original": "es",
+ "resumen": "El 16 de mayo de 2011, a las 19:03 horas, se produjo un conato de colisión entre los trenes de viajeros 5180 y 8182 de Renfe Operadora a la entrada de la estación de Los Gavilanes, en la línea 10 de alta velocidad Madrid-Puerta de Atocha a Sevilla-Santa Justa. El tren 5180 rebasó indebidamente la señal de entrada E022, situada en el PK 12+379, que ordenaba parada. El incidente tuvo su origen en el incumplimiento de las órdenes dadas por la señal al personal de conducción. Como factor coadyuvante se mencionó el no funcionamiento del bloqueo de control automático LZB ni del ASFA Digital.",
+ "hechos": "El tren de alta velocidad 5180 de Renfe Operadora salió de la vía 11 de la estación de Madrid-Puerta de Atocha con destino Valencia-Joaquín Sorolla. Lo hizo con el sistema ASFA Digital desconectado por fallo y, al paso por la señal de salida S11, no tomó transmisión de LZB, por lo que continuó circulando al amparo de bloqueo automático supletorio (BAS). Durante la marcha, el maquinista informó al CRC de Atocha de la ausencia de transmisión LZB y recibió autorización para circular con BAS y marcha a la vista hasta la siguiente señal de salida.\n\nEl tren 5180 pasó por la señal avanzada E’022 de Los Gavilanes en anuncio de parada y, unos metros antes de la señal de entrada E022, situada en el PK 12+379, que ordenaba parada, el maquinista aplicó freno con el manipulador, pero rebasó indebidamente la señal. Por su parte, el tren 8182 circulaba por vía 1 en el mismo sentido y tenía establecido itinerario de paso de vía 1 a vía 2 por el desvío 101/102.\n\nEn el momento del rebase, el tren 8182 se encontraba en el desvío 101/102, lo que originó un conato de colisión. El tren 5180 quedó detenido en el PK 12+847, a una distancia de 1.366 metros de la aguja 102. No hubo víctimas ni daños materiales, aunque se produjeron retrasos en el servicio.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Los Gavilanes",
+  "pk": "12+379",
+  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Entrada de la estación de Los Gavilanes, en la señal E022 del PK 12+379, dentro del tramo Km 2,8 - Gavilanes Aguja Km 13,400, Madrid; cerca del túnel de Perales."
+ },
+ "cronologia": [
+  {
+   "hora": "16:30",
+   "evento": "El agente de tracción recibe orden de realizar pruebas al vehículo 112007 en Atocha; el ASFA está en alarma constante."
+  },
+  {
+   "hora": "18:42",
+   "evento": "El maquinista del tren 5180 informa al CRC de Atocha de que el ASFA no se ha reiniciado."
+  },
+  {
+   "hora": "18:45",
+   "evento": "El tren 5180 sale de la vía 11 de Madrid-Puerta de Atocha con destino Valencia-Joaquín Sorolla, con ASFA desconectado."
+  },
+  {
+   "hora": "18:50",
+   "evento": "El maquinista informa al CRC de que no ha cogido transmisión LZB."
+  },
+  {
+   "hora": "18:51",
+   "evento": "El tren 5180 se detiene en vía 2 ante la señal de salida S034 (PK 2+729), que ordenaba parada."
+  },
+  {
+   "hora": "18:52",
+   "evento": "El CRC de Atocha da telefonema 640 para circular con BAS y marcha a la vista hasta la siguiente señal de salida."
+  },
+  {
+   "hora": "18:54",
+   "evento": "Tras abrirse en vía libre la señal S034, el tren 5180 reanuda la marcha."
+  },
+  {
+   "hora": "18:59",
+   "evento": "El CRC llama al maquinista del 5180, que informa de que no ha cogido transmisión y circula con marcha a la vista y sin ASFA Digital."
+  },
+  {
+   "hora": "19:00",
+   "evento": "El tren 8182 tiene establecido itinerario de paso de vía 1 a vía 2 por el desvío 101/102."
+  },
+  {
+   "hora": "19:01",
+   "evento": "El CRC de Atocha informa al CRC de Albacete de que el tren 5180 no ha cogido transmisión y va sin ASFA, y pide que abra en Valdemoro con señalización lateral."
+  },
+  {
+   "hora": "19:01",
+   "evento": "El tren 5180 pasa por la señal avanzada E’022 (PK 9+845) en anuncio de parada a 78 km/h."
+  },
+  {
+   "hora": "19:02",
+   "evento": "El CRC pregunta al maquinista si tomará ERTMS en la bifurcación de Torrejón de Velasco; el maquinista responde que en principio debería."
+  },
+  {
+   "hora": "19:03",
+   "evento": "El tren 5180 rebasa indebidamente la señal E022 (PK 12+379) en parada a 132 km/h, produciéndose un conato de colisión con el tren 8182."
+  },
+  {
+   "hora": "19:03",
+   "evento": "El tren 5180 queda detenido en el PK 12+847, a 1.366 metros de la aguja 102."
+  },
+  {
+   "hora": "19:03",
+   "evento": "El CRC llama al maquinista del 5180, que confirma el rebase de la señal y que está parado."
+  },
+  {
+   "hora": "21:34",
+   "evento": "Se realiza al maquinista prueba de alcoholemia y de drogas, con resultado negativo."
+  },
+  {
+   "hora": null,
+   "evento": "2011-05-18: la CIAF tuvo conocimiento del suceso mediante correo electrónico."
+  },
+  {
+   "hora": null,
+   "evento": "2011-05-31: el Pleno de la CIAF acuerda abrir la investigación del incidente."
+  },
+  {
+   "hora": null,
+   "evento": "2012-02-28: fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "5180",
+   "tipo": "tren de viajeros de alta velocidad",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales en el material rodante."
+  },
+  {
+   "numero": "8182",
+   "tipo": "tren de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 5180",
+   "implicacion": "Conducía el tren que rebasó indebidamente la señal E022 en parada; informó al CRC, declaró presión de tiempos y llamadas del CRC, y obtuvo resultado negativo en alcoholemia y drogas."
+  },
+  {
+   "rol": "agente de tracción",
+   "implicacion": "Realizó pruebas al vehículo 112007 sobre las 16:30 horas; detectó el ASFA en alarma constante, intentó resetearlo sin resultado y avisó al centro de gestión."
+  },
+  {
+   "rol": "CRC de Atocha",
+   "implicacion": "Recibió los avisos del maquinista, autorizó la circulación con BAS y marcha a la vista, llamó al tren y participó en las comunicaciones previas al incidente."
+  },
+  {
+   "rol": "PM",
+   "implicacion": "Abrió en vía libre la señal de salida S34 tras ser informado por el maquinista de que estaba en blanco fijo."
+  },
+  {
+   "rol": "CRC de Albacete",
+   "implicacion": "Recibió aviso del CRC de Atocha para abrir en Valdemoro con señalización lateral al tren 5180."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E022 alta, con buena visibilidad y dotada de baliza previa y pie de señal; señal avanzada E’022; señales S11 y S34; LZB, ASFA Digital y BAS.",
+  "tipo_via": "Vía doble electrificada de ancho UIC.",
+  "velocidad_maxima": "200 km/h en el tramo donde se ubica la señal E022; 140 km/h máxima permitida con BAS y ASFA no operativo según NEC; velocidad registrada máxima 139 km/h.",
+  "ancho": "UIC",
+  "electrificacion": "Electrificada.",
+  "estado_via": "Funcionó correctamente.",
+  "otro": "Circulación al amparo de bloqueo de control automático LZB gestionado desde el CRC de Atocha; BAS como sistema sustitutivo; CDIs en PK 0+511, PK 1+378 y PK 5+290; GSMR; tráfico medio semanal del tramo de 855 circulaciones, considerada alta."
+ },
+ "material_rodante": {
+  "series": "Tren 5180 formado por material Talgo S-112, UT 112007, Nº UIC 967191120070, matrícula 8926925; 2 cabezas tractoras y 12 coches.",
+  "averia": "ASFA Digital en alarma constante y desconectado; según informe de INDRA, un mal funcionamiento del subsistema externo de captación a bordo entregaba una señal de frecuencia fuera de rango; el tren no tomó transmisión LZB en los CDIs.",
+  "mantenimiento": "Pruebas previas correctas salvo ASFA; reset sin resultado; agente de Talgo enviado sin solución; averías similares en serie 112 en los últimos 15 días; tras apartado en Valdemoro y nueva puesta en marcha, el ASFA Digital funcionó correctamente."
+ },
+ "clima": "De día, con tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Rebase indebido por el tren 5180 de la señal de entrada E022 que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+  "contribuyentes": [
+   "No funcionamiento del sistema de bloqueo de control automático LZB.",
+   "No funcionamiento del ASFA Digital.",
+   "Circulación en condiciones degradadas con BAS y marcha a la vista.",
+   "Según declaración del maquinista, presión de tiempos y llamadas del CRC por la pérdida de tiempo en la marcha."
+  ],
+  "sistemicas": [
+   "Necesidad de que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria para evitar distracciones.",
+   "Gestión del riesgo por fallo humano en la conducción.",
+   "Averías similares de ASFA en vehículos de la serie 112 en los últimos 15 días."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+  "afectacion_servicio": "Retraso de 69 minutos en el tren 5180 y retraso total de 17 minutos en otros tres trenes de alta velocidad; no fue necesaria la activación de plan de emergencia interno-externo; el tren fue apartado en Valdemoro."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Implantar las medidas necesarias para que las comunicaciones con el personal de conducción en cabina se realicen de forma reglamentaria, con el fin de evitar posibles distracciones, especialmente cuando se circula en condiciones degradadas.",
+   "destinatario": "Adif y Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "alta velocidad",
+  "los gavilanes",
+  "madrid",
+  "renfe operadora",
+  "adif",
+  "lz",
+  "asfa digital",
+  "bas",
+  "fallo humano",
+  "comunicaciones en cabina"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-160511-280212-CIAF"
+}

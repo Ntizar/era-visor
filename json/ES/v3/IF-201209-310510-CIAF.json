@@ -1,0 +1,106 @@
+{
+ "titulo_normalizado": "Arrollamiento de un niño de 9 años en paso a nivel clase C de Sant Guim de Freixenet (Lérida) por tren de media distancia 15624",
+ "idioma_original": "es",
+ "resumen": "El 20 de diciembre de 2009 a las 17:07, el tren de viajeros de media distancia 15624 de Renfe Operadora arrolló a un niño de 9 años que cruzaba corriendo por el paso a nivel tipo C situado en el P.K. 253+775 de la línea 220 Lérida Pirineos – L'Hospitalet de Llobregat, próximo al apeadero de Sant Guim de Freixenet (Lérida). Las semibarreras estaban bajadas y la señalización indicaba la llegada del tren. El niño cruzó por el paso carretero en lugar de los pasos peatonales habilitados. El accidente tuvo su origen exclusivamente en la actuación de la víctima. No se establecieron recomendaciones.",
+ "hechos": "El tren de viajeros de media distancia 15624 de Renfe Operadora, procedente de Lérida Pirineos con destino L'Hospitalet de Llobregat, circulaba por el tramo Cervera-Manresa de la línea 220. A las 17:05:58 pasó por la señal 2516 (P.K. 251+670) de protección del paso a nivel a 78 km/h. Al acercarse al paso a nivel tipo C del P.K. 253+775, próximo al apeadero de Sant Guim de Freixenet, el maquinista hizo uso del silbato. El paso a nivel estaba cerrado con semibarreras bajadas y señales luminosas y acústicas activadas. Un niño de 9 años cruzó corriendo de izquierda a derecha (en sentido de la marcha del tren) por el paso carretero, ignorando los pasos peatonales habilitados a ambos lados. El maquinista aplicó el freno de emergencia a las 17:07:38, cuando circulaba a 59 km/h y había recorrido 2.099 metros desde la señal 2516, produciéndose el arrollamiento unos 6 metros más adelante. El tren se detuvo a las 17:08:00 en el P.K. 253+950, a 175 metros del paso a nivel. El niño falleció. No se produjeron daños materiales al tren ni a la infraestructura.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Sant Guim de Freixenet (apeadero)",
+  "pk": "253+775",
+  "linea": "220 Lérida Pirineos – L'Hospitalet de Llobregat",
+  "provincia": "Lérida",
+  "descripcion_lugar": "Paso a nivel clase C (semibarrera automática) situado en el P.K. 253+775, dentro del casco urbano de Sant Guim de Freixenet, a unos 200 metros del apeadero. Protege el cruce de la vía férrea con la calle Camino de Santa Coloma. Concatenado con otros dos pasos a nivel clase B en P.K. 252+610 y P.K. 253+570, todos protegidos por una única instalación conjunta. Dispone de pasos peatonales con vallas transversales a ambos lados de la vía."
+ },
+ "cronologia": [
+  {
+   "hora": "17:05:58",
+   "evento": "El tren pasa por la señal 2516 (P.K. 251+670) de protección del paso a nivel a 78 km/h"
+  },
+  {
+   "hora": "17:07:38",
+   "evento": "Inicio de la frenada de emergencia a 59 km/h, tras recorrer 2.099 m desde la señal 2516; arrollamiento del niño unos 6 m más adelante en el paso a nivel"
+  },
+  {
+   "hora": "17:08:00",
+   "evento": "El tren se detiene en el P.K. 253+950, a 175 m del paso a nivel"
+  },
+  {
+   "hora": "18:10",
+   "evento": "Prueba de alcoholemia al maquinista, resultado negativo"
+  },
+  {
+   "hora": "18:52",
+   "evento": "El jefe de investigación de Adif comunica el accidente a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "20:00",
+   "evento": "Toma de declaración al maquinista"
+  },
+  {
+   "hora": "20:58",
+   "evento": "Se restablece la circulación ferroviaria"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15624",
+   "tipo": "viajeros media distancia (UT 440235, 3 coches, 146 Tn, tipo 140)",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 15624",
+   "implicacion": "Circulaba a velocidad inferior a la máxima permitida (59 km/h al frenar, límite 80 km/h). Hizo uso del silbato y del freno de emergencia. Título B de conducción vigente, reciclaje formativo 29/06/07, reconocimiento médico 06/03/08. Prueba de alcoholemia negativa. Jornada del día: 8h48min (1h15min conducción)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal 2516 de protección del paso a nivel; señales luminosas y acústicas activas en el paso a nivel; semibarreras bajadas",
+  "tipo_via": "Vía única electrificada, bloqueo de liberación automática (B.L.A.U.), control de tráfico centralizado en Barcelona Sants",
+  "velocidad_maxima": "135 km/h para tipo 140; limitación vigente a 80 km/h (consigna CO-556/29-6-1995/G.O.B.)",
+  "ancho": null,
+  "electrificacion": "Sí (vía electrificada)",
+  "estado_via": "Rampa de 20,00 milésimas durante 885 m, luego rampa de 10,00 milésimas durante 130 m; desde P.K. 253+773 perfil recto y horizontal durante 450 m",
+  "otro": "Paso a nivel clase C concatenado con dos pasos a nivel clase B (P.K. 252+610 y 253+570), protegidos por una única instalación conjunta. Pavimento del paso carretero: chapa metálica. Pasos peatonales: tablones de madera con vallas transversales. Inspección favorable de instalaciones el 17/12/2009. Tráfico medio semanal: 43 circulaciones (muy bajo). Radiotelefonía A."
+ },
+ "material_rodante": {
+  "series": "UT 440235, tipo 140, Nº UIC 967174402350, matrícula 9650516",
+  "averia": "Ninguna; equipos de seguridad funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Soleado y despejado",
+ "causas": {
+  "directa": "Actuación de la víctima (niño de 9 años) que cruzó corriendo por el paso a nivel estando las semibarreras bajadas y la señalización activada alertando de la llegada del tren",
+  "contribuyentes": [
+   "El niño cruzó por el paso carretero en lugar de los pasos peatonales habilitados a ambos lados",
+   "Cruzó de izquierda a derecha en sentido de la marcha del tren"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+  "afectacion_servicio": "Circulación interrumpida entre Cervera y Calaf desde las 17:07 hasta las 20:58. Tren 15624 suprimido, viajeros trasbordados por carretera a Manresa. 3 trenes con retraso total de 209 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase c",
+  "semibarreras",
+  "víctima peatón",
+  "menor fallecido",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "línea 220",
+  "sant guim de freixenet",
+  "lérida"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-201209-310510-CIAF"
+}

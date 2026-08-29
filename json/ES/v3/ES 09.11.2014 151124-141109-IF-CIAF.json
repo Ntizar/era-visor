@@ -1,0 +1,158 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo de carretera en paso a nivel clase A entre Los Milanos y Calañas (Huelva) por invasión del gálibo de la vía",
+ "idioma_original": "es",
+ "resumen": "El 9 de noviembre de 2014, a las 11:47 horas, el tren de media distancia 17907 de Renfe Viajeros, con destino Madrid Atocha Cercanías, arrolló a un vehículo de carretera que cruzaba el paso a nivel clase A del PK 130+742 de la línea 512 Zafra-Huelva Cargas. El vehículo accedió al paso a nivel desde un camino paralelo a la vía cuando el tren se aproximaba. El conductor resultó herido grave y el acompañante falleció. La causa directa fue la invasión del gálibo de la vía por el vehículo. Como factor contribuyente, el paso a nivel carecía totalmente de señalización fija vertical y horizontal en los accesos de carretera, incumpliendo la Orden FOM de 2 de agosto de 2001.",
+ "hechos": "El día 9 de noviembre de 2014 a las 11:47 horas, el tren de viajeros de media distancia 17907 de Renfe Viajeros, procedente de Huelva Término y con destino Madrid Atocha Cercanías, circulaba con normalidad a 95 km/h por la línea 512 Zafra-Huelva Cargas. Al aproximarse al paso a nivel clase A del PK 130+742, entre el apeadero de Los Milanos y la estación de Calañas, un vehículo de carretera circulaba por un camino paralelo a la vía por el lado izquierdo en el mismo sentido que el tren. El vehículo accedió al paso a nivel de izquierda a derecha sin detenerse. El maquinista hizo uso del silbato durante 13 segundos y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. El tren impactó al vehículo a 72 km/h, saliendo este despedido hacia el lado derecho de la vía. El tren quedó detenido 264 metros después del punto de impacto.\n\nEn el interior del vehículo viajaban dos personas: el conductor, que resultó herido de carácter grave, y el acompañante, que falleció. En el tren viajaban 16 pasajeros que fueron transbordados por carretera hasta Mérida. La circulación quedó interrumpida desde las 11:52 hasta las 15:15 horas.\n\nLa investigación determinó que el paso a nivel, titularidad del Ayuntamiento de Calañas, cumplía la protección clase A (señales fijas exclusivamente) y la señalización hacia la vía, pero carecía totalmente de señalización fija vertical y horizontal en los accesos de carretera, incumpliendo el artículo 9.2 de la Orden FOM de 2 de agosto de 2001. La visibilidad real por el lado por donde accedía el vehículo era de 400 metros, superior a la distancia de visibilidad técnica (296 m). El momento de circulación AxT era de 85.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Calañas",
+  "pk": "130+742",
+  "linea": "512 Zafra – Huelva Cargas",
+  "provincia": "Huelva",
+  "descripcion_lugar": "Paso a nivel clase A 'Camino a Heredades', entre el apeadero de Los Milanos (PK 138+500) y la estación de Calañas (PK 129+800), tramo Calañas-Gibraleón, municipio de Calañas. Vía única sin electrificar con bloqueo telefónico, supervisada desde el Puesto de Mando de Sevilla. Alineación recta en el PN, con curva a la izquierda a unos 100 m (lado Madrid) en trinchera con paso carretero superior. Pendiente del 3‰. El PN comunica dos caminos paralelos a la vía, uno por cada margen."
+ },
+ "cronologia": [
+  {
+   "hora": "11:46:00",
+   "evento": "El tren 17907 circula a 95 km/h con normalidad"
+  },
+  {
+   "hora": "11:46:49",
+   "evento": "Cese de acción sobre la tracción (velocidad 95 km/h). El maquinista observa el vehículo circulando paralelo a la vía"
+  },
+  {
+   "hora": "11:46:54",
+   "evento": "Comienza aplicación del freno de servicio (velocidad 92 km/h)"
+  },
+  {
+   "hora": "11:47:04",
+   "evento": "Maquinista hace uso de la bocina durante 13 segundos (velocidad 88 km/h)"
+  },
+  {
+   "hora": "11:47:08",
+   "evento": "Actuación del freno de emergencia (velocidad 83 km/h)"
+  },
+  {
+   "hora": "11:47:13",
+   "evento": "Arrollamiento del vehículo de carretera (velocidad 72 km/h)"
+  },
+  {
+   "hora": "11:47:38",
+   "evento": "Tren queda detenido, 264 m después del punto de impacto"
+  },
+  {
+   "hora": "11:52",
+   "evento": "Interrupción de la circulación"
+  },
+  {
+   "hora": "12:20",
+   "evento": "La Guardia Civil autoriza al tren a estacionarse en Calañas"
+  },
+  {
+   "hora": "12:40",
+   "evento": "Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "12:50",
+   "evento": "Evacuación de la víctima superviviente al hospital de Río Tinto"
+  },
+  {
+   "hora": "14:50",
+   "evento": "Levantamiento del cadáver de la víctima fallecida"
+  },
+  {
+   "hora": "15:12",
+   "evento": "Retirada del vehículo siniestrado"
+  },
+  {
+   "hora": "15:15",
+   "evento": "Vía expedita, se reanuda la circulación en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17907",
+   "tipo": "Media distancia, automotor diésel serie 598, 3 vehículos, 76 m, 190 t brutas",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en el carenado frontal de la composición valorados en 31.300 €"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 17907 (matrícula 9675703)",
+   "implicacion": "Hizo uso del silbato y aplicó el freno de emergencia. Título B de conducción habilitado conforme a Orden FOM/2520/2006. Antigüedad desde 01.10.1983. Último reciclaje formativo 10.01.2013. Último reconocimiento médico y psicotécnico 25.02.2014. Pruebas de alcoholemia y drogas negativas. Jornada del día 9: 2 h 34 min."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Protección clase A (señales fijas exclusivamente). Cartelones de silbar a cada lado (cumple art. 9.1 Orden FOM 2/8/2001). INCUMPLIMIENTO: carecía totalmente de señalización fija vertical y horizontal en los accesos de carretera (art. 9.2). En julio 2015 se colocaron señales STOP y aspa, pero seguía sin cumplir el art. 9.2.",
+  "tipo_via": "Vía única, sin electrificar, bloqueo telefónico",
+  "velocidad_maxima": "100 km/h (cuadro de velocidades máximas). No existían limitaciones temporales.",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Alineación recta en el PN, curva a la izquierda a 100 m (lado Madrid) en trinchera. Pendiente 3‰. Firme del PN con traviesas de madera y contracarriles. Accesos pavimentados con asfalto.",
+  "otro": "Titularidad del PN: Ayuntamiento de Calañas. Momento de circulación AxT: 85 (17 vehículos/día - 5 trenes/día). Visibilidad real: 400 m lado Huelva (por ambos accesos), 90 m acceso izquierdo lado Madrid, 130 m acceso derecho lado Madrid. Distancia de visibilidad técnica: 296 m. Radiotelefonía modalidad C. No había obras en proximidades. Media semanal de circulaciones del tramo: 26 (21 MD, 4 mercancías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Serie 598 (automotor diésel), Tipo 160A",
+  "averia": "Ninguna. Los equipos de seguridad (freno, ASFA, registrador de seguridad) funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "No existían condiciones meteorológicas adversas. Condiciones climatológicas buenas.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, accediendo al paso a nivel cuando se aproximaba el tren 17907.",
+  "contribuyentes": [
+   "El paso a nivel carecía totalmente de señalización fija vertical y horizontal en los accesos de carretera, incumpliendo el artículo 9.2 de la Orden FOM de 2 de agosto de 2001.",
+   "El vehículo no se detuvo antes de acceder al paso a nivel y quedó detenido en la caja de la vía con las ruedas patinando sobre el firme."
+  ],
+  "sistemicas": [
+   "El artículo 12.2 de la Orden FOM de 2 de agosto de 2001 no exige protección clase B para pasos clase A con AxT inferior a 100 aunque la visibilidad real sea inferior a la técnica en algún cuadrante.",
+   "No se constataron deficiencias en cualificaciones del personal ferroviario ni en el mantenimiento del material rodante o infraestructura (causas subyacentes: ninguna)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 1,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en carenado frontal, 31.300 €. Infraestructura: daños en cableado de transmisión de la señal avanzada de Calañas, 900 €. Vehículo de carretera: siniestrado (despedido hacia el lado derecho de la vía).",
+  "afectacion_servicio": "Circulación interrumpida de 11:52 a 15:15 (3 h 23 min). Tren 17907 retraso de 20 minutos, apartado en Calañas. 16 viajeros transbordados por carretera hasta Mérida para continuar viaje."
+ },
+ "lecciones": [
+  "La protección clase A (señales fijas exclusivamente) requiere que los accesos de carretera estén correctamente señalizados conforme al artículo 9.2 de la Orden FOM de 2 de agosto de 2001 para que el usuario de la carretera pueda identificar el peligro.",
+  "La existencia de un paso superior de carretera en las inmediaciones (a unos 100 m, lado Madrid) podría haber evitado el cruce a nivel.",
+  "El criterio del AxT como único umbral para exigir protección clase B puede dejar desprotegidos pasos con visibilidad real inferior a la técnica en alguno de sus cuadrantes."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adecuar la señalización de los caminos de acceso al paso a nivel situado en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Ayuntamiento de Calañas"
+  },
+  {
+   "texto": "Analizar la posibilidad de supresión del paso a nivel situado en el PK 130+742 de la línea 512 Zafra – Huelva Cargas, aprovechando la existencia de un paso superior de carretera en las inmediaciones.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif"
+  },
+  {
+   "texto": "Estudiar la posibilidad de modificar la normativa actual; en concreto el artículo 12 de la Orden FOM de 2 de agosto de 2001, por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel; de manera que se dote de protección clase B a todos los pasos que dispongan de protección clase A y en los que la distancia de visibilidad real sea inferior a la distancia de visibilidad técnica en alguno de sus cuadrantes, independientemente del valor del momento de circulación AxT.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  },
+  {
+   "texto": "Estudiar la posibilidad de preparar un plan de actuación para la conversión de pasos clase A en clase B de forma que, en función del riesgo de cada uno de ellos, posibilite que en una determinada fecha horizonte todos los pasos a nivel de la red dispongan de un sistema de aviso activo hacia el usuario de la carretera.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "protección clase A",
+  "señalización carretera",
+  "invasión gálibo",
+  "vehículo de carretera",
+  "media distancia",
+  "serie 598",
+  "calañas",
+  "huelva",
+  "orden fom 2001",
+  "visibilidad real"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 09.11.2014 151124-141109-IF-CIAF"
+}

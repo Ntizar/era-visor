@@ -1,0 +1,105 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal en paso a nivel de Figueres con barreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 2008-10-18, a las 08:06, el tren de mercancías 58551 de Renfe Operadora cruzó el paso a nivel clase C del P.K. 247,215, en la estación de Figueres. Una persona cruzó el paso a nivel con las barreras bajadas y los sistemas de aviso luminoso y acústico activados. Tras el paso del tren, la víctima cayó y falleció minutos después. La infraestructura y el material rodante funcionaron correctamente, y el maquinista actuó conforme a la normativa. La Comisión no estimó recomendaciones porque la supresión del paso a nivel estaba prevista en la obra Variante de Figueres.",
+ "hechos": "El 2008-10-18, a las 08:06, el tren de mercancías 58551 de Renfe Operadora, compuesto por la locomotora 269509 y doce vagones, con 353 toneladas de masa remolcada, cruzó el paso a nivel clase C del P.K. 247,215, en la estación de Figueres, trayecto Figueres-Portbou. Una persona, un hombre de 81 años, había cruzado el paso a nivel con las barreras bajadas y los sistemas de aviso luminoso y acústico activados. Tras el paso del tren, la víctima se desestabilizó y cayó, y las lesiones sufridas le produjeron la muerte minutos después.\n\nEl maquinista, al percatarse de la presencia de la persona, hizo uso insistente del silbato, no pudo evitar que cruzara delante del tren y se detuvo inmediatamente. La memoria estática de la locomotora indica que, al accionar el freno de emergencia, el tren circulaba a 70 km/h, por debajo de la velocidad máxima autorizada de 100 km/h. Las instalaciones del paso a nivel funcionaron correctamente y no se produjeron daños en material rodante, infraestructura ni medio ambiente.\n\nEl maquinista comunicó el suceso al Puesto de Mando de Barcelona, que informó al CPS y solicitó una ambulancia. A las 08:18 llegaron los Mossos d'Esquadra, la Policía local y la ambulancia, ocupando la vía impar; a las 09:04 se informó del fallecimiento; a las 09:49 el coordinador de accidentes ferroviarios de Adif comunicó el suceso a la Comisión de Investigación de accidentes ferroviarios; a las 09:56 reanudó la marcha el tren 58551 y a las 10:00 se levantó el cadáver. Se estableció vía única temporal por la vía par entre Figueres y Portbou desde las 08:06 hasta las 09:56, con marcha a la vista por la vía par al paso por el punto del incidente, y se registraron retrasos en varios trenes. El informe señala que el 2008-06-03 se produjo un suceso similar en este mismo paso a nivel, en el que falleció un hombre de 90 años.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Figueres",
+  "pk": "247,215",
+  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "provincia": "Gerona",
+  "descripcion_lugar": "Paso a nivel clase C, P.K. 247,215, en la estación de Figueres, trayecto Figueres-Portbou."
+ },
+ "cronologia": [
+  {
+   "hora": "08:06",
+   "evento": "El tren de mercancías 58551 cruza el paso a nivel clase C del P.K. 247,215 en la estación de Figueres y desestabiliza a una persona que había cruzado con las barreras bajadas."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Barcelona, que informa al CPS y solicita el envío de una ambulancia."
+  },
+  {
+   "hora": "08:18",
+   "evento": "Llegan los Mossos d'Esquadra, la Policía local y la ambulancia, ocupando en sus intervenciones la vía impar."
+  },
+  {
+   "hora": "09:04",
+   "evento": "Se informa al CPS de que la víctima ha fallecido."
+  },
+  {
+   "hora": "09:49",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la Comisión de Investigación de accidentes ferroviarios el arrollamiento de una persona por el tren 58551."
+  },
+  {
+   "hora": "09:56",
+   "evento": "Reanuda la marcha el tren 58551."
+  },
+  {
+   "hora": "10:00",
+   "evento": "Se produce el levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "58551",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de mercancías 58551",
+   "implicacion": "Condujo el tren, advirtió con el silbato, frenó y se detuvo; poseía título de conducción habilitado conforme a la Orden 2520/2006, último reciclaje formativo 2007-11-20, último reconocimiento médico y psicotécnico 2005-03-30, jornada dentro de normativa y alcoholemia 0,00 mg/1000 ml."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase C con semibarreras eléctricas enclavadas, pasos peatonales con señalización acústica y luminosa a ambos lados y barreras fijas transversales; funcionaron correctamente.",
+  "tipo_via": "vía par e impar",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Vía única temporal por la vía par entre Figueres y Portbou desde las 08:06 hasta las 09:56; marcha a la vista por la vía par al paso por el punto del incidente; intervenciones en vía impar.",
+  "otro": "Radiotelefonía modalidad A; AxT del paso a nivel 845.961 según fuentes de la Dirección General de Ferrocarriles a 2008-08-27; media semanal de circulaciones del tramo Figueres-Portbou: 362 (60 larga distancia, 156 media distancia, 145 mercancías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269509 (matrícula UIC 957102695096), 12 vagones, masa remolcada 353 Tn.",
+  "averia": "No se producen daños; funcionaba correctamente; al accionar el freno de emergencia el tren circulaba a 70 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando las barreras estaban bajadas y los sistemas de aviso luminoso y acústico activados.",
+  "contribuyentes": [
+   "La víctima hizo caso omiso de la advertencia del silbato y continuó cruzando delante del tren."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+  "afectacion_servicio": "Retraso en 2 trenes de larga distancia (10'), 4 trenes de media distancia (56') y 3 trenes de mercancías (348'); vía única temporal por la vía par entre Figueres y Portbou desde las 08:06 hasta las 09:56; marcha a la vista por la vía par al paso por el punto del incidente."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "figueres",
+  "gerona",
+  "renfe operadora",
+  "tren de mercancías",
+  "barreras bajadas",
+  "víctima mortal",
+  "variante de figueres",
+  "ciaf",
+  "línea 270",
+  "paso a nivel clase c"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-181008-240209-CIAF"
+}

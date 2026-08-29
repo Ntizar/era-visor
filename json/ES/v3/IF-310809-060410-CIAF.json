@@ -1,0 +1,133 @@
+{
+ "titulo_normalizado": "Rebase indebido de la señal de entrada E2 en la estación de San Cristóbal Industrial con conato de colisión",
+ "idioma_original": "es",
+ "resumen": "El 31 de agosto de 2009, a las 18:14, el tren de viajeros 20072 rebasó indebidamente la señal de entrada E2 de la estación de San Cristóbal Industrial, que estaba en indicación de parada. El rebase provocó un conato de colisión con el tren de mercancías 91038, ambos de Renfe Operadora. El origen fue el incumplimiento de las órdenes dadas por las señales al personal de conducción. Como causa subyacente se señaló la no activación del ASFA de emergencia (L8) en la baliza previa. No hubo víctimas ni daños materiales.",
+ "hechos": "El tren de mercancías 91038, de Madrid-Abroñigal a San Roque (Cádiz), circulaba por la vía G2 entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial. El jefe del CTC le estableció itinerario de paso directo hacia Getafe por vía 1, lo que hacía que la señal de entrada E2 luciera rojo (parada).\\n\\nEl tren de viajeros de cercanías 20072, de Madrid Chamartín a Aranjuez, circulaba por la vía G4 del mismo trayecto. Al pasar la señal avanzada 86-4, que anunciaba parada, el tren continuó y aumentó velocidad. En la baliza previa de la señal E2 se registró control de velocidad L7 a 96 km/h, sin activarse el frenado de emergencia L8; el maquinista aplicó el freno de emergencia dos segundos después.\\n\\nEl tren 20072 rebasó la señal E2 en parada y el ASFA activó L8 en la baliza de pie a 32 km/h. Se produjo un conato de colisión con el tren 91038, que tenía establecido correctamente su itinerario; ambos quedaron en vía 1 sin señal interpuesta. El tren 20072 se detuvo en el PK 9+843, tras rebasar E2 43 metros, y la distancia estimada entre las circulaciones en el momento del conato fue de 695 metros.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "San Cristóbal Industrial",
+  "pk": "10+200",
+  "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Vía 1 de la estación de San Cristóbal Industrial, tramo Villaverde Bajo – San Cristóbal Industrial, en la señal de entrada E2."
+ },
+ "cronologia": [
+  {
+   "hora": "18:12",
+   "evento": "El tren 91038 entra de vía G2 a vía 1; el tren 20072 está ante la señal avanzada 86-4 en anuncio de parada en vía G4."
+  },
+  {
+   "hora": "18:12",
+   "evento": "El tren 20072 recibe L1 (anuncio de parada) en la baliza previa de la señal 86-4 a 38 km/h."
+  },
+  {
+   "hora": "18:12",
+   "evento": "El tren 20072 realiza parada comercial en el apeadero de San Cristóbal de los Ángeles."
+  },
+  {
+   "hora": "18:13",
+   "evento": "El tren 20072 sale del apeadero de San Cristóbal de los Ángeles."
+  },
+  {
+   "hora": "18:13",
+   "evento": "El tren 20072 recibe L1 en la baliza de pie de la señal avanzada 86-4 a 35 km/h."
+  },
+  {
+   "hora": "18:13",
+   "evento": "El tren 20072 recibe control de velocidad L7 en la baliza previa de la señal de entrada E2 a 96 km/h; no se activa el frenado de emergencia L8."
+  },
+  {
+   "hora": "18:13",
+   "evento": "El maquinista del tren 20072 aplica el freno de emergencia dos segundos después, a 96 km/h."
+  },
+  {
+   "hora": "18:14",
+   "evento": "El tren 91038 sale de San Cristóbal Industrial por vía 1 hacia Getafe."
+  },
+  {
+   "hora": "18:14",
+   "evento": "El tren 20072 rebasa indebidamente la señal E2 en parada; el ASFA activa L8 en la baliza de pie a 32 km/h."
+  },
+  {
+   "hora": "18:14",
+   "evento": "El tren 20072 se detiene en el PK 9+843 tras rebasar E2 43 metros; se produce el conato de colisión con el tren 91038 a una distancia estimada de 695 metros."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "20072",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante; el tren se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074."
+  },
+  {
+   "numero": "91038",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 20072",
+   "implicacion": "Conducción del tren que rebasa indebidamente la señal E2 en parada; pruebas de alcoholemia y drogas negativas; título de conducción categoría B, habilitado conforme a Orden FOM/2520/2006, reciclaje formativo 20/01/2009 y reconocimiento médico 23/02/2006."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2 en mástil elevado con baliza previa y baliza de pie; señal avanzada 86-4; ASFA; la señal E2 estaba en indicación de parada.",
+  "tipo_via": "Vía 1 de estación; bloqueo automático banalizado (BAB) con control de tráfico centralizado (CTC).",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "No se indican defectos en la infraestructura; las instalaciones técnicas funcionaron correctamente.",
+  "otro": "Radiotelefonía A; tráfico medio semanal del tramo Villaverde Bajo – San Cristóbal Industrial: 1.490 circulaciones; no fue necesario activar plan de emergencia."
+ },
+ "material_rodante": {
+  "series": "Serie 465: motores 465036 y 465012; UIC 907174650369 y 907174650123; 2 ramas, 10 coches, 468 toneladas de masa remolcada.",
+  "averia": "El ASFA no activó el frenado de emergencia (L8) al paso por la baliza previa de E2 con velocidad superior a 60 km/h; en pruebas posteriores funcionó correctamente.",
+  "mantenimiento": "Intervención nivel 3 el 08/06/2009 con revisión ASFA satisfactoria; pruebas en taller el 01/09/2009, circulación comercial el 02/09/2009, consigna de pruebas ADIF el 26/11/2009 y prueba del 03/12/2009 con funcionamiento correcto."
+ },
+ "clima": "despejado",
+ "causas": {
+  "directa": "Rebase indebido de la señal de entrada E2 en indicación de parada por el tren 20072, por incumplimiento de las órdenes dadas por las señales al personal de conducción (fallo humano).",
+  "contribuyentes": [
+   "No activación por ASFA de emergencia (L8) al paso por la baliza previa de la señal de entrada E2.",
+   "Aumento de velocidad del tren 20072 tras pasar la señal avanzada en anuncio de parada.",
+   "Paso por la baliza previa de E2 a 96 km/h, superior a 60 km/h.",
+   "Aplicación del freno de emergencia por el maquinista dos segundos después del control de velocidad."
+  ],
+  "sistemicas": [
+   "Necesidad de insistir en la aplicación de medidas de gestión de seguridad existentes, especialmente formación, cumplimiento del Reglamento General de Circulación, influencia de los procesos psicológicos en la conducción y verificación de la aptitud del personal de conducción."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+  "afectacion_servicio": "El tren 20072 se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074; no se activó plan de emergencia."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "47/09-1: Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "señal de entrada",
+  "asfa",
+  "conato de colisión",
+  "cercanías",
+  "mercancías",
+  "san cristóbal industrial",
+  "madrid",
+  "factor humano",
+  "reglamento general de circulación",
+  "incidente ferroviario",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-310809-060410-CIAF"
+}

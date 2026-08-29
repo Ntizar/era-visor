@@ -1,0 +1,234 @@
+{
+ "titulo_normalizado": "Descarrilamiento en Bif. Galicia (pk 1+501, vía II, línea 130, León) por movimiento incontrolado de espadín de ancho estándar del desvío D2",
+ "idioma_original": "es",
+ "resumen": "El 03/05/2021 a las 09:47, el tren ALVIA 4271 de RENFE VIAJEROS (Madrid-Chamartín a Gijón-Sanz Crespo) sufrió un descarrilamiento de los últimos dos rodales de los coches de viajeros en el desvío D2 de la Bifurcación Galicia (pk 1+501, vía II, línea 130, San Andrés del Rabanedo, León). El resto del tren, incluida la cabeza tractora de cola, quedó encarrilado. La causa directa fue el movimiento incontrolado del espadín de ancho estándar del corazón obtuso del desvío D2, que no estaba convenientemente inmovilizado, debido a las vibraciones producidas por el paso de trenes desde la actuación del 19/04/2021. No hubo daños personales (39 viajeros + personal de a bordo ilesos). El suceso se enmarca en las obras de remodelación para hacer pasante la estación de León e implantar un tercer hilo hasta el túnel de Pajares.",
+ "hechos": "El día 03/05/2021 a las 09:47, el tren ALVIA 4271 de RENFE VIAJEROS, que cubría el trayecto Madrid-Chamartín – Gijón-Sanz Crespo, circulaba por la vía II de la línea 130 en el desvío D2 de la Bifurcación Galicia (pk 1+501, término municipal de San Andrés del Rabanedo, León). Al pasar por el desvío, el espadín de ancho estándar del corazón obtuso, que había quedado sin asegurar tras la actuación del 19/04/2021, se había desplazado progresivamente por las vibraciones del paso de trenes. Este movimiento hizo que la pestaña de la rueda derecha del rodal entre los coches 11º y 12º chocara con la punta de la aguja, siendo encaminada por el hilo de ancho estándar, mientras la rueda contraria remontó el hilo común, provocando el descarrilamiento de los dos últimos rodales de los coches de viajeros. La motriz trasera quedó encarrilada.\n\nEl lugar del suceso estaba siendo objeto de una remodelación para hacer pasante la estación de León e implantar un tercer hilo hasta el túnel de Pajares. El desvío D2 era parte de un escape mixto D4-D2 instalado en sustitución del antiguo desvío D4T de ancho ibérico. Durante la actuación de integración al enclavamiento (noches del 17-18 y 18-19 de abril de 2021), se produjeron fallos de comprobación del desvío D2 similares a los del D4 un año antes. Se decidió desmontar las timonerías (tirantes de mando y comprobación) del motor 4 del D2, pero a diferencia de la actuación de 2020, no se instaló ninguna brida adicional para inmovilizar los barrones, dejando el espadín de ancho estándar sin asegurar. Solo se mantuvo una brida tipo C en el espadín de ancho ibérico, insuficiente para garantizar la inmovilidad del espadín conjugado de ancho estándar.\n\nTras el descarrilamiento, ambas vías quedaron interceptadas. El maquinista contactó con el CRC de León a las 09:47. A las 09:56 se dio aviso al CPS de ADIF. Los 39 viajeros fueron recogidos por autobús a las 10:39 y trasladados a Asturias (salida del bus a las 10:52). Personal de Talgo llegó a las 15:45, el tren quedó encarrilado a las 18:45 y la vía I se reabrió a las 20:08. La vía II permaneció cerrada hasta la reparación del desvío D2. Se afectaron 9 circulaciones con un retraso acumulado de 699 minutos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "León (enclavamiento Río Bernesga, accionado desde PLO de León)",
+  "pk": "1+501 (vía II)",
+  "linea": "130 Venta de Baños – Gijón Sanz Crespo (tramo León-Asturias)",
+  "provincia": "León",
+  "descripcion_lugar": "Bifurcación Galicia (Bif. Galicia), desvío D2 de un escape mixto D4-D2. Término municipal de San Andrés del Rabanedo. Zona en remodelación para hacer pasante la estación de León e implantar tercer hilo hasta el túnel de Pajares."
+ },
+ "cronologia": [
+  {
+   "hora": "2020-06-26/27",
+   "evento": "Noche: sustitución del desvío D4T por desvío mixto D4 (ancho ibérico, posición vía directa, embridado con bridas tipo C)"
+  },
+  {
+   "hora": "2020-06-27/28",
+   "evento": "Noche: montaje del desvío D2 (posición vía desviada, embridado con bridas tipo C). Vía II dada de baja sin completar timonerías"
+  },
+  {
+   "hora": "2020-07-02/03",
+   "evento": "Noche: resueltos problemas de enclavamiento en D4, completado montaje de timonerías en D2. Restablecida circulación por vía II"
+  },
+  {
+   "hora": "2020-07",
+   "evento": "Incidencias por pérdidas de comprobación en motores de D4. Decisiones en reuniones entre Subdirecciones de Operaciones Noroeste, Construcción ADIF-AV y empresas"
+  },
+  {
+   "hora": "2020-07-27",
+   "evento": "Desmontaje de tirantes de comprobación del motor 4 del D4. Instalación de brida tipo sándwich en cerrojo. Supervisado por INECO-AV"
+  },
+  {
+   "hora": "2020-10",
+   "evento": "Finalizados trabajos de soldadura. D2 embridado a vía desviada. D4 no recepcionado por ADIF Operaciones"
+  },
+  {
+   "hora": "2021-04-17/18",
+   "evento": "Noche: pruebas de concordancia de D4 y D2 para integración en nuevo enclavamiento. Fallos de comprobación y falsas ocupaciones en D2"
+  },
+  {
+   "hora": "2021-04-18/19",
+   "evento": "Noche: desmontaje de timonerías (tirantes de mando y comprobación) del motor 4 del D2. Se mantiene brida tipo C en espadín ibérico. Sin brida adicional para inmovilizar barrones. Sin personal cualificado de supervisión"
+  },
+  {
+   "hora": "2021-04-19",
+   "evento": "Fin de la actuación de 2021. Espadín de ancho estándar del corazón obtuso del D2 queda sin asegurar"
+  },
+  {
+   "hora": "2021-05-03 09:47",
+   "evento": "Descarrilamiento del ALVIA 4271 en D2. Maquinista contacta CRC de León informando del descarrilamiento y solicitando corte de tensión"
+  },
+  {
+   "hora": "2021-05-03 09:56",
+   "evento": "CRC de León da aviso al CPS de ADIF, jefatura de operaciones, empresas ferroviarias y seguridad en circulación"
+  },
+  {
+   "hora": "2021-05-03 10:18",
+   "evento": "CIAF notificada del suceso mediante SMS de ADIF"
+  },
+  {
+   "hora": "2021-05-03 10:39",
+   "evento": "Viajeros recogidos con autobús en el lugar del suceso"
+  },
+  {
+   "hora": "2021-05-03 10:52",
+   "evento": "Salida del autobús con los viajeros hacia Asturias"
+  },
+  {
+   "hora": "2021-05-03 15:45",
+   "evento": "Se personan en el lugar personal de Talgo"
+  },
+  {
+   "hora": "2021-05-03 17:30",
+   "evento": "Llegada de personal para revisar el estado del desvío"
+  },
+  {
+   "hora": "2021-05-03 18:45",
+   "evento": "Tren encarrilado. Material rodante retirado"
+  },
+  {
+   "hora": "2021-05-03 20:08",
+   "evento": "Vía I expedita para circulaciones. Vía II pendiente de reparación del D2"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "ALVIA 4271",
+   "tipo": "Viajeros (tracción eléctrica bitensión, cambio de ancho variable, composición M-11R-M, rama 130-034 tipo 250B)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Descarrilamiento de los últimos dos rodales de los coches de viajeros (rodal entre coches 11º y 12º, y rodal del coche 12º). Resto del tren encarrilado. Material rodante sin implicación en la causa. Ruedas dentro de tolerancias (salvo distancia entre caras internas compatible con compresión previa al descarrilamiento)"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del ALVIA 4271",
+   "implicacion": "Informó del descarrilamiento al CRC de León a las 09:47 y solicitó corte de tensión"
+  },
+  {
+   "rol": "Personal de a bordo del ALVIA 4271",
+   "implicacion": "Ileso. 39 viajeros + 1 perro + personal de a bordo trasladados en autocar"
+  },
+  {
+   "rol": "Personal de SEVIMFE",
+   "implicacion": "Realizó el desmontaje de las timonerías del motor 4 del D2 la noche del 18-19/04/2021. Subcontratista de ROVER RAIL y de ALSTOM"
+  },
+  {
+   "rol": "Personal de ALSTOM",
+   "implicacion": "Contratista de CMS. Dio visto bueno al desmontaje de timonerías del D2. No se autorizó entrevista a su personal directo"
+  },
+  {
+   "rol": "Personal de ADIF-CMS",
+   "implicacion": "Responsable del subsistema CMS en la actuación de 2021. Dirección de obra del contrato de señalización"
+  },
+  {
+   "rol": "Personal de ADIF-AV",
+   "implicacion": "Proponente del cambio y dirección de obra de la actuación de 2020"
+  },
+  {
+   "rol": "Personal de INECO (asistencia técnica)",
+   "implicacion": "Dirección de obra del tercer hilo, asistencia técnica de ADIF-AV y ADIF-CMS, AsBo de ambas actuaciones"
+  },
+  {
+   "rol": "Personal de ROVER RAIL",
+   "implicacion": "Contratista principal de infraestructura (UTE ROVER RAIL + ELECNOR). También contratista de obra de emergencia para reparación del D2"
+  },
+  {
+   "rol": "Personal de INSTALACIONES ALFAR",
+   "implicacion": "Fabricante de dispositivos SEPA y cerrojos. Contratada post-descarrilamiento para reparación del D2"
+  },
+  {
+   "rol": "Personal de AIRTREN",
+   "implicacion": "ISA (evaluador independiente) para riesgos CMS en actuación de 2020"
+  },
+  {
+   "rol": "Personal de EXCELTIC",
+   "implicacion": "ISA para riesgos CMS en actuación de 2021"
+  },
+  {
+   "rol": "Personal de AYESA",
+   "implicacion": "Asistencia técnica del contrato de soterramiento (CONVENSA) y del contrato CMS (ALSTOM)"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento Río Bernesga (segregado del enclavamiento de León), accionado desde PLO de León. ASFA Digital en el tren. Sistema de enclavamiento portátil SEPA (Alfar) y cerrojos",
+  "tipo_via": "Vía doble (vía I y vía II), escape mixto con desvíos D4 (vía I) y D2 (vía II). En remodelación para tercer hilo",
+  "velocidad_maxima": "Desvío D2: 160 km/h vía directa / 60 km/h vía desviada. Tren circulaba a 45 km/h (registro jurídico) / 51 km/h (descripción). Serie 130: 250 km/h en AV, 200 km/h en convencional",
+  "ancho": "Ancho mixto (ibérico 1668 mm + estándar 1435 mm). Tercer hilo en implantación",
+  "electrificacion": "Tracción eléctrica bitensión: 3 kV CC y 25 kV CA",
+  "estado_via": "En obras de remodelación (hacer pasante estación de León + tercer hilo a Pajares). D2 con timonerías desmontadas y espadín de ancho estándar sin asegurar desde 19/04/2021. Post-descarrilamiento: ambas vías interceptadas, vía I reabierta a las 20:08, vía II hasta reparación completa del D2",
+  "otro": "Tipología desvíos: DMMI-G-60-500-0,071-CM/CR-D-TC y SEMMDH-G-60-500-0,071-CM/CR-D-TC. 4 motores por desvío (3 para agujas de punta, 1 para agujas conjugadas del corazón obtuso). Traviesa cajón. Bridas tipo C, tipo sándwich, Ibicu tipo A, Ibicu tipo CM 3H B, SEPA PBA. Consignas ATO/CTO 13/20 y ATO/CTO 24/21"
+ },
+ "material_rodante": {
+  "series": "Serie 130 de RENFE (Talgo mecánica + Bombardier eléctrica). Rama 130-034 tipo 250B. Composición M-11R-M: 13 vehículos, 20 ejes, 183 m, 343 t",
+  "averia": "Ninguna. El material rodante no tuvo implicación en el suceso. Ruedas dentro de tolerancias salvo distancia entre caras internas (compresión previa al descarrilamiento)",
+  "mantenimiento": "No se menciona problema de mantenimiento del tren. El tren pasó correctamente por la zona desde el fin de la actuación de 2021 hasta el descarrilamiento"
+ },
+ "clima": "No existían condiciones meteorológicas adversas en la zona en el momento del suceso",
+ "causas": {
+  "directa": "Movimiento incontrolado (intempestivo) del espadín de ancho estándar de la aguja del corazón obtuso del desvío D2, que no se encontraba convenientemente inmovilizado, como consecuencia de las vibraciones producidas por el paso de circulaciones por la zona desde el fin de la actuación de 2021 (19/04/2021) hasta el descarrilamiento (03/05/2021)",
+  "contribuyentes": [
+   "B1: Desmontaje de las timonerías (tirantes de mando y comprobación) e incorrecto embridado del accionamiento del motor 4 del desvío D2 durante la actuación de 2021, que no inmovilizó completamente los barrones permitiendo que el espadín de ancho estándar se pudiera mover hacia su contracarril",
+   "B2: No consideración del desmontaje de las timonerías durante la actuación de 2021 como una modificación de la actuación programada que requería actualización de documentación y evaluación del riesgo",
+   "B3: Falta de análisis del impacto sobre la seguridad derivado de la retirada de las timonerías durante la actuación de 2021 y falta de establecimiento de requisitos de seguridad previos a su implementación",
+   "B4: Falta de documentación actualizada del proyecto y de la evaluación de riesgos de la actuación de 2020 contemplando los nuevos riesgos del desmontaje de timonerías, medidas de control y su registro en REP y RGP",
+   "B5: Falta de formación y experiencia del personal interno y externo de ADIF en la instalación, manejo y mantenimiento de desvíos de ancho mixto"
+  ],
+  "sistemicas": [
+   "C1: Falta de actualización de normativa técnica referida a desvíos mixtos (códigos prácticos no profundizan en tipología de ancho mixto ni en dispositivos de embridado específicos)",
+   "C2: Falta de mecanismos de control efectivos de los riesgos adicionales que puedan surgir durante la ejecución de trabajos y que originalmente no hayan sido considerados por estar relacionados con actuaciones inicialmente no proyectadas"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Desvío D2 dañado (obligó a reparación de urgencia). Dos rodales de coches de viajeros descarrilados. Tren encarrilado y retirado sin daños estructurales significativos en material rodante. Reparación del D2 mediante contrato de emergencia con ROVER RAIL y subcontrata INSTALACIONES ALFAR",
+  "afectacion_servicio": "Ambas vías (I y II) interceptadas de 09:47 a 20:08 (vía I reabierta) y vía II hasta reparación completa del D2. 9 circulaciones afectadas con retraso acumulado de 699 minutos. Viajeros (39 personas + 1 perro) trasladados en autocar a Asturias"
+ },
+ "lecciones": [
+  "El desmontaje de elementos de seguridad (timonerías) para resolver fallos de comprobación debe considerarse una modificación del proyecto que requiere actualización de la evaluación de riesgos y documentación",
+  "La solución adoptada para un problema en un desvío no debe replicarse automáticamente en otro sin verificación completa, especialmente si no está documentada",
+  "Los desvíos de ancho mixto requieren conocimientos específicos de instalación, embridado y mantenimiento que difieren de los desvíos sencillos",
+  "Las bridas tipo C inmovilizan un solo espadín; cuando se retira el tirante de mando, no garantizan la inmovilidad del espadín conjugado (ancho estándar). Se requiere brida tipo sándwich o equivalente que inmovilice ambos barrones",
+  "La falta de documentación de soluciones adoptadas en campo genera riesgo de repetición incorrecta de la solución en actuaciones posteriores",
+  "El embridado de desvíos mixtos no está suficientemente cubierto por la normativa técnica y códigos prácticos vigentes (ET 03.361.120.3 solo aplica a desvíos sencillos)"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer programas y actuaciones que garanticen la formación y experiencia del personal interno y externo de ADIF encargado de la gestión y mantenimiento de elementos de infraestructura complejos o novedosos con carácter previo a su puesta en servicio o en cualquier otro caso previo a la puesta en funcionamiento, especialmente en el caso de desvíos mixtos.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Establecer los mecanismos internos adecuados para garantizar que se aplica el procedimiento ADIF-PE-101-003-010-SC-312 de manera que no se lleve a cabo ninguna actuación cuyo riesgo no haya sido previamente analizado.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Estudiar la conveniencia de establecer en el procedimiento ADIF-PE-101-003-010-SC-312 una actividad específica en la que se documenten y se recojan, en la evaluación de riesgos, los nuevos peligros detectados, para que éstos puedan ser incorporados al registro final de peligros (específico y general), quedando controlados y de manera que quede una referencia para posteriores actuaciones semejantes.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Establecer acreditaciones que garanticen que los responsables técnicos nombrados según el procedimiento ADIF-IT-301-001-007-SC-524 realmente poseen conocimientos y experiencia en las áreas específicas de su responsabilidad.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Estudiar la incorporación de métodos que verifiquen que los requisitos técnicos exigidos en los PCAP y en los PPTP a los contratistas sean asimismo exigidos a los subcontratistas en las áreas de su competencia.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Asegurar la elaboración y actualización de la normativa técnica referida a desvíos de manera que se contemplen los aspectos técnicos de los desvíos de ancho mixto, en particular, en lo relativo a su montaje y mantenimiento, así como a la correcta colocación de los distintos tipos de dispositivos de embridado autorizados por ADIF.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF-AV)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "desvío de ancho mixto",
+  "espadín sin asegurar",
+  "timonerías desmontadas",
+  "fallos de comprobación",
+  "embridado incorrecto",
+  "bifurcación galicia",
+  "león",
+  "alvia 4271",
+  "renfe viajeros",
+  "adif",
+  "evaluación de riesgos",
+  "tercer hilo",
+  "corazón obtuso"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10227 - 221220-210503-IF_CIAF"
+}

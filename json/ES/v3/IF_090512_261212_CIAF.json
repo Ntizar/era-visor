@@ -1,0 +1,151 @@
+{
+ "titulo_normalizado": "Rebase indebido de la señal de salida S1/1L en la estación de Astillero por el tren 6803 de Feve",
+ "idioma_original": "es",
+ "resumen": "El 9 de mayo de 2012, a las 14:22 horas, el tren regional de viajeros 6803 de Feve rebasó indebidamente la señal de salida S1/1L en indicación de parada en la estación de Astillero (Cantabria). El incidente se originó por un incumplimiento de las órdenes dadas por las señales al personal de conducción, tras reconocer erróneamente la señal previa S1/2 y aumentar la velocidad mediante la ocultación del ASFA. No se produjeron víctimas, heridos ni daños materiales, y no hubo conato de colisión. La CIAF propuso recomendaciones dirigidas a Feve sobre formación del personal y posible dotación de baliza previa a la señal S1/1L.",
+ "hechos": "El tren regional de viajeros 6803 de Feve, con origen Santander y destino Bilbao, circulaba con ocho minutos de retraso. Ese día, debido a dicho retraso, se decidió trasladar su cruce con el tren 6414 a la estación de Astillero, cuando normalmente estaba establecido en Heras. El tren se detuvo en la vía 2 de Astillero y, tras terminar las operaciones comerciales y recibir la indicación luminosa de operaciones terminadas, reinició la marcha con itinerario hasta la señal S1/1L, que se encontraba en indicación de parada para permitir establecer el itinerario de entrada del tren 6414 hacia la vía 4L por el escape 2/4.\n\nAl pasar por la señal de salida S1/2, que mostraba aviso de parada en amarillo, el maquinista la reconoció erróneamente como anuncio de precaución en verde-amarillo. A continuación pulsó el botón de ocultación del ASFA, lo que permitió elevar el límite de velocidad de 60 km/h a 80 km/h, velocidad máxima del tipo de tren. El tren alcanzó 65 km/h y, cuando comenzó a ser visible la señal S1/1L a unos 210-211 metros, el maquinista advirtió que estaba en rojo y actuó sobre la seta de urgencia a unos 144 metros de la señal.\n\nPese a la frenada de emergencia, el tren pasó por la baliza de pie de la señal S1/1L a 23 km/h en indicación de parada, activándose también el freno de urgencia del ASFA, y se detuvo 17 metros después de rebasarla. El tren 6414, que circulaba en sentido contrario, aún no había superado la señal avanzada E'2 de entrada a Astillero, por lo que no se produjo conato de colisión. Posteriormente, por orden del CTC de Santander, el tren 6803 retrocedió hasta quedar detenido delante de la señal S1/1L.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Astillero",
+  "pk": "PK 540+075",
+  "linea": "24 Santander - Bilbao",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Estación de Astillero, en el tramo 24 Santander - Basurto, trayecto Astillero - La Cantábrica (apeadero). Zona con enclavamiento electrónico, vía única electrificada, falso túnel y señal de salida S1/1L en PK 540+782."
+ },
+ "cronologia": [
+  {
+   "hora": "2012-05-09T14:21:10",
+   "evento": "El tren 6803 se detiene en la estación de Astillero."
+  },
+  {
+   "hora": "2012-05-09T14:21:48",
+   "evento": "El tren 6803 reinicia la marcha tras terminar las operaciones comerciales."
+  },
+  {
+   "hora": "2012-05-09T14:22:03",
+   "evento": "El tren pasa por la baliza de la señal de salida S1/2, en aviso de parada, reconocida erróneamente por el maquinista como anuncio de precaución."
+  },
+  {
+   "hora": "2012-05-09T14:22:31",
+   "evento": "El tren alcanza 65 km/h y comienza a ser visible la señal S1/1L a unos 211 metros."
+  },
+  {
+   "hora": "2012-05-09T14:22:35",
+   "evento": "El maquinista actúa sobre la seta de emergencia cuando circulaba a 64 km/h y a unos 144 metros de la señal S1/1L."
+  },
+  {
+   "hora": "2012-05-09T14:22:47",
+   "evento": "El tren pasa por la baliza de pie de la señal S1/1L a 23 km/h en indicación de parada; se activa el freno de urgencia del ASFA."
+  },
+  {
+   "hora": "2012-05-09T14:22:53",
+   "evento": "El tren queda detenido tras rebasar la señal S1/1L en 17 metros."
+  },
+  {
+   "hora": "2012-05-09T14:24:54",
+   "evento": "El tren 6803 inicia movimiento de retroceso por orden del CTC."
+  },
+  {
+   "hora": "2012-05-09T14:25:03",
+   "evento": "El tren queda detenido delante de la señal S1/1L tras el retroceso."
+  },
+  {
+   "hora": "2012-05-09T15:19:00",
+   "evento": "El director gerente de gestión de capacidad y seguridad en la circulación de Feve comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "2012-05-11T00:00:00",
+   "evento": "El maquinista del tren 6803 realiza su declaración escrita en Santander."
+  },
+  {
+   "hora": "2012-05-29T00:00:00",
+   "evento": "El Pleno de la CIAF acuerda abrir la investigación del suceso."
+  },
+  {
+   "hora": "2012-08-07T00:00:00",
+   "evento": "El director gerente de gestión de capacidad y seguridad en la circulación de Feve entrega su informe particular."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6803",
+   "tipo": "tren regional de viajeros",
+   "operador": "Feve",
+   "danos": "sin daños"
+  },
+  {
+   "numero": "6414",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 6803",
+   "implicacion": "Reconoció erróneamente la señal S1/2 como anuncio de precaución, pulsó la ocultación del ASFA, aumentó la velocidad y no se detuvo ante la señal S1/1L en indicación de parada, incumpliendo las órdenes dadas por las señales."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/1L alta de tres focos, con baliza ASFA de pie de señal pero sin baliza previa; visibilidad de unos 210 metros en el sentido de la marcha. La señal S1/2 mostraba aviso de parada y la S1/1L indicación de parada.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "funcionó correctamente",
+  "otro": "Estación con enclavamiento electrónico, bloqueo automático BAU, control de tráfico centralizado CTC en Santander y mando local. Existe un falso túnel próximo a la señal S1/1L."
+ },
+ "material_rodante": {
+  "series": "material tipo 2700; unidad tren diésel-hidráulica con cabinas y motores Mc 2714 y Mc 2713",
+  "averia": null,
+  "mantenimiento": "funcionó correctamente"
+ },
+ "clima": "condiciones atmosféricas buenas",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S1/1L en indicación de parada por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "El maquinista reconoció erróneamente la señal S1/2, en aviso de parada, como anuncio de precaución.",
+   "El maquinista pulsó el botón de ocultación del ASFA y aumentó el límite de velocidad a 80 km/h.",
+   "El retraso del tren 6803 motivó el cambio del cruce habitual con el tren 6414 desde Heras a Astillero.",
+   "La señal S1/1L carecía de baliza previa.",
+   "La visibilidad de la señal S1/1L era limitada, de unos 210 metros, y el trazado incluía un falso túnel."
+  ],
+  "sistemicas": [
+   "Necesidad de incidir en la formación del personal de conducción sobre actitudes y comportamientos fuente de riesgos para la circulación.",
+   "Posible deficiencia de protección señalística por ausencia de baliza previa en la señal S1/1L."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños en infraestructura ni en material rodante.",
+  "afectacion_servicio": "No se produjeron interceptaciones de vía ni retrasos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y del Reglamento de Señales de Feve.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Estudiar la posibilidad de dotar a la señal S1/1L de baliza previa.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "señal en rojo",
+  "asfa digital",
+  "ocultación de asfa",
+  "error de conducción",
+  "estación de astillero",
+  "feve",
+  "línea santander-bilbao",
+  "tren 6803",
+  "sin daños",
+  "sin víctimas",
+  "baliza previa"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_090512_261212_CIAF"
+}

@@ -1,0 +1,169 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo detenido en paso a nivel clase A (PK 90+594) entre Erustes y Torrijos, Santo Domingo-Caudilla (Toledo), con una persona fallecida por deficiente señalización viaria",
+ "idioma_original": "es",
+ "resumen": "El 13 de febrero de 2017 a las 22:10, el tren de media distancia 17025 de Renfe Viajeros, procedente de Badajoz con destino Madrid Atocha, arrolló un turismo plateado detenido y sin luces en la zona central del paso a nivel clase A del PK 90+594, entre las estaciones de Erustes y Torrijos (Toledo). El vehículo invadía el gálibo de libre paso de la vía y permaneció inmóvil hasta el impacto. Se halló una persona fallecida fuera de la caja de la vía, a unos 350 metros del paso a nivel, presuntamente como consecuencia del accidente. La investigación concluyó que el paso a nivel carecía de la señalización fija vertical completa en el camino, incumpliendo el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, siendo los ayuntamientos titulares de los caminos responsables de dicha señalización.",
+ "hechos": "Los hechos tuvieron lugar el día 13 de febrero de 2017 a las 22:10 horas en el paso a nivel clase A existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, entre las estaciones de Erustes (PK 103+355) y Torrijos (PK 85+425), en el término municipal de Santo Domingo-Caudilla, provincia de Toledo. El tren de viajeros 17025 de Renfe Viajeros, procedente de Badajoz con destino Madrid Atocha, tras parar en el apeadero de Erustes reinició su marcha, alcanzando puntualmente 164 km/h y reduciendo progresivamente hasta 142 km/h. A las 22:10:12, a 234 metros del paso a nivel, el maquinista accionó el silbato y la máxima demanda de freno. A continuación, el tren arrolló un vehículo de carretera plateado que estaba parado sin luces en la zona central del paso a nivel, orientado de derecha a izquierda según el sentido de marcha del tren. A las 22:10:18, con el tren a 122 km/h, se produjo la rotura de la tubería de freno por el impacto. El tren quedó detenido a las 22:10:59 en el PK 89+865, tras recorrer 729 metros desde el arrollamiento.\n\nEl maquinista comunicó el suceso al PM de Manzanares, bajó a reconocer el tren y el vehículo (vacío), y al recorrer la vía hacia atrás encontró el cadáver de una persona a unos 350 metros del paso a nivel. La vía quedó interceptada desde las 21:55 hasta las 04:40 del día siguiente (405 minutos). El tren 17025 sufrió un retraso de 328 minutos y fue suprimido; el tren 17706 fue suprimido en origen. Los 31 viajeros fueron evacuados por carretera en autocar desde Torrijos.\n\nLa investigación determinó que el accidente tuvo su origen en la invasión del gálibo de libre paso por el vehículo detenido. Como causa subyacente se identificó la ausencia de señalización fija vertical completa en el camino (falta de señales R2, R301, R305, P15, P9a/b/c, P10a/b/c en ambos lados), incumpliendo el artículo 9.2 de la Orden FOM de 2 de agosto de 2001. Como causa raíz se señaló la responsabilidad municipal sobre la señalización de caminos, agravada por limitaciones presupuestarias y falta de sensibilidad sobre el riesgo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "90+594",
+  "linea": "500 Bifurcación Planetario a Valencia de Alcántara",
+  "provincia": "Toledo",
+  "descripcion_lugar": "Paso a nivel clase A (señalización fija exclusivamente) en tramo entre las estaciones de Erustes (PK 103+355) y Torrijos (PK 85+425), término municipal de Santo Domingo-Caudilla. Camino de uso público de titularidad municipal, trazado ortogonal, firme de tierras bien compactadas a ambos lados, traviesas de madera en buen estado entre carriles con contracarriles. Alineación recta, traviesas monobloque de hormigón. Cartelones de silbato a 500 m a cada lado (511 m lado Torrijos, 516 m lado Erustes)."
+ },
+ "cronologia": [
+  {
+   "hora": "22:03:31",
+   "evento": "El tren 17025 inicia la marcha en la parada anterior (apeadero de Erustes)"
+  },
+  {
+   "hora": "22:10:12",
+   "evento": "El tren circula a 142 km/h a 234 m del paso a nivel; el maquinista acciona el silbato y aplica máxima demanda de freno (100%)"
+  },
+  {
+   "hora": "22:10:18",
+   "evento": "Arrollamiento del vehículo parado en la zona central del paso a nivel; el tren circula a 122 km/h; la presión de la tubería de freno (TFA) desciende a 0,00 bar por rotura de la tubería"
+  },
+  {
+   "hora": "22:10:59",
+   "evento": "Detención total del tren en el PK 89+865, tras recorrer 729 m desde el impacto"
+  },
+  {
+   "hora": "22:16:39",
+   "evento": "El maquinista contacta con el PM de Manzanares y comunica el suceso"
+  },
+  {
+   "hora": "22:32",
+   "evento": "El PM de Manzanares informa al CPS de Madrid: arrollamiento de vehículo, tren detenido en Km 89+900, sin heridos en el tren, vehículo vacío"
+  },
+  {
+   "hora": "22:50",
+   "evento": "El PM informa al CPS que el maquinista ha encontrado una persona posiblemente fallecida en el Km 90+300; se baraja presunto suicidio (luces apagadas, vehículo estacionado en caja de vía)"
+  },
+  {
+   "hora": "22:33:40",
+   "evento": "Segunda conversación del maquinista con el PM: informa del cadáver, describe el coche gris parado con una rueda en cada carril, luces apagadas, sin movimiento interior"
+  },
+  {
+   "hora": "00:53",
+   "evento": "Sale de Torrijos el automotor 599009 como tren S2 para evacuar los viajeros del 17025"
+  },
+  {
+   "hora": "01:27",
+   "evento": "El tren S2 regresa a Torrijos; transbordo por carretera de los 31 viajeros en autocar"
+  },
+  {
+   "hora": "03:30",
+   "evento": "El tren 17025 reanuda su marcha"
+  },
+  {
+   "hora": "03:42",
+   "evento": "El tren 17025 queda apartado en la estación de Torrijos y suprimido"
+  },
+  {
+   "hora": "04:40",
+   "evento": "La vía queda expedita sin ninguna limitación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17025",
+   "tipo": "Media distancia (viajeros)",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en freno, choque, tracción, engrase de pestaña, areneros y otros. Valoración: 210.000 euros. Rotura de tubería de freno. Retraso 328 min, suprimido."
+  },
+  {
+   "numero": "17706",
+   "tipo": "Viajeros",
+   "operador": "Renfe Viajeros",
+   "danos": "Suprimido en origen"
+  },
+  {
+   "numero": "S2 (automotor 599009)",
+   "tipo": "Servicio de evacuación",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 17025 (matrícula 9713637)",
+   "implicacion": "Condujo el tren; observó el vehículo parado sin luces a 234 m del paso a nivel; accionó silbato y freno de emergencia; comunicó el suceso; reconoció el tren y encontró el cadáver. Título B de conducción, antigüedad desde 14.07.1983, último reciclaje 24.11.2014, último reconocimiento médico 18.08.2016. Pruebas de alcohol y drogas negativas. Incumplió la orden de uso del silbato en el cartelón (lo usó 250 m tras rebasarlo), aunque sin influencia directa en las causas."
+  },
+  {
+   "rol": "Interventor del tren 17025",
+   "implicacion": "Iba a bordo; sin lesiones"
+  },
+  {
+   "rol": "Viajeros del tren 17025 (31 personas)",
+   "implicacion": "Ninguno resultó lesionado; evacuados por carretera"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Protección clase A (señales fijas exclusivamente, art. 8 Orden FOM 2/8/2001). Señalización de vía correcta (cartelones de silbato a 500 m). Señalización del camino DEFICIENTE: lado derecho solo P8 y P11 (faltan R2, R301, R305, P15, P9a/b/c, P10a/b/c); lado izquierdo R2, P8 y P11 (faltan R301, R305, P15, P9a/b/c, P10a/b/c). Incumplimiento art. 9.2 Orden FOM 2/8/2001.",
+  "tipo_via": "Vía única, ancho convencional, alineación recta, traviesas monobloque de hormigón",
+  "velocidad_maxima": "155 km/h (cuadro de velocidades máximas en el punto del accidente); libro horario del tren: 160 km/h (tipo 160A)",
+  "ancho": "Convencional (1668 mm)",
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Correcto; circulación al amparo de bloqueo telefónico. No existían limitaciones temporales de velocidad ni obras en el lugar o cercanías.",
+  "otro": "Radiotelefonía modalidad C. Visibilidad real 900-1200 m (muy superior a la técnica de 459 m). Momento de circulación A x T = 90 (5 vehículos x 18 trenes/día). Inspección Adif 28/02/2012. Visitas anuales de mantenimiento Adif 2012-2018 confirman deficiencias señalización viaria comunicadas al Ayuntamiento."
+ },
+ "material_rodante": {
+  "series": "Automotor 967195990275, tipo 160A, 3 vehículos, longitud 76 m, 172 toneladas",
+  "averia": "Rotura de tubería de freno por impacto con vehículo; daños en freno, choque, tracción, engrase de pestaña, areneros y otros",
+  "mantenimiento": "Equipos de seguridad (freno, registrador de seguridad) funcionaron correctamente"
+ },
+ "clima": "Noche; no existían condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Invasión del gálibo de libre paso de la vía por un vehículo de carretera detenido y sin luces en la zona central del paso a nivel, que permaneció allí hasta ser arrollado por el tren.",
+  "contribuyentes": [
+   "El paso a nivel no disponía de toda la señalización fija vertical en el camino, incumpliendo el artículo 9.2 de la Orden FOM de 2 de agosto de 2001 (faltaban señales R2, R301, R305, P15, P9a/b/c, P10a/b/c en ambos lados).",
+   "Posible incremento de la IMD actual (7 vehículos en 3 h) respecto a la considerada (A=5) para el cálculo del momento de circulación, aunque no justifica cambio de clase de protección.",
+   "El vehículo estaba parado con una rueda en cada carril, luces apagadas, sin movimiento interior, orientado de derecha a izquierda según el sentido del tren."
+  ],
+  "sistemicas": [
+   "Los ayuntamientos son titulares de los caminos y responsables de su señalización; la limitación de recursos económicos y una falta de sensibilidad sobre el riesgo hacen que el deterioro y mal estado permanezcan a lo largo del tiempo.",
+   "El procedimiento de inspección de pasos a nivel de Adif (SGSC/IPN-20, revisión 01/01/2009) eliminó la necesidad de inspeccionar la señalización en carretera o camino, trasladando la responsabilidad a un ámbito externo al administrador de infraestructura.",
+   "Existencia de múltiples sucesos similares (12 notificados entre 2015 y 2017) en pasos a nivel clase A con señalización viaria deficiente, de los cuales solo este se investigó por la CIAF."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 210.000 euros (freno, choque, tracción, engrase de pestaña, areneros y otros). Infraestructura: escasamente dañada una baliza de señal y un contador de ejes. Vehículo de carretera: partido en dos trozos en los márgenes de la vía.",
+  "afectacion_servicio": "Vía interceptada 405 minutos (21:55 a 04:40). Tren 17025: retraso 328 min, suprimido. Tren 17706: suprimido en origen. 31 viajeros transbordados por carretera en autocar desde Torrijos."
+ },
+ "lecciones": [
+  "La señalización viaria deficiente en pasos a nivel de clase A es un problema sistémico recurrente, con múltiples sucesos similares notificados (12 entre 2015-2017).",
+  "La responsabilidad de la señalización de caminos recae en los ayuntamientos titulares, pero sus limitaciones presupuestarias impiden el cumplimiento normativo.",
+  "El procedimiento de inspección de Adif excluyó la verificación de señalización en carretera/camino desde 2009, creando un vacío de supervisión.",
+  "La visibilidad del paso a nivel era muy superior a la técnica (900-1200 m vs 459 m), por lo que la deficiencia no era de visibilidad sino de señalización."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adecuar la señalización del camino de acceso al paso a nivel existente en el PK 90+594 de la línea 500 Bifurcación Planetario a Valencia de Alcántara, a lo dispuesto en el artículo 9.2 de la Orden FOM de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Ayuntamiento de Santo Domingo-Caudilla"
+  },
+  {
+   "texto": "Promover una actuación institucional que permita, mediante la participación de Diputaciones Provinciales, Comunidades Autónomas o bien la Administración Central, habilitar recursos para la mejora de los pasos a nivel de titularidad municipal en lo relativo al estado de los caminos de acceso a éstos y su conservación.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  }
+ ],
+ "tags": [
+  "paso_a_nivel",
+  "clase_a",
+  "arrollamiento",
+  "vehiculo_detenido",
+  "senalizacion_deficiente",
+  "gobierno_local",
+  "orden_fom_2001",
+  "media_distancia",
+  "renfe_viajeros",
+  "toledo",
+  "linea_500",
+  "invasion_galibo"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 13.02.2017 180424-170213-IF-SN-CIAF "
+}

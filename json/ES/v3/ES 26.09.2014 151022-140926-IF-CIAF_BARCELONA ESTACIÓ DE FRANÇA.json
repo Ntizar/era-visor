@@ -1,0 +1,171 @@
+{
+ "titulo_normalizado": "Conato de colisión en Barcelona Estació de França por rebase indebido de señal en parada por maniobra de material vacío",
+ "idioma_original": "es",
+ "resumen": "El 26 de septiembre de 2014 a las 16:46 horas, en Barcelona Estació de França (línea 200), se produjo un conato de colisión entre el material vacío (maniobra UT470120) y el tren de viajeros 25538, ambos de Renfe Operadora (Rodalies). El material vacío rebasó indebidamente la señal de salida S1/14 en indicación de parada, al percibir erróneamente su indicación como 'rebase autorizado' debido al deslumbramiento solar sobre los focos de la señal. No hubo heridos ni daños en material rodante, aunque el talonamiento del cambio T52b causó daños por 5.554 euros y afectó la circulación durante 5 horas y 34 minutos.",
+ "hechos": "El tren de cercanías 25538 de Renfe Operadora (Rodalies), procedente de Sant Vicenç de Calders, entraba a vía 8 de Barcelona Estació de França a las 16:45:33 horas con itinerario establecido desde la señal de entrada E4 (vía G2) a vía G3. Simultáneamente, el material vacío (maniobra UT470120) estaba estacionado en vía 14 con la señal de salida S1/14 en indicación de parada, esperando maniobrar a vía C1 y posteriormente a vía 17.\n\nA las 16:46:12 horas, el material vacío inició un nuevo movimiento. Su maquinista, al percibir erróneamente que la señal S1/14 presentaba indicación de 'rebase autorizado' (cuando en realidad indicaba parada), actuó sobre el botón de rebase autorizado y pasó la señal. La cola del material vacío rebasó la señal a las 16:46:28 horas, momento en que el tren 25538 ya había superado la señal R4 y los desvíos 2 y 12, circulando por vía G3 hacia la que también se encaminaba el material vacío.\n\nEl maquinista del tren 25538 observó un vehículo que podía interferir el gálibo de su itinerario y efectuó frenado de urgencia. El material vacío, tras talonar el cambio T-52b con el primer bogie, se detuvo a las 16:46:52 horas ante la señal S1/14A en indicación de parada. Se produjo conato de colisión quedando los trenes a unos 80 metros de distancia. No hubo heridos ni daños materiales en el material rodante.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Barcelona Estació de França",
+  "pk": "685+128",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Señal de salida S1/14 (PK 685+128), vía 14, tramo Bif. Clot – Barcelona Estació de França. Estación terminal de trenes de viajeros, final de la línea 200, con 3 vías de acceso, bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC)."
+ },
+ "cronologia": [
+  {
+   "hora": "16:43:05",
+   "evento": "Conversación entre maquinista de maniobras y jefe de circulación: 'Saliendo maniobra de vía 14' / 'Muy bien'"
+  },
+  {
+   "hora": "16:44:27",
+   "evento": "Jefe de circulación comunica al tren 25538 una ocupación de circuito; el material vacío está ante señal S1/14A cerrada; se le ordena retroceder a topera"
+  },
+  {
+   "hora": "16:45:33",
+   "evento": "Tren 25538 establece itinerario a vía 8; señal E4 en anuncio de parada, R4 en movimiento autorizado; material vacío en vía 14 ocupando CV14, señal S1/14 en parada"
+  },
+  {
+   "hora": "16:45:43",
+   "evento": "Tren 25538 rebasa señal E4 y se aproxima a R4; material vacío sigue ocupando CV14 con S1/14 en parada"
+  },
+  {
+   "hora": "16:45:48",
+   "evento": "Conversación: maquinista del 25538 advierte al de maniobras 'No tires para atrás que vas al suelo'; jefe de circulación pregunta si ha rebasado S1/14; maquinista responde 'No'"
+  },
+  {
+   "hora": "16:46:04",
+   "evento": "Material vacío se detiene ante señal S1/14 que ordena parada"
+  },
+  {
+   "hora": "16:46:12",
+   "evento": "Material vacío inicia nuevo movimiento; maquinista actúa sobre rebase autorizado percibiendo erróneamente la señal"
+  },
+  {
+   "hora": "16:46:28",
+   "evento": "Cola del material vacío pasa por señal S1/14; libera CV14; ocupa circuitos de cambios T-52a/b, 58 y 66; tren 25538 supera R4, desvíos 2 y 12, circula por vía G3"
+  },
+  {
+   "hora": "16:46:52",
+   "evento": "Material vacío se detiene ante señal S1/14A en parada, tras talonar el cambio T52b con primer bogie; conato de colisión a unos 80 metros"
+  },
+  {
+   "hora": "16:47",
+   "evento": "Maquinista del tren 25538 comunica lo sucedido al jefe de circulación"
+  },
+  {
+   "hora": "16:47:31",
+   "evento": "Jefe de circulación informa al jefe del CTC; se ordena no mover ningún tren"
+  },
+  {
+   "hora": "16:48:22",
+   "evento": "Material vacío inicia movimiento de retroceso a vía 14"
+  },
+  {
+   "hora": "17:39",
+   "evento": "Jefe de investigación de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "19:02",
+   "evento": "Finaliza maniobra de apartamiento del tren 25538 a vía 16"
+  },
+  {
+   "hora": "19:05",
+   "evento": "Vía 7 queda operativa"
+  },
+  {
+   "hora": "20:30",
+   "evento": "Cambio T52b queda embridado a posición normal; acceso a vías 8, 9 y 10 restablecido"
+  },
+  {
+   "hora": "23:20",
+   "evento": "Finalizan trabajos de reparación del cambio T52b; se restablece la normalidad en la estación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "UT470120",
+   "tipo": "material vacío / maniobra",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en material rodante"
+  },
+  {
+   "numero": "25538",
+   "tipo": "tren de cercanías (Rodalies), doble composición, automotores eléctricos 451011 y 451006, tipo 140, 6 vehículos, 482 t, 161 m",
+   "operador": "Renfe Operadora (Rodalies)",
+   "danos": "No se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de circulación (jefe de circulación), matrícula 2837854, Adif",
+   "implicacion": "No dio orden explícita de rebase; comunicación previa con falta de claridad; ordenó retroceso sin comprobar estado de cambios (incumplimiento art. 475 RGC)"
+  },
+  {
+   "rol": "Maquinista del material vacío (maniobra UT470120), matrícula 8875494, Renfe Operadora",
+   "implicacion": "Fallo humano: percibió erróneamente la señal S1/14 en 'rebase autorizado' cuando indicaba parada; actuó sobre rebase autorizado y rebasó la señal; incumplió arts. 217.1 y 218.1 RGC; aceptó retroceso sin comprobación (art. 475 RGC)"
+  },
+  {
+   "rol": "Maquinista del tren 25538, matrícula 9690405, Renfe Operadora",
+   "implicacion": "Efectuó frenado de urgencia al observar vehículo que interfería gálibo; detuvo el tren a unos 80 metros del material vacío; no tuvo responsabilidad en el incidente"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/14 (PK 685+128): señal baja con cuatro focos, con baliza de señal pero sin previa, situada a 247 m de la topera de vía 14. Cuando incide la radiación solar sobre sus focos (en particular el blanco) parece que están encendidos. Señal S1/14A (PK 685+002). Señal de entrada E4 (PK 684+319). Señal R4 (PK 684+707).",
+  "tipo_via": "Vía doble banalizada con bloqueo automático (BAB) y control de tráfico centralizado (CTC). Estación terminal con vías finalizadas en topera (3 a 19) y vías 'C' (C1 a C5).",
+  "velocidad_maxima": "50 km/h en el sentido de la marcha al paso por el lugar del suceso (Cuadro de Velocidades Máximas)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Las instalaciones técnicas funcionaron correctamente. El itinerario a recorrer por el tren 25538 estaba correctamente establecido. La señal S1/14 presentó en todo momento la indicación de parada.",
+  "otro": "Desvíos implicados: T-52a (PK 685+024) y T-52b (PK 685+000), enclavados a posición normal. Cambio 34 (PK 684+893). Cambio 58 (PK 685+037). Cambio 66 (PK 685+096). Cambios 2 y 12 enclavados a posición invertida para itinerario del tren 25538. Radiotelefonía en modalidad C. No existían obras en el lugar ni en proximidades."
+ },
+ "material_rodante": {
+  "series": "Material vacío UT470120: 3 vehículos, 156 t, 80 m. Tren 25538: automotores eléctricos 451011 y 451006, doble composición, tipo 140 (vmax 140 km/h), 6 vehículos, 482 t, 161 m.",
+  "averia": "No se detectaron anomalías en frenos, radiotelefonía ni dispositivos de seguridad de ninguno de los trenes. El registrador de seguridad del material vacío funcionó correctamente. Se detectó un desfase horario de unos 47 segundos de adelanto del registrador respecto a la moviola del puesto de mando.",
+  "mantenimiento": null
+ },
+ "clima": "Día soleado. En el momento del suceso era de día y las condiciones meteorológicas eran de tiempo soleado. La radiación solar incidiendo sobre los focos de la señal S1/14 (en particular el blanco) hacía parecer que estaban encendidos, lo que pudo contribuir a la percepción errónea de 'rebase autorizado'.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del material vacío (maniobra UT470120): error en la percepción de la indicación de la señal S1/14 (que en todo momento indicó parada, pero el maquinista manifiesta verla en 'rebase autorizado'), dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario (arts. 217.1 y 218.1 RGC).",
+  "contribuyentes": [
+   "Falta de claridad y mal entendimiento entre el responsable de circulación y el maquinista del material vacío en la comunicación previa (radiotelefonía).",
+   "Deslumbramiento solar sobre los focos de la señal S1/14 (en particular el blanco), que hacía parecer que estaban encendidos, dificultando la correcta percepción de su indicación.",
+   "Actuación incorrecta posterior al rebase: el responsable de circulación ordenó retroceso sin comprobar el estado de los cambios y el maquinista accedió (incumplimiento art. 475 RGC)."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: sin daños. Infraestructura: talonamiento del cambio T52b con daños en vía y en instalaciones de seguridad mecánicas; importe total 5.554 euros (según Adif).",
+  "afectacion_servicio": "Circulación afectada durante 5 horas y 34 minutos (16:46 a 23:20). Capacidad de la estación reducida a vías 3, 4, 5, 6, 15 y 16. Afectados: 6 trenes de alta velocidad (retraso total 115 min, 1 suprimido), 1 tren de mercancías (20 min), 12 trenes de media distancia (265 min), 17 trenes de cercanías (122 min), tren 25538 (27 min)."
+ },
+ "lecciones": [
+  "La radiación solar puede hacer parecer que los focos de una señal están encendidos cuando no lo están, generando percepciones erróneas de 'rebase autorizado' en señales de parada.",
+  "La falta de claridad en las comunicaciones por radiotelefonía entre responsable de circulación y maquinista puede contribuir a errores de interpretación.",
+  "Tras un rebase de señal, no debe ordenarse retroceso sin haber comprobado previamente el estado de los cambios (art. 475 RGC).",
+  "El uso del botón de 'rebase autorizado' requiere verificación fehaciente de la indicación real de la señal, especialmente en condiciones de deslumbramiento."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas en este suceso, se recomienda que se analice conjuntamente por Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento), adoptando las medidas necesarias.",
+   "destinatario": "AESF"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "señal en parada",
+  "deslumbramiento solar",
+  "percepción errónea",
+  "maniobra material vacío",
+  "Barcelona Estació de França",
+  "Rodalies",
+  "renfe operadora",
+  "fallo humano",
+  "comunicación radiotelefonía",
+  "talonamiento cambio"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA"
+}

@@ -1,0 +1,109 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona no autorizada a la salida de La Encina (línea 300, Alicante)",
+ "idioma_original": "es",
+ "resumen": "El 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros de larga distancia 1415 de Renfe Operadora arrolló a una persona en el P.K. 375,740 de la línea 300, a la salida de la estación de La Encina, en la provincia de Alicante. La víctima era un varón de 83 años que transitaba por la vía sin autorización, según el informe mientras recogía higos. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto; el tren circulaba a 156 km/h cuando la velocidad máxima era de 160 km/h. La víctima falleció en el acto y no hubo daños materiales, aunque se produjeron afectaciones al tráfico y 152 minutos de retraso acumulado.",
+ "hechos": "El 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros de larga distancia 1415 de Renfe Operadora, compuesto por el automotor 490002, 3 coches y 172 toneladas de masa remolcada, arrolló a una persona que transitaba por la vía 1 en el P.K. 375,740, a la salida de la estación de La Encina, en el lado de Almansa y a la altura de la señal M-2, en la línea 300 Madrid-Chamartín-Valencia-Estación Nord. El maquinista, al percatarse de la presencia de la víctima, hizo uso del silbato y accionó el freno de emergencia, sin poder evitar el arrollamiento; el cadáver quedó fuera de la vía y fue localizado a unos 1.200 metros del tren. Según el informe, la víctima era un varón de 83 años que usaba bastón y transitaba por las inmediaciones de la vía recogiendo higos, en una zona descampada, poco frecuentada y sin vallar, con un camino paralelo desde el que cruzó hacia una higuera situada en el terraplén. El maquinista comunicó el suceso al Puesto de Mando de la estación de Valencia, que notificó a los servicios y operadores afectados; la Guardia Civil se personó a las 12:29 horas y custodió el cadáver hasta las 15:20 horas, cuando el juez ordenó el levantamiento. Se prescribió marcha a la vista por ambas vías durante el periodo de tres horas, resultaron afectados 9 trenes y se acumularon 152 minutos de retraso; según la declaración del maquinista, el tren reanudó la marcha sobre las 13:50 horas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "La Encina",
+  "pk": "375,740",
+  "linea": "300 Madrid-Chamartín-Valencia-Estación Nord",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Salida de la estación de La Encina, lado Almansa, a la altura de la señal M-2; zona descampada, poco frecuentada y sin vallar, con camino paralelo a la vía y higuera en el terraplén."
+ },
+ "cronologia": [
+  {
+   "hora": "12:19",
+   "evento": "El tren 1415 arrolla a una persona en el P.K. 375,740, a la salida de La Encina."
+  },
+  {
+   "hora": "12:29",
+   "evento": "La Guardia Civil se persona en el lugar del accidente."
+  },
+  {
+   "hora": "13:26",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "13:50",
+   "evento": "Según la declaración del maquinista, el tren reanuda la marcha."
+  },
+  {
+   "hora": "15:20",
+   "evento": "El juez ordena el levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1415",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No hubo daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 1415",
+   "implicacion": "Matrícula 9732116; habilitado conforme a la OM 2520/2006; prueba de alcoholemia negativa (0,00 mg/1000 ml); usó silbato y freno de emergencia; actuación correcta."
+  },
+  {
+   "rol": "Persona no autorizada (víctima)",
+   "implicacion": "Varón de 83 años que usaba bastón y transitaba por la vía recogiendo higos; falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal M-2; señal de salida de La Encina.",
+  "tipo_via": "Vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Instalaciones técnicas funcionaron correctamente; zona sin vallar.",
+  "otro": "Radiotelefonía modalidad C; camino paralelo a la vía; higuera en el terraplén."
+ },
+ "material_rodante": {
+  "series": "Automotor 490002, 3 coches, masa remolcada 172 Tn, Nº UIC 967194900023",
+  "averia": "No hubo daños; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+  "contribuyentes": [
+   "Zona sin vallar.",
+   "Acceso desde un camino paralelo a la vía hacia una higuera situada en el terraplén.",
+   "Avanzada edad de la víctima.",
+   "Distracción de la víctima por recoger higos."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No hubo daños en el material rodante, en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "9 trenes afectados: 7 de Larga Distancia, 1 de Media Distancia y 1 de Mercancías; 152 minutos de retraso total; marcha a la vista por ambas vías durante 3 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+   "destinatario": "autoridad competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "acceso no autorizado",
+  "la encina",
+  "línea 300",
+  "renfe operadora",
+  "automotor 490002",
+  "vallado",
+  "freno de emergencia",
+  "víctima mortal",
+  "recogida de higos",
+  "sin autorización"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-131008-240209-CIAF"
+}

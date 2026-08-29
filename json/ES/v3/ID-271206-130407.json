@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en paso a nivel de clase C entre Villafría y Burgos, línea Madrid-Hendaya",
+ "idioma_original": "es",
+ "resumen": "El 27 de diciembre de 2006 a las 19:19, el tren de Media Distancia nº 8014 de RENFE arrolló a un varón de 46 años en el paso a nivel de clase C del PK 371,068 de la línea 100 Madrid-Hendaya, entre las estaciones de Villafría y Burgos (provincia de Burgos). La víctima cruzó las vías con las semibarreras abatidas y los sistemas de sonería y luces activos. No se produjeron daños materiales. La investigación concluyó que la causa fue la invasión indebida de la vía por parte del peatón. No se emitieron recomendaciones por estar en construcción la variante ferroviaria de Burgos.",
+ "hechos": "El tren de viajeros de Media Distancia nº 8014 de RENFE, compuesto por la unidad de tracción 470110 con 3 vehículos y masa remolcada de 174 toneladas, circulaba entre las estaciones de Villafría y Burgos por la línea 100 Madrid-Hendaya. A las 19:17:08 (hora corregida), el paso a nivel de clase C del PK 371,068 reconoció la presencia del tren al paso por el pedal direccional del PK 374,325. Un segundo después se activaron los sistemas de sonería y luces, y a los 7 segundos comenzaron a abatirse las semibarreras, quedando totalmente abatidas a las 19:17:25.\n\nLa víctima, un varón de 46 años, se dispuso a cruzar el paso a nivel desde la margen izquierda a la derecha (sentido kilometración) sin percatarse de la llegada del tren, que circulaba a 52 km/h (velocidad máxima permitida: 130 km/h). El maquinista hizo uso reiterado del silbato y tiró de la urgencia, pero el arrollamiento fue inevitable. La persona no aceleró su paso en ningún momento para eludir el arrollamiento.\n\nEl maquinista informó del suceso al Puesto de Mando de Miranda de Ebro, que cursó aviso a los organismos de seguridad y emergencias. La Policía se personó a las 19:40 y autorizó la reanudación de la marcha del tren a las 20:05. Los servicios sanitarios levantaron el cadáver a las 20:30. La incidencia tuvo una duración de 71 minutos.",
+ "lugar": {
+  "tipo": "paso_a_nivel",
+  "estacion": "Entre Villafría y Burgos",
+  "pk": "371,068",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Burgos",
+  "descripcion_lugar": "Paso a nivel de clase C situado en el núcleo urbano de Burgos, en trayecto BEM, en curva de transición con radio de 1100 m y pendiente de 5,69 milésimas, vía doble. Dotado de semibarreras, señalización luminosa intermitente para vehículos y dos señales acústicas y luminosas para peatones. Tráfico separado para vehículos y peatones. Momento de circulación: 174.256 vehículos/día. Concatenado con el paso a nivel del PK 372,235. Carece de paso inferior peatonal y de burladero de acceso."
+ },
+ "cronologia": [
+  {
+   "hora": "2006-12-27T19:17:08",
+   "evento": "El paso a nivel reconoce la presencia del tren al paso por el pedal direccional del PK 374,325"
+  },
+  {
+   "hora": "2006-12-27T19:17:09",
+   "evento": "Se activan los sistemas de sonería y luces para tráfico carretero y peatonal; el tren circula por el PK 374,292"
+  },
+  {
+   "hora": "2006-12-27T19:17:15",
+   "evento": "Inicia el abatimiento de las semibarreras; el tren circula por el PK 374,093"
+  },
+  {
+   "hora": "2006-12-27T19:17:25",
+   "evento": "Semibarreras totalmente abatidas; el tren circula por el PK 373,869; la señal del paso (PK 373,825) indica protegido"
+  },
+  {
+   "hora": "2006-12-27T19:19",
+   "evento": "Arrollamiento de la persona en el paso a nivel del PK 371,068; el tren circulaba a 52 km/h"
+  },
+  {
+   "hora": "2006-12-27T19:40",
+   "evento": "La Policía se personó en el lugar de los hechos"
+  },
+  {
+   "hora": "2006-12-27T20:05",
+   "evento": "La Policía autoriza al tren 8014 a reanudar su marcha"
+  },
+  {
+   "hora": "2006-12-27T20:30",
+   "evento": "Los servicios sanitarios proceden al levantamiento del cadáver; fin de la incidencia (71 minutos de duración)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8014",
+   "tipo": "Media Distancia (viajeros)",
+   "operador": "RENFE",
+   "danos": "No se produjeron daños materiales en el tren"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 8014",
+   "implicacion": "Hizo uso reiterado del silbato y tiró de la urgencia, pero el arrollamiento fue inevitable. Informó del suceso al Puesto de Mando de Miranda de Ebro. No se le realizó prueba de alcoholemia por considerarla de relevancia secundaria al no ser causa probable un fallo humano."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con semibarreras, señalización luminosa intermitente para vehículos, dos señales acústicas y luminosas para peatones, y cartelones de atención de dimensiones adecuadas. Bloqueo eléctrico manual. Consigna serie A nº 1644 de Burgos y Consigna Serie AO nº 399, capítulo 8 del Manual de Circulación (puntos 1º y 3º).",
+  "tipo_via": "Vía doble, trayecto BEM, curva de transición con radio de 1100 m y pendiente de 5,69 milésimas",
+  "velocidad_maxima": "130 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Buen estado de mantenimiento del firme para vehículos y peatones; visibilidad correcta (350 m a la izquierda, 500 m a la derecha); funcionamiento correcto del paso a nivel según registro de eventos",
+  "otro": "Existe un desfase de 3 minutos en el registro del paso a nivel respecto a la hora real. Tráfico separado para vehículos y peatones. Carece de paso inferior peatonal y de burladero de acceso. En construcción la variante ferroviaria de Burgos que eliminará el trazado urbano y los pasos a nivel."
+ },
+ "material_rodante": {
+  "series": "UT 470110 (referida también como UT 440110 en el análisis de la memoria estática), 3 vehículos, masa remolcada 174 toneladas",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión indebida de las vías por el paso a nivel por parte de la víctima, que trató de cruzar con las semibarreras abatidas y los sistemas de protección (sonería y luces) activados por la llegada del tren 8014.",
+  "contribuyentes": [
+   "La víctima no hizo uso del paso habilitado para el cruce peatonal del que estaba dotado el paso a nivel, accediendo por lugar no habilitado para viandantes.",
+   "La persona no aceleró su paso en ningún momento para intentar eludir el arrollamiento.",
+   "El paso a nivel carece de paso inferior peatonal y de burladero de acceso."
+  ],
+  "sistemicas": [
+   "Precedente de accidente grave el 15.03.2006 en el paso a nivel del PK 371,078 de la misma línea en el municipio de Burgos.",
+   "Trazado ferroviario urbano con múltiples pasos a nivel en el núcleo de Burgos (solución pendiente: variante ferroviaria en construcción)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Incidencia de 71 minutos (19:19 a 20:30). Retrasos acumulados: 103 minutos en 3 trenes de viajeros y 130 minutos en 2 trenes de mercancías."
+ },
+ "lecciones": [
+  "La importancia del uso correcto de los pasos habilitados para el cruce peatonal en pasos a nivel.",
+  "La necesidad de mantener la atención a las señales acústicas y luminosas activas antes de cruzar un paso a nivel.",
+  "La relevancia de la eliminación de pasos a nivel urbanos mediante variantes ferroviarias (la variante de Burgos eliminará el trazado urbano y los pasos a nivel existentes)."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "No se estima la realización de recomendaciones destinadas a la mejora de la seguridad ferroviaria en relación a este accidente, dado que el núcleo ferroviario de Burgos se encuentra afectado por la ejecución de las obras de la nueva variante ferroviaria y la nueva terminal de viajeros, que eliminará el trazado ferroviario urbano y los pasos a nivel existentes.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "paso a nivel",
+  "clase C",
+  "imprudencia",
+  "media distancia",
+  "línea Madrid-Hendaya",
+  "Burgos",
+  "semibarreras",
+  "variante ferroviaria",
+  "accidente grave",
+  "ADIF"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-271206-130407"
+}

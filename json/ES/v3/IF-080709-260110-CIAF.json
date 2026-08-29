@@ -1,0 +1,141 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo por tren de mercancías en paso a nivel tipo C de Villaverde de Pontones (Cantabria)",
+ "idioma_original": "es",
+ "resumen": "El 8 de julio de 2009 a las 18:21, el tren de mercancías 9687 de FEVE arrolló un automóvil BMW detenido en el centro del paso a nivel tipo C nº 23, en el PK 551+254 de la línea 24 Santander-Bilbao, cerca del apeadero de Villaverde de Pontones (Cantabria). El vehículo había invadido el paso a nivel con las barreras bajadas y las señales luminosas activadas, rompiendo una pluma. El conductor del automóvil, un hombre de 79 años, falleció como consecuencia del impacto. La investigación concluyó que el origen del arrollamiento fue la invasión del gálibo por el vehículo de carretera; no se establecieron recomendaciones.",
+ "hechos": "El día 8 de julio de 2009, el tren de mercancías 9687 de FEVE, compuesto por las locomotoras 1909 (cabeza) y 1913 (cola) con 17 vagones y 829 toneladas de masa remolcada, procedente de Santander con destino Aranguren, circulaba normalmente por la línea 24 Santander-Bilbao. Al aproximarse al paso a nivel nº 23 (clase C), situado en el PK 551+254 cerca del apeadero de Villaverde de Pontones, el maquinista advirtió la presencia de un vehículo detenido en el centro del paso a nivel. El paso a nivel, automático con semibarreras, señalización luminosa y acústica, se encontraba con las barreras bajadas y las señales activadas. El vehículo había irrumpido sobre las 18:20 rompiendo la pluma de una barrera.\n\nEl maquinista hizo uso del silbato y del freno de emergencia, sin poder evitar el arrollamiento. Según el registrador de seguridad, la velocidad del tren en el momento de aplicar la emergencia era de 53,5 km/h (dentro de la tolerancia de 5 km/h para una circulación T50). La colisión se produjo sobre las 18:21:05. El tren se detuvo tras recorrer 166 metros (87 m antes y 79 m después del paso a nivel). Una persona que estaba agachada detrás del vehículo fue golpeada y lanzada junto con el coche unos 10 metros en el sentido de la marcha del tren.\n\nLa víctima, un hombre de 79 años, fue atendida inicialmente por vecinos hasta la llegada de una ambulancia medicalizada, pero finalmente falleció. El maquinista contactó con el Puesto de Mando de Santander y avisó al 112. Posteriormente coordinó con la Guardia Civil el retroceso del tren hasta liberar la zona, previa autorización de la estación de Orejo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Apeadero de Villaverde de Pontones",
+  "pk": "551+254",
+  "linea": "24 Santander - Bilbao",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Paso a nivel automático nº 23, clase C, en tramo de vía en curva a derecha (sentido Bilbao) con visibilidad limitada, entre las estaciones de Orejo y Hoz de Anero, municipio de Ribamontán al Monte. Cruza la carretera S-411 (asfalto, titularidad autonómica de Cantabria)."
+ },
+ "cronologia": [
+  {
+   "hora": "2009-07-08T18:20",
+   "evento": "El vehículo automóvil accede al paso a nivel con las barreras bajadas y las señales luminosas activadas, rompiendo la pluma de una barrera y deteniéndose en el centro de la vía"
+  },
+  {
+   "hora": "2009-07-08T18:20:39",
+   "evento": "En la cabina aparece la indicación ASFA de paso correctamente formado (L2/3 verde)"
+  },
+  {
+   "hora": "2009-07-08T18:20:50",
+   "evento": "El maquinista acciona la bocina al acercarse al paso a nivel, encontrándose a 167 m del mismo"
+  },
+  {
+   "hora": "2009-07-08T18:20:56",
+   "evento": "El maquinista aplica freno de emergencia y pulsa nuevamente la bocina; velocidad 53 km/h; el vehículo sigue dentro del gálibo"
+  },
+  {
+   "hora": "2009-07-08T18:21:05",
+   "evento": "Colisión del tren con el vehículo; la persona oculta tras el coche es golpeada y ambos son lanzados unos 10 m"
+  },
+  {
+   "hora": "2009-07-08T18:21",
+   "evento": "Hora oficial del arrollamiento según el informe"
+  },
+  {
+   "hora": "2009-07-08T20:26",
+   "evento": "El inspector general de FEVE comunica el accidente a la CIAF vía mensaje de telefonía móvil"
+  },
+  {
+   "hora": "2009-07-14",
+   "evento": "El presidente de la CIAF resuelve abrir la investigación"
+  },
+  {
+   "hora": "2009-11-10",
+   "evento": "El inspector general de FEVE entrega su informe particular"
+  },
+  {
+   "hora": "2010-01-26",
+   "evento": "Fecha del informe final (Madrid)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "9687",
+   "tipo": "tren de mercancías (T50, velocidad máxima 50 km/h)",
+   "operador": "FEVE",
+   "danos": "Rozaduras de escasa entidad en la pintura del carenado frontal-lateral derecho bajo el nivel del bastidor y desprendimiento del soporte exterior de la barra picadora en la locomotora 1909 (cabeza). Retraso de 65 minutos."
+  },
+  {
+   "numero": "1909",
+   "tipo": "locomotora (en cabeza)",
+   "operador": "FEVE",
+   "danos": "Rozaduras en pintura del carenado frontal-lateral derecho; desprendimiento del soporte exterior de la barra picadora del testero de la cabina"
+  },
+  {
+   "numero": "1913",
+   "tipo": "locomotora (en cola)",
+   "operador": "FEVE",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 9687 (CF nº 1342)",
+   "implicacion": "Actuación correcta: aplicó silbato y freno de emergencia al observar el vehículo detenido. Pruebas de alcoholemia y drogas negativas. Relevado de la conducción por impacto emocional. Último reciclaje formativo 20/02/08; último reconocimiento médico y psicotécnico 09/01/09. Jornada del día 8: 1 hora (34 min de conducción)."
+  },
+  {
+   "rol": "Conductor del vehículo (79 años)",
+   "implicacion": "Fallecido. Invadió el paso a nivel con barreras bajadas y señales activadas, deteniéndose en el centro de la vía."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel automático clase C nº 23 con semibarreras, señalización luminosa y acústica. ASFA en vía. Baliza ASFA asociada a la señal del lado Santander: funcionamiento correcto. Deficiencia en señalización de carretera: falta la señal de firme irregular.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "70 km/h (tramo); 50 km/h (circulación T50)",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Tramo en curva a derecha (sentido Bilbao) con visibilidad limitada. Bloqueo telefónico. Momento de circulación AxT: 22.304 (A=1.394, T=16).",
+  "otro": "Paso a nivel previsto para supresión sin plazo; proyecto constructivo en fase de redacción (según DGIF, 19/11/2009). Tiempo entre activación de señalización y irrupción del tren: 59 segundos. Rotura del tornillo fusible y desprendimiento de la pluma del motor B1 del paso a nivel."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 1909 y 1913; 17 vagones; 829 toneladas de masa remolcada",
+  "averia": null,
+  "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según el registrador de seguridad de la locomotora 1909. No se pudieron obtener datos del registrador de eventos del paso a nivel por problemas en el servicio de mantenimiento; inspecciones posteriores confirman funcionamiento correcto."
+ },
+ "clima": "Tiempo atmosférico despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel con las barreras bajadas y las señales luminosas activadas, deteniéndose en el centro del paso a nivel en el momento del paso del tren 9687.",
+  "contribuyentes": [
+   "El vehículo hizo caso omiso a la señalización que indicaba que debía detenerse ante la inminente llegada del tren",
+   "Presencia de una persona agachada y oculta tras el vehículo que se incorporó en el último momento, dificultando la percepción temprana por el maquinista",
+   "Visibilidad limitada del paso a nivel por estar en tramo de curva"
+  ],
+  "sistemicas": [
+   "Deficiencia en la señalización de carretera: falta la señal de firme irregular",
+   "Paso a nivel con visibilidad limitada por curva",
+   "Pendiente de supresión del paso a nivel (proyecto en fase de redacción, sin plazo)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Coche BMW destrozado. Locomotora 1909: rozaduras en pintura del carenado y desprendimiento de soporte de barra picadora. Paso a nivel: rotura del tornillo fusible y desprendimiento de la pluma del motor B1.",
+  "afectacion_servicio": "Retraso de 65 minutos del tren implicado. Interceptación de la vía hasta el retroceso coordinado con Guardia Civil y autorización de la estación de Orejo."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase c",
+  "feve",
+  "tren de mercancías",
+  "invasión de gálibo",
+  "barreras bajadas",
+  "señales luminosas",
+  "villaverde de pontones",
+  "cantabria",
+  "fallecido",
+  "asfa",
+  "semibarreras",
+  "supresión de paso a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-080709-260110-CIAF"
+}

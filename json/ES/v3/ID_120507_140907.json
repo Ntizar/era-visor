@@ -1,0 +1,160 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en paso vicioso cerca del antiguo apeadero de Camargo (línea Santander-Palencia)",
+ "idioma_original": "es",
+ "resumen": "El 2007-05-12, a las 21:55, el tren de larga distancia 77 arrolló a una persona externa en el pk 508+180 de la línea 160 Santander-Palencia, cerca del antiguo apeadero de Camargo, Cantabria. La víctima cruzaba por un paso vicioso no habilitado e invadió el gálibo del tren, resultando fallecida. El accidente fue calificado como grave. No se produjeron daños materiales. La investigación atribuyó el accidente a imprudencia de la víctima y recomendó ejecutar cerramientos e intensificar la vigilancia y sensibilización.",
+ "hechos": "El tren de larga distancia 77, compuesto por la locomotora 269604 y 9 vehículos, con masa remolcada de 135 t, circulaba por la línea 160 Santander-Palencia en plena vía, entre los apeaderos de Maliaño y Murieras-Bahía, trayecto Boo-Muriedas. En el p.k. 508+180, principio del antiguo apeadero de Camargo, el tren arrolló a una persona externa a la actividad ferroviaria que cruzaba la vía por un paso no habilitado para ello. Como consecuencia del arrollamiento resultó fallecida una persona.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "antiguo apeadero de Camargo",
+  "pk": "508+180",
+  "linea": "160 Santander-Palencia",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Plena vía, entre los apeaderos de Maliaño y Murieras-Bahía; trayecto Boo-Muriedas; p.k. 508+180, principio del antiguo apeadero de Camargo; curva de radio 1735; paso vicioso con acceso a ambos lados de la vía al núcleo urbano; bloqueo automático de vía única con C.T.C."
+ },
+ "cronologia": [
+  {
+   "hora": "21:55",
+   "evento": "Arrollamiento de una persona por el tren de larga distancia 77 en el p.k. 508+180 de la línea 160 Santander-Palencia."
+  },
+  {
+   "hora": null,
+   "evento": "2007-05-12: El maquinista del tren 77 informa del suceso al Puesto de Mando de Santander, que cursa avisos a Seguridad Corporativa y Protección Civil de ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de RENFE Operadora, Operador de Larga Distancia, Jefatura Técnica de Operaciones de Santander y medios sanitarios."
+  },
+  {
+   "hora": null,
+   "evento": "2007-05-12: Se desplaza un agente de la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF para reconocimiento y toma de datos; la Guardia Civil se persona y analiza el lugar; se realiza prueba de alcoholemia negativa al maquinista."
+  },
+  {
+   "hora": "23:50",
+   "evento": "Levantamiento del cadáver tras el reconocimiento de la víctima por los medios sanitarios."
+  },
+  {
+   "hora": null,
+   "evento": "2007-06-20: El responsable de seguridad de ADIF en la zona de Norte entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2007-07-19: El responsable de seguridad de RENFE entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2007-09-14: Se emite el informe definitivo de la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "77",
+   "tipo": "tren de larga distancia",
+   "operador": "RENFE Operadora",
+   "danos": "No se producen daños."
+  },
+  {
+   "numero": "26964",
+   "tipo": "tren de viajeros (cercanías)",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "26962",
+   "tipo": "tren de viajeros (cercanías)",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "26967",
+   "tipo": "tren de viajeros (cercanías)",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "VB627",
+   "tipo": "tren de mercancías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "8105",
+   "tipo": "tren de media distancia",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 77",
+   "implicacion": "Llevaba una jornada de 07:15 horas, de las cuales 04:09 horas fueron de conducción. La prueba de alcoholemia fue negativa. Se encontraba en condiciones aptas para el desarrollo de su función y su actuación fue correcta. Informó del suceso al Puesto de Mando de Santander."
+  },
+  {
+   "rol": "persona externa a la actividad ferroviaria (víctima)",
+   "implicacion": "Cruzaba la vía por un paso no habilitado, invadiendo el gálibo del tren 77. Resultó fallecida."
+  },
+  {
+   "rol": "agente de la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF",
+   "implicacion": "Se desplazó al lugar del arrollamiento para proceder al reconocimiento y toma de datos."
+  },
+  {
+   "rol": "Guardia Civil",
+   "implicacion": "Se personó en el lugar de los hechos y procedió a analizar el lugar del arrollamiento."
+  },
+  {
+   "rol": "Medios Sanitarios",
+   "implicacion": "Se personaron en el lugar de los hechos para reconocer a la víctima; el cadáver fue levantado a las 23:50 h."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de vía única (BAU) con C.T.C.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "155 km/h; limitación permanente de 140 km/h para trenes con tracción eléctrica por catenaria sin compensar",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Curva de radio 1735; paso vicioso; márgenes de la vía incluidos en un proyecto de cerramiento urbano aprobado y licitado.",
+  "otro": "Paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269604; 9 vehículos; masa remolcada 135 t",
+  "averia": "No se producen daños.",
+  "mantenimiento": null
+ },
+ "clima": "De noche, tiempo despejado y visibilidad buena.",
+ "causas": {
+  "directa": "Imprudencia de la víctima por cruzar la vía por lugar no autorizado e invadir el gálibo del tren 77.",
+  "contribuyentes": [
+   "Existencia de un paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano.",
+   "Los márgenes de la vía en la zona del arrollamiento estaban incluidos en un proyecto de cerramiento urbano aprobado y licitado, pero no ejecutado."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños.",
+  "afectacion_servicio": "Tren de viajeros 77: 50 minutos de retraso; tren de viajeros 26964 (cercanías): 23 minutos de retraso; tren de viajeros 26962 (cercanías): 5 minutos de retraso; tren de viajeros 26967 (cercanías): 7 minutos de retraso; tren de mercancías VB627: 94 minutos de retraso; tren de media distancia 8105: 15 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+   "destinatario": null
+  },
+  {
+   "texto": "Intensificar la vigilancia de estos pasos viciosos y sensibilizar a la población de los riesgos de cruzar las vías por lugares no autorizados.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso vicioso",
+  "persona fallecida",
+  "imprudencia",
+  "línea santander-palencia",
+  "cantabria",
+  "tren de larga distancia",
+  "cerramiento",
+  "vigilancia",
+  "sensibilización",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_120507_140907"
+}

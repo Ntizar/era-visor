@@ -1,0 +1,178 @@
+{
+ "titulo_normalizado": "Colisión por alcance y descarrilamiento en la estación de Barcelona Sants por falta de atención en rebase autorizado",
+ "idioma_original": "es",
+ "resumen": "El 2013-09-20, a las 10:04, el tren de cercanías 25706 de Renfe Operadora colisionó por alcance con el tren 28132, estacionado en la vía 7 de la estación de Barcelona Sants. El 25706 pasó la señal E9 en rebase autorizado y circulaba a 28 km/h, mientras el maquinista consultaba el libro horario. La colisión provocó el descarrilamiento del bogie de cabeza del 25706 y 24 heridos leves. La causa fue un fallo humano por falta de atención, con incumplimiento de la marcha de maniobras y de la disposición de detención.",
+ "hechos": "El día 2013-09-20, a las 10:04, el tren de cercanías 28132 de Renfe Operadora, procedente de Terrassa y con destino Martorell, quedó estacionado en la vía 7 de la estación de Barcelona Sants para realizar parada comercial y relevo de maquinistas. Detrás, el tren de cercanías 25706, procedente de Calella y con destino L'Hospitalet de Llobregat, pasó la señal de entrada E1 en anuncio de parada y la señal interior E9 en indicación de rebase autorizado, circulando a 28 km/h.\n\nEl maquinista del tren 25706 se distrajo consultando el libro horario del tren. Cuando percibió la cola del tren 28132 estacionado, accionó el manipulador de tracción/freno a la posición de urgencia, pero no pudo evitar la colisión por alcance. Como consecuencia, descarriló el bogie de cabeza del tren 25706 y resultaron 24 heridos leves, entre ellos el maquinista de dicho tren.\n\nLa investigación concluye que el accidente se produjo por un fallo humano del personal de conducción del tren 25706, por falta de atención en la conducción, al no cumplir las condiciones reglamentarias del rebase autorizado. Como factor coadyuvante se apunta la circulación con velocidad prefijada, incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Barcelona Sants",
+  "pk": "678+098 (señal E9)",
+  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Vía 7 de la estación subterránea de Barcelona Sants, en el circuito de estacionamiento CV7, entre la señal interior de entrada E9 y la señal de salida S1/7A."
+ },
+ "cronologia": [
+  {
+   "hora": "09:57",
+   "evento": "El tren 28132 pasa por la baliza de la señal E9 en indicación de rebase autorizado a 24 km/h."
+  },
+  {
+   "hora": "09:59",
+   "evento": "El tren 28132 queda estacionado en la vía 7 ante la señal S1/7A, en indicación de parada, y se realiza el relevo de maquinistas."
+  },
+  {
+   "hora": "10:01",
+   "evento": "El tren 25770 permanece ante la señal de salida S1/7 en indicación de parada; el tren 28132 está entre E9 y S1/7A; el tren 25706 se encuentra entre la señal avanzada E'1 y la señal de entrada E1, en anuncio de parada."
+  },
+  {
+   "hora": "10:02",
+   "evento": "El tren 25706 pasa por la señal de entrada E1 y avanza por la zona de cambios 105/109."
+  },
+  {
+   "hora": "10:03",
+   "evento": "El tren 25706 avanza hacia la señal E9, que presenta indicación de rebase autorizado; el tren 25770 recibe anuncio de parada en la señal de salida S1/7."
+  },
+  {
+   "hora": "10:04",
+   "evento": "El tren 25706 pasa por la baliza de la señal E9 actuando el rebase a 28 km/h; tras recorrer unos 210 metros, el maquinista aplica el freno a posición de urgencia."
+  },
+  {
+   "hora": "10:04",
+   "evento": "Se produce la colisión por alcance del tren 25706 contra el tren 28132; descarrila el bogie de cabeza del 25706 y resultan 24 heridos leves."
+  },
+  {
+   "hora": "10:26",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "11:05",
+   "evento": "Queda suprimida la relación de trenes entre Martorell y Terrassa."
+  },
+  {
+   "hora": "11:16",
+   "evento": "Queda bloqueada la vía 6 de Barcelona Sants (vía de AVE) para trabajar en la incidencia."
+  },
+  {
+   "hora": "11:45",
+   "evento": "Queda suprimida la relación de trenes de L'Hospitalet a Granollers Canovelles y La Garriga."
+  },
+  {
+   "hora": "12:12",
+   "evento": "Comienza la maniobra para la separación de las unidades de los trenes 28132 y 25706."
+  },
+  {
+   "hora": "14:29",
+   "evento": "Se autoriza el envío de los autopropulsados del tren 28132 a Vilanova i la Geltrú como tren BR551."
+  },
+  {
+   "hora": "15:46",
+   "evento": "Sale de la vía 7 de Barcelona Sants el tren BR551 con las unidades del 28132."
+  },
+  {
+   "hora": "17:01",
+   "evento": "Se autoriza la circulación de los autopropulsados del tren 25706 hasta Montcada Bifurcación como tren BR553."
+  },
+  {
+   "hora": "17:16",
+   "evento": "Queda libre y expedita la vía 6 de AVE."
+  },
+  {
+   "hora": "17:24",
+   "evento": "El tren BR551 llega a Vilanova i la Geltrú."
+  },
+  {
+   "hora": "17:30",
+   "evento": "Queda libre la vía 7 de Barcelona Sants."
+  },
+  {
+   "hora": "17:37",
+   "evento": "Sale de la vía 7 de Barcelona Sants el tren BR553 con las unidades del 25706."
+  },
+  {
+   "hora": "18:15",
+   "evento": "El tren BR553 llega a Montcada Bifurcación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25706",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento del bogie de cabeza; roturas y deformaciones en la parte frontal del coche motor de cabeza; contribuye a la valoración total de daños de 247.000 €."
+  },
+  {
+   "numero": "28132",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Roturas y deformaciones en la parte frontal del coche motor de cola; contribuye a la valoración total de daños de 247.000 €."
+  },
+  {
+   "numero": "25770",
+   "tipo": null,
+   "operador": null,
+   "danos": "No se mencionan daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25706 (matrícula 6826150)",
+   "implicacion": "Falta de atención/despiste al consultar el libro horario; incumplió las condiciones reglamentarias del rebase autorizado (marcha de maniobras y disposición de detención); circulaba con velocidad prefijada; resultó herido leve; pruebas de alcoholemia y drogas negativas a las 11:20."
+  },
+  {
+   "rol": "Maquinista del tren 28132 que había dado el relevo (matrícula 6820609)",
+   "implicacion": "Estacionó el tren en vía 7 y realizó el relevo; no se le atribuye responsabilidad; pruebas de alcoholemia y drogas negativas a las 11:45."
+  },
+  {
+   "rol": "Maquinista del tren 28132 que se disponía a conducir (matrícula 6814990)",
+   "implicacion": "Se encontraba en el tren estacionado preparando la documentación cuando se produjo la colisión; no se le atribuye responsabilidad; prueba de alcoholemia negativa a las 13:00."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E1 (entrada, PK 678+552) en anuncio de parada; señal E9 (entrada interior, PK 678+098) en rebase autorizado (foco blanco a destellos; en la moviola del CTC se describe con focos rojo y blanco encendidos); señales de salida S1/7 (PK 677+040) y S1/7A (PK 677+565).",
+  "tipo_via": "Vía de estación (vía 7), ancho ibérico, trazado en curva a la izquierda en el sentido de marcha.",
+  "velocidad_maxima": "120 km/h para el material tipo 120A; 30 km/h en marcha de maniobras.",
+  "ancho": "Ancho ibérico en vías 7 a 14; ancho estándar en vías 1 a 6.",
+  "electrificacion": null,
+  "estado_via": "Vía 7 ocupada por tren estacionado; tras el suceso quedó interceptada; no se produjeron daños de infraestructura.",
+  "otro": "Estación subterránea con iluminación artificial; distancia de visibilidad medida de unos 125 m; deceleración necesaria para detenerse era 0,24 m/s² frente a una máxima de frenado de 1,2 m/s²."
+ },
+ "material_rodante": {
+  "series": "Automotores eléctricos serie 447: 447023/447070 (tren 28132) y 447069/447071 (tren 25706); tren tipo 120A.",
+  "averia": "No se describe avería; los equipos de seguridad de ambos trenes funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Fallo humano del maquinista del tren 25706: falta de atención en la conducción al consultar el libro horario, con incumplimiento del artículo 218.1 del RGC (circular con marcha de maniobras ante un rebase autorizado) y del artículo 141.2 del RGC (disposición de detención ante cualquier obstáculo).",
+  "contribuyentes": [
+   "Circulación con velocidad prefijada incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+   "Curva a la izquierda y pilares que impedían la visibilidad de la parte posterior del andén de la vía 7, según la declaración del maquinista."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 24,
+  "danos_materiales": "Roturas y deformaciones frontales en el coche motor de cola del tren 28132 y en el coche motor de cabeza del tren 25706; valoración total de 247.000 €; infraestructura sin daños.",
+  "afectacion_servicio": "Vía 7 interceptada de 10:04 a 17:37; vía 6 de AVE bloqueada de 11:16 a 17:16; desvíos y supresiones; retrasos acumulados de 3419 minutos (2955 de cercanías, 338 de media distancia y 126 de larga distancia); 73 trenes suprimidos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "colision-por-alcance",
+  "descarrilamiento",
+  "barcelona-sants",
+  "rebase-autorizado",
+  "fallo-humano",
+  "marcha-de-maniobras",
+  "velocidad-prefijada",
+  "renfe-operadora",
+  "tren-25706",
+  "tren-28132",
+  "heridos-leves",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_200913_230914_CIAF"
+}

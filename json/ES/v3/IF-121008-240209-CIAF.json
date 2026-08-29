@@ -1,0 +1,150 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren de mercancías en maniobras en la estación de Pravia (Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 12 de octubre de 2008, a las 13:15 horas, el tren de mercancías LL-902 de Feve arrolló a una persona que caminaba por la vía 3 de la playa de vías de la estación de Pravia (línea 11 Ferrol-Gijón, P.K. 0,287) mientras realizaba maniobras de formación de trenes. La víctima, un hombre de 40 años empleado de limpieza del Ayuntamiento de Pravia, utilizaba un paso vicioso no autorizado para cruzar las vías. El maquinista no percibió la presencia de la persona hasta oír un golpe seco en la locomotora 1915. No se produjeron daños materiales ni al medio ambiente. La CIAF concluyó que el accidente tuvo su origen en el tránsito de la víctima ocupando la vía sin autorización.",
+ "hechos": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902 de Feve, compuesto por las locomotoras 1907 y 1915 y 8 plataformas cargadas de contenedores de aluminio vacíos, realizaba maniobras de formación de trenes de mercancías en la playa de vías de la estación de Pravia. El tren había salido de la estación de El Berrón a las 11:30 y llegó a Pravia a las 13:10. Una vez cortadas las locomotoras, el maquinista principal (matrícula 6703), conduciendo la locomotora 1907, se dirigió por la vía 3 hacia la señal R4. A unos 50 metros antes de llegar a dicha señal, notó un golpe seco por la parte inferior del bastidor de la locomotora 1907. Al rebasar ese punto, se percató de la existencia de un cuerpo humano cortado a la mitad sobre uno de los carriles de la vía. El maquinista movió las locomotoras unos 15 metros para liberar el circuito de la R4 y comunicó el suceso a la estación de Pravia, desde donde se avisó al Jefe de Circulación y al Puesto de Mando. El Plan de Emergencia exterior se activó por medio del 112. La vía quedó interceptada desde las 13:15 hasta las 14:30, hora en que la autoridad judicial ordenó el levantamiento del cadáver. De la inspección del lugar se observó que en el entorno del punto del arrollamiento existían sendas peatonales de uso habitual (paso vicioso) que accedían a la vía 3, y que no existía alternativa segura para cruzar las vías, pues el paso superior cercano no tenía accesos fáciles desde ambas márgenes.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Pravia",
+  "pk": "0,287",
+  "linea": "11 Ferrol-Gijón",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Playa de vías de la estación de Pravia, vía 3, tramo de vía recta en horizontal situado entre los desvíos A2 y A8. Trayecto Pravia-Avilés."
+ },
+ "cronologia": [
+  {
+   "hora": "11:30",
+   "evento": "Salida del tren LL-902 de la estación de El Berrón"
+  },
+  {
+   "hora": "13:10",
+   "evento": "Llegada del tren LL-902 a la estación de Pravia"
+  },
+  {
+   "hora": "13:15",
+   "evento": "Arrollamiento de la persona por el tren LL-902 durante maniobras en la vía 3"
+  },
+  {
+   "hora": "13:15",
+   "evento": "Inicio de la interceptación de vía"
+  },
+  {
+   "hora": "14:22",
+   "evento": "El Inspector General de Feve comunica el accidente a la CIAF por mensaje telefónico"
+  },
+  {
+   "hora": "14:30",
+   "evento": "Fin de la interceptación de vía; la autoridad judicial ordena el levantamiento del cadáver"
+  },
+  {
+   "hora": "16/10/2008",
+   "evento": "Inspección del lugar del accidente por el agente territorial adscrito a la CIAF"
+  },
+  {
+   "hora": "24/02/2009",
+   "evento": "Aprobación del informe definitivo por el Pleno de la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "LL-902",
+   "tipo": "tren de mercancías (maniobras)",
+   "operador": "Feve",
+   "danos": "Sin daños materiales en el material rodante"
+  },
+  {
+   "numero": "2813",
+   "tipo": "tren de viajeros",
+   "operador": "Feve",
+   "danos": "Supresión parcial (Pravia-Avilés)"
+  },
+  {
+   "numero": "2814",
+   "tipo": "tren de viajeros",
+   "operador": "Feve",
+   "danos": "Supresión parcial (Avilés-Pravia)"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista Principal del tren LL-902 (matrícula 6703)",
+   "implicacion": "Conducía la locomotora 1907 durante las maniobras. No se percató de la presencia de la víctima hasta oír un golpe seco en la locomotora 1915. Poseía título de conducción en vigor, último reciclaje formativo el 24/01/2008 y último reconocimiento médico-psicotécnico el 21/01/2008. No se le practicó prueba de alcoholemia al no ser obligatorio según protocolos."
+  },
+  {
+   "rol": "Víctima (hombre, 40 años, empleado de limpieza del Ayuntamiento de Pravia)",
+   "implicacion": "Caminaba por la caja de la vía 3 de la playa de vías sin estar autorizado para ello, utilizando un paso vicioso. Falleció en el arrollamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal R4 (rebase) en la vía 3; desvíos A2 y A8 delimitan el tramo",
+  "tipo_via": "Vía recta, en horizontal, playa de vías de estación",
+  "velocidad_maxima": "10 km/h (maniobras), con error máximo admitido de 5 km/h",
+  "ancho": "null",
+  "electrificacion": "null",
+  "estado_via": "En correcto funcionamiento; material rodante e instalaciones técnicas funcionaron correctamente",
+  "otro": "Bloqueo automático (B.A.U.) con control de tráfico centralizado y mando local (C.T.C. y M.L.). No existía alternativa segura para cruzar las vías: el paso superior cercano carecía de accesos fáciles desde ambas márgenes."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 1907 y 1915; 8 vagones 2SS (plataformas) con contenedores de aluminio vacíos",
+  "averia": "Ninguna. Funcionamiento correcto según registro de eventos. Velocidad en el momento del accidente: 17,1 km/h (superior a los 10 km/h permitidos para maniobras, aunque dentro del margen de error admitido de 5 km/h).",
+  "mantenimiento": "No se especifica en el informe. Material rodante e instalaciones técnicas funcionaron correctamente de acuerdo a la normativa de seguridad."
+ },
+ "clima": "Tiempo atmosférico despejado en el momento del arrollamiento",
+ "causas": {
+  "directa": "Tránsito de la víctima ocupando la vía sin estar autorizado para ello, utilizando un paso vicioso peatonal.",
+  "contribuyentes": [
+   "Velocidad del tren de maniobras (17,1 km/h) ligeramente superior a la permitida (10 km/h), aunque según la CIAF no influyó en el desarrollo de los acontecimientos.",
+   "Ausencia de alternativa segura para cruzar las vías: el paso superior cercano no tenía accesos fáciles desde ambas márgenes, obligando a los lugareños a recorrer al menos un kilómetro campo traviesa.",
+   "Existencia de un paso vicioso peatonal consolidado por uso habitual, con sendas peatonales que accedían a la vía 3.",
+   "No se adoptó ninguna medida específica de protección hasta la fecha del informe."
+  ],
+  "sistemicas": [
+   "Falta de infraestructura de seguridad perimetral (vallado) en la playa de vías.",
+   "Diseño deficiente del paso superior existente, que no garantiza accesibilidad desde ambas márgenes de la población.",
+   "Ausencia de señalización de advertencia de peligro de cruzar las vías.",
+   "No se practicó prueba de alcoholemia al maquinista al no ser requisito obligatorio en los protocolos de actuación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+  "afectacion_servicio": "Vía interceptada desde las 13:15 hasta las 14:30 (75 minutos). Dos trenes de viajeros afectados con supresiones parciales: tren 2813 Pravia-Avilés y tren 2814 Avilés-Pravia."
+ },
+ "lecciones": [
+  "La existencia de pasos viciosos peatonales en zonas de playa de vías indica la necesidad de infraestructuras de cruce adecuadas y accesibles.",
+  "La velocidad de maniobras (17,1 km/h) superaba la permitida (10 km/h), lo que reduce el tiempo de reacción del maquinista aunque en este caso no influyó en el resultado.",
+  "La ausencia de medidas de protección perimetral y de señalización de peligro facilita el acceso no autorizado a las vías."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona.",
+   "destinatario": "Autoridad competente"
+  },
+  {
+   "texto": "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías.",
+   "destinatario": "Autoridad competente"
+  },
+  {
+   "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población.",
+   "destinatario": "Autoridad competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona no autorizada",
+  "maniobras",
+  "playa de vías",
+  "paso vicioso",
+  "feve",
+  "tren de mercancías",
+  "estacion de pravia",
+  "linea ferrol-gijon",
+  "falta de proteccion perimetral",
+  "velocidad excesiva maniobras",
+  "victima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-121008-240209-CIAF"
+}

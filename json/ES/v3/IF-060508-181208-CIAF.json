@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Caída de persona a la vía al apearse en marcha del tren 15015 en la estación de Fabara (Zaragoza)",
+ "idioma_original": "es",
+ "resumen": "El 6 de mayo de 2008, a las 19:20, un varón de 79 años cayó a la vía al intentar apearse del tren de Media Distancia 15015 de Renfe Operadora en la estación de Fabara (Zaragoza). El maquinista observó la caída por el espejo retrovisor y detuvo el tren antes de arrollar a la víctima, que quedó entre el primer y el segundo coche. El hombre fue trasladado al Hospital de Alcañiz y falleció horas más tarde. La investigación atribuye el origen a la bajada en marcha por la segunda puerta del primer coche, con mal funcionamiento del dispositivo de plataforma. Se recomienda comprobar desgastes y holguras en los mecanismos de actuación de las puertas en el plan de mantenimiento.",
+ "hechos": "El día 6 de mayo de 2008, a las 19:20 horas, el tren de Viajeros de Media Distancia 15015 de Renfe Operadora, compuesto por el automotor 444002 de la serie 444, procedente de Barcelona San Andrés con destino Zaragoza Delicias, reanudó la marcha tras efectuar su parada comercial en la vía 2 del andén principal de la estación de Fabara (Zaragoza). En ese momento, una persona cayó a la vía desde el tren en movimiento; el maquinista lo observó por el espejo retrovisor y detuvo la composición antes de arrollarla, quedando la víctima entre el primer y el segundo coche, sobre el carril izquierdo en sentido de la marcha. El maquinista, el agente de acompañamiento y el factor de circulación auxiliaron a la persona, que fue trasladada en ambulancia al Hospital de Alcañiz, donde falleció horas más tarde.\n\nLa investigación señala que la víctima bajó presumiblemente por la segunda puerta del primer coche cuando el tren ya había iniciado la marcha. Las puertas de la serie 444 son de apertura manual hacia el interior y disponen de un dispositivo que desplaza el piso del pasillo para dejar accesibles los peldaños; en la puerta implicada ese dispositivo estaba averiado, por lo que los peldaños quedaron ocultos y la altura del piso del coche respecto al andén era de unos 58 centímetros. Tras la parada en Zaragoza-Delicias se inspeccionó la composición y, al día siguiente, en Barcelona San Andrés Condal, se constató que el eje de la bisagra de la puerta estaba seccionado a la altura de la biela de accionamiento. El registrador TELOC no permitía determinar con precisión la velocidad y distancia, pero las estimaciones apuntan a un desplazamiento muy corto, de unos 5 metros, a velocidad inferior a 5 km/h.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Fabara",
+  "pk": "470+754",
+  "linea": "210 de Miraflores a Tarragona",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Estación de Fabara, vía 2 del andén principal, PK 470+754 de la línea 210 de Miraflores a Tarragona."
+ },
+ "cronologia": [
+  {
+   "hora": "19:20",
+   "evento": "2008-05-06: el tren 15015 reanuda la marcha tras la parada comercial en Fabara; una persona cae a la vía y el maquinista detiene el tren."
+  },
+  {
+   "hora": "19:23",
+   "evento": "2008-05-06: según el Jefe de Circulación, el tren se había estacionado en la vía 2 del andén principal con 18 minutos de retraso antes de recibir la orden de marche."
+  },
+  {
+   "hora": "17:37",
+   "evento": "2008-05-07: el Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el fallecimiento de la persona caída desde el tren 15015."
+  },
+  {
+   "hora": null,
+   "evento": "2008-05-08: la UT 444002 viaja a Barcelona San Andrés Condal para reparación; se constata el eje de la bisagra seccionado."
+  },
+  {
+   "hora": null,
+   "evento": "2008-12-18: la CIAF aprueba el informe final y la recomendación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15015",
+   "tipo": "Tren de Viajeros de Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 15015",
+   "implicacion": "Observó la caída por el espejo retrovisor, accionó el freno de emergencia, auxilió a la víctima y dio negativo en la prueba de alcoholemia."
+  },
+  {
+   "rol": "Agente de Acompañamiento (Interventor en ruta)",
+   "implicacion": "Auxilió a la víctima, comprobó las puertas al apearse y declaró que estaban cerradas salvo la puerta por la que bajó y la primera del tercer coche."
+  },
+  {
+   "rol": "Jefe de Circulación/Factor de Circulación de la estación de Fabara",
+   "implicacion": "Dio la orden de marche, observó la puerta primera del tercer coche abierta, auxilió a la víctima y dio negativo en la prueba de alcoholemia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico; Bloqueo Telefónico Normal, con transición a Bloqueo Automático con CTC en Vía Única; según el Jefe de Circulación, la señal del itinerario estaba en verde.",
+  "tipo_via": "Vía 2 de la estación de Fabara, andén principal; línea 210 de Miraflores a Tarragona.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "No se produjeron daños en la infraestructura; no existían condiciones especiales de circulación en el lugar y momento del accidente.",
+  "otro": "Radiotelefonía modalidad A; el tren quedó detenido con la cabeza ligeramente fuera de andén tras la parada."
+ },
+ "material_rodante": {
+  "series": "Serie 444; automotor/UT 444002, 3 vehículos, 204 Tm.",
+  "averia": "Segunda puerta del primer coche con el dispositivo de desplazamiento de la plataforma averiado; peldaños ocultos y no accesibles; altura del piso respecto al andén de Fabara aproximadamente 58 cm; eje de la bisagra seccionado a la altura de la biela de accionamiento.",
+  "mantenimiento": "Revisión IC 2008-04-23 (472971 km), IF 2008-04-02 (462842 km), IM 2007-11-28 (434063 km); en el accidente 478227 km; ciclos de periodicidad cumplidos; el plan contempla comprobación de puertas, bisagras y escalones. Últimas averías de puertas de la serie 444: rotura de manilla interior, cerradura atascada, puertas que viajeros no podían abrir, peldaño atascado y falta de movilidad/cierre de estribo."
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "La víctima cayó a la vía al apearse del tren por la segunda puerta del primer coche cuando la composición había iniciado la marcha.",
+  "contribuyentes": [
+   "Funcionamiento anómalo de la puerta implicada: el dispositivo de desplazamiento de la plataforma estaba averiado, dejando ocultos los peldaños y una altura de unos 58 cm respecto al andén.",
+   "La puerta era de apertura manual con plataforma desplazable; al fallar el mecanismo de actuación, la escalerilla de bajada no resultaba accesible.",
+   "El tren se estacionó al final del andén y, al reanudar la marcha, quedó detenido con la cabeza ligeramente fuera de andén; la caída se produjo entre el primer y segundo coche."
+  ],
+  "sistemicas": [
+   "El plan de mantenimiento de la serie 444 no contemplaba la comprobación de desgastes y holguras en los mecanismos de actuación de las puertas, como bielas y ejes de actuación.",
+   "Existían antecedentes de averías de puertas en la serie 444, aunque no se conocían incidencias anteriores de carácter similar."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "El único tren afectado fue el del accidente, que perdió 60 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda que Renfe Operadora - previo el estudio correspondiente, en las revisiones de tipo medio que determine - introduzca en el plan de mantenimiento existente para este tipo de material (que ya contempla la comprobación del correcto funcionamiento de las puertas, bisagras y escalones) la comprobación de desgastes y holguras en los mecanismos de actuación (bielas, ejes de actuación, etc.), reemplazándolos en caso necesario.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "caída a la vía",
+  "apearse en marcha",
+  "estación de fabara",
+  "tren de media distancia",
+  "renfe operadora",
+  "serie 444",
+  "puertas de viajeros",
+  "fallo de mecanismo de puerta",
+  "mantenimiento",
+  "víctima mortal",
+  "zaragoza",
+  "línea 210"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-060508-181208-CIAF"
+}

@@ -1,0 +1,140 @@
+{
+ "titulo_normalizado": "Conato de colisión entre maquinaria de vía de Adif y tren de mercancías en Cerdanyola del Vallés por rebase de señal en rojo",
+ "idioma_original": "es",
+ "resumen": "El 12 de febrero de 2009, a las 22:07, la maquinaria de vía de Adif que circulaba como tren MQ577 rebasó indebidamente la señal de salida S1/4 de la estación de Cerdanyola del Vallés, que estaba en rojo. El rebase provocó el talonamiento del cambio número 2 y dejó a la maquinaria enfrentada y detenida a unos 400 metros del tren de mercancías 53584 de Renfe Operadora. No hubo víctimas ni daños materiales relevantes, salvo el cambio talonado. La investigación concluyó que el origen fue el incumplimiento de la señalización y que ninguno de los agentes que circulaban en la maquinaria de vía estaba habilitado.",
+ "hechos": "El día 12 de febrero de 2009, el tren MQ577, formado por maquinaria de vía de Adif compuesta por una perfiladora de balasto y una bateadora-niveladora-alineadora, procedente de Montcada Bifurcació y con destino Montcada Bifurcació, debía invertir el sentido de circulación en Castellbisball dentro de un recorrido previsto de 51 km. Al salir de la estación de Cerdanyola del Vallés, la maquinaria rebasó indebidamente la señal de salida S1/4, que presentaba indicación de parada, lo que produjo el talonamiento del cambio número 2. El conductor de la maquinaria detuvo el tren al notar un golpe y, al observar un foco de gran intensidad en la misma vía, el maquinista del tren de mercancías 53584, procedente de Flix y con destino Manresa, también detuvo su marcha. Ambos trenes quedaron enfrentados y detenidos a unos 400 metros, produciéndose un conato de colisión.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Cerdanyola del Vallés",
+  "pk": "351+200",
+  "linea": "224 Cerdanyola Universitat – Cerdanyola del Vallés",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Cerdanyola del Vallés, en el tramo Cerdanyola Universitat – Cerdanyola del Vallés, junto a la señal de salida exterior S1/4 y el cambio número 2."
+ },
+ "cronologia": [
+  {
+   "hora": "22:07",
+   "evento": "El tren MQ577 rebasa la señal de salida S1/4 en rojo, talona el cambio número 2 y queda detenido frente al tren de mercancías 53584 a unos 400 metros."
+  },
+  {
+   "hora": "22:56",
+   "evento": "El tren de mercancías 53584 queda estacionado en vía 3 de Cerdanyola Universitat tras orden de retroceso."
+  },
+  {
+   "hora": "23:12",
+   "evento": "La maquinaria de vía MQ577 queda estacionada en vía 4 de Cerdanyola Universitat."
+  },
+  {
+   "hora": "01:00",
+   "evento": "Se reabre la circulación tras quedar embridado el cambio 2 para la circulación del tren 53584."
+  },
+  {
+   "hora": "01:09",
+   "evento": "La circulación vuelve a interrumpirse."
+  },
+  {
+   "hora": "04:19",
+   "evento": "Se restablece la circulación tras la segunda interrupción."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "MQ577",
+   "tipo": "maquinaria de vía formada por perfiladora de balasto y bateadora-niveladora-alineadora",
+   "operador": "Adif; maquinaria de la empresa Vías y Construcciones",
+   "danos": "Talonó el cambio número 2 al rebasar la señal S1/4."
+  },
+  {
+   "numero": "53584",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales mencionados; quedó detenido a unos 400 metros de la maquinaria de vía."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren de mercancías 53584",
+   "implicacion": "Detuvo el tren al observar los focos de la maquinaria de vía; su actuación fue considerada correcta y estaba habilitado conforme a la Orden FOM/2520/2006."
+  },
+  {
+   "rol": "maquinista de la maquinaria de vía MQ577",
+   "implicacion": "Conducía la maquinaria sin habilitación vigente; tenía suspendida la habilitación de operador de maquinaria de infraestructura y no incluía el vehículo que conducía."
+  },
+  {
+   "rol": "agente de acompañamiento del MQ577, capataz de vías y obras",
+   "implicacion": "Anunciaba señales al maquinista; tenía suspendido el título de conducción A y la habilitación de operador de maquinaria de infraestructura, no estaba autorizado a las líneas por las que circulaba y admitió no conocer la señal S1/4."
+  },
+  {
+   "rol": "jefe del CTC de Manresa",
+   "implicacion": "Detectó la pérdida de comprobación del escape 2/4 y la desaparición de la maquinaria de vía estacionada en vía 4, activando avisos al personal correspondiente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida exterior S1/4 en pescante, con buena visibilidad, dotada de baliza de señal pero no de baliza previa; precedida por la señal de salida interior S1/2. Los sistemas de control, mando y señalización funcionaron correctamente.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "100 km/h permitidos para el tren 53584 al paso por Cerdanyola Universitat; velocidades registradas: 23 km/h, 15 km/h y 48 km/h máxima alcanzada.",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo automático; cambio número 2 talonado y posteriormente embridado; tráfico medio semanal del tramo: 493 circulaciones."
+ },
+ "material_rodante": {
+  "series": "Locomotora 250027; perfiladora de balasto 997130522136; bateadora-niveladora-alineadora 997130524025; Nº UIC 997130522136.",
+  "averia": "La maquinaria de vía carecía de ASFA y de registrador de seguridad; los equipos de seguridad del tren de mercancías funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S1/4 con indicación de parada, rojo, por el tren MQ577, incumpliendo las órdenes dadas por la señalización.",
+  "contribuyentes": [
+   "El maquinista de la maquinaria de vía no estaba habilitado para conducir ese vehículo.",
+   "El agente de acompañamiento no estaba habilitado ni autorizado a las líneas por las que circulaba.",
+   "El agente de acompañamiento admitió no conocer la presencia de la señal S1/4.",
+   "La maquinaria de vía circulaba sin ASFA y sin registrador de seguridad.",
+   "El recorrido previsto del tren MQ577 era de 51 km y debía invertir sentido en Castellbisball."
+  ],
+  "sistemicas": [
+   "Incumplimiento de la Orden FOM/2520/2006 sobre títulos y habilitaciones del personal ferroviario.",
+   "Falta de un procedimiento que verifique el cumplimiento de requisitos de habilitación del personal de conducción y acompañamiento de trenes de Adif.",
+   "Posible vacío normativo respecto a maquinaria de vía sin ASFA ni registrador de seguridad circulando en vía con tráfico abierto."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Talonado el cambio número 2; no se mencionan otros daños materiales.",
+  "afectacion_servicio": "Circulación interrumpida en la línea 224 hasta las 01:00 y nuevamente de 01:09 a 04:19; 4 trenes suprimidos con trasbordo por carretera entre Martorell y Cerdanyola del Vallés en dos autocares; retrasos en 5 trenes de cercanías de 50 minutos y en 1 tren regional de 16 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Cumplimiento de la Orden FOM/2520/2006, de 27 de julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Implantar un procedimiento que verifique que el personal de conducción y acompañamiento, en su caso, de los trenes de Adif cumplan los requisitos de la Orden FOM/2520/2006, de 27 de julio.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Analizar la posibilidad de realizar un cambio normativo para que los trenes de estas características, maquinaria de vía sin sistema ASFA y sin registrador de seguridad, cuando circulen en vía con tráfico abierto, o bien deban ser remolcados por máquinas tractoras que dispongan de los referidos sistemas o bien circulen al amparo del bloqueo por ocupación.",
+   "destinatario": "DGIF"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "señal en rojo",
+  "maquinaria de vía",
+  "tren de mercancías",
+  "habilitación suspendida",
+  "asfa",
+  "registrador de seguridad",
+  "talonamiento de cambio",
+  "cerdanyola del vallés",
+  "adif",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-120209-260110-CIAF"
+}

@@ -1,0 +1,107 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías 60665 a la salida de Miranda de Ebro, línea 700",
+ "idioma_original": "es",
+ "resumen": "El 30 de junio de 2008, a las 21:07 horas, el tren de mercancías 60665 de Renfe Operadora arrolló a una persona en el P.K. 146,950 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, a la salida de la estación de Miranda de Ebro. La víctima, un varón de 33 años, quedó gravemente herida con las piernas seccionadas y falleció posteriormente en el Hospital Santiago Apóstol. El tren circulaba a 29 km/h, muy por debajo de la velocidad máxima permitida de 100 km/h. La causa del accidente fue el tránsito de la víctima por un lugar no autorizado.",
+ "hechos": "El tren de mercancías 60665 de Renfe Operadora, compuesto por la locomotora 269263 y 15 vagones con masa remolcada de 388 Tm, procedente de Villafría con destino Bilbao, efectúa la salida de la estación de Miranda de Ebro. Circulando parejo al muro que separa a la empresa azucarera Ebro de las vías, una vez rebasada la señal S3, el maquinista observa a dos personas que permanecen junto a dicho muro. El maquinista hace uso del silbato y aplica el freno de urgencia, pero las personas quedan inmóviles, produciéndose el arrollamiento de una de ellas, que queda gravemente herida con las piernas seccionadas, mientras que la otra resulta ilesa. El maquinista se desplaza al lugar del arrollamiento, localiza a la víctima consciente y avisa al puesto de emergencia solicitando ambulancia. La víctima ingresa en el Hospital Santiago Apóstol de Miranda de Ebro, donde fallece posteriormente.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Miranda de Ebro",
+  "pk": "146,950",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "provincia": "Burgos",
+  "descripcion_lugar": "A la salida de la estación de Miranda de Ebro, a la altura de la aguja nº10 de la bifurcación hacia Bilbao, junto al muro que separa a la empresa azucarera Ebro de las vías"
+ },
+ "cronologia": [
+  {
+   "hora": "21:07",
+   "evento": "Arrollamiento de la persona por el tren de mercancías 60665 en el P.K. 146,950"
+  },
+  {
+   "hora": "21:07",
+   "evento": "El maquinista observa a dos personas junto al muro, hace uso del silbato y aplica el freno de urgencia"
+  },
+  {
+   "hora": "21:07",
+   "evento": "El tren se detiene; el maquinista localiza a la víctima consciente y avisa al puesto de emergencia"
+  },
+  {
+   "hora": null,
+   "evento": "La víctima es trasladada al Hospital Santiago Apóstol de Miranda de Ebro, donde fallece"
+  },
+  {
+   "hora": "23:05",
+   "evento": "Fin de la interceptación de vía (118 minutos)"
+  },
+  {
+   "hora": "07:40",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF (1 de julio de 2008)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "60665",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños en el material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 60665",
+   "implicacion": "Observó a dos personas junto al muro, usó silbato y freno de urgencia; actuación correcta según la investigación. Alcohol test negativo (0,00 mg/1000 ml). Jornada efectiva: 4h15min; descanso 24h y 48h previas"
+  },
+  {
+   "rol": "Víctima (varón de 33 años)",
+   "implicacion": "Transitaba por un lugar no autorizado; arrollada con las piernas seccionadas; falleció en el Hospital Santiago Apóstol de Miranda de Ebro"
+  },
+  {
+   "rol": "Segunda persona junto al muro",
+   "implicacion": "Resultó ilesa"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal S3 (rebasada antes del arrollamiento)",
+  "tipo_via": "Vía única, tramo en curva a izquierda, radio 459 m, pendiente 3,85‰",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Funcionamiento correcto; galibo mínimo entre hilo izquierdo de la vía y muro de la empresa azucarera",
+  "otro": "Bloqueo Eléctrico Manual (B.E.M.); radiotelefonía modalidad A; Consigna Serie A 2708 de Miranda de Ebro; Consigna Serie A del BEM trayecto Miranda de Ebro-Orduña"
+ },
+ "material_rodante": {
+  "series": "Locomotora 269263",
+  "averia": "Ninguna; funcionamiento correcto según memoria estática",
+  "mantenimiento": "No se menciona; el material rodante funcionaba correctamente"
+ },
+ "clima": "Condiciones atmosféricas buenas y tiempo despejado",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar no autorizado para ello",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+  "afectacion_servicio": "Interceptación de vía de 118 minutos (21:07-23:05). Cuatro trenes de mercancías (incluido el implicado) sufrieron un retraso total de 339 minutos"
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento de persona",
+  "tren de mercancías",
+  "miranda de ebro",
+  "línea 700",
+  "renfe operadora",
+  "lugar no autorizado",
+  "fallecido",
+  "bloqueo eléctrico manual",
+  "vía única",
+  "bifurcación bilbao",
+  "empresa azucarera ebro",
+  "freno de urgencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-300608-281008-CIAF"
+}

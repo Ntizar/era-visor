@@ -1,0 +1,293 @@
+{
+ "titulo_normalizado": "Incidente operacional por autorización indebida de rebase de señal de salida en la estación de Blanes (Girona)",
+ "idioma_original": "es",
+ "resumen": "El 5 de febrero de 2021, sobre las 8:00, se produjo un incidente operacional por orden de marcha indebida en la estación de Blanes (Girona). El tren 25603 de RENFE Viajeros fue autorizado a rebasar la señal de salida S1/3 en dirección a Maçanet/Massanes con el bloqueo establecido en sentido contrario, mientras el tren 25614 se encontraba detenido frente a la señal de entrada E2. El factor causal fue la autorización indebida notificada por el RC del CTC de Mataró, quien junto al RC de Granollers dedujo erróneamente que la ocupación del cantón CVCBM era una falsa ocupación al no aparecer número de tren asociado en el videográfico. El suceso no tuvo consecuencias al detenerse el maquinista del 25603 al ver el otro tren sin rebasar la señal. Se emitieron 5 recomendaciones dirigidas a AESF con ADIF como implementador.",
+ "hechos": "El día 5 de febrero de 2021, en plena hora punta y con el tráfico ferroviario muy degradado, el tren 30852 procedente de Figueres acumulaba 26 minutos de retraso al llegar a Maçanet/Massanes, lo que obligó al CG de RENFE Viajeros a reorganizar la malla de circulaciones en tiempo real. Se permutaron los materiales rodantes de los trenes 25610 y 25612, y se creó una marcha adicional (95750/95756) para el tren retrasado. El RC del CTC de Granollers dejó preestablecido el itinerario de salida del tren 25614 hacia Blanes, que se ejecutaría cuando el cantón CVCBM quedara libre. El tren 95756 (ex-30852) liberó el cantón a las 7:47 y el 25614 salió inmediatamente hacia Blanes.\n\nParalelamente, el RC del CTC de Mataró preparaba la salida del tren 25603 hacia Maçanet/Massanes desde Blanes. Al observar el videográfico, vio el cantón CVCBM ocupado pero sin número de tren asociado (debido a un fallo del sistema de numeración automática del CTC desde el 31 de enero). Ambos RC dedujeron precipitadamente que era una falsa ocupación, sin realizar comprobaciones adicionales. El RC de Granollers cursó el telefonema 543 autorizando el rebase, y el RC de Mataró cursó el telefonema 248 al maquinista del 25603 autorizándole a rebasar la señal S1/3 con marcha normal a las 8:00.\n\nEl tren 25614 se encontraba detenido frente a la señal de entrada E2 de Blanes. El maquinista del 25603, al iniciar la marcha, vio el otro tren y se detuvo sin haber rebasado la señal. Inmediatamente comunicó la situación al RC de Mataró, quien anuló la autorización (telefonema 249) y estableció el itinerario de entrada para el 25614, liberando el cantón y permitiendo finalmente la salida del 25603.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Blanes",
+  "pk": null,
+  "linea": "276 L'Hospitalet de Llobregat – Maçanet/Massanes",
+  "provincia": "Girona",
+  "descripcion_lugar": "Lado Maçanet/Massanes de la estación de Blanes, cantón de bloqueo CVCBM entre Blanes y Maçanet/Massanes. Estación con haz de 4 vías (1, 3, 5, 7) más 2 vías mango. Señal de salida S1/3 de la vía 3."
+ },
+ "cronologia": [
+  {
+   "hora": "2021-01-31",
+   "evento": "Se detecta el fallo del sistema de numeración automática de trenes del CTC: las ocupaciones del cantón CVCBM se representan sin número de tren asociado"
+  },
+  {
+   "hora": "07:20",
+   "evento": "El tren 30852 (Figueres-Maçanet/Massanes) acumula 26 minutos de retraso. El CG de RENFE Viajeros estima que coincidirá con la salida del 25614"
+  },
+  {
+   "hora": "07:24",
+   "evento": "Primera comunicación del CG de RENFE al Inspector del PM sobre el retraso y la reorganización del material rodante"
+  },
+  {
+   "hora": "07:26:50",
+   "evento": "El RC de Mataró cambia manualmente la numeración del material rodante estacionado en vía 3 de Blanes (25612→25610)"
+  },
+  {
+   "hora": "07:27:45",
+   "evento": "El tren 30852 llega a vía 5 de Maçanet/Massanes; cambia automáticamente a 25610; el material en Blanes adquiere '25S10'"
+  },
+  {
+   "hora": "07:28",
+   "evento": "Segunda comunicación del CG de RENFE al Inspector del PM informando de los cambios de numeración y necesidad de surco adicional"
+  },
+  {
+   "hora": "07:31:20",
+   "evento": "El RC de Granollers modifica manualmente el número del tren retrasado a 95750 (marcha en vacío introducida por error)"
+  },
+  {
+   "hora": "07:33:15",
+   "evento": "El RC de Granollers establece itinerario de salida hacia Blanes para el tren 95750 (que venía con retraso)"
+  },
+  {
+   "hora": "07:35:10",
+   "evento": "Tercera comunicación del CG de RENFE: se han creado dos marchas (95750 sin viajeros y 95756 correcta con viajeros)"
+  },
+  {
+   "hora": "07:35:28",
+   "evento": "El tren retrasado ocupa el cantón CVCBM y pierde el número de tren asociado en el videográfico"
+  },
+  {
+   "hora": "07:36:20",
+   "evento": "El RC de Granollers deja preestablecido el itinerario de salida del tren 25614 hacia Blanes (se ejecutará cuando CVCBM quede libre)"
+  },
+  {
+   "hora": "07:37:54",
+   "evento": "El maquinista del 25614 contacta al RC de Granollers preguntando por la demora en abrir la señal; le informan que el cantón está ocupado"
+  },
+  {
+   "hora": "07:42:00",
+   "evento": "El RC de Mataró cambia manualmente la numeración del tren retrasado a 95756 en el circuito de entrada de Blanes"
+  },
+  {
+   "hora": "07:47:04",
+   "evento": "El tren 95756 libera el cantón CVCBM; el tren 25614 sale de Maçanet/Massanes hacia Blanes"
+  },
+  {
+   "hora": "07:47:26",
+   "evento": "El tren 25614 pierde el número de tren al ocupar el cantón CVCBM (coincide con cambio manual del RC de Mataró)"
+  },
+  {
+   "hora": "07:47:30",
+   "evento": "El RC de Mataró renombra manualmente la ocupación del tren C como 25612 en vía 1 de Blanes"
+  },
+  {
+   "hora": "07:47:57",
+   "evento": "El Inspector regulador del PM informa a Logística de ADIF que tiene ocupado el cantón entre Blanes y Maçanet/Massanes"
+  },
+  {
+   "hora": "07:48:14",
+   "evento": "El RC de Mataró establece itinerario de entrada a vía 3 de Blanes para el tren 25603 procedente de Barcelona"
+  },
+  {
+   "hora": "07:49:49",
+   "evento": "El tren 25603 se estaciona en vía 3 de Blanes; libera cantón Blanes-Malgrat permitiendo salida del 25612"
+  },
+  {
+   "hora": "07:51:09",
+   "evento": "El RC de Mataró establece itinerario de salida del 25612 hacia Barcelona"
+  },
+  {
+   "hora": "07:52",
+   "evento": "El RC de Granollers cursa telefonema 543 al RC de Mataró autorizando rebase de señal S1/3 para el 25603 con marcha normal"
+  },
+  {
+   "hora": "07:55:09",
+   "evento": "El RC de Mataró cursa telefonema al maquinista del 25603 autorizando rebase de S1/3 con marcha normal (anotando hora 7:57)"
+  },
+  {
+   "hora": "07:56:12",
+   "evento": "El RC de Mataró inicia bloqueo de agujas 4 y 2 de Blanes para itinerario de salida del 25603; la aguja 2 queda en posición incorrecta"
+  },
+  {
+   "hora": "07:58:06",
+   "evento": "El RC de Granollers establece itinerario de entrada a vía 5 de Maçanet/Massanes que anula inmediatamente activando diferímetro"
+  },
+  {
+   "hora": "07:59:02",
+   "evento": "El RC de Mataró corrige la posición de la aguja 2"
+  },
+  {
+   "hora": "08:00",
+   "evento": "El RC de Mataró cursa telefonema 248 al maquinista del 25603 autorizando rebase de S1/3 con marcha normal"
+  },
+  {
+   "hora": "08:01:06",
+   "evento": "El RC de Granollers establece nuevo itinerario de entrada a vía 3 de Maçanet/Massanes"
+  },
+  {
+   "hora": "08:03:55",
+   "evento": "Se anula el bloqueo de agujas para establecer itinerario de entrada del 25614"
+  },
+  {
+   "hora": "08:04:10",
+   "evento": "El RC de Mataró establece itinerario de entrada para el 25614; el número de tren se propaga correctamente"
+  },
+  {
+   "hora": "08:04:15",
+   "evento": "El maquinista del 25603 comunica al RC de Mataró que su itinerario está ocupado y que está detenido sin haber rebasado S1/3"
+  },
+  {
+   "hora": "08:04",
+   "evento": "El RC de Mataró cursa telefonema 249 anulando la autorización de rebase al maquinista del 25603"
+  },
+  {
+   "hora": "08:05:05",
+   "evento": "El tren 25614 queda estacionado en vía 1 de Blanes, liberando el cantón CVCBM"
+  },
+  {
+   "hora": "08:05:40",
+   "evento": "El RC de Mataró establece itinerario de salida para el 25603 hacia Maçanet/Massanes"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25603",
+   "tipo": "Viajeros (Rodalies R1)",
+   "operador": "RENFE Viajeros",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "25614",
+   "tipo": "Viajeros (Rodalies R1/R11)",
+   "operador": "RENFE Viajeros",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "30852/95756/25612",
+   "tipo": "Viajeros (Rodalies, tren especial con renumeración)",
+   "operador": "RENFE Viajeros",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "25610",
+   "tipo": "Viajeros (Rodalies)",
+   "operador": "RENFE Viajeros",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25603",
+   "implicacion": "Recibió autorización indebida de rebase de S1/3; se detuvo al ver el otro tren sin rebasar la señal; comunicó la situación al RC de Mataró"
+  },
+  {
+   "rol": "Maquinista del tren 25614",
+   "implicacion": "Se encontraba detenido frente a señal E2 de Blanes; contactó al RC de Granollers preguntando por la demora"
+  },
+  {
+   "rol": "Maquinista del tren 95756",
+   "implicacion": "Tren con retraso que precedía al 25614"
+  },
+  {
+   "rol": "RC del CTC de Mataró",
+   "implicacion": "Telemanda estación de Blanes; cursó telefonema 248 autorizando rebase indebido; dedujo erróneamente falsa ocupación; anuló autorización tras aviso del maquinista"
+  },
+  {
+   "rol": "RC del CTC de Granollers",
+   "implicacion": "Telemanda estación de Maçanet/Massanes; cursó telefonema 543 autorizando rebase; dejó preestablecido itinerario del 25614; no realizó comprobaciones adicionales"
+  },
+  {
+   "rol": "Inspector regulador del PM de Barcelona",
+   "implicacion": "Recibió comunicaciones del CG de RENFE; informó a Logística de ocupación del cantón sin realizar comprobación adicional"
+  },
+  {
+   "rol": "Técnico de regulación del PM de Barcelona",
+   "implicacion": "Gestiona el PM; tuvo conocimiento a posteriori del incidente"
+  },
+  {
+   "rol": "Responsables del CG de RENFE en Barcelona",
+   "implicacion": "Comunicaron directamente a los RC las alteraciones de malla sin canal formal"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/3 (vía 3 de Blanes, aspecto de parada en todo momento); señal de entrada E2 de Blanes; ASFA Digital en toda la línea",
+  "tipo_via": "Vía única entre Blanes y Maçanet/Massanes; estación de Blanes con haz de 4 vías (1, 3, 5, 7) más 2 vías mango",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Cantón CVCBM ocupado por tren 25614 (mostrado sin número de tren en videográfico por fallo del CTC)",
+  "otro": "Bloqueo BLAU con CTC y contadores de ejes; un único cantón de bloqueo CVCBM; radiotelefonía tren-tierra canal 6; CTC de Barcelona con bandas de regulación Granollers y Mataró"
+ },
+ "material_rodante": {
+  "series": "Serie 447 (autopropulsados de 3 coches: 2 motores + 1 remolque, diseñados para trayectos cortos de viajeros)",
+  "averia": "Ninguna avería en material rodante; no tuvo implicación directa en el incidente",
+  "mantenimiento": null
+ },
+ "clima": "Sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Autorización indebida de rebase de la señal S1/3 de la estación de Blanes notificada al maquinista del tren 25603 por el RC del CTC de Mataró, al deducir erróneamente que la ocupación del cantón CVCBM (sin número de tren asociado) era una falsa ocupación",
+  "contribuyentes": [
+   "No verificación de que el cantón de bloqueo CVCBM estaba libre de trenes (art. 4.3.1.3 del RCF)",
+   "Falta de supervisión por el PM del cumplimiento de las condiciones para autorización de rebase de señal que ordene parada (art. 5.2.1.2 del RCF)",
+   "Fallo en el sistema de numeración y seguimiento automático de trenes del CTC desde el 31 de enero de 2021, sin reparación",
+   "Falta de comunicación formal a todos los RC sobre la pérdida de numeración en el cantón Blanes-Maçanet",
+   "Alteración de la malla de circulaciones en tiempo real por el retraso del tren 30852",
+   "Comunicación directa del personal del CG de RENFE Viajeros a los RC sin canal formal ni verificación de coherencia",
+   "Condición de extremo de banda de CTC del cantón entre Blanes y Maçanet/Massanes (gestionado por dos RC distintos)"
+  ],
+  "sistemicas": [
+   "Ausencia de procedimientos específicos de desarrollo del art. 4.3.1.3 del RCF para anormalidades en BLA",
+   "Ausencia de protocolos adicionales de supervisión en la cadena de mando de los PM para verificar condiciones de autorización de rebase (art. 5.2.1.2 del RCF)",
+   "Ausencia de un protocolo para canalizar comunicaciones entre el PM de ADIF y los CG de las EEFF"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno (ni a material rodante, ni a infraestructura, ni al medio ambiente)",
+  "afectacion_servicio": "No se produjeron interceptaciones de consideración a otras circulaciones; no fue necesaria activación de ningún plan de emergencias"
+ },
+ "lecciones": [
+  "Cualquier ocupación visualizada en el videográfico, aunque no tenga número de tren asociado, debe interpretarse en primer lugar como un tren ocupando el cantón, hasta que se realicen todas las comprobaciones previas",
+  "La información del videográfico del CTC no tiene el nivel de seguridad de las instalaciones de bloqueo y enclavamiento; no es suficiente para determinar la ocupación real ni para tomar decisiones de seguridad",
+  "En cantones entre bandas de regulación colaterales gestionados por RC distintos, la coordinación entre ambos RC es fundamental",
+  "Las autorizaciones de rebase de señales que ordenan parada implican pérdida de protecciones de los sistemas de seguridad y transfieren la responsabilidad al personal",
+  "Las incidencias en sistemas de ayuda a la gestión (videográfico) deben registrarse y repararse con la misma urgencia que las de instalaciones de seguridad",
+  "Las comunicaciones entre CG de las EEFF y RC del CTC deben canalizarse por un receptor único para garantizar coherencia de la información"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Definir procedimientos específicos de desarrollo del art. 4.3.1.3 del RCF en caso de anormalidades en los BLA que obliguen a expedir trenes con autorizaciones de rebase de señales de salida. Deberán incluir comprobación de la situación real de los trenes mediante fórmulas específicas de comunicación entre RC del CTC y entre éstos y los maquinistas.",
+   "destinatario": "AESF (destinatario) / ADIF (implementador final)"
+  },
+  {
+   "texto": "Incidir en las sesiones formativas impartidas a los RC del CTC que la información mostrada en el sistema videográfico tiene únicamente carácter informativo de ayuda a la gestión.",
+   "destinatario": "AESF (destinatario) / ADIF (implementador final)"
+  },
+  {
+   "texto": "Definir protocolos adicionales, que tengan en cuenta la cadena de mando del CTC, para la verificación de las condiciones de autorización de rebase de una señal que ordene parada (art. 5.2.1.2 del RCF). Estudiar la conveniencia de incorporar supervisión previa por nivel superior a los RC cuando se expidan trenes con autorización de rebase.",
+   "destinatario": "AESF (destinatario) / ADIF (implementador final)"
+  },
+  {
+   "texto": "Estudiar la forma en que las incidencias reportadas por los RC por pérdidas de número de tren en los videográficos puedan incorporarse al registro de averías en instalaciones, permitiendo seguimiento adecuado para mejorar la fiabilidad del CTC en el plazo más breve posible.",
+   "destinatario": "AESF (destinatario) / ADIF (implementador final)"
+  },
+  {
+   "texto": "Establecer un canal y procedimiento de interlocución entre el PM y los CG de las EEFF, de forma que no se interfiera la coordinación y supervisión de la información que precisan los RC para desarrollar sus funciones.",
+   "destinatario": "AESF (destinatario) / ADIF y EEFF (implementadores finales conjuntos)"
+  }
+ ],
+ "tags": [
+  "incidente operacional",
+  "autorización indebida de rebase de señal",
+  "falsa ocupación deducida erróneamente",
+  "fallo videográfico CTC",
+  "pérdida numeración tren",
+  "bloqueo BLAU",
+  "hora punta",
+  "malla de circulaciones alterada",
+  "comunicación no canalizada",
+  "supervisión insuficiente",
+  "cantón entre bandas colaterales",
+  "Rodalies R1"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10111 - 2021-09-0205-IF Blanes"
+}

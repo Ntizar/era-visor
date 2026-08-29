@@ -1,0 +1,161 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 15837 de ancho convencional en el desvío nº5 de la estación de Vilamalla (Girona)",
+ "idioma_original": "es",
+ "resumen": "El 12 de octubre de 2011, a las 17:40, el tren 15837 de Renfe Operadora, de ancho convencional, descarriló en el desvío nº5 de la estación de Vilamalla (Girona). El suceso se produjo tras un fallo técnico del cambio nº5, que no daba comprobación a posición normal, y una autorización de rebase sobre un itinerario inexistente para el ancho del tren. Un viajero resultó herido leve y se produjeron daños materiales de escasa cuantía. La investigación atribuye el origen a una gestión no adecuada del fallo por parte del jefe de circulación y del personal de conducción.",
+ "hechos": "El tren de viajeros 15837, de ancho convencional y perteneciente a Renfe Operadora, procedente de El Prat de Llobregat y con destino Cerbere, detuvo su marcha ante la señal de entrada E1 de la estación de Vilamalla, en indicación de parada. El jefe del CTC intentó establecer itinerario de entrada a vía 2, pero el cambio nº5 no daba comprobación a posición normal; después intentó vía 1, pero el escape 5/7 era de ancho UIC y resultaba incompatible con el ancho del tren. El jefe del CTC autorizó entonces el rebase de las señales E1 y R1 en régimen de maniobra mediante telefonema, incluyendo la comprobación de cambios. El tren inició la marcha, pasó por el cambio nº5 en posición invertida hacia vía 3, de ancho UIC, y descarrilaron los dos primeros ejes del primer bogie y una rueda del segundo bogie. Un viajero resultó herido leve, y se produjeron daños materiales de escasa cuantía en la unidad tracción y en el cambio nº5.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Vilamalla",
+  "pk": "241+083",
+  "linea": "270 Bifurcación Sagrera a Cerbere",
+  "provincia": "Girona",
+  "descripcion_lugar": "Desvío nº5 (PK 241+083) en la estación de Vilamalla, tramo Girona - Vilamalla, municipio de Vilamalla, provincia de Girona."
+ },
+ "cronologia": [
+  {
+   "hora": "17:25",
+   "evento": "El tren 15837 tiene itinerario hasta la señal de entrada E1; la señal de avanzada E'1 está en anuncio de parada y E1 en parada."
+  },
+  {
+   "hora": "17:25",
+   "evento": "El tren ocupa el circuito de vía CVE1; el CTC intenta establecer itinerario a vía 2, pero el cambio nº5 no da comprobación a normal."
+  },
+  {
+   "hora": "17:27",
+   "evento": "El tren permanece detenido ante la señal E1 en indicación de parada."
+  },
+  {
+   "hora": "17:28",
+   "evento": "Conversación entre jefe de circulación y maquinista: se comunica falta de comprobación de cambios y se anuncia paso por vía desviada o vía 1."
+  },
+  {
+   "hora": "17:31",
+   "evento": "No se puede itinerario a vía 2; se intenta vía 1, pero el escape 5/7 es de ancho UIC e incompatible con el tren; el CTC autoriza rebase de E1 y R1 por telefonema nº 90 en régimen de maniobra con comprobación de cambios."
+  },
+  {
+   "hora": "17:39",
+   "evento": "El tren activa el rebase autorizado e inicia la marcha tras 12 minutos detenido ante E1."
+  },
+  {
+   "hora": "17:40",
+   "evento": "El tren pasa por la baliza de E1 a 24 km/h, rebasa R1, pasa por la aguja nº3 normal y el cambiador de hilo CH1, y accede al cambio nº5 en invertido hacia vía 3, de ancho UIC."
+  },
+  {
+   "hora": "17:40",
+   "evento": "Se produce el descarrilamiento al pasar sobre el cambio nº5 a 25 km/h; descarrilan dos ejes del primer bogie y la rueda izquierda del primer eje del segundo bogie."
+  },
+  {
+   "hora": "17:41",
+   "evento": "El tren queda detenido 30 metros después del descarrilamiento."
+  },
+  {
+   "hora": "18:45",
+   "evento": "Se restablece la circulación por vía 2, de ancho convencional."
+  },
+  {
+   "hora": "20:14",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "21:20",
+   "evento": "Se realiza al maquinista prueba de alcoholemia y drogas con resultado negativo."
+  },
+  {
+   "hora": "04:30",
+   "evento": "El 2011-10-13 se restablece la circulación por vía 3, de ancho UIC, y vía 1, de ancho convencional, en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15837",
+   "tipo": "tren de viajeros de media distancia, ancho convencional, serie 470, tipo 140",
+   "operador": "Renfe Operadora",
+   "danos": "Daños de escasa cuantía en la unidad tracción."
+  },
+  {
+   "numero": "BK507",
+   "tipo": "tren de ancho UIC",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe del CTC (Adif)",
+   "implicacion": "Intentó establecer itinerarios afectados por el fallo del cambio nº5, no percibió la incompatibilidad de ancho del escape 5/7 y autorizó el rebase de E1 y R1 por telefonema sin especificar la posición de los cambios, incumpliendo el Aviso nº43 de la DSC de Adif."
+  },
+  {
+   "rol": "Maquinista del tren 15837 (Renfe Operadora)",
+   "implicacion": "Recibió autorización de rebase, utilizó llave de rebase autorizado, comprobó aparatos de vía pero desconocía que el cambio nº5 era exclusivamente de ancho UIC y transitó por un tramo con interrupción total para el material rodante que conducía."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de avanzada E'1 en anuncio de parada; señal de entrada E1 en parada; señal de retroceso R1; rebase autorizado por telefonema nº 90 en régimen de maniobra con comprobación de cambios; la señal E1 no se abría por falta de comprobación del cambio nº5.",
+  "tipo_via": "Estación de 4 vías; tramo de vía doble electrificada; vía 2 general de ancho mixto; vía 1 de ancho convencional; vía 3 de ancho UIC; vía 4 de apartado de ancho convencional; desvío nº5 conjugado con nº7, con agujas de ancho UIC.",
+  "velocidad_maxima": "30 km/h",
+  "ancho": "Ancho convencional, ancho UIC y ancho mixto; línea 260 con tercer carril hasta Figueres Vilafant.",
+  "electrificacion": "Vía doble electrificada; línea 260 electrificada.",
+  "estado_via": "Fallo técnico: el cambio nº5 no daba comprobación a posición normal; el enclavamiento impedía establecer itinerarios afectados; en posición invertida era incompatible con el ancho convencional del tren.",
+  "otro": "Gestión desde el puesto de mando de Barcelona; tráfico regulado por CTC; bloqueo automático banalizado con CTC en el tramo; Vilamalla es origen de la línea 260 con bloqueo automático de vía única con CTC."
+ },
+ "material_rodante": {
+  "series": "Serie 470, tipo 140, 3 coches, 12 ejes, 205 toneladas; Nº UIC 987184701173.",
+  "averia": "Equipos de seguridad del tren funcionaron correctamente; el descarrilamiento se produjo por pasar sobre un cambio de ancho UIC con un tren de ancho convencional.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y no existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Paso del tren 15837 de ancho convencional sobre el cambio nº5, orientado en posición invertida hacia vía 3, de ancho UIC, cuyo escape 5/7 es exclusivamente de ancho UIC, provocando el descarrilamiento.",
+  "contribuyentes": [
+   "Fallo técnico del cambio nº5, que no daba comprobación a posición normal y impedía el itinerario a vía 2.",
+   "El jefe del CTC autorizó un rebase sobre un itinerario inexistente para el ancho del tren.",
+   "El jefe del CTC no especificó la posición que debían presentar los aparatos de vía en la autorización de rebase, incumpliendo el Aviso nº43 de la DSC de Adif.",
+   "El jefe del CTC no percibió que el escape 5/7 era exclusivamente de ancho UIC y no especificó el itinerario definitivo por vía 2.",
+   "El maquinista transitó por un tramo con interrupción total para el material rodante que conducía.",
+   "El maquinista desconocía que el cambio nº5 era de ancho UIC."
+  ],
+  "sistemicas": [
+   "Señalado en recomendaciones: necesidad de establecer pautas claras y lógicas para rebases de señal con comprobación de aparatos de vía, adaptadas a nuevas tecnologías.",
+   "Señalado en recomendaciones: reforzar la formación del personal de conducción sobre aparatos de vía y desvíos cuando coinciden diferentes anchos en un enclavamiento.",
+   "Señalado en recomendaciones: intensificar la formación de jefes de circulación en líneas con tercer carril y conocimiento de instalaciones."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": 1,
+  "danos_materiales": "Daños de escasa cuantía en la unidad tracción y en el cambio nº5.",
+  "afectacion_servicio": "Interrupción de circulación por vías 1 y 2 entre Sant Miquel de Fluvià y Vilamalla y por vía 3; restablecida vía 2 a las 18:45 y vías 1 y 3 a las 04:30 del 2011-10-13; 17 trenes con 593 minutos de retraso acumulado, 2 trenes de media distancia suprimidos y transporte por carretera entre Vilamalla y Sant Miquel de Fluvià."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "47/11-1: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  },
+  {
+   "texto": "47/11-2: Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción y reciclajes en lo referente a los conocimientos técnicos sobre aparatos de vía y especialmente de los desvíos, cuando coinciden en un enclavamiento diferentes anchos.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  },
+  {
+   "texto": "47/11-3: Evaluar la conveniencia de intensificar la formación de los jefes de circulación que gestionan líneas dotadas de tercer carril, en lo relativo al conocimiento de las instalaciones que tienen a su cargo y en el cumplimiento del Aviso nº 43 de la Dirección de Seguridad en la Circulación (DSC) de Adif.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "estación",
+  "ancho convencional",
+  "ancho uic",
+  "tercer carril",
+  "enclavamiento",
+  "desvío",
+  "rebase autorizado",
+  "telefonema",
+  "formación",
+  "seguridad ferroviaria",
+  "vilamalla"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-121011-260612-CIAF"
+}

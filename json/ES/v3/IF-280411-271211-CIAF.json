@@ -1,0 +1,133 @@
+{
+ "titulo_normalizado": "Colisión por alcance entre trenes de Renfe Operadora en el apeadero de El Clot-Aragó (Barcelona) por incumplimiento de la marcha a la vista",
+ "idioma_original": "es",
+ "resumen": "El 28 de abril de 2011 a las 09:49 horas se produjo una colisión por alcance en el PK 110+000 de la línea 262 Barcelona Sagrera – Bifurcación Clot, en el apeadero de El Clot-Aragó (Barcelona). El tren de cercanías 28913 rebasó la señal permisiva 1095 en indicación de parada y ocupó el circuito de vía ya ocupado por el tren 37507, material vacío del tren 00476. La colisión causó el descarrilamiento parcial del tren 28913, daños materiales en ambos trenes e infraestructura, y dieciocho heridos leves entre los viajeros. La investigación concluyó que el origen fue el incumplimiento de las órdenes de las señales al no cumplimentarse reglamentariamente la marcha a la vista.",
+ "hechos": "El día 28 de abril de 2011, a las 09:49 horas, el tren 37507, material vacío del tren 00476 procedente de Barcelona Estació de França y con destino Barcelona Sant Andreu Comtal, estaba detenido en el apeadero de El Clot-Aragó ante la señal 1103, que se encontraba en indicación de parada. Entre tanto, el tren de viajeros de cercanías 28913, procedente de Molins del Rey y con destino Mataró, rebasó la señal permisiva 1095 en indicación de parada y ocupó el circuito de vía que ya estaba ocupado por el tren 37507.\n\nSeguidamente, la señal 1103 cambió a anuncio de parada y el tren 37507 reinició la marcha; tras recorrer 15 metros y circulando a 10 km/h, fue alcanzado por la cola del tren 28913, que lo hizo a 21 km/h. La colisión produjo el descarrilamiento del segundo bogie del coche de cabeza y del primer bogie del coche intermedio del tren 28913, quedando empotrado con el tren 37507.\n\nSe produjeron dieciocho heridos leves, todos viajeros del tren 28913. Los viajeros fueron encaminados a pie hasta el apeadero de El Clot-Aragó con ayuda de los bomberos y evacuados en material vacío; dieciséis heridos fueron trasladados a centros hospitalarios y dos dados de alta voluntariamente. El tren 37507 reanudó por sí mismo la marcha y quedó apartado en Barcelona Sant Andreu Comtal.",
+ "lugar": {
+  "tipo": "apeadero",
+  "estacion": "El Clot-Aragó",
+  "pk": "PK 110+000",
+  "linea": "262 Barcelona Sagrera – Bifurcación Clot",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Aproximadamente en el PK 110+000, unos 78 metros antes del apeadero de El Clot, en el tramo Bifurcación Glorias a Barcelona Clot Aragó. Las vías transcurren separadas por el interior de sendos túneles individuales, describiendo una curva de radio 333 metros hacia la derecha en sentido de la marcha, con iluminación artificial y visibilidad limitada. Declividad de 1,72 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "09:41:52",
+   "evento": "El tren 37507 se detiene en el apeadero de El Clot-Aragó, unos 45 metros antes de la señal 1103, que estaba en parada."
+  },
+  {
+   "hora": "09:45:50",
+   "evento": "El tren 28913 tiene establecido itinerario hasta la señal 1095, estando ésta en parada."
+  },
+  {
+   "hora": "09:47:26",
+   "evento": "El tren 28913 pasa por la baliza de pie de señal 1095 en indicación de parada, ocupando el circuito de vía posterior ya ocupado por el tren 37507."
+  },
+  {
+   "hora": "09:48:42",
+   "evento": "La señal 1103 cambia de indicación y el tren 37507 inicia la marcha."
+  },
+  {
+   "hora": "09:48:59",
+   "evento": "Se produce la colisión entre el tren 28913 y el tren 37507 a 21 km/h; se aprecia actuación en el manipulador de freno."
+  },
+  {
+   "hora": "09:49:06",
+   "evento": "Los trenes quedan detenidos, tras recorrer 15 metros el tren 37507 desde el inicio de su marcha."
+  },
+  {
+   "hora": "11:16",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF que se había producido el suceso."
+  },
+  {
+   "hora": "11:45",
+   "evento": "La vía par queda expedita para la circulación de trenes entre Bif. Sagrera y Barcelona Marina."
+  },
+  {
+   "hora": "01:35",
+   "evento": "El día 29 de abril se restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28913",
+   "tipo": "Tren de viajeros de cercanías, tipo 120 A, 6 coches, 24 ejes, 152 metros, 338 toneladas",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento del segundo bogie del coche de cabeza y del primer bogie del coche intermedio. Afectados los topes y varios elementos de la cabina frontal de la rama 447137, que iba en cabeza. Quedó empotrado con el tren 37507."
+  },
+  {
+   "numero": "37507",
+   "tipo": "Tren de viajeros, material vacío del tren 00476, tipo 200 B, locomotora 252575, 22 coches Talgo, 23 ejes, 286 metros, 321 toneladas",
+   "operador": "Renfe Operadora",
+   "danos": "Afectados los topes del coche de cola, con rotura de la tubería neumática; el primer coche quedó empotrado sobre los topes de la locomotora."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 28913",
+   "implicacion": "Matrícula 6814073. Posee título B de conducción y habilitaciones vigentes. Declaró que llegó a la señal 1095 en parada, se detuvo, reinició la marcha prefijando 20 km/h, y al entrar en curva vio el tren y aplicó freno de urgencia sin poder evitar la colisión. Declaró ser alérgico y haber estornudado varias veces momentos antes, lo que pudo influir en su tiempo de reacción. Prueba de alcoholemia y drogas negativa a las 10:53 horas."
+  },
+  {
+   "rol": "Maquinista del tren 37507",
+   "implicacion": "Matrícula 9754276. Posee título B de conducción y habilitaciones vigentes. Declaró que estaba detenido ante la señal 1103 con anuncio de parada y letra G en la pantalla alfanumérica, liberó freno y puso tracción, notando entonces un impacto. Prueba de alcoholemia negativa a las 12:07 horas."
+  },
+  {
+   "rol": "Agente de Talgo",
+   "implicacion": "Declaró que las señales de cola del tren 37507 estaban encendidas."
+  },
+  {
+   "rol": "Jefe de circulación de Barcelona Estació de França",
+   "implicacion": "Declaró que las señales de cola del tren 37507 estaban encendidas al darle la orden de marcha."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal 1095 (PK 109+509), alta de tres focos, permisiva, intermedia de bloqueo y avanzada de Bifurcación Sagrera; estaba en indicación de parada y fue rebasada por el tren 28913. Señal 1103 (PK 110+317), alta de tres focos, situada a la salida del apeadero, intermedia de bloqueo y señal de entrada a Bifurcación Sagrera, con pantalla luminosa G (Granollers) o M (Mataró). Ambas dotadas de baliza previa y de pie de señal. Funcionamiento correcto.",
+  "tipo_via": "Vía doble electrificada de ancho convencional en el tramo, aunque en la zona del accidente las vías transcurren separadas por el interior de sendos túneles individuales.",
+  "velocidad_maxima": "85 km/h para todos los trenes en sentido impar; no existen limitaciones de velocidad permanentes en el punto del accidente.",
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionamiento correcto de la infraestructura e instalaciones técnicas.",
+  "otro": "Circulación al amparo de bloqueo automático para vía doble (BAD) con control de tráfico centralizado (CTC) gestionado desde el puesto de mando de Barcelona Sants. Curva de radio 333 metros hacia la derecha en sentido de la marcha, declividad de 1,72 milésimas, iluminación artificial y visibilidad limitada. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 1.436."
+ },
+ "material_rodante": {
+  "series": "Tren 28913 tipo 120 A; tren 37507 tipo 200 B, locomotora 252575 y 22 coches Talgo.",
+  "averia": "Los equipos de seguridad de ambos trenes funcionaron correctamente. El registrador del tren 28913 no captura la velocidad prefijada.",
+  "mantenimiento": null
+ },
+ "clima": "No afecta al accidente, que ocurre en el interior de un túnel.",
+ "causas": {
+  "directa": "Incumplimiento de las órdenes dadas por las señales al personal de conducción, al no cumplimentarse reglamentariamente la marcha a la vista tras rebasar la señal permisiva 1095 en indicación de parada.",
+  "contribuyentes": [
+   "Visibilidad limitada en el interior del túnel en curva pronunciada con iluminación artificial.",
+   "El maquinista del tren 28913 declaró ser alérgico y haber estornudado varias veces momentos antes de la colisión, lo que pudo influir en su tiempo de reacción.",
+   "El túnel estaba insuficientemente iluminado, según declaración del maquinista del tren 28913."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 18,
+  "danos_materiales": "Tren 28913: topes y varios elementos de la cabina frontal de la rama 447137. Tren 37507: topes del coche de cola, rotura de tubería neumática y empotramiento del primer coche sobre los topes de la locomotora. Infraestructura: deformación en los carriles, daños en las sujeciones de éstos y en las cabezas de las traviesas.",
+  "afectacion_servicio": "Suspensión de circulaciones por vías par e impar entre Barcelona Marina y Bif. Sagrera. Vía par expedita a las 11:45; circulación restablecida en condiciones normales a las 01:35 del día 29. Retrasos: 3 trenes de larga distancia (352 minutos), 7 de media distancia (93 minutos) y 59 de cercanías (622 minutos acumulados)."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "colisión por alcance",
+  "marcha a la vista",
+  "incumplimiento de señales",
+  "renfe operadora",
+  "cercanías",
+  "talgo",
+  "descarrilamiento",
+  "túnel",
+  "visibilidad limitada",
+  "el clot-aragó",
+  "barcelona",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-280411-271211-CIAF"
+}

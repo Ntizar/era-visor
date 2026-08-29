@@ -1,0 +1,217 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías COX26 entre Algemesí y Benifaió por fallo mecánico de rodamiento y pérdida de caja de grasa",
+ "idioma_original": "es",
+ "resumen": "El 11 de noviembre de 2010, a las 01:35 horas, el tren de mercancías COX26 de Renfe Operadora descarriló en el PK 89+850 de la línea 300 Madrid Chamartín – Valencia Estació del Nord, entre Algemesí y Benifaió (Valencia). Descarriló la rueda derecha del eje nº 28 del undécimo vagón (MC3, UIC 22714433275) al perder contacto con el carril por basculación del bastidor, causada por la pérdida de la caja de grasa izquierda del eje nº 27. El origen fue un fallo mecánico de un elemento del rodamiento que provocó sobrecalentamiento progresivo y colapso. No hubo heridos. La caja de grasa desprendida fue arrollada por el tren 82501 con mercancías peligrosas, causándole daños.",
+ "hechos": "El tren de mercancías COX26 de Renfe Operadora, procedente de Vicálvaro P.Seco (Madrid) con destino Silla (Valencia), circulaba a una velocidad media de 95 km/h durante la noche del 10 al 11 de noviembre de 2010. A partir de las 22:28 horas, la caja de grasa izquierda del eje nº 27 del undécimo vagón comenzó a elevar su temperatura de forma progresiva, como registraron los detectores de ejes calientes (DEC) de Socuéllamos (36ºC), La Roda (32ºC), Chinchilla (46ºC), La Encina (69ºC) y Alzira (141ºC). A las 01:23 horas, al paso por el DEC del PK 79+100, la temperatura absoluta superó el umbral de 72ºC y saltó la alarma en el puesto de mando de Valencia. El regulador informó al maquinista, quien redujo la velocidad y detuvo el tren en la estación de Benifaió a las 01:38 horas.\n\nDurante el recorrido entre el disparo de la alarma y la detención, a las 01:35 horas el vagón perdió la caja de grasa izquierda del eje nº 27, que quedó depositada en la vía impar aproximadamente en el PK 89+850. Esto provocó la basculación del bastidor del vagón y el descarrilamiento de la rueda derecha del eje nº 28. El tren había recorrido 11,9 km desde la alarma. El maquinista observó al reconocer el tren que el vagón estaba ladeado y la rueda derecha del eje nº 28 estaba a cuatro dedos del carril.\n\nA las 02:17 horas, el tren de mercancías 82501, que transportaba mercancías peligrosas (óxido de propileno y benceno), arrolló la caja de grasa caída en la vía, sufriendo daños en el primer reductor, mangas de freno, sistema ASFA y sensor de velocidad de su locomotora, que quedó inutilizada y fue apartada en Algemesí. Se suprimió un tren de mercancías y tres de cercanías, y se interceptó la vía 2 de Benifaió entre las 01:38 y las 13:00 horas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Benifaió (detención del tren); entre Algemesí y Benifaió (lugar del descarrilamiento)",
+  "pk": "89+850",
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Tramo Xátiva - Silla, vía doble electrificada. El descarrilamiento se produce en plena vía entre las estaciones de Algemesí y Benifaió, municipio de Benifaió. La alarma del DEC se activó en el PK 79+100 entre Alzira y Algemesí."
+ },
+ "cronologia": [
+  {
+   "hora": "22:28",
+   "evento": "Paso por DEC de Socuéllamos: temperatura caja de grasa eje 27 = 36ºC"
+  },
+  {
+   "hora": "22:55",
+   "evento": "Paso por DEC de La Roda: temperatura = 32ºC"
+  },
+  {
+   "hora": "23:45",
+   "evento": "Paso por DEC de Chinchilla: temperatura = 46ºC"
+  },
+  {
+   "hora": "00:20",
+   "evento": "Paso por DEC de La Encina: temperatura = 69ºC; diferencial 47ºC (no supera umbral de 48ºC, no salta alarma)"
+  },
+  {
+   "hora": "01:23",
+   "evento": "Paso por DEC PK 79+100 (Alzira): temperatura = 141ºC. Salta la alarma por superar los 72ºC absolutos"
+  },
+  {
+   "hora": "01:27:57",
+   "evento": "Conversación radio: regulador informa al maquinista del COX26 de la alarma de 140º en Alzira y le indica parada en Benifaió"
+  },
+  {
+   "hora": "01:28",
+   "evento": "El regulador del puesto de mando de Valencia informa al maquinista del COX26 de la alarma y le ordena reducir velocidad y detenerse en Benifaió"
+  },
+  {
+   "hora": "01:29",
+   "evento": "Maquinista del tren 897 informa de un incendio junto a la vía en PK 79+100. El tren COX26 comienza a reducir velocidad"
+  },
+  {
+   "hora": "01:33:12",
+   "evento": "Maquinista del tren FK499 informa al regulador que el COX26 lleva un vagón echando chispas"
+  },
+  {
+   "hora": "01:33:34",
+   "evento": "El regulador informa al maquinista del COX26 de que un eje va echando chispas y le ordena reducir más la velocidad"
+  },
+  {
+   "hora": "01:34",
+   "evento": "El regulador ordena al maquinista reconocer el eje en Benifaió; el maquinista confirma ver chispas por el espejo retrovisor"
+  },
+  {
+   "hora": "01:35",
+   "evento": "Se produce el descarrilamiento: pérdida de la caja de grasa izquierda del eje nº 27 en PK 89+850; basculación del bastidor del vagón undécimo; descarrilamiento de la rueda derecha del eje nº 28"
+  },
+  {
+   "hora": "01:38",
+   "evento": "El tren COX26 se detiene en la estación de Benifaió tras recorrer 11,9 km desde la alarma. Vía 2 de Benifaió interceptada"
+  },
+  {
+   "hora": "01:55",
+   "evento": "El maquinista informa al regulador: vagón ladeado, rueda derecha del eje 28 a cuatro dedos del carril, falta caja de grasa izquierda del eje 27"
+  },
+  {
+   "hora": "02:17",
+   "evento": "El tren 82501 con mercancías peligrosas arrolla la caja de grasa caída en PK 89+850, sufriendo daños en locomotora"
+  },
+  {
+   "hora": "03:15",
+   "evento": "Llega personal de Integria y se hace cargo de la situación"
+  },
+  {
+   "hora": "05:28",
+   "evento": "El tren COX26 continúa hasta Silla con los diez vagones de cabeza"
+  },
+  {
+   "hora": "13:00",
+   "evento": "Se restablece la circulación en condiciones normales tras la reparación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "COX26",
+   "tipo": "tren de mercancías, tipo N",
+   "operador": "Renfe Operadora",
+   "danos": "Rotura de la mangueta izquierda del eje nº 27; pérdida de la caja de grasa izquierda del eje nº 27; descarrilamiento de la rueda derecha del eje nº 28 del vagón MC3 UIC 22714433275 (undécima posición)"
+  },
+  {
+   "numero": "82501",
+   "tipo": "tren de mercancías con mercancías peligrosas",
+   "operador": "Renfe Operadora",
+   "danos": "Arrolló la caja de grasa caída. Avería en el primer reductor y en las mangas de freno del frontal de la locomotora. Sistema ASFA inútil y fallo aparente en el sensor de velocidad. Locomotora inutilizada, apartada en Algemesí"
+  },
+  {
+   "numero": "897",
+   "tipo": "tren (no especificado)",
+   "operador": null,
+   "danos": "Sin daños. Informó de un incendio junto a la vía en PK 79+100"
+  },
+  {
+   "numero": "FK499",
+   "tipo": "tren (no especificado)",
+   "operador": null,
+   "danos": "Sin daños. Su maquinista informó de que el COX26 echaba chispas"
+  },
+  {
+   "numero": "50465",
+   "tipo": "tren (no especificado)",
+   "operador": null,
+   "danos": "Sin daños. Informó al cruce con el COX26 de un eje produciendo chispas"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren COX26 (matrícula 9722448)",
+   "implicacion": "Conducía el tren. Recibió aviso del regulador sobre la alarma de eje caliente, redujo velocidad y detuvo el tren en Benifaió. Reconoció el tren y observó el descarrilamiento. Posee título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 14/01/2010, último reconocimiento médico y psicotécnico 19/04/2006. No se le realizó prueba de alcohol ni drogas."
+  },
+  {
+   "rol": "Regulador del puesto de mando de Valencia",
+   "implicacion": "Recibió la alarma del DEC, informó al maquinista, ordenó reducción de velocidad y parada en Benifaió. No advirtió al resto de circulaciones del tramo del riesgo potencial tras conocer la pérdida de la caja de grasa (incumplimiento del art. 104.2 del RGC). No se le realizó prueba de alcohol ni drogas."
+  },
+  {
+   "rol": "Personal de Integria (Renfe Operadora)",
+   "implicacion": "Se presentó sobre las 03:15 horas y se hizo cargo de la situación."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático con control de tráfico centralizado (CTC) en Valencia. Estaciones de Alzira y Algemesí en mando central. ASFA en la locomotora del tren 82501 quedó inutilizada tras arrollar la caja de grasa.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "140 km/h para trenes tipo N",
+  "ancho": null,
+  "electrificacion": "Sí (vía electrificada)",
+  "estado_via": "Funcionó correctamente. Vía 2 de la estación de Benifaió interceptada entre 01:38 y 13:00 horas.",
+  "otro": "Detector de eje caliente (DEC) en PK 79+100 entre Alzira y Algemesí, con registrador centralizado en el puesto de mando de Valencia. Umbrales de alarma: temperatura absoluta > 72ºC y diferencial entre cajas de grasa del mismo eje > 48ºC. Distancia entre el DEC de Alzira y la estación más cercana (Algemesí) es de 2,4 km. Media semanal de circulaciones del tramo Xátiva-Silla: 1.025 (alta)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 251 (tren COX26); Vagón MC3 UIC 22714433275; Locomotora 253079 (tren 82501)",
+  "averia": "Fallo mecánico de un elemento del rodamiento cilíndrico de la caja de grasa izquierda del eje nº 27, provocando colapso del rodamiento, rotura de la jaula, descomposición de la grasa y pérdida de la caja de grasa. Rotura de la mangueta izquierda del eje nº 27. En el tren 82501: avería en primer reductor, mangas de freno, ASFA y sensor de velocidad.",
+  "mantenimiento": "Plan de mantenimiento del vagón MC3: VS cada 5.000 km, RSI cada 2.700.000 TKBR, revisiones de seguridad cada 6 años, reparaciones generales (R) cada 8.000.000 TKBR o 12 años. Última intervención tipo R: enero de 2010. Cuatro VS posteriores, la última el 02/11/2010. Desde la revisión R hasta el suceso: 18.227 km y 432.717 TKBR. En la última inspección del eje (11/01/2010) no se detectó anomalía. El plan de mantenimiento solo prevé operaciones de cajas de grasa en intervenciones tipo RS y R. La locomotora 251 no dispone en cabina de dispositivo indicador de temperatura en ejes de vagones."
+ },
+ "clima": "Noche, despejado",
+ "causas": {
+  "directa": "Fallo mecánico de un elemento del rodamiento cilíndrico de la caja de grasa izquierda del eje nº 27, que provocó su colapso, sobrecalentamiento, rotura de la mangueta y pérdida de la caja de grasa. Esto causó la basculación del bastidor del vagón undécimo y el descarrilamiento de la rueda derecha del eje nº 28.",
+  "contribuyentes": [
+   "La locomotora 251 no dispone en cabina de ningún dispositivo que indique la elevación de temperatura en los ejes de los vagones, por lo que el maquinista no podía detectar el problema por sí mismo.",
+   "El plan de mantenimiento solo prevé operaciones relativas a las cajas de grasa en intervenciones tipo RS y R, sin revisiones intermedias específicas.",
+   "El regulador del puesto de mando no advirtió al resto de circulaciones del tramo del riesgo potencial tras conocer la pérdida de la caja de grasa, incumpliendo el artículo 104.2 del RGC.",
+   "Ni el regulador ni el maquinista decidieron detener el tren de forma inmediata en plena vía al conocer que un eje echaba chispas (01:33-01:34 h), optando por continuar hasta Benifaió.",
+   "Posible contradicción entre los artículos 266 y 267 del RGC en determinadas condiciones.",
+   "No se realizaron pruebas de alcoholemia y drogas al maquinista ni al regulador."
+  ],
+  "sistemicas": [
+   "Ausencia de automatismos en los equipos de detección de ejes calientes para el control de variaciones de temperatura entre detectores consecutivos de una misma línea en tiempo real.",
+   "Posibles deficiencias en las NTM's y MMC's relativas al mantenimiento de cajas de grasa y rodamientos.",
+   "Necesidad de verificar el cumplimiento de las NTM's 800.302.01 y 800.302.00 sobre revisión de cajas de grasa y rodamientos.",
+   "Gestión de alarmas de detectores de ejes calientes no suficientemente definida en la normativa vigente."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Tren COX26: rotura de mangueta izquierda del eje nº 27, pérdida de caja de grasa, descarrilamiento del eje nº 28 del vagón MC3 22714433275. Tren 82501: avería en primer reductor, mangas de freno del frontal de locomotora, sistema ASFA inutilizado y fallo en sensor de velocidad; locomotora apartada en Algemesí. Se suprimió 1 tren de mercancías y 3 de cercanías. Retrasos: 33 trenes de cercanías (643 min), 5 de media distancia (98 min), 11 de larga distancia (273 min), 9 de mercancías (1.261 min). Vía 2 de Benifaió interceptada de 01:38 a 13:00.",
+  "afectacion_servicio": "Interceptación de la vía 2 de la estación de Benifaió entre las 01:38 y las 13:00 horas del 11 de noviembre (aproximadamente 11 horas 22 minutos). Supresión de 1 tren de mercancías y 3 de cercanías. Retrasos acumulados en 58 trenes de diversas categorías."
+ },
+ "lecciones": [
+  "El fallo mecánico de un elemento del rodamiento puede provocar un colapso térmico progresivo que culmina en la pérdida de la caja de grasa y el descarrilamiento, sin que el personal de conducción pueda detectarlo si la locomotora carece de indicador de temperatura en cabina.",
+  "La distancia entre el detector de alarma y la estación más cercana (2,4 km) puede ser insuficiente para detener un tren que circula a ~90 km/h, obligando a continuar hasta la siguiente estación.",
+  "Una vez conocida la pérdida de un elemento en plena vía, es imprescindible advertir al resto de circulaciones del tramo para evitar arrollamientos, como prescribe el artículo 104.2 del RGC.",
+  "La coherencia entre los artículos 266 y 267 del RGC puede generar contradicciones operativas en situaciones de emergencia que afecten a la seguridad."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar la posibilidad de introducir automatismos en los equipos de detección de ejes calientes para el control de las variaciones de las temperaturas de riesgo al paso por los mismos, estableciendo cadenas correlacionadas e informatizadas, en tiempo real, para el seguimiento entre detectores consecutivos de una misma línea.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Realizar un estudio de consistencia de las NTM's y MMC's que recogen el mantenimiento de las cajas de grasa y rodamientos, modificando las mismas si procede.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Realizar auditorías de verificación de cumplimiento de las NTM's que afectan a la revisión de cajas de grasa y rodamientos 800.302.01 y 800.302.00.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes.",
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF)"
+  },
+  {
+   "texto": "Insistir en la necesidad de realizar pruebas de alcoholemia y drogadicción a todo el personal implicado en el accidente.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "caja de grasa",
+  "rodamiento",
+  "eje caliente",
+  "detector de caldeo",
+  "mercancías",
+  "mangueta",
+  "colapso térmico",
+  "renfe operadora",
+  "adif",
+  "mercancías peligrosas",
+  "mantenimiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-111110-280611-CIAF"
+}

@@ -1,0 +1,196 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 35188 entre Puerto de Navacerrada y Collado Albo por sobreanchos en vía de traviesas de madera",
+ "idioma_original": "es",
+ "resumen": "El 4 de marzo de 2015 a las 19:17 horas, el tren de cercanías 35188 de Renfe Viajeros (serie 442) descarriló del último eje del coche de cola al tomar una curva a la derecha entre la estación de Puerto de Navacerrada y el apeadero de Collado Albo, en la línea 116 Los Cotos–Cercedilla (ancho métrico, Madrid). El tren continuó circulando 365 metros con un eje descarrilado y, al tomar una curva a la izquierda, descarriló el otro eje del mismo bogie, deteniéndose tras 45 metros más, semivolcado y apoyado sobre un poste de electrificación. No hubo víctimas mortales ni heridos, pero sí daños materiales en vía y tren. La causa fue el fallo técnico de la infraestructura por el mal estado de traviesas de madera y sujeciones, que provocó sobreanchos y apertura de la vía al paso del tren.",
+ "hechos": "El día 4 de marzo de 2015 a las 19:17 horas, el tren de viajeros de cercanías 35188 de Renfe Viajeros, compuesto por dos vehículos del autopropulsado serie 442 (matrícula 442006), procedente de Los Cotos con destino Cercedilla, circulaba por la línea 116 Los Cotos–Cercedilla, de ancho métrico y alta montaña, entre la estación de Puerto de Navacerrada y el apeadero de Collado Albo. A las 18:58 horas el tren salió de Puerto de Navacerrada y a las 18:59 alcanzó 30 km/h. A las 19:12 horas, al tomar una curva a la derecha de radio 92 metros en el PK 7+855, la rueda derecha del último eje del coche de cola cayó hacia el interior de la caja de la vía, iniciándose el descarrilamiento. A continuación, en el PK 7+842, se produjo el remonte de la rueda izquierda del mismo eje, que cayó al exterior del hilo izquierdo. El tren continuó circulando con la rueda derecha por el interior de la caja y la izquierda por el exterior del carril durante 365 metros.\n\nTras pasar por el apeadero de Collado Albo, al tomar una curva a la izquierda de radio 86 metros en el PK 7+490, se produjo la caída de la rueda derecha del primer eje del último bogie hacia el interior de la caja de la vía, y un metro después el remonte y descarrilamiento de la rueda izquierda hacia el interior de la curva. El tren avanzó 45 metros más en esa situación, golpeando carriles hincados (hitos) y dos postes de electrificación, hasta que se produjo la rotura de la TFA (transmisión final de eje). El tren quedó detenido en el PK 7+445 a las 19:14 horas, con el primer coche encarrilado y el segundo semivolcado hacia el lado izquierdo, apoyado sobre un tercer poste de electrificación.\n\nComo consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos. Los 35 viajeros fueron evacuados al coche de cabeza y trasladados a Cercedilla en un tren de socorro, llegando a las 21:00 horas. La circulación quedó interrumpida hasta las 03:45 horas del 7 de marzo de 2015, realizándose el servicio comercial entre Cercedilla y Cotos mediante autocares durante ese periodo y suprimiéndose 21 trenes de cercanías.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Puerto de Navacerrada",
+  "pk": "7+855",
+  "linea": "116 Los Cotos - Cercedilla",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Curva a la derecha de radio 92 metros, pendiente descendente de 60 milésimas, entre la estación de Puerto de Navacerrada y el apeadero de Collado Albo, municipio de Cercedilla, sierra de Guadarrama. Tramo con traviesas de madera (PK 4+620 al 8+500). Altitud aproximada 1.765 m."
+ },
+ "cronologia": [
+  {
+   "hora": "18:58",
+   "evento": "El tren 35188 inicia la marcha tras parada comercial de 2 minutos en la estación de Puerto de Navacerrada (PK 11+100)"
+  },
+  {
+   "hora": "18:59",
+   "evento": "El tren alcanza una velocidad de 30 km/h"
+  },
+  {
+   "hora": "19:12",
+   "evento": "Descenso de velocidad a 27 km/h; se estima el descarrilamiento del último eje de la composición en el PK 7+855 (curva a la derecha, radio 92 m)"
+  },
+  {
+   "hora": "19:12",
+   "evento": "Remonte de la rueda izquierda del mismo eje en PK 7+842; caída al exterior del hilo izquierdo en PK 7+840"
+  },
+  {
+   "hora": "19:13",
+   "evento": "El tren alcanza 36 km/h (posible patinaje por descarrilamiento)"
+  },
+  {
+   "hora": "19:14",
+   "evento": "Descarrilamiento del primer eje del último bogie en PK 7+490 (curva a la izquierda, radio 86 m). Detención del tren en PK 7+445, semivolcado y apoyado en un tercer poste de electrificación"
+  },
+  {
+   "hora": "19:17",
+   "evento": "Hora registrada como hora del accidente en el informe"
+  },
+  {
+   "hora": "19:20",
+   "evento": "Maquinista cursa telefonema nº 1 de socorro tras conseguir cobertura"
+  },
+  {
+   "hora": "19:39",
+   "evento": "Jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "19:50",
+   "evento": "Se solicita intervención del camión taller"
+  },
+  {
+   "hora": "20:16",
+   "evento": "El tren de socorro sale de la estación de Cercedilla"
+  },
+  {
+   "hora": "20:30",
+   "evento": "El tren de socorro llega al punto kilométrico del accidente"
+  },
+  {
+   "hora": "20:45",
+   "evento": "Inicia la marcha el tren de socorro con los viajeros transbordados"
+  },
+  {
+   "hora": "21:00",
+   "evento": "Los 35 viajeros evacuados llegan a la estación de Cercedilla"
+  },
+  {
+   "hora": "22:30",
+   "evento": "Pruebas de alcoholemia y drogas a ambos maquinistas: resultado negativo"
+  },
+  {
+   "hora": "22:43",
+   "evento": "El camión taller llega a Cercedilla"
+  },
+  {
+   "hora": "23:05",
+   "evento": "Sale el tren de socorro con personal del camión taller, electrificación y vías (zona de difícil acceso)"
+  },
+  {
+   "hora": "23:45",
+   "evento": "Se corta la tensión en la catenaria"
+  },
+  {
+   "hora": "00:05",
+   "evento": "Comienzan los trabajos de reparación (05/03/2015)"
+  },
+  {
+   "hora": "07:55",
+   "evento": "Se restablece la tensión en catenaria (05/03/2015)"
+  },
+  {
+   "hora": "10:53",
+   "evento": "El tren 35188 se aparta en Cercedilla (05/03/2015)"
+  },
+  {
+   "hora": "03:45",
+   "evento": "Queda normalizada la circulación en el trayecto Cercedilla-Navacerrada (07/03/2015)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "35188",
+   "tipo": "Cercanías, autopropulsado eléctrico serie 442 (442006), 2 coches Mc+Rc, 4 bogies de 2 ejes, 36 m longitud, 74 t, tipo T60 N, Vmax 60 km/h",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en el coche de cola descarrilado, semivolcado y apoyado sobre un poste de electrificación. Valoración económica: 106.800 €. Rotura de la TFA. Ruedas y bogies del último coche afectados."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 35188 (matrícula 9654104)",
+   "implicacion": "Conducía el tren. Título B de conducción vigente, antigüedad desde 04.02.1994, último reciclaje 12.03.2014, último reconocimiento médico-psicotécnico 25.09.2012. Pruebas de alcohol y drogas negativas. Cumplía normativa vigente. Jornada día 4: 7h26 (3h29 conducción efectiva)."
+  },
+  {
+   "rol": "Ayudante del tren 35188 (matrícula 8846289)",
+   "implicacion": "Realizaba labores de ayudante (obligatorio por no disponer la línea de ASFA ni radiotelefonía, art. 517 RGC). Título B de conducción vigente, antigüedad desde 02.09.1997, último reciclaje 14.12.2011, último reconocimiento médico-psicotécnico 09.04.2011. Pruebas de alcohol y drogas negativas. Cumplía normativa vigente. Jornada día 4: 6h09 (3h25 conducción efectiva)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa. No dispone de sistema ASFA ni de tren-tierra. Circulación al amparo de bloqueo telefónico normal.",
+  "tipo_via": "Vía única electrificada, ancho métrico, superestructura con carriles de 45 kg/m en barras de 18 m. Traviesas de hormigón monobloque (PK 0+1000 a 4+620 y 8+500 a 18+412) y traviesas de madera (PK 4+620 a 8+500, tramo del accidente). Balasto de naturaleza silícea. Trazado de alta montaña con 120 curvas de radio muy reducido (mayoría < 100 m, algunos 50 m). Rampa media 55 milésimas (primer tramo) y 7,7 milésimas (segundo tramo), con tramos de 70 milésimas.",
+  "velocidad_maxima": "30 km/h (tramo del accidente, según cuadro de velocidades máximas)",
+  "ancho": "Ancho métrico (1.000 mm nominal)",
+  "electrificacion": "Vía electrificada (catenaria). Se cortó la tensión a las 23:45 del 04/03 y se restableció a las 07:55 del 05/03. Reparaciones en catenaria tras el accidente.",
+  "estado_via": "Deficiente en el tramo de traviesas de madera. Sobreanchos medidos de 1.040 mm (fuera de norma: máximo 1.030 mm según NRV 7.3.2.0). Sujeciones deficientes: tirafondos flojos o sueltos, traviesas en mal estado, balasto muy contaminado. El sobreancho medido en reposo se estima que aumentó durante el paso del tren.",
+  "otro": "Media semanal de 53 circulaciones en el tramo Cercedilla-Puerto de Navacerrada (todas cercanías). Rehabilitaciones realizadas en 2014 (jul-nov): nivelación, alineación, bateo, sustitución de carriles, perfilado, rectificado de ancho, reapretado de tirafondos tipo vortok, sustitución manual de traviesas, depuración hasta 15 cm, carga manual de balasto. Proyecto de sustitución de traviesas de madera por hormigón (PK 4+600 a 8+500, 4 km, 847.000 €) elaborado pero no ejecutado ni previsto para 2016. Incumplimiento del procedimiento Adif-PE-301-001-VIA-03: solo 1 vigilancia a pie en 2014 (procedimiento exige 2). Vigilancia en cabina: 20 en 2014, última el 17/02/2015 antes del accidente, sin anotaciones relevantes."
+ },
+ "material_rodante": {
+  "series": "442 (autopropulsado 442006, UIC 907174420063), tipo T60 N, Vmax 60 km/h, 2 coches Mc+Rc, 4 bogies, 36 m, 74 t, tracción eléctrica",
+  "averia": "Rotura de la TFA (transmisión final de eje) del coche de cola. Daños en el coche descarrilado (106.800 €). Ruedas y bogies del último eje y primer eje del último bogie afectados por el descarrilamiento y el arrastre.",
+  "mantenimiento": "Tren autorizado para circulación según archivo patrón de Adif. Todas las revisiones de mantenimiento realizadas en fecha. Última intervención: 27.02.2015. Última inspección de parámetros de rodadura (Qr, altura y espesor de pestaña): 02.02.2015, todos dentro de tolerancia. Tras el accidente, mediciones en talleres de Renfe Integria: todos los valores dentro de norma. Registrador de seguridad TELOC (cinta de papel parafinado): registra tiempo y velocidad (coche motor) o solo velocidad (coche remolque, con desfase de 5 km/h a velocidad 0)."
+ },
+ "clima": "Anochecer, no existían condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo técnico de la infraestructura: mal estado de las traviesas de madera y de las sujeciones, lo que provocó sobreanchos (1.040 mm medidos, fuera de norma) y la apertura de la vía al paso del tren, originando el descarrilamiento.",
+  "contribuyentes": [
+   "Defectos en las sujeciones del carril: tirafondos flojos o sueltos, fuera de su alojamiento.",
+   "Deterioro de las traviesas de madera en el tramo PK 4+620 a 8+500.",
+   "Contaminación del balasto.",
+   "Sobreanchos medidos en reposo (1.040 mm) que se estima se incrementaron durante el paso del tren por los defectos de sujeción y los esfuerzos dinámicos.",
+   "Características singulares de la línea: trazado de alta montaña, radios de curvas muy reducidos (< 100 m, algunos 50 m), pendientes elevadas (hasta 70 milésimas), temperaturas extremas (muy bajas en invierno, altas en verano) que aceleran el deterioro de traviesas de madera.",
+   "Mantenimiento deficitario en la zona del descarrilamiento."
+  ],
+  "sistemicas": [
+   "Incumplimiento del procedimiento específico Adif-PE-301-001-VIA-03: solo se realizó 1 vigilancia a pie en 2014, cuando el procedimiento exige 2 al año.",
+   "No constan anotaciones relevantes en las hojas de inspección de las 21 visitas (1 a pie + 20 en cabina) durante 2014, a pesar de los defectos existentes.",
+   "Proyecto de sustitución de traviesas de madera por hormigón (4 km, 847.000 €) elaborado tras el accidente de 2011 (recomendación CIAF 32/11-1) pero no ejecutado ni previsto para 2016.",
+   "Recomendación 32/11-1 de la CIAF (tras el descarrilamiento del 30/06/2011 en la misma línea y zona) no implementada en 4 años.",
+   "Ausencia de sistema ASFA y de tren-tierra en la línea, lo que impide protección automática contra sobreanchos y obliga a dotación doble (maquinista + ayudante)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 106.800 € (daños en coche de cola descarrilado). Infraestructura: 15.900 € (sustitución de 50 traviesas y sujeciones, reparaciones en catenaria, postes de electrificación y carriles hincados arrollados). Total: 122.700 €.",
+  "afectacion_servicio": "Circulación interrumpida desde el 04/03/2015 (19:17) hasta el 07/03/2015 (03:45). Servicio comercial entre Cercedilla y Cotos realizado mediante autocares durante la interceptación. 21 trenes de cercanías suprimidos. 35 viajeros evacuados por tren de socorro. Tensión de catenaria cortada de 23:45 a 07:55 del 05/03. Tren 35188 apartado en Cercedilla a las 10:53 del 05/03."
+ },
+ "lecciones": [
+  "El incumplimiento de la periodicidad de inspecciones a pie (1 en lugar de 2 al año) impidió detectar los sobreanchos y defectos de traviesas antes del accidente.",
+  "Las recomendaciones de seguridad de la CIAF (32/11-1) pueden quedar sin implementar durante años si no se asignan recursos presupuestarios, repitiéndose accidentes por las mismas causas.",
+  "Las traviesas de madera en líneas de alta montaña con curvas de radio reducido, pendientes elevadas y temperaturas extremas se deterioran aceleradamente, generando sobreanchos peligrosos.",
+  "Los registradores TELOC de cinta de papel parafinado tienen limitaciones (solo velocidad y tiempo, desfases) que dificultan la reconstrucción precisa del suceso.",
+  "La ausencia de ASFA y tren-tierra en la línea obliga a dotación doble y a vigilancia visual, pero no sustituye la inspección geométrica de la vía.",
+  "Un descarrilamiento parcial (un eje) puede prolongarse cientos de metros antes de detectarse y provocar un segundo descarrilamiento, agravando los daños."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Se insiste en la aplicación de la recomendación 32/11-1 de la CIAF: 'Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presentan mal estado por otras del mismo material', llevando a cabo la ejecución del 'Proyecto de sustitución de traviesas de madera por hormigón en el tramo de 4 kilómetros'.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Adif"
+  },
+  {
+   "texto": "Cumplir la periodicidad y calidad de las visitas a pie establecidas para esta línea y reconsiderar las condiciones de circulación de la misma en función de las fichas de control y las no conformidades que resulten, gestionando éstas.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "sobreanchos",
+  "traviesas de madera",
+  "ancho métrico",
+  "alta montaña",
+  "mantenimiento deficiente",
+  "inspección de vía",
+  "incumplimiento procedimiento",
+  "recomendación no implementada",
+  "línea 116 los cotos cercedilla",
+  "renfe serie 442",
+  "sin víctimas"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 04.03.2015 160531150304IFCIAF"
+}

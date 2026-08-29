@@ -1,0 +1,129 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías 54583 en el túnel nº6 'el Caracol' entre Jaca y Canfranc por fallo de infraestructura",
+ "idioma_original": "es",
+ "resumen": "El 11 de julio de 2011 a las 11:53, el tren de mercancías 54583 de Renfe Operadora, compuesto por locomotora 333369 y 14 vagones cargados con maíz (1.068 toneladas), descarriló en el interior del túnel nº6 'el Caracol' en el PK 11+758 de la línea 204 Bif. Canfranc - Canfranc, entre Jaca y Canfranc (Huesca). El descarrilamiento se inició en el lado derecho del primer bogie del 5º vagón y el tren recorrió descarrilado aproximadamente un kilómetro hasta detenerse fuera del túnel. La causa fue el fallo de la infraestructura por mal estado general de traviesas, carriles, clavazón y balasto, con valores de peralte, alabeo y sobreanchos fuera de tolerancia. No hubo víctimas mortales ni heridos. La vía permaneció interceptada seis días.",
+ "hechos": "El día 11 de julio de 2011, a las 11:53 horas, el tren de mercancías 54583 de Renfe Operadora, procedente de Canfranc con destino Zaragoza Corbera Alta, descarriló a la altura del PK 11+758 de la línea 204 Bif. Canfranc - Canfranc, en el interior del túnel nº6 'el Caracol', entre Jaca y Canfranc (provincia de Huesca). El tren, formado por locomotora 333369 y 14 vagones cargados con maíz (1.068 toneladas, tipo 100), circulaba a 62,6 km/h cuando el maquinista principal y el ayudante notaron un comportamiento extraño en la composición. El descarrilamiento se inició en el lado derecho (sentido de la marcha) del primer bogie del 5º vagón, donde una rueda remontó el carril.\n\nLa composición descarriló hacia el lado derecho, quedando seccionada en dos partes separadas unos 50 metros: la locomotora y los vagones 1º a 4º permanecieron encarrilados; el 5º vagón quedó totalmente descarrilado y volcado; el 6º semivolcado; el 7º volcado; los vagones 8º al 12º descarrilados sobre la vía; y los vagones 13º y 14º encarrilados. Desde el descarrilamiento hasta la detención, el tren recorrió 1.020 metros en 1 minuto y 13 segundos, quedando toda la composición fuera del túnel.\n\nEl accidente tuvo su origen en el fallo de la infraestructura, como consecuencia de un mal estado general de todos los elementos que la conforman (traviesas de madera por antigüedad, desgaste excesivo de carriles, deterioro en la clavazón y contaminación del balasto), dando lugar a valores fuera de tolerancia tanto de peraltes como de alabeos y sobreanchos y estrechamientos alternados en la vía. No se consideró que el exceso de velocidad de 2,6 km/h (4%) fuera la causa del descarrilamiento.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "11+758",
+  "linea": "204 Bif. Canfranc - Canfranc",
+  "provincia": "Huesca",
+  "descripcion_lugar": "Interior del túnel nº6 'el Caracol', entre los apeaderos de Villanúa y Castiello, tramo Jaca - Canfranc, municipio de Villanúa. Curva de 300 m de radio con centro a la derecha, declividad de 19,91 milésimas. Boca de entrada del túnel en PK 11+781, salida en PK 10+913."
+ },
+ "cronologia": [
+  {
+   "hora": "2011-07-11T11:53",
+   "evento": "Descarrilamiento del tren 54583 en el PK 11+758, interior del túnel nº6 'el Caracol'. La vía queda interceptada."
+  },
+  {
+   "hora": "2011-07-11T11:54",
+   "evento": "El tren recorre 1.020 metros descarrilado durante 1 minuto y 13 segundos hasta su detención final fuera del túnel."
+  },
+  {
+   "hora": "2011-07-12",
+   "evento": "Toma de declaración al maquinista principal y al ayudante de maquinista."
+  },
+  {
+   "hora": "2011-09-20",
+   "evento": "El Pleno de la CIAF acuerda abrir la investigación del accidente."
+  },
+  {
+   "hora": "2011-10-04",
+   "evento": "El gerente de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": "2011-12-22",
+   "evento": "El jefe de gabinete de investigación de accidentes e inspección de Adif entrega su informe particular."
+  },
+  {
+   "hora": "2011-07-17T05:55",
+   "evento": "Se restablece la circulación con limitación de velocidad a 30 km/h entre PKs 10+350 y 11+780."
+  },
+  {
+   "hora": "2012-03-27",
+   "evento": "Firma del informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "54583",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "8 vagones afectados, 3 de ellos con daños graves. Carga de maíz perdida valorada en 113.343,79 €. Locomotora 333369 (UIC 957103333697) y 14 vagones, 1.068 toneladas, tipo 100 (velocidad máxima 100 km/h). Composición seccionada en dos partes separadas ~50 m; vagones 5º, 6º y 7º volcados/semivolcados; vagones 8º a 12º descarrilados; vagones 1º a 4º y 13º a 14º encarrilados."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 54583",
+   "implicacion": "Matrícula 8659112. Título B de conducción conforme a Orden FOM/2520/2006. Antigüedad desde 01/01/2001. Último reciclaje formativo 14/01/2010. Último reconocimiento médico y psicotécnico 10/02/2009. Jornada del día 11: 4h17min. Prueba de alcoholemia negativa (15:45 en Villanúa). Frenó con el manipulador del freno al notar la reacción extraña."
+  },
+  {
+   "rol": "Ayudante de maquinista del tren 54583",
+   "implicacion": "Matrícula 8868218. Título B de conducción conforme a Orden FOM/2520/2006. Antigüedad desde 01/01/2001. Último reciclaje formativo 03/12/2009. Último reconocimiento médico y psicotécnico 10/08/2009. Jornada del día 11: 4h17min. Prueba de alcoholemia negativa (15:35 en Villanúa). Advirtió al maquinista al ver por el espejo retrovisor que un vagón comenzaba a inclinarse."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Desde la estación de Canfranc no existen instalaciones de seguridad ni señales fijas fundamentales en la vía; dicha estación no dispone de señal de salida.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "60 km/h (tramo); sin limitaciones temporales en el momento del accidente",
+  "ancho": "Convencional",
+  "electrificacion": "No electrificada",
+  "estado_via": "Deficiente: traviesas de madera por antigüedad, desgaste acusado de cabeza de carril (42,5 kg/m en barras de 12 m unidas por bridas), deterioro en la clavazón, balasto contaminado con falta de consolidación especialmente en el hilo bajo de la curva. Sobreanchos fuera de tolerancia (>+25 mm) alternados con estrechamientos que favorecen el remonte de pestaña. Peralte teórico 160 mm con tolerancia ±10 mm; medido >200 mm a 7 m antes del punto cero. Alabeo supera tolerancia de 6 mm/3 m.",
+  "otro": "Bloqueo telefónico concertado entre Jaca y Canfranc. Línea indirectamente controlada desde el puesto de mando de Zaragoza Portillo. Comunicaciones por conectores de intemperie para teléfonos portátiles (sin radiotelefonía). Tráfico medio semanal: 34 circulaciones (28 media distancia, 5 mercancías, 1 servicio), considerado muy bajo. Curva de 300 m radio, centro derecha, entre PKs 13+090 y 11+658, enlazando por recta de 98 m con otra curva de 300 m centro izquierda entre PKs 11+560 y 10+405."
+ },
+ "material_rodante": {
+  "series": "Locomotora 333369 (UIC 957103333697); 14 vagones tipo 100 (velocidad máxima 100 km/h)",
+  "averia": "Ninguna. Las mediciones de ruedas del primer bogie del 5º vagón (espesores de pestañas, alturas de pestañas y Qr) están dentro de tolerancia.",
+  "mantenimiento": "No se menciona deficiencia en el mantenimiento del material rodante."
+ },
+ "clima": "De día, sin condiciones meteorológicas adversas. El descarrilamiento se inicia en el interior de un túnel.",
+ "causas": {
+  "directa": "Fallo de la infraestructura: mal estado general de todos los elementos que la conforman (traviesas, desgaste excesivo de carriles, deterioro en la clavazón y contaminación del balasto), dando lugar a valores fuera de tolerancia de peraltes, alabeos y sobreanchos/estrechamientos alternados, lo que provocó el remonte de la pestaña de una rueda derecha del primer bogie del 5º vagón.",
+  "contribuyentes": [
+   "Mantenimiento deficiente de la infraestructura en la zona del accidente.",
+   "Exceso de velocidad de 2,6 km/h sobre la máxima permitida (62,6 vs 60 km/h, un 4%), aunque no se considera causa del descarrilamiento.",
+   "Trazado sinuoso con curva de 300 m de radio y pendiente de 19,91 milésimas en el interior del túnel."
+  ],
+  "sistemicas": [
+   "Ausencia de instalaciones de seguridad ni señales fijas fundamentales desde la estación de Canfranc.",
+   "Bloqueo telefónico concertado (no automático) entre Jaca y Canfranc.",
+   "Tráfico muy bajo (34 circulaciones/semana) que puede reducir la frecuencia de inspección y mantenimiento.",
+   "Inexistencia de sistema de radiotelefonía en la línea."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "8 vagones afectados (3 con daños graves). Infraestructura de vía dañada (traviesas y carriles) en ~1.000 m. Pérdida de carga (cereal): 113.343,79 €.",
+  "afectacion_servicio": "Vía interceptada del 11/07/2011 11:53 al 17/07/2011 05:55 (6 días). Restablecida con limitación de 30 km/h entre PKs 10+350 y 11+780. Afectados 6 trenes de media distancia con retraso total de 50 minutos; 2 suprimidos y 4 transbordados por carretera entre Sabiñánigo y Canfranc."
+ },
+ "lecciones": [
+  "El mal estado general de la infraestructura (traviesas, carriles, clavazón, balasto) puede provocar descarrilamientos por remonte de pestaña incluso a velocidades próximas a la máxima permitida.",
+  "Los valores de sobreanchos alternados con estrechamientos y peraltes/alabeos fuera de tolerancia son un factor crítico de descarrilamiento en curva.",
+  "El tráfico muy bajo en una línea puede correlacionarse con menor frecuencia de inspección y mantenimiento de la vía."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "fallo de infraestructura",
+  "túnel el caracol",
+  "renfe operadora",
+  "adif",
+  "peralte fuera de tolerancia",
+  "sobreanchos",
+  "alabeo",
+  "balasto contaminado",
+  "traviesas de madera",
+  "línea 204 canfranc"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-110711-270312-CIAF"
+}

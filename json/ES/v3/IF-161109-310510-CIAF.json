@@ -1,0 +1,107 @@
+{
+ "titulo_normalizado": "Arrollamiento de dos peatones en paso a nivel clase C en Sama de Langreo (Asturias) por invasión de la vía con barreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 16 de noviembre de 2009 a las 12:41, el tren de cercanías 22211 de Renfe Operadora arrolló a dos personas que cruzaban por el paso peatonal del paso a nivel clase C en el P.K. 18+055 de la línea 140 Bif. Tudela Veguín – El Entrego, en Sama de Langreo (Asturias). Las semibarreras estaban bajadas y la señalización luminosa y acústica activada indicando la llegada del tren. Las víctimas fueron golpeadas por la parte frontal izquierda del tren. El accidente tuvo su origen en la actuación de las víctimas. No se establecieron recomendaciones.",
+ "hechos": "El tren de cercanías 22211 de Renfe Operadora, procedente de El Entrego con destino Oviedo, al pasar por el paso a nivel tipo C situado en P.K. 18+055 de la línea 140 Bif. Tudela Veguín – El Entrego, en la estación de Sama de Langreo, arrolló a dos personas que cruzaban por la zona peatonal del paso a nivel, estando los dispositivos de protección funcionando (semibarreras bajadas y señalización activada). Las víctimas cruzaban de derecha a izquierda en sentido de la marcha del tren y fueron golpeadas por la parte frontal izquierda del tren, quedando sus cuerpos fuera de la caja de la vía en el lado izquierdo.\n\nSegún el registrador de seguridad del tren, tras la parada de 36 segundos en la estación de Sama, el tren reanuda la marcha y acelera durante 22 segundos hasta 72 km/h, momento en que el maquinista actúa sobre el freno de emergencia y se produce el arrollamiento, tardando unos 19 segundos hasta la detención total. El maquinista hizo uso reiterado del silbato. En la moviola del CTC se verifica que a las 12:41:24 se ocupa el circuito de vía del paso a nivel y a las 12:41:34 se inicia la subida de las barreras, siendo en este intervalo cuando se produce el arrollamiento. El tiempo transcurrido entre el cierre del paso a nivel y la llegada del tren fue de aproximadamente 3 minutos y 24 segundos.\n\nFallecen un hombre de 70 años y una mujer de 55 años. No se producen daños al material rodante; en la infraestructura sufre daños la señal de retroceso R2 de la estación de Sama. La vía general queda interceptada desde las 12:41 hasta las 14:00 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sama de Langreo",
+  "pk": "18+055",
+  "linea": "140 Bif. Tudela Veguín – El Entrego",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Paso a nivel clase C en la calle Fray Luis de León, dentro del casco urbano de Sama, utilizado para acceder al cementerio y a un pequeño grupo de viviendas. Situado en curva de 700 m de radio y pendiente de 10,00 milésimas, con visibilidad reducida. Enclavado con la estación de Sama."
+ },
+ "cronologia": [
+  {
+   "hora": "12:41",
+   "evento": "Arrollamiento de dos peatones por el tren 22211 en el paso a nivel P.K. 18+055"
+  },
+  {
+   "hora": "12:41:24",
+   "evento": "Ocupación del circuito de vía del paso a nivel (moviola CTC)"
+  },
+  {
+   "hora": "12:41:34",
+   "evento": "Inicio de la subida de las barreras (momento del arrollamiento)"
+  },
+  {
+   "hora": "14:00",
+   "evento": "Fin de la interceptación de la vía general"
+  },
+  {
+   "hora": "13:41",
+   "evento": "Comunicación del jefe de investigación de Adif a la CIAF vía telefonía móvil"
+  },
+  {
+   "hora": "14:30",
+   "evento": "Prueba de alcoholemia y drogas al maquinista (resultado negativo)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "22211",
+   "tipo": "Cercanías de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales al tren. Retraso de 55 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 22211",
+   "implicacion": "Observó a la pareja invadir la vía, hizo uso reiterado del silbato y actuó sobre el freno de emergencia sin poder evitar el arrollamiento. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 27/02/09, último reconocimiento médico y psicotécnico 09/02/09. Prueba de alcoholemia y drogas negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa y acústica activada indicando la llegada del tren. Semibarreras bajadas en ambos lados. No disponía de la señalización vertical de carretera prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 (observación adicional, sin relación con el accidente).",
+  "tipo_via": "Bloqueo automático en vía única con control de tráfico centralizado (CTC) ubicado en el puesto de mando de Oviedo",
+  "velocidad_maxima": "105 km/h (tramo); 140 km/h (tipo de tren)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Sin limitación de velocidad ni restricción alguna en las condiciones de circulación por el lugar en el momento del accidente. Pavimento del paso peatonal de caucho tipo 'strail' en buen estado de conservación.",
+  "otro": "Curva de 700 m de radio y pendiente de 10,00 milésimas. Visibilidad reducida. Paso a nivel clase C con paso peatonal. Momento de circulación AxT: 32.375 (A=875 y T=37). Media semanal de circulaciones del tramo: 257 (252 cercanías, 4 mercancías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Automotor 463014-1, 3 coches, 154 Tn de masa remolcada, Tipo 140, Nº UIC: 967194630141",
+  "averia": "Sin avería. Los equipos de seguridad del tren funcionaron correctamente. Velocidad en momento del freno de emergencia: 72 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado en el momento del arrollamiento",
+ "causas": {
+  "directa": "Actuación de las víctimas que cruzaban la vía por el paso a nivel cuando circulaba el tren 22211, estando las barreras bajadas y la señalización alertando de la llegada del tren.",
+  "contribuyentes": [
+   "Visibilidad reducida en el paso a nivel (curva de 700 m de radio y pendiente de 10 milésimas)",
+   "Ausencia de señalización vertical de carretera prevista en la Orden de 2 de agosto de 2001 (observación sin relación directa con el accidente)"
+  ],
+  "sistemicas": [
+   "Precedentes de sucesos similares: el 15/10/07 y 01/12/07 murieron sendas personas al ser arrolladas en el paso a nivel clase C del P.K. 19+005 (a un kilómetro del lugar del accidente) cruzando con las barreras bajadas"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Sin daños al material rodante. Daños en la señal de retroceso R2 de la estación de Sama.",
+  "afectacion_servicio": "Vía general interceptada de 12:41 a 14:00. Tren implicado: 55 min de retraso. 3 trenes de cercanías suprimidos. 8 trenes con retraso total de 166 minutos."
+ },
+ "lecciones": [
+  "El paso a nivel no disponía de la señalización vertical de carretera prevista en la Orden de 2 de agosto de 2001, aunque no guardaba relación con el accidente.",
+  "Existían precedentes de sucesos mortales similares en un paso a nivel a un kilómetro de distancia (P.K. 19+005), con las mismas circunstancias de barreras bajadas."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel clase C",
+  "arrollamiento peatones",
+  "cercanías",
+  "renfe operadora",
+  "sama de langreo",
+  "asturias",
+  "barreras bajadas",
+  "señalización activa",
+  "invasión de vía",
+  "línea 140 tudela veguín el entrego",
+  "freno de emergencia",
+  "visibilidad reducida"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-161109-310510-CIAF"
+}

@@ -1,0 +1,136 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 533 en el cambiador de ancho de Zaragoza Delicias por fallo del mecanismo de bloqueo/desbloqueo de ancho BRAVA",
+ "idioma_original": "es",
+ "resumen": "El 27 de diciembre de 2011 a las 11:38, el tren de viajeros 533 de Renfe Operadora descarriló al pasar por el cambiador de ancho de Zaragoza Delicias. La rueda derecha del segundo eje del primer bogie del segundo coche no completó el cambio de ancho convencional a UIC porque el mecanismo de bloqueo/desbloqueo estaba suelto al haberse desenroscado sus tornillos de sujeción. No hubo víctimas. La circulación se interrumpió durante 10 horas y 32 minutos.",
+ "hechos": "El tren de viajeros de larga distancia 533 de Renfe Operadora, compuesto por material CAF serie 120, con origen en Irún y destino Barcelona Sants, circulaba en ancho convencional y debía realizar el cambio a ancho UIC al paso por el cambiador de Zaragoza Delicias. A las 11:38 horas, el maquinista observó en la pantalla de la cabina que no se había abierto el cerrojo de la rueda derecha del segundo eje del primer bogie del segundo coche de la composición, en el sentido de la marcha, por lo que efectuó una detención inmediata. Al reconocerse la composición se verificó que dicha rueda había descarrilado: el bulón que enclava la posición de la rueda en ancho convencional no se había liberado porque el mecanismo de bloqueo/desbloqueo se encontraba suelto, al haberse desenroscado los dos tornillos de sujeción (uno desaparecido y el otro fuera de su alojamiento), deformando y desgastando las chapas tope de seguridad existentes en sus cabezas. La rueda enclavada en ancho ibérico dañó los perfiles de guiado del ancho UIC y descarriló al perder contacto con el carril de apoyo convencional. Según el registrador de seguridad, el tren circulaba a 7,4 km/h en el momento del descarrilamiento.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Zaragoza Delicias",
+  "pk": null,
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Cambiador de ancho de Zaragoza Delicias, tramo CIM-Aguja km 337,1 a Cambiador Zaragoza Delicias. Transición de bloqueo automático de vía única electrificada con CTC y ancho convencional a bloqueo de señalización lateral y ancho UIC. Plataformas independientes para material Talgo y CAF."
+ },
+ "cronologia": [
+  {
+   "hora": "11:26",
+   "evento": "El maquinista observa en la pantalla de cambio de ancho que no se ha abierto el cerrojo del sexto eje y efectúa detención inmediata en el cambiador"
+  },
+  {
+   "hora": "11:38",
+   "evento": "Descarrilamiento confirmado; el maquinista informa al CRC de Zaragoza Delicias; se interrumpe el paso de trenes por el cambiador"
+  },
+  {
+   "hora": "12:09",
+   "evento": "La rama 120005 (segunda de la composición) se desacopla y se envía por ancho convencional al cambiador de Plasencia de Jalón"
+  },
+  {
+   "hora": "12:20",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/1.000 ml)"
+  },
+  {
+   "hora": "12:28",
+   "evento": "Los viajeros de la rama descarrilada 120012 son transbordados a otro tren de ancho UIC con destino Barcelona"
+  },
+  {
+   "hora": "16:57",
+   "evento": "El personal del cambiador comunica que el tren ya está encarrilado"
+  },
+  {
+   "hora": "17:21",
+   "evento": "El tren sale del cambiador y se estaciona en Zaragoza Delicias"
+  },
+  {
+   "hora": "22:10",
+   "evento": "Queda reparado y operativo el cambiador en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "533",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la rueda derecha del segundo eje del primer bogie del segundo coche y en el mecanismo de bloqueo del cambio de ancho"
+  },
+  {
+   "numero": "120012",
+   "tipo": "rama de cabeza (serie 120 CAF)",
+   "operador": "Renfe Operadora",
+   "danos": "Rama descarrilada; rueda derecha del 2º eje del 1er bogie del 2º coche"
+  },
+  {
+   "numero": "120005",
+   "tipo": "rama segunda (serie 120 CAF)",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños; desacoplada y enviada por ancho convencional a Plasencia de Jalón"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Observó en pantalla que no se abrió el cerrojo y detuvo el tren; título B, habilitado conforme a Orden FOM/2520/2006; último reciclaje 05/11/2009; último reconocimiento médico 04/01/2011; alcoholemia negativa; jornada del día 27: 3h58min"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Transición: bloqueo automático de vía única electrificada con CTC (ancho convencional) a bloqueo de señalización lateral (ancho UIC)",
+  "tipo_via": "Vía única electrificada con CTC en ancho convencional; ancho UIC en cambiador; plataformas independientes para Talgo y CAF",
+  "velocidad_maxima": "Inferior a 15 km/h para cambio de ancho (serie 120); velocidad real en el momento del descarrilamiento: 7,4 km/h",
+  "ancho": "Convencional (ibérico) a UIC",
+  "electrificacion": "Electrificada (vía convencional con CTC)",
+  "estado_via": "Daños y deformaciones en perfiles del sistema de guiado, tornillos de sujeción de carriles y elementos metálicos de la plataforma tipo CAF",
+  "otro": "Media semanal de circulaciones del tramo: 111 (baja), todas de larga distancia (CIRTRA 2010)"
+ },
+ "material_rodante": {
+  "series": "Serie 120 (CAF/Alstom), bogies BRAVA (Bogie de Rodadura de Ancho Variable); UIC: 967191203124 (descarrilada) y 967191203058; 8 vehículos, 32 ejes, 214 m, 532 t",
+  "averia": "Mecanismo de bloqueo/desbloqueo del cambio de ancho suelto: dos tornillos de sujeción desenroscados (uno desaparecido, otro fuera de alojamiento); chapas tope de seguridad deformadas y desgastadas; rueda bloqueada en ancho ibérico, no pudo ser arrastrada a ancho UIC",
+  "mantenimiento": "Plan correctamente realizado: ES 23/12/2011 (1.652.342 km), V1 07/12/2011 (1.633.529 km), V2 09/10/2011 (1.570.133 km), VL 08/04/2011 (1.409.980 km), GVG 04/05/2010 (1.095.357 km); km totales desde fábrica: ~1.657.000; parámetros de rodadura dentro de tolerancia"
+ },
+ "clima": "No existían condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo en el sistema de cambio de ancho: el mecanismo de bloqueo/desbloqueo (cerrojo) de la rueda derecha del 2º eje del 1er bogie del 2º coche estaba suelto porque los dos tornillos de sujeción se habían desenroscado (uno desaparecido, otro fuera de alojamiento), impidiendo la liberación del bulón de enclavamiento y el cambio de ancho",
+  "contribuyentes": [
+   "Diseño deficiente de la sujeción del mecanismo de bloqueo/desbloqueo mediante tornillos susceptibles de desenroscarse",
+   "Las chapas tope de seguridad (retención) existentes en las cabezas de los tornillos se deformaron y desgastaron, no impidiendo el afloje",
+   "Suceso previo similar el 4 de enero de 2011 en el mismo cambiador que no condujo a una modificación definitiva de la sujeción"
+  ],
+  "sistemicas": [
+   "Necesidad de modificación de diseño del soporte palanca del mecanismo de ancho (soldadura prevista pero no implantada antes del accidente)",
+   "Insuficiente vigilancia del mecanismo de bloqueo/desbloqueo en las revisiones periódicas hasta la modificación de diseño"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en rueda derecha del 2º eje del 1er bogie del 2º coche y en mecanismo de bloqueo. Infraestructura: daños y deformaciones en perfiles de guiado, tornillos de sujeción de carriles y elementos metálicos de la plataforma tipo CAF del cambiador",
+  "afectacion_servicio": "Interrupción de 10 horas y 32 minutos (11:38 a 22:10); 4 trenes de larga distancia afectados (incluido el implicado); retraso total de 198 minutos"
+ },
+ "lecciones": [
+  "Los tornillos de sujeción del mecanismo de bloqueo/desbloqueo de ancho BRAVA pueden desenroscarse en servicio, deformando las chapas tope de seguridad sin que estas lo impidan",
+  "Un suceso similar ocurrió el 4 de enero de 2011 en el mismo cambiador, lo que indica un problema recurrente de diseño que no fue corregido antes del accidente",
+  "El sistema de detección en cabina permitió al maquinista observar el fallo y detener el tren antes de que las consecuencias fueran mayores",
+  "La velocidad de paso por el cambiador (7,4 km/h) fue inferior a la máxima permitida (<15 km/h), lo que limitó la gravedad del descarrilamiento"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer una especial vigilancia del mecanismo del bloqueo/desbloqueo del cambio de ancho de los ejes BRAVA hasta que se efectúe la modificación prevista de su sujeción (soldadura).",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambiador de ancho",
+  "bogies BRAVA",
+  "serie 120 CAF",
+  "mecanismo bloqueo desbloqueo",
+  "tornillos de sujeción",
+  "chapa tope de seguridad",
+  "ancho ibérico a UIC",
+  "Renfe Operadora",
+  "Zaragoza Delicias",
+  "fallo de diseño",
+  "mantenimiento preventivo"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-271211-250912-CIAF"
+}

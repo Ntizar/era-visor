@@ -1,0 +1,134 @@
+{
+ "titulo_normalizado": "Colisión lateral en el túnel de Osina por defecto de vía entre Zegama Otzaurte y Brinkola",
+ "idioma_original": "es",
+ "resumen": "El 2 de febrero de 2009, a las 19:49 horas, los trenes de media distancia 16005 y de mercancías 57656, ambos de Renfe Operadora, colisionaron lateralmente en el interior del túnel de Osina, en Guipúzcoa. Como resultado, una viajera resultó herida leve y se produjeron daños en el tren de media distancia. La investigación concluyó que la colisión tuvo su origen en un defecto de la vía por peralte y entrecalle. Adif realizó mediciones y correcciones de la vía tras el accidente.",
+ "hechos": "El día 2 de febrero de 2009, a las 19:49 horas, el tren de media distancia 16005, procedente de Vitoria y con destino Irún, y el tren de mercancías 57656, procedente de Lezo Rentería y con destino Grisen, colisionaron lateralmente en el interior del túnel de Osina, en el P.K. 551+790, entre las estaciones de Zegama Otzaurte y Brinkola. El trayecto era de vía doble y el túnel se encontraba en curva hacia la izquierda.\n\nComo consecuencia del impacto, el tren de mercancías rompió los espejos retrovisores de ambas cabinas y siete lunas del lado derecho de la composición, en sentido de la marcha. Los trozos de luna alcanzaron a una viajera, que resultó herida leve. Los daños materiales principales se concentraron en la U/T 440195 del tren 16005.\n\nTras el suceso, el interventor del tren de viajeros informó al puesto de mando de Miranda, que comunicó al maquinista del tren de mercancías que procediera a reconocer la composición en Altsasua; allí y después en Pamplona no se encontraron anomalías. Las inspecciones posteriores en Grisen y Pasaia tampoco hallaron restos de pintura u otros elementos que acreditaran el impacto, salvo un golpe aislado en el bulón de un vagón, coincidente en altura pero sin restos de pintura.\n\nLas mediciones realizadas por Adif el 3 de febrero de 2009 constataron que el peralte y la entrecalle del punto del accidente estaban fuera de tolerancia, por lo que se procedió a su corrección. La investigación atribuyó la colisión lateral a ese defecto de vía.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "551+790",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Interior del túnel nº 13, denominado de Osina, en curva hacia la izquierda, entre las estaciones de Zegama Otzaurte y Brinkola, municipio de Zegama."
+ },
+ "cronologia": [
+  {
+   "hora": "19:49",
+   "evento": "2009-02-02: Colisión lateral entre el tren de media distancia 16005 y el tren de mercancías 57656 en el interior del túnel de Osina, P.K. 551+790."
+  },
+  {
+   "hora": null,
+   "evento": "2009-02-03: Adif realiza mediciones de peralte, entrecalle y flecha en el túnel de Osina y en el resto de túneles del trayecto; corrige los valores no correctos en el punto del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2009-02-03: Personal de Seguridad en la Circulación de Renfe Operadora inspecciona en Grisen la composición del tren 57656 sin encontrar elementos que hubieran impactado con el tren 16005."
+  },
+  {
+   "hora": null,
+   "evento": "2009-02-04: Inspección exhaustiva en Pasaia de los vagones del tren 57656; no se encuentran anomalías en suspensión, rodadura ni caja, salvo un golpe en el bulón de un vagón sin restos de pintura."
+  },
+  {
+   "hora": null,
+   "evento": "2009-02-24: El presidente de la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2009-03-18: El gerente territorial de seguridad en la circulación norte de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2009-05-17: El coordinador de accidentes ferroviarios de Adif entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2009-12-22: Fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "16005",
+   "tipo": "Tren de media distancia / viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "U/T 440195: rotura de dos espejos retrovisores completos con timonería y anclajes, y de 7 lunas; una viajera herida leve por los cristales."
+  },
+  {
+   "numero": "57656",
+   "tipo": "Tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se hallaron anomalías en inspecciones; posible golpe en el bulón del vagón 437142702087, coincidente en altura, pero sin restos de pintura."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren de viajeros 16005",
+   "implicacion": "Matrícula 9653882; circulaba a 80 km/h, velocidad máxima autorizada; habilitado conforme a la Orden FOM/2520/2006; jornada conforme a la normativa."
+  },
+  {
+   "rol": "Maquinista del tren de mercancías 57656",
+   "implicacion": "Matrícula 7788946; circulaba a 69 km/h, por debajo de la velocidad máxima autorizada; habilitado conforme a la Orden FOM/2520/2006; jornada conforme a la normativa."
+  },
+  {
+   "rol": "Interventor del tren de viajeros 16005",
+   "implicacion": "Informó del suceso al puesto de mando de Miranda."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado.",
+  "tipo_via": "Vía doble.",
+  "velocidad_maxima": "80 km/h para las circulaciones de tipo N.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Peralte y entrecalle fuera de tolerancia en el P.K. 551+790; corregidos tras las mediciones del 3 de febrero de 2009.",
+  "otro": "Túnel nº 13 Osina, construido en 1860, curva hacia la izquierda, radio 312 m y pendiente de 9 milésimas. Radiotelefonía modalidad A."
+ },
+ "material_rodante": {
+  "series": "U/T 440195; locomotora 28909/289039; vagón 437142702087.",
+  "averia": "Rotura de dos espejos retrovisores completos con timonería y anclajes y de 7 lunas en la U/T 440195; posible golpe en el bulón del vagón 437142702087 sin restos de pintura.",
+  "mantenimiento": "Inspecciones posteriores no hallaron anomalías en suspensión, rodadura ni caja; los registradores de seguridad indican velocidades de 80 km/h y 69 km/h, dentro de límites."
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Defecto de la vía por peralte y entrecalle fuera de tolerancia, que provocó la colisión lateral al cruzarse los trenes dentro del túnel.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 1,
+  "danos_materiales": "Daños en el tren de media distancia 16005: dos espejos completos con timonería y anclajes y 7 lunas rotas.",
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas.",
+   "destinatario": "DGIF"
+  }
+ ],
+ "tags": [
+  "colisión lateral",
+  "túnel de osina",
+  "defecto de vía",
+  "peralte",
+  "entrecalle",
+  "renfe operadora",
+  "adif",
+  "guipúzcoa",
+  "media distancia",
+  "mercancías",
+  "mantenimiento de vía",
+  "recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-020209-221209-CIAF"
+}

@@ -1,0 +1,135 @@
+{
+ "titulo_normalizado": "Rebase de señal de parada en la estación de Vilanova i la Geltrú por fallo humano",
+ "idioma_original": "es",
+ "resumen": "El incidente 0027/2016 ocurrió el 2016-05-28 en la estación de Vilanova i la Geltrú cuando el tren regional exprés 17501 rebasó la señal de salida S1/2 en indicación de parada. La señal estaba en rojo porque el tren de cercanías 25513 ocupaba el cantón protegido por ella. El sistema ASFA frenó al tren tras recorrer unos 160 m; no hubo víctimas ni daños materiales. La causa fue un fallo humano del maquinista, probablemente por falta de atención o exceso de confianza, agravado por el retraso y por ser su primer servicio. La CIAF recomienda reforzar la formación en atención a señales de anuncio de parada.",
+ "hechos": "El 2016-05-28, el tren regional exprés 17501 de RENFE VIAJEROS, procedente de Barcelona Estación de Francia con destino Madrid-Chamartín, entró en la estación de Vilanova i la Geltrú con 14 minutos de retraso y sin parada comercial. Precedía el tren de cercanías 25513, que había realizado parada comercial en vía 1 y ocupaba el cantón protegido por la señal de salida S1/2, por lo que dicha señal permanecía en indicación de parada desde las 09:46:38 horas.\nEl tren 17501 pasó la señal de entrada E1 en anuncio de parada y, según el registrador, aceleró hasta alcanzar 72 km/h al llegar a S1/2. A las 09:50:39 horas rebasó la señal S1/2 en aspecto rojo; el sistema ASFA provocó el frenado de emergencia y el tren se detuvo a unos 160 m, en el pk 635+719. El maquinista comunicó al jefe del CTC que la señal le había cambiado intempestivamente, aunque el registro confirma que S1/2 no varió.\nEl incidente supuso un conato de colisión por alcance sin talonamiento de agujas. No hubo víctimas ni daños materiales. Tras comprobar la ocupación del cantón, el tren fue apartado en Cunit, se relevó al maquinista y reanudó la marcha a las 10:33 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Vilanova i la Geltrú",
+  "pk": "635+888",
+  "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Vilanova i la Geltrú, señal de salida S1/2 en pk 635+888, vía 2 (continuación de vía general I), sentido impar hacia Cunit/Madrid; tramo Cunit-Vilanova i la Geltrú-Sitges."
+ },
+ "cronologia": [
+  {
+   "hora": "09:44",
+   "evento": "Se establece el itinerario E1 (vía 2) - S1/1 (vía 1) para el tren de cercanías 25513; la señal de entrada E1 está en anuncio de parada."
+  },
+  {
+   "hora": "09:45",
+   "evento": "El tren 25513 entra en la estación y realiza parada comercial en vía 1."
+  },
+  {
+   "hora": "09:46",
+   "evento": "Se establece itinerario de salida vía 1 a E4 para el tren 25513; el tren 17501 ocupa el circuito anterior a la señal de avanzada; la señal S1/2 permanece en parada desde las 09:46:38 horas."
+  },
+  {
+   "hora": "09:47",
+   "evento": "El tren 17501 pasa la señal de avanzada 6389-1 a 108 km/h."
+  },
+  {
+   "hora": "09:48",
+   "evento": "El tren 25513 concluye su parada y es expedido hacia Cunit; el tren 17501 pasa la baliza previa de la señal de entrada E1 a 34 km/h."
+  },
+  {
+   "hora": "09:49",
+   "evento": "El tren 17501 pasa la señal de entrada E1 en anuncio de parada a 30 km/h."
+  },
+  {
+   "hora": "09:50",
+   "evento": "El tren 17501 ocupa el circuito CV2 de vía 2 y rebasa la señal S1/2 en indicación de parada a 72 km/h (09:50:39 horas); el ASFA activa el frenado de emergencia."
+  },
+  {
+   "hora": "09:51",
+   "evento": "El tren queda detenido en pk 635+719 tras recorrer unos 160 m (09:50:55 horas) y el maquinista comunica al jefe del CTC un cambio intempestivo de la señal."
+  },
+  {
+   "hora": "10:33",
+   "evento": "Reanuda la marcha el tren 17501 tras el relevo del maquinista en Cunit."
+  },
+  {
+   "hora": "12:22",
+   "evento": "ADIF comunica a la CIAF, por SMS, el conato de colisión por rebase de señal en situación de peligro."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17501",
+   "tipo": "regional exprés",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Sin daños materiales"
+  },
+  {
+   "numero": "25513",
+   "tipo": "cercanías",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Sin daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 17501 (matrícula 6835144)",
+   "implicacion": "Conducía el tren que rebasó la señal S1/2 en parada; era su primer servicio con la habilitación correspondiente; fue relevado, suspendido de certificados y habilitaciones tras calificarse la infracción como grave."
+  },
+  {
+   "rol": "Jefe del CTC de Barcelona (matrícula 974911)",
+   "implicacion": "Recibió la comunicación del maquinista, comprobó que el cierre de S1/2 no fue ordenado por él, autorizó continuar hasta Cunit para comprobaciones y puso el suceso en conocimiento de RENFE VIAJEROS."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/2, luminosa fija fundamental, alta, con focos rojo, amarillo, verde y blanco; situada en el lado exterior de la vía con buena visibilidad; permaneció en indicación de parada desde las 09:46:38 horas. La estación disponía de señal de avanzada 6389-1, señal de entrada E1, señal de retroceso R1 y balizas ASFA.",
+  "tipo_via": "Vía doble electrificada, con circulación al amparo de Bloqueo Automático Banalizado (BAB) y Control de Tráfico Centralizado (CTC); en la estación, vía general I y vía 2.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Sin obras en el lugar ni en sus inmediaciones; condiciones normales de conservación y limpieza; sin limitación temporal de velocidad.",
+  "otro": "Enclavamiento electrónico; Puesto de Mando de Barcelona; radiotelefonía tren-tierra canal 64; estación con ocho vías; tráfico medio semanal estimado de 1.621 circulaciones en el tramo Vilanova i la Geltrú-Sitges."
+ },
+ "material_rodante": {
+  "series": "Tren 17501: autopropulsado 470122, UIC 967194701223, tipo 140, 3 vehículos, 12 ejes, 79 m y 159 t. Tren 25513: UU/TT 927164652574 y 927164652178, 10 vehículos, 24 ejes, 197 m y 405 t.",
+  "averia": "El tren 17501 sufrió una avería en Barcelona Estación de Francia que provocó 17 minutos de retraso en su salida, 19 minutos en Barcelona Sants y 14 minutos en Vilanova i la Geltrú; no se constataron anomalías en equipos o dispositivos de seguridad.",
+  "mantenimiento": "El registrador de seguridad NEMOTEL AS V 1.31 instalado en la unidad motriz 470122 presentaba un desfase de 57 segundos respecto al horario del CTC de Barcelona; no se constatan anomalías de mantenimiento en el material."
+ },
+ "clima": "Horas diurnas, algo nublado, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren 17501: no se puso en disposición de parar tras la señal E1 en anuncio de parada y rebasó la señal S1/2 en indicación de parada, incumpliendo los artículos 213 y 217 del Reglamento General de Circulación.",
+  "contribuyentes": [
+   "Circular con 14 minutos de retraso sobre el horario previsto.",
+   "Ser el primer servicio del maquinista con la habilitación correspondiente.",
+   "No tener parada comercial prescrita en la estación de Vilanova i la Geltrú.",
+   "Aumentar la tracción tras la señal E1 en anuncio de parada en lugar de disponerse a parar ante la siguiente señal."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en infraestructura, instalaciones ni material rodante.",
+  "afectacion_servicio": "Conato de colisión por alcance sin talonamiento de agujas; retrasos acumulados de 53 minutos en 6 trenes, de los que 38 minutos son imputables al tren 17501 por el relevo del maquinista; el tren fue apartado en Cunit y reanudó la marcha a las 10:33 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "[27/2016-1] En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "señal de parada",
+  "asfa",
+  "vilanova i la geltrú",
+  "línea 200",
+  "renfe viajeros",
+  "adif",
+  "fallo humano",
+  "regional exprés",
+  "cercanías",
+  "conato de colisión",
+  "retraso"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 28.05.2016 180223-160528-IF-SN_CIAF"
+}

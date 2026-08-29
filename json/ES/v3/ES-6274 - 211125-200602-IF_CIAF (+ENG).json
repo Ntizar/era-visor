@@ -1,0 +1,246 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo caído desde paso superior y descarrilamiento del Alvia 11553 en la estación de La Hiniesta (Zamora)",
+ "idioma_original": "es",
+ "resumen": "El 2 de junio de 2020, un todoterreno Land Rover Santana 88 sufrió un accidente de tráfico en la carretera ZA-P-1405 y se precipitó desde el paso superior sobre la estación de La Hiniesta a la caja de la vía. A las 16:10, el tren Alvia 11553 de Renfe Viajeros arrolló el vehículo a 115 km/h, provocando el descarrilamiento y desprendimiento de la cabeza motriz, que volcó y chocó contra vías de la base de mantenimiento, una topdera y traviesas apiladas. Fallecieron el conductor del vehículo y el maquinista en formación que conducía; el maquinista titular resultó herido grave y 6 pasajeros sufrieron heridas leves. La causa fue la caída del vehículo por un deficiente sistema de contención del paso superior, agravada por la ausencia de detector de caída de objetos.",
+ "hechos": "Sobre las 14:50 del 2 de junio de 2020, un todoterreno Land Rover Santana 88 con un único ocupante sufrió un accidente de tráfico en la carretera provincial ZA-P-1405, en el paso superior sobre la estación de La Hiniesta. El conductor, al tomar la primera curva del paso superior, golpeó la barrera del lado derecho, perdió el control, invadió el carril contrario y chocó de forma semifrontal contra el sistema de contención de vehículos (SCV) del lado izquierdo. El SCV, con anclajes deficientes al tablero, volcó hacia el exterior haciendo de rampa, y el vehículo se precipitó a la caja de la vía, quedando apoyado sobre techo y morro con las ruedas hacia arriba, ligeramente inclinado hacia el sentido de circulación del tren. Durante aproximadamente una hora y veinte minutos el vehículo permaneció en la vía sin ser detectado, al no existir detector de caída de objetos en la red convencional.\n\nA las 16:10, el tren Alvia 11553 de Renfe Viajeros, doble composición de la serie 730 de Talgo (ramas 730.023 en cabeza y 730.014 en cola), con origen Ferrol/Ourense y destino Madrid-Chamartín, pasó bajo el paso superior y arrolló el vehículo a unos 115 km/h. El motor del todoterreno impactó contra una pieza rígida de la cabeza motriz, que descarriló hacia la izquierda tras recorrer 17 metros desde la colisión, a 110 km/h. La cabeza motriz, orientada por el desvío 2, se desprendió del resto de la composición al romperse el acoplamiento semipermanente, volcó sobre su lado derecho, golpeó una vía de ancho estándar UIC de la base de montaje, una topera y finalmente un acopio de traviesas apiladas, deteniéndose girada 180 grados. El resto de la composición siguió descarrilada por la vía general.\n\nComo resultado, fallecieron el conductor del vehículo y el maquinista en formación que realizaba las tareas de conducción (en prácticas para obtener la habilitación de la serie 730). El maquinista titular, que supervisaba desde el asiento izquierdo, resultó herido grave. De los 158 viajeros, 6 sufrieron heridas leves. Se produjeron importantes daños materiales en infraestructura (unos 500 m de vía dañados, dos desvíos a izquierdas inutilizados, elementos de superestructura e instalaciones de seguridad) y en material rodante (ambas ramas dañadas, salvo los 6 últimos coches de la rama de cola, el CET y la cabeza motriz de cola, que quedaron encarrilados y sin desperfectos). La vía general quedó totalmente interceptada desde las 16:10 del 2 de junio hasta las 00:00 del 11 de junio, afectándose 16 circulaciones.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "La Hiniesta",
+  "pk": "10+251",
+  "linea": "822 (Zamora-A Coruña)",
+  "provincia": "Zamora",
+  "descripcion_lugar": "Estación de La Hiniesta, municipio de La Hiniesta, Castilla y León, coordenadas 41°34'1.98\"N y 5°48'57.89\"O. Zona llana a continuación de una pequeña trinchera, proximidades del desvío 2 que forma parte de un escape de acceso a la base de montaje/mantenimiento de la LAV Zamora-Pedralba. Tramo en curva a izquierdas seguida de recta, con pendientes de 5,46 y 7,80 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "14:45",
+   "evento": "El vehículo es visto por testigos en la recta anterior al paso superior"
+  },
+  {
+   "hora": "14:50",
+   "evento": "Accidente de tráfico: el todoterreno golpea la barrera, pierde el control, choca contra el SCV y se precipita a la caja de la vía desde el paso superior"
+  },
+  {
+   "hora": "15:52",
+   "evento": "Se enclava el movimiento de paso por La Hiniesta hacia Bifurcación Valorio, abriéndose la señal E2 con vía libre"
+  },
+  {
+   "hora": "16:09:02",
+   "evento": "El tren 11553 ocupa el circuito de proximidad de La Hiniesta por el lado de La Coruña"
+  },
+  {
+   "hora": "16:09:46",
+   "evento": "El tren pasa por la baliza previa de la señal E2 con indicación de vía libre (L3) a 125 km/h"
+  },
+  {
+   "hora": "16:09:56",
+   "evento": "El tren pasa por la baliza de pie de la señal E2 a 125 km/h; décimas de segundo después se aplica el manipulador a posición de emergencia; el tren ocupa el circuito de vía de agujas 2 (CVA2)"
+  },
+  {
+   "hora": "16:10:02",
+   "evento": "Colisión con el vehículo a aproximadamente 115 km/h tras recorrer 203 metros desde la aplicación del freno"
+  },
+  {
+   "hora": "16:10:03",
+   "evento": "Activación del freno de emergencia general; descarrilamiento de la cabeza motriz a ~110 km/h tras 17 m de arrastre del vehículo"
+  },
+  {
+   "hora": "16:10:05",
+   "evento": "La aguja nº2 pierde la comprobación"
+  },
+  {
+   "hora": "16:10:07",
+   "evento": "Ocupación intempestiva del CVA4 (aguja nº4); avisos de avería en contadores de ejes de agujas 2 y 4"
+  },
+  {
+   "hora": "16:10:08",
+   "evento": "Se desocupa el circuito de proximidad (AE2)"
+  },
+  {
+   "hora": "16:10:10",
+   "evento": "Se desocupa el circuito del trayecto HC"
+  },
+  {
+   "hora": "17:08",
+   "evento": "ADIF comunica el suceso a la CIAF mediante SMS"
+  },
+  {
+   "hora": "17:50-18:25",
+   "evento": "Traslado de viajeros en autobuses desde La Hiniesta a Zamora"
+  },
+  {
+   "hora": "18:47",
+   "evento": "Sale de Zamora el primer tren con destino Madrid-Chamartín"
+  },
+  {
+   "hora": "18:56",
+   "evento": "Sale de Zamora el segundo tren con destino Madrid-Chamartín"
+  },
+  {
+   "hora": "21:12",
+   "evento": "Sale de Salamanca un tren taller con destino La Hiniesta"
+  },
+  {
+   "hora": "00:40",
+   "evento": "El tren taller llega a La Hiniesta (día 3 de junio)"
+  },
+  {
+   "hora": "12:19",
+   "evento": "Sale locomotora aislada de Carbajales de Alba hacia La Hiniesta (día 3)"
+  },
+  {
+   "hora": "19:55",
+   "evento": "Queda encarrilada la composición de cola (día 3)"
+  },
+  {
+   "hora": "13:25",
+   "evento": "Sale tren de La Hiniesta a Carbajales remolcando el autopropulsado 730014 (día 4)"
+  },
+  {
+   "hora": "14:08",
+   "evento": "Queda apartado el 730014 en Carbajales (día 4)"
+  },
+  {
+   "hora": "18:30",
+   "evento": "Queda apartada la cabeza motriz delantera de la rama 730014 (día 4)"
+  },
+  {
+   "hora": "20:30",
+   "evento": "Queda retirada la cabeza motriz trasera de la rama 730023 (día 4)"
+  },
+  {
+   "hora": "13:40-20:40",
+   "evento": "Se completa la retirada de los coches restantes de la vía (día 5)"
+  },
+  {
+   "hora": "20:36",
+   "evento": "El tren taller sale de La Hiniesta dirección Zamora (día 5)"
+  },
+  {
+   "hora": "12:57",
+   "evento": "Se concede entrega de vía bloqueada (EVB) entre Bifurcación Valorio y Carbajales para reparaciones (día 8)"
+  },
+  {
+   "hora": "00:00",
+   "evento": "Fin de la interceptación total de vía general (11 de junio)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "11553",
+   "tipo": "LD Alvia (tren de larga distancia de pasajeros, tipo 180B en tramo Lugo-Zamora)",
+   "operador": "Renfe Viajeros",
+   "danos": "Cabeza motriz de la rama de cabeza (730.023) descarrilada, desprendida, volcada y gravemente dañada (cabina destrozada por impacto contra traviesas). Rama 730.023 dañada. Rama 730.014: los 6 últimos coches, CET y cabeza motriz de cola quedaron encarrilados y sin desperfectos. Rotura del acoplamiento semipermanente."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista en formación (habilitación serie 730)",
+   "implicacion": "Realizaba las tareas de conducción. Aplicó el freno de emergencia al detectar el vehículo. Adoptó posición de protección agachado. Falleció en el accidente."
+  },
+  {
+   "rol": "Maquinista titular",
+   "implicacion": "Supervisaba la conducción desde el asiento izquierdo. Advirtió la presencia del vehículo. Adoptó posición de protección. Resultó herido grave."
+  },
+  {
+   "rol": "Conductor del vehículo de carretera",
+   "implicacion": "Único ocupante del todoterreno. Sufrió accidente de tráfico y falleció."
+  },
+  {
+   "rol": "Responsable de circulación del CTC de León",
+   "implicacion": "Habilitaciones y reconocimientos al día. Sin implicación directa."
+  },
+  {
+   "rol": "Responsable de circulación de Zamora",
+   "implicacion": "Habilitaciones y reconocimientos al día. Sin implicación directa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA Digital con balizas previas y de pie; señales E2 (entrada, con baliza previa y baliza de pie) y E'2 (avanzada, con baliza previa). Indicación de vía libre (L3) correcta en el momento del paso del tren.",
+  "tipo_via": "Vía única en ancho ibérico con apartaderos (vía 3 y vía 4); escape formado por agujas 2 y 4 hacia la base de montaje AV; desvío 2 con traviesas de madera; desvío 4 con corazón roto por el impacto",
+  "velocidad_maxima": "125 km/h (tramo de plena vía previo al apartadero); sin limitaciones temporales de velocidad en el momento del accidente",
+  "ancho": "1668 mm (ancho ibérico); la base de montaje incluye vías de ancho estándar UIC (1435 mm)",
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Correcto; no existían limitaciones temporales de velocidad. Tras el accidente: LTVM 30 km/h del PK 9.900 al 10.400 (22/06/2020), luego 60 km/h desde 21/12/2020 por estado del paso superior.",
+  "otro": "Bloqueo BLAU con CTC; subred B2 de la RFIG; enclavamiento no telemandado, controlado desde Zamora; ocupación por contadores de ejes; armamento traviesas RS (bibloque) y carril 54 kg/m de segundo uso (1980, instalado 2000); desvíos de reciente instalación (agosto 2018); paso superior de titularidad de la Diputación de Zamora con SCV instalado en 1990, con anclajes deficientes al tablero (vástagos de 20 cm sin armadura de acompañamiento, placa 15x15 cm con 4 tornillos, hormigón con grietas y vegetación, tornillos y vástago oxidados); no dispone de detector de caída de objetos (DCO)"
+ },
+ "material_rodante": {
+  "series": "Serie 730 de Renfe, fabricada por Talgo; composición doble 730.023 (cabeza) + 730.014 (cola); tipo M-CET-9R-CET-M; 26 vehículos, 44 ejes, 369 m, 727 t; tracción diésel y eléctrica; rodadura desplazable (ancho UIC e ibérico); velocidad máxima 250 km/h (UIC), 220 km/h (ibérico), 180 km/h (diésel); equipada con ASFA Digital",
+  "averia": "Rotura del acoplamiento semipermanente entre cabeza motriz y CET; cabeza motriz descarrilada, volcada y con cabina destrozada; manchas de aceite del vehículo en el chasis inferior; huellas de neumáticos en el deflector inferior del morro; desgaste por abrasión en parte inferior",
+  "mantenimiento": "Todos los sistemas de seguridad embarcados (freno, ASFA Digital, comunicaciones) funcionaron correctamente; la deceleración del freno antes del descarrilamiento está por encima de los mínimos requeridos por las especificaciones técnicas"
+ },
+ "clima": "Día despejado y soleado; sol alto tanto en el momento de la caída del vehículo (14:50) como en la colisión (16:10); no se encontraron indicios de que la posición del sol o las condiciones meteorológicas restasen visibilidad al maquinista; la sombra del paso superior dificultó la percepción del vehículo",
+ "causas": {
+  "directa": "Accidente de tráfico con resultado de la precipitación del vehículo desde el paso superior a la caja de la vía, invadiendo el gálibo de libre paso del tren",
+  "contribuyentes": [
+   "Deficiente mantenimiento e inspección del sistema de contención de vehículos (SCV) del paso superior: anclajes al tablero sin armadura de acompañamiento, hormigón degradado, oxidación",
+   "La posición del vehículo tras la caída (sobre techo y morro, ruedas hacia arriba, ligeramente inclinado) y su propia estructura (bastidor, motor delantero) facilitaron el descarrilamiento del tren",
+   "No disponer de detector de caída de objetos (DCO) en el paso superior, lo que impidió detectar la presencia del vehículo durante 1 hora y 20 minutos",
+   "El desvío 2-4 influyó en las consecuencias del descarrilamiento de la cabeza motriz: actuó como guía, provocó pérdida de control, rotura del enganche y vuelco",
+   "El impacto de la cabeza motriz contra el acopio de traviesas apiladas agravó los daños sufridos por el personal de conducción",
+   "El trazado de la carretera (planta y alzado) dificultaba la visión del vehículo caído para otros usuarios; la curva a izquierdas y la sombra del paso superior dificultaron la percepción por los maquinistas"
+  ],
+  "sistemicas": [
+   "Responsabilidad del mantenimiento de los pasos superiores recae en los titulares de los viales, con falta de percepción del peligro potencial que un mantenimiento inadecuado del SCV representa para la circulación ferroviaria",
+   "Las visitas de vigilancia de los pasos superiores por ADIF carecen de procedimientos que regulen esta sistemática",
+   "Ausencia de obligación normativa (a fecha del suceso) de instalar DCO en pasos superiores sobre la red convencional de la RFIG",
+   "Incertidumbre legislativa sobre la consideración de los pasos superiores como parte de la infraestructura ferroviaria (Ley del Sector Ferroviario vs. normativa de titularidad vial)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": 1,
+  "heridos_leves": 6,
+  "danos_materiales": "Importantes daños en infraestructura y material rodante: ~500 m de vía dañados (vía general y vías de la base), dos desvíos a izquierdas inutilizados, daños en superestructura e instalaciones de seguridad, corazón del desvío 4 roto, vía de ancho estándar UIC deformada; cabeza motriz 730.023 volcada y cabina destrozada; ambas ramas dañadas (salvo 6 últimos coches de rama de cola, CET y cabeza motriz de cola)",
+  "afectacion_servicio": "Interceptación total de vía general desde 16:10 del 02/06/2020 hasta 00:00 del 11/06/2020; 16 circulaciones afectadas (5 el día del accidente, 9 el 3 de junio, 1 el 4, 1 el 8); tras el accidente LTVM de 30 km/h (22/06/2020) y luego 60 km/h (21/12/2020) aún vigente a fecha del informe"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Promover el desarrollo de los oportunos instrumentos jurídicos para que los titulares de los pasos superiores sobre el ferrocarril lleven a cabo una vigilancia y mantenimiento eficaces de los mismos.",
+   "destinatario": "MITMA (implementador final), vía AESF"
+  },
+  {
+   "texto": "Desarrollar la oportuna normativa para que los administradores de infraestructura ferroviaria vigilen el estado de todos los pasos superiores que se ubican sobre las líneas que administran, incluyendo los sistemas de contención de vehículos, e informen de los resultados obtenidos a las diferentes administraciones titulares de los viales para que éstas actúen en consecuencia.",
+   "destinatario": "ADIF (implementador final), vía AESF"
+  },
+  {
+   "texto": "Estudiar la posible instalación de detectores de caída de objetos en aquellos pasos superiores sobre la red convencional no contemplados en el artículo 63.4 del Reglamento de Seguridad Operacional e Interoperabilidad Ferroviarias y que por sus características presenten un especial peligro potencial.",
+   "destinatario": "ADIF (implementador final), vía AESF"
+  },
+  {
+   "texto": "Mejorar el sistema de contención de vehículos del paso superior de la carretera ZA-P-1405 sobre la línea 822 Zamora-A Coruña.",
+   "destinatario": "Diputación de Zamora (implementador final), vía AESF"
+  },
+  {
+   "texto": "Revisar el estado del resto de pasos superiores, similares al de La Hiniesta, sobre las líneas 820 y 822 (Toro a Lubián), titularidad de la Diputación de Zamora y la operativa de su mantenimiento (en especial los sistemas de contención de vehículos), adoptando, en su caso, las medidas oportunas.",
+   "destinatario": "Diputación de Zamora (implementador final), vía AESF"
+  },
+  {
+   "texto": "Proponer a las administraciones y entidades responsables la necesidad de promover las acciones legislativas que permitan eliminar las incertidumbres existentes en la legislación sobre la consideración de los pasos superiores como parte de la infraestructura ferroviaria o su relación con ella.",
+   "destinatario": "MITMA (implementador final), vía AESF"
+  }
+ ],
+ "tags": [
+  "arrollamiento vehiculo",
+  "descarrilamiento",
+  "paso superior",
+  "caida vehiculo via",
+  "sistema contencion vehiculos",
+  "scv",
+  "detector caida objetos",
+  "dco",
+  "serie 730",
+  "talgo",
+  "alvia",
+  "renfe viajeros",
+  "adif",
+  "diputacion zamora",
+  "linea 822",
+  "la hiniesta",
+  "accidente grave",
+  "mantenimiento infraestructura"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-6274 - 211125-200602-IF_CIAF (+ENG)"
+}

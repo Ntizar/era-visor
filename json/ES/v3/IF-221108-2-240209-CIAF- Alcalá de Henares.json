@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de media distancia en la estación de Alcalá de Henares",
+ "idioma_original": "es",
+ "resumen": "El 22 de noviembre de 2008, a las 20:34 horas, el tren de media distancia 17011 de Renfe Operadora arrolló a un joven de 16 años en la vía G1, a la salida de la estación de Alcalá de Henares, en el P.K. 32,800 de la línea 200 Madrid-Barcelona. Como consecuencia del accidente, la víctima falleció. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente. La investigación concluye que el origen fue el tránsito de la víctima por el lugar por donde pasaba el tren sin estar autorizado para ello. El informe recomienda a Adif la adopción de medidas para el mantenimiento del vallado ya reparado.",
+ "hechos": "El tren de viajeros de media distancia 17011, de Renfe Operadora, compuesto por el automotor 470118 de tres vehículos y 161 Tn de masa remolcada, circulaba a la salida de la estación de Alcalá de Henares por la vía G1, en el P.K. 32,800 de la línea 200 Madrid-Barcelona, cuando a las 20:34 horas arrolló a un joven de 16 años que transitaba por la caja de la vía. El maquinista notó un impacto fuerte, detuvo el tren, inspeccionó el frontal y observó un impacto de unos 4 o 5 cm debajo del parabrisas, además de trazas de sangre en el lateral izquierdo, aunque no vio a la persona. Comunicó la incidencia al Puesto de Mando de Madrid y, tras indicársele que continuara la marcha, reanudó la circulación.\n\nLa persona inerte fue vista posteriormente por el maquinista del tren 21569, al que se prescribió marcha a la vista, en la entrevía entre los cambios de salida y la señal E8, entre las vías G1 y G2 de la estación. Según el informe de Adif, al lugar del accidente se accedía por una rotura en el cerramiento situada al final de la calle Pedro del Campo, junto a la vía G1, y era necesario saltar o subir un murete de hormigón de 60 cm para llegar a la vía. La zona se describe como lugar habitual de botellón y reuniones de jóvenes. Tras el accidente, los servicios municipales de Alcalá de Henares repararon la rotura del vallado.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Alcalá de Henares",
+  "pk": "P.K. 32,800",
+  "linea": "200 Madrid-Barcelona",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Vía G1, a la salida de la estación de Alcalá de Henares, en el trayecto Bifurcación Base Aérea – Alcalá de Henares, entre los cambios de salida y la señal E8, entre las vías G1 y G2. Acceso por rotura del cerramiento al final de la calle Pedro del Campo, cerca del parque O'Donnell."
+ },
+ "cronologia": [
+  {
+   "hora": "20:34",
+   "evento": "El tren de media distancia 17011 arrolla a una persona en la vía G1, a la salida de la estación de Alcalá de Henares."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista del tren 17011 nota un impacto, detiene el tren, lo inspecciona y comunica la incidencia al Puesto de Mando de Madrid."
+  },
+  {
+   "hora": null,
+   "evento": "El Puesto de Mando de Madrid ordena continuar la marcha tras la comunicación del maquinista."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista del tren 21569, con marcha a la vista, observa a la persona inerte en la entrevía entre los cambios de salida y la señal E8."
+  },
+  {
+   "hora": "21:14",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de un joven por el tren 17011."
+  },
+  {
+   "hora": "21:49",
+   "evento": "Comienza la interceptación de las vías G3 y G4."
+  },
+  {
+   "hora": "22:02",
+   "evento": "Finaliza la interceptación de las vías G3 y G4."
+  },
+  {
+   "hora": "22:20",
+   "evento": "Queda restablecida la circulación normal y finaliza la interceptación de las vías G1 y G2."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17011",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante; se observan impacto bajo el parabrisas y trazas de sangre en el lateral izquierdo."
+  },
+  {
+   "numero": "21569",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 17011",
+   "implicacion": "Matrícula 1347566. Notó el impacto, detuvo el tren, inspeccionó, comunicó al Puesto de Mando de Madrid y continuó la marcha por indicación del regulador. Alcoholemia 0,00 mg/1000 ml. Habilitado conforme a la Orden Ministerial 2520/2006; último reciclaje formativo el 2007-05-09 y último reconocimiento médico y psicotécnico el 2006-02-05."
+  },
+  {
+   "rol": "maquinista del tren 21569",
+   "implicacion": "Observó a la persona inerte en la entrevía mientras se le prescribía marcha a la vista."
+  },
+  {
+   "rol": "coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Comunicó el accidente a la Comisión de Investigación de Accidentes Ferroviarios el 22 de noviembre de 2008 a las 21:14 horas."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Control de tráfico centralizado (C.T.C.), bloqueo automático banalizado (B.A.B.), enclavamiento eléctrico, señal E8 y radiotelefonía modalidad A.",
+  "tipo_via": "Vía cuádruple electrificada; lugar del arrollamiento en la vía G1, con cerramiento/vallado.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "El material rodante y las instalaciones técnicas funcionaron correctamente; el cerramiento presentaba una rotura forzada en el acceso desde la calle Pedro del Campo.",
+  "otro": "Trayecto Bifurcación Base Aérea – Alcalá de Henares; P.K. 32,800; media semanal de circulaciones del tramo: 1.959, desglosadas en 13 de larga distancia, 77 de media distancia, 1.715 de cercanías, 139 de mercancías y 15 de servicio."
+ },
+ "material_rodante": {
+  "series": "Automotor 470118, 3 vehículos, masa remolcada 161 Tn, Nº UIC 967194701181.",
+  "averia": "No se aprecia avería; el material rodante funcionó correctamente. Al accionar el freno de emergencia, el tren circulaba a 120 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Noche y despejado",
+ "causas": {
+  "directa": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+  "contribuyentes": [
+   "Rotura y forzamiento del cerramiento por donde accedió la víctima.",
+   "Zona habitual de botellón y reuniones de jóvenes.",
+   "Acceso a la vía desde la calle Pedro del Campo mediante salto o subida de un murete de hormigón de 60 cm."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Retrasos en trenes de cercanías de 35 minutos y en trenes de media distancia de 8 minutos. Vías G1 y G2 interceptadas de 20:34 a 22:20; vías G3 y G4 interceptadas de 21:49 a 22:02. Circulación normal restablecida a las 22:20."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la adopción de las medidas necesarias para su mantenimiento.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "fallecido",
+  "estación",
+  "alcalá de henares",
+  "línea 200",
+  "renfe operadora",
+  "adif",
+  "cerramiento",
+  "mantenimiento",
+  "intrusión",
+  "botellón"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-221108-2-240209-CIAF- Alcalá de Henares"
+}

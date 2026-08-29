@@ -1,0 +1,146 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 408 en la estación de Medina del Campo por exceso de velocidad",
+ "idioma_original": "es",
+ "resumen": "El 5 de julio de 2008, a las 11:56, el tren de viajeros 408 de larga distancia descarriló al entrar por vía 4 en la estación de Medina del Campo. La composición, formada por la locomotora 252031 y 23 vehículos TALGO, procedía de París con destino Madrid-Chamartín y circulaba con 309 minutos de retraso. Descarrilaron los siete primeros vehículos, mientras la locomotora quedó cortada y encarrilada a unos 30 metros. Hubo 9 heridos leves y daños materiales; la causa fue no adecuar la velocidad a las señales de limitación de 120 km/h y 90 km/h.",
+ "hechos": "El día 5 de julio de 2008, a las 11:56 horas, el tren de viajeros 408 de larga distancia, formado por la locomotora 252031 y 23 vehículos TALGO, con 309 minutos de retraso sobre su horario, procedente de París y con destino Madrid-Chamartín, acababa de rebasar la señal de entrada de la estación de Medina del Campo, donde no tenía parada, y efectuaba su entrada por vía 4. En ese tramo había señales de limitación permanente de velocidad de 120 km/h por catenaria y 90 km/h al entrar en curva; el registro de seguridad muestra pasos a 154 km/h y 151 km/h, respectivamente.\n\nComo consecuencia, descarrilaron los siete primeros vehículos de la composición. La locomotora quedó cortada y encarrilada sobre vía a unos 30 metros del primer vehículo descarrilado, y los vehículos restantes no descarrilaron. El Jefe de Circulación observó la entrada del tren, percibió una fuerte polvareda, hizo la señal de alto y comunicó el suceso al puesto de mando de Madrid Chamartín, activándose los protocolos de emergencia.\n\nEl tren se detuvo totalmente a las 11:57:12. Resultaron heridas leves 9 personas, 8 viajeros y un camarero. Se produjeron daños importantes a la infraestructura desde el P.K. 206,695 hasta el P.K. 206,390, valorados en 300.000 euros en vía y 70.000 euros en aparatos de vía, y daños en el material rodante por unos 600.000 euros.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Medina del Campo",
+  "pk": "206,300",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Valladolid",
+  "descripcion_lugar": "Estación de Medina del Campo; paso por vía 4, sin parada prescrita. Entrada en pendiente de 5 milésimas y alineación curva a izquierdas. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+ },
+ "cronologia": [
+  {
+   "hora": "11:55",
+   "evento": "2008-07-05: paso por la baliza previa de la señal de avanzada a 154 km/h (11:55:43)."
+  },
+  {
+   "hora": "11:55",
+   "evento": "2008-07-05: paso por la baliza de señal avanzada a 154 km/h (11:55:50)."
+  },
+  {
+   "hora": "11:56",
+   "evento": "2008-07-05: paso por la baliza previa de señal de entrada a 154 km/h (11:56:26)."
+  },
+  {
+   "hora": "11:56",
+   "evento": "2008-07-05: paso por la señal de limitación de velocidad a 120 km/h por catenaria a 154 km/h."
+  },
+  {
+   "hora": "11:56",
+   "evento": "2008-07-05: paso por la baliza de señal de entrada a 154 km/h (11:56:33)."
+  },
+  {
+   "hora": "11:56",
+   "evento": "2008-07-05: paso por la señal de limitación por curva a 90 km/h a 151 km/h (11:56:40); comienza la deceleración."
+  },
+  {
+   "hora": "11:56",
+   "evento": "2008-07-05: descarrilamiento de los siete primeros vehículos del tren 408 en la estación de Medina del Campo."
+  },
+  {
+   "hora": "11:57",
+   "evento": "2008-07-05: detención total del tren (11:57:12)."
+  },
+  {
+   "hora": null,
+   "evento": "2008-07-05: el Jefe de Circulación observa el descarrilamiento, hace la señal de alto y comunica al puesto de mando de Madrid Chamartín."
+  },
+  {
+   "hora": "15:46",
+   "evento": "2008-07-05: el Coordinador de accidentes ferroviarios de Adif comunica por correo electrónico a la CIAF el descarrilamiento."
+  },
+  {
+   "hora": null,
+   "evento": "2008-07-09: el maquinista presta declaración en Madrid."
+  },
+  {
+   "hora": "10:35",
+   "evento": "2008-07-06: las vías 1 y 2 quedan aptas para servicio."
+  },
+  {
+   "hora": null,
+   "evento": "2008-07-24: las vías 3 y 4 quedan aptas para servicio."
+  },
+  {
+   "hora": null,
+   "evento": "2008-07-30: visita y acompañamiento de tren en cabina desde Valladolid hasta Villalba; conclusión: señalización correcta y visibilidad no afectada por causas externas."
+  },
+  {
+   "hora": null,
+   "evento": "2008-08-13: el Gerente Territorial de Seguridad en la Circulación Centro de Adif entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2008-09-05: el Responsable de Seguridad de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2008-12-18: el Pleno de la CIAF aprueba el informe final y resuelve que no se establecen recomendaciones."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "408",
+   "tipo": "Tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de los siete primeros vehículos; locomotora 252031 cortada y encarrilada a unos 30 metros; daños en la composición por valor aproximado de 600.000 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren",
+   "implicacion": "Matrícula 1347400. Condujo el tren 408; el informe concluye que no adecuó la conducción a las señales de limitación de velocidad, pasando a 154 km/h y 151 km/h. Declaró que usó el manipulador de freno y la seta de urgencia, sin recordar el orden. Alcoholemia negativa; jornada efectiva de conducción el día del accidente: 5 horas y 26 minutos; 24 y 48 horas anteriores: descanso por vacaciones. Habilitado conforme a la Orden Ministerial 2520 de 2006-07-27; último reciclaje formativo el 2007-10-30 y último reconocimiento médico y psicotécnico el 2008-05-14."
+  },
+  {
+   "rol": "Jefe de Circulación de Medina del Campo",
+   "implicacion": "Observó el paso del tren desde el andén, detectó una fuerte polvareda, hizo la señal de alto y comunicó de inmediato el suceso al puesto de mando de Madrid Chamartín. Alcoholemia negativa el día del accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de limitación permanente de velocidad a 120 km/h por catenaria y 90 km/h por curva; balizas de avanzada y de entrada. El acompañamiento en cabina del 2008-07-30 concluyó que la señalización es correcta y no induce a mala visibilidad.",
+  "tipo_via": "Vía doble con bloqueo automático en vía doble BAD; enclavamiento eléctrico y cambios tipo A; entrada por vía 4; pendiente de 5 milésimas y alineación curva a izquierdas.",
+  "velocidad_maxima": "120 km/h por catenaria y 90 km/h por curva en el trayecto Pozaldez-Medina del Campo.",
+  "ancho": null,
+  "electrificacion": "Catenaria; sin compensar del P.K. 250,030 al P.K. 247,600 y del P.K. 207,43 al P.K. 204,145.",
+  "estado_via": "Mediciones de vía dentro de tolerancias. Tras el accidente, vías 1, 2, 3 y 4 fuera de servicio; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24.",
+  "otro": "Radiotelefonía modalidad A. Daños a infraestructura valorados en 300.000 € en vía y 70.000 € en aparatos de vía. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+  "averia": "No se detectan averías; el material rodante funcionó correctamente. El registro indica que la frenada actuó únicamente sobre el freno eléctrico de la locomotora, sin demandar activación del freno neumático de la composición.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado.",
+ "causas": {
+  "directa": "Falta de adecuación de la conducción del maquinista en un tramo en curva a las señales de limitación de velocidad de 120 km/h y 90 km/h, pasando a 154 km/h y 151 km/h respectivamente.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 9,
+  "danos_materiales": "Infraestructura: 300.000 € en vía y 70.000 € en aparatos de vía. Material rodante: aproximadamente 600.000 €. Daños importantes desde P.K. 206,695 hasta P.K. 206,390.",
+  "afectacion_servicio": "Vías 1, 2, 3 y 4 fuera de servicio para mantenimiento y reparación; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24. Minutos perdidos: 4 trenes de larga distancia 1h 14 min; 1 tren de cercanías 1h 11 min; 1 tren de media distancia 16 min; 7 trenes de mercancías 4h 24 min."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "descarrilamiento",
+  "exceso de velocidad",
+  "tren 408",
+  "medina del campo",
+  "línea 100",
+  "talgo",
+  "locomotora 252031",
+  "limitación de velocidad",
+  "renfe operadora",
+  "adif",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-050708-181208-CIAF"
+}

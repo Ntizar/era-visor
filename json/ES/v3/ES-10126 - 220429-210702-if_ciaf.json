@@ -1,0 +1,154 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal en paso a nivel de Novelda por invasión con semibarrera bajada",
+ "idioma_original": "es",
+ "resumen": "El 2 de julio de 2021, a las 17:15, un tren Intercity Barcelona-Lorca de Renfe Viajeros arrolló a un automóvil en el paso a nivel A3 del PK 424+690 de la línea 330, a la salida de la estación de Novelda-Aspe (Alicante). Los cuatro ocupantes del coche fallecieron. El paso estaba cerrado, con semibarreras bajadas y señalización luminosa y acústica activadas, pero el vehículo invadió el paso atravesando el hueco de la semibarrera. La causa directa fue el fallo humano del conductor, con factores contribuyentes relacionados con la disposición viaria y la difícil percepción de la barrera y las señales.",
+ "hechos": "El accidente se produjo el 2 de julio de 2021 a las 17:15 en el paso a nivel situado en el PK 424+690 oficial (424+897 real) de la línea 330 La Encina – Alacant Terminal, a la salida de la estación de Novelda-Aspe, lado Alicante. Un tren Intercity 462/463 de Renfe Viajeros, con locomotora 252.059 y composición Talgo 6B5, circulaba con unos 12 minutos de retraso por la vía 1 cuando se produjo el arrollamiento de un turismo Kia Stonic. El paso era del tipo A3, con semibarreras automáticas enclavadas, señales luminosas y acústicas, y señalización horizontal y vertical. Según los registros y testimonios, las protecciones funcionaron correctamente y las semibarreras estaban bajadas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Novelda-Aspe",
+  "pk": "424+690 oficial (424+897 real)",
+  "linea": "330 La Encina – Alacant Terminal",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Paso a nivel en la cabecera lado Alicante de la estación de Novelda-Aspe, donde las vías 1 y 3 cruzan la calle Camí de Castella; la calle Rafael Altamira se incorpora justo antes del paso."
+ },
+ "cronologia": [
+  {
+   "hora": "17:11",
+   "evento": "17:11:39: el tren 462 ocupa el CV E'1 MP e inicia la secuencia de cierre del paso a nivel."
+  },
+  {
+   "hora": "17:11",
+   "evento": "17:11:40: inicio de las luces de carretera del paso a nivel."
+  },
+  {
+   "hora": "17:11",
+   "evento": "17:11:48: inicio de la bajada de las semibarreras."
+  },
+  {
+   "hora": "17:11",
+   "evento": "17:11:55: comprobación de barrera cerrada y paso a nivel protegido."
+  },
+  {
+   "hora": "17:12",
+   "evento": "17:12:05: señales del trayecto en vía libre."
+  },
+  {
+   "hora": "17:14",
+   "evento": "17:14:46: el tren atraviesa la estación por la vía 1 con el paso cerrado y protegido."
+  },
+  {
+   "hora": "17:15",
+   "evento": "17:15:01: impacto estimado; el coche invade el paso por el hueco de la semibarrera."
+  },
+  {
+   "hora": "17:15",
+   "evento": "17:15:02: el maquinista aplica el freno de emergencia."
+  },
+  {
+   "hora": "17:15",
+   "evento": "17:15:03: el tren pasa la señal S2-1A tras la colisión."
+  },
+  {
+   "hora": "17:15",
+   "evento": "17:15:12: fin del mando de enclavamiento."
+  },
+  {
+   "hora": "17:15",
+   "evento": "17:15:13: inicio de la subida de las barreras."
+  },
+  {
+   "hora": "17:15",
+   "evento": "17:15:37: detención del tren tras unos 633 m recorridos después del impacto."
+  },
+  {
+   "hora": "17:57",
+   "evento": "Adif notifica oficialmente el suceso a la CIAF mediante SMS."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "462/463 (denominado 462 en el tramo del accidente)",
+   "tipo": "Intercity Barcelona-Sants – Lorca-Sutullena",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en la parte frontal de la locomotora: quitarreses frontal y algunos manguitos y conducciones en bajos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 462",
+   "implicacion": "Actuó correctamente; observó la invasión del paso, aplicó freno de emergencia y no pudo evitar el choque; control de alcohol y drogas negativo."
+  },
+  {
+   "rol": "Responsable de Circulación del CTC",
+   "implicacion": "Actuó correctamente; no se observaron incumplimientos ni anomalías en la circulación."
+  },
+  {
+   "rol": "Conductor del automóvil",
+   "implicacion": "Fallecido; según la investigación, pasó por alto las últimas señales y la semibarrera bajada e invadió el paso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA digital en el tren; señales luminosas y acústicas del paso a nivel; cartelones de silbar FI15A a unos 500 m; señales verticales y horizontales en el entorno viario.",
+  "tipo_via": "Vía única electrificada en el tramo; paso situado en el haz de la estación.",
+  "velocidad_maxima": "110 km/h normal; 115 km/h para trenes tipo A y B; el tren implicado era tipo 200-B.",
+  "ancho": "Ibérico",
+  "electrificacion": "Electrificada",
+  "estado_via": "Vía recta y horizontal en el tramo del paso; sin obras en el lugar ni cercanías.",
+  "otro": "Paso a nivel A3 con semibarreras enclavadas; pavimento Strail en vía 1 y asfalto en vía 3; enclavamiento Smartlock de Alstom; tecnología Thales-Electrans; CTC de Valencia Fuente de San Luis."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252.059 + composición Talgo 6B5 de 9 vehículos y 10 ejes.",
+  "averia": "Ninguna; velocidad, frenos, registros y sistemas de asistencia a la conducción funcionaron correctamente.",
+  "mantenimiento": "Revisiones y mantenimiento conformes al plan de Renfe."
+ },
+ "clima": "Pleno día, tiempo despejado; el sol estaba casi al oeste, a espaldas de la aproximación del coche, con 47,52° de altura sobre el horizonte; no se apreció deslumbramiento relevante.",
+ "causas": {
+  "directa": "Fallo humano del conductor del coche, que habría pasado por alto las últimas señales antes del paso y la semibarrera bajada, entrando en el paso cuando llegaba el tren.",
+  "contribuyentes": [
+   "Disposición en planta de la intersección con una calle secundaria que se incorpora justo antes del paso.",
+   "Ángulo muy pronunciado de la incorporación, que facilita una trayectoria que esquiva la semibarrera.",
+   "Difícil percepción de la semibarrera bajada desde la calle Rafael Altamira, al verse casi de punta.",
+   "Señalización luminosa limitada en la práctica a un solo foco orientado hacia la calle secundaria.",
+   "Posibles ocultaciones parciales del foco luminoso por un poste de alumbrado y la esquina de una casa.",
+   "Atención del conductor desplazada por el giro cerrado, el estrechamiento de la calle y otros vehículos."
+  ],
+  "sistemicas": [
+   "Problemática de pasos a nivel cuyos accesos viarios incluyen intersecciones, giros o incorporaciones que dificultan la percepción del paso.",
+   "Necesidad de aplicar el artículo 52.6 del RDSOIF para coordinar actuaciones entre administraciones ferroviarias y viarias."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 4,
+  "heridos_graves": null,
+  "heridos_leves": 1,
+  "danos_materiales": "Locomotora con daños frontales; automóvil arrollado con restos enganchados a la locomotora; sin daños apreciables en instalaciones fijas ni al medio ambiente.",
+  "afectacion_servicio": "Vía interrumpida de 17:15 a 21:08 (3 h 53 min); 18 trenes con retraso (1423 min) más 255 min del tren implicado, total 1678 min; 6 trenes suprimidos; 25 circulaciones afectadas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión.",
+   "destinatario": "AESF y Ayuntamiento de Novelda; implementadores finales: Adif y Ayuntamiento de Novelda"
+  },
+  {
+   "texto": "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías pueda predisponer a accidentes similares.",
+   "destinatario": "AESF; implementadores finales: AESF y Adif"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "semibarreras",
+  "invasion",
+  "fallo humano",
+  "interseccion viaria",
+  "visibilidad",
+  "senalizacion luminosa",
+  "rdsoif",
+  "supresion de pasos a nivel",
+  "novelda",
+  "intercity"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10126 - 220429-210702-if_ciaf"
+}

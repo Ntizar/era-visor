@@ -1,0 +1,161 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en el apeadero de Anoeta por un tren de larga distancia",
+ "idioma_original": "es",
+ "resumen": "El 20 de abril de 2013, a las 12:39, un tren de larga distancia 535 de Renfe Operadora arrolló a una persona en el paso entre andenes del apeadero de Anoeta (Guipúzcoa), en el PK 600+148 de la línea 100 Hendaya–Madrid-Chamartín. La víctima, viajera del tren de cercanías 26888, cruzó después de que la cola del cercanías rebasara el paso, sin percatarse de la llegada del tren 535. La persona falleció y no se produjeron daños materiales en material rodante ni infraestructura. La investigación concluye que el origen fue la invasión del gálibo de la vía por la víctima.",
+ "hechos": "El día 20 de abril de 2013, a las 12:39 horas, el tren de viajeros de larga distancia 535 de Renfe Operadora, con origen Barcelona y destino Irún, circulaba por vía 1 del apeadero de Anoeta (PK 600+200), en la línea 100 Hendaya–Madrid-Chamartín, sin parada prescrita. En sentido contrario, el tren de viajeros de cercanías 26888, con origen Irún y destino Brinkola, realizaba parada comercial en el andén de la vía 2.\n\nTras completar la subida y bajada de viajeros, el tren 26888 reanudó la marcha. Cuando la cola del tren había rebasado el paso entre andenes (PK 600+148), una persona cruzó por dicho paso de derecha a izquierda en el sentido de la marcha del tren 535 y fue golpeada por el lado derecho del frontal del tren.\n\nComo consecuencia del arrollamiento, la persona resultó fallecida. El registrador de seguridad del tren 535 muestra que circulaba a 103 km/h en el momento del paso por la baliza de la señal PN 6001, y que las señales previas estaban en indicación de vía libre.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Anoeta",
+  "pk": "600+148 (paso entre andenes; apeadero PK 600+200)",
+  "linea": "100 Hendaya – Madrid-Chamartín",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Paso entre andenes situado dentro del apeadero de Anoeta, en el tramo Tolosa - San Sebastián, municipio de Anoeta, provincia de Guipúzcoa."
+ },
+ "cronologia": [
+  {
+   "hora": "12:37",
+   "evento": "Según el registrador de seguridad, el tren 535 pasa por la baliza de la señal de salida de Tolosa (PK 597+071) a las 12:37:57, a 104 km/h, en indicación de vía libre."
+  },
+  {
+   "hora": "12:39",
+   "evento": "El tren de cercanías 26888 estaciona en el andén de la vía 2 del apeadero de Anoeta."
+  },
+  {
+   "hora": "12:39",
+   "evento": "El tren 535 pasa por la baliza de la señal 5991 (PK 599+171) a las 12:39:16, a 104 km/h, en indicación de vía libre."
+  },
+  {
+   "hora": "12:39",
+   "evento": "El tren 535 pasa por la baliza de la señal PN 6001 (PK 600+056) a las 12:39:45, a 103 km/h, en indicación de protegido, y se produce el arrollamiento en el PK 600+148."
+  },
+  {
+   "hora": "12:45",
+   "evento": "El responsable del servicio de seguridad 24 h de Renfe Operadora llama al jefe del CTC de Miranda de Ebro para comunicar que una señora, por el interfono del apeadero, informó de un arrollamiento."
+  },
+  {
+   "hora": "12:46",
+   "evento": "El responsable de Seguridad y Protección Civil de Adif llama al Puesto Mando de Miranda tras ser informado por el S.O.S. de Guipúzcoa y la Ertzaintza."
+  },
+  {
+   "hora": "13:57",
+   "evento": "Se restablece la circulación sin limitaciones por ambas vías."
+  },
+  {
+   "hora": "14:35",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF, por mensajería de telefonía móvil, que se había producido el suceso."
+  },
+  {
+   "hora": null,
+   "evento": "El Pleno de la CIAF acuerda abrir la investigación el 29 de abril de 2013."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "535",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "no se producen daños"
+  },
+  {
+   "numero": "26888",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "no se especifican daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 535",
+   "implicacion": "Conducía el tren que golpeó a la víctima; declaró velocidad de unos 90-95 km/h, señales en vía libre, no observó anomalía ni impacto; prueba de alcoholemia negativa a las 14:15 en Irún."
+  },
+  {
+   "rol": "maquinista del tren 26888",
+   "implicacion": "Declaró que tras emprender la marcha quedaron 4 o 5 personas para cruzar el paso entre andenes y que observó el Alvia con foco de gran intensidad encendido."
+  },
+  {
+   "rol": "vigilantes de seguridad del tren 26888",
+   "implicacion": "Declararon que vieron a la persona dirigirse al paso entre andenes y que era una viajera habitual que subía y bajaba en la estación de Rentería."
+  },
+  {
+   "rol": "mecánico del tren 535",
+   "implicacion": "Recibió orden de efectuar reconocimiento del tren junto con el maquinista en la estación de San Sebastián."
+  },
+  {
+   "rol": "responsable del servicio de seguridad 24 h de Renfe Operadora",
+   "implicacion": "Recibió el aviso de una señora por el interfono del apeadero y llamó al jefe del CTC de Miranda de Ebro."
+  },
+  {
+   "rol": "jefe del CTC de Miranda de Ebro",
+   "implicacion": "Recibió la llamada, contactó con el maquinista del tren 535 y gestionó la información del suceso."
+  },
+  {
+   "rol": "responsable de Seguridad y Protección Civil de Adif",
+   "implicacion": "Llamó al Puesto Mando de Miranda tras ser informado por el S.O.S. de Guipúzcoa y la Ertzaintza."
+  },
+  {
+   "rol": "jefe de investigación de accidentes ferroviarios de Adif",
+   "implicacion": "Comunicó a la CIAF la producción del suceso."
+  },
+  {
+   "rol": "persona arrollada",
+   "implicacion": "Mujer de 28 años, viajera del tren 26888, fallecida como consecuencia del arrollamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático con control de tráfico centralizado en Miranda de Ebro (BAB con CTC); señales en vía libre y protegido; carteles en el paso entre andenes con la indicación: 'Cuidado al cruzar. Trenes circulando en ambos sentidos'.",
+  "tipo_via": "vía doble electrificada",
+  "velocidad_maxima": "115 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "Tramo de trazado recto de 206 metros, con pendiente de 4,46 milésimas en sentido Irún; dos vías generales con andenes laterales; paso entre andenes con buena visibilidad y pavimento antideslizante de caucho tipo strail; infraestructura e instalaciones técnicas funcionaron correctamente.",
+  "otro": "Apeadero de Anoeta PK 600+200; paso entre andenes PK 600+148; accesos: dos por el andén de la vía 1 y uno por el andén de la vía 2; radiotelefonía modalidad A; tráfico medio semanal del tramo Tolosa–San Sebastián: 722 circulaciones (102 larga distancia, 43 media distancia, 483 cercanías, 87 mercancías y 7 de servicio)."
+ },
+ "material_rodante": {
+  "series": "Tren 535: Alvia tipo 120A, unidades 120008 en cabeza y 120002 en cola, 8 vehículos, 32 ejes, 214 metros de longitud, 532 toneladas, Nº UIC 967191200088 y 967191200021; tren 26888: tren de cercanías, serie no especificada.",
+  "averia": "No se especifican averías; el funcionamiento del tren fue correcto.",
+  "mantenimiento": null
+ },
+ "clima": "despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte de la víctima al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "La cola del tren 26888 impedía la visibilidad de la llegada del tren 535 por la otra vía en el paso entre andenes.",
+   "El paso entre andenes era la única alternativa para cruzar las vías.",
+   "La víctima no debió haber invadido el gálibo de la vía hasta asegurarse de que no venía ningún tren por la vía 1."
+  ],
+  "sistemicas": [
+   "Falta de una normativa general que establezca los dispositivos de seguridad pertinentes en estaciones y apeaderos.",
+   "Necesidad de un inventario y análisis de riesgos de estaciones y apeaderos de la RFIG para elaborar un plan de medidas jerarquizado según nivel de riesgo."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+  "afectacion_servicio": "Circulación por vía 2 interceptada entre Tolosa y Billabona desde las 12:39 hasta las 13:57; circulaciones por vía 1 con marcha a la vista; retrasos: tren del suceso 5 minutos, 1 tren de larga distancia 4 minutos, 1 tren de media distancia 12 minutos, 4 trenes de cercanías total 28 minutos y 1 tren de mercancías 20 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "33/13-1: Se reitera la recomendación realizada en el expediente número 0045/2009: «Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: «A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.»»",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "apeadero",
+  "paso entre andenes",
+  "visibilidad reducida",
+  "invasion del galibo",
+  "viajera fallecida",
+  "tren de larga distancia",
+  "tren de cercanias",
+  "linea 100",
+  "guipuzcoa",
+  "recomendacion estaciones",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_200413_250214_CIAF"
+}

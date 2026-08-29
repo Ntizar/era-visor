@@ -1,0 +1,131 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías 9561 de Feve por exceso de velocidad en curva con LPV a 40 km/h entre Soto de Dueñas y Arriondas (Parres, Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 19 de enero de 2012 a las 07:03 horas, el tren de mercancías 9561 de Feve descarriló en el PK 378+049 de la línea 21 Oviedo-Santander, entre las estaciones de Soto de Dueñas y Arriondas (Parres, Asturias). Siete de los veinte vagones plataforma de la composición descarrilaron y el convoy se fraccionó en tres partes. No se produjeron daños personales. La causa fue el exceso de velocidad (70 km/h) al pasar por una curva con limitación permanente de velocidad de 40 km/h, incumpliendo las señales. Se detectó además una prueba de alcoholemia positiva al maquinista.",
+ "hechos": "El tren de mercancías 9561 (tipo T50) de Feve, procedente de El Berrón (Asturias) con destino Santander, compuesto por dos locomotoras (1911 y 1905) y 20 vagones plataforma (14 cargados con bobinas de acero y 6 con contenedores vacíos), pasó por la estación de Soto de Dueñas a 54 km/h e incrementó progresivamente la velocidad hasta 70 km/h en unos 2.300 metros. Sin aplicar tracción y debido a la declividad del trazado, el tren pasó por la señal de aviso de LPV y por la señal de limitación permanente de velocidad a 40 km/h (PK 377+950) manteniendo los 70 km/h. Unos 100 metros después de la señal de LPV, ya en la curva (radio 120 m, peralte 57 mm), el maquinista aplicó freno eléctrico y se produjo el descarrilamiento en el PK 378+049. El tren quedó detenido a las 07:02:26 horas en el PK 378+352, tras recorrer 303 metros desde el inicio del descarrilamiento. Se fraccionó el tren en tres partes: por delante, las dos locomotoras y los tres primeros vagones encarrilados con el cuarto descarrilado; a 140 metros, tres vagones atravesados sobre la vía y tres más paralelos a la misma en margen derecha; y por detrás, los 10 vagones restantes encarrilados y sin daños. No hubo víctimas personales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "378+049",
+  "linea": "21 Oviedo – Santander",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Entre las estaciones de Soto de Dueñas y Arriondas, municipio de Parres. Vía única electrificada con bloqueo telefónico, traviesas de hormigón, carril de 54 kg/m. Curva a la derecha en rampa de 5 milésimas, radio 120 m, peralte 57 mm, longitud 300 m. La vía discurre paralela y confinada entre la carretera N-634 y el río Piloña."
+ },
+ "cronologia": [
+  {
+   "hora": "06:59:33",
+   "evento": "El tren pasa por la estación de Soto de Dueñas (señal de entrada E1, PK 375+524) a 54 km/h"
+  },
+  {
+   "hora": "07:01:55",
+   "evento": "El tren pasa por la señal de LPV a 40 km/h (PK 377+950) circulando a 70 km/h"
+  },
+  {
+   "hora": "07:02:01",
+   "evento": "A unos 100 m de la señal de LPV, en la curva, el maquinista aplica freno eléctrico y se produce el descarrilamiento en PK 378+049"
+  },
+  {
+   "hora": "07:02:26",
+   "evento": "El tren queda detenido en el PK 378+352, tras recorrer 303 m desde el inicio del descarrilamiento"
+  },
+  {
+   "hora": "07:03",
+   "evento": "Hora oficial del accidente según el informe"
+  },
+  {
+   "hora": "08:03",
+   "evento": "El director gerente de Feve comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": null,
+   "evento": "19/01/2012: Se activa el protocolo de emergencias y se interrumpe la circulación"
+  },
+  {
+   "hora": "12:15",
+   "evento": "20/01/2012: Se restablece la circulación con limitación temporal de velocidad a 10 km/h y solo tracción diésel"
+  },
+  {
+   "hora": "00:00",
+   "evento": "27/01/2012: Se anula la limitación temporal de 10 km/h, se circula solo con tracción diésel"
+  },
+  {
+   "hora": "11:30",
+   "evento": "01/02/2012: Se restablece la circulación en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "9561",
+   "tipo": "Mercancías, tipo T50 (velocidad máxima 50 km/h)",
+   "operador": "Feve",
+   "danos": "Descarrilamiento de 7 de 20 vagones; fraccionamiento del convoy en tres partes. Daños en estructura, bastidor y bogies de 7 vagones (valoración 170.000 €)."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 9561 (CF 5606)",
+   "implicacion": "Conducía el tren a 70 km/h por una curva con LPV de 40 km/h, incumpliendo las señales. Prueba de alcoholemia positiva. 24 años de antigüedad en el cargo. No le acompañaba ninguna persona. Sancionado con 45 días de suspensión de empleo y sueldo, apercibimiento e inhabilitación definitiva para servicios de circulación en línea."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de aviso de LPV y de limitación permanente de velocidad a 40 km/h (señales fijas). Bloqueo telefónico.",
+  "tipo_via": "Vía única electrificada, traviesas de hormigón, carril de 54 kg/m",
+  "velocidad_maxima": "60 km/h (trayecto); 40 km/h (LPV en curva del accidente)",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Parámetros de vía (ancho, peralte, variación del peralte) dentro de tolerancia. No existen sobreanchos. LPV de 40 km/h correctamente dispuesta (velocidad máxima admisible teórica para la curva: 42,5 km/h).",
+  "otro": "Curva radio 120 m, peralte 57 mm, rampa 5 milésimas, longitud 300 m. Peralte máximo Feve: 110 mm. Con peralte máximo la velocidad sería 51 km/h. Para 70 km/h se precisarían 273 mm de peralte. Tramo confinado entre N-634 y río Piloña. 16 circulaciones/día laborable, 12 en festivos."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 1911 y 1905. Vagones plataforma: 12 Sgh, 2 2SSag (bobinas), 6 2SSag (contenedores vacíos). Tren tipo T50.",
+  "averia": "Ninguna. Equipos de seguridad del tren funcionaron correctamente. Ruedas de 5 vagones descarrilados (posiciones 4ª a 8ª): espesor de pestaña, altura de pestaña, Qr y diámetro dentro de tolerancia. Registrador de seguridad de la locomotora 1911 confirmó velocidad de 70 km/h.",
+  "mantenimiento": "Distribución de vagones no cumple la NBSM 'Prescripciones de cargamento': los vagones 1º y 2º (43 t) van cargados pero con peso sustancialmente inferior al resto; deberían ir en cola de los cargados (posiciones 13ª y 14ª) delante del material vacío."
+ },
+ "clima": "Noche, con niebla",
+ "causas": {
+  "directa": "Exceso de velocidad del tren (70 km/h) al circular por una curva con limitación permanente de velocidad a 40 km/h, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "Prueba de alcoholemia positiva al maquinista",
+   "Distribución de vagones en la composición no conforme a la NBSM (vagones ligeros en cabeza en lugar de cola de los cargados)",
+   "Declividad del trazado que favoreció el incremento de velocidad sin aplicar tracción",
+   "No se aplicó freno hasta 100 m después de la señal de LPV, ya en la curva"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: daños en catenaria, carriles, traviesas y sujeciones a lo largo de 230 m (123.649,08 €). Material rodante: daños en 7 vagones (estructura, bastidor, bogies) por 170.000 €. Otros: daños en bionda de la carretera N-634 en unos 100 m.",
+  "afectacion_servicio": "Interrupción de la circulación del 19/01/2012 a las 07:03 al 20/01/2012 a las 12:15. Circulación con limitación a 10 km/h y solo tracción diésel hasta el 01/02/2012 a las 11:30. Nueve trenes suprimidos con traslado por carretera. Dos trenes con retraso acumulado de 11 minutos."
+ },
+ "lecciones": [
+  "La importancia de respetar las señales de limitación permanente de velocidad y ajustar la marcha al libro itinerario.",
+  "El efecto de la alcoholemia en la capacidad de concentración y cumplimiento de señales.",
+  "La necesidad de cumplir la NBSM en la distribución de cargas (vagones con centro de gravedad alto cerca de la locomotora; diferencia de peso mínima entre vagones próximos).",
+  "El riesgo de curvas con radio reducido (120 m) y peralte limitado (57 mm) donde la velocidad máxima admisible es muy inferior a la del trayecto.",
+  "Un suceso similar (exceso de velocidad) se había producido en la misma curva el 23/02/2009 (expediente CIAF 13/09)."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "exceso velocidad",
+  "curva",
+  "limitacion permanente velocidad",
+  "alcohol",
+  "mercancias",
+  "feve",
+  "asturias",
+  "bloqueo telefonico",
+  "bobinas acero",
+  "fraccionamiento convoy",
+  "niebla"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-190112-271112-CIAF_ASTURIAS"
+}

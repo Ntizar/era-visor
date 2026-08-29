@@ -1,0 +1,90 @@
+{
+ "titulo_normalizado": "Incidente ferroviario en la estación de Madrid Chamartín (línea 100 Madrid-Hendaya)",
+ "idioma_original": "es",
+ "resumen": "Resolución de la CIAF sobre el incidente ferroviario nº 0027/2009 ocurrido el 18 de junio de 2009 en la estación de Madrid Chamartín, línea 100 Madrid-Hendaya. El Pleno de la CIAF, en sesión del 22 de diciembre de 2009, aprueba como definitivo el informe particular del técnico investigador, modificando la recomendación para hacerla más concreta. La recomendación va dirigida a Renfe Operadora e insiste en medidas de gestión de seguridad, formación en el cumplimiento del Reglamento General de Circulación, influencia de los procesos psicológicos en la conducción y verificación de la aptitud del personal de conducción.",
+ "hechos": "El texto proporcionado es exclusivamente una resolución administrativa de la CIAF que aprueba el informe particular y concreta la recomendación. No contiene descripción narrativa del suceso (tipo de incidente, maniobra, material implicado, secuencia de hechos). Únicamente se indica que se trata de un incidente ocurrido el 18.06.2009 en la estación de Madrid Chamartín, línea 100 Madrid-Hendaya, y que la recomendación apunta a aspectos de cumplimiento normativo del personal de conducción.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Madrid Chamartín",
+  "pk": null,
+  "linea": "100 Madrid - Hendaya",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Estación de Madrid Chamartín, línea 100 Madrid-Hendaya"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "Ocurrido el incidente ferroviario nº 0027/2009 en la estación de Madrid Chamartín (18.06.2009)"
+  },
+  {
+   "hora": null,
+   "evento": "Pleno de la CIAF analiza el expediente y aprueba el informe particular con recomendación modificada (22.12.2009)"
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "personal de conducción",
+   "implicacion": "La recomendación alude al estricto cumplimiento del Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de su aptitud"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Estación de Madrid Chamartín, línea 100 Madrid-Hendaya"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [
+   "Posible incumplimiento o deficiencia en la aplicación del Reglamento General de Circulación por parte del personal de conducción",
+   "Influencia de procesos psicológicos en la conducción",
+   "Necesidad de verificación de la aptitud del personal de conducción"
+  ],
+  "sistemicas": [
+   "Insuficiente aplicación de las medidas de gestión de seguridad existentes en Renfe Operadora"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [
+  "Es necesario insistir en la formación del personal de conducción en el estricto cumplimiento del Reglamento General de Circulación",
+  "La influencia de los procesos psicológicos en la conducción debe ser tenida en cuenta en la gestión de seguridad",
+  "La verificación periódica de la aptitud del personal de conducción es un factor clave de seguridad"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "incidente",
+  "madrid chamartín",
+  "línea 100",
+  "reglamento general de circulación",
+  "personal de conducción",
+  "factores psicológicos",
+  "aptitud",
+  "gestión de seguridad",
+  "renfe operadora",
+  "ciaf",
+  "formación"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-180609-221209-CIAF"
+}

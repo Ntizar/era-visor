@@ -1,0 +1,117 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de peatón en el apartadero de El Caleyo por el tren de cercanías 22003",
+ "idioma_original": "es",
+ "resumen": "El 15 de octubre de 2008, a las 07:31, el tren de cercanías 22003 de Renfe Operadora arrolló a un peatón en la vía 1 del apartadero de El Caleyo, P.K. 134,396 de la línea 130 Venta de Baños - Gijón, en Asturias. La víctima, un hombre de 90 años, transitaba por la caja de la vía sin autorización y falleció en el acto. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto; no hubo daños materiales. El informe concluye que el origen fue el tránsito no autorizado de la víctima y recomienda evaluar la seguridad del cruce a nivel entre andenes.",
+ "hechos": "El día 15 de octubre de 2008, a las 07:31 horas, el tren de viajeros de cercanías 22003 de Renfe Operadora, compuesto por el automotor 463011 (tres coches y 154 Tn de masa remolcada), arrolló a una persona en la vía 1 del apartadero de El Caleyo, en el P.K. 134,396 de la línea 130 Venta de Baños - Gijón, en el trayecto Soto del Rey - Oviedo.\n\nEl tren circulaba por el apartadero cuando arrolló a un hombre que transitaba por la caja de la vía, en el sentido de la marcha del tren. La víctima, un hombre de 90 años que portaba bastón y paraguas, intentó subirse al andén al percatarse de la llegada del tren, pero no lo consiguió. El maquinista hizo uso del silbato y accionó el freno de emergencia, sin poder evitar el arrollamiento.\n\nComo consecuencia del impacto, la víctima falleció en el acto. No se produjeron daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+ "lugar": {
+  "tipo": "apartadero",
+  "estacion": "El Caleyo",
+  "pk": "134,396",
+  "linea": "130 Venta de Baños - Gijón",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Vía 1 del apartadero de El Caleyo, en el trayecto Soto del Rey - Oviedo; zona semirural con paso enmaderado, cruce a nivel entre andenes, carretera paralela sin vallado y curvas a la entrada y salida que reducen visibilidad y tiempo de reacción."
+ },
+ "cronologia": [
+  {
+   "hora": "07:31",
+   "evento": "El tren de cercanías 22003 arrolla a una persona en la vía 1 del apartadero de El Caleyo; el maquinista usa silbato y freno de emergencia; la víctima fallece en el acto."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Oviedo; desde allí se informa a Seguridad en la Circulación Noroeste de Adif y Renfe, al 112, Logística, Jefatura de operaciones y operadores afectados."
+  },
+  {
+   "hora": "07:39",
+   "evento": "El Puesto de Mando de Oviedo autoriza la reanudación de la marcha al tren 22003, corta la circulación por la vía 1 y prescribe marcha a la vista a las circulaciones por las vías 3 y 4 del apartadero."
+  },
+  {
+   "hora": "07:55",
+   "evento": "Se corta la circulación por la vía 2, a petición del SAMUR y del Servicio de Emergencias 112, para facilitar el acercamiento y reconocimiento del cadáver."
+  },
+  {
+   "hora": "08:08",
+   "evento": "El Puesto de Mando de Oviedo autoriza reanudar las circulaciones por la vía 4 con marcha a la vista."
+  },
+  {
+   "hora": "08:28",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF, mediante mensaje de telefonía móvil, que se había producido el arrollamiento de una persona por el tren de cercanías 22003 en el apartadero de El Caleyo."
+  },
+  {
+   "hora": "08:50",
+   "evento": "Se produce el levantamiento del cadáver y se restablecen las circulaciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "22003",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de cercanías 22003",
+   "implicacion": "Matrícula 9677659; habilitado conforme a la Orden Ministerial 2520 de 27 de julio de 2006; último reciclaje formativo el 2007-01-24 y último reconocimiento médico y psicotécnico el 2005-02-15; usó el silbato y el freno de emergencia; actuación correcta; alcoholemia negativa (0,00 mg/1000 ml); jornadas dentro de los límites establecidos."
+  },
+  {
+   "rol": "Peatón (víctima mortal)",
+   "implicacion": "Hombre de 90 años; transitaba por la caja de la vía en sentido de la marcha del tren sin autorización; portaba bastón y paraguas; intentó subirse al andén sin conseguirlo; falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) y Control de Tráfico Centralizado (C.T.C.)",
+  "tipo_via": "vía doble electrificada",
+  "velocidad_maxima": "90 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "Apartadero en tramo recto, con curvas a la entrada y a la salida que reducen la visibilidad y el tiempo de reacción de los usuarios.",
+  "otro": "Radiotelefonía modalidad A; paso enmaderado como acceso único a andenes; edificio de viajeros en desuso; carretera paralela a la vía sin vallado; tráfico medio semanal del tramo Soto del Rey - Oviedo: 953 circulaciones (67 de larga distancia, 27 de media distancia, 847 de cercanías, 7 de mercancías y 5 de servicio); antecedente de accidente mortal el 2007-04-04 en P.K. 134,410, donde una mujer fue arrollada por un TALGO al cruzar por el paso entablonado; no se adoptaron medidas específicas de protección."
+ },
+ "material_rodante": {
+  "series": "463011 (automotor, 3 coches, 154 Tn de masa remolcada, Nº UIC 967194630117)",
+  "averia": "Ninguna; funcionó correctamente; el registrador de seguridad indica que, al accionar el freno de emergencia, el tren circulaba a 77 km/h, por debajo de la velocidad máxima permitida de 90 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Noche; tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+  "contribuyentes": [
+   "La víctima portaba bastón y paraguas, lo que pudo condicionar su movilidad en el momento de intentar subir al andén.",
+   "El trazado describe curvas a la entrada y a la salida del apartadero, lo que reduce la visibilidad y el tiempo de reacción de los usuarios.",
+   "Existe un cruce a nivel entre andenes y un paso enmaderado como acceso único.",
+   "Una carretera paralela a la vía no está separada por vallado alguno.",
+   "El apartadero soporta un importante volumen de usuarios por su cercanía a la Fundación Laboral de la Construcción, a viviendas y a una urbanización en construcción."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "15 trenes de cercanías afectados, con un retraso total de 139 minutos; interceptación parcial de la vía 1 desde las 07:39 hasta las 08:50 horas, de la vía 2 desde las 07:55 hasta las 08:50 horas, e interceptación total de vías desde las 07:55 hasta las 08:08 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Evaluar, por la autoridad competente, las condiciones de seguridad del cruce a nivel entre andenes y establecer, en consecuencia, la conveniencia de mejorar la señalización, instalar protección o construir un paso a distinto nivel.",
+   "destinatario": "autoridad competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "apartadero",
+  "el caleyo",
+  "asturias",
+  "renfe operadora",
+  "cercanias",
+  "linea 130",
+  "paso a nivel",
+  "seguridad ferroviaria",
+  "victima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-151008-240209-CIAF"
+}

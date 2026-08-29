@@ -1,0 +1,104 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en un paso a nivel de la estación de Avilés",
+ "idioma_original": "es",
+ "resumen": "El 14 de enero de 2009, a las 10:57, el tren de cercanías 22321 de Renfe Operadora arrolló a una mujer en un paso a nivel clase C de la estación de Avilés, P.K. 16,863, línea 144. La víctima cruzó sorteando las semibarreras bajadas, con señales acústicas y luminosas funcionando correctamente. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el impacto, y la mujer falleció en el acto. La investigación concluyó que el origen fue el cruce indebido de la víctima y no estableció recomendaciones por estar prevista la supresión del paso a nivel.",
+ "hechos": "El 14 de enero de 2009, a las 10:57, el tren de cercanías 22321 de Renfe Operadora, procedente de Oviedo y con destino San Juan de Nieva, arrolló a una mujer al entrar en la estación de Avilés, en el paso a nivel clase C del P.K. 16,863 de la línea 144 San Juan de Nieva – Villabona. La víctima cruzaba la vía de izquierda a derecha, en el sentido de la marcha del tren, cuando las semibarreras estaban bajadas y las señales acústicas y luminosas para vehículos y peatones funcionaban correctamente.\n\nEl maquinista, al advertir la invasión de la caja de la vía, hizo uso del silbato en repetidas ocasiones y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. La mujer falleció en el acto como consecuencia del impacto, y el cuerpo quedó fuera de la caja de la vía, entre las vías de Adif y FEVE.\n\nTras el suceso, el maquinista comunicó el accidente al Puesto de Mando de Oviedo, desde donde se informó al servicio de urgencias 112, al Centro de Protección y Seguridad de Adif, a Renfe Operadora y a otras instancias. A las 11:41 el tren 22321 reanudó la marcha y quedó estacionado en la estación de Avilés; a las 12:21 se levantó el cadáver y se reanudó la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Avilés",
+  "pk": "16,863",
+  "linea": "144 San Juan de Nieva – Villabona",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Paso a nivel clase C situado en la estación de Avilés, tramo Nubledo - Avilés. Zona urbana, trazado recto y buena visibilidad. Por el lado izquierdo existe un muro de separación con la calle del Muelle, de 1 metro de altura, más una valla metálica de 0,8 metros; por el lado derecho están el apeadero de Avilés de FEVE, un aparcamiento y la ría de Avilés. Es una zona muy transitada."
+ },
+ "cronologia": [
+  {
+   "hora": "10:57",
+   "evento": "2009-01-14: el tren de cercanías 22321 arrolla a la víctima en el paso a nivel clase C del P.K. 16,863, estación de Avilés."
+  },
+  {
+   "hora": "11:41",
+   "evento": "2009-01-14: el tren 22321 reanuda la marcha y queda estacionado en la estación de Avilés."
+  },
+  {
+   "hora": "12:14",
+   "evento": "2009-01-14: el coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento por telefonía móvil."
+  },
+  {
+   "hora": "12:21",
+   "evento": "2009-01-14: se levanta el cadáver y se reanuda la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "22321",
+   "tipo": "tren de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de cercanías 22321",
+   "implicacion": "Matrícula 9713520. Condujo el tren; observó la invasión de la vía, usó el silbato y el freno de emergencia; actuación correcta. Poseía título de conducción habilitado; último reciclaje formativo 2008-01-22; último reconocimiento médico y psicotécnico 2006-06-05. Prueba de alcoholemia negativa: 0,00 mg/1000 ml. Jornada de conducción: 3 h 32 min el día del accidente; 5 h 24 min en las 24 horas anteriores; 4 h 34 min en las 48 horas anteriores."
+  },
+  {
+   "rol": "Peatón/víctima",
+   "implicacion": "Mujer de 49 años que cruzó el paso a nivel de izquierda a derecha, sentido de la marcha del tren, sorteando las semibarreras bajadas; falleció en el acto."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Comunicó el suceso a la Comisión de Investigación de Accidentes Ferroviarios el 14 de enero de 2009 a las 12:14."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas; señales luminosas en ambos lados para peatones y vehículos. Funcionaron correctamente.",
+  "tipo_via": "Vía única, con bloqueo automático y control de tráfico centralizado.",
+  "velocidad_maxima": "75 km/h al paso por el punto del arrollamiento; según Consigna C Experimental nº 69, el tren podía circular a una velocidad máxima de 80 km/h.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo de trazado recto y buena visibilidad, en zona urbana. Pavimento del camino carretero de asfalto y del paso peatonal de caucho tipo strail.",
+  "otro": "Momento de circulación AxT: 9.791. Según el registrador de eventos del paso a nivel, las semibarreras estuvieron bajadas durante 3 minutos y 55 segundos. Sistemas de comunicación: radiotelefonía modalidad A. El paso a nivel iba a ser suprimido por el Estudio de integración del ferrocarril en Avilés. Media semanal de circulaciones del tramo Nubledo - Avilés: 370, de las cuales 349 de cercanías, 20 de mercancías y 1 de servicio. Precedente: el 28 de marzo de 2006 se produjo un arrollamiento similar en el P.K. 16,780 de la misma línea, a pocos metros."
+ },
+ "material_rodante": {
+  "series": "Automotor 463010-9; tren de cercanías 22321; Nº UIC 967194630109.",
+  "averia": "No se produjeron daños ni averías. Los equipos de seguridad del tren, incluidos freno, ASFA y sistemas de vigilancia, funcionaron correctamente. Según el registrador de seguridad, el tren circulaba a 76 km/h en el momento del accidente.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y el tiempo era despejado.",
+ "causas": {
+  "directa": "La víctima cruzó el paso a nivel sorteando las semibarreras bajadas, cuando las protecciones estaban activadas y el tren 22321 circulaba por él.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Vía interceptada desde las 10:57 hasta las 12:21, durante 1 hora y 24 minutos. Dos trenes de cercanías afectados con un retraso total de 20 minutos. El tren implicado sufrió un retraso de 47 minutos y fue suprimido entre las estaciones de Avilés y San Juan de Nieva."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "peatón",
+  "semibarreras",
+  "cercanías",
+  "renfe operadora",
+  "adif",
+  "avilés",
+  "asturias",
+  "línea 144",
+  "supresión de paso a nivel",
+  "muerte en el acto"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-140109-190509-CIAF"
+}

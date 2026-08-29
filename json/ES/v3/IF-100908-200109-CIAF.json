@@ -1,0 +1,124 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías en la estación de Villarreal",
+ "idioma_original": "es",
+ "resumen": "El 10 de septiembre de 2008, a las 15:14, el tren de mercancías 87456 de Comsa Rail Transport arrolló a una mujer de 55 años en el P.K. 62,095 de la estación de Villarreal, línea 600 Valencia-San Vicente de Calders. La víctima cruzó las vías por un lugar no autorizado, en el final del cerramiento y paso vicioso de personas. El maquinista aplicó señales acústicas y freno de emergencia, pero no pudo evitar el atropello. La investigación concluyó que el origen fue el cruce indebido de las vías por parte de la víctima, quien presuntamente usaba auriculares. Se recomendó estudiar el vallado del ámbito de la estación y otras medidas de permeabilidad.",
+ "hechos": "El tren de mercancías 87456 de Comsa Rail Transport, compuesto por locomotora 312302, 10 vehículos y 770 toneladas de masa remolcada, procedía de Silla Terminal de Contenedores con destino a Castellbisbal. A su paso por la estación de Villarreal, en el P.K. 62,095 y junto al desvío nº 6, arrolló a una mujer que intentaba cruzar las vías de derecha a izquierda según el sentido de la marcha del tren. El maquinista advirtió la intención de la víctima, usó señales acústicas y accionó el freno de emergencia, pero el tren, que circulaba a 86 km/h, la alcanzó por su parte lateral derecha. El cadáver quedó entre las vías 2 y 4, al comienzo del andén.\n\nSegún la declaración del maquinista, la víctima no reaccionó a los avisos; la policía le confirmó después que la mujer escuchaba un aparato de radio con auriculares. El lugar del accidente coincidía con el final del cerramiento de la estación y era un paso vicioso de personas, aunque existía una señal que advertía del peligro de cruzar por las vías. La estación se encontraba en el núcleo urbano de Villarreal.\n\nTras el suceso, el tren quedó apartado en la vía 2 y la circulación se realizó en marcha a la vista por las vías 1 y 4. La Policía Local custodió el cadáver desde las 15:20, el juez se personó a las 16:40 y el levantamiento del cadáver se produjo a las 16:53. La circulación normal se restableció a las 16:58 y el tren 87456 reanudó la marcha a las 17:10.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villarreal",
+  "pk": "62,095",
+  "linea": "600 Valencia-San Vicente de Calders",
+  "provincia": "Castellón",
+  "descripcion_lugar": "Estación en núcleo urbano; P.K. 62,095 junto al desvío nº 6, al comienzo del andén y en el final del cerramiento que separa la estación de una calle colindante; paso vicioso de personas con señal de peligro."
+ },
+ "cronologia": [
+  {
+   "hora": "15:14",
+   "evento": "El tren de mercancías 87456 arrolla a una mujer en el P.K. 62,095 de la estación de Villarreal."
+  },
+  {
+   "hora": "15:20",
+   "evento": "La Policía Local queda custodiando el cadáver."
+  },
+  {
+   "hora": "16:40",
+   "evento": "Se persona el juez."
+  },
+  {
+   "hora": "16:53",
+   "evento": "Se procede al levantamiento del cadáver."
+  },
+  {
+   "hora": "16:58",
+   "evento": "Queda restablecida la circulación normal."
+  },
+  {
+   "hora": "17:10",
+   "evento": "El tren de mercancías 87456 reanuda la marcha."
+  },
+  {
+   "hora": "12:02",
+   "evento": "El 11 de septiembre, el coordinador de accidentes de Adif comunica el suceso a la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "87456",
+   "tipo": "tren de mercancías",
+   "operador": "Comsa Rail Transport",
+   "danos": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente por el maquinista."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 87456",
+   "implicacion": "Detectó a la víctima, usó señales acústicas y aplicó el freno de emergencia; su actuación fue correcta. Pruebas de alcoholemia negativas."
+  },
+  {
+   "rol": "Ayudante de maquinista del tren 87456",
+   "implicacion": "Acompañaba al tren; jornada y descansos conformes."
+  },
+  {
+   "rol": "Factor de Circulación de la estación",
+   "implicacion": "Personal de Adif implicado en la estación."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.).",
+  "tipo_via": "Vía doble electrificada.",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Trazado en alineación recta con buena visibilidad; no se indican defectos.",
+  "otro": "Radiotelefonía modalidad A, canal 65; paso vicioso en el final del cerramiento; señal que advierte del peligro de cruzar por las vías."
+ },
+ "material_rodante": {
+  "series": "Locomotora 312302, matrícula UIC 937113123023.",
+  "averia": "Rotura de un grifo del circuito de freno de la locomotora.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado y soleado.",
+ "causas": {
+  "directa": "Cruce de las vías por parte de la víctima por un lugar no autorizado.",
+  "contribuyentes": [
+   "La víctima usaba auriculares y un aparato de radio, por lo que pudo no oír las señales acústicas del tren.",
+   "Existencia de un paso vicioso de personas en el final del cerramiento de la estación.",
+   "Ubicación de la estación en el núcleo urbano, con tránsito de personas cerca de las vías."
+  ],
+  "sistemicas": [
+   "Falta de medidas específicas de protección para impedir o controlar el cruce indebido de vías.",
+   "Necesidad de estudiar el vallado del ámbito de la estación y otras soluciones de permeabilidad.",
+   "Antecedentes de sucesos similares por cruce indebido de vías en la estación de Villarreal."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente.",
+  "afectacion_servicio": "Cinco trenes de cercanías sumaron 34 minutos de retraso; cuatro trenes de larga distancia sumaron 31 minutos. El tren de mercancías implicado sufrió 116 minutos de retraso. Circulación en marcha a la vista por vías 1 y 4 hasta restablecerse la normalidad a las 16:58."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad.",
+   "destinatario": "Autoridad competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "paso no autorizado",
+  "auriculares",
+  "tren de mercancías",
+  "comsa rail transport",
+  "adif",
+  "estación de villarreal",
+  "línea 600",
+  "vallado",
+  "permeabilidad",
+  "retrasos"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-100908-200109-CIAF"
+}

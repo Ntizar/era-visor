@@ -1,0 +1,146 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en la estación de Santa Cruz de Mudela por el tren de viajeros 15695",
+ "idioma_original": "es",
+ "resumen": "El 15 de octubre de 2006, a las 13:00, una persona falleció al ser arrollada por el tren de viajeros 15695 de Renfe en la estación de Santa Cruz de Mudela, provincia de Ciudad Real. La víctima, un varón de 80 años, cruzaba las vías en una zona no autorizada, próxima a los desvíos de entrada, mientras el tren circulaba por vía II a 96 km/h, por debajo de los 110 km/h permitidos. No hubo daños materiales, pero la circulación quedó suspendida en las vías I y II entre las 13:00 y las 16:15, con retrasos acumulados de 51 minutos en 2 trenes. Las investigaciones atribuyeron el origen al tránsito indebido de la víctima y recomendaron vallar zonas expuestas al paso irregular de personas.",
+ "hechos": "El día 15 de octubre de 2006, a las 13:00 horas, una persona que cruzaba las vías de la estación de Santa Cruz de Mudela falleció como consecuencia del arrollamiento por el tren de viajeros nº 15695 de Renfe. El tren estaba compuesto por la locomotora 252043, 9 vehículos y 449 toneladas remolcadas, y circulaba por vía II con origen Málaga y destino Barcelona San Andrés Condal, sin parada prescrita en dicha estación. La víctima era un varón de 80 años.\n\nSegún la declaración del maquinista, al llegar a la estación apareció de súbito una persona invadiendo la caja de la vía por la que circulaba el tren; tras el silbato y el freno de emergencia, la persona volvió a cruzar en sentido contrario, probablemente desorientada, y no se pudo evitar el arrollamiento. El personal de servicio del tren acudió a prestar auxilio y se avisó al Puesto de Mando de Manzanares, que informó a los servicios de emergencia y a las Fuerzas de Seguridad del Estado.\n\nNo se produjeron daños materiales. El levantamiento del cadáver fue autorizado por la autoridad judicial a las 16:10 horas. La circulación quedó suspendida por las vías I y II desde las 13:00 hasta las 16:15 horas, produciéndose retrasos acumulados de 51 minutos y afectación a 2 trenes. Al día siguiente, agentes de ADIF inspeccionaron el lugar.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Santa Cruz de Mudela",
+  "pk": "239,544",
+  "linea": "Alcázar de San Juan-Cádiz",
+  "provincia": "Ciudad Real",
+  "descripcion_lugar": "Estación de transición, situada a 505 metros del edificio de viajeros en el punto kilométrico 239,544 de la línea Alcázar de San Juan-Cádiz. Cuenta con una playa de cinco vías, dos generales y tres de apartado. El arrollamiento se produjo en la zona de los desvíos de entrada. El perímetro exterior presentaba un antiguo cerramiento de obra en avanzado estado de deterioro en el lado este y un cerramiento discontinuo en el lado oeste. Existen pasos inferiores de tierra para peatones y determinado tipo de vehículos en los P.K. 239,781 y 240,239. La estación está ubicada en una zona rural."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "El coordinador de accidentes ferroviarios de ADIF comunicó por correo electrónico que se había producido el arrollamiento de una persona fallecida."
+  },
+  {
+   "hora": null,
+   "evento": "El 1 de septiembre de 2006, la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes ferroviarios."
+  },
+  {
+   "hora": "13:00",
+   "evento": "Arrollamiento de una persona por el tren de viajeros 15695 en la estación de Santa Cruz de Mudela, en el P.K. 239,544."
+  },
+  {
+   "hora": "13:00",
+   "evento": "El maquinista informa inmediatamente del suceso al Puesto de Mando de Manzanares, que cursa aviso a servicios de emergencia, Fuerzas de Seguridad del Estado, ADIF y RENFE Operadora."
+  },
+  {
+   "hora": "13:00",
+   "evento": "Queda suspendida la circulación por las vías I y II de la estación."
+  },
+  {
+   "hora": "16:10",
+   "evento": "La autoridad judicial autoriza el levantamiento del cadáver."
+  },
+  {
+   "hora": "16:15",
+   "evento": "Se restablece la circulación por las vías I y II de la estación."
+  },
+  {
+   "hora": null,
+   "evento": "Al día siguiente, agentes de ADIF se personan en la estación para toma de datos e inspección del lugar del arrollamiento."
+  },
+  {
+   "hora": null,
+   "evento": "El 2 de marzo de 2007, en Madrid, se firma el informe definitivo de la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15695",
+   "tipo": "Tren de viajeros",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Coordinador de accidentes ferroviarios de ADIF",
+   "implicacion": "Comunicó por correo electrónico el arrollamiento de una persona fallecida."
+  },
+  {
+   "rol": "Supervisor de Línea de la Jefatura Técnica de Operaciones La Mancha",
+   "implicacion": "Fue nombrado jefe delegado del accidente."
+  },
+  {
+   "rol": "Supervisores de circulación del Puesto de Mando de Manzanares",
+   "implicacion": "Dos supervisores fueron nombrados portavoces de la información."
+  },
+  {
+   "rol": "Maquinista del tren 15695",
+   "implicacion": "Conducía el tren en el momento del arrollamiento. Usó el silbato de la locomotora y el freno de emergencia, sin poder evitar el impacto. Realizó declaración voluntaria ante la Guardia Civil. Jornada efectiva el día del incidente: 3 horas y 16 minutos; día anterior: descanso; último reconocimiento médico: 17.02.2005; último reciclaje en Normas de Circulación: 08.05.2006."
+  },
+  {
+   "rol": "Personal de servicio del tren",
+   "implicacion": "Se personó en el lugar de los hechos para prestar auxilio y llamó al puesto de mando para que avisaran a la Guardia Civil y a los servicios de emergencia."
+  },
+  {
+   "rol": "Fuerzas de Seguridad del Estado",
+   "implicacion": "Procedieron a la custodia del cadáver hasta que la autoridad judicial autorizó su levantamiento."
+  },
+  {
+   "rol": "Agentes de ADIF",
+   "implicacion": "Al día siguiente se personaron en la estación para la toma de datos e inspección del lugar del arrollamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Estación de transición de bloqueo automático de vía única con CTC a bloqueo automático banalizado de vía doble con CTC. La circulación se realizaba conforme a la Consigna serie A nº1780, de 10 de mayo de 1993, que regula el CTC desde el Puesto de Mando de Manzanares entre Alcázar de San Juan y Linares-Baeza.",
+  "tipo_via": "Vía doble en la estación; playa de cinco vías: vías I y II generales y tres vías de apartado.",
+  "velocidad_maxima": "110 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "No se describe el estado de la vía; el arrollamiento se produjo en la zona de desvíos de entrada a la estación.",
+  "otro": "El P.K. 239,544 está distante 505 metros del edificio de viajeros. En el lado este existe un antiguo cerramiento de obra en avanzado estado de deterioro y en el lado oeste un cerramiento discontinuo. En los P.K. 239,781 y 240,239 existen sendos pasos inferiores de tierra para peatones y determinado tipo de vehículos. La estación está ubicada en una zona rural y el perímetro no disponía en la zona de un cerramiento en condiciones aceptables."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252043; tren de 9 vehículos y 449 toneladas remolcadas.",
+  "averia": "No se produjeron daños materiales.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Tránsito de la víctima por las vías de la estación, lugar no autorizado para personas, que provocó su invasión de la caja de vía y el arrollamiento por el tren 15695. ADIF y Renfe concluyen que el accidente se origina por imprudencia de la víctima.",
+  "contribuyentes": [
+   "El perímetro de la estación no disponía en la zona de un cerramiento en condiciones aceptables.",
+   "La víctima mostró desconcierto o desorientación al silbar la locomotora, retrocediendo y volviendo a entrar en la caja de vía.",
+   "El arrollamiento se produjo en la zona de desvíos de entrada a la estación, con varias vías próximas."
+  ],
+  "sistemicas": [
+   "Exposición del perímetro de la estación al tránsito irregular de personas no autorizadas, especialmente en zonas rurales o con cerramientos deteriorados o discontinuos."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Retrasos acumulados de 51 minutos con 2 trenes afectados. Circulación suspendida por vías I y II de la estación desde las 13:00 hasta las 16:15 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se estima conveniente recomendar el vallado, por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al tránsito irregular por personas no autorizadas.",
+   "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "estación",
+  "santa cruz de mudela",
+  "renfe",
+  "adif",
+  "vía no autorizada",
+  "imprudencia",
+  "cerramiento perimetral",
+  "retrasos",
+  "seguridad ferroviaria",
+  "investigación"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-151006-020307-STACRUZ"
+}

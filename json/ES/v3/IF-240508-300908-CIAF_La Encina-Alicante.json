@@ -1,0 +1,111 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por un tren en Villena (Alicante), línea 330 La Encina-Alicante",
+ "idioma_original": "es",
+ "resumen": "El 24 de mayo de 2008, a las 16:48, el tren de viajeros de larga distancia 1183 de Renfe Operadora arrolló a una mujer de 85 años que caminaba con un perro por la vía en el P.K. 396,675 de la línea 330 La Encina-Alicante, entre la señal avanzada y la de entrada de la estación de Villena. El accidente se produjo en un lugar no autorizado, en un entorno descampado cercano al núcleo urbano de Villena, con un vallado que presentaba una rotura constituyendo un paso vicioso. La víctima falleció y el tráfico ferroviario quedó suspendido durante 33 minutos, generando retrasos en varios trenes. La investigación concluyó que la infraestructura y el material rodante funcionaban correctamente y que la actuación del maquinista fue ajustada a la normativa. Se recomienda reforzar el vallado y promover campañas de educación y concienciación ciudadana.",
+ "hechos": "El 24 de mayo de 2008, a las 16:48 horas, el tren de viajeros de larga distancia 1183 de Renfe Operadora, formado por el automotor 101106 con 10 coches y una masa remolcada de 418 Tm, se aproximaba a la estación de Villena por la línea 330 La Encina-Alicante. En el P.K. 396,675, entre la señal avanzada y la de entrada, arrolló a una mujer de 85 años que caminaba con un perro por la vía, de espaldas al tren, en un lugar no autorizado.\n\nEl maquinista hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el golpe; la mujer salió despedida de la caja de la vía y el tren quedó detenido en el andén. El conductor comunicó el suceso al Puesto de Mando de Valencia, que alertó a los servicios de emergencia y a las entidades implicadas. A las 17:03 horas se autorizó al tren a continuar la marcha al estar el cuerpo fuera de la vía; a las 17:25 horas la Guardia Civil autorizó la circulación marcha a la vista y a las 19:15 horas la autoridad judicial levantó el cadáver.\n\nNo se produjeron daños materiales; el tráfico ferroviario quedó suspendido durante 33 minutos y varios trenes sufrieron retrasos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Villena",
+  "pk": "396,675",
+  "linea": "330 La Encina-Alicante",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Zona descampada cercana al núcleo urbano de Villena, entre la señal avanzada y la de entrada de la estación; por el lado izquierdo, sentido de la línea, existía un vallado con una rotura que constituía un paso vicioso, y el lado derecho no estaba vallado."
+ },
+ "cronologia": [
+  {
+   "hora": "16:48",
+   "evento": "24-05-2008: El tren 1183 arrolla a una mujer que caminaba con un perro por la vía en el P.K. 396,675, entre la señal avanzada y la de entrada de Villena."
+  },
+  {
+   "hora": "17:03",
+   "evento": "Al estar el cuerpo fuera de la vía, se autoriza al tren 1183 a continuar la marcha a destino."
+  },
+  {
+   "hora": "17:25",
+   "evento": "La Guardia Civil autoriza la circulación marcha a la vista por el lugar del suceso."
+  },
+  {
+   "hora": "19:15",
+   "evento": "La autoridad judicial procede al levantamiento del cadáver."
+  },
+  {
+   "hora": "10:19",
+   "evento": "26-05-2008: El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1183",
+   "tipo": "Tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 1183",
+   "implicacion": "Matrícula 8658437; habilitado conforme a la OM 2520/2006; último reciclaje formativo 13-06-2007 y último reconocimiento médico y psicotécnico 23-06-2006; alcoholemia negativa 0,00 mg/1000 ml; usó silbato y freno de emergencia; actuación correcta."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Mujer de 85 años que caminaba con un perro por la vía, de espaldas al tren, en un lugar no autorizado; falleció arrollada."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales avanzada y de entrada de la estación de Villena; no se indica fallo.",
+  "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+  "velocidad_maxima": "150 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "No se mencionan defectos de vía; el entorno presentaba un vallado con rotura que constituía un paso vicioso en el lado izquierdo y el lado derecho sin vallar.",
+  "otro": "Radiotelefonía modalidad A; Puesto de Mando de Valencia; tráfico suspendido 33 minutos; antecedentes de arrollamientos en inmediaciones de Villena en 2006 y 2007."
+ },
+ "material_rodante": {
+  "series": "Automotor 101106; matrícula UIC 967191011063; 10 coches; masa remolcada 418 Tm.",
+  "averia": "No se produjeron daños; funcionó correctamente; velocidad al actuar la seta de emergencia: 140 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "De día, con condiciones atmosféricas buenas.",
+ "causas": {
+  "directa": "El tránsito de la víctima por un lugar no autorizado para ello.",
+  "contribuyentes": [
+   "Rotura del vallado que constituía un paso vicioso.",
+   "Lado derecho de la vía no vallado."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "Tráfico suspendido 33 minutos; a las 17:25 se autorizó circulación marcha a la vista; 4 trenes de Larga Distancia acumularon 106 minutos de retraso total, 1 tren de Media Distancia 21 minutos y 1 tren de Cercanías 4 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Reforzar el vallado.",
+   "destinatario": null
+  },
+  {
+   "texto": "Fomentar campañas de educación y concienciación ciudadana sobre la prohibición y los peligros de circular por las instalaciones ferroviarias cuando no está autorizado.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona no autorizada",
+  "vallado",
+  "paso vicioso",
+  "tren de larga distancia",
+  "renfe operadora",
+  "adif",
+  "línea 330",
+  "villena",
+  "alicante",
+  "freno de emergencia",
+  "víctima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240508-300908-CIAF_La Encina-Alicante"
+}

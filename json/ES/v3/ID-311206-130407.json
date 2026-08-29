@@ -1,0 +1,118 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por un tren en el apeadero de Hostalric (línea Barcelona-Portbou)",
+ "idioma_original": "es",
+ "resumen": "El 31 de diciembre de 2006, a las 11:20, el tren de Larga Distancia nº 462 de Renfe arrolló a un varón de 81 años en el paso enmaderado entre andenes del apeadero de Hostalric, pk 171,039 de la línea 270 Barcelona-Portbou. El tren circulaba a 121 km/h por la vía par, sin parada prescrita, y se detuvo tras aplicar el freno de urgencia. La víctima falleció y no se produjeron daños materiales. La circulación por vía par estuvo interrumpida desde las 11:20 hasta las 13:10 y quedó restablecida a las 14:55 tras la retirada del cadáver. La investigación atribuye el origen a la imprudencia de la víctima y recomienda señalización adicional en el paso entre andenes.",
+ "hechos": "El tren de Larga Distancia nº 462 de Renfe, compuesto por la locomotora nº UIC 957102520708 y 9 coches, con masa remolcada de 157 Tm, procedente de Portbou y con destino Cartagena, pasaba por la vía par del apeadero de Hostalric sin parada prescrita. A las 11:20 del 31 de diciembre de 2006 detuvo su marcha a consecuencia del arrollamiento de una persona que cruzaba desde el andén de vía impar al andén de vía par por el paso enmaderado del apeadero, situado en el pk 171,039 de la línea 270 Barcelona-Portbou. La víctima era un varón de 81 años. El análisis de la memoria estática de la locomotora indicó que a las 11:22 el tren circulaba a 121 km/h, con una distancia de frenado de 840 metros desde la aplicación del freno de urgencia; la velocidad máxima en ese punto era de 130 km/h. El paso enmaderado se encontraba en traza recta, con buena visibilidad y en buen estado, y las condiciones atmosféricas no eran adversas. No se produjeron daños materiales ni en las instalaciones ni en el material móvil. El maquinista informó al Puesto de Mando, se cursaron avisos a los organismos correspondientes y personal de Adif inspeccionó el lugar, practicó alcoholemia negativa al maquinista y extrajo la memoria estática. La Policía Judicial autorizó a reanudar la marcha a las 13:10, y a las 14:55 finalizaron las operaciones de retirada del cadáver y se restableció la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Apeadero de Hostalric",
+  "pk": "171,039",
+  "linea": "Línea 270 Barcelona-Portbou",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Apeadero con paso enmaderado entre andenes, andenes recrecidos, carece de paso inferior, perímetro vallado en su margen izquierdo y paso en traza recta con buena visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "11:20",
+   "evento": "El tren 462 detiene su marcha a consecuencia del arrollamiento de una persona en el paso entre andenes del apeadero de Hostalric."
+  },
+  {
+   "hora": "11:22",
+   "evento": "La memoria estática de la locomotora registra que el tren circulaba a 121 km/h y requería 840 metros de distancia de frenado."
+  },
+  {
+   "hora": "13:10",
+   "evento": "La Policía Judicial autoriza al maquinista a reanudar la marcha del tren 462."
+  },
+  {
+   "hora": "14:55",
+   "evento": "Finalizan las operaciones de retirada del cadáver y se restablece la circulación en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "10.01.2007: toma de declaración del maquinista."
+  },
+  {
+   "hora": null,
+   "evento": "14.03.2007: fecha del informe en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "462",
+   "tipo": "Tren de Larga Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales en el material móvil."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 462",
+   "implicacion": "Matrícula 9722182; silbó, aplicó el freno de urgencia e informó al Puesto de Mando; prueba de alcoholemia negativa (0,00 mg/1000 ml); autorizado a reanudar la marcha a las 13:10; declaró el 10.01.2007."
+  },
+  {
+   "rol": "Jefe delegado del accidente",
+   "implicacion": "Intervino en el accidente según el informe."
+  },
+  {
+   "rol": "Personal de Adif",
+   "implicacion": "Acudió al lugar para inspeccionar el punto del arrollamiento y realizar pruebas."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de vía doble con CTC.",
+  "tipo_via": "Vía doble electrificada.",
+  "velocidad_maxima": "130 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada.",
+  "estado_via": null,
+  "otro": "Apeadero con andenes recrecidos, sin paso inferior, paso enmaderado entre andenes en buen estado, traza recta y buena visibilidad; proyecto de paso inferior peatonal en fase de aprobación técnica."
+ },
+ "material_rodante": {
+  "series": "Locomotora nº UIC 957102520708; 9 coches; masa remolcada 157 Tm.",
+  "averia": "No se produjeron daños materiales en el material móvil.",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas no adversas; buena visibilidad.",
+ "causas": {
+  "directa": "Imprudencia de la víctima, que no se percató de la llegada del tren y cruzó por el paso enmaderado entre andenes.",
+  "contribuyentes": [
+   "El paso enmaderado entre andenes supone un foco de peligro para los usuarios.",
+   "El apeadero carece de paso inferior.",
+   "El tren efectuaba paso directo, sin parada prescrita, por el apeadero."
+  ],
+  "sistemicas": [
+   "La seguridad del apeadero dependía de un proyecto de paso inferior peatonal que aún estaba en fase de aprobación técnica."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+  "afectacion_servicio": "Interrupción de la circulación por vía par desde las 11:20 hasta las 13:10; circulación restablecida en condiciones normales a las 14:55 tras la retirada del cadáver."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Instalar cartelones en los andenes y señalización vertical en los accesos al paso entarimado, porque estos pasos suponen un foco de peligro para los usuarios.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "apeadero",
+  "hostalric",
+  "linea 270",
+  "barcelona-portbou",
+  "tren de larga distancia",
+  "renfe",
+  "adif",
+  "paso enmaderado",
+  "imprudencia",
+  "paso inferior"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-311206-130407"
+}

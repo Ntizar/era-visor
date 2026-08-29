@@ -1,0 +1,139 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal de salida en Madrid Chamartín por el tren de cercanías 27209 y conato de colisión con el tren 752",
+ "idioma_original": "es",
+ "resumen": "El 18 de junio de 2009, a las 08:20, el tren de cercanías 27209 de Renfe Operadora rebasó indebidamente la señal de salida S1/10 en parada en la vía 10 de la estación de Madrid-Chamartín. El sistema ASFA provocó la detención del tren y se originó un conato de colisión lateral con el tren de larga distancia 752. No hubo víctimas ni daños materiales, aunque se produjeron retrasos en varios trenes. La investigación atribuyó el suceso al incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+ "hechos": "El tren de viajeros de cercanías 27209, de Renfe Operadora, procedente de Guadalajara y con destino Cercedilla, realizó la parada prescrita en la vía 10 de la estación de Madrid-Chamartín. Al reanudar la marcha, rebasó la señal de salida S1/10 que indicaba parada; el sistema ASFA actuó y detuvo el tren, que se frenó a una velocidad de 30 km/h.\n\nEn ese momento, el tren de larga distancia 752, de Ferrol a Madrid-Chamartín, realizaba su entrada hacia la vía 13. Su maquinista observó que el tren 27209 podía encontrarse en trayectoria de colisión lateral y efectuó una parada inmediata, quedando los dos trenes a unos 42 metros de distancia.\n\nTras el rebase, el maquinista del tren 27209 intentó comunicarse con el puesto de mando sin obtener respuesta y, por propia iniciativa y sin autorización reglamentaria, retrocedió hasta situarse ante la señal S1/10. Cuando la señal autorizó el paso, reanudó la marcha hasta Villalba de Guadarrama, donde fue relevado y se le comunicó la suspensión temporal del servicio.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Madrid-Chamartín",
+  "pk": "0+00",
+  "linea": "100 Hendaya – Madrid Chamartín",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Vía 10 de la estación de Madrid-Chamartín, en el tramo Madrid-Chamartín - Madrid Atocha cercanías; municipio de Madrid."
+ },
+ "cronologia": [
+  {
+   "hora": "08:20",
+   "evento": "El tren de cercanías 27209 rebasa la señal de salida S1/10 en parada y se produce un conato de colisión con el tren 752."
+  },
+  {
+   "hora": null,
+   "evento": "El sistema ASFA actúa y detiene el tren 27209."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista del tren 27209 intenta comunicar con el puesto de mando, no obtiene respuesta y retrocede sin autorización hasta la señal S1/10."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 752 efectúa parada inmediata al observar una posible trayectoria de colisión lateral; los trenes quedan a unos 42 metros."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 27209 reanuda la marcha hasta Villalba de Guadarrama, donde su maquinista es relevado y se le comunica la suspensión temporal del servicio."
+  },
+  {
+   "hora": null,
+   "evento": "El 18.06.2009 se toma declaración al maquinista del tren 752."
+  },
+  {
+   "hora": null,
+   "evento": "El 22.06.2009 se toma declaración al maquinista del tren 27209."
+  },
+  {
+   "hora": null,
+   "evento": "El 23.07.2009 el pleno de la CIAF resuelve abrir la investigación del incidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 17.09.2009 el Jefe de Investigación de Accidentes de Adif entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "El 07.10.2009 el Responsable de Seguridad de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "El 22.12.2009 se emite el informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "27209",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños en material rodante."
+  },
+  {
+   "numero": "752",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños en material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 27209",
+   "implicacion": "Rebasó indebidamente la señal S1/10 en parada, intentó comunicar con el puesto de mando sin respuesta, retrocedió sin autorización reglamentaria y continuó servicio hasta Villalba; fue relevado y suspendido temporalmente del servicio."
+  },
+  {
+   "rol": "Maquinista del tren 752",
+   "implicacion": "Observó una posible trayectoria de colisión lateral con el tren 27209 y efectuó parada inmediata para evitar la colisión."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/10 sobre mástil elevado con buena visibilidad, dotada de baliza de señal pero no de baliza previa; señal anterior S1/10 A situada 270 metros antes; señal de entrada interior EP5.",
+  "tipo_via": "Vía 10 de estación; vía doble banalizada.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Bloqueo automático en vía doble banalizada (BAB) con control de tráfico centralizado (CTC); radiotelefonía modalidad A entre trenes y puesto de mando; no fue necesario activar el plan de emergencia."
+ },
+ "material_rodante": {
+  "series": "Tren 27209: motor 450014, 6 coches, 481 toneladas de masa remolcada, Nº UIC 967194500146. Tren 752: motor 252046, 8 coches, 130 toneladas de masa remolcada, Nº UIC 957102520468.",
+  "averia": "No se indica avería; los equipos de seguridad del tren funcionaban correctamente.",
+  "mantenimiento": "No se detalla mantenimiento; se indica que los equipos de seguridad y las instalaciones técnicas funcionaban correctamente conforme a la normativa vigente."
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Rebase indebido por el tren 27209 de la señal de salida S1/10 que se encontraba ordenando parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "Incumplimiento del artículo 217 del Reglamento General de Circulación al rebasar la señal en parada.",
+   "No ponerse en contacto con el agente que tenía la señal a su cargo tras el rebase, pese al intento, incumpliendo el artículo 279 del RGC.",
+   "Retroceso por iniciativa del maquinista hasta delante de la señal de salida S1/10 sin autorización reglamentaria, incumpliendo el artículo 475 del RGC.",
+   "Posible cierre intempestivo, según la opinión del maquinista del tren 27209."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños en el material rodante, la infraestructura ni el medio ambiente.",
+  "afectacion_servicio": "Retraso de 15 minutos en el tren 27209, 8 minutos en el tren 752 y 42 minutos de retraso total en 7 trenes de cercanías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "asfa",
+  "madrid-chamartín",
+  "renfe operadora",
+  "cercanías",
+  "larga distancia",
+  "incumplimiento reglamentario",
+  "retroceso sin autorización",
+  "seguridad ferroviaria",
+  "formación",
+  "aptitud psicofísica"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-180609-221209-CIAF"
+}

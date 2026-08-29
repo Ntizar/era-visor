@@ -1,0 +1,113 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón por tren de Grandes Líneas nº270 entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid",
+ "idioma_original": "es",
+ "resumen": "El 18 de abril de 2006, a las 17:16, el tren de Grandes Líneas nº 270 de Renfe, con origen Madrid y destino Almería, arrolló a un peatón varón de 49 años en plena vía en el pk 9,900 de la Línea 300 Madrid Atocha-Valencia Nord, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial (Madrid). La víctima falleció en el acto. El accidente se calificó como grave. Se concluyó que fue causado por imprudencia de la víctima al invadir la vía por un lugar donde el tránsito peatonal está prohibido, existiendo una pasarela elevada en las proximidades. Se recomendó a Adif el mantenimiento del cerramiento perimetral.",
+ "hechos": "El tren de Grandes Líneas nº 270 de Renfe, compuesto por la locomotora 269.602 y 17 vehículos con masa remolcada de 205 Tm, que efectuaba recorrido Madrid-Almería, detuvo su marcha en vía G4 del pk 9,900 de la Línea 300 Madrid Atocha-Valencia Nord, después de rebasar la señal de entrada E2 de la estación de San Cristóbal Industrial, por haber arrollado a una persona que resultó fallecida en el acto. Según el parte del maquinista, observó a una persona andando por la vía contigua en dirección a su vía, que hizo caso omiso al silbato, por lo que aplicó el freno de urgencia siendo imposible evitar el arrollamiento. La víctima era un varón de 49 años. El tren circulaba a 105 km/h siendo la velocidad máxima permitida de 110 km/h. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "9,900",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a 130 metros de la señal E2 de entrada a la estación de San Cristóbal Industrial. Tramo de cuádruple vía (líneas 300 y 500), protegido por vallado perimetral, con paso peatonal elevado en las proximidades. Municipio de Madrid."
+ },
+ "cronologia": [
+  {
+   "hora": "17:16",
+   "evento": "Arrollamiento de la persona por el tren 270 en vía G4, pk 9,900. Intercepción de vías G4 y G3."
+  },
+  {
+   "hora": "17:16",
+   "evento": "Intercepción de vías G1 y G2 a petición del Samur (hasta las 18:00)."
+  },
+  {
+   "hora": "18:00",
+   "evento": "Se levanta la intercepción de vías G1 y G2."
+  },
+  {
+   "hora": "19:15",
+   "evento": "Se persona la Autoridad Judicial."
+  },
+  {
+   "hora": "19:32",
+   "evento": "Intercepción de vías G1 y G2 a petición de la Autoridad Judicial para levantamiento del cadáver (hasta las 19:50)."
+  },
+  {
+   "hora": "19:40",
+   "evento": "La policía autoriza al tren 270 a reanudar la marcha."
+  },
+  {
+   "hora": "19:50",
+   "evento": "Autoridad Judicial autoriza el levantamiento del cadáver. Se levanta la intercepción de vías G4, G3, G1 y G2."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "270",
+   "tipo": "Grandes Líneas",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 270",
+   "implicacion": "Observó a la persona andando por la vía contigua en dirección a su vía, hizo sonar el silbato sin respuesta, aplicó el freno de urgencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000ml)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2 de la estación de San Cristóbal Industrial. Bloqueo BAB con CTC.",
+  "tipo_via": "Cuádruple vía (líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara)",
+  "velocidad_maxima": "110 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Vía G4. Protegida por vallado perimetral en buenas condiciones generales, aunque se han constatado roturas en el mismo. Existe paso peatonal elevado en las proximidades. Visibilidad para el maquinista estimada en 200 metros.",
+  "otro": "Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269.602, 17 vehículos, masa remolcada 205 Tm",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Tránsito sobre las vías de la víctima (peatón), que invadió la vía por un lugar donde el tránsito peatonal está prohibido (art. 40 del Reglamento del Sector Ferroviario, RD 2387/2004), siendo alcanzada por el tren nº 270.",
+  "contribuyentes": [
+   "Imprudencia de la víctima al cruzar la vía por una zona donde el tránsito y el cruce se encuentran prohibidos",
+   "Roturas constatadas en el vallado perimetral que impide el acceso a las vías"
+  ],
+  "sistemicas": [
+   "Deficiencias en el mantenimiento del cerramiento perimetral que facilitan el acceso indebido de peatones a la vía"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños",
+  "afectacion_servicio": "Intercepción de vías G4 y G3 de 17:16 a 19:50; vías G1 y G2 de 17:16 a 18:00 y de 19:32 a 19:50. 655 minutos de retrasos acumulados en trenes de viajeros y 113 minutos en Mercancías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dado el elevado tráfico ferroviario de la línea, el Administrador de la infraestructura (Adif) debe mantener el cerramiento perimetral existente en las debidas condiciones.",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "imprudencia",
+  "invacion_via",
+  "vallado_perimetral",
+  "grandes_lineas",
+  "linea_300",
+  "san_cristobal",
+  "madrid",
+  "fallecido",
+  "adif",
+  "renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-180406-020207"
+}

@@ -1,0 +1,122 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías Logitren entre Teruel y Caparrates por mal estado de vía y estiba deficiente de carga",
+ "idioma_original": "es",
+ "resumen": "El 13 de julio de 2011 a las 21:45, el tren de mercancías 97845 de Logitren, compuesto por locomotora 335 y 28 vagones con contenedores, descarriló en plena vía en el PK 137+810 de la línea 610 Sagunto–Bif. Teruel, entre las estaciones de Teruel y Caparrates. El descarrilamiento se inició en la rueda derecha del primer eje del 9º vagón y el tren circuló descarrilado 3,29 km hasta impactar con la aguja A2 de la estación de Caparrates, provocando el vuelco de los vagones 7º, 8º, 9º y 10º. No hubo víctimas personales. La causa fue la confluencia de fuertes alabeos y baches en la vía, una inadecuada estiba de la carga (bobinas de cable sin calces ni distribución uniforme) y un trazado desfavorable (curva de 300 m y rampa de 21,5 milésimas). Se emitió una recomendación a Ben Trade Cables Ibérica S.A. para cumplir estrictamente su Instrucción Técnica de Carga de Contenedores.",
+ "hechos": "Los hechos tuvieron lugar el día 13 de julio de 2011, a las 21:45 horas, en plena vía, en el PK 137+810 de la línea 610 Sagunto – Bif. Teruel, entre las estaciones de Teruel y Caparrates, provincia de Teruel. El tren de mercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335027 y 28 vagones (25 plataformas MC y 3 MMC) cargados con contenedores, procedente de Zaragoza Plaza con destino Clasificación Valencia Fuente de San Luis, circulaba con normalidad. Momentos antes de llegar a la estación de Caparrates, el maquinista observó por el espejo retrovisor una nube de polvo y chispas saliendo de un vagón e inició la maniobra de frenado, descubriendo que había descarrilado. El descarrilamiento se produjo en un tramo de curva a la izquierda con radio de 300 metros y rampa de 21,5 milésimas, con limitación de velocidad a 30 km/h por el mal estado de la vía. El tren circulaba a 21,5 km/h en el momento del descarrilamiento, cumpliendo la limitación. Descarriló la rueda derecha del primer eje del 9º vagón, remontando por el hilo alto y cayendo por el lado exterior de la vía.\n\nEl eje del noveno vagón circuló descarrilado durante 3,29 kilómetros hasta el cruzamiento de la aguja A2 de la estación de Caparrates, donde se produjo la rotura del espadín izquierdo por un fuerte golpe, provocando el descarrilamiento de los vagones 7º, 8º, 9º y 10º. El vagón 7º quedó descarrilado del segundo eje y separado del carril 44 cm con su tope empotrado en el 8º vagón. El vagón 8º quedó cruzado e inclinado a su izquierda, descarrilado de los dos ejes con separación de 140 cm. El noveno vagón quedó volcado y girado 180º sobre su eje longitudinal, con su contenedor desplazado fuera de la vía. El vagón 10º quedó descarrilado de los dos ejes con topes y ruedas delanteras encima del 9º vagón. No se produjeron daños personales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Caparrates",
+  "pk": "137+810",
+  "linea": "610 Sagunto – Bif. Teruel",
+  "provincia": "Teruel",
+  "descripcion_lugar": "Tramo entre las estaciones de Teruel y Caparrates, en curva a la izquierda de 300 m de radio y rampa de 21,5 milésimas. El tren descarrilado recorrió 3,29 km hasta el cruzamiento de la aguja A2 de la estación de Caparrates."
+ },
+ "cronologia": [
+  {
+   "hora": "21:45",
+   "evento": "Descarrilamiento de la rueda derecha del primer eje del 9º vagón en el PK 137+810, circulando a 21,5 km/h"
+  },
+  {
+   "hora": "21:45",
+   "evento": "El maquinista observa polvareda y chispas por el espejo retrovisor e inicia frenado progresivo"
+  },
+  {
+   "hora": "21:45",
+   "evento": "El maquinista acciona el freno de urgencia y comunica emergencia por radiotelefonía al puesto de mando de Valencia"
+  },
+  {
+   "hora": "21:45",
+   "evento": "El tren circula descarrilado 3,29 km hasta impactar con la aguja A2 de Caparrates, provocando rotura del espadín izquierdo y descarrilamiento de vagones 7º, 8º, 9º y 10º"
+  },
+  {
+   "hora": "21:45",
+   "evento": "Interceptación de la vía"
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista baja de la locomotora, constata la gravedad y regresa para comunicar la situación al PM; baja a echar frenos de estacionamiento por la pendiente"
+  },
+  {
+   "hora": "07:15",
+   "evento": "Restablecimiento de la circulación entre Teruel y Caparrates con limitaciones de velocidad (15/07/2011)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "97845",
+   "tipo": "mercancías",
+   "operador": "Logitren",
+   "danos": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º: rotura de ganchos de tracción, rotura de tubería de freno, peldaños de testeros doblados, vuelco del 9º vagón con contenedor desplazado fuera de la vía"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Conductor del tren 97845, matrícula 51450234Q, título B de conducción, habilitado conforme a Orden FOM/2520/2006, antigüedad inferior a 3 años. Detectó el descarrilamiento por el espejo retrovisor (polvareda y chispas), frenó correctamente y comunicó al PM. Prueba de alcoholemia negativa a las 01:45 en Caparrates. Jornada del día 13: 4h10 de conducción efectiva."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "BLAU (bloqueo de liberación automático en vía única), CTC en Valencia",
+  "tipo_via": "vía única, terraplén, carril 54 kg/ml, traviesas de hormigón monobloc, balasto silíceo",
+  "velocidad_maxima": "75 km/h (trenes tipo N); limitación temporal 30 km/h entre PKs 137+680 y 138+125 por mal estado de vía; otra limitación temporal 30 km/h entre PKs 133+900 y 134+000",
+  "ancho": "convencional",
+  "electrificacion": "sin electrificar",
+  "estado_via": "mal estado: fuertes alabeos y baches; valores elevados de alabeo para base rígida de 8 metros",
+  "otro": "Daños en sujeciones y traviesas monoblock entre PKs 137+600 y 141+100. Motor del desvío A2 de Caparrates inútil; desvío A1 con daños mecánicos en timonería. Afectados contadores de ejes CVE1, CVA1, CV1 y CV2. Curva a la izquierda de 300 m radio, rampa 21,5 milésimas."
+ },
+ "material_rodante": {
+  "series": "Locomotora 335 (335027, UIC 957103350279); 28 plataformas (25 MC, 3 MMC), tipo N (vmax 100 km/h); distancia entre ejes plataforma MC: 8 m; peso total 807 t; peso vagón 9º: 22,2 t",
+  "averia": "Rotura de ganchos de tracción, tubería de freno, peldaños de testeros doblados en vagones 7º-10º; vuelco del 9º vagón (girado 180º); contenedor desplazado fuera de la vía",
+  "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente; registrador de seguridad operativo"
+ },
+ "clima": "Anochecer, tiempo nublado, fuerte viento presente en el momento del suceso",
+ "causas": {
+  "directa": "Remonte de la rueda derecha del primer eje del 9º vagón por el hilo alto, seguido de descarrilamiento, en curva de 300 m con rampa de 21,5 milésimas",
+  "contribuyentes": [
+   "Estado de la vía con fuertes alabeos y baches (limitación temporal a 30 km/h)",
+   "Inadecuada estiba de la carga: bobinas de cable sin calces para impedir que rueden, incumplimiento del artículo 5.6.1 de la Instrucción General 66",
+   "Mala distribución de la carga: no repartida de manera uniforme, concentrada en el lado izquierdo del contenedor",
+   "Condiciones desfavorables del trazado: radio de 300 metros y rampa de 21,5 milésimas"
+  ],
+  "sistemicas": [
+   "Incumplimiento por parte de BTC Ibérica de su propia Instrucción Técnica de Carga de Contenedores",
+   "Falta de elementos de sujeción (calces) en la estiba de las bobinas dentro del contenedor"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º (ganchos de tracción, tubería de freno, peldaños, vuelco del 9º). Daños en sujeciones y traviesas entre PKs 137+600 y 141+100. Motor del desvío A2 inútil; desvío A1 con daños en timonería. Contadores de ejes CVE1, CVA1, CV1 y CV2 afectados.",
+  "afectacion_servicio": "Vía interceptada desde 21:45 del 13/07/2011 hasta 07:15 del 15/07/2011. 7 trenes de viajeros suprimidos con transporte por carretera. Restablecimiento con limitaciones de velocidad (20 y 30 km/h), desvío A1 embridado y desvío A2 desmontado con comprobación artificial."
+ },
+ "lecciones": [
+  "La confluencia de defectos de vía (alabeos y baches) con una estiba inadecuada de carga en un trazado desfavorable (curva cerrada y rampa) puede provocar descarrilamiento incluso circulando a velocidad muy inferior al límite",
+  "La observación por el espejo retrovisor del maquinista fue clave para detectar el descarrilamiento y limitar sus consecuencias",
+  "El cumplimiento estricto de las instrucciones de estiba propias del cargador es esencial para la seguridad de la carga en contenedores"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Cumplir estrictamente la 'Instrucción Técnica de Carga de Contenedores' elaborada por la propia Ben Trade Cables Ibérica S.A.",
+   "destinatario": "Ben Trade Cables Ibérica S.A."
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren mercancías",
+  "logitren",
+  "estiba",
+  "contenedores",
+  "bobinas cable",
+  "alabeo vía",
+  "curva 300m",
+  "rampa",
+  "limitación velocidad",
+  "teruel",
+  "caparrates",
+  "btc ibérica",
+  "aguja a2"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-130711-250912-CIAF"
+}

@@ -1,0 +1,144 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías en el cambio nº 6 de la bifurcación Arcade (Pontevedra) por causa desconocida",
+ "idioma_original": "es",
+ "resumen": "El 15 de abril de 2014 a las 18:09, el tren de mercancías 88828 de Comsa Rail Transport descarriló en el PK 17+896 del cambio nº 6 de la Bifurcación Arcade (línea 824, Pontevedra). El descarrilamiento afectó al segundo bogie del 7º vagón y al primer bogie del 8º vagón, circulando descarrilados 932 metros. No hubo víctimas ni heridos. La causa última se desconoce; la hipótesis más probable es la suma de factores con efecto sinérgico sobre la dinámica del vehículo. Se formularon recomendaciones a la AESF para extender medidas de mantenimiento adoptadas por TAKARGO y GMF.",
+ "hechos": "El día 15 de abril de 2014 a las 18:09 horas, el tren de mercancías 88828 de Comsa Rail Transport, procedente de Valença do Minho (Portugal) con destino A Coruña San Diego, compuesto por una locomotora serie 335 (TAKARGO) y 13 vagones plataforma PMMC vacíos, descarriló en el PK 17+896 al pasar por el cambio nº 6 (escape 6-8) de la Bifurcación Arcade, en la línea 824 Redondela de Galicia a Santiago de Compostela. El remonte se produjo en una rueda izquierda del segundo bogie del 7º vagón, a 3 metros de la punta de la aguja del hilo nº 3, provocando también el descarrilamiento del primer bogie del 8º vagón. La caída de las ruedas se produjo entre la aguja y la contraaguja, y ambos bogies circularon descarrilados durante 932 metros.\n\nEl maquinista en formación que conducía el tren notó una resistencia en la marcha y, al mirar por el espejo retrovisor, observó una polvareda. Aplicó el freno de servicio a las 18:10:19 (52 km/h) y el freno de emergencia a las 18:10:23 (45 km/h), deteniendo el tren a las 18:10:36 en el PK 18+969, vía II. Al bajar a reconocer la composición observó los vagones 7º y 8º descarrilados. No se produjeron víctimas mortales ni heridos.\n\nLa velocidad en el momento del descarrilamiento era de 24 km/h, inferior a los 30 km/h ordenados por la señal verde-amarilla al paso por las agujas del cambio. El itinerario establecido desde el puesto de mando de Ourense fue correcto y las agujas permanecieron enclavadas en posición correcta. La infraestructura, de nueva construcción (Eje Atlántico, puesta en servicio 07.06.2013), se encontraba en buen estado con todos los parámetros dentro de norma.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Bifurcación Arcade",
+  "pk": "17+896",
+  "linea": "824 Redondela de Galicia a Santiago de Compostela",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Cambio nº 6 (escape 6-8) de la Bifurcación Arcade, transición de vía única (Redondela-Bif. Arcade) a vía doble (Bif. Arcade-Pontevedra). Municipio de Soutomaior. Trazado recto y perfil horizontal."
+ },
+ "cronologia": [
+  {
+   "hora": "18:06:31",
+   "evento": "Se establece itinerario desde el puesto de mando de Ourense hacia vía II por Bif. Arcade para el tren 88828"
+  },
+  {
+   "hora": "18:07:01",
+   "evento": "El tren pasa por la baliza previa de la señal E2 a 33 km/h en indicación L1 (verde-amarillo)"
+  },
+  {
+   "hora": "18:07:34",
+   "evento": "El tren pasa por la baliza de la señal E2 (PK 17+508) a 28,4 km/h en indicación L1 (amarillo)"
+  },
+  {
+   "hora": "18:08:39",
+   "evento": "Se produce el remonte de una rueda izquierda del 2º bogie del 7º vagón en el PK 17+896, a 3 m de la punta de la aguja del hilo nº 3, a 24 km/h. Punto '0' del descarrilamiento"
+  },
+  {
+   "hora": "18:09:21",
+   "evento": "El tren pasa por la baliza de la señal 182 (PK 18+236) a 19 km/h en indicación L3 (verde)"
+  },
+  {
+   "hora": "18:10:19",
+   "evento": "Aplicación del freno de servicio a 52 km/h"
+  },
+  {
+   "hora": "18:10:23",
+   "evento": "Aplicación del freno de emergencia a 45 km/h"
+  },
+  {
+   "hora": "18:10:36",
+   "evento": "El tren queda detenido en el PK 18+969, vía II, tras 932 m descarrilado"
+  },
+  {
+   "hora": "23:50",
+   "evento": "Los dos vagones son encarrilados"
+  },
+  {
+   "hora": "01:02 (16/04/2014)",
+   "evento": "El tren reanuda marcha hacia Pontevedra a velocidad máxima 5 km/h"
+  },
+  {
+   "hora": "01:27 (16/04/2014)",
+   "evento": "La vía I entre Bif. Arcade y Pontevedra queda apta para la circulación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "88828",
+   "tipo": "tren de mercancías",
+   "operador": "Comsa Rail Transport",
+   "danos": "Daños en los vagones 7º y 8º descarrilados y en otros dos vagones afectados. Cuantía: 26.166 €. Retraso de 507 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista en formación (conducía el tren)",
+   "implicacion": "Matrícula 133552. Título B de conducción, habilitación de línea y vehículo en curso. Antigüedad 11.10.2012. Último reconocimiento médico/psicotécnico 13.09.2012. No se le realizó prueba de alcoholemia."
+  },
+  {
+   "rol": "Maquinista acompañante",
+   "implicacion": "Matrícula 136264. Título B de conducción, habilitación vehículo 13.06.2011, habilitación línea 25.02.2013. Antigüedad 16.06.2010. Último curso formativo 03.05.2013, último reconocimiento 25.05.2010. Pruebas de alcoholemia y drogas a las 20:10 con resultado negativo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Secuencia: E'2 verde-amarillo (precaución, no exceder 30 km/h al paso por agujas), E2 amarillo (anuncio de parada), E3 verde (vía libre). Balizas ASFA presentes.",
+  "tipo_via": "Vía doble (tramo Bif. Arcade-Pontevedra), cambio tipo P con traviesas de hormigón y carril de 60 kg/m. Nueva construcción (Eje Atlántico, puesta en servicio 07.06.2013). Trazado recto y perfil horizontal.",
+  "velocidad_maxima": "50 km/h (trayecto); 30 km/h al paso por las agujas del cambio (ordenado por señal verde-amarilla)",
+  "ancho": "Ancho ibérico",
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Buen estado de carriles, sujeciones y traviesas. Ancho de vía y peralte dentro de norma. Agujas enclavadas y en posición correcta. Cambios 6 y 8 comprobados durante todo el accidente.",
+  "otro": "Bloqueo automático (BAU en vía única Redondela-Bif. Arcade; BAB en vía doble Bif. Arcade-Pontevedra) con CTC regulado desde el puesto de mando de Ourense. Radiotelefonía tren-tierra modalidad A. Media semanal de 318 circulaciones en el tramo Redondela-Pontevedra (28 LD, 250 MD, 38 mercancías, 2 servicio)."
+ },
+ "material_rodante": {
+  "series": "Locomotora serie 335 (TAKARGO, UIC 9094436007-5, numeración portuguesa). 13 vagones plataforma PMMC (serie 4552). Composición: 279 m, 52 ejes, 351 toneladas. Tren tipo 100 (vmax 100 km/h).",
+  "averia": "Remonte de rueda izquierda del 2º bogie del 7º vagón y del 1er bogie del 8º vagón. Altura de pestaña del 7º vagón: 36,6 mm (límite 36 mm, supera en 0,6 mm). El 4º vagón tenía 39,5 mm (supera en 3,5 mm) y pasó antes por el punto de descarrilamiento sin descarrilar. Otras 12 ruedas con altura ≥ 35 mm.",
+  "mantenimiento": "Plan PM-763-00 Ed. 5.0 (25.02.2009): VS cada 5.000 km (sin comprobación de parámetros de rodadura), RF cada 3 años, RS cada 6 años, R cada 12 años. Última VS: 04.04.2014. Primera RF realizada entre mediados 2011 y principios 2012 (7º vagón: 16.04.2012). Plan cumplido. EEM: TAKARGO."
+ },
+ "clima": "De día, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Se desconoce la causa última del descarrilamiento. Hipótesis más probable: suma de factores cuyo efecto sinérgico sobre la dinámica del vehículo produjo el descarrilamiento.",
+  "contribuyentes": [
+   "Altura de pestaña de la rueda izquierda del 4º eje del 7º vagón (36,6 mm) ligeramente por encima del límite máximo (36 mm), aunque no se considera causa última al pasar antes una rueda del 4º vagón con 39,5 mm sin descarrilar",
+   "Existencia de otras 12 ruedas con alturas de pestaña ≥ 35 mm, muy próximas al límite",
+   "El plan de mantenimiento no contemplaba la comprobación de parámetros de rodadura en las VS (cada 5.000 km); solo se revisaban en RF, RS y R",
+   "Los vagones solo habían pasado la primera RF (3 años) y aún no la primera RS (6 años)",
+   "Vagones circulando vacíos (plataformas PMMC), lo que puede afectar la dinámica vertical",
+   "Paso por un cambio (escape 6-8) con geometría de aguja/contraaguja"
+  ],
+  "sistemicas": [
+   "Laguna en el plan de mantenimiento: los parámetros de rodadura solo se revisaban en intervenciones RF/RS/R, no en las VS periódicas",
+   "Frecuencia de revisiones RF (3 años) insuficiente para detectar degradación progresiva de la pestaña en vagones de uso intensivo",
+   "Ausencia de medición de parámetros de rodadura en inspecciones rutinarias antes del accidente"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 26.166 € (vagones 7º, 8º y otros 2 afectados). Infraestructura: 437.600 € (superestructura de vía: desvío, traviesas y varias balizas).",
+  "afectacion_servicio": "Vía I: suspensión 7 h 18 min. Vía II: baja durante 15 días. Suprimidos 3 trenes LD, 2 MD y 4 de mercancías. Viajeros de 8 trenes trasbordados por carretera. Tren descarrilado: retraso 507 min."
+ },
+ "lecciones": [
+  "La altura de pestaña por sí sola no explica el descarrilamiento: una rueda con mayor desviación (4º vagón, 39,5 mm) pasó antes por el mismo punto sin descarrilar",
+  "El efecto sinérgico de múltiples factores (geometría del cambio, dinámica del vehículo vacío, desgaste de pestañas, velocidad) puede provocar descarrilamientos sin que ningún factor individual sea causa suficiente",
+  "Los planes de mantenimiento que no incluyen comprobación de parámetros de rodadura en inspecciones periódicas (VS) pueden permitir degradaciones no detectadas entre revisiones RF/RS",
+  "La puesta en servicio de infraestructura nueva (Eje Atlántico, junio 2013) no excluye riesgos de descarrilamiento por interacción material-infraestructura"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas por Takargo y GMF (modificación de planes de mantenimiento introduciendo una operación a los 18 meses para comprobar parámetros de rodadura, implantación del uso de plantilla de visitador en inspecciones VS, y revisión de parámetros de rodadura de todos los vagones de la misma serie), se traslada a la AESF para que analice la conveniencia de implantar medidas similares en otras empresas mantenedoras.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "comsa rail transport",
+  "takargo",
+  "bifurcación arcade",
+  "línea 824",
+  "pontevedra",
+  "vagones pmmc",
+  "altura de pestaña",
+  "causa desconocida",
+  "efecto sinérgico",
+  "mantenimiento rodadura"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 15 04 2014 -140415-IF-CIAF"
+}

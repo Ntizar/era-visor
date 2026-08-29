@@ -1,0 +1,108 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías 93614 a la entrada de la estación de Zumárraga por exceso de peralte",
+ "idioma_original": "es",
+ "resumen": "El 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de Renfe Operadora descarriló en el PK 566+856, vía 2, entre las señales de avanzada y entrada de la estación de Zumárraga, Guipúzcoa, en la línea 100 Madrid Chamartín - Hendaya. No hubo víctimas mortales ni heridos. El accidente se originó por un exceso de peralte y variaciones del mismo fuera de tolerancia en la zona del descarrilamiento. Se produjo la interrupción de la circulación en ambas vías y daños materiales valorados en 971.695,62 euros. La recomendación principal se dirige a Adif para reforzar el mantenimiento de los parámetros de vía.",
+ "hechos": "El tren de mercancías 93614, procedente de Hendaya y con destino Vicálvaro (Madrid), circulaba por la vía 2 hacia la estación de Zumárraga con itinerario de paso directo y señal de vía libre. A la altura del PK 566+856, con una velocidad de 28 km/h, se produjo el descarrilamiento del tercer eje del vagón undécimo por remonte de la rueda izquierda hacia el interior de una curva a izquierda; después descarrilaron los vagones décimo y duodécimo. El tren continuó hasta la aguja 6 de la estación, donde el vagón décimo terminó de descarrilar y el duodécimo quedó parcialmente descarrilado. La locomotora quedó detenida en el PK 565+257. Las señales indicaban vía libre, los equipos de seguridad del tren funcionaron correctamente y la velocidad era inferior a la máxima permitida. La investigación concluyó que el origen fue el exceso de peralte y las variaciones del mismo en la zona del descarrilamiento.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Zumárraga",
+  "pk": "566+856",
+  "linea": "100 Madrid Chamartín - Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Vía 2, entre las señales de avanzada y de entrada de la estación de Zumárraga, lado Hendaya, en el tramo Tolosa - Zumárraga"
+ },
+ "cronologia": [
+  {
+   "hora": "16:00",
+   "evento": "Descarrilamiento del tercer eje del vagón undécimo del tren 93614 en el PK 566+856, seguido del descarrilamiento de los vagones décimo y duodécimo"
+  },
+  {
+   "hora": "16:00",
+   "evento": "Se corta la circulación en vía 1 y vía 2 y se establece el plan alternativo de transportes"
+  },
+  {
+   "hora": "18:10",
+   "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml)"
+  },
+  {
+   "hora": "21:30",
+   "evento": "Se reabre la vía 1 el 17 de septiembre de 2009"
+  },
+  {
+   "hora": "07:45",
+   "evento": "Se reabre la vía 2 el 19 de septiembre de 2009"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "93614",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de los vagones décimo, undécimo y duodécimo; locomotora, nueve primeros vagones y vagones decimotercero y decimocuarto sin daños; no se dispone de datos de daños al material móvil"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal",
+   "implicacion": "Conducía el tren 93614; poseía título B de conducción, habilitación vigente, reciclaje formativo del 14/12/2007 y reconocimiento médico y psicotécnico del 11/05/2005; alcoholemia negativa"
+  },
+  {
+   "rol": "factor",
+   "implicacion": "Indicó al maquinista que continuara la marcha antes del descarrilamiento"
+  },
+  {
+   "rol": "responsable de circulación de la estación de Zumárraga",
+   "implicacion": "Observó el paso del tren, vio que iba descarrilado, cerró la señal S2/2 e informó al maquinista y al puesto de mando"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de avanzada y de entrada; baliza previa de la señal de entrada E2; señal de entrada E2 en PK 565+881; baliza previa de la señal de salida S2/2; señal S1/2 derribada; agujas 4 y 6 arrolladas",
+  "tipo_via": "vía doble electrificada",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "Exceso de peralte de hasta 62 mm fuera de tolerancia en la zona del inicio del descarrilamiento; curva de transición tipo clotoide de radio 285 m, rampa del 10%, carril de 54 kg y traviesas monobloque; último paso del tren auscultador el 25/03/2009",
+  "otro": "Bloqueo automático banalizado (BAB), control de tráfico centralizado (CTC) y radiotelefonía A"
+ },
+ "material_rodante": {
+  "series": "Locomotora 269503; tren tipo 100; 14 vagones; 762 t de masa remolcada; Nº UIC 437143783623",
+  "averia": "No se aprecian averías: los equipos de seguridad funcionaron correctamente, los parámetros de rodadura de los vagones descarrilados estaban en norma y la carga se encontraba correctamente estibada",
+  "mantenimiento": null
+ },
+ "clima": "despejado",
+ "causas": {
+  "directa": "Exceso de peralte y variaciones del mismo en la zona de la vía donde se produce el descarrilamiento",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Derribo de dos columnas de electrificación y del poste de la señal S1/2; arrollamiento de los motores de las agujas 4 y 6 y de una caseta de obra; daños en instalaciones valorados por Adif en 971.695,62 euros; no se dispone de datos de daños al material móvil",
+  "afectacion_servicio": "Vía 1 cortada desde las 16:00 hasta las 21:30 del 17/09/2009; vía 2 cortada desde las 16:00 del 17/09/2009 hasta las 07:45 del 19/09/2009; supresión de la circulación en el trayecto afectado y establecimiento del plan alternativo de transportes"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "peralte",
+  "infraestructura",
+  "zumárraga",
+  "guipúzcoa",
+  "línea 100",
+  "renfe operadora",
+  "adif",
+  "mantenimiento de vía",
+  "curva",
+  "exceso de peralte"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-170909-270410-CIAF"
+}

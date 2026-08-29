@@ -1,0 +1,92 @@
+{
+ "titulo_normalizado": "Incidente ferroviario en la estación de Villalba de Guadarrama (línea 100 Madrid-Hendaya)",
+ "idioma_original": "es",
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios (CIAF), del Ministerio de Fomento, aprobó como definitivo el informe del incidente nº 0053/2008, ocurrido el 2008-10-23 en la estación de Villalba de Guadarrama, línea 100 Madrid-Hendaya. El texto disponible no describe la secuencia de hechos, las causas concretas ni las consecuencias del incidente. La resolución se centra en cuatro recomendaciones dirigidas a Comsa Rail Transport, Adif y el Centro de mantenimiento ERION. Estas recomendaciones se refieren al cumplimiento de los planes de mantenimiento del material rodante, a inspecciones específicas de dicho cumplimiento y a reforzar prácticas de conducción en condiciones adversas de frenado.",
+ "hechos": null,
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villalba de Guadarrama",
+  "pk": null,
+  "linea": "100 Madrid - Hendaya",
+  "provincia": null,
+  "descripcion_lugar": "Estación de Villalba de Guadarrama, de la línea 100 Madrid-Hendaya."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2008-10-23: incidente ferroviario nº 0053/2008 en la estación de Villalba de Guadarrama."
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: Pleno de la CIAF aprueba el informe particular definitivo y las recomendaciones."
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: resolución firmada en Madrid."
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": null
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": "Comsa Rail Transport: garantizar que todos los vehículos puestos en circulación respeten la programación del plan de mantenimiento para las distintas intervenciones. Adif: campaña específica de inspecciones para analizar el grado de cumplimiento de los planes de mantenimiento del material rodante. Centro de mantenimiento ERION: garantizar que en las intervenciones realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento."
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "53/08-1: Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones.",
+   "destinatario": "Comsa Rail Transport"
+  },
+  {
+   "texto": "53/08-2: Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "53/08-3: Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento.",
+   "destinatario": "Centro de mantenimiento ERION"
+  },
+  {
+   "texto": "53/08-4: Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales.",
+   "destinatario": "Comsa Rail Transport"
+  }
+ ],
+ "tags": [
+  "incidente ferroviario",
+  "villalba de guadarrama",
+  "línea 100",
+  "madrid-hendaya",
+  "ciaf",
+  "ministerio de fomento",
+  "mantenimiento",
+  "material rodante",
+  "adif",
+  "comsa rail transport",
+  "centro de mantenimiento erion",
+  "frenado"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-231008-140709-CIAF"
+}

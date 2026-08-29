@@ -1,0 +1,169 @@
+{
+ "titulo_normalizado": "Descarrilamiento y colisión en estación Sevilla Santa Justa por fallo de infraestructura en desvío nº 18",
+ "idioma_original": "es",
+ "resumen": "El 26 de mayo de 2013 a las 15:13 horas, la composición vacía del tren 39324 de Renfe Operadora (automotores 121.010 y 121.009) descarriló en el desvío nº 18 de la estación de Sevilla Santa Justa durante un movimiento de maniobra desde el CTT hacia la vía 10. Los vehículos descarrilados invadieron el gálibo de la vía contigua y colisionaron con la cabeza motriz trasera del tren 2135, que realizaba itinerario de salida hacia Madrid. No se produjeron víctimas. La causa fue el fallo en la infraestructura: las sujeciones y traviesas del desvío nº 18 se encontraban en estado deficiente, lo que permitió que la vía se abriera al paso del tren.",
+ "hechos": "La composición vacía del tren de viajeros 39324, formada por los automotores 121.010 (cabeza) y 121.009 (cola), fue autorizada a realizar un movimiento de maniobra desde el Centro de Tratamiento Técnico (CTT) hacia la vía 10 de la estación de Sevilla Santa Justa, iniciando la marcha a las 15:10:53 con la señal S2/1C en indicación de rebase autorizado. A las 15:12:39, a una velocidad de 23,35 km/h (inferior al máximo de 30 km/h para maniobras), descarrilaron los cuatro bogies de los dos primeros coches del automotor 121.009 que circulaba en cola, en la aguja 18 del PK 570+580.\n\nSimultáneamente, el tren de viajeros 2135 de Renfe Operadora, con origen Cádiz y destino Madrid Puerta de Atocha, había salido a las 15:11:20 de la vía 7 hacia la vía I con señal en vía libre. Los vehículos descarrilados invadieron el gálibo de la vía I y colisionaron con la cabeza motriz trasera del tren 2135, que registró freno de emergencia a las 15:12:40 a 47 km/h y se detuvo tras recorrer 98-106 metros. El tren 39324 se detuvo a las 15:12:57.\n\nNo hubo víctimas. El automotor 121.010 no descarrilado fue segregado y continuó a la vía 10 a las 17:05. El automotor 121.009 fue encarrilado y apartado en la vía 45 del CTT a las 03:47 del día 27. El automotor 130.007 del tren 2135 quedó apartado a las 05:35 en Bifurcación San Bernardo y trasladado al CTT a las 11:50. La circulación se normalizó a las 08:30 (vía I) y 08:40 (vía II) del 27 de mayo, y los trabajos de reparación del desvío 18 finalizaron a las 08:43.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sevilla Santa Justa",
+  "pk": "PK 570+580",
+  "linea": "400 Alcázar de San Juan - Cádiz",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Aguja nº 18 del desvío 18, en el escape que enlaza el haz de vías de ancho ibérico de la estación con el Centro de Tratamiento Técnico (CTT). Trazado en curva de radio reducido (190/180 m), rasante en horizontal, vía electrificada con carril de 54 kg/m, traviesas de madera y sujeciones rígidas por tirafondos."
+ },
+ "cronologia": [
+  {
+   "hora": "15:10:53",
+   "evento": "La composición vacía del tren 39324 inicia el movimiento de maniobra desde el CTT hacia la señal S2/1C"
+  },
+  {
+   "hora": "15:11:05",
+   "evento": "Paso por baliza ASFA de pie de señal S2/1C en indicación de rebase autorizado, velocidad 11,57 km/h"
+  },
+  {
+   "hora": "15:11:20",
+   "evento": "El tren 2135 realiza su salida autorizada desde la vía 7 hacia la vía I, señal S1/7 en vía libre"
+  },
+  {
+   "hora": "15:12:39",
+   "evento": "Descarrilamiento del tren 39324 en la aguja 18 de la vía II a velocidad de 23,35 km/h; 4 bogies (8 ejes) del automotor 121.009 descarrilan"
+  },
+  {
+   "hora": "15:12:40",
+   "evento": "Colisión con la cabeza motriz trasera del tren 2135; registro de freno de servicio y emergencia a 47 km/h"
+  },
+  {
+   "hora": "15:12:53",
+   "evento": "Detención del tren 2135 tras recorrer 98-106 metros desde la actuación del freno de emergencia"
+  },
+  {
+   "hora": "15:12:57",
+   "evento": "Detención del tren 39324, 73 metros y 18 segundos después del descarrilamiento"
+  },
+  {
+   "hora": "15:13:00",
+   "evento": "Hora del suceso según el resumen del informe"
+  },
+  {
+   "hora": "17:04:00",
+   "evento": "Se inicia el transbordo de viajeros del tren 2135 a otra composición"
+  },
+  {
+   "hora": "17:05:00",
+   "evento": "El automotor 121.010 (no descarrilado) es segregado y autorizado a continuar a la vía 10"
+  },
+  {
+   "hora": "03:47:00",
+   "evento": "El automotor 121.009, tras encarrilamiento, queda apartado en la vía 45 del CTT (27 de mayo)"
+  },
+  {
+   "hora": "05:35:00",
+   "evento": "El automotor 130.007 queda apartado en Bifurcación San Bernardo (27 de mayo)"
+  },
+  {
+   "hora": "08:30:00",
+   "evento": "Se normaliza la circulación por la vía I entre Sevilla Santa Justa y Bifurcación San Bernardo (27 de mayo)"
+  },
+  {
+   "hora": "08:40:00",
+   "evento": "Se normaliza la circulación por la vía II (27 de mayo)"
+  },
+  {
+   "hora": "08:43:00",
+   "evento": "Finalizan los trabajos de reparación del desvío 18 (27 de mayo)"
+  },
+  {
+   "hora": "11:50:00",
+   "evento": "El automotor 130.007 queda apartado en el CTT; instalaciones aptas para circulación sin limitación de velocidad (27 de mayo)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "39324",
+   "tipo": "viajeros larga distancia (composición vacía, maniobra)",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en los cuatro bogies descarrilados del automotor 121.009 (dos primeros coches, 8 ejes)"
+  },
+  {
+   "numero": "2135",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la cabeza motriz trasera: suspensiones rotas, carcasa del motor partida, transmisión rota y bogie desplazado"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 39324 (material vacío)",
+   "implicacion": "Matrícula 9653312. Título B de conducción, antigüedad 01/08/1986, habilitación vehículo 14/05/2009, habilitación línea 31/12/2012. Último reciclaje 21/06/2011, último reconocimiento médico 22/08/2012. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día 26: 1 h 15 min. Observó retención y bajada de freno a la altura del cambio 10-14; el IHM solo marcaba una composición."
+  },
+  {
+   "rol": "Maquinista del tren 2135",
+   "implicacion": "Matrícula 8824054. Título B de conducción, antigüedad 02/12/2000. Último reciclaje 18/12/2012, último reconocimiento médico 07/10/2009. A unos 200 m de la señal de salida notó fuerte retención y aplicó freno de urgencia; la motriz trasera no tenía señalización de freno de estacionamiento. Comunicó al puesto de mando y al interventor."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento eléctrico, control de tráfico centralizado (CTC) en el Puesto de Mando de Sevilla. Señal S2/1C en indicación de rebase autorizado (tren 39324); señal S1/7 en vía libre (tren 2135). Baliza ASFA de pie de señal. Bloqueo automático de vía doble banalizada (BAB) con colaterales.",
+  "tipo_via": "Vía general II (ancho ibérico) con desvío 18 de tipo DS-A-54-190/180-0,13-CR-I, sencillo para vía ancha tipo A, carril 54 UIC, desviada a la izquierda, radio 190/180 m, corazón recto. Estación con 13 vías (6 ancho estándar, 7 ancho ibérico).",
+  "velocidad_maxima": "30 km/h (marcha de maniobra tirando); velocidad del tren 39324 al descarrilar: 23,35 km/h; velocidad del tren 2135 al colisionar: 47 km/h",
+  "ancho": "Ibérico (1668 mm) en la zona del desvío 18; ancho estándar (1435 mm) en vías 1-6",
+  "electrificacion": "Sí, vía electrificada",
+  "estado_via": "Deficiente: sobreancho superior al admitido por la norma NAV 7-3-2.0 (ancho en punto 0: 1758 mm; en -1: 1756 mm; en -2: 1750 mm; máximo permitido 1698 mm). Mal estado de sujeción de la vía, traviesas con grietas y tirafondos flojos.",
+  "otro": "Media diaria de 70 trenes por la zona del descarrilamiento. Comunicación tren-tierra por radiotelefonía analógica modalidad C. Último tratamiento preventivo del desvío 18: junio 2012. Última intervención con maquinaria pesada: octubre 2012. Inspecciones en cabina (10/01/2013, 26/02/2013, 19/03/2013) no detectaron deficiencias porque el desvío estaba orientado a vía directa. Vigilancia a pie del 20/02/2013 sin deficiencias. Tren auscultador del 06/06/2012 solo detectó defecto leve de alabeo."
+ },
+ "material_rodante": {
+  "series": "Automotores 121.010 y 121.009 (serie 121, UIC 96719121009 el descarrilado); automotor 130.007 (tren 2135, tipo 200 B entre Cádiz y Majarabique, tipo 250 entre Majarabique y Madrid)",
+  "averia": "Ejes de rodadura desplazable fabricados por CAF. Medidas de pestaña (Sd), altura (Sh) e inclinación (Qr) del 19/05/2013 dentro de norma NTM 1210.202.0 (unidad con 408.028 km). Sistema de acoplamiento sin anomalía. DCI de bogies 7 y 8 dentro de norma excepto eje 121-7-0169-1 con aumento de 1,01 mm en compresión (no representativo, tomado post-incidente).",
+  "mantenimiento": "Últimas medidas de rodadura: 19/05/2013, dentro de parámetros. Unidad 121.009 con 408.028 km. Informes post-accidente de CAF (02/07/2013) y COFEMA (18/06/2013)."
+ },
+ "clima": "De día, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo en la infraestructura: estado deficiente de las sujeciones y traviesas del desvío nº 18, lo que permitió que la vía se abriera al paso del tren.",
+  "contribuyentes": [
+   "Trazado en curva de radio reducido (190/180 m) en la zona del descarrilamiento",
+   "Elevado número de circulaciones por la zona (media diaria de 70 trenes)",
+   "Inspecciones en cabina y vigilancia a pie realizadas con el desvío orientado a vía directa, lo que impidió detectar las deficiencias en la posición desviada",
+   "Último tratamiento preventivo del desvío 18 en junio de 2012 y última intervención con maquinaria pesada en octubre de 2012 (antigüedad)",
+   "Sobreancho de vía superior a la tolerancia normativa (1758 mm frente a 1698 mm máximo) en el punto cero del descarrilamiento"
+  ],
+  "sistemicas": [
+   "Ausencia de un plan de inspección específico para desvíos situados en vías de acceso a instalaciones ferroviarias que soportan elevado número de circulaciones",
+   "Posible insuficiencia de los métodos de inspección periódica (vigilancia a pie, inspección en cabina, tren auscultador) para detectar degradación progresiva en desvíos con alta frecuencia de uso en posición desviada"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 4 bogies descarrilados del tren 39324; cabeza motriz trasera del tren 2135 con suspensiones rotas, carcasa del motor partida, transmisión rota y bogie desplazado. Infraestructura: daños en vía e instalaciones de los desvíos 18 y 24, valorados en 55.000 €.",
+  "afectacion_servicio": "Circulación interrumpida entre Sevilla Santa Justa y Bifurcación San Bernardo desde el accidente hasta las 08:30 (vía I) y 08:40 (vía II) del 27/05/2013. Afectados: 112 trenes de Cercanías (9 suprimidos, 3.135 min de retraso), 50 de Regionales (1.281 min), 13 de Larga Distancia (2 suprimidos, 614 min). Total: 5.030 minutos de retraso y 11 trenes suprimidos. Normalización total a las 11:50 del 27/05/2013."
+ },
+ "lecciones": [
+  "Las inspecciones periódicas de desvíos deben realizarse en ambas posiciones (directa y desviada) para detectar deficiencias que solo se manifiestan en una de ellas",
+  "Los desvíos en vías de acceso a instalaciones (CTT, apartaderos) con alto número de circulaciones requieren planes de inspección específicos por su mayor desgaste",
+  "El estado deficiente de sujeciones y traviesas puede provocar la apertura de la vía al paso del tren, incluso a velocidades bajas de maniobra",
+  "La combinación de curva de radio reducido y degradación de la superestructura aumenta significativamente el riesgo de descarrilamiento"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Hacer un plan de inspección específico de los desvíos situados en vías de acceso a instalaciones ferroviarias que soporten un número elevado de circulaciones. Ante la existencia de deficiencias de seguridad, actuar en consecuencia.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "colision",
+  "desvio",
+  "infraestructura",
+  "sevilla-santa-justa",
+  "maniobra",
+  "ctt",
+  "sujeciones",
+  "traviesas",
+  "ancho-iberico",
+  "renfe",
+  "adif",
+  "sin-victimas"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_260513_140714_CIAF"
+}

@@ -1,0 +1,108 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por un tren en la estación de Salou",
+ "idioma_original": "es",
+ "resumen": "El 21 de diciembre de 2007, a las 07:32, un tren Regional Express de Renfe Operadora arrolló a una persona en la estación de Salou, punto kilométrico 263,600 de la línea 600 Valencia-San Vicente Calders, en Tarragona. La víctima, un varón de 65 años que trabajaba en la cafetería de la estación, falleció a las 08:20 mientras era trasladada en ambulancia. El accidente se originó por el cruce indebido de las vías por un paso vicioso practicado en el vallado, sin percatarse la víctima de la llegada del tren. No se produjeron daños materiales en el tren ni en las instalaciones, y la circulación quedó restablecida a las 08:08.",
+ "hechos": "El tren de viajeros Regional Express nº 18059, de Renfe Operadora, compuesto por la U/T 470035 formada por 3 coches con masa total de 161 toneladas, entraba por la vía 1 de la estación de Salou, en el PK 263,600 de la línea 600 Valencia-San Vicente Calders, cuando golpeó a una persona que cruzaba las vías por el lado izquierdo en sentido de la marcha del tren, a la altura de uno de los pasos entarimados de la estación. Como consecuencia del arrollamiento resultó fallecido un varón de 65 años.\n\nEl maquinista, al escuchar un golpe mientras entraba en la estación, bajó de la U/T y, avisado por testigos, comprobó que había arrollado a un hombre. Comunicó el suceso al Puesto de Mando de Barcelona, desde donde se informó a los servicios internos y externos. La víctima, aún con vida, fue evacuada, pero falleció a las 08:20 mientras era trasladada en ambulancia.\n\nEl tren implicado quedó detenido en la vía 1, interceptándose las vías 1 y 2, y la circulación quedó establecida por la vía 4. A las 08:08 se restableció la circulación normal tras la evacuación de la víctima, y a las 08:11 el tren 18059 reanudó su marcha, con un retraso de 39 minutos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Salou",
+  "pk": "263,600",
+  "linea": "600 Valencia-San Vicente Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Estación situada en zona urbana, con vías valladas por el municipio; el arrollamiento se produjo a la altura de uno de los pasos entarimados de la estación, donde existía una abertura en el vallado que servía de paso vicioso para acceder al andén principal."
+ },
+ "cronologia": [
+  {
+   "hora": "07:32",
+   "evento": "Se produce el arrollamiento de una persona por el tren Regional Express nº 18059 a la entrada del tren en la vía 1 de la estación de Salou."
+  },
+  {
+   "hora": "08:08",
+   "evento": "Una vez evacuada la víctima, se restablece la circulación normal."
+  },
+  {
+   "hora": "08:11",
+   "evento": "El tren 18059 reanuda su marcha."
+  },
+  {
+   "hora": "08:20",
+   "evento": "La víctima fallece mientras era trasladada en ambulancia."
+  },
+  {
+   "hora": "10:38",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona fallecida en la estación de Salou."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18059",
+   "tipo": "Regional Express",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material motor ni en las instalaciones."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 18059",
+   "implicacion": "Escuchó un golpe al entrar en la estación, bajó de la U/T, comprobó el arrollamiento y comunicó el suceso al Puesto de Mando de Barcelona. Las pruebas de alcoholemia y drogas fueron negativas y su actuación fue considerada correcta."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Varón de 65 años, trabajador de la cafetería de la estación, que cruzó las vías por un paso vicioso practicado en el vallado y resultó fallecido."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de vía única con Control de Tráfico Centralizado (CTC).",
+  "tipo_via": "Vía única.",
+  "velocidad_maxima": "140 km/h.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Estación urbana con vías valladas por el municipio. Existen tres pasos a nivel con semibarreras automáticas y dos pasos enmaderados en la zona de andenes. En el paso donde se produjo el accidente había una abertura en el vallado que servía de paso vicioso, con carteles de aviso del peligro de cruzar la vía."
+ },
+ "material_rodante": {
+  "series": "U/T 470035, formada por 3 coches, masa total 161 toneladas.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "De noche, con fuerte lluvia y viento, lo que disminuía la visibilidad.",
+ "causas": {
+  "directa": "El accidente tuvo su origen en el cruce de las vías por la víctima, sin hacer caso a las indicaciones de atención del andén, en el momento en que el tren 18059 llegaba a la estación.",
+  "contribuyentes": [
+   "Invasión imprudente del gálibo por parte de la víctima al cruzar las vías sin percatarse de la llegada del tren.",
+   "Existencia de un paso vicioso practicado en el vallado de la estación, por donde accedió la víctima al recinto ferroviario.",
+   "Condiciones atmosféricas del día del accidente, con noche, fuerte lluvia y viento, que disminuían la visibilidad."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+  "afectacion_servicio": "El tren 18059 quedó detenido en vía 1, interceptándose las vías 1 y 2; la circulación se estableció por la vía 4. La circulación normal se restableció a las 08:08 y el tren reanudó su marcha a las 08:11, con un retraso de 39 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Constatado que se ha reparado el vallado, se recomienda su mantenimiento.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "estación de salou",
+  "paso vicioso",
+  "vallado",
+  "renfe operadora",
+  "regional express",
+  "lluvia",
+  "viento",
+  "fallecido",
+  "adif",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-211207-290408-CIAF[1]"
+}

@@ -1,0 +1,145 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de cercanías 24406 por arrollamiento de barrón soporte del captador ASFA desprendido del tren 24403 en Valencia Sant Isidre",
+ "idioma_original": "es",
+ "resumen": "El 15 de diciembre de 2011 a las 07:52, el tren de cercanías 24406 de Renfe Operadora descarriló a la entrada de la estación de Valencia Sant Isidre (línea 310) tras arrollar un barrón soporte del captador ASFA que se había desprendido del tren 24403 que circulaba en sentido contrario. El barrón se soltó porque el captador del ASFA del automotor 592069 había impactado previamente contra el taco de protección de una baliza en el PK 74+511, quedando desnivelado y dañado. No hubo heridos. El accidente se debió a un fallo técnico del material rodante y a una inspección insuficiente tras el primer incidente.",
+ "hechos": "El tren 24404, con automotor 592069, circulaba de Buñol a Valencia Sant Isidre cuando, al pasar Loriguilla (PK 74+511), el captador ASFA, que iba desnivelado, impactó contra el taco de protección de la baliza de la señal 743, provocando la pérdida del captador y activación del ASFA. El maquinista informó al CTC. Al llegar a Valencia Sant Isidre, personal de Integria inspeccionó el vehículo, detectó la falta del captador pero no apreció que el barrón soporte no estaba bien nivelado. Se decidió que el vehículo siguiera circulando como tren 24403 en sentido contrario a Buñol, quedando el captador dañado en el coche de cola. A la altura de la señal E2 (PK 84+565), el tren 24403 perdió el barrón soporte del captador ASFA sin que el maquinista se percatara. El tren 24406, procedente de Buñol y con marcha a la vista prescrita por posible golpe en vía, pasó a 50 km/h por la baliza previa de la señal E2 y arrolló el barrón caído en la caja de la vía. El primer bogie descarriló y el tren recorrió 84 metros descarrilado hasta detenerse entre las señales E2 y R2 (PK 84+870). No hubo heridos. El tren 24403 llegó a Buñol y fue enviado al taller.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Valencia Sant Isidre",
+  "pk": "84+565",
+  "linea": "310 Aranjuez – Valencia Estació del Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Tramo en curva, vía única, no electrificada, ancho convencional, a la entrada de la estación de Valencia Sant Isidre. Paralelo a la vía de la línea 314 Quart de Poblet – Valencia Sant Isidre. Bloqueo BAU con CTC."
+ },
+ "cronologia": [
+  {
+   "hora": "07:52",
+   "evento": "Descarrilamiento del tren 24406 al arrollar el barrón soporte del captador ASFA en PK 84+565"
+  },
+  {
+   "hora": "07:51",
+   "evento": "El tren 24406 pasa por la baliza previa de la señal E2 a 50 km/h en anuncio de parada"
+  },
+  {
+   "hora": null,
+   "evento": "El tren 24404, al pasar Loriguilla (PK 74+511), sufre golpe en bajo del vehículo y pérdida de eficacia del ASFA; el captador impacta contra el taco de protección de la baliza de la señal 743"
+  },
+  {
+   "hora": null,
+   "evento": "El tren 24404 llega a Valencia Sant Isidre; personal de Integria detecta falta del captador ASFA pero no aprecia barrón desnivelado; se decide que siga como tren 24403 en sentido contrario"
+  },
+  {
+   "hora": null,
+   "evento": "El tren 24403 pierde el barrón soporte del captador ASFA a la altura de la señal E2 (PK 84+565) sin que el maquinista se percate"
+  },
+  {
+   "hora": null,
+   "evento": "El tren 24406 recibe marcha a la vista al paso por PK 74+511 por posible golpe en vía; el maquinista comunica que no hay anormalidad"
+  },
+  {
+   "hora": "17:15",
+   "evento": "El jefe de gabinete de investigación de accidentes de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "04:05",
+   "evento": "El 16/12/2011 se restablece la circulación entre Valencia Sant Isidre y Aldaia con limitación a 30 km/h entre PK 84+500 y 84+640"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24406",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en bomba hidrostática del ventilador, amortiguadores vertical y horizontal, dispositivo de mando, mordaza de freno. Descarrilamiento del primer bogie. 27.431,69 €"
+  },
+  {
+   "numero": "24403",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Pérdida del barrón soporte del captador ASFA del coche motor 137. Bases del soporte rotas con fisuras previas, oxidación y fatiga."
+  },
+  {
+   "numero": "24404",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Pérdida del captador ASFA tras impacto contra taco de protección de baliza señal 743. Automotor 592069."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista tren 24406",
+   "implicacion": "Matrícula 9676743. Título B, antigüedad desde 26/09/1986. Reciclaje 10/02/2010, reconocimiento médico 06/03/2007. Prueba de alcoholemia negativa. Cumplió marcha a la vista prescrita. Circulaba a 50 km/h (inferior a máxima permitida)."
+  },
+  {
+   "rol": "maquinista trenes 24404 y 24403",
+   "implicacion": "Matrícula 9677378. Título B, antigüedad desde 01/08/1981. Reciclaje 11/02/2010, reconocimiento médico 23/01/2009. Informó al CTC del golpe. No se percató de la pérdida del barrón al ir en cola."
+  },
+  {
+   "rol": "personal de Integria",
+   "implicacion": "Inspeccionó el tren 24404 en Valencia Sant Isidre, detectó falta de captador ASFA pero no apreció que el barrón soporte no estaba bien nivelado; autorizó la continuación del servicio como tren 24403."
+  },
+  {
+   "rol": "jefe de CTC",
+   "implicacion": "Recibió aviso del golpe del tren 24404; prescribió marcha a la vista al tren 24406 por posible golpe en vía."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E2 (entrada, PK 84+565), señal R2 (retroceso, PK 84+870), señal intermedia 743 (PK 74+511). Baliza ASFA previa de E2 rota. Funcionamiento correcto de sistemas.",
+  "tipo_via": "vía única, tramo en curva",
+  "velocidad_maxima": "90 km/h (limitación permanente por curva)",
+  "ancho": "convencional",
+  "electrificacion": "no electrificada",
+  "estado_via": "Rotura de baliza ASFA de señal E2 y su conexión; daños en traviesas y sujeciones en 100 m; fuerte golpe en taco de protección de baliza señal 743 con restos del captador esparcidos en 100 m.",
+  "otro": "Bloqueo BAU con CTC. Paralelo a línea 314 Quart de Poblet – Valencia Sant Isidre. Media semanal de 375 circulaciones en tramo Buñol – Valencia Sant Isidre (55 media distancia, 319 cercanías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Automotor 592214 (tren 24406) y automotor 592069 (trenes 24404/24403), serie 5920.40, tipo 120, 3 coches, 12 ejes, 131 toneladas. UIC 907717592214 y 90717592069.",
+  "averia": "Pérdida del captador ASFA (tren 24404) por impacto contra taco de baliza al ir desnivelado. Pérdida del barrón soporte del captador ASFA (tren 24403) por rotura de bases del soporte con fisuras previas por fatiga y oxidación. Daños en bogie de cabeza del tren 24406 por arrollamiento del barrón.",
+  "mantenimiento": "Última intervención IM3: 18/02/2010 a los 325.418 km. En el accidente: 521.182 km desde última R, 195.764 km desde última IM3. Plan de mantenimiento solo exigía inspección visual de anclajes y soportes en IM3 (cada 300.000-350.000 km). Se modificó plan: operación 101.05.45 (comprobación sujeción) en IC/IM1/IM2; operación 101.05.50 (desmontaje y END de soldaduras) en IM3 (325.000 km) y R (600.000 km u 8 años). Inspección END en 66 vehículos de serie 592.2: fisuras en 21, reparados."
+ },
+ "clima": "Amaneciendo, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo técnico del material: desprendimiento en plena vía del barrón soporte del captador ASFA del automotor 592069 del tren 24403, que fue arrollado por el tren 24406 provocando el descarrilamiento del primer bogie.",
+  "contribuyentes": [
+   "El captador ASFA del tren 24404 circulaba desnivelado y golpeó el taco de protección de la baliza de la señal 743, dañando el barrón soporte.",
+   "Tras la inspección en Valencia Sant Isidre, no se detectó que el barrón soporte no estaba bien nivelado y se autorizó la continuación del servicio como tren 24403.",
+   "El barrón quedó en el vehículo de cola del tren 24403, por lo que el maquinista no percibió su pérdida.",
+   "El plan de mantenimiento solo preveía inspección visual de anclajes y soportes del barrón en IM3 (cada 300.000-350.000 km), con 195.764 km desde la última revisión, insuficiente para detectar fisuras por fatiga y oxidación.",
+   "Fisuras previas por fatiga y oxidación en las bases del soporte del barrón (lado izquierdo), agravadas por rotura por fuerza externa (lado derecho) tras el impacto con la baliza."
+  ],
+  "sistemicas": [
+   "Insuficiencia del plan de mantenimiento de la serie 592.2 en cuanto a la periodicidad y profundidad de inspección de los soportes del barrón ASFA.",
+   "Procedimiento de inspección tras incidencia que no detectó el defecto del barrón desnivelado, permitiendo la continuación del servicio con material dañado."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 27.431,69 € (bomba hidrostática ventilador, amortiguadores, dispositivo de mando, mordaza de freno). Infraestructura: rotura baliza ASFA señal E2 y conexión, daños traviesas y sujeciones en 100 m.",
+  "afectacion_servicio": "Interrupción entre Valencia Sant Isidre y Aldaia con transbordos por carretera. Restablecida el 16/12/2011 a las 04:05 con limitación a 30 km/h entre PK 84+500 y 84+640. 53 trenes afectados, 686 min de retraso acumulado (45 cercanías: 526 min; 8 media distancia: 160 min). 9 trenes de media distancia suprimidos."
+ },
+ "lecciones": [
+  "Un captador ASFA desnivelado puede impactar contra tacos de protección de balizas y dañar el barrón soporte sin que se detecte en una inspección superficial.",
+  "La autorización de continuación del servicio tras una incidencia de golpe en bajos debe incluir una inspección exhaustiva de todos los elementos del bogie, incluyendo nivelación de soportes.",
+  "Las inspecciones visuales cada 300.000-350.000 km son insuficientes para detectar fisuras por fatiga y oxidación en soldaduras de soportes del barrón ASFA.",
+  "La pérdida de un elemento en el vehículo de cola puede pasar desapercibida al maquinista y quedar en la vía como obstáculo para trenes que circulan a continuación."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "descarrilamiento",
+  "asfa",
+  "barrón soporte",
+  "captador",
+  "fallo técnico material",
+  "cercanías",
+  "renfe operadora",
+  "valencia sant isidre",
+  "serie 592",
+  "mantenimiento",
+  "fatiga",
+  "desprendimiento en vía"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-151211-260612-CIAF"
+}

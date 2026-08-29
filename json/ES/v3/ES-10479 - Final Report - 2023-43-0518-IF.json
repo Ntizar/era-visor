@@ -1,0 +1,176 @@
+{
+ "titulo_normalizado": "Fallo de señalización por error de software en enclavamiento en Les Borges del Camp (Tarragona)",
+ "idioma_original": "es",
+ "resumen": "El 18 de mayo de 2023 a las 19:00, el tren de mercancías 55115 de RENFE Mercancías se aproximaba a la estación de Les Borges del Camp (línea 210, Tarragona). El maquinista accionó el freno de emergencia al detectar una secuencia de señales incorrecta (avanzada en vía libre cuando debía estar en anuncio de parada) debido a una insuficiente distancia de frenado entre la señal de entrada E1 y la de salida S1/1. El origen fue un error en el software de enclavamiento instalado el 27 de febrero de 2023 dentro del proyecto 'Centralización de Bloqueos Reus-Mora', desarrollado por Alstom. No hubo víctimas ni daños materiales. La CIAF emitió 5 recomendaciones dirigidas a AESF para Alstom y ADIF.",
+ "hechos": "El día 18 de mayo de 2023 a las 19:00 horas, el tren 55115 de RENFE Mercancías se aproximaba a la estación de Les Borges del Camp, en la línea 210, recibiendo itinerario dispuesto a vía 1 para notificarle que el paso a nivel del km 567+603 entre Les Borges del Camp y Riudecanyes-Botarell se encontraba sin protección. La secuencia de señales era: salida S1/1 en indicación de parada, entrada E1 en anuncio de parada y avanzada 5737 en indicación de vía libre. A la altura de la señal E1, el maquinista accionó el freno de emergencia al apreciar que la secuencia no era correcta, ya que no existía suficiente distancia de frenado (444 m) entre E1 y S1/1. El maquinista comunicó la incidencia al Responsable de Circulación del CRC de Zaragoza (El Portillo). El RC consultó la Consigna Serie A nº 2607 del 03/05/2022 y comprobó que la secuencia correcta debía ser Amarillo-Amarillo-Rojo (avanzada/entrada/salida), no Verde-Amarillo-Rojo como mostraba el software.\n\nLa última actuación relacionada con la señalización fue la puesta en servicio el 27 de febrero de 2023 del proyecto 'Centralización de Bloqueos Reus-Mora', que incluía una nueva versión del software de enclavamiento para las estaciones de Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp. El software, desarrollado por Alstom Group, partió de una hipótesis errónea sobre la secuencia de señales, al considerar que existía suficiente distancia de frenado cuando en realidad no la había. La campaña de pruebas interna de Alstom no incluyó la prueba específica que habría detectado el error, y las pruebas conjuntas con ADIF tampoco lo detectaron.\n\nComo medida inmediata, la madrugada del 18 al 19 de mayo de 2023 se retiraron las lámparas del foco verde de las avanzadas de los enclavamientos afectados, eliminando los aspectos de Vía Libre y Anuncio de Precaución. Posteriormente, se actualizó el software del enclavamiento para que la avanzada mostrara amarillo cuando la entrada fuera amarilla, poniéndose en servicio la nueva versión los días 7 y 8 de junio de 2023.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Les Borges del Camp",
+  "pk": "573+750",
+  "linea": "210",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Estación de Les Borges del Camp, vía general (Vía 1), a la altura de la señal de entrada E1 lado Reus. Estaciones colaterales: Reus y Riudecanyes-Botarell. La estación cuenta con una vía general y cuatro vías de apartado, una de las cuales acaba en mango. Distancia entre señal de entrada E1 y señal de salida S1/1: 444 metros. Señal avanzada: 5737."
+ },
+ "cronologia": [
+  {
+   "hora": "2009",
+   "evento": "Sustitución de enclavamientos eléctricos por electrónicos (software Alstom) en el tramo Reus-Mora"
+  },
+  {
+   "hora": "2023-02-27",
+   "evento": "Puesta en servicio del software con el proyecto 'Centralización de Bloqueos Reus-Mora' en Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp"
+  },
+  {
+   "hora": "2023-05-18 19:00",
+   "evento": "Tren 55115 se aproxima a Les Borges del Camp; el maquinista detecta secuencia de señales incorrecta y acciona el freno de emergencia a la altura de la señal E1"
+  },
+  {
+   "hora": "2023-05-18",
+   "evento": "El RC consulta la Consigna Serie A nº 2607 y confirma que la secuencia mostrada no corresponde con la indicada"
+  },
+  {
+   "hora": "2023-05-18/19",
+   "evento": "Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados"
+  },
+  {
+   "hora": "2023-06-07/08",
+   "evento": "Puesta en servicio de la nueva versión del software que corrige la secuencia de señales (A-A-R)"
+  },
+  {
+   "hora": "2023-06-07",
+   "evento": "Pleno CIAF nº 173: acuerdo de estudio preliminar del suceso"
+  },
+  {
+   "hora": "2023-11-22",
+   "evento": "Pleno CIAF nº 178: acuerdo de investigación formal del suceso"
+  },
+  {
+   "hora": "2024-05-22",
+   "evento": "La CIAF recibe el Informe Particular de ADIF"
+  },
+  {
+   "hora": "2024-06-20",
+   "evento": "Aprobación del Informe Final CIAF 43/2023 en Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "55115",
+   "tipo": "tren de mercancías",
+   "operador": "RENFE Mercancías",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 55115 (RENFE Mercancías)",
+   "implicacion": "Detectó la incoherencia en la secuencia de señales, accionó el freno de emergencia y alertó al RC"
+  },
+  {
+   "rol": "Responsable de Circulación (RC) de la banda de Tarragona del CRC de Zaragoza (El Portillo), personal de ADIF",
+   "implicacion": "Consultó la Consigna Serie A y confirmó la discrepancia entre la secuencia mostrada y la correcta"
+  },
+  {
+   "rol": "Equipo de Ingeniería de Alstom (desarrollo de software)",
+   "implicacion": "Partió de una hipótesis errónea sobre la secuencia de señales (V-A-R en lugar de A-A-R) y no la verificó"
+  },
+  {
+   "rol": "Equipo de V&V de Alstom (Verificación y Validación)",
+   "implicacion": "Elaboró la campaña de pruebas que no incluyó la prueba necesaria para detectar el error"
+  },
+  {
+   "rol": "Equipo de Safety de Alstom",
+   "implicacion": "Detectó la ausencia de pruebas en revisión de la versión C de la Campaña de pruebas, pero el error no se corrigió"
+  },
+  {
+   "rol": "Personal de GAPI de ADIF (Gerencia de Área de Programación e Instalaciones)",
+   "implicacion": "Participó en pruebas conjuntas que no detectaron el fallo; no elaboró el Anexo 3 'Protocolo de pruebas estándar de bloqueo'"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico con software Alstom; señales de entrada (E1), salida (S1/1) y avanzada (5737); sistema ASFA; BAU con CTC",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "115 km/h",
+  "ancho": "ibérico",
+  "electrificacion": "3 kV",
+  "estado_via": "normal",
+  "otro": "Subred D de la RFIG. Sistema de comunicación tren-tierra, canal 64. Estación con 1 vía general y 4 vías de apartado (una en mango). Distancia E1 a S1/1: 444 m. Insuficiente distancia de frenado para secuencia V-A-R."
+ },
+ "material_rodante": {
+  "series": "Locomotora serie 253 (253081) + 10 vagones PRR (cisterna particular)",
+  "averia": "ninguna",
+  "mantenimiento": "no aplica"
+ },
+ "clima": "Buenas condiciones meteorológicas, nublado, sin lluvia, buena visibilidad",
+ "causas": {
+  "directa": "Error en el software de enclavamiento instalado el 27/02/2023 que generaba una secuencia de señales incorrecta (Verde-Amarillo-Rojo en lugar de Amarillo-Amarillo-Rojo) para los itinerarios de entrada a vía principal, debido a una hipótesis errónea durante el diseño que asumía suficiente distancia de frenado entre la señal de entrada y la de salida.",
+  "contribuyentes": [
+   "No se hizo seguimiento ni verificación de las hipótesis de partida durante el desarrollo del software, asumiéndose como válidas hasta la versión final.",
+   "La campaña de pruebas del tecnólogo (Alstom) no incluyó la prueba necesaria para detectar el error en la secuencia de señales de los itinerarios de entrada a vía general.",
+   "El equipo de Safety de Alstom detectó la ausencia de pruebas en revisión de la versión C de la Campaña de pruebas, pero por error no se corrigió en la campaña.",
+   "Las pruebas conjuntas con ADIF no detectaron el error presente.",
+   "Falta de definición de la frontera del proyecto entre bloqueo y enclavamiento, tanto por parte del tecnólogo como del responsable de infraestructura.",
+   "Desde 2009, la señal avanzada no estaba incluida en el software del enclavamiento (seguía controlada por relés), situación no evaluada correctamente al centralizar los bloqueos.",
+   "La GAPI de ADIF no elaboró el Anexo 3 'Protocolo de pruebas estándar de bloqueo' de la IT-205-002-001.",
+   "El 'Protocolo de pruebas estándar de bloqueo' de la IT-205-002-001 carece de un desarrollo que concrete cómo registrar cada prueba."
+  ],
+  "sistemicas": [
+   "Falta de mecanismos para asegurar la disponibilidad de datos de explotación antes de la generación del software y para el seguimiento y validación de hipótesis.",
+   "Ausencia de procedimientos de doble comprobación por el equipo de Safety sobre las campañas de pruebas diseñadas por V&V.",
+   "Inexistencia de mecanismos específicos en los procedimientos de Alstom y en el SGS de ADIF para analizar fronteras existentes y nuevas entre sistemas.",
+   "Falta de herramientas tecnológicas que permitan agilidad en el registro y realización de pruebas detalladas en la IT-205-002-001."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "Retraso acumulado de 12 minutos para dos trenes de Renfe Mercancías el día 19 de mayo de 2023. Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados (madrugada del 18 al 19 de mayo de 2023)."
+ },
+ "lecciones": [
+  "Las hipótesis de partida en el desarrollo de software de enclavamiento deben ser verificadas y trazadas hasta el final del proyecto.",
+  "La frontera entre bloqueo y enclavamiento debe definirse explícitamente y evaluarse en cada actuación, especialmente cuando señales tradicionalmente dentro del enclavamiento (como la avanzada) han quedado fuera del software por decisiones históricas.",
+  "Las campañas de pruebas deben cubrir no solo el alcance declarado del proyecto sino también las interfaces y repercusiones sobre elementos adyacentes.",
+  "Los errores detectados por el equipo de Safety en revisiones de campañas de pruebas deben gestionarse y confirmarse como resueltos mediante procedimientos de doble comprobación.",
+  "La actuación del maquinista al detectar una incoherencia en la secuencia de señales y accionar el freno de emergencia fue determinante para mitigar el riesgo."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Implementar mecanismos que aseguren la disponibilidad de datos de explotación antes de la generación del software y, en el caso de partir de hipótesis, diseñar métodos que realicen el seguimiento y validación de estas.",
+   "destinatario": "AESF (implementador final: ALSTOM)"
+  },
+  {
+   "texto": "Establecer procedimientos de doble comprobación por parte del equipo de Safety sobre las campañas de pruebas diseñadas por V&V y especialmente sobre los errores que los primeros hayan detectado, para confirmar su gestión y solución.",
+   "destinatario": "AESF (implementador final: ALSTOM)"
+  },
+  {
+   "texto": "Incluir en los procedimientos de Alstom mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación.",
+   "destinatario": "AESF (implementador final: ALSTOM)"
+  },
+  {
+   "texto": "Incluir en el SGS de ADIF mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación.",
+   "destinatario": "AESF (implementador final: ADIF)"
+  },
+  {
+   "texto": "Desarrollar herramientas tecnológicas que permitan una mayor agilidad tanto en el registro como en la realización de las pruebas detalladas en la IT-205-002-001 'Realización de pruebas en Fábrica', así como la mejora de dichos protocolos, que garantice un cumplimiento riguroso de los mismos.",
+   "destinatario": "AESF (implementador final: ADIF)"
+  }
+ ],
+ "tags": [
+  "fallo señalización",
+  "error software enclavamiento",
+  "centralización bloqueos",
+  "hipótesis errónea",
+  "distancia frenado insuficiente",
+  "secuencia señales",
+  "alstom",
+  "adif",
+  "asfa",
+  "bau",
+  "ctc",
+  "línea 210"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10479 - Final Report - 2023-43-0518-IF"
+}

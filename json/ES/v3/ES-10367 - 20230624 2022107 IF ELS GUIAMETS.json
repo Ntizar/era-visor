@@ -1,0 +1,186 @@
+{
+ "titulo_normalizado": "Colisión por alcance entre trenes de mercancías entre Els Guiamets y Mora La Nova por marcha a la vista inadecuada tras rebase de señal con letra P",
+ "idioma_original": "es",
+ "resumen": "El 13 de diciembre de 2022 a las 19:23, el tren de mercancías 55203 colisionó por alcance con la cola del tren 55311, detenido por avería de freno en el túnel de Darmós, entre las estaciones de Els Guiamets y Mora La Nova (línea 210). El maquinista del tren 55203 rebasó sin detenerse la señal dotada de letra P 5371 en indicación de parada y no adecuó la velocidad a la visibilidad durante la marcha a la vista. La colisión se produjo a unos 15 km/h. No hubo heridos ni daños al medio ambiente, pero se produjeron daños materiales en vagones e infraestructura, con 36 horas de interceptación total de vía.",
+ "hechos": "El tren de mercancías 55311 (portacoches) salió de Els Guiamets hacia Mora La Nova y a las 19:13:25 quedó detenido en el circuito de vía 5352 por una avería en el freno (pérdida progresiva de presión en la TFA), con la locomotora y 5 vagones dentro del túnel de Darmós, a 150 m de la boca del túnel, en zona en curva a izquierdas. La señal 5371 pasó a indicación de parada y la 5387 a anuncio de parada. A las 19:15:38 el tren 55203 (papelero) salió de Els Guiamets. Tras pasar la baliza previa de la señal 5371 en parada, el maquinista M-55203 frenó hasta 2,53 km/h pero no se detuvo; a las 19:21:13 pulsó el rebase autorizado del ASFA y a las 19:21:17 rebasó la señal a 7,8 km/h. A las 19:21:43 llamó al RC del CTC, que le informó de un tren parado en cola. Tras finalizar la llamada a las 19:22:20, el tren entró en curva a izquierdas y la velocidad subió a 26,3 km/h. A las 19:22:33 aplicó freno eléctrico a 219 m de la cola. A las 19:23:00 visualizó la cola del 55311 a 72 m y aplicó freno máximo a 25,39 km/h. La colisión se estimó a las 19:23:12 a unos 15 km/h, deteniéndose el 55203 9 m después.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Els Guiamets / Mora La Nova",
+  "pk": "536+527",
+  "linea": "210 Miraflores – Sant Vicenç de Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Plena vía entre las señales dotadas de letra P 5371 y 5351, en zona en curva a izquierdas (radio 370 m, desarrollo ~840 m) y trinchera (media ladera), cerca del túnel de Darmós (744 m), municipio de Tivissa, Cataluña. Coordenadas 41°6'22\"N, 0°42'19\"E. Pendiente 7,09 milésimas en el punto de colisión."
+ },
+ "cronologia": [
+  {
+   "hora": "19:10",
+   "evento": "Tren 55311 sale de Els Guiamets dirección Mora La Nova; presión TFA comienza a disminuir"
+  },
+  {
+   "hora": "19:11:56",
+   "evento": "Tren 55311 comienza a disminuir velocidad a presión TFA de 4,152 Kg"
+  },
+  {
+   "hora": "19:13:25",
+   "evento": "Tren 55311 queda detenido en CV 5352, locomotora y 5 vagones dentro del túnel de Darmós"
+  },
+  {
+   "hora": "19:15",
+   "evento": "Tren 55203 sale de Els Guiamets hacia Mora La Nova"
+  },
+  {
+   "hora": "19:15:38",
+   "evento": "Tren 55203 pasa señal S1/1 con indicación de vía libre"
+  },
+  {
+   "hora": "19:16:54",
+   "evento": "Tren 55203 pasa baliza previa señal 5387 (anuncio de parada) a 71 km/h"
+  },
+  {
+   "hora": "19:19:18",
+   "evento": "Tren 55203 pasa baliza previa señal 5371 (parada) a ~30 km/h"
+  },
+  {
+   "hora": null,
+   "evento": "Tren 55203 alcanza velocidad mínima 2,53 km/h a 37 m de baliza de pie señal 5371 (658 m de cola del 55311)"
+  },
+  {
+   "hora": "19:21:13",
+   "evento": "M-55203 pulsa botón rebase autorizado ASFA a 8,05 km/h"
+  },
+  {
+   "hora": "19:21:17",
+   "evento": "Tren 55203 rebasa señal 5371 en parada sin detenerse a 7,8 km/h"
+  },
+  {
+   "hora": "19:21:43",
+   "evento": "M-55203 llama al RC del CTC preguntando por problema en vía"
+  },
+  {
+   "hora": "19:22:20",
+   "evento": "Finaliza llamada RC CTC; tren comienza a recorrer curva a izquierdas"
+  },
+  {
+   "hora": "19:22:33",
+   "evento": "Velocidad alcanza 26,3 km/h; M-55203 aplica freno eléctrico a 219 m de cola del 55311"
+  },
+  {
+   "hora": "19:23:00",
+   "evento": "M-55203 visualiza cola del 55311 y aplica freno máximo a 25,39 km/h a 72 m de distancia"
+  },
+  {
+   "hora": "19:23:12",
+   "evento": "Colisión del tren 55203 con la cola del tren 55311 a ~15 km/h"
+  },
+  {
+   "hora": "19:23:18",
+   "evento": "Tren 55203 completamente detenido, 9 m tras la colisión"
+  },
+  {
+   "hora": "21:34",
+   "evento": "ADIF comunica el suceso a la CIAF por SMS"
+  },
+  {
+   "hora": null,
+   "evento": "Interceptación total de vía general desde 19:23 del 13/12 hasta 9:06 del 16/12 (36 horas)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "55311",
+   "tipo": "tren de mercancías (portacoches)",
+   "operador": "Renfe Mercancías",
+   "danos": "Vagón posición 14 (serie PMA, NEV 437142920895) descarrilado con desprendimiento del primer eje y encabalgamiento sobre el vagón 13, que también sufrió daños"
+  },
+  {
+   "numero": "55203",
+   "tipo": "tren de mercancías (papel y cartones)",
+   "operador": "Renfe Mercancías",
+   "danos": "Daños materiales en material rodante; locomotora 253-063-2 y 253-016-0 en mando múltiple; 20 vagones serie JJPD cargados con pasta de madera"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista tren 55311 (M-55311)",
+   "implicacion": "Personal de Renfe Mercancías. Tren detenido por avería de freno; realizó comprobaciones neumáticas y eléctricas sin resultado; informó al RC del CTC de su situación"
+  },
+  {
+   "rol": "Maquinista tren 55203 (M-55203)",
+   "implicacion": "Personal de Renfe Mercancías. Licencia y diploma obtenidos en junio 2021; primer servicio como maquinista autónomo el 17/10/2022; el del suceso era el servicio nº31. Primera vez conduciendo régimen G, mando múltiple, y realizando marcha a la vista tras señal P de forma autónoma. No adecuó velocidad a visibilidad"
+  },
+  {
+   "rol": "Responsable de Circulación del CTC Zaragoza Portillo (RC del CTC)",
+   "implicacion": "Personal de ADIF. Informó a M-55203 de la presencia del tren 55311 parado; autorizó a M-55311 a bajar del tren para comprobar el freno"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA Digital; señales dotadas de letra P (5387, 5371, 5351, 5335); señal de salida S1/1 de Els Guiamets; balizas previas y de pie",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "85 km/h (trenes tipo N)",
+  "ancho": "Ibérico (1668 mm)",
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Curva a izquierdas (radio 370 m, desarrollo ~840 m), trinchera (media ladera), pendiente 7,09 milésimas; vegetación arbórea alrededor; 4 túneles en trayecto, túnel de Darmós 744 m",
+  "otro": "Bloqueo Automático de vía Única (BAU); Control de Tráfico Centralizado (CTC) desde CRC Zaragoza Portillo; canal radiotelefonía TT modalidad A (canal 64); banda SITRA 5401 (Reus-La Puebla de Híjar); 5 cantones entre estaciones; CV 5352; distancia señal 5371 a boca túnel 1006 m; distancia señal 5371 a punto colisión 629 m"
+ },
+ "material_rodante": {
+  "series": "Locomotoras serie 253 (253-015-2, 253-063-2, 253-016-0); vagones PMA y MA (portacoches, tren 55311); vagones JJPD (papel, tren 55203)",
+  "averia": "Tren 55311: pérdida progresiva de presión en TFA (freno) sin poder rearmar; Tren 55203: locomotora de cabeza en régimen P cuando el resto de la composición era régimen G (discrepancia con documento de tren)",
+  "mantenimiento": "No se especifica mantenimiento particular; tren 55311 tipo 100N, 18 vehículos, 68 ejes, 527 m, 911 t; tren 55203 tipo 100N, 22 vehículos, 88 ejes, 472 m, 1946 t"
+ },
+ "clima": "Lluvia fuerte, niebla, llovizna y nocturnidad durante el suceso",
+ "causas": {
+  "directa": "Fallo humano de M-55203: no cumplimentar rigurosamente lo determinado en el LNM del Grupo Renfe y en el RCF sobre la marcha a la vista, al no adecuar la velocidad del tren conforme con la visibilidad disponible en los momentos previos a la colisión por alcance (artículos 1.5.1.2 pto 1 y 2.1.2.7 pto 1 del LNM; 1.5.1.4 pto 1 y 2.1.2.7 pto 2 del RCF)",
+  "contribuyentes": [
+   "Realización de la marcha a la vista en condiciones adversas: trayecto en curva a izquierdas y en trinchera, niebla, llovizna y nocturnidad",
+   "Realización de una llamada al RC del CTC (36 s) durante la marcha a la vista, dividiendo el foco atencional del maquinista y siendo insuficiente la atención puesta en la regulación de velocidad",
+   "Primera vez que M-55203 conducía un tren en régimen de frenado G, con tiempo de respuesta de frenado más dilatado (18-30 s vs 3-5 s en P), sin referencias previas de distancias de frenado",
+   "Escasa experiencia del maquinista (31 servicios) y falta de percepción del riesgo; además la locomotora de cabeza estaba en régimen P mientras los vagones en G, generando confusión por la discrepancia entre indicaciones de manómetros y respuesta real del freno"
+  ],
+  "sistemicas": [
+   "Criterios actuales sobre el rebase de señales dotadas de letra P en la RFIG: el artículo 2.1.2.7 del RCF solo impone no exceder 40 km/h y la libertad del maquinista para regular velocidad, sin condiciones adicionales para situaciones de baja visibilidad, curvas, trinchera o presencia de apeaderos",
+   "Ausencia de normativa específica sobre tamaño, estado de conservación y vida útil de las chapas/placas de cola de trenes (a diferencia del sector carretera)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Vagón 14 del tren 55311 descarrilado (desprendimiento primer eje) y encabalgado sobre vagón 13 con daños; daños en material rodante de ambos trenes; daños en infraestructura afectando alineación y nivelación de la vía. Sin daños al medio ambiente",
+  "afectacion_servicio": "Interceptación total de vía general 36 horas (19:23 del 13/12 al 9:06 del 16/12). 77 circulaciones afectadas (supresiones, retrasos y desvíos), principalmente mercancías de varias EF y Media Distancia de Renfe Viajeros. 1254 minutos perdidos (~21 h). Desvío de tráfico a línea 200 Madrid-Barcelona; transbordo Mora La Nova-Marça Falset"
+ },
+ "lecciones": [
+  "La marcha a la vista tras rebase de señal con letra P exige una atención y rigor absolutos que no deben dividirse con comunicaciones telefónicas durante la circulación",
+  "La experiencia limitada del maquinista en regímenes de frenado G y en mando múltiple puede comprometer la correcta regulación de velocidad en marchas especiales",
+  "La discrepancia entre el régimen de frenado de la locomotora (P) y el de los vagones (G) genera una falsa apreciación del retardo de frenado por parte del maquinista",
+  "Las condiciones de visibilidad reducida (noche, niebla, lluvia, curva en trinchera) pueden hacer insuficiente la velocidad máxima de 40 km/h permitida por el artículo 2.1.2.7 del RCF",
+  "Las chapas de cola pueden no ser suficientemente perceptibles en condiciones adversas comparadas con señales luminosas"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Promover el establecimiento de nuevos criterios para el rebase de señales en parada cuando están dotadas con 'cartelón P'.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Promover que las empresas ferroviarias incrementen las acciones formativas y de vigilancia respecto a la realización de marchas especiales de conducción, de modo que se garantice que el personal de conducción esté suficientemente entrenado y aplique el rigor y atención debidos cuando se realizan.",
+   "destinatario": "AESF"
+  }
+ ],
+ "tags": [
+  "colisión por alcance",
+  "marcha a la vista",
+  "señal letra P",
+  "rebase autorizado",
+  "ASFA Digital",
+  "régimen G",
+  "frenado mercancías",
+  "visibilidad reducida",
+  "experiencia maquinista",
+  "línea 210",
+  "Renfe Mercancías",
+  "ADIF",
+  "túnel Darmós",
+  "BAU"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10367 - 20230624 2022107 IF ELS GUIAMETS"
+}

@@ -1,0 +1,208 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal de salida con riesgo de colisión en la estación de Madrid Chamartín",
+ "idioma_original": "es",
+ "resumen": "El 23 de marzo de 2017 a las 10:59 horas, el tren de cercanías 31116 de RENFE VIAJEROS, procedente de Villalba de Guadarrama con destino Aeropuerto Barajas-T4, rebasó indebidamente la señal de salida S1/10 en indicación de parada en la estación de Madrid Chamartín, provocando la actuación del frenado de emergencia ASFA. Simultáneamente, el tren 91963 (material vacío) circulaba por la travesía T72, punto de intersección de ambos itinerarios de salida, existiendo posibilidad de colisión. No se produjeron víctimas ni daños materiales. La causa directa fue un déficit de atención del maquinista por falta de percepción del riesgo, agravado por el uso inapropiado de la velocidad prefijada en lugar de conducción manual.",
+ "hechos": "El incidente tuvo lugar el 23 de marzo de 2017 a las 10:59 horas en la estación de Madrid Chamartín. El tren de cercanías 31116 de RENFE VIAJEROS, procedente de Villalba de Guadarrama con destino Aeropuerto Barajas-T4, entró en la estación por vía 10 con 6 minutos de retraso. Tras efectuar parada comercial, el maquinista reinició la marcha utilizando velocidad prefijada (en lugar de conducción manual, como prescribe el reglamento para itinerarios de salida y aproximación a señales en parada). El tren pasó la señal S1/10A en indicación de anuncio de parada a 17 km/h y, 49 segundos después, rebasó indebidamente la señal de salida S1/10 en indicación de parada a 27 km/h, activándose el frenado de emergencia del sistema ASFA. El tren se detuvo a 31 m de la señal rebasada y a 47 m de la travesía T72.\n\nSimultáneamente, el tren 91963, material vacío de RENFE VIAJEROS con destino Madrid Príncipe Pío, había salido de vía 13 y en el momento del rebase ocupaba la travesía T72 (circuito de vía A70), punto de confluencia de ambos itinerarios de salida. El maquinista declaró que buscaba un bolígrafo en el bolso para anotar en el documento de tren cuando se produjo el rebase, lo que indica un déficit de atención por falta de percepción del riesgo. El maquinista aplicó freno de servicio 2 segundos después del rebase (a 22 km/h), pero esta actuación quedó sin efectividad por la acción previa del ASFA.\n\nNo se produjeron víctimas ni daños materiales. El puesto de mando determinó el apartado del tren 31116 en vía 10 y su supresión; sus viajeros continuaron viaje en tren 27820. Se vieron afectados 7 trenes (6 cercanías y 1 media distancia) con un retraso total de 58 minutos. El enclavamiento electrónico de la estación permitía establecer ambos itinerarios de salida simultáneamente sin generar incompatibilidades por deslizamiento hacia la travesía T72.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Madrid Chamartín",
+  "pk": "0+000",
+  "linea": "L200 Madrid Chamartín – Barcelona Estación de Francia",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Estación de Madrid Chamartín, vía 10 (tren 31116) y vía 13 (tren 91963). Señal rebasada: S1/10 (pk 0+458). Travesía T72 (pk 0+536), punto de confluencia de itinerarios. Enclavamiento electrónico instalado el 04/12/2006. Estación dotada de 23 vías (15 ancho ibérico, 8 ancho estándar), totalmente electrificada, mando centralizado en CTC Madrid Chamartín, señalización luminosa ASFA, circuitos de vía de audiofrecuencia. Circulación al amparo de vía doble banalizada (BAB)."
+ },
+ "cronologia": [
+  {
+   "hora": "10:52:52",
+   "evento": "Tren 91963 (estacionado en vía 13) inicia su marcha a 3 km/h (según registrador)"
+  },
+  {
+   "hora": "10:54:21",
+   "evento": "Tren 31116 pasa señal de entrada EC10 en anuncio de parada a 29 km/h"
+  },
+  {
+   "hora": "10:55:12",
+   "evento": "Tren 31116 realiza parada comercial en vía 10"
+  },
+  {
+   "hora": "10:55:56",
+   "evento": "Tren 31116 entra en estación por vía 10 (referencia cronología principal). Tren 91963 estacionado en vía 13"
+  },
+  {
+   "hora": "10:56:16",
+   "evento": "CTC realiza itinerario de salida S1/10A a S1/10 para tren 31116 (6 min retraso). S1/10A pasa a anuncio de parada; S1/10 continúa en parada"
+  },
+  {
+   "hora": "10:56:42",
+   "evento": "Puesto de mando tiene conocimiento del incidente por llamada telefónica del maquinista del tren 31116"
+  },
+  {
+   "hora": "10:56:47",
+   "evento": "Tren 31116 se detiene antes de S1/10A para parada comercial"
+  },
+  {
+   "hora": "10:56:53",
+   "evento": "Tren 91963 inicia su marcha desde vía 13 a 3 km/h"
+  },
+  {
+   "hora": "10:57:40",
+   "evento": "CTC realiza itinerario de salida S1/13 a SP1 para tren 91963. S1/13 en anuncio de parada"
+  },
+  {
+   "hora": "10:57:52",
+   "evento": "Tren 31116 inicia marcha con velocidad prefijada según itinerario S1/10A a S1/10"
+  },
+  {
+   "hora": "10:58:03",
+   "evento": "Tren 31116 pasa señal S1/10A en indicación de anuncio de parada a 17 km/h"
+  },
+  {
+   "hora": "10:58:16",
+   "evento": "Tren 91963 pasa señal S1/13 en anuncio de parada a 21 km/h"
+  },
+  {
+   "hora": "10:58:39",
+   "evento": "Tren 91963 deja libre circuito de vía 13, pasa travesía T96, a ~30 m de travesía T72, a 23 km/h"
+  },
+  {
+   "hora": "10:58:50",
+   "evento": "Circuito de vía A70 ocupado por tren 91963 (travesía T72)"
+  },
+  {
+   "hora": "10:58:52",
+   "evento": "Tren 31116 rebasa indebidamente señal S1/10 en parada a 27 km/h. Actúa ASFA: frenado de urgencia"
+  },
+  {
+   "hora": "10:58:54",
+   "evento": "Maquinista aplica freno a 22 km/h (sin efectividad por ASFA)"
+  },
+  {
+   "hora": "10:59:00",
+   "evento": "Tren 31116 se detiene a 31 m de S1/10 rebasada y a 47 m de travesía T72"
+  },
+  {
+   "hora": "11:00:21",
+   "evento": "Tren 91963 pasa señal SP1"
+  },
+  {
+   "hora": "11:03:06",
+   "evento": "CTC comunica al maquinista que el tren retrocederá hasta librar la señal"
+  },
+  {
+   "hora": "11:07:57",
+   "evento": "Tren 31116 retrocede hasta situarse ante señal S1/10"
+  },
+  {
+   "hora": "11:09:49",
+   "evento": "Concluida maniobra de retroceso, se procede al relevo del maquinista del tren 31116"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "31116",
+   "tipo": "Cercanías (viajeros)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "91963",
+   "tipo": "Cercanías (material vacío)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "27820",
+   "tipo": "Cercanías (viajeros, tren sustituto)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 31116",
+   "implicacion": "Rebase indebido de señal S1/10 en parada por déficit de atención (buscaba un bolígrafo). Uso inapropiado de velocidad prefijada en itinerario de salida. Relievado del servicio tras el incidente. Jubilado. Antigüedad en RENFE desde 11/07/1981, como maquinista desde 26/09/1986. Habilitación línea: 31/12/2004. Habilitación vehículo: 25/01/2008. Último reciclaje: 11/07/2014. Último CAP: 15/02/2017. Sin antecedentes de incidentes similares."
+  },
+  {
+   "rol": "Jefe del CTC Madrid Chamartín",
+   "implicacion": "Estableció itinerarios de salida para ambos trenes. Dio instrucciones para retroceso del tren 31116. Comportamiento correcto."
+  },
+  {
+   "rol": "Puesto de mando Madrid Chamartín",
+   "implicacion": "Activó protocolo de rebases de señal. Determinó apartado del tren 31116 y su supresión. Comportamiento correcto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales luminosas normalmente encendidas dando indicación de parada. Señal rebasada: S1/10 (pk 0+458), fija fundamental, alta luminosa de tres focos y foco de luz blanca, con baliza ASFA de pie de señal. Situación al lado izquierdo de la vía sentido Barcelona, complementada con cartelón de flecha. Señal S1/10A (pk 0+091). Señal de entrada EC10 (pk 7+146 L900). Señal S1/13 (pk 0+340). Señal SP1 (pk 0+972). Todas con balizas ASFA (excepto retroceso y maniobra).",
+  "tipo_via": "Vía doble banalizada (BAB). Vías 10 y 13 de ancho ibérico, trazado recto y horizontal, dotadas de andén.",
+  "velocidad_maxima": "Velocidad prefijada limitada a 27 km/h en el itinerario de salida S1/10A a S1/10",
+  "ancho": "Ancho ibérico (vías 1-15) y ancho estándar (vías 16-23)",
+  "electrificacion": "Estación completamente electrificada",
+  "estado_via": "Correcto. No se aprecian defectos en infraestructura ni superestructura.",
+  "otro": "Enclavamiento electrónico instalado el 04/12/2006, regulado por Consigna Serie A nº 1436 versión 22 (14/09/2016). Circuitos de vía de audiofrecuencia. Mando centralizado en CTC Madrid Chamartín (Subdirección de Operaciones Centro). Desvíos implicados: A114 (pk 0+402), travesías T104 (pk 0+430), T96 (pk 0+465), T72A (pk 0+536). No existían obras en el lugar ni proximidades."
+ },
+ "material_rodante": {
+  "series": "Tipo 100A (Cercanías RENFE). Tren 31116: autopropulsados 967194650735 y 967194650793, 6 vehículos, 332 toneladas. Tren 91963: autopropulsados 967194460507 y 96714460267, 6 vehículos, 332 toneladas. Registradores de seguridad: CESIS 3 (tren 31116) y CESIS 4 (tren 91963).",
+  "averia": "Ninguna. Todos los dispositivos de seguridad funcionaban correctamente y precintados. Equipos de seguridad del tren funcionaron correctamente. ASFA funcionó correctamente.",
+  "mantenimiento": "No se mencionan deficiencias de mantenimiento. El maquinista conocía el vehículo."
+ },
+ "clima": "Horas diurnas, buena visibilidad, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Rebase indebido con posibilidad de colisión de la señal de salida S1/10 de la estación de Madrid Chamartín en indicación de parada (art. 2.1.2.7 RCF) e incumplimiento de la orden de la señal S1/10A en indicación de anuncio de parada (art. 2.1.2.5 RCF). Causado por déficit de atención del maquinista por falta de percepción del riesgo (buscaba un bolígrafo en el bolso para anotar en el documento de tren).",
+  "contribuyentes": [
+   "Uso inapropiado de la velocidad prefijada por el maquinista del tren 31116 en itinerario de salida y aproximación a señal en indicación de parada, incumpliendo el Libro de Normas del Maquinista, Tomo 1, Procedimiento 4, que prescribe conducción manual en estas situaciones. La velocidad prefijada limitó la velocidad a 27 km/h pero no permitió la percepción adecuada de la señal.",
+   "Retraso de 6 minutos del tren 31116 sobre el horario previsto, que pudo condicionar la actuación del maquinista (aunque no hay constancia de ello ni fue manifestado en su declaración).",
+   "El enclavamiento electrónico permitía establecer ambos itinerarios de salida (S1/10A→S1/10 y S1/13→SP1) simultáneamente sin generar incompatibilidades por deslizamiento hacia la travesía T72, a pesar de la distancia de solo 78 m entre la señal S1/10 y la travesía.",
+   "La señal S1/10 está situada al lado izquierdo de la vía (sentido Barcelona), lo que limita su percepción, complementada con cartelón de flecha pero sin baliza previa en el momento del incidente (se instaló el 16/06/2017)."
+  ],
+  "sistemicas": [
+   "No se identificaron causas raíz relacionadas con los sistemas de gestión de la seguridad, los procedimientos organizativos o el marco regulador (según sección 4.3.3).",
+   "ADIF no disponía de un procedimiento específico para la elaboración de Consignas Serie A que regulan la operatividad de los enclavamientos (aunque la necesidad se recoge en ADIF-PG-107-004-001-SC 452 y SPI-1517, estos no constituyen un método para consignas serie A).",
+   "La consigna del enclavamiento de Chamartín (nº 1436 v22) no incorporaba las incompatibilidades ni el programa de explotación con cuadro de movimientos posibles junto con las condiciones exigidas para sus autorizaciones.",
+   "Incremento de rebases de señal en situación de peligro en la RFIG a partir de 2014 (según AESF)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante implicados.",
+  "afectacion_servicio": "No se produjo interceptación de vía. Se vieron afectados 7 trenes (6 cercanías y 1 media distancia) de RENFE VIAJEROS, con un retraso total de 58 minutos. El tren 31116 fue suprimido; sus viajeros continuaron en tren 27820."
+ },
+ "lecciones": [
+  "El uso de velocidad prefijada en itinerarios de salida y aproximación a señales en parada reduce la atención del maquinista y limita su capacidad de reacción. Debe emplearse conducción manual en estas situaciones.",
+  "El ASFA actuó correctamente y evitó una posible colisión al detener el tren a 31 m de la señal rebasada y 47 m de la travesía T72.",
+  "La distancia de 78 m entre la señal de salida S1/10 y la travesía T72 es insuficiente para garantizar la seguridad si el enclavamiento no genera incompatibilidades por deslizamiento.",
+  "La visibilidad de señales situadas al lado izquierdo de la vía puede ser limitada; se requiere formación específica y medidas complementarias (baliza previa, cartelón).",
+  "La señal S1/10 había sido rebasada en 6 ocasiones anteriores (2008, 2009 x2, 2015, 2016 x2), lo que indica una problemática recurrente."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía.",
+   "destinatario": "AESF (destinatario) / RENFE (implementador final) - Rec. 20/2017-1"
+  },
+  {
+   "texto": "Estudiar la generación de incompatibilidades entre itinerarios por deslizamiento en salidas hacia la travesía T72, teniendo en cuenta las limitaciones de velocidad establecidas.",
+   "destinatario": "AESF (destinatario) / ADIF (implementador final) - Rec. 20/2017-2"
+  },
+  {
+   "texto": "Establecer dentro del SGS de ADIF los procedimientos generales y específicos necesarios que definan los procesos, alcance y nivel de detalle a seguir en la elaboración de las Consignas que regulan la operatividad (Consignas A) en base al análisis de riesgo previamente realizado.",
+   "destinatario": "AESF (destinatario) / ADIF (implementador final) - Rec. 20/2017-3"
+  }
+ ],
+ "tags": [
+  "rebase señal",
+  "SPAD",
+  "ASFA",
+  "velocidad prefijada",
+  "déficit atención",
+  "conato colisión",
+  "Madrid Chamartín",
+  "cercanías",
+  "RENFE",
+  "enclavamiento electrónico",
+  "travesía T72",
+  "Reglamento Circulación Ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-191217-230317-IF-SN_CIAF"
+}

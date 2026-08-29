@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Arrollamiento de furgoneta con remolque por tren de mercancías 58727 en paso a nivel clase A entre Espeja y Fuentes de Oñoro (Salamanca)",
+ "idioma_original": "es",
+ "resumen": "El 3 de diciembre de 2010, a las 10:31, el tren de mercancías 58727 de Renfe Operadora arrolló una furgoneta Citroën C-15 con remolque cargado de paja que invadía el gálibo de la vía en un paso a nivel clase A (P.K. 122+116, línea 120). El único ocupante del vehículo, un hombre de 65 años, falleció. El maquinista aplicó el freno de emergencia y usó el silbato, pero no pudo evitar el impacto al no moverse el vehículo. El accidente se originó por la invasión del gálibo por el vehículo de carretera. Se detectaron deficiencias en la señalización del camino y una capa de nieve sobre la superficie.",
+ "hechos": "El día 3 de diciembre de 2010, el tren de mercancías 58727 de Renfe Operadora, procedente de Salamanca con destino Vilar Formoso, circulaba con normalidad entre las estaciones de Espeja y Fuentes de Oñoro (Salamanca). Al aproximarse al paso a nivel clase A del P.K. 122+116, el maquinista observó una furgoneta con remolque parada en la vía. Utilizó el silbato de forma prolongada y accionó el freno de emergencia, pero no pudo evitar el arrollamiento porque el vehículo no se movió. Según el registrador de seguridad, el tren circulaba a 55 km/h en el momento del impacto y se detuvo tras recorrer 289 metros en 27 segundos desde la aplicación del freno. La furgoneta fue desplazada 35 metros del paso a nivel, quedando a 5 metros del carril derecho en sentido de marcha del tren, y el remolque quedó en el lado izquierdo. El maquinista comunicó el suceso al puesto de mando de León y acudió a socorrer al conductor, que ya había fallecido. La vía quedó interceptada de 10:31 a 12:55.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "122+116",
+  "linea": "120 Vilar Formoso – Medina del Campo",
+  "provincia": "Salamanca",
+  "descripcion_lugar": "Paso a nivel clase A situado al final de la transición de una curva de radio 1.276 m (lado Fuentes de Oñoro), sobre el Camino de la Fresneda (camino vecinal de tierra), en el municipio de Fuentes de Oñoro, tramo Ciudad Rodrigo - Fuentes de Oñoro, entre las estaciones de Espeja y Fuentes de Oñoro."
+ },
+ "cronologia": [
+  {
+   "hora": "10:31",
+   "evento": "El tren 58727 arrolla la furgoneta con remolque en el paso a nivel P.K. 122+116. El tren circulaba a 55 km/h."
+  },
+  {
+   "hora": "10:31:07",
+   "evento": "Momentos antes del arrollamiento, el tren aproximándose al paso a nivel a 55 km/h; el maquinista observa el vehículo y usa silbato y freno de emergencia."
+  },
+  {
+   "hora": "10:31:34",
+   "evento": "El tren queda detenido tras recorrer 289 metros en 27 segundos desde la aplicación del freno, habiendo arrollado el vehículo."
+  },
+  {
+   "hora": "11:46",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil."
+  },
+  {
+   "hora": "12:55",
+   "evento": "Se levanta la interceptación de la vía general."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al puesto de mando de León, que activa el protocolo de emergencia (Centro Permanente de Seguridad, Jefatura Técnica de Operaciones de Salamanca, Logística de Mantenimiento de Infraestructura de Adif, Gerencias Territoriales de Seguridad en la Circulación de Adif y Renfe). Se personan servicios sanitarios 112 y Guardia Civil."
+  },
+  {
+   "hora": null,
+   "evento": "Pleno de la CIAF del 28 de diciembre de 2010 resuelve abrir la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "58727",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la locomotora 333.339 valorados en 527,45 €"
+  },
+  {
+   "numero": null,
+   "tipo": "tren de mercancías",
+   "operador": "Comsa Rail",
+   "danos": "Sin daños; retraso de 88 minutos"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 58727 (matrícula 9731654)",
+   "implicacion": "Observó el vehículo parado en la vía, usó silbato de forma prolongada y accionó el freno de emergencia; no pudo evitar el arrollamiento. Comunicó el suceso al puesto de mando de León y acudió a socorrer al conductor. Prueba de alcoholemia negativa. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo: 08/04/2010. Último reconocimiento médico y psicotécnico: 16/05/2006. Jornada del día: 2h50m (conducción efectiva: 1h48m)."
+  },
+  {
+   "rol": "conductor de la furgoneta (víctima)",
+   "implicacion": "Único ocupante del vehículo; hombre de 65 años. Falleció en el arrollamiento. La furgoneta con remolque estaba parada en la vía y no se movió según declaración del maquinista."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase A con candelabros, camino entablonado (traviesas de madera) y contracarriles. Señalización de vía: cartelones de silbar (lado Salamanca: 1 a 500 m y 1 a 250 m; lado Fuentes de Oñoro: 1 a 500 m). Señalización del camino incompleta: dispone de P-11 y R-2 en ambos lados, pero carece de P-8, P-9, P-10, R-301, P-15 y R-305 según Orden Ministerial de 2 de agosto de 2001. Visibilidad real: lado izquierdo mirando a la derecha 336 m, mirando a la izquierda 550 m; lado derecho mirando a la izquierda 230 m, mirando a la derecha 500 m. Distancia de visibilidad técnica para 140 km/h: 415 m. Las visibilidades reales hacia Salamanca son inferiores a la técnica.",
+  "tipo_via": "Vía única no electrificada, alineación recta, perfil en pendiente de 0,74 milésimas. Bloqueo de liberación automática (BLAU) y control de tráfico centralizado (CTC) gobernado desde el puesto de mando de León.",
+  "velocidad_maxima": "140 km/h (tramo); 100 km/h (velocidad máxima del tren tipo 100 y del paso a nivel según libro horario)",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Bueno. El firme del paso y el camino estaban cubiertos por una capa de nieve y presumiblemente helados el día del accidente. El camino presenta buen firme aunque algo irregular.",
+  "otro": "Momento de circulación AxT: 5,72 (A=1, T=5,72). Media semanal de circulaciones del tramo: 49 (muy baja): 28 larga distancia, 20 mercancías, 1 servicio. Radiotelefonía en modalidad C. La administración del camino es el Ayuntamiento de Fuentes de Oñoro."
+ },
+ "material_rodante": {
+  "series": "Locomotoras UIC 957103333390 y 957103333333; tren compuesto por 20 vehículos; 1.560 toneladas y 353 metros; tipo 100",
+  "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad de la locomotora en cabeza (333.339).",
+  "mantenimiento": null
+ },
+ "clima": "De día, despejado. Con anterioridad había nevado. El día del accidente había una capa de nieve sobre el paso a nivel y el camino de acceso, presumiblemente helados.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera (furgoneta con remolque), que cruza por el paso a nivel cuando pasaba el tren 58727. El vehículo quedó parado en la vía y no se movió.",
+  "contribuyentes": [
+   "Deficiencias en la señalización del camino conforme a la Orden Ministerial de 2 de agosto de 2001: carece de señales P-8, P-9, P-10, R-301, P-15 y R-305.",
+   "Distancias de visibilidad real hacia el lado Salamanca inferiores a la distancia de visibilidad técnica necesaria para 140 km/h (415 m).",
+   "Capa de nieve sobre el paso a nivel y el camino, presumiblemente helados, que pudo afectar a la maniobrabilidad del vehículo.",
+   "El tipo de protección clase A se mantiene porque el momento de circulación (5,72) es inferior a 100, por lo que no se obliga a protección clase B aunque la visibilidad real sea inferior a la técnica en alguno de los cuadrantes (art. 12.2 Orden Ministerial 2/08/2001)."
+  ],
+  "sistemicas": [
+   "Señalización del camino no adaptada a la normativa vigente (Orden Ministerial de 2 de agosto de 2001).",
+   "Visibilidad insuficiente en el paso a nivel respecto a la velocidad máxima del tramo."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños a la infraestructura. Daños en la locomotora 333.339: 527,45 €. Furgoneta y remolque con grandes desperfectos.",
+  "afectacion_servicio": "Vía general interceptada de 10:31 a 12:55 (2 h 24 min). Retraso del tren 58727: 148 minutos. Retraso de otro tren de mercancías de Comsa Rail: 88 minutos."
+ },
+ "lecciones": [
+  "La señalización del camino en pasos a nivel debe estar completa conforme a la Orden Ministerial de 2 de agosto de 2001.",
+  "Las condiciones invernales (nieve, hielo) en pasos a nivel de tipo rural pueden comprometer la capacidad de maniobra de vehículos de carretera.",
+  "Aunque el momento de circulación no obligue a protección clase B, la insuficiencia de visibilidad real respecto a la técnica constituye un factor de riesgo en pasos a nivel clase A."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+   "destinatario": "Ayuntamiento de Fuentes de Oñoro"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "tren de mercancías",
+  "furgoneta",
+  "remolque",
+  "invasión gálibo",
+  "nieve",
+  "señalización deficiente",
+  "visibilidad",
+  "clase A",
+  "línea 120",
+  "fallecido"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-031210-270411-CIAF"
+}

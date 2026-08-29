@@ -1,0 +1,193 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías 98610 en la estación de Medina del Campo por defectos de alabeo en el escape 8/14",
+ "idioma_original": "es",
+ "resumen": "El 31 de marzo de 2015 a las 03:37, el tren de mercancías 98610 de Continental Rail descarriló en la estación de Medina del Campo (línea 100 Madrid-Hendaya, Valladolid). El descarrilamiento se inició en el segundo vagón al circular por el escape 8/14 a 27 km/h, afectando también al primer y tercer vagón. La causa fue un fallo de infraestructura: defectos de alabeo fuera de tolerancia (valores medios de 35 mm frente al máximo normativo de 6 mm/3 m). No hubo víctimas, pero se produjeron daños materiales de 30.900 € en material rodante y 122.500 € en infraestructura, con importantes afectaciones al servicio.",
+ "hechos": "El tren de mercancías 98610 de Continental Rail, procedente de Bilbao Mercancías con destino Abroñigal (Madrid), estaba compuesto por la locomotora 957103350261 y 15 vagones plataforma portacontenedores (PMMC), con 446 metros de longitud y 1.012 toneladas. Entre Pozaldez y Medina del Campo circulaba banalizado por la vía I debido a trabajos de sustitución de carril en la vía II. A las 03:32:37 el jefe de circulación estableció itinerario de paso por la vía 5 hacia la vía 4 a través de los desvíos 8 y 14, con señal avanzada E'8 en precaución y señal de entrada E8 en parada. El tren pasó el desvío 8 a 29 km/h y a las 03:36:48, en el PK 206+831 (escape 8/14), circulando a 27 km/h, se inició el descarrilamiento en el 2º bogie del segundo vagón. Posteriormente descarrilaron el 1º y 3º bogie del segundo vagón, el 3º bogie del primer vagón y los tres bogies del tercer vagón. El tren recorrió 375 metros descarrilado antes de detenerse a las 03:37:47 en el PK 206+456. El jefe de circulación observó chispas y alertó al maquinista. No hubo víctimas. La detección posterior reveló alabeos con valores medios 5 veces superiores al permitido y ancho de vía fuera de tolerancia en 4 puntos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Medina del Campo",
+  "pk": "206+831",
+  "linea": "100 Madrid – Hendaya",
+  "provincia": "Valladolid",
+  "descripcion_lugar": "Escape 8/14 de la estación de Medina del Campo, en el itinerario de paso por la vía 5 (vía general I) hacia la vía 4 (vía general II), en una clotoide de transición a curva a derechas de 649 m de radio, pendiente 9,4‰ y peralte 100 mm. Confluyen en la estación las líneas 100, 820 y 120."
+ },
+ "cronologia": [
+  {
+   "hora": "03:32:37",
+   "evento": "El jefe de circulación establece itinerario de paso por vía 5 hacia vía 4 a través de desvíos 8 y 14"
+  },
+  {
+   "hora": "03:33:48",
+   "evento": "El tren pasa la señal avanzada E'8 (PK 209+035) a 66 km/h en anuncio de precaución"
+  },
+  {
+   "hora": "03:35:55",
+   "evento": "El tren pasa la señal de entrada E8 (PK 207+360) a 45 km/h en anuncio de parada"
+  },
+  {
+   "hora": "03:36:21",
+   "evento": "El tren pasa la señal R4 (PK 206+971)"
+  },
+  {
+   "hora": "03:36:42",
+   "evento": "El tren pasa por el desvío 8 (PK 206+881) a 29 km/h"
+  },
+  {
+   "hora": "03:36:44",
+   "evento": "Deja de aplicarse freno de servicio a 28,8 km/h"
+  },
+  {
+   "hora": "03:36:48",
+   "evento": "Se inicia el descarrilamiento en el 2º bogie del 2º vagón, PK 206+831, a 27 km/h"
+  },
+  {
+   "hora": "03:36:52",
+   "evento": "El tren pasa por el desvío 14 (PK 206+809) a 26 km/h"
+  },
+  {
+   "hora": "03:36:58",
+   "evento": "Liberación del freno del tren a 25 km/h"
+  },
+  {
+   "hora": "03:37:02",
+   "evento": "El tren pasa por el desvío 20 (PK 206+478) a 25 km/h"
+  },
+  {
+   "hora": "03:37:12",
+   "evento": "Ligera disminución de velocidad por posible efecto del descarrilamiento"
+  },
+  {
+   "hora": "03:37:19",
+   "evento": "El material descarrilado ocupa el circuito de vía de los desvíos 56 y 58"
+  },
+  {
+   "hora": "03:37:35",
+   "evento": "Mayor caída de velocidad a 23 km/h por mayor impacto del descarrilamiento"
+  },
+  {
+   "hora": "03:37:39",
+   "evento": "Rotura de la TFA a 20 km/h"
+  },
+  {
+   "hora": "03:37:40",
+   "evento": "El maquinista actúa el freno de urgencia a 18 km/h"
+  },
+  {
+   "hora": "03:37:47",
+   "evento": "Detención del tren en PK 206+456, tras 375 m descarrilado"
+  },
+  {
+   "hora": "03:37",
+   "evento": "El jefe de circulación observa chispas e informa al maquinista; se corta la circulación por ambas vías generales"
+  },
+  {
+   "hora": "03:38",
+   "evento": "El jefe de circulación informa al CTC de Madrid Chamartín del descarrilamiento"
+  },
+  {
+   "hora": "07:20",
+   "evento": "Reapertura de ambas vías generales lado Pozaldez"
+  },
+  {
+   "hora": "12:06",
+   "evento": "Cierre de la vía 2 entre Medina del Campo y Ataquines"
+  },
+  {
+   "hora": "18:00",
+   "evento": "Encarrilamiento de los vagones 1º y 3º; apartado a vía de descarga"
+  },
+  {
+   "hora": "22:14",
+   "evento": "Reapertura de la vía 2"
+  },
+  {
+   "hora": "02:00",
+   "evento": "Encarrilamiento del 2º vagón (01/04/2015); apartado a vía de descarga"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "98610",
+   "tipo": "tren de mercancías",
+   "operador": "Continental Rail",
+   "danos": "Daños en 3 vagones descarrilados (1º: 378049522501, 2º: 378049521842, 3º: 378049523806), valoración 30.900 €. Locomotora 957103350261 y 15 vagones PMMC (serie UIC Sggmrs), 446 m, 1.012 t. Propiedad de AAE (AHAUS ALSTÄTTER EISENBAHN), explotados en alquiler por Continental Rail."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 98610 (Continental Rail)",
+   "implicacion": "Conducía el tren. Título B desde 17/07/2012, habilitado según Orden FOM/2520/2006. Último reconocimiento médico/psicotécnico 29/07/2013. Jornada: 41 min el día 31, descanso los días 29 y 30. Alcoholemia negativa. Notó tirones y bajada de presión en TFA, accionó freno de urgencia. Cumplió normativa."
+  },
+  {
+   "rol": "responsable de circulación de la estación de Medina del Campo (Adif, matrícula 8830697)",
+   "implicacion": "Estableció el itinerario de paso. Observó chispas al paso del tren y alertó al maquinista. Confirmó el descarrilamiento e informó al puesto de mando. Jornada: 4h37min el día 31, 8h los días 29 y 30. Alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal avanzada E'8 (PK 209+035) en anuncio de precaución; señal de entrada E8 (PK 207+360) en anuncio de parada; señal de salida interior S2/4 en vía libre; señal de salida S2/4A en vía libre. Señal de retroceso R4 (PK 206+971). Funcionamiento correcto.",
+  "tipo_via": "Vía doble banalizada con bloqueo automático (BAB), control de tráfico centralizado (CTC) desde Madrid Chamartín. Estación con 12 vías y 4 andenes (vías 1 a 7). Ancho ibérico.",
+  "velocidad_maxima": "90 km/h en vía general (PK de suceso); 60 km/h en desvíos por mal estado (Consigna serie B nº3); 30 km/h máximo de paso por vía desviada en desvíos tipo A. Velocidad real del tren al descarrilar: 27 km/h.",
+  "ancho": "1665 mm a 1683 mm según N.A.V. 7.3.2.0; medidos tras el accidente: 1665,2 mm a 1685,3 mm; 4 puntos fuera de tolerancia (PK 206+832, 206+831, 206+816, 206+815)",
+  "electrificacion": null,
+  "estado_via": "Defectos de alabeo fuera de tolerancia: variación de peralte de 93 mm en 8 m (punto -14: 16,5 mm; punto -6: 109,6 mm), valores medios de alabeo de 35 mm frente a máximo normativo de 6 mm/3 m (5 veces superior). Desvíos 8 y 14 tipo A (DS-A-54-320/400-0.09-CR-I) con velocidad limitada a 60 km/h por mal estado. Daños en vías 4, 3, 2 y 1; desvíos 20, 40, 56 y 58; señal S1/3; juntas de dilatación (122.500 €).",
+  "otro": "Trabajos de sustitución de carril en vía II (PK 211+930 a 212+501) y soldadura para liberación de tensiones (PK 212+243), del 30/03/2015 al 05/04/2015, que motivaron la banalización. Último paso del tren auscultador: 05/11/2013 (no auscultó vías desviadas; el tren no registra a velocidades inferiores a 40 km/h). Última inspección de desvíos 8/14: 23/01/2015 (no incluyó geometría de escapes). Tramo con 403 circulaciones semanales."
+ },
+ "material_rodante": {
+  "series": "Locomotora 957103350261; 15 vagones plataforma portacontenedores tipo PMMC, serie UIC Sggmrs (propiedad AAE - AHAUS ALSTÄTTER EISENBAHN). Vagones descarrilados: 378049522501, 378049521842, 378049523806. Vagones articulados de 3 bogies y 2 semivagones, 29,59 m entre topes, radio mínimo 150 m, velocidad máxima 120 km/h.",
+  "averia": "Parámetros de rodadura: espesor de pestaña, altura de pestaña y Qr dentro de tolerancias (valor más desfavorable: 33 mm en límite). Tras descarrilamiento, algunas medidas de distancia entre caras activas ligeramente superiores al máximo (hasta +3,48 mm), probablemente consecuencia del descarrilamiento.",
+  "mantenimiento": "Plan: VS cada 5.000 km/1 año; G4.2 cada 6 años; G4.0 cada 12 años. Vagón 1º: R (G4.0) 09/05/2009 taller SRS, última VS 26/03/2015 taller GMF (637.376 km desde R). Vagón 2º: R 22/09/2009 taller SRS, última VS 26/03/2015 taller GMF (677.641 km). Vagón 3º: R 02/03/2009 taller SRS, última VS 26/03/2015 taller GMF (470.909 km). Mantenimiento realizado adecuadamente según CIAF."
+ },
+ "clima": "Noche. No existían condiciones meteorológicas adversas. Condiciones normales según declaraciones del maquinista y del jefe de circulación.",
+ "causas": {
+  "directa": "Fallo de la infraestructura en la zona del accidente, concretamente defectos de alabeo fuera de tolerancia en el escape 8/14 (valores medios de 35 mm frente al máximo normativo de 6 mm/3 m, 5 veces superior al permitido).",
+  "contribuyentes": [
+   "El Procedimiento Específico ADIF-PE-301-001-Vía 03 'Inspección de la infraestructura de vía' no contempla la inspección de la geometría del escape 8/14.",
+   "El tren auscultador no auscultó el escape 8-14 en su último paso (05/11/2013) porque no registra valores a velocidades inferiores a 40 km/h y la velocidad máxima en vía desviada es de 30 km/h.",
+   "La inspección de desvíos del 23/01/2015 contempló los aparatos de vía pero no las diagonales de unión (escapes) para el tránsito en desviada.",
+   "Mal estado de los desvíos de la estación (velocidad limitada a 60 km/h por Consigna serie B nº3)."
+  ],
+  "sistemicas": [
+   "Laguna en el procedimiento de inspección de Adif: no se controla la geometría de los escapes de unión entre aparatos de vía situados en vías generales.",
+   "Limitación del tren auscultador para detectar defectos en vías desviadas con velocidad máxima inferior a 40 km/h."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 30.900 € (3 vagones). Infraestructura: 122.500 € (vías 4, 3, 2 y 1; desvíos 20, 40, 56 y 58; señal S1/3; juntas de dilatación). Total: 153.400 €.",
+  "afectacion_servicio": "Corte de ambas vías generales lado Pozaldez: 03:37 a 07:20 (3h43min). Corte vía 2 lado Ataquines: 12:06 a 22:14 (10h08min). Supresión de 1 tren de larga distancia y 2 trenes regionales. Retrasos: 374 min en 9 trenes de larga distancia, 237 min en 8 trenes regionales, 1.832 min en 5 trenes de mercancías. No fue necesario activar el Plan Alternativo de Transportes (PAT)."
+ },
+ "lecciones": [
+  "La geometría de los escapes de unión entre aparatos de vía debe inspeccionarse específicamente, no solo los aparatos de vía.",
+  "El tren auscultador no cubre vías desviadas con velocidad máxima inferior a 40 km/h, lo que crea un vacío de detección.",
+  "Los defectos de alabeo en escapes pueden provocar descarrilamientos incluso a velocidades muy inferiores a la máxima permitida (27 km/h en este caso).",
+  "La periodicidad de inspección de aparatos de vía (2 veces/año en líneas tipo A1 en vías generales) no garantiza la detección de defectos en escapes si estos no se incluyen en el alcance de la inspección."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Modificar el Procedimiento Específico ADIF-PE-301-001-VÍA-03 'Inspección de la infraestructura y vía' para incorporar el control de la geometría de los escapes.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Adif"
+  },
+  {
+   "texto": "Hacer un plan de inspección de la geometría de los escapes situados en las vías generales. Ante la existencia de deficiencias de seguridad, actuar con el objeto de restablecer las condiciones que permitan circular con seguridad.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "alabeo",
+  "escape",
+  "inspección de vía",
+  "geometría de vía",
+  "medina del campo",
+  "continental rail",
+  "adif",
+  "desvío",
+  "peralte",
+  "auscultación"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 31.03.2015 160223-150331-IF-CIAF"
+}

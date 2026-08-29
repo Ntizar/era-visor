@@ -1,0 +1,337 @@
+{
+ "titulo_normalizado": "Incidente operacional con riesgo de colisión frontal por itinerarios incompatibles en la estación de Manresa (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 15 de agosto de 2022, el responsable de circulación de Manresa (RCM) autorizó al tren 95218 (material vacío remolcando una UT averiada) a emprender la marcha desde vía 5, y posteriormente autorizó al tren 78443 (Rodalies R4) a rebasar la señal de entrada 3023 con un itinerario incompatible hacia vía 4, sin comprobar que el 95218 aún no había iniciado la marcha. El tren 95218 talonó el desvío nº19 y ambos trenes quedaron enfrentados a 40 metros. Solo se produjeron daños en el desvío nº19, sin víctimas ni daños en material rodante. La causa directa fue la autorización indebida de rebase de señal sin comprobación del movimiento incompatible previo y la salida del tren 95218 con la orden de marcha invalidada.",
+ "hechos": "El día 15 de agosto de 2022, festivo nacional, la estación de Manresa se encontraba en una situación degradada por la maniobra de remolque de la UT 447.047 averiada estacionada en vía 5. El RCM había aceptado una operativa propuesta por el Centro de Gestión de Rodalies que implicaba estacionar tres unidades 447 en vía 5, lo que provocó la ocupación del circuito de agujas CV A3 y la imposibilidad de disolver el itinerario de maniobra R1 a vía 5. A las 18:34, el RCM autorizó mediante telefonema al maquinista del tren 95218 a emprender la marcha desde vía 5 hacia el lado Sant Vicenç de Castellet. Sin embargo, el maquinista no salió inmediatamente tras recibir la orden, sino que tardó aproximadamente cuatro minutos y medio en iniciar la marcha, invalidando la orden de marcha según el artículo 1.5.1.9 del RCF. A las 18:38:09, el RCM autorizó mediante telefonema al maquinista del tren 78443 a rebasar la señal de entrada 3023 con itinerario hacia vía 4, sin haber comprobado que el tren 95218 aún no había emprendido la marcha. Ambos itinerarios eran incompatibles al implicar el desvío nº19 y el escape 21/23 en posiciones contrarias. El tren 95218 inició la marcha a las 18:39:03 y talonó el desvío nº19, continuando por vía 1, por donde circulaba de frente el tren 78443. Los maquinistas de ambos trenes se percataron de la situación y detuvieron los trenes quedando enfrentados a una distancia de 40 metros. Solo se produjeron daños en el desvío nº19, sin daños personales ni en el material rodante.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Manresa",
+  "pk": "302+247",
+  "linea": "Línea 220 – Lleida-Pirineus – Bifurcación Vilanova",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Manresa, lado Sant Vicenç de Castellet, entre señales de salida y entrada, en zona a nivel y en curva. Coordenadas: 41°43'5.40\"N y 1°49'53.55\"E. La estación se ubica en el PK 301+700. Transición de vía única (lado Lleida) a vía doble (lado Sant Vicenç de Castellet-Barcelona)."
+ },
+ "cronologia": [
+  {
+   "hora": "14:40",
+   "evento": "El RCM llama al CG de Rodalies informando de la UT 447.047 inútil en vía 5 que solo puede salir remolcada"
+  },
+  {
+   "hora": "14:46",
+   "evento": "RCM comunica al CG que ha consultado con el CTC los hándicaps de la remolcada (vía en curva, rebasar señal 3020/5)"
+  },
+  {
+   "hora": "14:53",
+   "evento": "Técnico del CG propone maniobra con el tren 78435 de las 16:35 para remolcar la UT averiada"
+  },
+  {
+   "hora": "15:30",
+   "evento": "RCM confirma al CG que la triple composición no pisaría el desvío nº1"
+  },
+  {
+   "hora": "16:41",
+   "evento": "Llega el maquinista asignado a la maniobra como viajero del tren 78435"
+  },
+  {
+   "hora": "17:13",
+   "evento": "Maquinista se pone en contacto con el RCM para realizar la maniobra"
+  },
+  {
+   "hora": "17:13:58",
+   "evento": "Se establece itinerario de maniobra de vía 4 a R1 para acoplar UT 447.059 a la UT averiada"
+  },
+  {
+   "hora": "17:19:48",
+   "evento": "Concluye el movimiento de la UT 447.059 de vía 4 a vía 2 general"
+  },
+  {
+   "hora": "17:23:40",
+   "evento": "Se establece itinerario de R1 a vía 5 con rebase autorizado"
+  },
+  {
+   "hora": "17:28",
+   "evento": "Queda ocupado el CV A3 de agujas; no se libera el itinerario de R1 a vía 5"
+  },
+  {
+   "hora": "17:30:25",
+   "evento": "RCM invierte el escape 21/23 para estacionar tren 78439 en vías pares"
+  },
+  {
+   "hora": "17:37:19",
+   "evento": "RCM invierte desvío nº19 y forma itinerario para estacionar tren 78439 en vía 4"
+  },
+  {
+   "hora": "17:50",
+   "evento": "RCM autoriza rebase de señal de entrada al tren 78439; se estaciona en vía 4 a las 17:51:43"
+  },
+  {
+   "hora": "17:53:58",
+   "evento": "RCM normaliza el escape 21/23"
+  },
+  {
+   "hora": "17:59:00",
+   "evento": "RC del CTC toma mando de la estación para intentar mandar salida de vía 4; no puede solucionarlo"
+  },
+  {
+   "hora": "18:04",
+   "evento": "RC del CTC transmite telefonema nº195 para autorizar rebase de señal 3020/4 al tren 77554"
+  },
+  {
+   "hora": "18:07",
+   "evento": "RCM autoriza rebase de señal de salida 3020/4 al tren 77554 con marcha a la vista"
+  },
+  {
+   "hora": "18:08:40",
+   "evento": "Sale el tren 77554 de vía 4"
+  },
+  {
+   "hora": "18:17:46",
+   "evento": "RCM normaliza desvío nº19 para formar itinerario de salida de vía 5"
+  },
+  {
+   "hora": "18:24",
+   "evento": "RCM contacta al CG; CG exige que no saque el material vacío"
+  },
+  {
+   "hora": "18:28",
+   "evento": "Maquinista del tren 95218 llama al RCM para iniciar la marcha; RCM responde que no tienen orden"
+  },
+  {
+   "hora": "18:29",
+   "evento": "Técnico del CG indica al RCM que saque el material vacío de vía 5"
+  },
+  {
+   "hora": "18:30",
+   "evento": "RCM llama al RC del CTC para comunicar permiso de salida; RC del CTC transmite telefonema nº196"
+  },
+  {
+   "hora": "18:33",
+   "evento": "RCM llama al maquinista del tren 95218 y le transmite telefonema de autorización de rebase de señal 3020/5 con marcha a la vista"
+  },
+  {
+   "hora": "18:34:28",
+   "evento": "Finaliza la llamada de autorización al tren 95218"
+  },
+  {
+   "hora": "18:34:23",
+   "evento": "Tren 78443 llega al circuito de vía previo a la señal de entrada 3023"
+  },
+  {
+   "hora": "18:35:27",
+   "evento": "Supervisor de línea llama al RCM por la ficha GIFO de ocupación prolongada del CVA3"
+  },
+  {
+   "hora": "18:37:10",
+   "evento": "RCM invierte escape 21/23 y desvío nº19 para formar itinerario del tren 78443 a vía 4"
+  },
+  {
+   "hora": "18:38:09",
+   "evento": "RCM autoriza al tren 78443 a rebasar señal de entrada 3023 con marcha de maniobras, sin comprobar salida del 95218"
+  },
+  {
+   "hora": "18:38:52",
+   "evento": "Tren 78443 rebasa la señal de entrada 3023"
+  },
+  {
+   "hora": "18:39:03",
+   "evento": "Maquinista del tren 95218 inicia la marcha (4,5 min después del telefonema)"
+  },
+  {
+   "hora": "18:39:11",
+   "evento": "Se ocupan todos los CV de agujas; tren 78443 entrando a vía 4"
+  },
+  {
+   "hora": "18:39:21",
+   "evento": "Tren 78443 alcanza velocidad máxima de 22 km/h"
+  },
+  {
+   "hora": "18:39:43",
+   "evento": "Tren 95218 alcanza velocidad máxima de 17 km/h"
+  },
+  {
+   "hora": "18:39:45",
+   "evento": "Tren 78443 comienza a frenar al apreciar presencia del 95218"
+  },
+  {
+   "hora": "18:39:52",
+   "evento": "Tren 78443 queda detenido"
+  },
+  {
+   "hora": "18:39:53",
+   "evento": "Tren 95218 hace uso del freno de emergencia a 6 km/h"
+  },
+  {
+   "hora": "18:39:55",
+   "evento": "Tren 95218 detenido; primer bogie talonó el desvío nº19 sin descarrilar. Trenes enfrentados a 40 metros"
+  },
+  {
+   "hora": "19:25",
+   "evento": "Se releva al agente responsable de circulación de Manresa"
+  },
+  {
+   "hora": "19:43",
+   "evento": "Se informa de presencia de bomberos y servicios de emergencia"
+  },
+  {
+   "hora": "19:45",
+   "evento": "Finaliza el desalojo de viajeros del tren 78443"
+  },
+  {
+   "hora": "23:20",
+   "evento": "Se inicia maniobra de apartado de autopropulsados 447.049 y 447.117 hacia señal 3023"
+  },
+  {
+   "hora": "23:50",
+   "evento": "Se inicia maniobra de apartado de autopropulsados 447.059 y 447.047 hacia señal R1"
+  },
+  {
+   "hora": "00:20",
+   "evento": "Autopropulsados 447.049 y 447.117 se apartan en vía 2"
+  },
+  {
+   "hora": "01:10",
+   "evento": "Autopropulsados 447.059 y 447.047 se apartan en vía 4"
+  },
+  {
+   "hora": "01:13",
+   "evento": "Agentes de enclavamientos inician reparación del desvío nº19"
+  },
+  {
+   "hora": "03:56",
+   "evento": "Finalizan trabajos de reparación del desvío nº19; se levanta interceptación de vía"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "95218",
+   "tipo": "material vacío (especial, remolque de UT averiada)",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno en material rodante. Composición doble: UT 447.059 (cabeza) + UT 447.047 (cola, averiada, remolcada). 6 vehículos, 24 ejes, 152 m, 437 t. ASFA Digital. Talonó desvío nº19 sin descarrilar."
+  },
+  {
+   "numero": "78443",
+   "tipo": "Rodalies R4 (servicio de viajeros)",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno en material rodante. Composición doble: UT 447.049 (cabeza) + UT 447.117 (cola). 6 vehículos, 24 ejes, 152 m, 437 t. ASFA Digital. Acumulaba 7 min de retraso."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de circulación de la estación de Manresa (RCM)",
+   "implicacion": "Personal de ADIF. Autorizó rebase de señal 3023 al tren 78443 sin comprobar que el tren 95218 no había emprendido la marcha. Toleró el descanso del maquinista con CV A3 ocupado. Asumió erróneamente que el tren 95218 ya había salido. Breve experiencia (desde mayo)."
+  },
+  {
+   "rol": "Responsable de circulación del CTC (RC del CTC)",
+   "implicacion": "Personal de ADIF. Aceptó indicaciones del CG de Rodalies de no expedir el tren 95218. Transmitió telefonema nº196 para autorización de rebase."
+  },
+  {
+   "rol": "Inspector-regulador del CTC",
+   "implicacion": "Personal de ADIF. Reprochó al RC del CTC la autorización de rebase en lugar de expedición. Abrió ficha de incidencia."
+  },
+  {
+   "rol": "Técnico del Puesto de Mando (PM)",
+   "implicacion": "Personal de ADIF. Llamó al CG para preguntar por el maquinista que dejó CV A3 ocupado."
+  },
+  {
+   "rol": "Técnico del Centro de Gestión de Rodalies de Barcelona",
+   "implicacion": "Personal de Renfe Viajeros. Propuso y dirigió la maniobra de remolque. Exigió al RCM no expedir el tren 95218 en un momento dado."
+  },
+  {
+   "rol": "Maquinista del tren 95218",
+   "implicacion": "Personal de Renfe Viajeros. Emprendió la marcha con la orden invalidada (4,5 min después del telefonema). Realizó descanso que consideró obligatorio cuando no lo era. No formalizó la comunicación sobre el tiempo de salida."
+  },
+  {
+   "rol": "Maquinista del tren 78443",
+   "implicacion": "Personal de Renfe Viajeros. Recibió autorización de rebase de señal 3023. Se percató de la situación y frenó en emergencia."
+  },
+  {
+   "rol": "Mecánico de la UT 447.047",
+   "implicacion": "Personal de Irvia. Diagnosticó la avería (derivación en cableado del lazo de urgencia ERTMS)."
+  },
+  {
+   "rol": "Supervisor de línea",
+   "implicacion": "Personal de ADIF. Llamó al RCM por la ficha GIFO; la llamada actuó como elemento distractor."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada 3023 (lado Sant Vicenç de Castellet), señales de salida 3020/2, 3020/4, 3020/6, 3020/3, 3020/5, señal de maniobras R1. ASFA Digital en ambos trenes.",
+  "tipo_via": "Estación con vías 1-6. Vías 3 y 5 son de mango (topera). Transición de vía única (lado Lleida, BLAU) a vía doble (lado Sant Vicenç de Castellet, BAD).",
+  "velocidad_maxima": "120 km/h (material rodante serie 447)",
+  "ancho": "Ibérico",
+  "electrificacion": "Tracción eléctrica (serie 447)",
+  "estado_via": "En curva, zona a nivel y a media ladera. Vía 5 con capacidad insuficiente para tres UT 447 (228 m vs 243 m topera-desvío nº1). CV A3 ocupado impidiendo normal explotación.",
+  "otro": "Enclavamiento eléctrico de cableado libre gobernado por Consigna Serie A nº 1398. Cuadro de Mando (CM) en Gabinete de Circulación. Estación en Mando Local (ML) durante el suceso. Circuito de agujas CV A3 implica desvíos nº1, nº3, nº11. Escape 21/23 y desvío nº19 son incompatibles entre ambos itinerarios."
+ },
+ "material_rodante": {
+  "series": "Serie 447 (primer lote). Composición Mc-R-Mc, tracción eléctrica, velocidad máxima 120 km/h. UT 447.049, 447.117, 447.059, 447.047.",
+  "averia": "UT 447.047: salto constante del magnetotérmico 1Q18A (Auxiliar Mando de freno) al liberar. Causa: derivación en cableado del lazo de urgencia del ERTMS. Solo podía salir remolcada. Remolcada sin batería, con freno neumático en servicio pero sin antibloqueo.",
+  "mantenimiento": "Taller de mantenimiento: Irvia. La UT averiada debía trasladarse a talleres de Montcada."
+ },
+ "clima": "Condiciones meteorológicas y de visibilidad buenas. Tarde. Día festivo nacional.",
+ "causas": {
+  "directa": "1) Autorización indebida de rebase de señal de entrada 3023 al tren 78443 sin haber comprobado que el movimiento incompatible previamente autorizado (tren 95218 de vía 5 a vía 2 del trayecto) no se había ejecutado (incumplimiento art. 5.2.1.2 RCF). 2) Inicio de la marcha del tren 95218 cuando su orden de marcha estaba invalidada por no salir inmediatamente tras el telefonema (incumplimiento art. 1.5.1.9 RCF).",
+  "contribuyentes": [
+   "Falta de experiencia y de ciertos conocimientos del RCM combinada con actitud proactiva, que originó una situación degradada en la explotación de la estación",
+   "Injerencia del CG de Rodalies al indicar taxativamente al RCM la no expedición del tren 95218 cuando ya podía haber sido expedido, siendo aceptada por RCM y RC del CTC",
+   "Atención del RCM a llamadas telefónicas no directamente relacionadas con la circulación (Supervisor de línea, RC del CTC) como elemento distractor",
+   "El maquinista del tren 95218 realizó un descanso que consideró obligatorio cuando no lo era, perturbando la hora de salida y las condiciones de explotación",
+   "Problemas en la comunicación entre el maquinista del tren 95218 y el RCM: el maquinista asumió que el RCM conocía que tardaría en salir, sin comunicación formal"
+  ],
+  "sistemicas": [
+   "Peculiaridades y limitaciones del enclavamiento eléctrico de Manresa que generan un número elevado de situaciones degradadas que obligan al RC a intervenir sin protección del enclavamiento",
+   "Dificultades en la estación de Manresa para comprobar de forma fehaciente la expedición de trenes (CM con visores poco intuitivos, sin videográfico, estación en curva con mala visualización directa)",
+   "Deficiencia en las habilidades asertivas del personal de circulación para hacer efectiva su competencia de dirección frente a injerencias de otros agentes",
+   "Comunicaciones directas entre RC de estaciones en mando local y Centros de Gestión de empresas ferroviarias sin canal procedimental definido"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños exclusivamente en el desvío nº19 (talonado por el primer bogie del tren 95218). Sin daños en material rodante.",
+  "afectacion_servicio": "Interceptación total de vía general desde las 18:41 del 15/08/2022 hasta las 3:56 del 16/08/2022. 15 circulaciones afectadas (retrasos y supresiones). Pérdida total de 471 minutos. Plan alternativo de transporte por carretera entre Sant Vicenç de Castellet y Calaf. Evacuación de viajeros del tren 78443 con ayuda de Bomberos y FCSE."
+ },
+ "lecciones": [
+  "La orden de marcha queda invalidada si el tren no sale inmediatamente tras recibir el telefonema (art. 1.5.1.9 RCF)",
+  "Antes de autorizar un rebase de señal que ordena parada, debe comprobarse que no haya ningún movimiento incompatible autorizado (art. 5.2.1.2 RCF)",
+  "Las maniobras en vías sin capacidad suficiente generan situaciones degradadas que comprometen la explotación",
+  "La autoridad de dirección de maniobras corresponde al responsable de circulación de la estación (art. 3.5.2.1 RCF), no al centro de gestión de la empresa ferroviaria",
+  "Las interrupciones telefónicas no relacionadas con la circulación durante la supervisión de movimientos constituyen un riesgo de distracción",
+  "Las condiciones de marcha a la vista y marcha de maniobras impuestas a ambos maquinistas actuaron como barrera que evitó la colisión",
+  "La falta de formalización de comunicaciones entre maquinistas y RC es un problema recurrente"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Fomento de las habilidades asertivas del personal de circulación que ayuden a hacer efectiva su competencia de dirección de la circulación y que refuercen su autoridad frente a las posibles injerencias por parte de otros agentes ferroviarios.",
+   "destinatario": "ADIF (implementador final), AESF (destinatario)"
+  },
+  {
+   "texto": "Reforzar la supervisión de las actividades relacionadas con la circulación para garantizar suficiente formación teórico-práctica de los RC tanto antes de asignarles las tareas, como durante el desarrollo de estas.",
+   "destinatario": "ADIF (implementador final), AESF (destinatario)"
+  },
+  {
+   "texto": "Establecer un canal y procedimiento de interlocución entre los RC de las estaciones en mando local y los CG de las empresas ferroviarias, de forma que no se interfiera en la coordinación y supervisión de la información que precisan estos RC para el desarrollo de sus funciones.",
+   "destinatario": "ADIF y Empresas ferroviarias (implementadores finales), AESF (destinatario)"
+  },
+  {
+   "texto": "Instruir al personal de conducción en la importancia que tiene la correcta transmisión de información entre ellos y los responsables de circulación y la formalización de las comunicaciones para garantizar la seguridad.",
+   "destinatario": "Renfe Viajeros (implementador final), AESF (destinatario)"
+  }
+ ],
+ "tags": [
+  "incidente operacional",
+  "riesgo de colision",
+  "itinerarios incompatibles",
+  "rebase de señal",
+  "orden de marcha invalidada",
+  "enclavamiento electrico",
+  "situacion degradada",
+  "remolque de material averiado",
+  "serie 447",
+  "robalies r4",
+  "habilidades asertivas",
+  "comunicaciones tren-tierra"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10306- 202270 0815 IF Manresa (english version)"
+}

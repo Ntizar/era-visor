@@ -1,0 +1,129 @@
+{
+ "titulo_normalizado": "Rebase de señal en parada del tren de mercancías 80382 en la estación de Lleida Pirineus",
+ "idioma_original": "es",
+ "resumen": "El 11 de julio de 2013, a las 19:59 horas, el tren de mercancías 80382 de Renfe Operadora rebasó en 7 metros la señal S2/4A en indicación de parada al entrar en la vía 4 de la estación de Lleida Pirineus. Simultáneamente, el tren regional 15626 de Renfe Operadora (Rodalíes) realizaba la salida desde la vía 6 y ocupaba el escape formado por las agujas 7/5, produciéndose un conato de colisión. No hubo víctimas ni daños materiales. La causa fue el incumplimiento por el personal de conducción de la orden de parada de la señal.",
+ "hechos": "El tren de mercancías 80382, de Renfe Operadora, procedente de San Roque y con destino Barcelona Morrot, se disponía a entrar en la vía 4 de la estación de Lleida Pirineus. Estaba compuesto por una locomotora 253 y 27 vagones, cinco de ellos con mercancías peligrosas, y tenía una longitud total de 557 metros. Al mismo tiempo, el tren regional 15626, también de Renfe Operadora (Rodalíes), estaba estacionado en la vía 6 con salida prescrita a las 19:58 horas hacia L'Hospitalet de Llobregat.\n\nEl jefe de circulación estableció el itinerario de entrada a la vía 4 para el tren 80382 y, simultáneamente, el itinerario de salida desde la vía 6 para el tren 15626. El tren 80382 pasó por la señal avanzada 1806 a 72 km/h en anuncio de parada, por la señal de entrada E2 a 30 km/h en anuncio de parada y por la señal de salida interior S2/4 a 28 km/h en anuncio de parada. Al aproximarse a la señal de salida S2/4A, que estaba en indicación de parada, el maquinista aplicó el freno de emergencia a unos 115 metros de distancia, cuando el tren circulaba a 30 km/h.\n\nEl tren 80382 rebasó la señal S2/4A en rojo a 11 km/h y quedó detenido 7 metros después, sin llegar al piquete de la vía 4. En ese momento, el tren 15626 circulaba por el escape formado por las agujas 7/5; la aguja 5 se encontraba a unos 500 metros del punto de detención del tren 80382 y en la misma trayectoria, por lo que se produjo un conato de colisión. No hubo daños materiales ni personales.\n\nTras el aviso del maquinista al jefe de circulación, se dio aviso al puesto de mando, se ordenó retroceder al tren 80382, se relevó al maquinista y a las 21:36 horas el tren continuó su marcha hasta destino.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Lleida Pirineus",
+  "pk": "PK 183+728",
+  "linea": "200 Madrid Chamartín - Barcelona Estació de França",
+  "provincia": "Lleida",
+  "descripcion_lugar": "Estación de Lleida Pirineus, vía 4, señal de salida S2/4A (PK 183+728); tramo Lleida Pirineus – Puigverd Artesa; municipio de Lleida."
+ },
+ "cronologia": [
+  {
+   "hora": "19:52",
+   "evento": "El tren 80382 pasa por la señal avanzada 1806 (PK 179+666) en anuncio de parada a 72 km/h."
+  },
+  {
+   "hora": "19:53",
+   "evento": "El tren 80382 pasa por una baliza de limitación temporal de velocidad (LTV) a 30 km/h a 55 km/h; el maquinista reconoce la limitación."
+  },
+  {
+   "hora": "19:53",
+   "evento": "El tren 15047 se estaciona en la vía 5 de Lleida Pirineus."
+  },
+  {
+   "hora": "19:56",
+   "evento": "El tren 80382 pasa por la señal de entrada E2 (PK 182+583) en anuncio de parada a 30 km/h."
+  },
+  {
+   "hora": "19:58",
+   "evento": "El tren 15626 recibe la orden de marche y realiza la salida desde la vía 6 con destino L'Hospitalet de Llobregat."
+  },
+  {
+   "hora": "19:58",
+   "evento": "El tren 80382 pasa por la señal de salida interior S2/4 (PK 183+521) en anuncio de parada a 28 km/h."
+  },
+  {
+   "hora": "19:59",
+   "evento": "El tren 80382 aplica freno de emergencia a 115 metros de la señal S2/4A (PK 183+728), que estaba en indicación de parada, circulando a 30 km/h."
+  },
+  {
+   "hora": "19:59",
+   "evento": "El tren 80382 rebasa la señal S2/4A en parada a 11 km/h."
+  },
+  {
+   "hora": "19:59",
+   "evento": "El tren 80382 queda detenido tras rebasar 7 metros la señal S2/4A, sin sobrepasar el piquete de la vía 4; se produce conato de colisión con el tren 15626 en el escape de las agujas 7/5."
+  },
+  {
+   "hora": "21:36",
+   "evento": "Tras ordenar retroceder al tren 80382 y relevar al maquinista, el tren continúa la marcha hasta destino."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "80382",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales."
+  },
+  {
+   "numero": "15626",
+   "tipo": "tren regional (Rodalíes)",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 80382 (matrícula 8863169)",
+   "implicacion": "Incumplió el artículo 217 del RGC al no detenerse ante la señal S2/4A en indicación de parada; aplicó freno de emergencia a 115 metros; prueba de alcoholemia negativa; fue relevado y sometido a medidas de gestión del fallo humano."
+  },
+  {
+   "rol": "jefe de circulación de Lleida (matrícula 9748229)",
+   "implicacion": "Estableció correctamente los itinerarios de entrada y salida conforme a la consigna A; cumplía la normativa vigente; comunicó el rebase al puesto de mando."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales altas de tres focos con buena visibilidad: avanzada 1806 (PK 179+666), entrada E2 (PK 182+583), salida interior S2/4 (PK 183+521) y salida S2/4A (PK 183+728). Las señales 1806 y E2 disponían de baliza previa y de pie; las S2/4 y S2/4A, solo de baliza de pie.",
+  "tipo_via": "Estación con 8 vías de ancho ibérico; vía 4 subdividida en 4 y 4A; bloqueo automático en vía única electrificada (BAU) con CTC en la línea 200.",
+  "velocidad_maxima": "30 km/h (limitación temporal de velocidad reconocida por el maquinista)",
+  "ancho": "ancho ibérico",
+  "electrificacion": "Electrificada en la línea 200 (BAU en vía única electrificada)",
+  "estado_via": "Infraestructura e instalaciones técnicas funcionaron correctamente; la estación estaba en mando local.",
+  "otro": "Radiotelefonía modalidad A; la longitud del tren 80382 (557 m) impedía que cupiera en ninguna vía de la estación, ocupando por cola el circuito de agujas de entrada lado Madrid."
+ },
+ "material_rodante": {
+  "series": "Locomotora 253 (Nº UIC 957102530079) y 27 vagones plataformas MMC, 5 con mercancías peligrosas; longitud 537 m sin tracción y 557 m con locomotora; peso total 714 t.",
+  "averia": "No se detectaron daños ni averías; los sistemas de control y mando funcionaron correctamente. El maquinista opinó que la reacción del material fue lenta.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Rebase indebido de la señal S2/4A en indicación de parada por el tren de mercancías 80382, por incumplimiento de la orden dada por la señal al personal de conducción.",
+  "contribuyentes": [
+   "El maquinista intentaba apurar el espacio disponible para no entorpecer la circulación, con una composición de 537 metros más la máquina, y declaró desconocer la longitud de la vía.",
+   "La aplicación del freno de emergencia a 115 metros de la señal S2/4A, cuando el tren circulaba a 30 km/h, no fue suficiente para detenerse antes de la señal.",
+   "La longitud total del tren (557 m) impedía que pudiera quedar alojado en las vías de la estación sin ocupar el circuito de agujas de entrada."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura.",
+  "afectacion_servicio": "Vía interceptada parcialmente por el lado Madrid durante 1 hora y 31 minutos; retrasos en dos trenes de mercancías, con 166 minutos acumulados."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "rebase de señal",
+  "señal en parada",
+  "tren de mercancías",
+  "tren regional",
+  "conato de colisión",
+  "estación de lleida pirineus",
+  "línea 200",
+  "freno de emergencia",
+  "fallo humano",
+  "mercancías peligrosas",
+  "adif",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_110713_251114_CIAF_0"
+}

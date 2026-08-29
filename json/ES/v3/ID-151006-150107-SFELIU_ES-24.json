@@ -1,0 +1,116 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de peatón en paso a nivel de San Feliu de Llobregat",
+ "idioma_original": "es",
+ "resumen": "El 2006-10-15, a las 11:04, una mujer de 85 años falleció al ser arrollada por el tren de Cercanías nº18316 de Renfe en el paso a nivel peatonal de clase C del PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, en San Feliu de Llobregat (Barcelona). El tren circulaba a 89 km/h, por debajo de la velocidad máxima de 120 km/h, y el maquinista hizo uso del silbato y del dispositivo de emergencia. La investigación atribuye el accidente al cruce indebido de la vía por la víctima, haciendo caso omiso a las señales luminosas peatonales y con las barreras abatidas. No hubo daños materiales, aunque se produjeron retrasos acumulados de 104 minutos y 17 trenes de Cercanías afectados.",
+ "hechos": "El 2006-10-15, a las 11:04, el tren de Cercanías nº18316 de Renfe, compuesto por la locomotora 447104, procedente de Martorell y con destino Tarrasa, circulaba por la línea 240 Tarragona-Barcelona-Francia a 89 km/h cuando se produjo el arrollamiento en el paso a nivel peatonal de clase C del PK 88,906, en San Feliu de Llobregat (Barcelona). La víctima, una mujer de 85 años, cruzaba el paso a nivel de izquierda a derecha respecto al sentido de la marcha del tren y resultó fallecida.\n\nEl paso a nivel estaba protegido con semibarreras automáticas, señalización acústica y luminosa para el tráfico vial y señalización luminosa para peatones, además de un paso elevado. Según el parte del maquinista, observó a la mujer cruzando, hizo uso del silbato y del dispositivo de emergencia, pero la mujer continuó su marcha y fue golpeada por el lado derecho de la unidad cuando ya estaba terminando de cruzar las vías.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "88,906",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso a nivel peatonal de clase C en el PK 88,906 de la línea 240, en su intersección con el Paseo de Vilardaba, dentro del municipio de San Feliu de Llobregat; dotado de semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones y paso elevado."
+ },
+ "cronologia": [
+  {
+   "hora": "06:56",
+   "evento": "Inicio de la jornada del maquinista del tren 18316 el día del accidente."
+  },
+  {
+   "hora": "11:04",
+   "evento": "Arrollamiento de una mujer de 85 años por el tren de Cercanías nº18316 en el paso a nivel de clase C del PK 88,906."
+  },
+  {
+   "hora": "12:05",
+   "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml); las autoridades permiten circular por la vía II en las mismas condiciones que la vía I."
+  },
+  {
+   "hora": "13:02",
+   "evento": "Inicio de la suspensión de la circulación por ambas vías para proceder al levantamiento del cadáver."
+  },
+  {
+   "hora": "13:08",
+   "evento": "Fin de la suspensión de la circulación por ambas vías para el levantamiento del cadáver."
+  },
+  {
+   "hora": "13:22",
+   "evento": "Restablecimiento de la circulación en condiciones normales."
+  },
+  {
+   "hora": "14:47",
+   "evento": "Finalización de la jornada del maquinista el día del accidente."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18316",
+   "tipo": "Tren de Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Peatón (víctima)",
+   "implicacion": "Mujer de 85 años; fallecida tras cruzar el paso a nivel de izquierda a derecha respecto al sentido de la marcha del tren, con señales luminosas peatonales de prohibición y barreras abatidas."
+  },
+  {
+   "rol": "Maquinista del tren 18316",
+   "implicacion": "Hizo uso del silbato y del dispositivo de emergencia; prueba de alcoholemia negativa a las 12:05; condiciones aptas para el desarrollo de su función; jornada del día del accidente de 06:56 a 14:47."
+  },
+  {
+   "rol": "Agente de ADIF",
+   "implicacion": "Se personó en el lugar para toma de datos, prueba de alcoholemia al maquinista y toma de declaración."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial y señalización luminosa para peatones; paso elevado; visibilidad buena.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "No se describen defectos de vía; se constata buena visibilidad del paso a nivel.",
+  "otro": "Bloqueo banalizado con CTC; momento de circulación (144,5 x 1.760) = 254.318, por lo que el paso es de clase C; ficha del paso a nivel de abril de 2005 adjunta incompleta, sin registro de Eventos; supresión del paso a nivel por soterramiento de la línea en fase de proyecto por el Ministerio de Fomento; accidente grave 0023/06 en el mismo paso a nivel el 2006-05-20 con las mismas características."
+ },
+ "material_rodante": {
+  "series": "Locomotora 447104",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Cruce indebido de la vía por la víctima, haciendo caso omiso a las señales luminosas peatonales que indicaban la prohibición de pasar y estando las barreras abatidas por el paso del tren nº18316.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Retrasos acumulados de 104 minutos con 17 trenes de Cercanías afectados; circulación con marcha a la vista por vía I, vía II permitida en las mismas condiciones a las 12:05; suspensión de ambas vías entre 13:02 y 13:08 para levantamiento del cadáver; restablecida en condiciones normales a las 13:22."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Sensibilizar a la población en el correcto uso de las zonas de paso.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso a nivel",
+  "san feliu de llobregat",
+  "linea 240",
+  "renfe",
+  "cercanias",
+  "accidente grave",
+  "semibarreras",
+  "senalizacion peatonal",
+  "soterramiento",
+  "sensibilizacion"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-151006-150107-SFELIU_ES-24"
+}

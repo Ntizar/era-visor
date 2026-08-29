@@ -1,0 +1,172 @@
+{
+ "titulo_normalizado": "Arrollamiento de un ciclista por tren de mercancías en paso a nivel de Alcolea de Córdoba",
+ "idioma_original": "es",
+ "resumen": "El 10 de enero de 2008, a las 15:26, el tren de mercancías 57361 de Renfe Operadora arrolló a un ciclista en el paso a nivel de clase C de la estación de Alcolea de Córdoba, P.K. 429,825, de la línea 400 Alcázar de San Juan-Cádiz. La víctima cruzó cuando las semibarreras estaban bajadas y la prohibición estaba señalizada. El accidente causó un fallecido, la interceptación de la vía durante 1 hora y 58 minutos y retrasos en varios trenes. La investigación concluye que el origen estuvo en el intento de cruce prohibido por parte de la víctima. Se recomienda agilizar la supresión del paso a nivel por su alto momento de circulación.",
+ "hechos": "El día 10 de enero de 2008, a las 15:26 horas, el tren de mercancías 57361 de Renfe Operadora, compuesto por 17 vehículos y 476 toneladas remolcadas, con locomotora 2690592, circulaba por el trayecto Alcolea de Córdoba-Los Cansinos. Al pasar por el paso a nivel de clase C de la estación de Alcolea de Córdoba, en el P.K. 429,825 de la línea 400 Alcázar de San Juan-Cádiz, el maquinista, según su declaración, hizo uso del silbato, notó un ligero golpe en el lateral izquierdo de la locomotora y frenó. El tren se detuvo 525 metros más adelante; el maquinista inspeccionó la máquina y observó restos y una mancha de sangre en el estribo izquierdo de la segunda cabina, comprobando además que en el paso a nivel había un cadáver custodiado por agentes de la Policía.\n\nLa víctima era un hombre de 62 años que circulaba en bicicleta. Según la conductora de un autobús urbano de AUCORSA, el ciclista adelantó a su vehículo mientras esperaba cruzar el paso a nivel y fue arrollado por el tren. Las semibarreras estaban abatidas en el momento del cruce. La inspección posterior del paso a nivel demostró que el funcionamiento del dispositivo fue correcto, y el registrador de eventos del paso anotó a las 15:26:50 la comprobación de lámparas de la señal peatonal y a las 15:27:05 la comprobación de semibarrera cerrada. El registrador jurídico de la locomotora indica que el tren circulaba a 97 km/h cuando el maquinista aplicó el freno de emergencia, por debajo de los 100 km/h permitidos.\n\nLas condiciones atmosféricas eran buenas y no se produjeron daños en instalaciones ni en el medio ambiente; los daños en el material motor estaban pendientes de valoración. La vía quedó interceptada desde las 15:26 hasta las 17:24 horas, momento en que se prescribió marcha a la vista, restableciéndose la circulación normal a las 18:15 horas. El tren 57361 sufrió 102 minutos de retraso; los pasajeros de los trenes de Media Distancia 13072 y 13071 fueron transportados por carretera; otros tres trenes sumaron 240 minutos de retraso.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Alcolea de Córdoba",
+  "pk": "429,825",
+  "linea": "400 Alcázar de San Juan-Cádiz",
+  "provincia": "Córdoba",
+  "descripcion_lugar": "Paso a nivel de clase C situado en la estación de Alcolea de Córdoba, dotado de semibarreras enclavadas, señalización acústica y luminosa, señales peatonales y dos zonas pavimentadas para uso exclusivo de peatones. El tramo discurre por el interior del municipio, con bloqueo automático en vía única con control de tráfico centralizado y trazado en curva de 500 metros de radio."
+ },
+ "cronologia": [
+  {
+   "hora": "15:26",
+   "evento": "Arrollamiento del ciclista por el tren de mercancías 57361 en el paso a nivel de Alcolea de Córdoba."
+  },
+  {
+   "hora": "15:26",
+   "evento": "Registro de comprobación de lámparas de la señal peatonal del paso a nivel, según el registrador de eventos del paso."
+  },
+  {
+   "hora": "15:27",
+   "evento": "Registro de comprobación de semibarrera cerrada, según el registrador de eventos del paso."
+  },
+  {
+   "hora": "15:50",
+   "evento": "Se personan agentes de la Guardia Civil y Policía Local."
+  },
+  {
+   "hora": "16:55",
+   "evento": "Se presentan los servicios forenses y la Autoridad Judicial."
+  },
+  {
+   "hora": "17:00",
+   "evento": "Prueba de alcoholemia al maquinista, con resultado negativo."
+  },
+  {
+   "hora": "17:24",
+   "evento": "Fin de la interceptación de vía; se prescribe marcha a la vista para las circulaciones que pasan por el P.K. 429,825."
+  },
+  {
+   "hora": "17:34",
+   "evento": "Se levanta el cadáver."
+  },
+  {
+   "hora": "18:15",
+   "evento": "Se reanuda la circulación normal."
+  },
+  {
+   "hora": "18:56",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif informa a la Comisión de Investigación de Accidentes Ferroviarios del arrollamiento."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "57361",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en material motor pendientes de valoración; restos y mancha de sangre en el estribo izquierdo de la segunda cabina de la locomotora; 102 minutos de retraso."
+  },
+  {
+   "numero": "13072",
+   "tipo": "Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso; pasajeros transportados por carretera."
+  },
+  {
+   "numero": "13071",
+   "tipo": "Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso; pasajeros transportados por carretera."
+  },
+  {
+   "numero": null,
+   "tipo": "trenes no identificados",
+   "operador": "Renfe Operadora",
+   "danos": "Otros tres trenes sumaron un total de 240 minutos de retraso."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 57361",
+   "implicacion": "Condujo el tren, aplicó el freno de emergencia tras notar un golpe, inspeccionó la locomotora y comunicó el suceso al Puesto de Mando de Córdoba. Su actuación fue correcta; alcoholemia negativa; jornada de 5 horas en el momento del suceso, 7 horas y 55 minutos en las 24 horas anteriores y 8 horas en las 48 horas anteriores."
+  },
+  {
+   "rol": "Supervisor de Línea de la Jefatura de Operaciones de Córdoba, nombrado como Jefe Delegado",
+   "implicacion": "Personal de Adif implicado en la gestión de la circulación y del suceso."
+  },
+  {
+   "rol": "Gerente Territorial de Seguridad en la Circulación Sur de Adif",
+   "implicacion": "Entregó informe particular del accidente el 04.04.08, por delegación expresa del Director de Seguridad en la Circulación de Adif."
+  },
+  {
+   "rol": "Responsable de Seguridad de Renfe Operadora",
+   "implicacion": "Entregó informe particular del accidente el 04.04.08, por delegación expresa del Director de Seguridad en la Circulación de Renfe Operadora."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Informó a la Comisión de Investigación de Accidentes Ferroviarios del arrollamiento a las 18:56 horas del mismo día del suceso."
+  },
+  {
+   "rol": "conductora del autobús urbano de AUCORSA",
+   "implicacion": "Testigo; declaró que, mientras esperaba a cruzar el paso a nivel, el ciclista adelantó su vehículo y fue arrollado por el tren."
+  },
+  {
+   "rol": "víctima (ciclista)",
+   "implicacion": "Hombre de 62 años que cruzó el paso a nivel cuando las semibarreras estaban bajadas y la prohibición estaba señalizada; falleció en el accidente."
+  },
+  {
+   "rol": "otros testigos presenciales",
+   "implicacion": "Personas mencionadas en el informe como testigos presenciales del suceso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con semibarreras enclavadas, señalización acústica y luminosa conforme a la Orden Ministerial de 2 de agosto de 2001, complementada con señales peatonales y dos zonas pavimentadas para uso exclusivo de peatones. La inspección posterior y el registrador de eventos del paso indican funcionamiento correcto.",
+  "tipo_via": "Vía única con bloqueo automático y control de tráfico centralizado (B.A.U con C.T.C); trazado en curva de 500 metros de radio.",
+  "velocidad_maxima": "100 km/h al paso por Alcolea de Córdoba",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "No se produjeron daños en instalaciones; la vía quedó interceptada de 15:26 a 17:24 horas, con marcha a la vista hasta la reanudación normal a las 18:15 horas.",
+  "otro": "Radiotelefonía modalidad A, canal 61. Momento de circulación del paso a nivel: 8.776 vehículos/día (A=240 y T=37). En la Base de Datos de Pasos a Nivel de la DGF, a 29/02/08, se recoge la intención de suprimir este paso y está contratado un estudio de alternativas por parte de Adif."
+ },
+ "material_rodante": {
+  "series": "locomotora 2690592; tren de 17 vehículos con 476 toneladas remolcadas",
+  "averia": "El material rodante funcionó correctamente. Se observaron restos y mancha de sangre en el estribo izquierdo de la segunda cabina; daños en el material motor pendientes de valoración.",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+ "causas": {
+  "directa": "El accidente tuvo su origen en el intento de la víctima de cruzar el paso a nivel en el momento en que estaba prohibido y la prohibición estaba adecuadamente señalizada.",
+  "contribuyentes": [
+   "La víctima sorteó las semibarreras abatidas e invadió la vía al paso del tren 57361.",
+   "El ciclista adelantó a un autobús urbano que esperaba para cruzar el paso a nivel."
+  ],
+  "sistemicas": [
+   "El paso a nivel presenta un momento de circulación de 8.776 vehículos/día, que excede el límite de 1.500 establecido en la Orden Ministerial de 2 de agosto de 2001 como condición para suprimir un paso a nivel.",
+   "La supresión del paso a nivel estaba recogida como intención en la Base de Datos de Pasos a Nivel de la DGF y existía un estudio de alternativas contratado por Adif, pero la actuación no se había ejecutado."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en instalaciones ni en el medio ambiente. Están pendientes de valoración los daños en el material motor; la locomotora presentó restos y mancha de sangre en el estribo izquierdo de la segunda cabina.",
+  "afectacion_servicio": "Vía interceptada de 15:26 a 17:24 horas (1 hora y 58 minutos); marcha a la vista hasta las 18:15 horas, cuando se reanudó la circulación normal. El tren 57361 sufrió 102 minutos de retraso; los pasajeros de los trenes Media Distancia 13072 y 13071 fueron transportados por carretera; otros tres trenes sumaron 240 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se propone estudiar la supresión del paso a nivel de esta localidad que presenta un alto momento de circulación (8.776 vehículos/día). Puesto que en la Base de Datos de Pasos a Nivel de la DGF (a 29/02/08) se recoge la intención de suprimir este paso, se recomienda agilizar dicha actuación.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "ciclista",
+  "paso a nivel",
+  "semibarreras",
+  "tren de mercancias",
+  "renfe operadora",
+  "adif",
+  "alcolea de cordoba",
+  "linea 400",
+  "supresion de paso a nivel",
+  "momento de circulacion",
+  "fallecido"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-100108-300908-CIAF"
+}

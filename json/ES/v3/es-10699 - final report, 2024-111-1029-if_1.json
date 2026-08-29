@@ -1,0 +1,151 @@
+{
+ "titulo_normalizado": "Colisión con obstáculo de tierra y piedras y descarrilamiento en Álora (Málaga) el 29 de octubre de 2024",
+ "idioma_original": "es",
+ "resumen": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros, serie 112.014, colisionó a unos 200 km/h con una acumulación de tierra y piedras sobre la vía en el PK 124/573 de la línea 030, a la salida norte del túnel de Álora, produciéndose el descarrilamiento del primer eje del primer bogie de la cabeza tractora. El tren circulaba con una LTV de 200 km/h establecida tras la comunicación de un golpe por el maquinista del tren Iryo 06119, que había pasado por el mismo punto unos 25 minutos antes. La acumulación de materiales fue consecuencia del arrastre provocado por precipitaciones extraordinarias (169 l/m² acumulados ese día). No hubo víctimas, pero se produjeron daños en material rodante e infraestructura, incluida la rotura del carril derecho en el PK 124/532, y la vía I quedó interceptada durante unas 65 horas.",
+ "hechos": "El 29 de octubre de 2024, el tren de alta velocidad 02123 de Renfe Viajeros, compuesto por la unidad 112.014, realizaba el servicio Málaga María Zambrano–Madrid Puerta de Atocha con 276 viajeros. Circulaba a unos 200 km/h por la vía I de la línea 030, a la salida norte del túnel de Álora, cuando en el PK 124/573 colisionó con un obstáculo formado por tierra y piedras acumulados sobre el carril derecho, arrastrados por escorrentía superficial debido a precipitaciones extraordinarias registradas esa mañana. Como consecuencia, el primer eje del primer bogie de la cabeza tractora descarriló: la rueda derecha cayó hacia el exterior y la izquierda a la caja de la vía, mientras que el resto del tren permaneció encarrilado.\n\nTras la colisión, el sistema de protección del tren activó el frenado de emergencia, pero no pudo evitar el descarrilamiento. La composición recorrió 1.563 metros en movimiento de inercia, desde el PK 124/573 hasta el PK 123/010, manteniéndose en todo momento en posición vertical y sin interceptar la vía contigua, gracias a que el carril derecho quedó alojado entre la rueda descarrilada y el disco de freno, produciendo un efecto de guiado y contención lateral. Durante el proceso se produjo la rotura en V del patín del carril derecho en el PK 124/532.\n\nPreviamente, el tren Iryo 06119 había comunicado al CRC de Antequera AV, sobre las 11:45 horas, la percepción de un golpe o bache fuerte en el eje derecho de la circulación al pasar por el mismo punto. El RC estableció entonces una LTV de 200 km/h para el tren siguiente, notificada al maquinista del 02123 mediante telefonema operativo número 77 a las 11:56 horas. Entre ambos pasos transcurrieron unos 25 minutos, durante los cuales la intensa precipitación favoreció la acumulación progresiva de materiales hasta invadir el gálibo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Álora",
+  "pk": "124/573",
+  "linea": "030 Bifurcación Málaga A.V. – Málaga María Zambrano",
+  "provincia": "Málaga",
+  "descripcion_lugar": "Salida norte del túnel de Álora, por la vía I, en tramo de alineación recta, pendiente aproximada de 24 milésimas y explanación en media ladera con laderas erosionables y escasa cobertura vegetal, entre Los Prados y Álora."
+ },
+ "cronologia": [
+  {
+   "hora": "11:45",
+   "evento": "El maquinista del tren Iryo 06119 comunica al CRC de Antequera AV la percepción de un golpe o bache fuerte en el eje derecho de la circulación a la salida del túnel de Álora."
+  },
+  {
+   "hora": "11:56",
+   "evento": "El RC del CRC establece una LTV de 200 km/h y la notifica al maquinista del tren 02123 mediante telefonema operativo número 77."
+  },
+  {
+   "hora": "12:10",
+   "evento": "El tren 02123 de Renfe Viajeros, a unos 200 km/h, colisiona con el obstáculo de tierra y piedras en el PK 124/573 y descarrila el primer eje del primer bogie de la cabeza tractora."
+  },
+  {
+   "hora": "12:15",
+   "evento": "Se interrumpe la circulación por la vía I tras la comunicación del descarrilamiento al CRC de Antequera AV."
+  },
+  {
+   "hora": "05:30",
+   "evento": "El 1 de noviembre de 2024 se restablece la circulación por la vía I tras las reparaciones."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "02123",
+   "tipo": "tren de alta velocidad / servicio comercial Málaga María Zambrano–Madrid Puerta de Atocha",
+   "operador": "Renfe Viajeros",
+   "danos": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; daños en material rodante valorados en 483.596,61 €."
+  },
+  {
+   "numero": "06119",
+   "tipo": "tren de alta velocidad (precedente)",
+   "operador": "Iryo (ILSA Rail S.A.)",
+   "danos": "Sin daños relevantes; su maquinista percibió y comunicó un golpe o bache fuerte en el eje derecho."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 06119 de Iryo",
+   "implicacion": "Comunicó al CRC la percepción de un golpe o bache fuerte en la vía a la salida del túnel de Álora, lo que motivó la LTV."
+  },
+  {
+   "rol": "Maquinista del tren 02123 de Renfe Viajeros",
+   "implicacion": "Conductor del tren accidentado; circulaba con LTV de 200 km/h notificada por el RC."
+  },
+  {
+   "rol": "Responsable del CTC del CRC de Antequera AV (ADIF)",
+   "implicacion": "Estableció la LTV de 200 km/h tras recabar información del maquinista precedente; aplicación no estricta de la Ficha LAV 2."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "LZB y ERTMS niveles 1 y 2 con señalización lateral luminosa protegida por ASFA de respaldo; control de tráfico basado en BCA.",
+  "tipo_via": "Vía I de línea de alta velocidad en alineación recta, explanación en media ladera, traviesas de hormigón monobloque con sujeción elástica tipo Pandrol y carril de 60 kg/m.",
+  "velocidad_maxima": "300 km/h (tramo, para circulación bajo ERTMS nivel 2); 210 km/h autorizados para el tren Renfe, restringidos a 200 km/h por LTV; velocidad máxima permitida por LZB en el punto: 200 km/h.",
+  "ancho": "1435 mm (ancho estándar)",
+  "electrificacion": "Electrificada",
+  "estado_via": "Ocupada por tierra y piedras arrastrados por escorrentía; rotura del carril derecho en PK 124/532; interceptada desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024.",
+  "otro": "Puesta en servicio el 23 de diciembre de 2007; comunicaciones GSM-R; sistemas de detección de obstáculos en embocadura con tramo de transición sin cobertura; drenaje dimensionado para periodo de retorno de 300 años (220 l/m² diarios, intensidad horaria 112 mm/h, caudal de diseño 2,83 m³/s)."
+ },
+ "material_rodante": {
+  "series": "Serie 112, automotor 112.014",
+  "averia": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; sin indicios de fallo previo en sistemas de control, señalización o estructura.",
+  "mantenimiento": "Vehículo autorizado para circulación conforme a su plan de mantenimiento y con revisiones periódicas en vigor."
+ },
+ "clima": "Precipitaciones extraordinarias ese día: 169 l/m² acumulados. Entre 00:00 y 10:30, ~76,5 l/m²; entre 10:30 y 11:45, 68 l/m²; entre 11:45 y 12:10, ~10 l/m². La intensidad entre 07:00 y 13:00 superó los 80 l/m² en seis horas (nivel 3), frente a previsiones de nivel 2 y nivel 1.",
+ "causas": {
+  "directa": "Acumulación súbita de tierra y piedras en la caja de la vía a la salida norte del túnel de Álora, arrastrados por escorrentía superficial como consecuencia de precipitaciones de intensidad extraordinaria, con la que colisionó el tren.",
+  "contribuyentes": [
+   "Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo.",
+   "Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.",
+   "Capacidad deficiente del sistema de drenaje en el entorno del túnel ante un episodio meteorológico excepcional.",
+   "Establecimiento de una LTV (200 km/h) inadecuada para evitar el descarrilamiento ante la magnitud del obstáculo.",
+   "Aplicación insuficiente e incorrecta del procedimiento previsto en la Ficha LAV 2 Deformación de vía tras la comunicación del golpe."
+  ],
+  "sistemicas": [
+   "Ausencia de criterios específicos en la Ficha LAV 2 Deformación de vía para la gestión y evaluación del riesgo asociado a deformaciones de vía.",
+   "Falta de difusión y coordinación operativa efectiva de la Ficha LAV 2, al no estar integrada en el Plan de Contingencias de ADIF-AV ni en los SGS de las empresas ferroviarias."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Rotura del carril derecho en PK 124/532; daños en material rodante valorados en 483.596,61 € y en infraestructura en 382.791,79 €, total estimado 866.388,40 €.",
+  "afectacion_servicio": "Interrupción de la circulación por vía I entre Los Prados y Álora desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024 (~65 h 15 min). Restablecimiento con LTV de 30 km/h y luego 80 km/h como CSV preventivo. Impactos: 161 circulaciones AV de Renfe afectadas (2.112 min de retraso acumulado), 66 servicios AVANT (1.268 min) y 51 circulaciones de Iryo (471 min)."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las empresas ferroviarias al administrador de infraestructuras, definiendo las actuaciones a adoptar e incorporando criterios específicos para situaciones de lluvias intensas, fenómenos meteorológicos extraordinarios u otros, con el fin de minimizar los riesgos al máximo.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Habilitar el acceso del personal de los CRC a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Estudiar la viabilidad de implantar sistemas automáticos de medición pluviométrica en tiempo real en puntos estratégicos de la red ferroviaria, especialmente en líneas de alta velocidad y en zonas previamente identificadas con riesgo geológico o hidrológico.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Analizar los sistemas de detección de caída de objetos existentes para identificar posibles zonas sin cobertura o puntos ciegos de detección y estudiar la adopción de medidas que permitan corregir dichas limitaciones.",
+   "destinatario": "AESF"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "alta velocidad",
+  "aterramiento",
+  "precipitaciones extraordinarias",
+  "escorrentía superficial",
+  "drenaje",
+  "limitación temporal de velocidad",
+  "ficha lav 2",
+  "crc",
+  "adif",
+  "renfe viajeros",
+  "iryo"
+ ],
+ "v3_completo": true,
+ "id": "ES-es-10699 - final report, 2024-111-1029-if_1"
+}

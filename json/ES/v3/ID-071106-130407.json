@@ -1,0 +1,144 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una mujer por tren de Media Distancia a la entrada de la estación de Teruel",
+ "idioma_original": "es",
+ "resumen": "El 7 de noviembre de 2006, una mujer de 75 años fue arrollada mortalmente por el tren de Media Distancia nº 8513 de Renfe a la entrada de la estación de Teruel (PK 131,700, línea Caminreal-Sagunto). La víctima transitaba por el lado derecho de la vía, entre la señal de entrada y los desvíos, en un paso vicioso e irregular, de espaldas al tren, con paraguas y ropas oscuras, en condiciones de visibilidad reducida por nocturnidad y lluvia. El maquinista, circulando a 35 km/h (máximo permitido 100 km/h), usó el silbato y el freno de urgencia sin poder evitar el impacto. No hubo daños materiales. La interrupción de circulación fue de 40 minutos.",
+ "hechos": "Una mujer de 75 años transitaba por el lado derecho de la vía entre la señal de entrada y los desvíos de entrada de la estación de Teruel, en un entorno urbano donde existía un paso inferior peatonal a unos 50 metros pero que los viandantes evitaban, creando un acceso irregular o paso vicioso. Iba de espaldas al tren, con paraguas y ropas muy oscuras, en condiciones de visibilidad reducida por la nocturnidad y la lluvia. El tren de Media Distancia nº 8513 de Renfe, compuesto por 2 vehículos (motor 594.501, 101 toneladas), circulaba a 35 km/h (máximo permitido 100 km/h) por vía única sin electrificar con bloqueo telefónico. El maquinista advirtió la presencia de la persona, hizo uso del silbato y, al no ver reacción, accionó inmediatamente el freno de urgencia, pero no consiguió evitar golpearla con la parte lateral derecha del tren. La víctima falleció en el acto.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Teruel",
+  "pk": "131,700",
+  "linea": "Caminreal-Sagunto",
+  "provincia": "Teruel",
+  "descripcion_lugar": "A la entrada de la estación de Teruel, entre la señal de entrada y los desvíos de entrada (aguja en PK 131,700), entorno urbano por el centro de Teruel, a unos 50 metros de un paso inferior peatonal. Zona sin vallado perimetral con paso vicioso."
+ },
+ "cronologia": [
+  {
+   "hora": "2006-11-07 18:14",
+   "evento": "Hora del accidente según apartado de ubicación (PK 131,700)"
+  },
+  {
+   "hora": "2006-11-07 18:15",
+   "evento": "Arrollamiento de la persona por el tren 8513; el maquinista usa silbato y freno de urgencia sin evitar el impacto"
+  },
+  {
+   "hora": "2006-11-07 18:15",
+   "evento": "El maquinista informa al Jefe de Circulación de Teruel; se desplaza junto al interventor al lugar para socorrer a la víctima"
+  },
+  {
+   "hora": "2006-11-07 18:15",
+   "evento": "El Jefe de Circulación informa al Puesto de Mando de Valencia, que cursa aviso a servicios de emergencia de Aragón y Policía Local"
+  },
+  {
+   "hora": "2006-11-07 18:55",
+   "evento": "Levantamiento del cadáver por Policía Local y forense; reanudación de la circulación en condiciones normales"
+  },
+  {
+   "hora": "2006-11-08",
+   "evento": "Comunicación del coordinador de accidentes de ADIF; toma de declaración al maquinista y prueba de alcoholemia (resultado negativo)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8513",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales"
+  },
+  {
+   "numero": "8500",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": null
+  },
+  {
+   "numero": null,
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 8513",
+   "implicacion": "Advirtió la presencia de la persona, usó silbato y freno de urgencia; no pudo evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000ml). Jornada: inicio 05:45, fin 18:29; día anterior descanso; 48h anteriores: 07:00-12:06."
+  },
+  {
+   "rol": "Supervisor de Línea-Teruel",
+   "implicacion": "Nombrado jefe delegado del accidente; realizó la prueba de alcoholemia al maquinista"
+  },
+  {
+   "rol": "Agente de instalaciones de seguridad",
+   "implicacion": "Custodió el cadáver hasta la llegada de la Policía Local"
+  },
+  {
+   "rol": "Jefe de Circulación de Teruel",
+   "implicacion": "Recibió aviso del maquinista e informó al Puesto de Mando de Valencia"
+  },
+  {
+   "rol": "Interventor del tren",
+   "implicacion": "Se desplazó junto al maquinista al punto del arrollamiento para socorrer a la víctima"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada de la estación de Teruel; el accidente se produjo entre la señal de entrada y los desvíos de entrada",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Sin vallado perimetral; existe paso inferior peatonal a unos 50 metros pero se constata paso vicioso/irregular",
+  "otro": "Bloqueo telefónico. Playa de vías: 4 vías de apartado y 1 vía general. Entorno urbano, centro de Teruel. Tramo metálico con paso inferior que da acceso a zona de viviendas y huertos/cauce del río Turia."
+ },
+ "material_rodante": {
+  "series": "Motor 594.501",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Nocturnidad y lluvia; condiciones de visibilidad reducida",
+ "causas": {
+  "directa": "Tránsito indebido y no autorizado de la víctima sobre la vía, caminando de espaldas al tren dentro del gálibo del mismo",
+  "contribuyentes": [
+   "Visibilidad reducida por condiciones de nocturnidad y atmosféricas (lluvia)",
+   "La víctima portaba paraguas y ropas muy oscuras",
+   "Existencia de un paso vicioso/irregular en las inmediaciones, evitando los viandantes el paso inferior peatonal",
+   "Ausencia de vallado perimetral en la zona"
+  ],
+  "sistemicas": [
+   "Falta de vallado perimetral en un tramo urbano con paso vicioso consolidado",
+   "Paso inferior peatonal existente a 50 metros pero no utilizado por los viandantes"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "Interrupción de la circulación de 40 minutos; 3 trenes de Media Distancia afectados (117 min) y 1 Cercanías (5 min)"
+ },
+ "lecciones": [
+  "La existencia de pasos viciosos en entornos urbanos sin vallado perimetral constituye un riesgo permanente para los viandantes",
+  "La visibilidad nocturna y las condiciones meteorológicas adversas (lluvia) reducen significativamente la capacidad del maquinista para detectar personas en la vía",
+  "La ropa oscura y el uso de paraguas dificultan la percepción de la persona por parte del conductor del tren"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Eliminar el paso vicioso mediante la ejecución de un vallado perimetral en la margen izquierda (lado ciudad) en el tramo ferroviario afectado, comprendido dentro del núcleo urbano de Teruel.",
+   "destinatario": "ADIF"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "paso vicioso",
+  "estacion teruel",
+  "media distancia",
+  "caminreal-sagunto",
+  "via unica",
+  "bloqueo telefonico",
+  "visibilidad reducida",
+  "vallado perimetral",
+  "entorno urbano",
+  "renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-071106-130407"
+}

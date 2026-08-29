@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un peatón de 88 años en paso entarimado de la estación de Sigüenza por niebla intensa",
+ "idioma_original": "es",
+ "resumen": "El 17 de enero de 2007, a las 11:02, un varón de 88 años fue arrollado mortalmente por el tren de mercancías 54615 de RENFE al cruzar por un paso entarimado para carretillas en la estación de Sigüenza (Guadalajara), línea Madrid-Barcelona, PK 139,840. El tren circulaba a 101 km/h (máximo permitido 115 km/h) y la niebla intensa redujo la visibilidad del peatón. No se produjeron daños materiales. La investigación concluyó que el origen fue la invasión indebida de la vía por parte de la víctima, agravada por su avanzada edad, movilidad reducida y las condiciones meteorológicas.",
+ "hechos": "A las 11:02 del 17 de enero de 2007, el tren de mercancías nº 54615 de RENFE, remolcado por la locomotora 269.106 y compuesto por 20 vehículos con masa remolcada de 749 toneladas, efectuaba el recorrido Bilbao-Azuqueca. Al pasar por la estación de Sigüenza (PK 139,840, línea Madrid-Barcelona, provincia de Guadalajara), el maquinista observó a una persona caminando por las inmediaciones de la vía con intención de cruzar. Se hizo uso del silbato para apercibir de la presencia del tren, pero la persona aceleró el paso y, pese a aplicar el freno de emergencia, resultó inevitable el golpe con el lado izquierdo de la locomotora. La víctima era un varón de 88 años que intentaba cruzar por el paso entarimado para carretillas situado al final del andén de vía I. La niebla intensa en el momento del accidente redujo significativamente la visibilidad del peatón. El tren necesitó 608 metros desde la aplicación del freno de emergencia hasta su detención. No se produjeron daños materiales. La Autoridad Judicial autorizó el levantamiento del cadáver a las 14:50, restableciéndose la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sigüenza",
+  "pk": "139,840",
+  "linea": "Madrid-Barcelona",
+  "provincia": "Guadalajara",
+  "descripcion_lugar": "Paso entarimado para carretillas situado al final del andén de vía I de la estación de Sigüenza. Línea con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. No dispone de paso a distinto nivel (ni elevado ni subterráneo) para cruce de vías."
+ },
+ "cronologia": [
+  {
+   "hora": "11:02",
+   "evento": "Arrollamiento del peatón de 88 años por el tren de mercancías 54615 al cruzar el paso entarimado para carretillas en la estación de Sigüenza."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando, que cursa aviso a Seguridad Corporativa, Gerencias de Seguridad en la Circulación de Adif y Renfe Operadora, Autoridad Competente y servicios de emergencia."
+  },
+  {
+   "hora": null,
+   "evento": "Dos agentes de Seguridad en la Circulación Centro de Adif se personan en el lugar para realizar la toma de datos. Renfe desplaza agentes de su Gerencia Territorial para inspección."
+  },
+  {
+   "hora": null,
+   "evento": "Prueba de alcoholemia al maquinista en el Gabinete Sanitario de Atocha: resultado negativo (0,00 mg/ml)."
+  },
+  {
+   "hora": "14:50",
+   "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver y se restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "54615",
+   "tipo": "mercancías",
+   "operador": "RENFE Operadora",
+   "danos": "Sin daños materiales. Retraso de 42 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 54615",
+   "implicacion": "Observó al peatón, hizo uso del silbato y aplicó el freno de emergencia, pero resultó inevitable el arrollamiento. Alcoholemia negativa (0,00 mg/ml)."
+  },
+  {
+   "rol": "Supervisor de línea de la Jefatura Técnica de Operaciones de Madrid (ADIF)",
+   "implicacion": "Nombrado jefe delegado del accidente."
+  },
+  {
+   "rol": "Supervisor de Circulación (ADIF)",
+   "implicacion": "Portavoz de la información."
+  },
+  {
+   "rol": "Víctima (varón, 88 años)",
+   "implicacion": "Fallecida. Intentó cruzar las vías por el paso entarimado para carretillas en el momento del paso del tren."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada de la estación en vía libre. Apeadero con señalización luminosa y megafonía centralizada avisando del paso de trenes ('Tren sin parada no admite viajeros'). En PK 139,924 paso a nivel de clase C con semibarreras, protección acústica y luminosa para vehículos y paso peatonal con señalización luminosa. Los avisos acústicos del paso a nivel y la megafonía del apeadero NO son perceptibles desde el paso entarimado objeto del accidente.",
+  "tipo_via": "Vía doble con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. Paso entarimado con losas de hormigón y traviesas de madera. Andenes recrecidos a cota suficiente para impedir accesibilidad a vías, pero rebajados en los lugares de acceso a los pasos entre andenes.",
+  "velocidad_maxima": "115 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Buen estado de mantenimiento constatado en el firme de los pasos entarimados.",
+  "otro": "Bloqueo de Liberación Automática de vía doble (B.L.A.D) con CTC. El apeadero dispone de tres pasos entre andenes entablonados para cruce de peatones (centro del andén y a 48 metros por cada extremo) y un paso adicional para vehículos con ruedas (carretillas rurales). No dispone de paso a distinto nivel."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269.106",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Niebla intensa. Condiciones meteorológicas que redujeron significativamente la visibilidad del peatón en el paso entarimado.",
+ "causas": {
+  "directa": "Invasión indebida de las vías por la víctima al cruzar el paso entarimado en el momento de la llegada del tren 54615, constituyendo una imprudencia al transitar indebidamente por las instalaciones de la estación.",
+  "contribuyentes": [
+   "Avanzada edad de la víctima (88 años) y movilidad reducida que dificultaron que pudiera salir de la trayectoria del tren a tiempo.",
+   "Niebla intensa que redujo la visibilidad del peatón en el paso entarimado.",
+   "Los avisos acústicos del paso a nivel y de la megafonía del apeadero no son perceptibles desde el paso entarimado donde se produjo el accidente.",
+   "El paso entarimado para carretillas se encuentra al final del andén y no está dotado de señalización luminosa ni acústica propia."
+  ],
+  "sistemicas": [
+   "El apeadero no dispone de paso a distinto nivel (ni elevado ni subterráneo) para el cruce de vías por parte de los viajeros.",
+   "Existencia de múltiples pasos a nivel de vía (tres entre andenes + uno para carretillas) sin protección adecuada en el paso entarimado para carretillas.",
+   "El paso entarimado para carretillas, diseñado para vehículos con ruedas, era utilizado por peatones como cruce de vías."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos. El tren 54615 sufrió un retraso de 42 minutos. Circulación restablecida a las 14:50."
+ },
+ "lecciones": [
+  "Los pasos entarimados para carretillas pueden ser utilizados indebidamente por peatones como cruce de vías, generando riesgo si no están dotados de señalización adecuada.",
+  "La niebla intensa puede reducir la visibilidad en pasos entre andenes situados en traza recta, anulando la ventaja de la rectitud de la vía.",
+  "La megafonía y los avisos acústicos del paso a nivel cercano no son perceptibles desde el paso entarimado, creando una falsa sensación de protección.",
+  "Las personas de edad avanzada con movilidad reducida tienen mayor dificultad para evacuar la vía ante la aproximación de un tren, especialmente en condiciones de baja visibilidad."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Suprimir los dos pasos entre andenes existentes en el apeadero y situados a 48 metros del eje de la estación de viajeros respectivamente.",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Dotar al paso entre andenes situado en el eje de la estación de una señalización luminosa y acústica, similar a la de los pasos a nivel peatonales, que indique la presencia de circulaciones por el apeadero. El paso entarimado para vehículos sobre ruedas se mantiene para las personas de movilidad reducida.",
+   "destinatario": "ADIF"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "niebla",
+  "paso entarimado",
+  "estacion",
+  "siguenza",
+  "guadalajara",
+  "mercancias",
+  "movilidad reducida",
+  "invasion via",
+  "senalizacion peatonal",
+  "bloqueo blad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-170107-200607-DGF"
+}

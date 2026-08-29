@@ -1,0 +1,124 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un peatón en paso a nivel de Sant Feliu de Llobregat (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 2007-01-18, a las 00:50, un peatón varón falleció al ser arrollado por el tren de Cercanías RENFE nº 39212 en el paso a nivel de clase C del PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, en Sant Feliu de Llobregat (Barcelona). La víctima cruzó indebidamente las vías pese a las señales luminosas peatonales y a las barreras abatidas, y no utilizó el paso superior existente. No se produjeron daños materiales ni lesiones en el personal ferroviario; el tren acumuló 145 minutos de retraso y se cortó la tensión en catenaria para la limpieza del lugar. El informe recomienda campañas de concienciación y recoge que la supresión del paso a nivel por soterramiento estaba en fase de proyecto.",
+ "hechos": "El día 18 de enero de 2007, a las 00:50, una persona que se disponía a cruzar las vías de izquierda a derecha en el sentido de la marcha del tren fue arrollada por el tren de Cercanías nº 39212 de RENFE, compuesto por las unidades de tracción 447051 y 447108, que procedía de Martorell y tenía como destino L’Hospitalet de Llobregat. El arrollamiento se produjo en el paso a nivel de clase C del PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, en el municipio de Sant Feliu de Llobregat, provincia de Barcelona. La víctima era un varón y falleció como consecuencia del atropello.\n\nEl tren circulaba por vía I porque se estaban realizando trabajos programados de nivelación de desvíos en la estación de Cornellá. Según el parte del maquinista, al aproximarse al paso a nivel observó la irrupción súbita de una persona en la caja de vía, hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. El paso a nivel funcionaba correctamente y disponía de semáforo peatonal y de un paso elevado a 10 metros.\n\nTras el suceso, el maquinista informó al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Seguridad en la Circulación de Adif y Renfe Operadora, Jefatura Territorial de operaciones de Barcelona, servicios de emergencia, Logística y operadores afectados. Se practicó prueba de alcoholemia al maquinista a las 04:15, con resultado negativo. El tren reanudó la marcha a las 03:25 con 145 minutos de retraso, y se realizó un corte de tensión en catenaria en vía I entre las 03:37 y las 03:55 para limpiar el punto del arrollamiento.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Sant Feliu de Llobregat",
+  "pk": "88,906",
+  "linea": "240 Tarragona-Barcelona-Francia",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso a nivel de clase C en la intersección con el Paseo de Vilardaba, actuaba como paso peatonal, protegido con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, semáforo peatonal y paso elevado a 10 metros; trazado en vía doble electrificada."
+ },
+ "cronologia": [
+  {
+   "hora": "00:00",
+   "evento": "Inicio de la jornada del maquinista del tren 39212."
+  },
+  {
+   "hora": "00:50",
+   "evento": "2007-01-18: Arrollamiento mortal de un peatón varón en el paso a nivel de clase C del PK 88,906 por el tren de Cercanías RENFE nº 39212."
+  },
+  {
+   "hora": "03:25",
+   "evento": "El tren reanuda la marcha desde Sant Feliu con 145 minutos de retraso; tras el levantamiento del cadáver se solicita corte de tensión en catenaria en vía I."
+  },
+  {
+   "hora": "03:37",
+   "evento": "Comienza el corte de tensión en catenaria en vía I para proceder a la limpieza del punto de arrollamiento."
+  },
+  {
+   "hora": "03:55",
+   "evento": "Finaliza el corte de tensión en catenaria."
+  },
+  {
+   "hora": "04:15",
+   "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "39212",
+   "tipo": "Cercanías",
+   "operador": "RENFE",
+   "danos": "No se produjeron daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 39212",
+   "implicacion": "Informó del suceso al Puesto de Mando; jornada del incidente de 00:00 a 00:50, jornada anterior de 19:00 a 24:00 y descanso 48 horas antes; alcoholemia negativa; se constató que estaba en condiciones aptas y que su jornada cumplía la reglamentación; hizo uso del silbato y del freno de emergencia."
+  },
+  {
+   "rol": "Víctima / peatón",
+   "implicacion": "Varón fallecido; cruzó las vías de izquierda a derecha en el sentido de la marcha del tren, no respetó las señales luminosas peatonales ni las barreras abatidas y no utilizó el paso superior existente a 10 metros del paso a nivel."
+  },
+  {
+   "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Adif",
+   "implicacion": "Realizaron toma de datos, prueba de alcoholemia al maquinista y toma de declaración."
+  },
+  {
+   "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Renfe Operadora",
+   "implicacion": "Se personaron de forma inmediata tras el accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones/semáforo peatonal, paso elevado a 10 metros y buena visibilidad; señales de tren en vía libre.",
+  "tipo_via": "Vía doble electrificada; el tren circulaba por vía I.",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada; corte de tensión en catenaria en vía I desde las 03:37 hasta las 03:55.",
+  "estado_via": "El paso a nivel funcionaba correctamente; el tren circulaba por vía I debido a trabajos programados de nivelación de desvíos en la estación de Cornellá.",
+  "otro": "Bloqueo Automático Banalizado con CTC. Momento de circulación (144,5 x 1.760) = 254.318. El informe registra en comprobaciones que el tren nº18316 circulaba a 116 km/h, con velocidad máxima permitida de 120 km/h; el tren del arrollamiento se identifica como nº39212. Antecedentes de accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características. Supresión del paso a nivel por soterramiento de la línea en fase de proyecto."
+ },
+ "material_rodante": {
+  "series": "Unidades de tracción 447051 y 447108",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Cruce indebido de la víctima por el paso a nivel, haciendo caso omiso a las señales luminosas peatonales que indicaban prohibición de pasar y estando las barreras abatidas por el paso del tren 39212.",
+  "contribuyentes": [
+   "Irrupción súbita de una persona en la caja de vía, según el parte del maquinista.",
+   "No uso del paso superior existente a 10 metros del paso a nivel.",
+   "El paso a nivel de clase C actuaba como paso peatonal."
+  ],
+  "sistemicas": [
+   "Precedentes de accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características.",
+   "Necesidad de campañas de concienciación ciudadana sobre el uso de las correctas zonas de paso.",
+   "Supresión del paso a nivel por soterramiento de la línea en fase de proyecto."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Retraso de 145 minutos en el tren 39212; corte de tensión en catenaria en vía I de 03:37 a 03:55 para limpieza del punto de arrollamiento."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar campañas de concienciación destinadas a la ciudadanía sobre el peligro que supone no hacer uso de las correctas zonas de paso.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "paso a nivel",
+  "clase c",
+  "sant feliu de llobregat",
+  "barcelona",
+  "renfe",
+  "cercanías",
+  "fallecido",
+  "semáforo peatonal",
+  "soterramiento",
+  "concienciación"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-180107-200607-DGF"
+}

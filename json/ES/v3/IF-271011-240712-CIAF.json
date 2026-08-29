@@ -1,0 +1,140 @@
+{
+ "titulo_normalizado": "Descarrilamiento por rebase de señal de parada en la estación de Astillero",
+ "idioma_original": "es",
+ "resumen": "El 2011-10-27, a las 14:25, el tren regional de viajeros 6803 de Feve, con origen Santander y destino Bilbao, rebasó indebidamente la señal de salida S1/1L en indicación de parada en la estación de Astillero (Cantabria). Talonó la aguja A2 y descarriló el segundo eje del primer bogie del vehículo de cabeza. No hubo víctimas mortales ni heridos. El accidente se originó por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "hechos": "El 2011-10-27, a las 14:25, el tren regional de viajeros 6803 de Feve, con origen Santander y destino Bilbao, salió con ocho minutos de retraso. Ese día, debido al retraso, el CTC alteró el cruce habitual con el tren 6414 y lo dispuso en la estación de Astillero, en lugar de la estación de Heras; el personal de conducción del 6803 no tuvo conocimiento de ese cambio. El CTC estableció parada ante la señal S1/1L para el 6803 y un itinerario de entrada hacia vía 4L por el escape 2/4 para el 6414, que circulaba en sentido contrario.\n\nEl tren 6803 se estacionó en vía 1 a las 14:22 y reinició la marcha a las 14:23 tras las operaciones comerciales. Pasó la señal S1/1 en aviso de parada a 32 km/h, continuó por un falso túnel y alcanzó 64,8 km/h. Al advertir que la señal S1/1L estaba en indicación de parada, el maquinista aplicó freno de servicio y después la seta de emergencia, pero rebasó la señal a 39 km/h y se activó el ASFA. A continuación talonó la aguja A2 y descarriló el segundo eje del primer bogie del vehículo de cabeza, deteniéndose 44 m después.\n\nNo se produjo conato de colisión porque el tren 6414 estaba protegido por las señales de entrada a Astillero y el 6803 tenía detrás la señal S1. No hubo víctimas. El vehículo fue encarrilado por la brigada de socorro a las 16:50 y la circulación se restableció a las 18:15 tras reparar el desvío A2.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Astillero",
+  "pk": "540+075",
+  "linea": "24 Santander - Bilbao",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Estación de Astillero, tramo Santander - Basurto, trayecto Astillero - La Cantábrica (apeadero); accidente junto a la señal S1/1L (PK 540+782) y el escape A2/A4, cerca del falso túnel."
+ },
+ "cronologia": [
+  {
+   "hora": "14:22",
+   "evento": "El tren 6803 se detiene en la estación de Astillero."
+  },
+  {
+   "hora": "14:23",
+   "evento": "El tren 6803 inicia la marcha tras la parada comercial."
+  },
+  {
+   "hora": "14:24",
+   "evento": "El tren 6803 pasa la señal S1/1 en aviso de parada a 32 km/h."
+  },
+  {
+   "hora": "14:24",
+   "evento": "El tren 6803 supera la señal S1/1 y ocupa el circuito CV1L con la señal S1/1L cerrada."
+  },
+  {
+   "hora": "14:24",
+   "evento": "El tren 6803 inicia el frenado y poco después aplica la seta de emergencia."
+  },
+  {
+   "hora": "14:24",
+   "evento": "El tren 6803 rebasa la señal S1/1L en parada a 39 km/h y se activa el frenado de emergencia por ASFA."
+  },
+  {
+   "hora": "14:25",
+   "evento": "Se produce el talonamiento de la aguja A2 y el descarrilamiento del segundo eje del primer bogie del vehículo de cabeza."
+  },
+  {
+   "hora": "14:25",
+   "evento": "El tren 6803 se detiene 44 m después de la señal rebasada."
+  },
+  {
+   "hora": "14:25",
+   "evento": "El tren 6414 se encuentra en plena vía entre Heras y Astillero, sin haber superado la señal E'2."
+  },
+  {
+   "hora": "14:34",
+   "evento": "El tren 6414 se sitúa antes de la señal de avanzada E'2 de Astillero, encontrándose cerrada."
+  },
+  {
+   "hora": "16:50",
+   "evento": "El vehículo descarrilado se encarrila por la brigada de socorro y se aparta por sus propios medios."
+  },
+  {
+   "hora": "18:15",
+   "evento": "Termina la reparación del desvío A2 y se restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6803",
+   "tipo": "tren regional de viajeros",
+   "operador": "Feve",
+   "danos": "Sin daños de consideración; fue necesario el encarrilamiento, valorado en 1.955 euros."
+  },
+  {
+   "numero": "6414",
+   "tipo": "tren",
+   "operador": "Feve",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 6803",
+   "implicacion": "Carné ferroviario 8480; habilitado; 29 años de antigüedad; reciclaje 2010-08-20 y reconocimiento 2011-03-23; pruebas de alcohol y drogas negativas; no fue informado del cambio de cruce; aplicó freno de servicio y emergencia; incumplió las señales S1/1 y S1/1L."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico; señal S1/1 en aviso de parada; señal S1/1L alta de tres focos en indicación de parada, con baliza ASFA de pie de señal y no previa; ASFA en el tren.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "funcionó correctamente",
+  "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC) en Santander; apeadero de La Cantábrica a unos 950 m; falso túnel; visibilidad de la señal S1/1L de unos 210 m; distancia de MT/OT a S1/1L de 661 m."
+ },
+ "material_rodante": {
+  "series": "tipo 2400; unidad diesel-eléctrica (UTDE) de cuatro bogies y ocho ejes, con cabinas Mc 2452 y Mc 2402; dispone de ASFA",
+  "averia": "ninguna; funcionó correctamente",
+  "mantenimiento": null
+ },
+ "clima": "lluvioso y nublado; carril mojado",
+ "causas": {
+  "directa": "Rebase indebido de la señal S1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "El retraso del tren 6803 motivó alterar el cruce con el tren 6414 en Astillero, habitualmente establecido en Heras.",
+   "El personal de conducción del tren 6803 no tuvo conocimiento de la alteración del cruce; según su declaración, nadie del CTC se puso en contacto para informarle.",
+   "El maquinista reconoció la indicación de aviso de parada de la señal S1/1, pero incrementó la velocidad hasta 64,8 km/h.",
+   "La distancia de visibilidad de la señal S1/1L era de 210 m y el frenado se inició a una distancia inferior, de 170 m.",
+   "La deceleración del frenado de emergencia fue algo menor que la establecida en la NBSM, posiblemente por el carril húmedo y la lluvia.",
+   "El carril estaba mojado y no había arenado, según la declaración del maquinista."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: daños en varios elementos del cambio A2 (bielas, barras de comprobación y torsión del espadín derecho), valorados en 2.336 euros. Material rodante: sin daños de consideración; encarrilamiento valorado en 1.955 euros.",
+  "afectacion_servicio": "Circulación interrumpida durante 146 minutos, de 14:24 a 16:50; vía general interceptada; 6 trenes suprimidos y 16 trenes con un retraso total de 255 minutos; se usaron autobuses para viajeros de los trenes 6803 y 8602 y transbordos tren a tren por el apeadero de La Cantábrica; la circulación se restableció a las 18:15 tras reparar el desvío A2."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "50/11-1: En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "descarrilamiento",
+  "talonamiento de aguja",
+  "señal de parada",
+  "asfa",
+  "feve",
+  "estación de astillero",
+  "retraso",
+  "cruce alterado",
+  "lluvia",
+  "formación"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-271011-240712-CIAF"
+}

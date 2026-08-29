@@ -1,0 +1,111 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de peatón por tren de cercanías en plena vía entre Aeropuerto y San Julián, línea 436 Fuengirola-Málaga (Málaga)",
+ "idioma_original": "es",
+ "resumen": "El 30 de julio de 2008, a las 18:05 horas, el tren de cercanías 23351 de Renfe Operadora arrolló a una persona en el P.K. 8,870 de la línea 436 Fuengirola-Málaga, entre los apeaderos de Aeropuerto y San Julián. La víctima, un varón de 65 años, falleció, mientras que la mujer que lo acompañaba resultó ilesa. El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado mientras circulaba el tren. El material rodante y la infraestructura funcionaron correctamente y no se establecieron recomendaciones.",
+ "hechos": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de Renfe Operadora, formado por el automotor 446098, 3 vehículos y una masa remolcada de 220 Tm, circulaba por el punto kilométrico 8,870 de la línea 436 Fuengirola-Málaga, en plena vía, entre los apeaderos de Aeropuerto y San Julián.\n\nEl tren arrolló a una persona que caminaba junto con otra por la caja de la vía y de espaldas al tren. La víctima, un varón de 65 años, fue desplazada fuera del gálibo de la vía, mientras que la mujer que lo acompañaba resultó ilesa. Según el parte del maquinista, al percibir a dos personas andando por la vía hizo uso del silbato y del frenado de urgencia; una se quitó y la otra no, siendo arrollada.\n\nTras detenerse el tren, el maquinista comunicó el suceso al Puesto de Mando de Málaga. A las 18:26 horas el tren implicado reanudó la marcha; a las 18:44 horas los servicios médicos de bomberos comunicaron que la víctima resultaba cadáver; a las 19:05 horas se personaron agentes de la Policía Judicial; a las 20:20 horas llegaron los servicios forenses; a las 20:38 horas llegaron los servicios funerarios y se levantó el cadáver; a las 21:00 horas se reanudó la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "8,870",
+  "linea": "436 Fuengirola-Málaga",
+  "provincia": "Málaga",
+  "descripcion_lugar": "Plena vía entre los apeaderos de Aeropuerto y San Julián; en curva, terraplén, de difícil acceso y vallado por ambos lados."
+ },
+ "cronologia": [
+  {
+   "hora": "18:05",
+   "evento": "Arrollamiento de una persona por el tren de cercanías 23351 en el P.K. 8,870."
+  },
+  {
+   "hora": "18:26",
+   "evento": "El tren implicado en el accidente reanuda la marcha."
+  },
+  {
+   "hora": "18:30",
+   "evento": "Se prescribe marcha a la vista entre Aeropuerto y Aguja Km. 11,3."
+  },
+  {
+   "hora": "18:44",
+   "evento": "Los servicios médicos de bomberos comunican que la víctima resulta cadáver."
+  },
+  {
+   "hora": "19:05",
+   "evento": "Agentes de la Policía Judicial se personan en el lugar de los hechos."
+  },
+  {
+   "hora": "19:47",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF la producción del arrollamiento."
+  },
+  {
+   "hora": "20:20",
+   "evento": "Los servicios forenses se presentan en el lugar del arrollamiento."
+  },
+  {
+   "hora": "20:38",
+   "evento": "Llegan los servicios funerarios y se procede al levantamiento del cadáver."
+  },
+  {
+   "hora": "21:00",
+   "evento": "Se reanuda la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "23351",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 23351",
+   "implicacion": "Matrícula 9683509. Percibió a dos personas andando por la vía, actuó con silbato y frenado de urgencia; su actuación fue correcta. Poseía título de conducción y habilitación; prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "90 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "En curva y en terraplén, de difícil acceso y vallado por ambos lados.",
+  "otro": "Radiotelefonía A. Los sistemas de control de la infraestructura funcionaban correctamente."
+ },
+ "material_rodante": {
+  "series": "Automotor 446098; matrícula UIC 967194460986; 3 vehículos; masa remolcada 220 Tm.",
+  "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "De día, con condiciones atmosféricas buenas.",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar no autorizado para ello en el momento que circulaba el tren de viajeros 23351.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "Circulación normal suspendida durante 21 minutos; marcha a la vista entre Aeropuerto y Aguja Km. 11,3 desde las 18:30 hasta las 21:00 horas; retrasos en ocho trenes de cercanías entre Fuengirola y Málaga."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "cercanías",
+  "renfe operadora",
+  "adif",
+  "línea 436",
+  "fuengirola-málaga",
+  "málaga",
+  "plena vía",
+  "fallecido",
+  "seguridad ferroviaria",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-300708-2-281108-CIAF_Fuengirola-Málaga"
+}

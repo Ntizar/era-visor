@@ -1,0 +1,216 @@
+{
+ "titulo_normalizado": "Descarrilamiento del AVE 0043 por rotura del corazón de punta móvil del desvío 514 en el PBA de Brazatortas",
+ "idioma_original": "es",
+ "resumen": "El 12 de mayo de 2017 a las 10:23:50 horas, el tren AVE 0043 de Renfe Viajeros, compuesto por material Talgo serie 112 en doble rama, descarriló al paso por el cruzamiento del desvío 514 del puesto de bloqueo y adelantamiento (PBA) de Brazatortas (Ciudad Real), en la línea 010 Madrid-Sevilla. El descarrilamiento fue ocasionado por la rotura del corazón de punta móvil del cruzamiento, provocando que el rodal nº 8 se descarrilara y el tren circulara descarrilado 3.489 metros hasta su detención. No se produjeron víctimas mortales ni heridos, aunque sí importantes daños materiales en el tren y la infraestructura. La causa directa fue un fallo de infraestructura por fatiga del material, y las causas subyacentes apuntan a deficiencias en los planes de mantenimiento y auscultación de aparatos de vía.",
+ "hechos": "El día 12 de mayo de 2017 a las 10:23:50 horas, el tren de viajeros de larga distancia AVE 0043 de Renfe Viajeros, procedente de Sevilla Santa Justa con destino Barcelona Sants, circulaba por la vía 1 de la línea 010 de alta velocidad a una velocidad de 268 km/h (inferior al máximo permitido de 270 km/h). El tren estaba formado por doble rama de material Talgo serie 112: la rama 112.001 en cabeza y la 112.028 en cola, con un total de 28 vehículos, 740 toneladas y 400 metros de longitud. Al pasar por el desvío 514 (p.k. 225+965) del PBA de Brazatortas, se produjo la rotura del corazón de punta móvil del cruzamiento, lo que causó el descarrilamiento del rodal nº 8 (coche nº 7 de la rama de cabeza), iniciándose en la rueda izquierda según el sentido de marcha. Siete segundos después (10:23:57), el DMI de la cabina detectó varias averías graves (altura de suspensión anómala, inestabilidad del rodal, rueda bloqueada) y se aplicó automáticamente el freno de emergencia a 267 km/h. El tren continuó circulando descarrilado durante 3.489 metros en 1 minuto y 12 segundos, deteniéndose a las 10:25:02 horas en el p.k. 222+400. La rueda izquierda del rodal descarrilado quedó alojada entre el disco de freno y el carril izquierdo, lo que actuó como guía impidiendo un desplazamiento transversal de los coches. El maquinista contactó con el puesto de mando de Madrid Puerta de Atocha y el Centro de Gestión de Renfe. No se produjeron víctimas mortales ni heridos. Se causaron daños materiales importantes en ambas ramas del tren y en la infraestructura de vía (carriles, traviesas, sujeciones, desvíos 514 y 502, instalaciones LZB). El puesto de mando suspendió la circulación por la vía 1 y estableció vía única por la vía 2 entre Venta La Inés y Puertollano. Un tren de socorro (97066) transbordó a los viajeros entre las 13:02 y las 13:45 horas. Los trabajos de encarrilamiento y sustitución del cruzamiento se realizaron durante la noche del 12 al 13 de mayo. Las condiciones normales de explotación se restablecieron el 24 de mayo de 2017.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "PBA de Brazatortas",
+  "pk": "225+965",
+  "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+  "provincia": "Ciudad Real",
+  "descripcion_lugar": "Desvío 514 (cruzamiento) del puesto de bloqueo y adelantamiento (PBA) de Brazatortas, vía 1, lado Sevilla Santa Justa, en el tramo Brazatortas-Puertollano. El PBA consta de dos vías, cuatro desvíos (502 y 514 por vía 1, 501 y 515 por vía 2), cuatro señales avanzadas, cuatro de entrada y cuatro de salida."
+ },
+ "cronologia": [
+  {
+   "hora": "08:50",
+   "evento": "Salida del tren 0043 de la estación de Sevilla Santa Justa"
+  },
+  {
+   "hora": "10:23:50",
+   "evento": "Descarrilamiento del rodal nº 8 al paso por el desvío 514 (p.k. 225+965), velocidad 268 km/h. Rotura del corazón de punta móvil del cruzamiento."
+  },
+  {
+   "hora": "10:23:57",
+   "evento": "Aplicación automática del freno de emergencia (DMI indica averías graves). Velocidad 267 km/h. 774 metros recorridos desde el punto de descarrilamiento."
+  },
+  {
+   "hora": "10:25:02",
+   "evento": "Detención del tren 0043 en el p.k. 222+400, tras 3.489 metros circulando descarrilado (1 min 12 s)."
+  },
+  {
+   "hora": "10:25",
+   "evento": "El maquinista contacta con el puesto de mando de Madrid Puerta de Atocha y el Centro de Gestión de Renfe. Personal de mantenimiento comunica falta de comprobación del desvío 514."
+  },
+  {
+   "hora": "10:25",
+   "evento": "El puesto de mando observa pérdida de comprobación del desvío 514 y ocupación del circuito de vía de la aguja 502. Se suspende circulación por vía 1 y se establece vía única por vía 2 entre Venta La Inés y Puertollano."
+  },
+  {
+   "hora": "11:30",
+   "evento": "Se alimenta la zona neutra del p.k. 222+500 para dar confort a los viajeros. Se inicia formación del tren de socorro 97066 (ramas 102.015 y 112.030) en Madrid Puerta de Atocha."
+  },
+  {
+   "hora": "11:44",
+   "evento": "Sale el tren de socorro 97066"
+  },
+  {
+   "hora": "11:50",
+   "evento": "Se da comprobación artificial al desvío 514"
+  },
+  {
+   "hora": "12:50",
+   "evento": "El tren 97066 se estaciona en vía 2 paralelo al tren 0043"
+  },
+  {
+   "hora": "13:02",
+   "evento": "Inicio del transbordo de viajeros del tren 0043 al 97066"
+  },
+  {
+   "hora": "13:45",
+   "evento": "Fin del transbordo de viajeros"
+  },
+  {
+   "hora": null,
+   "evento": "13/05/2017 00:58: Sale locomotora 319.242 de Calatrava con cruzamiento nuevo para sustitución en desvío 514"
+  },
+  {
+   "hora": "01:20",
+   "evento": "13/05: Corte de tensión en la LAC"
+  },
+  {
+   "hora": "01:30",
+   "evento": "13/05: Comienzan trabajos de encarrilamiento del rodal nº 8 del autopropulsado 112.001"
+  },
+  {
+   "hora": "01:40",
+   "evento": "13/05: Comienzan trabajos de sustitución del cruzamiento del desvío 514"
+  },
+  {
+   "hora": "06:15",
+   "evento": "13/05: Se restablece tensión en la LAC"
+  },
+  {
+   "hora": "06:20",
+   "evento": "13/05: Finalizan labores de encarrilamiento del autopropulsado 112.001"
+  },
+  {
+   "hora": "07:00",
+   "evento": "13/05: Los autopropulsados 112.001 y 112.028 inician marcha a 5 km/h con revisiones intermedias"
+  },
+  {
+   "hora": "09:26",
+   "evento": "13/05: Los autopropulsados quedan apartados en la estación de Puertollano"
+  },
+  {
+   "hora": "07:19",
+   "evento": "14/05: Se libera EVB de vía 1; se establece LTV-CSV a 30 km/h entre pp.kk. 226+000 y 222+550 por vía 1"
+  },
+  {
+   "hora": "07:45",
+   "evento": "20/05: Se suprime LTV-CSV 30 km/h; se establece nueva LTV-CSV a 80 km/h entre pp.kk. 224+663 y 222+537"
+  },
+  {
+   "hora": "05:01",
+   "evento": "24/05: Se suprime LTV-CSV 80 km/h; se restablecen condiciones normales de explotación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "0043",
+   "tipo": "AVE larga distancia, doble rama Talgo serie 112 (112.001 cabeza + 112.028 cola), 28 vehículos, 740 t, 400 m",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños importantes en ambas ramas por circular descarrilado 3,5 km. Rueda izquierda del rodal nº 8 descarrilada con carril entre llanta y disco de freno; rueda derecha caída al exterior. Rotura de cristales en coches 8, 9 y 3."
+  },
+  {
+   "numero": "97066",
+   "tipo": "Tren de socorro, doble composición (ramas 102.015 y 112.030)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  },
+  {
+   "numero": "319.242",
+   "tipo": "Locomotora con vagón plataforma cargado con cruzamiento nuevo",
+   "operador": "Adif",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 0043",
+   "implicacion": "Matrícula 9680***. Título B de conducción, habilitado línea 010 desde Córdoba-Madrid (desde 21/04/2006) y vehículo (desde 04/12/2012). Antigüedad desde 02/01/2007. Último reciclaje 11/06/2014, último reconocimiento médico 05/05/2016. Jornada del día del suceso: 01:07 h (40 min conducción efectiva). No percibió golpes ni movimientos bruscos; detectó averías por DMI. Aplicó correctamente los procedimientos de emergencia y comunicación."
+  },
+  {
+   "rol": "Responsable de circulación, puesto de mando Madrid Puerta de Atocha",
+   "implicacion": "Matrícula 2843***. Habilitación conforme a Orden FOM/2872/2010. Último reciclaje y reconocimiento 05/04/2017. Observó pérdida de comprobación del desvío 514 y ocupación de circuito de vía de la aguja 502. Gestionó la suspensión de vía 1 y activación del plan de emergencia interno."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "LZB (protección automática de trenes) con respaldo ASFA 200. Bloqueo de control automático (BCA). CTC-1000 de tecnología THALES. Cuatro señales avanzadas, cuatro de entrada y cuatro de salida en el PBA.",
+  "tipo_via": "Doble vía banalizada en ancho estándar. Desvío 514 de tipo alta velocidad DSIH-AV-60-10000/4000-0.0267-CCM, sencillo, sobre traviesas de hormigón, carril UIC 60 (60 kg/m), cruzamiento curvo de corazón de punta móvil elástica. Agujas accionadas por 8 motores; punta móvil por 3 motores. Fabricado en 1989 por BWG (Alemania), en servicio 25 años.",
+  "velocidad_maxima": "270 km/h (paso por vía directa según CVM); 160 km/h por vía desviada; tipo 300 según libro horario",
+  "ancho": "1.435 mm (estándar)",
+  "electrificacion": "1 x 25 kV 50 Hz (corriente alterna). Zona neutra del cambio de fase en p.k. 222+500.",
+  "estado_via": "Pendiente de 0,61 milésimas. No existían obras en el lugar ni proximidades. Auscultaciones geométrica y dinámica realizadas por tren Séneca el 08/05/2017 (4 días antes) sin anomalías importantes. Última inspección del desvío 514 el 22/02/2017 sin defectos relevantes. Última auscultación ultrasónica (tren ZPS) el 04/09/2015 en vía 1, pero no cubre aparatos de vía.",
+  "otro": "PBA de Brazatortas en p.k. 225+430. Desvíos 502 y 514 por vía 1; 501 y 515 por vía 2. Media semanal de 583 circulaciones en el tramo Puertollano-Conquista (581 LD, 2 servicio). Mantenimiento a cargo de base de Calatrava (p.k. 196). GSM-R instalado en la línea."
+ },
+ "material_rodante": {
+  "series": "Talgo serie 112 (autopropulsados 112.001 y 112.028), tipo 300, ancho estándar 1.435 mm, NEV 907171120013 y 907171120286",
+  "averia": "Rotura del rodal nº 8 (coche nº 7 de rama de cabeza) por descarrilamiento. Rueda izquierda descarrilada con carril entre llanta y disco de freno; rueda derecha remontada y caída al exterior. Rotura de cristales en coches 8, 9 y 3. Alarma de incendio en motriz de cola (probablemente por polvareda).",
+  "mantenimiento": "Plan de mantenimiento PM.1121.10, Edición 1 de 26/03/2010, Revisión 4 de 14/11/2016. Últimas revisiones IS: 11/05/2017 (112.001) y 09/05/2017 (112.028). Parámetros de rodadura medidos el 10/05/2017 y 11/05/2017 dentro de tolerancia. Equipos de seguridad (freno, LZB) funcionaron correctamente. Registrador TELOC 2500. No se realizaron mediciones de parámetros de rodadura inmediatamente tras el descarrilamiento (observación adicional del informe)."
+ },
+ "clima": "De día, con chubascos intermitentes",
+ "causas": {
+  "directa": "Fallo de infraestructura: rotura de la punta móvil del corazón del cruzamiento del desvío 514 (carril izquierdo, vía 1) por fractura transversal iniciada en la zona del patín, donde microfisuras internas (debidas a los procesos de fabricación) progresaron por mecanismos de fatiga al acumularse tensiones en la estructura conjunta (carril, sujeciones, traviesas, balasto y elementos móviles) al paso de las circulaciones.",
+  "contribuyentes": [
+   "Las operaciones de mantenimiento no eran adecuadas para detectar defectos en el estado interno de los carriles de los aparatos de vía, al no emplearse la auscultación ultrasónica adecuada en los mismos (SGS).",
+   "No implantación por Adif desde 1992 de un programa de estudio, supervisión y seguimiento específico del estado y evolución de los aparatos de vía durante su vida (SGS).",
+   "No adopción de medidas adecuadas incluidas en los planes de mantenimiento (SGS) tendentes a la detección y tratamiento de defectos internos en los aparatos de vía.",
+   "La auscultación ultrasónica embarcada (tren ZPS) no es válida sobre aparatos de vía por obtener datos no fiables.",
+   "La detección de defectos en la zona del patín es altamente complicada incluso con equipos manuales phased array.",
+   "Antigüedad de los desvíos: 25 años en servicio, fabricados en 1989 con tecnología novedosa sin referencias previas.",
+   "Falta de dureza en el patín (243 vs 260 HB exigidos para acero R260), aunque no influye en la capacidad mecánica sino en desgaste.",
+   "Rotura similar seis meses antes en el desvío 501 del mismo PBA (29/12/2016) y defectos detectados en desvíos 813 y 802 de Guadajoz.",
+   "Incremento de roturas en aparatos de vía de la línea 010 a partir de 2013 (25 años de servicio)."
+  ],
+  "sistemicas": [
+   "Falta de consistencia de los criterios de seguridad en el cuerpo normativo (procedimientos, normas técnicas, normas de mantenimiento y contratos) para la regulación de inspecciones y auscultaciones ultrasónicas de desvíos y sustituciones de elementos según antigüedad y uso.",
+   "Posible fallo organizativo en las funciones y responsabilidades de la vigilancia y control del mantenimiento de los desvíos, delegadas en la contratación externa."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Tren 0043: daños importantes en ambas ramas (rodal nº 8 descarrilado, cristales rotos en coches 8, 9 y 3). Infraestructura: Desvío 514: rotura del cruzamiento y una aguja, daños en 6 traviesas, 90 placas intermedias, bielas de cerrojos, un tirante de comprobación, accionamientos nº 9 y 10, sujeciones. Desvío 502: daños en 7 traviesas, 8 tirantes, 16 placas de asiento y sujeciones. Zona entre desvíos: 1.681 traviesas dañadas, sujeciones y banqueta de balasto. Zona hasta detención: 8 roturas de carril, 3.547 traviesas dañadas, sujeciones e instalaciones de señalización LZB.",
+  "afectacion_servicio": "Vía única por vía 2 entre Venta La Inés y Puertollano desde el 12/05. LTV-CSV 30 km/h del 14/05 al 20/05; 80 km/h del 20/05 al 24/05. Retrasos en 383 trenes AVE (4.571 min) + 17 AVANT (124 min) + 209 min del tren 0043 = 4.904 minutos totales. No se suprimió ningún tren. No fue necesario activar Plan Alternativo de Transporte ni plan de emergencia externo."
+ },
+ "lecciones": [
+  "Los aparatos de vía con elementos complejos (puntas de corazón móviles) requieren un mantenimiento muy especializado y seguimiento específico, especialmente cuando se trata de tecnología novedosa sin experiencia contrastada.",
+  "Las auscultaciones ultrasónicas embarcadas no son válidas para aparatos de vía; se requieren equipos manuales con tecnología phased array, aunque su eficacia disminuye en la zona del patín.",
+  "Los procedimientos de mantenimiento deben establecer requisitos e intervalos de actuación obligatorios (no solo recomendaciones) incluyendo auscultaciones ultrasónicas de desvíos en los pliegos de contratación.",
+  "Debe definirse un ciclo de vida útil para los elementos de los aparatos de vía y realizar seguimiento de su evolución en función del uso.",
+  "La acumulación de tensiones en la estructura conjunta del aparato de vía (carril, sujeciones, traviesas, elementos móviles) puede provocar progresión por fatiga de microfisuras de fabricación hasta la rotura.",
+  "La rotura del desvío 501 seis meses antes en el mismo PBA era un indicio de un problema sistémico que no fue tratado con medidas preventivas suficientes."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer una metodología adecuada para que en las labores de mantenimiento se pueda conocer la evolución del estado interno de los carriles de los aparatos de vía, de manera que se puedan detectar preventivamente los defectos internos y actuar en consecuencia. Aplicar dichos métodos en las redes de alta velocidad y convencional. Incluir dicha metodología dentro de los procedimientos e instrucciones técnicas comprendidas en el SGS y trasladar sus requisitos a los correspondientes pliegos y contratos de mantenimiento preventivo.",
+   "destinatario": "Adif (implementador final), AESF (destinatario)"
+  },
+  {
+   "texto": "Estudiar desde el punto de vista técnico-científico la conveniencia de definir un ciclo de vida útil para los distintos elementos que componen los aparatos de vía. Considerar en su caso la experiencia de otros países al respecto.",
+   "destinatario": "Adif (implementador final), AESF (destinatario)"
+  },
+  {
+   "texto": "Realizar un estudio detallado de la evolución de los estados internos de los distintos elementos de los aparatos de vía en función de su uso, con el fin de conocer el comportamiento de los mismos y poder anticipar medidas correctoras ante los posibles fallos que pudieran producirse en dichos elementos. Considerar en su caso la experiencia de otros países al respecto.",
+   "destinatario": "Adif (implementador final), AESF (destinatario)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "desvío 514",
+  "brazatortas",
+  "rotura corazón punta móvil",
+  "fatiga material",
+  "microfisuras fabricación",
+  "auscultación ultrasónica",
+  "mantenimiento aparatos de vía",
+  "alta velocidad",
+  "línea 010",
+  "talgo serie 112",
+  "sgs adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ZS 12.05.2017 190125-170512-IF-SN_CIAF"
+}

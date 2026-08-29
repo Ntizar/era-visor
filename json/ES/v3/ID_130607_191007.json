@@ -1,0 +1,117 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren de mercancías en plena vía entre Reus y Vilaseca (Tarragona)",
+ "idioma_original": "es",
+ "resumen": "El 13 de junio de 2007, a las 03:35, una persona fue arrollada por el tren de mercancías 93556 en el punto kilométrico 93/250 de la línea Madrid-Barcelona vía Caspe, entre Reus y Vilaseca (Tarragona). La víctima falleció en el acto y fue localizada por la Policía Local de Vilaseca. El tren circulaba a 84 km/h (máximo 100 km/h) en un tramo recto, de noche y con condiciones meteorológicas buenas. El accidente se clasificó como grave y fue investigado por la Dirección General de Ferrocarriles. Las conclusiones apuntan a la imprudencia de la víctima, que invadió el gálibo de la vía.",
+ "hechos": "La Policía Local de Vilaseca encontró el cadáver de una persona en las proximidades de la vía a la altura del punto kilométrico 93/250 de la línea Madrid-Barcelona vía Caspe. Una vez localizado el último tren que pasó por ese punto, el tren de mercancías 93556 con locomotora 289039 (27 vagones, 687 toneladas), que lo hizo aproximadamente a las 03:35, se observaron restos de un arrollamiento en el estribo derecho de la locomotora. El maquinista declaró que no se enteró de nada y fue avisado por el Centro de Gestión a las 09:30 de la mañana. No se realizó control de alcoholemia por el tiempo transcurrido. El accidente produjo perturbaciones menores en la circulación y no causó daños materiales al tren.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Vilaseca (apeadero)",
+  "pk": "93/250",
+  "linea": "Madrid - Barcelona vía Caspe",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Plena vía, próximo al apeadero de Vilaseca, entre Reus y Vilaseca. Tramo en recta, vallado aunque no en su totalidad, con puntos por los que es posible el acceso a las vías."
+ },
+ "cronologia": [
+  {
+   "hora": "03:35",
+   "evento": "Arrollamiento de la persona por el tren de mercancías 93556 en el PK 93/250"
+  },
+  {
+   "hora": null,
+   "evento": "La Policía Local de Vilaseca encuentra el cadáver y avisa al Puesto de Mando"
+  },
+  {
+   "hora": "04:00",
+   "evento": "Se prescribe marcha a la vista por ambas vías hasta el levantamiento del cadáver"
+  },
+  {
+   "hora": "06:55",
+   "evento": "Se procede al levantamiento del cadáver"
+  },
+  {
+   "hora": "07:05",
+   "evento": "Se reanuda la circulación normal en ambas vías"
+  },
+  {
+   "hora": "09:30",
+   "evento": "El maquinista es informado por el Centro de Gestión de los restos de arrollamiento en la locomotora"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "93556",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Restos de un arrollamiento en el estribo derecho de la locomotora 289039. No se produjeron daños materiales significativos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 93556",
+   "implicacion": "Matrícula 9755182. No se enteró del arrollamiento. Jornada previa: 4 horas y 10 minutos. Jornadas de 24 y 48 horas anteriores: descanso. No se realizó control de alcoholemia por el tiempo transcurrido."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático en vía doble",
+  "tipo_via": "vía doble",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo en recta, vallado aunque no en su totalidad, con puntos de acceso posibles a las vías",
+  "otro": "Red Ferroviaria de Interés General administrada por Adif"
+ },
+ "material_rodante": {
+  "series": "Locomotora 289039",
+  "averia": "Restos de arrollamiento en el estribo derecho",
+  "mantenimiento": null
+ },
+ "clima": "Noche, condiciones meteorológicas buenas. Tramo en recta sin trincheras que disminuyan la visibilidad.",
+ "causas": {
+  "directa": "Imprudencia de la víctima que invadió el gálibo de la vía al paso del tren",
+  "contribuyentes": [
+   "Tránsito indebido por las inmediaciones de la vía",
+   "Vallado no íntegro con puntos de acceso a las vías",
+   "Circulación nocturna (reducción de visibilidad para el maquinista)"
+  ],
+  "sistemicas": [
+   "Desconocimiento de las causas de la conducta de la víctima"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "9 minutos de retraso acumulado en 2 trenes Regionales, 5 minutos en 1 tren de Larga Distancia y 27 minutos en 4 trenes de Mercancías. Marcha a la vista por ambas vías desde las 04:00 hasta las 07:05."
+ },
+ "lecciones": [
+  "El vallado de la infraestructura no es íntegro y permite accesos indebidos a la vía",
+  "La circulación nocturna en tramos con accesos posibles a la vía incrementa el riesgo de arrollamiento de personas"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+   "destinatario": "Adif / Administrador de infraestructuras"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "tren de mercancías",
+  "imprudencia",
+  "invasión de gálibo",
+  "vallado",
+  "noche",
+  "línea Madrid-Barcelona",
+  "vía Caspe",
+  "Tarragona",
+  "Vilaseca",
+  "bloqueo automático"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_130607_191007"
+}

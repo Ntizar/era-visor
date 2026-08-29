@@ -11,6 +11,7 @@ Genera:
     data/db/recs/ES.json    recomendaciones de seguridad vinculadas
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -30,11 +31,24 @@ def main(codigo: str):
             url_por_archivo[unquote(nombre)] = "https://www.era.europa.eu" + it["pdf"]
     registros, sin_coords = [], 0
     por_expediente = {}   # expediente normalizado → registro (CIAF gana)
+
+    # carga analisis v3 (json/ES/v3/<stem>.json) indexado por stem del json base
+    ruta_v3 = os.path.join(RAIZ, "json", codigo, "v3")
+    v3_por_stem = {}
+    if os.path.isdir(ruta_v3):
+        for fv in Path(ruta_v3).glob("*.json"):
+            try:
+                v3_por_stem[fv.stem] = json.loads(fv.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+
     for f in jsons:
         try:
             d = json.loads(f.read_text(encoding="utf-8"))
         except Exception:
             continue
+        # analisis v3 de este informe (si existe)
+        v3 = v3_por_stem.get(f.stem) or {}
         erail = d.get("erail") or {}
         loc = d.get("ubicacion") or {}
         es_ciaf = d.get("fuente") == "CIAF-visor"
@@ -65,7 +79,9 @@ def main(codigo: str):
             "lat": loc.get("lat") or d.get("lat"),
             "lng": loc.get("lng") or d.get("lng"),
             "metodo_geo": loc.get("metodo_geo"),
-            "resumen": d.get("resumen"),
+            "resumen": d.get("resumen") or v3.get("resumen"),
+            "hechos": v3.get("hechos"),
+            "v3": v3 if v3 else None,
             "descripcion": d.get("descripcion"),
             "causa_directa": d.get("causa_directa"),
             "conclusiones": d.get("conclusiones") or [],
@@ -101,7 +117,7 @@ def main(codigo: str):
             # fusionarlos en el registro CIAF en vez de descartar el trabajo LLM
             campos_v2 = ("subsistema", "sistema_proteccion", "tipo_red", "explotacion",
                          "precursores", "mitigaciones", "factores_humanos", "meteorologia",
-                         "circulation_type", "fase_ciclo_vida")
+                         "circulation_type", "fase_ciclo_vida", "v3", "hechos")
             for campo in campos_v2:
                 if rec.get(campo) and not existente.get(campo):
                     existente[campo] = rec[campo]

@@ -1,0 +1,128 @@
+{
+ "titulo_normalizado": "Arrollamiento de dos personas por tren Alaris en plena vía entre San Cristóbal de los Ángeles y San Cristóbal Industrial (Madrid)",
+ "idioma_original": "es",
+ "resumen": "El 09/06/2006, sobre las 18:08, el tren Alaris 1184 de Renfe arrolló a dos personas en plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, en el p.k. 9,550 de la Línea 300 Madrid Atocha-Valencia Nord (Madrid). Una persona falleció y otra resultó herida grave. El tren, compuesto por el automotor 490.004, circulaba a 105 km/h y se detuvo en vía G4 tras rebasar la señal de entrada E2. La investigación atribuyó el accidente a la imprudencia de las víctimas y no detectó daños materiales, aunque se produjeron intercepciones y retrasos importantes.",
+ "hechos": "El tren de Larga Distancia Alaris nº 1184 de Renfe, compuesto por el automotor 490.004, realizaba el recorrido Madrid-Castellón de la Plana. El 09.06.2006, a las 18:08, arrolló a dos personas en plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, en el p.k. 9,550 de la Línea 300 Madrid Atocha-Valencia Nord, provincia de Madrid.\n\nTras el impacto, el tren detuvo su marcha en vía G4 después de rebasar la señal de entrada E2 de San Cristóbal Industrial. Según el registro TELOC, el tren circulaba a 105 km/h, por debajo de la velocidad máxima permitida de 110 km/h limitada por curva. El maquinista declaró haber visto a dos personas en el margen derecho, fuera de la caja de la vía, y haber usado silbato y freno de emergencia, pero no pudo evitar el impacto contra el estribo.\n\nComo consecuencia, falleció un varón de 41 años y un varón de 32 años resultó herido, requiriendo traslado al hospital 12 de Octubre por el Samur. No se produjeron daños materiales. El tren permaneció detenido a petición de la Autoridad Judicial hasta las 19:05 y el levantamiento del cadáver se autorizó a las 19:27.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "San Cristóbal Industrial",
+  "pk": "9,550",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial; tramo en curva, cuádruple vía y vía G4; margen derecha con muro de hormigón y ruta de acceso entre muro y vías; margen izquierda con tránsito hacia un poblado chabolista; existe paso elevado/pasarela metálica peatonal próxima."
+ },
+ "cronologia": [
+  {
+   "hora": "17:00",
+   "evento": "Comienzo de la jornada del maquinista del tren 1184."
+  },
+  {
+   "hora": "18:08",
+   "evento": "Arrollamiento de dos personas por el tren 1184 en plena vía, p.k. 9,550 de la Línea 300."
+  },
+  {
+   "hora": "18:25",
+   "evento": "Comienzo de la intercepción de las vías G1, G2, G3 y G4 a petición del Samur."
+  },
+  {
+   "hora": "19:05",
+   "evento": "Fin de la detención del tren 1184 en el lugar del accidente a petición de la Autoridad Judicial."
+  },
+  {
+   "hora": "19:08",
+   "evento": "Finalización de la jornada del maquinista."
+  },
+  {
+   "hora": "19:27",
+   "evento": "La Autoridad Judicial autorizó el levantamiento del cadáver."
+  },
+  {
+   "hora": "19:50",
+   "evento": "Fin de la intercepción de las vías G1, G2, G3 y G4."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1184",
+   "tipo": "Larga Distancia Alaris",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 1184",
+   "implicacion": "Condujo el tren; vio a dos personas en el margen derecho, usó silbato y freno de emergencia, pero no pudo evitar el impacto. Prueba de alcoholemia negativa (0,00mg/1000ml). Jornada: 17:00-19:08; jornadas previas 07/06 y 08/06 de 6 horas."
+  },
+  {
+   "rol": "jefe delegado del accidente",
+   "implicacion": "Intervino en el accidente según el informe."
+  },
+  {
+   "rol": "portavoz de la información en el puesto de mando",
+   "implicacion": "Intervino en el accidente según el informe."
+  },
+  {
+   "rol": "víctima fallecida",
+   "implicacion": "Varón de 41 años, arrollado por el estribo del tren y fallecido en el suceso."
+  },
+  {
+   "rol": "herido grave",
+   "implicacion": "Varón de 32 años, arrollado y trasladado al hospital 12 de Octubre por el Samur."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2 de la estación de San Cristóbal Industrial, rebasada por el tren antes de detenerse en vía G4.",
+  "tipo_via": "Cuádruple vía; vía G4; tramo en curva.",
+  "velocidad_maxima": "110 km/h limitada por curva; el tren circulaba a 105 km/h.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial; margen derecha flanqueada por muro de hormigón con ruta de acceso entre muro y vías; margen izquierda con tránsito hacia poblado chabolista; existe paso elevado/pasarela metálica peatonal próxima.",
+  "otro": "Bloqueo Automático Banalizado con CTC."
+ },
+ "material_rodante": {
+  "series": "490.004",
+  "averia": "No se produjeron daños materiales.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de las víctimas: estando en las proximidades de las vías, viendo la llegada del tren 1184 y oyendo su silbato, no abandonaron la zona y fueron alcanzadas por el estribo.",
+  "contribuyentes": [
+   "Zona de tránsito frecuente no permitido de personas hacia un poblado chabolista.",
+   "Ruta de acceso creada entre el muro de hormigón de la margen derecha y las vías.",
+   "Tramo en curva en el lugar del arrollamiento."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 1,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Intercepción de vías G1, G2, G3 y G4 de 18:25 a 19:50; 320 minutos de retrasos acumulados en 17 trenes de Cercanías, 80 minutos en 3 trenes de Larga Distancia, 67 minutos en 2 trenes de Media Distancia y 22 minutos en 1 tren de Mercancías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Fomentar campañas de concienciación y sensibilización destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril por lugares no autorizados.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "plena-via",
+  "imprudencia",
+  "san-cristobal-de-los-angeles",
+  "san-cristobal-industrial",
+  "linea-300",
+  "madrid",
+  "alaris",
+  "renfe",
+  "adif",
+  "cercanias",
+  "poblado-chabolista"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-090606-020207"
+}

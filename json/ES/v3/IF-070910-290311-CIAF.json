@@ -1,0 +1,128 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal en paso a nivel La Papelera entre Aranguren y Zalla",
+ "idioma_original": "es",
+ "resumen": "El 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolló mortalmente a una mujer de 83 años en el paso a nivel clase C 'La Papelera', en el P.K. 0+388 de la línea 1031 León–Bilbao, entre Aranguren y Zalla (Vizcaya). Los dispositivos de protección del paso estaban en funcionamiento y el tren circulaba por debajo de la velocidad máxima permitida. La causa directa fue la invasión del gálibo de la vía por la víctima al cruzar cuando pasaba el tren. Se formularon recomendaciones al Ayuntamiento de Zalla y a Feve sobre señalización, semibarreras y sonerías.",
+ "hechos": "El día 7 de septiembre de 2010, el tren regular de viajeros 8939 de Feve, compuesto por las UTE M3618-M3617, procedente de Balmaseda-La Calzada y con destino Bilbao, circulaba con normalidad entre las estaciones de Zalla y Aranguren. Al aproximarse al paso a nivel clase C 'La Papelera', en el P.K. 0+388, el maquinista observó que una mujer lo cruzaba de derecha a izquierda, en sentido de la marcha del tren, cuando los dispositivos de protección estaban en funcionamiento. El maquinista accionó repetidamente el silbato y, al no observar reacción, aplicó el freno de emergencia y volvió a usar el silbato hasta 15 veces más, pero no pudo evitar el arrollamiento; la víctima quedó bajo la composición. El tren quedó detenido a las 17:02:43 horas y el inspector general de Feve comunicó el suceso a la CIAF a las 19:14 horas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "0+388",
+  "linea": "1031 León – Bilbao",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Paso a nivel nº 1, clase C, denominado 'La Papelera', en el P.K. 0+388 de la línea 1031 León–Bilbao, entre las estaciones de Aranguren y Zalla, en el municipio de Zalla; enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla."
+ },
+ "cronologia": [
+  {
+   "hora": "17:01",
+   "evento": "A las 17:01:17, se comprueba barrera cerrada del paso a nivel; dos segundos más tarde se manda al enclavamiento la indicación de paso protegido para que se abran las señales a la vía."
+  },
+  {
+   "hora": "17:01",
+   "evento": "A las 17:01:53, el tren 8939 pasa por la señal E'3 de la estación de Aranguren en indicación de vía libre a 53,1 km/h."
+  },
+  {
+   "hora": "17:02",
+   "evento": "A las 17:02:04, a 452 metros del paso a nivel, el maquinista acciona el silbato."
+  },
+  {
+   "hora": "17:02",
+   "evento": "A las 17:02:11, el tren pasa por la señal E3 de Aranguren en indicación de vía libre a 53,1 km/h."
+  },
+  {
+   "hora": "17:02",
+   "evento": "A las 17:02:21, durante seis segundos, el maquinista hace uso repetido del silbato a la vez que reduce la velocidad a 46,9 km/h."
+  },
+  {
+   "hora": "17:02",
+   "evento": "A las 17:02:29, a 86 metros del paso, el maquinista actúa sobre el pulsador del freno de emergencia cuando el tren circulaba a 46,4 km/h y mantiene el uso continuado del silbato con 15 activaciones."
+  },
+  {
+   "hora": "17:02",
+   "evento": "Sobre las 17:02:38, el tren arrolla a la víctima, que invadía el paso de derecha a izquierda, según la marcha del tren."
+  },
+  {
+   "hora": "17:02",
+   "evento": "A las 17:02:43, el tren queda detenido."
+  },
+  {
+   "hora": "19:14",
+   "evento": "El inspector general de Feve comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios por mensaje de telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "El 28 de septiembre de 2010, la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8939",
+   "tipo": "Tren regular de viajeros tipo 80",
+   "operador": "Feve",
+   "danos": "No se producen daños materiales al material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 8939",
+   "implicacion": "CF 9233; habilitado; reciclaje formativo el 2010-04-30 y reconocimiento médico y psicotécnico el 2010-03-15; jornada del día 7 de 3 horas y 37 minutos, con conducción efectiva de 1 hora y 52 minutos; pruebas de alcohol y drogas negativas; accionó silbato y freno de emergencia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización de vía: carteles de silbar a 500 y 212 m lado León, y a 500 y 240 m lado Bilbao. Paso protegido con semáforos de dos luces rojas intermitentes y acústico en los cuatro cuadrantes; señales peatonales de foco en C1 y C2; semibarreras simples en C1, C2 y C3. Señalización del camino: incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; en C2 dispone de P-7, balizas P-9.a/P-9.b y R-305; en C1, C2 y C4 dispone de letras P y N, línea longitudinal continua y línea transversal continua; faltan P-15, P-9/P-10, R-301, visera en el foco derecho de la señal luminosa de C1 y sonerías en los mecanismos de barrera de C2 y C4.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo automático (BAU) y control de tráfico centralizado (CTC); tramo recto con perfil en rampa de 7 milésimas; paso a nivel nº 1, clase C, 'La Papelera', en P.K. 0+388, enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla; pavimento bituminoso sin contracarriles; visibilidad C1 20 m, C2 32 m, C3 31 m y C4 38 m; momento de circulación AxT 115.506 (A=1.863 y T=62); tiempo de preaviso 7 s, bajada 9 s en C1 y 10 s en C2; salida del apeadero de Aranguren situada en el medio del paso a nivel (C3); semáforos y balizamiento en C4 sin razón de ser por el sentido de circulación del vial."
+ },
+ "material_rodante": {
+  "series": "UTE M3618-M3617; tren tipo 80",
+  "averia": "No se aprecian averías; los equipos de seguridad del tren funcionaron correctamente; velocidad al aplicar el freno de emergencia 46,4 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por la víctima al cruzar el paso a nivel cuando pasaba el tren 8939 y los dispositivos de protección se encontraban en funcionamiento.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+  "afectacion_servicio": "Retraso de 32 minutos en el tren implicado; otros tres trenes de viajeros sufrieron supresiones parciales, siendo los viajeros transportados por carretera."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "50/10-1: Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+   "destinatario": "Ayuntamiento de Zalla"
+  },
+  {
+   "texto": "50/10-2: Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "50/10-3: Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento mortal",
+  "peatón",
+  "feve",
+  "vizcaya",
+  "zalla",
+  "aranguren",
+  "la papelera",
+  "invasión del gálibo",
+  "protección activa",
+  "señalización",
+  "línea 1031"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-070910-290311-CIAF"
+}

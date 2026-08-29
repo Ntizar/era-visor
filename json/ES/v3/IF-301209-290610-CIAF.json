@@ -1,0 +1,124 @@
+{
+ "titulo_normalizado": "Colisión y descarrilamiento del tren 930 por roca desprendida en la estación de Fuenmayor (La Rioja)",
+ "idioma_original": "es",
+ "resumen": "El 30 de diciembre de 2009, a las 03:08 horas, el tren de larga distancia 930 de Renfe Operadora colisionó con una roca situada en la caja de la vía en el P.K. 92+020 de la línea 700, a la entrada de la estación de Fuenmayor. La roca procedía de un desprendimiento de la ladera derecha y no fue detenida por la malla metálica de protección. Como consecuencia se produjo el descarrilamiento de la locomotora y de los cuatro primeros coches, sin víctimas mortales ni heridos. La vía quedó interceptada durante más de un día y se produjeron importantes retrasos en trenes de mercancías y larga distancia.",
+ "hechos": "El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de larga distancia 930 de Renfe Operadora, procedente de Gijón y con destino Barcelona, circulaba por el tramo Logroño-Haro de la línea 700 Intermodal Abando Indalecio Prieto-Casetas. Al salir de una curva, antes de llegar a la estación de Fuenmayor, el maquinista observó una roca en el centro de la caja de la vía a unos 50 metros de distancia y accionó el freno de emergencia, sin poder evitar la colisión.\n\nEl tren pasó la señal de entrada E2 a las 03:08:07 horas a una velocidad de 78 km/h, el freno de emergencia se accionó a las 03:08:13 horas a 75 km/h y la colisión con la roca se produjo a las 03:08:19 horas aproximadamente, a 63 km/h, tras recorrer unos 100 metros. Inmediatamente después se produjo el descarrilamiento de la locomotora 252018 y de los cuatro primeros coches de la composición, deteniéndose el convoy tras recorrer unos 70 metros más.\n\nLa roca, de aproximadamente 1 metro cúbico, se desprendió de la ladera derecha en el sentido de la marcha del tren, desde una altura de unos 25 metros. La malla metálica instalada en la coronación del muro de contención no soportó el impacto, permitiendo que la roca llegara a la caja de la vía. No se produjeron víctimas mortales ni heridos, aunque el material rodante sufrió daños de cierta consideración y se rompió el hilo derecho del carril en el sentido de la marcha.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Fuenmayor",
+  "pk": "92+020",
+  "linea": "700 Intermodal Abando Indalecio Prieto - Casetas",
+  "provincia": "La Rioja",
+  "descripcion_lugar": "A la entrada de la estación de Fuenmayor, en el tramo Logroño-Haro, sobre una alineación en curva de radio 450 metros, con perfil en ligera pendiente y plataforma a media ladera, con muro de contención y malla metálica en la coronación."
+ },
+ "cronologia": [
+  {
+   "hora": "03:08",
+   "evento": "El tren 930 pasa por la señal de entrada E2 a una velocidad de 78 km/h y el maquinista observa una roca en la caja de la vía a unos 50 metros."
+  },
+  {
+   "hora": "03:08",
+   "evento": "El maquinista acciona el freno de emergencia a una velocidad de 75 km/h."
+  },
+  {
+   "hora": "03:08",
+   "evento": "Colisión del tren con la roca en el P.K. 92+020 a una velocidad de 63 km/h, tras recorrer unos 100 metros y pasar unos 6 segundos."
+  },
+  {
+   "hora": "03:08",
+   "evento": "Se produce el descarrilamiento de la locomotora y de los cuatro primeros coches de la composición."
+  },
+  {
+   "hora": "03:08",
+   "evento": "Parada del convoy tras recorrer unos 70 metros desde la colisión."
+  },
+  {
+   "hora": "03:51",
+   "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF, por correo electrónico, que se había producido el descarrilamiento de un tren de larga distancia."
+  },
+  {
+   "hora": "05:15",
+   "evento": "Se realiza al maquinista la prueba de alcoholemia en aire espirado, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": null,
+   "evento": "La vía quedó interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009."
+  },
+  {
+   "hora": null,
+   "evento": "El 26 de enero de 2010, la Comisión de Investigación de Accidentes Ferroviarios resolvió abrir la investigación del accidente."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "930",
+   "tipo": "Tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de la locomotora y de los cuatro primeros coches; daños de cierta consideración al material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Conducía el tren 930; observó la roca a unos 50 metros y accionó el freno de emergencia sin poder evitar la colisión. Cumplía título, habilitaciones, formación y reconocimientos médicos y psicotécnicos; prueba de alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2; según el maquinista, vía libre con paso directo.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Alineación en curva de radio 450 metros, perfil en ligera pendiente, plataforma a media ladera, muro de contención y malla metálica en coronación; tras el accidente se produjo la rotura del hilo derecho del carril en el sentido de la marcha.",
+  "otro": "Bloqueo automático con C.T.C.; radiotelefonía A; media semanal de circulaciones del tramo Logroño-Haro: 176; sin limitación temporal de velocidad en el momento del accidente."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252018; tren tipo 160B",
+  "averia": "Colisión con roca y descarrilamiento de la locomotora y de los cuatro primeros coches; los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Noche con tiempo lluvioso.",
+ "causas": {
+  "directa": "Colisión del tren 930 con una roca de aproximadamente 1 metro cúbico existente en la caja de la vía y procedente de un desprendimiento de la ladera derecha desde unos 25 metros de altura, no detenida por la malla metálica de protección.",
+  "contribuyentes": [
+   "La malla metálica de protección no soportó el impacto de la roca.",
+   "El desprendimiento se produjo desde una altura de unos 25 metros y la roca tenía un volumen aproximado de 1 metro cúbico.",
+   "Tiempo lluvioso y circulación nocturna, con visibilidad hacia la roca de unos 50 metros.",
+   "Existencia de otros desprendimientos de rocas de menor tamaño entre el P.K. 92+020 y el P.K. 91+780."
+  ],
+  "sistemicas": [
+   "Necesidad de incrementar el ritmo de tratamiento de trincheras con riesgo.",
+   "Aumento de incidencias por desprendimientos en el invierno de 2010 debido a la mayor intensidad de precipitaciones y a la mayor inestabilidad de taludes."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Rotura del hilo derecho del carril en el sentido de la marcha y daños de cierta consideración al material rodante.",
+  "afectacion_servicio": "Vía interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009; cinco trenes de mercancías sufrieron un retraso total de 274 minutos y once trenes de larga distancia un retraso total de 360 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Que DGIF y ADIF analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo.",
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF) y Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "desprendimiento de roca",
+  "malla metalica",
+  "tren de larga distancia",
+  "renfe operadora",
+  "adif",
+  "la rioja",
+  "lluvia",
+  "seguridad ferroviaria",
+  "trincheras",
+  "colision",
+  "invierno 2010"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-301209-290610-CIAF"
+}

@@ -1,0 +1,154 @@
+{
+ "titulo_normalizado": "Incidente por desvío mal orientado en estación de Puebla de Sanabria tras fallo eléctrico",
+ "idioma_original": "es",
+ "resumen": "El incidente ocurrió el 12 de agosto de 2017 a las 11:55 horas en la estación de Puebla de Sanabria (Zamora). El tren de viajeros 154, con paso directo previsto por vía 1, entró en vía 5 debido a que el desvío 17 estaba orientado físicamente a vía desviada, aunque el cuadro de mando y el CTC indicaban vía directa. La causa fue un fallo en los diodos de protección del relé de comprobación, provocado por una avería eléctrica previa que obligó al accionamiento manual de las agujas. No hubo víctimas ni daños materiales, pero se evidenciaron deficiencias en el mantenimiento y diseño del enclavamiento.",
+ "hechos": "El día 12 de agosto de 2017, la estación de Puebla de Sanabria sufrió un corte de suministro eléctrico desde las 04:00 hasta las 06:55 horas. Para expedir el tren 18321, el responsable de circulación accionó manualmente los motores de los desvíos 17 y 19 mediante manivela. Tras restablecerse la energía, los técnicos de mantenimiento repararon la avería y realizaron pruebas básicas, dando de alta la instalación sin verificar la concordancia entre la posición real de las agujas en campo y su representación en el cuadro de mando local o el CTC.\n\nA las 11:45 horas, el responsable de circulación estableció un itinerario de paso directo por vía 1 para el tren 154 (Madrid Chamartín - Ferrol). Las señales mostraban vía libre y el sistema indicaba que las agujas estaban enclavadas en posición normal. Sin embargo, la aguja 17 permanecía físicamente orientada a vía desviada debido al fallo de los diodos de protección de la bobina del relé de comprobación, que habían quedado dañados durante el arranque tras la intervención manual.\n\nAl entrar en la estación a las 11:55 horas, el maquinista del tren 154 detectó visualmente que el desvío 17 estaba orientado incorrectamente hacia vía 5, pese a tener señal de vía libre para vía 1. Aplicó inmediatamente el freno de emergencia y luego la seta de emergencia, deteniendo el tren en vía 5 frente al edificio de viajeros. No se produjeron descarrilamientos, heridos ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Puebla de Sanabria",
+  "pk": "106+871",
+  "linea": "822 Zamora - A Coruña",
+  "provincia": "Zamora",
+  "descripcion_lugar": "Estación en mando local, vía única, ancho ibérico, no electrificada."
+ },
+ "cronologia": [
+  {
+   "hora": "2017-08-12T01:23:39",
+   "evento": "Fallo inicial en líneas de suministro de alta tensión."
+  },
+  {
+   "hora": "2017-08-12T04:00:24",
+   "evento": "Agotamiento de baterías del SAI; pérdida total de mando y comprobación."
+  },
+  {
+   "hora": "2017-08-12T06:30:00",
+   "evento": "Responsable de circulación informa al CTC que maniobrará manualmente los desvíos 17 y 19 para mover el tren 18321."
+  },
+  {
+   "hora": "2017-08-12T06:55:32",
+   "evento": "Restablecimiento del suministro eléctrico por agentes de mantenimiento."
+  },
+  {
+   "hora": "2017-08-12T07:30:00",
+   "evento": "Fin de los trabajos de reparación de energía; verificaciones insuficientes en el enclavamiento."
+  },
+  {
+   "hora": "2017-08-12T11:45:00",
+   "evento": "Establecimiento de itinerario de paso directo por vía 1 para el tren 154."
+  },
+  {
+   "hora": "2017-08-12T11:55:31",
+   "evento": "El tren pasa la baliza de entrada E1; el maquinista observa el desvío 17 mal orientado."
+  },
+  {
+   "hora": "2017-08-12T11:55:36",
+   "evento": "Aplicación del freno de servicio en urgencia."
+  },
+  {
+   "hora": "2017-08-12T11:55:47",
+   "evento": "Aplicación de la seta de emergencia."
+  },
+  {
+   "hora": "2017-08-12T11:56:01",
+   "evento": "Detención del tren 154 en vía 5."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "154",
+   "tipo": "Larga Distancia",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "18321",
+   "tipo": "Mercancías/Expedición",
+   "operador": null,
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 154",
+   "implicacion": "Detectó la anomalía visualmente y aplicó frenado de emergencia correctamente."
+  },
+  {
+   "rol": "Responsable de circulación de Puebla de Sanabria",
+   "implicacion": "Acción manual de agujas e incumplimiento del protocolo de verificación post-reparación."
+  },
+  {
+   "rol": "Agentes de Mantenimiento de Infraestructura (ADIF)",
+   "implicacion": "Repararon la avería eléctrica pero no verificaron la concordancia campo-cuadro de mando."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales avanzada E'1 y entrada E1 en vía libre (incorrecto respecto a la realidad física).",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "95 km/h",
+  "ancho": "Ibérico",
+  "electrificacion": "No electrificada",
+  "estado_via": "Correcta",
+  "otro": "Enclavamiento eléctrico de relés de cableado libre tecnología Ericsson/Bombardier modificado en 2008."
+ },
+ "material_rodante": {
+  "series": "Automotor 730020 (Serie 7300)",
+  "averia": "Ninguna",
+  "mantenimiento": "Correcto"
+ },
+ "clima": "Horas diurnas, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Mal funcionamiento de las instalaciones de seguridad: fallo de los diodos de protección de la bobina del relé de comprobación de la aguja 17, causando discordancia entre la indicación en cuadro de mando (vía directa) y la posición real (vía desviada).",
+  "contribuyentes": [
+   "No verificación de la concordancia entre campo y cuadro de mando por parte de los técnicos de mantenimiento tras la reparación eléctrica.",
+   "Incumplimiento del Manual de Operación por parte del responsable de circulación al no mandar la aguja 17 a ambas posiciones eléctricamente para comprobar su funcionamiento tras el uso de manivela.",
+   "Deficiencias en el diseño de los circuitos de mando y comprobación derivados de la modificación tecnológica de 2008."
+  ],
+  "sistemicas": [
+   "Modificación del enclavamiento en 2008 ejecutada sin supervisión adecuada ni colaboración del propietario de la tecnología.",
+   "Ausencia de análisis de modo de fallo en contra de la seguridad en la modificación de 2008.",
+   "Procedimientos de mantenimiento que no contemplaban la revisión específica de los diodos de protección."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "Retraso total de 9 minutos en los trenes 154 y 57. No hubo interceptación de vía."
+ },
+ "lecciones": [
+  "Es crítico verificar la concordancia entre la posición real de las agujas y su representación en el cuadro de mando/CTC tras cualquier intervención manual o fallo eléctrico.",
+  "Las modificaciones tecnológicas en enclavamientos antiguos deben seguir procedimientos rigurosos de evaluación de riesgo y ser supervisadas por expertos del fabricante.",
+  "Los protocolos de actuación ante cortes de energía deben incluir pasos explícitos de validación antes de reabrir la línea al tráfico normal."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Asegurar que las modificaciones de enclavamientos eléctricos sigan el Procedimiento Específico ADIF-DGSORRHH-DSC-PE-09-ACI y la Instrucción Técnica ADIF-IT-107-002-002-SC-R1, incluyendo evaluación de riesgo validada por asesor independiente.",
+   "destinatario": "AESF / ADIF"
+  },
+  {
+   "texto": "Adoptar medidas complementarias provisionales (limitaciones de velocidad, bloqueo de movimientos, etc.) tras cualquier fallo en contra de la seguridad en un enclavamiento, hasta que se subsanen las deficiencias de diseño.",
+   "destinatario": "AESF / ADIF"
+  },
+  {
+   "texto": "Desarrollar reglas en el procedimiento de mantenimiento que exijan verificar el correcto funcionamiento eléctrico y la concordancia campo-cuadro de mando/CTC antes de dar de alta la instalación tras una reparación.",
+   "destinatario": "AESF / ADIF"
+  }
+ ],
+ "tags": [
+  "incidente ferroviario",
+  "puebla de sanabria",
+  "desvio mal orientado",
+  "fallo electrico",
+  "enclavamiento",
+  "diodos",
+  "renfe viajeros",
+  "adif",
+  "ciaf",
+  "mando local",
+  "ctc leon",
+  "mantenimiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-190628-120817-IF-SN_CIAF"
+}

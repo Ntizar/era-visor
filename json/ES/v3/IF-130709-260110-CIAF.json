@@ -1,0 +1,135 @@
+{
+ "titulo_normalizado": "Arrollamiento de un camión articulado por el tren 15653 en un paso a nivel particular en Jaca (Huesca)",
+ "idioma_original": "es",
+ "resumen": "El 13 de julio de 2009, a las 18:44, el tren de media distancia 15653 de Renfe Operadora arrolló a un camión articulado con remolque en el paso a nivel particular del P.K. 99+367, entre Jaca y Sabiñánigo (Huesca). El vehículo de carretera invadió el paso a nivel desde un camino de tierra mientras pasaba el tren, lo que provocó la colisión, el vuelco del camión y la separación del remolque. Resultaron heridos leves el conductor del camión y una viajera del tren, y se produjeron daños materiales en el tren, el paso a nivel y el vehículo. La circulación estuvo suspendida desde las 18:44 hasta las 00:50 del día siguiente, con evacuación de los viajeros y supresión de dos trenes. La causa fue la ocupación indebida del gálibo de la vía por el vehículo de carretera; el informe no establece recomendaciones.",
+ "hechos": "El tren de viajeros de media distancia 15653, procedente de Canfranc y con destino Zaragoza Delicias, circulaba entre Jaca y Sabiñánigo por el paso a nivel particular situado en el P.K. 99+367. Según la declaración del maquinista, al aproximarse al paso a nivel hizo uso del silbato y, a unos 200 metros, observó un camión cargado de alpacas que se aproximaba desde un camino de tierra para cruzar la vía. El tren impactó contra el camión articulado con remolque cuando este invadía el paso a nivel por el lado derecho del sentido de marcha del tren.\n\nLa secuencia detallada indica que el freno se aplicó a las 18:43:08 a 72 km/h, el arrollamiento se produjo a las 18:43:12 a 67 km/h tras recorrer 77 metros, y el tren quedó detenido a las 18:43:14 después de recorrer 40 metros más. Tras la colisión, el camión quedó volcado en el lado izquierdo del paso en relación al tren, mientras que el remolque perdió la lanza de arrastre y permaneció en el lado derecho sin llegar a cruzar la vía.\n\nComo consecuencia del accidente resultaron heridos leves el conductor del camión y una viajera del tren. El maquinista y el interventor comprobaron el estado de los viajeros y del conductor, avisaron al puesto de mando y se activaron los servicios de emergencia. Los siete viajeros del tren fueron evacuados en un vehículo todo terreno de bomberos hasta Martillué, desde donde se trasladaron en autobús a Sabiñánigo para continuar viaje. La circulación quedó suspendida desde las 18:44 hasta las 00:50 del día siguiente y dos trenes de media distancia fueron suprimidos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "99+367",
+  "linea": "204 Bifurcación Huesca Cambiador - Canfranc",
+  "provincia": "Huesca",
+  "descripcion_lugar": "Paso a nivel particular en el P.K. 99+367, en el trayecto Jaca - Sabiñánigo, dentro del tramo Jaca - Ayerbe, municipio de Jaca. El camino cruza la línea férrea desde un camino de tierra con firme de tablones de madera."
+ },
+ "cronologia": [
+  {
+   "hora": "18:43",
+   "evento": "El maquinista aplica el freno a 72 km/h tras observar el camión aproximándose al paso a nivel; la secuencia detallada lo sitúa a las 18:43:08."
+  },
+  {
+   "hora": "18:43",
+   "evento": "Se produce el arrollamiento del camión articulado con remolque a 67 km/h; la secuencia detallada lo sitúa a las 18:43:12, tras 77 metros desde la aplicación del freno."
+  },
+  {
+   "hora": "18:43",
+   "evento": "El tren se detiene tras recorrer 40 metros desde el impacto; la secuencia detallada lo sitúa a las 18:43:14."
+  },
+  {
+   "hora": "18:44",
+   "evento": "Hora registrada como momento del suceso en el resumen; desde este momento queda suspendida la circulación."
+  },
+  {
+   "hora": "19:56",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de un camión en el paso a nivel particular del P.K. 99+367 de la línea 204."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista informa al puesto de mando de Zaragoza, que comunica a seguridad en la circulación de Adif, Renfe Operadora, jefatura de operaciones de Aragón, seguridad corporativa, operadores y servicios afectados."
+  },
+  {
+   "hora": null,
+   "evento": "El puesto de mando avisa al CPS de Zaragoza, que contacta con el 112 y envía los medios de socorro pertinentes al lugar del accidente."
+  },
+  {
+   "hora": "23:18",
+   "evento": "Los viajeros evacuados prosiguen viaje y llegan a Zaragoza sin más novedad, según el parte del interventor."
+  },
+  {
+   "hora": null,
+   "evento": "El 14 de julio de 2009, el presidente de la CIAF resuelve abrir la investigación del accidente."
+  },
+  {
+   "hora": "00:50",
+   "evento": "Se restablece la circulación, tras la suspensión iniciada a las 18:44 del día anterior."
+  },
+  {
+   "hora": null,
+   "evento": "El 26 de enero de 2010 se firma el informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15653",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Graves daños en el frontal de la composición, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 15653",
+   "implicacion": "Matrícula 8659302. Título de conducción categoría B, habilitado conforme a Orden FOM/2520/2006; reciclaje formativo 15/01/08; reconocimiento médico y psicotécnico 12/01/06; jornada laboral el día del accidente: 48 minutos; prueba de alcoholemia negativa. Hizo uso del silbato, aplicó el freno y avisó a los viajeros."
+  },
+  {
+   "rol": "agente de acompañamiento / interventor",
+   "implicacion": "Matrícula 9745449. Comprobó el estado de los viajeros y del conductor del camión y participó en la comunicación con el puesto de mando para coordinar los servicios de emergencia."
+  },
+  {
+   "rol": "conductor del camión",
+   "implicacion": "Herido leve. Invadió el paso a nivel con un camión articulado con remolque incumpliendo la señalización de stop del camino."
+  },
+  {
+   "rol": "viajera del tren",
+   "implicacion": "Herida leve."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales R2 (STOP) y P-11 (paso a nivel) a ambos lados del camino; dispositivo de cierre con cadenas. Paso a nivel particular sin señales luminosas ni dispositivos acústicos.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "70 km/h",
+  "ancho": null,
+  "electrificacion": "sin electrificar",
+  "estado_via": null,
+  "otro": "Circulación al amparo de bloqueo telefónico gestionado por los jefes de circulación de Sabiñánigo y Jaca. No existe radiotelefonía entre maquinistas y jefes de circulación; hay conectores de intemperie para teléfonos portátiles. Media semanal de circulaciones del tramo Jaca - Ayerbe: 51, considerada muy baja (42 de media distancia y 9 de mercancías). Paso a nivel particular autorizado para explotación agropecuaria, comprendiendo paso de personas relacionadas con la explotación, animales y maquinaria agrícola; autorización renovada por la Dirección General de Ferrocarriles el 12/09/2005. Camino de tierra y cruce con tablones de madera. AxT: 7,84 (A=1 y T=7,12). Visibilidad buena, aunque la vía está flanqueada por arbustos que podían dificultarla en algún momento. Las instalaciones del paso cumplían las condiciones de la autorización."
+ },
+ "material_rodante": {
+  "series": "Automotor 596007; tren tipo 120 A; Nº UIC 967195960075; 1 coche; 51 toneladas de masa remolcada.",
+  "averia": "No se constata avería; el equipo de freno funcionó correctamente. No se puede constatar el uso del silbato por el modelo de registrador de seguridad MEMOTEL con ASFA básico.",
+  "mantenimiento": null
+ },
+ "clima": "Día despejado.",
+ "causas": {
+  "directa": "Ocupación indebida del gálibo de la vía por el vehículo de carretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653.",
+  "contribuyentes": [
+   "El camión invadió el paso a nivel incumpliendo la señalización del camino (stop).",
+   "El paso a nivel particular no disponía de ninguna instalación de seguridad, ni señales luminosas o dispositivos acústicos que avisaran de la proximidad del tren.",
+   "La vía estaba flanqueada por arbustos que, si bien no impedían la visibilidad, podían dificultarla en algún momento."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 2,
+  "danos_materiales": "Material rodante: graves daños en el frontal, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros. Infraestructura: rotura de los candelabros derecho e izquierdo del paso a nivel por el lado Huesca. Vehículo: daños en cabina y chasis del camión; el remolque perdió la lanza de arrastre.",
+  "afectacion_servicio": "Circulación suspendida desde las 18:44 hasta las 00:50 del día siguiente. El tren implicado quedó detenido en el lugar y sus 7 viajeros fueron evacuados en un vehículo todo terreno de bomberos a Martillué y luego en autobús a Sabiñánigo para continuar viaje. Se suprimieron dos trenes de media distancia."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel particular",
+  "arrollamiento",
+  "camión articulado",
+  "remolque",
+  "tren de media distancia",
+  "renfe operadora",
+  "adif",
+  "ciaf",
+  "jaca",
+  "huesca",
+  "sabiñánigo",
+  "línea 204"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-130709-260110-CIAF"
+}

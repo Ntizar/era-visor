@@ -1,0 +1,128 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por el tren LE568 en la estación de Bell-Lloc d'Urgell (Lleida)",
+ "idioma_original": "es",
+ "resumen": "El 23 de julio de 2007, el tren LE568 (vagoneta de electrificación de Adif) arrolló mortalmente a una persona en la estación de Bell-Lloc d'Urgell (Lleida), PK 196,070 de la Línea 220. La víctima cruzó la vía por un paso indebido a través de una abertura en los setos que flanquean la vía. No hubo daños materiales ni perturbaciones adicionales al tráfico. La investigación concluyó que el origen fue la imprudencia de la víctima.",
+ "hechos": "El tren LE568, una vagoneta automóvil (UIC 927160009084) del equipo de línea de electrificación de Lleida de la D.E. de Mantenimiento de Infraestructura de Adif, procedente de Lleida, circulaba por la estación de Bell-Lloc d'Urgell cuando una persona cruzó la vía por una abertura en los setos que flanquean la plataforma. El maquinista observó repentinamente a la persona que intentaba cruzar de derecha a izquierda, aplicó el freno de urgencia y el silbato, pero no pudo evitar el arrollamiento. Como consecuencia, la persona falleció. El tren detuvo su marcha entre los dos pasos a nivel situados en el interior de la estación. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Bell-Lloc d'Urgell",
+  "pk": "196,070",
+  "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat",
+  "provincia": "Lleida",
+  "descripcion_lugar": "Tramo recto de vía única dentro del núcleo urbano, flanqueado por calles separadas de la vía por barreras de setos a 2-3 metros de los carriles. Entre dos pasos a nivel con semibarreras (PK 196,006 y 196,245). Existen varios pasos viciosos a través de los setos."
+ },
+ "cronologia": [
+  {
+   "hora": "09:39",
+   "evento": "Arrollamiento de una persona por el tren LE568 en la estación de Bell-Lloc d'Urgell, PK 196,070"
+  },
+  {
+   "hora": "09:39",
+   "evento": "El maquinista aplica freno de urgencia y silbato; el tren se detiene entre los dos pasos a nivel de la estación"
+  },
+  {
+   "hora": "09:39",
+   "evento": "El maquinista comunica el suceso al Puesto de Mando; el Jefe de Equipo informa al PM y al Jefe de CION"
+  },
+  {
+   "hora": "10:20",
+   "evento": "Se nombra nuevo Jefe Delegado en el lugar del accidente (Supervisor de Circulación de la Jefatura de Operaciones de Tarragona-Lleida)"
+  },
+  {
+   "hora": "12:14",
+   "evento": "Se retira el cadáver y se restablece la circulación normal"
+  },
+  {
+   "hora": null,
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/ml)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "LE568",
+   "tipo": "Vagoneta automóvil de electrificación (equipo de línea)",
+   "operador": "Adif (D.E. de Mantenimiento de Infraestructura)",
+   "danos": "Sin daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren LE568 (matrícula 9728387)",
+   "implicacion": "Conducía el tren; aplicó freno de urgencia y silbato; alcoholemia negativa (0,00 mg/ml); jornada efectiva 2h39min; descanso las 24 y 48 horas anteriores"
+  },
+  {
+   "rol": "Jefe de Equipo de línea Electrificada (matrícula 9747312)",
+   "implicacion": "Viajaba de servicio en el tren; informó al PM y al Jefe de CION tras el arrollamiento"
+  },
+  {
+   "rol": "Oficial Celador de Equipo de línea Electrificada (matrícula 8958357)",
+   "implicacion": "Viajaba de servicio en la vagoneta observando e inspeccionando la catenaria; no vio a la persona cruzar"
+  },
+  {
+   "rol": "Oficial Celador de Equipo de línea Electrificada (matrícula 9681180)",
+   "implicacion": "Viajaba de servicio en la vagoneta observando e inspeccionando la catenaria; no vio a la persona cruzar"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo: Transición de Bloqueo Telefónico a BLAU con CTC",
+  "tipo_via": "Vía única, tramo recto",
+  "velocidad_maxima": "140 km/h (Cuadro de velocidades del tramo); 90 km/h (velocidad máxima de la vagoneta)",
+  "ancho": null,
+  "electrificacion": "Línea electrificada (equipo de línea de electrificación)",
+  "estado_via": "Buena visibilidad; setos a ambos lados a 2-3 m de los carriles dificultan visión lateral; pasos a nivel con semibarreras en PK 196,006 y 196,245; pasos viciosos existentes",
+  "otro": "Dentro del núcleo urbano de Bell-Lloc d'Urgell, flanqueada por calles separadas por setos"
+ },
+ "material_rodante": {
+  "series": "Vagoneta automóvil UIC 927160009084",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas normales, no disminuyeron la visibilidad",
+ "causas": {
+  "directa": "Cruce indebido de la vía por la persona fallecida a través de una abertura en los setos (paso vicioso), sin percatarse de la llegada del tren",
+  "contribuyentes": [
+   "Existencia de pasos viciosos a través de los setos que flanquean la vía",
+   "Los setos a 2-3 metros de los carriles dificultan la visión lateral y propician una invasión de la vía difícil de prever",
+   "Situación del tramo dentro del núcleo urbano con calles adyacentes"
+  ],
+  "sistemicas": [
+   "Falta de vallado que delimite la zona urbana y la separe de la vía",
+   "Presencia de pasos viciosos no eliminados pese a la cercanía de dos pasos a nivel con semibarreras"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "El tren LE568 fue suprimido en la estación de Bell-Lloc d'Urgell; no se produjeron más perturbaciones al tráfico. Circulación restablecida a las 12:14 h"
+ },
+ "lecciones": [
+  "La existencia de pasos viciosos en tramos urbanos con setos próximos a la vía genera situaciones de riesgo difícilmente previsibles para los maquinistas",
+  "El tren circulaba a velocidad inferior a la máxima prescrita y el maquinista actuó correctamente (freno de urgencia, silbato, comunicación inmediata)"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Supresión de los pasos viciosos mediante un vallado que delimite la zona urbana, separándola de la vía",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso-vicioso",
+  "setos",
+  "electrificacion",
+  "vagoneta",
+  "adif",
+  "linea-220",
+  "bell-lloc-durgell",
+  "lleida",
+  "imprudencia",
+  "vallado",
+  "via-unica",
+  "entorno-urbano"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_230707_300108"
+}

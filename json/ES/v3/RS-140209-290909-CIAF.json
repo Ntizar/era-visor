@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Incidente ferroviario en la estación de Lieres (línea 21 Oviedo-Santander) por deficiencias en comunicaciones y conducción",
+ "idioma_original": "es",
+ "resumen": "El CIAF aprobó el informe definitivo del incidente ferroviario nº 0009/2009 ocurrido el 14 de febrero de 2009 en la estación de Lieres, de la línea 21 Oviedo-Santander, operada por Feve. El incidente estuvo relacionado con deficiencias en los sistemas de comunicación entre maquinistas y el CTC, así como con la atención en la conducción en circunstancias de anormalidad. Se emitieron tres recomendaciones dirigidas a Feve para mejorar la comprobación de comunicaciones, la auditoría de procedimientos de registro y el cumplimiento riguroso de normas de explotación.",
+ "hechos": "El incidente ferroviario nº 0009/2009 se produjo el 14 de febrero de 2009 en la estación de Lieres, perteneciente a la línea 21 Oviedo-Santander, explotada por Feve. El informe particular elaborado por el técnico investigador fue analizado en el Pleno de la CIAF celebrado el 29 de septiembre de 2009. En dicho Pleno se modificó la segunda recomendación para hacerla más concreta y se modificó la tercera atendiendo a los comentarios realizados por Feve. El incidente se relaciona con problemas en las comunicaciones entre los maquinistas y el Centro de Transporte Centralizado (CTC), así como con la atención debida en la conducción en circunstancias de anormalidad.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Lieres",
+  "pk": null,
+  "linea": "21 Oviedo-Santander",
+  "provincia": null,
+  "descripcion_lugar": "Estación de Lieres, en la línea 21 Oviedo-Santander, explotada por Feve."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "Ocurre el incidente ferroviario nº 0009/2009 en la estación de Lieres"
+  },
+  {
+   "hora": null,
+   "evento": "El técnico investigador presenta el informe particular"
+  },
+  {
+   "hora": null,
+   "evento": "Feve realiza comentarios sobre la tercera recomendación"
+  },
+  {
+   "hora": null,
+   "evento": "Pleno de la CIAF: se modifican la segunda y tercera recomendaciones y se aprueba el informe como definitivo"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": null,
+   "tipo": null,
+   "operador": "Feve",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Comunicación con el CTC y atención en la conducción en circunstancias de anormalidad"
+  },
+  {
+   "rol": "operador CTC",
+   "implicacion": "Comunicación con los maquinistas"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Sistemas de comunicación entre maquinistas y CTC; procedimientos de registro de comunicaciones (telefonemas escritos)"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [
+   "Deficiencias en los sistemas de comunicación entre los maquinistas y el CTC",
+   "Falta de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos)",
+   "Falta de atención debida en la conducción en circunstancias de anormalidad"
+  ],
+  "sistemicas": [
+   "Necesidad de comprobar el buen funcionamiento de los sistemas de comunicación",
+   "Necesidad de auditar el grado de cumplimiento de los procedimientos de registro de comunicaciones",
+   "Necesidad de insistir en el cumplimiento riguroso de las normas en las comunicaciones de explotación"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [
+  "Los sistemas de comunicación entre maquinistas y CTC deben comprobarse para garantizar la perfecta comunicación y el entendimiento entre interlocutores",
+  "Los procedimientos de registro de comunicaciones (telefonemas escritos) deben auditarse para evaluar su grado de cumplimiento",
+  "Las normas de explotación en comunicaciones deben cumplirse rigurosamente, especialmente en circunstancias de anormalidad",
+  "La atención en la conducción debe mantenerse especialmente cuando se circula en circunstancias de anormalidad"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Comprobación del buen funcionamiento de los sistemas de comunicación entre los maquinistas y el CTC que garantice la perfecta comunicación entre ambos y asegure el perfecto entendimiento entre los interlocutores.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Realizar una auditoría para evaluar el grado de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos).",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Insistir en el cumplimiento riguroso de las normas en las comunicaciones de explotación, así como en el mantenimiento de la atención debida en la conducción, especialmente cuando se circula en circunstancias de anormalidad.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "incidente",
+  "comunicaciones",
+  "ctc",
+  "maquinista",
+  "feve",
+  "lieres",
+  "oviedo-santander",
+  "telefonemas escritos",
+  "conduccion",
+  "anormalidad",
+  "auditoria",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-140209-290909-CIAF"
+}

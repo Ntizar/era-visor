@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por un tren de mercancías en el paso enmaderado del apeadero de Andoaín Centro",
+ "idioma_original": "es",
+ "resumen": "El 30 de julio de 2008 a las 07:15, el tren de mercancías 91608 arrolló a un varón de 40 años en el paso enmaderado entre andenes del apeadero de Andoaín Centro (PK 608+155, línea 100 Madrid-Hendaya, Guipúzcoa). La víctima, usuaria habitual del apeadero con discapacidad mental, cruzaba del andén de vía II al de vía I con auriculares puestos mientras el tren pasaba. El arrollamiento causó su fallecimiento. No se produjeron daños materiales. La CIAF no estableció recomendaciones al estar previstas actuaciones correctoras (paso inferior y cerramiento urbano).",
+ "hechos": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608, compuesto por la locomotora 289105 y 20 vehículos con 996 Tm remolcadas, arrolló a una persona en el paso enmaderado entre andenes del apeadero de Andoaín Centro, situado en el p.k. 608+155 de la línea 100 Madrid-Hendaya. La víctima, un varón de 40 años, cruzaba desde el andén de vía II hacia el andén de vía I (de izquierda a derecha en el sentido de avance del tren) para dirigirse a la taquilla, situada en el andén opuesto. Caminaba con auriculares puestos y, según la declaración del factor de taquilla, tenía una discapacidad mental y era usuaria habitual del apeadero.\n\nEl maquinista, al salir del túnel, vio a la persona andando por el andén, le pitó en tres ocasiones y, al no recibir respuesta, cruzó sin mirar. El maquinista activó el freno de urgencia y comunicó al Puesto de Mando de Miranda de Ebro. La velocidad en el momento del arrollamiento era de 93 km/h, inferior a la máxima permitida de 95 km/h. Como consecuencia del arrollamiento, la persona resultó cadáver.\n\nNo se produjeron daños en material rodante, infraestructura ni medio ambiente. Se registraron retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías, así como la supresión de 6 trenes de viajeros. El 30 de abril de 2007 se había producido un arrollamiento similar en el mismo punto, resultando una joven herida grave.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Apeadero de Andoaín Centro",
+  "pk": "608+155",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Paso enmaderado entre andenes del apeadero, a la salida de un túnel, en transición de curva a izquierda (sentido de marcha del tren), con rampa del 0,75 ‰. Trayecto Villabona-Andoaín."
+ },
+ "cronologia": [
+  {
+   "hora": "07:15",
+   "evento": "Arrollamiento de la persona por el tren de mercancías 91608 en el paso enmaderado del apeadero de Andoaín Centro."
+  },
+  {
+   "hora": "07:15",
+   "evento": "El maquinista activa el freno de urgencia y comunica al Puesto de Mando de Miranda de Ebro."
+  },
+  {
+   "hora": null,
+   "evento": "El Puesto de Mando cursa aviso a Seguridad Corporativa y Protección Civil de Adif, Gerencias Territoriales de Seguridad en la Circulación Norte de Adif y Renfe Operadora, Operador de Mercancías, Jefatura Técnica de Operaciones de Irún y medios sanitarios."
+  },
+  {
+   "hora": null,
+   "evento": "Llegada de la Ertzaintza y Policía Municipal al lugar."
+  },
+  {
+   "hora": "11:15",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el fallecimiento a la CIAF mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": "2008-08-29",
+   "evento": "Entrega del informe particular del Responsable de Seguridad de Renfe Operadora."
+  },
+  {
+   "hora": "2008-10-08",
+   "evento": "Entrega del informe particular del Gerente Territorial de Seguridad en la Circulación zona Norte de Adif."
+  },
+  {
+   "hora": "2008-10-23",
+   "evento": "Visita de inspección al apeadero del accidente."
+  },
+  {
+   "hora": "2008-11-28",
+   "evento": "Pleno de la CIAF aprueba el informe final como definitivo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "91608",
+   "tipo": "mercancías",
+   "operador": "Renfe Operadora (Operador de Mercancías)",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 91608 (matrícula 9704537)",
+   "implicacion": "Vio a la persona al salir del túnel, pitó en tres ocasiones, activó el freno de urgencia y comunicó al Puesto de Mando. Su comportamiento fue correcto. Alcohol 0,00 mg/1000 ml. Jornada de conducción ese día: 2 h 15 min; 24 h anteriores: 3 h; 48 h anteriores: 5 h."
+  },
+  {
+   "rol": "Factor de taquilla (empleado de UNI2)",
+   "implicacion": "Testigo del suceso. Declaró conocer a la víctima como viajero habitual con deficiencia mental y siempre con cascos de música. Vio llegar al mercancías pitando insistentemente y oyó un golpe fuerte."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Buena y en buen estado. En los andenes, texto en euskera y castellano: 'CUIDADO AL CRUZAR. TRENES CIRCULANDO EN AMBOS SENTIDOS'. Visibilidad limitada por curva y trenes parados, especialmente desde el lado Madrid.",
+  "tipo_via": "Paso enmaderado entre andenes, firme en buen estado, situado aproximadamente a mitad de andén.",
+  "velocidad_maxima": "95 km/h (cuadro de velocidades máximas para ese tipo de tren en el trayecto)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B. con C.T.C). Tramo a la salida de un túnel, en transición de curva a izquierda, rampa 0,75 ‰. Radiotelefonía modalidad A. Tráfico catalogado como ALTO: 842 circulaciones/semana (LD 124, MD 42, Cercanías 492, Mercancías 178, Servicio 6). Al ser B.A.B., trenes sin paradas comerciales pueden circular por vía contraria a su sentido natural."
+ },
+ "material_rodante": {
+  "series": "Locomotora 289105",
+  "averia": null,
+  "mantenimiento": "Funcionamiento correcto. Memoria estática registra tres usos de la bocina. Velocidad en el momento del arrollamiento: 93 km/h."
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Cruce de la víctima por el paso enmaderado entre andenes en el momento en que el tren efectuaba su paso por el mismo.",
+  "contribuyentes": [
+   "La víctima caminaba con auriculares puestos, lo que debió influir en que no percibiese la llegada del tren.",
+   "La víctima tenía una discapacidad mental.",
+   "Limitación de visibilidad en el apeadero por la curva y por trenes parados en el lado Madrid.",
+   "Posibilidad de circulación de trenes por vía contraria a su sentido natural al tratarse de bloqueo B.A.B.",
+   "Necesidad de cruzar el paso dos veces para comprar billetes (taquilla en vía I, viajeros de vía II)."
+  ],
+  "sistemicas": [
+   "Ausencia de un paso inferior o superior entre andenes en el apeadero.",
+   "Falta de cerramiento urbano del entorno del apeadero."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+  "afectacion_servicio": "Retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías; supresión de 6 trenes de viajeros."
+ },
+ "lecciones": [
+  "El uso de auriculares por parte de peatones en entornos ferroviarios reduce drásticamente la percepción de señales acústicas de aviso (bocina/silbato).",
+  "Los pasos enmaderados a nivel entre andenes en apeaderos con visibilidad limitada por curva y trenes parados constituyen un riesgo elevado para usuarios vulnerables.",
+  "En tramos con bloqueo B.A.B., la circulación por vía contraria al sentido natural aumenta el riesgo para viajeros que cruzan vías sin comprobar ambas direcciones.",
+  "La concentración de servicios (taquilla en un solo andén) obliga a cruzar el paso múltiples veces, incrementando la exposición al riesgo."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "apeadero",
+  "paso enmaderado",
+  "tren de mercancías",
+  "andoaín",
+  "guipúzcoa",
+  "víctima mortal",
+  "discapacidad",
+  "auriculares",
+  "visibilidad",
+  "bloqueo bab",
+  "paso inferior",
+  "cerramiento urbano"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-300708-281108-CIAF_Andoaín, Guipúzcoa"
+}

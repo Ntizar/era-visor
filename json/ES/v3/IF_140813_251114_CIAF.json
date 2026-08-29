@@ -1,0 +1,152 @@
+{
+ "titulo_normalizado": "Rebase de señal de parada S1/1 y conato de colisión en estación de Torralba (Soria) por incumplimiento del maquinista del tren 81811",
+ "idioma_original": "es",
+ "resumen": "El 14 de agosto de 2013 a las 08:58 horas, el tren de mercancías 81811 de Renfe Operadora (origen Castellbisbal, destino Vicálvaro Clasificación) rebasó indebidamente la señal de salida S1/1 en indicación de parada en la estación de Torralba (línea 200 Madrid Chamartín – Barcelona Estació de França). Se produjo un conato de colisión con el tren de media distancia 17301 (Soria-Madrid) que circulaba por la misma vía 1 en el mismo sentido, a 1873 metros de distancia. El sistema ASFA activó el freno de emergencia y el tren se detuvo 48 metros tras la señal. No hubo víctimas ni daños materiales. La investigación concluyó que el incidente se originó por incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+ "hechos": "Los hechos tuvieron lugar el 14 de agosto de 2013 a las 08:58 horas en la estación de Torralba (PK 157+520), línea 200 Madrid Chamartín – Barcelona Estació de França, tramo Torralba – Arcos de Jalón, municipio de Medinaceli (Soria). El tren de mercancías 81811 de Renfe Operadora, con origen Castellbisbal y destino Vicálvaro Clasificación, se aproximó a la estación con la señal avanzada E'1 en anuncio de parada y la señal de entrada E1 en indicación de parada. Se detuvo ante E1 unos 1 minuto y 50 segundos mientras se establecía itinerario de entrada a vía 1. Una vez reanudada la marcha, el tren circuló por vía 1 a unos 40 km/h. La señal de salida S1/1 permaneció en indicación de parada (rojo) en todo momento según el videográfico del enclavamiento. Al pasar por la baliza de pie de S1/1 a 30 km/h, el ASFA activó el freno de emergencia, pero el tren rebasó la señal y se detuvo 48 metros más allá. En ese momento, el tren de media distancia 17301 (Soria-Madrid) circulaba por la misma vía 1 en el mismo sentido, a 1873 metros de distancia, habiendo realizado su paso por vía 1S a las 08:54:23. No existía ninguna señal intermedia que ordenase parada al tren 81811, lo que generó el conato de colisión. El maquinista del 81811 declaró que la señal S1/1 había cambiado de rojo a verde y de nuevo a rojo, pero el análisis del enclavamiento confirmó que la señal permaneció en rojo durante toda la secuencia y no se detectó disolución artificial de itinerario (DAI).",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Torralba",
+  "pk": "157+520",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "provincia": "Soria",
+  "descripcion_lugar": "Estación de Torralba, señal de salida S1/1, PK 157+520, vía 1. Tramo Torralba – Arcos de Jalón. Municipio de Medinaceli. Estación integrada en CTC Madrid-Chamartín. Vía 1 de 666 m en rampa de 10 milésimas y curva a la derecha."
+ },
+ "cronologia": [
+  {
+   "hora": "08:48:56",
+   "evento": "Tren 17301 tiene establecido itinerario de salida hacia Madrid por vía 1S. Tren 81811 se aproxima a señal E1. Señal S1/1 en parada."
+  },
+  {
+   "hora": "08:50:22",
+   "evento": "Tren 81811 pasa a 85 km/h por baliza de pie de señal avanzada E'1 (anuncio de parada)."
+  },
+  {
+   "hora": "08:52:44",
+   "evento": "Tren 81811 pasa a 14 km/h por baliza previa de señal de entrada E1 (parada)."
+  },
+  {
+   "hora": "08:53:44",
+   "evento": "Tren 81811 se detiene ante señal E1 en indicación de parada."
+  },
+  {
+   "hora": "08:54:23",
+   "evento": "Tren 17301 pasa a 38 km/h por baliza de pie de señal de salida S1/1S (vía 1S), dirección Madrid."
+  },
+  {
+   "hora": "08:55:14",
+   "evento": "Se establece itinerario de entrada a vía 1 para tren 81811. E1 pasa a anuncio de parada. S1/1 continúa en parada (rojo)."
+  },
+  {
+   "hora": "08:55:35",
+   "evento": "Tren 81811 reanuda marcha, pasa baliza de pie de E1 a 9 km/h (anuncio de parada)."
+  },
+  {
+   "hora": "08:57:57",
+   "evento": "ASFA activa freno de emergencia al pasar tren 81811 por baliza de pie de S1/1 (parada) a 30 km/h."
+  },
+  {
+   "hora": "08:58:04",
+   "evento": "Tren 81811 rebasa indebidamente señal S1/1. Tren 17301 a 1873 m en la vía 1, mismo sentido. Conato de colisión."
+  },
+  {
+   "hora": "08:58:06",
+   "evento": "Tren 81811 se detiene 48 metros tras la señal S1/1."
+  },
+  {
+   "hora": "10:48",
+   "evento": "Jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "81811",
+   "tipo": "mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales en el material rodante."
+  },
+  {
+   "numero": "17301",
+   "tipo": "media distancia (viajeros)",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 81811 (matrícula 9693441)",
+   "implicacion": "Incumplió los artículos 217 y 320 del RGC al no detenerse ante señal de parada y no concentrar atención en las indicaciones. Retirado del servicio, sometido a reciclaje formativo, simulador y acompañamiento por tutor."
+  },
+  {
+   "rol": "Maquinista del tren 17301 (matrícula 8869752)",
+   "implicacion": "Sin implicación en la causa del incidente. Circulaba correctamente por itinerario establecido."
+  },
+  {
+   "rol": "Jefe de circulación estación de Torralba (matrícula 7773575)",
+   "implicacion": "Sin implicación en la causa. Itinerarios establecidos (movimientos 32 y 28) eran correctos y acordes a la consigna A."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/1: alta luminosa de 2 focos más foco blanco de rebase autorizado, con baliza de pie de señal. Buena visibilidad. Permaneció en rojo (parada) durante toda la secuencia. Señal de entrada E1 con baliza previa. Señal avanzada E'1. No había baliza previa en S1/1 en el momento del incidente (instalada posteriormente).",
+  "tipo_via": "Vía doble electrificada (línea 200, tramo Guadalajara-Ariza) y vía única sin electrificar (línea 202 Torralba-Castejón). Estación con vías 1, 1S, 2 y 3. Vía 1: 666 m, rampa 10 milésimas, curva derecha.",
+  "velocidad_maxima": "Tren 81811: tipo 100 (100 km/h). Tren 17301: no especificada en informe.",
+  "ancho": "Ibérico (implícito en la red RFIG española)",
+  "electrificacion": "Línea 200: electrificada. Línea 202: sin electrificar.",
+  "estado_via": "Correcto. No se detectaron anomalías. Estación en mando local en el momento del rebase.",
+  "otro": "Bloqueo de Liberación Automática (BLAD) en tramo Guadalajara-Ariza. CTC Madrid-Chamartín. Enclavamiento con videográfico. Consigna A nº 2426. Movimientos 32 y 42 incompatibles. Radiotelefonía modalidad A y C."
+ },
+ "material_rodante": {
+  "series": "Tren 81811: locomotora serie 253 (253061) + 16 vagones, 64 ejes, 224 m, 364 t. Tren 17301: automotor serie 594, 2 coches, 8 ejes, 48 m, 101 t.",
+  "averia": "Ninguna. El material rodante funcionó correctamente. ASFA funcionó correctamente activando freno de emergencia.",
+  "mantenimiento": "No se mencionan deficiencias de mantenimiento. Instalaciones técnicas funcionaron correctamente."
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso.",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S1/1 en indicación de parada (rojo) por el tren 81811, por incumplimiento de las órdenes dadas por las señales al personal de conducción (artículos 217 y 320 del Reglamento General de Circulación).",
+  "contribuyentes": [
+   "El tren 81811 circulaba a 40 km/h en la estación y a 30 km/h al pasar la baliza de S1/1, lo que no permitió detenerse a tiempo tras la activación del ASFA.",
+   "Ausencia de baliza previa en la señal de salida S1/1 en el momento del incidente (se instaló posteriormente), lo que limitó la información anticipada al maquinista.",
+   "La señal S1/1 se encontraba en curva y rampa de subida, lo que según el maquinista dificultaba la percepción (aunque el videográfico confirma que la señal estaba en rojo y tenía buena visibilidad).",
+   "No existía ninguna señal intermedia entre el tren 81811 y el 17301 que pudiera ordenar parada al primero tras el rebase.",
+   "El BLAD no permitía abrir S1/1 hasta que el tren precedente llegara a Sigüenza, lo que mantenía la señal en rojo de forma prolongada."
+  ],
+  "sistemicas": [
+   "Fallo humano en la conducción no detectado ni mitigado antes del suceso.",
+   "Ausencia de baliza previa en señal de salida en curva y rampa (subsanada por Adif)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+  "afectacion_servicio": "No se produjo interceptación de la vía. No hubo retrasos generales, excepto el propio tren 81811 que sufrió un retraso de 3 horas y 20 minutos."
+ },
+ "lecciones": [
+  "La activación del ASFA por baliza de pie de señal es una última barrera de seguridad, pero no impide el rebase si la velocidad de aproximación es excesiva.",
+  "La ausencia de baliza previa en una señal de salida situada en curva y rampa reduce la capacidad del maquinista para anticipar la indicación de parada.",
+  "El videográfico del enclavamiento es una herramienta fundamental para verificar la indicación real de las señales frente a las declaraciones del maquinista.",
+  "La incompatibilidad de movimientos en la consigna de estación (movimientos 32 y 42) es correcta, pero no evita el rebase de señal por parte del tren que ya ha accedido a la vía."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "spad",
+  "conato de colisión",
+  "fallo humano",
+  "asfa",
+  "señal en parada",
+  "tren de mercancías",
+  "estación de torralba",
+  "línea 200",
+  "renfe operadora",
+  "baliza previa",
+  "ctc madrid chamartín"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_140813_251114_CIAF"
+}

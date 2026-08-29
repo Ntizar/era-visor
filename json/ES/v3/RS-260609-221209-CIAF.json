@@ -1,0 +1,79 @@
+{
+ "titulo_normalizado": "Accidente ferroviario en la estación de Aluche (Madrid) en la línea 920",
+ "idioma_original": "es",
+ "resumen": "La CIAF dictó la resolución RS-260609-221209-CIAF sobre el accidente ferroviario nº 0030/2009. El siniestro ocurrió el 26 de junio de 2009 en la estación de Aluche (Madrid), en la línea 920 Móstoles – El Soto Parla. En el Pleno del 22 de diciembre de 2009 se aprobó el informe particular con una recomendación dirigida a Renfe Operadora. La recomendación insiste en medidas de gestión de seguridad, formación en el Reglamento General de Circulación, influencia de procesos psicológicos en la conducción y verificación de aptitud del personal de conducción. El texto no detalla hechos concretos del accidente, trenes, causas ni consecuencias.",
+ "hechos": "El 26 de junio de 2009 se produjo un accidente ferroviario nº 0030/2009 en la estación de Aluche (Madrid), en la línea 920 Móstoles – El Soto Parla. El documento proporcionado no describe el desarrollo del suceso ni los trenes implicados; únicamente consta la aprobación del informe particular y una recomendación de seguridad.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Aluche",
+  "pk": null,
+  "linea": "920",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Estación de Aluche (Madrid), línea 920 Móstoles – El Soto Parla"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "26.06.2009: Accidente ferroviario nº 0030/2009 en la estación de Aluche (Madrid)"
+  },
+  {
+   "hora": null,
+   "evento": "22.12.2009: Pleno de la CIAF aprueba el informe definitivo con la recomendación"
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "personal de conducción",
+   "implicacion": "Mencionado en la recomendación sobre formación, cumplimiento de normas y verificación de aptitud"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Estación de Aluche; línea 920 Móstoles – El Soto Parla"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe-Operadora"
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "aluche",
+  "madrid",
+  "linea 920",
+  "ciaf",
+  "renfe operadora",
+  "recomendacion",
+  "seguridad ferroviaria",
+  "reglamento general de circulacion",
+  "personal de conduccion"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-260609-221209-CIAF"
+}

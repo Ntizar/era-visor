@@ -1,0 +1,105 @@
+{
+ "titulo_normalizado": "Resolución CIAF del incidente 0054/2008 en Moncófar por defectos de torneado en ruedas",
+ "idioma_original": "es",
+ "resumen": "Resolución de la CIAF aprobando el informe particular del incidente 0054/2008 ocurrido en la estación de Moncófar. El suceso está relacionado con defectos (entallas o marcas de sujeción de torno) producidos en el torneado de ruedas. La resolución modifica la quinta recomendación añadiendo dos destinatarios: los Centros de Mantenimiento y Adif. Se aprueban cinco recomendaciones dirigidas a Renfe Operadora y a las empresas ferroviarias afectadas.",
+ "hechos": "El incidente nº 0054/2008 se produjo el 24 de octubre de 2008 en la estación de Moncófar, perteneciente a la línea 600 Valencia Estación del Nord - San Vicente de Calders. El suceso está vinculado a la aparición de entallas o marcas de sujeción de torno en ruedas que habían sido torneadas en tornos que producían dicho defecto. El informe particular fue presentado por el técnico investigador y, en el Pleno de la Comisión de Investigación de Accidentes Ferroviarios celebrado el 14 de julio de 2009, se analizó el expediente y se modificó la quinta recomendación del informe, añadiendo como destinatarios los Centros de Mantenimiento (por tener autonomía) y Adif (por ser el encargado de habilitar e inspeccionar los centros de mantenimiento). Se aprueba como definitivo el informe particular con las cinco recomendaciones.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Moncófar",
+  "pk": null,
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+  "provincia": null,
+  "descripcion_lugar": null
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2008-10-24: Ocurrido el incidente nº 0054/2008 en la estación de Moncófar"
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: Pleno de la CIAF, se modifica la quinta recomendación y se aprueba el informe como definitivo"
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": null
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": "Entallas o marcas de sujeción de torno en ruedas torneadas en tornos que producían el defecto",
+  "mantenimiento": "Se requiere establecer procedimientos de inspección (comprobación de entallas, magnetoscopia, eliminación de marcas) e introducir estas operaciones en los Planes de Mantenimiento"
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Entallas o marcas de sujeción de torno en ruedas, producidas por tornos que generaban dicho defecto durante el torneado",
+  "contribuyentes": [
+   "Sistemas de sujeción de ruedas en los tornos que provocaban entallas o marcas",
+   "Ausencia de procedimientos de inspección post-torneo para detectar y eliminar dichas marcas",
+   "Falta de control de calidad a la salida del torno"
+  ],
+  "sistemicas": [
+   "Necesidad de adaptar los Planes de Mantenimiento para incluir inspecciones específicas de tornos defectuosos",
+   "Falta de comunicación de actuaciones a todas las empresas ferroviarias cuyas ruedas pudieran haber sido torneadas en tornos defectuosos",
+   "Necesidad de verificar que los torneados realizados por empresas fabricantes no producen los citados defectos"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [
+  "Los tornos de rueda pueden producir entallas o marcas de sujeción que comprometen la integridad de la rueda",
+  "Es necesario un control de calidad a la salida del torno para verificar la ausencia de defectos",
+  "Los procedimientos de torneado deben garantizar que no se producen entallas o marcas",
+  "Las actuaciones correctivas deben comunicarse a todas las empresas ferroviarias potencialmente afectadas"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer procedimientos y fichas de inspección para: 1) Comprobación de la existencia de entallas o marcas de sujeción de torno, 2) Inspección por magnetoscopia de la zona afectada comprobando la no existencia de grietas, 3) Eliminación de las citadas marcas. Estos procedimientos afectarán a todos los tipos de ruedas que hayan podido ser torneadas en los tornos que produzcan el problema.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Establecer para cada serie de vehículos afectados un plan de actuación, indicando en qué intervención de mantenimiento se realizará la aplicación de cada procedimiento. Introducción de estas operaciones en los Planes de Mantenimiento.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Seguimiento del avance de las actuaciones y resultado de las mismas en cada una de las series, llevando un control de resultados. En función del avance de las actuaciones, y cuando se pueda garantizar la desaparición del problema, modificar posteriormente los Planes de Mantenimiento, adaptándoles al Plan de Mantenimiento normal de este tipo de ejes.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "En el procedimiento de torneado modificar los sistemas de sujeción de las ruedas, de forma que se garantice que no se producen entallas o marcas, estableciendo en el control de calidad, a la salida del torno, una ficha de inspección de comprobación de que las ruedas salen sin las citadas entallas o marcas y si estas existieran, eliminarlas conforme a procedimiento.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Todas las actuaciones anteriores deberán de ser comunicadas a las Empresas Ferroviarias cuyas ruedas hayan podido ser torneadas en tornos que produzcan entallas o marcas y estas empresas deberán introducir en sus planes de mantenimiento actuaciones similares. Además comprobarán que los torneados que se realizan a las ruedas por las empresas fabricantes no se producen los citados defectos.",
+   "destinatario": "Empresas Ferroviarias / Centros de Mantenimiento / Adif"
+  }
+ ],
+ "tags": [
+  "torneado de ruedas",
+  "entallas",
+  "marcas de sujeción",
+  "magnetoscopia",
+  "defecto de material rodante",
+  "mantenimiento",
+  "planes de mantenimiento",
+  "moncófar",
+  "línea 600",
+  "ciaf",
+  "resolución",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-241008-140709-CIAF"
+}

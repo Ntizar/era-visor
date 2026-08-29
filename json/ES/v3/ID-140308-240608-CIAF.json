@@ -1,0 +1,127 @@
+{
+ "titulo_normalizado": "Arrollamiento de motocicleta en paso a nivel de la estación de Llinars del Vallés (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 2008-03-14, a las 19:54, el tren de Cercanías 28460 de Renfe Operadora, entre San Celoni y Villanova i la Geltrú, arrolló una motocicleta en el Paso a Nivel de Clase C del P.K. 148/000, dentro de la estación de Llinars del Vallés. Las semibarreras estaban bajadas y enclavadas, y el paso a nivel funcionó correctamente. El conductor de la motocicleta, de 17 años, falleció en el acto; otra motocicleta cruzó antes sorteando las semibarreras sin resultar accidentada. No se produjeron daños materiales; hubo supresiones y retrasos hasta restablecer la circulación a las 22:22.",
+ "hechos": "El tren de Cercanías 28460, formado por las U/T 451009 en cabeza y 451010 en cola, con 6 vehículos y 355 TM de masa total remolcada, arrolló a una motocicleta en el Paso a Nivel de Clase C del P.K. 148+000, Camino Rural de Can Moix, cuando las semibarreras estaban bajadas. La primera motocicleta consiguió pasar antes que el tren, pero la segunda fue alcanzada por el lateral del tren y su conductor falleció en el acto.\n\nConocido el accidente, el Puesto de Mando de Barcelona avisó al tren 25453, que se aproximaba por la vía impar, y logró detenerlo antes de llegar al punto del arrollamiento. El tren accidentado fue autorizado a estacionarse en Llinars del Vallés a las 21:39, estableciéndose circulación por vía 3 con limitación de 10 km/h; a las 22:22 se restableció la circulación normal.\n\nLos registros del paso a nivel, del enclavamiento y de las cámaras de vigilancia corroboraron que las semibarreras estaban abatidas y que el vehículo arrollado las sorteó.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Llinars del Vallés",
+  "pk": "148/000",
+  "linea": "270 Barcelona-Cerbere",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso a Nivel de Clase C, Camino Rural de Can Moix, situado dentro de la estación de Llinars del Vallés, entre las señales de entrada y salida."
+ },
+ "cronologia": [
+  {
+   "hora": "19:54",
+   "evento": "2008-03-14: arrollamiento de una motocicleta por el tren 28460 en el Paso a Nivel de Clase C del P.K. 148/000, con las semibarreras bajadas."
+  },
+  {
+   "hora": null,
+   "evento": "Conocido el accidente, el Puesto de Mando de Barcelona avisa al tren 25453, que se detiene antes de llegar al punto del arrollamiento."
+  },
+  {
+   "hora": "21:39",
+   "evento": "El tren 28460 queda autorizado a estacionarse en Llinars del Vallés; se establece circulación por vía 3 con limitación de 10 km/h."
+  },
+  {
+   "hora": "22:17",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento en la línea 270 Barcelona-Cerbere."
+  },
+  {
+   "hora": "22:22",
+   "evento": "Se establece circulación normal por todas las vías."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28460",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en material rodante."
+  },
+  {
+   "numero": "25453",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "28598",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "15841",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 28460",
+   "implicacion": "Titulado y habilitado; aplicó freno de emergencia y silbato; prueba de alcoholemia 0,00 mg/l; jornada efectiva hasta el suceso: 2 horas y 12 minutos."
+  },
+  {
+   "rol": "alumno de conducción en prácticas de la Escuela de Formación de Barcelona",
+   "implicacion": "Acompañaba al maquinista; prueba de alcoholemia 0,00 mg/l."
+  },
+  {
+   "rol": "conductor de la motocicleta arrollada",
+   "implicacion": "Fallecido en el acto; 17 años."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de entrada y avanzada de la vía 2 en Vía libre; semibarreras del Paso a Nivel de Clase C bajadas, enclavadas y abatidas; cámaras de vigilancia registraron el momento.",
+  "tipo_via": "Vía doble electrificada, BAB con CTC",
+  "velocidad_maxima": "No se especifica; el tren circulaba a 89 km/h, inferior a la máxima permitida",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionamiento correcto del paso a nivel y del enclavamiento; semibarreras bajadas en el momento del accidente",
+  "otro": "Paso a Nivel de Clase C, Camino Rural de Can Moix, entre señales de entrada y salida; momento de circulación A x T 4.635, superior a 1.500; previsto su supresión."
+ },
+ "material_rodante": {
+  "series": "UT 451009 en cabeza y 451010 en cola; UT 987184451009 y 987184451010; 6 vehículos; masa total remolcada 355 TM",
+  "averia": "No se produjeron daños; memoria estática indica 89 km/h, uso continuado de bocina y señales en Vía libre",
+  "mantenimiento": null
+ },
+ "clima": "Noche; ya había anochecido y la visibilidad estaba mermada, aunque el tramo tenía perfil recto y buena visibilidad.",
+ "causas": {
+  "directa": "Cruce indebido del paso a nivel por una motocicleta sorteando las semibarreras bajadas, en el momento en que circulaba el tren 28460.",
+  "contribuyentes": [],
+  "sistemicas": [
+   "Paso a nivel no suprimido pese a superar el umbral de momento de circulación establecido para supresión"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni al Medio Ambiente.",
+  "afectacion_servicio": "Tren 28460 suprimido en Llinars del Vallés y viajeros transbordados al 28598; tren 25453 suprimido y viajeros continuaron en el 15841; vía 1 y 2 interceptadas de 19:54 a 22:22; 2 Cercanías suprimidos y 11 retrasados con 72'; 8 Media Distancia retrasados con 93'; 3 Larga Distancia retrasados con 21'; 3 Mercancías retrasados con 74'."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "No se establecen recomendaciones específicas para este accidente en particular, al estar prevista la próxima supresión del paso a nivel.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "semibarreras",
+  "motocicleta",
+  "llinars del vallés",
+  "cercanías",
+  "renfe operadora",
+  "adif",
+  "línea 270",
+  "víctima mortal",
+  "supresión de paso a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-140308-240608-CIAF"
+}

@@ -1,0 +1,118 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de Larga Distancia en plena vía entre Cunit y Sant Vicent de Calders por cruce indebido",
+ "idioma_original": "es",
+ "resumen": "El 8 de octubre de 2006, a las 11:40, una persona de 55 años que intentaba cruzar las vías por un lugar no autorizado resultó arrollada por el tren de Larga Distancia nº 1111 de Renfe en el pk 625,120 de la Línea Madrid-Barcelona, entre Cunit y Sant Vicent de Calders (Barcelona). La víctima resbaló y cayó sobre la vía I al intentar cruzar desde el lado mar al lado montaña. Fue evacuada al Hospital Juan XXIII donde falleció. No se produjeron daños materiales. La investigación concluyó que el accidente se originó por el tránsito indebido de la víctima por un paso irregular existente en la zona, y recomendó eliminar dicho paso con un vallado completo.",
+ "hechos": "Una persona que intentaba cruzar las vías por lugar no autorizado resultó arrollada por el tren de Larga Distancia nº 1111 de Renfe, compuesto por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-Alicante por vía I, el día 8 de octubre de 2006 a las 11:40 en el punto kilométrico 625,120 de la línea Madrid-Barcelona, en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero. La víctima se dispuso a cruzar las vías desde el lado mar al lado montaña, resbalando al llegar a vía I y cayendo sobre ésta. El maquinista hizo uso del silbato al observar a la persona cruzando, pero la víctima continuó su recorrido metiéndose en la vía del tren y cayó sobre el carril derecho en el sentido de la marcha, produciéndose el arrollamiento. En primera instancia la víctima resultó herida grave siendo evacuada al Hospital Juan XXIII donde falleció. Era un varón de 55 años de edad. No se produjeron daños materiales. La vía I quedó interceptada desde las 11:40 hasta las 12:40.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Cunit – Sant Vicent de Calders",
+  "pk": "625,120",
+  "linea": "Madrid-Barcelona",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero de Segur de Calafell, entre las estaciones de Cunit y Sant Vicent de Calders. Tramo de doble vía con traza recta. Existe un paso inferior a unos 100 metros del lugar del arrollamiento. Lado mar sin cerramiento con alta vegetación; lado montaña con muro de fábrica de 0,50 m y vallado metálico con una apertura considerable que denota tránsito vicioso (paso irregular)."
+ },
+ "cronologia": [
+  {
+   "hora": "11:40",
+   "evento": "Arrollamiento de la persona por el tren 1111 en el pk 625,120. La vía I queda interceptada."
+  },
+  {
+   "hora": "11:40",
+   "evento": "El maquinista efectúa parada de emergencia y comunica al Puesto de Mando la incidencia."
+  },
+  {
+   "hora": "12:40",
+   "evento": "La vía I queda reanudada en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "La víctima es evacuada al Hospital Juan XXIII donde fallece."
+  },
+  {
+   "hora": "2006-10-11",
+   "evento": "Elaboración del parte de accidente del maquinista."
+  },
+  {
+   "hora": "2007-03-02",
+   "evento": "Firma del informe definitivo por la Dirección General de Ferrocarriles."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1111",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1111",
+   "implicacion": "Circulaba a 130 km/h (máximo permitido 160 km/h). Observó a la persona cruzando, hizo uso del silbato, efectuó parada de emergencia y comunicó al PM. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día: inicio 10:40, fin 14:14. Jornada anterior: inicio 17:38, fin 21:13. Jornada 48 h antes: inicio 12:40, fin 18:30."
+  },
+  {
+   "rol": "Víctima (persona arrollada)",
+   "implicacion": "Varón de 55 años. Intentó cruzar las vías por lugar no autorizado desde el lado mar al lado montaña, resbaló y cayó sobre la vía I. Herido grave, falleció en el Hospital Juan XXIII."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con CTC. Tramo de doble vía con traza recta.",
+  "tipo_via": "Doble vía, traza recta",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Lado mar: sin cerramiento/vallado, alta vegetación. Lado montaña: muro de fábrica de 0,50 m y vallado metálico con apertura considerable (paso irregular/tránsito vicioso). Paso inferior a unos 100 m del lugar del arrollamiento. Apeadero de Segur de Calafell a unos 50 m."
+ },
+ "material_rodante": {
+  "series": "Composición 101104-8",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Tránsito indebido de la víctima que cruzó las vías por un lugar no autorizado (paso irregular) y no tuvo en cuenta las indicaciones acústicas del tren (silbato).",
+  "contribuyentes": [
+   "Paso irregular existente en la zona por apertura del vallado metálico en el lado montaña, que denota tránsito vicioso.",
+   "Ausencia de cerramiento/vallado en el lado mar con alta vegetación.",
+   "Proximidad del apeadero de Segur de Calafell (50 m) que puede favorecer el cruce irregular de personas."
+  ],
+  "sistemicas": [
+   "Falta de un vallado completo que impida el acceso indebido a la infraestructura ferroviaria en el entorno urbano de Segur de Calafell."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Vía I interceptada de 11:40 a 12:40 (60 min). Retrasos acumulados: 70 min en 3 trenes de largo recorrido; 21 min en 4 trenes de cercanías (1 suprimido); 65 min en 3 trenes regionales."
+ },
+ "lecciones": [
+  "La existencia de pasos irregulares (tránsito vicioso) por aperturas en el vallado constituye un riesgo significativo para la seguridad de las personas en proximidad a la infraestructura ferroviaria.",
+  "El uso del silbato como advertencia acústica no siempre es suficiente para evitar el arrollamiento cuando la persona no reacciona adecuadamente.",
+  "La ausencia de cerramiento en un lado de la vía (lado mar) facilita el acceso indebido a las vías."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Eliminar el paso irregular existente en la zona donde se produjo el arrollamiento mediante un completo vallado por el administrador de la infraestructura (Adif).",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento de persona",
+  "cruce indebido",
+  "paso irregular",
+  "tránsito vicioso",
+  "larga distancia",
+  "línea madrid-barcelona",
+  "segur de calafell",
+  "vallado",
+  "bloqueo banalizado",
+  "accidente grave",
+  "fallecido",
+  "silbato"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-081006-020307"
+}

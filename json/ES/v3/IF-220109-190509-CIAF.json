@@ -1,0 +1,114 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por el tren 30744 en la estación de Gavá",
+ "idioma_original": "es",
+ "resumen": "El 22 de enero de 2009, a las 07:03, el tren de media distancia 30744 de Renfe Operadora arrolló a un hombre de 62 años en la estación de Gavá. La víctima cruzó por un lugar no habilitado, un paso vicioso, detrás de un tren que circulaba en sentido contrario, e invadió el gálibo de la vía II. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el fallecimiento. El informe concluye que el origen fue la invasión del gálibo por la víctima y recomienda a Adif estudiar el vallado de la zona.",
+ "hechos": "Día 22.01.09/ 7:03. El tren de media distancia 30744 de Renfe Operadora, procedente de Reus y con destino Barcelona, circulaba por la vía II a la salida de la estación de Gavá. Una persona cruzó las vías de izquierda a derecha en el sentido de la marcha del tren, desde lado montaña a lado mar, por un lugar no habilitado; lo hizo detrás de un tren que se dirigía a la estación de Gavá.\nAl ver a la persona sobre la caja de la vía, el maquinista hizo uso repetido del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima fue un hombre de 62 años, declarado cadáver a las 07:30. No hubo daños materiales en material rodante, infraestructura ni medio ambiente; se produjeron importantes retrasos y desvíos en el servicio.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Gavá",
+  "pk": "663,700",
+  "linea": "200 Barcelona Sants - Madrid Chamartín",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "A la salida de la estación de Gavá, a pocos metros de su señal de entrada por el lado Barcelona y a un kilómetro del Edificio de Viajeros. Vía doble, con vía I y vía II; zona industrial y poco transitada, con paso superior carretero y pontón próximos. La línea no está vallada y el lugar se usa como paso vicioso."
+ },
+ "cronologia": [
+  {
+   "hora": "07:03",
+   "evento": "El tren 30744 arrolla a una persona en la estación de Gavá."
+  },
+  {
+   "hora": "07:30",
+   "evento": "Los servicios sanitarios confirman que la víctima es cadáver."
+  },
+  {
+   "hora": "07:49",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "08:43",
+   "evento": "Llegan los servicios funerarios."
+  },
+  {
+   "hora": "09:22",
+   "evento": "Se persona el médico forense y se procede al levantamiento del cadáver."
+  },
+  {
+   "hora": "09:27",
+   "evento": "Finaliza la intercepción de la vía II y comienza la intercepción de la vía I."
+  },
+  {
+   "hora": "09:35",
+   "evento": "Finaliza la intercepción de la vía I."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "30744",
+   "tipo": "Tren de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 30744",
+   "implicacion": "Conducía el tren; usó silbato y freno de emergencia, y su actuación fue correcta. Matrícula 9703315; prueba de alcoholemia negativa (0,00 mg/1000 ml) y jornada de conducción dentro de límites."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); señal de entrada por el lado Barcelona.",
+  "tipo_via": "Vía doble electrificada de ancho convencional.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": "Ancho convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Perfil horizontal y recto, con buena visibilidad para los maquinistas y para los posibles transeúntes.",
+  "otro": "Radiotelefonía modalidad A. La línea no se encuentra vallada; dispone a ambos lados de hileras de cañas altas y densas. El lugar del accidente es utilizado como paso vicioso. Tramo Castelldefels – El Prat de Llobregat; media semanal de 1.814 circulaciones, considerada muy alta."
+ },
+ "material_rodante": {
+  "series": "UT 470070, 3 coches, 162 toneladas de masa remolcada, Nº UIC 967194700704.",
+  "averia": "No se aprecia avería; los equipos de seguridad del tren funcionaron correctamente. El registrador de seguridad indica 68 km/h al accionar el freno de emergencia.",
+  "mantenimiento": null
+ },
+ "clima": "Noche; tiempo despejado.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por la víctima, que cruzó por un lugar no habilitado cuando pasaba el tren 30744.",
+  "contribuyentes": [
+   "La víctima cruzó detrás de un tren que circulaba en sentido contrario, lo que impidió percatarse de la presencia del tren 30744.",
+   "El lugar del accidente era un paso vicioso no autorizado.",
+   "La línea no se encontraba vallada, solo con hileras de cañas altas y densas."
+  ],
+  "sistemicas": [
+   "Falta de medidas físicas, como vallado, para evitar el tránsito de personas por lugares no autorizados."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+  "afectacion_servicio": "Vía II interceptada de 07:03 a 09:27 y vía I de 09:27 a 09:35. Afectados 10 trenes de larga distancia con 241 minutos de retraso, 23 trenes de media distancia con 697 minutos y 55 trenes de cercanías con 1.424 minutos. Se trasbordó a los pasajeros del tren implicado, se suprimieron 5 trenes y se desviaron 4; se notificó marcha a la vista al paso por el punto del accidente."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "estación de gavá",
+  "tren de media distancia",
+  "renfe operadora",
+  "adif",
+  "paso vicioso",
+  "falta de vallado",
+  "invasión del gálibo",
+  "línea 200",
+  "barcelona",
+  "2009"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-220109-190509-CIAF"
+}

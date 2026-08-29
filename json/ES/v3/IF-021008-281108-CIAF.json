@@ -1,0 +1,116 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de FEVE en el viaducto del río Esla",
+ "idioma_original": "es",
+ "resumen": "El 2 de octubre de 2008, a las 18:12, el tren de cercanías 7606 de FEVE arrolló a una mujer en el viaducto del río Esla, PK 53,725 de la línea 31 León-Bilbao, entre Cistierna y León. La víctima falleció en el acto y no se produjeron daños materiales ni al medio ambiente. La investigación concluye que el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado. Se recomienda reforzar la señalización de prohibición y estudiar una pasarela peatonal.",
+ "hechos": "El día 2 de octubre de 2008, el tren de viajeros de cercanías 7606 de FEVE, formado por las UTDE 2456 y 2406, salió de la estación de Cistierna con destino León. Tras salir de la curva que precede al puente sobre el río Esla, el maquinista observó a una mujer que caminaba por la caja de la vía en sentido de la marcha y de espalda al tren.\n\nEl maquinista hizo uso del silbato en repetidas ocasiones y aplicó el freno neumático, pero no pudo evitar el arrollamiento. La víctima, una mujer de 80 años, falleció en el acto. El suceso se produjo en el PK 53,725 de la línea 31 León-Bilbao, sobre un viaducto de sillería de 8 metros de altura.\n\nTras el impacto, el maquinista comunicó el suceso a la estación de Cistierna, al Jefe de circulación y al puesto de mando de Bilbao, y se activó el Plan de Emergencia exterior mediante el 112. El tren permaneció detenido desde las 18:12 hasta las 18:20 horas y luego continuó la marcha.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Cistierna",
+  "pk": "53,725",
+  "linea": "31 León-Bilbao (tramo Matallana-Balmaseda)",
+  "provincia": "León",
+  "descripcion_lugar": "Viaducto sobre el río Esla, en las afueras de la estación de Cistierna, en el trayecto Cistierna-Apeadero de Yugueros, entre Cistierna y León."
+ },
+ "cronologia": [
+  {
+   "hora": "18:10",
+   "evento": "2008-10-02: el tren 7606 sale de la estación de Cistierna con destino León."
+  },
+  {
+   "hora": "18:12",
+   "evento": "2008-10-02: el tren arrolla a una mujer en el viaducto del río Esla, PK 53,725; la víctima fallece en el acto."
+  },
+  {
+   "hora": null,
+   "evento": "2008-10-02: tras el impacto, el maquinista comunica el suceso a la estación de Cistierna, al Jefe de circulación y al puesto de mando de Bilbao; el Plan de Emergencia exterior se activa por medio del 112."
+  },
+  {
+   "hora": "18:20",
+   "evento": "2008-10-02: tras consultar con el Puesto de Mando de Bilbao y personarse el equipo del 112, el tren continúa la marcha."
+  },
+  {
+   "hora": "19:30",
+   "evento": "2008-10-02: el Inspector General de FEVE comunica el accidente a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": null,
+   "evento": "2008-10-20: el Inspector General de FEVE entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2008-11-28: el Pleno de la CIAF aprueba como definitivo el informe particular con las recomendaciones."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "7606",
+   "tipo": "Viajeros de cercanías",
+   "operador": "FEVE",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 7606",
+   "implicacion": "Matrícula 9230; posee título de conducción y habilitación; realizó silbato repetidas veces y freno neumático; prueba de alcoholemia negativa; último reciclaje formativo 2008-05-28 y último reconocimiento médico y psicotécnico 2008-07-11."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo telefónico (BT); cartel de prohibido el paso existente",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "50 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Viaducto de sillería de 8 m de altura sobre el río Esla; trazado recto y horizontal con entrada y salida en curva a la izquierda en sentido de la marcha; velocidad al activar el freno de emergencia 50,9 km/h."
+ },
+ "material_rodante": {
+  "series": "UTDE 2456 y 2406",
+  "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar no autorizado para ello.",
+  "contribuyentes": [
+   "Uso habitual del viaducto por parte de propietarios de fincas que acceden a pie para cruzar de una margen a otra del río, por ser el camino más corto entre estas y la población de Cistierna."
+  ],
+  "sistemicas": [
+   "Zona de tránsito habitual por personas ajenas a la actividad ferroviaria."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "Interceptación de la vía durante 8 minutos para el tren implicado, desde las 18:12 hasta las 18:20 horas; otros tres trenes afectados con un retraso total de 24 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Medida provisional: repintado del cartel existente de prohibido el paso y colocación de otros tres carteles más, uno en cada margen de la vía y en los puntos de acceso al viaducto.",
+   "destinatario": null
+  },
+  {
+   "texto": "Medida definitiva: estudio, por parte de la administración competente, de la posibilidad de construcción de una pasarela peatonal que una ambas márgenes del río, para evitar el uso del puente ferroviario por personas ajenas al ferrocarril.",
+   "destinatario": "administración competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "feve",
+  "cercanías",
+  "viaducto",
+  "río esla",
+  "cistierna",
+  "león",
+  "línea 31",
+  "paso no autorizado",
+  "señalización",
+  "pasarela peatonal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-021008-281108-CIAF"
+}

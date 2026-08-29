@@ -1,0 +1,124 @@
+{
+ "titulo_normalizado": "Rebase de señal de salida en la estación de La Florida por tren 5412 de FEVE con talonamiento de aguja y conato de colisión",
+ "idioma_original": "es",
+ "resumen": "El 20 de enero de 2009, el tren de cercanías 5412 de FEVE rebasó la señal de salida S1/3 en indicación de parada a la salida de la estación de La Florida. El sistema ASFA actuó el freno de emergencia, quedando el tren detenido tras talonar la aguja 4 con el primer bogie. El tren de mercancías TR901 se detuvo ante la señal avanzada E'2, produciéndose un conato de colisión. No hubo víctimas y la afectación se limitó al talonamiento de la aguja y retrasos en seis trenes.",
+ "hechos": "El día 20 de enero de 2009, a las 12:08 horas, el tren de cercanías 5412 de FEVE, compuesto por las unidades de tren eléctricas 3639 y 3640, circulaba entre El Berrón y Gijón por la línea 61. A la salida de la estación de La Florida, el maquinista reconoció la señal de entrada E1 en amarillo, pero no se percató de que la señal de salida S1/3 presentaba indicación de parada en rojo. Al alcanzar la baliza ASFA asociada a esa señal, se activó el freno de emergencia del tren, que quedó detenido en la vía única general tras talonar y rebasar con el primer bogie la aguja protegida por la señal S1/3.\n\nEl incidente se produjo mientras el tren 5412 tenía previsto efectuar un cruce en la estación de La Florida con el tren de mercancías TR901, procedente de Gijón. Este último se detuvo ante la señal avanzada E'2 de la estación, dando lugar a un conato de colisión. Ambos trenes estaban en contacto por radio con el Control de Tráfico Centralizado, cuyo operador gestionó las maniobras necesarias para resolver la situación.\n\nTras la detención, el maquinista del 5412, auxiliado por un inspector ferroviario que viajaba en el tren, avanzó hasta liberar el circuito de vía y quedó detenido entre las señales R2 y E2. Posteriormente, previa comprobación de la posición de la aguja talonada, estacionó en vía 2. El CTC regularizó la circulación y le presentó orden de salida en la señal S1/2, reanudando la marcha hacia las 12:28 horas y llegando a Gijón sobre las 12:40 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "La Florida",
+  "pk": "15,057",
+  "linea": "61 Gijón - Laviana",
+  "provincia": "Asturias",
+  "descripcion_lugar": "A la salida de la estación de La Florida, en el trayecto El Berrón - Gijón. Tramo recto con pendiente de 18 milésimas, estación de tránsito entre vía única y doble."
+ },
+ "cronologia": [
+  {
+   "hora": "12:08",
+   "evento": "El tren 5412 rebasa la señal de salida S1/3 en rojo a la salida de la estación de La Florida; actúa el ASFA y el freno de emergencia, quedando detenido tras talonar la aguja 4."
+  },
+  {
+   "hora": "12:15",
+   "evento": "El operador del CTC informa al maquinista del tren TR901 de que reanude la marcha, con paso por agujas a paso de hombre y atención especial a la primera aguja."
+  },
+  {
+   "hora": "12:28",
+   "evento": "El tren 5412 reanuda la marcha desde la vía 2 de La Florida tras recibir orden de salida en la señal S1/2."
+  },
+  {
+   "hora": "12:40",
+   "evento": "El tren 5412 llega a Gijón."
+  },
+  {
+   "hora": null,
+   "evento": "2009-02-24: El Presidente de la CIAF resuelve abrir la investigación del incidente."
+  },
+  {
+   "hora": null,
+   "evento": "2009-03-18: El Inspector General de Feve entrega su informe particular del incidente."
+  },
+  {
+   "hora": null,
+   "evento": "2009-05-19: El Pleno de la CIAF aprueba el informe definitivo con recomendación a Feve."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "5412",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "FEVE",
+   "danos": "No se indican daños en el tren; talonó y rebasó la aguja 4 con el primer bogie."
+  },
+  {
+   "numero": "TR901",
+   "tipo": "tren de mercancías",
+   "operador": "FEVE",
+   "danos": "No se indican daños; se detuvo ante la señal avanzada E'2."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren de viajeros 5412",
+   "implicacion": "Rebasó la señal de salida S1/3 en indicación de parada, incumpliendo el Reglamento de Circulación de Trenes y el Reglamento de Señales de FEVE."
+  },
+  {
+   "rol": "Maquinista del tren de mercancías TR901",
+   "implicacion": "Esperaba el cruce y detuvo la marcha ante la señal avanzada E'2 tras recibir aviso del incidente."
+  },
+  {
+   "rol": "Operador del CTC",
+   "implicacion": "Gestionó las maniobras pertinentes para resolver la situación y regularizar la circulación."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento eléctrico con señales luminosas de avanzada, entrada, retroceso, maniobra y de salida; ASFA en la baliza asociada a la señal S1/3.",
+  "tipo_via": "Vía única electrificada en el trayecto; estación de tránsito entre vía única y doble.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Trayecto de vía única electrificada.",
+  "estado_via": null,
+  "otro": "Bloqueo automático con control de tráfico centralizado (BAU con CTC); radiotelefonía analógica; tramo recto con pendiente de 18 milésimas."
+ },
+ "material_rodante": {
+  "series": "UTE 3639 (en cabeza) y 3640 (en cola)",
+  "averia": "No se indica avería; los equipos de seguridad, freno y ASFA funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo lluvioso y con nieve.",
+ "causas": {
+  "directa": "El maquinista del tren 5412 rebasó la señal de salida S1/3 de la estación de La Florida, que presentaba indicación de parada en rojo, incumpliendo el Reglamento de Circulación de Trenes y el Reglamento de Señales de FEVE.",
+  "contribuyentes": [
+   "El maquinista reconoció la señal de entrada E1 en amarillo, pero no se percató de que la señal de salida S1/3 lucía en rojo."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Talonamiento de la aguja 4.",
+  "afectacion_servicio": "Seis trenes con retrasos entre 5 y 20 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "señal de salida",
+  "asfa",
+  "freno de emergencia",
+  "talonamiento de aguja",
+  "conato de colisión",
+  "estación la florida",
+  "feve",
+  "línea 61",
+  "gijón",
+  "el berrón",
+  "asturias"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-200109-190509-CIAF-LA FLORIDA"
+}

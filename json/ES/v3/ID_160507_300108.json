@@ -1,0 +1,127 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de Cercanías en plena vía cerca del apeadero de Castelldefels Playa (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 16 de mayo de 2007, un tren de Cercanías de Renfe Operadora arrolló a una persona en la vía 1 de la línea Madrid-Barcelona, en el PK 656,750, próximo al apeadero de Castelldefels Playa. La víctima se encontraba andando por el borde exterior de la vía invadiendo el gálibo en un punto con poca visibilidad. Pese a la frenada de emergencia y al uso del silbato, el impacto fue mortal y el cuerpo fue despedido a la cuneta. No hubo daños materiales ni en el tren ni en la infraestructura. La circulación se restableció completamente a las 10:45 h, tras 83 minutos de perturbación.",
+ "hechos": "El tren de viajeros de Corta Distancia 18473 de Renfe Operadora, perteneciente a la Red de Cercanías, con composición U/T 440225 en cola y 440147 en cabeza, procedente de Sant Celoni y con destino Sant Vicenç de Calders, circulaba por la vía 1 de la línea Madrid-Barcelona. Al salir de una curva, antes del apeadero de Castelldefels Playa, el maquinista observó a una persona que iba andando por el borde exterior de la vía impar. Hizo uso inmediato del silbato y aplicó la frenada de emergencia, pero al llegar a la altura de la persona escuchó un impacto en el lado derecho de la unidad. El cuerpo sin vida fue despedido a la cuneta de la vía y el tren quedó detenido a unos 15 metros del andén del apeadero. La persona fallecida invadía el gálibo de la vía en un punto con poca visibilidad de las circulaciones ferroviarias.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Castelldefels Playa (apeadero próximo)",
+  "pk": "656/750",
+  "linea": "200 Madrid-Barcelona",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía, vía 1, próximo al apeadero de Castelldefels Playa, al salir de una curva, con poca visibilidad de las circulaciones ferroviarias. Trayecto Castelldefels-Garraf."
+ },
+ "cronologia": [
+  {
+   "hora": "2007-05-16 09:09",
+   "evento": "Arrollamiento de la persona por el tren 18473 en el PK 656,750, vía 1. Frenada de emergencia y uso del silbato. Cuerpo despedido a la cuneta."
+  },
+  {
+   "hora": "2007-05-16 09:09",
+   "evento": "Interrupción de la circulación por la vía 1; desvío bidireccional a la vía 2. Aviso a FSE, Bomberos, 061, CECOM y Compañías."
+  },
+  {
+   "hora": "2007-05-16 10:32",
+   "evento": "Fin de la perturbación al tráfico (duración 83 minutos). Retraso del tren 18473: 103 minutos."
+  },
+  {
+   "hora": "2007-05-16 10:45",
+   "evento": "Levantamiento del cadáver y restablecimiento de la circulación normal por ambas vías."
+  },
+  {
+   "hora": "2007-06-20",
+   "evento": "Entrega del informe particular del Responsable de seguridad de Renfe."
+  },
+  {
+   "hora": "2007-07-19",
+   "evento": "Entrega del informe particular del Responsable de seguridad de Adif (zona Noreste)."
+  },
+  {
+   "hora": "2008-01-30",
+   "evento": "Firma del informe definitivo por el Técnico responsable de la investigación (DGF)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18473",
+   "tipo": "Viajeros Corta Distancia / Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se aprecian daños materiales en el tren."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 18473",
+   "implicacion": "Realizó frenada de emergencia y uso del silbato al detectar a la persona. Jornada de circulación el día del accidente: 3 h 07 min; día anterior: 3 h 06 min; día 14/05 descanso. Prueba de alcoholemia y drogas negativa (0,00 mg alcohol/1000 c.c. de aire). Aptitud psicofísica verificada."
+  },
+  {
+   "rol": "Técnico responsable de la investigación (DGF)",
+   "implicacion": "Elaboró el informe definitivo."
+  },
+  {
+   "rol": "Responsable de seguridad de Adif (zona Noreste)",
+   "implicacion": "Entregó informe particular el 19/07/07; concluyó invasión del gálibo por la persona."
+  },
+  {
+   "rol": "Responsable de seguridad de Renfe",
+   "implicacion": "Entregó informe particular el 20/06/07; concluyó imprudencia de la víctima."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con CTC",
+  "tipo_via": "Vía 1 (impar), plena vía, próximo a apeadero; salida de curva",
+  "velocidad_maxima": "160 km/h (cuadro de velocidades máximas de la línea); 140 km/h según horario del tren 18473 en ese punto",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Red Ferroviaria de Interés General administrada por Adif. Poca visibilidad de las circulaciones en el punto. No existían limitaciones de velocidad temporales (consigna serie B). Sin daños en elementos de la infraestructura."
+ },
+ "material_rodante": {
+  "series": "U/T 440225 (cola) y 440147 (cabeza)",
+  "averia": null,
+  "mantenimiento": "Equipos de seguridad del tren verificados en correcto funcionamiento; tren circulaba por debajo de la velocidad máxima permitida (140 km/h)."
+ },
+ "clima": "El día y hora del accidente no existían condiciones meteorológicas adversas que pudieran aminorar la visibilidad en el punto del arrollamiento.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía 1 por una persona que caminaba por el borde exterior de la vía impar (zona no autorizada), siendo arrollada por el tren 18473.",
+  "contribuyentes": [
+   "Imprudencia de la víctima al caminar próxima a la vía invadiendo su gálibo en el momento de la llegada del tren.",
+   "Poca visibilidad de las circulaciones ferroviarias en el punto del accidente (salida de curva, próximo al apeadero de Castelldefels Playa)."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se aprecian daños materiales ni en el tren ni en los elementos de la infraestructura ferroviaria.",
+  "afectacion_servicio": "Interrupción de la vía 1 durante 83 minutos (09:09-10:32); circulación desviada en ambos sentidos por la vía 2 hasta el levantamiento del cadáver a las 10:45, cuando se restableció la circulación normal. Retraso del tren 18473: 103 minutos. Accidente calificado como grave conforme al art. 111 del Reglamento del Sector Ferroviario (R.D. 2387/2004)."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Sensibilizar a la población en el respeto de las señales y el peligro que supone cruzar las vías o transitar por ellas.",
+   "destinatario": null
+  },
+  {
+   "texto": "Vallar la vía en los puntos más conflictivos de la línea.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento de persona",
+  "invasión de gálibo",
+  "cercanías",
+  "castelldefels playa",
+  "línea 200 madrid-barcelona",
+  "imprudencia de la víctima",
+  "poca visibilidad",
+  "frenada de emergencia",
+  "accidente grave",
+  "adif",
+  "renfe operadora",
+  "baal con ctc"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_160507_300108"
+}

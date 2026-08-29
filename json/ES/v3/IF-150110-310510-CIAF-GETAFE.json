@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de peatón en la estación de Getafe Industrial por tren 17000 en plena circulación por vía 2",
+ "idioma_original": "es",
+ "resumen": "El 15 de enero de 2010 a las 21:06, el tren de media distancia 17000 de Renfe Operadora arrolló a un varón de 45 años que cruzaba la vía 2 de la estación de Getafe Industrial por un lugar no habilitado. El tren, sin parada prescrita, circulaba a 124 km/h cuando el maquinista activó silbato y freno de emergencia sin poder evitar el impacto. La víctima falleció en el acto y su cuerpo fue proyectado a la vía 1. No se produjeron daños materiales ni se formularon recomendaciones.",
+ "hechos": "El tren de viajeros 17000 de Renfe Operadora, procedente de Madrid Chamartín con destino Alcázar de San Juan, pasaba por la estación de Getafe Industrial (sin parada prescrita) por la vía 2 a una velocidad de 124 km/h. En el PK 13+860, final del andén 2 (lado Valencia), una persona cruzaba la vía de derecha a izquierda en sentido de la marcha del tren por un lugar no habilitado. El maquinista, al verla en la caja de la vía, activó el silbato y el freno de emergencia, pero no pudo evitar el arrollamiento. El cuerpo de la víctima fue proyectado hacia la vía 1 (PK 13+900), donde quedó tendido. El tren se detuvo totalmente en el PK 14+440 de la vía par. En ese momento, el tren de cercanías 20091 acababa de estacionarse en la vía 1 con dirección Madrid.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Getafe Industrial",
+  "pk": "13+860",
+  "linea": "300 Madrid – Valencia",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Final del andén de la vía 2 (lado Valencia), tramo San Cristóbal Industrial - Pinto, municipio de Getafe. Estación con paso superior, alineación recta, iluminación por lámparas y farolas, y carteles informativos de peligro."
+ },
+ "cronologia": [
+  {
+   "hora": "21:06:00",
+   "evento": "Hora del accidente según resumen"
+  },
+  {
+   "hora": "21:06:26",
+   "evento": "El tren 17000 pasa por la baliza de la señal de entrada E2 (vía libre) a 119 km/h"
+  },
+  {
+   "hora": "21:06:42",
+   "evento": "Arrollamiento de la víctima a 124 km/h en el PK 13+860, tras recorrer 590 metros con freno de emergencia aplicado"
+  },
+  {
+   "hora": "21:08:00",
+   "evento": "Inicio de la interceptación total de las vías 1 y 2"
+  },
+  {
+   "hora": "22:07:00",
+   "evento": "Fin de la interceptación total; inicio de interceptación parcial con vía 3 como alternativa"
+  },
+  {
+   "hora": "23:02:00",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por teléfono móvil"
+  },
+  {
+   "hora": "23:10:00",
+   "evento": "La policía local de Getafe realiza prueba de alcoholemia al maquinista: resultado negativo"
+  },
+  {
+   "hora": "00:29",
+   "evento": "Fin de la interceptación parcial (2 horas y 22 minutos desde las 22:07)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17000",
+   "tipo": "Media distancia, autopropulsado (tren de viajeros)",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante"
+  },
+  {
+   "numero": "20091",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": "No se mencionan daños; estaba estacionado en vía 1 dirección Madrid"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 17000",
+   "implicacion": "Observó a la víctima en la caja de la vía, activó silbato y freno de emergencia. Título B de conducción, habilitado según Orden FOM/2520/2006. Último reciclaje formativo: 30/10/2009. Último reconocimiento médico y psicotécnico: 10/10/2006. Alcoholemia negativa. Jornada del día 15: 3h30 (2h30 conducción)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa y ASFA; bloqueo automático (B.A.D.); control de tráfico centralizado (C.T.C.)",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Sin limitación temporal de velocidad en el momento del accidente; alineación recta con buena visibilidad",
+  "otro": "Paso superior accesible desde edificio de viajeros (vía 2) para alcanzar andenes de vías 1 y 3. Final del andén de vía 2 recrecido con tarima y protegido (8,5 m del lugar del accidente). Iluminación por lámparas y farolas. Carteles informativos de peligro. Tramo con media semanal de 1.508 circulaciones (muy alta): 323 larga distancia, 179 media distancia, 736 cercanías, 259 mercancías, 12 servicio. Radiotelefonía A."
+ },
+ "material_rodante": {
+  "series": "Tipo 140, autopropulsado 470140, 3 vehículos, 216 Tn de masa remolcada, Nº UIC: 967194701405",
+  "averia": "Ninguna; los equipos de seguridad del tren funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Noche (en el momento del arrollamiento era de noche)",
+ "causas": {
+  "directa": "La víctima cruzó la vía 2 por un lugar no habilitado para ello al tiempo que el tren 17000 circulaba por el mismo punto",
+  "contribuyentes": [
+   "La víctima no hizo uso del paso a distinto nivel (paso superior) dispuesto para tal fin",
+   "Inmediatez del hecho que impidió al maquinista evitar el impacto pese a activar silbato y freno de emergencia"
+  ],
+  "sistemicas": [
+   "Tramo con tráfico muy elevado (1.508 circulaciones semanales) y presencia de viandantes cruzando por lugares no habilitados",
+   "Sucesos anteriores de características similares en la misma estación (2005, 2006, 2010)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura",
+  "afectacion_servicio": "Vías 1 y 2 totalmente interceptadas 59 minutos (21:08-22:07), luego parcialmente hasta las 0:29 con vía 3 como alternativa. Retrasos totales: 7 trenes de larga distancia (450 min), 2 de media distancia (259 min), 25 de cercanías (390 min), 10 de mercancías (1.101 min)."
+ },
+ "lecciones": [
+  "El arrollamiento se produjo por cruce de vía en lugar no habilitado pese a existir paso superior, señalización luminosa, ASFA, iluminación y carteles de peligro",
+  "La inmediatez del hecho (590 m recorridos con freno de emergencia) impidió evitar el impacto incluso con actuación correcta del maquinista",
+  "Se registran múltiples sucesos similares en la misma estación (fatal en 2005, tres heridos graves en 2006 y 2010)"
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "cruce ilegal",
+  "media distancia",
+  "getafe industrial",
+  "linea 300",
+  "renfe operadora",
+  "freno de emergencia",
+  "victima mortal",
+  "paso superior",
+  "tráfico elevado",
+  "sucesos repetidos"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-150110-310510-CIAF-GETAFE"
+}

@@ -1,0 +1,126 @@
+{
+ "titulo_normalizado": "Conato de colisión por rebase de señal de parada E1 en la dependencia Río Duero (Valladolid) entre trenes 4141 y 8168",
+ "idioma_original": "es",
+ "resumen": "El 16 de julio de 2010, a las 15:41, en la dependencia Río Duero (Valladolid), el tren de larga distancia 4141 de Renfe Operadora rebasó indebidamente la señal de entrada E1, que indicaba parada, provocando un conato de colisión con el tren 8168. El incidente se originó por el incumplimiento de las órdenes de las señales por parte del maquinista del tren 4141, quien no reconoció la indicación de anuncio de parada (L1) en la baliza previa de la señal avanzada E'1 y posteriormente pasó la baliza de la señal de entrada E1 a 130 km/h. No se produjeron víctimas ni daños materiales. El maquinista retrocedió sin autorización tras el rebase. Renfe Operadora suspendió la habilitación del maquinista e impulsó proyectos de gestión del fallo humano.",
+ "hechos": "El día 16 de julio de 2010, el tren de viajeros de larga distancia 4141, procedente de Madrid Chamartín con destino Valladolid Campo Grande, pasaba por la baliza previa de la señal de avanzada E'1 de la dependencia Río Duero en indicación de anuncio de parada. El maquinista no reconoció en el sistema la indicación L1, lo que provocó el frenado de urgencia y la detención del tren a 1.650 metros de la baliza previa. Tras rearmar el freno, el maquinista continuó la marcha y, al pasar por la baliza previa de la señal de entrada E1 a 130 km/h, el sistema volvió a provocar el frenado de urgencia. El tren rebasó la señal E1 en 148 metros y se detuvo, provocando un conato de colisión con el tren 8168, procedente de Valladolid Campo Grande, que ya ocupaba el circuito de vía de la aguja 2 al que protege la señal E1. A continuación, el maquinista rearma el sistema y retrocede sin autorización, pasando por la baliza de la señal E1 a 15 km/h, lo que provoca una nueva urgencia de frenado. El tren se detiene finalmente ante la señal E1 tras recorrer 181 metros de retroceso.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Río Duero (RDU)",
+  "pk": "167+867",
+  "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+  "provincia": "Valladolid",
+  "descripcion_lugar": "Señal de entrada E1 en la dependencia Río Duero, tramo Bifurcación Cambiador Valdestillas – Valladolid Campo Grande. Dependencia de transición de vía doble a única en ancho UIC y transición del sistema ETCS nivel 1 (lado Madrid) al sistema STM-EBICAB/ASFA (lado Valladolid)."
+ },
+ "cronologia": [
+  {
+   "hora": "15:37:40",
+   "evento": "Tren 4141 pasa por la baliza previa de la señal de avanzada E'1 a 190 km/h en indicación de anuncio de parada; el maquinista no reconoce la indicación L1."
+  },
+  {
+   "hora": "15:38:34",
+   "evento": "Frenado de urgencia (a 185 km/h) y detención del tren 4141 a 1.650 m de la baliza previa."
+  },
+  {
+   "hora": "15:40:20",
+   "evento": "Tren 4141 pasa por la baliza previa de la señal de entrada E1 a 130 km/h; el sistema provoca frenado de urgencia."
+  },
+  {
+   "hora": "15:40:56",
+   "evento": "Tren 4141 rebasa la señal E1 en 148 m y se detiene, provocando conato de colisión con el tren 8168 que ya ocupa el circuito de vía de la aguja 2."
+  },
+  {
+   "hora": "15:43:05",
+   "evento": "Maquinista rearma y retrocede sin autorización; pasa por la baliza de la señal E1 a 15 km/h, produciéndose nueva urgencia de frenado."
+  },
+  {
+   "hora": "15:43:15",
+   "evento": "Tren 4141 se detiene ante la señal E1 tras recorrer 181 m de retroceso."
+  },
+  {
+   "hora": "17:45",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4141",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  },
+  {
+   "numero": "8168",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 4141 (matrícula 9723693)",
+   "implicacion": "No reconoció la indicación L1 de anuncio de parada en la baliza previa de la señal E'1; pasó la baliza de la señal E1 a 130 km/h (>60 km/h); rebasó indebidamente la señal E1 en parada; retrocedió sin autorización. Se le suspendió la habilitación de conducción."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E1 (P.K. 167+867): alta, luminosa de cuatro focos, dotada de balizas previa y de pie de señal. Señal de avanzada E'1 (P.K. 164+875) a 2.992 m. Ambas en zona controlada por EBICAB (ASFA). E1 indicaba parada durante todo el suceso.",
+  "tipo_via": "Vía doble a única (transición en Río Duero)",
+  "velocidad_maxima": "300 km/h (tramo anterior a Río Duero); 200 km/h (tramo posterior)",
+  "ancho": "UIC",
+  "electrificacion": null,
+  "estado_via": "Correcto",
+  "otro": "Control de tráfico centralizado (CTC) en Madrid Chamartín. Transición de sistema ETCS nivel 1 (lado Madrid) a STM-EBICAB/ASFA (lado Valladolid). Comunicación GSMR. Media semanal de 210 circulaciones (149 larga distancia, 47 media distancia, 14 servicio). Aguja 2 en P.K. 168+837."
+ },
+ "material_rodante": {
+  "series": "Motor 130042, tipo 250 B, 13 vehículos, 343 toneladas, 184 metros. Nº UIC: 967191300425.",
+  "averia": "Ninguna. El material rodante funcionó correctamente. El equipo de seguridad del tren funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "De día, despejado.",
+ "causas": {
+  "directa": "Rebase indebido, por el tren 4141, de la señal de entrada E1 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "El maquinista no reconoció la indicación L1 (anuncio de parada) en la baliza previa de la señal de avanzada E'1.",
+   "El tren pasó por la baliza previa de la señal de entrada E1 a 130 km/h, superior al límite de 60 km/h para no reconocer la indicación.",
+   "Dificultad de percepción de la señalización lateral durante la transición de sistema ETCS nivel 1 a EBICAB/ASFA, con alta carga de información en cabina a velocidad superior a 200 km/h.",
+   "Retroceso sin autorización del tren tras el rebase de la señal."
+  ],
+  "sistemicas": [
+   "La transición entre sistemas de seguridad (ERTMS-ASFA) coincide con la ubicación de la señal avanzada, incrementando la carga de trabajo del maquinista en un punto crítico.",
+   "Gestión del riesgo por fallo humano en la conducción."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños ni a la infraestructura ni al material rodante.",
+  "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+ },
+ "lecciones": [
+  "El cambio de transición entre sistemas de seguridad (ETCS/ASFA) no debería coincidir con la señal de avanzada, por la alta carga de información y dificultad de percepción lateral a alta velocidad.",
+  "La no reconocimiento de indicaciones ASFA/EBICAB (L1) puede provocar frenado de urgencia y, si se rearma sin garantizar la comprensión de la señalización, puede derivar en SPAD.",
+  "El retroceso sin autorización tras un SPAD constituye un incumplimiento grave del RGC (art. 475) y puede agravar la situación de seguridad."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando suficientes las medidas adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "spad",
+  "señal en parada",
+  "transición etcs-asfa",
+  "ebicab",
+  "fallo humano",
+  "alta velocidad",
+  "línea av-80",
+  "río duero",
+  "valladolid",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-160710-290311-CIAF"
+}

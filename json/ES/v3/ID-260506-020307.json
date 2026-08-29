@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en paso a nivel de San Feliu de Llobregat con barreras cerradas",
+ "idioma_original": "es",
+ "resumen": "El 26 de mayo de 2006, el tren de Cercanías 25228 de RENFE arrolló a un varón de 97 años en el paso a nivel de clase C del PK 88,906 de la línea Tarragona-Barcelona-Francia, en San Feliu de Llobregat. La víctima falleció en el acto tras cruzar con las señales luminosas peatonales en prohibición y las barreras abatidas por el paso del tren. El paso a nivel había estado averiado entre las 11:00 y las 11:41 horas, y el tren afectado era la primera circulación que pasaba con la señal protectora. No hubo daños materiales y la circulación se reanudó a las 12:35 horas, aunque se acumularon retrasos y supresiones.",
+ "hechos": "El tren de Cercanías nº 25228 de RENFE, compuesto por las unidades de tracción 447.162-447.051, circulaba por vía II dirección Barcelona y detuvo su marcha en el paso a nivel de clase C del PK 88,906 de la línea Tarragona-Barcelona-Francia, en San Feliu de Llobregat, tras arrollar a una persona que falleció en el acto. La víctima era un varón de 97 años.\n\nSegún el maquinista, al aproximarse al apeadero de San Feliu de Llobregat una persona mayor se arrojó al tren; la señalización era vía libre y el paso a nivel estaba cerrado para vehículos de carretera y peatones. El maquinista silbó y aplicó el freno de emergencia, deteniendo el tren tras haber rebasado el cadáver unos cinco coches, y bajó para atender a la persona, comprobando que ya había fallecido.\n\nUn agente de ADIF presente declaró que estaba arreglando una de las barreras del paso a nivel cuando observó que un hombre intentaba pasar las vías ignorando las señales de prohibición y fue atropellado por el tren que entraba a la estación. El paso a nivel había estado averiado desde las 11:00 hasta las 11:41 horas, y el tren 25228 era la primera circulación que pasaba con la señal que protege el paso.",
+ "lugar": {
+  "tipo": null,
+  "estacion": "San Feliu de Llobregat",
+  "pk": "88,906",
+  "linea": "240 Tarragona-Barcelona-Francia",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso a nivel de clase C en el PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, intersección con el Paseo de Vilardaba, en San Feliu de Llobregat; según la declaración del agente de ADIF, en la calle Constitución."
+ },
+ "cronologia": [
+  {
+   "hora": "11:00",
+   "evento": "El paso a nivel queda averiado."
+  },
+  {
+   "hora": "11:41",
+   "evento": "El paso a nivel deja de estar averiado."
+  },
+  {
+   "hora": "11:43",
+   "evento": "El tren de Cercanías 25228 arrolla a una persona en el paso a nivel de clase C del PK 88,906; la víctima fallece en el acto."
+  },
+  {
+   "hora": "12:35",
+   "evento": "Se autoriza al material a reanudar la marcha y la circulación se reanuda en condiciones normales."
+  },
+  {
+   "hora": "16:55",
+   "evento": "Se realiza la prueba de alcoholemia al maquinista, con resultado negativo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25228",
+   "tipo": "Cercanías",
+   "operador": "RENFE",
+   "danos": "No se produjeron daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25228",
+   "implicacion": "Circulaba a 80 km/h, silbó y aplicó el freno de emergencia; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Jefe Delegado",
+   "implicacion": "Intervino en el accidente según el informe."
+  },
+  {
+   "rol": "Agente de ADIF y testigo presencial",
+   "implicacion": "Se encontraba arreglando una de las barreras y observó al hombre intentar pasar las vías ignorando las señales de prohibición."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Semibarreras automáticas, señalización acústica y luminosa para el tráfico vial, señalización luminosa para el tráfico de peatones y paso elevado.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo banalizado con CTC; paso a nivel de clase C con momento de circulación de 254.318 vehículos/día; firme del paso a nivel y del peatonal de Strail en buen estado; el paso a nivel estuvo averiado de 11:00 a 11:41 horas."
+ },
+ "material_rodante": {
+  "series": "447.162-447.051",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Cruce de la víctima por el paso a nivel cuando las señales luminosas peatonales indicaban la prohibición de pasar y las barreras estaban abatidas por el paso del tren 25228.",
+  "contribuyentes": [
+   "El paso a nivel había estado averiado desde las 11:00 hasta las 11:41 horas.",
+   "El tren 25228 era la primera circulación que pasaba con la señal que protege el paso.",
+   "La presencia de un agente de ADIF arreglando una de las barreras en el momento de los hechos."
+  ],
+  "sistemicas": [
+   "Elevado momento de circulación del paso a nivel.",
+   "Integración del paso a nivel en el municipio de San Feliu de Llobregat.",
+   "Necesidad de supresión del paso a nivel mediante soterramiento de la línea."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Incidencia de 52 minutos en vía II, quedando libre vía I; 193 minutos de retrasos acumulados, 22 circulaciones afectadas y 5 trenes suprimidos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Proceder a la supresión del paso a nivel y ejecutar un paso inferior para tráfico peatonal y carretero.",
+   "destinatario": null
+  },
+  {
+   "texto": "Agilizar los trámites para iniciar la fase de obra del proyecto de construcción existente para este municipio.",
+   "destinatario": "Dirección General de Ferrocarriles"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "peatón",
+  "imprudencia",
+  "señalización luminosa",
+  "barreras",
+  "avería paso a nivel",
+  "cercanías",
+  "renfe",
+  "adif",
+  "san feliu de llobregat",
+  "supresión paso a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-260506-020307"
+}

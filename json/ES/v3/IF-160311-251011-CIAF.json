@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de cercanías 25267 por colisión con desprendimiento de tierras y rocas entre Olesa de Montserrat y Vacarisses Torreblanca (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 16 de marzo de 2011 a las 20:19 horas, el tren de cercanías 25267 de Renfe Operadora colisionó con obstáculos (tierras y rocas) procedentes de un desprendimiento en el talud derecho, en el PK 323+320 de la línea 220 Lleida Pirineus – L'Hospitalet de Llobregat, entre los apeaderos de Olesa de Montserrat y Vacarisses Torreblanca (Barcelona). El impacto provocó el descarrilamiento de todos los ejes de la UT de cabeza. Diez viajeros y el maquinista resultaron heridos leves. La UT de cabeza fue desguazada y ambas vías quedaron interceptadas durante más de 80 horas. La investigación concluyó que el accidente se originó por la colisión con el desprendimiento y, al considerar adecuadas las medidas adoptadas por Adif, no se formularon recomendaciones.",
+ "hechos": "El tren de viajeros de cercanías 25267, de Renfe Operadora, circulaba por vía impar según horario previsto, procedente de Martorell con destino Manresa. Tras pasar por el apeadero de Olesa de Montserrat y al salir de una curva a la izquierda, en el PK 323+320 el maquinista observó un obstáculo en el gálibo de la vía: tierras y rocas procedentes de un desprendimiento ocurrido en el talud derecho en sentido de la marcha, destacando una roca de gran tamaño de aproximadamente 27 metros cúbicos. El talud era casi vertical, con hasta 10 metros de altura, formación granítica con areniscas erosionables y sin mallas de contención.\n\nEl maquinista accionó el freno de emergencia a las 20:19:03 horas, circulando a 79 km/h (inferior a los 95 km/h máximos permitidos), pero unos tres segundos después el tren colisionó con los obstáculos y descarriló a 63 km/h. En la UT de cabeza, el primer bogie giró 90 grados respecto a la vía, el segundo se desplazó a la izquierda invadiendo el gálibo de la vía par, el tercero quedó desprendido de la caja, rompiéndose todos los elementos bajo el habitáculo del segundo coche incluido el cuarto bogie; los bogies quinto y sexto quedaron en vía impar. La UT de cola no se vio afectada. El tren quedó detenido en el PK 323+240 a las 20:19:06 horas.\n\nComo consecuencia resultaron heridos leves diez viajeros y el maquinista. Quedaron interceptadas ambas vías generales y se suspendió la circulación entre Terrassa y Manresa. Tras la colisión, el trayecto entre Sabadell y Castellbell quedó sin tensión y el tren sin conexión tren-tierra; el maquinista recuperó el teléfono móvil y contactó con el Operador de Cercanías. Se activó el plan de contingencias interno: servicio por carretera entre Terrassa y Manresa, evacuación de viajeros en tren TR509 hacia Sant Vicenç de Castellet, y movilización de camiones y trenes taller de Barcelona Can Tunis y Tarragona. La roca fue fragmentada y retirada; ante la imposibilidad de encarrilar la UT de cabeza, se decidió su desguace en plena vía, mientras la UT de cola fue retirada a Terrassa. En el exterior se personaron bomberos, Mossos d'Esquadra y ambulancias.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "323+320",
+  "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Tramo entre los apeaderos de Olesa de Montserrat y Vacarisses Torreblanca, municipio de Olesa de Montserrat. Tramo S. Vicenç de Castellet–Terrassa. Zona en trinchera a ambos lados de la vía (aprox. PK 323+450 a 323+225), taludes casi verticales de hasta 10 m, formación de rocas graníticas con areniscas erosionables, sin mallas de contención en el momento del accidente. Alineación en curva a la izquierda en sentido de la marcha, precedida de recta con rampa de 9,6 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "20:18:16",
+   "evento": "El tren pasa por la baliza ASFA de la señal intermedia 3245, PK 324+358, en indicación de vía libre, a 79 km/h."
+  },
+  {
+   "hora": "20:19:03",
+   "evento": "El maquinista actúa el freno de emergencia a 79 km/h, tras recorrer unos 1.000 m desde la baliza ASFA."
+  },
+  {
+   "hora": "20:19:06",
+   "evento": "Colisión con obstáculos (tierras y rocas) en el PK 323+320 y descarrilamiento a 63 km/h. El tren queda detenido en el PK 323+240. Se pierde tensión entre Sabadell y Castellbell y la conexión tren-tierra."
+  },
+  {
+   "hora": "20:19",
+   "evento": "El Operador de Cercanías contacta con el maquinista (que recupera el teléfono móvil), que informa de la colisión y de la interceptación de ambas vías. Se establece el protocolo habitual y se corta la circulación y la tensión."
+  },
+  {
+   "hora": "18:10 (19/03/2011)",
+   "evento": "Se restablece la circulación por vía par."
+  },
+  {
+   "hora": "04:57 (20/03/2011)",
+   "evento": "Se restablece la circulación por ambas vías en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25267",
+   "tipo": "viajeros de cercanías (UT tipo 120A, 6 coches, 24 ejes, 432 t; procedente de Martorell, destino Manresa)",
+   "operador": "Renfe Operadora",
+   "danos": "UT de cabeza 447028: daños de consideración en parte inferior de vehículos y estructura de habitáculos de cabina y viajeros; desguazada en plena vía. UT de cola 447117: no afectada, retirada a Terrassa."
+  },
+  {
+   "numero": "TR509",
+   "tipo": "tren de evacuación de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños; expedido de Terrassa a cola del 25267 para evacuación a Sant Vicenç de Castellet."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25267 (matrícula 6822159)",
+   "implicacion": "Habilitado con título B de conducción conforme a Orden FOM/2520/2006; último reciclaje formativo 18/05/2010, último reconocimiento médico y psicotécnico 08/02/2011. Accionó el freno de emergencia ante el obstáculo. Herido leve, trasladado al hospital; no se le realizó prueba de alcoholemia. Jornada del día 16: 4h54m (2h14m de conducción efectiva); día 15: 6h46m (2h37m de conducción); día 14: descanso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal intermedia 3245 con baliza ASFA en PK 324+358, en indicación de vía libre en el momento del paso del tren.",
+  "tipo_via": "Vía doble en trinchera; alineación en curva a la izquierda en sentido de la marcha, precedida de recta con rampa de 9,6 milésimas. Taludes casi verticales de hasta 10 m, rocas graníticas con areniscas erosionables; sin mallas de contención en el momento del accidente.",
+  "velocidad_maxima": "95 km/h (según cuadro de velocidades máximas y libro horario); sin limitación temporal en el momento del accidente.",
+  "ancho": null,
+  "electrificacion": "Electrificada; tras la colisión quedó sin tensión el trayecto entre Sabadell y Castellbell.",
+  "estado_via": "Tramo S. Vicenç de Castellet–Terrassa con media de 425 circulaciones semanales (CIRTRA 2009): 42 media distancia, 364 cercanías, 16 mercancías, 3 servicio. Bloque automático con CTC. Radiotelefonía modalidad A.",
+  "otro": "Daños en unos 250 m en ambas vías (señalización, electrificación y plataforma), valorados en 210.056 €. Medidas posteriores: tratamiento y consolidación de ambos taludes y renovación de superestructura en 250 m (650.000 €), con malla metálica antidesprendimientos en toda la altura y longitud, cuneta de coronación en talud derecho y gunitado localizado; nivel de riesgo evaluado por Adif como bajo tras las actuaciones."
+ },
+ "material_rodante": {
+  "series": "UT 447028 (cabeza) y UT 447117 (cola), tipo 120A",
+  "averia": "Sin avería previa: los equipos de seguridad del tren funcionaron correctamente. El registrador de seguridad confirma velocidad de 79 km/h antes del accidente y uso del freno de emergencia.",
+  "mantenimiento": "Sin deficiencias constatadas en el material rodante ni en las instalaciones técnicas."
+ },
+ "clima": "De noche, sin condiciones meteorológicas adversas en el momento del suceso; en los días precedentes se produjeron precipitaciones de consideración en la zona.",
+ "causas": {
+  "directa": "Colisión del tren 25267 con obstáculos –tierras y rocas– existentes en el gálibo de la vía, procedentes de un desprendimiento ocurrido en el talud derecho en sentido de la marcha, con una roca de gran tamaño (aprox. 27 m³).",
+  "contribuyentes": [
+   "Desprendimiento de tierras y rocas de un talud casi vertical de hasta 10 m, en trinchera, con formación granítica rodeada de areniscas fácilmente erosionables por agentes meteorológicos.",
+   "Ausencia de mallas de contención en los taludes en el momento del accidente.",
+   "Precipitaciones de consideración en los días precedentes que pudieron favorecer el desprendimiento.",
+   "Curva a la izquierda que impedía ver el obstáculo con antelación suficiente para frenar a 79 km/h."
+  ],
+  "sistemicas": [
+   "Riesgo de desprendimientos en trincheras de gravedad alta no tratado suficientemente antes del accidente; Adif estableció un plan de tratamiento de explanaciones de 40.000.000 € a tres años tras las incidencias del invierno de 2010."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 11,
+  "danos_materiales": "UT de cabeza 447028 desguazada (daños de consideración en parte inferior y estructura de habitáculos). Daños en infraestructura en unos 250 m en ambas vías (señalización, electrificación y plataforma), valorados en 210.056 €.",
+  "afectacion_servicio": "Intercepción de ambas vías generales entre Terrassa y Manresa: 69 h 51 min en vía par y 80 h 38 min en vía impar. Se suprimieron 132 trenes (principalmente cercanías) y otros 27 acumularon 693 minutos de retraso. Servicio por carretera entre Terrassa y Manresa durante la anormalidad. Restablecimiento vía par a las 18:10 del 19/03/2011 y ambas vías a las 04:57 del 20/03/2011."
+ },
+ "lecciones": [
+  "La existencia de taludes de roca granítica con areniscas erosionables en trinchera, sin mallas de contención, constituye un riesgo de desprendimiento que puede materializarse tras precipitaciones y provocar colisión con obstáculos en el gálibo.",
+  "El funcionamiento correcto de los equipos de seguridad y el respeto de la velocidad máxima permitida (79 km/h frente a 95 km/h) no impiden el descarrilamiento cuando el obstáculo aparece tras una curva con distancia de frenado insuficiente.",
+  "La pérdida simultánea de tensión y de conexión tren-tierra tras la colisión dificulta la comunicación inmediata con el puesto de mando, siendo clave la disponibilidad de medios alternativos (teléfono móvil)."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "No se establecen recomendaciones: el informe considera adecuadas las medidas adoptadas por Adif (plan de tratamiento de explanaciones de 40.000.000 € a tres años y actuación específica en la zona del suceso: consolidación de taludes, renovación de superestructura en 250 m con malla antidesprendimientos, cuneta de coronación y gunitado localizado, inversión 650.000 €, nivel de riesgo resultante bajo).",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "desprendimiento",
+  "roca en gálibo",
+  "cercanías",
+  "renfe operadora",
+  "adif",
+  "talud",
+  "trinchera",
+  "asfa",
+  "freno de emergencia",
+  "heridos leves",
+  "intercepción de vía"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-160311-251011-CIAF"
+}

@@ -1,0 +1,189 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de cercanías en el puente sobre el río Besós, línea Barcelona-Massanes",
+ "idioma_original": "es",
+ "resumen": "El 21 de marzo de 2008 a las 14:53, el tren de viajeros de cercanías 28833 de Renfe Operadora arrolló a una persona que circulaba indebidamente por el puente ferroviario sobre el río Besós, en el P.K. 3,286 de la línea 276 Barcelona-Massanes. La víctima, un varón de 38 años, falleció en el lugar. El accidente tuvo su origen en el tránsito por un paso vicioso habilitado por el vallado roto a ambos lados del puente. Se recomienda la supresión de dicho paso no autorizado.",
+ "hechos": "El maquinista del tren de viajeros de cercanías 28833, formado por el automotor 465009 (cinco coches, 158 Tm), notó un golpe en el frontal lateral izquierdo al cruzar el puente metálico sobre el río Besós (P.K. 3,286), justo antes del apeadero de Sant Adriá del Besós. Comunicó el hecho al Puesto de Mando de Barcelona, aconsejando marcha a la vista para los trenes que pasaran por ese punto. Al llegar a Badalona inspeccionó el frontal sin observar anomalía y continuó su itinerario. Posteriormente, el Puesto de Mando le ordenó inspeccionar la máquina en Masnou al confirmarse el arrollamiento de una persona. Simultáneamente, el Centro de Protección y Seguridad de Barcelona fue alertado por el vigilante de seguridad del tren 25683 de que viajeros habían presenciado el suceso. Dos vigilantes subieron al tren 28833 en Badalona, hablaron con testigos que describieron a un ciclista, cambiaron de tren en Montgat y se dirigieron al apeadero de Sant Adriá. Al llegar al puente, el maquinista del tren 28838 (parado tras circular con marcha a la vista) les indicó la presencia de un cadáver en la plataforma que separa ambas vías. Los trenes 25978 y 28842 fueron inspeccionados sin hallar restos. La Policía Judicial llegó a las 16:06 y el forense a las 16:23; el cadáver se levantó a las 16:40 y la circulación se restableció a las 16:43.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "apeadero de Sant Adriá del Besós (justo antes de su entrada)",
+  "pk": "3,286",
+  "linea": "276 Barcelona-Massanes",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Puente ferroviario metálico sobre el río Besós, en vía doble, con vallado roto a ambos lados que constituía un paso vicioso de personas no autorizadas"
+ },
+ "cronologia": [
+  {
+   "hora": "14:53",
+   "evento": "Arrollamiento de una persona por el tren 28833 al cruzar el puente sobre el río Besós"
+  },
+  {
+   "hora": "14:53",
+   "evento": "El maquinista comunica el golpe al Puesto de Mando de Barcelona y aconseja marcha a la vista"
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista inspecciona el frontal en Badalona sin observar anomalía"
+  },
+  {
+   "hora": null,
+   "evento": "El Puesto de Mando ordena al maquinista inspeccionar la máquina en Masnou al confirmarse el arrollamiento"
+  },
+  {
+   "hora": null,
+   "evento": "El CPS de Barcelona es alertado por el vigilante del tren 25683; dos vigilantes suben al tren 28833 en Badalona"
+  },
+  {
+   "hora": null,
+   "evento": "Los vigilantes cambian de tren en Montgat y se dirigen al apeadero de Sant Adriá; encuentran un cadáver en la plataforma entre vías"
+  },
+  {
+   "hora": "15:20",
+   "evento": "A petición de los Mossos d'Esquadra, se interrumpe la circulación por ambas vías entre Badalona y Barcelona Sagrera"
+  },
+  {
+   "hora": "15:35",
+   "evento": "Se reanuda la circulación por ambas vías con prescripción de marcha a la vista en el lugar del arrollamiento"
+  },
+  {
+   "hora": "16:06",
+   "evento": "Llega la Policía Judicial"
+  },
+  {
+   "hora": "16:23",
+   "evento": "Se persona el forense"
+  },
+  {
+   "hora": "16:40",
+   "evento": "Se levanta el cadáver"
+  },
+  {
+   "hora": "16:43",
+   "evento": "Se restablece la circulación normal por ambas vías"
+  },
+  {
+   "hora": "2008-03-27 08:53",
+   "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "2008-06-10",
+   "evento": "El Gerente Territorial de Seguridad en la Circulación Noreste de Adif entrega su informe particular"
+  },
+  {
+   "hora": "2008-06-12",
+   "evento": "El Responsable de Seguridad de Renfe Operadora entrega su informe particular"
+  },
+  {
+   "hora": "2008-07-22",
+   "evento": "El Pleno de la CIAF aprueba el informe definitivo"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28833",
+   "tipo": "viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "sin daños en material rodante"
+  },
+  {
+   "numero": "25978",
+   "tipo": "viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "sin restos imputables al suceso; circuló por el lugar en el momento del arrollamiento"
+  },
+  {
+   "numero": "25683",
+   "tipo": "viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "viajeros presencian el arrollamiento"
+  },
+  {
+   "numero": "25685",
+   "tipo": "viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "circuló con marcha a la vista"
+  },
+  {
+   "numero": "28838",
+   "tipo": "viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "circuló con marcha a la vista; parado en el lugar del suceso"
+  },
+  {
+   "numero": "28842",
+   "tipo": "viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "rotación del tren 28833; sin restos imputables al suceso"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 28833",
+   "implicacion": "Notó el golpe, comunicó al Puesto de Mando, inspeccionó el tren sin observar anomalía; habilitado conforme a OM 2520/2006; alcoholemia negativa (0,00 mg/1000 ml); jornada de conducción 4h18min el día del accidente"
+  },
+  {
+   "rol": "Vigilantes de seguridad (dos)",
+   "implicacion": "Subieron al tren 28833 en Badalona, hablaron con testigos, inspeccionaron el lugar del suceso y localizaron el cadáver"
+  },
+  {
+   "rol": "Vigilante de seguridad a bordo del tren 25683",
+   "implicacion": "Alertó al Centro de Protección y Seguridad de Barcelona sobre el arrollamiento presenciado por viajeros"
+  },
+  {
+   "rol": "Maquinista del tren 28838",
+   "implicacion": "Informó a los vigilantes de la presencia del cadáver en la plataforma entre vías"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+  "tipo_via": "vía doble",
+  "velocidad_maxima": "120 km/h (según libro de horarios en el P.K. 3,286)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Vallado roto a ambos lados del puente, constituyendo un paso vicioso de personas no autorizadas",
+  "otro": "Puente metálico sobre el río Besós; Red Ferroviaria de Interés General administrada por Adif"
+ },
+ "material_rodante": {
+  "series": "Automotor 465009 (matrícula 94650099); tren 25978 con unidades de tracción 464211 (cabeza) y 463202 (cola)",
+  "averia": "Ninguna; material rodante funcionó correctamente",
+  "mantenimiento": "Último reciclaje formativo del maquinista: 01/08/2006; último reconocimiento psicofísico: 16/03/2004"
+ },
+ "clima": "Condiciones atmosféricas buenas",
+ "causas": {
+  "directa": "Tránsito de la víctima por la vía por un lugar no autorizado para ello (paso vicioso sobre el puente)",
+  "contribuyentes": [
+   "Vallado roto a ambos lados del puente que permitía el acceso no autorizado a la vía",
+   "Existencia de un paso vicioso habitual por donde accedió la víctima"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+  "afectacion_servicio": "Interrupción de circulación por ambas vías de 15:20 a 15:35; marcha a la vista hasta 16:43; 14 trenes de cercanías con retrasos totales de 148 minutos"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Supresión del paso vicioso por donde accedió la víctima",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento de persona",
+  "cruce indebido de vía",
+  "paso vicioso",
+  "vallado roto",
+  "puente metálico",
+  "río besós",
+  "cercanías renfe",
+  "línea 276 barcelona-massanes",
+  "ciclista",
+  "marcha a la vista",
+  "víctima mortal",
+  "seguridad perimetral"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-210308-220708-CIAF"
+}

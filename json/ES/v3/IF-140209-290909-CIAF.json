@@ -1,0 +1,128 @@
+{
+ "titulo_normalizado": "Rebase de señal en rojo y talonamiento de desvío en la estación de Lieres por malentendido entre maquinista y CTC",
+ "idioma_original": "es",
+ "resumen": "El incidente ocurrió el 14 de febrero de 2009 a las 14:10 horas en la estación de Lieres (Asturias). El tren de cercanías 5714, con el sistema ASFA desconectado por avería, rebasó una señal de salida en rojo tras interpretar que tenía autorización del CTC. Esto provocó el talonamiento del desvío nº 3 y un conato de colisión con el tren 5901. La investigación concluyó que hubo un malentendido en las comunicaciones y deficiencias en los registros de telefonemas.",
+ "hechos": "El tren de cercanías 5714 de Feve, procedente de Infiesto con destino Oviedo, circulaba con retraso debido a problemas en su sistema ASFA, lo que obligó a modificar el cruce previsto desde Pola de Siero a la estación de Lieres. A la salida de Lieres, el maquinista encontró la señal S2/3 en rojo y, según su declaración, recibió autorización verbal del CTC para rebasarla, anotándolo en su libro de bloqueo pero no constando en el libro del CTC. Al iniciar la marcha, el tren talonó la aguja nº 3 orientada hacia la vía 1 para la entrada del tren 5901. El rebase activó la señal avanzada E'1 a rojo, deteniendo al tren 5901 antes de la colisión. Se ordenó retroceder al tren 5714 a la vía 2 y se restableció la circulación normal.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Lieres",
+  "pk": "P.K. 340,807",
+  "linea": "21 Oviedo-Santander",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Salida de la estación de Lieres, tramo recto y horizontal con buena visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "13:50",
+   "evento": "El tren 5714 avisa al CTC de problemas con el ASFA."
+  },
+  {
+   "hora": "13:58",
+   "evento": "Telefonema nº 90: Autorización a circular sin ASFA entre Llames y Oviedo."
+  },
+  {
+   "hora": "14:08",
+   "evento": "Telefonema nº 91 (según libro del maquinista): Supuesta autorización para rebasar la señal S2/3 en rojo."
+  },
+  {
+   "hora": "14:10",
+   "evento": "El tren 5714 rebasa la señal S2/3, talona el desvío nº 3 y provoca conato de colisión con el tren 5901."
+  },
+  {
+   "hora": "14:18",
+   "evento": "Telefonema nº 92: Orden de retroceso del tren 5714 a la estación de Lieres."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "5714",
+   "tipo": "Cercanías / Viajeros corta distancia",
+   "operador": "Feve",
+   "danos": null
+  },
+  {
+   "numero": "5901",
+   "tipo": "Cercanías / Viajeros corta distancia",
+   "operador": "Feve",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 5714",
+   "implicacion": "Rebasó la señal en rojo interpretando una autorización del CTC; no percató de la disposición incorrecta del desvío."
+  },
+  {
+   "rol": "Maquinista del tren 5901",
+   "implicacion": "Se detuvo ante la señal avanzada E'1 que cambió a rojo debido al rebase del otro tren."
+  },
+  {
+   "rol": "Factor de circulación del CTC",
+   "implicacion": "Comunicación ambigua o interrumpida; discrepancia entre sus declaraciones y el registro del maquinista sobre la autorización de rebase."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal S2/3 en rojo (parada) rebasada; señal avanzada E'1 cambió a rojo automáticamente.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Si",
+  "estado_via": "Buena visibilidad, tramo recto y horizontal.",
+  "otro": "Enclavamiento electrónico, Bloqueo Automático (BAU), Control de Tráfico Centralizado (CTC)."
+ },
+ "material_rodante": {
+  "series": "UTE serie 3500 (tren 5714); UTDE serie 2400 (tren 5901)",
+  "averia": "Fallo intermitente del sistema ASFA en el tren 5714, desconectado por orden superior.",
+  "mantenimiento": null
+ },
+ "clima": "Soleado",
+ "causas": {
+  "directa": "Malentendido entre el maquinista del tren 5714 y el factor de circulación del CTC respecto a la autorización para rebasar la señal de salida en rojo.",
+  "contribuyentes": [
+   "Deficiencias en el sistema de comunicación (interrupciones/ruido en la emisora).",
+   "Discrepancias en los registros de telefonemas escritos (libro del maquinista vs. libro del CTC).",
+   "Circular con el sistema de seguridad ASFA desconectado.",
+   "No comprobación visual adecuada de la disposición del desvío por parte del maquinista."
+  ],
+  "sistemicas": [
+   "Fallos en los procedimientos de registro de comunicaciones de explotación.",
+   "Posibles deficiencias en la calidad de los sistemas de radiotelefonía analógica."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Talonamiento del desvío nº 3 (reparado a las 17:00 h).",
+  "afectacion_servicio": "Supresión del tren 5714 entre El Berrón y Oviedo; retraso total de 20 minutos en dos trenes."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Comprobación del buen funcionamiento de los sistemas de comunicación entre los maquinistas y el CTC que garantice la perfecta comunicación entre ambos y asegure el perfecto entendimiento entre los interlocutores.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Realizar una auditoría para evaluar el grado de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos).",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Insistir en el cumplimiento riguroso de las normas en las comunicaciones de explotación, así como en el mantenimiento de la atención debida en la conducción, especialmente cuando se circula en circunstancias de anormalidad.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "talonamiento de desvio",
+  "conato de colision",
+  "feve",
+  "ctc",
+  "asfa desconectado",
+  "fallos de comunicacion",
+  "lieres",
+  "incidente ferroviario",
+  "registro de telefonemas"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-140209-290909-CIAF"
+}

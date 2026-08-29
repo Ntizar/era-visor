@@ -1,0 +1,231 @@
+{
+ "titulo_normalizado": "Descarrilamiento en plena vía en Capçanes (Tarragona) por deformación de la vía en la línea 210, tramo Els Guiamets-Marçá-Falset",
+ "idioma_original": "es",
+ "resumen": "El 13 de julio de 2017 a las 17:43 horas, seis vagones del tren de mercancías 55850 de Renfe Mercancías descarrilaron en el p.k. 544+649 de la línea 210 Miraflores-Tarragona, entre Els Guiamets y Marçá-Falset, tras pasar el apeadero de Capçanes (Tarragona). El tren quedó fraccionado en dos partes separadas 35 metros. No hubo víctimas, pero se produjeron daños materiales en infraestructura y material rodante valorados en menos de 2 millones de euros. La causa fue una deformación de la vía (fallo de infraestructura) derivada de tensiones en carril, retirada de limitación temporal de velocidad, elevada temperatura y falta de balasto en hombros. Como causa raíz se señala el incumplimiento del Sistema de Gestión de la Seguridad de Adif por falta de vigilancias a pie y auscultación geométrica.",
+ "hechos": "El tren de mercancías 55850 de Renfe Mercancías, formado por la locomotora 95710269352 y 17 vagones vacíos tipo TT4 (68 ejes, 306 m, 459 t), procedente de Samper con destino Tarragona Mercaderías, circulaba normalmente por la línea 210 entre Els Guiamets y Marçá-Falset. Tras pasar el apeadero de Capçanes (p.k. 544+014), en un tramo en curva a izquierdas, el maquinista apreció una deformación de la vía (garrote) y efectuó la frenada máxima sin poder evitar pasar por ella. La locomotora pasó por el p.k. 544+649 a las 17:43:08 a 79 km/h (máxima permitida 80 km/h). Seis segundos después se inició la reducción de velocidad. A las 17:43:18, el vagón 10º (327166225078-4) pasó por el punto a 75 km/h y descarriló, siendo el primero. Le siguieron los vagones 11º al 15º. El tren se detuvo en el p.k. 545+080 a las 17:43:34, fraccionado en dos partes separadas 35 metros: la primera con locomotora y 12 vagones (3 descarrilados: 10º, 11º, 12º) y la segunda con 5 vagones (3 descarrilados: 13º, 14º, 15º). El maquinista comunicó al CTC de Zaragoza a las 17:46:34, informando de caída del freno dentro del túnel 68. Inicialmente creyó no haber descarrilado, pero varios trenes reportaron falta de tensión en catenaria. A las 17:58:54 informó de un pájaro entre pantógrafo y hilo de contacto. A las 18:07:50 el CTC le comunicó que los Mossos d'Esquadra habían reportado tres vagones descarrilados. A las 18:20:41 el maquinista confirmó el fraccionamiento, catenaria desprendida, un poste en el suelo y deformación de vía. La circulación quedó interrumpida 85 horas y 29 minutos, restableciéndose el 17 de julio a las 07:14 con limitación a 30 km/h.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Capçanes (apeadero), entre Els Guiamets y Marçá-Falset",
+  "pk": "544+649",
+  "linea": "210 Miraflores-Tarragona",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Plena vía, tramo en curva a izquierdas (radio 350 m, peralte teórico 150 mm, rampa 14,81 milésimas), 635 m después del apeadero de Capçanes (p.k. 544+014), sobre una obra de drenaje (tajea) en p.k. 544+640, 201 m antes del inicio del túnel 68 (p.k. 544+850). Traviesas monobloc de hormigón."
+ },
+ "cronologia": [
+  {
+   "hora": "17:30:41",
+   "evento": "El tren 55850 inicia la marcha en la estación de Mora"
+  },
+  {
+   "hora": "17:43:08",
+   "evento": "Paso de la locomotora por el p.k. 544+649 (punto 0) a 79 km/h"
+  },
+  {
+   "hora": "17:43:14",
+   "evento": "Se inicia la reducción de velocidad (6 s y 138 m después del paso de la locomotora)"
+  },
+  {
+   "hora": "17:43:18",
+   "evento": "Paso del vagón 10º (327166225078-4) por p.k. 544+649 a 75 km/h; primer descarrilamiento"
+  },
+  {
+   "hora": "17:43:34",
+   "evento": "Detención del tren en p.k. 545+080, fraccionado en dos partes separadas 35 m"
+  },
+  {
+   "hora": "17:46:34",
+   "evento": "Maquinista comunica al CTC de Zaragoza detención por caída del freno dentro del túnel 68"
+  },
+  {
+   "hora": "17:50:00",
+   "evento": "Maquinista del tren 15036 comunica al CTC detención sin tensión en p.k. 534+900; telemando comunica falta de tensión Mora la Nova-Pradell"
+  },
+  {
+   "hora": "17:51:57",
+   "evento": "Maquinista informa que no ha descarrilado pero la máquina está inútil; CTC ordena reconocer catenaria"
+  },
+  {
+   "hora": "17:58:54",
+   "evento": "Maquinista informa de pájaro entre pantógrafo y hilo de contacto; CTC ordena bajar pantógrafos"
+  },
+  {
+   "hora": "18:07:50",
+   "evento": "CTC informa al maquinista que los Mossos d'Esquadra comunican tres vagones descarrilados; ordena reconocer todo el tren"
+  },
+  {
+   "hora": "18:20:41",
+   "evento": "Maquinista confirma fraccionamiento a la altura del 13º por cabeza, catenaria desprendida, poste en suelo, cola en p.k. 544+700 y deformación de vía"
+  },
+  {
+   "hora": "18:35:00",
+   "evento": "Renfe Viajeros dispone trasbordo por carretera entre Reus y Mora la Nova"
+  },
+  {
+   "hora": "18:53:55",
+   "evento": "Adif comunica a la CIAF la producción del suceso"
+  },
+  {
+   "hora": "19:10:00",
+   "evento": "Se restablece tensión entre Mora la Nova y Els Guiamets"
+  },
+  {
+   "hora": "19:35:00",
+   "evento": "El tren 15036 retrocede hacia Mora la Nova con 30 viajeros"
+  },
+  {
+   "hora": "23:15:00",
+   "evento": "Salen de Samper las locomotoras 333340 y 333364 (tren taller y apartado de vagones)"
+  },
+  {
+   "hora": "00:00:00",
+   "evento": "Día 14/07: Inician trabajos de acondicionamiento de la vía"
+  },
+  {
+   "hora": "07:10:00",
+   "evento": "Día 14/07: Finalizan trabajos de acondicionamiento para paso del tren-taller"
+  },
+  {
+   "hora": "19:10:00",
+   "evento": "Día 14/07: Retirados vagones 17º y 16º; encarrilado el 15º"
+  },
+  {
+   "hora": "21:15:00",
+   "evento": "Día 14/07: Encarrilados vagones 14º y 13º"
+  },
+  {
+   "hora": "21:29:00",
+   "evento": "Día 14/07: Tren taller inicia retroceso desde p.k. 544+700 con vagones 14º y 13º"
+  },
+  {
+   "hora": "14:25:00",
+   "evento": "Día 15/07: Encarrilado el vagón 12º"
+  },
+  {
+   "hora": "19:25:00",
+   "evento": "Día 15/07: Encarrilado el vagón 11º"
+  },
+  {
+   "hora": "20:42:00",
+   "evento": "Día 15/07: Encarrilado el vagón 10º"
+  },
+  {
+   "hora": "22:22:00",
+   "evento": "Día 15/07: Inician trabajos de reparación de infraestructuras dañadas"
+  },
+  {
+   "hora": "07:10:00",
+   "evento": "Día 17/07: Restablecida la tensión en catenaria entre Els Guiamets y Marçá-Falset"
+  },
+  {
+   "hora": "07:14:00",
+   "evento": "Día 17/07: Vía libre; se restablece circulación con limitación a 30 km/h entre p.k. 544+620 y 544+900"
+  },
+  {
+   "hora": "08:00:00",
+   "evento": "Día 17/07: Restablecido el bloqueo automático con CTC"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "55850",
+   "tipo": "tren de mercancías (tipo 100, vmax 100 km/h)",
+   "operador": "Renfe Mercancías",
+   "danos": "Fraccionado en dos partes; locomotora inútil; vagones 10º, 11º, 12º descarrilados de ambos bogies; 13º descarrilado del primer bogie; 14º descarrilado del primer eje del segundo bogie; 15º descarrilado del segundo bogie; 16º y 17º encarrilados. Daños importantes en material rodante."
+  },
+  {
+   "numero": "15036",
+   "tipo": "tren de viajeros (Media Distancia, Renfe Viajeros)",
+   "operador": "Renfe Viajeros",
+   "danos": "Detenido sin tensión en p.k. 534+900 con 30 viajeros; retrocedió a Mora la Nova a las 19:35"
+  },
+  {
+   "numero": "83519",
+   "tipo": "tren",
+   "operador": null,
+   "danos": "Estacionado en Els Guiamets; comunicó falta de tensión en catenaria"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 55850 (Renfe Mercancías)",
+   "implicacion": "Conducía la locomotora 269352; apreció deformación de vía (garrote) y frenó; no pudo evitar el descarrilamiento; velocidad 79 km/h (inferior a máxima 80); título B de conducción, 4 años y 7 meses de antigüedad; reciclaje y reconocimientos al día; prueba de alcohol y drogas negativa; jornada dentro de límites; reconocimiento inicial incompleto del tren (solo locomotora y parte inicial)"
+  },
+  {
+   "rol": "Jefe/Responsable de Circulación del CTC de Zaragoza (Adif)",
+   "implicacion": "Recibió comunicaciones del maquinista; gestionó la situación; ordenó reconocimientos; dispuso apartados de trenes; habilitación conforme a Orden FOM/2520/2006; reciclaje 27/01/2016; reconocimiento médico-psicotécnico 22/09/2016; al día"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de Vía Única (BAU) y Control de Tráfico Centralizado (CTC) asignado al Puesto de Mando de Zaragoza; radiotelefonía tren-tierra",
+  "tipo_via": "Vía única, traviesas monobloc de hormigón, tramo en curva a izquierdas (radio 350 m, peralte teórico 150 mm, rampa 14,81 milésimas)",
+  "velocidad_maxima": "80 km/h (sin limitación temporal o permanente en el tramo al momento del suceso; LTV de 60 km/h suprimida el 10/07/2017)",
+  "ancho": "Ibérico (1.668 mm)",
+  "electrificacion": "Electrificada; daños: catenaria desprendida, seis postes de electrificación, sustentadores, ménsulas y atirantado; cable 2200 dañado",
+  "estado_via": "Deformación de vía (garrote) con exceso de peralte respecto al teórico (150 mm) excediendo tolerancias de Calidad 2 (requeriría actuación urgente); sobreancho detectado en auscultación de 19/02/2014; falta de material en hombros de banqueta de balasto; obra de drenaje (tajea) reparada el 17-18/06/2017",
+  "otro": "Túnel 68 (p.k. 544+850 a 544+551); obra de drenaje en p.k. 544+640; cambio de carril hilo derecho mayo-junio 2016 (p.k. 544+187 a 544+955); neutralización de carril 13/06/2016 (temperatura 32°C, cala central p.k. 544+666); soldaduras aluminotérmicas; media semanal de circulaciones del tramo Mora la Nova-Reus: 226 (86 media distancia, 135 mercancías, 5 servicio)"
+ },
+ "material_rodante": {
+  "series": "Locomotora 95710269352 (serie 269); 17 vagones tipo TT4 vacíos (327166225078-4, 32716625402-6, 32716625606-2, 32716625460-4, 32716625415-8, 32716625562-7 y demás)",
+  "averia": "Locomotora inútil; pájaro de mediano tamaño entre frotador del primer pantógrafo y hilo de contacto (causante de falta de tensión); equipos de seguridad del tren funcionaron correctamente; registrador de seguridad sin irregularidades; parámetros de rodadura de vagones afectados dentro de tolerancia (espesor pestaña rueda izquierda 1er eje 1er bogie del vagón 13º: 25,0 mm, coincidente con límite)",
+  "mantenimiento": "Vagones autorizados para circular según archivo patrón de Adif; todos vacíos; comprobaciones de rodadura realizadas el 16/08/2017 por Renfe Mercancías"
+ },
+ "clima": "Día, sin condiciones meteorológicas adversas el día del suceso. Elevada temperatura el día anterior (12/07/2017), rozando la máxima anual registrada en la estación automática de Falset (máxima anual 2017: 39,5°C el 4/8/2017; 2016: 39,0°C el 4/9/2016)",
+ "causas": {
+  "directa": "Fallo de la infraestructura: deformación de la vía (garrote) en el p.k. 544+649",
+  "contribuyentes": [
+   "Existencia de tensiones en carril tras la sustitución de carril un año antes (mayo-junio 2016)",
+   "Tensiones en carril tras la reposición de la obra de fábrica (drenaje) en junio 2017",
+   "Retirada de la limitación temporal de velocidad (LTV a 60 km/h, vigente desde octubre 2015) tres días antes del suceso (10/07/2017)",
+   "Elevada temperatura el día anterior al suceso (rozando la máxima anual)",
+   "Falta de material (según sección teórica) en los hombros de la banqueta de balasto a lo largo de la zona del suceso"
+  ],
+  "sistemicas": [
+   "Mal estado general de la infraestructura en el tramo Flix-Reus con relativamente elevado número de sucesos por mantenimiento deficiente (causa subyacente)",
+   "Incumplimiento de los procedimientos del Sistema de Gestión de la Seguridad en la Circulación (SGSC) de Adif (causa raíz): falta de vigilancias a pie (infraestructura y superestructura) en la zona",
+   "No realización de auscultación geométrica (última: 19/02/2014, 41 meses antes; procedía 2 veces/año en línea A-2)",
+   "No actuación sobre defecto de sobreancho detectado en la auscultación de 2014 en plazo de 6 meses",
+   "Planes de mantenimiento de la Jefatura de Tarragona muy básicos (solo vigilancia en cabina programada, según auditoría AESF)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños importantes en material rodante; daños en traviesas, armario de centro de transformación, cable 2200, herrajes, seis postes de electrificación, sustentadores, ménsulas y atirantado. Valoración total inferior a 2 millones de euros",
+  "afectacion_servicio": "Circulación interrumpida 85 horas y 29 minutos (13/07 17:43 a 17/07 07:14). Restablecida con limitación a 30 km/h entre p.k. 544+620 y 544+900. Retrasos en 54 trenes de viajeros (1.347 min) y 95 trenes de mercancías (5.122 min). 24 trenes suprimidos. Trasbordo por carretera Reus-Mora la Nova y Mora la Nova-Marçá-Falset"
+ },
+ "lecciones": [
+  "El reconocimiento incompleto del tren por el maquinista (limitado a locomotora y parte inicial) no tuvo consecuencias en este caso, pero de haber ocurrido en vía doble o con mercancías peligrosas habría supuesto un retraso en la activación del plan de emergencia con posible incremento notable de consecuencias",
+  "Dada la percepción de estado deficiente de la vía, pérdida de freno y ausencia de tensión en catenaria, el maquinista debería haber efectuado un reconocimiento completo del tren",
+  "La deformación de vía de rápido desarrollo puede no ser detectada en vigilancias en cabina ni por maquinistas",
+  "El tramo Flix-Reus de la línea 210 acumula un número relativamente elevado de sucesos por fallo de infraestructura (expedientes 23/2012, 41/2012, 10/2016, 44/2016, 24/05/2017), evidenciando un problema sistémico de mantenimiento"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Se reitera la recomendación 10/2016-1: Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Administrador de Infraestructuras Ferroviarias (ADIF)"
+  },
+  {
+   "texto": "Se reitera la recomendación 10/2016-2: Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Administrador de Infraestructuras Ferroviarias (ADIF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "deformación de vía",
+  "garrote",
+  "tren de mercancías",
+  "línea 210",
+  "capçanes",
+  "tarragona",
+  "fallo de infraestructura",
+  "auscultación geométrica",
+  "vigilancia a pie",
+  "sistema de gestión de la seguridad",
+  "limitación temporal de velocidad",
+  "adif",
+  "renfe mercancías"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 13.07.2017 191022-170713-IF-SN_CIAF"
+}

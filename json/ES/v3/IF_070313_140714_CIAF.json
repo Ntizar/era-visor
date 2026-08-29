@@ -1,0 +1,112 @@
+{
+ "titulo_normalizado": "Rebase de señales en parada y conato de colisión en la estación de Viana de Cega",
+ "idioma_original": "es",
+ "resumen": "El 2013-03-07 a las 13:15, el tren complementario VB688 de Renfe Operadora, en material vacío, rebasó indebidamente las señales E2 y R2 en parada en la estación de Viana de Cega (Valladolid). La señalización estaba en parada porque el puesto de mando había establecido itinerario de entrada hacia la vía 4 para el tren auscultador PD601 de Adif. El rebase generó un conato de colisión: ambos trenes quedaron enfrentados sobre el mismo cantón e itinerario coincidente a 226 metros. No hubo víctimas ni daños materiales, la vía no quedó interceptada y no se produjeron retrasos. La investigación atribuyó el origen al incumplimiento de las órdenes de señales por el personal de conducción, con distracción relacionada con problemas de motor.",
+ "hechos": "El 2013-03-07, a las 13:15 horas, el tren complementario VB688 de Renfe Operadora, formado por la UT 592069 y circulando en material vacío desde Venta de Baños hacia Fuencarral, se aproximaba a la estación de Viana de Cega por la vía 2. En sentido contrario, el tren auscultador PD601 de Adif, procedente de Pozaldez y con destino Valladolid Campo Grande, debía ser apartado a la vía 4 para realizar un cruce, porque una vagoneta de mantenimiento trabajaba en la vía 1 a la altura del cambio nº 5 y la vía 2 estaba banalizada.\n\nEl VB688 presentaba problemas en el motor 1 del coche 137, con paradas repetidas y una fuga de gasoil reparada por dos operarios. El motor volvió a pararse en el túnel de El Pinar y poco antes de la señal avanzada E'2; el maquinista lo arrancó de nuevo. Al pasar por la señal avanzada E'2 en anuncio de parada, el tren no redujo la velocidad y, al alcanzar la baliza previa de la señal de entrada E2, el sistema ASFA activó el frenado de urgencia por superar la velocidad de control de 60 km/h.\n\nA pesar del frenado, el tren rebasó las señales E2 y R2, ambas en indicación de parada, y se detuvo en el PK 235+244, 343 metros después de E2 y a 58 metros del paso a nivel. Quedó enfrentado al PD601, detenido frente a la señal S1/4 de la vía 4, a 226 metros de distancia, porque la aguja A8 estaba en posición invertida y comunicaba la vía 2 con la vía 4. El incidente no causó víctimas ni daños, y el puesto de mando autorizó avanzar y maniobrar para estacionar el tren en Viana.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Viana de Cega",
+  "pk": "234+843",
+  "linea": "100 Madrid - Hendaya",
+  "provincia": "Valladolid",
+  "descripcion_lugar": "Estación de Viana de Cega, lado Venta de Baños, PK 234+843, en el tramo Valdestillas-Valladolid Campo Grande; punto de detención del tren VB688 en PK 235+244."
+ },
+ "cronologia": [
+  {
+   "hora": "13:12",
+   "evento": "Se establece itinerario de entrada hacia la vía 4 para el tren PD601 y el tren VB688 ocupa el circuito de la señal avanzada E'2."
+  },
+  {
+   "hora": "13:13",
+   "evento": "El tren PD601 ocupa el circuito de la aguja A1 y se dirige hacia la vía 4A; el VB688 sigue ocupando el circuito E'2 con la señal E2 en parada."
+  },
+  {
+   "hora": "13:14",
+   "evento": "El tren VB688 pasa por la baliza previa de E2 a 122 km/h, se activa el frenado de urgencia por ASFA y el PD601 ocupa la vía 4A."
+  },
+  {
+   "hora": "13:15",
+   "evento": "El tren VB688 rebasa la señal E2 a 91 km/h y la señal R2 a 35 km/h, deteniéndose en el PK 235+244 y generando el conato de colisión a 226 metros del PD601."
+  },
+  {
+   "hora": "14:45",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "VB688",
+   "tipo": "Tren complementario, material vacío, autopropulsado UT 592069",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños"
+  },
+  {
+   "numero": "PD601",
+   "tipo": "Tren auscultador",
+   "operador": "Adif",
+   "danos": "No se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren VB688",
+   "implicacion": "Conducía el tren que rebasó las señales; matrícula 8943821; título B y habilitaciones conforme a Orden FOM/2520/2006; antigüedad en el cargo 2005-06-30, habilitación de línea y vehículo 2012-05-16, último reciclaje formativo 2012-05-11, último reconocimiento médico y psicotécnico 2011-05-10; prueba de alcoholemia negativa 0,00 mg/1000 ml; atribuyó el rebase a distracción por problemas de motor; se le aplicaron medidas por fallo humano."
+  },
+  {
+   "rol": "Operarios acompañantes desde el taller de Valladolid",
+   "implicacion": "Repararon una fuga de gasoil en uno de los motores del tren VB688."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales luminosas de tres focos E'2 (PK 237+420) y E2 (PK 235+587), con balizas previa y de pie; señal de retroceso R2 (PK 235+298) mono bajo de cuatro focos; señal S1/4 (PK 235+062) en vía 4; enclavamiento electrónico; ASFA; buena visibilidad.",
+  "tipo_via": "Vía doble electrificada, bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) desde Madrid-Chamartín; estación con dos vías generales y dos de apartado.",
+  "velocidad_maxima": "155 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "Infraestructura e instalaciones técnicas funcionaron correctamente; no se produjeron daños; vía no interceptada.",
+  "otro": "Paso a nivel clase C en PK 235+186 enclavado con la estación; desvío 2-4 en PK 235+281; aguja A8 en PK 235+154 en posición invertida; aguja 5 con vagoneta de mantenimiento ocupando circuito de vía; radiotelefonía modalidad A; media semanal de circulaciones del tramo Valdestillas-Valladolid Campo Grande: 486 (86 larga distancia, 239 media distancia, 1 cercanías, 144 mercancías, 16 servicio); moviola con retraso de un minuto respecto a la hora real."
+ },
+ "material_rodante": {
+  "series": "VB688: UT 592069, automotor diésel serie 592, Nº UIC 967195920699, 3 vehículos, 12 ejes, 131 toneladas, 70 metros; PD601: tren auscultador de Adif.",
+  "averia": "En el VB688, el motor 1 del coche 137 se paraba en varias ocasiones; se produjo una fuga de gasoil reparada; el motor volvió a pararse en el túnel de El Pinar y cerca de la señal avanzada E'2; se detectó un problema en el sistema ASFA al no grabar las indicaciones de las balizas, aunque sí funcionaba el canal de eficiencia.",
+  "mantenimiento": "La UT 592069 regresó al taller de Valladolid y permaneció a disposición de Seguridad en la Circulación hasta 2013-03-12; tras comprobar el correcto funcionamiento del equipo ASFA, se reintegró al servicio."
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Rebase indebido de las señales E2 y R2 en parada por incumplimiento de las órdenes de señales por el personal de conducción.",
+  "contribuyentes": [
+   "Distracción del maquinista por la atención al panel de control y a los problemas del motor.",
+   "Avería recurrente del motor 1 con paradas y fuga de gasoil durante el trayecto.",
+   "No reducir la velocidad tras rebasar la baliza previa de la señal avanzada E'2 en anuncio de parada.",
+   "Pasar por la baliza previa de la señal E2 a 122 km/h, superando la velocidad de control de 60 km/h.",
+   "Banalización de la vía 2 por trabajos de una vagoneta de mantenimiento en la vía 1.",
+   "Aguja A8 en posición invertida, que comunicaba la vía 2 con la vía 4 y coincidía con el itinerario del PD601."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+  "afectacion_servicio": "La vía no quedó interceptada; no se produjeron retrasos; no fue necesaria la activación de plan de emergencia interno ni externo."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "rebase de señales",
+  "conato de colisión",
+  "asfa",
+  "distracción del maquinista",
+  "avería de motor",
+  "fuga de gasoil",
+  "estación de viana de cega",
+  "línea 100",
+  "renfe operadora",
+  "adif",
+  "fallo humano",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_070313_140714_CIAF"
+}

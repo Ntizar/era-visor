@@ -1,0 +1,189 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 280 en Villada por exceso de velocidad en escape 2/4",
+ "idioma_original": "es",
+ "resumen": "El informe definitivo investiga el accidente ferroviario nº 0030/2006 ocurrido el 21 de agosto de 2006 en la estación de Villada, Palencia. El tren de Larga Distancia nº 280 de Renfe descarriló al pasar por el escape 2/4 en vía desviada a 125-122 km/h cuando debía circular a 30 km/h por la indicación de anuncio de precaución de la señal avanzada 480. Se produjeron 7 fallecidos y 74 heridos, además de daños importantes en infraestructura y material rodante. Las instalaciones y el material móvil funcionaron correctamente, por lo que la causa se atribuye al incumplimiento reglamentario del maquinista.",
+ "hechos": "El tren de Larga Distancia nº 280 de Renfe, remolcado por la locomotora 269.414-9 y compuesto por seis vehículos con 426 viajeros, realizaba el recorrido entre La Coruña/Vigo e Irún/Hendaya. A las 15:55 detuvo la marcha en el punto kilométrico 46/200 tras descarrilar los seis coches en la salida del escape de entrada lado Sahagún de la estación de Villada, al efectuar paso de vía general 2 a vía general 1 por el escape 2/4. El descarrilamiento arrolló tres postes de electrificación, la señal de salida S1/1 y los pilares centrales del paso superior de carretera del lado Sahagún, quedando interceptadas las dos vías generales y las vías 3, 5 y 7 de la estación. La locomotora quedó encarrilada, mientras que los seis coches remolcados quedaron descarrilados, fuera de la vía e inclinados, con grandes desperfectos en los tres primeros, que fueron desguazados en la propia estación.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villada",
+  "pk": "46/200",
+  "linea": "130 Venta de Baños - Gijón Cercanías",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Estación de Villada, dotada de enclavamiento electrónico fabricado e implantado por Alstom S.A., en el trayecto Paredes de Nava - Sahagún, con vía doble electrificada y bloqueo automático banalizado."
+ },
+ "cronologia": [
+  {
+   "hora": "15:51",
+   "evento": "Solicitud de establecimiento del itinerario nº 25 desde el CTC de León."
+  },
+  {
+   "hora": "15:52",
+   "evento": "Ocupación del circuito de vía 508 por el tren 280."
+  },
+  {
+   "hora": "15:52",
+   "evento": "Señal de salida S2/1 en indicación de vía libre."
+  },
+  {
+   "hora": "15:52",
+   "evento": "Desvíos 2 y 4 del escape 2/4 en posición de vía desviada."
+  },
+  {
+   "hora": "15:52",
+   "evento": "Señal avanzada 480 en indicación de anuncio de precaución."
+  },
+  {
+   "hora": "15:53",
+   "evento": "Señal de entrada E2 en indicación de vía libre."
+  },
+  {
+   "hora": "15:53",
+   "evento": "Paso del tren 280 por la baliza previa de la señal avanzada."
+  },
+  {
+   "hora": "15:53",
+   "evento": "Paso del tren 280 por la baliza de la señal avanzada."
+  },
+  {
+   "hora": "15:53",
+   "evento": "El tren 280 ocupa el circuito de vía 480, entre la señal avanzada y la señal de entrada."
+  },
+  {
+   "hora": "15:54",
+   "evento": "Paso del tren 280 por la baliza previa de la señal de entrada."
+  },
+  {
+   "hora": "15:54",
+   "evento": "Paso del tren 280 por la baliza de la señal de entrada."
+  },
+  {
+   "hora": "15:54",
+   "evento": "Ocupación del circuito de vía de la aguja del desvío 2."
+  },
+  {
+   "hora": "15:54",
+   "evento": "Ocupación del circuito de vía de la aguja del desvío 4."
+  },
+  {
+   "hora": "15:54",
+   "evento": "Descarrilamiento del tren 280."
+  },
+  {
+   "hora": "15:55",
+   "evento": "Detención de la marcha del tren en el punto kilométrico 46/200."
+  },
+  {
+   "hora": "18:45",
+   "evento": "Prueba de alcoholemia al maquinista del tren, con resultado de ausencia de alcohol."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "280",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe",
+   "danos": "Locomotora encarrilada; seis coches remolcados descarrilados, fuera de la vía e inclinados, con grandes desperfectos; tres coches desguazados."
+  },
+  {
+   "numero": "8214",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": "No se indican daños; precedía al tren 280 con parada en Villada y motivó la gestión del itinerario."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista de la locomotora 269.414-9",
+   "implicacion": "Condujo el tren accidentado; declaró haber visto vía libre en la señal avanzada, afirmación no acorde con los registros; pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "Supervisor de circulación del puesto de mando de León",
+   "implicacion": "Estableció el itinerario nº 25 para paso de vía general 2 a vía general 1, evitando el cruce de viajeros del tren 8214; su declaración coincide con los registros del enclavamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico Alstom; señal avanzada 480 en anuncio de precaución; señal de entrada E2 en vía libre; señal de salida S2/1 en vía libre; ASFA por balizas.",
+  "tipo_via": "Vía doble electrificada con carril continuo soldado UIC-54 sobre traviesas de hormigón.",
+  "velocidad_maxima": "160 km/h; limitaciones: 155 km/h por paso a nivel en pk 47,423; 130 km/h por curva en pk 46,600; 30 km/h por escape 2/4 en vía desviada.",
+  "ancho": null,
+  "electrificacion": "Electrificada; línea aérea de contacto y postes arrollados y dañados.",
+  "estado_via": "Correcta antes del accidente; tras el descarrilamiento quedaron deformados espadines, carriles y la vía 1; escape 2/4 no apto para circulación.",
+  "otro": "Bloqueo automático banalizado; estación gobernada por CTC de León al encontrarse cerrada; paso superior de carretera dañado y demolido."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269.414-9; coches B10t-9308, B10t-9302, B10t-9312, BR3t-9824, B10t-9318 y B10t-9305.",
+  "averia": "No se observaron deficiencias; ASFA embarcado correcto; pruebas de frenado posteriores sin anomalías, salvo imposibilidad de probar freno eléctrico por daños en pantógrafos.",
+  "mantenimiento": "Boletines de circulación y frenado sin incidencias en Vigo y Ourense; no consta prueba completa de frenado de la rama procedente de A Coruña; fechas de últimas revisiones no detalladas en el texto."
+ },
+ "clima": "Despejado.",
+ "causas": {
+  "directa": "Exceso de velocidad al pasar el escape 2/4 en vía desviada a 125-122 km/h cuando debía circular a 30 km/h por la indicación de anuncio de precaución de la señal avanzada 480.",
+  "contribuyentes": [
+   "Incumplimiento del artículo 211 del Reglamento General de Circulación y de la Carta Circular de Reglamentación nº 4 sobre no exceder 30 km/h al pasar las agujas.",
+   "Incumplimiento del artículo 221 del Reglamento General de Circulación y de la Carta Circular de Reglamentación nº 7 sobre iniciar inmediatamente la reducción de velocidad tras la baliza previa.",
+   "Percepción del maquinista de vía libre en la señal avanzada, no acorde con los registros de enclavamiento y locomotora."
+  ],
+  "sistemicas": [
+   "En bloqueo banalizado, la señal inmediatamente anterior al aparato de vía mostraba vía libre sin indicar la velocidad limitada del paso por vía desviada.",
+   "Complejidad creciente de tipos de bloqueo y sistemas de señalización en la red.",
+   "Conveniencia de reforzar la percepción de la orden de reducción de velocidad mediante enclavamientos, señalización y formación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 7,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños importantes en superestructura de vías, instalaciones de seguridad, línea aérea y postes; paso superior demolido; tres coches desguazados; daños calificados de cuantiosos y no evaluados económicamente.",
+  "afectacion_servicio": "Suspendidas las circulaciones por ambas vías en el trayecto Paredes de Nava - Sahagún; interceptadas las dos vías generales y las vías 3, 5 y 7 de Villada."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Implantar en la reglamentación y en los enclavamientos que la señal inmediatamente anterior al aparato o aparatos de vía por los que se deba circular a velocidad limitada muestre también una indicación de esta circunstancia.",
+   "destinatario": "Adif y reguladores de enclavamientos"
+  },
+  {
+   "texto": "Estudiar transitoriamente que, en las líneas banalizadas, los trenes sean recibidos en la estación con itinerario de entrada por vía desviada, para que las señales anteriores muestren verde/amarillo y amarillo.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Analizar mejoras de percepción diferenciando señales avanzadas, de entrada, de bifurcaciones y escapes en vía banalizada respecto de las señales de bloqueo en trayecto.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Sustituir en el Reglamento General de Circulación la denominación de 'anuncio de precaución' por 'anuncio de paso por vía desviada' o 'anuncio de reducción de velocidad'.",
+   "destinatario": "Dirección General de Ferrocarriles"
+  },
+  {
+   "texto": "Estudiar mejoras en la señalización luminosa lateral mediante pantallas luminosas de indicaciones variables gráficas y alfanuméricas.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Homologar el ASFA digital una vez finalizadas pruebas y validado, estableciendo su obligatoriedad en material de nueva matriculación y plazos para implantación en material existente.",
+   "destinatario": "Órgano ferroviario competente"
+  },
+  {
+   "texto": "Proseguir la adaptación de los sistemas de formación inicial, continua y de reciclaje del personal ferroviario, incluyendo simuladores, artículos 211 y 221 del RGC, Cartas Circulares de Reglamentación y comunicaciones tren-tierra.",
+   "destinatario": "Adif y empresas ferroviarias"
+  },
+  {
+   "texto": "Evaluar la conveniencia de incrementar la frecuencia de supervisión de registros de velocidad y eventos del material motor, así como de acompañamientos del personal de conducción y regulación.",
+   "destinatario": "Direcciones de Seguridad en la Circulación de Adif y empresas ferroviarias"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "exceso de velocidad",
+  "señal avanzada",
+  "asfa",
+  "bloqueo banalizado",
+  "villada",
+  "renfe",
+  "adif",
+  "larga distancia",
+  "enclavamiento electrónico",
+  "palencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-210806-131106-PLG (003)"
+}

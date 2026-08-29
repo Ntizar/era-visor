@@ -1,0 +1,74 @@
+{
+ "titulo_normalizado": "Accidente en el paso entre andenes de la estación de Las Navas del Marqués (Ávila)",
+ "idioma_original": "es",
+ "resumen": "El documento es una resolución de la CIAF sobre el accidente ferroviario nº 0019/2009, ocurrido el 7 de abril de 2009 en la estación de Las Navas del Marqués (Ávila). Se aprueba como definitivo el informe particular presentado por el técnico investigador D. Jorge Navacerrada Álvarez. El accidente se localiza en el paso entre andenes, en el P.K. 83,700 de la línea 100 Madrid-Hendaya. La resolución indica que no se establecen recomendaciones.",
+ "hechos": null,
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Las Navas del Marqués",
+  "pk": "83,700",
+  "linea": "100 Madrid - Hendaya",
+  "provincia": "Ávila",
+  "descripcion_lugar": "Paso entre andenes de la estación de Las Navas del Marqués (Ávila)"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-04-07: Accidente ferroviario nº 0019/2009 en el paso entre andenes de la estación de Las Navas del Marqués (Ávila)."
+  },
+  {
+   "hora": null,
+   "evento": "2009-10-27: Pleno de la Comisión de Investigación de Accidentes Ferroviarios aprueba como definitivo el informe particular."
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "Técnico investigador de la Secretaría de la Comisión",
+   "implicacion": "Presentó el informe particular aprobado como definitivo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": null
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "accidente ferroviario",
+  "ciaf",
+  "las navas del marqués",
+  "avila",
+  "estacion",
+  "paso entre andenes",
+  "linea 100 madrid-hendaya",
+  "resolucion",
+  "informe particular",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-070409-271009-CIAF"
+}

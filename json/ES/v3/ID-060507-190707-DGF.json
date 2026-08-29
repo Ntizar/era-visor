@@ -1,0 +1,134 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en un paso vicioso entre Vilanova i la Geltrú y Cunit",
+ "idioma_original": "es",
+ "resumen": "El 6 de mayo de 2007 se produjo un accidente ferroviario grave por arrollamiento de una persona en plena vía, en el punto kilométrico 632,800 de la línea 200 Madrid-Barcelona, entre Vilanova i la Geltrú y Cunit. La víctima, una mujer de 36 años, intentó cruzar las vías por un paso vicioso de acceso a la playa cuando pasaba el tren de Media Distancia 8257 de RENFE. El tren circulaba a 102 km/h, por debajo de la velocidad máxima autorizada de 140 km/h. No hubo daños materiales, aunque se produjeron importantes perturbaciones en el tráfico.",
+ "hechos": "A las 15:41 del 6 de mayo de 2007, el tren de Media Distancia 8257 de RENFE, compuesto por las unidades UT.447026 y UT.447071, circulaba por vía I de la línea 200 Madrid-Barcelona entre Vilanova i la Geltrú y Cunit. En el punto kilométrico 632,800, una mujer de 36 años invadió la vía a través de un paso vicioso que permitía el acceso a la playa, siendo arrollada por el tren y falleciendo en el lugar.\n\nSegún el parte del maquinista, al salir de una curva próxima vio a una persona en la caja de vía, aplicó el freno de emergencia y el silbato, pero no pudo evitar el arrollamiento. El análisis de la memoria estática determinó que el tren circulaba a 102 km/h, frente a una velocidad máxima de 140 km/h para ese tramo. La interventora declaró que no estaba pendiente de la vía y que percibió el silbato y el frenazo del tren.\n\nTras el suceso, el maquinista comunicó el accidente al Puesto de Mando de Barcelona. Se realizaron actuaciones de seguridad, toma de datos, analíticas al maquinista y levantamiento del cadáver. La circulación quedó inicialmente afectada y se reanudó de forma progresiva hasta restablecerse con normalidad a las 17:43.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "632,800",
+  "linea": "Línea 200 Madrid-Barcelona",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso vicioso de acceso a la playa entre Vilanova i la Geltrú y Cunit, a la salida de una curva de radio 2.500 m, sin vallado y con buena visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "15:41",
+   "evento": "Se produce el arrollamiento de una persona por el tren de Media Distancia 8257 en el pk 632,800."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Barcelona, que avisa a ADIF, RENFE, Protección Civil y servicios de emergencia."
+  },
+  {
+   "hora": "16:10",
+   "evento": "La Policía Nacional autoriza al tren 8257 a continuar hasta la estación de Cunit."
+  },
+  {
+   "hora": "16:32",
+   "evento": "El tren 8257 inicia la marcha hacia Cunit."
+  },
+  {
+   "hora": "16:36",
+   "evento": "El tren queda apartado en la estación de Cunit y se reanuda la circulación con marcha a la vista por vía I banalizada."
+  },
+  {
+   "hora": "17:23",
+   "evento": "La Policía Científica autoriza la marcha del tren 8257."
+  },
+  {
+   "hora": "17:34",
+   "evento": "El tren 8257 abandona la estación de Cunit."
+  },
+  {
+   "hora": "17:43",
+   "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver y se restablece la circulación normal en ambas vías."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8257",
+   "tipo": "Media Distancia",
+   "operador": "RENFE",
+   "danos": "No se producen daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 8257",
+   "implicacion": "Aplicó freno de emergencia y silbato al ver a la persona en la vía; trasladado al Hospital Sant Camil por shock emocional; analítica negativa en alcohol y drogas."
+  },
+  {
+   "rol": "Interventora de a bordo del tren 8257",
+   "implicacion": "Realizaba cambio de equipo de ventas y no estaba pendiente de la vía; oyó el silbato y percibió el frenazo."
+  },
+  {
+   "rol": "Ayudante ferroviario del Distrito de Vilanova (ADIF)",
+   "implicacion": "Nombrado jefe delegado del accidente."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Mujer de 36 años que falleció al intentar cruzar las vías por un paso vicioso; según testigos no identificados usaba teléfono móvil."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con CTC.",
+  "tipo_via": "Vía doble electrificada.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada.",
+  "estado_via": "Tramo con buena visibilidad a la salida de una curva de radio 2.500 m; paso vicioso de acceso a la playa sin vallado.",
+  "otro": "No existe vallado que impida el acceso a las vías en el lugar del accidente."
+ },
+ "material_rodante": {
+  "series": "UT.447026 y UT.447071",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Soleado.",
+ "causas": {
+  "directa": "Invasión indebida de la vía por la persona arrollada al cruzar por un paso no autorizado.",
+  "contribuyentes": [
+   "Existencia de un paso vicioso de acceso a la playa.",
+   "Inexistencia de vallado en el tramo.",
+   "Uso del teléfono móvil por la víctima, según testigos no identificados."
+  ],
+  "sistemicas": [
+   "Acceso no controlado de personas a la infraestructura ferroviaria en tramos próximos a la playa."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Retraso acumulado de 484 minutos en trenes de Cercanías, 204 minutos en Larga Distancia y 313 minutos en Media Distancia; el tren implicado sufrió 113 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar el vallado de la línea en todo el tramo limítrofe con la playa.",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Impulsar campañas de concienciación en las localidades costeras sobre el peligro de no usar las zonas de paso autorizadas para acceder a las playas.",
+   "destinatario": "ADIF/RENFE/administraciones implicadas"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso vicioso",
+  "acceso a playa",
+  "sin vallado",
+  "media distancia",
+  "renfe",
+  "adif",
+  "linea 200",
+  "vilanova i la geltru",
+  "cunit",
+  "fallecido",
+  "memoria estatica"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-060507-190707-DGF"
+}

@@ -1,0 +1,118 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en plena vía entre Agres y Cocentaina, línea Xátiva-Alcoy, en Alicante",
+ "idioma_original": "es",
+ "resumen": "El 29 de octubre de 2006, el tren de Media Distancia 4416 de Renfe arrolló a una persona en el punto kilométrico 54,100 de la línea Xátiva-Alcoy, entre Agres y Cocentaina. La víctima, un varón de 59 años, invadió la vía para retirar a un perro cuando el tren salía de una curva. El hombre falleció en el acto y no se produjeron daños materiales. La circulación quedó interrumpida 82 minutos y se acumuló un retraso de 286 minutos en cuatro trenes de Media Distancia.",
+ "hechos": "El tren de Media Distancia nº 4416, de Renfe, compuesto por tres vehículos, con masa remolcada de 137 toneladas y motor 592.013, se detuvo a las 18:20 en el pk 54,100 de la línea Xátiva-Alcoy, a la salida de una curva, tras arrollar a una persona que falleció en el acto.\n\nLa víctima vestía indumentaria de cazador e invadió la vía para retirar a un perro; al hacerlo, el tren la golpeó y el cadáver quedó fuera de la caja de la vía. Según el informe del maquinista, vio primero un perro en la caja de la vía, hizo uso del silbato y después observó a una persona que entraba por la derecha para sacarlo, accionó el freno de emergencia y volvió a usar el silbato; la persona y el perro salieron, pero el perro regresó y la persona volvió a entrar, llegando a tenerlo en brazos, sin tiempo para salir.\n\nLa víctima era un varón de 59 años. No se produjeron daños materiales y el maquinista arrojó resultado negativo en la prueba de alcoholemia.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "54,100",
+  "linea": "Xátiva-Alcoy",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Plena vía, a la salida de una curva y a 15 metros de un tramo metálico, no autorizado como paso; entorno rural del término municipal de Muro de Alcoy, al final del camino Racó de Roca, con viviendas aisladas, zona frecuentada por cazadores y densa vegetación."
+ },
+ "cronologia": [
+  {
+   "hora": "18:20",
+   "evento": "El tren 4416 detuvo su marcha en el pk 54,100 tras arrollar a una persona."
+  },
+  {
+   "hora": "18:30",
+   "evento": "Hora de ocurrencia indicada en el informe."
+  },
+  {
+   "hora": "18:40",
+   "evento": "Se personaron agentes de la Guardia Civil."
+  },
+  {
+   "hora": "18:45",
+   "evento": "Se personaron agentes de la Policía Local y ambulancia."
+  },
+  {
+   "hora": "19:25",
+   "evento": "Se autorizó al tren 4416 a reanudar la marcha."
+  },
+  {
+   "hora": "21:45",
+   "evento": "Prueba de alcoholemia al maquinista en Valencia; resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "21:55",
+   "evento": "El forense autorizó el levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4416",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 4416",
+   "implicacion": "Informó del suceso al Puesto de Mando, usó silbato y freno de emergencia; prueba de alcoholemia negativa y condiciones aptas."
+  },
+  {
+   "rol": "víctima / persona arrollada",
+   "implicacion": "Varón de 59 años, con indumentaria de cazador, invadió la vía para retirar a un perro y falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía única, sin electrificar, con bloqueo telefónico",
+  "velocidad_maxima": "70 km/h en el trayecto Cocentaina-Agres",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Tramo recto de 50 metros a la salida de una curva, con densa vegetación en ambos márgenes y escasa visibilidad; lugar no autorizado de paso",
+  "otro": "Bloqueo telefónico; entorno rural, camino Racó de Roca, zona frecuentada por cazadores"
+ },
+ "material_rodante": {
+  "series": "Motor 592.013; tren compuesto por tres vehículos, masa remolcada 137 toneladas",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima, que invadió la vía para retirar a un perro ante la proximidad del tren.",
+  "contribuyentes": [
+   "Falta de vallado que impida u obstaculice el acceso a la vía.",
+   "Escasa visibilidad por tratarse de un tramo recto de 50 metros a la salida de una curva.",
+   "Densa vegetación en ambos márgenes de la línea.",
+   "Zona rural con viviendas aisladas y frecuentada por cazadores.",
+   "Presencia de un perro en la caja de la vía."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Circulación interrumpida 82 minutos; retraso acumulado de 286 minutos en cuatro trenes de Media Distancia."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Fomentar campañas de concienciación destinadas a la población sobre el peligro que supone el tránsito indebido y por lugares no autorizados dentro de las líneas de ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "imprudencia",
+  "cazador",
+  "perro",
+  "invasión de vía",
+  "línea xátiva-alcoy",
+  "vía única",
+  "bloqueo telefónico",
+  "escasa visibilidad",
+  "falta de vallado",
+  "perturbación del tráfico"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-291006-020307"
+}

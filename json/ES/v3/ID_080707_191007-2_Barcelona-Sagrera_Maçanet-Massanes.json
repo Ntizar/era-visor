@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren de Cercanías en Arenys de Mar",
+ "idioma_original": "es",
+ "resumen": "El 8 de julio de 2007, el tren de Cercanías 25669 de Renfe arrolló a una persona en el punto kilométrico 37/325 de la línea Barcelona-Sagrera a Maçanet-Massanes, en Arenys de Mar (Barcelona). La víctima falleció y el cadáver interceptó la vía 1, provocando la detención del tren y perturbaciones en el servicio. La investigación atribuyó el accidente a la imprudencia de la persona, que cruzó por una zona no autorizada y sin vallado con paso vicioso hacia la playa. Se recomendó vallar el tramo, intensificar cerramientos y campañas de sensibilización.",
+ "hechos": "El 8 de julio de 2007, a las 08:41, el tren de Cercanías 25669 de Renfe, formado por las UT 447031 y 447092, circulaba por vía 1 de la línea Barcelona-Sagrera a Maçanet-Massanes, procedente de L'Hospitalet y con destino Blanes. Al aproximarse a la estación de Arenys de Mar, una persona apareció súbitamente por el lado izquierdo desde una zona de cañas y cruzó corriendo la vía, siendo arrollada en el punto kilométrico 37/325. El maquinista hizo uso de la bocina y del freno de emergencia, sin poder evitar el arrollamiento; el cadáver quedó interceptando la vía 1 y el tren detuvo su marcha. Según el análisis de la memoria estática, la velocidad en el momento del accionamiento del freno de emergencia era de 76 km/h, siendo la velocidad máxima en el tramo de 120 km/h.\n\nEl maquinista comunicó el accidente al Puesto de Mando, que cursó aviso a Seguridad Corporativa y Protección Civil de ADIF, Gerencia Territorial de Seguridad en la Circulación Noreste del ADIF, Gerencia Territorial de Seguridad en la Circulación Noreste de RENFE Operadora, operadores afectados, Jefatura Técnica de Operaciones de Barcelona y servicios de emergencia. Se realizó prueba de alcoholemia al maquinista en Barcelona, con resultado negativo de 0,00 mg/1000 ml. A las 09:27 se transbordaron los pasajeros del tren 25669 al tren 25671, y a las 10:03 el tren 25669 quedó apartado en la estación de Arenys de Mar.\n\nLa circulación por ambas vías se suspendió a las 09:34 y a las 09:50 se autorizó la circulación con marcha a la vista entre los puntos kilométricos 37/250 y 37/400. A las 10:22 se procedió al levantamiento del cadáver y a las 10:40 la vía quedó libre para la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Arenys de Mar",
+  "pk": "37/325",
+  "linea": "Barcelona-Sagrera a Maçanet-Massanes",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía, una vez rebasada la señal de entrada de la estación de Arenys de Mar; tramo sin vallar con paso vicioso muy utilizado de acceso a la playa, en recta, sin trincheras y con buena visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "08:41",
+   "evento": "Arrollamiento de una persona en el pk 37/325; el tren 25669 detiene su marcha."
+  },
+  {
+   "hora": "09:27",
+   "evento": "Transbordo de los pasajeros del tren 25669 al tren 25671."
+  },
+  {
+   "hora": "09:34",
+   "evento": "Se suspende la circulación por ambas vías."
+  },
+  {
+   "hora": "09:50",
+   "evento": "Se autoriza la circulación con marcha a la vista entre los pk 37/250 y 37/400."
+  },
+  {
+   "hora": "10:03",
+   "evento": "El tren 25669 queda apartado en la estación de Arenys de Mar."
+  },
+  {
+   "hora": "10:22",
+   "evento": "Levantamiento del cadáver."
+  },
+  {
+   "hora": "10:40",
+   "evento": "La vía queda libre para la circulación en condiciones normales; fin de la incidencia de 119 minutos."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25669",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños."
+  },
+  {
+   "numero": "25671",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren",
+   "implicacion": "Matrícula 8846305. Jornada efectiva previa 1 hora y 6 minutos; 24 horas anteriores 3 horas y 40 minutos; 48 horas anteriores 5 horas y 40 minutos. Comunicó el accidente, accionó la bocina y el freno de emergencia. Prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+  },
+  {
+   "rol": "persona arrollada",
+   "implicacion": "Víctima fallecida; cruzó la vía por una zona no autorizada y su cadáver quedó interceptando la vía 1."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con CTC; una vez rebasada la señal de entrada de la estación de Arenys de Mar.",
+  "tipo_via": "Plena vía; vía 1; tramo en recta, sin trincheras, con buena visibilidad.",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo sin vallar; paso vicioso muy utilizado de acceso a la playa.",
+  "otro": "Durante la intervención se autorizó marcha a la vista entre los pk 37/250 y 37/400."
+ },
+ "material_rodante": {
+  "series": "UT 447031 y 447092",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Día; condiciones meteorológicas buenas.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía 1 por la persona que cruzó la vía por una zona no autorizada, siendo arrollada por el tren de Cercanías 25669.",
+  "contribuyentes": [
+   "Tramo sin vallado que impidiera el paso a las vías.",
+   "Paso vicioso muy utilizado de acceso a la playa.",
+   "Zona de cañas desde la cual el maquinista no tenía visibilidad."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Incidencia de 119 minutos (08:41-10:40); supresión del tren 25669; supresión de 6 trenes de Cercanías; 557 minutos de retraso acumulado en otros 22 trenes de Cercanías; suspensión de circulación por ambas vías de 09:34 a 09:50 y marcha a la vista entre pk 37/250 y 37/400 hasta 10:40."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Proceder al vallado de dicho tramo, impidiendo el paso a la playa por esa zona.",
+   "destinatario": null
+  },
+  {
+   "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "destinatario": null
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "cercanías",
+  "arenys de mar",
+  "barcelona",
+  "paso vicioso",
+  "sin vallado",
+  "acceso a playa",
+  "imprudencia",
+  "freno de emergencia",
+  "adif",
+  "renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes"
+}

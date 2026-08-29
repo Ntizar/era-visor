@@ -1,0 +1,122 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 18160 en la estación de El Rebollar por accionamiento indebido de aguja",
+ "idioma_original": "es",
+ "resumen": "El 28 de agosto de 2009, el tren de media distancia 18160 de Renfe Operadora descarriló parcialmente en la estación de El Rebollar (Valencia). La causa fue el accionamiento prematuro de la aguja nº 2 por parte de la jefa de circulación mientras el último coche aún ocupaba el desvío. No hubo víctimas ni daños materiales significativos, aunque se produjo una interrupción del servicio durante varias horas.",
+ "hechos": "El tren 18160, procedente de Villaverde Bajo con destino Valencia Nord, entró en la estación de El Rebollar para realizar un cruce con el tren estacionado 14501. Al efectuar la entrada desde la vía general a la vía desviada a través de la aguja nº 2, la responsable de circulación, que prestaba su primer día de servicio en dicha estación, accionó la palanca para poner la aguja a normal cuando todavía quedaban bogies del último coche sobre ella. Esto provocó el descarrilamiento del segundo eje del penúltimo bogie y del último bogie del tren. El maquinista aplicó el freno de emergencia inmediatamente tras notar los tirones y escuchar la alerta por radio, deteniendo el tren sin consecuencias personales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "El Rebollar",
+  "pk": "22+600",
+  "linea": "310 Aranjuez/Valencia- Estación del Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Estación situada en el tramo Utiel-Buñol, municipio de Requena. Vía única sin electrificar con bloqueo telefónico."
+ },
+ "cronologia": [
+  {
+   "hora": "13:31:28",
+   "evento": "El tren pasa por anuncio de velocidad limitada a 30 km/h a 109 km/h e inicia reducción."
+  },
+  {
+   "hora": "13:32:42",
+   "evento": "El tren entra en trayecto de velocidad permanentemente limitada a 30 km/h a 29 km/h."
+  },
+  {
+   "hora": "13:33:01",
+   "evento": "El tren pasa por la aguja nº 2 a 26 km/h."
+  },
+  {
+   "hora": "13:33:11",
+   "evento": "Se produce el descarrilamiento al accionar la aguja con el tren encima."
+  },
+  {
+   "hora": "13:33:20",
+   "evento": "Aplicación del freno de emergencia."
+  },
+  {
+   "hora": "13:33:21",
+   "evento": "Tren detenido completamente."
+  },
+  {
+   "hora": "18:50",
+   "evento": "Fin de la interceptación total; se restablece circulación con limitación de velocidad."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18160",
+   "tipo": "Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento parcial del último coche (segundo eje del penúltimo bogie y último bogie). Sin daños importantes."
+  },
+  {
+   "numero": "14501",
+   "tipo": "Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefa de circulación",
+   "implicacion": "Accionó indebidamente la aguja nº 2 con el tren encima. Primer día de servicio en la estación."
+  },
+  {
+   "rol": "Maquinista",
+   "implicacion": "Conducción correcta, respetó límites de velocidad y actuó correctamente aplicando el freno de emergencia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo telefónico. Señales de avanzada E'2 y entrada E2.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "30 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Correcto antes del accidente",
+  "otro": "Enclavamiento por cerradura Bouré con accionamiento de agujas a distancia sin efecto pedal."
+ },
+ "material_rodante": {
+  "series": "Motores 95922075 y 95922083",
+  "averia": null,
+  "mantenimiento": "Equipo de freno funcionó correctamente según registrador."
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Accionamiento indebido de la aguja nº 2 por la responsable de circulación encontrándose el tren sobre ella.",
+  "contribuyentes": [
+   "Falta de experiencia específica de la jefa de circulación (primer día en la estación).",
+   "Diseño del enclavamiento Bouré que permite maniobrar agujas sin comprobación automática de liberación (sin efecto pedal).",
+   "Percepción visual errónea de la liberación del cambio por parte de la operaria."
+  ],
+  "sistemicas": [
+   "Deficiencias en la formación práctica sobre itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños importantes en material rodante ni infraestructura.",
+  "afectacion_servicio": "Interceptación de ambas vías de 13:33 a 18:50. Supresión de trenes 18160 y 14501. Retrasos menores en otros trenes."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "aguja",
+  "cerradura boure",
+  "error humano",
+  "formacion",
+  "valencia",
+  "media distancia",
+  "bloqueo telefonico",
+  "via unica",
+  "accidente ferroviario"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-280809-230210-CIAF"
+}

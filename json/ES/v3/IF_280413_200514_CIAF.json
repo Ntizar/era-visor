@@ -1,0 +1,139 @@
+{
+ "titulo_normalizado": "Colisión por alcance del tren 7601 entre los apeaderos de Otero y La Mata de la Riba (León)",
+ "idioma_original": "es",
+ "resumen": "El 28 de abril de 2013, el tren de viajeros 7601 de Renfe Operadora sufrió una colisión por alcance entre sus dos automotores (2901 y 2905) en la línea 790 de ancho métrico. Tras una parada de urgencia, el maquinista intentó aislar y remolcar el automotor averiado 2901, pero no realizó correctamente las operaciones. El automotor 2901 quedó desacoplado y sin frenos, iniciando una deriva por una pendiente del 20 ‰ que terminó en colisión contra el automotor 2905. El suceso dejó 7 heridos leves y la interrupción de la circulación durante varias horas.",
+ "hechos": "El tren de viajeros 7601, compuesto por los automotores 2905 y 2901, circulaba con fallos eléctricos en la unidad de cola (2901). Tras varias paradas de urgencia, el tren quedó detenido en el PK 25+504. El maquinista, asesorado por el jefe de maquinistas, debía aislar eléctricamente el automotor 2901 para remolcarlo con freno, pero no realizó correctamente la secuencia de operaciones.\n\nEl automotor 2901 quedó desacoplado y sin control de freno, iniciando un movimiento en deriva debido a la fuerte pendiente del 20 ‰ de la infraestructura. El automotor 2905 reinició la marcha y se detuvo en el PK 26+700 al activarse el freno de urgencia por el dispositivo de hombre muerto. Segundos después, el automotor 2901 en deriva colisionó por alcance contra el 2905.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "26+700",
+  "linea": "790 (La Asunción Universidad a Aranguren)",
+  "provincia": "León",
+  "descripcion_lugar": "Vía única sin electrificar, entre los apeaderos de Otero y La Mata de la Riba, municipio de Vegaquemada, en curva derecha de radio 200 metros y pendiente del 20 ‰."
+ },
+ "cronologia": [
+  {
+   "hora": "09:16",
+   "evento": "Parada en la estación de La Vecilla."
+  },
+  {
+   "hora": "09:23",
+   "evento": "Salida de La Vecilla con 7 minutos de retraso."
+  },
+  {
+   "hora": "09:23",
+   "evento": "Frenada de urgencia por ASFA tras la salida."
+  },
+  {
+   "hora": "09:31",
+   "evento": "Parada de urgencia tras la salida del apeadero de Otero."
+  },
+  {
+   "hora": "09:33",
+   "evento": "Reanuda la marcha."
+  },
+  {
+   "hora": "09:34",
+   "evento": "Nueva parada de urgencia, quedando detenido en el PK 25+504."
+  },
+  {
+   "hora": "09:56",
+   "evento": "El tren reanuda marcha solo con el automotor 2905 (2901 desacoplado)."
+  },
+  {
+   "hora": "09:58",
+   "evento": "Frenado de emergencia del automotor 2905 por hombre muerto a 51 km/h."
+  },
+  {
+   "hora": "09:58",
+   "evento": "Colisión por alcance del automotor 2901 contra el 2905 en el PK 26+700."
+  },
+  {
+   "hora": "10:51",
+   "evento": "Adif comunica a la CIAF la producción del suceso."
+  },
+  {
+   "hora": "13:03",
+   "evento": "Prueba de alcoholemia al maquinista con resultado negativo."
+  },
+  {
+   "hora": "15:10",
+   "evento": "Remolque del automotor 2905."
+  },
+  {
+   "hora": "16:55",
+   "evento": "Remolque del automotor 2901 y restablecimiento de la circulación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "7601",
+   "tipo": "Viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "Daños de importante consideración en los testeros que colisionaron y en el interior de las unidades."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "No realizó correctamente la secuencia de operaciones para remolcar con freno el automotor 2901, omitió la prueba de freno parcial y no observó si el tren circulaba completo."
+  },
+  {
+   "rol": "Jefe de maquinistas",
+   "implicacion": "Asesoró telefónicamente al maquinista sobre el modo de proceder y los dispositivos a operar."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "70 km/h (limitación permanente a 60 km/h en la zona)",
+  "ancho": "Ancho métrico",
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Funcionó correctamente",
+  "otro": "Bloqueo telefónico. Pendiente del 20 ‰ y curva a la derecha de radio 200 m."
+ },
+ "material_rodante": {
+  "series": "UTDH serie 2900 (2905 y 2901)",
+  "averia": "El automotor 2901 presentaba fallos eléctricos (caídas de tensión) y paro del motor diésel, provocando frenadas de urgencia.",
+  "mantenimiento": "Historial de cumplimiento del Plan de Mantenimiento (R3: 2011-08-25, R2: 2012-08-08, R4: 2013-01-28, R1: 2013-03-01)."
+ },
+ "clima": "Nevando",
+ "causas": {
+  "directa": "Fallo humano del maquinista que no realizó correctamente la secuencia de operaciones para remolcar con freno el automotor 2901.",
+  "contribuyentes": [
+   "No realizó la prueba de freno parcial.",
+   "No observar el tren durante la marcha en plena vía para verificar si circulaba completo.",
+   "Declividad de la zona (20 ‰) que favoreció la deriva.",
+   "Fallos eléctricos previos en el automotor 2901."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 7,
+  "danos_materiales": "Daños de importante consideración en los testeros y en el interior de las unidades (sin valoración económica). Sin daños en infraestructura.",
+  "afectacion_servicio": "Vía interceptada entre las 09:58 y las 16:55. Plan alternativo por carretera entre La Vecilla y Guardo. 7 trenes de cercanías y 1 de media distancia suprimidos; retrasos en otros 5 trenes."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "colision por alcance",
+  "ancho metrico",
+  "feve",
+  "renfe operadora",
+  "deriva",
+  "fallo humano",
+  "nevando",
+  "via unica",
+  "bloqueo telefonico",
+  "utdh serie 2900"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_280413_200514_CIAF"
+}

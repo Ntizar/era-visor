@@ -1,0 +1,175 @@
+{
+ "titulo_normalizado": "Conato de colisión en la estación de Boñar por rebase del límite de maniobras de la UT 2903",
+ "idioma_original": "es",
+ "resumen": "El 18 de julio de 2016, en la estación de Boñar, la maniobra UT 2903 rebasó el límite de maniobras tras alcanzar 46 km/h en una prueba de motor, superando el máximo de 10 km/h para maniobras. La unidad quedó detenida e inmovilizada en plena vía por fallo del freno de urgencia, ocupando el cantón con bloqueo telefónico para el tren 71490. El tren de cercanías 71490 observó la UT 2903 y frenó, quedando enfrentados a unos 370 metros. No hubo víctimas ni daños materiales, aunque la vía estuvo interceptada y se produjeron retrasos.",
+ "hechos": "Sobre las 07:40 horas del 18 de julio de 2016, el jefe de maquinistas de la UT 2903 solicitó al jefe de circulación de Boñar una maniobra de vía 2 a vía 1 por el lado de La Losilla para realizar una prueba de motor, pues la unidad llevaba averiada desde el día anterior por rotura del manguito del turbo. Sobre las 07:50 horas se concertó bloqueo telefónico entre Cistierna y Boñar para la circulación del tren de cercanías 71490, con origen Guardo y destino Asunción Universidad. La maniobra se inició sobre las 08:01 horas, con una breve detención para comprobaciones y reanudación a las 08:05 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Boñar",
+  "pk": "30+184",
+  "linea": "790 La Asunción Universidad-Aranguren (RAM)",
+  "provincia": "León",
+  "descripcion_lugar": "Estación de Boñar, tramo Boñar-Cistierna, límite de maniobras por la señal de entrada E2 en el lado de La Losilla; la UT 2903 quedó detenida en el PK 30+691 y el tren 71490 en el PK 31+063."
+ },
+ "cronologia": [
+  {
+   "hora": "07:40",
+   "evento": "El jefe de maquinistas de la UT 2903 solicita al jefe de circulación de Boñar una maniobra de vía 2 a vía 1 por el lado de La Losilla para probar el motor."
+  },
+  {
+   "hora": "07:50",
+   "evento": "Se concierta el bloqueo telefónico entre Cistierna y Boñar para la circulación del tren 71490."
+  },
+  {
+   "hora": "08:01",
+   "evento": "La UT 2903 inicia la maniobra desde la vía 2 en el PK 30+205."
+  },
+  {
+   "hora": "08:01",
+   "evento": "La UT 2903 se detiene en el PK 30+226 para comprobaciones del jefe de maquinistas."
+  },
+  {
+   "hora": "08:05",
+   "evento": "La UT 2903 reanuda la marcha."
+  },
+  {
+   "hora": "08:06",
+   "evento": "La UT 2903 pasa por la aguja m4 a 21 km/h y por la aguja A2 a 20 km/h, incrementando el motor hasta 46 km/h."
+  },
+  {
+   "hora": "08:06",
+   "evento": "El jefe de maquinistas aplica el freno de urgencia en el PK 30+567 a 46 km/h para intentar detenerse antes del límite de maniobras."
+  },
+  {
+   "hora": "08:06",
+   "evento": "La UT 2903 sobrepasa la señal E2 en el PK 30+642 a 33 km/h y queda detenida en el PK 30+691, 49 metros tras el límite, inmovilizada por avería de la seta de urgencia."
+  },
+  {
+   "hora": "08:10",
+   "evento": "El CGO de Santander comunica al puesto de mando de Bilbao que la UT 2903 está en plena vía e interrumpe la circulación."
+  },
+  {
+   "hora": "08:11",
+   "evento": "El puesto de mando de Bilbao ordena intentar detener el tren 71490 en La Losilla."
+  },
+  {
+   "hora": "08:12",
+   "evento": "El jefe de circulación de Boñar intenta comunicar con el maquinista del tren 71490 sin éxito."
+  },
+  {
+   "hora": "08:15",
+   "evento": "El puesto de mando de Bilbao contacta con el maquinista del tren 71490, que ya había observado la UT 2903 y estaba frenando."
+  },
+  {
+   "hora": "08:17",
+   "evento": "El jefe de maquinistas de la UT 2903 informa al puesto de mando de Bilbao de la interceptación de vía."
+  },
+  {
+   "hora": "08:25",
+   "evento": "El tren 71490 reinicia la marcha desde el apeadero de La Losilla."
+  },
+  {
+   "hora": "08:26",
+   "evento": "El maquinista del tren 71490 observa la UT 2903 en la vía y aplica el freno de servicio a 62 km/h."
+  },
+  {
+   "hora": "08:28",
+   "evento": "El tren 71490 se detiene en plena vía a unos 370 metros de la UT 2903."
+  },
+  {
+   "hora": "08:45",
+   "evento": "El jefe de circulación de Boñar comunica que la UT 2903 había sido apartada dentro de piquetes."
+  },
+  {
+   "hora": "08:57",
+   "evento": "El puesto de mando de Bilbao autoriza reanudar la marcha al tren 71490 y se restablece la circulación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "UT 2903",
+   "tipo": "maniobra de automotor diésel, serie 2900",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños materiales; quedó inmovilizada por avería en la tubería de freno de la seta de urgencia."
+  },
+  {
+   "numero": "71490",
+   "tipo": "tren de cercanías, serie 2600, tipo 80, velocidad máxima 80 km/h según libro horario",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños materiales; detenido por el maquinista para evitar colisión."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe de maquinistas de la UT 2903",
+   "implicacion": "Provocó el rebase del límite de maniobras por falta de atención y velocidad excesiva en la maniobra; aplicó tardíamente el freno de urgencia y avisó primero al CGO de Santander en lugar del puesto de mando de Bilbao."
+  },
+  {
+   "rol": "Maquinista del tren 71490",
+   "implicacion": "Detectó la UT 2903 en la vía y detuvo el tren por iniciativa propia, evitando la colisión."
+  },
+  {
+   "rol": "Jefe de circulación de Boñar",
+   "implicacion": "Autorizó la maniobra por la banda de La Losilla sabiendo que se establecería bloqueo telefónico para el tren 71490 y conociendo al menos parcialmente condiciones indebidas de la maniobra; su habilitación fue suspendida temporalmente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa, ASFA, enclavamiento eléctrico parcial, señales de entrada y avanzada, circuitos de vía en vías 1, 2 y de agujas hasta señales de entrada; sin registrador de eventos en la instalación.",
+  "tipo_via": "Vía única no electrificada, ancho métrico, traviesas de madera, carril UIC 54 en barra corta y balasto calizo.",
+  "velocidad_maxima": "70 km/h en el trayecto; limitación permanente de 50 km/h entre PP.KK 28+190 y 30+437; límite de maniobras 10 km/h.",
+  "ancho": "Métrico",
+  "electrificacion": "No electrificada",
+  "estado_via": "Las instalaciones técnicas e infraestructuras funcionaron correctamente.",
+  "otro": "Estación con vía principal 1 y vías auxiliares 2, 3 y 4; vía 4 dada de baja, vía 3 sin circuito de vía y terminada en topera; paso a nivel clase C enclavado en el lado Aranguren; curva de 300 m de radio y recta de unos 3 km hacia Aranguren; pendiente de 7,6 milésimas a la salida hacia Aranguren."
+ },
+ "material_rodante": {
+  "series": "UT 2903: serie 2900 diésel, NEV 957135290030. Tren 71490: serie 2600 diésel, UT 2612 y UT 2611, NEV 957135260124 y 957135260116.",
+  "averia": "UT 2903: avería previa por rotura del manguito del turbo; tras aplicar la seta de urgencia falló el manguito de la tubería de admisión del cuerpo de la seta, inmovilizando el vehículo. Tren 71490: la emisora del coche motor 2612 recibía pero no emitía en ningún canal.",
+  "mantenimiento": "UT 2903: últimas intervenciones en base de Cistierna: IB1 25.02.16, IB2 06.04.16, IB1 12.05.16, IM1 14.06.16; tras el incidente IB1 19.07.16. Tren 71490: intervenciones R1 23.05.16, R2 16.06.16, DI 20.06.16 y 29.06.16 en base de Cistierna."
+ },
+ "clima": "Era de día y había buena visibilidad; condiciones atmosféricas buenas.",
+ "causas": {
+  "directa": "Fallo humano del jefe de maquinistas de la UT 2903 por falta de atención durante la prueba de motor, aplicación tardía del freno y velocidad de 46 km/h en maniobra, muy superior al límite de 10 km/h, lo que produjo el rebase del límite de maniobras y la ocupación del cantón con bloqueo telefónico para el tren 71490.",
+  "contribuyentes": [
+   "El jefe de circulación de Boñar autorizó la maniobra por la banda de La Losilla sabiendo que se iba a establecer bloqueo telefónico entre Cistierna y Boñar para el tren 71490 y conociendo al menos parcialmente que la maniobra implicaba superar los 10 km/h.",
+   "El jefe de maquinistas no contactó de forma inmediata con el puesto de mando de Bilbao, informando antes al CGO de Santander, lo que retrasó una actuación que posiblemente habría evitado el conato de colisión.",
+   "La avería inoportuna del frenado de urgencia de la UT 2903 al aplicar la seta de urgencia, que provocó la inmovilización total del vehículo en plena vía.",
+   "La emisora del tren 71490 no emitía por ningún canal, dificultando la comunicación inmediata con el puesto de mando y con las estaciones."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Vía interceptada entre las 08:23 y las 08:45 horas; retrasos de 32 minutos en el tren 71490 y de 30, 29 y 38 minutos en otros tres trenes de cercanías, totalizando 129 minutos; se suprimió parcialmente un tren regional que prosiguió como tren especial."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "36/16-1: En los cursos de formación y reciclaje a maquinistas, insistir en la necesidad de cumplir con las limitaciones de velocidad establecidas para la realización de maniobras en estaciones.",
+   "destinatario": "AESF (implementador final: Renfe Operadora)"
+  },
+  {
+   "texto": "36/16-2: En los cursos de formación y reciclaje de jefes de circulación, insistir en la necesidad de conocer con precisión las maniobras a realizar por el material móvil a su cargo y no permitir aquellas que puedan provocar situaciones no seguras.",
+   "destinatario": "AESF (implementador final: Adif)"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "estación de boñar",
+  "rebase de límite de maniobras",
+  "velocidad excesiva en maniobra",
+  "bloqueo telefónico",
+  "ancho métrico",
+  "renfe viajeros",
+  "adif",
+  "seta de urgencia",
+  "fallo humano",
+  "formación",
+  "emisora averiada"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 18.07.2016 171017-160718-IF-CIAF"
+}

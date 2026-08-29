@@ -1,0 +1,72 @@
+{
+ "titulo_normalizado": "Accidente ferroviario en paso a nivel de Infiesto (Asturias), línea Oviedo-Santander",
+ "idioma_original": "es",
+ "resumen": "La resolución de la CIAF trata del accidente ferroviario nº 0028/2009, ocurrido el 22 de junio de 2009 en el paso a nivel de la estación de Infiesto (Asturias). El suceso tuvo lugar en la línea 21 Oviedo-Santander. El Pleno de la Comisión aprobó el 22 de diciembre de 2009 el informe particular del técnico investigador. La resolución indica expresamente que no se establecen recomendaciones.",
+ "hechos": "El 22 de junio de 2009 se produjo un accidente ferroviario en el paso a nivel de la estación de Infiesto (Asturias), en la línea 21 Oviedo-Santander. La Comisión de Investigación de Accidentes Ferroviarios analizó el expediente nº 0028/2009 en su Pleno del 22 de diciembre de 2009 y aprobó como definitivo el informe particular presentado por el técnico investigador.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Infiesto",
+  "pk": null,
+  "linea": "21 Oviedo - Santander",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Paso a nivel de la estación de Infiesto (Asturias)"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-06-22: Accidente ferroviario nº 0028/2009 en el paso a nivel de la estación de Infiesto (Asturias), línea 21 Oviedo-Santander."
+  },
+  {
+   "hora": null,
+   "evento": "2009-12-22: El Pleno de la CIAF aprueba como definitivo el informe particular del técnico investigador y dicta la resolución RS-220609-221209-CIAF, sin recomendaciones."
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "técnico investigador",
+   "implicacion": "Presentó el informe particular analizado por la CIAF"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso a nivel en la estación de Infiesto, línea 21 Oviedo-Santander"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "accidente ferroviario",
+  "paso a nivel",
+  "infiesto",
+  "asturias",
+  "línea oviedo-santander",
+  "ciaf",
+  "resolución",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-220609-221209-CIAF"
+}

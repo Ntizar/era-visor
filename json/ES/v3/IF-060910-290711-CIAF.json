@@ -1,0 +1,174 @@
+{
+ "titulo_normalizado": "Arrollamiento de un camión dumper en paso a nivel provisional por obras entre Aldea del Cano y Aljucén (Badajoz)",
+ "idioma_original": "es",
+ "resumen": "El 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015 de Renfe Operadora arrolló a un camión dumper que invadió el gálibo en un paso a nivel provisional por obras situado en el PK 24+420 de la línea 510 Aljucén-Cáceres. El impacto provocó el descarrilamiento total de los tres coches del tren y el volcado del coche intermedio. Fallecieron una pasajera y el conductor del camión, mientras que el maquinista y otro pasajero resultaron heridos graves. La causa directa fue la invasión del gálibo por el camión al cruzar el paso sin que estuvieran echadas las cadenas.",
+ "hechos": "El día 6 de septiembre de 2010, el tren de viajeros 17015, procedente de Madrid-Atocha y con destino Mérida, circulaba con 14 minutos de retraso entre Aldea del Cano y Aljucén (Badajoz). Al aproximarse al paso a nivel provisional por obras del PK 24+420, el maquinista advirtió que un camión dumper, empleado en movimientos de tierras de las obras de la línea de alta velocidad Madrid-Extremadura-Frontera Portuguesa, invadía el gálibo de la vía. El maquinista realizó varios silbidos de atención y frenado de urgencia, pero no pudo evitar la colisión.\n\nTras el impacto, el camión quedó montado de su eje delantero entre el segundo y tercer coche del tren, a unos 15 metros del paso y girado 30 grados hacia la izquierda. Los tres coches del tren resultaron descarrilados, quedando el coche central volcado hacia el lado izquierdo y el último sobre el eje del paso. De los doce viajeros del tren, una pasajera de 19 años falleció, y el maquinista y otro pasajero menor de edad resultaron heridos graves. El conductor del camión dumper, único ocupante del vehículo, también falleció.\n\nLa investigación constató que el paso a nivel provisional debía estar permanentemente cerrado con cadenas aseguradas con candado, pero en el momento del accidente las cadenas no estaban echadas. El piloto de seguridad se encontraba a unos 15-20 metros del paso, de espaldas, atendiendo la colocación de una caseta de obra, y no vio la llegada del camión ni pudo realizar señales de parada.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "24+420",
+  "linea": "510 Aljucén - Cáceres",
+  "provincia": "Badajoz",
+  "descripcion_lugar": "Paso a nivel provisional por obras en el término municipal de Carmonita, entre las estaciones de Aldea del Cano y Aljucén, al final de una recta de 900 metros con pendiente de 12 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "08:00",
+   "evento": "Inicio del turno de día de los conductores de camiones dumper en la obra."
+  },
+  {
+   "hora": "09:55",
+   "evento": "El piloto de seguridad solicita autorización para abrir el paso a nivel provisional."
+  },
+  {
+   "hora": "09:57",
+   "evento": "El piloto llama a la estación de Aldea del Cano."
+  },
+  {
+   "hora": "09:58",
+   "evento": "El piloto llama a la estación de Aljucén."
+  },
+  {
+   "hora": "10:00",
+   "evento": "Se establece bloqueo por ocupación especial para trabajos entre Aljucén y Aldea del Cano hasta las 11:50."
+  },
+  {
+   "hora": "11:50",
+   "evento": "Finaliza el intervalo programado; la vía queda libre y se restablece la circulación normal."
+  },
+  {
+   "hora": "11:53",
+   "evento": "El piloto llama a Aldea del Cano para comunicar el cierre del paso."
+  },
+  {
+   "hora": "12:15",
+   "evento": "Se pide vía para el tren 17015 en la estación de Aldea del Cano."
+  },
+  {
+   "hora": "12:20",
+   "evento": "El tren 17015 pasa por la estación de Aldea del Cano."
+  },
+  {
+   "hora": "12:35",
+   "evento": "El tren 17015 arrolla al camión dumper en el paso a nivel provisional; se produce el descarrilamiento."
+  },
+  {
+   "hora": "14:05",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17015",
+   "tipo": "Tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento total de los tres coches; coche intermedio volcado; daños materiales estimados en 3.790.241,20 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 17015",
+   "implicacion": "Resultó herido grave; realizó silbidos de atención y frenado de urgencia sin poder evitar la colisión."
+  },
+  {
+   "rol": "Interventor del tren 17015",
+   "implicacion": "Comunicó el suceso al puesto de mando auxiliar de Manzanares."
+  },
+  {
+   "rol": "Jefe de circulación de Aldea del Cano",
+   "implicacion": "Recibió la petición del piloto y autorizó la apertura del paso hasta las 11:50; no se le realizaron pruebas de alcohol y drogas."
+  },
+  {
+   "rol": "Jefe de circulación de Aljucén",
+   "implicacion": "Recibió una llamada del piloto, pero no le solicitó autorización de apertura; no se le realizaron pruebas de alcohol y drogas."
+  },
+  {
+   "rol": "Piloto de seguridad del paso provisional",
+   "implicacion": "No conocía la consigna reguladora; dejó las cadenas sin asegurar con candado; se encontraba de espaldas al paso en el momento del accidente; no se le realizaron pruebas de alcohol y drogas."
+  },
+  {
+   "rol": "Conductor del camión dumper",
+   "implicacion": "Falleció; cruzó el paso a nivel invadiendo el gálibo cuando pasaba el tren."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de silbar, cartelones, candelabros, cadenas y candados a ambos lados del paso; señales de STOP en ambos sentidos.",
+  "tipo_via": "Vía única no electrificada con bloqueo telefónico (BT), sin ASFA ni tren-tierra.",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Funcionó correctamente; tramo recto con pendiente de 12 milésimas.",
+  "otro": "Paso a nivel provisional por obras autorizado por resolución de la DGIF y regulado por la Consigna ATO 24/CTO 37; tráfico regulado por los jefes de circulación de Aldea del Cano y Aljucén bajo supervisión del puesto de mando auxiliar de Manzanares."
+ },
+ "material_rodante": {
+  "series": "Automotor 598.017-2; tren tipo 160 A; número UIC 907175980172; 3 vehículos, 12 ejes, 76 metros y 167 toneladas.",
+  "averia": "El registrador de seguridad quedó bajo custodia de la policía judicial y no se pudieron acceder a sus datos.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y el tiempo estaba despejado.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del camión dumper, que cruzó el paso a nivel cuando pasaba el tren 17015, sin encontrarse echadas las cadenas del paso.",
+  "contribuyentes": [
+   "El piloto de seguridad desconocía la Consigna ATO 24/CTO 37 que regulaba el funcionamiento del paso.",
+   "Las cadenas del paso estaban puestas pero sin asegurar con candado, o no estaban echadas según las declaraciones de los camioneros.",
+   "El piloto se encontraba de espaldas al paso y no vio la llegada del camión ni pudo realizar señales de parada.",
+   "El paso superior en construcción impedía ver la llegada del tren desde el punto de giro del camión.",
+   "El camión dumper iba cargado en rampa y, al detectar el tren a unos 10 metros del paso, no pudo frenar a tiempo.",
+   "La polvareda y la distancia reducían la visibilidad y la audibilidad de los silbatos del tren.",
+   "Las comunicaciones entre pilotos y jefes de circulación no quedaron registradas por ningún medio técnico.",
+   "No se realizaron pruebas de alcohol y drogas a todos los implicados."
+  ],
+  "sistemicas": [
+   "Falta de un análisis de riesgos del paso provisional por obras en la solicitud de autorización a la DGIF.",
+   "La autorización del paso no recogía medidas de protección y regulación ajustadas a las características de la obra y de la línea.",
+   "Ausencia de medios técnicos para grabar las conversaciones entre responsables de circulación y pilotos de seguridad.",
+   "Los planes de seguridad no incluían visitas sistemáticas a los pasos provisionales por obras para verificar la correcta aplicación de la consigna."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": 2,
+  "heridos_leves": null,
+  "danos_materiales": "Infraestructura: 35.235,70 €. Material rodante: 3.790.241,20 €. Camión dumper: totalmente destrozado.",
+  "afectacion_servicio": "Vía general totalmente interceptada desde las 12:35 del 6 de septiembre hasta las 09:30 del día siguiente; restablecida con limitación de 30 km/h entre PP.KK. 24+400 y 24+500. Dos trenes de viajeros suprimidos y otros cuatro sufrieron un retraso total de 43 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras, adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias - DGIF"
+  },
+  {
+   "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras por parte del personal de seguridad para verificar la correcta aplicación de la consigna correspondiente.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "paso a nivel provisional",
+  "obras alta velocidad",
+  "camión dumper",
+  "invasión gálibo",
+  "descarrilamiento",
+  "piloto de seguridad",
+  "consigna",
+  "adif",
+  "renfe operadora",
+  "carmonita",
+  "badajoz",
+  "víctimas mortales"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-060910-290711-CIAF"
+}

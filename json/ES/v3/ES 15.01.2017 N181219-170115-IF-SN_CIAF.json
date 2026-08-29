@@ -1,0 +1,190 @@
+{
+ "titulo_normalizado": "Incidente por exceso de velocidad al entrar por vía desviada en la estación de Arahal (Sevilla) del tren 13903 de Media Distancia",
+ "idioma_original": "es",
+ "resumen": "El 15 de enero de 2017, el tren de viajeros de Media Distancia 13903 de RENFE VIAJEROS, procedente de Málaga con destino Sevilla Santa Justa, entró por vía desviada en la estación de Arahal a 116 km/h, muy por encima de los 50 km/h permitidos en desvío. El maquinista percibió incorrectamente la señal avanzada E'1 como vía libre cuando mostraba anuncio de precaución, y no reaccionó ante la señal de entrada E1 en anuncio de parada. No hubo daños materiales en infraestructura ni material rodante, pero seis viajeros sufrieron contusiones leves. El puesto de mando había ordenado detener el tren para entregarle un BOI por un paso a nivel desprotegido. La CIAF atribuyó el incidente a fallo humano del maquinista, con la inexistencia de sistema de protección de tren como factor coadyuvante.",
+ "hechos": "El incidente se produjo el 15 de enero de 2017 a las 12:42 horas en la estación de Arahal (pk 27+019, línea 422 Bifurcación de Utrera a Fuente de Piedra, Sevilla). El puesto de mando de Sevilla ordenó al responsable de circulación de Arahal detener el tren 13903 para entregarle un BOI por un paso a nivel desprotegido en el pk 5+023 entre El Sorbito y Bifurcación de Utrera. El responsable de circulación dispuso el enclavamiento a vía desviada (itinerario 5.1.7, entrada lado Fuente de Piedra a vía 2), por lo que la señal avanzada E'1 mostraba anuncio de precaución y la señal de entrada E1 anuncio de parada. El tren, que había salido de Marchena con 7 minutos de retraso, pasó por la baliza SPN del paso a nivel a 118 km/h y mantuvo velocidad prácticamente constante sin reacción ante las señales. El maquinista declaró ver la señal E'1 en vía libre, pero la investigación verificó que mostraba anuncio de precaución. El tren pasó por la aguja A1 orientada a desviada a 116 km/h (máximo 50 km/h), produciendo un fuerte desplazamiento lateral que provocó contusiones leves a seis viajeros. El maquinista aplicó el freno de emergencia y el tren se detuvo 30 m antes de la señal S1, siendo posteriormente retrocedido al andén de vía 2.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Arahal",
+  "pk": "27+019",
+  "linea": "422 Bifurcación de Utrera a Fuente de Piedra",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Estación de Arahal, lado Fuente de Piedra, en la aguja A1 de entrada por vía desviada (vía 2). Municipio El Arahal, Comunidad Autónoma Andalucía. Entre las estaciones de Marchena y El Sorbito."
+ },
+ "cronologia": [
+  {
+   "hora": "11:45",
+   "evento": "El 112 informa al CPS sobre la avería en el paso a nivel del pk 5+023"
+  },
+  {
+   "hora": "11:50",
+   "evento": "La Guardia Civil de Utrera comunica la avería del paso a nivel del pk 5+023"
+  },
+  {
+   "hora": "11:50:54",
+   "evento": "El CPS de ADIF comunica al puesto de mando de Sevilla la avería en el paso a nivel del pk 5+023"
+  },
+  {
+   "hora": "11:56",
+   "evento": "El puesto de mando de Sevilla ordena a Arahal detener el tren 13903 y notificar desprotección del paso a nivel del pk 5+023"
+  },
+  {
+   "hora": "12:33:04",
+   "evento": "El tren 13903 llega a la estación de Marchena"
+  },
+  {
+   "hora": "12:35:13",
+   "evento": "El tren 13903 sale de Marchena con 7 minutos de retraso; se le entrega BOI de limitación de velocidad en Dos Hermanas"
+  },
+  {
+   "hora": "12:41:46",
+   "evento": "El tren pasa por la baliza SPN del paso a nivel pk 27+877 a 118 km/h"
+  },
+  {
+   "hora": "12:42:10",
+   "evento": "El tren pasa por la señal avanzada E'1 (pk 28+389) en anuncio de precaución a 116 km/h"
+  },
+  {
+   "hora": "12:42:41",
+   "evento": "El tren pasa por la señal de entrada E1 (pk 27+435) en anuncio de parada a 114 km/h"
+  },
+  {
+   "hora": "12:42:46",
+   "evento": "El tren pasa por la aguja A1 (pk 27+270) orientada a vía desviada a 116 km/h (máximo 50 km/h); fuerte desplazamiento lateral"
+  },
+  {
+   "hora": "12:42:47",
+   "evento": "Corte de tracción y activación del freno de emergencia a 116 km/h"
+  },
+  {
+   "hora": "12:42:54",
+   "evento": "El tren pasa frente al edificio de viajeros a 87 km/h"
+  },
+  {
+   "hora": "12:43:16",
+   "evento": "El tren queda detenido en vía general, 30 m antes de la baliza de la señal S1"
+  },
+  {
+   "hora": "12:45",
+   "evento": "El maquinista contacta con el responsable de circulación de Arahal; este informa al puesto de mando"
+  },
+  {
+   "hora": "12:47:12",
+   "evento": "El tren inicia retroceso hacia la estación"
+  },
+  {
+   "hora": "12:47:55",
+   "evento": "El tren queda estacionado en vía 2 a la altura del edificio de viajeros tras recorrer 183 m"
+  },
+  {
+   "hora": "13:13:55",
+   "evento": "El tren reanuda la marcha"
+  },
+  {
+   "hora": "13:14:42",
+   "evento": "El tren pasa por la baliza de la señal de salida S1 (pk 26+756) a 22 km/h"
+  },
+  {
+   "hora": "14:00",
+   "evento": "Control de alcoholemia y drogas al maquinista en Sevilla Santa Justa: resultado negativo"
+  },
+  {
+   "hora": "15:00",
+   "evento": "Revisión de la aguja A1 por personal de infraestructura de ADIF: sin anomalías"
+  },
+  {
+   "hora": "16:00",
+   "evento": "Verificación del enclavamiento mecánico de Arahal por Mantenimiento de Infraestructura: funcionamiento correcto"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13903",
+   "tipo": "Media Distancia (viajeros)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Sin daños en material rodante"
+  },
+  {
+   "numero": null,
+   "tipo": "Media Distancia (viajeros)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Sin daños; 7 minutos de retraso"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 13903 (matrícula 681****)",
+   "implicacion": "Fallo humano: percibió incorrectamente la señal avanzada E'1 como vía libre cuando mostraba anuncio de precaución; no reaccionó ante la señal E1 en anuncio de parada; entró a desviada a 116 km/h en vez de 50 km/h; no aplicó freno al percibir la señal E1 por estar pendiente del paso a nivel y del responsable de circulación"
+  },
+  {
+   "rol": "Responsable de circulación de la estación de Arahal (matrícula 283****)",
+   "implicacion": "Dispuso correctamente el enclavamiento a vía desviada según Consigna AO nº 862; no se comunicó con el maquinista antes del incidente; tras el suceso ordenó por radiotelefonía el retroceso del tren"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales mecánicas fijas fundamentales. Señal avanzada E'1 (pk 28+389) y señal de entrada E1 (pk 27+435) lado Fuente de Piedra. Enclavamiento parcial por cerraduras Bouré con cerradura central en gabinete de circulación. Baliza ASFA solo en pasos a nivel automáticos (pk 27+877). Sin sistema de protección de tren en el tramo.",
+  "tipo_via": "Vía única, sin electrificar. Carriles UIC sobre traviesas bibloque en banqueta de balasto; traviesas de madera en la estación. Perfil longitudinal horizontal, trazado en planta recto.",
+  "velocidad_maxima": "140 km/h (trayecto); 120 km/h (limitación temporal pk 27+700 a 30+500 por estado de infraestructura); 50 km/h (vía desviada en aguja A1); 30 km/h (ordenada por anuncio de precaución en señal avanzada)",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Sin anomalías observadas en la aguja A1 ni en las señales tras la revisión. Bloqueo telefónico (BT) con señales mecánicas en el tramo Arahal-Fuente de Piedra; Bloqueo Automático (BA) con CTC en el tramo Bifurcación Utrera-Arahal.",
+  "otro": "Estación con 4 vías (vía 1 general 346 m, vía 2 secundaria 339 m, vía 3 secundaria 440 m, vía 4 de servicio con topera). Desvíos tipo DS-B2-54-320-0.09-CR (50 km/h en desviada). 3 pasos a nivel: B2 (pk 26+743, clase C), B1 (pk 27+282, clase C), y automático (pk 27+877, clase B con baliza SPN). Radiotelefonía tren-tierra modalidad C canal 6. No había obras en ejecución."
+ },
+ "material_rodante": {
+  "series": "Automotor 599.038, tipo 160A, 3 vehículos, 76 m de longitud, 172 Tm, velocidad máxima 160 km/h",
+  "averia": "Ninguna. El material rodante y los equipos de seguridad a bordo (JRU tipo CESIS 4G) funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Horas diurnas sin condiciones meteorológicas adversas. No se constatan anomalías en visibilidad, conservación y limpieza de las señales.",
+ "causas": {
+  "directa": "Fallo humano del maquinista: incorrecta percepción de la señal avanzada E'1 (declaró vía libre cuando mostraba anuncio de precaución), entrada por vía desviada a velocidad muy superior a la permitida (116 km/h vs 50 km/h), incumplimiento del artículo 211 del RGC (anuncio de precaución) y del artículo 213 del RGC (anuncio de parada).",
+  "contribuyentes": [
+   "Inexistencia de sistema de protección del tren (ASFA digital) en el tramo Arahal-Fuente de Piedra de la línea 422 que mitigue errores del factor humano",
+   "El maquinista estaba pendiente del paso a nivel y del responsable de circulación para la orden de paso, lo que le impidió reaccionar ante la señal E1",
+   "Intento fallido del maquinista de comunicar su aproximación por radiotelefonía (consigna CO 891) sin obtener respuesta del responsable de circulación",
+   "Enclavamiento mecánico parcial por cerraduras Bouré con accionamiento manual a 20 m del gabinete, que impide modificar el itinerario una vez el tren ha rebasado la señal avanzada"
+  ],
+  "sistemicas": [
+   "Ninguna causa raíz relacionada con el marco normativo o el sistema de gestión de la seguridad identificada por la CIAF"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 6,
+  "danos_materiales": "Sin daños en material rodante ni en infraestructura",
+  "afectacion_servicio": "Retraso de 35 minutos para el tren 13903 y 7 minutos para otro tren de Media Distancia. Total: 42 minutos de retrasos acumulados. No se interrumpió la circulación por vía general."
+ },
+ "lecciones": [
+  "La incorrecta percepción de señales mecánicas puede provocar excesos de velocidad graves en entradas por vía desviada",
+  "La ausencia de sistemas de protección de tren (ASFA) en tramos con bloqueo telefónico y señalización mecánica incrementa el riesgo asociado al factor humano",
+  "Los enclavamientos parciales Bouré con accionamiento manual impiden reacciones rápidas ante errores de percepción del maquinista",
+  "Existe un precedente de incidente similar (Tocón-Montefrío, 23.05.2012, línea 426) con idénticas circunstancias: incorrecta apreciación de señal avanzada y paso por aguja a desviada con velocidad excesiva"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Agilizar la tramitación del Proyecto 'B.L.A.U. con C.T.C. y sistema de protección ASFA digital en el tramo Arahal – Fuente de Piedra', en la actualidad en fase de supervisión, a fin de que con la ejecución de las obras correspondientes se proceda a la supresión del bloqueo telefónico actual sustituyéndolo por un BLAU telemandado desde el CTC de Sevilla.",
+   "destinatario": "AESF (Agencia Estatal de Seguridad Ferroviaria) / Implementador final: ADIF"
+  },
+  {
+   "texto": "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, adecuando el contenido práctico para la habilitación de infraestructura a lo relativo a circulación por éste y por otros tramos que tengan características similares (señalización mecánica sin sistema de protección del tren).",
+   "destinatario": "AESF (Agencia Estatal de Seguridad Ferroviaria) / Implementador final: RENFE VIAJEROS"
+  }
+ ],
+ "tags": [
+  "exceso de velocidad",
+  "fallo humano",
+  "percepción incorrecta de señal",
+  "vía desviada",
+  "señalización mecánica",
+  "enclavamiento bouré",
+  "bloqueo telefónico",
+  "sin sistema de protección de tren",
+  "asfa",
+  "media distancia",
+  "línea 422",
+  "arahal"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 15.01.2017 N181219-170115-IF-SN_CIAF"
+}

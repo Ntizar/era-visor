@@ -1,0 +1,106 @@
+{
+ "titulo_normalizado": "Descarrilamiento en plena vía entre Ozanes y Soto Dueñas por exceso de velocidad en curva",
+ "idioma_original": "es",
+ "resumen": "El 2009-02-23, a las 12:30, el tren de viajeros 6500 de Feve descarriló en plena vía en el PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, al tomar una curva limitada a 40 km/h. La investigación concluye que el accidente se originó porque el maquinista entró en la curva a una velocidad superior a la permitida, alcanzando 77,56 km/h según el registrador. No hubo fallecidos y resultaron 14 heridos, 3 de ellos graves. La circulación se interrumpió hasta las 17:35 y se normalizó a las 22:55.",
+ "hechos": "El tren de viajeros 6500 de Feve, procedente de Santander y con destino Oviedo, acababa de salir del apeadero de Ozanes cuando apareció una alarma de presostato de mínima en la pantalla de conducción. Según el maquinista, la pantalla tenía falta de nitidez y reflejo solar, lo que dificultó reconocer y acusar la alarma y lo distrajo momentáneamente de la conducción. En ese instante debía reducir la velocidad para entrar en una curva pronunciada con limitación permanente a 40 km/h, pero no lo hizo a tiempo y el tren entró en la curva a mayor velocidad de la permitida, produciéndose el descarrilamiento.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Soto Dueñas",
+  "pk": "378,130",
+  "linea": "21 Oviedo Santander",
+  "provincia": "Asturias",
+  "descripcion_lugar": "PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, tramo Arriondas-Soto Dueñas, curva del Taragañu, vía paralela a la carretera nacional N-634 por su margen derecha, sentido de la marcha, y al río Piloña por la margen izquierda."
+ },
+ "cronologia": [
+  {
+   "hora": "12:30",
+   "evento": "Descarrilamiento del tren 6500 de Feve en el PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas."
+  },
+  {
+   "hora": "17:35",
+   "evento": "Se restablece la circulación con limitación de velocidad a 20 km/h entre los PK 378,000 y 378,300."
+  },
+  {
+   "hora": "22:55",
+   "evento": "Se restaura la circulación normal en el tramo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6500",
+   "tipo": "Tren de viajeros/cercanías",
+   "operador": "Feve",
+   "danos": "Daños considerables en las dos unidades de tren diésel eléctrico 2479 y 2429."
+  },
+  {
+   "numero": "5954",
+   "tipo": "Tren de cercanía",
+   "operador": "Feve",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 6500",
+   "implicacion": "Nº CF 9667. Conducía el tren; según la investigación, no redujo la velocidad a tiempo para la curva limitada a 40 km/h. Declaró distracción por una alarma de presostato de mínima y reflejo solar en la pantalla. Prueba de alcohol negativa 0,00 mg/1000 ml. Último reciclaje formativo 2008-01-30 y último reconocimiento médico y psicotécnico 2008-10-24. Jornadas: 2009-02-21, 7 horas y 29 minutos; 2009-02-22, 6 horas; 2009-02-23, 6 horas y 10 minutos."
+  },
+  {
+   "rol": "Agente comercial del tren",
+   "implicacion": "Herido grave. Escuchó el ruido en el bogie comentado por el maquinista poco antes del apeadero de Ozanes."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo telefónico; limitación permanente de velocidad a 40 km/h en la curva; radiotelefonía analógica.",
+  "tipo_via": "Vía única.",
+  "velocidad_maxima": "80 km/h en el tramo; 60 km/h en los seis kilómetros anteriores a la curva; 40 km/h en la curva del PK 378,130.",
+  "ancho": null,
+  "electrificacion": "No electrificada.",
+  "estado_via": "Curva hacia la izquierda, radio de 120 metros; tras el accidente, cinco traviesas de hormigón rotas y varias desplazadas.",
+  "otro": "Precedente similar: el 2007-07-11 un tren de mercancías descarriló cerca del apeadero de Pesués, en la línea 21 Oviedo-Santander."
+ },
+ "material_rodante": {
+  "series": "Serie 2400: UTDE 2479 en cabeza y UTDE 2429 en cola.",
+  "averia": "Alarma de presostato de mínima reconocida en pantalla táctil; ruido en bogie comentado por el maquinista; comprobaciones indican que el funcionamiento antes del suceso se ajustaba a la Norma Básica de Seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "Día, tiempo soleado; reflejo solar sobre la pantalla de conducción.",
+ "causas": {
+  "directa": "El tren entró en la curva limitada a 40 km/h a una velocidad superior a la permitida; el registrador indica 77,56 km/h en el momento del accidente.",
+  "contribuyentes": [
+   "Distracción del maquinista por la alarma de presostato de mínima y la dificultad para visualizar la pantalla debido al reflejo solar",
+   "No reducción de la velocidad a tiempo antes de la curva",
+   "Demora en el reconocimiento y acusación de la alarma"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 3,
+  "heridos_leves": 11,
+  "danos_materiales": "Daños considerables en las dos unidades de tren diésel eléctrico; cinco traviesas de hormigón rotas y varias desplazadas; 60 metros de valla protectora de carretera de tipo doble bionda destrozada.",
+  "afectacion_servicio": "Circulación interrumpida entre las 12:30 y las 17:35; restablecida con limitación de 20 km/h entre PK 378,000 y 378,300 hasta las 22:55; suprimido el tren 5954; 2 trenes de corta distancia con retraso total de 23 minutos y 1 tren de media distancia con 24 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "feve",
+  "exceso de velocidad",
+  "curva",
+  "distracción",
+  "alarma",
+  "reflejo solar",
+  "asturias",
+  "tren de viajeros",
+  "utde serie 2400",
+  "bloqueo telefónico",
+  "heridos"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-230209-140709-CIAF"
+}

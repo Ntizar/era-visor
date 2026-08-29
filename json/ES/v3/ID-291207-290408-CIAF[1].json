@@ -1,0 +1,118 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías en el apeadero de Abaroa-San Miguel (Vizcaya)",
+ "idioma_original": "es",
+ "resumen": "El 29 de diciembre de 2007, un tren de mercancías de Renfe Operadora arrolló a una persona en el apeadero de Abaroa-San Miguel, en la línea 700 Intermodal Abando Ind. Prieto-Casetas. La víctima, una mujer de 16 años, falleció como consecuencia del impacto. El tren circulaba a 61 km/h en un tramo con velocidad máxima de 70 km/h y el maquinista aplicó el freno de urgencia. Las investigaciones atribuyeron el accidente a la imprudencia de la víctima al cruzar por una zona no habilitada. No se produjeron daños materiales ni en el material motor ni en las instalaciones.",
+ "hechos": "El tren de mercancías número 50565, explotado por Renfe Operadora y compuesto por la locomotora 269266-3 y 19 vehículos con una masa remolcada de 831 toneladas, entró por la vía 1 del apeadero de Abaroa-San Miguel, situado en el punto kilométrico 241,860 de la línea 700 Intermodal Abando Ind. Prieto-Casetas. En ese momento, una persona cruzaba las vías desde el andén 2 hacia el andén 1, por el lado derecho en sentido de la marcha del tren, después de haberse bajado del tren de Cercanías 26712 en el andén 2. El arrollamiento produjo la muerte de una mujer de 16 años.\n\nEl maquinista principal del tren 50565 percibió la presencia de un grupo de jóvenes que cruzaban la vía y aplicó el freno de urgencia, pero no pudo evitar el arrollamiento. Tras la detención del tren, informó del suceso al Jefe del Centro de Tráfico Centralizado del Puesto de Mando de Bilbao y descendió de la locomotora para prestar auxilio. El cuerpo policial comprobó que la víctima se encontraba debajo del tren y los servicios sanitarios certificaron su fallecimiento.\n\nEl accidente se produjo en un entorno nocturno con buena visibilidad. El apeadero dispone de paso superior entre andenes equipado con ascensores, pero la víctima y sus acompañantes cruzaron por la vía. La locomotora circulaba con la intensidad del foco reducida conforme al Reglamento General de Circulación. El análisis de la memoria estática de la locomotora determinó que la velocidad en el momento del arrollamiento era de 61 km/h, inferior a los 70 km/h máximos asignados para trenes de tipo N en ese trayecto.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Apeadero de Abaroa-San Miguel",
+  "pk": "241,860",
+  "linea": "700 Intermodal Abando Ind. Prieto-Casetas",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Apeadero situado entre las estaciones de Arrigorriaga y Bidebieta, en el municipio de Bidebieta, en el trayecto Orduña-Bilbao. El tramo es de vía doble; el andén de la vía 1 está adyacente a la vía urbana y todo el entorno está vallado. La altura desde la cabeza de carril al plano del andén es de 72 cm. El tramo es recto con pendiente de 0,5 ‰, aunque el lugar del arrollamiento está en curva de radio 364 m. Dispone de paso superior entre andenes con ascensores y carece de paso entre andenes."
+ },
+ "cronologia": [
+  {
+   "hora": "22:42",
+   "evento": "Arrollamiento de una persona por el tren de mercancías 50565 a su entrada por la vía 1 del apeadero de Abaroa-San Miguel."
+  },
+  {
+   "hora": "23:33",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona fallecida."
+  },
+  {
+   "hora": null,
+   "evento": "El tren se detiene y el maquinista informa al Jefe del Centro de Tráfico Centralizado del Puesto de Mando de Bilbao; después baja de la locomotora para prestar auxilio."
+  },
+  {
+   "hora": "23:45",
+   "evento": "El Juez de Guardia y el Forense se personan en el lugar del accidente."
+  },
+  {
+   "hora": "23:55",
+   "evento": "Se autoriza la circulación por la vía 2 a paso de hombre."
+  },
+  {
+   "hora": "00:15",
+   "evento": "El juez y el médico forense ordenan la retirada del cadáver y se reanuda la marcha del tren de mercancías 50565."
+  },
+  {
+   "hora": "00:25",
+   "evento": "Finaliza la incidencia, con una duración total de 109 minutos."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "50565",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material motor."
+  },
+  {
+   "numero": "26712",
+   "tipo": "tren de Cercanías",
+   "operador": null,
+   "danos": "No se mencionan daños; la víctima se había bajado de este tren en el andén 2."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 50565",
+   "implicacion": "Matrícula 8869604. Aplicó el freno de urgencia al percibir a un grupo de jóvenes cruzando la vía, pero no pudo evitar el arrollamiento. Informó al CTC, descendió para prestar auxilio y su actuación tras el accidente fue considerada correcta. Prueba de alcoholemia negativa (0,00 mg/ml). Jornada laboral efectiva el día del accidente: 2 horas y 27 minutos, de ellas 1 hora y 32 minutos de conducción; jornada 24 horas anteriores: 6 horas y 36 minutos, de ellas 3 horas y 5 minutos de conducción; 48 horas anteriores: descanso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado.",
+  "tipo_via": "Vía doble.",
+  "velocidad_maxima": "70 km/h para trenes de tipo N.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo recto con pendiente de 0,5 ‰; el lugar del arrollamiento está en vía en curva de radio 364 m. Andén de la vía 1 adyacente a la vía urbana, entorno vallado y altura desde cabeza de carril al plano del andén de 72 cm. Apeadero dotado de paso superior entre andenes con ascensores y sin paso entre andenes.",
+  "otro": "El accidente ocurrió en el apeadero de Abaroa-San Miguel, entre las estaciones de Arrigorriaga y Bidebieta, en la Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269266-3.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Noche con buena visibilidad.",
+ "causas": {
+  "directa": "Cruce de la vía por la víctima en un lugar no autorizado, al paso del tren de mercancías 50565, sin comprobar previamente la proximidad de cualquier circulación.",
+  "contribuyentes": [
+   "La víctima cruzaba las vías desde el andén 2 hacia el andén 1, por el lado derecho en sentido de la marcha del tren, después de haberse bajado del tren de Cercanías 26712.",
+   "El grupo de jóvenes cruzó las vías por detrás de un tren de Cercanías que en ese momento salía del apeadero.",
+   "No se utilizó el paso superior entre andenes existente en el apeadero."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+  "afectacion_servicio": "Incidencia de 109 minutos, desde las 22:42 hasta las 00:25 horas. Se vieron afectadas 2 circulaciones de trenes de mercancías, incluido el implicado, con 203 minutos de retraso total, y 5 trenes de Cercanías con 110 minutos de retraso total. A las 23:55 se autorizó la circulación por la vía 2 a paso de hombre y a las 00:15 se reanudó la marcha del tren 50565 tras la retirada del cadáver."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Potenciar la señalización de advertencia, instando al uso de los pasos habilitados para el cruce de las vías, en todos los andenes de estaciones y apeaderos, sin perjuicio de que el viajero deba adoptar las precauciones necesarias al cruzar una vía de ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "apeadero",
+  "cruce de vías",
+  "imprudencia",
+  "tren de mercancías",
+  "bloqueo automático banalizado",
+  "control de tráfico centralizado",
+  "paso superior",
+  "señalización de advertencia",
+  "velocidad del tren",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-291207-290408-CIAF[1]"
+}

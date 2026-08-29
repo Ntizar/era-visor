@@ -1,0 +1,101 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías entre Rubí y San Cugat del Vallés (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 11 de noviembre de 2006, un varón de 62 años fue arrollado mortalmente por el tren de mercancías nº 42557 de Renfe en el punto kilométrico 10,450 de la Línea 246 Castellbisball-Mollet Sant Fost, entre Rubí y San Cugat del Vallés (Barcelona). La víctima salió súbitamente de unos cañaverales con una azada en la mano, invadiendo el gálibo de la vía para ajustar la herramienta en una traviesa, sin percatarse de la llegada del tren. El accidente fue calificado como grave y la investigación concluyó que el origen fue la invasión intempestiva del gálibo por parte de la víctima.",
+ "hechos": "El día 11 de noviembre de 2006, a las 17:23, en el punto kilométrico 10,450 de la Línea 246 Castellbisball-Mollet Sant Fost, entre las estaciones de Rubí y San Cugat del Vallés (Barcelona), una persona que se situó en las inmediaciones de la vía invadiendo su gálibo resultó arrollada por el tren de Mercancías nº 42557 de Renfe, compuesto por la locomotora 250032 y 21 vehículos con 458 toneladas remolcadas, procedente de Constanti con destino Portbou. La víctima, un varón de 62 años, salió de forma súbita desde los cañaverales situados en la margen derecha del sentido de la marcha, con un útil de labranza (azada) en la mano, y utilizó la cabeza de una traviesa para ajustar el palo en la pieza metálica de la misma, sin reaccionar a los silbatos que el maquinista emitió de forma continua desde la cabina de la locomotora, produciéndose el golpe. El tren circulaba a 97 km/h (velocidad máxima permitida: 100 km/h) y recorrió 580 metros desde la aplicación del freno de urgencia hasta su detención. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "10,450",
+  "linea": "Línea 246 Castellbisball-Mollet Sant Fost",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía, entre las estaciones de Rubí y San Cugat del Vallés, a la salida del túnel de Rubí. Zona rural sin cerramiento ni vallado, con cañaverales en la margen derecha del sentido de la marcha y caminos próximos que cruzan la vía formando pasos irregulares."
+ },
+ "cronologia": [
+  {
+   "hora": "17:23",
+   "evento": "Arrollamiento de la persona por el tren de mercancías nº 42557 en el PK 10,450."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista informa del suceso al Puesto de Mando, que cursa aviso a Seguridad Corporativa de ADIF y RENFE, operadores afectados, Logística, Jefatura Técnica de Operaciones de Barcelona, Gerencia de Seguridad en la Circulación de ADIF y RENFE y servicios de emergencia (061)."
+  },
+  {
+   "hora": null,
+   "evento": "Agentes de Adif se personan en el lugar: toma de datos, toma de declaración al maquinista y prueba de alcoholemia (resultado negativo: 0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "21:03",
+   "evento": "Se autoriza a reanudar la marcha al tren 42557 hasta Cerdanyola Universidad."
+  },
+  {
+   "hora": "21:30",
+   "evento": "Una vez retirado el cadáver, se reanuda la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "42557",
+   "tipo": "Mercancías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 42557",
+   "implicacion": "Conducía el tren a 97 km/h. Emitió silbatos continuos desde la cabina al observar a la persona salir súbitamente de los cañaverales. Aplicó el freno de urgencia. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Declaró casi inmediatamente tras el accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (CTC).",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Buen estado (no se mencionan defectos). Zona rural sin cerramiento ni vallado, con caminos próximos y pasos irregulares sobre la vía.",
+  "otro": "A la salida del túnel de Rubí. Trayecto Rubí–Cerdanyola Universidad. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": "Locomotora 250032 con 21 vehículos, 458 toneladas remolcadas",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión intempestiva del gálibo de la vía por parte de la víctima, que salió súbitamente de los cañaverales con una azada y utilizó una traviesa como yunque para ajustar la herramienta, sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "La línea discurría por zona rural sin cerramiento ni vallado perimetral.",
+   "Existían caminos próximos a la vía que la cruzaban formando pasos irregulares.",
+   "La víctima no reaccionó a los silbatos emitidos por el maquinista de forma continua."
+  ],
+  "sistemicas": [
+   "Ausencia de vallado en tramos rurales de la Red Ferroviaria de Interés General que permite el acceso libre de personas y animales a la vía."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "El tren 42557 quedó detenido 243 minutos en vía I, circulando los trenes en banalizado por vía II. Se produjeron 451 minutos de retrasos acumulados en 17 trenes (16 de cercanías y 1 de mercancías). Circulación normal a partir de las 21:30."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "invasión de gálibo",
+  "persona fallecida",
+  "tren de mercancías",
+  "renfe",
+  "adif",
+  "línea 246",
+  "rubí",
+  "san cugat del vallés",
+  "zona rural sin vallado",
+  "cañaverales",
+  "bloqueo automático banalizado"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-111106-130407"
+}

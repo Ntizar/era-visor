@@ -1,0 +1,81 @@
+{
+ "titulo_normalizado": "Resolución CIAF del accidente ferroviario 0022/2009 en la estación de El Caleyo (Asturias)",
+ "idioma_original": "es",
+ "resumen": "Resolución de la Comisión de Investigación de Accidentes Ferroviarios (CIAF) que aprueba como definitivo el informe particular del accidente nº 0022/2009 ocurrido el 17 de abril de 2009 en la estación de El Caleyo (Asturias), línea 130 Gijón Cercanías – Venta de Baños. En el Pleno del 22 de diciembre de 2009 se modifica haciéndola más concreta la recomendación del técnico investigador. La recomendación final va dirigida a Renfe-Operadora e insiste en la aplicación de medidas de gestión de seguridad, formación en el cumplimiento del Reglamento General de Circulación, influencia de procesos psicológicos en la conducción y verificación de aptitud del personal de conducción.",
+ "hechos": "El documento es exclusivamente una resolución administrativa de la CIAF que aprueba el informe final del accidente. No contiene la narrativa del suceso (descarrilamiento, colisión, etc.), sino únicamente la decisión del Pleno de modificar la recomendación del informe particular del técnico investigador y aprobarla como definitiva. El accidente tuvo lugar el 17 de abril de 2009 en la estación de El Caleyo, Asturias, en la línea 130.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "El Caleyo",
+  "pk": null,
+  "linea": "130 Gijón Cercanías – Venta de Baños",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Estación de El Caleyo, Asturias"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "17 de abril de 2009: ocurre el accidente ferroviario nº 0022/2009 en la estación de El Caleyo"
+  },
+  {
+   "hora": null,
+   "evento": "22 de diciembre de 2009: Pleno de la CIAF aprueba el informe definitivo con recomendación modificada"
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "personal de conducción",
+   "implicacion": "Mencionado en la recomendación: se insiste en la formación en el estricto cumplimiento del Reglamento General de Circulación, la influencia de procesos psicológicos en la conducción y la verificación de aptitud"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": null
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe-Operadora"
+  }
+ ],
+ "tags": [
+  "resolución ciaf",
+  "accidente 0022/2009",
+  "estación el caleyo",
+  "asturias",
+  "línea 130",
+  "gijón cercanías",
+  "venta de baños",
+  "reglamento general de circulación",
+  "personal de conducción",
+  "gestión de seguridad",
+  "renfe-operadora",
+  "aptitud del conductor"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-170409-221209-CIAF"
+}

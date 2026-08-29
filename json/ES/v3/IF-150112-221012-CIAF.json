@@ -1,0 +1,135 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías EB904 de Feve en la estación de Trubia (Asturias) por deficiencias geométricas de vía",
+ "idioma_original": "es",
+ "resumen": "El 15 de enero de 2012, a las 08:12, el tren especial de mercancías EB904 de Feve descarriló a la salida de la estación de Trubia (línea 12, San Esteban de Pravia–Collanzo, Asturias). El bogie trasero del vagón situado en sexto lugar de la composición se salió de la vía dos metros después del desvío A4, en el PK 298+108, a una velocidad de 30 km/h. No hubo víctimas personales. La causa fue un fallo técnico de la infraestructura: alineación y nivelación deficientes, baches y contaminación del balasto, detectados en la auscultación de noviembre de 2011 pero no corregidos. La vía quedó expedita a las 14:35, con dos trenes suprimidos.",
+ "hechos": "El día 15 de enero de 2012, a las 08:12 horas, el tren especial de mercancías EB904 de Feve, con origen Aboño y destino la central térmica de Soto de Ribera, formado por 2 locomotoras (1656 y 1657) y 16 vagones tolva (2TTag) cargados con carbón, circulaba en condiciones normales a la salida de la estación de Trubia, sentido Fuso, en la línea 12 San Esteban de Pravia–Collanzo (tramo 15 Fuso–Pravia). El tren pasó por el desvío A4 (PK 298+106) a una velocidad de 30 km/h, la máxima permitida en ese punto. Dos metros después del desvío, en el PK 298+108 y 11 metros antes del paso a nivel clase C «La Química» (PK 298+119), el bogie trasero del vagón que ocupaba el sexto lugar de la composición descarriló hacia el lado derecho según el sentido de la marcha (hilo alto), cayendo las ruedas derechas hacia el exterior de la vía.\n\nEl tren recorrió 90 metros desde el punto del descarrilamiento hasta su detención. El maquinista (CF 9328) informó al puesto de mando de lo ocurrido. No se produjeron daños personales. Como consecuencia del descarrilamiento se rompieron cinco traviesas de hormigón y tres de madera, se dañaron los circuitos de vía y el firme del paso a nivel quedó destrozado. Las operaciones para encarrilar el material finalizaron a las 13:45 horas y la vía quedó expedita en condiciones normales a las 14:35 horas, habiéndose interrumpido la circulación entre Trubia y Fuso durante todo ese periodo y suprimido dos trenes.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Trubia",
+  "pk": "298+108",
+  "linea": "12 San Esteban de Pravia - Collanzo",
+  "provincia": "Asturias",
+  "descripcion_lugar": "A la salida de la estación de Trubia, lado Collanzo, sentido Fuso. Dos metros después del desvío A4 (PK 298+106) y 11 metros antes del paso a nivel clase C «La Química» (PK 298+119). Curva a la izquierda con pendiente de 9 milésimas en sentido de la marcha. Tramo 15 Fuso–Pravia, municipio de Trubia."
+ },
+ "cronologia": [
+  {
+   "hora": "08:12",
+   "evento": "Descarrilamiento del bogie trasero del sexto vagón en PK 298+108, tras pasar el desvío A4. El tren recorre 90 m hasta detenerse."
+  },
+  {
+   "hora": "08:12",
+   "evento": "El maquinista informa al puesto de mando. Se activan protocolos de emergencia; aviso a Talleres e Infraestructuras."
+  },
+  {
+   "hora": "13:45",
+   "evento": "Finalizan las operaciones de encarrilamiento del material rodante."
+  },
+  {
+   "hora": "14:35",
+   "evento": "La vía queda expedita en condiciones normales de circulación. Interrupción total entre Trubia y Fuso durante 6 h 23 min."
+  },
+  {
+   "hora": null,
+   "evento": "16.01.2012: Declaración del maquinista en El Berrón (Asturias)."
+  },
+  {
+   "hora": null,
+   "evento": "31.01.2012: El Pleno de la CIAF acuerda abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "04.04.2012: Entrega del informe particular de Feve."
+  },
+  {
+   "hora": null,
+   "evento": "22.10.2012: Fecha del informe final (Madrid)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "EB904",
+   "tipo": "Tren especial de mercancías, tipo T60 (v. máx. 60 km/h), formado por 2 locomotoras (1656 y 1657) y 16 vagones tolva 2TTag cargados con carbón",
+   "operador": "Feve",
+   "danos": "Daños en la tolva descarrilada (vagón nº 173): valoración 3.736,21 €. Rotura de 5 traviesas de hormigón y 3 de madera, daños en circuitos de vía y firme del paso a nivel destrozado: valoración 94.759,29 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren EB904",
+   "implicacion": "CF 9328; 19 años y 10 meses de antigüedad. Habilitado conforme a la normativa de Feve. Último curso formativo 04/02/2011; último reconocimiento médico y psicotécnico 06/07/2011. Jornada del día 15: 3 h 27 min (3 h 10 min conducción efectiva). No se le realizó prueba de alcoholemia. Circulaba a velocidad adecuada (30 km/h). Informó al puesto de mando tras el descarrilamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (BAU). Radiotelefonía analógica y telefonía móvil GSM.",
+  "tipo_via": "Vía única electrificada. Traviesas de madera y hormigón. Carril de 54 kg/m. Curva a la izquierda, pendiente 9‰ en sentido de la marcha.",
+  "velocidad_maxima": "70 km/h en el tramo; 30 km/h al paso por el desvío A4",
+  "ancho": null,
+  "electrificacion": "Sí (vía electrificada)",
+  "estado_via": "Mal estado de la superestructura: baches considerables, falta de drenaje por contaminación del balasto con barro bajo las traviesas, deficiencias en alineación y nivelación, mal estado del carril, traviesas y sujeciones, acusada degradación del balasto. Auscultación del 24/11/2011 (2,5 meses antes) ya detectaba desalineación del desvío A4 y valores de peraltes y flechas fuera de tolerancia en los 36 m anteriores al punto cero.",
+  "otro": "Paso a nivel clase C «La Química» en PK 298+119. Desvío A4 (último desvío de salida de la estación, sentido Fuso) en PK 298+106. Tramo con escaso tráfico: 2 circulaciones/día en laborables (mercancías), ninguna en fines de semana/festivos."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 1656 y 1657; vagones tolva serie 2TTag (vagón descarrilado: nº 173)",
+  "averia": "No se detectó anomalía en el bandaje de ruedas ni en la suspensión en la última revisión. Tras el descarrilamiento, mediciones de cotas de suspensión: bogie descarrilado -1,3 mm (cota A) y -2 mm (cota B); bogie delantero -2,5 mm (cota A) y -4,5 mm (cota B). Parámetros de ruedas (altura y espesor de pestaña, diámetros, Qr, ancho de bandaje) correctos. Frenos sin anomalías. Registrador de eventos: velocidad 30 km/h, sin exceso ni anomalía en conducción.",
+  "mantenimiento": "Plan de mantenimiento vagones 2TT: ciclos de 36 meses; R1 cada 12 meses, R2 cada 36 meses (basado en tiempo, no en km). Última R1 del vagón descarrilado: 05/10/2011 (sin anomalías). Última R2: 11/02/2009 (sustitución de ambos bogies de la plataforma)."
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso.",
+ "causas": {
+  "directa": "Fallo técnico de la infraestructura: alineación y nivelación de vía deficientes, baches considerables y contaminación del balasto en la zona del descarrilamiento (PK 298+108, tras el desvío A4).",
+  "contribuyentes": [
+   "La última auscultación de vía (24/11/2011, 2,5 meses antes) ya detectó desalineación del desvío A4 y valores de peraltes y flechas fuera de tolerancia, pero no se realizaron labores de mantenimiento correctivas.",
+   "Deficiencias en el drenaje por contaminación del balasto con barro bajo las traviesas.",
+   "Mal estado general de la superestructura (carril, traviesas, sujeciones, degradación del balasto).",
+   "El plan de mantenimiento de vagones 2TT se basa en tiempo transcurrido y no en kilómetros recorridos, lo que puede no captar degradaciones reales.",
+   "Leves desviaciones en las cotas de suspensión del vagón descarrilado (aunque dentro de lo que el informe califica como defectos muy leves)."
+  ],
+  "sistemicas": [
+   "Falta de actuación inmediata sobre anomalías detectadas en auscultaciones de vía.",
+   "Posible insuficiencia de recursos o priorización de mantenimiento en tramos con escaso tráfico (2 circulaciones/día, solo mercancías).",
+   "Ausencia de prueba de alcoholemia al maquinista (aunque no se le atribuye implicación)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: rotura de 5 traviesas de hormigón y 3 de madera, daños en circuitos de vía, firme del paso a nivel destrozado. Valoración: 94.759,29 €. Material rodante: daños en la tolva descarrilada (vagón 173). Valoración: 3.736,21 €. Total: 98.495,50 €.",
+  "afectacion_servicio": "Interrupción total de la circulación entre Trubia y Fuso desde las 08:12 hasta las 14:35 (6 h 23 min). Dos trenes suprimidos."
+ },
+ "lecciones": [
+  "Las anomalías geométricas detectadas en auscultaciones de vía deben corregirse de forma inmediata, especialmente cuando son significativas y afectan a zonas de desvíos.",
+  "La degradación del balasto y la falta de drenaje pueden provocar deformaciones prematuras de la vía que derivan en descarrilamientos incluso a velocidades reducidas y con material rodante en correcto estado.",
+  "La periodicidad de la auscultación (2,5 meses) puede ser insuficiente si no va acompañada de una respuesta de mantenimiento ágil.",
+  "El mantenimiento de vagones basado exclusivamente en tiempo (no en km) puede no reflejar el desgaste real del material."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Restablecer en el tramo donde se ha producido el accidente los valores de los parámetros geométricos de vía acordes a los de la norma NFI Vía 001 para conseguir una circulación segura de los trenes.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Analizar la viabilidad de proceder al saneo y mejora de la superestructura de la vía en la zona del descarrilamiento, con el fin de evitar deformaciones prematuras.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Cuando se realicen labores de auscultación de vía y se detecten zonas con valores de parámetros fuera de tolerancia, siendo ésta significativa, actuar de una forma inmediata sobre dichas zonas del trazado realizando labores de mantenimiento.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "mercancias",
+  "carbón",
+  "feve",
+  "trubia",
+  "asturias",
+  "desvio",
+  "alineacion de via",
+  "nivelacion de via",
+  "balasto",
+  "auscultacion",
+  "mantenimiento de infraestructura"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-150112-221012-CIAF"
+}

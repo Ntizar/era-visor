@@ -1,0 +1,97 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de peatón en paso a nivel con barreras bajadas en la estación de Salou",
+ "idioma_original": "es",
+ "resumen": "El 20 de diciembre de 2008, el tren de mercancías 80454 de Renfe Operadora arrolló a un hombre que cruzaba un paso a nivel tipo C en la estación de Salou. Las barreras estaban bajadas y las señales acústicas y luminosas activas. El maquinista intentó frenar pero no pudo evitar el impacto. La investigación concluyó que la causa fue la conducta imprudente de la víctima al sortear las barreras.",
+ "hechos": "A las 05:21 horas del 20 de diciembre de 2008, el tren de mercancías 80454, operado por Renfe Operadora y circulando en sentido norte, se aproximaba al paso a nivel clase C situado en el P.K. 263,208 de la estación de Salou. Según la declaración del maquinista, poco antes de llegar hizo uso del silbato al observar a dos personas cruzando corriendo las vías desde la playa hacia la calle Guillerm de Claramunt, con intención de pasar antes de la llegada del tren. Aunque uno logró cruzar, el segundo (la víctima) no lo consiguió. El maquinista aplicó el freno de emergencia, pero el tren, que circulaba a 77 km/h, arrolló a la persona por el lado izquierdo. El accidente ocurrió mientras las semibarreras estaban bajadas durante más de cuatro minutos y las señales funcionaban correctamente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Salou",
+  "pk": "263,208",
+  "linea": "600 Valencia Nord - Sant Vicent de Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Paso a Nivel Clase C, tramo Cambrils-Salou, zona urbana, trazado recto y buena visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "05:21",
+   "evento": "Ocurre el arrollamiento de la persona por el tren 80454."
+  },
+  {
+   "hora": "05:30",
+   "evento": "Acuden al lugar la Policía local y los Mossos d'Esquadra."
+  },
+  {
+   "hora": "08:40",
+   "evento": "Se produce el levantamiento del cadáver y reanudación de la circulación normal."
+  },
+  {
+   "hora": "08:45",
+   "evento": "El tren implicado reanuda su marcha tras estar estacionado en vía 1."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "80454",
+   "tipo": "Mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal",
+   "implicacion": "Actuación correcta: usó silbato y freno de emergencia. Alcoholemia negativa. Habilitación vigente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento.",
+  "tipo_via": "Vía única electrificada (en el paso a nivel hay 4 vías)",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "Sí",
+  "estado_via": "Correcto",
+  "otro": "Bloqueo automático con control de tráfico centralizado. Pavimento tipo strail. Semibarreras solo en lado derecho (sentido ascendente)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 2692218 (Serie 269)",
+  "averia": "Ninguna",
+  "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador."
+ },
+ "clima": "Noche, tiempo bueno",
+ "causas": {
+  "directa": "La víctima cruza el paso a nivel sorteando las barreras bajadas cuando el tren pasaba.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente.",
+  "afectacion_servicio": "Retraso total de 18 min en 3 trenes media distancia y 25 min en 4 trenes larga distancia. Tren implicado retraso 204 min. Circulación a vista en vías 2 y 4 hasta las 08:40."
+ },
+ "lecciones": [
+  "Riesgo elevado de atropellos en pasos a nivel urbanos incluso con protección activa.",
+  "Historial previo de accidentes mortales similares en la misma estación (Salou)."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso a nivel",
+  "salou",
+  "renfe operadora",
+  "mercancias",
+  "barreras bajadas",
+  "conducta imprudente",
+  "ciaf",
+  "accidente mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-201208-210409-CIAF"
+}

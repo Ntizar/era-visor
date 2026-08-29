@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en paso a nivel clase C en Alfafar-Benetússer",
+ "idioma_original": "es",
+ "resumen": "El 2009-10-16, a las 11:19, el tren de cercanías 24228 de Renfe Operadora arrolló a una mujer de 78 años en el paso a nivel clase C del P.K. 107+996, en la estación de Alfafar-Benetússer (Valencia). La víctima cruzó por uno de los pasos peatonales con las semibarreras bajadas y la señalización luminosa y acústica activadas. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el atropello. No hubo daños materiales en tren ni infraestructura, y la vía estuvo interceptada entre 11:19 y 12:45.",
+ "hechos": "El tren de cercanías 24228, procedente de Gandía y con destino Valencia-Nord, salió de Alfafar-Benetússer y, al aproximarse al paso a nivel clase C situado en el P.K. 107+996 de la línea 300 Madrid (Chamartín)-Valencia (Nord), arrolló a una mujer de 78 años que cruzaba por la zona peatonal del paso a nivel. En ese momento el paso a nivel tenía las semibarreras bajadas y la señalización luminosa y acústica activada, indicando la proximidad del tren.\n\nLa víctima cruzaba de derecha a izquierda, en sentido de la marcha del tren, por el paso peatonal más cercano a la marcha, provisto de burladero, y quedó atrapada en la vía 2, debajo del tercer coche. En sentido contrario, por la vía 1, circulaba casi simultáneamente el tren de cercanías 24225. Según la moviola del enclavamiento, a las 11:17 el tren 24228 entraba en la estación por vía 2 con itinerario establecido para salir y paso a nivel cerrado; a las 11:19 se produjo el arrollamiento.\n\nEl registrador del vehículo motor indica que el maquinista accionó silbato y freno de emergencia cuando el tren circulaba a 65 km/h; la velocidad en el instante del arrollamiento se estimó en unos 51 km/h y el tren se detuvo en unos 85 metros. La vía quedó interceptada entre 11:19 y 12:45, realizándose las circulaciones por vía 1; los viajeros del tren 24228 fueron transbordados en plena vía al tren 24036 situado en paralelo.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Alfafar-Benetússer",
+  "pk": "107+996",
+  "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Paso a nivel clase C en la estación de Alfafar-Benetússer, a la salida hacia Valencia, en el centro de la población de Alfafar. Protege el cruce de la vía férrea con la carretera de Alfafar a Sedaví. Vía doble electrificada, trayecto recto y visibilidad buena."
+ },
+ "cronologia": [
+  {
+   "hora": "11:17",
+   "evento": "El tren 24228 entra en la estación de Alfafar-Benetússer por vía 2, con itinerario establecido para salir y paso a nivel cerrado."
+  },
+  {
+   "hora": "11:18",
+   "evento": "El tren 24228 ocupa circuitos de estacionamiento de vía 2; el tren 24225 ocupa circuito de señal de entrada vía 1; itinerarios establecidos y paso a nivel funcionando correctamente."
+  },
+  {
+   "hora": "11:19",
+   "evento": "Momento del arrollamiento: el tren 24228 pasa por el paso a nivel mientras el tren 24225 circula por vía 1 en sentido contrario; el paso a nivel funciona correctamente."
+  },
+  {
+   "hora": "11:47",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": "12:30",
+   "evento": "Se realiza al maquinista prueba de alcoholemia y drogas, con resultado negativo en ambas."
+  },
+  {
+   "hora": "12:45",
+   "evento": "Finaliza la interceptación de la vía entre Alfafar-Benetússer y Valencia; las circulaciones se realizan por vía 1."
+  },
+  {
+   "hora": null,
+   "evento": "El 2009-10-27 la Comisión de Investigación de accidentes ferroviarios resuelve abrir la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24228",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante"
+  },
+  {
+   "numero": "24225",
+   "tipo": "cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "24036",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 24228",
+   "implicacion": "Matrícula 8866964. Posee título B de conducción y está habilitado conforme a la Orden FOM/2520/2006. Último reciclaje formativo: 2007-01-31; último reconocimiento médico y psicotécnico: 2006-03-23. El día del accidente su jornada laboral fue de 7 horas y 14 minutos, con 4 horas y 24 minutos de conducción. Usó silbato y freno de emergencia a 65 km/h; prueba de alcoholemia y drogas a las 12:30 negativa; actuación correcta."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Semibarreras bajadas y señalización luminosa y acústica activada; funcionamiento correcto según registrador de eventos.",
+  "tipo_via": "Vía doble electrificada en estación; bloqueo automático en vía doble banalizada (B.A.B.) y control de tráfico centralizado en Valencia.",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Trayecto recto, visibilidad buena, sin limitación de velocidad ni restricción en el momento del accidente; pavimento del paso a nivel tipo 'strail' en buen estado.",
+  "otro": "Paso a nivel clase C enclavado en la estación de Alfafar-Benetússer; consta de paso carretero y dos pasos peatonales con burladeros; AxT 260.527 (A=1.392, T=187,16). Tráfico medio semanal del tramo Alfafar-Benetússer–Valencia Nord: 1.370 circulaciones (204 larga distancia, 88 media distancia, 1.069 cercanías, 0 mercancías, 9 servicio). Sistemas de comunicación: radiotelefonía A. Tras el suceso, el maquinista comunicó al puesto de mando de Valencia, desde donde se cursó aviso al 112, al CPS de Valencia de Adif, a los operadores afectados y a la gerencia territorial. Precedente: el 2007-09-27 un tren de larga distancia arrolló a una persona de avanzada edad en el mismo paso a nivel."
+ },
+ "material_rodante": {
+  "series": "Tipo 120A; automotor 465230; 5 vagones; 333 Tn de masa remolcada; Nº UIC 967194652244",
+  "averia": "No se produjeron daños; los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado.",
+ "causas": {
+  "directa": "La víctima cruzó el paso a nivel por la zona peatonal cuando circulaba el tren 24228, con semibarreras bajadas y señalización alertando de la llegada del tren.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+  "afectacion_servicio": "Vía interceptada entre 11:19 y 12:45 entre Alfafar-Benetússer y Valencia; circulaciones por vía 1; transbordo de viajeros del tren 24228 al tren 24036; 3 trenes de cercanías suprimidos; 18 trenes de cercanías retrasados 254 minutos en total; 2 trenes de larga distancia retrasados 57 minutos; tren implicado retrasado 53 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "peatón",
+  "semibarreras",
+  "alfafar-benetússer",
+  "valencia",
+  "línea 300",
+  "renfe operadora",
+  "cercanías",
+  "clase c",
+  "2009",
+  "burladero"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-161009-270410-CIAF"
+}

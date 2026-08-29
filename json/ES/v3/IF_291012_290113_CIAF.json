@@ -1,0 +1,110 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo de carretera en paso a nivel entre Miguelturra y Pozuelo de Calatrava (Ciudad Real)",
+ "idioma_original": "es",
+ "resumen": "El 29 de octubre de 2012, a las 09:52, el tren de media distancia 18081 de Renfe Operadora arrolló a un vehículo de carretera en el paso a nivel clase A del PK 257+758 de la línea 522, entre Miguelturra y Pozuelo de Calatrava (Ciudad Real). El conductor del vehículo resultó herido leve y el tren sufrió daños valorados en 15.698,61 €. La vía permaneció interceptada hasta las 11:35 y el tren acumuló 85 minutos de retraso. La investigación concluye que el origen fue la invasión del gálibo por el vehículo, y recomienda actualizar la IMD y adecuar el paso a nivel.",
+ "hechos": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de Renfe Operadora, con origen Ciudad Real y destino Alicante, circulaba con normalidad entre Miguelturra y Pozuelo de Calatrava, en la línea 522 Manzanares - Ciudad Real. Al aproximarse al paso a nivel clase A del PK 257+758, el maquinista observó un vehículo de carretera que se acercaba al cruce. El maquinista hizo uso prolongado del silbato y accionó el freno de emergencia a una velocidad de 47 km/h, según el registro de seguridad, aunque no pudo evitar el arrollamiento. El tren impactó en el lateral izquierdo del vehículo y quedó detenido tras recorrer 81 metros desde el punto de frenado. Como consecuencia, el conductor del vehículo resultó herido leve. La vía quedó interceptada desde las 09:52 hasta las 11:35 horas, momento en que se retiró el vehículo, y el tren implicado sufrió un retraso de 85 minutos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Entre Miguelturra y Pozuelo de Calatrava",
+  "pk": "257+758",
+  "linea": "522 Manzanares - Ciudad Real",
+  "provincia": "Ciudad Real",
+  "descripcion_lugar": "Paso a nivel clase A del Camino de Carrión, en el PK 257+758 de la línea 522, entre las estaciones de Miguelturra y Pozuelo de Calatrava, término municipal de Miguelturra, Ciudad Real."
+ },
+ "cronologia": [
+  {
+   "hora": "09:52",
+   "evento": "El tren 18081 arrolla al vehículo de carretera en el paso a nivel clase A del PK 257+758."
+  },
+  {
+   "hora": "09:52",
+   "evento": "El maquinista acciona el freno de emergencia y el silbato cuando el tren circulaba a 47 km/h."
+  },
+  {
+   "hora": "11:35",
+   "evento": "Se retira el vehículo y finaliza la interceptación de la vía."
+  },
+  {
+   "hora": "13:00",
+   "evento": "Al maquinista se le realizan pruebas de alcoholemia y drogas en Alcázar de San Juan, con resultado negativo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18081",
+   "tipo": "Tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería; valoración económica 15.698,61 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 18081",
+   "implicacion": "Matrícula 9646340; título B de conducción; accionó el silbato y el freno de emergencia; pruebas de alcoholemia y drogas negativas; jornada laboral del día 29 de 3 horas y 40 minutos."
+  },
+  {
+   "rol": "Conductor del vehículo de carretera",
+   "implicacion": "Resultó herido leve."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel protegido con señales fijas; carteles de silbar en la vía; señalización vertical de caminos y vía conforme a la Orden de 2 de agosto de 2001.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "140 km/h para el trayecto; limitación temporal de 60 km/h en el paso a nivel, reducida a 40 km/h tras el suceso.",
+  "ancho": "Ancho convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Sin restricciones ni condiciones especiales de circulación; traviesas del paso a nivel con estado aceptable y leves daños tras el accidente.",
+  "otro": "BAU y CTC; radiotefonía en modalidad A; paso a nivel clase A de titularidad municipal del camino, anchura aproximada de 5 m; visibilidad buena; momento de circulación AxT=236 (A=15,73 y T=15); acceso al Camino de Carrión, CM-45 y A-43 mediante rotonda puesta en servicio en 2012."
+ },
+ "material_rodante": {
+  "series": "Composición 967194490033, tipo 160A, 5 vehículos, 185 toneladas, velocidad máxima 160 km/h.",
+  "averia": "Equipos de seguridad del tren funcionaron correctamente; daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, que cruza el paso a nivel cuando pasaba el tren 18081.",
+  "contribuyentes": [
+   "El vehículo irrumpe en el paso a nivel sin cerciorarse de la posible circulación de trenes.",
+   "En 2012 entró en servicio una actuación viaria que aumentó sustancialmente el tráfico del Camino de Carrión.",
+   "La IMD actual es superior a la considerada para el cálculo del momento de circulación (A=15,73)."
+  ],
+  "sistemicas": [
+   "El valor de IMD considerado para el cálculo del momento de circulación era inferior al tráfico actual."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": null,
+  "heridos_leves": 1,
+  "danos_materiales": "Material rodante: daños valorados en 15.698,61 €. Infraestructura: leves daños en las traviesas del paso a nivel.",
+  "afectacion_servicio": "Vía interceptada de 09:52 a 11:35; el tren 18081 sufrió un retraso de 85 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  },
+  {
+   "texto": "Conocido el valor actual de la IMD, proceder a adecuar por quien corresponda las características del paso a lo establecido en la OM de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "clase a",
+  "arrollamiento",
+  "vehículo de carretera",
+  "miguelturra",
+  "pozuelo de calatrava",
+  "ciudad real",
+  "renfe operadora",
+  "adif",
+  "intensidad media diaria",
+  "limitación de velocidad",
+  "tráfico"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_291012_290113_CIAF"
+}

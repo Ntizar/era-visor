@@ -1,0 +1,146 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de cercanías entre Vallecas Industrial y El Pozo en la línea 930",
+ "idioma_original": "es",
+ "resumen": "El 24 de diciembre de 2007, a las 20:16, el tren de cercanías 21763 de Renfe Operadora arrolló a una persona en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares, entre Vallecas Industrial y El Pozo. La víctima falleció por el impacto y su acompañante resultó ileso. El maquinista hizo sonar el silbato y aplicó el freno de emergencia, pero no pudo evitar el golpe. El informe concluye que el origen fue el tránsito indebido de la víctima por la vía y, por las características del suceso, no se establecieron recomendaciones en el informe particular, aunque la resolución plantea un inventario sistemático de situaciones similares y una planificación global de actuaciones.",
+ "hechos": "El día 24 de diciembre de 2007, a las 20:16, el tren de cercanías 21763 de Renfe Operadora circulaba por vía impar entre Vallecas Industrial y El Pozo, por la línea 930 Madrid-San Fernando de Henares. A la altura del P.K. 5,200, el maquinista vio a dos personas caminando por la vía, hizo sonar el silbato y accionó el freno de emergencia, sin poder evitar golpear a una de ellas y expulsarla fuera de la vía.\n\nLa víctima, un varón de 22 años, falleció por el impacto; su acompañante resultó ileso. El maquinista detuvo el tren y comunicó el suceso al Puesto de Mando de Chamartín, desde donde se activaron los protocolos de actuación para accidentes y se avisó a los servicios de emergencia, a Seguridad Corporativa y a Servicios Internos de Adif y Renfe Operadora.\n\nEl registro de eventos indicó que el tren circulaba a 98 km/h cuando se aplicó el freno de emergencia, por debajo de los 120 km/h permitidos. Tanto el material rodante como las instalaciones técnicas funcionaron correctamente, y la prueba de alcoholemia y drogas del maquinista fue negativa.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "El Pozo",
+  "pk": "5,200",
+  "linea": "930 Madrid- San Fernando de Henares",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Plena vía entre Vallecas Industrial y El Pozo, cerca del apeadero de El Pozo, en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares."
+ },
+ "cronologia": [
+  {
+   "hora": "20:16",
+   "evento": "2007-12-24: El tren de cercanías 21763 arrolla a una persona en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares."
+  },
+  {
+   "hora": "21:18",
+   "evento": "2007-12-24: El coordinador de accidentes ferroviarios de Adif informa a la CIAF del arrollamiento mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": "21:19",
+   "evento": "2007-12-24: Se autoriza el paso por vía II tras la interceptación inicial de ambas vías."
+  },
+  {
+   "hora": "22:52",
+   "evento": "2007-12-24: Se reabre la vía I, que había permanecido cortada desde el suceso."
+  },
+  {
+   "hora": null,
+   "evento": "2007-12-11: La CIAF designa técnico responsable de la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "2008-03-05: Adif y Renfe Operadora entregan informes particulares del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2008-05-23: El Pleno de la CIAF aprueba como definitivo el informe y la resolución."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "21763",
+   "tipo": "Tren de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material motor ni en las instalaciones."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 21763",
+   "implicacion": "Matrícula 9677873; título de conducción categoría B; habilitación conforme a la Orden Ministerial 2520 de 2006-07-27; último reciclaje formativo 2007-02-26 y último reconocimiento 2004-11-02. Jornada de trabajo en el momento del suceso: 4 h 15 min; jornada efectiva de conducción: 2 h 20 min. Observó a dos personas en la vía, hizo sonar el silbato y accionó el freno de emergencia; su actuación fue correcta. Prueba de alcoholemia y drogas realizada el 2007-12-24 a las 15:20: resultado negativo."
+  },
+  {
+   "rol": "Supervisor de Circulación de la Jefatura Técnica de Operaciones de Madrid",
+   "implicacion": "Nombrado Jefe Delegado en el punto del accidente."
+  },
+  {
+   "rol": "Técnico de Regulación",
+   "implicacion": "Nombrado Portavoz de la información en el Puesto de Mando."
+  },
+  {
+   "rol": "Acompañante de la víctima",
+   "implicacion": "Caminaba por la vía junto a la víctima y resultó ileso; testigo."
+  },
+  {
+   "rol": "Víctima (varón de 22 años)",
+   "implicacion": "Caminaba por la vía general en zona no autorizada para el público y falleció por el impacto."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Informó a la CIAF del arrollamiento el 2007-12-24 a las 21:18."
+  },
+  {
+   "rol": "Técnico integrado en la Secretaría de la CIAF",
+   "implicacion": "Designado técnico responsable de la investigación el 2007-12-11."
+  },
+  {
+   "rol": "Gerente Territorial de Seguridad en la Circulación Centro de Adif",
+   "implicacion": "Entregó informe particular del accidente el 2008-03-05."
+  },
+  {
+   "rol": "Responsable de Seguridad de Renfe Operadora",
+   "implicacion": "Entregó informe particular del accidente el 2008-03-05."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (B.A.B con C.T.C)",
+  "tipo_via": "Vía doble electrificada; el tren circulaba por vía impar",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Alineación en recta con visibilidad 150 m y perfil horizontal; los sistemas de control funcionaban correctamente",
+  "otro": "Sistemas de comunicación: radiotelefonía modalidad A"
+ },
+ "material_rodante": {
+  "series": "U/T446012-446044; 6 vehículos; 346 toneladas; matrícula 96.71.94.46.012.7",
+  "averia": "No se produjeron daños en material motor ni instalaciones; funcionó correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+ "causas": {
+  "directa": "Tránsito indebido de la víctima por la vía.",
+  "contribuyentes": [
+   "La víctima y su acompañante caminaban por la vía general en zona no autorizada para el público."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en material motor ni en instalaciones.",
+  "afectacion_servicio": "Ambas vías interceptadas hasta las 21:19; paso por vía II autorizado desde las 21:19 y vía I cortada hasta las 22:52. 16 trenes de Cercanías sumaron 642 minutos de retraso y 1 tren de Media Distancia sufrió 92 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dadas las características del accidente, no se establecen recomendaciones.",
+   "destinatario": null
+  },
+  {
+   "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona en vía",
+  "tren de cercanías",
+  "línea 930",
+  "madrid",
+  "vallecas industrial",
+  "el pozo",
+  "adif",
+  "renfe operadora",
+  "víctima mortal",
+  "tránsito indebido",
+  "bloqueo automático banalizado"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-241207-230508-CIAF[1]"
+}

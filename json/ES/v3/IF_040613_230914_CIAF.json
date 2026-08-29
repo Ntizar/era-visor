@@ -1,0 +1,168 @@
+{
+ "titulo_normalizado": "Incidente por rebasamiento de señal en rojo en plena vía entre Sant Sadurní d'Anoia y Martorell por bloqueo incorrecto de vía por el jefe de CTC",
+ "idioma_original": "es",
+ "resumen": "El 4 de junio de 2013, a las 00:30, el jefe de CTC de Villafranca bloqueó por error la vía I en lugar de la vía II en el trayecto entre Sant Sadurní d'Anoia y Martorell, donde estaban programados trabajos de limpieza de cunetas. El tren de mercancías LK500 de Renfe Operadora, circulando por la vía II, rebasó la señal intermedia 642 que pasó a rojo por la colocación de una barra de shuntado, activándose el freno de urgencia por ASFA. El tren quedó detenido 533 metros sobrepasando la señal. No se produjeron daños personales ni materiales, solo un retraso de 8 minutos.",
+ "hechos": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca estableció incorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d'Anoia y Martorell, bloqueando por error la vía I en vez de la vía II, donde estaban programados trabajos de limpieza de cunetas según el acta semanal (punto nº 188). El tren de mercancías LK500 de Renfe Operadora, con origen en Villaverde (Madrid) y destino La Llagosta (Barcelona), circulaba por la vía II aproximándose a Sant Sadurní. El jefe del CTC le estableció itinerario de paso por vía II, encontrando el tren la secuencia de señales en verde.\n\nAl llegar a la baliza previa de la señal intermedia 642 (PK 64+073), el tren la encontró en vía libre (verde), pero al pasar por la baliza de pie de dicha señal, esta había cambiado a rojo como consecuencia de la colocación de la barra de shuntado por el encargado de trabajos situado en el PK 65+500. Al rebasar el tren la señal 642 en rojo, el sistema ASFA activó el freno de urgencia, quedando el tren detenido sobrepasando la señal en 533 metros (PK 64+600).\n\nEl encargado de trabajos vio cómo se aproximaba el tren LK500 por la vía II al lugar de los trabajos y ordenó a los operarios retirarse de la vía, no produciéndose ningún daño personal ni material. El tren sufrió únicamente un retraso de 8 minutos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Sant Sadurní d'Anoia - Martorell (trayecto)",
+  "pk": "64+073",
+  "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía entre las estaciones de Sant Sadurní d'Anoia y Martorell, entorno de la señal intermedia 642 (PK 64+073). Tramo recto con buena visibilidad. Municipio: Sant Sadurní d'Anoia. Tramo: Sant Sadurní – Ag. KM 70+477. Trabajos programados en PK 65+500 y 66+000."
+ },
+ "cronologia": [
+  {
+   "hora": "00:09",
+   "evento": "El encargado de trabajos solicita el bloqueo por ocupación especial en la vía II (según su declaración)"
+  },
+  {
+   "hora": "00:18",
+   "evento": "El encargado de trabajos solicita al jefe de CTC el bloqueo por ocupación especial de la vía II sin tren de trabajos (telefonema nº 55)"
+  },
+  {
+   "hora": "00:21",
+   "evento": "El jefe de CTC concede el intervalo por vía II hasta las 04:30 (telefonema nº 738). El jefe de CTC bloquea por error la vía I en lugar de la vía II"
+  },
+  {
+   "hora": "00:25:10",
+   "evento": "Según videográfico CTC: el tren LK500 tiene itinerario establecido por vía II de la estación de Sant Sadurní d'Anoia, dirección Martorell; vía I bloqueada"
+  },
+  {
+   "hora": "00:27:16",
+   "evento": "El tren LK500 pasa por la señal de salida S2/2 de Sant Sadurní (lado Martorell) en verde, a 44 km/h"
+  },
+  {
+   "hora": "00:27:30",
+   "evento": "El tren pasa por la señal de entrada de la estación de Sant Sadurní"
+  },
+  {
+   "hora": "00:28:40",
+   "evento": "El tren ocupa el circuito de estacionamiento de vía II de la estación de Sant Sadurní"
+  },
+  {
+   "hora": "00:29:46",
+   "evento": "El tren ya ha salido de la estación de Sant Sadurní"
+  },
+  {
+   "hora": "00:29:59",
+   "evento": "El tren pasa por la baliza previa de la señal intermedia 626 en vía libre a 85 km/h"
+  },
+  {
+   "hora": "00:30:12",
+   "evento": "El tren pasa por la baliza de pie de la señal 626 en verde a 90 km/h"
+  },
+  {
+   "hora": "00:30:20",
+   "evento": "El tren pasa por la baliza previa de la señal intermedia 642 en vía libre a 95 km/h. El encargado de trabajos coloca la barra de shuntado en vía II, la señal 642 pasa de verde a rojo"
+  },
+  {
+   "hora": "00:30:34",
+   "evento": "El tren pasa por la baliza de pie de la señal 642 a 94 km/h; la señal está en rojo. Se activa el freno de urgencia por ASFA"
+  },
+  {
+   "hora": "00:30",
+   "evento": "El encargado de trabajos observa luces del tren aproximándose por vía II y ordena a los operarios salir de la vía"
+  },
+  {
+   "hora": "00:31:07",
+   "evento": "El tren LK500 queda detenido a 533 metros de la señal 642, en PK 64+600"
+  },
+  {
+   "hora": "00:31:58",
+   "evento": "Según registrador del tren (con desfase +45s): tren detenido tras recorrer 533 m desde activación del freno"
+  },
+  {
+   "hora": "00:33:21",
+   "evento": "Llamada del encargado de trabajos al jefe de CTC informando del tren circulando por vía bloqueada; el jefe de CTC reconoce el error"
+  },
+  {
+   "hora": "08:57",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "LK500 (nº 82150 hasta Casetas, CZ530 entre Casetas y Zuera, LK500 desde Zuera a La Llagosta)",
+   "tipo": "tren de mercancías (porta-automóviles)",
+   "operador": "Renfe Operadora",
+   "danos": "Ningún daño material"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe de CTC (Adif, Villafranca)",
+   "implicacion": "Fallo humano: bloqueó por error la vía I en lugar de la vía II, permitiendo la circulación del tren por vía con trabajos programados"
+  },
+  {
+   "rol": "Encargado de trabajos (Adif)",
+   "implicacion": "Colocó la barra de shuntado en vía II que provocó el cierre de la señal 642; observó la aproximación del tren y ordenó a los operarios retirarse de la vía"
+  },
+  {
+   "rol": "Maquinista del tren LK500 (Renfe Operadora)",
+   "implicacion": "Circulaba con normalidad, señales en verde; rebasó la señal 642 en rojo por cierre intempestivo; reanudó marcha a la vista según RGC"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal intermedia 642 (PK 64+073): señal alta de 3 focos, con cartel con letra P (permisiva), dotada de balizas previa y de pie. Señal de salida S2/2 (PK 60+129). Señal intermedia 626 (PK 62+309). Bloqueo automático banalizado (BAB).",
+  "tipo_via": "Vía doble electrificada de ancho ibérico",
+  "velocidad_maxima": "100 km/h (tren tipo 100); el tren circulaba a 94-95 km/h al pasar la señal 642",
+  "ancho": "Ibérico",
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Vía II con trabajos de limpieza de cunetas programados (debería estar bloqueada); vía I bloqueada por error. Tramo recto con buena visibilidad.",
+  "otro": "Control de tráfico centralizado (CTC) desde el puesto de mando de Villafranca. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 739."
+ },
+ "material_rodante": {
+  "series": "Locomotora 253077 (Nº UIC: 957102530772), 4 vagones porta-automóviles",
+  "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": "No se menciona avería ni problema de mantenimiento. Longitud 106 m, peso 105 toneladas."
+ },
+ "clima": "Era de noche. No existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo humano del jefe del CTC al establecer incorrectamente el bloqueo en el trayecto entre Sant Sadurní d'Anoia y Martorell, bloqueando por error la vía I en lugar de la vía II.",
+  "contribuyentes": [
+   "Cierre intempestivo de la señal 642 al colocar el encargado de trabajos la barra de shuntado mientras el tren pasaba por la baliza previa",
+   "Elevada carga de trabajo del puesto de CTC con picos muy acusados (trenes de mercancías, maniobras en muchas estaciones, cortes de trabajo en distintos trayectos, complejidad de ciertas estaciones), lo que lleva a cierto grado de saturación",
+   "La Consigna C Experimental nº 58 no exigía el uso obligatorio de barra de shuntado para este tipo de trabajos"
+  ],
+  "sistemicas": [
+   "La normativa aplicable (Consigna C Experimental nº 58) no contemplaba el uso obligatorio de protecciones mediante útiles de cortocircuitado ni señales para este tipo de trabajos",
+   "Posibilidad de error humano en el establecimiento del bloqueo en CTC sin verificación cruzada automática"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura",
+  "afectacion_servicio": "No hubo interceptación de la vía. El tren LK500 sufrió un retraso de 8 minutos. No se activó ningún plan de emergencia."
+ },
+ "lecciones": [
+  "La colocación de la barra de shuntado por el encargado de trabajos, aunque no era obligatoria según la Consigna C Experimental nº 58, fue fundamental para evitar un posible accidente al cerrar la señal 642 antes de que el tren llegara al tajo",
+  "El sistema ASFA funcionó correctamente, activando el freno de urgencia al rebasar la señal en rojo",
+  "La elevada carga de trabajo y saturación del puesto de CTC puede contribuir a errores humanos",
+  "El incidente de Socuéllamos (12/03/2012, expediente 22/2012) evidenció la misma tipología de fallo humano del jefe de CTC al establecer itinerarios"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "bloqueo incorrecto",
+  "fallo humano",
+  "CTC",
+  "rebasamiento señal rojo",
+  "ASFA",
+  "barra shuntado",
+  "trabajos vía",
+  "tren mercancías",
+  "vía doble",
+  "sant sadurní",
+  "martorell",
+  "consigna experimental 58"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_040613_230914_CIAF"
+}

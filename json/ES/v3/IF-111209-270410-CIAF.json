@@ -1,0 +1,134 @@
+{
+ "titulo_normalizado": "Rebase de señal de salida S1/1 y conato de colisión con tren de cercanías en estación de Renedo (Cantabria)",
+ "idioma_original": "es",
+ "resumen": "El 11 de diciembre de 2009, a las 21:32 horas, la locomotora aislada del tren AE 147 de Renfe Operadora rebasó indebidamente la señal de salida S1/1 de la estación de Renedo, que indicaba parada, talonando el desvío nº 4. Se produjo un conato de colisión con el tren de cercanías 26944, detenido ante la señal de entrada E2. El incidente se originó por el incumplimiento de las órdenes de las señales por parte del personal de conducción. No hubo víctimas, aunque se dañó el espadín de la aguja del desvío y se interceptó la vía durante 59 minutos de forma total y 2 horas 59 minutos de forma parcial.",
+ "hechos": "El día 11 de diciembre de 2009, la locomotora aislada del tren AE 147, procedente de Arévalo y con destino Muriedes, pasó por la señal avanzada 4919 en indicación de vía libre y continuó hacia la señal de entrada E1, que presentaba indicación de anuncio de parada. Simultáneamente, el tren de cercanías 26944, entre la señal avanzada 4976 y la señal de entrada E2, tenía itinerario establecido a la vía 11 de la estación de Renedo. Una vez en la zona de estacionamiento, el maquinista observó que la señal de salida S1/1 estaba en indicación de parada (rojo) y aplicó la seta de urgencia, pero no evitó que la composición rebasara la señal, talonara el cambio nº 4 y quedara parada a 297 metros del tren 26944. El sistema ASFA aplicó el freno de urgencia al detectar el rebase.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Renedo",
+  "pk": "495+043",
+  "linea": "160 Santander - Palencia",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Señal de salida S1/1 de la estación de Renedo, tramo Torrelavega-Renedo, municipio Renedo de Piélagos. Adscrita al puesto de mando de Santander."
+ },
+ "cronologia": [
+  {
+   "hora": "21:27:34",
+   "evento": "El tren AE 147 pasa por la baliza previa de la señal avanzada 4919 en indicación de vía libre (verde). 14 segundos más tarde pasa por la baliza de la señal, también en verde. Velocidad: 82 km/h."
+  },
+  {
+   "hora": "21:29:02",
+   "evento": "El tren alcanza la baliza previa de la señal de entrada E1 en indicación de anuncio de parada (amarillo). 13 segundos más tarde sobrepasa la baliza de E1 (amarillo), reconocido por el maquinista en ASFA. Velocidad: 71 km/h."
+  },
+  {
+   "hora": "21:29:15",
+   "evento": "Tras recorrer 647 metros con aumento de velocidad hasta 76 km/h, el maquinista observa la señal de salida en rojo y aplica la seta de urgencia. El tren rebasa la señal S1/1 a 49 km/h y el ASFA aplica freno de urgencia."
+  },
+  {
+   "hora": "21:30:12",
+   "evento": "El tren AE 147 queda parado tras talonar el desvío nº 4 y recorrer 108 metros, en PK 495+151, a 297 metros del tren 26944."
+  },
+  {
+   "hora": "21:32",
+   "evento": "Hora oficial del incidente según el informe. El tren 26944 se encuentra parado ante la señal de entrada E2 (PK 495+448) según su registrador de seguridad (21:32:18)."
+  },
+  {
+   "hora": "22:31",
+   "evento": "Se levanta la interceptación total de la vía. El tren 26944 recibe autorización para continuar."
+  },
+  {
+   "hora": "01:30",
+   "evento": "Fin de la interceptación parcial de la vía."
+  },
+  {
+   "hora": "23:19",
+   "evento": "Se realiza prueba de alcoholemia al maquinista del AE 147 en la estación de Renedo: resultado negativo (0,00 mg/1000 ml)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "AE 147",
+   "tipo": "Locomotora aislada",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno. Talonó el desvío nº 4 doblando el espadín de la aguja."
+  },
+  {
+   "numero": "26944",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno. Quedó parado ante la señal E2, a 297 m del AE 147."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren AE 147",
+   "implicacion": "Rebasó indebidamente la señal de salida S1/1 en indicación de parada. Declaró que se despistó con la señal de entrada. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo: 27/11/08. Último reconocimiento médico y psicotécnico: 02/12/08. Prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Maquinista del tren 26944",
+   "implicacion": "Se detuvo correctamente ante la señal E2 en indicación de parada. Redactó parte de incidencias el 12/01/2010."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales altas: avanzada 4919 (balizas ASFA previa y pie), entrada E1 (balizas ASFA previa y pie), salida S1/1 (baliza ASFA a pie, sin previa), entrada E2. Señal avanzada 4976 para el tren 26944.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Funcionamiento correcto según cuadro de mando de la estación de Renedo.",
+  "otro": "Bloqueo automático (B.A.U.) y Control de Tráfico Centralizado (C.T.C.). Estación adscrita al puesto de mando de Santander. Radiotelefonía modalidad A. Desvío nº 4 talonado, espadín de aguja doblado."
+ },
+ "material_rodante": {
+  "series": "Tren tipo 160 A. Unidades 269705 y 269704. Nº UIC: 957102697050 - 957102697043.",
+  "averia": "Registrador de seguridad del tren AE 147 presentaba un desfase de dos minutos. Equipos de seguridad (freno, ASFA) funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, llovía débilmente.",
+ "causas": {
+  "directa": "Incumplimiento de las órdenes dadas por las señales al personal de conducción, provocando que el tren AE 147 rebasara indebidamente la señal de salida S1/1 que se encontraba ordenando parada.",
+  "contribuyentes": [
+   "El tren sobrepasó la señal de entrada E1 (anuncio de parada) a 71 km/h, incumpliendo el artículo 213 del RGC y la Carta Circular de Reglamentación nº 11.",
+   "Recorrido de 647 metros con aumento de velocidad hasta 76 km/h tras el reconocimiento del amarillo, sin reducir adecuadamente.",
+   "El maquinista declaró despistarse con la señal de entrada.",
+   "La señal de salida S1/1 no disponía de baliza ASFA previa, solo baliza a pie de señal."
+  ],
+  "sistemicas": [
+   "Influencia de procesos psicológicos en la conducción (atención/vigilancia).",
+   "Necesidad de reforzar la formación en el estricto cumplimiento del Reglamento General de Circulación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Espadín de la aguja del desvío nº 4 doblado por talonamiento.",
+  "afectacion_servicio": "Interceptación total de la vía 59 minutos (21:32-22:31). Interceptación parcial 2 horas 59 minutos (22:31-01:30). Cuatro trenes de media distancia con retraso total de 207 minutos; un tren de larga distancia con retraso de 20 minutos."
+ },
+ "lecciones": [
+  "El incumplimiento de las indicaciones de las señales puede generar conatos de colisión con trenes detenidos en estaciones.",
+  "La señal de salida S1/1 carecía de baliza ASFA previa, lo que limita la anticipación del maquinista.",
+  "El desfase de dos minutos en el registrador de seguridad dificulta la reconstrucción precisa de los hechos."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "talonamiento de desvío",
+  "estación de Renedo",
+  "locomotora aislada",
+  "tren de cercanías",
+  "ASFA",
+  "seta de urgencia",
+  "Reglamento General de Circulación",
+  "incumplimiento de señales",
+  "despiste del maquinista",
+  "Cantabria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-111209-270410-CIAF"
+}

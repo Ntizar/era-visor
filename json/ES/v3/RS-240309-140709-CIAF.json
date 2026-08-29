@@ -1,0 +1,72 @@
+{
+ "titulo_normalizado": "Accidente ferroviario en la estación de Algemesí (línea 300)",
+ "idioma_original": "es",
+ "resumen": "La CIAF resolvió aprobar como definitivo el informe particular del accidente ferroviario nº 0017/2009, ocurrido el 2009-03-24 en la estación de Algemesí. El accidente se produjo en la línea 300 Madrid Chamartín – Valencia Estació del Nord. El Pleno de la CIAF tomó la resolución el 2009-07-14. No se establecieron recomendaciones porque el 2009-05-22 se abrió un paso inferior que clausuró un paso a nivel.",
+ "hechos": null,
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Algemesí",
+  "pk": null,
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "descripcion_lugar": "Estación de Algemesí; se menciona un paso a nivel clausurado por la apertura de un paso inferior."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-03-24: Accidente ferroviario nº 0017/2009 en la estación de Algemesí"
+  },
+  {
+   "hora": null,
+   "evento": "2009-05-22: Apertura de un paso inferior que clausura un paso a nivel"
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: Pleno de la CIAF aprueba como definitivo el informe particular"
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso a nivel clausurado por la apertura de un paso inferior el 2009-05-22."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "accidente ferroviario",
+  "algemesí",
+  "estación",
+  "línea 300",
+  "paso a nivel",
+  "paso inferior",
+  "clausura",
+  "ciaf",
+  "resolución",
+  "recomendación"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-240309-140709-CIAF"
+}

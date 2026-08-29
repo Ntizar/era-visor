@@ -1,0 +1,107 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un joven por tren de Larga Distancia en la entrada de Villena por imprudencia y vallado deficiente",
+ "idioma_original": "es",
+ "resumen": "El 07.04.2006, a las 22:55, el tren de Larga Distancia nº 15196 de Renfe arrolló a un joven de 15 años a unos 230 metros del paso a nivel de la estación de Villena (PK 395,415, línea Madrid-Alicante). La víctima falleció y no se produjeron daños materiales, aunque hubo un retraso de 105 minutos. El informe atribuye el accidente a la imprudencia del peatón, que caminaba por la banqueta con auriculares, y señala como causa coadyuvante el mal estado del vallado, con roturas que permiten pasos viciosos. Se recomienda reparar y reforzar el cerramiento con un vallado perimetral.",
+ "hechos": "El tren de Larga Distancia nº 15196 de Renfe, compuesto por la locomotora 252035 y 18 vehículos con masa remolcada de 312 Tm, se aproximaba a la estación de Villena por la línea Madrid-Alicante. A la altura de la señal de entrada E-2, unos 230 metros antes del paso a nivel de la estación y en el PK 395,415, el tren detuvo su marcha a las 22:55 tras arrollar a un joven que se encontraba en las proximidades de la vía. El tren, con parada prescrita en Villena, circulaba a 85 km/h sobre una velocidad máxima de 160 km/h, en vía única electrificada y en traza recta.\n\nSegún el parte del maquinista, al aproximarse al PK 395,400 vio a una persona de pie sobre el balasto de la bancada de la vía, cerca del carril derecho, por lo que usó el silbato varias veces y accionó el freno de emergencia, oyendo al pasar un golpe en la locomotora. La víctima era un varón de 15 años que, según el informe particular de Adif, caminaba por la banqueta de la vía con un reproductor MP3 y auriculares, en compañía de otras cuatro personas que sí se retiraron de la vía.\n\nTras el arrollamiento, el maquinista informó al jefe del CCR, que comunicó el suceso al Puesto de Mando de Valencia, cursándose el Plan de Emergencia Interior. Agentes de Adif tomaron datos y el cadáver quedó custodiado por la Policía Local. El servicio sanitario llegó a las 23:15 y notificó el fallecimiento a las 23:30; la Autoridad Judicial se personó a las 23:55 y no autorizó reanudar la marcha hasta las 00:38. No se pudo realizar la prueba de alcoholemia al maquinista por no haber agentes en el territorio, y al día siguiente se consideró que no aportaría nada.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villena",
+  "pk": "395,415",
+  "linea": "Madrid-Alicante",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Entrada de la estación de Villena, en el casco urbano, a unos 230 metros del paso a nivel (PK 325,615). Vía en recta con buena visibilidad diurna, reducida por la nocturnidad. Lado izquierdo con viviendas y recinto ferial (3 pasos viciosos) y lado del arrollamiento con cerramiento de 230 metros, lugar de reunión frecuente de jóvenes."
+ },
+ "cronologia": [
+  {
+   "hora": "22:55",
+   "evento": "El tren LD 15196 arrolla al joven y detiene su marcha en el PK 395,415"
+  },
+  {
+   "hora": "23:15",
+   "evento": "Llega el servicio sanitario"
+  },
+  {
+   "hora": "23:30",
+   "evento": "Notificación del fallecimiento del joven"
+  },
+  {
+   "hora": "23:55",
+   "evento": "Se persona la Autoridad Judicial"
+  },
+  {
+   "hora": "00:38",
+   "evento": "Autorización para reanudar la marcha del tren"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15196",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 15196",
+   "implicacion": "Vio a la persona sobre el balasto, usó el silbato varias veces y accionó el freno de emergencia; no se pudo realizarle prueba de alcoholemia"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E-2 de la estación de Villena; paso a nivel de la estación en el PK 325,615",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Tramo en recta con buena visibilidad en ambos sentidos en condiciones diurnas; a la hora del suceso la nocturnidad disminuye la visibilidad",
+  "otro": "Bloqueo Automático de vía única con CTC. Vallado metálico en ambas márgenes en defectuoso estado de conservación, con roturas y agujeros que permiten pasos viciosos. Cerramiento de 465 m en un lado y 230 m en el lado del arrollamiento."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252035 y 18 vehículos, masa remolcada 312 Tm",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima, que transitaba por lugar no permitido (banqueta de la vía) y no se percató de la llegada del tren",
+  "contribuyentes": [
+   "La víctima caminaba con auriculares de un MP3, que posiblemente le impidieron oír el silbato de la locomotora",
+   "Falta de conservación del vallado existente, con roturas y agujeros que permiten el acceso de personas a la vía",
+   "Existencia de pasos viciosos y de un lugar de reunión frecuente de jóvenes junto a la vía",
+   "Reducción de la visibilidad por la nocturnidad"
+  ],
+  "sistemicas": [
+   "Deficiente conservación del cerramiento/vallado en el tramo urbano de Villena, con múltiples pasos irregulares"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "Retraso de 105 minutos en un tren de viajeros de Larga Distancia; marcha del tren no autorizada hasta las 00:38"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Proceder a la reparación del vallado actual, reforzándolo en las zonas de mayor tránsito mediante la ejecución de un vallado perimetral que aumente la seguridad",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso vicioso",
+  "imprudencia",
+  "auriculares",
+  "vallado",
+  "villena",
+  "linea madrid-alicante",
+  "via unica electrificada",
+  "larga distancia",
+  "menor fallecido",
+  "nocturnidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-070406-020207"
+}

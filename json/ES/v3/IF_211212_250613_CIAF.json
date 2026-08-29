@@ -1,0 +1,129 @@
+{
+ "titulo_normalizado": "Rebase de señal en parada por tren 1112 en la estación de Valencia-Font de Sant Lluis con conato de colisión",
+ "idioma_original": "es",
+ "resumen": "El 21 de diciembre de 2012 a las 11:15 horas, el tren de viajeros 1112 de Renfe Operadora rebasó indebidamente la señal E2B en indicación de parada a la entrada de la estación de Valencia-Font de Sant Lluis. Se produjo un conato de colisión con el tren 10596 que ocupaba el mismo cantón de bloqueo. El incidente se originó por incumplimiento del personal de conducción de la orden dada por la señal. No hubo víctimas ni daños materiales. El tren 1112 perdió 63 minutos y la vía permaneció interceptada 57 minutos.",
+ "hechos": "El tren de viajeros 1112 de Renfe Operadora, con origen Valencia-Joaquín Sorolla y destino Barcelona-Sants, inicia la marcha desde la vía 9 con la señal de salida S1/9PA en indicación de anuncio de parada, reconocida por el maquinista en el pulsador del ASFA. Tras pasar por los cambios 110, 108, T106 y T104 hasta situarse en la vía II, aparece en la pantalla de diagnóstico (IDU) de la cabina una avería, y el maquinista trata de reconocerla. A continuación pasa por la baliza previa de la señal E2B (frecuencia L7-control de velocidad) sin modificar la velocidad y rebasa la baliza de la señal, en indicación de parada, a 24 km/h. Se activa el frenado de emergencia por el ASFA y el tren invade el cantón siguiente, ocupado por el tren 10596, produciéndose un conato de colisión.\n\nEl maquinista no asimila el rebase ni que la frenada fue motivada por el ASFA, rearma el sistema y continúa la marcha hasta la señal E2, que indica parada. Detenido ante esta señal, el CTC le informa de que ha rebasado la E2B. El tren 10596 se estaciona en vía 6. El tren 1112 recorre unos 1157 metros desde el rebase hasta su detención ante la señal E2.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Valencia-Font de Sant Lluis",
+  "pk": "2+000",
+  "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Entrada a la estación de Valencia-Font de Sant Lluis, tramo Valencia AG A.V. – Valencia-Font de Sant Lluis, vía doble electrificada de ancho convencional, mando local gestionado por la estación. Señal E2B en pórtico, alineación recta, luminosa de tres focos con baliza previa y de pie, con flecha indicadora por estar ligeramente a la izquierda de la vía."
+ },
+ "cronologia": [
+  {
+   "hora": "11:14",
+   "evento": "El tren 1112 pasa por la baliza previa de la señal E2B (frecuencia L7-control de velocidad) a unos 27 km/h"
+  },
+  {
+   "hora": "11:14:42",
+   "evento": "Actuación del freno de emergencia por ASFA al pasar por la baliza de pie de la señal E2B a 24 km/h"
+  },
+  {
+   "hora": "11:14:50",
+   "evento": "Detención del tren 1112 a 46 m de la señal E2B tras el rebase; el tren ocupa el cantón siguiente ocupado por el tren 10596"
+  },
+  {
+   "hora": "11:14:59",
+   "evento": "El tren 1112 queda detenido a unos 46 m de la señal E2B"
+  },
+  {
+   "hora": "11:16:07",
+   "evento": "El tren 1112, tras rearmar el ASFA, avanza hacia la señal E2; el tren 10596 se aparta a vía 6"
+  },
+  {
+   "hora": "11:16:39",
+   "evento": "El tren 1112 se detiene ante la señal E2 (PK 3+152) en indicación de parada, tras recorrer unos 1157 m desde el rebase"
+  },
+  {
+   "hora": "11:15",
+   "evento": "Hora oficial del incidente según el informe"
+  },
+  {
+   "hora": "11:55",
+   "evento": "Prueba de alcoholemia al maquinista en Valencia-Font de Sant Lluis, resultado negativo"
+  },
+  {
+   "hora": "12:46",
+   "evento": "El jefe de investigación de incidentes de Adif comunica el suceso a la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1112",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "no se producen daños"
+  },
+  {
+   "numero": "10596",
+   "tipo": "viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "no se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 1112",
+   "implicacion": "Rebasó indebidamente la señal E2B en indicación de parada por no percibirla como tal, distraído por la avería del IDU. No asimiló el rebase, rearmó el ASFA y reanudó la marcha sin autorización. Incumplió los artículos 213, 217, 262.4, 279 y 320 del RGC. Título B de conducción, habilitado, antigüedad desde 09/04/2004, habilitación de línea desde 11/10/2012, del vehículo desde 21/09/2012. Último reciclaje formativo 14/01/2011, último reconocimiento médico-psicotécnico 19/10/2010. Prueba de alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E2B (PK 2+000) en indicación de parada, luminosa de tres focos con baliza previa y de pie, en pórtico, con flecha indicadora. Señal de salida S1/9PA en anuncio de parada. Señal E2 (PK 3+152) en indicación de parada. Buena visibilidad de la señal rebasada.",
+  "tipo_via": "Vía doble electrificada de ancho convencional, bloqueo automático banalizado (BAB) con CTC, mando local gestionado por la estación Valencia-Font de Sant Lluis",
+  "velocidad_maxima": "120 km/h (limitación temporal a 50 km/h por curva entre PK 1+687 y 3+013)",
+  "ancho": "convencional",
+  "electrificacion": "electrificada",
+  "estado_via": "funcionó correctamente",
+  "otro": "Radiotelefonía modalidad A. Tramo con media semanal de 956 circulaciones (alta): 317 larga distancia, 129 media distancia, 507 cercanías, 3 servicio. Por el lado derecho discurre la línea 300 Madrid-Valencia (por La Encina), también de doble vía."
+ },
+ "material_rodante": {
+  "series": "Tipo 200B, ramas 130036/130035, 26 vehículos, 40 ejes, 624 toneladas, 368 metros de longitud",
+  "averia": "Aparición de avería en la pantalla de diagnóstico (IDU) de la cabina durante el paso por los cambios de salida; el tren no dispone de ASFA digital",
+  "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad"
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Rebase indebido de la señal E2B en indicación de parada por incumplimiento de la orden dada por la señal al personal de conducción",
+  "contribuyentes": [
+   "Desviación de la atención del maquinista por la avería mostrada en la pantalla IDU de la cabina",
+   "El tren no dispone de ASFA digital, por lo que no se reforzó la indicación del estado de la señal",
+   "El maquinista no percibió la información de la baliza previa como parada y no se puso en condiciones de parar",
+   "El maquinista no asimiló que la frenada de emergencia era motivada por el rebase de la señal",
+   "Rearme del ASFA y reanudación de la marcha sin autorización tras el rebase",
+   "No se puso en comunicación con el CTC hasta detenerse ante la señal siguiente E2"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura",
+  "afectacion_servicio": "El tren 1112 perdió 63 minutos; 2 trenes de cercanías perdieron un total de 27 minutos. La vía permaneció interceptada durante 57 minutos. El tren fue apartado en la estación de Valencia-Font de Sant Lluis para relevar al maquinista."
+ },
+ "lecciones": [
+  "La desviación de atención por alarmas en cabina (IDU) puede provocar el incumplimiento de señales",
+  "La ausencia de ASFA digital no refuerza la indicación del estado de la señal al maquinista",
+  "Tras un rebase indebido, el maquinista debe detenerse inmediatamente e informar (artículo 279 RGC)",
+  "El rearme del ASFA sin comprender la causa de la frenada agrava la situación al continuar la marcha sin autorización"
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "rebase señal",
+  "conato de colisión",
+  "asfa",
+  "fallo humano",
+  "desatención",
+  "valencia-font de sant lluis",
+  "línea 600",
+  "tren 1112",
+  "señal e2b",
+  "mando local",
+  "ctc",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_211212_250613_CIAF"
+}

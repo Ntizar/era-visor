@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Arrollamiento de una menor en paso a nivel clase C de la estación de Algemesí por invasión del gálibo pese a semibarreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 7 de mayo de 2007, a las 19:20, una niña de unos 10 años fue arrollada mortalmente por el tren de Larga Distancia 165 de Renfe en el paso a nivel clase C de la estación de Algemesí (PK 81,454, Línea 300). El paso a nivel estaba cerrado con semibarreras bajadas y señalización luminosa y acústica funcionando. La víctima cruzó corriendo haciendo caso omiso de las advertencias del maquinista y del vigilante de seguridad. El tren circulaba a 76 km/h, por debajo de la velocidad máxima autorizada de 140 km/h. No se produjeron daños materiales. La investigación concluyó que la causa fue la imprudencia de la víctima.",
+ "hechos": "Una persona resultó arrollada a las 19:20 horas del 07.05.2007 en el paso a nivel clase C de la estación de Algemesí, situado en el punto kilométrico 81,454 de la Línea 300 Madrid Puerta de Atocha – Valencia Nord. El arrollamiento se produjo al paso del tren de Viajeros de Larga Distancia 165, compuesto por locomotora 252068-2 y 9 vehículos con masa remolcada de 157 Tm, de la empresa Renfe, que efectuaba su entrada por vía 1 sin parada prescrita en dicha estación. La persona arrollada, una niña de unos 10 años, cruzaba corriendo el paso a nivel de derecha a izquierda según el sentido de la circulación del tren, estando el paso a nivel cerrado con las semibarreras bajadas y funcionando las indicaciones luminosas y sonoras. El vigilante de seguridad había dado el alto a varias personas que intentaban cruzar desde el andén central a pesar de estar las barreras bajadas, la señal acústica, la megafonía y los continuos avisos suyos y del factor de circulación.\n\nTras el arrollamiento, el cuerpo salió despedido a vía 2, quedando interrumpida la circulación en vías 1 y 2. El maquinista, al detectar a la niña a pocos metros del paso, hizo uso del silbato en repetidas ocasiones y del freno de urgencia, pero no hubo tiempo de detener el tren. La locomotora golpeó a la menor con el lado izquierdo sentido de la marcha, despidiéndola fuera de la vía. A las 19:32 horas se personó la Policía Local y 8 minutos después los servicios médicos, certificando el fallecimiento de la víctima. A las 20:45 se reanudó la circulación del tren 165 tras relevar al maquinista. A las 21:10 la Autoridad Judicial ordenó el levantamiento del cadáver, restableciéndose la circulación con limitación de 50 km/h por afluencia de personas, y a las 21:35 se permitió la marcha normal.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Algemesí",
+  "pk": "81,454",
+  "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Paso a nivel clase C con semibarreras enclavadas, dotado de paso peatonal y señalización luminosa y acústica, situado en la estación de Algemesí, al final del edificio de viajeros. La estación estaba en mando local con Jefe de Circulación. Bloqueo Automático en vía doble electrificada con CTC."
+ },
+ "cronologia": [
+  {
+   "hora": "19:20",
+   "evento": "Arrollamiento de la menor por el tren LD 165 en el paso a nivel clase C de la estación de Algemesí"
+  },
+  {
+   "hora": "19:32",
+   "evento": "Se personan la Policía Local en el lugar"
+  },
+  {
+   "hora": "19:40",
+   "evento": "Llegada de los servicios médicos, que certifican el fallecimiento de la víctima"
+  },
+  {
+   "hora": "20:45",
+   "evento": "Se reanuda la circulación del tren 165 una vez relevado el maquinista"
+  },
+  {
+   "hora": "21:10",
+   "evento": "La Autoridad Judicial ordena el levantamiento del cadáver; vía expedita con limitación de 50 km/h por afluencia de personas"
+  },
+  {
+   "hora": "21:35",
+   "evento": "Se permite la circulación a marcha normal"
+  },
+  {
+   "hora": "22:10",
+   "evento": "Prueba de alcoholemia al maquinista en Alicante con resultado negativo (0,00 mg/1000 ml)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "165",
+   "tipo": "Viajeros de Larga Distancia (Talgo)",
+   "operador": "Renfe",
+   "danos": "Sin daños materiales. Retraso de 97 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren LD 165",
+   "implicacion": "Matrícula 9733155. Jornada efectiva 3h36min; 24h anteriores 4h45min; 48h anteriores 8h50min. Hizo uso del silbato y del freno de urgencia al detectar a la niña. Alcoholemia negativa. Relevado tras el suceso."
+  },
+  {
+   "rol": "Jefe de Circulación de la estación de Algemesí",
+   "implicacion": "Informó del suceso al CTC. Declaró haber visto correr a la niña hacia el lado del pueblo cruzando el paso a nivel a unos 25 metros antes del paso del tren. Confirmó el funcionamiento de todos los sistemas de seguridad del paso a nivel."
+  },
+  {
+   "rol": "Vigilante de Seguridad de la estación de Algemesí",
+   "implicacion": "Testigo de los hechos. Dio el alto a varias personas que intentaban cruzar desde el andén central pese a barreras bajadas, señal acústica, megafonía y avisos. Quedó custodiando el cuerpo e intentando socorrer a la víctima."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase C con semibarreras enclavadas, señalización luminosa y acústica, paso peatonal, megafonía. Todos los sistemas funcionaban correctamente.",
+  "tipo_via": "Vía doble electrificada con CTC. Bloqueo Automático.",
+  "velocidad_maxima": "140 km/h al paso por la estación de Algemesí (según cuadro de velocidades y libro de itinerarios). Limitación temporal de 80 km/h a la salida de la estación.",
+  "ancho": null,
+  "electrificacion": "Vía electrificada",
+  "estado_via": "Correcto. Las instalaciones del paso a nivel funcionaban correctamente.",
+  "otro": "Estación en mando local con Jefe de Circulación. El tren entraba por vía 1 sin parada prescrita. Tras el arrollamiento, circulación desviada a vía 3 hasta el levantamiento del cadáver. Limitación de 50 km/h por afluencia de personas hasta las 21:35."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252-068-2 con 9 vehículos (Talgo), masa remolcada 157 Tm",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión por parte de la víctima del gálibo de la vía, cruzando el paso a nivel cerrada haciendo caso omiso de la señalización del paso a nivel, así como de las advertencias del maquinista y del vigilante de seguridad.",
+  "contribuyentes": [
+   "La víctima era una menor de unos 10 años que cruzó corriendo sin atender a las semibarreras bajadas, señales luminosas y acústicas, megafonía ni avisos verbales.",
+   "Existía una afluencia de personas en el andén central intentando cruzar pese al cierre del paso a nivel, lo que indica un comportamiento generalizado de riesgo en ese punto."
+  ],
+  "sistemicas": [
+   "El paso a nivel clase C en el interior de una estación con andén central constituía un punto de cruce peatonal conflictivo cuya supresión estaba proyectada pero no ejecutada.",
+   "La necesidad de campañas de sensibilización y concienciación ciudadana sobre el peligro de cruzar las vías del ferrocarril."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Interrupción de la circulación en vías 1 y 2. Desvío a vía 3 hasta el levantamiento del cadáver. Retraso del tren LD 165: 97 minutos. Retraso acumulado: 7 trenes de Cercanías (62 min), 3 trenes de Mercancías (104 min), 6 trenes de Larga Distancia (41 min), 1 tren de Media Distancia (7 min). Limitación de 50 km/h hasta las 21:35."
+ },
+ "lecciones": [
+  "La correcta funcionalidad de todos los sistemas de seguridad del paso a nivel (semibarreras enclavadas, señalización luminosa, acústica y megafonía) no es suficiente si los usuarios hacen caso omiso de ellos.",
+  "La presencia de un vigilante de seguridad en el andén puede mitigar riesgos pero no evitar completamente el comportamiento imprudente de menores.",
+  "La actuación inmediata del maquinista (silbato y freno de urgencia) fue correcta pero insuficiente dada la velocidad y la distancia de reacción."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible.",
+   "destinatario": "Adif / Administrador de Infraestructuras Ferroviarias"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+   "destinatario": "Adif / Renfe / Autoridades competentes"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase C",
+  "semibarreras",
+  "invasion del galibo",
+  "imprudencia de la victima",
+  "menor fallecida",
+  "algemesi",
+  "linea 300",
+  "larga distancia",
+  "talgo",
+  "supresion paso a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_070507_191007"
+}

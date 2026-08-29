@@ -1,0 +1,202 @@
+{
+ "titulo_normalizado": "Incidente por fallo de enclavamiento y señal de entrada 2N en la estación de Pedralba (Zamora) por derivaciones en cableado",
+ "idioma_original": "es",
+ "resumen": "El 1 de julio de 2018 a las 20:02 horas se produjo un incidente por fallo en las instalaciones de seguridad en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora-A Coruña. El mal funcionamiento del enclavamiento, causado por derivaciones en los conductores de enlace entre la cabina de relés y el armario 2, alimentó eléctricamente el foco verde de la señal de entrada 2N pese a estar fundido el fusible F2 por sobrecorriente de una tormenta. El maquinista del tren Alvia 258 detuvo el tren ante la discrepancia entre la señal (verde), el ASFA (parada) y la disposición del itinerario (vía desviada). No se produjeron víctimas ni daños materiales. La reparación del cableado concluyó el 2 de julio a las 16:33 horas.",
+ "hechos": "El incidente por fallo en las instalaciones de seguridad tuvo lugar el 1 de julio de 2018 a las 20:02 horas en la estación de Pedralba (Zamora), pk 113+475 de la línea 822 Zamora-A Coruña, con mando central desde el CTC de Ourense. El tren Alvia 258 de RENFE VIAJEROS, procedente de Madrid Chamartín con destino Pontevedra, tenía previsto realizar el cruce en Pedralba con el tren 253, también de RENFE VIAJEROS, procedente de Pontevedra con destino Madrid Chamartín, conforme a la Consigna A1275.\n\nEl mal funcionamiento del enclavamiento se produjo por la existencia de derivaciones en los conductores de enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente la señal de entrada 2N llegando a encender su foco verde pese a estar fundido por sobrecorriente debida a una tormenta el fusible F2 de alimentación de esta señal. El maquinista del tren 258 detuvo el tren unos metros antes de la señal 2N al observar discrepancias entre su aspecto (foco verde, vía libre), las informaciones del ASFA en la baliza previa (parada) y la disposición del itinerario (entrada a vía desviada), habiendo pasado además por la señal avanzada 1122 en anuncio de parada.\n\nInformado el CTC de Ourense, ordenó que el tren avanzara hasta rebasar la señal 2N. El tren reinició la marcha y se detuvo tras rebasar la señal por acción del frenado de emergencia del ASFA (baliza emitió L8). Previa autorización del CTC, reinició la marcha hasta estacionarse en vía V. El cruce con el tren 253 se completó a las 20:07 horas sin novedad. El puesto de mando notificó el incidente a las 20:08 y se activó el Protocolo de Emergencias del Plan de Contingencias de ADIF. La reparación del cableado averiado concluyó el 2 de julio a las 16:33 horas, restableciéndose la circulación normal.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Pedralba",
+  "pk": "113+475",
+  "linea": "822 Zamora - A Coruña",
+  "provincia": "Zamora",
+  "descripcion_lugar": "Estación de Pedralba, municipio de Pedralba de la Pradería, Comunidad Autónoma de Castilla y León. Estación con 2 vías de circulación (vía I general y vía V), andenes de 152 m, enclavamiento eléctrico de cableado libre, mando central desde CTC de Ourense, Bloqueo Automático de Vía Única con CTC (BAU con CTC)."
+ },
+ "cronologia": [
+  {
+   "hora": "19:56:49",
+   "evento": "El CTC de Ourense establece los itinerarios: entrada a vía I lado Requejo para tren 253 y entrada a vía V lado Puebla de Sanabria para tren 258"
+  },
+  {
+   "hora": "19:58:06",
+   "evento": "El tren 258 ocupa el circuito de vía CV 1122"
+  },
+  {
+   "hora": "19:59:15",
+   "evento": "El tren 258 pasa por la baliza previa de la señal 2N (indicación de parada, L7)"
+  },
+  {
+   "hora": "20:00:05",
+   "evento": "El tren 258 se detiene unos metros antes de la señal de entrada 2N. El maquinista comunica al CTC las discrepancias observadas"
+  },
+  {
+   "hora": "20:00:08",
+   "evento": "El tren 253 pasa por la señal avanzada 1155"
+  },
+  {
+   "hora": "20:02:01",
+   "evento": "El tren 253 pasa por la señal de entrada 1S"
+  },
+  {
+   "hora": "20:02:12",
+   "evento": "El tren 258 inicia la marcha hacia la señal 2N según indicación telefónica del CTC"
+  },
+  {
+   "hora": "20:02:15",
+   "evento": "El tren 253 ocupa el circuito de vía CV I"
+  },
+  {
+   "hora": "20:02:36",
+   "evento": "El tren 258 pasa por la baliza de la señal 2N que emite L8, provocando frenado de emergencia del ASFA"
+  },
+  {
+   "hora": "20:02:40",
+   "evento": "El tren 258 se detiene tras el ASFA y reanuda marcha hasta estacionamiento en vía V"
+  },
+  {
+   "hora": "20:03:41",
+   "evento": "El tren 253 se detiene estacionándose en vía I"
+  },
+  {
+   "hora": "20:05:25",
+   "evento": "El tren 258 pasa por la señal de salida 1N/V"
+  },
+  {
+   "hora": "20:06:32",
+   "evento": "El tren 253 inicia su marcha por vía I"
+  },
+  {
+   "hora": "20:07:08",
+   "evento": "Se completa el cruce de los trenes 258 y 253"
+  },
+  {
+   "hora": "20:08:00",
+   "evento": "El puesto de mando de Ourense notifica el incidente. Se activan señales en parada y rebase por telefonema. Se activa Protocolo de Emergencias"
+  },
+  {
+   "hora": "00:47",
+   "evento": "El Encargado de Trabajos en IISS cursa telefonema al PM de Ourense con condiciones para trabajos de diagnóstico y reparación (02/07/2018)"
+  },
+  {
+   "hora": "06:45",
+   "evento": "Se presenta en Pedralba el agente SIC movilizado (02/07/2018)"
+  },
+  {
+   "hora": "07:09",
+   "evento": "Se establece el Bloqueo Telefónico por Anormalidad entre Puebla de Sanabria y Pedralba (02/07/2018)"
+  },
+  {
+   "hora": "16:05",
+   "evento": "Queda reparada la avería con sustitución del cableado de señalización afectado (02/07/2018)"
+  },
+  {
+   "hora": "16:33",
+   "evento": "Se restablece la circulación con Bloqueo Automático tras llegada del tren 550 a Pedralba (02/07/2018)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "258",
+   "tipo": "Alvia / Larga Distancia",
+   "operador": "RENFE VIAJEROS",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "253",
+   "tipo": "Larga Distancia",
+   "operador": "RENFE VIAJEROS",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 258",
+   "implicacion": "Detuvo el tren ante la señal 2N al observar discrepancias entre señal, ASFA e itinerario. Actuó correctamente informando al CTC. Habilitación conforme a Orden FOM 679/2015, título de conducción en vigor, último reconocimiento psicofísico 10/04/2018"
+  },
+  {
+   "rol": "Responsable de circulación del CTC de Ourense",
+   "implicacion": "Estableció itinerarios de cruce conforme a Consigna A1275. Ordenó al tren 258 avanzar tras rebasar la señal. No pudo detectar la avería porque el enclavamiento no envía información real de indicación de señales al CTC, solo estado de relés. Habilitación desde 23/01/2018"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento eléctrico de cableado libre, tecnología DIMETAL/DIMETRONIC/SIEMENS, instalado en 1974. Señal de entrada 2N alta de tres focos con foco blanco adicional, dotada de balizas ASFA previa y de pie. Señal avanzada 1122. Sistema ASFA con circuito independiente del cuarto técnico (no asociado a la señal mediante unidad de conexión). Consigna Serie A nº 1275 versión 3 de 09/12/2016",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "115 km/h hasta pk 113+000; 90 km/h desde pk 113+000 hasta pk 114+200 (tramo Puebla de Sanabria - Pedralba)",
+  "ancho": "ibérico",
+  "electrificacion": "sin electrificar",
+  "estado_via": "normal; curva a izquierda sentido A Coruña; rampa 11,67‰ hasta inmediaciones de señal 2N, horizontal en estación",
+  "otro": "BAU con CTC telemandado desde Ourense, con Mando Local disponible. Aparatos de vía: desvío 1 en pk 114+134, desvío 2 en pk 113+487. Circuitos de vía convencionales CA 50 Hz tipo WESTINGHOUSE con relés VT1. No dispone de radiotelefonía Tren-Tierra ni GSM-R en el trayecto Puebla de Sanabria-Ourense"
+ },
+ "material_rodante": {
+  "series": "Automotor 730017 (Alvia), 13 vehículos, 2 cabezas motrices, 185 m, 384 t, tipo 180B (vmax 180 km/h). Registrador Hasler TELOC 2500",
+  "averia": "ninguna; el material rodante y equipos de seguridad a bordo funcionaron correctamente",
+  "mantenimiento": "no se menciona en relación con el incidente"
+ },
+ "clima": "Horas diurnas. Durante la tarde se produjeron fuertes tormentas con aguaceros y aparato eléctrico en la zona. En días precedentes también condiciones climatológicas adversas. No se descarta impacto de rayo en la estación. El día del incidente hubo más incidencias en la zona",
+ "causas": {
+  "directa": "Mal funcionamiento del enclavamiento producido por la existencia de derivaciones en los conductores de enlace de la cabina de relés con el armario 2, que alimentaron eléctricamente la señal de entrada 2N llegando a encender su foco verde pese a estar fundido por sobrecorriente el fusible F2 de alimentación de esta señal",
+  "contribuyentes": [
+   "Condiciones climatológicas adversas (fuertes tormentas con aparato eléctrico) que pudieron provocar la fusión del fusible F2 de alimentación de la señal 2N",
+   "Derivaciones en el cableado de señalización entre el cuarto técnico y el armario 2 que alimentaron eléctricamente el foco verde",
+   "El único cable que comunicaba el armario 2 con la cabina era de 52x1 mm2, del que se empleaban 12 hilos para transporte de energía, lo que unido a la antigüedad del cable (más de 40 años) pudo producir derivaciones",
+   "El enclavamiento no envía al CTC información real de la indicación de las señales, solo estado de relés de mando, impidiendo que el responsable de circulación detectara la avería"
+  ],
+  "sistemicas": [
+   "No existe constancia de que se haya procedido a realizar las revisiones a los cables de señalización en Pedralba conforme al Procedimiento Específico MIN-PE-IS-013",
+   "El procedimiento de revisión por muestreo del 10% no permite detectar deterioro puntual del cableado de elevado tiempo en uso",
+   "El procedimiento no indica expresamente mayor atención a cables de mayor antigüedad",
+   "Discrepancia entre documentación de la estación (cable 52x1 mm2) y manifestaciones del personal de IISS (dos cables 27x1,5 mm2), lo que refleja falta de actualización documental",
+   "El enclavamiento permite establecimiento de itinerarios de entrada simultáneos para circulaciones de sentidos opuestos, en contra de la normativa de incompatibilidad"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante implicados",
+  "afectacion_servicio": "No se produjo interceptación de vía. Retrasos en 12 circulaciones (entre 4 y 15 minutos), con un total de 109 minutos perdidos. Desde la notificación del incidente, las señales de entrada de Pedralba se mantuvieron en parada con rebase por telefonema. Bloqueo Telefónico por Anormalidad entre Puebla de Sanabria y Pedralba desde las 07:09 del 02/07/2018 hasta las 16:33"
+ },
+ "lecciones": [
+  "La actuación correcta del maquinista al detenerse ante discrepancias entre señal, ASFA e itinerario evitó consecuencias más graves",
+  "Los enclavamientos eléctricos de cableado libre no transmiten al CTC la indicación real de las señales, solo el estado de relés, lo que impide la detección remota de averías de señalización",
+  "El sistema ASFA funcionó correctamente interpretando que la señal estaba apagada (fusible fundido) y emitiendo indicación de parada",
+  "Compartir en un mismo multiconductor hilos de energía y de mando/comprobación puede generar derivaciones que enciendan focos de señal de forma errónea",
+  "El muestreo del 10% para revisión de cables no permite detectar deterioro puntual en cables de elevada antigüedad",
+  "Existen precedentes de incidentes similares por derivaciones en cableado (El Cuervo 2005, Vicálvaro 2012, Valencia Nord 2017)"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Identificar aquellos enclavamientos que, en su cableado a los elementos del campo, puedan compartir en el mismo multiconductor hilos para el transporte de servicios de órdenes de mando y comprobación con hilos destinados al transporte de energía eléctrica para su alimentación y, en caso de que se considere necesario, proceder a su modificación.",
+   "destinatario": "AESF / ADIF (Implementador final: ADIF)"
+  },
+  {
+   "texto": "En los Procedimientos incluidos en el SGS de ADIF, relativos a la revisión del estado de los conductores, deben tenerse en cuenta su longevidad atendiendo a su fecha de fabricación y tiempo en servicio, adoptando si fuera necesario el calendario de caducidad correspondiente.",
+   "destinatario": "AESF / ADIF (Implementador final: ADIF)"
+  },
+  {
+   "texto": "Verificar y actualizar en caso necesario, la documentación de las estaciones para que cualquier modificación producida en el enclavamiento y en sus instalaciones, quede debidamente reflejada.",
+   "destinatario": "AESF / ADIF (Implementador final: ADIF)"
+  },
+  {
+   "texto": "Los programas de explotación y las Consignas serie A de los enclavamientos deben revisarse y actualizarse a la normativa de Explotación y Seguridad existente, recogiendo las incompatibilidades entre itinerarios de entrada.",
+   "destinatario": "AESF / ADIF (Implementador final: ADIF)"
+  }
+ ],
+ "tags": [
+  "fallo enclavamiento",
+  "derivacion cableado",
+  "senal erronea",
+  "asfa",
+  "senal 2n",
+  "pedralba",
+  "zamora",
+  "linea 822",
+  "tormenta",
+  "fusible fundido",
+  "mando central ctc",
+  "alvia renfe",
+  "cableado libre",
+  "incompatibilidad itinerarios"
+ ],
+ "v3_completo": true,
+ "id": "ES-200421-010718-IF-SN_CIAF_"
+}

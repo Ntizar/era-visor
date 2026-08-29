@@ -1,0 +1,133 @@
+{
+ "titulo_normalizado": "Parada de emergencia en apartadero de Pancorbo por devolución incorrecta de vía con operarios presentes",
+ "idioma_original": "es",
+ "resumen": "El 11 de agosto de 2014, el tren de larga distancia 4087 realizó una parada de emergencia al entrar en el apartadero de Pancorbo (Burgos) debido a la presencia de operarios en la aguja nº 5. El incidente se originó porque el encargado de trabajos devolvió la vía al CTC creyendo erróneamente que los operarios de instalaciones de seguridad mecánica no estaban bajo su responsabilidad ni afectaban a la circulación. No hubo daños personales ni materiales, pero se evidenció un fallo humano y falta de coordinación entre equipos.",
+ "hechos": "Los hechos ocurrieron durante trabajos de nivelación y montaje de motores para la nueva Terminal de Logística en el apartadero de Pancorbo. Existían dos equipos: uno de electrificación en la aguja 7 (bajo la responsabilidad del encargado de trabajos) y otro de instalaciones de seguridad mecánica en la aguja 5. A las 10:50 horas, el encargado de trabajos devolvió la vía 1 al Centro de Control de Tráfico (CTC), asumiendo que los trabajos en la aguja 5 no afectaban a dicha vía o no eran de su competencia, pese a haber conversado previamente con el jefe de ese equipo. Cuando el tren 4087 se aproximaba, el jefe de equipo de la aguja 5, al ver que la señal estaba en vía libre y sus operarios seguían trabajando, corrió hacia el tren realizando señales manuales de alto. El maquinista activó el freno de urgencia deteniendo el tren a 115 metros de la aguja. Se constató que el equipo de la aguja 5 no había instalado las medidas de protección obligatorias (shuntado y señales portátiles).",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Apartadero de Pancorbo",
+  "pk": "437+301",
+  "linea": "100 Madrid Chamartín - Hendaya",
+  "provincia": "Burgos",
+  "descripcion_lugar": "Entrada del apartadero lado Madrid, específicamente en la aguja nº 5 (PK 437+301), donde se realizaban trabajos de montaje."
+ },
+ "cronologia": [
+  {
+   "hora": "08:48",
+   "evento": "El encargado de trabajos solicita al CTC trabajar en la vía 1."
+  },
+  {
+   "hora": "09:09",
+   "evento": "El CTC concede el corte de vía mediante telefonema."
+  },
+  {
+   "hora": "10:48",
+   "evento": "El encargado de trabajos devuelve la vía 1 al CTC."
+  },
+  {
+   "hora": "10:50",
+   "evento": "El CTC confirma la devolución y restablece la circulación."
+  },
+  {
+   "hora": "11:05:44",
+   "evento": "El tren 4087 pasa la baliza de pie de la señal E1 a 50 km/h en vía libre."
+  },
+  {
+   "hora": "11:05:54",
+   "evento": "El maquinista observa operarios en la aguja 5 y usa la bocina."
+  },
+  {
+   "hora": "11:06:07",
+   "evento": "El maquinista activa el freno de emergencia tras recibir señales manuales de alto."
+  },
+  {
+   "hora": "11:06:30",
+   "evento": "El tren queda detenido en el PK 437+186."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4087",
+   "tipo": "Larga Distancia (Alvia)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Encargado de trabajos (Adif)",
+   "implicacion": "Devolvió la vía sin coordinar correctamente con el equipo de la aguja 5, desconocía el alcance total de los trabajos y consideró que no eran su responsabilidad."
+  },
+  {
+   "rol": "Jefe de equipo de instalaciones de seguridad mecánica (Adif/Contrata)",
+   "implicacion": "Realizó señales manuales de alto al tren. Incumplió el RGC al no colocar útiles de cortocircuitado ni señales portátiles de parada."
+  },
+  {
+   "rol": "Maquinista (Renfe)",
+   "implicacion": "Detectó la anomalía visualmente, usó la bocina y aplicó el freno de emergencia correctamente."
+  },
+  {
+   "rol": "Jefe del CTC",
+   "implicacion": "Restableció la circulación basándose en la devolución de vía del encargado de trabajos, sin conocimiento de la presencia del segundo equipo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E1 en indicación de vía libre cuando debía estar protegida; ausencia de señales portátiles de parada.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "30 km/h (Limitación Temporal de Velocidad vigente en la zona)",
+  "ancho": "Ibérico",
+  "electrificacion": "Sí",
+  "estado_via": "En servicio (devuelta indebidamente)",
+  "otro": "Bloqueo automático banalizado (BAB) y control desde Miranda de Ebro."
+ },
+ "material_rodante": {
+  "series": "Serie 120 (doble composición)",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo humano del encargado de trabajos al devolver la vía 1 al CTC mientras continuaban los trabajos en la aguja 5, motivado por la creencia errónea de que dichos trabajos no afectaban a la vía ni estaban bajo su responsabilidad.",
+  "contribuyentes": [
+   "Desconocimiento por parte del encargado de trabajos del alcance real del punto 223 del acta semanal.",
+   "Incumplimiento del artículo 343 del RGC por parte del equipo de la aguja 5 al no instalar útiles de cortocircuitado ni señales portátiles de parada.",
+   "Falta de comunicación efectiva sobre la finalización de los trabajos entre los jefes de ambos equipos."
+  ],
+  "sistemicas": [
+   "Deficiencias en la cumplimentación y detalle del Acta Semanal de Trabajos (punto 223), que describía actividades de forma genérica y con modalidad EC incompatible con los trabajos reales.",
+   "Consigna ATO nº 38 poco detallada respecto a la localización exacta de los trabajos y contradicciones sobre el estado de las agujas."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": null,
+  "afectacion_servicio": "Retraso de 5 minutos en el tren 4087"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar una campaña de control específica para comprobar la correcta cumplimentación de las actas semanales de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos).",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Realizar una campaña de control específica para comprobar el adecuado conocimiento de la normativa a aplicar por parte de los encargados de trabajo en el área operativa (gerencia) del ámbito de Pancorbo (Burgos).",
+   "destinatario": "AESF / Adif"
+  }
+ ],
+ "tags": [
+  "parada de emergencia",
+  "coordinación de trabajos",
+  "acta semanal",
+  "consigna ato",
+  "rgc art 343",
+  "factor humano",
+  "adif",
+  "renfe",
+  "pancorbo",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 11.08.2014 151022-140811-IF-CIAF"
+}

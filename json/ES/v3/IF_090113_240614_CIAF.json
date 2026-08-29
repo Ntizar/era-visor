@@ -1,0 +1,158 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 13096 en el cambio nº 2 de la estación de Villafranca de Córdoba por rotura del pasador de sujeción del bulón de acople del tirante de maniobra",
+ "idioma_original": "es",
+ "resumen": "El 9 de enero de 2013 a las 11:22 h, el tren de viajeros de media distancia 13096 de Renfe Operadora, procedente de Jaén con destino Córdoba Central, descarriló en el cambio nº 2 de la estación de Villafranca de Córdoba (PK 415+648) circulando en marcha de maniobras. El descarrilamiento del segundo bogie fue causado por la rotura del pasador de sujeción del bulón de acople del tirante de maniobra, que provocó la desconexión de la barra de mando del accionamiento eléctrico de agujas y que el espadín de la aguja, acoplado pero no encerrojado, se abriera al paso del primer bogie. No hubo víctimas personales. Los daños materiales se valoraron en 82.600 €. La circulación quedó interrumpida durante más de 6 horas.",
+ "hechos": "El día 9 de enero de 2013, a las 11:22 horas, el tren de viajeros de media distancia 13096 de Renfe Operadora, con origen en Jaén y destino Córdoba Central, se disponía a entrar en la estación de Villafranca de Córdoba (lado Alcázar de San Juan), en la línea 400 Alcázar de San Juan – Cádiz. El jefe del CTC del puesto de mando auxiliar de Córdoba pretendía realizar el cruce del tren 13096 con el tren 695 (procedente de Málaga, destino Barcelona), intentando establecer itinerario de entrada a vía 2 para el 13096 y vía 1 para el 695. Tras varios intentos, el cambio nº 2 no daba comprobación a ambas posiciones, por lo que se decidió establecer itinerario de entrada a vía 1 para el 13096 y vía 3 para el 695. El tren se detuvo ante la señal 4154 (en indicación de parada) a las 11:18:44 h. El maquinista recibió autorización mediante telefonema nº 495 para rebasar la señal con marcha de maniobras y reconocimiento del cambio. El tren inició la marcha a las 11:21:56 h y a las 11:22:02 h el maquinista accionó el pulsador de rebase autorizado. A las 11:22:16 h, circulando a 20 km/h, el primer bogie entró encarrilado correctamente a vía 1, lo que provocó que el espadín de la aguja (lado derecho según el sentido de marcha), que se encontraba acoplado pero no encerrojado, se abriera, causando el descarrilamiento del segundo bogie. El tercer y cuarto bogies quedaron encarrilados en la zona del cambio hacia vía 2, y el resto de la composición permaneció encarrilada sobre vía general. El tren recorrió 36 metros descarrilado antes de detenerse a las 11:22:24 h tras la actuación del freno de emergencia. No se produjeron daños personales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villafranca de Córdoba",
+  "pk": "415+648",
+  "linea": "400 Alcázar de San Juan - Cádiz",
+  "provincia": "Córdoba",
+  "descripcion_lugar": "Cambio nº 2 (desvío nº 2) de la estación de Villafranca de Córdoba, lado Alcázar de San Juan, tramo Los Siles – Alcolea Ag. 431+900, municipio de Villafranca de Córdoba. Desvío de tipo A con tangente 0,09, instalado en curva de transición (clotoide) hacia curva circular de radio 847 m, en pendiente de 0,8 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "11:18:44",
+   "evento": "El tren 13096 queda detenido ante la señal de entrada 4154 (indicación de parada) de la estación de Villafranca de Córdoba."
+  },
+  {
+   "hora": "11:20:00",
+   "evento": "El jefe del CTC autoriza al maquinista, mediante telefonema nº 495, el rebase de la señal 4154 con marcha de maniobras y comprobación del cambio nº 2."
+  },
+  {
+   "hora": "11:21:56",
+   "evento": "El tren 13096 inicia la marcha."
+  },
+  {
+   "hora": "11:22:02",
+   "evento": "El maquinista acciona el pulsador de rebase autorizado del ASFA digital, circulando a 8 km/h."
+  },
+  {
+   "hora": "11:22:04",
+   "evento": "El tren pasa por la baliza de pie de señal 4154 a 11 km/h."
+  },
+  {
+   "hora": "11:22:16",
+   "evento": "Se produce el descarrilamiento del segundo bogie al circular a 20 km/h. El espadín de la aguja se abre al paso del primer bogie."
+  },
+  {
+   "hora": "11:22:19",
+   "evento": "El maquinista actúa sobre el freno de emergencia. El tren circulaba a 16 km/h y había recorrido 87 metros desde el inicio del movimiento."
+  },
+  {
+   "hora": "11:22:24",
+   "evento": "El tren queda detenido tras recorrer 10 metros desde la actuación del freno de emergencia. Total recorrido: 97 metros (36 descarrilado)."
+  },
+  {
+   "hora": "11:24:00",
+   "evento": "El maquinista comunica por radio tren-tierra al jefe del CTC que el primer bogie está en vía general y el segundo ha descarrilado sobre vía 2."
+  },
+  {
+   "hora": "12:35:00",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil."
+  },
+  {
+   "hora": "16:15:00",
+   "evento": "Queda encarrilado el automotor y se aparta a vía 3."
+  },
+  {
+   "hora": "16:55:00",
+   "evento": "Quedan embridados los desvíos 2 y 4 a vía general."
+  },
+  {
+   "hora": "17:42:00",
+   "evento": "La vía queda expedita con limitación de velocidad a 30 km/h entre PK 415+650 y 415+700."
+  },
+  {
+   "hora": null,
+   "evento": "El 25/01/2013 a las 14:00 h se restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13096",
+   "tipo": "Viajeros media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños de escasa entidad en el segundo bogie del coche de cabeza (ejes 9 y 10). Parámetros de rodadura dentro de tolerancia tras el accidente."
+  },
+  {
+   "numero": "695",
+   "tipo": "Viajeros larga distancia (Málaga-Barcelona)",
+   "operador": "Renfe Operadora",
+   "danos": "No se mencionan daños. Se modificó su itinerario de entrada a vía 3."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 13096 (matrícula 9654930)",
+   "implicacion": "Conductor del tren descarrilado. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Antigüedad en el cargo desde 01/08/1986. Último reciclaje formativo 13/11/2012, último reconocimiento médico-psicotécnico 10/02/2010. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día 9: 4 h (3 h 20 min conducción efectiva). No superó la velocidad máxima permitida de 30 km/h en marcha de maniobras."
+  },
+  {
+   "rol": "Jefe del CTC del puesto de mando auxiliar de Córdoba (matrícula 9647538)",
+   "implicacion": "Responsable de circulación que autorizó el rebase de señal con marcha de maniobras. Habilitado conforme a Orden FOM/2872/2010. Último reciclaje formativo 02/12/2010, último reconocimiento médico-psicotécnico 17/05/2012. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día 9: 8 h."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada 4154 (PK 415+633), alta de 3 focos con foco blanco para rebases autorizados, protege el desvío nº 2. Bloqueo automático en vía única electrificada (BAU) con CTC. ASFA digital en el tren.",
+  "tipo_via": "Vía única electrificada. Estación con 3 vías (vía 1 general, vías 2 y 3 de apartado) más vía 4 de estacionamiento. Desvío nº 2 de tipo A con tangente 0,09, divergente, en curva de transición (clotoide) hacia curva circular de radio 847 m. Carril de 54 kg/ml con tirafondos sobre traviesa de madera. Perfil en pendiente de 0,8 milésimas.",
+  "velocidad_maxima": "120 km/h vía general; 30 km/h vía desviada. Marcha de maniobras: máximo 30 km/h.",
+  "ancho": null,
+  "electrificacion": "Vía electrificada (BAU en vía única electrificada).",
+  "estado_via": "Parámetros de vía (ancho, peraltes, flechas) medidos el día del descarrilamiento dentro de tolerancia. El cambio nº 2 no daba comprobación a ambas posiciones antes del accidente.",
+  "otro": "Accionamiento de aguja electrohidráulico modelo L-700-H de Thales con cerrojo de uña. Media semanal de circulaciones del tramo: 172 (16 larga distancia, 60 media distancia, 85 mercancías, 11 servicio). Radiotelefonía modalidad A (tren-tierra)."
+ },
+ "material_rodante": {
+  "series": "Automotor eléctrico 449037, serie S-449, tipo 160A, 5 vehículos, 98 m, 193 toneladas, 6 bogies (12 ejes). Nº UIC: 967194490371. ASFA digital. En el momento del descarrilamiento circulaba con el coche C2 en cabeza.",
+  "averia": "Rotura del pasador de sujeción del bulón de acople del tirante de maniobra del cambio nº 2, causando la desconexión de la barra de mando del accionamiento eléctrico de agujas. El espadín de la aguja (lado derecho) quedó acoplado pero no encerrojado. Daños de escasa entidad en el segundo bogie del coche de cabeza. Parámetros de rueda de ejes 9 y 10 (comprobados el 15/01/2013): todos dentro de tolerancia.",
+  "mantenimiento": "Al desvío nº 2 se le realizaron 7 operaciones de mantenimiento preventivo durante 2012 (mínimo exigido: 4/año). Última intervención: 21/11/2012, sin anomalías detectadas. La inspección visual del pasador no implica sacarlo de su alojamiento para comprobar estado mecánico y oxidación."
+ },
+ "clima": "De día, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo técnico de las instalaciones: rotura del pasador de sujeción del bulón de acople del tirante de maniobra del cambio nº 2, que provocó la desconexión de la barra de mando del accionamiento eléctrico de agujas con el tirante de maniobra. El espadín de la aguja (lado derecho) quedó acoplado pero no encerrojado, y al paso del primer bogie se abrió, provocando el descarrilamiento del segundo bogie.",
+  "contribuyentes": [
+   "El cambio nº 2 no daba comprobación a ambas posiciones, lo que obligó a autorizar el rebase de señal con marcha de maniobras y reconocimiento visual del cambio.",
+   "La inspección visual del pasador en las operaciones de mantenimiento preventivo no incluía sacarlo de su alojamiento para comprobar su estado mecánico y de oxidación.",
+   "El pasador roto permaneció sin detectarse durante al menos 7 operaciones de mantenimiento en 2012 (última: 21/11/2012, ~1,5 meses antes del accidente)."
+  ],
+  "sistemicas": [
+   "Deficiencia en los procedimientos de mantenimiento preventivo de los cerrojos de uña (documento PEIS002F01.R06): la comprobación del pasador se limitaba a inspección visual sin extracción del alojamiento.",
+   "Los criterios genéricos de mantenimiento preventivo de Adif no contemplaban una operación específica de verificación mecánica y de oxidación del pasador de sujeción del bulón de acople."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños de escasa entidad en el segundo bogie del coche de cabeza. Infraestructura: daños en el cuerpo de agujas de los desvíos 2 y 4, rotura de 25 traviesas, valorados en 82.600 €.",
+  "afectacion_servicio": "Circulación interrumpida de 11:22 a 17:42 h (6 h 20 min). Limitación a 30 km/h entre PK 415+650 y 415+700 hasta el 25/01/2013 a las 14:00 h. Trasbordo por carretera de 7 trenes de viajeros (5 media distancia, 2 larga distancia). Retrasos en 4 trenes de viajeros (1 larga, 3 media) con 212 minutos acumulados. 2 trenes de mercancías con 521 minutos de retraso total."
+ },
+ "lecciones": [
+  "La inspección visual de los pasadores de sujeción del bulón de acople del tirante de maniobra no es suficiente para detectar roturas internas o deterioro por oxidación.",
+  "Los procedimientos de mantenimiento preventivo de cerrojos de uña deben incluir la extracción del pasador de su alojamiento para verificar su estado mecánico y de oxidación.",
+  "La periodicidad de las operaciones de mantenimiento de pasadores debe definirse en función de las características del material y condiciones de explotación.",
+  "La rotura de un componente de pequeño tamaño (pasador) puede provocar una cadena de fallos que anule la comprobación del cambio y genere una situación de riesgo en la circulación."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En las operaciones de mantenimiento que se aplican a los cerrojos de uña y cuyas características se controlan mediante el documento PEIS002F01.R06, incluir una operación que complemente la inspección visual que se realiza a los pasadores. Dicha operación consistiría en sacar de su alojamiento los pasadores y comprobar su estado mecánico y de oxidación. La periodicidad de la operación se definiría en función de las características del material y condiciones de explotación.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambio de aguja",
+  "pasador de sujeción",
+  "bulón de acople",
+  "tirante de maniobra",
+  "cerrojo de uña",
+  "accionamiento electrohidráulico",
+  "marcha de maniobras",
+  "mantenimiento preventivo",
+  "villafranca de córdoba",
+  "renfe operadora",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_090113_240614_CIAF"
+}

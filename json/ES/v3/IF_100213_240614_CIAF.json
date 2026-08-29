@@ -1,0 +1,129 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías 9681 en la estación de Maliaño por inadecuada estiba de lingotes de aluminio",
+ "idioma_original": "es",
+ "resumen": "El 2013-02-10, a las 05:43, el tren de mercancías 9681 de Renfe Operadora descarriló en la vía 1A de la estación de Maliaño (Cantabria). El suceso se originó en el octavo vagón, cargado con lingotes de aluminio, y afectó también a los vagones 7º, 9º, 10º y 11º. No hubo fallecidos ni heridos. La causa principal fue una estiba inadecuada por ausencia de intercalares entre la carga y el suelo metálico de la plataforma. Como factor coadyuvante se apreció un alabeo de vía de escasa entidad antes del punto del descarrilamiento.",
+ "hechos": "El día 2013-02-10, a las 05:43, el tren de mercancías 9681 de Renfe Operadora, con origen en Santander y destino Aranguren, circulaba por la vía 1A de la estación de Maliaño, en la línea 780 Santander – Bilbao La Concordia, de la red de ancho métrico de Adif (RAM, antes Feve). La composición estaba formada por dos locomotoras y 20 vagones: siete con bobinas de acero, siete con lingotes de aluminio y seis vacíos. El paso directo por la estación se realizaba con la secuencia de señales E’1, E1 y S1/1A en indicación de vía libre.\n\nAl llegar al PK 537+005, en una curva a la derecha con radio de 305 metros, descarriló el octavo vagón de la composición. A continuación descarrilaron los vagones 7º, 9º, 10º y 11º, que quedaron volcados hacia el lado derecho según el sentido de la marcha e interceptaron la vía 2A. El maquinista percibió una bajada de presión en la tubería de freno automático TFA, actuó sobre el freno de servicio y detuvo el tren en el PK 537+252.\n\nEl octavo vagón estaba cargado con cuatro lingotes de aluminio superpuestos dos a dos, pero carecía de intercalares entre el suelo de la plataforma y el primer nivel de lingotes, apoyando estos directamente sobre los travesaños metálicos. La investigación concluyó que esta inadecuada estiba provocó el desplazamiento lateral de la carga y la desestabilización del vagón. Como causa coadyuvante se apreció la existencia de un alabeo de vía de escasa entidad unos metros antes del punto del descarrilamiento.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Maliaño",
+  "pk": "PK 537+005",
+  "linea": "780 Santander – Bilbao La Concordia",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Vía 1A de la estación de Maliaño, municipio de Camargo, tramo Santander – Orejo. Punto situado en curva a la derecha, radio 305 m y rampa del 4 ‰, en entorno de polígono industrial."
+ },
+ "cronologia": [
+  {
+   "hora": "05:41",
+   "evento": "2013-02-10: el tren pasa por la señal avanzada E’1 en indicación de vía libre a 29 km/h."
+  },
+  {
+   "hora": "05:42",
+   "evento": "2013-02-10: el tren pasa por la señal de entrada E1 en indicación de vía libre a 48 km/h."
+  },
+  {
+   "hora": "05:43",
+   "evento": "2013-02-10: se inicia el descarrilamiento en el PK 537+005; el tren queda detenido a las 05:43:50 en el PK 537+252."
+  },
+  {
+   "hora": "05:50",
+   "evento": "2013-02-10: la circulación queda interrumpida entre el apeadero de Valle Real y la estación de Maliaño; vías 1A y 2A interceptadas."
+  },
+  {
+   "hora": "09:00",
+   "evento": "2013-02-10: al maquinista se le realiza prueba de alcoholemia en Maliaño con resultado negativo."
+  },
+  {
+   "hora": "22:40",
+   "evento": "2013-02-10: quedan encarrilados todos los vagones y son remolcados a Santander en dos cortes."
+  },
+  {
+   "hora": "06:00",
+   "evento": "2013-02-11: se reanuda la circulación en la estación de Maliaño con limitación temporal de 30 km/h en la vía 1A entre los PK 537+000 y 537+150."
+  },
+  {
+   "hora": null,
+   "evento": "2013-02-26: el Pleno de la Comisión de Investigación de Accidentes Ferroviarios acuerda abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "2014-06-24: fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "9681",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de los vagones 7º, 8º, 9º, 10º y 11º; daños en cinco vagones y su carga valorados en 45.126 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Conductor del tren 9681. Percibió una bajada de presión en la TFA, frenó y detuvo el tren. Habilitado para la conducción; antigüedad en el cargo desde 1997-12-05, último curso formativo el 2012-06-06 y último reconocimiento médico y psicotécnico el 2011-06-14. Prueba de alcoholemia negativa. Declaró que posiblemente hubo desplazamiento de la carga."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales E’1, E1 y S1/1A; E’1 y E1 en indicación de vía libre. Bloqueo automático en vía única (BAU) desde Santander hasta Maliaño y transición a bloqueo automático en vía doble (BAD) lado Bilbao.",
+  "tipo_via": "Vía 1A en estación de Maliaño; estación con vías 1A, 2A y 3A; dos vías principales.",
+  "velocidad_maxima": "80 km/h",
+  "ancho": "ancho métrico",
+  "electrificacion": "línea electrificada",
+  "estado_via": "Sobreancho dentro de tolerancia. Peralte teórico de 110 mm superado en todos los puntos medidos y por encima de la tolerancia +10 mm en cinco puntos (121, 124, 125, 123 y 121 mm). Alabeo de 4 mm/m en una zona, frente a tolerancia máxima de 3 mm/m. Alineación longitudinal dentro de tolerancia.",
+  "otro": "PK 537+005 en curva derecha de radio 305 m y rampa del 4 ‰. 122 circulaciones diarias por la línea en ese PK. Tráfico de viajeros y mercancías. Radiotelefonía modalidad C. Edificio de estación en PK 537+886."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 1904 y 1902; 20 vagones plataformas 2SSg y SGH; 80 ejes; 260 metros de longitud; 861 toneladas de masa remolcada; tren tipo 50 (velocidad máxima 50 km/h).",
+  "averia": "Descarrilamiento iniciado en el octavo vagón, plataforma 2SSg 639. El detector de descarrilamiento del segundo bogie activó la TFA; el del primer bogie no se activó. Parámetros de rodadura del vagón descarrilado dentro de norma.",
+  "mantenimiento": null
+ },
+ "clima": "nublado y era de noche",
+ "causas": {
+  "directa": "Inadecuada estiba de la carga del octavo vagón: cuatro lingotes de aluminio apoyados directamente sobre los travesaños metálicos del suelo de la plataforma, sin intercalares entre carga y suelo, lo que provocó desplazamiento lateral por falta de adherencia aluminio-acero, modificación del centro de gravedad y desestabilización del vagón.",
+  "contribuyentes": [
+   "alabeo de vía de escasa entidad unos metros antes del punto de descarrilamiento",
+   "peralte que supera la tolerancia máxima en algunos puntos medidos"
+  ],
+  "sistemicas": [
+   "ausencia de ficha técnica específica para el transporte de lingotes de aluminio en la normativa de Feve",
+   "la IG-66 no era de obligado cumplimiento en Feve/RAM aunque sí en Renfe Operadora",
+   "la Orden FOM/2872/2010 sobre habilitación de cargadores no era de aplicación al personal de Feve/RAM"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en cinco vagones y su carga, valorados en 45.126 €. Infraestructura: daños en vías 1A y 2A en 150 y 50 metros respectivamente; reposición de 18 metros de carril, 280 traviesas y 110 toneladas de balasto; valorados en 131.567 €.",
+  "afectacion_servicio": "Circulación interrumpida entre el apeadero de Valle Real y la estación de Maliaño desde las 05:50 del 2013-02-10 hasta las 06:00 del 2013-02-11. Vías 1A y 2A interceptadas; vía 3A disponible. Trasbordo por autobús de viajeros de cercanías entre Bilbao y Santander. Suprimidos 34 trenes de corta distancia, 6 de media distancia y 6 de mercancías. Limitación temporal de 30 km/h en vía 1A entre PK 537+000 y 537+150."
+ },
+ "lecciones": [
+  "No deben apoyarse directamente piezas de aluminio o palanquilla sobre plataformas con piso metálico; es necesario colocar intercalares de madera para garantizar la inmovilidad de la carga.",
+  "Se formularon observaciones para mejorar los atados de la carga.",
+  "Se realizaron pruebas con trenes y seguimiento por personal de inspección para verificar el comportamiento de los cargamentos, sin incidencias reseñables."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "13/13-1 Incluir lo antes posible la IG-66 como norma de aplicación obligatoria en el ámbito de la red de ancho métrico (RAM).",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  },
+  {
+   "texto": "13/13-2 Incorporar lo antes posible en el ámbito de la red de ancho métrico (RAM) la normativa sobre habilitación de cargadores establecida en la Orden FOM/2872/2010, de 5 de noviembre.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "estiba",
+  "lingotes de aluminio",
+  "ancho métrico",
+  "renfe operadora",
+  "adif",
+  "maliaño",
+  "cantabria",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_100213_240614_CIAF"
+}

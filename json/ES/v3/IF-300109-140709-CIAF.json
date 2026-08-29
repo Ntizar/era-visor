@@ -1,0 +1,102 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por el tren 8604 de Feve en el paso a nivel tipo C de la estación de Sodupe",
+ "idioma_original": "es",
+ "resumen": "El 30 de enero de 2009, a las 19:58, el tren de viajeros 8604 de Feve arrolló a una persona en el paso a nivel tipo C de la estación de Sodupe. Las barreras estaban bajadas y las señales acústicas y luminosas funcionaban correctamente. La víctima, un joven de 18 años, falleció y no se produjeron daños materiales en tren, infraestructura ni medio ambiente. El suceso afectó a 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso acumulado y 78 minutos de interrupción. Dadas las circunstancias, no se establecieron recomendaciones.",
+ "hechos": "El tren de viajeros 8604 de Feve, procedente de Aranguren y con trayecto Aranguren-Bilbao, circulaba por la línea 24 Santander-Bilbao al paso por la estación de Sodupe. A las 19:58 horas del 30 de enero de 2009, arrolló a una persona que cruzaba el paso a nivel tipo C, P.K. 631,562, cuando las barreras estaban bajadas y las señales acústicas y luminosas en funcionamiento.\n\nSegún la declaración del maquinista, poco antes de llegar al paso a nivel hizo uso del silbato y observó a una persona que cruzaba corriendo la vía de derecha a izquierda, con intención de hacerlo antes de la llegada del tren. Volvió a hacer uso del silbato y accionó el freno, pero no pudo evitar el golpe con la parte delantera de la unidad 2459, que circulaba a una velocidad aproximada de 30 km/h.\n\nEl paso a nivel nº 0168, denominado Sodupe, estaba dotado de semibarreras enclavadas, señales acústicas y luminosas y zona peatonal, con pavimento de asfalto. El tren estaba compuesto por las unidades diésel-eléctricas 2459-2409 y 2474-2424. Como consecuencia del suceso falleció un joven de 18 años y no se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sodupe",
+  "pk": "631,562",
+  "linea": "24 Santander - Bilbao",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Paso a nivel nº 0168, tipo C, en el P.K. 631,562 de la estación de Sodupe, casco urbano, tramo recto y buena visibilidad, cruzado por la carretera foral BI-504 de Sodupe a Gordejuela."
+ },
+ "cronologia": [
+  {
+   "hora": "19:57",
+   "evento": "Inicio de la interrupción de la circulación."
+  },
+  {
+   "hora": "19:58",
+   "evento": "El tren de viajeros 8604 de Feve arrolla a una persona en el paso a nivel tipo C de la estación de Sodupe."
+  },
+  {
+   "hora": "20:49",
+   "evento": "Fin de la primera interrupción de la circulación."
+  },
+  {
+   "hora": "22:15",
+   "evento": "Inicio de la segunda interrupción de la circulación."
+  },
+  {
+   "hora": "22:40",
+   "evento": "La autoridad judicial autoriza el levantamiento del cadáver y finaliza la segunda interrupción."
+  },
+  {
+   "hora": "23:00",
+   "evento": "El Inspector General de Feve comunica a la CIAF el arrollamiento de una persona por el tren 8604."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8604",
+   "tipo": "tren de viajeros",
+   "operador": "Feve",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 8604",
+   "implicacion": "Carné ferroviario nº 8659; habilitado para la conducción; reciclaje formativo el 28/05/08 y reconocimiento médico y psicotécnico el 01/11/08; jornada efectiva de conducción el día 30 de 2 horas y 57 minutos; hizo uso del silbato y accionó el freno, siendo su actuación correcta."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento; barreras bajadas durante 56 segundos antes de la llegada del tren; señales indicadoras del cierre del paso a nivel y de acceso a la estación en posición correcta.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Alineación recta y buena visibilidad; el paso a nivel funcionó conforme a la norma.",
+  "otro": "Bloqueo automático en vía única (BAU) y control de tráfico centralizado y mando local (CTC ML); radio analógica; paso a nivel nº 0168 Sodupe, clase C, pavimento de asfalto y zona peatonal; desfase horario de 14 minutos entre registrador/moviola y hora oficial; previsto estudio para aumentar capacidad en Aranguren-Zaramillo que podría implicar la supresión del paso a nivel."
+ },
+ "material_rodante": {
+  "series": "Unidades de tren diésel eléctricas 2459-2409 y 2474-2424 (UTDE 2459/09-2474/24).",
+  "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; al accionar el freno de servicio el tren circulaba a 36,5 km/h y golpeó a unos 30 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "En el momento del arrollamiento era de noche.",
+ "causas": {
+  "directa": "La víctima cruzó el paso a nivel sorteando las barreras bajadas en el momento en que el tren 8604 circulaba por él.",
+  "contribuyentes": [
+   "La víctima hizo caso omiso de la barrera, de las señales del paso y de las señales del tren.",
+   "La víctima intentó cruzar antes de que el tren 8604 sobrepasara el paso a nivel."
+  ],
+  "sistemicas": [
+   "El paso a nivel se encuentra en el casco urbano de Sodupe, es muy transitado y los peatones cruzan aún cuando el paso está protegido."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Afectados 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso total acumulado; circulación interrumpida 78 minutos en dos periodos: 19:57-20:49 y 22:15-22:40."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "peatón",
+  "barreras bajadas",
+  "feve",
+  "sodupe",
+  "vizcaya",
+  "víctima mortal",
+  "protección activa",
+  "tren 8604"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-300109-140709-CIAF"
+}

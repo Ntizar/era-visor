@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo por tren en paso a nivel entre Briviesca y Calzada de Bureba (Burgos)",
+ "idioma_original": "es",
+ "resumen": "El 2006-10-19, a las 14:42, el tren de Media Distancia 6021 de RENFE arrolló a un Citroën Berlingo en un paso a nivel de clase B del punto kilométrico 420,623 de la línea Madrid-Hendaya, entre Briviesca y Calzada de Bureba (Burgos). El conductor y el acompañante del vehículo fallecieron. El paso estaba correctamente operativo, aunque la señalización vertical de carretera no se ajustaba a la normativa y había pérdida de visibilidad por vegetación y caseta. El tren circulaba a 128 km/h, por debajo de los 135 km/h permitidos, y el maquinista hizo uso repetido del silbato. La investigación atribuyó la causa principal a la invasión del paso por el vehículo pese a la señalización luminosa y acústica.",
+ "hechos": "El tren de viajeros de Media Distancia nº 6021 de RENFE, compuesto por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas, arrolló a un vehículo de carretera Citroën Berlingo en el paso a nivel de clase B sito en el pk 420,623 de la línea Madrid-Hendaya, entre Briviesca y Calzada de Bureba. El vehículo cruzó el paso desde la margen izquierda a la derecha, en sentido de la kilometración.\n\nEn el momento del arrollamiento el tren circulaba a 128 km/h, con velocidad máxima permitida de 135 km/h. El paso se encontraba en trayecto BAB, en recta y con pendiente de 7,31 milésimas, con bloqueo automático banalizado y vía doble electrificada. Las condiciones atmosféricas eran buenas y el tiempo despejado.\n\nEl maquinista informó que, al pasar la señal del paso, vio un vehículo circulando por el camino en sentido izquierdo, hizo uso repetido del silbato y, tras perder momentáneamente la visión por la caseta, lo encontró pasando el paso y lo arrolló; no observó que frenara. A consecuencia del suceso fallecieron el conductor y el acompañante, dos varones de 36 y 34 años.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "420,623",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Burgos",
+  "descripcion_lugar": "Paso a nivel de clase B sito en P.K. 420,623, entre las estaciones de Briviesca y Calzada de Bureba, municipio de Briviesca."
+ },
+ "cronologia": [
+  {
+   "hora": "14:42",
+   "evento": "Se produce el arrollamiento del vehículo por el tren 6021 en el paso a nivel."
+  },
+  {
+   "hora": "16:30",
+   "evento": "Prueba de alcoholemia al maquinista, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "16:55",
+   "evento": "Los servicios sanitarios proceden al levantamiento de los cadáveres."
+  },
+  {
+   "hora": "17:05",
+   "evento": "Los bomberos retiran los restos del vehículo."
+  },
+  {
+   "hora": "19:20",
+   "evento": "Finaliza la perturbación de tráfico, con una duración de 278 minutos."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6021",
+   "tipo": "Media Distancia",
+   "operador": "RENFE",
+   "danos": "Daños en el material motor y en las instalaciones."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 6021",
+   "implicacion": "Apto para sus funciones; actuación correcta; prueba de alcoholemia negativa; hizo uso repetido del silbato."
+  },
+  {
+   "rol": "conductor del vehículo",
+   "implicacion": "Fallecido; invadió el paso a nivel pese a la señalización luminosa y acústica."
+  },
+  {
+   "rol": "acompañante del vehículo",
+   "implicacion": "Fallecido."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase B dotado de señalización acústica y luminosa; la señalización vertical de carretera no se ajusta a la OM 2001-08-02; señalización incompleta en el camino de acceso izquierdo.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "135 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Recta, pendiente de 7,31 milésimas; correcto funcionamiento de los sistemas de seguridad y de la señalización ferroviaria de ADIF.",
+  "otro": "Bloqueo Automático Banalizado; momento de circulación de 1.301 vehículos/día; relacionado con el Aviso nº66 de la Gerencia Operativa de Miranda de Ebro (2003-11-17) y capítulo 8 del Manual de Circulación; paso en fase de anteproyecto de supresión por ADIF."
+ },
+ "material_rodante": {
+  "series": "440105",
+  "averia": "No se constató anomalía en equipos de seguridad de la locomotora, del tren o de las señales; se registraron daños en material motor.",
+  "mantenimiento": null
+ },
+ "clima": "Buenas condiciones atmosféricas de visibilidad, con tiempo despejado.",
+ "causas": {
+  "directa": "El conductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa y acústica del paso y del silbato del tren.",
+  "contribuyentes": [
+   "La señalización vertical de carretera de titularidad municipal no se ajusta a las prescripciones de la Orden Ministerial de 2001-08-02.",
+   "La señalización del paso es incompleta en el camino de acceso izquierdo.",
+   "La visibilidad se reduce al aproximarse al paso por la vegetación de la margen de las vías y por la caseta de instalaciones."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños en el material motor y en las instalaciones.",
+  "afectacion_servicio": "Perturbación de tráfico de 278 minutos; 204 minutos de retrasos acumulados en 8 trenes de viajeros y 815 minutos acumulados en 8 trenes de mercancías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Que el Ayuntamiento de Briviesca, como titular del camino, disponga la señalización vertical del paso de acuerdo con la Orden Ministerial de 2001-08-02.",
+   "destinatario": "Ayuntamiento de Briviesca"
+  },
+  {
+   "texto": "Mejorar la seguridad del paso a nivel mediante el despeje de vegetación para mejorar la visibilidad.",
+   "destinatario": null
+  },
+  {
+   "texto": "Realizar un recuento de vehículos de carretera y, si fuera posible, dotar el paso de una protección de clase C.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "tren",
+  "vehículo",
+  "fallecidos",
+  "señalización",
+  "visibilidad",
+  "media distancia",
+  "renfe",
+  "adif",
+  "burgos",
+  "clase b"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-191006-020307"
+}

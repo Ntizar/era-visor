@@ -1,0 +1,114 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en la estación de Vilanova i la Geltrú por tren de Media Distancia nº 8259",
+ "idioma_original": "es",
+ "resumen": "El 11 de diciembre de 2006, a las 22:06, un varón de 18 años falleció al ser arrollado por el tren de Media Distancia nº 8259 de Renfe en la estación de Vilanova i La Geltrú (PK 636,000, línea Madrid-Barcelona). La víctima intentaba cruzar las vías desde el andén principal, invadiendo el gálibo del tren que realizaba su paso sin parada por vía general 2 a 101 km/h. No se produjeron daños materiales. El accidente fue calificado como grave y se recomendó reforzar la sensibilización ciudadana y la señalización de prohibición de cruce.",
+ "hechos": "Una persona que intentaba cruzar las vías desde el andén principal resultó fallecida al ser golpeada por el tren de Media Distancia nº 8259 de Renfe, compuesto por la U.T. 4401512, procedente de San Andreu de Condal y con destino Tortosa, que realizaba su paso sin parada por vía general 2 en la estación de Vilanova i La Geltrú (PK 636,000, línea Madrid-Barcelona) el 11 de diciembre de 2006 a las 22:06. La víctima era un varón de 18 años. Según la declaración del maquinista, observó a la persona cruzando en diagonal unos 50-60 metros antes de la máquina, le pitó, y la persona intentó echarse para atrás pero fue golpeada con el canto de la unidad. El maquinista tiró de urgencia y paró el tren al final del andén. El tren circulaba a 101 km/h, velocidad inferior a la máxima permitida de 130 km/h. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Vilanova i La Geltrú",
+  "pk": "636,000",
+  "linea": "Madrid-Barcelona",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación con playa de vías compuesta por dos vías generales (2 y 3), dos vías de apartado (1 y 4) y vías mango. Andenes de tipo alto, paso inferior peatonal en buen estado con ascensores. La traza discurre en curva con visibilidad reducida. Red Ferroviaria de Interés General administrada por ADIF."
+ },
+ "cronologia": [
+  {
+   "hora": "22:06",
+   "evento": "Arrollamiento de la persona por el tren 8259 en vía general 2. El tren queda detenido sobre la zona de agujas de salida de la estación."
+  },
+  {
+   "hora": "22:06",
+   "evento": "Interrupción de la circulación por ambas vías."
+  },
+  {
+   "hora": "22:55",
+   "evento": "Se permite la circulación por vía 1 en marcha a la vista sin exceder 5 km/h, tras estacionar el tren dentro de andén 2."
+  },
+  {
+   "hora": "23:28",
+   "evento": "Levantamiento del cadáver y restablecimiento de la circulación en condiciones normales por ambas vías."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8259",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 8259",
+   "implicacion": "Observó a la persona cruzando en diagonal unos 50-60 m antes, pitó, aplicó freno de urgencia y detuvo el tren al final del andén. Prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+  },
+  {
+   "rol": "Víctima (varón de 18 años)",
+   "implicacion": "Fallecida al intentar cruzar las vías desde el andén principal, invadiendo el gálibo del tren en movimiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con CTC. Se recomienda reforzar señalización de prohibición de cruzar vías mediante cartelones y avisos por megafonía.",
+  "tipo_via": "Vía general 2 (paso sin parada); estación con vías generales 2 y 3, vías de apartado 1 y 4, y vías mango.",
+  "velocidad_maxima": "130 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Andenes de tipo alto que dificultan notablemente el cruce de vías. Paso inferior peatonal en buen estado de mantenimiento con ascensores. Traza en curva con visibilidad reducida."
+ },
+ "material_rodante": {
+  "series": "U.T. 4401512",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "La víctima invadió el gálibo del tren 8259 al intentar cruzar las vías por lugar no autorizado, sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "Cruce de vías por lugares inadecuados sin hacer uso del paso inferior peatonal disponible.",
+   "Visibilidad reducida por traza en curva en la estación.",
+   "Andenes de tipo alto que dificultan el cruce pero no impiden la invasión de vía."
+  ],
+  "sistemicas": [
+   "Insuficiente sensibilización de la ciudadanía sobre el peligro de cruzar vías por lugares no permitidos.",
+   "Señalización de prohibición de cruce mejorable en la estación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Interrupción de circulación por ambas vías desde las 22:06. Retrasos acumulados de 628 minutos en 18 trenes: 3 de Media Distancia (126 min), 6 de Larga Distancia (187 min), 3 de Mercancías (164 min) y 6 de Cercanías (151 min). Circulación normal restablecida a las 23:28."
+ },
+ "lecciones": [
+  "La invasión de gálibo por peatones que cruzan vías en estaciones es una causa directa de accidentes mortales.",
+  "La existencia de pasos inferiores en buen estado no evita por sí sola el cruce indebido de vías si no se refuerza la sensibilización y la señalización."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar campañas de sensibilización destinadas a la ciudadanía en los medios de comunicación, incidiendo en el peligro que supone cruzar las vías del ferrocarril por lugares no permitidos y reiterando el uso de los pasos inferiores peatonales de las estaciones.",
+   "destinatario": "Ciudadanía / Medios de comunicación"
+  },
+  {
+   "texto": "Reforzar la señalización de prohibición de cruzar las vías en la estación, mediante cartelones y avisos por megafonía.",
+   "destinatario": "ADIF"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "invasion-galibo",
+  "media-distancia",
+  "renfe",
+  "vilanova-i-la-geltru",
+  "estacion",
+  "paso-inferior",
+  "sensibilizacion",
+  "accidente-grave",
+  "cruce-vias",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-111206-130407"
+}

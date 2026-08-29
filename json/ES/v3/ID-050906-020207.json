@@ -1,0 +1,119 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona fallecida en plena vía entre Barcena Pie de Concha y Cobejo",
+ "idioma_original": "es",
+ "resumen": "Accidente ferroviario grave ocurrido el 5 de septiembre de 2006 en la Línea 160 Santander-Palencia, en el punto kilométrico 459/200, provincia de Cantabria. Un tren de Media Distancia/Cercanías de Renfe arrolló a un varón de 77 años que transitaba por el centro de la vía. La circulación se interrumpió desde las 16:13 hasta las 19:32, causando retrasos en varios trenes. Las conclusiones atribuyen el accidente a la imprudencia de la víctima, sin recomendaciones específicas por ausencia de núcleos urbanos que justifiquen vallado.",
+ "hechos": "El tren de Media Distancia servicio de Cercanías nº 26326 de Renfe, compuesto por la locomotora 440109 y dos vehículos con masa remolcada de 107 toneladas, circulaba entre Barcena Pie de Concha y Cobejo. A las 16:13 detuvo su marcha en el punto kilométrico 459/050 de la línea Santander-Palencia tras arrollar a un anciano que transitaba por el centro de la caja de la vía. La víctima era un varón de 77 años. El maquinista informó del suceso al Puesto de Mando de Santander, y los servicios de seguridad, Protección Civil y medios sanitarios fueron avisados. La Guardia Civil confirmó el fallecimiento y se realizaron actuaciones en el lugar, incluida la prueba de alcoholemia al maquinista con resultado negativo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "459/200",
+  "linea": "160 Santander-Palencia",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Tramo entre Barcena Pie de Concha y Cobejo, en plena vía, en tramo curvo de radio 353 metros y rampa de 9,2 milésimas, zona de espesa vegetación, difícil accesibilidad y sin accesos a la vía férrea ni cerramiento perimetral."
+ },
+ "cronologia": [
+  {
+   "hora": "16:13",
+   "evento": "Detención del tren tras arrollar a una persona en el punto kilométrico 459/050."
+  },
+  {
+   "hora": "16:13",
+   "evento": "Interrupción de la circulación."
+  },
+  {
+   "hora": "19:32",
+   "evento": "Reanudación de la circulación en condiciones normales tras autorización judicial para el levantamiento del cadáver."
+  },
+  {
+   "hora": "20:23",
+   "evento": "Prueba de control de alcoholemia al maquinista con resultado negativo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "26326",
+   "tipo": "Media Distancia servicio de Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  },
+  {
+   "numero": "26926",
+   "tipo": "Tren de viajeros",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren",
+   "implicacion": "Informó del suceso, hizo uso del silbato y del freno de emergencia, realizó prueba de alcoholemia con resultado negativo y declaró ante agentes de Adif."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático con CTC",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Tramo curvo de radio 353 metros y rampa de 9,2 milésimas; visibilidad reducida; sin accesos a la vía férrea; sin cerramiento perimetral.",
+  "otro": "Zona de espesa vegetación, difícil accesibilidad y sin asentamientos o núcleos de población próximos."
+ },
+ "material_rodante": {
+  "series": "Locomotora 440109",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "La víctima transitaba indebidamente por el centro de la vía cuando fue arrollada por el tren.",
+  "contribuyentes": [
+   "Tramo curvo de radio reducido.",
+   "Rampa de 9,2 milésimas.",
+   "Visibilidad reducida para el maquinista y la víctima.",
+   "Zona de espesa vegetación y difícil accesibilidad.",
+   "Ausencia de cerramiento perimetral de línea.",
+   "Velocidad del tren de 70 km/h, inferior a la máxima de 80 km/h, aunque insuficiente para evitar el arrollamiento tras detectar a la persona."
+  ],
+  "sistemicas": [
+   "Imprudencia de la persona arrollada que se encontraba caminando por el centro de la vía férrea indebidamente."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Interrupción de la circulación desde las 16:13 hasta las 19:32. Retraso acumulado de 77 minutos en 6 trenes de viajeros y de 70 minutos en 3 trenes de mercancías."
+ },
+ "lecciones": [
+  "El arrollamiento se atribuye a la imprudencia de la víctima por transitar indebidamente por la vía.",
+  "La ausencia de núcleos urbanos en la zona no justificó la ejecución de un vallado perimetral.",
+  "Las campañas de sensibilización sobre el peligro de cruzar o transitar por las vías podrían reducir la siniestralidad."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "No se estiman convenientes recomendaciones específicas para este accidente, al no existir núcleos urbanos que justifiquen la ejecución de un vallado en la zona.",
+   "destinatario": null
+  },
+  {
+   "texto": "Fomentar campañas de sensibilización a la población sobre el peligro que supone cruzar o transitar por las vías.",
+   "destinatario": "Autoridades ferroviarias y operadores"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "plena vía",
+  "línea santander palencia",
+  "cantabria",
+  "renfe",
+  "adif",
+  "cercanías",
+  "bloqueo automático con ctc",
+  "imprudencia",
+  "interrupción de circulación",
+  "retrasos"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-050906-020207"
+}

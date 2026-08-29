@@ -1,0 +1,70 @@
+{
+ "titulo_normalizado": "Accidente ferroviario en paso a nivel entre Ronda y Setenil (Málaga)",
+ "idioma_original": "es",
+ "resumen": "La CIAF resolvió el expediente 0031/2009 correspondiente a un accidente ferroviario ocurrido el 6 de julio de 2009. El suceso se produjo en el paso a nivel entre Ronda y Setenil, provincia de Málaga, en la línea 420 Bif. Las Maravillas - Algeciras. El Pleno de la Comisión, celebrado el 22 de diciembre de 2009, aprobó como definitivo el informe particular presentado por el técnico investigador. En la resolución no se establecieron recomendaciones.",
+ "hechos": "El día 6 de julio de 2009 se produjo un accidente ferroviario en el paso a nivel entre Ronda y Setenil, en la provincia de Málaga, dentro de la línea 420 Bif. Las Maravillas - Algeciras. El suceso fue objeto del expediente 0031/2009 de la Comisión de Investigación de Accidentes Ferroviarios.\n\nEl Pleno de la CIAF, celebrado el 22 de diciembre de 2009, analizó el expediente y aprobó como definitivo el informe particular presentado por el técnico investigador. La resolución RS-060709-221209-CIAF no estableció recomendaciones.",
+ "lugar": {
+  "tipo": null,
+  "estacion": null,
+  "pk": null,
+  "linea": "420 Bif. Las Maravillas - Algeciras",
+  "provincia": "Málaga",
+  "descripcion_lugar": "Paso a nivel entre Ronda y Setenil"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-07-06: Accidente ferroviario en el paso a nivel entre Ronda y Setenil (Málaga), línea 420 Bif. Las Maravillas - Algeciras"
+  },
+  {
+   "hora": null,
+   "evento": "2009-12-22: Pleno de la CIAF aprueba como definitivo el informe particular y resuelve sin recomendaciones"
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso a nivel entre Ronda y Setenil, línea 420 Bif. Las Maravillas - Algeciras"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel",
+  "ronda",
+  "setenil",
+  "málaga",
+  "línea 420",
+  "las maravillas",
+  "algeciras",
+  "accidente ferroviario",
+  "ciaf",
+  "resolución",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-060709-221209-CIAF"
+}

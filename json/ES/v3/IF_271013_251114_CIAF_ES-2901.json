@@ -1,0 +1,118 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal en parada y conato de colisión en la estación de Zalla (Vizcaya)",
+ "idioma_original": "es",
+ "resumen": "El 27 de octubre de 2013, el tren de cercanías 08904 rebasó indebidamente la señal S2/2 en indicación de parada en la estación de Zalla. Este error provocó una situación de conato de colisión con el tren turístico 73101, que estaba detenido ante la señal de entrada E1 para realizar un cruce. No hubo víctimas ni daños materiales, aunque se produjeron pequeños retrasos. La investigación concluyó que la causa fue un fallo humano por falta de atención del maquinista.",
+ "hechos": "Los hechos ocurrieron a las 08:31 horas del 27 de octubre de 2013 en la estación de Zalla (línea 790 RAM). El tren de cercanías 08904, con origen Bilbao y destino La Calzada, realizó una parada comercial en la vía 2. Al reanudar la marcha, el maquinista no percibió que la señal de salida S2/2 estaba en indicación de parada debido a un despiste. Aplicó el freno de urgencia tarde, activándose el freno de emergencia del sistema ASFA al pasar por la baliza, pero el tren rebasó la señal unos 12 metros.\n\nSimultáneamente, el tren turístico 73101 (Transcantábrico Gran Lujo), procedente de Mercadillo-Villasana, esperaba ante la señal de entrada E1 para cruzarse con el anterior. El rebase del 08904 ocupó el circuito de vía A1, cambiando la señal E1 a parada y generando un conato de colisión con una distancia mínima de 191 metros entre ambos trenes. El personal de mando autorizó el retroceso del tren 08904 hasta su punto de estacionamiento, permitiendo que ambos trenes continuaran su viaje con retrasos mínimos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Zalla",
+  "pk": "2+057",
+  "linea": "790 RAM La Asunción Universidad - Aranguren",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Estación dotada de enclavamiento electrónico, vía única con apartado, bloqueo automático y control centralizado (CTC) desde Bilbao."
+ },
+ "cronologia": [
+  {
+   "hora": "08:29:42",
+   "evento": "El tren 08904 se detiene en la vía 2 para parada comercial."
+  },
+  {
+   "hora": "08:30:06",
+   "evento": "El tren 08904 reanuda la marcha tras la parada."
+  },
+  {
+   "hora": "08:30:17",
+   "evento": "El tren 73101 se detiene ante la señal E1."
+  },
+  {
+   "hora": "08:30:19",
+   "evento": "El maquinista del 08904 aplica freno de urgencia (seta) al percatarse de la señal en parada."
+  },
+  {
+   "hora": "08:30:22",
+   "evento": "Activación del freno de emergencia ASFA al pasar por la baliza de la señal S2/2; rebase de la señal."
+  },
+  {
+   "hora": "08:30:27",
+   "evento": "El tren 08904 queda detenido habiendo rebasado la señal S2/2 en 12 metros."
+  },
+  {
+   "hora": "08:32:05",
+   "evento": "Inicio del movimiento de retroceso autorizado del tren 08904."
+  },
+  {
+   "hora": "08:32:25",
+   "evento": "El tren 73101 reinicia la marcha con itinerario de paso por vía 1."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "08904",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": null
+  },
+  {
+   "numero": "73101",
+   "tipo": "Tren turístico de viajeros (Transcantábrico Gran Lujo)",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 08904",
+   "implicacion": "Fallo humano por falta de atención/despiste al no respetar la señal S2/2 en parada."
+  },
+  {
+   "rol": "Jefe de circulación CTC Bilbao",
+   "implicacion": "Gestión correcta de la incidencia, autorización de retroceso y verificación de instalaciones."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal S2/2 baja de 4 focos en indicación de parada con buena visibilidad; sistema ASFA operativo.",
+  "tipo_via": "Vía única con apartado (vía 2)",
+  "velocidad_maxima": "80 km/h",
+  "ancho": "Métrico (RAM)",
+  "electrificacion": null,
+  "estado_via": "Correcto",
+  "otro": "Enclavamiento electrónico, bloqueo automático, mando centralizado desde Bilbao."
+ },
+ "material_rodante": {
+  "series": "UT 3601-3602 (tren 08904); Locomotora 1971 (tren 73101)",
+  "averia": null,
+  "mantenimiento": "Funcionamiento correcto según registros"
+ },
+ "clima": "Sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren 08904 por falta de atención en la conducción.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "Retraso de 4 minutos para el tren 08904 y 3 minutos para el tren 73101. Sin interceptación de vía."
+ },
+ "lecciones": [
+  "Importancia de la atención continua durante la maniobra de arranque tras paradas comerciales.",
+  "Eficacia de los sistemas de seguridad como el ASFA para limitar las consecuencias de errores humanos."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "incidente ferroviario",
+  "rebase de señal",
+  "conato de colision",
+  "fallo humano",
+  "estacion zalla",
+  "renfe operadora",
+  "asfa",
+  "cercanias",
+  "transcantabrico",
+  "vizcaya"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_271013_251114_CIAF_ES-2901"
+}

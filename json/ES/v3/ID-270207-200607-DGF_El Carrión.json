@@ -1,0 +1,101 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de dos personas por un tren en el apeadero de El Carrión (Palencia)",
+ "idioma_original": "es",
+ "resumen": "El 27 de febrero de 2007, sobre las 10:12 horas, el tren de Larga Distancia nº61 de Renfe Operadora arrolló a dos personas al final del andén del apeadero de El Carrión, en la línea 160 Santander-Palencia. Como consecuencia del arrollamiento fallecieron un hombre de 77 años y una mujer de 75 años. El tren circulaba a 119 km/h, por debajo de la velocidad máxima de 120 km/h, y no se produjeron daños materiales. La investigación atribuyó el accidente a la invasión del gálibo de la vía por imprudencia de las víctimas.",
+ "hechos": "El día 27 de febrero de 2007, sobre las 10:12 horas, el tren de Larga Distancia nº61 de Renfe Operadora, compuesto por la locomotora 269406 y 11 vehículos con masa remolcada de 189 toneladas, circulaba con paso directo por el apeadero de El Carrión, situado en el punto kilométrico 310,550 de la línea 160 Santander-Palencia, en la provincia de Palencia. El tren detuvo su marcha tras arrollar a dos personas que se encontraban al final del andén del apeadero.\n\nComo consecuencia del arrollamiento resultaron fallecidos un hombre de 77 años y una mujer de 75 años. Testigos presentes en el paso a nivel manifestaron que la pareja de ancianos paseaba por el andén y que una de las víctimas inició una carrera introduciéndose en la caja de la vía, mientras la otra corría detrás. El maquinista declaró que observó cómo el hombre se colocaba de bruces sobre el carril derecho y cómo la mujer se acercaba para retirarle, notando después un fuerte impacto sobre la locomotora.\n\nEl análisis de la memoria estática de la locomotora indicó que el tren circulaba a 119 km/h en el momento del arrollamiento, velocidad inferior a la máxima prescrita de 120 km/h, y que se detuvo tras la frenada de emergencia en el punto kilométrico 311,293. El maquinista comunicó el suceso al Puesto de Mando de Santander, se activaron los protocolos correspondientes y la prueba de alcoholemia resultó negativa (0,00 mg/ml). No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "El Carrión",
+  "pk": "310,550",
+  "linea": "160 Santander-Palencia",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Apeadero de El Carrión, en el núcleo urbano de Monzón de Campos, en tramo Monzón de Campos-Fromista. El accidente se produjo al final del andén, junto a un paso a nivel de clase C, en zona urbana, traza recta y bloqueo telefónico de vía única."
+ },
+ "cronologia": [
+  {
+   "hora": "10:12",
+   "evento": "Arrollamiento de dos personas por el tren de Larga Distancia nº61 en el apeadero de El Carrión."
+  },
+  {
+   "hora": "12:10",
+   "evento": "Inicio de la interrupción de la circulación."
+  },
+  {
+   "hora": "14:10",
+   "evento": "Fin de la interrupción de la circulación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "61",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales; retraso de 58 minutos."
+  },
+  {
+   "numero": "60",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales; retraso de 25 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren nº61",
+   "implicacion": "Conducía el tren; observó a dos personas en el entorno del andén y el impacto sobre la locomotora; comunicó el suceso al Puesto de Mando de Santander; alcoholemia negativa (0,00 mg/ml); actuación correcta tras el accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo telefónico de vía única; paso a nivel de clase C dotado de semibarreras automáticas, abatidas por la presencia del tren.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Traza recta; buena visibilidad no disminuida por las condiciones atmosféricas del día; andén principal recrecido en buen estado; paso a nivel con firme strail en buen estado.",
+  "otro": "Apeadero sin parada prescrita; paso a nivel de clase C sin paso para peatones; rampa de acceso al andén; la línea está incluida en la actuación de alta velocidad Palencia-Santander."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269406 y 11 vehículos",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "No se especifican condiciones atmosféricas adversas; la visibilidad era buena y no resultó disminuida por las condiciones del día.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía al paso del tren por las víctimas, debido a imprudencia.",
+  "contribuyentes": [
+   "Según el informe de Renfe Operadora, el marido se tropezó al subir la rampa de acceso al andén.",
+   "Según el informe de Renfe Operadora, la esposa intentó sacar al marido de la caja de la vía sin percatarse de la llegada del tren."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Interrupción de la circulación desde las 12:10 hasta las 14:10 horas; retraso de 58 minutos en el tren nº61 y de 25 minutos en el tren nº60."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Fomentar campañas de sensibilización destinadas a la ciudadanía para concienciar del peligro que supone cruzar o transitar por las vías del ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "apeadero",
+  "paso a nivel",
+  "imprudencia",
+  "invasion del gabito",
+  "linea santander-palencia",
+  "renfe operadora",
+  "adif",
+  "bloqueo telefonico",
+  "alta velocidad palencia-santander",
+  "fallecidos",
+  "sensibilizacion"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-270207-200607-DGF_El Carrión"
+}

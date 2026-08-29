@@ -1,0 +1,107 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un peatón por el tren Larga Distancia 311 entre Hernani Centro y Hernani",
+ "idioma_original": "es",
+ "resumen": "El 18 de marzo de 2007, un tren de Larga Distancia arrolló mortalmente a un varón de 32 años que caminaba por la caja de vía. El suceso ocurrió durante la madrugada entre Hernani Centro y Hernani, en la Línea 100 Madrid-Hendaya. La investigación determinó que la causa fue la imprudencia de la víctima, quien presuntamente cruzaba para acortar el camino desde unas fiestas locales. No hubo daños materiales, aunque se produjeron retrasos en otros trenes.",
+ "hechos": "El tren de viajeros Larga Distancia 311 de Renfe Operadora, remolcado por la locomotora 333034, procedente de Fuentes de Oñoro con destino Hendaya, circulaba por la Línea 100 Madrid-Hendaya. A las 06:03 horas, a unos 100 metros de la señal de entrada de la estación de Hernani, el maquinista observó a una persona andando por la caja de vía de espaldas al tren. El conductor hizo uso del silbato y del freno de emergencia, pero fue imposible evitar el arrollamiento, resultando fallecido un varón de 32 años. El tren se detuvo en el punto kilométrico 617/067.\n\nTras el suceso, el maquinista avisó al puesto de mando de Miranda de Ebro, que alertó a los servicios de emergencia y a las autoridades. La Policía comprobó la posición del cuerpo y autorizó la reanudación de la marcha a las 06:54 horas, una vez retirado el cadáver por los bomberos. Los medios sanitarios confirmaron el fallecimiento y el levantamiento del cuerpo se realizó a las 07:37 horas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Hernani",
+  "pk": "615/644",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Entre el apeadero de Hernani Centro y la estación de Hernani, en un tramo de vía en curva de transición de parámetro 400 metros."
+ },
+ "cronologia": [
+  {
+   "hora": "06:03",
+   "evento": "Arrollamiento de la persona por el tren 311 en el PK 615/644."
+  },
+  {
+   "hora": null,
+   "evento": "El tren se detiene en el PK 617/067 y el maquinista informa al puesto de mando de Miranda de Ebro."
+  },
+  {
+   "hora": "06:54",
+   "evento": "La Policía autoriza a reanudar la marcha del tren tras retirar el cuerpo los bomberos."
+  },
+  {
+   "hora": "06:55",
+   "evento": "Fin de la incidencia y perturbación en el tráfico (duración total de 52 minutos)."
+  },
+  {
+   "hora": "07:37",
+   "evento": "Levantamiento del cadáver y traslado al tanatorio de Hernani."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "311",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales"
+  },
+  {
+   "numero": "205",
+   "tipo": "Larga Distancia",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Realizó maniobras de frenado de emergencia y aviso acústico. Dio negativo en la prueba de alcoholemia (0,00mg/1000ml)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E1 de entrada a la estación de Hernani",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "105 km/h",
+  "ancho": null,
+  "electrificacion": "Sí",
+  "estado_via": "Ambos márgenes vallados con cerramiento metálico en buenas condiciones, aunque con roturas en zonas próximas.",
+  "otro": "Bloqueo Automático en vía doble (B.A.D). Pendiente de 0.3 milésimas."
+ },
+ "material_rodante": {
+  "series": "Locomotora 333034",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Buenas condiciones meteorológicas, aunque el accidente se produjo de noche, lo que reducía la visibilidad.",
+ "causas": {
+  "directa": "Imprudencia de la víctima al invadir el gálibo de la vía y caminar por la caja de vía sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "Horas nocturnas que dificultan la visualización de la persona por parte del maquinista.",
+   "Roturas en el cerramiento metálico de la vía en zonas próximas que facilitaron el acceso."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Retraso de 34 minutos para el tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos para el tren de Larga Distancia 205."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Revisar el vallado metálico que aísla la línea ferroviaria de la población y proceder a su reparación en aquellos puntos en los que se encuentre dañado o roto.",
+   "destinatario": "Administrador de Infraestructuras Ferroviarias (Adif)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "imprudencia",
+  "mortal",
+  "larga distancia",
+  "renfe",
+  "adif",
+  "vallado",
+  "hernani",
+  "nocturnidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-180307-200607-DGF"
+}

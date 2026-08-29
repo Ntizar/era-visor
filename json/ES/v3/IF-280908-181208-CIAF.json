@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de cercanías 23219 en P.K. 140,750 de la línea 400 Alcázar de San Juan-Cádiz",
+ "idioma_original": "es",
+ "resumen": "El 28 de septiembre de 2008 a las 13:28 horas, el tren de cercanías 23219 de Renfe Operadora arrolló a un varón de 38 años en el P.K. 140,750 de la línea 400 Alcázar de San Juan-Cádiz, entre los apeaderos de San Fernando de Cádiz y Puerto Real. La víctima se encontraba en la caja de la vía, distraída, de espaldas al tren y lanzando piedras. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto mortal. Adif consideró el suceso como un presunto suicidio. No se produjeron daños materiales ni se establecieron recomendaciones.",
+ "hechos": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219 de Renfe Operadora, compuesto por la UT 463215 (3 vehículos, 154 Tm de masa remolcada), procedente del apeadero de San Fernando de Cádiz con destino a Puerto Real, arrolló a un hombre que se encontraba en la caja de la vía, distraído, de espaldas al tren y lanzando piedras. El maquinista hizo uso del silbato repetidas veces y accionó el freno de emergencia, reduciendo la velocidad, pero no pudo evitar el arrollamiento. La víctima, un varón de 38 años, falleció en el acto y su cadáver quedó fuera de la caja de la vía.\n\nEl Coordinador de accidentes ferroviarios de Adif comunicó el suceso a la CIAF el mismo día a las 14:28 horas. Al día siguiente, 29 de septiembre, Adif comunicó que tras las primeras investigaciones el accidente pasaba a ser considerado como un presunto suicidio. A las 13:48 horas se personaron efectivos de la Policía Nacional y el Puesto de Mando ordenó que el tren prosiguiera su marcha, quedando el Interventor en Ruta custodiando los restos. Se prescribió a las demás circulaciones parada en el P.K. 140,800 y marcha a la vista. A las 15:16 horas llegaron los servicios funerarios y a las 16:00 horas se procedió al levantamiento del cadáver. A las 16:10 horas se reanudó la circulación en condiciones normales.\n\nEl análisis de la memoria estática de la UT 463215 determinó que en el momento de accionar el freno de emergencia el tren circulaba a 111 km/h, por debajo de la velocidad máxima permitida de 140 km/h. La prueba de alcoholemia del maquinista arrojó resultado negativo (0,00 mg/1000 ml). Tanto el material rodante como las instalaciones técnicas funcionaron correctamente. El técnico responsable concluyó que el accidente tuvo su origen en la ocupación de la víctima en la caja de la vía, lugar no autorizado, al paso del tren 23219.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "140,750",
+  "linea": "400 Alcázar de San Juan – Cádiz",
+  "provincia": "Cádiz",
+  "descripcion_lugar": "Entre los apeaderos de San Fernando de Cádiz y Puerto Real. Trayecto Bahía Sur – Las Aletas. Tramo de alineación recta, vía única electrificada."
+ },
+ "cronologia": [
+  {
+   "hora": "13:28",
+   "evento": "Arrollamiento de la víctima por el tren 23219 en el P.K. 140,750"
+  },
+  {
+   "hora": "13:48",
+   "evento": "Se personan efectivos de la Policía Nacional; el Puesto de Mando ordena que el tren 23219 prosiga su marcha; se prescribe parada en P.K. 140,800 y marcha a la vista al resto de circulaciones"
+  },
+  {
+   "hora": "14:28",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF por correo electrónico"
+  },
+  {
+   "hora": "15:16",
+   "evento": "Llegan los servicios funerarios"
+  },
+  {
+   "hora": "16:00",
+   "evento": "Se procede al levantamiento del cadáver"
+  },
+  {
+   "hora": "16:10",
+   "evento": "Se reanuda la circulación en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "23219",
+   "tipo": "cercanías (viajeros)",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 23219",
+   "implicacion": "Hizo uso del silbato repetidas veces y accionó el freno de emergencia; actuación correcta; prueba de alcoholemia negativa (0,00 mg/1000 ml); jornada de conducción 4h07min; último reciclaje formativo 30/10/2007; último reconocimiento médico y psicotécnico 27/09/2005"
+  },
+  {
+   "rol": "Interventor en Ruta",
+   "implicacion": "Viajaba en el tren 23219; se quedó custodiando los restos de la víctima tras el suceso"
+  },
+  {
+   "rol": "Viajero del tren",
+   "implicacion": "Testigo; firmó el Acta de uso del silbato, dejando constancia de que el maquinista hizo uso del silbato"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático con Control de Tráfico Centralizado (BAU con CTC)",
+  "tipo_via": "Vía única, alineación recta",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Radiotelefonía modalidad A; Consigna Serie B nº 9 de la Gerencia Operativa de Sevilla"
+ },
+ "material_rodante": {
+  "series": "UT 463215 (3 coches, 154 Tm masa remolcada); Número UIC: 967194632155",
+  "averia": "Ninguna; funcionó correctamente",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Ocupación de la víctima en la caja de la vía, lugar no autorizado, al paso del tren de viajeros 23219",
+  "contribuyentes": [
+   "La víctima se encontraba distraída, de espaldas al tren, lanzando piedras, sin ser consciente de la presencia del tren",
+   "Adif consideró el accidente como un presunto suicidio"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura, ni al medio ambiente",
+  "afectacion_servicio": "1 tren de larga distancia con 6 min de retraso; 2 trenes de media distancia con 12 min de retraso total; 4 trenes de cercanías (incluido el implicado) con 73 min de retraso total. Circulación interrumpida desde las 13:28 hasta las 16:10 horas"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dadas las características del suceso, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "suicidio",
+  "persona en via",
+  "cercanias",
+  "renfe operadora",
+  "adif",
+  "caja de via",
+  "linea 400",
+  "cadiz",
+  "ut 463",
+  "freno de emergencia",
+  "silbato"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-280908-181208-CIAF"
+}

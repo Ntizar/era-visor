@@ -1,0 +1,126 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en el paso entre andenes de la estación de Sant Vicenç de Calders por tren de Larga Distancia",
+ "idioma_original": "es",
+ "resumen": "El 27 de febrero de 2007, a las 22:05 horas, un varón de 67 años fue arrollado mortalmente por el tren de Viajeros Larga Distancia nº 15997 de Renfe al cruzar indebidamente por un paso entarimado entre andenes en la estación de Sant Vicenç de Calders (PK 618,000, línea Madrid-Barcelona). El maquinista aplicó el freno de urgencia a 76 km/h y usó el silbato, pero no pudo evitar el atropello. No se produjeron daños materiales. La investigación concluyó que la causa fue el uso indebido del paso entre andenes en lugar del paso inferior existente. Se recomendaron mejoras de accesibilidad y señalización prohibitiva.",
+ "hechos": "Una persona de 67 años resultó arrollada a las 22:05 horas del 27 de febrero de 2007 en el paso entre andenes de la estación de Sant Vicenç de Calders (PK 618,000, línea Madrid-Barcelona). La víctima cruzaba un paso entarimado situado al final del andén (lado Tarragona) al paso del tren de Viajeros Larga Distancia nº 15997 de Renfe, compuesto por la locomotora 252-040 y 29 coches con masa remolcada de 455 Tm, que efectuaba paso directo (sin parada prescrita) por vía I. El maquinista observó a la persona cruzando de izquierda a derecha (sentido de avance del tren), hizo uso del silbato y aplicó el freno de urgencia a 76 km/h, deteniéndose completamente tras avanzar 275 m, sin poder evitar el arrollamiento. El tren estuvo detenido 53 minutos. No se produjeron daños materiales ni en instalaciones ni en material móvil. La Guardia Civil procedió al levantamiento del cadáver a las 23:52.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Vicenç de Calders",
+  "pk": "618,000",
+  "linea": "Madrid-Barcelona",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso entre andenes (paso entarimado) situado al final del andén, lado Tarragona, extremo de la estación, suficientemente alejado del edificio de viajeros. Escasa visibilidad limitada por curva. La estación dispone de 3 andenes y 11 vías (3 generales dirección Lérida y Tarragona, resto apartadero y vías mango). Existe un paso inferior para acceso a andenes de vías 1, 2, 3 y 4."
+ },
+ "cronologia": [
+  {
+   "hora": "22:05",
+   "evento": "Arrollamiento de la persona por el tren 15997 en el paso entarimado entre andenes"
+  },
+  {
+   "hora": "22:05",
+   "evento": "El maquinista usa silbato y aplica freno de urgencia a 76 km/h; el tren para tras 275 m"
+  },
+  {
+   "hora": "22:58",
+   "evento": "El tren reanuda su marcha tras 53 minutos detenido"
+  },
+  {
+   "hora": "23:52",
+   "evento": "La Guardia Civil procede al levantamiento del cadáver"
+  },
+  {
+   "hora": null,
+   "evento": "Extracción de la memoria estática de la locomotora 252-040 (desfase horario de -6 minutos)"
+  },
+  {
+   "hora": null,
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/1000 ml)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15997",
+   "tipo": "Viajeros Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales en el material móvil"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Matrícula 8936361. Observó a la persona cruzando, usó silbato y aplicó freno de urgencia. Alcoholemia negativa (0,00 mg/1000 ml). Jornada: tren implicado; 24 h anteriores: descanso; 48 h anteriores: descanso."
+  },
+  {
+   "rol": "Personal de la Gerencia Territorial de Seguridad de Adif",
+   "implicacion": "Acudieron al lugar para inspeccionar el punto del arrollamiento y tomar pruebas"
+  },
+  {
+   "rol": "Medios sanitarios",
+   "implicacion": "Confirmaron el fallecimiento de la víctima"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso entre andenes sin señalización prohibitiva para personas no autorizadas (según recomendación del informe). Paso inferior con buena señalización.",
+  "tipo_via": "Bloqueo Automático Banalizado con CTC",
+  "velocidad_maxima": "160 km/h (máxima autorizada a paso por estación); limitación temporal a la salida de 80 km/h; velocidad real al aplicar freno: 76 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Andenes recrecidos impidiendo accesibilidad a las vías. Paso entarimado con escasa visibilidad limitada por curva, adecuado estado de mantenimiento. Paso inferior con adecuado estado de iluminación y limpieza, pero sin rampa o acceso para personas de movilidad reducida."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252-040 + 29 coches, masa remolcada 455 Tm",
+  "averia": "Ninguna",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Cruce indebido de las vías por la persona accidentada a través del paso entarimado entre andenes, en lugar de utilizar el paso inferior existente, sin percatarse de la llegada del tren 15997",
+  "contribuyentes": [
+   "Escasa visibilidad en el paso entre andenes limitada por curva",
+   "Ausencia de señalización prohibitiva (cartelones) en el paso entre andenes para personas no autorizadas",
+   "Falta de rampa o acceso para personas de movilidad reducida en el paso inferior, lo que puede incentivar el uso del paso entre andenes"
+  ],
+  "sistemicas": [
+   "Diseño de las instalaciones de la estación que permite el acceso de personas no autorizadas al paso entre andenes destinado únicamente a personal ferroviario"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+  "afectacion_servicio": "Tren detenido 53 minutos. Retrasos acumulados: 17 min en 2 trenes de Cercanías, 9 min en 1 tren Regional, 83 min en 3 trenes de Larga Distancia y 185 min en 4 trenes de Mercancías."
+ },
+ "lecciones": [
+  "El paso entre andenes entarimado está destinado únicamente al personal ferroviario autorizado y no debe ser utilizado por viajeros",
+  "La existencia de un paso inferior en buenas condiciones no impide el uso indebido del paso entre andenes si no está correctamente señalizado y restringido",
+  "La falta de accesibilidad (rampas) en el paso inferior puede contribuir a que personas con movilidad reducida opten por el paso entre andenes"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Realizar un estudio para la adecuación de las instalaciones de la estación de forma que se garantice el acceso a personas de movilidad reducida a los distintos andenes sin tener que utilizar el paso entre andenes destinado únicamente al personal ferroviario autorizado",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  },
+  {
+   "texto": "Señalizar el paso entre andenes con cartelones que prohíban el acceso al mismo a personas no autorizadas",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso entre andenes",
+  "paso entarimado",
+  "sant vicenç de calders",
+  "línea madrid-barcelona",
+  "larga distancia",
+  "renfe",
+  "víctima mortal",
+  "cruce indebido",
+  "accesibilidad",
+  "señalización prohibitiva",
+  "bloqueo automático banalizado"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-270207-200607-DGF_14_Sant Vicenç de Calders"
+}

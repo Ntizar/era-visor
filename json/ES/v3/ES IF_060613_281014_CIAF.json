@@ -1,0 +1,133 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 533 de Renfe Operadora en el cambiador de ancho de Zaragoza Delicias por rotura por fatiga de tornillos del cerrojo de cambio de ancho",
+ "idioma_original": "es",
+ "resumen": "El 6 de junio de 2013 a las 11:08 horas, el tren de viajeros 533 de Renfe Operadora, procedente de Irún con destino Barcelona Sants, descarriló al pasar por el cambiador de ancho de Zaragoza Delicias. La rueda izquierda del séptimo eje (cuarto bogie, segundo coche) no realizó correctamente el cambio de ancho de ibérico a estándar debido a la rotura por fatiga de los tornillos de sujeción del soporte de la palanca del cerrojo. No hubo heridos ni fallecidos. La circulación se interrumpió durante 11 horas y 52 minutos, afectando a 14 trenes de larga distancia.",
+ "hechos": "El día 6 de junio de 2013 a las 11:08 horas, el tren de viajeros de larga distancia 533 de Renfe Operadora, formado por material CAF serie 120 en doble composición (ramas 120.009 en cabeza y 120.005 en cola), procedente de Irún con destino Barcelona Sants, se disponía a realizar el cambio de ancho de ibérico (1.668 mm) a estándar (1.435 mm) en el cambiador de Zaragoza Delicias. Circulaba a una velocidad de entre 5 y 6 km/h, inferior al máximo de 15 km/h permitido para esta serie.\n\nEl personal del cambiador advirtió al maquinista que la rueda izquierda del séptimo eje según el sentido de la marcha (cuarto bogie, segundo coche) no había realizado correctamente el cambio de ancho, quedando enclavada en ancho ibérico. El maquinista aplicó el freno de urgencia, pero la rueda perdió el plano de rodadura y descarriló. La cabeza del tren se encontraba a 45 metros de la salida del cambiador y recorrió 4 metros hasta la detención. El tren quedó detenido con la rueda descarrilada a unos 40 centímetros del carril y el bogie girado a la izquierda.\n\nLa investigación posterior en talleres de CAF reveló que los dos tornillos que sujetan el soporte palanca del cerrojo estaban seccionados a ras por cizalladura, con un 98% de rotura por fatiga. Esta rotura impidió que el cerrojo liberara el conjunto del eje para realizar el cambio de ancho. No se produjeron heridos ni víctimas mortales, pero sí daños en la rueda y en las instalaciones del cambiador.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Zaragoza Delicias",
+  "pk": "337+395",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Cambiador de ancho de Zaragoza Delicias, tramo CIM-Aguja km 337.1 a Cambiador Zaragoza Delicias, con plataformas independientes para material Talgo y CAF"
+ },
+ "cronologia": [
+  {
+   "hora": "11:08",
+   "evento": "Descarrilamiento de la rueda izquierda del séptimo eje al pasar por el cambiador de ancho. El personal del cambiador avisa al maquinista y este aplica el freno de urgencia."
+  },
+  {
+   "hora": "11:55",
+   "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "11:56",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": "12:15",
+   "evento": "Finaliza el transbordo de viajeros de la rama 120.009 a una rama de reserva serie 114 en Zaragoza."
+  },
+  {
+   "hora": "12:50",
+   "evento": "La rama de cola 120.005 llega a Plasencia de Jalón tras ser desacoplada y encaminada como tren ZC536, continuando hacia Barcelona Sants como tren 533."
+  },
+  {
+   "hora": "23:00",
+   "evento": "El cambiador queda reparado y operativo, restableciéndose la circulación normal."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "533",
+   "tipo": "tren de viajeros de larga distancia, tipo 250 (velocidad máxima 250 km/h)",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la rueda derecha del 7º eje del segundo coche (rama 120.009). Rueda descarrilada fuera de la vía a unos 40 cm del carril."
+  },
+  {
+   "numero": "96719120009 (rama 120.009)",
+   "tipo": "Unidad CAF serie 120 con bogies BRAVA, en cabeza de la doble composición",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de la rueda izquierda del séptimo eje (cuarto bogie, segundo coche). 2.028.548 km recorridos hasta el descarrilamiento."
+  },
+  {
+   "numero": "96719120005 (rama 120.005)",
+   "tipo": "Unidad CAF serie 120 con bogies BRAVA, en cola de la doble composición",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños. Desacoplada y encaminada como tren ZC536 hacia Plasencia de Jalón."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 533 (matrícula 9753328)",
+   "implicacion": "Aplicó el freno de urgencia al ser avisado por el personal del cambiador. Título B de conducción vigente, antigüedad desde 12.09.1986. Alcoholemia negativa. Jornada del día 6: 3h15 (2h43 de conducción efectiva). Cumplía toda la normativa."
+  },
+  {
+   "rol": "Dos agentes de mantenimiento del cambiador",
+   "implicacion": "Supervisaban in situ el proceso de cambio de ancho. Avisaron al maquinista de la anomalía y le indicaron realizar parada inmediata."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático de vía única (BAU) electrificado con CTC y ancho ibérico (lado Irún) a bloqueo de señalización lateral (BSL) y ancho estándar (lado Barcelona)",
+  "tipo_via": "Cambiador de ancho de ejes con plataformas independientes para material Talgo y CAF",
+  "velocidad_maxima": "15 km/h para el paso por el cambiador (serie 120); velocidad máxima del tren: 250 km/h",
+  "ancho": "Transición de ancho ibérico (1.668 mm) a ancho estándar (1.435 mm)",
+  "electrificacion": "Electrificada (CTC en lado ibérico)",
+  "estado_via": "Daños en el cambiador: deformaciones en los perfiles del sistema de guiado, tornillos de sujeción de los carriles y elementos metálicos de la plataforma para material CAF",
+  "otro": "Radiotelefonía modalidad A en ancho ibérico; GSM-R en ancho estándar. Media semanal de circulaciones del tramo: 118 (116 larga distancia, 2 media distancia)"
+ },
+ "material_rodante": {
+  "series": "CAF serie 120 (fabricada por CAF y Alstom), bogies BRAVA (Bogie de Rodadura de Ancho Variable). Doble composición: 8 vehículos, 32 ejes, 215 m de longitud, 532 toneladas.",
+  "averia": "Rotura por fatiga (cizalladura, 98% rotura antigua) de los dos tornillos de sujeción del soporte palanca del cerrojo del dispositivo de cambio de ancho del séptimo eje (eje 120-3-0095-9). Impidió la apertura del cerrojo y el cambio de ancho de la rueda izquierda.",
+  "mantenimiento": "Plan de mantenimiento correcto. Última revisión V1 el 05.06.2013 (2.027.395 km) con inspección visual de tornillos del soporte palanca. Última ES el 30.05.2013 (2.023.780 km). La rotura por fatiga no fue detectable mediante inspección visual."
+ },
+ "clima": "Día, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo del material móvil: rotura por fatiga de los tornillos de sujeción del soporte palanca del cerrojo del dispositivo de cambio de ancho, que impidió la apertura del cerrojo y el cambio de ancho de la rueda izquierda del séptimo eje, quedando enclavada en ancho ibérico y descarrilando al perder el plano de rodadura.",
+  "contribuyentes": [
+   "Rotura por fatiga (cizalladura) de ambos tornillos de sujeción del soporte palanca, no detectable en inspección visual durante la V1 del día anterior",
+   "Diseño del mecanismo de sujeción de tornillos del soporte palanca susceptible de fatiga",
+   "Sucesos previos similares con bogies BRAVA (series 120, 120.050, 121) por defectos en piezas del mecanismo de liberación del bloqueo del cambio de ancho"
+  ],
+  "sistemicas": [
+   "Lentitud en la implantación de la medida correctiva definitiva (cordón de soldadura), que solo se aplica en visitas generales VG cada 600.000 km, ralentizada por el bajo kilometraje de las unidades",
+   "Medidas preventivas previas (chapa tope, punto de soldadura) resultaron insuficientes para garantizar la integridad del sistema de sujeción frente a la fatiga",
+   "Necesidad de inspecciones no destructivas (ultrasonidos) para detectar roturas por fatiga no visibles en inspección visual"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en la rueda derecha del 7º eje del segundo coche (rama 120.009). Infraestructura: deformaciones en perfiles del sistema de guiado, tornillos de sujeción de carriles y elementos metálicos de la plataforma CAF del cambiador.",
+  "afectacion_servicio": "Circulación interrumpida durante 11 horas y 52 minutos (de 11:08 a 23:00). 14 trenes de larga distancia afectados, incluido el implicado, con un retraso total de 570 minutos. Se estableció plan alternativo de transporte."
+ },
+ "lecciones": [
+  "La rotura por fatiga de tornillos de pequeño tamaño no es detectable mediante inspección visual y requiere técnicas de ensayos no destructivos como ultrasonidos",
+  "Las medidas correctivas provisionales (chapa tope, punto de soldadura) pueden no ser suficientes frente a mecanismos de fatiga y deben complementarse con una solución definitiva",
+  "La implantación de medidas correctivas vinculada a ciclos de mantenimiento muy largos (VG cada 600.000 km) puede ralentizar excesivamente la protección de la flota cuando las unidades recorren menos kilómetros de lo previsto",
+  "La existencia de múltiples sucesos similares con el mismo componente (bogies BRAVA) debe acelerar la implantación de soluciones definitivas"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Analizar la posibilidad de adelantar los plazos de implantación de la medida propuesta (\"cordón de soldadura\").",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambiador de ancho",
+  "fatiga de tornillos",
+  "bogies brava",
+  "serie 120",
+  "renfe operadora",
+  "zaragoza delicias",
+  "dispositivo de cambio de ancho",
+  "cerrojo",
+  "cordón de soldadura",
+  "mantenimiento",
+  "ultrasonidos"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES IF_060613_281014_CIAF"
+}

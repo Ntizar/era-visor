@@ -1,0 +1,114 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por un tren de mercancías en la estación de Torredembarra",
+ "idioma_original": "es",
+ "resumen": "El informe definitivo investiga el arrollamiento de una persona el 28 de febrero de 2007 a las 05:12 horas en la estación de Torredembarra, punto kilométrico 13,550 de la Línea 600 Valencia Norte – San Vicente de Calders. La víctima fue arrollada por el tren de Mercancías 42551 de Renfe, formado por la locomotora 250021, 21 vagones y 1.176 Tm, que circulaba por vía I. El varón resultó herido grave y falleció dos días después en el Hospital Juan XXIII de Tarragona. La causa fue la invasión indebida de la vía; no hubo daños materiales y se produjeron retrasos en mercancías, larga y media distancia.",
+ "hechos": "El 28 de febrero de 2007, a las 05:12 horas, una persona resultó arrollada en la estación de Torredembarra al paso del tren de Mercancías 42551 de Renfe, formado por la locomotora 250021, 21 vagones y 1.176 Tm de masa remolcada, que circulaba por vía I. La víctima, un varón, sufrió heridas graves y falleció dos días después en el Hospital Juan XXIII de Tarragona.\n\nSegún el parte del maquinista, la persona saltó a la vía y corrió paralela al carril derecho junto a la valla que protege la vía; el maquinista hizo uso del freno de emergencia y del silbato, pero no pudo evitar el arrollamiento. Del análisis de la memoria estática del tren se desprende que la velocidad en el momento de accionar el freno de emergencia era de 98 km/h, inferior a la máxima autorizada de 100 km/h a su paso por la estación.\n\nEl maquinista informó del suceso al Puesto de Mando de Barcelona, que cursó los avisos correspondientes. Los medios sanitarios trasladaron a la víctima al hospital a las 06:25 horas, y a las 06:27 horas se autorizó la marcha del tren, que reanudó su recorrido con 81 minutos de retraso. No se produjeron daños materiales en las instalaciones ni en el material móvil.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Torredembarra",
+  "pk": "13,550",
+  "linea": "Línea 600 Valencia Norte – San Vicente de Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Estación de Torredembarra, en el punto kilométrico 13,550 de la Línea 600 Valencia Norte – San Vicente de Calders; arrollamiento al paso del tren por vía I, junto a andén con paso inferior, cerramiento y señalización de peligro."
+ },
+ "cronologia": [
+  {
+   "hora": "05:12",
+   "evento": "Arrollamiento de una persona en la estación de Torredembarra al paso del tren de Mercancías 42551 por vía I."
+  },
+  {
+   "hora": "06:25",
+   "evento": "La víctima, herida grave, es trasladada al Hospital Juan XXIII de Tarragona."
+  },
+  {
+   "hora": "06:27",
+   "evento": "Se autoriza la marcha del tren 42551; hasta ese momento la circulación entre Torredembarra y Tarragona se realiza por la vía II."
+  },
+  {
+   "hora": "06:45",
+   "evento": "Se realiza la prueba de alcoholemia al maquinista en Tarragona, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": null,
+   "evento": "Dos días después del accidente, la víctima fallece en el hospital."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "42551",
+   "tipo": "tren de Mercancías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales en el material móvil."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 42551",
+   "implicacion": "Informó del suceso al Puesto de Mando de Barcelona; se le practicó prueba de alcoholemia negativa; declaró que la víctima saltó a la vía y no pudo evitar el arrollamiento."
+  },
+  {
+   "rol": "Víctima (varón)",
+   "implicacion": "Saltó a la vía y corrió paralela al carril derecho junto a la valla; resultó arrollada, herida grave y falleció dos días después."
+  },
+  {
+   "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Adif",
+   "implicacion": "Procedieron a la toma de datos, a la prueba de alcoholemia al maquinista y a la toma de declaración."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con CTC; señales claras y visibles que avisan del peligro de aproximarse al andén; cartel informativo del paso de trenes sin parada por vía I, con distancia mínima respecto al borde de andén; buena señalización del paso inferior.",
+  "tipo_via": "Vía I; estación con 2 andenes y 3 vías; andenes recrecidos; cerramiento para evitar la entrada a las vías; zonas de entrada y salida valladas.",
+  "velocidad_maxima": "100 km/h a paso por la estación; 160 km/h máxima permitida en el punto kilométrico.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso inferior para acceder a los andenes, constatado en adecuado estado de conservación."
+ },
+ "material_rodante": {
+  "series": "Locomotora 250021; 21 vagones; 1.176 Tm de masa remolcada.",
+  "averia": "No se produjeron daños materiales en el material móvil; se accionó el freno de emergencia.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión indebida del gálibo de la vía por la persona arrollada durante el paso del tren de Mercancías 42551.",
+  "contribuyentes": [
+   "Imprudencia de la víctima, que saltó a la vía sin apercibirse de la proximidad del tren."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+  "afectacion_servicio": "El tren 42551 reanudó su marcha a las 06:27 horas con 81 minutos de retraso; retraso acumulado de 152 minutos en trenes de Mercancías, 2 minutos en un tren de Larga Distancia y 1 minuto en un tren de Media Distancia; circulación entre Torredembarra y Tarragona por vía II hasta las 06:27 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+   "destinatario": null
+  },
+  {
+   "texto": "Mejorar la señalización en las estaciones que advierte de los peligros de cruzar por las vías o deambular en sus proximidades.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "estación",
+  "torredembarra",
+  "tren de mercancías",
+  "invasión de vía",
+  "imprudencia",
+  "fallecido",
+  "retrasos",
+  "señalización",
+  "vigilancia",
+  "adif",
+  "renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-280207-190707-DGF"
+}

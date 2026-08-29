@@ -1,0 +1,136 @@
+{
+ "titulo_normalizado": "Arrollamiento de un automóvil en paso a nivel entre El Rebollar y Utiel (Línea 310, Valencia) por imprudencia de la conductora",
+ "idioma_original": "es",
+ "resumen": "El 30 de marzo de 2007, el tren de Media Distancia 4161 de Renfe arrolló un automóvil en el paso a nivel del PK 4/465 de la Línea 310 Aranjuez-Valencia, entre las estaciones de El Rebollar y Utiel (Valencia). La conductora del vehículo no respetó la señal de Stop e intentó cruzar sin apercibirse de la proximidad del tren. El accidente causó 1 fallecido y 2 heridos graves. El tráfico ferroviario quedó interrumpido durante 3 horas y 25 minutos, con supresión de dos trenes y un retraso de 96 minutos.",
+ "hechos": "El tren de Media Distancia 4161 de Renfe, compuesto por automotor 592.225 (3 vehículos, 12 ejes, 70 metros, 137 toneladas), procedente de Cuenca con destino Valencia, se aproximaba al paso a nivel del PK 4/465 de la Línea 310 Aranjuez-Valencia. El maquinista observó un automóvil que circulaba por un camino paralelo a la vía y, dada la proximidad del paso, hizo uso del silbato continuamente. Pese a ello, el vehículo irrumpió en el paso a nivel por la parte derecha. El maquinista accionó la seta de urgencia (freno de emergencia) cuando el tren circulaba a 77 km/h (máxima permitida: 110 km/h), pero no pudo evitar el arrollamiento. El tren quedó detenido a unos 200 metros del paso a nivel, en el PK 4/225.\n\nComo resultado del accidente falleció una persona y dos resultaron heridas graves, evacuadas al Hospital Comarcal de Requena y al Hospital La Fe de Valencia. El cadáver fue levantado a las 19:55 horas, el vehículo fue liberado de los bajos del tren y retirado de la vía a las 20:20 horas, y el tren retrocedió a El Rebollar a las 20:25 horas. El tráfico quedó restablecido a las 20:50 horas.\n\nEl paso a nivel se encontraba correctamente señalizado, la carretera presentaba la señalización reglamentaria, el tramo era recto y llano, la visibilidad era muy buena y las condiciones meteorológicas eran favorables. El control de alcoholemia al maquinista dio resultado negativo (0,00 mg/1000 ml).",
+ "lugar": {
+  "tipo": "paso_nivel",
+  "estacion": "Entre El Rebollar y Utiel",
+  "pk": "4/465",
+  "linea": "Línea 310 Aranjuez - Valencia",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Paso a nivel en tramo de vía recto y llano, con buena visibilidad, sin trincheras ni elementos que la disminuyan. Vía única sin electrificar en bloqueo telefónico. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "cronologia": [
+  {
+   "hora": "17:25",
+   "evento": "Arrollamiento del automóvil por el tren MD 4161 en el paso a nivel del PK 4/465. El tren se detiene a unos 200 m, en el PK 4/225."
+  },
+  {
+   "hora": "17:25",
+   "evento": "El maquinista confirma el arrollamiento e informa al Puesto de Mando de Valencia."
+  },
+  {
+   "hora": "17:25",
+   "evento": "El Puesto de Mando de Valencia cursa aviso a Seguridad Corporativa y Protección Civil de ADIF, Gerencia Territorial Levante de Seguridad en la Circulación de ADIF, Gerencia Territorial Este de Seguridad en la Circulación de RENFE OPERADORA, Gerencia de Cercanías de Valencia y Murcia, Gerencia de Media Distancia de Valencia y Madrid, y servicios de emergencia."
+  },
+  {
+   "hora": "19:15",
+   "evento": "Prueba de alcoholemia al maquinista en Utiel. Resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "19:55",
+   "evento": "Se levanta el cadáver."
+  },
+  {
+   "hora": "20:20",
+   "evento": "Se libera el vehículo de los bajos del tren y se retira de la vía."
+  },
+  {
+   "hora": "20:25",
+   "evento": "El tren retrocede a El Rebollar."
+  },
+  {
+   "hora": "20:50",
+   "evento": "Se restablece el tráfico ferroviario."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4161",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "Daños de escasa consideración en quitarreses y chapa"
+  },
+  {
+   "numero": "8164",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "Tren suprimido como consecuencia de la incidencia"
+  },
+  {
+   "numero": "4163",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "Retraso de 96 minutos"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren MD 4161",
+   "implicacion": "Observó el automóvil en camino paralelo, hizo uso del silbato, accionó el freno de emergencia (seta de urgencia) sin poder evitar el arrollamiento. Jornada previa efectiva: 2h24min. Jornada 24h anteriores: 6h14min (incluyendo descansos). Jornada 48h anteriores: descanso. Alcoholemia negativa."
+  },
+  {
+   "rol": "Conductora del automóvil",
+   "implicacion": "No respetó la señal de Stop del paso a nivel e intentó cruzar sin apercibirse de la proximidad del tren. Causa directa del accidente según Adif y Renfe."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel correctamente señalizado. La carretera presenta la señalización reglamentaria, incluida señal de Stop.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "110 km/h",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Tramo recto y llano, en buen estado. Bloqueo telefónico.",
+  "otro": "Red Ferroviaria de Interés General administrada por Adif. Visibilidad muy buena, sin trincheras ni elementos obstructorios."
+ },
+ "material_rodante": {
+  "series": "Automotor 592.225 (3 vehículos, 12 ejes, 70 m, 137 t)",
+  "averia": "Daños de escasa consideración en quitarreses y chapa",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones meteorológicas buenas. Accidente de día con visibilidad muy buena.",
+ "causas": {
+  "directa": "Imprudencia de la conductora del automóvil, que no respetó la señal de Stop del paso a nivel e intentó cruzar sin apercibirse de la proximidad del tren (incumplimiento de los artículos 95 y 96 del Capítulo IX del Reglamento General de Circulación).",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 2,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños de escasa consideración en quitarreses y chapa del automotor 592.225. Destrucción del automóvil.",
+  "afectacion_servicio": "Interrupción del tráfico ferroviario durante 3 horas y 25 minutos (17:25-20:50). Supresión de dos trenes de Media Distancia (4161 y 8164). Retraso de 96 minutos al tren 4163."
+ },
+ "lecciones": [
+  "El paso a nivel estaba correctamente señalizado y la carretera presentaba señalización reglamentaria, pero la imprudencia del usuario de la carretera anuló todas las medidas de protección existentes.",
+  "La buena visibilidad y el tramo recto no impidieron el arrollamiento cuando el usuario no respeta las señales.",
+  "El silbato y la frenada de emergencia no fueron suficientes dada la proximidad del paso cuando el vehículo irrumpe."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el respeto a las normas y señales de circulación, y en el correcto uso de las zonas de paso.",
+   "destinatario": "Administración / Ciudadanía"
+  },
+  {
+   "texto": "Estudiar la posible supresión del paso a nivel, y en caso de no ser viable, mejorar la protección del mismo mediante la instalación de señales luminosas y acústicas.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "imprudencia",
+  "media distancia",
+  "renfe",
+  "automotor 592",
+  "linea 310",
+  "valencia",
+  "utiell",
+  "bloqueo telefonico",
+  "via unica",
+  "senalizacion"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-300307-140907-DGF"
+}

@@ -1,0 +1,150 @@
+{
+ "titulo_normalizado": "Conato de colisión en plena vía entre Boo y Mortera por pérdida de shuntado y fallo de relé de secuencia",
+ "idioma_original": "es",
+ "resumen": "El 5 de septiembre de 2013 a las 15:44 se produjo un conato de colisión entre los trenes 6923 y 6725 en el tramo Mogro-Bezana de la línea 770 RAM Santander-Oviedo (Cantabria). El tren 6725, con problemas eléctricos y fusionado en mando múltiple con el 6727, realizó 18 frenadas de emergencia que provocaron un exceso de arenado sobre los carriles, causando pérdida de shuntado en el circuito de vía. Simultáneamente, un relé de secuencia (bobina R3-R4) falló, permitiendo que la señal B5192 pasara indebidamente a vía libre. El tren 6923, detenido ante la señal, reanudó la marcha y rebasó la señal 48 metros antes de que el ASFA activara el freno de emergencia. No hubo heridos, víctimas ni daños materiales.",
+ "hechos": "El tren 6725 (UT 3811) de Renfe Operadora, con origen Puente de San Miguel y destino Santander, circulaba con problemas eléctricos y quedó detenido en la estación de Requejada, donde se decidió fusionarlo en mando múltiple con el tren 6727 (UT 3808). Los problemas persistieron: la UT 3811 no superaba 20 km/h y se produjeron dieciocho frenadas de emergencia que activaron repetidamente los sistemas de arenado de ambos trenes, eyectando un volumen excesivo de arena sobre los carriles. El tren 6923 (UT 3803), que circulaba a continuación, se detuvo a las 15:43:31 ante la señal intermedia B5192 en indicación de parada, al estar el cantón ocupado por el 6725. La acumulación de arena provocó una pérdida de shuntado en el circuito de vía P2/2. A su vez, la bobina R3-R4 del relé RCVS P2/2, encargado de controlar la lógica de secuencia de paso de trenes, presentaba un fallo que impedía detectar la anomalía. La combinación de ambos fallos hizo que la señal B5192 pasara a vía libre durante unos segundos. El tren 6923 reanudó la marcha a las 15:44:00, pero al recuperar el shuntado la señal volvió a rojo y la baliza de pie de señal activó el ASFA a las 15:44:11. El tren frenó de urgencia y quedó detenido a las 15:44:16 en el PK 519+301, habiendo rebasado la señal 48 metros y quedando a 198 metros del tren 6725.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "519+295",
+  "linea": "770 RAM Santander – Oviedo",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Tramo entre Mogro (PK 516+702) y Bezana (PK 522+207), entre los apeaderos de Boo (PK 518+166) y Mortera (PK 520+655), municipio de Requejada. Señal intermedia B5192 situada en curva a la izquierda de radio ~300 m."
+ },
+ "cronologia": [
+  {
+   "hora": "15:41:29",
+   "evento": "El tren 6923 inicia la marcha en el apeadero de Boo"
+  },
+  {
+   "hora": "15:42:53",
+   "evento": "El tren 6923 pasa por la baliza previa de la señal B5192 a 44 km/h"
+  },
+  {
+   "hora": "15:43:31",
+   "evento": "El tren 6923 se detiene ante la señal B5192 en indicación de parada (rojo)"
+  },
+  {
+   "hora": "15:44:00",
+   "evento": "Pérdida de shuntado + fallo de relé: la señal B5192 pasa a vía libre; el tren 6923 reanuda la marcha"
+  },
+  {
+   "hora": "15:44:11",
+   "evento": "Se recupera el shuntado, la señal vuelve a rojo; el tren 6923 pasa por la baliza de pie de señal a 13 km/h y el ASFA activa el freno de urgencia"
+  },
+  {
+   "hora": "15:44:16",
+   "evento": "El tren 6923 queda detenido en PK 519+301, 48 m tras la señal, a 198 m del tren 6725"
+  },
+  {
+   "hora": "13:20",
+   "evento": "El 13/09/2013, el jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6725",
+   "tipo": "tren de cercanías (UT 3811-6861-6811, serie 3800)",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "6727",
+   "tipo": "tren de cercanías (UT 3808-6858-6808, serie 3800), fusionado en mando múltiple con el 6725",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "6923",
+   "tipo": "tren de cercanías (UT 3803, serie 3800)",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 6923",
+   "implicacion": "matrícula 9285; detenido ante señal B5192, reinició marcha al pasar la señal a verde por fallo combinado; informó al CTC de Santander; habilitado, antigüedad 01/01/1995, último reciclaje 29/04/2011, último reconocimiento médico 25/03/2013"
+  },
+  {
+   "rol": "maquinista del tren 6725",
+   "implicacion": "matrícula 9511; circulaba con problemas eléctricos, 18 frenadas de emergencia con arenado excesivo; habilitado, antigüedad 25/01/2010, último reciclaje 11/07/2011, último reconocimiento médico 23/04/2013"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal intermedia B5192 alta de tres focos con baliza previa y de pie de señal; sistema ASFA; bloqueo automático (BAD) con sucesión automática de trenes; relé de secuencia RCVS P2/2 con bobinas de stick magnético Alstom",
+  "tipo_via": "vía doble electrificada con balasto silíceo, traviesas de hormigón, sujeciones elásticas, carril de 54 kg/ml en barra larga soldada",
+  "velocidad_maxima": "80 km/h",
+  "ancho": "métrico (RAM)",
+  "electrificacion": "sí",
+  "estado_via": "normal; curva a la izquierda de radio ~300 m en la señal B5192; 104 circulaciones medias diarias",
+  "otro": "CTC en Santander; radiotelefonía modalidad C; sistema de control de secuencia de paso por circuitos de vía (ocupación anterior → ocupación posterior → liberación anterior)"
+ },
+ "material_rodante": {
+  "series": "Serie 3800 (UT 3811, UT 3808, UT 3803); composición CM-RI-RC; 3 vehículos, 12 ejes, 48 m, 100 t; tipo 80 (velocidad máxima 80 km/h)",
+  "averia": "Problemas eléctricos en UT 3811; 18 frenadas de emergencia; arenado excesivo (episodio de 32 s continuos); volúmenes eyectados en prueba superan la ETI CMS (400-500 g/30 s); corte de arenado solo a <3 km/h",
+  "mantenimiento": "No se tiene constancia de mantenimiento preventivo de los relés de secuencia; últimas intervenciones (28/09/2012 y 03/08/2013) fueron correctivas; fabricante Alstom recomienda verificación cada 10 años (no realizada desde modificaciones de 1998)"
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso",
+ "causas": {
+  "directa": "Fallo combinado: pérdida de shuntado por exceso de arenado en carriles + funcionamiento anómalo del relé RCVS P2/2 (bobina R3-R4) que impidió detectar la secuencia anómala, provocando la apertura indebida de la señal B5192 a vía libre con el cantón ocupado",
+  "contribuyentes": [
+   "Problemas eléctricos de la UT 3811 que impidieron superar 20 km/h",
+   "Dieciocho frenadas de emergencia consecutivas del tren 6725",
+   "Activación repetida y excesiva del sistema de arenado de ambos trenes acoplados (episodio de 32 s)",
+   "Volumen de arena eyectado superior a la especificación técnica ETI CMS",
+   "Corte de arenado solo por debajo de 3 km/h, insuficiente para marcha lenta",
+   "Curva de radio ~300 m en la ubicación de la señal"
+  ],
+  "sistemicas": [
+   "Ausencia de plan de mantenimiento preventivo para los relés de secuencia de paso por circuitos de vía",
+   "No se había realizado la verificación decenal recomendada por el fabricante Alstom desde las modificaciones de 1998",
+   "Sistema de sucesión automática de trenes dependiente de relés de tecnología obsoleta sin revisión periódica reglada",
+   "Diseño del sistema de arenado de la serie 3800 con caudal excesivo y umbral de corte demasiado bajo"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura",
+  "afectacion_servicio": "No hubo interceptación de la vía. Retraso de 57 min en el tren 6725 y 50 min en el tren 6727. No hubo más circulaciones afectadas. Sucesión automática suspendida entre Mogro y Bezana desde el 13/09/2013 hasta el 17/09/2013."
+ },
+ "lecciones": [
+  "La acumulación de arena sobre los carriles puede provocar pérdida de shuntado en circuitos de vía y comprometer la seguridad de la señalización",
+  "Los relés de secuencia de paso por circuitos de vía requieren verificación periódica conforme a especificaciones del fabricante para garantizar su fiabilidad",
+  "El exceso de arenado por múltiples frenadas de emergencia en marcha lenta constituye un riesgo para la detección de ocupación de cantón",
+  "La combinación de fallos independientes (instalaciones + material rodante) puede anular barreras de seguridad y generar situaciones de conato de colisión",
+  "Los umbrales de corte del sistema de arenado deben adecuarse a las velocidades reales de marcha lenta"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes.",
+   "destinatario": "Renfe Integria"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "pérdida de shuntado",
+  "arenado excesivo",
+  "fallo de relé de secuencia",
+  "señal b5192",
+  "asfa",
+  "mando múltiple",
+  "serie 3800",
+  "línea 770 ram santander-oviedo",
+  "circuito de vía",
+  "mantenimiento preventivo",
+  "rebase de señal"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 05.09.2013 IF_050913_270115_CIAF"
+}

@@ -1,0 +1,148 @@
+{
+ "titulo_normalizado": "Colisión frontal y descarrilamiento en la estación de San Claudio por rebase de señal de salida",
+ "idioma_original": "es",
+ "resumen": "El 12 de enero de 2012, a las 14:19, el tren regional 1301 de Feve rebasó indebidamente la señal de salida S1/2 en parada en la estación de San Claudio, Oviedo. Al hacerlo talonó la aguja A2, orientada para el tren de cercanías 3720, y se produjo una colisión frontal entre ambos trenes. El tren 3720 descarriló de los dos ejes del bogie trasero de su vehículo de cabeza. Resultaron heridos leves ocho viajeros y el maquinista del tren 3720. La investigación concluye que el origen fue el incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "hechos": "El tren de viajeros regional 1301 de Feve, procedente de Ferrol y con destino Oviedo, realizó parada comercial en el andén de la vía 2 de la estación de San Claudio. Tras finalizar las operaciones, reanudó la marcha sin esperar el cruce grafiado con el tren de cercanías 3720 de Feve, sin percatarse de que la señal de salida S1/2 se encontraba en indicación de parada. El tren rebasó dicha señal y el sistema ASFA activó el freno de urgencia, produciéndose además el talonamiento de la aguja A2, que estaba orientada hacia vía 1 para el itinerario de entrada del tren 3720.\n\nEl tren 3720, procedente de Oviedo y con destino Trubia, había permanecido detenido ante la señal de entrada E2 en rojo y reanudó la marcha cuando la señal pasó a verde, encontrándose la vía ocupada por otra circulación. Ambos maquinistas aplicaron frenado de emergencia, pero se produjo una colisión frontal entre los trenes 1301 y 3720. Como consecuencia, el tren 3720 descarriló de los dos ejes del bogie trasero del vehículo que circulaba en cabeza. Resultaron heridos de carácter leve el maquinista del tren 3720 y ocho viajeros.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "San Claudio",
+  "pk": "5+265",
+  "linea": "12 Oviedo - San Esteban",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Estación de San Claudio (Oviedo), en el tramo 71 Oviedo-Trubia. El accidente se produjo entre la señal de retroceso R2 y la aguja A2, lado Oviedo. La señal de salida S1/2 se encontraba en el PK 5+337 y protegía la aguja 2."
+ },
+ "cronologia": [
+  {
+   "hora": "14:17",
+   "evento": "El tren 3720 queda detenido ante la señal de entrada E2 en indicación de parada."
+  },
+  {
+   "hora": "14:18",
+   "evento": "El tren 1301 realiza parada comercial en el andén de la vía 2 de la estación de San Claudio a las 14:18:53."
+  },
+  {
+   "hora": "14:19",
+   "evento": "El tren 1301 reanuda la marcha a las 14:19:11 sin esperar el cruce grafiado con el tren 3720."
+  },
+  {
+   "hora": "14:19",
+   "evento": "El tren 3720 reanuda la marcha tras establecerse el itinerario de entrada; el informe indica 14:19:12 y los registros del tren 14:19:21."
+  },
+  {
+   "hora": "14:19",
+   "evento": "El tren 1301 rebasa la señal S1/2 en parada a 43 km/h y se activa el freno de urgencia por ASFA a las 14:19:31."
+  },
+  {
+   "hora": "14:19",
+   "evento": "El tren 3720 aplica freno de emergencia a 44 km/h a las 14:19:35."
+  },
+  {
+   "hora": "14:19",
+   "evento": "Colisión frontal en el PK 5+265 a las 14:19:46, entre R2 y la aguja A2, a 8 km/h el tren 1301 y 26 km/h el tren 3720; descarrilan los dos ejes del bogie trasero de cabeza del tren 3720."
+  },
+  {
+   "hora": "16:01",
+   "evento": "El director gerente de gestión de capacidad y seguridad en la circulación de Feve comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "20:30",
+   "evento": "Finaliza la interrupción de circulación iniciada a las 14:19."
+  },
+  {
+   "hora": "22:15",
+   "evento": "Se puede circular por ambas vías."
+  },
+  {
+   "hora": "04:15",
+   "evento": "El 13 de enero de 2012 quedan totalmente reparadas las instalaciones."
+  },
+  {
+   "hora": null,
+   "evento": "El 31 de enero de 2012 el Pleno de la CIAF acuerda abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "El 2 de abril de 2012 el director gerente de Feve entrega su informe particular."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1301",
+   "tipo": "Tren regional de viajeros",
+   "operador": "Feve",
+   "danos": "Daños en acoplamientos y parte frontal; valoración conjunta de material rodante de ambos trenes: 103.834,44 €."
+  },
+  {
+   "numero": "3720",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Feve",
+   "danos": "Daños en acoplamientos y parte frontal; descarrilamiento de los dos ejes del bogie trasero del vehículo de cabeza; valoración conjunta de material rodante de ambos trenes: 103.834,44 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1301",
+   "implicacion": "Rebasó la señal S1/2 en parada, inició la marcha sin esperar el cruce grafiado y no comprobó la indicación de la señal; reconoció un error propio de percepción. Carné ferroviario 9477, antigüedad 3 años, habilitado, alcohol y drogas negativos."
+  },
+  {
+   "rol": "Maquinista del tren 3720",
+   "implicacion": "Esperó la señal E2 en rojo, reanudó la marcha cuando pasó a verde, aplicó freno de emergencia al encontrar la vía ocupada y resultó herido leve. Carné ferroviario 6033, antigüedad 24 años, habilitado."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/2 baja de cuatro focos, con baliza ASFA de pie de señal y buena visibilidad; señales E1, E'1, R1, E2 y R2; enclavamiento electrónico Dimetronic telemandado desde el CTC de El Berrón.",
+  "tipo_via": "Vía única electrificada.",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada.",
+  "estado_via": "Funcionó correctamente; la señal S1/2 se encontraba en rojo en todo momento y la aguja A2 estaba orientada hacia vía 1 para el itinerario del tren 3720.",
+  "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC). Tramo con 65 circulaciones diarias. Trazado del tren 1301 en curva derecha de radio 938 m y rampa de 4 milésimas; trazado del tren 3720 en curva izquierda de radio 938 m y pendiente de 13,8 milésimas."
+ },
+ "material_rodante": {
+  "series": "Tren 1301: UTDH 2720 en cabeza y 2719 en cola; tren 3720: UTE 3628 en cabeza y 3627 en cola; ambos trenes tipo 80.",
+  "averia": "Funcionó correctamente; los registradores de eventos constatan parada, reanudación, activación de ASFA, frenado de emergencia y velocidades.",
+  "mantenimiento": null
+ },
+ "clima": "Nubes y claros sin lluvia.",
+ "causas": {
+  "directa": "Rebase indebido por el tren 1301 de la señal de salida S1/2 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "Iniciar la marcha sin esperar el cruce grafiado con el tren 3720.",
+   "No comprobar la indicación de la señal S1/2.",
+   "No prestar la debida atención durante la conducción.",
+   "Error de percepción de la señal por parte del maquinista del tren 1301.",
+   "Talonamiento de la aguja A2, orientada para el itinerario del tren 3720."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": 9,
+  "danos_materiales": "Infraestructura: sustitución de dos bielas de cerrojo de uña y enderezamiento de espadines y timonería, valorados en 1.450,50 €. Material rodante: daños en acoplamientos y parte frontal de ambos trenes, valorados en 103.834,44 €.",
+  "afectacion_servicio": "Circulación interrumpida de 14:19 a 20:30 horas, 8 horas y 11 minutos; vía general interceptada por la unidad descarrilada sobre el cambio nº 2. A las 22:15 se puede circular por ambas vías y a las 04:15 del 13/01/2012 quedan reparadas las instalaciones. Se suprimen 11 trenes, 14 sufren supresiones parciales y 8 acumulan 1 hora y 51 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "colisión frontal",
+  "descarrilamiento",
+  "estación de san claudio",
+  "feve",
+  "asfa",
+  "cruce grafiado",
+  "incumplimiento de señales",
+  "señal s1/2",
+  "aguja talonada",
+  "heridos leves",
+  "oviedo"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-120112-250912-CIAF"
+}

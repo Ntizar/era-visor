@@ -1,0 +1,142 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 534 de Renfe en el cambiador de ancho de Zaragoza Delicias por rotura de tornillos del dispositivo de seguridad del bogie BRAVA",
+ "idioma_original": "es",
+ "resumen": "El 1 de julio de 2012 a las 09:42, el tren de larga distancia 534 de Renfe Operadora (serie 120 CAF, Barcelona Sants–Irún) descarriló la rueda izquierda del noveno eje al pasar por el cambiador de ancho de Zaragoza Delicias. La rueda no efectuó el cambio de ancho UIC a ibérico porque los tornillos de fijación del soporte de la palanca del dispositivo de seguridad estaban rotos a ras, impidiendo el desencerrojamiento. No hubo víctimas. Los daños afectaron a la rueda, a los perfiles de guiado de la plataforma CAF y causaron la interrupción del cambiador durante más de 10 horas, con 368 minutos de retraso acumulados en 10 trenes.",
+ "hechos": "El tren de viajeros de larga distancia 534 de Renfe Operadora, compuesto por material CAF serie 120 (ramas 120011 y 120012, 8 vehículos, 32 ejes, 215 m, 539 t), procedente de Barcelona Sants con destino Irún, circulaba en ancho UIC y debía efectuar el cambio a ancho ibérico en el cambiador de Zaragoza Delicias. A las 09:40:26 el tren entró en el cambiador; a las 09:40:47 el maquinista activó el pulsador de cambio de ancho. Los dos primeros coches cambiaron correctamente, pero la rueda izquierda del noveno eje (primer bogie del tercer coche, MIT) no se desencerrojó y quedó enclavada en ancho UIC. El personal del cambiador lo detectó y avisó al maquinista por tren-tierra; este aplicó el freno de urgencia a las 09:42:44 a 7 km/h. El tren se detuvo a las 09:42:50 tras 6 metros, con la rueda descarrilada. La rueda enclavada dañó los perfiles de guiado de la plataforma CAF y provocó golpes en la estructura del cambiador.\n\nLa investigación determinó que la causa fue la rotura a ras de los dos tornillos de fijación del soporte de la palanca del dispositivo de seguridad, lo que dejó la palanca suelta e impidió el desencerrojamiento. Renfe concluyó que la rotura se debió a un mal apoyo del soporte sobre la caja soporte, causado por una profundidad insuficiente del alojamiento de los pitones de centrado (11 mm medidos frente a 15 mm requeridos), generando una longitud total de alojamiento de 17 mm para pasadores de 20 mm. No hubo víctimas mortales ni heridos. La circulación quedó interrumpida desde las 09:42 hasta las 20:00, afectando a 10 trenes de larga distancia con 368 minutos de retraso total.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Cambiador de ancho de Zaragoza Delicias",
+  "pk": "337+395",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Cambiador de ancho de vía con plataformas independientes para material Talgo y CAF. Transición de bloqueo automático de vía única electrificada con CTC (lado Irún, ancho ibérico) a ancho UIC con bloqueo de señalización lateral (lado Barcelona). Tramo CIM-Aguja km 337.1 a Cambiador Zaragoza Delicias."
+ },
+ "cronologia": [
+  {
+   "hora": "09:40:26",
+   "evento": "El tren 534 entra en el cambiador de ancho de Zaragoza Delicias"
+  },
+  {
+   "hora": "09:40:47",
+   "evento": "El maquinista actúa sobre el pulsador de cambio de ancho; se inicia el proceso"
+  },
+  {
+   "hora": "09:42",
+   "evento": "La rueda izquierda del noveno eje no efectúa el cambio de ancho y queda enclavada en UIC; el personal del cambiador avisa al maquinista por tren-tierra"
+  },
+  {
+   "hora": "09:42:44",
+   "evento": "El maquinista aplica el freno de urgencia a 7 km/h"
+  },
+  {
+   "hora": "09:42:48",
+   "evento": "El sistema embarcado (HMI) informa al maquinista de que la rueda no ha cambiado de ancho; el tren circula a 3 km/h con freno de urgencia activado"
+  },
+  {
+   "hora": "09:42:50",
+   "evento": "El tren queda detenido tras recorrer 6 metros; rueda descarrilada"
+  },
+  {
+   "hora": "10:10",
+   "evento": "La rama 120012 se desacopla y se envía por ancho UIC a Zaragoza Delicias como tren XZ715 para trasbordo de viajeros"
+  },
+  {
+   "hora": "10:39",
+   "evento": "El jefe de gabinete de investigación de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "10:50",
+   "evento": "El operador informa del desvío de trenes al cambiador de Plasencia de Jalón; se activa plan alternativo de transportes"
+  },
+  {
+   "hora": "20:00",
+   "evento": "Queda reparada la plataforma tipo CAF y restablecida la circulación normal por el cambiador"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "534",
+   "tipo": "Viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de la rueda izquierda del noveno eje (primer bogie del tercer coche, MIT). Daños en la rueda. Rama 120011 (UIC 967191200112) descarrilada. Composición: ramas 120011/120012, 8 vehículos, 32 ejes, 215 m, 539 t."
+  },
+  {
+   "numero": "XZ715",
+   "tipo": "Viajeros (rama 120012 para trasbordo)",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 534",
+   "implicacion": "Matrícula 9722984. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Antigüedad en el cargo desde 01/07/2010. Último reciclaje formativo 06/10/2009; último reconocimiento médico y psicotécnico 06/04/2011. Prueba de alcoholemia a las 11:48 en Zaragoza: negativa (0,00 mg/1000 ml). Aplicó el freno de urgencia tras el aviso del personal del cambiador. Cumplió la normativa vigente."
+  },
+  {
+   "rol": "Agente de mantenimiento del cambiador",
+   "implicacion": "Personal a cargo de las instalaciones del cambiador. Detectó que la rueda izquierda del noveno eje no había cambiado de ancho y avisó al maquinista por tren-tierra."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Lado Irún: bloqueo automático de vía única electrificada con CTC, ancho ibérico. Lado Barcelona: ancho UIC con bloqueo de señalización lateral.",
+  "tipo_via": "Vía única electrificada (lado Irún) / vía en ancho UIC con señalización lateral (lado Barcelona). Cambiador de ancho con plataformas independientes para Talgo y CAF.",
+  "velocidad_maxima": "Inferior a 15 km/h para el cambio de ancho (serie 120). Velocidad registrada en el momento del descarrilamiento: 7 km/h.",
+  "ancho": "Transición ancho UIC a ancho ibérico",
+  "electrificacion": "Electrificada (lado Irún, ancho ibérico con CTC)",
+  "estado_via": "Daños y deformaciones en los perfiles del sistema de guiado de la plataforma de cambio de ancho tipo CAF por golpes de la rueda enclavada",
+  "otro": "Media semanal de circulaciones del tramo: 111, todas de larga distancia (sistema CIRTRA, Tomo II, Adif-Circulación). Radiotelefonía modalidad A (ancho convencional); GSM-R (ancho UIC)."
+ },
+ "material_rodante": {
+  "series": "Serie 120 (CAF/Alstom), bogies BRAVA (Bogie de Rodadura de Ancho Variable). Ramas 120011 (descarrilada, UIC 967191200112) y 120012.",
+  "averia": "Rotura a ras de los dos tornillos de fijación del soporte de la palanca del dispositivo de seguridad del bogie BRAVA (noveno eje, primer bogie del tercer coche MIT). La palanca quedó suelta, impidiendo el desencerrojamiento y el cambio de ancho. Causa raíz: mal apoyo del soporte sobre la caja soporte por profundidad insuficiente del alojamiento de los pitones de centrado (11 mm medidos vs. 15 mm requeridos; alojamiento total 17 mm para pasadores de 20 mm).",
+  "mantenimiento": "Kilometraje desde fábrica: 1.865.061 km. Últimas revisiones del vehículo 120.011: ES 27/06/2012 (1.860.769 km), V1 13/06/2012 (1.821.173 km), V2 03/03/2012 (1.754.176 km), VL 26/08/2011 (1.595.074 km), GVG 18/08/2010 (1.283.458 km). VG no aplicable aún. Parámetros de rodadura dentro de tolerancia. Plan de mantenimiento correctamente ejecutado."
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso.",
+ "causas": {
+  "directa": "Fallo en el sistema de cambio de ancho de la rueda izquierda del noveno eje por rotura de los tornillos de fijación del soporte de la palanca del dispositivo de seguridad, que dejó la palanca suelta e impidió el desencerrojamiento, quedando la rueda enclavada en ancho UIC.",
+  "contribuyentes": [
+   "Profundidad insuficiente del alojamiento de los pitones de centrado en la caja soporte (11 mm medidos frente a 15 mm requeridos)",
+   "Longitud total de alojamiento para pasadores de 17 mm frente a una longitud de pasadores de 20 mm, produciendo mal apoyo del soporte de la palanca sobre la caja soporte",
+   "Sucesos similares previos en fechas 23/12/2007, 04/01/2011 y 27/12/2011 (expedientes CIAF 07/11 y 63/11)"
+  ],
+  "sistemicas": [
+   "Diseño del alojamiento de los pitones de centrado que no garantiza el apriete correcto del soporte de la palanca",
+   "Necesidad de reforzar la inspección de holguras y planitud en las revisiones periódicas de los bogies BRAVA"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en la rueda izquierda del noveno eje del primer bogie del tercer coche. Infraestructura: daños y deformaciones en los perfiles del sistema de guiado de la plataforma de cambio de ancho tipo CAF por golpes de la rueda enclavada.",
+  "afectacion_servicio": "Interrupción del paso de trenes por el cambiador de Zaragoza Delicias desde las 09:42 hasta las 20:00 del 01/07/2012. Afectación de 10 trenes de larga distancia (incluido el implicado) con un retraso total de 368 minutos. Desvío de trenes al cambiador de Plasencia de Jalón. Activación de plan alternativo de transportes. Viajeros de la rama 120011 trasbordados a la rama 120012."
+ },
+ "lecciones": [
+  "La combinación de información en cabina (HMI/avisador acústico) con la actuación del personal técnico in situ en el cambiador asegura la integridad de los pasajeros en vía general tras abandonar el cambiador.",
+  "El diseño del dispositivo de enclavamiento del eje elimina el riesgo de un desbloqueo accidental en vía general.",
+  "Es necesario verificar la profundidad de los alojamientos de pasadores y la holgura entre soporte de palanca y caja soporte en las revisiones de mantenimiento de los bogies BRAVA.",
+  "La rotura por fatiga de tornillos de fijación puede producirse por tolerancias geométricas (profundidad de alojamiento) que impiden un apoyo correcto."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas por Renfe Operadora, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambiador de ancho",
+  "serie 120",
+  "bogie brava",
+  "rotura tornillos fijación",
+  "dispositivo de seguridad",
+  "ancho uic",
+  "ancho ibérico",
+  "zaragoza delicias",
+  "renfe operadora",
+  "caf",
+  "enclavamiento rueda"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_010712_280513_CIAF"
+}

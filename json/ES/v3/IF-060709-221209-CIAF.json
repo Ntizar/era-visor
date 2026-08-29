@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo por el tren 149 en paso a nivel entre Ronda y Setenil (Málaga)",
+ "idioma_original": "es",
+ "resumen": "El 6 de julio de 2009, el tren de larga distancia 149 de Renfe Operadora arrolló a un automóvil en un paso a nivel clase B entre Ronda y Setenil (Málaga). La conductora y única ocupante del vehículo falleció. El accidente se originó por la invasión del gálibo ferroviario por parte del automóvil cuando las señales luminosas y acústicas indicaban la llegada del tren. El paso a nivel, la señalización y los equipos del tren funcionaron correctamente, y no se formularon recomendaciones.",
+ "hechos": "El tren de viajeros de larga distancia 149 de Renfe Operadora, procedente de Algeciras y con destino Madrid Puerta de Atocha, circulaba por la línea 420 Bif. Las Maravillas - Algeciras entre las estaciones de Ronda y Setenil. A las 16:54 horas, al llegar al paso a nivel clase B del P.K. 67+916, arrolló a un automóvil Opel Corsa que invadió la vía cuando las señales luminosas y acústicas indicaban la proximidad del tren.\n\nSegún la declaración del maquinista, el vehículo estaba detenido correctamente ante el paso a nivel, pero inició la marcha en el momento del paso del tren. El maquinista hizo uso del silbato y del freno de emergencia, sin poder evitar el impacto. El tren circulaba a 96 km/h, velocidad inferior a la máxima permitida de 120 km/h, y quedó detenido a las 16:55 horas tras recorrer 454 metros.\n\nComo consecuencia del arrollamiento falleció la conductora y única ocupante del vehículo, una mujer de 39 años. El automóvil quedó destrozado y fue desplazado 30 metros, quedando fuera del gálibo de la vía. La locomotora sufrió daños en una manga de aire, que fue reparada por el propio maquinista para poder continuar la marcha.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Ronda y Setenil",
+  "pk": "67+916",
+  "linea": "420 Bif. Las Maravillas - Algeciras",
+  "provincia": "Málaga",
+  "descripcion_lugar": "Paso a nivel clase B automático situado en la intersección del camino de Ronda hacia El Burgo, en el tramo Bobadilla - Ronda, municipio de Ronda, entre las estaciones de Ronda y Setenil."
+ },
+ "cronologia": [
+  {
+   "hora": "16:50",
+   "evento": "El tren 149 llega a la estación de Ronda."
+  },
+  {
+   "hora": "16:52",
+   "evento": "El tren 149 sale de la estación de Ronda."
+  },
+  {
+   "hora": "16:54",
+   "evento": "El maquinista aplica el freno de emergencia a 96 km/h y se produce el arrollamiento del vehículo en el paso a nivel del P.K. 67+916."
+  },
+  {
+   "hora": "16:55",
+   "evento": "El tren queda detenido tras recorrer 454 metros desde el impacto."
+  },
+  {
+   "hora": "17:01",
+   "evento": "Se interrumpe la circulación."
+  },
+  {
+   "hora": "17:28",
+   "evento": "La Guardia Civil informa que el vehículo arrollado se encuentra fuera de la vía."
+  },
+  {
+   "hora": "17:58",
+   "evento": "El tren 149 es autorizado a reanudar la marcha y se prescribe marcha a la vista desde el P.K. 67+800 al 68+100."
+  },
+  {
+   "hora": "18:12",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "19:10",
+   "evento": "El vehículo siniestrado es retirado."
+  },
+  {
+   "hora": "19:20",
+   "evento": "Se procede al levantamiento del cadáver y se restablece la normalidad en las circulaciones."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "149",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "La locomotora sufrió daños en una manga de aire, que fue reparada por el propio maquinista para continuar la marcha."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 149",
+   "implicacion": "Matrícula 9712621. Actuación correcta: hizo uso del silbato y del freno de emergencia. La prueba de alcoholemia en aire espirado dio resultado negativo (0,00 mg/1000 ml). Poseía título B de conducción, habilitación conforme a la Orden FOM/2520/2006, último reciclaje formativo el 14/12/06 y último reconocimiento médico y psicotécnico el 15/04/05."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase B automático dotado de señalización fija, luminosa y acústica, que funcionaron correctamente según el registro de eventos. Radiotelefonía clase C.",
+  "tipo_via": "Vía única, tramo recto, con bloqueo telefónico.",
+  "velocidad_maxima": "120 km/h para trenes tipo N",
+  "ancho": null,
+  "electrificacion": "sin electrificar",
+  "estado_via": null,
+  "otro": "Buena visibilidad a ambos lados, sin vegetación ni construcciones que dificulten la visibilidad. Pavimento del paso a nivel de tablones de madera en buen estado. Tiempo de cierre del paso a nivel: 1 minuto. Media semanal de circulaciones en el tramo Ronda - Setenil: 113. Momento de circulación AxT: 380,4 (A=24 y T=15,85). El paso a nivel iba a ser suprimido, con proyecto de paso inferior en el P.K. 67+799 en fase de supervisión."
+ },
+ "material_rodante": {
+  "series": "Locomotora 319336, 9 coches, Tipo N, Nº UIC 967194701140, masa remolcada 156 Tn.",
+  "averia": "Daño en una manga de aire de la locomotora.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo, que cruzó por el paso a nivel cuando las señales acústicas y luminosas indicaban la llegada del tren 149.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Automóvil Opel Corsa destrozado, desplazado 30 metros del paso a nivel y quedando fuera del gálibo. Daños en una manga de aire de la locomotora, reparada por el maquinista.",
+  "afectacion_servicio": "Interrupción de la circulación desde las 17:01 hasta las 17:58 horas. Tres trenes de larga distancia sufrieron un retraso total de 81 minutos y dos trenes de media distancia se retrasaron 65 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "invasion del galibo",
+  "señales luminosas",
+  "señales acusticas",
+  "renfe operadora",
+  "adif",
+  "ronda",
+  "setenil",
+  "malaga",
+  "accidente mortal",
+  "paso a nivel clase b"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-060709-221209-CIAF"
+}

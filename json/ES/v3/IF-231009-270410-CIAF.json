@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de cercanías entre L'Hospitalet de Llobregat y Cornellá",
+ "idioma_original": "es",
+ "resumen": "El 23 de octubre de 2009, a las 12:30 horas, el tren de cercanías 25143 de Renfe Operadora arrolló a una persona que caminaba por la banqueta de balasto entre la cuneta y el carril derecho de la vía 1, en el P.K. 94+316, próximo al apeadero de San Ildefonso. La víctima, un varón de 58 años, falleció como consecuencia del atropello. El maquinista aplicó el freno de urgencia y usó los silbatos, pero no pudo evitar el impacto. La investigación concluye que el accidente tuvo su origen en la actuación de la víctima al transitar por la zona de libre gálibo de circulación de trenes.",
+ "hechos": "El tren de cercanías 25143 de Renfe Operadora, procedente de Terrasa y con destino Martorell, circulaba por la vía 1 en el P.K. 94+316, entre las estaciones de L'Hospitalet de Llobregat y Cornellá (Barcelona). En las proximidades del P.K. 94+400, el maquinista observó cómo una persona caminaba de espaldas al tren por el lado derecho, según la marcha del tren, entre el carril exterior y la cuneta.\n\nEl maquinista hizo uso de los dos silbatos en tres ocasiones en un intervalo de 4 segundos y actuó sobre el manipulador del freno llevándolo a la posición de freno de urgencia, sin poder evitar el arrollamiento. La persona no reaccionó al silbato y continuó andando entre el balasto y las cañas dirección Cornellá. El tren circulaba a una velocidad estimada de 69 km/h en el momento del impacto.\n\nTras el arrollamiento, el tren recorrió 602 metros y quedó detenido a las 12:31:13 en el P.K. 93+714. La circulación quedó interrumpida por la vía 1 desde las 12:30 hasta las 13:53 horas, entre las estaciones de L'Hospitalet de Llobregat y Cornellá.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "94+316",
+  "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Vía 1, próximo al apeadero de San Ildefonso, entre las estaciones de L'Hospitalet de Llobregat y Cornellá. Zona poblada de cañas hasta el balasto, sin vallado de cerramiento y con pasos viciosos. Perfil recto en pendiente de 6,03 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "12:30:00",
+   "evento": "El tren 25143 pasa por la baliza de la señal de salida S1/2 en indicación L2/L3 a 41 km/h tras parada comercial en L'Hospitalet de Llobregat"
+  },
+  {
+   "hora": "12:30:07",
+   "evento": "Paso por baliza previa de señal 945 a 62 km/h, indicación L2/L3"
+  },
+  {
+   "hora": "12:30:23",
+   "evento": "Paso por baliza de pie de señal 945 a 71 km/h, indicación L2/L3"
+  },
+  {
+   "hora": "12:30:24",
+   "evento": "El maquinista actúa sobre el silbato al detectar persona entre las cañas, circulando a 70 km/h"
+  },
+  {
+   "hora": null,
+   "evento": "Arrollamiento de la persona en P.K. 94+316 a velocidad de 69 km/h, tras tercera actuación del silbato"
+  },
+  {
+   "hora": null,
+   "evento": "Paso por baliza previa de señal 937 (avanzada Cornellá) a 57 km/h en indicación L2/L3+L1"
+  },
+  {
+   "hora": null,
+   "evento": "Actuación del manipulador del freno a posición de urgencia en P.K. 93+764 a 38 km/h"
+  },
+  {
+   "hora": "12:31:13",
+   "evento": "El tren queda detenido en P.K. 93+714 tras recorrer 602 metros"
+  },
+  {
+   "hora": "13:53:00",
+   "evento": "Se restablece la circulación normal por ambas vías"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25143",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños al material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Detectó a la persona, usó silbatos y aplicó freno de urgencia; título B de conducción, habilitado según Orden FOM/2520/2006; prueba de alcoholemia y drogas negativa"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.) desde Barcelona Sants; señales con indicaciones L2/L3",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "100 km/h (para trenes tipo 120A)",
+  "ancho": null,
+  "electrificacion": "Sí",
+  "estado_via": "Sin limitaciones de velocidad permanentes o temporales en la zona; perfil recto en pendiente de 6,03 milésimas; sin vallado de cerramiento; presencia de pasos viciosos y vegetación de altura media que dificulta visión lateral",
+  "otro": "Tramo con alta densidad de tráfico: 1.243 circulaciones semanales (2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio)"
+ },
+ "material_rodante": {
+  "series": "UT 447117 (cabeza) y UT 447169 (cola), tipo 120A, 2 ramas de 3 vehículos y 216 Tm por rama, matrículas UIC 967194471173 y 967194471694",
+  "averia": null,
+  "mantenimiento": "Equipos de seguridad funcionaron correctamente según registro"
+ },
+ "clima": "Tiempo despejado",
+ "causas": {
+  "directa": "Actuación de la víctima al transitar en la zona de libre gálibo de circulación de trenes de la vía 1 cuando efectuaba su paso el tren 25143",
+  "contribuyentes": [
+   "Ausencia de vallado de cerramiento en la zona",
+   "Existencia de pasos viciosos para salvar la infraestructura",
+   "Vegetación de altura media que se acerca a los postes de catenaria, dificultando visión lateral y obligando a invadir la zona de seguridad"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+  "afectacion_servicio": "Interrupción de circulación por vía 1 durante 1 hora y 23 minutos (12:30-13:53); trenes en ambos sentidos por vía 2 banalizada con marcha a la vista; 1 tren de media distancia con retraso de 16 minutos; 51 trenes de cercanías con retraso total de 740 minutos; supresión de trenes 25143 y 25146 en Cornellá y L'Hospitalet de Llobregat"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "cercanias",
+  "zona_seguridad",
+  "sin_vallado",
+  "pasos_viciosos",
+  "vegetacion",
+  "fallecido",
+  "renfe",
+  "adif",
+  "via_doble",
+  "bab"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-231009-270410-CIAF"
+}

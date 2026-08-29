@@ -1,0 +1,127 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un peatón por el tren Altaria 1187 en plena vía, pk 394,075 de la línea La Encina-Alicante (Villena)",
+ "idioma_original": "es",
+ "resumen": "El 13 de febrero de 2007, a las 18:40, el tren de Larga Distancia 1187 Altaria de RENFE arrolló a una persona y a varias cabezas de ganado que cruzaban la vía por un paso vicioso en el pk 394,075 de la línea La Encina-Alicante. La víctima, un varón de 69 años, falleció en el lugar. El tren circulaba a 129 km/h, por debajo de la máxima de 160 km/h del tramo, y el maquinista aplicó el freno de emergencia. No hubo daños materiales, aunque se produjeron importantes perturbaciones en la circulación. La investigación concluyó que la causa fue la invasión indebida de la vía por imprudencia de la víctima y recomendó vallar la zona y realizar campañas de sensibilización.",
+ "hechos": "A las 18:40 del 13 de febrero de 2007 se produjo un accidente grave por arrollamiento de una persona y varias cabezas de ganado que intentaban cruzar las vías en el pk 394,075 de la línea La Encina-Alicante, en plena vía, a unos 1 km de la estación de Villena. El accidente fue causado por el tren de viajeros de Larga Distancia 1187 Altaria de RENFE, con origen en Alicante y destino Madrid. La víctima era un varón de 69 años, D. Bonifacio Moreno Cantos, que falleció en el lugar.\n\nSegún la declaración del maquinista, al pasar por un viaducto a unos 130 km/h observó un rebaño de ovejas y una persona avanzando por el centro de la vía, accionando el freno de emergencia y el silbato, pero no había visto antes a la persona por la escasa luz solar del atardecer. Tras escuchar un golpe seco en la parte delantera de la locomotora, detuvo el tren unos 300 metros más adelante y comprobó que había restos de ovejas y una persona tendida fuera de la vía, sin movimiento ni sonido. El análisis de la memoria estática de la locomotora 252.038 confirmó una velocidad de 129 km/h en el momento de accionar el freno de emergencia, inferior a la máxima permitida de 160 km/h.\n\nEl maquinista comunicó el suceso al Puesto de Mando de Valencia, que cursó aviso a las gerencias de seguridad y a los servicios de emergencia. La autoridad judicial ordenó retroceder el tren hasta Villena, donde quedó apartado a las 20:29 y se reanudó la circulación con marcha vista. A las 20:30 se tomó declaración al maquinista, que dio negativo en alcoholemia (0,00 mg/ml), y a las 20:42 se restableció la velocidad normal y se transbordó a los viajeros al tren 1207. El cadáver fue levantado a las 20:49.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "394,075",
+  "linea": "La Encina - Alicante",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Paso superior de vehículos que cruza la línea con el vial que une la Autovía de Alicante A-31 con la CV-809, a unos 1 km de la estación de Villena. Tramo llano, recto, sin trincheras, con edificaciones y viviendas en ambos lados y varios pasos viciosos. No existe vallado en todo el tramo hasta el núcleo urbano de Villena. Visibilidad buena, aunque reducida por el atardecer/anochecer."
+ },
+ "cronologia": [
+  {
+   "hora": "18:40",
+   "evento": "Se produce el arrollamiento de una persona y varias cabezas de ganado por el tren 1187 Altaria en el pk 394,075."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista frena en emergencia y el tren se detiene unos 300 metros más adelante."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Valencia, que avisa a ADIF, RENFE, Protección Civil y servicios de emergencia."
+  },
+  {
+   "hora": "20:05",
+   "evento": "La jueza pide que se retroceda el tren 1187 hasta Villena."
+  },
+  {
+   "hora": "20:29",
+   "evento": "El tren queda apartado en Villena y se reanuda la circulación con marcha vista."
+  },
+  {
+   "hora": "20:30",
+   "evento": "En la Comandancia de la Guardia Civil de Villena se toma declaración al maquinista y se le realiza prueba de alcoholemia con resultado negativo."
+  },
+  {
+   "hora": "20:42",
+   "evento": "Se restablece la circulación a velocidad normal y los viajeros del 1187 se transbordan en Villena al tren 1207."
+  },
+  {
+   "hora": "20:49",
+   "evento": "La autoridad judicial levanta el cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1187",
+   "tipo": "Viajeros Larga Distancia (Altaria)",
+   "operador": "RENFE",
+   "danos": "No se producen daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1187",
+   "implicacion": "Conduce el tren que arrolla a la víctima; acciona freno de emergencia y silbato; jornada previa 35 min, 24 h anteriores 6 h 45 min, 48 h anteriores 4 h 13 min; alcoholemia negativa (0,00 mg/ml)."
+  },
+  {
+   "rol": "Jefe Técnico de Operaciones de Alicante (ADIF)",
+   "implicacion": "Nombrado jefe delegado del accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático en vía Única con CTC",
+  "tipo_via": "Vía única electrificada, tramo recto en terreno llano",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": "Sí",
+  "estado_via": "Recta, llana, sin trincheras; sin vallado en el tramo hasta Villena; presencia de pasos viciosos",
+  "otro": "Paso superior de vehículos sobre vial A-31 con CV-809; visibilidad reducida por el atardecer"
+ },
+ "material_rodante": {
+  "series": "Locomotora 252.038 (serie 252)",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Condiciones meteorológicas buenas, al atardecer; luz solar reducida por el anochecer",
+ "causas": {
+  "directa": "Invasión indebida de la vía por imprudencia de la víctima, que cruzó por un punto no autorizado sin percatarse de la proximidad del tren",
+  "contribuyentes": [
+   "Existencia de pasos viciosos e irregulares en la zona",
+   "Inexistencia de vallado en el tramo",
+   "Edificaciones y viviendas cercanas a la vía que favorecen el cruce irregular",
+   "Reducción de la visibilidad por la hora de atardecer/anochecer"
+  ],
+  "sistemicas": [
+   "Falta de protección perimetral (vallado) en un tramo con pasos viciosos y entorno urbano"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales",
+  "afectacion_servicio": "6 trenes de Larga Distancia con retraso acumulado de 582 min, 1 tren de Cercanías con 9 min y 1 tren de Media Distancia con 49 min; el tren 1187 fue suprimido en Villena y sus viajeros transbordados al tren 1207"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dotar de vallado ambos márgenes de la vía en unos 400 m antes y después del paso superior situado sobre el lugar del accidente.",
+   "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+  },
+  {
+   "texto": "Realizar campañas de sensibilización que conciencien a la población sobre los peligros de cruzar y transitar por las vías.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "atropello",
+  "paso vicioso",
+  "invasión de vía",
+  "imprudencia",
+  "peatón",
+  "ganado",
+  "altaria",
+  "renfe",
+  "adif",
+  "vallado",
+  "visibilidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-130207-190707-DGF"
+}

@@ -1,0 +1,116 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de cercanías al intentar subir antes de que se detuviera en la estación de Sitges",
+ "idioma_original": "es",
+ "resumen": "El 1 de enero de 2009 a las 08:13, el tren de cercanías 28467 de Renfe Operadora arrolló a un hombre de 33 años que intentó subirse al tren antes de que quedara completamente parado en la vía 1 de la estación de Sitges. La víctima cayó a la vía y quedó aprisionada entre el muro del andén y el segundo bogie del tercer coche. El hombre falleció mientras era atendido en el andén por personal sanitario. No se produjeron daños materiales ni en el material rodante ni en la infraestructura. La CIAF concluyó que el accidente se originó en el acercamiento de la víctima al tren antes de que estuviera completamente parado y no estableció recomendaciones.",
+ "hechos": "El tren de cercanías 28467 de Renfe Operadora, procedente de Barcelona y con destino San Vicente de Calders (Tarragona), se estaba estacionando en la vía 1 de la estación de Sitges cuando golpeó a un hombre que intentaba subirse al tren antes de que quedara completamente parado. Como consecuencia del golpe, la víctima cayó a la vía y quedó herida y aprisionada entre el muro del andén y el segundo bogie del tercer coche del tren. El tren circulaba a 21 km/h en el momento del arrollamiento, muy por debajo de la velocidad máxima permitida de 110 km/h. El maquinista, al oír un golpe lateral y un chillido, detuvo inmediatamente el tren mediante el freno de urgencia.\n\nEl hombre de 33 años falleció mientras estaba siendo atendido en el andén por el personal sanitario. La vía 1 quedó interceptada y los viajeros del tren afectado fueron transbordados al tren 28471. El tren 28467 reanudó la marcha sin servicio a las 11:00 horas con destino Villanova i la Geltrú. A las 11:43 se produjo el levantamiento del cadáver y se reanudó la circulación normal por todas las vías.\n\nLa investigación determinó que los equipos de seguridad del tren (freno, ASFA, sistemas de vigilancia) funcionaron correctamente, que la actuación del maquinista fue correcta, y que tanto la tasa de alcoholemia como las jornadas de trabajo cumplían la normativa vigente. La víctima se acercó al tren cuando aún estaba con las puertas cerradas y no se había detenido completamente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sitges",
+  "pk": "643,230",
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Andén de la vía 1 de la estación de Sitges, situada dentro del núcleo urbano. La estación dispone de otro andén principal en la vía 2 con edificio de viajeros, y cuenta con un paso inferior. Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)."
+ },
+ "cronologia": [
+  {
+   "hora": "08:13",
+   "evento": "El tren de cercanías 28467 arrolla a una persona al estacionarse en la vía 1 de la estación de Sitges"
+  },
+  {
+   "hora": "08:13",
+   "evento": "El maquinista oye un golpe lateral y un chillido y detiene el tren con el freno de urgencia"
+  },
+  {
+   "hora": "11:00",
+   "evento": "El tren 28467 reanuda la marcha sin servicio, destino Villanova i la Geltrú"
+  },
+  {
+   "hora": "11:39",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF por mensajería móvil"
+  },
+  {
+   "hora": "11:43",
+   "evento": "Levantamiento del cadáver y reanudación de la circulación normal por todas las vías"
+  },
+  {
+   "hora": null,
+   "evento": "Los viajeros del tren implicado son transbordados al tren 28471"
+  },
+  {
+   "hora": null,
+   "evento": "La vía 1 queda interceptada y se establece circulación a la vista por vías 2 y 3"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28467",
+   "tipo": "cercanías (6 vehículos, UTs 447071 en cabeza y 447031 en cola, 432 Tn masa remolcada)",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante"
+  },
+  {
+   "numero": "28471",
+   "tipo": "cercanías (tren receptor de transbordo)",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 28467 (matrícula 8936635)",
+   "implicacion": "Circulaba a 21 km/h (por debajo de los 110 km/h permitidos). Al oír el golpe lateral detuvo inmediatamente el tren con el freno de urgencia. Actuación correcta. Alcoholemia negativa (0,00 mg/1000 ml). Jornadas de conducción dentro de límites normativos. Título de conducción habilitado conforme a OM 2520/2006. Último reciclaje formativo: 15/01/2008. Último reconocimiento médico y psicotécnico: 26/07/2008."
+  },
+  {
+   "rol": "Víctima (hombre de 33 años)",
+   "implicacion": "Se acercó al tren cuando aún estaba con las puertas cerradas y no se había detenido completamente, intentando subirse. Golpeado por el tren, cayó a la vía y quedó aprisionada entre el muro del andén y el segundo bogie del tercer coche. Falleció mientras era atendida en el andén por personal sanitario."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "110 km/h (paso por estación)",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "No se mencionan defectos; la vía 1 quedó interceptada tras el accidente",
+  "otro": "Radiotelefonía modalidad A. Estación dentro del núcleo urbano de Sitges. Paso inferior disponible. Andén de vía 1 habitual para cercanías destino San Vicente de Calders."
+ },
+ "material_rodante": {
+  "series": "UT 447 (447071 en cabeza, 447031 en cola)",
+  "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+  "mantenimiento": "No se menciona en el informe"
+ },
+ "clima": "Tiempo despejado con buena visibilidad en el momento del arrollamiento",
+ "causas": {
+  "directa": "Acercamiento de la víctima al tren antes de que estuviera completamente parado (puertas cerradas), intentando subir",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente",
+  "afectacion_servicio": "4 trenes de larga distancia (22 min retraso total), 10 trenes de media distancia (52 min retraso total), 31 trenes de cercanías (120 min retraso total). Vía 1 interceptada con circulación a la vista por vías 2 y 3 hasta las 11:43. Viajeros transbordados al tren 28471."
+ },
+ "lecciones": [
+  "El acercamiento de personas al tren antes de que quede completamente parado y con las puertas abiertas es una causa directa de arrollamiento mortal",
+  "La actuación del maquinista (detención inmediata con freno de urgencia) fue correcta y no pudo evitar el golpe al estar la víctima ya en contacto con el tren en movimiento"
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "andén",
+  "estación",
+  "cercanías",
+  "víctima mortal",
+  "puertas cerradas",
+  "tren en movimiento",
+  "sitges",
+  "renfe",
+  "adif",
+  "seguridad ferroviaria",
+  "persona en vía"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-010109-190509-CIAF"
+}

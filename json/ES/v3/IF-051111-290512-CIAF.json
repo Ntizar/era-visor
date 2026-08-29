@@ -1,0 +1,125 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal en parada en Bifurcación Sagrera (Barcelona) con conato de colisión entre trenes 37537 y 274",
+ "idioma_original": "es",
+ "resumen": "El 5 de noviembre de 2011, a las 10:43 horas, el tren de larga distancia 37537 (material vacío del tren 874) de Renfe Operadora rebasó indebidamente la señal de entrada 1107 de la Bifurcación Sagrera, que se encontraba en indicación de parada. Se produjo una situación de conato de colisión con el tren 274, que tenía establecido itinerario hacia Barcelona Marina. El incidente se debió al incumplimiento de las órdenes dadas por la señal al personal de conducción. No hubo víctimas ni daños materiales, y no se formularon recomendaciones al considerar adecuadas las medidas adoptadas por Renfe Operadora.",
+ "hechos": "El día 5 de noviembre de 2011, a las 10:43 horas, en la señal de entrada 1107 (PK 110+311) de la Bifurcación Sagrera, de la línea 268 Bif. Aragó–Barcelona Sant Andreu Comtal, el tren de viajeros de larga distancia 37537 (material vacío del tren 874), procedente de Barcelona Sants y con destino Barcelona Sagrera Ag. Km 0, rebasó indebidamente dicha señal que se encontraba en indicación de parada. El tren circulaba por vía impar detrás de una unidad de cercanías, encontrándose con una secuencia de señales que pasaban de parada a anuncio de parada. Al llegar a la señal 1107, el maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que pasara a anuncio de parada, lo cual no ocurrió, y rebasó la señal a 2 km/h, deteniéndose 3 metros después por activación del freno de emergencia del sistema ASFA.\n\nEn ese momento, el tren 274 ya había rebasado la señal 1108 (en vía libre) y se encontraba circulando por la diagonal de acceso a la línea 262 Barcelona Sagrera a Bif. Clot, con itinerario establecido hacia Barcelona Marina, produciéndose una situación de conato de colisión entre ambos trenes. El maquinista comunicó el rebase al puesto de mando (CTC), que ordenó retroceder hasta liberar la señal 1107 y posteriormente le estableció itinerario hasta la señal 1113. No fue necesaria la activación de plan de emergencia.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Bifurcación Sagrera",
+  "pk": "110+311",
+  "linea": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Tramo de túnel con vía doble electrificada de ancho convencional, señal de entrada 1107 situada al final del andén del apeadero de Barcelona Clot-Aragó, alta y dotada de baliza previa. Circulación al amparo de bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona."
+ },
+ "cronologia": [
+  {
+   "hora": "10:42:03",
+   "evento": "El tren 37537 pasa por la baliza previa de la señal 1107 a una velocidad de 36 km/h"
+  },
+  {
+   "hora": "10:43:00",
+   "evento": "Se establece itinerario de paso para el tren 274 por la diagonal desde la señal 1108 hasta la señal 1103 de la línea 262; la señal 1107 está en parada"
+  },
+  {
+   "hora": "10:43:12",
+   "evento": "El tren 37537 rebasa indebidamente la señal 1107 a 2 km/h, deteniéndose 3 metros después por activación del ASFA; conato de colisión con el tren 274"
+  },
+  {
+   "hora": "12:10",
+   "evento": "Prueba de alcoholemia y drogas al maquinista en Barcelona, resultado negativo"
+  },
+  {
+   "hora": "12:42",
+   "evento": "El jefe de gabinete de investigación de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "13:30",
+   "evento": "Toma de declaración al maquinista del tren 37537"
+  },
+  {
+   "hora": null,
+   "evento": "2011-11-29: El Pleno de la CIAF acuerda abrir la investigación"
+  },
+  {
+   "hora": null,
+   "evento": "2011-12-15: Renfe Operadora entrega su informe particular"
+  },
+  {
+   "hora": null,
+   "evento": "2012-02-29: Adif entrega informe con ficha GISCA y anexos"
+  },
+  {
+   "hora": null,
+   "evento": "2012-05-29: Fecha del informe final (Madrid)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "37537",
+   "tipo": "Viajeros larga distancia (material vacío de tren 874), locomotora serie 252, 14 coches, 15 ejes, 208 t, 185 m, Tipo 180B, UIC 9571025207740",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños"
+  },
+  {
+   "numero": "274",
+   "tipo": "Tren de viajeros con itinerario establecido hacia Barcelona Marina",
+   "operador": "Renfe Operadora",
+   "danos": "No se mencionan daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 37537 (matrícula 9710690)",
+   "implicacion": "Rebasó indebidamente la señal 1107 en indicación de parada por incumplimiento de las órdenes dadas por la señal; esperó el encendido de la indicadora de dirección M (Mataró) que no se produjo; prueba de alcoholemia y drogas negativa; título B de conducción, habilitación para la línea desde 10/09/2008, para el vehículo desde 27/03/2008, antigüedad en el cargo desde 06/02/2003, último reciclaje formativo 09/07/2010, último reconocimiento médico-psicotécnico 11/08/2011"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada 1107 en indicación de parada (aspecto no cambió en ningún momento), alta, dotada de baliza previa y baliza de pie de señal con sistema ASFA; señal intermedia nº 13 (PK 109+723) en anuncio de parada; señal 1108 en vía libre",
+  "tipo_via": "Túnel con vía doble electrificada de ancho convencional",
+  "velocidad_maxima": "120 km/h",
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionó correctamente; sin limitación temporal de velocidad",
+  "otro": "Bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona; comunicación Tren Tierra modalidad A; tráfico medio semanal del tramo: 1.182 circulaciones (88 LD, 324 MD, 768 cercanías, 2 servicio)"
+ },
+ "material_rodante": {
+  "series": "Locomotora serie 252, Tipo 180B, UIC 9571025207740",
+  "averia": "Ninguna; equipos de seguridad funcionaron correctamente",
+  "mantenimiento": "No se menciona; registrador de seguridad operativo y analizado"
+ },
+ "clima": "No afecta; el incidente ocurre en el interior de un túnel",
+ "causas": {
+  "directa": "Rebase indebido de la señal 1107 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción (artículo 217 del RGC)",
+  "contribuyentes": [
+   "Circulación detrás de una unidad de cercanías que generó una secuencia de señales en anuncio de parada (L1), creando confusión en el maquinista",
+   "El maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que la señal pasara a anuncio de parada, lo cual no ocurrió",
+   "La indicadora de dirección G (Granollers) estaba apagada, lo que pudo inducir a error"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales ni en material rodante ni en infraestructura",
+  "afectacion_servicio": "Retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de cercanías; no fue necesaria la activación de plan de emergencia interno-externo"
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "rebase señal",
+  "señal en parada",
+  "conato colisión",
+  "ASFA",
+  "factor humano",
+  "bifurcación sagrera",
+  "renfe operadora",
+  "larga distancia",
+  "material vacío",
+  "túnel",
+  "CTC",
+  "Barcelona"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-051111-290512-CIAF"
+}

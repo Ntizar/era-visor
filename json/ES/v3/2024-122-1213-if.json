@@ -1,0 +1,159 @@
+{
+ "titulo_normalizado": "Descarrilamiento por deriva incontrolada de material estacionado en la estación de León Clasificación el 13 de diciembre de 2024",
+ "idioma_original": "es",
+ "resumen": "El 13 de diciembre de 2024 a las 03:50 horas, un corte de 10 vagones plataforma (tipos MMC y MC) estacionado en la vía 9 de la estación de León Clasificación sufrió una deriva incontrolada por la declividad de la vía. El material recorrió 483 metros a una velocidad media de 2,4 km/h antes de talonar la aguja 29 y descarrilar el primer eje del vagón MC de cabeza. El suceso se debió a la inmovilización no efectiva del corte: ausencia de calces antideriva, pérdida de aire del freno automático con el tiempo e ineficacia del único freno de estacionamiento aplicado. No hubo daños personales ni afectación a los vagones con mercancías peligrosas. La aguja 29 resultó dañada.",
+ "hechos": "El 12 de diciembre de 2024, el tren 55251 (locomotora 251.003, 9 vagones MMC, 1 vagón MC y 14 vagones XX) procedente de Zaragoza-Plaza finalizó su recorrido en la estación de León Clasificación, quedando estacionado en la vía 7. Durante el turno de mañana, el Auxiliar de Circulación (AXC) de la empresa logística LOGIRAIL trasladó los 10 vagones plataforma (MMC y MC) a la vía 9. El AXC inmovilizó el corte aplicando el freno de estacionamiento de volante en el segundo vagón MMC por el lado León (n.º UIC 327145708720) y el freno automático del tren, sin disponer de calces antideriva por su escasez en la estación (robos reiterados). Transcurrieron más de 12 horas desde el estacionamiento hasta el suceso.\n\nDurante la madrugada del 13 de diciembre de 2024, a las 03:40 horas las cámaras de seguridad registraron el inicio de la deriva del corte estacionado. A las 03:52 horas, el vagón MC situado en primera posición por el lado Bif. Quintana talonó la aguja 29, provocando el descarrilamiento de su primer eje. El material recorrió 483 metros en 12 minutos a una velocidad media de 2,4 km/h, habiendo rebasado previamente la señal S2/9 en indicación de parada y producido la ocupación intempestiva del circuito de vía CVA15. La deriva fue causada por la declividad de la vía 9 (2,8 milésimas promedio hacia Bif. Quintana, máxima de 6,1 milésimas a 640 m de la aguja 29).\n\nEl suceso provocó daños materiales en la aguja 29. No se produjeron daños personales ni afectación a los vagones que transportaban mercancías peligrosas (Argón Líquido ONU 1951/22 y Hidróxido Sódico ONU 1824/80). No se interceptó ninguna vía de la línea 0134, manteniéndose la circulación operativa. ADIF activó la Ficha 6 del MPGI y notificó la incidencia al H24, Seguridad en la Circulación, Logística, JTO de León, Renfe-Mercancías y CPS.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "León Clasificación",
+  "pk": null,
+  "linea": "0134 León Clasificación – Bif. Quintana",
+  "provincia": "León",
+  "descripcion_lugar": "Vía 9 del haz de ordenación de la estación de León Clasificación. Deriva hacia el lado Bif. Quintana. Descarrilamiento en la aguja 29. Declividad promedio 2,8 milésimas hacia Bif. Quintana, máxima 6,1 milésimas a 640 m de la aguja 29."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "12/12/2024: El tren 55251 (locomotora 251.003, 9 MMC + 1 MC + 14 XX) procedente de Zaragoza-Plaza finaliza su recorrido en León Clasificación y queda estacionado en vía 7."
+  },
+  {
+   "hora": null,
+   "evento": "12/12/2024, turno de mañana: Se comunica al AXC de LOGIRAIL la necesidad de trasladar los 10 vagones plataforma (MMC y MC) a la vía 9."
+  },
+  {
+   "hora": null,
+   "evento": "12/12/2024, turno de mañana: El AXC traslada el corte a vía 9 y lo inmoviliza con freno de estacionamiento en el 2.º vagón MMC por lado León (UIC 327145708720) y freno automático. Sin calces antideriva."
+  },
+  {
+   "hora": "03:40",
+   "evento": "13/12/2024: Las cámaras de seguridad registran el inicio de la deriva del corte estacionado en vía 9."
+  },
+  {
+   "hora": "03:50",
+   "evento": "13/12/2024: Hora del suceso según resumen del informe. Deriva incontrolada del material estacionado."
+  },
+  {
+   "hora": "03:52",
+   "evento": "13/12/2024: El vagón MC (1.ª posición lado Bif. Quintana) talona la aguja 29 y descarrila su primer eje, tras recorrer 483 m a 2,4 km/h medios. Ocupación intempestiva del circuito de vía CVA15. Rodeo de señal S2/9 en parada."
+  },
+  {
+   "hora": null,
+   "evento": "13/12/2024: ADIF activa Ficha 6 del MPGI. Notificación desde CRC de León a H24, Seguridad en la Circulación, Logística, JTO León, Renfe-Mercancías y CPS."
+  },
+  {
+   "hora": "13/12/2024",
+   "evento": "Notificación del suceso a la CIAF mediante SMS de la Dirección de Seguridad en la Circulación de ADIF."
+  },
+  {
+   "hora": "2025-01-15",
+   "evento": "Pleno CIAF nº 191 acuerda la investigación del suceso."
+  },
+  {
+   "hora": "2025-10-16",
+   "evento": "Fecha de publicación del informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "55251",
+   "tipo": "tren de mercancías (corte estacionado)",
+   "operador": "Renfe-Mercancías SME S.A.",
+   "danos": "Descarrilamiento del primer eje del vagón MC (1.ª posición lado Bif. Quintana). Daños en aguja 29. Sin daños personales. Vagones con MMPP no afectados."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Auxiliar de Circulación (AXC) de LOGIRAIL",
+   "implicacion": "Realizó el traslado del corte de 10 vagones a vía 9 y su inmovilización. Aplicó un único freno de estacionamiento (2.º vagón MMC lado León) y freno automático. No dispuso calces antideriva por su escasez. Habilitación vigente conforme a Orden FOM 2872/2010 modificada por Orden FOM 679/2015."
+  },
+  {
+   "rol": "Responsable de Circulación (RC) de León Clasificación (ADIF)",
+   "implicacion": "Ejecuta maniobras centralizadas desde el panel videográfico del gabinete de circulación. Relevante para la investigación por sus actuaciones previas."
+  },
+  {
+   "rol": "Maquinista",
+   "implicacion": "Aplicó el freno automático al máximo antes de la inmovilización del corte."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "BAU (Bloqueo Automático en Vía Única) y CTC (Control de Tráfico Centralizado). Enclavamiento electrónico. Señal S2/9 en indicación de parada (rodeada por el material en deriva). Circuito de vía CVA15 ocupado intempestivamente.",
+  "tipo_via": "Vía 9 del haz de ordenación. Ancho ibérico. Carril 54 kg/m, sujeciones flexibles, traviesas mixtas (hormigón y madera). Electrificada a 3 kV mediante catenaria.",
+  "velocidad_maxima": null,
+  "ancho": "ibérico (1668 mm)",
+  "electrificacion": "3 kV en catenaria",
+  "estado_via": "Declividad promedio 2,8 milésimas hacia Bif. Quintana; declividad máxima 6,1 milésimas a 640 m de la aguja 29. Daños en aguja 29 tras el talonamiento.",
+  "otro": "Control en mando local desde panel videográfico del Gabinete de Circulación de León Clasificación. Alternativamente mando centralizado desde CTC en CRC de León. Línea 0134 León Clasificación – Bif. Quintana. No se interceptó ninguna vía; circulación operativa en todo momento."
+ },
+ "material_rodante": {
+  "series": "Locomotora 251.003; vagones plataforma tipo MMC (9 uds.) y tipo MC (1 ud.); vagones tipo XX (14 uds., no implicados en el corte estacionado). Vagón con freno de estacionamiento aplicado: UIC 327145708720 (MMC, 2.ª posición lado León). Vagón descarrilado: MC (1.ª posición lado Bif. Quintana).",
+  "averia": "Freno de estacionamiento del vagón UIC 327145708720: el volante retornaba aproximadamente un cuarto de vuelta aunque el vagón permanecía aparentemente frenado. Desgaste irregular en zapatas de las ruedas del bogie, con superficie de contacto parcial entre zapatas y bandas de rodadura. Pérdida de estanqueidad del circuito neumático del freno automático con el tiempo.",
+  "mantenimiento": "No se pudo verificar el correcto funcionamiento del freno de estacionamiento accionado por el AXC. No se elaboró informe ni acta de comprobación conjunta ADIF/Renfe-Mercancías el día del suceso. Las comprobaciones en taller nunca llegaron a realizarse por confusión del mantenedor entre el vagón descarrilado (enviado a taller) y el vagón con freno de estacionamiento accionado (continuó circulando con normalidad)."
+ },
+ "clima": "Condiciones meteorológicas y de visibilidad favorables el día del suceso.",
+ "causas": {
+  "directa": "Inmovilización no efectiva del corte de 10 vagones estacionado en la vía 9 del haz de ordenación de León Clasificación, que desencadenó una deriva incontrolada del material por la declividad de la vía, provocando el talonamiento de la aguja 29 y el descarrilamiento del primer eje del vagón MC de cabeza.",
+  "contribuyentes": [
+   "Pérdida de efectividad del freno automático debido a la pérdida de aire en el circuito de freno por el paso del tiempo (más de 12 horas de estacionamiento, superando el máximo de 120 minutos permitido por el LNSO).",
+   "Ineficacia del único freno de estacionamiento aplicado al corte de material por el AXC (volante sin topes/muescas/indicadores; retorno de un cuarto de vuelta; desgaste irregular de zapatas con contacto parcial).",
+   "No disposición de calces antideriva en el corte de material estacionado, por su escasez en la estación debida a robos reiterados de elementos metálicos.",
+   "Existencia de declividad en la vía 9 de la estación de León Clasificación (2,8 milésimas promedio; 6,1 milésimas máxima)."
+  ],
+  "sistemicas": [
+   "Falta de disponibilidad de calces antideriva en las estaciones de clasificación de material, motivada por robos reiterados y ausencia de un sistema eficaz de reposición.",
+   "Exigencia en los protocolos operativos (LNSO 6.2.2.2, ficha guía F-RCF-05/2021 AESF) de aplicar un único freno de estacionamiento en determinados casos de pendiente y longitud del material, sin establecer medidas de respaldo ante posibles fallos, aplicaciones incorrectas o averías.",
+   "Diseño del freno de estacionamiento mediante volante sin elementos de referencia (topes, muescas, indicadores) que dificulta la comprobación objetiva de su correcta aplicación.",
+   "Falta de información sobre la declividad de las vías en las consignas operativas (Consigna A nº 3072, AO/CO nº 9/19), obligando a decisiones basadas en experiencia o juicio técnico.",
+   "Sistemas de Gestión de la Seguridad que no aseguran la disponibilidad efectiva de recursos necesarios (calces antideriva) ni la verificación cierta de la aplicación correcta del freno de estacionamiento.",
+   "Relaciones interorganizativas complejas entre operadores logísticos, administrador de infraestructuras y empresas ferroviarias que dificultan la implementación de medidas preventivas sin marcos claros de actuación conjunta."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en la aguja 29 de la estación de León Clasificación. Descarrilamiento del primer eje del vagón MC. Sin afectación a los vagones que transportaban mercancías peligrosas.",
+  "afectacion_servicio": "No se produjo la interceptación de ninguna vía de la línea 0134 León Clasificación – Bif. Quintana. La circulación se mantuvo operativa en todo momento."
+ },
+ "lecciones": [
+  "El freno automático no es un medio de inmovilización fiable para estacionamientos superiores a 120 minutos por la inevitable pérdida de estanqueidad neumática.",
+  "La aplicación de un único freno de estacionamiento sin calces antideriva ni medidas de respaldo constituye una vulnerabilidad sistémica.",
+  "El diseño del freno de estacionamiento con volante sin indicadores impide la verificación objetiva de su correcta aplicación por parte del personal operativo.",
+  "La indisponibilidad de recursos de seguridad (calces antideriva) no exime del cumplimiento normativo ni de la obligación de activar medidas compensatorias y comunicar el riesgo.",
+  "La falta de información sobre declividades en consignas operativas genera variabilidad en la aplicación de criterios de seguridad.",
+  "La coordinación interorganizativa deficiente entre LOGIRAIL, ADIF y Renfe-Mercancías impidió la comprobación post-accidente del freno de estacionamiento implicado."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Reforzar la implementación efectiva de la ficha guía F-RCF-05/2021 de la AESF en los procedimientos operativos de todas las entidades implicadas (administradores de infraestructura, empresas ferroviarias, empresas logísticas), en relación con la inmovilización del material rodante estacionado. [122/2024-1]",
+   "destinatario": "AESF (implementador final: AESF)"
+  },
+  {
+   "texto": "Implantar un sistema de provisión y almacenamiento seguro de calces antideriva en estaciones de clasificación, que garantice su disponibilidad operativa continua y prevenga su pérdida o sustracción. [122/2024-2]",
+   "destinatario": "AESF (implementador final: empresas logísticas y EEFF)"
+  },
+  {
+   "texto": "Revisar los programas de formación y habilitación del personal encargado de las operaciones en las terminales, asegurando que incluyen: el conocimiento de la infraestructura, la correcta aplicación y verificación funcional de los frenos de estacionamiento, la identificación de situaciones de riesgo, la actuación ante la ausencia de medios físicos y la comprensión de las responsabilidades compartidas entre operadores logísticos, administradores de infraestructura y empresas ferroviarias. [122/2024-3]",
+   "destinatario": "AESF (implementador final: empresas logísticas)"
+  },
+  {
+   "texto": "Constituir un grupo de trabajo intersectorial entre todos los actores implicados (administradores de infraestructura, empresas ferroviarias y empresas prestadoras de servicios básicos) para revisar los protocolos operativos relativos al estacionamiento de cortes de material, contemplando el tiempo máximo de estacionamiento sin aplicación de frenos de estacionamiento y el número mínimo de frenos a aplicar, garantizando medidas de respaldo ante fallos, aplicaciones incorrectas o averías.",
+   "destinatario": "AESF"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "deriva incontrolada",
+  "escape de material",
+  "estacionamiento",
+  "freno de estacionamiento",
+  "calces antideriva",
+  "mercancías peligrosas",
+  "talonamiento aguja",
+  "declividad",
+  "freno automático",
+  "león clasificación",
+  "logirail"
+ ],
+ "v3_completo": true,
+ "id": "ES-2024-122-1213-if"
+}

@@ -1,0 +1,220 @@
+{
+ "titulo_normalizado": "Retroceso no autorizado del tren 77721 en el apeadero de El Papiol (Barcelona) por confusión con la estación de Castellbisbal",
+ "idioma_original": "es",
+ "resumen": "El 1 de junio de 2022 a las 11:09 h, el tren de Rodalies 77721 (serie 447) realizó una rotación no programada y un retroceso no autorizado en la vía I del apeadero de El Papiol (PK 81,998, línea 240), circulando en sentido contrario al bloqueo establecido hasta detenerse ante la señal E4 de entrada a Molins de Rei. El maquinista M-77721 confundió el apeadero con la estación de Castellbisbal, donde tenía prevista la inversión del sentido por las obras del tercer carril en la L240. No se produjeron daños personales ni materiales. El Responsable de Circulación del CTC ordenó la parada del tren siguiente (77523) y, tras no poder contactar con M-77721 por tren-tierra ni teléfono corporativo, el Centro de Gestión logró comunicarse con él. El tren fue suprimido y el maquinista relevado. La CIAF identificó como causas directas la confusión del apeadero con la estación y el incumplimiento de procedimientos, y emitió seis recomendaciones a través de la AESF.",
+ "hechos": "El día 01/06/2022, el tren 77721 de Rodalies, con origen en Terrassa y destino previsto Castellbisbal (donde debía realizar la rotación por las obras del tercer carril en la L240 entre Castellbisbal y Martorell), salió de Terrassa a las 9:53 h con 5 minutos de retraso. En L'Hospitalet de Llobregat (10:52 h) cambió su numeración a 77721. A las 11:05 h salió de Molins de Rei con retraso acumulado. A las 11:09:02 h se detuvo en el apeadero de El Papiol (PK 81,998) para una parada comercial en la vía I. A las 11:10:34 h, M-77721 bajó del tren para cambiar de cabina y realizar la rotación, creyendo erróneamente que había llegado a Castellbisbal. A las 11:12:37 h subió por la cabina opuesta. A las 11:16:07 h informó por megafonía manual a los viajeros de la inversión del sentido y trasbordo por carretera. A las 11:17:08 h inició la marcha en retroceso por la vía I en sentido Molins de Rei, franqueando la señal permisiva E'4 (en amarillo) que confundió con una señal absoluta de salida, y cambió la numeración del tren a 77622 sin notificarlo al RC.\n\nEl RC del CTC, al detectar la ocupación excesiva del CVE'1, intentó contactar con M-77721 por tren-tierra y teléfono corporativo sin éxito. Ordenó al tren 77523 detenerse en Molins de Rei. A las 11:19:50 h la cabeza del 77721 ocupó el CVAE4 y se detuvo ante la señal E4 (en rojo). El inspector del PM contactó con el Operador de Rodalies del CG, quien logró hablar con M-77721 a través de su móvil personal. M-77721 declaró haber realizado la rotación en El Papiol por confusión con Castellbisbal. El RC dispuso itinerario a la vía III de Molins de Rei, se suprimió el tren y se relevó al maquinista.\n\nLa línea no fue interceptada, aunque se produjeron retrasos en las circulaciones. No se activó ningún plan de emergencias. Renfe Viajeros y ADIF remitieron sus informes definitivos el 16/09/2022 y 22/03/2023 respectivamente. La CIAF fue notificada el 01/06/2022 a las 13:56 h por SMS de ADIF.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Apeadero de El Papiol",
+  "pk": "81,998",
+  "linea": "L240 (Sant Vicenç de Calders – L'Hospitalet de Llobregat)",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Apeadero de El Papiol, PK 81,998, municipio de El Papiol, Cataluña. Estaciones colaterales: Molins de Rei (PK 85,307) y Castellbisbal (PK 76,800). Trazado en curva a la izquierda; vía I a la derecha en sentido del tren. Aproximadamente 3,30 km de Molins de Rei y 5,20 km de Castellbisbal. Túnel de ~450 m a la salida de Molins de Rei."
+ },
+ "cronologia": [
+  {
+   "hora": "05:26",
+   "evento": "Inicio del servicio de M-77721 el día del incidente"
+  },
+  {
+   "hora": "09:48",
+   "evento": "Horario teórico de salida del tren 77720 de Terrassa"
+  },
+  {
+   "hora": "09:53",
+   "evento": "Salida real del tren 77720 de Terrassa (5 min de retraso)"
+  },
+  {
+   "hora": "10:45",
+   "evento": "Horario teórico de salida de L'Hospitalet de Llobregat"
+  },
+  {
+   "hora": "10:52",
+   "evento": "Salida real de L'Hospitalet de Llobregat; cambio de numeración a 77721"
+  },
+  {
+   "hora": "11:05",
+   "evento": "Salida de Molins de Rei (programada 10:55 h)"
+  },
+  {
+   "hora": "11:09:02",
+   "evento": "El tren 77721 se estaciona por completo en el apeadero de El Papiol (vía I)"
+  },
+  {
+   "hora": "11:10:34",
+   "evento": "M-77721 baja del tren para cambiar de cabina y realizar la rotación"
+  },
+  {
+   "hora": "11:12:37",
+   "evento": "M-77721 sube al tren por la cabina opuesta (cola en sentido Castellbisbal)"
+  },
+  {
+   "hora": "11:16:07",
+   "evento": "M-77721 informa por megafonía manual a los viajeros de la inversión del sentido"
+  },
+  {
+   "hora": "11:17:08",
+   "evento": "El tren 77721 inicia la marcha en retroceso por la vía I en sentido Molins de Rei; franquea señal E'4 (amarillo); cambia numeración a 77622"
+  },
+  {
+   "hora": "11:19:50",
+   "evento": "Cabeza del tren 77721 ocupa CVAE4; se detiene ante señal E4 (rojo); se cierra señal de salida S1/1 de Molins de Rei"
+  },
+  {
+   "hora": "11:09",
+   "evento": "RC del CTC detecta ocupación excesiva del CVE'1; intenta comunicación por tren-tierra y teléfono corporativo sin éxito"
+  },
+  {
+   "hora": null,
+   "evento": "RC ordena al tren 77523 detenerse en Molins de Rei"
+  },
+  {
+   "hora": null,
+   "evento": "CTC contacta con Operador de Rodalies del CG; CG contacta con M-77721 vía móvil personal"
+  },
+  {
+   "hora": null,
+   "evento": "Contacto efectivo CTC-tren; M-77721 informa de la confusión; se autoriza estacionamiento en vía III de Molins de Rei; tren suprimido; M-77721 relevado"
+  },
+  {
+   "hora": "13:56",
+   "evento": "ADIF notifica el suceso a la CIAF por SMS"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "77721 (inicialmente 77720, modificado manualmente a 77622 durante la rotación)",
+   "tipo": "Rodalies (serie 447, composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t)",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños materiales ni personales"
+  },
+  {
+   "numero": "77523",
+   "tipo": "Rodalies",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños; detenido preventivamente en Molins de Rei por orden del RC"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista (M-77721)",
+   "implicacion": "Realizó la rotación y retroceso no autorizado por confundir el apeadero de El Papiol con la estación de Castellbisbal. Usó un dispositivo electrónico durante el cambio de cabina. Llevaba ~8 meses de baja laboral previa; reincorporación efectiva el 06/05/2022 sin acompañamiento en cabina. Primera vez que realizaba la rotación en Castellbisbal tras la reincorporación. No notificó al RC el tren dispuesto ni el cambio de numeración. RM de renovación (16/02/2022): Apto. RM adicional post-incidente (03/06/2022): resultado distinto. Relevado tras el incidente; reubicado como auxiliar de circulación en PML de L'Hospitalet de Llobregat."
+  },
+  {
+   "rol": "Responsable de Circulación (RC) del CTC",
+   "implicacion": "Detectó la ocupación excesiva del CVE'1, intentó comunicación sin éxito, ordenó la parada del tren 77523, dispuso itinerario de seguridad. Actuación valorada como excelente por la CIAF."
+  },
+  {
+   "rol": "Operador de Rodalies del Centro de Gestión (CG)",
+   "implicacion": "Logró contactar con M-77721 a través de su móvil personal cuando el RC no pudo establecer comunicación."
+  },
+  {
+   "rol": "Maquinista del tren 77523 (M-77523)",
+   "implicacion": "Recibió orden de detenerse en Molins de Rei y posteriormente de avanzar por vía II a la altura del tren 77721 para recabar información."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E'4 (avanzada, permisiva, en amarillo - anuncio de parada) franqueada indebidamente; señal E4 (entrada Molins de Rei, en rojo - parada) ante la que se detuvo el tren; señal 'A' de aproximación al apeadero no interpretada; señal de salida S1/1 de Molins de Rei se cerró. Bloqueo automático banalizado con CTC (BAB con CTC).",
+  "tipo_via": "Vía doble, ancho ibérico",
+  "velocidad_maxima": "120 km/h",
+  "ancho": "Ibérico (1668 mm)",
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Vía I banalizada; obras de implantación del tercer carril entre Castellbisbal y Martorell (desde 23/04/2022, previstas hasta mayo 2023) que limitaban el tráfico ordinario y obligaban a rotaciones en Castellbisbal",
+  "otro": "Sistema ASFA Digital. Consigna ATO 14/22 de ADIF y consigna PBA 54/22 del PAT de Renfe. Radiotelefonía tren-tierra modalidad A. Banda SITRA 5107 (L'Hospitalet-Sant Feliu) y 5104 (Sant Feliu-Sant Vicenç). CVE'1 en el apeadero; CVAE4 y CVE'4 en el cantón de Molins de Rei."
+ },
+ "material_rodante": {
+  "series": "Serie 447 de RENFE (automotores 447117 y 447045), fabricada por CAF y Alstom (mecánica) y Siemens y ABB (eléctrica). Composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t, tracción eléctrica, ASFA Digital, vmax 120 km/h.",
+  "averia": "Ninguna. El material rodante y las instalaciones técnicas funcionaron adecuadamente.",
+  "mantenimiento": "No se menciona problema de mantenimiento. No existía equipo de grabación de conversaciones en cabina de este tipo de trenes."
+ },
+ "clima": "De día, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Confusión del apeadero de El Papiol con la estación de Castellbisbal por parte de M-77721, seguida del incumplimiento de los procedimientos que hubieran podido prevenir el inicio de la marcha y el retroceso no autorizado.",
+  "contribuyentes": [
+   "Desvío del foco atencional durante el cambio de cabina por uso de dispositivo electrónico",
+   "Situación psico-personal transitoria de M-77721",
+   "Largo periodo de inactividad laboral (~8 meses) previo al incidente",
+   "Primera vez que M-77721 realizaba la rotación en Castellbisbal tras la reincorporación",
+   "Posible déficit de formación: no identificación del apeadero tras sobrepasar la señal 'A'; rotación en plena vía",
+   "Confusión de la señal permisiva E'4 con una señal absoluta de salida",
+   "Inicio de la marcha por la vía I (impar) siendo tren con numeración par (77622)",
+   "No notificación al RC de que el tren estaba dispuesto (entrada en banda)",
+   "Falta de chequeos adecuados antes del reinicio de la marcha",
+   "Imposibilidad de comunicación con M-77721 por tren-tierra (numeración cambiada) ni por teléfono corporativo (no lo llevaba)",
+   "Listas de comprobación con opción 'todo leído' que no obligan a verificación elemento por elemento",
+   "No se incluyó disponibilidad del móvil corporativo en las listas de chequeo"
+  ],
+  "sistemicas": [
+   "FCS1: Baja apreciación del riesgo en tareas de conducción (uso de dispositivos electrónicos, conducción en condiciones psico-físicas no adecuadas, inicio de servicios sin conocimiento suficiente)",
+   "FCS2: Carencia de procedimientos que garanticen la aptitud psico-física tras largos periodos de inactividad laboral",
+   "FCS3: Insuficiente comunicación, colaboración y coordinación entre tutores y personal de conducción; falta de cultura de confianza",
+   "FCS4: Carencias en los procedimientos de evaluación y pruebas psico-físicas de los RM de habilitación y renovación (posibilidad de entrenamiento previo)",
+   "FCS5: Ausencia de suficiente personal con experiencia para formación continua y acompañamientos tras largos periodos de inactividad",
+   "FCS6: Necesidad de reforzar mecanismos de transmisión de información al personal de conducción con antelación suficiente",
+   "FCS7: Necesidad de refuerzo de programas de formación práctica y teórica (conocimiento de instalaciones, señalización, protocolos de comunicación)",
+   "FCS8: Canales de notificación informales y carencia de procedimientos reglados para comunicaciones de tren dispuesto en puntos con elevado tráfico"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "Tren 77721 suprimido. Tren 77523 detenido preventivamente en Molins de Rei. Cierto retraso en el resto de circulaciones de la línea. No se interceptó la línea. No se activó plan de emergencias."
+ },
+ "lecciones": [
+  "La excelente actuación del RC de ADIF (actitud cuestionadora, trabajo en equipo, resiliencia del sistema) evitó un incidente más grave al ordenar la parada del tren 77523",
+  "La confusión entre un apeadero y una estación puede tener consecuencias graves cuando se realizan rotaciones en plena vía",
+  "La reincorporación tras largos periodos de inactividad laboral requiere procedimientos específicos de evaluación y acompañamiento",
+  "Las pruebas psico-físicas de los CMH son entrenables y no detectan situaciones anómalas sobrevenidas",
+  "La falta de teléfono corporativo operativo impide la comunicación con el RC y agrava la gestión de incidencias",
+  "Las listas de comprobación con opción 'todo leído' no garantizan la verificación efectiva de todos los requisitos de seguridad",
+  "Los cambios de numeración de tren en rotaciones no se notifican al RC, lo que impide la comunicación por tren-tierra",
+  "La carencia de mandos intermedios y personal con experiencia dificulta la formación y tutela del personal de conducción"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Implementar procedimientos de reincorporación progresiva y adaptación a los puestos de trabajo para el personal de conducción tras periodos largos de inactividad laboral, teniendo en cuenta posibles acciones formativas adicionales y la revisión de los SGS en relación con los reciclajes sobre la infraestructura.",
+   "destinatario": "Empresas Ferroviarias (EEFF), vía AESF"
+  },
+  {
+   "texto": "Proseguir y completar el desarrollo de una nueva herramienta de evaluación psicológica, revisando contenido y criterios de las pruebas psicológicas y procedimientos de los RM (habilitación, renovación y adicionales tras bajas prolongadas), adecuándolos a los motivos de la baja, con actualización sistemática y respeto a la protección de datos.",
+   "destinatario": "AESF y Centros Médicos Homologados (CMH)"
+  },
+  {
+   "texto": "Potenciar la supervisión y tutela del personal de conducción en sus tareas cotidianas, estableciendo sistemas de coordinación, formación y tutela continua que fomenten la comunicación y cultura de confianza. Realizar análisis de disponibilidad de medios en residencias del personal de conducción para supervisión y transferencia de conocimientos.",
+   "destinatario": "Renfe Viajeros, vía AESF"
+  },
+  {
+   "texto": "Reforzar las acciones formativas de acceso y reciclaje con contenidos y formación práctica que mejoren la apreciación del riesgo en actividades críticas. Incidir en la obligación del personal de conducción de comunicar a la empresa su estado de salud psicofísica (DA5ª Orden FOM/2872/2010).",
+   "destinatario": "Renfe Viajeros y Empresas Ferroviarias, vía AESF"
+  },
+  {
+   "texto": "Revisar los procedimientos de comunicación del tren dispuesto en aquellos casos en los que operativamente no convenga la comunicación con el RC, con objeto de evitar inicios de marcha no autorizados.",
+   "destinatario": "Empresas Ferroviarias y ADIF, vía AESF"
+  },
+  {
+   "texto": "Garantizar el cumplimiento de la RT 1/2020 de la AESF y que el personal de conducción dedica tiempo suficiente antes del inicio de los servicios a la comprensión de la información imprescindible. Establecer acciones de vigilancia para evaluar la comprensión de la documentación y prestar asesoramiento.",
+   "destinatario": "Empresas Ferroviarias (EEFF), vía AESF"
+  }
+ ],
+ "tags": [
+  "retroceso no autorizado",
+  "rotación en apeadero",
+  "confusión de estación",
+  "desvío del foco atencional",
+  "inactividad laboral",
+  "reconocimientos médicos",
+  "centros médicos homologados",
+  "factor humano",
+  "obras tercer carril",
+  "línea 240",
+  "rodalies",
+  "asfa digital",
+  "bloqueo banalizado",
+  "entrenamiento y tutela",
+  "lista de comprobación"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10252 - 2022-46-0601-IF"
+}

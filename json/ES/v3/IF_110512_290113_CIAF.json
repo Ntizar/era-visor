@@ -1,0 +1,125 @@
+{
+ "titulo_normalizado": "Colisión y descarrilamiento del tren de cercanías 1903 de Feve con un pino caído entre Xubia y Ferrerías (La Coruña)",
+ "idioma_original": "es",
+ "resumen": "El 11 de mayo de 2012 a las 20:34, el tren de cercanías 1903 de Feve, con origen Ferrol y destino Cerdido, colisionó contra un pino gallego de grandes dimensiones caído sobre la vía en el PK 8+645 de la línea 11 Ferrol-Gijón, entre la estación de Xubia y el apeadero de Ferrerías (municipio de Narón, La Coruña). El árbol, derribado por fuertes ráfagas de viento y con raíces y parte del tronco podridos, ocupaba el gálibo de la vía. El maquinista activó el freno de emergencia pero no pudo evitar la colisión, produciéndose el descarrilamiento del bogie delantero de la UTDH 2907 y su posterior vuelco hacia el lado izquierdo. No se produjeron víctimas mortales ni heridos. La circulación quedó interrumpida durante casi 24 horas.",
+ "hechos": "El día 11 de mayo de 2012, a las 20:34 horas, el tren de cercanías 1903 de Feve, compuesto por la unidad de tren diésel hidráulica (UTDH) 2907 (serie 2900, tipo T80), circulaba con normalidad y según horario previsto entre Ferrol y Cerdido, con siete pasajeros y el maquinista. Al salir de una curva a la derecha en el sentido de la marcha, a la altura del PK 8+645, en plena vía entre la estación de Xubia y el apeadero de Ferrerías (municipio de Narón, provincia de La Coruña), el maquinista se percató de que el gálibo de la vía estaba ocupado por un pino gallego de grandes dimensiones caído sobre la misma, a unos 50-60 metros de distancia. El árbol había sido derribado por las fuertes ráfagas de viento presentes en ese momento y presentaba pudrición en las raíces y parte del tronco.\n\nEl maquinista, que circulaba a 61 km/h, hizo uso inmediato de la seta de emergencia (freno de emergencia) y gritó ¡cuidado! agachándose bajo el pupitre de conducción. Cuatro segundos después, a las 20:34:36, el tren colisionó con el árbol a una velocidad de 39 km/h, partiéndolo. La colisión provocó el descarrilamiento del bogie delantero de la UTDH hacia el hilo alto de la curva (hilo izquierdo), saliéndose de la banqueta de balasto. La unidad circuló en estas condiciones durante 4 segundos más hasta su detención, volcando paulatinamente hacia el costado izquierdo a 13 metros del punto de colisión, cuando ya estaba prácticamente detenida.\n\nTras cesar el movimiento, el maquinista salió de la cabina, se interesó por el estado de los viajeros, desconectó los automáticos del armario eléctrico y buscó un lugar por donde sacar a los viajeros. Una vez abierta la puerta de emergencia frontal de una de las cabinas, ayudó a salir a los pasajeros y por último salió él. No se produjeron víctimas mortales ni heridos. El maquinista se puso en contacto con la estación de Ferrol, que a su vez avisó al puesto de mando de El Berrón (Asturias) y al 112, activándose el procedimiento de emergencia. La circulación quedó interrumpida desde las 20:34 del 11/05/2012 hasta las 20:10 del 12/05/2012, suprimiéndose 5 trenes (4 de cercanías y 1 regional) y trasladando a los viajeros por carretera en taxis.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Xubia",
+  "pk": "PK 8+645",
+  "linea": "11 Ferrol - Gijón",
+  "provincia": "La Coruña",
+  "descripcion_lugar": "Plena vía entre la estación de Xubia y el apeadero de Ferrerías, municipio de Narón, provincia de La Coruña. Zona de transición a la salida de una curva a la derecha en sentido de la marcha, en trinchera de unos 2,5 metros de altura, en zona de bosques y matorrales a ambos márgenes. Visibilidad de 60 metros."
+ },
+ "cronologia": [
+  {
+   "hora": "20:34",
+   "evento": "El tren 1903 sale de la estación de Xubia a su hora y circula con normalidad según horario previsto"
+  },
+  {
+   "hora": "20:34:32",
+   "evento": "El maquinista percibe el pino caído ocupando el gálibo a unos 60 metros y acciona la seta de emergencia circulando a 61 km/h"
+  },
+  {
+   "hora": "20:34:36",
+   "evento": "Colisión con el árbol a 39 km/h; descarrilamiento del bogie delantero de la UTDH 2907"
+  },
+  {
+   "hora": "20:34:40",
+   "evento": "Vuelco paulatino de la UTDH hacia el costado izquierdo a 13 metros del punto de colisión, prácticamente detenida"
+  },
+  {
+   "hora": "20:34",
+   "evento": "Inicio de la interrupción de la circulación en el tramo"
+  },
+  {
+   "hora": "21:48",
+   "evento": "El director gerente de gestión de capacidad y seguridad en la circulación de Feve comunica el suceso a la CIAF por mensaje de telefonía móvil"
+  },
+  {
+   "hora": "20:10",
+   "evento": "Se restablece la circulación en condiciones normales (12/05/2012)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1903",
+   "tipo": "Tren de cercanías, unidad de tren diésel hidráulica (UTDH) tipo T80",
+   "operador": "Feve",
+   "danos": "Daños en quitarreses, lunas, parachoques, depósito, electroválvula, amortiguación, etc. Valoración: 78.123,65 €. Descarrilamiento del bogie delantero y vuelco de la unidad."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1903 (CF 9970)",
+   "implicacion": "Conductor del tren. Circulaba a 61 km/h, activó el freno de emergencia al ver el árbol a unos 60 m. No pudo evitar la colisión (impacto a 39 km/h). Antigüedad en el cargo: 4 años y 6 meses. Último curso formativo: 03/11/2010. Último reconocimiento médico y psicotécnico: 03/06/2011. Habilitado conforme a normativa de Feve. No se le realizó prueba de alcoholemia. Jornada del día 11: 4 h 30 min (1 h 12 min de conducción efectiva). Días 9 y 10: descanso."
+  },
+  {
+   "rol": "Siete pasajeros",
+   "implicacion": "Viajeros del tren 1903. No resultaron heridos. Fueron evacuados por el maquinista a través de la puerta de emergencia frontal."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo telefónico. Radioemisora como sistema de comunicación.",
+  "tipo_via": "Vía única sin electrificar",
+  "velocidad_maxima": "70 km/h en el tramo; limitación permanente de 60 km/h por curva entre PK 8+470 y 8+670 (Consigna C nº 3/2012). Velocidad máxima del vehículo (tipo T80): 80 km/h.",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Trinchera de 2,5 m de altura, zona de bosques y matorrales a ambos márgenes. Curva a la derecha en sentido de la marcha, radio 205-206 m, desnivel en rampa de 15 milésimas. Superestructura: traviesas de hormigón y carril de 45 kg/ml. Visibilidad de 60 m.",
+  "otro": "Tramo con 30 circulaciones diarias (21 cercanías, 8 regionales, 1 mercancías). En el tramo Ferrol-Mosende (PK 0+000 a 78+132) se registraron 4 incidencias por caída de árboles entre 2011 y junio 2012. Media mensual de 1.200 m de vía con exceso de maleza detectada entre enero y mayo de 2012 en Galicia. Contrato externo de control de vegetación en Galicia (tramo Ferrol-Vegadeo) por 100.000 € en 2011."
+ },
+ "material_rodante": {
+  "series": "UTDH 2907, serie 2900, tipo T80",
+  "averia": "Daños en quitarreses, lunas, parachoques, depósito, electroválvula, amortiguación, etc. Valoración: 78.123,65 €. Descarrilamiento del bogie delantero y vuelco de la unidad.",
+  "mantenimiento": "Del registrador de eventos no se observa exceso de velocidad ni anomalía en la conducción. El material rodante funcionó correctamente."
+ },
+ "clima": "Tiempo seco con fuertes ráfagas de viento. Temporales de lluvia y viento en la zona en los meses previos (detectados el 25/04/2012 caídas de ramas).",
+ "causas": {
+  "directa": "Colisión del tren 1903 con un obstáculo (pino gallego de grandes dimensiones) caído sobre la vía y que ocupaba el gálibo.",
+  "contribuyentes": [
+   "Fuertes ráfagas de viento que derribaron el árbol.",
+   "Estado de pudrición de las raíces y parte del tronco del pino, que facilitó su caída.",
+   "Visibilidad limitada a 60 metros por el trazado en curva y la existencia de matorrales y bosques a la derecha de la vía.",
+   "Exceso de maleza y arbolado en los márgenes de la vía (media mensual de 1.200 m de vía con exceso de maleza detectada en el periodo enero-mayo 2012 en Galicia)."
+  ],
+  "sistemicas": [
+   "Aunque Feve realizaba inspecciones de vía en cabina y a pie, y disponía de un contrato externo para control de vegetación, poda y tala, la pudrición interna del árbol no fue detectada previamente.",
+   "Antecedentes de múltiples incidencias por caída de árboles en el mismo tramo (4 incidencias entre 2011 y junio 2012) que no motivaron una actuación preventiva adicional en la zona del accidente antes del suceso."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: daños en 29 traviesas de hormigón y un poste de comunicaciones sustituidos (15.768,86 €). Material rodante: daños en quitarreses, lunas, parachoques, depósito, electroválvula, amortiguación, etc. (78.123,65 €). Total: 93.892,51 €.",
+  "afectacion_servicio": "Circulación interrumpida desde las 20:34 del 11/05/2012 hasta las 20:10 del 12/05/2012 (aprox. 23 h 36 min). Supresión de 5 trenes (4 cercanías, 1 regional). Viajeros trasladados por carretera en taxis. Unidad descarrilada retirada a la estación de Ferrol para posterior traslado al taller de El Berrón."
+ },
+ "lecciones": [
+  "La pudrición interna de raíces y tronco puede hacer que un árbol caiga súbitamente con fuertes vientos sin signos externos evidentes de riesgo durante inspecciones rutinarias.",
+  "La visibilidad limitada en curvas (60 m) reduce significativamente el tiempo de reacción del maquinista ante obstáculos en vía.",
+  "La activación del freno de emergencia y la correcta reacción del personal pueden mitigar las consecuencias de una colisión inevitable (vuelco paulatino sin víctimas).",
+  "Los antecedentes de incidencias similares en el mismo tramo deben activar medidas preventivas adicionales de tala o retirada de arbolado en riesgo."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas existentes y las adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "colisión con obstáculo",
+  "árbol caído",
+  "descarrilamiento",
+  "vuelco",
+  "feve",
+  "cercanías",
+  "utdh serie 2900",
+  "pino gallego",
+  "viento",
+  "pudrición",
+  "vegetación",
+  "línea ferrol-gijón"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_110512_290113_CIAF"
+}

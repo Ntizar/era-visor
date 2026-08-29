@@ -1,0 +1,150 @@
+{
+ "titulo_normalizado": "Incendio en locomotora serie 252 del tren 922 entre Ballobar y Peñalba por defecto de apriete en conector del conmutador Q1",
+ "idioma_original": "es",
+ "resumen": "El 6 de agosto de 2014 a las 22:05, el tren 922 de larga distancia (Renfe Viajeros), con locomotora 252 y 28 coches Talgo, se detuvo por avería en el bogie nº2 en plena vía entre Ballobar y Peñalba (Huesca). El maquinista detectó un incendio en el pasillo de la locomotora que no pudo sofocar con extintores. El fuego se originó por un arco eléctrico en un conector del conmutador del sistema Q1 debido a un defecto de apriete, agravado por la acumulación de aceite y grasa en la zona del transformador principal. No hubo víctimas pero sí cuantiosos daños en locomotora e infraestructura. La CIAF emitió dos recomendaciones dirigidas a AESF y Renfe Operadora.",
+ "hechos": "El día 6 de agosto de 2014 a las 22:05 horas, el maquinista del tren 922 de larga distancia (locomotora 252 y 28 coches Talgo) de Renfe Viajeros, procedente de Barcelona Sants con destino Vigo, comunica al CRC de Zaragoza que precisa detener la marcha por una avería en el bogie nº2 de la composición. La avería activa el freno de urgencia y el tren queda detenido en plena vía, PK 390+500, entre Ballobar y Valfarta (Huesca), línea 050 Madrid Puerta de Atocha – Límite Adif TP-Ferro. El maquinista se dirige a la sala de máquinas y aprecia mucho humo y focos de fuego en el suelo del pasillo de la locomotora, por el lado izquierdo según el sentido de la marcha. Intenta sofocar el fuego con el extintor de cabina; tras apagar el primer foco, observa un segundo foco mayor en el lado derecho que no logra extinguir. El supervisor de servicios a bordo traslada a los viajeros a los coches de cola y el mecánico de Talgo bloquea las puertas del lado izquierdo. Las llamas crecen y se aproximan a la vía contigua (vía I). La Guardia Civil y los bomberos se personan en el lugar; se corta la tensión de la catenaria y se interrumpe la circulación por ambas vías. El fuego queda sofocado a las 02:05 del 7 de agosto. No se producen daños personales pero sí cuantiosos daños materiales en la locomotora y en la catenaria de la vía II. El tren fue remolcado por una locomotora diésel hasta Ballobar y los viajeros trasladados en autobuses a Zaragoza.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "390+500",
+  "linea": "050 Madrid Puerta de Atocha – Límite Adif TP-Ferro",
+  "provincia": "Huesca",
+  "descripcion_lugar": "Tramo entre Ballobar y Peñalba (también referido como Ballobar-Valfarta), vía II, sentido Valfarta. Terreno llano antes del cruce del río Cinca; zona de Los Monegros con alternancia de rampas y pendientes de hasta 25 milésimas. Apartadero de Ballobar en PK 396+800 y PBL de Peñalba en PK 384+720."
+ },
+ "cronologia": [
+  {
+   "hora": "22:05",
+   "evento": "El tren 922 se detiene por freno de urgencia en PK 390+500 por avería en bogie nº2; el maquinista informa al CRC de Zaragoza."
+  },
+  {
+   "hora": "22:10",
+   "evento": "Tras pasar por Ballobar, aparece en el DMI 'anular convertidor'; el maquinista intenta cerrar el disyuntor dos veces sin éxito. Se encienden todos los visores y se produce el frenado de urgencia."
+  },
+  {
+   "hora": "22:30",
+   "evento": "El maquinista informa al CRC que el incendio llega a la catenaria de la vía II. Se solicita corte de tensión de la vía II (PKs 377-408); trenes circulan por vía I a la vista."
+  },
+  {
+   "hora": "23:09",
+   "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF la producción del suceso."
+  },
+  {
+   "hora": "23:15",
+   "evento": "Se corta la tensión en la vía I (PKs 377-408). Queda interrumpida la circulación entre Zaragoza y Lérida."
+  },
+  {
+   "hora": "23:29",
+   "evento": "Los bomberos inician los trabajos de extinción del incendio de la locomotora."
+  },
+  {
+   "hora": "02:05",
+   "evento": "El fuego queda sofocado (7 de agosto de 2014)."
+  },
+  {
+   "hora": "03:05",
+   "evento": "Los bomberos se retiran del lugar."
+  },
+  {
+   "hora": "08:15",
+   "evento": "Se restablece la circulación por vía I con LTV de 80 km/h entre PKs 390+415 y 391+175 (7 de agosto)."
+  },
+  {
+   "hora": "17:00",
+   "evento": "La LTV de la vía I se modifica a 160 km/h entre los mismos PKs (7 de agosto)."
+  },
+  {
+   "hora": "06:15",
+   "evento": "Se quitan limitaciones de velocidad por vía I y se restablece circulación por vía II con LTV de 80 km/h entre PKs 390+150 y 391+170 (8 de agosto)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "922",
+   "tipo": "Larga distancia (tren de viajeros)",
+   "operador": "Renfe Viajeros",
+   "danos": "Grandes desperfectos en la locomotora 252010: daños en todos los elementos de la cámara de alta central, cabina de conducción, transformador principal, cofres de baterías y otros elementos. Transformador principal caído sobre los carriles de la vía II. El sistema de detección de incendios no funcionó."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 922 (matrícula 977097)",
+   "implicacion": "Detectó la avería en el bogie nº2, comunicó al CRC, intentó sofocar el incendio con extintores (hasta 3 extintores), no logró extinguirlo y pidió ayuda. Cumplía toda la normativa de títulos, habilitación, reciclaje y reconocimiento médico."
+  },
+  {
+   "rol": "Supervisor de servicios a bordo (interventor)",
+   "implicacion": "Trasladó a los viajeros a los coches de cola de la composición."
+  },
+  {
+   "rol": "Mecánico de Talgo",
+   "implicacion": "Bloqueó las puertas del lado izquierdo (parte más cercana a la vía I) e intentó cortar la locomotora, logrando manipular la manga de calefacción y soltar las mangas del freno."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo de señalización lateral (BSL) con sistema ERTMS gestionado desde el CRC de Zaragoza. GSM-R para comunicaciones.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "300 km/h (infraestructura a su paso por Ballobar); 200 km/h (tren, tipo 200 B); 220 km/h (locomotora)",
+  "ancho": "1.435 mm (ancho UIC / estándar)",
+  "electrificacion": "25 kV CA / 3 kV CC (bitensión). Suministro eléctrico normal: ~233 A y 27.500 V en el periodo 22:01:31-22:13:28.",
+  "estado_via": "Funcionaba correctamente. No existían obras en las proximidades. La catenaria de la vía II sufrió importantes daños por el incendio.",
+  "otro": "Tramo Valfarta-Vallmanya con media semanal de 459 circulaciones (449 larga distancia, 1 media distancia, 9 servicio). Túnel de las Hechiceras (3 km, rampa 24,9 milésimas sentido Zaragoza) en el trayecto."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252 (unidad 252010, Nº UIC 957102520104), fabricada por Siemens en Krauss Maffei (Alemania) a principios de los años 90. Potencia 5.600 kW, 2 bogies Bo'Bo', motores trifásicos asíncronos de 1.400 kW por eje, tiristores GTO, freno eléctrico regenerativo y reostático, freno neumático. Composición: 28 vehículos Talgo, 30 ejes, 500 toneladas, 383 metros.",
+  "averia": "Fallo del material rodante: sobrecalentamiento en un conector del conmutador del sistema Q1 (armario eléctrico, base del módulo de acometida del transformador principal), generando arcos eléctricos por defecto de apriete del conector. Fusión del material del conector. El sistema de detección de incendios instalado no funcionó (no detectó el inicio del incendio). El registrador de seguridad (SIBAS y DEUTA) resultó destruido/dañado por el incendio.",
+  "mantenimiento": "Plan PM252.10 (Ed. 1, 9/12/2010), elaborado por Renfe Operadora (EEM), operaciones realizadas por ALSTOM. Intervenciones: ES1 (10.000-11.000 km), VC1 (60.000-66.000 km), VL (250.000-275.000 km), VG (500.000-550.000 km o 3 años), GVG (1.000.000-1.100.000 km o 5 años). En el momento del suceso: 188.155 km tras última GVG. Últimas intervenciones: GVG 08/06/2013, ES1 11/03/2014, VC1 24/07/2014. El plan contempla revisión y engrase de contactos del conmutador Q1 en VL, VG y GVG, pero NO verifica el estado de apriete de los conectores del transformador principal ni inspección visual de fugas de aceite."
+ },
+ "clima": "No se describe condición meteorológica específica. En el momento del suceso era de noche.",
+ "causas": {
+  "directa": "Fallo del material rodante: sobrecalentamiento en uno de los conectores del conmutador del sistema Q1 de la locomotora, generando arcos eléctricos como consecuencia de un defecto en el apriete de dicho conector, lo que originó el incendio.",
+  "contribuyentes": [
+   "El sistema de detección de incendios instalado en la locomotora no funcionó, posiblemente por la posición de los detectores, lo que permitió que el incendio progresase sin detección temprana.",
+   "Acumulación de aceite y grasa en la zona del conexionado del transformador principal (por fugas), que actuó como combustible e incrementó la magnitud del incendio al calentarse por el arco eléctrico.",
+   "El maquinista no pudo sofocar el fuego con los extintores disponibles (hasta 3 extintores utilizados sin resultado)."
+  ],
+  "sistemicas": [
+   "El plan de mantenimiento de la locomotora serie 252 no contempla la verificación del estado de apriete de los conectores del conmutador del sistema Q1 en ninguna intervención.",
+   "El plan de mantenimiento no incluye controles visuales para verificar la ausencia de fugas de aceite en la zona del conexionado del transformador principal.",
+   "El sistema de detección de incendios de estas locomotoras no es capaz de detectar el inicio de incendios de la naturaleza del producido."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Locomotora 252010: grandes desperfectos en cámara de alta central, cabina de conducción, transformador principal (caído sobre los carriles de la vía II), cofres de baterías y otros elementos. Infraestructura: importantes daños en la catenaria de la vía II en el PK 390+500. Destrucción de tarjetas del equipo SIBAS y daño en tarjeta del registrador DEUTA.",
+  "afectacion_servicio": "Interrupción de circulación en vía II desde 22:05 del 06.08 hasta 06:15 del 08.08.2014. Vía I interrumpida desde 22:05 del 06.08 hasta 08:15 del 07.08.2014. Interrupción de la LAV entre Zaragoza y Lérida. 74 trenes de alta velocidad/larga distancia afectados con retrasos. Pérdida de tiempo total: 1.883 minutos. No se estableció plan alternativo de transporte (PAT). Viajeros trasladados en autobuses de Ballobar a Zaragoza."
+ },
+ "lecciones": [
+  "La ausencia de verificación del apriete de conectores eléctricos en el plan de mantenimiento puede derivar en sobrecalentamiento, arcos eléctricos e incendio.",
+  "La acumulación de aceite y grasa en zonas de conexión eléctrica actúa como combustible y amplifica la magnitud de un incendio iniciado por un arco eléctrico.",
+  "La posición de los detectores de incendios en la locomotora puede impedir la detección temprana de un fuego en armarios eléctricos, permitiendo su propagación.",
+  "Los extintores de cabina y de composición pueden ser insuficientes para sofocar un incendio de origen eléctrico con carga de combustible (aceite/grasa) en locomotoras.",
+  "El incendio destruyó los registradores de seguridad (SIBAS y DEUTA), lo que limitó la capacidad de investigación."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Reconsiderar el plan de mantenimiento de las locomotoras Alta Velocidad incorporando, en las intervenciones que se consideren adecuadas, la verificación del estado del apriete de los conectores del conmutador del sistema Q1, dejando registro documental de dicha operación. Asimismo, realizar inspección visual para verificar la ausencia de fugas de aceite en la zona del conexionado del transformador principal.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Renfe Operadora (entidad encargada del mantenimiento)"
+  },
+  {
+   "texto": "Mejorar el sistema de detección de incendio instalado en estas locomotoras, para que dicho sistema sea capaz de detectar el inicio de incendios de similar naturaleza.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Renfe Operadora (entidad encargada del mantenimiento)"
+  }
+ ],
+ "tags": [
+  "incendio locomotora",
+  "arco eléctrico",
+  "conmutador sistema Q1",
+  "defecto apriete conector",
+  "serie 252",
+  "renfe viajeros",
+  "larga distancia",
+  "plena vía",
+  "ballobar peñalba",
+  "huesca",
+  "detección incendios",
+  "mantenimiento material rodante"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 06.08.2014 150922-140806-IF-CIAF"
+}

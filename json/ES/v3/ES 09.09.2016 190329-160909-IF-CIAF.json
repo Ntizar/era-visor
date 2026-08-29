@@ -1,0 +1,230 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 420 Tren Celta en la estación de O Porriño por exceso de velocidad en desvío desviado",
+ "idioma_original": "es",
+ "resumen": "El viernes 9 de septiembre de 2016, a las 9:25 h, el tren de viajeros internacional 420 'Tren Celta' (Vigo-Oporto), explotado por CP con material de Renfe, descarriló por completo al pasar a 110 km/h por el desvío nº2 de la estación de O Porriño, situado en posición desviada, cuando la velocidad prescrita era de 30 km/h según la señal avanzada 1532. La composición descarrilada impactó contra el estribo del paso superior de la carretera N-120, causando graves daños en la cabeza del primer coche. Como consecuencia fallecieron 4 personas (maquinista, interventor y dos pasajeros) y resultaron heridos 47 viajeros, 13 de ellos graves. La causa directa fue el incumplimiento del maquinista de la orden de la señal, probablemente por falta de atención.",
+ "hechos": "El tren 420 'Tren Celta', una unidad autopropulsada diésel de la serie 592 de Renfe (composición M-R-M), salió de Vigo-Guixar a las 9:02 h con destino Oporto, tripulado por un único maquinista de CP (portugués) y un interventor de Renfe, con 63 viajeros a bordo. El CTC de Ourense había establecido un itinerario de paso por la vía 3 (desviada) de la estación de O Porriño, motivado por la necesidad de comprobar una incidencia detectada el día anterior en un circuito de vía. La señal avanzada 1532 indicaba 'anuncio de precaución' (verde-amarillo), ordenando no exceder 30 km/h al paso por los cambios de entrada.\n\nEl maquinista reconoció las indicaciones acústicas del ASFA asociadas a la señal 1532, pero no redujo la velocidad. El tren incrementó su velocidad hasta alcanzar 110 km/h (118 km/h según el registrador Memotel, corregido por diferencia de diámetro de rueda) al pasar por la aguja nº2 en posición desviada. Tras recorrer 44 metros, a la altura del PK 151+911, descarriló la composición completa, siguiendo la tangente del desvío en lugar de la contracurva de salida.\n\nLa composición descarrilada arrolló armarios de señalización y postes de electrificación, fue encauzada por la cuneta de hormigón, e impactó frontolateralmente contra el estribo del paso superior de la carretera N-120. Este choque deformó gravemente la cabeza del primer coche y le hizo perder el primer bogie. La composición fue desviada de nuevo hacia las vías y se detuvo sobre la vía 5 tras un segundo impacto contra una torre de iluminación. El coche de cabeza quedó inclinado y sin bogie; el intermedio sobre la vía 5; el de cola entre las vías 3 y 5.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "O Porriño",
+  "pk": "151+911",
+  "linea": "810 (Bifurcación Chapela - Monforte de Lemos)",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Entrada de la estación de O Porriño, lado Vigo, en el desvío nº2 (PK 151+955) situado en posición desviada, en la vía 3 de la estación. Tramo Louredo-Valos – O Porriño, vía única electrificada a 3 kV CC."
+ },
+ "cronologia": [
+  {
+   "hora": "08:02",
+   "evento": "El maquinista inicia su jornada en la estación de Vigo-Guixar (hora portuguesa 7:02)"
+  },
+  {
+   "hora": "09:02",
+   "evento": "Salida del tren 420 de la estación de Vigo-Guixar"
+  },
+  {
+   "hora": "09:18:27",
+   "evento": "Paso del tren Alvia 256 (inmediatamente anterior) por la estación de O Porriño"
+  },
+  {
+   "hora": "09:21:43",
+   "evento": "El CTC de Ourense establece el itinerario de entrada a vía 3 de O Porriño (aguja 2 en posición desviada, aguja 4 en directa)"
+  },
+  {
+   "hora": "09:21:58",
+   "evento": "Itinerario enclavado y señal 2S abierta (anuncio de parada). Señal 1532 pasa a anuncio de precaución (verde-amarillo)"
+  },
+  {
+   "hora": "09:23:19",
+   "evento": "El tren pasa por la señal intermedia 1558 en preanuncio de parada (amarillo + pantalla 130). El maquinista reconoce el aviso ASFA"
+  },
+  {
+   "hora": "09:24:45",
+   "evento": "El tren pasa por la baliza previa de la señal avanzada 1532 a 97 km/h (corregida). Reconoce el aviso ASFA"
+  },
+  {
+   "hora": "09:24:56",
+   "evento": "El tren pasa por la baliza de la señal avanzada 1532 a 102 km/h (corregida). Reconoce el aviso ASFA pero no frena"
+  },
+  {
+   "hora": "09:25:24",
+   "evento": "El tren pasa por la baliza previa de la señal de entrada 2S a 110 km/h (corregida). Reconoce el aviso ASFA"
+  },
+  {
+   "hora": "09:25:34",
+   "evento": "El tren llega a la señal 2S (anuncio de parada) a 110 km/h. No reconoce el aviso ASFA de esta baliza"
+  },
+  {
+   "hora": "09:25:35",
+   "evento": "El tren pasa por la aguja nº2 en posición desviada a 110 km/h (118 según registrador)"
+  },
+  {
+   "hora": "09:25:36",
+   "evento": "Descarrilamiento completo de la composición en el PK 151+911, tras 44 m de recorrido por vía desviada"
+  },
+  {
+   "hora": "09:25:36",
+   "evento": "Pérdida de eficacia del ASFA. El tren sigue por la tangente del desvío"
+  },
+  {
+   "hora": "09:25:37",
+   "evento": "Último dato registrado por el Memotel. Impacto contra el estribo del paso superior de la N-120"
+  },
+  {
+   "hora": "09:25",
+   "evento": "Activación del protocolo de emergencia. Interrupción de la circulación entre Redondela y Guillarei"
+  },
+  {
+   "hora": "09:55",
+   "evento": "Renfe notifica el accidente a la CIAF"
+  },
+  {
+   "hora": "10:10",
+   "evento": "Adif notifica el accidente a la CIAF"
+  },
+  {
+   "hora": "10:35",
+   "evento": "Renfe activa teléfono de atención y asistencia (900 10 10 20)"
+  },
+  {
+   "hora": "23:36",
+   "evento": "Autorización judicial para iniciar trabajos de restablecimiento"
+  },
+  {
+   "hora": "13:55",
+   "evento": "Restablecimiento de la circulación por vía I (10 de septiembre), con LTV 30 km/h"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "420",
+   "tipo": "Tren de viajeros internacional (Tren Celta), Media/Larga Distancia, autopropulsado diésel",
+   "operador": "CP (Comboios de Portugal), con material y autorizaciones de Renfe",
+   "danos": "Coche motor de cabeza (592-111): daños muy graves, aplastamiento y deformación de ~90°, pérdida del primer bogie, dado de baja. Coche remolque intermedio (592-056): daños considerables pero reparables. Coche motor de cola (592-112): daños considerables pero reparables. Coste total material rodante: 1.107.529,70 €."
+  },
+  {
+   "numero": "256",
+   "tipo": "Alvia (tren de viajeros)",
+   "operador": "Renfe",
+   "danos": null
+  },
+  {
+   "numero": "RG214",
+   "tipo": "Regional (automotor 596.012-5)",
+   "operador": "Renfe",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista (tren 420)",
+   "implicacion": "Empleado de CP, nacionalidad portuguesa, 50 años, 21 años de experiencia. Fallecido en el accidente. No cumplió la orden de la señal 1532 (anuncio de precaución, 30 km/h) y pasó por el desvío a 110 km/h. Reconoció las señales ASFA sin tomar acción de frenado. Formación y habilitación correctas. Autopsia negativa en alcohol, drogas y medicamentos."
+  },
+  {
+   "rol": "Interventor / Agente de acompañamiento (tren 420)",
+   "implicacion": "Empleado de Renfe, nacionalidad española, 56 años. Fallecido en el accidente. Posiblemente se encontraba en la cabina o cerca de ella en el momento del impacto, según testimonios de viajeros."
+  },
+  {
+   "rol": "Jefe de CTC de Ourense (banda de O Porriño)",
+   "implicacion": "Empleado de Adif. Estableció el itinerario de paso por vía 3 para comprobar la incidencia del circuito de vía. Declinó ser entrevistado por la CIAF."
+  },
+  {
+   "rol": "Agente de infraestructura del Puesto de Mando de Ourense",
+   "implicacion": "Empleado de Adif. Coordinó la comprobación de la incidencia del circuito de vía y la decisión de desviar el tren 420 por vía 3. Testigo indirecto."
+  },
+  {
+   "rol": "Operarios de mantenimiento de señalización (2)",
+   "implicacion": "Empleados de Adif. Presentes en la estación el día del accidente para observar los relés del circuito de vía al paso del tren. Testigos directos del descarrilamiento. Avisaron al Puesto de Mando e iniciaron la activación del plan de emergencia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA analógico en el tramo español. Señal avanzada 1532 (PK 153+263): anuncio de precaución (verde-amarillo), ordenando 30 km/h. Señal de entrada 2S (PK 151+977): anuncio de parada (amarillo). Señal preavanzada 1558 (PK 155+825): preanuncio de parada (amarillo + pantalla 130). Baliza de CSV a 120 km/h en PK 153+431 (ubicada entre balizas previa y de señal de 1532, situación desaconsejada por norma posterior de Adif). Enclavamiento eléctrico de relés tipo Q (Dimetronic/Siemens), puesto en servicio en 1982, telemandado desde CTC de Ourense (tecnología CAF). Detección por circuitos de vía bicarril CA 50 Hz.",
+  "tipo_via": "Vía única, electrificada 3.000 V CC, ancho ibérico (1668 mm). Bloqueo automático en vía única con CTC (BAU CTC). Carril UIC 54 kg/m en barra larga soldada, traviesas monobloque hormigón (DW, MR93, PR90), madera en desvíos. Desvío nº2 tipo C (DS-C-UIC54-318-0,09-CR-D), radio de salida 318 m, 30 km/h en desviada.",
+  "velocidad_maxima": "160 km/h por vía general; 30 km/h al paso por el desvío nº2 en posición desviada; 120 km/h por CSV en la estación (protección del paso a nivel)",
+  "ancho": "1668 mm (ancho ibérico)",
+  "electrificacion": "3.000 V CC",
+  "estado_via": "Calificación ACEPTABLE en peralte, alabeo y estabilidad de traviesas; BUENA en ancho de vía; DENTRO DE TOLERANCIA en desgaste de carril (según NAV). Curva a izquierdas radio 1535 m, peralte 60 mm, pendiente descendente 11,7 milésimas. El día anterior se detectó una anomalía intermitente en el circuito de vía de los cambios de entrada (lado Vigo), que motivó la comprobación.",
+  "otro": "Paso superior de la carretera N-120 en PK 151+820, contra cuyo estribo impactó el tren. Limitación temporal de velocidad a 30 km/h entre PK 157+750 y 157+700 (desprendimiento, vigente desde 1 de marzo de 2016). Paso a nivel en la estación de O Porriño (banda Guillarei, PK 151+425)."
+ },
+ "material_rodante": {
+  "series": "Serie 592 de Renfe (unidad 592.056 / matrícula 592056-6), composición M-R-M: coche motor de cabeza 592-111, coche remolque intermedio 592-056, coche motor de cola 592-112. Fabricante Macosa/Ateinsa, año 1981. Equipada con ASFA analógico y Convel (EBICAB 700). 4 motores diésel MAN D2866 LUE, 840 kW, transmisión hidráulica. Masa total 132,58 t. Velocidad máxima 120 km/h. 5,8 millones de km recorridos.",
+  "averia": "Ninguna avería detectada en el material rodante. Pruebas periciales de rodadura, frenos y suspensión (9 sep, 23 sep, 27 oct 2016, 9 mar 2017) no revelaron anomalías. Todos los parámetros dentro de tolerancias. El libro de reparaciones recuperado no recogía ninguna anotación.",
+  "mantenimiento": "Última intervención IM1 el 8 de septiembre de 2016 (día anterior al accidente). Última Revisión R en mayo de 2016. Desde la última R: 12 intervenciones CN y 4 IC. Mantenimiento realizado por Renfe Fabricación y Mantenimiento (IM1 en taller EMEF de Contumil, Oporto; IM2/IM3 en Base de Redondela; Revisión R en Valladolid). Adecuación en 2010 en talleres Renfe Integria Valladolid."
+ },
+ "clima": "Buenas condiciones meteorológicas, excelente visibilidad. Día despejado. Sol a baja altura (~12° elevación, azimut 94°), incidiendo perpendicularmente a la línea visual, sin producir deslumbramiento. Distancia de visibilidad de las señales: ~400 m.",
+ "causas": {
+  "directa": "Descarrilamiento por paso del tren por el desvío nº2 de la estación de O Porriño, en posición desviada, a una velocidad de 110 km/h (118 km/h según registrador), cuando la velocidad prescrita era de 30 km/h según la señal avanzada 1532 (anuncio de precaución, verde-amarillo).",
+  "contribuyentes": [
+   "El maquinista no cumplió la orden de la señal 1532 (anuncio de precaución, 30 km/h).",
+   "El maquinista reconoció las señales ópticas y acústicas del ASFA sin tomar ninguna acción de frenado, lo que impidió la aplicación del freno de emergencia por este equipo.",
+   "Falta de atención en la conducción (hipótesis más verosímil, no demostrable por ausencia de grabaciones de audio/vídeo en cabina).",
+   "El maquinista no respetó la LTV a 30 km/h entre PK 157+750 y 157+700, pasando a 51-55 km/h.",
+   "El impacto contra el estribo del paso superior de la N-120 agravó las consecuencias del descarrilamiento inicial."
+  ],
+  "sistemicas": [
+   "Rutina de conducción: el maquinista pasaba habitualmente por O Porriño con paso directo (vía I), sin cruce ni apartadero, sin parada, al menos en sus últimos 10 viajes (6 meses), lo que pudo inducir una conducción basada en la rutina.",
+   "Baja frecuencia de realización del servicio (cada 3-4 semanas, promedio 18 días), dificultando que el maquinista apreciase las circunstancias posibles del trayecto más allá de las habituales.",
+   "El Estudio de Seguridad de Renfe (junio 2014) concluyó que la circulación de maquinistas portugueses no era un cambio significativo, pero no previó adecuadamente los riesgos del factor humano por baja asiduidad.",
+   "El procedimiento de comprobación de anomalías en circuitos de vía mediante desvío de un tren no está normalizado ni sujeto a trazabilidad.",
+   "Ausencia de grabaciones de audio/vídeo en cabina que impidieron determinar con precisión el motivo del incumplimiento.",
+   "Ubicación de la baliza de CSV (PK 153+431) entre las balizas previa y de señal de la 1532, generando complejidad en la secuencia de indicaciones sonoras (aunque no fue determinante en este caso).",
+   "La señal 1558 muestra siempre preanuncio de parada (por el paso a nivel), lo que puede inducir rutina y no asociarse con variaciones del itinerario."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 4,
+  "heridos_graves": 13,
+  "heridos_leves": 34,
+  "danos_materiales": "Material rodante: coche motor de cabeza 592-111 dado de baja (daños muy graves, aplastamiento ~90°, pérdida bogie); coches intermedio y de cola con daños considerables reparables. Coste material rodante: 1.107.529,70 €. Infraestructura: 180 traviesas monobloque, 220 m de carril, desvíos nº2 y nº4 (cruzamiento, conjuntos de aguja, traviesas), armarios de señalización, señales 2N/3 y 2N/5, postes LAC nº 21I y 22I, 1 motor de agujas, 1 torre de iluminación. Coste infraestructura: 223.881,93 €. Sin daños relevantes al medio ambiente.",
+  "afectacion_servicio": "Circulación totalmente interceptada durante 28 horas y 30 minutos (9 sep 9:25 a 10 sep 13:55). Afectados 52 trenes (46 viajeros, 6 mercancías). Retraso total acumulado: 383 minutos (292 el día 9, 91 el día 10). Transbordos por carretera en varias relaciones. Plan alternativo de transportes activado. Trenes taller movilizados desde Ourense (13:15) y Redondela (16:00)."
+ },
+ "lecciones": [
+  "La formación de maquinistas debe hacer hincapié en situaciones distintas de las habituales y en las diferencias entre sistemas de señalización y ayuda a la conducción de distintos países.",
+  "La baja frecuencia de prestación de un servicio en una línea puede dificultar la consolidación del conocimiento de sus circunstancias y la prevención de rutinas.",
+  "Los Estudios de Seguridad deben actualizarse considerando el factor humano y la experiencia derivada de accidentes.",
+  "Los procedimientos de comprobación de anomalías que implican a trenes de operadores no deben estar exentos de normalización y trazabilidad.",
+  "La ausencia de grabaciones de audio/vídeo en cabina limita la investigación de sucesos similares.",
+  "El ASFA analógico no protege contra el reconocimiento de señales sin acción de frenado; el ASFA digital establece control de velocidad tras el reconocimiento.",
+  "La ubicación de balizas de CSV entre balizas previa y de señal de una misma señal genera complejidad y está desaconsejada por normativa posterior."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En los procesos de formación se deberá hacer especial hincapié en las actuaciones ante situaciones distintas de las habituales, así como a las diferencias entre los sistemas de señalización y de ayuda a la conducción de España y Portugal. Estas acciones formativas deben ser tanto teóricas como prácticas, incluyendo recorridos en la línea y situaciones no habituales, con objeto de reducir el riesgo de creación de rutinas.",
+   "destinatario": "AESF (implementador: CP / Renfe Viajeros)"
+  },
+  {
+   "texto": "RENFE y CP deberán considerar, desde el punto de vista de la seguridad, la conveniencia de que los maquinistas del 'Tren Celta' presten el servicio con mayor frecuencia, con objeto de afianzar su conocimiento de las circunstancias de conducción por la línea. También debe evaluarse la conveniencia de que realicen recorridos acompañados con mayor frecuencia.",
+   "destinatario": "AESF (implementador: CP / Renfe Viajeros)"
+  },
+  {
+   "texto": "RENFE y CP deberán revisar los Estudios de Seguridad para la evaluación de riesgos operacionales del servicio del 'Tren Celta', para incorporar los hallazgos y enseñanzas derivadas de la investigación de este accidente, analizando especialmente los aspectos relacionados con el factor humano en la conducción y considerando el nuevo marco normativo.",
+   "destinatario": "AESF (implementador: CP / Renfe Viajeros)"
+  },
+  {
+   "texto": "Establecer e impulsar guías y recomendaciones que definan y detallen a las empresas operadoras (RENFE/CP) la forma de proceder en los análisis de riesgos operacionales, para la determinación de las actuaciones (mitigaciones) necesarias a realizar para la aceptación del riesgo en la conducción de trenes por diferentes países, prestando especial atención al factor humano y a la incorporación de los hallazgos y enseñanzas derivadas de la investigación de este accidente.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Ampliar las normas o procedimientos operativos, para incluir los casos en los que el administrador de la infraestructura necesite emplear un tren para realizar comprobaciones de mantenimiento sobre la infraestructura o el funcionamiento del material rodante. Deberá establecerse un procedimiento que asegure la adecuada coordinación, de modo que las actuaciones queden definidas y todo quede registrado en los canales de comunicación reglamentarios.",
+   "destinatario": "AESF (implementador: Adif)"
+  },
+  {
+   "texto": "Estudiar la posibilidad de dotar a los vehículos de medios de grabación de audio en cabina (en caso de que aún no dispongan de ellos) y video frontal para su utilización en la investigación de accidentes e incidentes.",
+   "destinatario": "AESF (implementador: CP / Renfe Viajeros)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "exceso de velocidad",
+  "desvío desviado",
+  "tren celta",
+  "o porriño",
+  "asfa analógico",
+  "falta de atención",
+  "rutina de conducción",
+  "factor humano",
+  "servicio internacional",
+  "serie 592",
+  "cp renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 09.09.2016 190329-160909-IF-CIAF"
+}

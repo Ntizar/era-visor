@@ -1,0 +1,140 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 28480 en la estación de Granollers-Centre por rebase de señal",
+ "idioma_original": "es",
+ "resumen": "El accidente ferroviario nº 0040/2011 ocurrió el 27 de agosto de 2011 a las 21:27 horas en la estación de Granollers-Centre, Barcelona. El tren de cercanías 28480 de Renfe Operadora, estacionado en vía 7, rebasó indebidamente la señal de salida S2/7-9 en indicación de parada. El maquinista confundió la orden de vía libre de la señal S2/5, establecida para vía 5 por el CTC. El tren arrolló el calce descarrilador C-23 y descarrilaron los dos bogies del primer coche. No hubo fallecidos ni heridos, pero se produjeron daños materiales e interrupción del servicio.",
+ "hechos": "El día 27 de agosto de 2011, a las 21:27 horas, el tren de viajeros de cercanías 28480 de Renfe Operadora se encontraba estacionado en la vía 7 de la estación de Granollers-Centre, con la señal de salida S2/7-9, situada en el PK 134+932, en indicación de parada. El jefe del CTC de Montcada-Maçanet, informado previamente por el auxiliar de circulación de que el tren estaba en vía 5, estableció el itinerario de salida desde vía 5 y abrió la señal S2/5 en vía libre. El maquinista, estando la señal de salida de su vía en parada, inició la marcha confundiendo la orden de la señal S2/5 con la de la señal S2/7-9.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Granollers - Centre",
+  "pk": "134+932",
+  "linea": "270 Bifurcación Sagrera - Cerbere",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Granollers-Centre, situada en el PK 135+306, en el tramo Montornès Butano - Granollers Centre, municipio de Granollers. El suceso se produjo en la señal de salida S2/7-9 de la vía 7 y en el calce de protección C-23, situado en el PK 134+931."
+ },
+ "cronologia": [
+  {
+   "hora": "20:41:44",
+   "evento": "El jefe del CTC llama al auxiliar de circulación de Granollers-Centre, quien confirma que el tren 28480 está situado en vía 5."
+  },
+  {
+   "hora": "21:21:30",
+   "evento": "El jefe del CTC establece itinerario de salida para el tren 28480 desde vía 5 a vía 1 general, abriendo la señal S2/5 en verde."
+  },
+  {
+   "hora": "21:25:01",
+   "evento": "El jefe del CTC llama al auxiliar de circulación para informarle de que ha perdido la comprobación de un cambio y de que el tren 28480 está numerado en vía 5."
+  },
+  {
+   "hora": "21:26:44",
+   "evento": "El maquinista del tren 28480 llama al auxiliar de circulación para comunicarle que se ha equivocado de señal y ha descarrilado."
+  },
+  {
+   "hora": "21:27:00",
+   "evento": "El tren 28480, realmente estacionado en vía 7, inicia la marcha, rebasa la señal S2/7-9 en parada, pasa por la baliza ASFA de pie de señal, arrolla el calce C-23 y descarrilan los dos bogies del primer coche."
+  },
+  {
+   "hora": "21:30:11",
+   "evento": "El jefe del CTC llama al maquinista del tren 28480, quien manifiesta que ha cometido un error, que nunca había salido de vía 7 y que debe haber confundido la señal."
+  },
+  {
+   "hora": "23:03:00",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "23:50:00",
+   "evento": "Se realizan pruebas de alcoholemia y drogas al maquinista del tren 28480, con resultado negativo."
+  },
+  {
+   "hora": "03:38:00",
+   "evento": "El 28 de agosto de 2011, la unidad tren queda encarrilada tras activarse el camión-taller."
+  },
+  {
+   "hora": "08:22:00",
+   "evento": "El 28 de agosto de 2011, la instalación queda en servicio tras los trabajos de reparación de la vía."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28480",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en los elementos de rodadura y en el captador del ASFA de la UT 463214; descarrilamiento de los dos bogies del primer coche."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 28480",
+   "implicacion": "Inicia la marcha desde vía 7 con la señal de salida S2/7-9 en parada, confundiendo la orden de vía libre de la señal S2/5; declara que era la primera vez que salía de la vía 7."
+  },
+  {
+   "rol": "jefe del CTC de Montcada - Maçanet",
+   "implicacion": "Establece el itinerario de salida del tren 28480 desde vía 5 y abre la señal S2/5 basándose en la información del auxiliar de circulación; no puede verificar en el videográfico la ocupación de vía 7."
+  },
+  {
+   "rol": "auxiliar de circulación de Granollers - Centre",
+   "implicacion": "Comunica al maquinista que el tren está en vía 7, pero informa erróneamente al jefe del CTC de que el tren 28480 se encontraba en vía 5."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de salida de mono bajo; S2/7-9 en indicación de parada; S2/5 abierta en vía libre para el itinerario desde vía 5; balizas ASFA de pie de señal en ambas; baliza previa en vía 5 y ausencia de baliza previa en vía 7; calce de protección descarrilador C-23 en vía 7.",
+  "tipo_via": "Vías 5 y 7 paralelas de salida hacia Barcelona; vía 5 con circuito de vía; vía 7 sin circuito de vía de estacionamiento y sin señal indicadora de salida.",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Las instalaciones técnicas y la infraestructura funcionaron correctamente.",
+  "otro": "Enclavamiento electrónico y bloqueo BAB; distancia entre señales S2/5 y S2/7-9 de 105 metros; visibilidad correcta respecto a señales y geometría de vía; vía 7 utilizada como vía de rotación de trenes de cercanías."
+ },
+ "material_rodante": {
+  "series": "UT 463214 en cabeza y UT 465253 en cola; composición de 8 vehículos; tipo 120 A; referencia a coches Civia.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Noche con tiempo despejado.",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+  "contribuyentes": [
+   "Confusión del maquinista entre la orden de vía libre de la señal S2/5 y la señal de parada S2/7-9.",
+   "Información errónea del auxiliar de circulación al jefe del CTC sobre la vía donde estaba estacionado el tren 28480.",
+   "Establecimiento del itinerario de salida desde vía 5 cuando el tren se encontraba realmente en vía 7.",
+   "Imposibilidad del jefe del CTC de verificar la ocupación de vía 7 en el videográfico por carecer dicha vía de circuito de vía.",
+   "Tratamiento de la vía 7 como vía de servicio aunque se utilizaba como vía de rotación de trenes de cercanías.",
+   "Ausencia de baliza previa y de señal indicadora de salida en vía 7, junto con un punto de estacionamiento alejado de la señal.",
+   "Cercanía y disposición de las señales S2/5 y S2/7-9, ambas de mono bajo, que pudo facilitar la confusión."
+  ],
+  "sistemicas": [
+   "Deficiencia en el intercambio de información entre el auxiliar de circulación y el jefe del CTC.",
+   "Necesidad de analizar el tratamiento de la vía 7 como vía de circulación en el enclavamiento.",
+   "Gestión del riesgo por fallo humano en la conducción."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros; daños en los elementos de rodadura y en el captador del ASFA de la UT 463214.",
+  "afectacion_servicio": "Las vías 7 y 9 quedaron interceptadas desde las 21:27 horas del 27/08/2011 hasta las 08:22 horas del 28/08/2011. Sufrieron retraso 25 trenes de Renfe Operadora, con un total de 450 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers-Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "descarrilamiento",
+  "estación",
+  "granollers-centre",
+  "renfe operadora",
+  "adif",
+  "asfa",
+  "calce descarrilador",
+  "fallo humano",
+  "intercambio de información",
+  "cercanías",
+  "ctc"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-270811-240712-CIAF"
+}

@@ -1,0 +1,113 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal en Bif. Clot (Barcelona) con riesgo de colisión entre trenes 15052 y 25552",
+ "idioma_original": "es",
+ "resumen": "El 27 de julio de 2009, a las 20:16, el tren de media distancia 15052 de Renfe Operadora rebasó indebidamente la señal de entrada E2 de Bifurcación Clot, en Barcelona, que se encontraba en parada. El incidente provocó un conato de colisión con el tren 25552 que circulaba delante. No hubo víctimas ni daños materiales. La investigación atribuye el suceso al incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "hechos": "El tren de viajeros de media distancia 15052, procedente de Bifurcación Aragó y con destino Estación de França, llegó a la señal de avanzada 6820, permisiva, que se encontraba en parada. El tren realizó parada ante dicha señal, activó el rebase autorizado y reanudó la marcha hacia la señal de entrada E2 de Bifurcación Clot.\n\nAl pisar la baliza previa de la señal de entrada E2, el tren recibió indicación de vía libre porque el puesto de mando estaba estableciendo itinerario al tren 25552, que esperaba delante de la señal E2. Por la existencia de curva, el maquinista no divisó el tren que precedía y aumentó la velocidad. Al llegar a la señal E2 la encontró en parada, actuó el freno de emergencia, pero no logró detenerse a tiempo y rebasó indebidamente la señal, generando riesgo de colisión con el tren 25552.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Bif. Clot",
+  "pk": "102+700",
+  "linea": "262 Barcelona Sagrera - Bif. Clot",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Bifurcación Clot, P.K. 102+700, PB Barcelona Marina, tramo Barna-Clot-Aragó Barna-Sagrera, vía doble en curva cerrada dentro de un túnel, con control de tráfico centralizado (BAD con CTC)."
+ },
+ "cronologia": [
+  {
+   "hora": "20:16",
+   "evento": "El tren 15052 rebasa indebidamente la señal de entrada E2 de Bif. Clot y se produce un conato de colisión con el tren 25552."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 15052 realiza parada ante la señal de avanzada 6820, permisiva y en parada, activa el rebase autorizado y reanuda la marcha hacia la señal E2."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 15052 pasa por la baliza previa de la señal E2 con indicación de vía libre, al establecer el puesto de mando itinerario al tren 25552 que esperaba delante de E2."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista del tren 15052 no divisa el tren precedente por existir curva y aumenta la velocidad."
+  },
+  {
+   "hora": null,
+   "evento": "Al llegar a la señal E2, el tren la encuentra en parada; el maquinista actúa el freno de emergencia, pero recorre 24 metros y rebasa la señal."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15052",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "no hay"
+  },
+  {
+   "numero": "25552",
+   "tipo": null,
+   "operador": null,
+   "danos": "no hay"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 15052",
+   "implicacion": "Matrícula 8925737. Posee título de conducción categoría B y está habilitado conforme a la Orden FOM/2520/2006. Realizó último reciclaje formativo el 25/02/09 y último reconocimiento médico y psicotécnico el 23/02/05. Prueba de alcoholemia negativa, aunque la ficha no indica día ni hora. El incidente se atribuye a incumplimiento de las órdenes dadas por las señales al personal de conducción."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de avanzada 6820, permisiva y alta; señal de entrada E2, alta, que protege la entrada de Bifurcación Clot; baliza previa de E2 desde la cual no es visible la señal; balizas ASFA registradas como L7 en previa de avanzada en parada, L2/L3 vía libre en previa de E2 y L8 al paso por E2.",
+  "tipo_via": "vía doble con control de tráfico centralizado (BAD con CTC)",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "La alineación es en curva cerrada y dentro de un túnel. Media semanal de circulaciones del tramo: 1.478, considerada alta; 79 larga distancia, 53 media distancia, 1.345 cercanías y 2 de servicio. Radiotelefonía modalidad C."
+ },
+ "material_rodante": {
+  "series": "Tren tipo 120 A; motor 470114; 3 coches; 205 toneladas de masa remolcada; Nº UIC 967194701140.",
+  "averia": "Los equipos de seguridad del tren 15052, freno y ASFA, funcionaron correctamente según el registrador de seguridad del tren.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Rebase indebido por el tren 15052 de la señal de entrada E2, que se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción e incumplimiento del artículo 217 del Reglamento General de Circulación.",
+  "contribuyentes": [
+   "Existencia de curva cerrada que impedía divisar el tren precedente.",
+   "Situación dentro de un túnel.",
+   "La señal E2 disponía de baliza previa desde la cual no era visible la señal.",
+   "El puesto de mando estableció itinerario al tren 25552, provocando que el tren 15052 recibiera vía libre en la baliza previa de E2.",
+   "El maquinista aumentó la velocidad al no divisar el tren precedente.",
+   "El freno de emergencia se actuó demasiado tarde y el tren recorrió 24 metros hasta detenerse tras la señal."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "no hay",
+  "afectacion_servicio": "Retraso total de 22 minutos en dos trenes de media distancia."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "señal en parada",
+  "bifurcación clot",
+  "barcelona",
+  "media distancia",
+  "renfe operadora",
+  "asfa",
+  "riesgo de colisión",
+  "incumplimiento del reglamento general de circulación",
+  "visibilidad reducida",
+  "túnel",
+  "curva"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-270709-260110-CIAF"
+}

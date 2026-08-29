@@ -1,0 +1,149 @@
+{
+ "titulo_normalizado": "Colisión y descarrilamiento por invasión de gálibo de pala retroexcavadora en la estación de Dueñas",
+ "idioma_original": "es",
+ "resumen": "El 1 de septiembre de 2008, a las 17:12, la locomotora aislada GLE57 333326 de Renfe Operadora colisionó con una pala retroexcavadora que invadía el gálibo en la estación de Dueñas. El conductor de la retroexcavadora falleció y la locomotora descarriló, interceptando las vías I y II. El accidente se originó por la autorización del agente piloto de Adif sin cumplir el Reglamento General de Circulación. La investigación formuló una recomendación a Adif para asegurar el cumplimiento de dicho reglamento por los pilotos.",
+ "hechos": "La locomotora aislada GLE57 333326, de Renfe Operadora, circulaba por la vía I de la estación de Dueñas cuando su maquinista observó una pala retroexcavadora que interceptaba el gálibo. El maquinista accionó el freno de emergencia, pero no pudo evitar el arrollamiento. Como consecuencia del impacto, el conductor de la retroexcavadora falleció y la locomotora descarriló, interceptando ambas vías.\nLos trabajos se ejecutaban al amparo del punto 294 del acta semanal de trabajos de la Gerencia Operativa de Miranda de Ebro, con siglas EC, y la estación estaba en periodo AC, cerrada. El agente piloto de Adif autorizó la invasión del gálibo sin establecer la interrupción de la circulación ni cursar los telefonemas previstos en el Reglamento General de Circulación.\nEl lugar presentaba visibilidad reducida por un puente elevado carretero, no se habían colocado los cartelones de silbar a 600 metros previstos en el proyecto y se habían realizado trabajos de apertura de zanjas dentro de la zona de seguridad. El maquinista comunicó el suceso al Puesto de Mando de Miranda y se activó el plan de emergencia externo.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Dueñas",
+  "pk": "279,000",
+  "linea": "100 Hendaya Madrid-Chamartín",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Vía I de la estación de Dueñas, en el tramo Corcos Aguilarejo - Venta de Baños. Estación en periodo AC, cerrada, con visibilidad reducida por un puente elevado para tráfico carretero."
+ },
+ "cronologia": [
+  {
+   "hora": "10:33",
+   "evento": "El piloto de seguridad de Adif se presentó al Puesto de Mando de Madrid e informó de los trabajos en Dueñas."
+  },
+  {
+   "hora": "17:00",
+   "evento": "El agente de circulación de Corcos-Aguilarejo recibió una llamada del piloto solicitando información sobre circulaciones y le indicó que no podía transmitir información por no intervenir en circulación."
+  },
+  {
+   "hora": "17:10",
+   "evento": "Según la declaración del piloto de Adif, preguntó al agente de circulación de Corcos-Aguilarejo si podía sacar la máquina y recibió respuesta afirmativa."
+  },
+  {
+   "hora": "17:12",
+   "evento": "Colisión de la locomotora GLE57 333326 con la pala retroexcavadora en la estación de Dueñas; la locomotora descarrila e intercepta ambas vías."
+  },
+  {
+   "hora": "17:15",
+   "evento": "Activación del plan de emergencia externo a través del 112."
+  },
+  {
+   "hora": "17:30",
+   "evento": "Confirmación del fallecimiento del conductor de la pala excavadora."
+  },
+  {
+   "hora": "18:35",
+   "evento": "Levantamiento del cadáver."
+  },
+  {
+   "hora": "19:09",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el accidente a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "00:09",
+   "evento": "El 2 de septiembre de 2008 queda expedita la vía II con limitación de velocidad a 10 km/h."
+  },
+  {
+   "hora": "00:55",
+   "evento": "El 5 de septiembre de 2008 finaliza la interceptación de la vía I."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "GLE57 333326-7",
+   "tipo": "locomotora aislada",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento y daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal de la locomotora",
+   "implicacion": "Matrícula 8866238. Resultó herido leve. Accionó el freno de emergencia y comunicó el suceso al Puesto de Mando de Miranda. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 1 hora y 47 minutos."
+  },
+  {
+   "rol": "Piloto de seguridad de Adif",
+   "implicacion": "Matrícula 8951493. Autorizó la invasión del gálibo sin atenerse al Reglamento General de Circulación; no cursó los telefonemas previstos; no conocía con claridad la gestión de la estación en cierre. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de trabajo: 7 horas y 27 minutos."
+  },
+  {
+   "rol": "Agente de Circulación de Corcos-Aguilarejo",
+   "implicacion": "Matrícula 9673823. Recibió llamadas del piloto por la mañana y sobre las 17:00; indicó que no podía informar de circulaciones y que debía dirigirse al CTC o al Puesto de Mando de Miranda. Jornada de trabajo: 9 horas y 12 minutos."
+  },
+  {
+   "rol": "Encargado de los trabajos de System",
+   "implicacion": "Subcontrata de Thales encargada de la ejecución de los trabajos para Adif. Se encontraba junto a la vía 2 frente a la excavadora; escuchó al piloto decir que cuando la máquina estuviera fuera llamaría."
+  },
+  {
+   "rol": "Conductor de la pala retroexcavadora",
+   "implicacion": "Fallecido en el acto. Vehículo de la empresa System, matrícula VA 41184/VE."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento eléctrico; señales de entrada y salida, así como señales altas de entrada a contravía; estación en periodo AC, cerrada; señales de avanzada, entrada y salida en indicación de vía libre.",
+  "tipo_via": "Vía doble con bloqueo automático BAD; tramo en transición de curva a la izquierda.",
+  "velocidad_maxima": "120 km/h (velocidad máxima permitida; velocidad al accionar el freno de emergencia: 115,7 km/h)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "En el momento del accidente, estación cerrada en periodo AC. Tras el accidente, vías I y II interceptadas desde las 17:12 del 1 de septiembre; vía II expedita con limitación a 10 km/h desde las 00:09 del 2 de septiembre; vía I interceptada hasta las 00:55 del 5 de septiembre.",
+  "otro": "Trabajos al amparo del punto 294 del Acta Semanal de Trabajos de la Gerencia Operativa de Miranda de Ebro, acta nº 35, apartado 294 Dueñas-Dueñas, con siglas EC. No se habían situado los cartelones de silbar a 600 m previstos en el proyecto. Visibilidad reducida por puente elevado carretero. Apertura de zanjas dentro de la zona de seguridad. Media semanal de circulaciones del tramo Corcos Aguilarejo - Venta de Baños: 706, desglosadas en 159 larga distancia, 248 media distancia, 1 cercanías, 286 mercancías y 12 servicio."
+ },
+ "material_rodante": {
+  "series": "GLE57 333326-7 (Nº UIC 957103333267)",
+  "averia": "No se consigna avería; equipos de seguridad del tren, freno, ASFA y sistema de vigilancia, funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por la pala retroexcavadora, previa autorización del agente piloto de Adif, sin atenerse a las normas establecidas en el Reglamento General de Circulación.",
+  "contribuyentes": [
+   "El agente piloto de Adif no conocía con claridad que la estación de Dueñas, en periodo de cierre, era gestionada por el Puesto de Mando de Miranda.",
+   "El Puesto de Mando de Miranda no tenía conocimiento de que se estuviesen realizando trabajos en la estación de Dueñas.",
+   "El punto 294 del acta semanal de trabajos no hacía referencia a la necesidad de piloto de trabajos o encargado de seguridad ni a observaciones sobre afecciones a la circulación.",
+   "El punto 294 del acta tenía asignadas las siglas EC, compatibles con la circulación por vías contiguas.",
+   "No se habían situado los cartelones de silbar a 600 metros previstos en el proyecto de construcción.",
+   "El agente piloto no procedió a establecer la interrupción de la circulación para la invasión del gálibo ni cursó los telefonemas previstos en el Reglamento General de Circulación.",
+   "El lugar del arrollamiento se encontraba en un tramo de visibilidad reducida por un puente elevado para el tráfico carretero.",
+   "Se habían realizado trabajos de apertura de zanjas dentro de la zona de seguridad."
+  ],
+  "sistemicas": [
+   "Deficiente aplicación del Reglamento General de Circulación por parte de los pilotos de seguridad.",
+   "Falta de coordinación y conocimiento entre los puestos de mando y los trabajos en estaciones sin personal.",
+   "Autorización de trabajos en acta semanal sin medidas de protección suficientes para la invasión del gálibo."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": 1,
+  "danos_materiales": "Daños en la locomotora, en la vía y en las instalaciones.",
+  "afectacion_servicio": "Afectados 60 trenes de larga distancia con 981 minutos de retraso, 68 trenes de media distancia con 1351 minutos y 68 trenes de mercancías con 5318 minutos. Se suprimieron 2 trenes de larga distancia, 2 de mercancías y 7 de media distancia. Vías I y II interceptadas desde las 17:12 del 1 de septiembre hasta las 00:09 del 2 de septiembre; vía II expedita con limitación a 10 km/h; vía I interceptada hasta las 00:55 del 5 de septiembre."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Adoptará las medidas necesarias para que los pilotos cumplan con lo establecido en el Reglamento General de Circulación.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "invasion de galibo",
+  "pala retroexcavadora",
+  "estacion de duneas",
+  "reglamento general de circulacion",
+  "piloto de seguridad",
+  "trabajos en via",
+  "descarrilamiento",
+  "intercepcion de vias",
+  "adif",
+  "renfe operadora",
+  "fallecido"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-010908-310309-CIAF"
+}

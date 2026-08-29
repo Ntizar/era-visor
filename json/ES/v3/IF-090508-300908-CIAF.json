@@ -1,0 +1,125 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo por tren de mercancías en paso a nivel tipo A entre Ariza y Alhama de Aragón, línea Madrid-Barcelona (Zaragoza)",
+ "idioma_original": "es",
+ "resumen": "El 9 de mayo de 2008 a las 22:40, el tren de mercancías VK194 de Renfe Operadora arrolló a un vehículo Nissan Pick-Up con dos ocupantes en el paso a nivel tipo A del P.K. 214,220 de la línea 200 Madrid-Barcelona, entre Ariza y Alhama de Aragón (Zaragoza). El vehículo invadió la vía intempestivamente sin que sus ocupantes percibieran la aproximación del tren. Ambos ocupantes fallecieron. La locomotora circulaba a 100 km/h, velocidad máxima permitida. No hubo daños materiales en tren ni infraestructura. La señalización de carretera del paso a nivel era inexistente en el lado de acceso del vehículo.",
+ "hechos": "El tren de mercancías VK194, compuesto por la locomotora aislada 289102 de Renfe Operadora-Mercancías con masa remolcada de 168 Tm, circulaba por el P.K. 214,220 de la línea 200 Madrid-Barcelona en el trayecto Ariza-Alhama de Aragón. A las 22:40 horas, un vehículo Nissan Pick-Up (matrícula 8205 BRL) con dos ocupantes invadió de forma intempestiva la vía de izquierda a derecha en el sentido de la marcha del tren, cruzando el paso a nivel tipo A. Tras la colisión frontal con el lado derecho del vehículo, este fue arrastrado por la caja de la vía aproximadamente 724 metros hasta quedar detenido en el P.K. 214,944. El maquinista observó el cartel de silbar cerca del apeadero de Cetina y hizo uso del silbato; al aproximarse al paso a nivel volvió a silbar y, al percatarse de la irrupción del vehículo, accionó el freno de emergencia sin poder evitar el arrollamiento. En el momento del accidente era de noche y llovía intensamente, lo que redujo la visibilidad y la percepción auditiva tanto del maquinista como de los ocupantes del vehículo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "214,220",
+  "linea": "200 Madrid-Barcelona",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Paso a nivel tipo A, Camino rural de Heredades, entre Ariza y Alhama de Aragón, municipio de Cetina (Zaragoza). Tramo de vía doble con perfil horizontal y recto."
+ },
+ "cronologia": [
+  {
+   "hora": "22:40",
+   "evento": "Arrollamiento del vehículo por el tren VK194 en el paso a nivel tipo A, P.K. 214,220"
+  },
+  {
+   "hora": "23:06",
+   "evento": "Interceptación de la vía 2 entre Ariza y Alhama de Aragón"
+  },
+  {
+   "hora": "00:17",
+   "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF (10 de mayo)"
+  },
+  {
+   "hora": "00:22",
+   "evento": "Efectivos de Guardia Civil y Bomberos se personan en el lugar del accidente"
+  },
+  {
+   "hora": "00:27",
+   "evento": "El Juez autoriza el comienzo de las labores de liberación de los restos"
+  },
+  {
+   "hora": "01:56",
+   "evento": "El Puesto de Mando ordena la salida del tren VK194 hacia la estación de Ariza"
+  },
+  {
+   "hora": "02:33",
+   "evento": "Queda suspendida la circulación del tren VK194 en la estación de Ariza"
+  },
+  {
+   "hora": "03:20",
+   "evento": "Levantamiento de los cadáveres"
+  },
+  {
+   "hora": "04:10",
+   "evento": "Retirada del vehículo siniestrado de la vía; reanudación de la circulación normal"
+  },
+  {
+   "hora": "04:24",
+   "evento": "Fin de la interceptación de la vía 2"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "VK194 (asimilada su marcha al tren 58160)",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora-Mercancías",
+   "danos": "Sin daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren VK194 (matrícula 9733916)",
+   "implicacion": "Circulaba con normalidad, hizo uso del silbato antes de aproximarse al paso a nivel y al percatarse de la irrupción del vehículo; accionó el freno de emergencia sin poder evitar el arrollamiento. Actuación correcta. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción 3h26min, jornada de trabajo 6h50min. Último reciclaje formativo 07/02/2007, último reconocimiento médico y psicotécnico 08/11/2005."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización a la vía reglamentaria (cartelones de silbar). Señalización al camino por el lado izquierdo (sentido ascendente), lugar de acceso del vehículo: falta toda la señalización reglamentaria; se conserva antigua marca cuya vigencia ha prescrito.",
+  "tipo_via": "Vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Perfil horizontal y recto",
+  "otro": "Paso a nivel tipo A catalogado como de clase A, titularidad del Ayuntamiento de Cetina. Camino rural de Heredades. Momento de circulación: 229. Sistemas de comunicación: teléfono señal."
+ },
+ "material_rodante": {
+  "series": "Locomotora 289102 (UIC: 957102891026)",
+  "averia": "Ninguna. Funcionamiento correcto.",
+  "mantenimiento": null
+ },
+ "clima": "Noche con lluvia intensa, condiciones que redujeron la visibilidad y la percepción auditiva",
+ "causas": {
+  "directa": "Cruce del vehículo por el paso a nivel en el momento en que el tren se aproximaba, sin que sus ocupantes se percataran de su presencia.",
+  "contribuyentes": [
+   "Noche y lluvia intensa que redujeron la visibilidad y la percepción auditiva tanto del maquinista como de los ocupantes del vehículo",
+   "Falta total de señalización de carretera reglamentaria en el lado izquierdo del paso a nivel (por donde accedió el vehículo); solo se conservaba una antigua marca con vigencia prescrita"
+  ],
+  "sistemicas": [
+   "Ausencia de señalización de carretera en el paso a nivel tipo A, siendo responsabilidad del Ayuntamiento de Cetina como titular del camino"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+  "afectacion_servicio": "Vía 2 interceptada entre Ariza y Alhama de Aragón de 23:06 a 04:24. Un tren de viajeros de larga distancia con 31 minutos de retraso. Seis trenes de mercancías con 238 minutos de retraso total."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente, según lo establecido en la Disposición adicional sexta de la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel. No procede recomendar la supresión del paso a nivel pues su momento de circulación se ajusta a la normativa.",
+   "destinatario": "Ayuntamiento de Cetina (Zaragoza)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel tipo A",
+  "tren de mercancías",
+  "Renfe Operadora",
+  "Adif",
+  "línea Madrid-Barcelona",
+  "Zaragoza",
+  "lluvia intensa",
+  "nocturno",
+  "señalización carretera ausente",
+  "víctimas mortales",
+  "Nissan Pick-Up"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-090508-300908-CIAF"
+}

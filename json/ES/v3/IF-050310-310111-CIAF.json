@@ -1,0 +1,198 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un operario por el tren 751 en la estación de Dueñas (Palencia)",
+ "idioma_original": "es",
+ "resumen": "El 5 de marzo de 2010, a las 01:37, el tren 751 de Renfe Operadora arrolló mortalmente a un operario de MAQUISABA en la estación de Dueñas (Palencia). El trabajador realizaba trabajos en vía 2 sin autorización del encargado de Adif e invadió el gálibo al paso del tren por vía 1. No hubo daños materiales, pero se interrumpió la circulación y se produjeron retrasos. La CIAF concluye que la causa fue la invasión del gálibo sin autorización, y recomienda formación e inspecciones a Adif.",
+ "hechos": "El día 5 de marzo de 2010, a las 01:37 horas, el tren de larga distancia 751 de Renfe Operadora, procedente de Madrid y con destino Ferrol, circulaba por la vía 1 de la línea 100 Madrid Chamartín–Hendaya al paso por la estación de Dueñas (Palencia). En ese momento, un operario de la empresa MAQUISABA, subcontrata de COPASA, se encontraba realizando trabajos en la vía 2 y, según la investigación, invadió el gálibo de la vía sin autorización del encargado de los trabajos de Adif.\n\nEl tren venía circulando con normalidad y con señales de vía libre. El maquinista observó a una persona en la entrevía sin librar el gálibo, a unos 50 metros aproximadamente, y aplicó el freno de urgencia y el silbato, pero no pudo evitar el arrollamiento. Según el registrador, el tren pasó por el P.K. 278+952 a 106 km/h y quedó detenido en el P.K. 279+357 tras recorrer 405 metros desde el punto del arrollamiento.\n\nLos trabajos estaban amparados por el punto 124 del acta semanal de trabajos y una ficha complementaria, con horario previsto de 23:40 a 06:40 en vía 2, con interrupción de circulación en dicha vía y circulaciones en vía 1. En la zona del accidente no había SAT, limitaciones de velocidad ni cartelones de “Silbar Obreros”, y el encargado de Adif declaró que no había dado autorización para que los operarios entraran en la vía.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Dueñas",
+  "pk": "278+952",
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Estación de Dueñas, P.K. 278+952, vía 2, tramo Cubillas de Santa Marta a Venta de Baños; el tren 751 circulaba por vía 1."
+ },
+ "cronologia": [
+  {
+   "hora": "23:40",
+   "evento": "Inicio previsto de los trabajos de renovación, desguarnecido y complementarios en vía 2, en horario de 23:40 a 06:40, con interrupción de circulación en vía 2 y circulaciones en vía 1."
+  },
+  {
+   "hora": "00:00",
+   "evento": "El encargado de trabajos de Adif solicita y se autoriza el corte de circulación programado entre Dueñas y Venta de Baños por vía 2 hasta las 06:40, así como trabajos en vía 2 de Dueñas afectando a agujas 4 y 6."
+  },
+  {
+   "hora": "00:09",
+   "evento": "Se cursa telefonema de corte de tensión para no expedir ni maniobrar con tracción eléctrica por vía 2 y vía 4 de Dueñas."
+  },
+  {
+   "hora": "01:05",
+   "evento": "El encargado de trabajos solicita abrir la señal de entrada para maniobrar la máquina mixta por vía 2."
+  },
+  {
+   "hora": "01:12",
+   "evento": "Se autoriza la salida del tren T4 de desguarnecido desde vía 4 hacia vía 2, en sentido Venta de Baños."
+  },
+  {
+   "hora": "01:35",
+   "evento": "El tren 751 pasa por la señal avanzada E'1 a 153 km/h, reduciendo hacia la limitación de 130 km/h de la estación."
+  },
+  {
+   "hora": "01:36",
+   "evento": "El tren 751 pasa por la señal de salida S1/1 a 113 km/h; una baliza mal ubicada de LTV 30 km/h provoca frenado de urgencia por ASFA digital y el maquinista activa el freno de emergencia."
+  },
+  {
+   "hora": "01:37",
+   "evento": "El tren 751 pasa por el P.K. 278+952 a 106 km/h y arrolla al operario de MAQUISABA que se encontraba en la entrevía sin librar el gálibo."
+  },
+  {
+   "hora": "01:37",
+   "evento": "El tren queda detenido en el P.K. 279+357, habiendo recorrido 405 metros desde el punto del arrollamiento."
+  },
+  {
+   "hora": "01:39",
+   "evento": "Quedan totalmente interrumpidas las circulaciones por ambas vías."
+  },
+  {
+   "hora": "01:39",
+   "evento": "El maquinista del tren 751 informa al puesto de mando de Miranda de Ebro de que parece haber arrollado a una persona."
+  },
+  {
+   "hora": "01:41",
+   "evento": "El encargado de los trabajos de Adif comunica al CTC que un tren ha matado a un hombre en Dueñas."
+  },
+  {
+   "hora": "01:46",
+   "evento": "El regulador llama al encargado de los trabajos de Adif para recabar información sobre el suceso."
+  },
+  {
+   "hora": "02:41",
+   "evento": "Fin de la interrupción total de ambas vías; comienza la afectación parcial."
+  },
+  {
+   "hora": "04:00",
+   "evento": "Fin de la afectación parcial de la circulación."
+  },
+  {
+   "hora": "06:40",
+   "evento": "Fin previsto del corte de circulación programado entre Dueñas y Venta de Baños por vía 2."
+  },
+  {
+   "hora": "08:11",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": null,
+   "evento": "El 23 de marzo de 2010, la CIAF resuelve abrir la investigación de este accidente."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "751",
+   "tipo": "tren de larga distancia de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales."
+  },
+  {
+   "numero": "T4",
+   "tipo": "tren de desguarnecido/trabajos",
+   "operador": null,
+   "danos": "No se producen daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 751",
+   "implicacion": "Observó a una persona en la entrevía sin librar gálibo, aplicó freno de urgencia y silbato, pero no pudo evitar el arrollamiento; informó al puesto de mando."
+  },
+  {
+   "rol": "Encargado de los trabajos de Adif (piloto)",
+   "implicacion": "Autorizó el corte de circulación en vía 2; declaró que no dio autorización para que los operarios entraran en la vía; estaba en el desvío nº6 y avisó por walkie de la proximidad del tren."
+  },
+  {
+   "rol": "Encargado de los trabajos de COPASA",
+   "implicacion": "Indicó al conductor de la máquina que cogiera dos personas; según su declaración, el piloto no había dado todavía orden de empezar a trabajar."
+  },
+  {
+   "rol": "Conductor de la pala/retroexcavadora de MAQUISABA",
+   "implicacion": "Estaba en vía 2 abriendo un cajón; declaró que no recibieron aviso de la proximidad del tren y que el encargado de COPASA les mandó empezar a trabajar."
+  },
+  {
+   "rol": "Peón de MAQUISABA (compañero de la víctima)",
+   "implicacion": "Estaba en vía 2 a pie de andén; declaró que el conductor de la pala les mandó clavar traviesas y que no había vigilancia."
+  },
+  {
+   "rol": "Operario de MAQUISABA (víctima)",
+   "implicacion": "Fallecido; se encontraba en la entrevía sin librar el gálibo cuando pasó el tren 751."
+  },
+  {
+   "rol": "Coordinadora de seguridad de PEYCO",
+   "implicacion": "No estaba presente en el momento del accidente; fue avisada por teléfono a las 01:39 y se personó después para recabar información."
+  },
+  {
+   "rol": "Jefe del CTC de Miranda de Ebro",
+   "implicacion": "Autorizó el corte entre Dueñas y Venta de Baños y los trabajos en vía 2/4; declaró que no fue notificado de la limitación de velocidad temporal ni de invasión de vía 1."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales altas de entrada y salida; balizas de E'1, E1 y S1/1 en indicación de vía libre; ASFA digital; baliza de anuncio de LTV 30 km/h mal ubicada.",
+  "tipo_via": "Estación con vía 1 y vía 2; enclavamiento electrónico Intersig L905 E (Thales); bloqueo automático banalizado (BAB); agujas tipo C.",
+  "velocidad_maxima": "160 km/h en trayecto; 130 km/h al paso por la estación de Dueñas.",
+  "ancho": null,
+  "electrificacion": "Tracción eléctrica; corte de tensión autorizado en vía 2 y vía 4 de Dueñas durante los trabajos.",
+  "estado_via": "Vía 2 cortada para trabajos; vía 1 libre con circulación; en el punto del accidente no había SAT, limitaciones ni silbar obreros.",
+  "otro": "Curva de radio 1.250 m y declividad -1,89 milésimas; estación abierta sin personal de circulación, mando central regulado por el CTC de Miranda de Ebro."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252034; tren tipo 160 B; 8 vehículos; 481 toneladas de masa remolcada.",
+  "averia": "No se detecta avería; equipos de seguridad del tren funcionaron correctamente según el registrador; el ASFA digital actuó por una baliza de LTV mal ubicada.",
+  "mantenimiento": null
+ },
+ "clima": "Noche despejada.",
+ "causas": {
+  "directa": "El operario invadió el gálibo de la vía en el momento en que pasaba el tren 751, sin tener autorización del encargado de los trabajos (agente autorizado de Adif).",
+  "contribuyentes": [
+   "El personal de la subcontrata empezó a trabajar en vía 2 sin autorización del piloto de seguridad de Adif.",
+   "No había SAT, limitaciones de velocidad ni cartelones de “Silbar Obreros” en la zona del accidente.",
+   "No había piloto de seguridad con la máquina que ayudaba a la víctima.",
+   "La cadena de mando de los trabajos no se respetó."
+  ],
+  "sistemicas": [
+   "Deficiencias en la formación y cumplimiento estricto de la cadena de mando en trabajos en vía.",
+   "Necesidad de inspecciones para neutralizar incumplimientos de las normas de realización de trabajos."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Interrupción total de ambas vías de 01:39 a 02:41 y parcial hasta las 04:00; 3 trenes de larga distancia con 220 minutos de retraso y 6 trenes de mercancías con 644 minutos de retraso total."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "14/10-1: Insistir en acciones formativas dirigidas a los empleados de empresas que participan en la realización de trabajos en vía, donde se ponga de manifiesto la importancia de seguir estrictamente la cadena de mando y la importancia de cumplir las órdenes con exactitud cuando se esté trabajando en la vía (o en sus inmediaciones) habiendo circulaciones simultáneamente a los trabajos.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "14/10-2: Realización de inspecciones dirigidas a neutralizar los incumplimientos de las normas establecidas para la realización de trabajos.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "arrollamiento",
+  "trabajos en vía",
+  "estación de dueñas",
+  "palencia",
+  "adif",
+  "renfe operadora",
+  "subcontrata",
+  "cadena de mando",
+  "gálibo",
+  "asfa digital",
+  "baliza ltv"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-050310-310111-CIAF"
+}

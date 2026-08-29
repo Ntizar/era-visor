@@ -1,0 +1,99 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías 9121 de Feve entre Ribadeo y Vegadeo por exceso de velocidad",
+ "idioma_original": "es",
+ "resumen": "El 14 de julio de 2010, el tren de mercancías 9121 de Feve descarriló en plena vía al tomar una curva a la derecha tras salir del túnel nº 31, entre las estaciones de Ribadeo y Vegadeo. El accidente se produjo debido a que el tren circulaba a 73 km/h, superando la velocidad máxima permitida de 60 km/h para ese tramo. Como factor subyacente, la investigación destaca el incorrecto establecimiento de la velocidad máxima del tramo, ya que los parámetros geométricos (insuficiencia de peralte) no soportaban dicha velocidad según la normativa interna de Feve. No hubo víctimas mortales ni heridos, pero se produjeron daños materiales significativos en vía y material rodante.",
+ "hechos": "El día 14 de julio de 2010, a las 12:41 horas, el tren de mercancías 9121 de Feve, procedente de Xove con destino Pravia, descarriló en el P.K. 148+845 de la línea 11 Ferrol-Gijón. La composición estaba formada por dos locomotoras diesel-eléctricas (1601 y 1613) y dieciocho plataformas cargadas con contenedores de madera y lingotes de aluminio. Al salir del túnel nº 31, el tren entró en una curva a la derecha con radio de 133 metros. Según el registrador de seguridad, el tren circulaba a 73 km/h cuando la velocidad máxima del tramo era de 60 km/h. El descarrilamiento comenzó en la segunda locomotora (1613), que volcó hacia el exterior de la curva, arrastrando consigo las nueve primeras plataformas (cargadas de madera), parte de cuya carga cayó a la ría de Ribadeo. La décima plataforma quedó semidescarrilada y el resto permaneció encarrilado. El tren se detuvo finalmente en el P.K. 148+978.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "148+845",
+  "linea": "11 Ferrol - Gijón",
+  "provincia": "Lugo",
+  "descripcion_lugar": "Curva a la derecha a la salida del túnel nº 31, entre las estaciones de Ribadeo y Vegadeo, en explanación a media ladera junto a la ría."
+ },
+ "cronologia": [
+  {
+   "hora": "12:41",
+   "evento": "Inicio del descarrilamiento en el P.K. 148+845"
+  },
+  {
+   "hora": "12:41",
+   "evento": "Parada del tren en el P.K. 148+978"
+  },
+  {
+   "hora": "14:30",
+   "evento": "Comunicación del suceso a la CIAF por parte de Feve"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "9121",
+   "tipo": "Mercancías",
+   "operador": "Feve",
+   "danos": "Descarrilamiento de locomotora 1613 (volcada) y 10 plataformas; caída de carga a la ría."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Conducía el tren con exceso de velocidad (73 km/h vs 60 km/h permitidos). Pruebas de alcohol y drogas negativas."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo telefónico",
+  "tipo_via": "Vía única no electrificada",
+  "velocidad_maxima": "60 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Defectos menores en ancho y alineación a la salida del túnel, insuficiencia de peralte fuera de norma para la velocidad establecida.",
+  "otro": "Radio de curva 133 m, pendiente 15 milésimas, peralte 80 mm."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 1601 y 1613; Plataformas 2ssag",
+  "averia": "Ninguna previa detectada en bandaje de la locomotora 1613 dentro de tolerancias NBSM.",
+  "mantenimiento": "Parámetros de suspensión no comprobados en la locomotora 1613 descarrilada."
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "Exceso de velocidad del tren (73 km/h) respecto a la máxima permitida (60 km/h).",
+  "contribuyentes": [
+   "Incorrecto establecimiento de la velocidad máxima del tramo en relación con los parámetros geométricos reales (insuficiencia de peralte superior a la norma)."
+  ],
+  "sistemicas": [
+   "Falta de verificación periódica de la adecuación de las velocidades de los tramos a los parámetros auscultados de la vía.",
+   "Ausencia de un programa robusto de sondeo de registradores de seguridad para detectar comportamientos de conducción inadecuados."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: 101.055,86 €. Material móvil: 200.511,59 €.",
+  "afectacion_servicio": "Vía interceptada desde el 14/07/2010 a las 12:41 hasta el 16/07/2010 a las 06:50. Traslado de viajeros por carretera. Retrasos acumulados de 4h 25min en 9 trenes tras restablecer servicio con limitación a 10 km/h."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Realizar una inspección del tramo Ferrol - Pravia mediante la auscultación de la vía, comprobando que los parámetros cumplen la norma NFI vía 002 “Parámetros geométricos” de Feve. Comprobar que las velocidades de los tramos y las limitaciones permanentes de velocidad son acordes a los parámetros auscultados.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "exceso de velocidad",
+  "feve",
+  "mercancias",
+  "curva",
+  "peralte",
+  "ribaideo",
+  "vegadeo",
+  "seguridad ferroviaria",
+  "normativa interna"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-140710-250211-CIAF"
+}

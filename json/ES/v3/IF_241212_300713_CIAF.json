@@ -1,0 +1,134 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías 97161 en la estación de Lezama (Álava) por fallo de infraestructura",
+ "idioma_original": "es",
+ "resumen": "El 24 de diciembre de 2012 a las 01:00 horas, el tren de mercancías 97161 de Activa Rail descarriló en la estación de Lezama (Álava), línea 700, al producirse el remonte de la rueda izquierda del primer eje del primer bogie del segundo vagón. El descarrilamiento provocó el corte de la composición y la activación del freno de urgencia por rotura de manguera de aire. La causa fue un fallo de infraestructura: peraltes y alabeos fuera de tolerancia por mala calidad de vía agravada por lluvias intensas, pudiendo colaborar la altura mínima de pestaña de las ruedas torneadas 12 días antes. No hubo víctimas, aunque la circulación quedó interrumpida 18 horas y 20 minutos.",
+ "hechos": "El tren de mercancías 97161 de Activa Rail, con origen en Vicálvaro Clasificación (Madrid) y destino Bilbao Mercancías, se disponía a hacer su paso por la estación de Lezama por vía directa. A las 00:58:10 horas pasó por la señal avanzada E'1 a 58 km/h en vía libre, y a las 01:00:00 horas por la señal de entrada E1 a 60 km/h también en vía libre. Hacia las 01:00:21 horas, en el PK 194+047, en una curva de transición a derechas de radio 292 metros, se produjo el remonte de la rueda izquierda del primer eje del primer bogie del segundo vagón de la composición, descarrilando hacia el exterior 3 metros después, encima del desvío nº1, y descarrilando también el segundo eje. A las 01:00:26 horas se activó el freno de urgencia por pérdida de aire (rotura de manguera), dividiéndose la composición: el vagón descarrilado y los siguientes se detuvieron en el PK 194+322 a las 01:00:39 tras recorrer 129 m descarrilados durante 5 segundos, y la locomotora con el primer vagón avanzaron hasta el PK 194+387, deteniéndose a las 01:00:53. El maquinista comunicó con el CTC, que le autorizó a reconocer la composición, corroborando el descarrilamiento.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Lezama",
+  "pk": "194+047",
+  "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+  "provincia": "Álava",
+  "descripcion_lugar": "Entrada de la estación de Lezama (lado Madrid), entre la señal de entrada E1 (PK 193+727) y el desvío nº1 (PK 194+049), en curva de transición de salida hacia la derecha con radio 292 metros y pendiente de 15,57 milésimas. Tramo Miranda de Ebro - Artomaña."
+ },
+ "cronologia": [
+  {
+   "hora": "00:58:10",
+   "evento": "Paso por la señal avanzada E'1 (PK 191+882) a 58 km/h en indicación de vía libre"
+  },
+  {
+   "hora": "01:00:00",
+   "evento": "Paso por la señal de entrada E1 (PK 193+727) a 60 km/h en indicación de vía libre"
+  },
+  {
+   "hora": "01:00:21",
+   "evento": "Descarrilamiento (remonte) en el PK 194+047, rueda izquierda del primer eje del primer bogie del segundo vagón"
+  },
+  {
+   "hora": "01:00:26",
+   "evento": "Activación del freno de urgencia por rotura de manguera de aire (PK 194+176, velocidad 58 km/h)"
+  },
+  {
+   "hora": "01:00:39",
+   "evento": "Detención del vagón descarrilado y siguientes en PK 194+322 tras 129 m descarrilados"
+  },
+  {
+   "hora": "01:00:53",
+   "evento": "Detención de la locomotora y primer vagón en PK 194+387"
+  },
+  {
+   "hora": "01:00",
+   "evento": "Inicio de interrupción de la circulación"
+  },
+  {
+   "hora": "10:17",
+   "evento": "Comunicación del suceso a la CIAF por el jefe de gabinete de investigación de Adif"
+  },
+  {
+   "hora": "19:20",
+   "evento": "Reapertura de la circulación"
+  },
+  {
+   "hora": "2013-01-20",
+   "evento": "Segundo descarrilamiento del mismo tren 97161 en el mismo punto (PK 194+029) con limitación a 30 km/h"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "97161",
+   "tipo": "mercancías (Tipo 100, velocidad máxima 100 km/h)",
+   "operador": "Activa Rail",
+   "danos": "Corte de composición; daños en el vagón descarrilado (plataforma SGGMRS serie PMMC, nº UIC 378049521867/378049524867, propiedad de Transfesa)"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 97161",
+   "implicacion": "Matrícula 12415460-2. Título B de conducción conforme a Orden FOM/2520/2006. Habilitación de conducción de vehículos ferroviarios categoría B (30/07/2010), material (26/07/2011) e infraestructura (07/11/2011). Último reconocimiento médico y psicotécnico: 20/07/2011. Conocía la línea desde hacía un año. Prueba de alcoholemia negativa (0,00 mg/1000 ml) a las 04:30 en Lezama. No se observó irregularidad en la conducción."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal avanzada E'1 (PK 191+882) en vía libre; señal de entrada E1 (PK 193+727) en vía libre; indicadora de entrada a vía directa. Bloqueo automático en vía única con CTC, adscrita al puesto de mando de Miranda de Ebro (Burgos).",
+  "tipo_via": "Vía general y vía de apartado. Curva de transición a derechas, radio 292 m, pendiente 15,57 milésimas. Carril de 54 kg/ml.",
+  "velocidad_maxima": "65 km/h (paso por estación por vía directa)",
+  "ancho": "1668 mm (implícito por norma NAV 7-3-2.0 de ancho de vía)",
+  "electrificacion": null,
+  "estado_via": "Peraltes fuera de tolerancia (14-40 mm vs 10 mm permitidos, NAV 7-3-5.0) entre -30 y -20 m; alabeos fuera de tolerancia (6,1-27,2 mm cada 3 m vs 6 mm permitidos) en los -6, -7, -8, -11 y del -17 al -30. Índice de calidad de vía: MAL (I=7,03, N.R.V. 7-3-5.0). Última nivelación: 2008. Tren auscultador (22/10/2012) detectó defectos de nivelación y alineación con prioridad de actuación 1 (preferente) en los 10 m próximos. Datos enviados a gerencia de mantenimiento en enero de 2013; nivelación con maquinaria el 23/01/2013. Limitación a 30 km/h tras el suceso.",
+  "otro": "Desvío nº1 de entrada a la estación (PK 194+049). Radiotelefonía modalidad A. Daños en vía e instalaciones entre PK 194+047 y 194+322 valorados en 155.470 € (Adif)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 335012. 17 vagones: 13 plataformas serie PMMC y 4 plataformas serie PMC cargadas con contenedores. Vagón descarrilado: plataforma tipo SGGMRS serie PMMC, nº UIC 378049521867 (Transfesa), dos semivagones articulados de tres bogies (6 ejes), longitud entre topes 29,59 m. Ejes del bogie descarrilado: 77-19710-1 y 77-19707-7. Masa remolcada: 1195 toneladas.",
+  "averia": "Altura de pestaña de la rueda que inicia el descarrilamiento: 27,8 mm (inferior en 0,2 mm al mínimo permitido de 28 mm). Distancia entre caras internas del eje descarrilado: 1.601,1 mm (superior en 5,1 mm al máximo permitido de 1.596 mm), indicando decalaje de ~6 mm probablemente por esfuerzos transversales de ripado de vías durante el descarrilamiento sobre el desvío. Rotura de manguera de aire con corte de composición.",
+  "mantenimiento": "Ruedas torneadas el 11/12/2012 (12 días antes); parámetros de salida dentro de tolerancia según ficha de control. Revisiones del vagón (VS, FS, RS) realizadas dentro de plazos del plan de mantenimiento. Carga de dos contenedores UTI de 40 pies bien estibada; peso por eje correcto (báscula dinámica de Orduña). Contenedor del bogie descarrilado presentaba carga desplazada a la derecha, probablemente por efecto del descarrilamiento."
+ },
+ "clima": "Noche. Días anteriores al suceso hubo lluvias intensas no habituales.",
+ "causas": {
+  "directa": "Fallo de la infraestructura: peraltes y alabeos fuera de tolerancia de forma significativa en la zona del descarrilamiento, debido a mala calidad de vía unido a intensas lluvias.",
+  "contribuyentes": [
+   "Altura de pestaña de las ruedas del vagón descarrilado en el mínimo permitido (27,8 mm), por haber sido torneadas 12 días antes",
+   "Última nivelación de la vía realizada en 2008",
+   "Defectos de nivelación y alineación detectados por tren auscultador (22/10/2012) con prioridad de actuación 1 (preferente), cuyos datos tratados no fueron enviados a mantenimiento hasta la primera quincena de enero de 2013",
+   "Calificación de la vía como MAL (índice 7,03 según N.R.V. 7-3-5.0)"
+  ],
+  "sistemicas": [
+   "Retraso en el tratamiento y envío de datos del tren auscultador a la gerencia de mantenimiento correspondiente",
+   "No se detectaron deficiencias de seguridad en las últimas inspecciones a pie (26/04/2012 y 16/11/2012) pese a los defectos de nivelación detectados en inspecciones en cabina (9/11, 23/11 y 14/12/2012)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en el vagón descarrilado. Daños en vía e instalaciones entre PK 194+047 y 194+322 valorados en 155.470 € (Adif).",
+  "afectacion_servicio": "Circulación interrumpida de 01:00 a 19:20 (18 h 20 min). 7 trenes de larga distancia suprimidos (viajeros trasbordados por carretera). 29 minutos de retraso en un tren de larga distancia y 77 minutos en un tren de mercancías. Vagones no descarrilados apartados a vía desviada de Izarra y continuaron a destino; vagón siniestrado encarrilado y trasladado a Santurce el 09/01/2013. No fue necesaria activación de plan de emergencia externo."
+ },
+ "lecciones": [
+  "La mala calidad de vía (peraltes y alabeos fuera de tolerancia) combinada con condiciones meteorológicas adversas (lluvias intensas) puede provocar descarrilamientos incluso a velocidades inferiores a la máxima permitida",
+  "El retraso en el tratamiento y comunicación de datos del tren auscultador a mantenimiento impide la actuación correctiva oportuna",
+  "Las inspecciones a pie pueden no detectar defectos de nivelación que sí se identifican en inspecciones en cabina",
+  "Ruedas recién torneadas con altura de pestaña en el límite mínimo pueden reducir el margen de seguridad frente a defectos geométricos de la vía",
+  "La repetición del suceso en el mismo punto y con el mismo material móvil (20/01/2013) confirma la naturaleza estructural del problema de infraestructura"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Intensificar la vigilancia de la vía en la zona del accidente hasta la ejecución de las obras proyectadas.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "mercancias",
+  "lezama",
+  "alava",
+  "activa rail",
+  "transfesa",
+  "fallos infraestructura",
+  "peralte",
+  "alabeo",
+  "calidad via",
+  "torneado ruedas",
+  "lluvias"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_241212_300713_CIAF"
+}

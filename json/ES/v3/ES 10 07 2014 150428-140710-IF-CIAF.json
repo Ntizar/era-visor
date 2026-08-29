@@ -1,0 +1,161 @@
+{
+ "titulo_normalizado": "Rebase indebido de la señal de parada S2/1B en la estación de Sant Vicenç de Calders con conato de colisión entre el tren de mercancías BAX80 y el tren de viajeros 28026",
+ "idioma_original": "es",
+ "resumen": "El 10 de julio de 2014, a las 11:30 horas, el tren de mercancías BAX80 de Renfe Operadora rebasó indebidamente la señal de salida S2/1B en indicación de parada en la estación de Sant Vicenç de Calders (Tarragona). En ese momento circulaba en el mismo sentido, precediéndolo, el tren de viajeros 28026, sin existir entre ambos otra señal que pudiera detener al BAX80, lo que originó una situación de conato de colisión. El ASFA activó el freno de emergencia y el BAX80 quedó detenido sin llegar a talonar la aguja 17. No se produjeron víctimas ni daños materiales. La CIAF concluyó que el incidente se debió a un fallo humano del maquinista, por error de percepción de la señal, posiblemente asociado a una falta de atención.",
+ "hechos": "El día 10 de julio de 2014, sobre las 11:30 horas, el tren de mercancías BAX80 de Renfe Operadora, procedente de Selgua (Huesca) y con destino Barcelona Can Tunis, entró en la estación de Sant Vicenç de Calders por el lado Torredembarra, con itinerario establecido a vía 2. La señal de entrada E2 se encontraba en indicación de anuncio de parada y la señal de salida S2/2 también presentaba esa indicación. El tren avanzó hasta la señal de salida S2/1B, situada en el PK 25+379, que estaba en indicación de parada.\n\nMientras tanto, el tren de viajeros 28026, también de Renfe Operadora, con origen en Sant Vicenç de Calders y destino L’Hospitalet de Llobregat, salió desde vía 7 en dirección a El Vendrell por itinerario establecido a vía 3B. A las 11:28:23 horas pasó por la aguja 3 y posteriormente ocupó el circuito de vía CV269. A las 11:30:18 horas, el BAX80 rebasó la baliza de pie de la señal S2/1B en indicación de parada a una velocidad de 22 km/h, produciéndose la activación del freno de emergencia por el sistema ASFA. En ese instante, el tren 28026 circulaba en el mismo sentido y precedía al BAX80, sin que existiera ninguna señal que pudiera detener al tren de mercancías, lo que generó una situación de conato de colisión.\n\nEl BAX80 quedó detenido a las 11:31:04 horas, tras recorrer 65 metros desde la activación del ASFA, sin llegar a talonar la aguja 17. No hubo víctimas ni daños materiales. Tras la maniobra de retroceso autorizada, el tren quedó estacionado en vía 2 a las 12:48 horas y salió de la estación a las 15:34 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Vicenç de Calders",
+  "pk": "25+379",
+  "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Señal de salida S2/1B (PK 25+379) en la estación de Sant Vicenç de Calders, municipio de El Vendrell, en la confluencia de las líneas 200, 240 y 600. El BAX80 circuló por vía 2 y rebasó la señal de salida S2/1B en indicación de parada, mientras el tren 28026 ocupaba la vía 3B y el circuito CVA269/CVA3 en el mismo sentido."
+ },
+ "cronologia": [
+  {
+   "hora": "09:30",
+   "evento": "Cuadro de marcha del BAX80: paso previsto por la estación de Sant Vicenç de Calders."
+  },
+  {
+   "hora": "11:26",
+   "evento": "11:26:26 horas: el BAX80 pasa la baliza de la señal de entrada E2 (PK 24+038) a 18 km/h, con la señal en indicación de anuncio de parada."
+  },
+  {
+   "hora": "11:28",
+   "evento": "11:28:00 horas: el tren 28026 ya ha efectuado salida desde vía 7 hacia El Vendrell y ocupa CVA3; el BAX80 ha rebasado E2 y la señal S2/2 se encuentra en indicación de parada."
+  },
+  {
+   "hora": "11:28",
+   "evento": "11:28:23 horas: el tren 28026 pasa por la aguja 3 tras salir de vía 7."
+  },
+  {
+   "hora": "11:29",
+   "evento": "11:29:06 horas: la señal S2/2 pasa a indicación de anuncio de parada; el BAX80 tiene itinerario establecido hasta S2/1B, que está en indicación de parada; el 28026 circula por CV269."
+  },
+  {
+   "hora": "11:29",
+   "evento": "11:29:36 horas: el BAX80 rebasa la señal S2/2 en indicación de anuncio de parada y se acerca a S2/1B ocupando los circuitos de las agujas 47, 41 y 39."
+  },
+  {
+   "hora": "11:29",
+   "evento": "11:29:49 horas: el BAX80 pasa la baliza de la señal S2/2 (PK 25+000) a 22 km/h, con la señal en indicación de anuncio de parada."
+  },
+  {
+   "hora": "11:30",
+   "evento": "11:30:02 horas: el BAX80 ocupa el circuito de vía anterior a S2/1B, que sigue en indicación de parada; el 28026 libera CV269 y ocupa CVA269."
+  },
+  {
+   "hora": "11:30",
+   "evento": "11:30:18 horas: el BAX80 rebasa la baliza de pie de la señal S2/1B en indicación de parada a 22 km/h, ocupa CVA3 y el ASFA activa el freno de emergencia; se produce el conato de colisión con el 28026."
+  },
+  {
+   "hora": "11:31",
+   "evento": "11:31:04 horas: el BAX80 queda detenido tras recorrer 65 metros desde la activación del ASFA, sin llegar a talonar la aguja 17."
+  },
+  {
+   "hora": "11:33",
+   "evento": "11:33:54 horas: el maquinista del BAX80 llama al CTC por canal incorrecto e informa de que el cambio siguiente estaba mal dispuesto o de que había rebasado la señal."
+  },
+  {
+   "hora": "11:35",
+   "evento": "11:35:20 horas: el maquinista informa al jefe de circulación de Sant Vicenç de Calders; el CTC confirma que la señal S2/1B permaneció en indicación de parada en todo momento."
+  },
+  {
+   "hora": "12:48",
+   "evento": "Tras autorizarse la maniobra de retroceso, el BAX80 queda estacionado en vía 2 y su prolongación 2A."
+  },
+  {
+   "hora": "12:58",
+   "evento": "Finaliza la interceptación de la vía 2; la interceptación duró 88 minutos."
+  },
+  {
+   "hora": "13:19",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "15:34",
+   "evento": "El BAX80 sale de la estación tras efectuar maniobra para situarse ante la señal S2/2."
+  },
+  {
+   "hora": null,
+   "evento": "2014-09-23: el Pleno de la CIAF acuerda abrir la investigación del suceso."
+  },
+  {
+   "hora": null,
+   "evento": "2015-04-28: fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "BAX80",
+   "tipo": "tren de mercancías; 25 vehículos, 100 ejes, 1301 toneladas, 498 metros; tipo 100N; locomotoras 957102690469 y 957102690550; vagón 327145422173 en posición 25 transportaba carburo cálcico",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales."
+  },
+  {
+   "numero": "28026",
+   "tipo": "tren de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren de mercancías BAX80",
+   "implicacion": "Condujo el BAX80; según la investigación, cometió un error de percepción de la indicación de la señal S2/1B, posiblemente por falta de atención, y rebasó la señal en indicación de parada. Incumplió los artículos 217.1 y 320.4 del Reglamento General de Circulación. Declaró que no hubo anomalías en freno, radiotelefonía o dispositivos, que iba solo en cabina y que no usaba teléfono móvil. Prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Jefe del CTC de Barcelona",
+   "implicacion": "Estableció los itinerarios en la estación, observó ocupación intempestiva posterior a la señal S2/1B y mantuvo comunicación con el maquinista. Informó al maquinista de que la señal S2/1B había permanecido en indicación de parada."
+  },
+  {
+   "rol": "Jefe de circulación de Sant Vicenç de Calders",
+   "implicacion": "Recibió la llamada del maquinista del BAX80 tras el rebase de la señal."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S2/1B (PK 25+379) alta de tres focos, con foco para rebases autorizados y buena visibilidad; estaba en indicación de parada. Señal de entrada E2 (PK 24+038) y señal S2/2 (PK 25+000) en indicación de anuncio de parada. Señal indicadora de aguja IA3 encendida. ASFA analógico activó el freno de emergencia.",
+  "tipo_via": "Estación con 18 vías electrificadas y 2 sin electrificar. En el suceso intervinieron vía 2, vía 3B, circuitos CV2, CV269, CVA3 y CVA269, y agujas 17, 3, 1, 49, 47, 41 y 39.",
+  "velocidad_maxima": "60 km/h en el lugar del incidente (tramo PK 24,1 a PK 26,0); 140 km/h al paso por Sant Vicenç de Calders; 100 km/h para el tren tipo 100N; no exceder 30 km/h por los cambios.",
+  "ancho": null,
+  "electrificacion": "18 vías electrificadas y 2 sin electrificar.",
+  "estado_via": "Las instalaciones técnicas funcionaron correctamente. La vía 2 quedó interceptada desde las 11:30 hasta las 12:58 horas.",
+  "otro": "Estación en mando centralizado desde el CTC de Barcelona. Circulación por línea 200 al amparo de BAU con CTC por el lado Roda de Bará y de BAB con CTC por el resto. Radiotelefonía en modalidad A. Media semanal de 534 circulaciones en el tramo Sant Vicenç de Calders – L’Arboç: 2 larga distancia, 2 media distancia, 290 cercanías, 235 mercancías y 5 de servicio."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 957102690469 y 957102690550; tren tipo 100N; vagón 327145422173 en posición 25.",
+  "averia": "No se constataron averías. El material rodante funcionó correctamente. El ASFA aplicó freno de emergencia tras el rebase de la señal en parada.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y no existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren BAX80, consistente en un error de percepción de la indicación de la señal S2/1B, posiblemente debido a una falta de atención en la conducción, que provocó el incumplimiento de la orden de parada y el rebase indebido de la señal.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños a la infraestructura ni al material rodante.",
+  "afectacion_servicio": "Vía 2 interceptada desde las 11:30 hasta las 12:58 horas; duración de la interceptación: 88 minutos. Anormalidad en el tráfico ferroviario de 88 minutos. Retrasos en 21 trenes, con una pérdida total de 444 minutos. El BAX80 sufrió un retraso de 364 minutos. La R4 circuló entre El Vendrell y Sant Vicenç de Calders por vía I banalizada; la RT2 pasó por vía 5 tras suspenderse los trabajos; la R2 Sud rotó sobre vía 4; circulaciones hacia Tarragona y Cunit se efectuaron por vías 4 y 6; trenes de mercancías 83583 y 83556 fueron estacionados en El Vendrell y Torredembarra. No fue necesario activar el plan de emergencia externo ni establecer plan alternativo de transporte."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "rebase señal",
+  "señal de parada",
+  "conato de colisión",
+  "fallo humano",
+  "error de percepción",
+  "falta de atención",
+  "asfa",
+  "estación sant vicenç de calders",
+  "tren de mercancías",
+  "tren de viajeros",
+  "renfe operadora",
+  "carburo cálcico"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 10 07 2014 150428-140710-IF-CIAF"
+}

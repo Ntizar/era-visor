@@ -1,0 +1,179 @@
+{
+ "titulo_normalizado": "Escape y colisión de castillete autopropulsado de electrificación entre Pitis y Pinar de las Rozas por fallo de enganche y freno",
+ "idioma_original": "es",
+ "resumen": "El 27 de febrero de 2013 a las 04:10 horas, en la línea 100 Hendaya–Madrid Chamartín, entre las estaciones de Pitis y Pinar de las Rozas, un castillete autopropulsado de electrificación se soltó de la plataforma del tren de trabajos T3 al no haberse verificado correctamente el cierre del enganche ni la conexión de las mangueras del freno de emergencia. El castillete descendió a la deriva unos 3.400 metros por una pendiente del 16,80‰ hasta colisionar con el tren de trabajos T1, descarrilándolo. Se produjeron cuatro heridos leves. La causa fue un fallo humano del personal de la empresa contratista Elecnor.",
+ "hechos": "El día 27 de febrero de 2013, en plena vía entre las estaciones de Pitis y Pinar de las Rozas (línea 100 Hendaya–Madrid Chamartín), se realizaban simultáneamente trabajos de sustitución de carril (empresa Guinovart-Ferrovial, PK 15+600) y de electrificación (empresa Elecnor, PK 18+100), ambos contratistas de Adif, bajo interrupción de circulación. Para los trabajos de electrificación se expidió el tren T3, compuesto por una dresina, una plataforma porta-bobinas y un castillete autopropulsado. Antes de iniciar los trabajos, el castillete fue desenganchado para operar como máquina independiente. Al finalizar, el personal de Elecnor no comprobó correctamente el cierre del enganche de la barra de tracción del castillete a la plataforma y, aunque se conectaron las tomas de aire de seguridad, no se realizó la apertura de las válvulas del freno de emergencia, dándose el enganche por correcto.\n\nEl tren T3 inició la marcha hacia Pinar de las Rozas, pero poco antes de llegar se detuvo porque el personal recordó que había olvidado herramienta en la zona de trabajo (PK 18+100). Tras ser autorizados, retrocedieron y, cuando se encontraban entre las señales E7 y S2-10 (PK 19+800), el castillete se soltó de la plataforma. La fuerte pendiente de la vía (16,80‰) permitió su movimiento descontrolado en sentido hacia Pitis, sin que actuara el frenado de emergencia. El castillete recorrió aproximadamente 3.400 metros a la deriva por vía 1 hasta colisionar a las 04:10 horas con el tren T1 en el PK 15+600, descarrilándolo. Cuatro agentes de la contrata que no habían tenido tiempo de abandonar la vía resultaron con golpes y contusiones leves.\n\nEl encargado de los trabajos de electrificación de Adif alertó inmediatamente al puesto de mando de Madrid Chamartín. Los heridos fueron evacuados en la vagoneta de electrificación a Pinar de las Rozas y trasladados al Hospital de Puerta de Hierro. La maquinaria fue apartada en Las Matas y Pinar de las Rozas, restableciéndose la circulación por vía 1 a las 10:06 horas sin limitaciones.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Entre Pitis y Pinar de las Rozas",
+  "pk": "15+600 (impacto); desenganche en PK 19+800; trabajos electrificación PK 18+100",
+  "linea": "100 Hendaya – Madrid Chamartín",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Tramo Pitis-El Tejar, vía doble electrificada de ancho convencional, fuerte pendiente (hasta 18,00‰). Impacto en PK 15+600; desenganche entre señales E7 y S2-10 (PK 19+800)."
+ },
+ "cronologia": [
+  {
+   "hora": "00:29",
+   "evento": "Solicitud de intervalo programado entre Pinar de las Rozas y Pitis por vía 1 hasta las 4:30 (telefonema 519)"
+  },
+  {
+   "hora": "00:35",
+   "evento": "CTC Madrid Chamartín concede intervalo programado a encargado de trabajos de infraestructura (telefonema 947)"
+  },
+  {
+   "hora": "00:36",
+   "evento": "CTC comunica al maquinista del tren T1 que circulará al amparo de bloqueo por ocupación entre Pinar y Pitis (telefonema 948)"
+  },
+  {
+   "hora": "00:50",
+   "evento": "Responsable de trabajos de electrificación solicita a CTC no expedir circulaciones ni maniobrar con tracción eléctrica por vía 1 entre Pitis y Pinar (telefonema 145)"
+  },
+  {
+   "hora": "00:55",
+   "evento": "CTC manifiesta conformidad al responsable de trabajos de electrificación (telefonema 112)"
+  },
+  {
+   "hora": "00:59",
+   "evento": "CTC comunica al maquinista del tren T3 que circulará al amparo de bloqueo por ocupación entre Pinar y Pitis (telefonema 949)"
+  },
+  {
+   "hora": "03:45",
+   "evento": "Encargado de trabajos de vía recibe llamada del responsable de electrificación alertando del escape del castillete"
+  },
+  {
+   "hora": "03:49",
+   "evento": "Se produce el desenganche y deriva del castillete entre las señales E7 y S2-10 (PK 19+800)"
+  },
+  {
+   "hora": "03:52:40",
+   "evento": "Responsable de trabajos de electrificación comunica el suceso al CTC de Madrid Chamartín"
+  },
+  {
+   "hora": "04:10",
+   "evento": "El castillete, tras recorrer ~3.400 m, colisiona con el tren T1 en PK 15+600. Descarrilamiento de T1 y 4 heridos leves"
+  },
+  {
+   "hora": "08:33",
+   "evento": "Maquinaria de electrificación (vagoneta, plataforma y castillete) queda apartada en la estación de Las Matas"
+  },
+  {
+   "hora": "10:01",
+   "evento": "Dresina de los trabajos de vía queda apartada en Las Matas tras ser remolcada"
+  },
+  {
+   "hora": "10:06",
+   "evento": "Las 2 plataformas de trabajos de vía quedan apartadas en Pinar de las Rozas; se restablece la circulación por vía 1 sin limitaciones"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "T1",
+   "tipo": "tren de trabajos (sustitución de carril)",
+   "operador": "Guinovart-Ferrovial (contratista de Adif)",
+   "danos": "Descarrilamiento de plataformas; pequeños daños en material rodante y de trabajo (motoclavadoras y bandejas de pequeño material)"
+  },
+  {
+   "numero": "T3",
+   "tipo": "tren de trabajos (electrificación)",
+   "operador": "Elecnor (contratista de Adif)",
+   "danos": "Pequeños daños en material rodante y de trabajo"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Encargado de los trabajos de vía (Adif)",
+   "implicacion": "Recibió aviso del escape, alertó a operarios para que se retiraran de la vía, presenció el impacto"
+  },
+  {
+   "rol": "Encargado de los trabajos de electrificación (Adif)",
+   "implicacion": "Llamó al puesto de mando alertando del suceso; declaró el 5 de marzo de 2013"
+  },
+  {
+   "rol": "Operador de maquinaria de infraestructura (Elecnor) - MF",
+   "implicacion": "Personal implicado en el enganche del castillete"
+  },
+  {
+   "rol": "Personal de manipulación del castillete autopropulsado (Elecnor) - MF, FVC, IVT, SRR",
+   "implicacion": "Realizaron el enganche incorrecto del castillete y la no apertura de válvulas de freno"
+  },
+  {
+   "rol": "Piloto de seguridad (Elecnor) - FBD",
+   "implicacion": "Personal implicado en los trabajos de electrificación"
+  },
+  {
+   "rol": "Maquinista tren T1 (Adif)",
+   "implicacion": "Recibió autorización de circulación por CTC"
+  },
+  {
+   "rol": "Maquinista tren T3 (Adif)",
+   "implicacion": "Recibió autorización de circulación por CTC"
+  },
+  {
+   "rol": "Jefe CTC Madrid Chamartín",
+   "implicacion": "Concedió intervalos, estableció protecciones e impidió itinerarios por vía 1"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático en vía doble banalizada (B.A.B.) y Control de Tráfico Centralizado (C.T.C.). Señales E7 y S2-10 en la zona del desenganche. Bloqueo de trabajos por telefonema.",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": null,
+  "ancho": "Ancho convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "En obras (sustitución de carril y electrificación); vía 1 interrumpida para circulación",
+  "otro": "Pendiente fuerte entre 10,70‰ y 18,00‰ (16,80‰ en zona de desenganche). Media semanal de circulaciones del tramo Pitis-El Tejar: 1.163 (114 larga distancia, 340 media distancia, 1.098 cercanías, 99 mercancías, 12 servicio). Radiotelefonía analógica."
+ },
+ "material_rodante": {
+  "series": "Dresina T1: 927160110015; Plataformas T1: 927160150185 y 9271160150177. Dresina T3: 947150222182; Plataforma T3: 947157220296; Castillete autopropulsado: 947150221119. Todos autorizados a circular en el archivo patrón de vehículos.",
+  "averia": "Enganche incorrecto de la barra de tracción del castillete a la plataforma. No actuación del freno de emergencia por no apertura de válvulas o no conexión de mangueras. Tras el accidente las mangueras no presentaban daño, lo que puede indicar que no se conectaron.",
+  "mantenimiento": "No se describe deficiencia de mantenimiento; los vehículos disponían de autorización para circular."
+ },
+ "clima": "Noche (oscuridad). No se menciona otra condición meteorológica.",
+ "causas": {
+  "directa": "Fallo humano: incorrecto enganche del castillete a la plataforma arrastrada por la dresina y no conexión adecuada de las mangueras del freno de emergencia (no apertura de válvulas).",
+  "contribuyentes": [
+   "No se comprobó correctamente el cierre del enganche de la barra de tracción del castillete a la plataforma",
+   "Se dieron por correctas las operaciones de enganche sin verificación efectiva",
+   "Fuerte pendiente de la vía (16,80‰) que permitió el movimiento descontrolado del castillete",
+   "El frenado de emergencia no actuó al no estar correctamente conectadas las mangueras o abiertas las válvulas",
+   "Parada y retroceso del tren T3 por olvido de herramienta, situación no contemplada en el enganche"
+  ],
+  "sistemicas": [
+   "Falta de un responsable designado en la contrata que verifique las correctas operaciones con el material móvil antes de la circulación",
+   "Ausencia de procedimiento de verificación cruzada del enganche y conexión de frenos tras trabajos"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 4,
+  "danos_materiales": "Descarrilamiento del tren T1 (plataformas). Pequeños daños en material rodante y de trabajo (motoclavadoras y bandejas de pequeño material). Infraestructura: sin daños.",
+  "afectacion_servicio": "Interrupción de la circulación por vía 1 desde las 04:10 hasta las 10:06 horas (aproximadamente 5 horas 56 minutos). Restablecimiento sin limitaciones a las 10:06."
+ },
+ "lecciones": [
+  "La verificación del enganche y de la conexión de frenos de emergencia debe ser un punto crítico tras la finalización de trabajos con material móvil autónomo",
+  "La existencia de fuertes pendientes en el trazado multiplica el riesgo en caso de fallo de enganche o freno",
+  "Las maniobras de retroceso por olvido de material pueden introducir situaciones no previstas en los procedimientos de enganche"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "El encargado de trabajos de Adif deberá cerciorarse y requerir que, entre el personal de la contrata que realiza trabajos de mantenimiento, hay un responsable de verificar las correctas operaciones con el material móvil que permita una circulación segura.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "castillete autopropulsado",
+  "escape de material",
+  "fallo de enganche",
+  "freno de emergencia",
+  "trabajos de electrificación",
+  "pendiente",
+  "descarrilamiento",
+  "tren de trabajos",
+  "contratista",
+  "adif",
+  "elecnor",
+  "línea 100"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_270213_291013_CIAF"
+}

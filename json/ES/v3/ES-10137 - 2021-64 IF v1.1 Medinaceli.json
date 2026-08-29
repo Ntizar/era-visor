@@ -1,0 +1,202 @@
+{
+ "titulo_normalizado": "Fallo de cargamento por vuelco de contenedores HC vacíos en plena vía entre Torralba y Medinaceli (Línea 200, Soria) por rachas de viento y sistema de anclaje insuficiente",
+ "idioma_original": "es",
+ "resumen": "El 11 de agosto de 2021 a las 22:15, el tren de mercancías 90666 de LCR, que circulaba entre Azuqueca-Puerto Seco y Zaragoza-Corbera Alta, perdió 5 contenedores vacíos tipo HC de 40 pies entre los p.k. 161+300 y 161+500 de la vía 2 de la línea 200, en el tramo entre Torralba y Medinaceli (Soria). Los contenedores cayeron al terraplén de la vía contraria (vía 1) debido a la ineficiente sujeción mediante esquineros frente a fuertes rachas de viento de una tormenta puntual. Uno de los contenedores derribó un poste de electrificación, provocando la descompensación de la catenaria de la vía 1, que causó un enganchón del pantógrafo del tren 55714/55715 de Renfe Mercancías. No hubo daños personales. La interrupción parcial de la vía 1 duró 18 horas y 41 minutos.",
+ "hechos": "El tren 90666 de LCR, compuesto por la locomotora 333382 y 31 vagones con 33 contenedores vacíos tipo HC de 40 pies (685 t, 507 m), partió de Azuqueca-Puerto Seco a las 20:54 del 11/08/2021 con destino Zaragoza-Corbera Alta, bajo la Autorización de Transporte Especial ATE 105-2/21. A las 22:02 pasó por Sigüenza donde el maquinista observó una fuerte tormenta que ganaba intensidad. A las 22:15, circulando por vía 2 entre Torralba y Medinaceli, una racha de viento con componente vertical ascendente provocó el vuelco de 5 contenedores sujetos únicamente por esquineros (sin clavijas ISO). Los contenedores cayeron en secuencia: primero el de posición 01 (p.k. 161+300), luego los de posiciones 03 y 04 (poco antes del 161+500), y finalmente los de posiciones 05 y 11 (70 m más adelante). Todos traspasaron la vía 1 y quedaron en su terraplén, sin interceptar el gálibo. Uno golpeó un poste de electrificación derribándolo y descompensando la catenaria. El maquinista no se percató y continuó a destino.\n\nA las 00:42 del 12/08/2021, el tren 55714/55715 de Renfe Mercancías, circulando en sentido contrario por vía 1, sufrió un enganchón del pantógrafo trasero con la catenaria en el p.k. 161+500; su maquinista dio aviso. A las 01:40, el tren 90614 (vía 2, marcha a la vista) informó de la catenaria en el suelo, un pantógrafo caído y varios contenedores en los márgenes. A las 02:58, la vagoneta de electrificación de Arcos de Jalón confirmó 5 contenedores y el poste derribado, identificando uno como del tren 90666 (ya en destino). Se activó el plan de emergencias interno de ADIF; no fue preciso el externo.\n\nLos vagones afectados (serie Kglps, propiedad de RAXELL RAIL, alquilados por LCR) habían sido transformados en 2018 por SIDERÚRGICA REQUENA a partir de vagones plataforma de 1966, instalando esquineros como único medio de sujeción, con holguras de 42-62 mm (ancho) y 38-58 mm (largo) que no impedían el movimiento vertical. Un contenedor sujeto con clavijas ISO entre vagones siniestrados permaneció intacto. El parte MeteoroH24 de ADIF no contenía alertas para la línea 200, aunque la estación de Arcos de Jalón (20 km al norte) registró 86 km/h a las 22:30, y la línea 202 sí tenía alerta nivel 1 (91-100 km/h).",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Entre Torralba y Medinaceli",
+  "pk": "161+300 a 161+500",
+  "linea": "200 Madrid Chamartín - Barcelona França",
+  "provincia": "Soria",
+  "descripcion_lugar": "Vía 2, en curva a izquierdas, sobre terraplén de unos 5 m de altura, perpendicular a un valle con orientación norte-sur, con paso inferior para ganado y flujos de agua. Término municipal de Medinaceli."
+ },
+ "cronologia": [
+  {
+   "hora": "2021-08-11T20:54",
+   "evento": "El tren 90666 de LCR inicia marcha desde Azuqueca-Puerto Seco con 31 vagones y 33 contenedores vacíos HC"
+  },
+  {
+   "hora": "2021-08-11T22:02",
+   "evento": "Paso por Sigüenza; el maquinista observa fuerte tormenta que gana intensidad"
+  },
+  {
+   "hora": "2021-08-11T22:15",
+   "evento": "Descomposición de cargamento: 5 contenedores caen entre p.k. 161+300 y 161+500 de vía 2; uno derriba poste de electrificación de vía 1"
+  },
+  {
+   "hora": "2021-08-11T22:30",
+   "evento": "Estación meteorológica de Arcos de Jalón registra racha máxima de 86 km/h"
+  },
+  {
+   "hora": "2021-08-12T00:42",
+   "evento": "El tren 55714/55715 de Renfe Mercancías sufre enganchón del pantógrafo trasero con la catenaria en p.k. 161+500 (vía 1); el maquinista da aviso"
+  },
+  {
+   "hora": "2021-08-12T01:40",
+   "evento": "Tren 90614 (vía 2, marcha a la vista) informa: catenaria de vía 1 en el suelo, pantógrafo caído, contenedores en márgenes"
+  },
+  {
+   "hora": "2021-08-12T02:05",
+   "evento": "Maquinista del tren 55715 confirma carga correcta; se comprueban trenes 51502 y 90680 (correctos)"
+  },
+  {
+   "hora": "2021-08-12T02:58",
+   "evento": "Vagoneta de electrificación de Arcos de Jalón confirma 5 contenedores y poste derribado; se identifica contenedor del tren 90666; se activa plan de emergencias interno de ADIF"
+  },
+  {
+   "hora": "2021-08-12T11:48",
+   "evento": "ADIF notifica el suceso a la CIAF por correo del delegado de seguridad de LCR"
+  },
+  {
+   "hora": "2021-09-16",
+   "evento": "Pleno CIAF nº 154 acuerda investigación formal"
+  },
+  {
+   "hora": "2022-06-30",
+   "evento": "Firma del informe final IF 64/2021 en Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "90666",
+   "tipo": "Mercancías (portacontenedores)",
+   "operador": "LCR (Low Cost Rail)",
+   "danos": "Pérdida de 5 contenedores vacíos HC; locomotora 333382; 31 vagones serie Kglps (propiedad RAXELL RAIL, alquilados por LCR); 685 t, 507 m; ATE 105-2/21"
+  },
+  {
+   "numero": "55714 / 55715",
+   "tipo": "Mercancías",
+   "operador": "Renfe Mercancías",
+   "danos": "Enganchón del pantógrafo trasero con la catenaria en p.k. 161+500; daños por enganchón de catenaria"
+  },
+  {
+   "numero": "90614",
+   "tipo": "Mercancías",
+   "operador": null,
+   "danos": "Sin daños; circuló con marcha a la vista y reportó la situación"
+  },
+  {
+   "numero": "51502",
+   "tipo": "Mercancías",
+   "operador": null,
+   "danos": "Sin daños; carga comprobada correcta"
+  },
+  {
+   "numero": "90680",
+   "tipo": "Mercancías",
+   "operador": null,
+   "danos": "Sin daños; carga comprobada correcta"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 90666 (LCR)",
+   "implicacion": "Único testigo del lugar del suceso; no se percató de la pérdida de contenedores por condiciones de visibilidad y tormenta; continuó marcha a destino sin detenerse"
+  },
+  {
+   "rol": "ROC del PSA (Puerto Seco de Azuqueca)",
+   "implicacion": "Autorizó operaciones de carga y supervisó el tren 90666 para otorgar el tren dispuesto; subcontratado por LCR; no dispuso de información sobre tipo de vagón ni contenido de contenedores"
+  },
+  {
+   "rol": "Maquinista del tren 55714/55715 (Renfe Mercancías)",
+   "implicacion": "Sufrió enganchón del pantógrafo con la catenaria; dio aviso de lo sucedido"
+  },
+  {
+   "rol": "Maquinista del tren 90614",
+   "implicacion": "Informó de la catenaria en el suelo y contenedores en márgenes"
+  },
+  {
+   "rol": "RC del CTC",
+   "implicacion": "Solicitó reconocimientos de carga a trenes implicados"
+  },
+  {
+   "rol": "Personal de Vías y Obras de ADIF",
+   "implicacion": "Reconocimiento de daños en vía; no reportó daños de consideración"
+  },
+  {
+   "rol": "Personal de electrificación de Arcos de Jalón",
+   "implicacion": "Confirmó 5 contenedores y poste derribado; facilitó numeración de contenedor"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "BLAD (Bloqueo de Liberación Automática de vía Doble) con CTC; ASFA Digital en toda la línea; mando centralizado en Torralba y Medinaceli",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": null,
+  "ancho": "Ancho convencional (RFIG)",
+  "electrificacion": "Electrificada; poste de electrificación de vía 1 derribado por contenedor, descompensación de catenaria",
+  "estado_via": "Curva a izquierdas sobre terraplén de ~5 m, perpendicular a valle N-S, con paso inferior; daños menores en balasto y alguna traviesa de hormigón; sin trabajos ni restricciones en el momento del suceso",
+  "otro": "Radiotelefonía tren-tierra canal 69; riesgo atmosférico por viento catalogado nivel bajo para el tramo Torralba-Medinaceli (alerta nivel 1 a partir de 91 km/h); parte MeteoroH24 sin alertas para línea 200 ese día; línea 202 (Torralba-Soria) sí tenía alerta nivel 1"
+ },
+ "material_rodante": {
+  "series": "Vagones serie Kglps (plataforma de dos ejes, transformados); locomotora 333382; contenedores HC de 40 pies (2,895 m altura, 4 t peso vacío)",
+  "averia": "Esquineros como único sistema de sujeción (sin clavijas ISO) que no impedían el movimiento vertical de la carga; holguras 42-62 mm ancho y 38-58 mm largo (vs. 6 mm necesarios para impedir vuelco); piso de madera no retirado que generaba componente vertical ascendente; vagón 417133910816 con medida 5 mm superior al máximo del constructor; restos de balasto detectados en plataformas",
+  "mantenimiento": "ITM-0000.604.00 (RAXELL FILIUX): no contemplaba comprobación de tolerancias entre esquineros en planes de inspección; consideraba unión solidaria sin deformación; transformación realizada en 2018 por SIDERÚRGICA REQUENA (33 vagones) sobre modelo TRANSFESA años 70; EEM: SIDERÚRGICA REQUENA hasta 12/07/2019, luego RAXELL RAIL; ATE 105-2/21 tramitada para series Lgs/Sgs con holguras de 10 mm (no actualizada a Kglps con 62 mm)"
+ },
+ "clima": "Tormenta puntual con fuertes vientos (rachas de hasta 86 km/h registradas en Arcos de Jalón a las 22:30, a más de 20 km), abundante aparato eléctrico y precipitaciones que dificultaban la visibilidad; viento perpendicular a la trayectoria del tren; parte MeteoroH24 de ADIF sin alertas para línea 200",
+ "causas": {
+  "directa": "Utilización de un sistema de anclaje (esquineros) que no impedía el movimiento vertical de la carga, combinado con la formación de un fenómeno meteorológico puntual con rachas de viento que generaron una fuerza vertical ascendente sobre los contenedores",
+  "contribuyentes": [
+   "No seguimiento de las directrices de carga de la UIC (IG 8 de LCR): para contenedores de 984 kg/3 m se requería al menos un elemento adicional (teleros o eslingas)",
+   "Falta de consideración del riesgo de vuelco por viento lateral durante la transformación de los vagones",
+   "Características físicas de los contenedores: tipo HC (mayor altura = mayor superficie expuesta) y vacíos (4 t, escaso peso para contrarrestar fuerzas de sustentación)",
+   "Configuración física de la línea: terraplén de 5 m perpendicular a valle N-S que genera efecto tubo y componente vertical del viento; curva a izquierdas con peralte que inclina los contenedores hacia el interior y reduce el esfuerzo de viento necesario para el vuelco",
+   "Piso de madera no retirado durante la transformación, que encajonaba aire y generaba componente vertical ascendente una vez iniciado el vuelco",
+   "ATE 105-2/21 tramitada erróneamente para series Lgs/Sgs con holguras de 10 mm, no actualizada a las holguras reales de Kglps (62 mm)"
+  ],
+  "sistemicas": [
+   "Falta de consideración de los riesgos de operación en los análisis de riesgo de los procedimientos de transformación de material ferroviario (expediente EM.06.18-RAXELL / A.R.06.18-RAXELL no evaluó vuelco por viento)",
+   "Ausencia de norma general obligatoria de cargamento en España (IG-66 derogada); dependencia de directrices UIC no traducidas y de actualización continua",
+   "Umbrales de alerta meteorológica de ADIF sin tolerancias; mediciones a más de 20 km del punto; valores próximos a umbrales (86 vs. 90 km/h) no desencadenan restricciones",
+   "Carencia de procedimientos de desarrollo para el otorgamiento del tren dispuesto por los ROC",
+   "ITM no contempla comprobación periódica de tolerancias entre esquineros"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en balasto y alguna traviesa de hormigón (sin consideración); poste de electrificación de vía 1 derribado y catenaria descompensada (requirió desmontaje, retirada de contenedores y reparación); daños al tren 55714/55715 por enganchón de catenaria; pérdida de 5 contenedores vacíos; retirada preventiva de toda la flota Kglps con esquineros por RAXELL RAIL (previsión de desguace)",
+  "afectacion_servicio": "Interrupción parcial de la vía 1 durante 18 horas y 41 minutos (reparación de catenaria); retrasos acumulados: 8 min en trenes de viajeros y 4 h 51 min en trenes de mercancías; gálibo de libre paso no interceptado en ninguna vía"
+ },
+ "lecciones": [
+  "Los esquineros no aseguran la carga frente al vuelco por componentes de viento lateral; solo impiden desplazamiento horizontal",
+  "Los sistemas de anclaje homologados que impiden el movimiento vertical (clavijas ISO) demostraron ser suficientes: el contenedor sujeto con ISO entre vagones siniestrados permaneció intacto",
+  "La configuración en terraplén perpendicular a un valle genera efecto tubo y componente vertical del viento que favorece el levantamiento de cargas",
+  "El peralte en curva lenta produce exceso de peralte (componente transversal no compensada) e inclinación previa que reduce el viento necesario para el vuelco",
+  "El piso de madera en vagones plataforma puede encajonar aire y generar fuerza ascendente adicional",
+  "Las directrices UIC exigen elementos adicionales (teleros/eslingas) para contenedores ligeros sin clavijas ISO",
+  "Los análisis de riesgo de transformación de material rodante deben contemplar los riesgos de operación, no solo los de resistencia estructural",
+  "Las ATE deben reflejar las holguras reales de los elementos de sujeción, no solo tolerancias de anclajes ISO"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Informar a todas las EEFF de mercancías de que los vagones no dotados de clavijas ISO deben tener en cuenta que sin esos elementos no se asegura la estabilidad de los contenedores vacíos frente al vuelco por componentes de viento lateral, siendo necesaria la adopción de medidas adicionales de sujeción de la carga.",
+   "destinatario": "AESF (implementador final: EEFF de transporte de mercancías)"
+  },
+  {
+   "texto": "Supervisar que, dentro de los expedientes de modificación de material ferroviario, se contemplen todos los riesgos de operación, y en su caso, a quién son exportados los que queden sin mitigar.",
+   "destinatario": "AESF (implementador final: AESF)"
+  },
+  {
+   "texto": "Elaborar y distribuir las normas de aplicación al cargue, acondicionamiento y sujeción de las mercancías, con el objetivo de garantizar que son aplicadas por los Responsables de Operaciones de Carga, y que la EF pueda verificar que con dicha normativa se alcanzan los requisitos de seguridad del cargamento.",
+   "destinatario": "AESF (implementador final: EEFF de transporte de mercancías)"
+  }
+ ],
+ "tags": [
+  "descomposición de cargamento",
+  "vuelco de contenedores",
+  "esquineros",
+  "viento lateral",
+  "contenedores HC vacíos",
+  "vagones Kglps",
+  "transformación de material rodante",
+  "ATE 105-2/21",
+  "directrices UIC",
+  "clavijas ISO",
+  "terraplén",
+  "catenaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10137 - 2021-64 IF v1.1 Medinaceli"
+}

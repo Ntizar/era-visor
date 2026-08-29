@@ -1,0 +1,119 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo en paso a nivel de La Selva del Camp (Tarragona)",
+ "idioma_original": "es",
+ "resumen": "El 21 de noviembre de 2006, a las 16:24, la máquina aislada 250032 del tren de mercancías TC569 de RENFE arrolló un vehículo en el paso a nivel de clase A del P.K. 77,930 de la línea Lérida-Tarragona, en La Selva del Camp (Tarragona). Los dos ocupantes del SEAT-Terra T-3039-AC fallecieron en el acto. El tren circulaba a 100 km/h, siendo la velocidad máxima permitida de 140 km/h. El accidente fue calificado como grave y produjo 216 minutos de retrasos acumulados.",
+ "hechos": "El tren de mercancías nº TC569, formado por la máquina aislada 250032 de RENFE, procedente de Tarragona Clasificación y con destino Tamarite, circulaba por la línea Lérida-Tarragona en el trayecto Reus-Alcover. A las 16:24 del 21 de noviembre de 2006 detuvo su marcha por arrollar a un vehículo en el paso a nivel de clase A del P.K. 77,930, en el municipio de La Selva del Camp; la locomotora quedó detenida en el P.K. 77,300.\n\nEl vehículo era un SEAT-Terra con matrícula T-3039-AC. Sus dos ocupantes, un varón y una mujer, fallecieron en el acto. Según la declaración del maquinista, al ver que un coche cruzaba la vía de derecha a izquierda hizo uso del silbato; al pasar el primer carril el coche se detuvo con la parte delantera dentro de la caja de la vía, y pese a accionar la seta de emergencia se produjo el impacto, saliendo el vehículo lanzado fuera de la vía unos 35 metros a la derecha.\n\nLa locomotora circulaba a 100 km/h, siendo la velocidad máxima permitida de 140 km/h. La distancia recorrida desde el inicio de la frenada hasta la detención fue de 767 metros. El paso a nivel estaba protegido únicamente con señales fijas, con señalización vertical del camino incompleta y firme entablonado en defectuoso estado de mantenimiento.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "77,930",
+  "linea": "Lérida-Tarragona",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Paso a nivel de clase A en el P.K. 77,930 de la línea Lérida-Tarragona, trayecto Reus-Alcover, municipio de La Selva del Camp, provincia de Tarragona, en Red Ferroviaria de Interés General administrada por ADIF; tramo en recta con rampa de 4,20 milésimas, fuera de núcleo urbano o semiurbano."
+ },
+ "cronologia": [
+  {
+   "hora": "15:00",
+   "evento": "Inicio de la jornada del maquinista el día del incidente."
+  },
+  {
+   "hora": "16:24",
+   "evento": "El tren TC569 arrolla un vehículo en el paso a nivel del P.K. 77,930 y detiene su marcha; fallecen los dos ocupantes del vehículo."
+  },
+  {
+   "hora": "17:45",
+   "evento": "Prueba de alcoholemia al maquinista, resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "18:50",
+   "evento": "Levantamiento de los cadáveres."
+  },
+  {
+   "hora": "19:08",
+   "evento": "Se reanuda la circulación entre Reus y Alcocer con marcha a la vista por el paso a nivel."
+  },
+  {
+   "hora": "20:10",
+   "evento": "Se reanuda la circulación en condiciones normales."
+  },
+  {
+   "hora": "22:00",
+   "evento": "Finalización prevista de la jornada del maquinista."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "TC569",
+   "tipo": "tren de mercancías (máquina aislada)",
+   "operador": "RENFE",
+   "danos": "Daños en la locomotora pendientes de valorar."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Conducía el tren TC569; prueba de alcoholemia negativa; se encontraba en condiciones aptas y su actuación después del accidente fue correcta."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel protegido únicamente con señales fijas; señalización de carretera con un cartelón de 'Atención al Tren' y un ASPA, en mal estado y no conforme con la Orden Ministerial de 02.08.2001; señalización vertical del camino incompleta.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Tramo en recta con rampa de 4,20 milésimas; firme del paso a nivel entablonado en defectuoso estado de mantenimiento.",
+  "otro": "Bloqueo automático de vía única con CTC; momento de circulación (31,26 x 2) = 63 vehículos/día; no existen actuaciones previstas para el paso a nivel."
+ },
+ "material_rodante": {
+  "series": "250032",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión indebida sin librar el gálibo de la vía por el conductor del vehículo en el paso a nivel.",
+  "contribuyentes": [
+   "El vehículo se detuvo con la parte delantera dentro de la caja de la vía.",
+   "La señalización vertical del camino era incompleta y no cumplía las prescripciones de la Orden Ministerial de 02.08.2001.",
+   "El firme del paso a nivel estaba entablonado en defectuoso estado de mantenimiento."
+  ],
+  "sistemicas": [
+   "Defecto de conservación y adecuación de la señalización del camino, cuya titularidad correspondía al Ayuntamiento de La Selva del Camp.",
+   "Ausencia de actuaciones previstas para el paso a nivel objeto del accidente."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 2,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños en la locomotora pendientes de valorar; el vehículo SEAT-Terra T-3039-AC salió lanzado fuera de la vía unos 35 metros.",
+  "afectacion_servicio": "216 minutos de retrasos acumulados en 8 trenes de mercancías, 3 trenes de Larga Distancia (AVE) y 3 trenes de Media Distancia; circulación reanudada con marcha a la vista a las 19:08 y en condiciones normales a las 20:10."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Comunicar al titular del camino, Ayuntamiento de La Selva del Camp, la adecuación de la señalización vertical del paso a nivel conforme a la Orden Ministerial de 2 de agosto de 2001.",
+   "destinatario": "Ayuntamiento de La Selva del Camp"
+  },
+  {
+   "texto": "Proceder a la renovación del firme del paso a nivel.",
+   "destinatario": "Administrador de la infraestructura (ADIF)"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "clase a",
+  "arrollamiento",
+  "tren de mercancías",
+  "máquina aislada",
+  "invasión indebida",
+  "señalización deficiente",
+  "firme deficiente",
+  "fallecidos",
+  "renfe",
+  "adif",
+  "tarragona"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-211106-020307"
+}

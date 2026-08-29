@@ -1,0 +1,137 @@
+{
+ "titulo_normalizado": "Descarrilamiento de dos trenes en la línea 116 Los Cotos-Cercedilla por mal estado de traviesas de madera, clavazón y balasto, entre Siete Picos y Puerto de Navacerrada (Madrid)",
+ "idioma_original": "es",
+ "resumen": "El 30 de junio de 2011 a las 11:58 h, el tren de viajeros 21907 de Renfe Operadora descarriló sus cuatro bogies en el PK 7+165 de la línea 116 Los Cotos-Cercedilla, entre Siete Picos y Puerto de Navacerrada (Madrid). Para evaluar la situación se envió el tren S1 (442002), que también descarriló de su primer bogie en el PK 7+150. No hubo víctimas personales. La causa fue el fallo técnico de la infraestructura: mal estado de traviesas de madera, clavazón y balasto. Se recomienda a Adif sustituir las traviesas de madera por hormigón.",
+ "hechos": "El día 30 de junio de 2011, a las 11:58 horas, el tren de viajeros 21907 de Renfe Operadora, procedente de Cercedilla y con destino Los Cotos, circulaba en una curva a izquierdas de radio 186 m y rampa de 57 milésimas en el PK 7+165 de la línea 116, entre las estaciones de Siete Picos y Puerto de Navacerrada. A una velocidad de 29 km/h se produjo el descarrilamiento de los cuatro bogies de la composición: el primer y tercer eje del coche primero y las ruedas izquierdas del primer y tercer eje del segundo coche. El maquinista percibió un fuerte golpe y actuó sobre el freno de urgencia, deteniéndose el tren en el PK 7+217.\n\nPara evaluar la situación se envió desde Cercedilla el tren S1 (442002), de la misma empresa y composición, que a las 13:40 horas descarriló de su primer bogie (rueda izquierda) en el PK 7+150, quedando detenido 15 metros detrás del primer tren. Los viajeros y el maquinista (unos 12) fueron evacuados a la estación de Siete Picos y trasladados a Cercedilla en circulación especial.\n\nLa primera huella del descarrilamiento se originó en el inicio de la brida de una junta de carril con rigidizador, en la cara interna del hilo izquierdo. Dicha junta presentaba mala sujeción en la clavazón y sus dos traviesas rajadas. A partir del PK 7+165 se observaron gran cantidad de traviesas rajadas y rotas, clavazón suelta y balasto en mal estado. El servicio se restableció por carretera hasta que la vía quedó expedita a las 08:13 horas del 1 de julio de 2011.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "entre Siete Picos y Puerto de Navacerrada",
+  "pk": "7+165",
+  "linea": "116 Los Cotos a Cercedilla",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Vía única electrificada de ancho métrico, tramo Siete Picos-Puerto de Navacerrada, municipio de Navacerrada. Curva a izquierdas de radio 186 m y rampa de 57 milésimas. Zona de traviesas de madera (PK 4+620 al 8+500). Línea comercial C-9 de cercanías de Madrid (ferrocarril de Cotos), única vía de ancho métrico gestionada por Adif."
+ },
+ "cronologia": [
+  {
+   "hora": "11:58",
+   "evento": "Descarrilamiento del tren 21907 (4 bogies) en PK 7+165. El tren queda detenido en PK 7+217 tras actuación del freno de urgencia."
+  },
+  {
+   "hora": "12:25",
+   "evento": "Sale de Cercedilla la circulación especial CE113/194 (442002) con destino Siete Picos para recoger a los viajeros y trasladarlos a Cercedilla."
+  },
+  {
+   "hora": "12:45",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF vía telefonía móvil."
+  },
+  {
+   "hora": "13:15",
+   "evento": "Sale de Cercedilla el tren S1 (442002) con agentes del taller para evaluar la situación."
+  },
+  {
+   "hora": "13:40",
+   "evento": "El tren S1 descarrila de su primer bogie (rueda izquierda) en PK 7+150, quedando 15 m detrás del tren 21907."
+  },
+  {
+   "hora": "15:05",
+   "evento": "Sale de Cercedilla el tren taller (442001) con personal del camión taller de Fuencarral."
+  },
+  {
+   "hora": "15:30",
+   "evento": "Pruebas de alcoholemia y drogas al maquinista en Cercedilla, resultado negativo."
+  },
+  {
+   "hora": "18:55",
+   "evento": "El tren 21907, tras ser encarrilado, queda apartado en la estación de Puerto de Navacerrada."
+  },
+  {
+   "hora": "08:13",
+   "evento": "Restablecimiento del servicio ferroviario el 01/07/2011; vía expedita."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "21907",
+   "tipo": "tren de viajeros de cercanías, 2 coches, 8 ejes, 74 toneladas, tipo 60 (v.max 60 km/h)",
+   "operador": "Renfe Operadora",
+   "danos": "Golpes en las caras externas de las ruedas. Descarrilamiento de los 4 bogies (primer y tercer eje del coche primero; ruedas izquierdas del primer y tercer eje del segundo coche). Nº UIC: 967194420048."
+  },
+  {
+   "numero": "S1 (442002)",
+   "tipo": "tren de socorro/evaluación, 2 coches, 8 ejes, 74 toneladas, tipo 60 (v.max 60 km/h)",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento del primer bogie (rueda izquierda) en PK 7+150. Golpes en caras externas de las ruedas. Nº UIC: 967194420022."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 21907 y del tren de socorro S1",
+   "implicacion": "Matrícula 9721507. Título B de conducción conforme a Orden FOM/2520/2006, antigüedad en el cargo desde 02/01/2007. Último reciclaje formativo 04/02/2010, último reconocimiento médico y psicotécnico 08/02/2010. Circulaba a 29 km/h (límite 30 km/h). Pruebas de alcoholemia y drogas negativas. Jornada del día 30: 2 h 25 min (1 h 24 min de conducción efectiva). Notificó los hechos al puesto de mando de Madrid Chamartín."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa. No dispone de sistema ASFA. Circulación al amparo de bloqueo telefónico.",
+  "tipo_via": "Vía única electrificada, ancho métrico. Carriles de 45 kg/m en barras de 18 m. Traviesas de hormigón monobloque (PK 0+100 a 4+620 y 8+500 a 18+412) y traviesas de madera (PK 4+620 a 8+500).",
+  "velocidad_maxima": "30 km/h",
+  "ancho": "Ancho métrico",
+  "electrificacion": "Electrificada",
+  "estado_via": "Mal estado: traviesas de madera rajadas y rotas, clavazón suelta, balasto en mal estado por antigüedad y arrastres naturales de la montaña. Junta con rigidizador con mala sujeción en la clavazón. Ancho de vía y peralte dentro de tolerancia antes del punto cero. En 2010 se realizó reapretado general de clavazón (PK 4+620 a 8+400), montaje de rigidizadores en juntas, formación de juntas nuevas, consolidación con espirales Vortok y nivelación manual Jackson.",
+  "otro": "Única vía de ancho métrico gestionada por Adif. Media semanal de 66 circulaciones (muy baja), todas cercanías. Curva a izquierdas radio 186 m, rampa 57 milésimas."
+ },
+ "material_rodante": {
+  "series": "Composición tipo 60 (v.max 60 km/h). Tren 21907: Nº UIC 967194420048 (442004). Tren S1: Nº UIC 967194420022 (442002). 2 coches, 8 ejes, 74 toneladas.",
+  "averia": "Sin avería. Los equipos de seguridad funcionaron correctamente. Parámetros de ruedas (espesores de pestañas, alturas de pestañas y Qr) dentro de tolerancia.",
+  "mantenimiento": "Sin anomalías detectadas en el material rodante."
+ },
+ "clima": "De día, tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Fallo técnico de la infraestructura: mal estado de las traviesas de madera, la clavazón y el balasto, con junta de carril que presentaba mala sujeción en la clavazón y traviesas rajadas, lo que provocó la caída de la primera rueda y el posterior descarrilamiento en cadena.",
+  "contribuyentes": [
+   "Antigüedad del balasto y arrastres naturales de la montaña que deterioraron su estado.",
+   "Traviesas de madera rajadas y rotas en la zona del suceso.",
+   "Clavazón suelta en la zona de traviesas de madera.",
+   "Junta de carril con rigidizador en la cara interna del hilo izquierdo con mala sujeción, punto de inicio del descarrilamiento.",
+   "Curva a izquierdas de radio 186 m y rampa de 57 milésimas que incrementan las fuerzas laterales sobre la vía."
+  ],
+  "sistemicas": [
+   "Mantenimiento insuficiente de la superestructura de vía en el tramo de traviesas de madera, pese a las actuaciones realizadas en 2010 (reapretado de clavazón, espirales Vortok, nivelación Jackson).",
+   "Persistencia de traviesas de madera en mal estado en una línea con circulación en curva y rampa.",
+   "Ausencia de sistema ASFA en la línea (aunque no fue factor en este caso por la baja velocidad)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: golpes en las caras externas de las ruedas de ambos trenes. Infraestructura: daños en traviesas y carril en unos 50 metros.",
+  "afectacion_servicio": "Vía general interceptada desde las 11:58 h del 30/06/2011 hasta las 08:13 h del 01/07/2011 (aproximadamente 20 h 15 min). Servicio de viajeros sustituido por carretera durante la interrupción. El tren 21907 fue encarrilado y apartado en Puerto de Navacerrada a las 18:55 h."
+ },
+ "lecciones": [
+  "El mal estado de traviesas de madera, clavazón y balasto puede provocar descarrilamientos incluso a velocidades muy inferiores a la máxima permitida (29 km/h frente a límite de 30 km/h).",
+  "Una junta de carril con mala sujeción en la clavazón y traviesas rajadas constituye un punto crítico de inicio de descarrilamiento en curva con rampa.",
+  "Las actuaciones de consolidación puntual (Vortok, reapretado) pueden no ser suficientes si la degradación general de la superestructura es avanzada.",
+  "El envío de un tren de socorro por la misma vía deteriorada conlleva riesgo de segundo descarrilamiento, como se demostró con el tren S1."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Analizar la viabilidad de sustituir todo el tramo de traviesas de madera por otras de hormigón o, en su defecto, reemplazar las que presenten mal estado por otras del mismo material.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "traviesas de madera",
+  "clavazon",
+  "balasto",
+  "ancho metrico",
+  "linea 116 los cotos",
+  "cercedilla",
+  "puerto de navacerrada",
+  "siete picos",
+  "cercanias",
+  "renfe operadora",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-300611-240412-CIAF"
+}

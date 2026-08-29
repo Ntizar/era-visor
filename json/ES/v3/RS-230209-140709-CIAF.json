@@ -1,0 +1,81 @@
+{
+ "titulo_normalizado": "Accidente ferroviario entre el apeadero de Ozanes y la estación de Soto Dueñas",
+ "idioma_original": "es",
+ "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprobó la resolución del accidente nº 0013/2009, ocurrido el 23 de febrero de 2009 entre el apeadero de Ozanes y la estación de Soto Dueñas. El suceso se produjo en la línea 21 Oviedo-Santander. El Pleno de la CIAF, celebrado el 14 de julio de 2009, aprobó como definitivo el informe particular presentado por el técnico investigador. La resolución incluye una recomendación a Feve sobre los programas de reciclaje del personal de conducción.",
+ "hechos": "El 23 de febrero de 2009 se registró un accidente ferroviario entre el apeadero de Ozanes y la estación de Soto Dueñas, en la línea 21 Oviedo-Santander. El Pleno de la Comisión de Investigación de Accidentes Ferroviarios, celebrado el 14 de julio de 2009, aprobó como definitivo el informe particular presentado por el técnico investigador. La resolución incorporó una recomendación a Feve para revisar los programas de reciclaje del personal de conducción, con especial énfasis en actitudes y comportamientos que son fuentes de riesgos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": null,
+  "linea": "21 Oviedo Santander",
+  "provincia": null,
+  "descripcion_lugar": "Entre el apeadero de Ozanes y la estación de Soto Dueñas"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-02-23: Accidente ferroviario entre el apeadero de Ozanes y la estación de Soto Dueñas, en la línea 21 Oviedo-Santander."
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: El Pleno de la CIAF aprueba como definitivo el informe particular y la recomendación 013/09-1."
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "personal de conducción",
+   "implicacion": "Se recomienda revisar sus programas de reciclaje, con especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Línea 21 Oviedo-Santander; accidente entre el apeadero de Ozanes y la estación de Soto Dueñas."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "ciaf",
+  "feve",
+  "apeadero de ozanes",
+  "soto dueñas",
+  "línea 21",
+  "oviedo",
+  "santander",
+  "recomendación",
+  "personal de conducción",
+  "seguridad ferroviaria",
+  "resolución"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-230209-140709-CIAF"
+}

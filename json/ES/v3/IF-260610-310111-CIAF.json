@@ -1,0 +1,145 @@
+{
+ "titulo_normalizado": "Salida anticipada del tren 407 en Vitoria-Gasteiz por comunicación prematura de operaciones terminadas",
+ "idioma_original": "es",
+ "resumen": "El 26 de junio de 2010, a las 00:28, el tren 407 de larga distancia de Renfe Operadora realizó una parada comercial en la vía 1 de la estación de Vitoria-Gasteiz. La agente de acompañamiento comunicó operaciones terminadas antes de que finalizaran la bajada y la subida de viajeros, y el tren inició la marcha con la señal de salida en vía libre. Una persona cayó al andén y arrolló a otras que debían subir, con cinco heridos leves. El accidente tuvo su origen en la comunicación prematura de operaciones terminadas.",
+ "hechos": "El tren de viajeros de larga distancia 407, de Renfe Operadora, procedente de Madrid y con destino París, circulaba como tren-hotel ELIPSOS y entró con 49 minutos de retraso en la estación de Vitoria-Gasteiz, deteniéndose a las 00:26:08 en la vía 1 para una parada comercial de 2 minutos y 10 segundos. En la estación estaba prevista la subida de dieciocho personas, cinco de ellas pertenecientes a una misma familia en el coche número 25 de la composición.\n\nLa agente de acompañamiento se subió al tren por el coche número 4 y comunicó al maquinista operaciones terminadas, aunque aún quedaban viajeros sin subir en el coche número 25, incluidos miembros de la familia y personas que habían bajado a fumar. Entre el punto de comunicación de operaciones terminadas y el lugar de la caída había unos 260 metros. A las 00:28:18, con la señal de salida en vía libre, el tren inició la marcha y una persona que estaba subiendo cayó al andén, arrollando a otras personas que debían subir.\n\nEl jefe de circulación y un vigilante de seguridad, situados a unos 60 metros, observaron la caída y el arranque del tren. El jefe de circulación ordenó por radiotelefonía la detección del tren y cerró la señal de salida; el maquinista frenó y el tren se detuvo a las 00:28:48 tras recorrer 135 metros y alcanzar 17 km/h, sin rebasar la señal. Como resultado, cinco personas resultaron heridas leves y no se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Vitoria - Gasteiz",
+  "pk": "492+400",
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "provincia": "Álava",
+  "descripcion_lugar": "Andén de la vía 1 de la estación, en alineación recta y perfil horizontal; tramo Jundiz - Vitoria Gasteiz; municipio Vitoria - Gasteiz."
+ },
+ "cronologia": [
+  {
+   "hora": "00:26",
+   "evento": "2010-06-26: el tren 407 se estaciona en la vía 1 de la estación de Vitoria-Gasteiz a las 00:26:08."
+  },
+  {
+   "hora": "00:28",
+   "evento": "2010-06-26: el tren inicia la marcha a las 00:28:18 con la señal de salida en vía libre y se produce la caída al andén."
+  },
+  {
+   "hora": "00:28",
+   "evento": "2010-06-26: a las 00:28:45, el responsable de circulación comunica al puesto de mando de Miranda de Ebro que ha cerrado la señal porque había gente subiendo y bajando y parece haber un accidente."
+  },
+  {
+   "hora": "00:28",
+   "evento": "2010-06-26: a las 00:28:48, el tren se detiene tras recorrer 135 metros, sin rebasar la señal de salida."
+  },
+  {
+   "hora": "00:33",
+   "evento": "2010-06-26: a las 00:33:35, el responsable de circulación mantiene otra comunicación con el puesto de mando de Miranda de Ebro sobre la salida del tren con gente subiendo."
+  },
+  {
+   "hora": "09:23",
+   "evento": "2010-06-26: el jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF la producción del suceso."
+  },
+  {
+   "hora": null,
+   "evento": "2010-06-29: la CIAF resuelve abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "2010-08-12: el gerente de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2010-10-18: el jefe territorial de seguridad en la circulación norte de Adif entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2011-01-31: fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "407",
+   "tipo": "tren de viajeros de larga distancia / tren-hotel ELIPSOS",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales; el material rodante funcionó correctamente."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Matrícula 8869232. Recibió la indicación de operaciones terminadas, inició la marcha y frenó al observar la señal de salida en parada."
+  },
+  {
+   "rol": "agente de acompañamiento (interventora)",
+   "implicacion": "Matrícula 8904823. Comunicó operaciones terminadas antes de finalizar la bajada y subida de viajeros."
+  },
+  {
+   "rol": "jefe de circulación",
+   "implicacion": "Matrícula 7789001. Observó la caída, cerró la señal de salida, ordenó la detección del tren por radiotelefonía e informó al puesto de mando."
+  },
+  {
+   "rol": "vigilante de seguridad",
+   "implicacion": "Acompañaba al jefe de circulación, advirtió a viajeros y observó personas accediendo al tren."
+  },
+  {
+   "rol": "persona de la tripulación del tren",
+   "implicacion": "Declaración no formal: acompañó a la familia que debía subir al coche 114 y describe la subida dificultosa por personas que habían bajado a fumar."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de avanzada y entrada en vía libre; señal de salida S1/1 en vía libre al estacionarse el tren. Tras la caída, el jefe de circulación cierra la señal de salida y el tren se detiene sin rebasarla.",
+  "tipo_via": "Vía 1 de estación, con andén de 507 metros, alineación recta y perfil horizontal.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Bloqueo automático banalizado con control de tráfico centralizado en Miranda de Ebro; enclavamiento electrónico en mando local; iluminación del andén encendida; tráfico medio semanal del tramo Jundiz - Vitoria-Gasteiz de 268 circulaciones."
+ },
+ "material_rodante": {
+  "series": "Talgo; locomotora 957102520310; doble composición; 32 vehículos; 530 toneladas; 418 metros; coches con cierre centralizado o manual de puertas exteriores y bloqueo a velocidad superior a 5 km/h.",
+  "averia": "No se describe avería; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Nocturno; el informe indica que no existía lluvia ni niebla y que la iluminación del andén era la habitual. La interventora declaró poca luz y neblina al fondo de la composición, mientras que el jefe de circulación declaró visibilidad normal sin brumas ni nieblas.",
+ "causas": {
+  "directa": "La agente de acompañamiento comunicó operaciones terminadas al maquinista sin haber finalizado la bajada y subida de viajeros, incumpliendo el artículo 313 del Reglamento General de Circulación y el punto 5 del procedimiento Tren-hotel ELIPSOS.",
+  "contribuyentes": [
+   "Doble composición del tren con 32 vehículos y 418 metros de longitud",
+   "Distancia de unos 260 metros entre el lugar donde se comunicó operaciones terminadas y el lugar de la caída",
+   "Presencia de viajeros en el andén que aún debían subir, incluida una familia en el coche 25 y personas que habían bajado a fumar",
+   "Retraso de 49 minutos del tren en su entrada a la estación"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 5,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "La incidencia tuvo una duración de 13 minutos y no afectó a las siguientes circulaciones."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación.",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "vitoria-gasteiz",
+  "renfe operadora",
+  "tren 407",
+  "talgo",
+  "tren-hotel elipsos",
+  "operaciones terminadas",
+  "andén",
+  "caída al andén",
+  "heridos leves",
+  "reglamento general de circulación",
+  "procedimiento interno"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-260610-310111-CIAF"
+}

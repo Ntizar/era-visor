@@ -1,0 +1,151 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 15400 en plena vía entre Bellvitge y Barcelona Sants por rotura de eje motor causada por arco eléctrico en toma de tierra",
+ "idioma_original": "es",
+ "resumen": "El 23 de abril de 2011 a las 09:28, el tren de media distancia 15400 de Renfe Operadora descarriló del último bogie en el PK 675+220 de la línea 200, entre Bellvitge y Barcelona Sants. No hubo daños personales. La causa fue la rotura del eje motor nº 12 (440-000220) provocada por una fisura originada por un arco eléctrico debido al mal estado de la toma de tierra del eje. El plan de mantenimiento vigente no contemplaba la inspección de la zona de contacto de la escobilla con el eje. Se formularon tres recomendaciones a Renfe Operadora.",
+ "hechos": "El día 23 de abril de 2011, a las 09:28 horas, el tren de viajeros de media distancia 15400 de Renfe Operadora, procedente de Lleida Pirineus con destino Barcelona Estació de França, circulaba por la línea 200 Barcelona Sants – Madrid Chamartín. Tras efectuar paso por la estación de Bellvitge (sin parada establecida) y recorrer unos 1.200 metros, en plena vía, entre las estaciones de Bellvitge-Aguja 674+835 y Barcelona Sants, en el PK 675+220, se produjo el descarrilamiento del último bogie en el sentido de la marcha. El maquinista se percató de que el tren no circulaba con normalidad y aplicó el freno de servicio, deteniendo el tren tras recorrer 180 metros descarrilado, en el PK 675+400. La velocidad en el momento del descarrilamiento era de 37 km/h, inferior a la máxima permitida de 85 km/h.\n\nLa causa fue la rotura del eje motor número 12 (identificación 440-000220, nº 28259-77), perteneciente al autopropulsado 967194701009. El análisis metalográfico realizado por CAF determinó que la rotura se originó a partir de una fisura provocada por un arco eléctrico en la zona de tracción del eje, consecuencia del mal estado de la toma de tierra, que evidenciaba la ausencia de contacto entre el electrodo y el aro de toma de tierra desde hacía largo tiempo. Las corrientes parásitas del vehículo, al no poder descargarse a tierra por las zonas diseñadas, lo hicieron por los rodamientos, generando el arco eléctrico.\n\nNo hubo víctimas mortales ni heridos. Los viajeros del tren 15400 fueron transbordados al tren VU536. La circulación por vía II quedó interrumpida hasta las 03:18:10 del 24/04/2011, restableciéndose con limitación de 60 km/h.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Bellvitge-Aguja 674+835 y Barcelona Sants",
+  "pk": "675+220",
+  "linea": "200 Barcelona Sants – Madrid Chamartín",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Tramo en curva a la derecha de radio 333 metros, rampa de 8 milésimas, peralte excepcional de 165 mm. Vía doble electrificada de ancho convencional. Municipio: L'Hospitalet de Llobregat."
+ },
+ "cronologia": [
+  {
+   "hora": "09:25:20",
+   "evento": "El tren 15400 efectúa entrada en la estación de Bellvitge (paso por baliza de pie señal 6726), en anuncio de parada."
+  },
+  {
+   "hora": "09:27:19",
+   "evento": "El tren sale de Bellvitge (paso por baliza de pie señal 6740), en anuncio de parada."
+  },
+  {
+   "hora": "09:28:44",
+   "evento": "El tren pasa por PK 674+992 (baliza previa señal 6752) a 48 km/h. El maquinista actúa sobre el freno de servicio al iniciarse la curva."
+  },
+  {
+   "hora": "09:28",
+   "evento": "Se produce el descarrilamiento en el PK 675+220 a 37 km/h (rotura del eje nº 12)."
+  },
+  {
+   "hora": "09:29:10",
+   "evento": "Paso por baliza de pie señal 6752 (PK 675+292); se acentúa la reducción de velocidad del tren."
+  },
+  {
+   "hora": "09:29:42",
+   "evento": "Detención total del tren en PK 675+400, tras recorrer 180 metros descarrilado."
+  },
+  {
+   "hora": "09:28",
+   "evento": "El maquinista comunica al puesto de mando el descarrilamiento del último bogie."
+  },
+  {
+   "hora": "10:27",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil."
+  },
+  {
+   "hora": "12:25",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": null,
+   "evento": "27 de abril de 2011: la CIAF resuelve abrir la investigación."
+  },
+  {
+   "hora": "03:18:10",
+   "evento": "24/04/2011: se restablece la circulación por vía II con limitación de 60 km/h entre PK 675+220 y 675+340."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15400",
+   "tipo": "Media distancia, tren tipo 140, UT 470100, 3 vehículos (1 con tracción), 12 ejes, 204 toneladas. Autopropulsado UIC 967194701009.",
+   "operador": "Renfe Operadora",
+   "danos": "Rotura del eje número 12 (440-000220), daños en la timonería del freno de este eje, en el cojinete exterior de la reductora y en algunos elementos del bastidor del bogie."
+  },
+  {
+   "numero": "VU536",
+   "tipo": "Tren de transbordo de viajeros",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 15400 (matrícula 8862708)",
+   "implicacion": "Detectó la anomalía de circulación, aplicó freno de servicio y detuvo el tren. Comunicó el suceso al puesto de mando. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 29/04/10, último reconocimiento médico y psicotécnico 17/06/08. Jornada del día 23: 4h12min (3h09min conducción efectiva). Prueba de alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (BAB) con control de tráfico centralizado (CTC) desde el puesto de mando de Barcelona Sants. ASFA.",
+  "tipo_via": "Vía doble electrificada, ancho convencional",
+  "velocidad_maxima": "85 km/h (trenes tipo normal). Limitación temporal de 30 km/h en un punto posterior.",
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionó correctamente. Peralte dentro de tolerancia. Ancho de vía con ligeros rebases de valores límite, no determinante.",
+  "otro": "Curva a la derecha radio 333 m, rampa 8/1000, peralte 165 mm. No soporta tráfico de mercancías. Media semanal de circulaciones: 2.585 (muy alta): 224 larga distancia, 663 media distancia, 1.694 cercanías, 4 servicio. Radiotelefonía modalidad A."
+ },
+ "material_rodante": {
+  "series": "Serie 440-470 (UT 470100, autopropulsado 967194701009). Eje siniestrado: 440-000220, nº 28259-77, acero E3T fabricado en 1977.",
+  "averia": "Rotura del eje motor nº 12 por fisura de fatiga originada por arco eléctrico en zona de tracción del eje, por mal estado de la toma de tierra (ausencia de contacto entre electrodo y aro de toma de tierra desde hace largo tiempo). Fractura a 567 mm del extremo del eje; fisura exterior por debajo de la pista interior del rodamiento externo de la reductora que avanzó hasta el 80% del diámetro.",
+  "mantenimiento": "Plan PM.4700.40: CS/IC/IM/IE/R cada 8.500/16.500/50.000/195.000/600.000 km. Última R: octubre-noviembre 2007 (ultrasonidos y magnetoscopia útiles). Recorrido desde R hasta suceso: 570.000 km (dentro de plazo). Última IE: marzo 2010. Última IM: febrero 2011. El plan vigente NO incluía revisión de la zona de contacto de la escobilla de la toma de tierra con el eje (anillo de deslizamiento/aro de toma de tierra). Tras el suceso, Renfe modificó el plan incluyendo revisión del anillo en 2ª IE y en R. Se realizó revisión por ultrasonidos a todos los ejes de la serie 440/470 sin detectar defectos."
+ },
+ "clima": "De día, tiempo nublado, sin lluvia.",
+ "causas": {
+  "directa": "Rotura del último eje motor de la composición (eje 440-000220, nº 12) por fisura de fatiga originada por un arco eléctrico en la zona de tracción del eje, provocado por el mal funcionamiento de la toma de tierra (ausencia de contacto electrodo-aro desde hace largo tiempo).",
+  "contribuyentes": [
+   "El plan de mantenimiento vigente no incluía la revisión de la zona de contacto de la escobilla de la toma de tierra con el eje (anillo de deslizamiento o aro de toma de tierra).",
+   "Las intervenciones IM e IE solo contemplaban inspección visual de partes visibles del eje, no detectable la fisura por su tipología y ubicación.",
+   "Las corrientes parásitas del vehículo, al no poder descargarse a tierra por las zonas diseñadas, lo hicieron por los rodamientos generando arcos eléctricos.",
+   "El fenómeno de paso de corriente no fue aislado: se observaron otras zonas del eje con evidencias de paso de corriente."
+  ],
+  "sistemicas": [
+   "Deficiencia en el plan de mantenimiento del material 440-470 respecto a la inspección de tomas de tierra y zona de contacto del eje.",
+   "Ausencia de inspección por ultrasonidos de ejes en intervenciones intermedias entre reparaciones generales (R)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: rotura del eje nº 12, daños en timonería de freno, cojinete exterior de reductora y elementos del bastidor del bogie. Infraestructura: ligeros daños en traviesas y elementos de sujeción en unos 200 metros.",
+  "afectacion_servicio": "Interrupción de vía II entre Bellvitge y Barcelona Sants; circulación por vía I banalizada. Restablecimiento el 24/04/2011 a las 03:18:10 con limitación de 60 km/h. Suprimidos: 6 trenes larga distancia, 16 media distancia, 35 cercanías. Retrasos: 15 LD (226 min), 45 MD (538 min), 89 cercanías (1.506 min). Viajeros transbordados al tren VU536."
+ },
+ "lecciones": [
+  "El arco eléctrico generado por una toma de tierra en mal estado puede provocar la transformación cristalográfica del acero del eje, creando una zona muy localizada de elevada fragilidad con microfisuras que progresan por fatiga hasta la rotura.",
+  "Los planes de mantenimiento deben incluir la inspección de la zona de contacto de la escobilla de la toma de tierra con el eje (anillo de deslizamiento o aro de toma de tierra), no solo la escobilla y cables de masa.",
+  "Las intervenciones intermedias entre reparaciones generales (R) pueden requerir inspección por ultrasonidos de ejes para detectar fisuras no visibles en inspecciones visuales.",
+  "La ausencia de contacto entre electrodo y aro de toma de tierra desde hace largo tiempo no fue detectada por las revisiones IM e IE del plan vigente."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Incorporar al plan de mantenimiento del material 440-470 el nuevo procedimiento de inspección de las tomas de tierra y de la zona de contacto del eje.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Analizar qué otro tipo de material móvil es susceptible de sufrir un deterioro en sus ejes por un mal funcionamiento de las tomas de tierra, incorporando a su plan de mantenimiento medidas similares.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Estudiar la inclusión en el plan de mantenimiento del material 440-470 la inspección por ultrasonidos en alguna intervención intermedia entre las R (reparación general).",
+   "destinatario": "Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rotura de eje",
+  "arco eléctrico",
+  "toma de tierra",
+  "fatiga",
+  "media distancia",
+  "serie 440-470",
+  "renfe operadora",
+  "línea 200",
+  "bellvitge",
+  "barcelona sants",
+  "mantenimiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-230411-271211-CIAF"
+}

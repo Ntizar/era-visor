@@ -1,0 +1,91 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo por tren de media distancia en paso a nivel clase A entre Almagro y El Campillo",
+ "idioma_original": "es",
+ "resumen": "El 9 de noviembre de 2008, a las 9:52, el tren de media distancia 18081 de Renfe Operadora arrolló a un Peugeot 406 en un paso a nivel clase A del P.K. 226,669, entre Almagro y El Campillo, en la línea 522 Manzanares-Ciudad Real. El conductor del vehículo, único ocupante, falleció en el lugar. La investigación concluye que el origen fue el cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren. El material rodante y las instalaciones funcionaron correctamente y la actuación del maquinista fue correcta. No se establecieron recomendaciones.",
+ "hechos": "El día 9 de noviembre de 2008, a las 9:52 horas, el tren de media distancia 18081 de Renfe Operadora, formado por la unidad de tracción 470041, tres vehículos y 161 toneladas de masa remolcada, arrolló a un automóvil Peugeot 406 en el paso a nivel clase A del P.K. 226,669, entre Almagro y el apeadero de El Campillo, en la línea 522 Manzanares-Ciudad Real.\n\nSegún la declaración del maquinista, observó un automóvil blanco que se aproximaba por un camino a la derecha, realizó señales acústicas y luminosas, tocó el silbato y accionó el freno de emergencia, pero no pudo evitar la colisión entre la parte derecha del testero del tren y la parte delantera izquierda del automóvil. El registrador de eventos indica que el tren circulaba a 136 km/h en el momento de accionar el freno de emergencia, por debajo de la velocidad máxima autorizada de 140 km/h. El tren quedó detenido tras recorrer unos 700 metros, en el km 226, junto al apartadero de El Campillo.\n\nEl conductor del vehículo, único ocupante, falleció en el lugar del accidente. El tiempo atmosférico era despejado y la visibilidad era buena, con un trazado recto de más de dos kilómetros.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "El Campillo",
+  "pk": "226,669",
+  "linea": "522 Manzanares-Ciudad Real",
+  "provincia": "Ciudad Real",
+  "descripcion_lugar": "Paso a nivel clase A situado entre Almagro y el apeadero de El Campillo, sobre la línea 522 Manzanares-Ciudad Real, en el camino carretero denominado camino de los Moledores."
+ },
+ "cronologia": [
+  {
+   "hora": "09:52",
+   "evento": "Arrollamiento del vehículo por el tren 18081 en el paso a nivel clase A del P.K. 226,669."
+  },
+  {
+   "hora": "11:02",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el accidente a la Comisión de Investigación de Accidentes Ferroviarios por telefonía móvil."
+  },
+  {
+   "hora": "11:50",
+   "evento": "Se produce el levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18081",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en el frontal de la cabina de conducción; desperfectos en el sistema de freno por rotura de las mangas de aire comprimido."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 18081",
+   "implicacion": "Matrícula 9692211; poseía título de conducción y habilitación; realizó señales acústicas y luminosas, tocó el silbato y accionó el freno de emergencia. Su actuación fue correcta; prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+  },
+  {
+   "rol": "Conductor del vehículo Peugeot 406",
+   "implicacion": "Hombre de 62 años, único ocupante del vehículo; falleció en el lugar del accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase A protegido únicamente por señales fijas; señales reglamentarias de peligro y stop en el cruce.",
+  "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionamiento correcto; trazado recto en más de dos kilómetros y visibilidad buena.",
+  "otro": "Paso a nivel con entablonado y contracarriles; acceso por camino agrícola sin asfaltar 'camino de los Moledores', de 6 metros de ancho, que nace a 150 metros de la carretera CM-4170, con los últimos 30 metros en ligera rampa y visibilidad de la vía de más de 1000 metros. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 108 (15 larga distancia, 56 media distancia, 32 mercancías, 4 servicio)."
+ },
+ "material_rodante": {
+  "series": "UT 470041; número UIC 967194700415; tren de media distancia 18081 formado por motor, 3 vehículos y 161 Tn de masa remolcada.",
+  "averia": "No se constataron averías; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "El cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Tren: daños en el frontal de la cabina de conducción y desperfectos en el sistema de freno por rotura de las mangas de aire comprimido. Vehículo Peugeot 406: quedó totalmente deformado.",
+  "afectacion_servicio": "El tren 18081 fue suprimido y los viajeros continuaron su viaje por carretera; un tren de larga distancia sufrió 3 minutos de retraso; la vía no quedó interceptada, pero se prescribió marcha a la vista a todos los trenes que tenían paso por el punto del arrollamiento."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "vehículo",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "fallecido",
+  "señales fijas",
+  "peugeot 406",
+  "línea 522",
+  "ciudad real",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-091108-240209-CIAF"
+}

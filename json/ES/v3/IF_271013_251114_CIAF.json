@@ -1,0 +1,170 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal de salida en estación de Zalla (Vizcaya) con conato de colisión entre trenes de Renfe Operadora",
+ "idioma_original": "es",
+ "resumen": "El 27 de octubre de 2013 a las 08:31, el tren de cercanías 08904 (Bilbao-La Calzada) rebasó indebidamente la señal S2/2 en indicación de parada en la estación de Zalla (Vizcaya), PK 2+057, de la línea 790 RAM. Se produjo un conato de colisión con el tren turístico 73101 (Transcantábrico Gran Lujo), detenido ante la señal E1, quedando ambos trenes a 191 metros de distancia. No hubo víctimas ni daños materiales. La causa fue un fallo humano del maquinista del 08904 por falta de atención en la conducción. No se establecieron recomendaciones al considerarse adecuadas las medidas adoptadas por Renfe Operadora.",
+ "hechos": "El tren de viajeros de cercanías 08904 de Renfe Operadora, con origen Bilbao y destino La Calzada, circulaba por vía única y tras pasar la señal E2 en aviso de parada se estacionó en la vía 2 de la estación de Zalla para realizar una parada comercial de un minuto. En sentido contrario, el tren turístico 73101 (El Transcantábrico Gran Lujo), procedente de Mercadillo-Villasana con destino Bilbao, se detuvo ante la señal de entrada E1. Ambos trenes debían cruzarse en dicha estación. Una vez terminada la parada comercial, el maquinista del 08904 reanudó la marcha sin percatarse de que la señal de salida S2/2 estaba en indicación de parada. Cuando se dio cuenta, aplicó el freno de urgencia (seta) a 29 km/h tras unos 50 metros de recorrido, pero tres segundos después el sistema ASFA activó el freno de emergencia al pasar por la baliza de pie de la señal a 25 km/h. El tren quedó detenido en vía 2, rebasando la señal S2/2 en 12 metros, sin llegar a la aguja A1, a unos 191 metros del tren 73101. Se produjo un conato de colisión. El maquinista informó al puesto de mando de Bilbao, que autorizó por telefonema el retroceso del tren hasta su punto de estacionamiento. Ambos trenes continuaron después hacia sus destinos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Zalla",
+  "pk": "2+057",
+  "linea": "790 RAM La Asunción Universidad – Aranguren",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Estación de Zalla, vía 2 (vía de apartado), señal de salida S2/2 en PK 2+185, tramo en curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal, vía única con bloqueo automático y CTC en Bilbao"
+ },
+ "cronologia": [
+  {
+   "hora": "08:29:10",
+   "evento": "Tren 08904 en circuito de aguja A2 con señal S2/2 en parada; tren 73101 se aproxima a señal E1"
+  },
+  {
+   "hora": "08:29:21",
+   "evento": "Tren 08904 en circuito de estacionamiento de vía 2; señal S2/2 sigue en parada"
+  },
+  {
+   "hora": "08:29:42",
+   "evento": "Tren 08904 se detiene en vía 2 para parada comercial (permanece 24 segundos)"
+  },
+  {
+   "hora": "08:30:06",
+   "evento": "Tren 08904 reanuda la marcha"
+  },
+  {
+   "hora": "08:30:17",
+   "evento": "Tren 73101 se detiene ante señal E1 (PK 2+395); puesto de mando realiza itinerario de paso por vía 1 para 73101"
+  },
+  {
+   "hora": "08:30:19",
+   "evento": "Maquinista del 08904 aplica freno de urgencia (seta) a 29 km/h, tras ~50 m y 13 s desde arranque"
+  },
+  {
+   "hora": "08:30:21",
+   "evento": "Tren 08904 rebasa señal S2/2 y ocupa CVA1; señal E1 pasa a indicación de parada"
+  },
+  {
+   "hora": "08:30:22",
+   "evento": "ASFA aplica freno de emergencia al paso por baliza de señal S2/2 a 25 km/h"
+  },
+  {
+   "hora": "08:30:27",
+   "evento": "Tren 08904 queda detenido, rebasando señal S2/2 en 12 m, sin llegar a aguja A1 (PK 2+239)"
+  },
+  {
+   "hora": "08:31",
+   "evento": "Hora oficial del incidente; conato de colisión, distancia entre trenes 191 m"
+  },
+  {
+   "hora": "08:32:05",
+   "evento": "Tren 08904 inicia movimiento de retroceso a zona de estacionamiento de vía 2"
+  },
+  {
+   "hora": "08:32:25",
+   "evento": "Tren 73101 reinicia la marcha con itinerario de paso por vía 1"
+  },
+  {
+   "hora": "08:33:09",
+   "evento": "Tren 08904 queda nuevamente detenido en punto de estacionamiento"
+  },
+  {
+   "hora": "09:08",
+   "evento": "Jefe de investigación de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "09:55",
+   "evento": "Prueba de alcoholemia al maquinista del 08904 en Balmaseda: resultado negativo (0,00 mg/1000 ml)"
+  },
+  {
+   "hora": null,
+   "evento": "2013-10-29: El Pleno de la CIAF acuerda abrir la investigación"
+  },
+  {
+   "hora": null,
+   "evento": "2014-01-20: Renfe Operadora entrega su informe particular"
+  },
+  {
+   "hora": null,
+   "evento": "2014-03-05: Adif entrega su informe particular"
+  },
+  {
+   "hora": null,
+   "evento": "2014-11-25: Firma del informe final"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "08904",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños"
+  },
+  {
+   "numero": "73101",
+   "tipo": "turístico discrecional (El Transcantábrico Gran Lujo)",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 08904 (matrícula 6912216)",
+   "implicacion": "Fallo humano por falta de atención en la conducción: no percibió que la señal S2/2 estaba en indicación de parada y reanudó la marcha tras la parada comercial, provocando el rebase indebido. Aplicó seta de urgencia solo 3 segundos antes de alcanzar la baliza. Declaró que 'se despistó'. Incumplió el artículo 2/04/00 del Reglamento de Señales de Feve. Se le aplicó la Circular Operativa nº 1 de Presidencia (gestión del fallo humano): control de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje con simulador y acompañamiento en cabina por tutor."
+  },
+  {
+   "rol": "Jefe de circulación del CTC de Bilbao",
+   "implicacion": "Realizó correctamente los itinerarios de cruce. Al detectar la ocupación anómala del CVA1 por el rebase, cambió la señal E1 a parada. Autorizó por telefonema el retroceso del tren 08904. Verificó que el enclavamiento no había sufrido daños."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal S2/2 baja de 4 focos (PK 2+185) en indicación de parada, con buena visibilidad; señal E1 (PK 2+395); señal E2 (PK 1+601) en aviso de parada; baliza ASFA de pie de señal S2/2; señal avanzada E'2",
+  "tipo_via": "Vía única con una vía de apartado (vía 2) en estación; enclavamiento electrónico",
+  "velocidad_maxima": "80 km/h (trayecto Balmaseda – Aranguren, Consigna Serie C nº 4/2011 DGI); velocidad máxima de paso por estación según cuadros de marcha: 70 km/h",
+  "ancho": "Métrico (RAM, antigua Feve)",
+  "electrificacion": null,
+  "estado_via": "Correcto; curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal",
+  "otro": "Bloqueo automático con control de tráfico centralizado (CTC) en Bilbao; en mando central en el momento del incidente; radiotelefonía modalidad C; media semanal de 361 circulaciones por la estación"
+ },
+ "material_rodante": {
+  "series": "Tren 08904: UT 3601-3602, 2 vehículos, 8 ejes, 71 m, 56 t, tipo 80 (Vmax 80 km/h). Tren 73101: locomotora 1971 + rama El Transcantábrico Gran Lujo, tipo 70 (Vmax 70 km/h)",
+  "averia": "Ninguna; el material rodante funcionó correctamente",
+  "mantenimiento": "No se menciona problema de mantenimiento; registrador de seguridad del automotor 3601 y de la locomotora (1971/1917) confirmaron velocidades y tiempos correctos"
+ },
+ "clima": "No existían condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo humano del maquinista del tren 08904 por falta de atención en la conducción, al no cumplimentar la orden de parada de la señal S2/2 e incumplir el artículo 2/04/00 del Reglamento de Señales de Feve",
+  "contribuyentes": [
+   "Despiste del maquinista tras la parada comercial: no comprobó la indicación de la señal de salida antes de reanudar la marcha",
+   "Tiempo de reacción insuficiente: solo 3 segundos entre la aplicación de la seta de urgencia y el paso por la baliza ASFA",
+   "Velocidad de 29 km/h al aplicar el freno de urgencia, insuficiente para detenerse antes de la baliza"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños en material rodante ni en infraestructura",
+  "afectacion_servicio": "No se produce interceptación de la vía. Retraso de 4 minutos en el tren 08904 y de 3 minutos en el tren 73101. Maquinista relevado en Balmaseda."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "fallo humano",
+  "falta de atención",
+  "reglamento de señales feve",
+  "asfa",
+  "cruce de trenes",
+  "línea 790 ram",
+  "zalla vizcaya",
+  "renfe operadora",
+  "transcantábrico gran lujo",
+  "vía única métrica"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_271013_251114_CIAF"
+}

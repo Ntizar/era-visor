@@ -1,0 +1,168 @@
+{
+ "titulo_normalizado": "Conato de incendio por sobrecalentamiento de caja de grasa en tren 599 en la estación de Álora",
+ "idioma_original": "es",
+ "resumen": "El 27 de agosto de 2015 a las 18:23 h se produjo un conato de incendio en la caja de grasa del primer eje del lado derecho del bogie del tren de media distancia 13060 (automotor serie 599, unidad 599034) de Renfe Viajeros, estacionado en la vía 5 de la estación de Álora (Málaga). El incidente fue detectado por el interventor al observar humo en el bogie. No hubo víctimas. La causa fue un fallo técnico por sobrecalentamiento del rodamiento, sin poderse determinar la causa origen. Se recomendó revisar ejes con agua en cajas de grasa y verificar kilometraje al sustituir ejes.",
+ "hechos": "El tren de media distancia 13061 de Renfe Viajeros (automotor 599034) partió de Ronda a las 16:50 con el maquinista en cabina M2, donde el ASFA funcionaba correctamente. Al llegar a Bobadilla (17:42:11), el maquinista cambió a cabina M1 para continuar como tren 13060 hacia Málaga María Zambrano. El ASFA de la cabina M1 presentaba averías previas, por lo que tras activar el freno de urgencia al paso por la baliza de la señal S2/III (17:50:23), el puesto de mando autorizó la desconexión del ASFA (17:51:10). El tren circuló 32 km sin ASFA, con el interventor acompañando al maquinista, sin exceder velocidades ni omitir paradas. Al estacionarse en vía 5 de Álora (18:18:22), el interventor alertó al maquinista de humo en el bogie primero. Se intentó sofocar el conato con extintores de dotación sin éxito, y el maquinista solicitó bomberos (18:28). Los viajeros fueron desalojados y reubicados en un tren de cercanías. Los bomberos llegaron a las 19:07, se cortó tensión en catenaria a las 20:05 y la extinción se declaró a las 20:36. La normalidad se restableció a las 20:42.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Álora",
+  "pk": "155+280",
+  "linea": "430 Bif. Córdoba El Higuerón – Los Prados",
+  "provincia": "Málaga",
+  "descripcion_lugar": "Vía 5 de la estación de Álora, tramo Bobadilla - Álora. La estación dispone de tres vías de circulación de ancho ibérico. La vía 1 se usa para cercanías C2 de Málaga; vías 3 y 5 para paradas, pasos o cruces."
+ },
+ "cronologia": [
+  {
+   "hora": "16:50",
+   "evento": "Salida del tren 13061 de la estación de Ronda con el maquinista en cabina M2 (ASFA funcionando correctamente)"
+  },
+  {
+   "hora": "17:42:11",
+   "evento": "Estacionamiento del tren en vía 3 de la estación de Bobadilla; cambio de cabina del maquinista de M2 a M1"
+  },
+  {
+   "hora": "17:44:55",
+   "evento": "Activación del ASFA en cabina M1 (que presentaba anomalías)"
+  },
+  {
+   "hora": "17:49:28",
+   "evento": "Inicio del movimiento del tren 13060 desde vía 3 de Bobadilla"
+  },
+  {
+   "hora": "17:50:23",
+   "evento": "Paso por baliza de pie de señal S2/III en indicación de anuncio de parada a 28 km/h; actuación del freno de urgencia por ASFA"
+  },
+  {
+   "hora": "17:51:10",
+   "evento": "Desconexión del ASFA en cabina M1 previa autorización del PM de Córdoba; el interventor acompaña al maquinista"
+  },
+  {
+   "hora": "18:18:22",
+   "evento": "Estacionamiento del tren 13060 en vía 5 de la estación de Álora"
+  },
+  {
+   "hora": "18:23",
+   "evento": "El interventor alerta al maquinista de humo en el bogie primero; inicio del conato de incendio en caja de grasa del eje 1 lado derecho"
+  },
+  {
+   "hora": "18:28",
+   "evento": "El maquinista solicita intervención de los bomberos; se intenta sofocar el fuego con extintores de dotación"
+  },
+  {
+   "hora": "19:07",
+   "evento": "Llegada de los bomberos a la estación de Álora"
+  },
+  {
+   "hora": "20:05",
+   "evento": "Corte de tensión en la catenaria de la estación por personal de electrificación"
+  },
+  {
+   "hora": "20:36",
+   "evento": "Los bomberos comunican la extinción del conato de incendio"
+  },
+  {
+   "hora": "20:42",
+   "evento": "Restablecimiento de la tensión en catenaria y normalidad en la circulación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13060",
+   "tipo": "media distancia",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en la caja de grasa derecha del eje número 1 del primer bogie; rodamiento totalmente destrozado con rodillos cruzados y aros interiores laminados y deformados por sobrecalentamiento superior a 300°C"
+  },
+  {
+   "numero": "13061",
+   "tipo": "media distancia",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  },
+  {
+   "numero": "23168",
+   "tipo": "cercanías",
+   "operador": "Renfe",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Matrícula 9676479. Título B de conducción, habilitado desde 23/05/2012 (vehículo) y 05/06/2012 (línea). Último reciclaje 21/05/2015. Reconocimiento médico y psicotécnico 02/09/2015. Cumplía toda la normativa vigente. Jornada del día 27: 8h43min (1h20min conducción efectiva)."
+  },
+  {
+   "rol": "agente de acompañamiento (interventor)",
+   "implicacion": "Matrícula 8977407. Detectó el humo en el bogie y alertó al maquinista. Acompañó al maquinista en cabina M1 durante la circulación sin ASFA. Realizó descarga de extintor de cabina."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "BAU con CTC (Bloqueo Automático y Control de Tráfico Centralizado), centralizado en el Puesto de Mando Auxiliar de Córdoba. Señal S2/III en Bobadilla.",
+  "tipo_via": "3 vías de circulación, ancho ibérico. Vía 1 para cercanías C2 Málaga; vías 3 y 5 para paradas, pasos o cruces.",
+  "velocidad_maxima": "95 km/h",
+  "ancho": "ibérico",
+  "electrificacion": "Vía única electrificada con BAU con CTC entre Álora y colaterales (Las Mellizas y Pizarra)",
+  "estado_via": "Funcionó correctamente. No existían detectores de ejes calientes entre Ronda y Álora. No había obras en las inmediaciones. No existían limitaciones de velocidad por infraestructura o regulación.",
+  "otro": "Radiotelefonía analógica en modalidad A. No había detectores de ejes calientes en el tramo Ronda-Álora."
+ },
+ "material_rodante": {
+  "series": "Serie 599, automotor 599034 (UIC 907175990346), motor 599-067-6. Fabricado por CAF. Composición M+R+M, 3 vehículos, 76 m, 158 t, 4 motores diésel de 382 kW. Tipo 160 A (Vmax 160 km/h). Construido el 30/07/2009, 907.416 km recorridos.",
+  "averia": "Sobrecalentamiento del rodamiento de la caja de grasa del lado derecho del eje 1 del primer bogie (temperatura >300°C). El rodamiento estaba totalmente destrozado, con rodillos cruzados y aros interiores laminados. El eje afectado (599-5-0264-8) fue montado el 18/08/2015 procedente del vehículo 599033, habiendo recorrido 1.140.603 km (234.304 km más que el vehículo receptor). La caja del lado izquierdo presentaba agua en su interior. También se detectó avería del ASFA en cabina M1.",
+  "mantenimiento": "Plan de mantenimiento serie 599 (Rev. 4, 31/10/2014). Revisiones realizadas: IM4 (10/04/2014, 639.932 km), IM2 (13/10/2014, 754.205 km), IM1 (16/05/2015, 864.092 km), I2 (15/07/2015, 889.810 km), I1 (12/08/2015, 903.689 km), IM3 (16/08/2015, 906.299 km). Todas dentro de plazos. No se había realizado mantenimiento correctivo en la caja de grasa afectada. Las operaciones de desmonte de rodamiento y verificación interna solo son obligatorias en R1/R2, aún no procedentes por km ni tiempo."
+ },
+ "clima": "Tiempo despejado",
+ "causas": {
+  "directa": "Fallo técnico del material: sobrecalentamiento del rodamiento de la caja de grasa del primer eje del lado derecho (según sentido de la marcha), con temperatura superior a 300°C. No fue posible conocer la causa origen del fallo.",
+  "contribuyentes": [
+   "El eje montado (599-5-0264-8) procedía del vehículo 599033 y había recorrido 234.304 km más que el vehículo en que se instaló, superando el kilometraje desde su última revisión completa respecto al tren receptor.",
+   "Presencia de agua en la caja de grasa del lado izquierdo del mismo eje, lo que sugiere posible contaminación que pudo afectar al rodamiento.",
+   "Los caldeos en serie 599 se concentran en ejes extremos (1 y 12) del lado derecho, que son los sensorizados, sugiriendo un patrón de vulnerabilidad.",
+   "Inexistencia de detectores de ejes calientes en la vía entre Ronda y Álora que pudieran haber detectado el sobrecalentamiento antes del conato de incendio.",
+   "El plan de mantenimiento solo exige desmonte y verificación interna de cajas de grasa en R1/R2, no en IM2/IM3/IM4, lo que impide detectar deterioros internos en intervalos menores a un millón de km."
+  ],
+  "sistemicas": [
+   "El SGS de Renfe Operadora (procedimientos SGS-PG-07 y SGS-PE-IOTM-07) no detectó el riesgo asociado a este tipo de fallo antes del suceso.",
+   "No se exigía la inspección interna de cajas de grasa en intervenciones intermedias (IM2, IM3, IM4), a pesar de que los caldeos se producían tras la IM4 pero antes de la R1.",
+   "No existía un protocolo de control del kilometraje acumulado del eje al ser montado en un vehículo con menos kilómetros."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en caja de grasa derecha del eje 1 del primer bogie del automotor 599034 (rodamiento destruido). Infraestructura: sin daños. Solo se usó un extintor del tren; el conato no afectó a la sala de viajeros.",
+  "afectacion_servicio": "139 minutos de anormalidad (18:23 a 20:42). Tren 13060 suprimido en Álora. Dos trenes de cercanías con retrasos de 8 y 30 minutos. Viajeros reubicados en tren de cercanías. Composición apartada en vía 5 hasta traslado al taller de Los Prados."
+ },
+ "lecciones": [
+  "Los fallos de rodamientos en cajas de grasa de la serie 599 se concentran en ejes extremos (1 y 12) del lado derecho, especialmente tras recorrer cerca de un millón de km.",
+  "La presencia de agua en cajas de grasa es un indicador de riesgo que debe activar la sustitución del eje, incluso en intervenciones de nivel IM.",
+  "Al sustituir un eje entre vehículos, se debe verificar que el kilometraje desde su última revisión completa no supere el del vehículo receptor.",
+  "La ausencia de detectores de ejes calientes en el tramo impidió una detección temprana del sobrecalentamiento.",
+  "El plan de mantenimiento de la serie 599 no contempla el desmonte de cajas de grasa hasta R1 (1.120.000 km), lo que deja un margen de riesgo entre IM4 y R1."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En el caso de que en las intervenciones IM2, IM3 o IM4, realizadas a los vehículos 599, se detecte agua en el interior de una caja de grasa, se programará el cambio del eje. Hasta que se realice ese cambio, se efectuará un protocolo de seguimiento y comprobación del mismo en todas las intervenciones preventivas.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria / Renfe Operadora"
+  },
+  {
+   "texto": "Al efectuar el cambio de un eje de un vehículo 599 se comprobará que los kilómetros desde la revisión completa de dicho eje y sus rodamientos son iguales o menores que los del tren en que se monta, contados desde la última R1 o R2 realizada al mismo.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria / Renfe Operadora"
+  }
+ ],
+ "tags": [
+  "conato de incendio",
+  "caja de grasa",
+  "sobrecalentamiento rodamiento",
+  "serie 599",
+  "renfe viajeros",
+  "media distancia",
+  "estacion alora",
+  "linea 430",
+  "fallo tecnico material rodante",
+  "asfa",
+  "mantenimiento preventivo",
+  "sustitucion eje"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 27.08.2015 161129150827IFCIAF"
+}

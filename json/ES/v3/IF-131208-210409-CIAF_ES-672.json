@@ -1,0 +1,99 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías entre Vitoria y Alegría de Álava",
+ "idioma_original": "es",
+ "resumen": "El 2008-12-13, a las 09:45, el tren de mercancías 93161 de Renfe Operadora arrolló a un varón de 58 años en plena vía, PK 494,315, entre Vitoria y Alegría de Álava, en la línea 100. La víctima caminaba por el margen izquierdo de la vía, de espaldas al tren y con paraguas, e intentó cruzar cuando pasaba el tren. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el fallecimiento. No hubo daños materiales; se produjeron retrasos y no se establecieron recomendaciones por tratarse de zona vallada con pasarela y paso inferior próximos.",
+ "hechos": "El día 2008-12-13, a las 09:45 horas, el tren de mercancías 93161 de Renfe Operadora, compuesto por la locomotora 269062, 11 vagones y 346 toneladas de masa remolcada, procedente de Vitoria en dirección Irún, arrolló a una persona en plena vía, PK 494,315, vía I, entre las estaciones de Vitoria y Alegría de Álava, en la línea 100 Hendaya-Madrid, provincia de Álava. La víctima, un varón de 58 años, caminaba por el margen izquierdo de la vía, de espaldas al sentido de la marcha del tren y portando un paraguas para resguardarse de la lluvia, e intentó cruzar de izquierda a derecha cuando pasaba el tren.\n\nEl maquinista, al observar a una persona a unos 200 metros en un lugar no autorizado, hizo uso del silbato en varias ocasiones y, al acercarse y ver que estaba arrimado más de lo normal, volvió a tocar el silbato y aplicó el freno de emergencia. En ese momento el tren circulaba a 99 km/h, por debajo de la velocidad máxima permitida de 135 km/h, y no pudo evitar el arrollamiento; la víctima falleció en el acto.\n\nNo se produjeron daños materiales en el material rodante, la infraestructura ni el medio ambiente. Resultaron afectados dos trenes de larga distancia con un retraso total de 11 minutos y un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufrió un retraso de 166 minutos. El lugar es un tramo recto de vía doble con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; según la inspección, la víctima habría accedido por una puerta que se estaba montando para personal de mantenimiento de la vía, aunque en las inmediaciones existían una pasarela peatonal y un paso inferior carretero.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "494,315",
+  "linea": "100 Hendaya - Madrid",
+  "provincia": "Álava",
+  "descripcion_lugar": "Plena vía, vía I, tramo recto de vía doble con buena visibilidad, entre las estaciones de Vitoria y Alegría de Álava, término municipal de Vitoria. Entorno urbano, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. En las inmediaciones existen una pasarela peatonal y un paso inferior carretero."
+ },
+ "cronologia": [
+  {
+   "hora": "09:45",
+   "evento": "El tren de mercancías 93161 de Renfe Operadora arrolla a un varón de 58 años en plena vía, PK 494,315, entre Vitoria y Alegría de Álava. La víctima fallece en el acto."
+  },
+  {
+   "hora": "10:54",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la Comisión de Investigación de Accidentes Ferroviarios, mediante mensaje de telefonía móvil, que se ha producido el arrollamiento de una persona entre Vitoria y Alegría de Álava."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "93161",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales; retraso de 166 minutos."
+  },
+  {
+   "numero": null,
+   "tipo": "tren de larga distancia",
+   "operador": null,
+   "danos": "Sin daños materiales; dos trenes afectados con un retraso total de 11 minutos."
+  },
+  {
+   "numero": null,
+   "tipo": "tren de mercancías",
+   "operador": null,
+   "danos": "Sin daños materiales; un tren afectado con un retraso total de 6 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 93161",
+   "implicacion": "Matrícula 8848541; habilitado conforme a la Orden Ministerial 2520 de 2006-07-27; último reciclaje formativo el 2007-02-14 y último reconocimiento médico y psicotécnico el 2005-10-31. Jornada efectiva de conducción: 44 minutos el día del accidente, 3 horas y 20 minutos en las 24 horas anteriores y 4 horas y 50 minutos en las 48 horas anteriores. Prueba de alcoholemia negativa, 0,00 mg/1000 ml. Hizo uso del silbato y del freno de emergencia; su actuación fue correcta."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Varón de 58 años que caminaba por el margen izquierdo de la vía, de espaldas al sentido de la marcha del tren y portando un paraguas, e intentó cruzar la vía cuando pasaba el tren 93161. Falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado.",
+  "tipo_via": "Vía doble, alineación recta, vía I.",
+  "velocidad_maxima": "135 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo recto con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. Existen paso inferior carretero y pasarela peatonal en las inmediaciones.",
+  "otro": "Radiotelefonía modalidad A. Según CIRTRA 2007, la media semanal de circulaciones del tramo Vitoria Gasteiz - Agurain Salvatie es de 308: 109 de larga distancia, 82 de media distancia, 1 de cercanías, 110 de mercancías y 7 de servicio."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269062, Nº UIC 957102690626; 11 vagones; 346 toneladas de masa remolcada.",
+  "averia": "No se producen daños; equipos de seguridad funcionaron correctamente; el registrador de seguridad de la locomotora indica que, al accionar el freno de emergencia, el tren circulaba a 99 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Lluvioso.",
+ "causas": {
+  "directa": "Invasión del gálibo por la víctima, que caminaba por el margen izquierdo de la vía e intentó cruzarla cuando pasaba el tren 93161.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Dos trenes de larga distancia con un retraso total de 11 minutos; un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufre un retraso de 166 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "tren de mercancías",
+  "persona en vía",
+  "invasión de gálibo",
+  "línea 100",
+  "vitoria",
+  "alegría de álava",
+  "renfe operadora",
+  "fallecido",
+  "lluvia",
+  "vallado",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-131208-210409-CIAF_ES-672"
+}

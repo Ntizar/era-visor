@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de media distancia 12608 entre Montefurado y A Rúa Petín, línea 800 León-La Coruña",
+ "idioma_original": "es",
+ "resumen": "El 26 de enero de 2008 a las 18:27, el tren de media distancia 12608 de Renfe Operadora, formado por el automotor 440.166-7 y en servicio Vigo-Ponferrada, arrolló a un varón de 68 años en el PK 310/412 de la línea 800 León-La Coruña, entre Montefurado y A Rúa Petín (Orense). La víctima cruzó la vía por un lugar no autorizado, accediendo a través del talud del terraplén, falleciendo en el acto. El tren circulaba a 73 km/h, por debajo del máximo autorizado de 75 km/h, y el maquinista actuó correctamente mediante silbato y freno de emergencia. La vía quedó cortada una hora y se produjeron retrasos acumulados en varios trenes. No se establecieron recomendaciones en el informe, aunque el Pleno de la CIAF propuso un inventario sistemático de situaciones análogas en la RFIG.",
+ "hechos": "El día 26 de enero de 2008, a las 18:27 horas, el tren de viajeros de media distancia 12608, de Renfe Operadora, formado por el automotor 440.166-7 y cubriendo el trayecto Vigo-Ponferrada, circulaba entre las estaciones de Montefurado y A Rúa Petín, en dirección a Ponferrada, por la línea 800 León-La Coruña. A la altura del PK 310/412, situado entre las señales de Avanzada y de Entrada de la estación de A Rúa Petín, el tren arrolló a un varón de 68 años que cruzaba la vía de izquierda a derecha (sentido de la marcha) por un lugar no autorizado, tras acceder a la plataforma ferroviaria a través del talud del terraplén. La víctima falleció en el acto.\n\nEl maquinista, al observar a la persona a unos 200 metros en el lado derecho de la vía, hizo uso reiterado del silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. El tren detuvo su marcha en el PK 310/200. Según el registro jurídico del automotor, la velocidad en el momento de aplicar el freno era de 73 km/h, inferior a la máxima autorizada de 75 km/h para el trayecto. El maquinista comunicó el suceso al Puesto de Mando de León mediante radiotelefonía modalidad A, activándose los protocolos de actuación.\n\nLa vía permaneció cortada desde las 18:27 hasta las 19:27, cuando el Puesto de Mando autorizó la reanudación de la marcha con circulación a la vista al paso por el PK. Los servicios médicos llegaron a las 18:47, la jueza de guardia se personó a las 21:25, el levantamiento del cadáver se realizó a las 21:45 y la circulación en condiciones normales se restableció a las 21:58. No se produjeron daños materiales en material rodante, infraestructura ni medio ambiente.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "A Rúa Petín",
+  "pk": "310/412",
+  "linea": "800 León-La Coruña",
+  "provincia": "Orense",
+  "descripcion_lugar": "Entre las señales de Avanzada y de Entrada de la estación de A Rúa Petín, trayecto Montefurado-A Rúa Petín, en dirección a Ponferrada. Plataforma sobre terraplén con talud. Alineación en curva y perfil en pendiente de 10,57 mm. Bloqueo automático en vía única (BAU) con CTC desde el Puesto de Mando de León."
+ },
+ "cronologia": [
+  {
+   "hora": "18:27",
+   "evento": "El tren 12608 arrolla a la persona en el PK 310/412. El tren detiene su marcha en el PK 310/200. El maquinista comunica el suceso al Puesto de Mando de León."
+  },
+  {
+   "hora": "18:47",
+   "evento": "Llegan los Servicios Médicos al lugar de los hechos."
+  },
+  {
+   "hora": "19:27",
+   "evento": "El Puesto de Mando de León autoriza a reanudar la marcha del tren, prescribiendo circulación con marcha a la vista al paso por el PK. Se restablece parcialmente la circulación."
+  },
+  {
+   "hora": "21:18",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF, por telefonía móvil, la producción del arrollamiento en la línea 800."
+  },
+  {
+   "hora": "21:25",
+   "evento": "Se persona la Jueza de Guardia."
+  },
+  {
+   "hora": "21:45",
+   "evento": "Se procede al levantamiento del cadáver."
+  },
+  {
+   "hora": "21:58",
+   "evento": "El Puesto de Mando restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "12608",
+   "tipo": "Media Distancia (viajeros)",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales. Retraso acumulado junto a otro tren de MD: 96 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 12608",
+   "implicacion": "Matrícula 9677899. Título de conducción categoría B con habilitación de material e infraestructura. Último reciclaje formativo 23/02/2006, último reconocimiento médico 13/11/2007. Jornada de conducción el día del accidente: 1 h 47 min; día anterior: descanso; día 24/01/2008: 5 h 22 min. Comportamiento adecuado: uso reiterado del silbato y aplicación del freno de emergencia. No se le realizó prueba de alcoholemia por imposibilidad de efectuarla dentro del tiempo establecido."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de Avanzada y de Entrada de la estación de A Rúa Petín. El suceso se produce entre ambas señales.",
+  "tipo_via": "Vía única con Bloqueo Automático (BAU) y Control de Tráfico Centralizado (CTC) desde el Puesto de Mando de León. Alineación en curva, perfil en pendiente de 10,57 mm. Plataforma sobre terraplén con talud.",
+  "velocidad_maxima": "75 km/h (según libro horario 101 de 12-11-07 y cuadro de Velocidades Máximas)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Correcta. No se produjeron daños en la infraestructura.",
+  "otro": "Radiotelefonía modalidad A empleada por el maquinista para comunicar al Puesto de Mando de León. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": "440.166-7 (automotor/autopropulsado). Matrícula 967194401667.",
+  "averia": "Ninguna. Tanto el material rodante como las instalaciones técnicas funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas buenas: tiempo despejado y visibilidad atmosférica buena.",
+ "causas": {
+  "directa": "Cruce de la vía por la víctima por un lugar no habilitado para ello, en el momento en que circulaba el tren 12608.",
+  "contribuyentes": [
+   "Acceso de la víctima a la plataforma ferroviaria a través del talud del terraplén en un punto no autorizado.",
+   "La víctima no se percató de la presencia del tren pese al uso reiterado del silbato por parte del maquinista.",
+   "Cruce de la vía de izquierda a derecha (sentido de la marcha), lo que pudo reducir la capacidad de detectar la aproximación del tren."
+  ],
+  "sistemicas": [
+   "Posible ausencia de barreras o medidas de protección en el talud del terraplén que impidan el acceso peatonal no autorizado a la vía.",
+   "El Pleno de la CIAF señala la necesidad de un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+  "afectacion_servicio": "Vía cortada durante 1 hora (18:27-19:27). Retrasos acumulados: 2 trenes de Media Distancia (incluido el implicado) 96 minutos; 2 trenes de Larga Distancia 25 minutos; 1 tren de Mercancías 75 minutos. Total: 196 minutos de retraso."
+ },
+ "lecciones": [
+  "El comportamiento del maquinista fue el adecuado: uso reiterado del silbato y aplicación del freno de emergencia, sin poder evitar el arrollamiento.",
+  "El tren circulaba a velocidad inferior a la máxima autorizada (73 km/h frente a 75 km/h permitidos).",
+  "La jornada de trabajo del maquinista cumplía los tiempos máximos de conducción del RD 2387/2004.",
+  "La imposibilidad de realizar la prueba de alcoholemia al maquinista dentro del tiempo establecido, por la lejanía de los equipos y las características de la ubicación, quedó registrada como limitación operativa."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "El informe definitivo no establece recomendaciones. No obstante, el Pleno de la CIAF, en su resolución de 24 de junio de 2008, entendió que la recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+   "destinatario": "Adif / CIAF (Red Ferroviaria de Interés General)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona en vía",
+  "cruce no autorizado",
+  "media distancia",
+  "línea 800",
+  "montefurado",
+  "a rúa petín",
+  "orense",
+  "renfe operadora",
+  "adif",
+  "automotor 440",
+  "víctima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-260108-240608-CIAF"
+}

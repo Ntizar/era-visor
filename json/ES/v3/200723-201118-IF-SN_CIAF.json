@@ -1,0 +1,331 @@
+{
+ "titulo_normalizado": "Descarrilamiento en plena vía entre Vacarisses y Vacarisses-Torreblanca por desmoronamiento de muro de mampostería",
+ "idioma_original": "es",
+ "resumen": "El 20 de noviembre de 2018, a las 06:15 horas, el tren de cercanías 25000 de Rodalíes de Cataluña colisionó con rocas en el p.k. 321+017 de la línea 220, entre Vacarisses y Vacarisses-Torreblanca, provincia de Barcelona. Las rocas procedían del desmoronamiento parcial de un muro de mampostería que protegía el talud izquierdo de una trinchera. La colisión provocó el descarrilamiento de los cuatro primeros vehículos, un fallecido, 6 heridos graves y 46 heridos leves, y daños materiales. La causa directa fue el fallo de infraestructura por la invasión del gálibo. Como factores coadyuvantes y raíces influyeron el drenaje deficiente de la carretera C-58, la saturación del muro y deficiencias en la aplicación de la normativa y del SGSC de Adif.",
+ "hechos": "El 20 de noviembre de 2018, el tren de cercanías 25000 de Rodalíes de Cataluña, formado por las unidades 447082 en cabeza y 447081 en cola, salió de Manresa a las 05:52 con destino San Vicenç de Calders. Tras una parada comercial en Vacarisses, el tren reanudó la marcha y circuló por la vía 2 de la línea 220 entre Vacarisses y Vacarisses-Torreblanca, en un tramo en curva a izquierda y rampa, con visibilidad de unos 150 metros.\n\nSobre las 06:14 horas, el maquinista detectó rocas y tierra procedentes del desmoronamiento parcial de un muro de mampostería careada del talud izquierdo de una trinchera. Aplicó el manipulador de freno a 97 km/h y, poco después, la seta de urgencia a 92 km/h. La colisión se produjo aproximadamente a 80 km/h en el p.k. 321+017, con invasión total del gálibo de la vía 1 y parcial de la vía 2.\n\nEl impacto provocó el descarrilamiento de los cuatro primeros vehículos: los tres de la unidad de cabeza y el primero de la unidad de cola. El primer coche quedó volcado y apoyado en la cuneta, impactó con columnas y zapatas de cimentación y perdió puertas; en esa zona apareció el cadáver de un viajero despedido. El tren recorrió 128 metros descarrilado y quedó detenido entre los p.k. 321+145 y 320+995, con un fallecido, 6 heridos graves y 46 heridos leves, además de daños materiales en infraestructura y material rodante.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "321+017",
+  "linea": "220 de Lleida Pirineus a L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Vía 2 entre las estaciones de Vacarisses (p.k. 319+611) y Vacarisses-Torreblanca (p.k. 322+300), en tramo Castellbell i el Vilar-Monistrol – Terrassa, dentro de una trinchera entre p.k. 320+780 y p.k. 321+080, próxima al paso superior de la carretera C-58 (p.k. 321+040)."
+ },
+ "cronologia": [
+  {
+   "hora": "23:48",
+   "evento": "19/11/2018: llega a Manresa el tren 28067, último tren del día anterior; desde entonces no hubo circulaciones en la zona del suceso hasta el tren 25000."
+  },
+  {
+   "hora": "05:52",
+   "evento": "El tren 25000 sale de Manresa con destino San Vicenç de Calders, hora prescrita."
+  },
+  {
+   "hora": "06:12",
+   "evento": "El tren se detiene en la vía 2 del apeadero de Vacarisses para parada comercial."
+  },
+  {
+   "hora": "06:13",
+   "evento": "El tren reanuda la marcha tras 40 segundos detenido."
+  },
+  {
+   "hora": "06:13",
+   "evento": "Pasa por la baliza de pie de la señal intermedia 3198 en indicación L2-L3 (vía libre) a 44 km/h."
+  },
+  {
+   "hora": "06:14",
+   "evento": "Tras unos 820 metros, alcanza 98 km/h, velocidad máxima alcanzada desde la salida de Vacarisses."
+  },
+  {
+   "hora": "06:14",
+   "evento": "El maquinista actúa sobre el manipulador de freno del tren a 97 km/h."
+  },
+  {
+   "hora": "06:14",
+   "evento": "Dos segundos después actúa sobre la seta de urgencia a 92 km/h, aproximadamente en p.k. 320+917."
+  },
+  {
+   "hora": "06:14",
+   "evento": "Se produce la colisión con rocas a unos 80 km/h y el descarrilamiento inicia en p.k. 321+017."
+  },
+  {
+   "hora": "06:15",
+   "evento": "Hora del suceso indicada en el resumen del informe."
+  },
+  {
+   "hora": "06:16",
+   "evento": "Se desconecta la subestación de San Vicenç de Castellet; se ocupan circuitos de vía y cierran señales entre Manresa y Terrassa."
+  },
+  {
+   "hora": "06:18",
+   "evento": "El Centro de Gestión de Renfe Cercanías comunica al Puesto de Mando de Barcelona el descarrilamiento del tren 25000."
+  },
+  {
+   "hora": "06:20",
+   "evento": "El Puesto de Mando interrumpe la circulación por las dos vías entre Terrassa y Manresa."
+  },
+  {
+   "hora": "06:21",
+   "evento": "El Puesto de Mando contacta con el maquinista por teléfono móvil corporativo; confirma descarrilamiento y caída de catenaria."
+  },
+  {
+   "hora": "06:24",
+   "evento": "El Puesto de Mando informa del accidente a Gestión de Tráfico, CPS, Logística, Jefatura Operativa de Barcelona, H24, Seguridad en la Circulación y compañías afectadas."
+  },
+  {
+   "hora": "06:26",
+   "evento": "Se corta la tensión entre San Vicenç de Castellet y Torreblanca; el CPS alerta a medios externos y activa patrulla BCN I."
+  },
+  {
+   "hora": "06:39",
+   "evento": "Se corta tensión entre Terrassa y Manresa tras observar chispas en la catenaria en la zona de cola."
+  },
+  {
+   "hora": "06:40",
+   "evento": "Se activa el plan de autoprotección de nivel 1 y el maquinista es nombrado provisionalmente jefe de la emergencia."
+  },
+  {
+   "hora": "06:44",
+   "evento": "Llegan los bomberos al lugar del accidente."
+  },
+  {
+   "hora": "06:51",
+   "evento": "El CPS comunica una persona fallecida, un herido muy grave y tres heridos graves según bomberos; en el tren viajaban 131 personas además del operador y maquinista."
+  },
+  {
+   "hora": "07:10",
+   "evento": "El maquinista es relevado como jefe de la emergencia por un agente de Protección Civil y Seguridad."
+  },
+  {
+   "hora": "07:16",
+   "evento": "Han llegado los medios de intervención externos: Emergencias, Policía Local, Mossos d'Esquadra, Guardia Civil."
+  },
+  {
+   "hora": "07:24",
+   "evento": "Adif comunica por SMS a la CIAF que se ha producido el suceso."
+  },
+  {
+   "hora": "07:40",
+   "evento": "Queda evacuado totalmente el tren; 5 heridos son trasladados y se monta hospital de campaña."
+  },
+  {
+   "hora": "08:40",
+   "evento": "22 personas son trasladadas en autocar a Terrassa y 61 a Manresa; otras personas esperan evaluación sanitaria."
+  },
+  {
+   "hora": "09:15",
+   "evento": "El CPS informa traslados de heridos a hospitales Mutua de Manresa, Parc Taulí de Sabadell y Althaia de Manresa."
+  },
+  {
+   "hora": "09:56",
+   "evento": "Llegan al lugar del accidente el juez y el forense."
+  },
+  {
+   "hora": "10:20",
+   "evento": "Se levanta el cadáver de la persona fallecida y se retiran servicios de emergencias."
+  },
+  {
+   "hora": "12:00",
+   "evento": "Mossos d'Esquadra y Seguridad en la Circulación autorizan el comienzo de trabajos de reparación y encarrilamiento."
+  },
+  {
+   "hora": "12:27",
+   "evento": "Se establece la entrega de vía bloqueada entre Terrassa y Castellbell i el Vilar para trabajos de reparación."
+  },
+  {
+   "hora": "09:53",
+   "evento": "21/11/2018: sale de Manresa la locomotora 333391 como tren 95986 hacia Castellbell i el Vilar."
+  },
+  {
+   "hora": "10:10",
+   "evento": "21/11/2018: queda retirado el desprendimiento en su totalidad."
+  },
+  {
+   "hora": "12:07",
+   "evento": "21/11/2018: quedan desacopladas las dos unidades."
+  },
+  {
+   "hora": "12:20",
+   "evento": "21/11/2018: se inician los trabajos de encarrilamiento de la unidad 447081."
+  },
+  {
+   "hora": "15:35",
+   "evento": "21/11/2018: finaliza el encarrilamiento de la unidad 447081."
+  },
+  {
+   "hora": "17:18",
+   "evento": "21/11/2018: la locomotora 333391 remolca la unidad 447081 hacia la estación de Sant Vicenç de Castellet."
+  },
+  {
+   "hora": "17:40",
+   "evento": "21/11/2018: el coche de cabeza de la unidad 447082 ha sido cortado para su posterior desguace."
+  },
+  {
+   "hora": "18:26",
+   "evento": "21/11/2018: la unidad 447081 llega a la vía 4 de la estación de Sant Vicenç de Castellet."
+  },
+  {
+   "hora": "01:40",
+   "evento": "22/11/2018: se realizan trabajos de encarrilamiento del 2º y 3º coche de la unidad 447082."
+  },
+  {
+   "hora": "03:47",
+   "evento": "22/11/2018: queda encarrilado el coche 3º."
+  },
+  {
+   "hora": "08:45",
+   "evento": "22/11/2018: queda encarrilado el coche 2º."
+  },
+  {
+   "hora": "12:00",
+   "evento": "22/11/2018: comienzan los trabajos de desguace del coche de cabeza de la unidad 447082."
+  },
+  {
+   "hora": "12:34",
+   "evento": "22/11/2018: se inicia maniobra de apartado de los coches 2º y 3º remolcados por locomotora 333091."
+  },
+  {
+   "hora": "13:55",
+   "evento": "22/11/2018: llegan a la vía 6 de la estación de Sant Vicenç de Castellet."
+  },
+  {
+   "hora": "14:49",
+   "evento": "22/11/2018: finaliza maniobra para situar los dos coches en la vía 8."
+  },
+  {
+   "hora": "21:00",
+   "evento": "22/11/2018: finaliza el desguace del coche de cabeza de la unidad 447082."
+  },
+  {
+   "hora": "00:25",
+   "evento": "23/11/2018: accede al trayecto afectado por vía 2 la vagoneta de electrificación para trabajos de restablecimiento."
+  },
+  {
+   "hora": "05:20",
+   "evento": "24/11/2018: se restablece la circulación por vía 2 entre Castellbell i el Vilar-Monistrol y Terrassa con limitación a 30 km/h entre p.k. 320+750 y p.k. 321+150."
+  },
+  {
+   "hora": "08:50",
+   "evento": "24/11/2018: se establece la Banalización Temporal de Vía por vía 2; la vía 1 permanece interceptada."
+  },
+  {
+   "hora": "04:04",
+   "evento": "22/12/2018: finalizan los trabajos en vía 1 y se restablece circulación con limitación temporal de velocidad."
+  },
+  {
+   "hora": "05:00",
+   "evento": "24/12/2018: se suprime la limitación temporal de velocidad máxima y se circula por ambas vías a velocidad normal."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25000",
+   "tipo": "tren de cercanías",
+   "operador": "Rodalíes de Cataluña / Renfe Viajeros / Renfe Operadora",
+   "danos": "Descarrilamiento de los cuatro primeros vehículos; daños importantes en material rodante; el primer coche fue desguazado."
+  },
+  {
+   "numero": "447082",
+   "tipo": "unidad autopropulsada serie 447, unidad de cabeza",
+   "operador": "Renfe Viajeros / Renfe Operadora",
+   "danos": "Tres coches descarrilados; primer coche volcado y desguazado; bogies, estructuras y puertas dañados; segundo bogie desprendido."
+  },
+  {
+   "numero": "447081",
+   "tipo": "unidad autopropulsada serie 447, unidad de cola",
+   "operador": "Renfe Viajeros / Renfe Operadora",
+   "danos": "Primer coche descarrilado; daños en bogies, estructura y puertas; encarrilada y apartada en Sant Vicenç de Castellet."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25000",
+   "implicacion": "Conducía el tren; resultó herido y atrapado en cabina; actuó sobre el manipulador de freno y la seta de urgencia; no se observaron incumplimientos; pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "Operador comercial especializado del tren 25000",
+   "implicacion": "Informó del descarrilamiento al Centro de Gestión; evaluó la situación de los viajeros; colaboró en la evacuación y en la localización de personal sanitario."
+  },
+  {
+   "rol": "Responsable de Circulación del CTC en Barcelona-França",
+   "implicacion": "Recibió la alarma, interrumpió la circulación, coordinó comunicaciones y confirmó que no había anomalía en instalaciones de seguridad ni en señales antes del suceso."
+  },
+  {
+   "rol": "Personal de mantenimiento de Adif / Jefe de Distrito",
+   "implicacion": "Responsable de vigilancia e inspección de la zona; declaró no haber observado desperfectos en el muro en vigilancias de cabina de 16 y 19 de noviembre de 2018."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de Vía Doble (BAD) con CTC; señal intermedia 3198 alta de tres focos y cartelón P, con balizas ASFA previa y pie de señal; en indicación L2-L3 vía libre; no se detectaron anomalías en instalaciones de seguridad.",
+  "tipo_via": "Vía doble electrificada de ancho ibérico; carril de 54 kg/ml sobre traviesas monobloc tipo MR con sujeción elástica HM, clip SKL-1; tramo en curva a izquierda y rampa.",
+  "velocidad_maxima": "100 km/h",
+  "ancho": "Ancho ibérico",
+  "electrificacion": "Vía electrificada; catenaria caída y dañada; corte de tensión en la zona; daños en catenaria, postes y línea de contacto.",
+  "estado_via": "Sin limitaciones de velocidad temporales en el momento del suceso; no se habían detectado defectos de vía previos; tras el accidente, mediciones con carro Krabb cumplían valores de vía de calidad 2; el drenaje era deficiente y la superestructura inundable.",
+  "otro": "Trinchera entre p.k. 320+780 y p.k. 321+080; paso superior de la carretera C-58 en p.k. 321+040; muro desmoronado entre p.k. 321+004 y p.k. 321+024; trinchera incluida en Plan de Trincheras y Ficha 2 como riesgo medio; visibilidad de unos 150 metros."
+ },
+ "material_rodante": {
+  "series": "Serie 447 de Renfe Operadora; unidades 447082 y 447081; tren tipo 120 A; protección ASFA Digital; registrador CESIS I.",
+  "averia": "No se detectaron averías previas ni reparaciones pendientes; equipos y dispositivos de seguridad funcionaron correctamente; tras la colisión el registrador dejó de registrar variables.",
+  "mantenimiento": "Plan de Mantenimiento edición 1 de 13.08.2012, revisión 5 de 13.11.2017; unidades autorizadas para circular sin restricciones; 447082: IS el 15/11/2018 con 1.275.166 km y gran intervención R el 20/07/2018 con 1.225.699 km; 447081: IS el 14/11/2018 con 1.211.753 km y gran intervención R el 06/11/2018 con 1.210.345 km."
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso; en días anteriores hubo precipitaciones intensas, especialmente el 15/11/2018 con 93,8 l/m² registrados por Meteocat en Vacarisses y acumulado de 142,1 l/m² en noviembre hasta el día del suceso; AEMET no difundió alerta por fuertes lluvias entre los días 15 y 20 de noviembre.",
+ "causas": {
+  "directa": "Colisión con obstáculos (rocas) por fallo de infraestructura, al producirse el desmoronamiento parcial de un muro de revestimiento de mampostería careada que protegía de la erosión el talud izquierdo de una trinchera; las rocas invadían totalmente el gálibo de la vía 1 y parcialmente el de la vía 2.",
+  "contribuyentes": [
+   "Desbordamiento de la rejilla existente en la cuneta derecha de la carretera autonómica C-58 por aguas de escorrentía y posterior caída sobre el talud ferroviario y el trasdós del muro de mampostería.",
+   "Probable meteorización superficial del mortero de unión de los mampuestos y posible reducción del coeficiente de rozamiento entre mampuestos y mortero.",
+   "Presión hidrostática del agua acumulada en el trasdós del muro a lo largo de los días, con origen en precipitaciones anteriores y drenaje insuficiente.",
+   "Vertido de aguas de drenaje de la carretera C-58 al sistema de drenaje de la vía, resultando insuficiente y produciéndose inundación de la vía.",
+   "Defectos del drenaje superficial: talud derecho sin cuneta de coronación, cuneta izquierda en tierras en estado deficiente, vertido de carretera con pendiente fuerte, disipadores de energía no eficaces y zapatas de cimentación que reducían la sección de la cuneta.",
+   "Inexistencia de alertas de AEMET por fuertes lluvias entre los días 15 y 20 de noviembre, pese a precipitaciones registradas por Meteocat, por lo que no se activaron actuaciones específicas según el protocolo."
+  ],
+  "sistemicas": [
+   "No aplicación de la Ley del Sector Ferroviario, o legislación anterior que la sustituye, respecto a autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea, zona de dominio público ferroviario y zona de protección de la carretera C-58, su cruce con el ferrocarril y su infraestructura.",
+   "Insuficiencia de la Ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias de Adif, por discrepancias de predicciones con otras fuentes meteorológicas e inadecuación de actuaciones ante el hecho acontecido.",
+   "Inadecuación de los procedimientos del SGSC de Adif relativos a inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante hechos constatados como la introducción de agua de escorrentía en el trasdós del muro."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 6,
+  "heridos_leves": 46,
+  "danos_materiales": "Daños en infraestructura: 30 m de muro, 50 m de vía 2, 150 m de vía 1, unos 100 m de catenaria en vía 1 y 200 m en vía 2, unos 50 m de línea de 2200 V en vía 1 y 200 m en vía 2, 3 postes, 200 m de canaletas, 250 m de líneas de señalización y comunicaciones, 1500 m de fibra óptica; reparación vía/trinchera 558.146,98 euros; total reparación 1.555.233 euros; intervención tren taller unos 269.000 euros. Daños en material rodante: bogies, estructuras y puertas; primer coche desguazado. No se producen daños medioambientales.",
+  "afectacion_servicio": "Interrupción de circulación entre Terrassa y Manresa desde las 06:20 del 20/11/2018; vía 2 restablecida el 24/11/2018 a las 05:20 con limitación de 30 km/h; vía 1 restablecida el 22/12/2018 a las 04:04 con limitación; limitación suprimida el 24/12/2018 a las 05:00. Retrasos en 41 trenes de Media Distancia por 848 minutos y en 403 trenes de Cercanías por 3.395 minutos; supresión de 33 trenes de Media Distancia y 270 de Cercanías; plan alternativo con autocares entre Terrassa y Manresa y entre Manresa y Calaf."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Revisar la ficha II Actuaciones frente a temporales de lluvia del Manual de Prevención y Gestión de Incidencias (anexo II al Plan de Contingencias) dadas las discrepancias de las predicciones con otras fuentes de datos meteorológicos y su inadecuación ante el hecho acontecido, y los procedimientos del Sistema de Gestión de la Seguridad de Adif (SGS) relativos a la inspección y mantenimiento de la infraestructura, dada la falta de respuesta ante los hechos constatados (introducción en el trasdós del muro de agua procedente de la escorrentía en superficie).",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  },
+  {
+   "texto": "Revisar la aplicación de la ley del Sector Ferroviario (en su caso la Ley de Policía de Ferrocarriles y legislación posterior que la sustituye) respecto a la autorización de obras, mantenimiento, control, vigilancia e inspección del terreno adyacente a la vía férrea (zona de dominio público ferroviario y zona de protección) de la carretera C-58, su cruce con el ferrocarril y su infraestructura.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  },
+  {
+   "texto": "Identificación de los muros de similares características que tengan agentes externos (otras infraestructuras o vertidos de aguas), como el de este caso, que puedan llegar a comprometer su estabilidad.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  },
+  {
+   "texto": "Trasladar a la CCAA de la carretera C-58 la obligatoriedad de adecuar y mejorar su sistema de drenaje de forma que no se vierta agua de escorrentía a la infraestructura ferroviaria.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rocas",
+  "muro de mampostería",
+  "trinchera",
+  "drenaje",
+  "carretera c-58",
+  "precipitaciones",
+  "seguridad ferroviaria",
+  "adif",
+  "renfe",
+  "rodalies",
+  "vacarisses"
+ ],
+ "v3_completo": true,
+ "id": "ES-200723-201118-IF-SN_CIAF"
+}

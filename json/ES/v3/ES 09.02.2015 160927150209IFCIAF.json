@@ -1,0 +1,162 @@
+{
+ "titulo_normalizado": "Arrollamiento de topera y descarrilamiento en maniobra de formación en estación de A Susana por error en itinerario",
+ "idioma_original": "es",
+ "resumen": "El 9 de febrero de 2015 a las 08:58, una maniobra para formación del tren 60222 de Renfe Mercancías en la estación de A Susana (línea 822) arrolló la topera de la vía 2 y descarriló tres vagones JJPD vacíos. El auxiliar de operaciones del tren (AOT) de Logirail, habilitado como auxiliar de circulación, no accionó la botonera que debía desviar la aguja A4 hacia la vía 1, dejando el itinerario orientado hacia la topera. El movimiento se realizaba empujando a 14 km/h y no fue posible detener la composición antes del impacto. No hubo víctimas ni heridos. La CIAF atribuyó el accidente a fallo humano del AOT y no formuló recomendaciones al haberse adoptado ya medidas correctivas.",
+ "hechos": "El día 9 de febrero de 2015, el tren de mercancías 60223 de Renfe Mercancías se estacionó en la vía 2 de la estación de A Susana. El AOT de Logirail, con mando local concedido por el jefe del CTC de Ourense, ordenó una maniobra para formar el tren 60222, realizando un corte con dos locomotoras serie 333 en mando múltiple y 11 vagones (8 tolvas PTT y 3 JJPD). Tras varios movimientos previos sin incidente, incluyendo el acoplamiento de 3 vagones JJPD vacíos en la derivación particular CEGRAN, se dispuso a desplazar el corte completo (2 locomotoras + 14 vagones) empujando desde la vía 4 hacia la vía 1 general, para luego regresar tirando hacia la vía 2. El AOT debía colocar las agujas del escape 12-8 a desviada y las agujas A4 y A2 a desviada, pero no accionó la botonera de A4, quedando en posición directa y dirigiendo la composición hacia la topera situada a 38 metros. A las 08:57:38 el maquinista inició el movimiento empujando. Al observar que la maniobra se encaminaba a la topera, el AOT ordenó 'alto' varias veces por radiotelefonía. El maquinista accionó el freno de servicio, pero a las 08:58:24, a 14 km/h, se produjo el arrollamiento de la topera. La maniobra quedó detenida a las 08:58:36 tras recorrer 3 metros. Los tres vagones JJPD que circulaban en cabeza (sentido empujando) descarrilaron: el primero alineado, el segundo atravesado y el tercero semivolcado, invadiendo el gálibo de la vía general.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "A Susana",
+  "pk": "366+849",
+  "linea": "822 (Zamora-A Coruña)",
+  "provincia": "A Coruña",
+  "descripcion_lugar": "Topera de la vía 2, a 38 metros de la aguja A4, debajo del puente carretero por el lado Zamora. Estación con vía general (vía 1), vías secundarias 2 y 4, apartadero-cargadero con muelle de ganado y derivación particular CEGRAN S.A. desde vía 4."
+ },
+ "cronologia": [
+  {
+   "hora": "08:57:38",
+   "evento": "El maquinista inicia el movimiento empujando desde vía 4 hacia vía 1 por orden del AOT"
+  },
+  {
+   "hora": "08:58:24",
+   "evento": "Arrollamiento de la topera de la vía 2 a 14 km/h; inicio del descarrilamiento de los tres vagones JJPD en cabeza"
+  },
+  {
+   "hora": "08:58:36",
+   "evento": "Detención de la maniobra tras recorrer 3 metros desde el impacto"
+  },
+  {
+   "hora": "09:00",
+   "evento": "El AOT contacta con el puesto de mando de Ourense comunicando el descarrilamiento"
+  },
+  {
+   "hora": "10:15",
+   "evento": "Sale de A Susana el tren AU 200 (locomotora aislada, dos series 333) hacia A Coruña-San Diego"
+  },
+  {
+   "hora": "13:30",
+   "evento": "Se solicita tren taller a dependencias de A Coruña"
+  },
+  {
+   "hora": "16:45",
+   "evento": "Se solicita grúa de carretera"
+  },
+  {
+   "hora": "18:10",
+   "evento": "Sale de A Coruña-San Diego el tren taller con personal de Integria"
+  },
+  {
+   "hora": "18:52",
+   "evento": "Llega al lugar del suceso la grúa de carretera"
+  },
+  {
+   "hora": "19:30",
+   "evento": "Llega el tren taller al lugar del descarrilamiento"
+  },
+  {
+   "hora": "21:20",
+   "evento": "Se aparta el primer corte de material (10 vagones)"
+  },
+  {
+   "hora": "00:00",
+   "evento": "Se aparta el vagón JJPD cargado con cemento (posición 11), día 10.02.2015"
+  },
+  {
+   "hora": "06:15",
+   "evento": "Se encarrila y aparta el vagón JJPD vacío (posición 12), semivolcado"
+  },
+  {
+   "hora": "08:20",
+   "evento": "Se encarrilan en vía 4 los vagones de posiciones 13 y 14, ambos inútiles sin freno"
+  },
+  {
+   "hora": "10:44",
+   "evento": "Sale de A Susana el tren taller hacia A Coruña-San Diego"
+  },
+  {
+   "hora": "11:50",
+   "evento": "Queda restablecida la circulación con LTV 60 km/h entre pk 366+860 y 366+910"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "60222",
+   "tipo": "tren de mercancías (formación en curso)",
+   "operador": "Renfe Mercancías",
+   "danos": "Descarrilamiento de 3 vagones JJPD vacíos; daños valorados en 93.385 €"
+  },
+  {
+   "numero": "60223",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Mercancías",
+   "danos": "Origen de la maniobra; sin daños adicionales mencionados"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista (Renfe Operadora, matrícula 8868184)",
+   "implicacion": "Ejecutó el movimiento empujando por orden del AOT. Accionó el freno de servicio al recibir la orden de alto, pero el impacto fue prácticamente simultáneo. Título B de conducción, antigüedad desde 26.09.1986. Pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "Auxiliar de operaciones del tren (AOT) - Logirail, habilitado como auxiliar de circulación",
+   "implicacion": "Responsable de la maniobra. No accionó la botonera para desviar la aguja A4, estableciendo incorrectamente el itinerario. No comprobó la disposición del itinerario antes de ordenar el movimiento, incumpliendo arts. 603.3 y 604.3 del RGC. Habilitado desde 10.10.2013, dos años de servicio en A Susana. Pruebas de alcohol y drogas negativas. Se le suspendió la habilitación (25.02.2015) y se le devolvió tras reciclaje (20.03.2015)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento eléctrico Dimetal. Señal de salida 2S/II. Botonera junto a aguja A4 para cambio de posición. Cerraduras Boure simple (A12) y doble (A8). Marmitas junto a agujas.",
+  "tipo_via": "Vía única, ancho ibérico, no electrificada. Bloqueo automático en vía única (BAU) con CTC desde Ourense. Estación con vía general (vía 1), vías secundarias 2 y 4, apartadero-cargadero, muelle de ganado y derivación particular CEGRAN.",
+  "velocidad_maxima": "20 km/h (velocidad máxima RGC para maniobras empujando); LTV post-accidente: 60 km/h entre pk 366+860 y 366+910",
+  "ancho": "Ibérico",
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Funcionamiento correcto antes del accidente. Daños en la topera y en la vía 2 tras el impacto. Vía 4 sin circuitos de vía; vías 1 y 2 con circuitos de vía.",
+  "otro": "Tramo Vedra-Rivadulla a bifurcación A Grandeira pk 85.0. Media semanal: 56 circulaciones (13 larga distancia, 15 media distancia, 25 mercancías, 3 servicio). No existían obras en las inmediaciones. Consigna serie CO Nº 331 (31.10.2011) y serie A Nº 1270 (10.10.1981)."
+ },
+ "material_rodante": {
+  "series": "2 locomotoras serie 333 (UIC 95710333334-1 y 95710333328-3) en mando múltiple; 8 vagones PTT (tolvas); 6 vagones JJPD (cerrados con bogies para paletizados). Registrador de seguridad CESIS 4G en locomotora 333.334-1.",
+  "averia": "Ninguna. Equipos de seguridad (freno, ASFA) funcionaron correctamente. Instalaciones técnicas de la estación en correcto estado.",
+  "mantenimiento": "No se mencionan deficiencias de mantenimiento. El material rodante no fue factor contribuyente."
+ },
+ "clima": "Día nublado con escasa visibilidad (niebla débil). Condiciones atmosféricas declaradas por el maquinista: nublado y de escasa visibilidad.",
+ "causas": {
+  "directa": "Fallo humano del AOT: no estableció correctamente el itinerario de la maniobra (no accionó la botonera para desviar la aguja A4) y no comprobó la correcta disposición de las agujas antes de ordenar el movimiento de empujar, incumpliendo los arts. 603.3 y 604.3 del RGC.",
+  "contribuyentes": [
+   "Movimiento realizado empujando: el maquinista iba en la primera locomotora, al final de la composición según sentido de marcha, sin visión directa del primer vagón (estaba en curva).",
+   "Visibilidad relativa del AOT desde el piquete de vía 2.",
+   "Distancia muy corta entre la aguja A4 y la topera (38 metros), lo que impidió la detención efectiva tras la orden de alto.",
+   "Comunicación exclusivamente por radiotelefonía (el AOT no era visible desde la cabina por estar en curva).",
+   "Escasa visibilidad por niebla débil en el momento del suceso."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en 3 vagones JJPD descarrilados (93.385 €). Daños en la topera y en la vía 2. Dos vagones quedaron inútiles (sin freno).",
+  "afectacion_servicio": "Circulación interrumpida desde 08:58 del 09.02.2015 hasta 11:50 del 10.02.2015 (~27 horas). Afectados: Renfe Operadora - 2 trenes larga distancia desviados por línea 082, 2 trenes media distancia con transbordo por carretera entre Santiago de Compostela y Lalín, 4 trenes de mercancías suprimidos, 1 retraso de 56 min. Comsa Rail Transport - 1 tren mercancías suprimido, 1 retraso de 56 min. LTV 60 km/h tras restablecimiento."
+ },
+ "lecciones": [
+  "La comprobación del itinerario antes de ordenar el movimiento es una barrera de seguridad crítica que no puede omitirse, especialmente en maniobras empujando sin visibilidad directa.",
+  "La distancia reducida entre aguja y topera (38 m) hace inviable la detención una vez iniciado el movimiento, por lo que la verificación previa es la única defensa efectiva.",
+  "La comunicación por radiotelefonía en curva, sin visibilidad directa entre AOT y maquinista, reduce la capacidad de reacción ante una desviación no prevista del itinerario.",
+  "La habilitación como auxiliar de circulación requiere formación continua y reciclaje; el SGS de Adif permite la suspensión y recuperación de habilitaciones tras formación correctiva."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento de topera",
+  "descarrilamiento",
+  "maniobra de formación",
+  "fallo humano",
+  "itinerario incorrecto",
+  "agujas",
+  "auxiliar de circulación",
+  "logirail",
+  "renfe mercancías",
+  "línea 822",
+  "a susana",
+  "enclavamiento dimetal",
+  "empujando",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 09.02.2015 160927150209IFCIAF"
+}

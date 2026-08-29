@@ -1,0 +1,184 @@
+{
+ "titulo_normalizado": "Incendio en motor M2 del coche de cola del tren de cercanías 24443 tras salir de la estación de Cheste por pérdida de gasóleo",
+ "idioma_original": "es",
+ "resumen": "El 4 de noviembre de 2016, el tren de cercanías 24443 de Renfe Viajeros, con origen Valencia Nord y destino Buñol, sufrió un incendio en el motor M2 del coche de cola (502) tras reiniciar la marcha en la estación de Cheste. El maquinista detectó fuego al mirar por el retrovisor y detuvo el tren entre las señales R2 y E2. El incendio fue provocado por la pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación de gasóleo. Los 9 viajeros fueron evacuados sin heridas. La vía estuvo interceptada 125 minutos y se produjeron retrasos acumulados de 331 minutos. La CIAF concluyó que se trató de un fallo técnico del material rodante con causas subyacentes en la no comunicación de una anomalía detectada el día anterior.",
+ "hechos": "El día 4 de noviembre de 2016 a las 20:44 horas, el tren de cercanías 24443 de Renfe Viajeros, formado por el automotor 592.302 (coche 302 en cabeza) y 592.502 (coche 502 en cola), realizó su parada comercial prevista en la estación de Cheste (línea 310 Aranjuez-Valencia Font de Sant Lluís). Tras 34 segundos de parada, el tren reinició la marcha y a las 20:45:05 rebasó la señal de salida S1/1 en vía libre. Según el maquinista, se encendió la señal de aviso de fuego y al mirar por el espejo retrovisor observó llamas en el coche de cola. Efectuó detención inmediata a 25 km/h, quedando el tren detenido a las 20:45:52 entre las señales R2 y E2, tras recorrer 422 metros.\n\nEl maquinista encontró a los 9 viajeros en el coche de cabeza, quienes bajaron del tren y se dirigieron a pie a la estación. A continuación intentó apagar el fuego con los extintores del tren: usó uno sin controlar el fuego, el segundo no funcionó y un tercero no logró desbloquearlo. A las 21:05 el puesto de mando solicitó bomberos. Un vecino de la localidad apagó parcialmente el incendio a las 21:14, pero este se reactivó. El fuego fue completamente extinguido por los bomberos a las 22:06. El tren fue apartado en vía 2 con ayuda del tren de socorro 24445 a las 22:50.\n\nLa causa inicial fue la pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación de gasóleo en el motor M2 del coche 502, provocando la fuga de combustible y el posterior incendio. El día anterior (3 de noviembre), un maquinista anotó en el Libro de Reparaciones una pérdida de gasoil en el motor del coche 502, pero identificó erróneamente el motor (anotó motor 1 cuando era el motor 2) y no informó al Centro de Gestión como exigía el procedimiento RV-SGS-PE-SPG-14.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Cheste",
+  "pk": "58+934",
+  "linea": "0310 Aranjuez a Valencia - La Font de Sant Lluís",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Estación de Cheste, PK 59+395 de la línea 310. Vía única con BAU y CTC. El tren quedó detenido entre las señales R2 (PK 59+155) y E2 (PK 58+802), en curva a derecha. Tramo Valencia Sant Isidre - Buñol. Municipio de Cheste."
+ },
+ "cronologia": [
+  {
+   "hora": "2026-11-04T20:44:00",
+   "evento": "El tren 24443 realiza parada comercial en la estación de Cheste (un minuto de retraso sobre horario)"
+  },
+  {
+   "hora": "2026-11-04T20:44:34",
+   "evento": "El tren reinicia la marcha tras 34 segundos de parada"
+  },
+  {
+   "hora": "2026-11-04T20:45:05",
+   "evento": "El tren rebasa la señal de salida S1/1 en vía libre"
+  },
+  {
+   "hora": "2026-11-04T20:45:52",
+   "evento": "Detención inmediata del tren entre señales R2 y E2 tras detectar fuego en el coche de cola (422 m recorridos, velocidad máxima 26 km/h)"
+  },
+  {
+   "hora": "2026-11-04T20:46:00",
+   "evento": "El Jefe del CTC llama al maquinista; este comunica el incendio en el coche de cola"
+  },
+  {
+   "hora": "2026-11-04T21:03:00",
+   "evento": "El Regulador del CTC comunica con el 112"
+  },
+  {
+   "hora": "2026-11-04T21:05:00",
+   "evento": "El puesto de mando solicita la presencia de los bomberos"
+  },
+  {
+   "hora": "2026-11-04T21:14:00",
+   "evento": "Un vecino apaga el incendio con su extintor; el fuego se reactiva; llega la Guardia Civil; viajeros evacuados"
+  },
+  {
+   "hora": "2026-11-04T21:21:00",
+   "evento": "El Regulador comunica al CPS que toda la circulación está detenida entre Cheste y Chiva"
+  },
+  {
+   "hora": "2026-11-04T22:06:00",
+   "evento": "Los bomberos dan por completamente apagado el incendio"
+  },
+  {
+   "hora": "2026-11-04T22:10:00",
+   "evento": "Comunicación de retirada de bomberos y autorización para apartar el tren"
+  },
+  {
+   "hora": "2026-11-04T22:12:00",
+   "evento": "El Jefe del CTC autoriza el rebase de señal S1/2 al tren de socorro 24445"
+  },
+  {
+   "hora": "2026-11-04T22:43:00",
+   "evento": "El tren de socorro comunica que ambas composiciones están dispuestas para apartarse en vía 2"
+  },
+  {
+   "hora": "2026-11-04T22:50:00",
+   "evento": "Tren 24443 apartado en vía 2 de Cheste; se restablece la circulación normal"
+  },
+  {
+   "hora": "2026-11-04T23:39:10",
+   "evento": "El tren 24443 efectúa salida remolcado hacia Valencia"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24443",
+   "tipo": "Cercanías",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en motor M2 del coche 502 y en el piso del vehículo. Valorados en 29.756 euros."
+  },
+  {
+   "numero": "24445",
+   "tipo": "Tren de socorro",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños"
+  },
+  {
+   "numero": "24548",
+   "tipo": "Cercanías",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños (detenido en vía 1 de Chiva)"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 24443",
+   "implicacion": "Detectó el incendio por el aviso de fuego y el retrovisor, realizó detención inmediata, evacuó viajeros, intentó apagar el fuego con extintores (uno falló, otro no se pudo activar), llamó al puesto de mando. Título B de conducción, habilitado desde 02.01.2007, reciclaje formativo 17.10.2014, reconocimiento médico 24.02.2015."
+  },
+  {
+   "rol": "Maquinista del día anterior (3/11/2016)",
+   "implicacion": "Anotó en el Libro de Reparaciones la pérdida de gasoil en el motor del coche 502 pero identificó erróneamente el motor (anotó motor 1 cuando era motor 2) y no informó al Centro de Gestión conforme al procedimiento RV-SGS-PE-SPG-14."
+  },
+  {
+   "rol": "Jefe del CTC de Valencia",
+   "implicacion": "Se percató de la detención del tren, llamó al maquinista, coordinó la gestión de la emergencia."
+  },
+  {
+   "rol": "Regulador PM / Técnico de Regulación",
+   "implicacion": "Activaron protocolos, comunicaron con 112, CPS, suspendieron circulación entre Cheste y Chiva, coordinaron restablecimiento del servicio."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales R2 (PK 59+155), E2 (PK 58+802), S1/1 (salida), S1/2. Señal de aviso de fuego en el tren.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "105 km/h (vía general en el punto del suceso); tren es tipo 120 (máx 120 km/h)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Correcto. Sin obras en el lugar ni inmediaciones. Sin limitaciones de velocidad temporales o permanentes.",
+  "otro": "BAU (Bloqueo Automático de Vía Única) y CTC (Control de Tráfico Centralizado) asignado al Puesto de Mando de Valencia. Estación con dos vías. Mando central sin personal de circulación de servicio. Radiotelefonía tren-tierra y teléfono móvil corporativo. Circulaciones semanales del tramo: 373 (42 media distancia, 330 cercanías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Serie 592 (automotor 96719592302-4, coches c/302 y c/502). Motor diésel MD2866 LUE. 4 motores diésel, 8 ejes, 4 bogies, 105 toneladas, 47 metros.",
+  "averia": "Pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación de gasóleo en el motor M2 del coche 502, causando fuga de combustible e incendio. El motor M1 del coche 302 estaba averiado desde el 5/10/2016 (fallo del grupo de tracción Voith). El tren circulaba con solo 2 motores de tracción (los del coche 502).",
+  "mantenimiento": "Última CN: 25/10/2016 (326.616 km). Última IC: 06/10/2016 (320.700 km). Última IM1: 01/07/2016 (292.215 km). Última IM2: 27/10/2015 (220.698 km). Última R: 29/05/2013 (638.577 km). Última IM3: 14/05/2010 (324.472 km). Plan PM5920.30 ed. 0 rev. 3. Extintores revisados en IC del 06/10/2016. Medidas desde 2012 para pérdidas de gasoil (limpieza, verificación de embridado, par de apriete, marcado de racores) no resultaron suficientes."
+ },
+ "clima": "Noche, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo técnico del material rodante: pérdida de un tornillo de sujeción de una brida que fijaba un tubo de alimentación, lo que provocó la pérdida de gasóleo en el motor M2 del coche 502, que sufrió el incendio.",
+  "contribuyentes": [
+   "Anotación errónea en el Libro de Reparaciones del día anterior (3/11/2016): se identificó motor 1 cuando era motor 2",
+   "No comunicación al Centro de Gestión de la anomalía detectada el día anterior, incumpliendo el procedimiento RV-SGS-PE-SPG-14",
+   "El tren circulaba con solo 2 motores de tracción (el M1 del coche 302 estaba averiado desde octubre), lo que pudo aumentar la carga del motor M2",
+   "Uno de los extintores del tren no funcionó y otro no pudo ser activado por el maquinista (posible nerviosismo), retrasando la extinción",
+   "El motor M1 del coche 302 llevaba desde el 5/10/2016 averiado (fallo grupo tracción Voith) sin reparación efectiva por falta de disponibilidad de material"
+  ],
+  "sistemicas": [
+   "Existencia de múltiples sucesos repetitivos (al menos 10) relacionados con pérdidas de gasóleo en la serie 592 desde 2005, principalmente en zona de Levante, sin que se hayan adoptado medidas totalmente eficaces",
+   "Insuficiencia de las medidas de mantenimiento adoptadas desde 2012 para mitigar el riesgo de pérdidas de combustible en este tipo de material",
+   "Fallo en la cadena de comunicación de anomalías entre personal de conducción y Centro de Gestión/mantenimiento"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en motor M2 del coche 502 y en el piso del vehículo, valorados en 29.756 euros por Renfe Viajeros. Infraestructura: sin daños.",
+  "afectacion_servicio": "Circulación de trenes entre Cheste y Chiva afectada durante 125 minutos (20:45 a 22:50). Tren 24443 suprimido en Cheste. Retrasos acumulados en trenes: 331 minutos."
+ },
+ "lecciones": [
+  "La importancia de la correcta identificación del motor en las anotaciones del Libro de Reparaciones",
+  "La necesidad de comunicar al Centro de Gestión cualquier anomalía detectada, no limitándose a la anotación escrita",
+  "El riesgo de que las medidas de mantenimiento preventivas (desde 2012) resulten insuficientes para un tipo de avería recurrente",
+  "La relevancia de la formación y práctica del personal en el uso de extintores bajo situaciones de estrés",
+  "La existencia de un patrón repetitivo de incendios por pérdida de gasóleo en la serie 592 que requiere análisis en profundidad"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la formación de maquinistas en la necesidad de comunicar al centro de gestión correspondiente cualquier anomalía detectada en el material, en cumplimiento del procedimiento RV-SGS-PE-SPG-14.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (implementador final: Renfe Viajeros)"
+  },
+  {
+   "texto": "Profundizar en el análisis de las anomalías que provocan pérdidas de combustible en este tipo de material rodante (592) con el fin de adoptar medidas adicionales (a las ya tomadas en 2012) que minimicen su número.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (implementador final: Renfe Viajeros)"
+  }
+ ],
+ "tags": [
+  "incendio motor diésel",
+  "pérdida gasóleo",
+  "serie 592",
+  "cercanías",
+  "estación cheste",
+  "fallo técnico material rodante",
+  "tornillo brida tubo alimentación",
+  "extintor",
+  "libro reparaciones",
+  "comunicación anomalía",
+  "procedimiento RV-SGS-PE-SPG-14",
+  "sucesos repetitivos levante"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 04.11.2016 180322161104IFSN_CIAF_CHESTE"
+}

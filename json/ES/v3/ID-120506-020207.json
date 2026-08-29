@@ -1,0 +1,106 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en paso a nivel de Renedo (Piélagos, Cantabria) por tren 61 de RENFE",
+ "idioma_original": "es",
+ "resumen": "El 12 de mayo de 2006, a las 14:14, un tren de Grandes Líneas de RENFE arrolló a un peatón en el paso a nivel de clase C de Renedo, en el PK 494,403 de la línea 160 Santander-Palencia, municipio de Piélagos (Cantabria). La víctima falleció en el acto; su acompañante resultó ileso pero fue trasladado al hospital por ataque de nervios. Las barreras y señales del paso funcionaban correctamente, la visibilidad era buena y el tren circulaba a 92 km/h, por debajo del máximo de 100 km/h. La investigación atribuyó el accidente a que la víctima cruzó ignorando la señalización peatonal y con las barreras abatidas; la incidencia afectó al tráfico durante 176 minutos. El suceso fue calificado como grave y fue investigado por la Dirección General de Ferrocarriles.",
+ "hechos": "El tren de Grandes Líneas nº 61 de RENFE, formado por la locomotora 252.029 y 9 vehículos con masa remolcada de 155 Tm., detuvo su marcha a las 14:14 en el paso a nivel de Renedo (PK 494,403, citado también como 494,174 en el apartado de hechos) tras arrollar a una persona que falleció en el acto.\n\nLa víctima era un varón que cruzaba el paso a nivel de derecha a izquierda, en el sentido de la kilometración. Iba acompañada de otro varón, quien resultó ileso pero requirió traslado al hospital por ataque de nervios; según su manifestación, él cruzó primero y esperaba a la víctima, que se disponía a cruzar mientras hablaba por su teléfono móvil.\n\nEl maquinista declaró que, al aproximarse al paso, las barreras estaban cerradas y una persona avanzó por el lado derecho; al percatarse del tren intentó pasar aligerando el paso, pero no le dio tiempo a rebasar la máquina y fue arrollada. La prueba de alcoholemia del maquinista fue negativa (0,00 mg/l).",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Renedo",
+  "pk": "494,403",
+  "linea": "160 Santander-Palencia",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Paso a nivel de clase C peatonal en Renedo, municipio de Piélagos, en intersección con la carretera CA 321 de Renedo a Puente Arce. Está enclavado con la estación de Renedo (PK 494,883) y dotado de semibarreras automáticas enclavadas, señalización luminosa y acústica para tráfico vial y señalización luminosa peatonal."
+ },
+ "cronologia": [
+  {
+   "hora": "14:08",
+   "evento": "El tren se encuentra a 3046 metros del paso a nivel y comienza a funcionar la sonería y la iluminación."
+  },
+  {
+   "hora": "14:08",
+   "evento": "El tren se encuentra a 2746 metros y las barreras están abatidas."
+  },
+  {
+   "hora": "14:14",
+   "evento": "El tren 61 detiene su marcha en el paso a nivel tras arrollar a una persona, que fallece en el acto."
+  },
+  {
+   "hora": "16:10",
+   "evento": "Finaliza la incidencia de tráfico, con una duración de 176 minutos."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "61",
+   "tipo": "Grandes Líneas",
+   "operador": "RENFE",
+   "danos": "No se produjeron daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 61",
+   "implicacion": "Conducía el tren; realizó parte de accidente y la prueba de alcoholemia fue negativa (0,00 mg/l)."
+  },
+  {
+   "rol": "peatón (víctima)",
+   "implicacion": "Varón fallecido; cruzaba de derecha a izquierda ignorando la señalización peatonal y con las barreras abatidas; según el acompañante hablaba por teléfono móvil."
+  },
+  {
+   "rol": "acompañante de la víctima",
+   "implicacion": "Varón ileso; trasladado al hospital por ataque de nervios; manifestó que cruzó primero y esperaba a la víctima."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa y acústica para tráfico vial; señalización luminosa peatonal de 'No pasar'; semibarreras automáticas enclavadas. La señalización era correcta y completa y los sistemas funcionaban correctamente.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Paso a nivel de clase C con momento de circulación 76890 vehículos/día; visibilidad de 300 metros hacia derecha e izquierda desde el camino del margen derecho; enclavamiento relacionado con la estación de Renedo. En el municipio de Piélagos había dos pasos a nivel de clase C en los PK 494/174 y 494/620, con supresión en fase de anteproyecto."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252.029 y 9 vehículos; masa remolcada 155 Tm.",
+  "averia": "No se produjeron daños.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "La víctima se dispuso a cruzar las vías del paso a nivel haciendo caso omiso de la indicación de las señales luminosas peatonales que indicaban la prohibición de pasar y estando las barreras abatidas por el paso del tren 61.",
+  "contribuyentes": [
+   "La víctima cruzaba mientras hablaba por su teléfono móvil, según la manifestación del acompañante."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Incidencia de 176 minutos, desde las 14:14 hasta las 16:10; 23 minutos acumulados en dos trenes de Larga Distancia, 78 minutos en cuatro trenes de Cercanías, 38 minutos en un tren de Media Distancia y 18 minutos en un tren de Mercancías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se aceleren los trámites para la redacción del proyecto y las obras de supresión de los dos pasos a nivel de clase C del municipio de Piélagos, en los PK 494/174 y 494/620, ya que el segundo se encuentra dentro del Convenio de supresión de pasos a nivel con el Gobierno de Cantabria.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "paso a nivel",
+  "clase c",
+  "línea 160 santander-palencia",
+  "piélagos",
+  "cantabria",
+  "renfe",
+  "tren 61",
+  "locomotora 252",
+  "señalización peatonal",
+  "supresión de pasos a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-120506-020207"
+}

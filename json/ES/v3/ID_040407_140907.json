@@ -1,0 +1,173 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en el paso entre andenes de la estación de El Caleyo (Oviedo)",
+ "idioma_original": "es",
+ "resumen": "El 4 de abril de 2007, el tren de Larga Distancia 10620 de Renfe, con locomotora 269.918-9, arrolló mortalmente a una persona que cruzó la vía por el paso de servicio entre andenes de la estación de El Caleyo (PK 134+410, línea 130 Gijón Cercanías-Venta de Baños). El accidente se calificó como grave según el Reglamento del Sector Ferroviario. La investigación atribuyó el suceso a la imprudencia de la víctima, que invadió el gálibo de la vía sin percatarse de la llegada del tren, pese a la actuación del maquinista. Se produjeron retrasos en varios trenes, aunque no hubo daños materiales en instalaciones ni material móvil.",
+ "hechos": "El tren de viajeros de Larga Distancia nº 10620 de Renfe, compuesto por la locomotora 269.918-9 y 13 vehículos, procedente de Gijón Cercanías y con destino León, detuvo su marcha al arrollar a una persona que cruzaba la vía de izquierda a derecha, invadiendo el gálibo, en el paso de servicio entre andenes del PK 134+410 de la estación de El Caleyo. Como resultado, se produjo una víctima mortal. El maquinista hizo uso del silbato y aplicó el freno de emergencia, pero fue imposible evitar el atropello. Tras el suceso, el tren reanudó la marcha a las 11:26 hasta Soto de Rey para comprobar la ausencia de restos orgánicos, continuando después a las 11:41 con 43 minutos de retraso. El cadáver fue levantado a las 13:30, reanudándose la circulación en la vía afectada.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "El Caleyo",
+  "pk": "134+410",
+  "linea": "Línea 130 Gijón Cercanías-Venta de Baños",
+  "provincia": "Oviedo",
+  "descripcion_lugar": "Paso de servicio entre andenes enmaderado/entarimado, en traza recta y con buena visibilidad, al final de una curva de radio 400, en zona semiurbana. A la derecha, carretera comarcal; a la izquierda, autopista A66."
+ },
+ "cronologia": [
+  {
+   "hora": "11:07",
+   "evento": "Arrollamiento de una persona por el tren 10620 en el paso entre andenes de la estación de El Caleyo."
+  },
+  {
+   "hora": "11:26",
+   "evento": "El tren reanuda la marcha hasta Soto de Rey para comprobar la composición."
+  },
+  {
+   "hora": "11:41",
+   "evento": "El tren reanuda la marcha desde Soto de Rey, con 43 minutos de retraso."
+  },
+  {
+   "hora": "13:30",
+   "evento": "Levantamiento del cadáver y reanudación de la circulación en la vía afectada."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "10620",
+   "tipo": "Viajeros Larga Distancia (TALGO)",
+   "operador": "Renfe",
+   "danos": "Sin daños materiales en material móvil."
+  },
+  {
+   "numero": "131",
+   "tipo": "Larga Distancia",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "15620",
+   "tipo": "Larga Distancia",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22014",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22017",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22019",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22114",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22209",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22318",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "22323",
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 10620",
+   "implicacion": "Matrícula 8907180. Aplicó el silbato y el freno de emergencia. Alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del suceso: 5 minutos."
+  },
+  {
+   "rol": "Persona arrollada",
+   "implicacion": "Víctima mortal que cruzó la vía invadiendo el gálibo."
+  },
+  {
+   "rol": "Interventor y agente del TALGO",
+   "implicacion": "Participaron en la comprobación visual de la locomotora y la composición en Soto de Rey."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso entre andenes enmaderado/entarimado; se recomienda reforzar la señalización vertical en accesos y megafonía.",
+  "tipo_via": "Vía 2, traza recta, al final de una curva de radio 400.",
+  "velocidad_maxima": "105 km/h en entrada a El Caleyo, lado Oviedo.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. No consta paso inferior entre andenes ni cerramiento entre la carretera comarcal y la estación."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269.918-9 (957102699189) + 13 vehículos, masa remolcada 188 Tm.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "De día, tiempo despejado.",
+ "causas": {
+  "directa": "Imprudencia de la víctima, que invadió el gálibo de la vía cruzando por el paso de servicio entre andenes sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "Ausencia de paso inferior entre andenes.",
+   "Ausencia de cerramiento entre la carretera comarcal y la estación.",
+   "Velocidad de paso del tren de 86 km/h, inferior a la máxima permitida, pero sin parada prescrita en el apeadero."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+  "afectacion_servicio": "Retrasos en varios trenes: 131 (9 min), 10620 (43 min), 15620 (26 min), 22014 (22 min), 22017 (16 min), 22019 (18 min), 22114 (9 min), 22209 (7 min), 22318 (11 min), 22323 (6 min)."
+ },
+ "lecciones": [
+  "La imprudencia de peatones que cruzan pasos entre andenes puede provocar arrollamientos mortales incluso con actuación correcta del maquinista.",
+  "La ausencia de pasos inferiores y cerramientos perimetrales contribuye a la invasión de la vía por personas."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Reforzar la señalización existente mediante la instalación de señalización vertical en los accesos al paso entarimado.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Informar por megafonía de la aproximación de los trenes.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Estudiar la posible construcción de un paso inferior entre andenes.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso entre andenes",
+  "estacion",
+  "el caleyo",
+  "oviedo",
+  "linea 130",
+  "renfe",
+  "adif",
+  "larga distancia",
+  "imprudencia",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_040407_140907"
+}

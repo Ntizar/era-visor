@@ -1,0 +1,148 @@
+{
+ "titulo_normalizado": "Colisión del tren de cercanías 28867 contra la topera de la vía 4 en la estación de Mataró (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 9 de febrero de 2012, a las 09:43 horas, el tren 28867 de viajeros de cercanías de Renfe Operadora, procedente de Molins de Rei, colisionó contra la topera de la vía 4 de la estación de Mataró. El tren pasó por los desvíos a 40-45 km/h, superior a los 30 km/h prescritos, e impactó a 23 km/h sin frenado en los últimos metros. Resultaron heridos graves el maquinista y leves diez viajeros. La investigación atribuyó el accidente a un fallo humano del personal de conducción por incumplimiento de las señales y falta de atención.",
+ "hechos": "El día 9 de febrero de 2012, a las 09:43 horas, el tren 28867 de viajeros de cercanías de Renfe Operadora, compuesto por los automotores 447030 en cabeza y 447043 en cola, finalizaba su recorrido en la estación de Mataró, en la línea 276 Maçanet-Massanes a Bifurcación Sagrera. El jefe de circulación estableció el itinerario de entrada desde la señal E1 hasta la vía 4, conforme al movimiento nº 9 de la Consigna Serie A nº 1871. La señal avanzada 255 estaba en anuncio de precaución y las señales E1 y S1/4A en anuncio de parada.\n\nDel registrador de seguridad se observó que el tren pasó por la baliza de pie de la señal 255 a 88 km/h, por la baliza previa de E1 a 76 km/h, por la baliza de pie de E1 a 66 km/h, por los desvíos 1-3 y 5-7 a 45 km/h y por el desvío nº 11 a 40 km/h, superando la velocidad máxima de 30 km/h para el paso por agujas. Tras pasar por la baliza de S1/4A a 34 km/h, se registró la última actuación puntual sobre el freno; después de recorrer 290 metros sin frenado, el tren impactó contra la topera de la vía 4 a 23 km/h.\n\nComo consecuencia de la colisión, el automotor de cabeza quedó acaballado sobre la topera, el primer coche descarriló completamente y su primer bogie quedó empotrado, mientras que el segundo coche descarriló del primer bogie en el sentido de la marcha. El maquinista resultó herido grave y diez viajeros heridos leves.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Mataró",
+  "pk": "28+158",
+  "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Topera de la vía 4 de la estación de Mataró, formada por estructura de hormigón armado con traviesa de madera y dos topes, detrás de la cual se sitúa un poste final de catenaria con contrapesos de compensación."
+ },
+ "cronologia": [
+  {
+   "hora": "09:40:32",
+   "evento": "El tren 28867 pasa por la baliza de pie de la señal avanzada 255 a 88 km/h, con indicación de anuncio de precaución."
+  },
+  {
+   "hora": "09:41:05",
+   "evento": "El tren pasa por la baliza previa de la señal de entrada E1 a 76 km/h, con indicación de anuncio de parada."
+  },
+  {
+   "hora": "09:41",
+   "evento": "El tren pasa por la baliza de pie de la señal de entrada E1 a 66 km/h, con indicación de anuncio de parada."
+  },
+  {
+   "hora": "09:41",
+   "evento": "El tren pasa por los desvíos 1-3 y 5-7 a 45 km/h y por el desvío nº 11 a 40 km/h, superando los 30 km/h prescritos."
+  },
+  {
+   "hora": "09:43:00",
+   "evento": "El tren pasa por la baliza de la señal S1/4A a 34 km/h, con indicación de anuncio de parada; se registra la última actuación puntual sobre el freno."
+  },
+  {
+   "hora": "09:43:41",
+   "evento": "El tren impacta contra la topera de la vía 4, en el PK 28+158, a 23 km/h tras recorrer 290 metros sin frenado."
+  },
+  {
+   "hora": "09:43",
+   "evento": "El jefe de circulación de Mataró comunica al puesto de mando la colisión del tren 28867 con la topera de la vía 4."
+  },
+  {
+   "hora": "10:21",
+   "evento": "El jefe de gabinete de investigación de accidentes e inspección de Adif comunica a la CIAF la producción del suceso."
+  },
+  {
+   "hora": "12:50-13:35",
+   "evento": "Se corta la tensión de la vía 4 y demás vías secundarias a petición de la fuerza pública; las circulaciones pares pasan por vía 1."
+  },
+  {
+   "hora": "13:35",
+   "evento": "Se restablece la circulación por la vía 2."
+  },
+  {
+   "hora": "15:45-17:42",
+   "evento": "Se corta la tensión en la catenaria de la vía 4 y se prevé la liberación de la vía en turno de noche."
+  },
+  {
+   "hora": "22:52",
+   "evento": "Se corta nuevamente la tensión en la vía 4 para encarrilar la composición."
+  },
+  {
+   "hora": "02:18",
+   "evento": "Se acaba de retirar de la vía la composición accidentada y se inician labores de reparación de la infraestructura dañada."
+  },
+  {
+   "hora": "05:02",
+   "evento": "La vía 4 es entregada por Mantenimiento de Infraestructuras y queda en condiciones normales de circulación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28867",
+   "tipo": "Viajeros cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Automotor de cabeza UT 447030 con estructura totalmente deformada; primer coche completamente descarrilado; segundo coche descarrilado del primer bogie en el sentido de la marcha."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Conductor del tren 28867, matrícula 9670415; resultó herido grave. La investigación concluye que hubo fallo humano por incumplimiento de las órdenes de las señales y no prestar la debida atención durante la conducción."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales avanzadas 255, de entrada E1 y de salida S1/4A; avanzada y entrada altas de 3 focos con balizas previa y de pie; salida baja con baliza de pie y sin baliza previa. ITINERARIO: E1 a vía 4 con paso por escapes 1-3 y 5-7 y desvío nº 11.",
+  "tipo_via": "Vía doble electrificada de ancho convencional con dos vías generales (1 y 2) y cuatro vías de apartado (3, 5, 7 y 4).",
+  "velocidad_maxima": "30 km/h para el paso por los desvíos de acceso a la vía 4; velocidad máxima del tren 120 km/h.",
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada; la vía 4 tenía poste final de catenaria con contrapesos de compensación.",
+  "estado_via": "Funcionamiento correcto; estación en mando local; enclavamiento eléctrico y CTC gestionado desde Barcelona Sants; bloqueo automático banalizado.",
+  "otro": "Perfil horizontal desde E1 hasta la topera; tramo recto desde la travesía T39 hasta la topera; media semanal de circulaciones del tramo 1.728, considerada muy alta."
+ },
+ "material_rodante": {
+  "series": "Automotores 447030 y 447043; tipo 120A; 6 vehículos; 144 metros; 432 toneladas; Nº UIC 907174470308 y 907174470431.",
+  "averia": "Ninguna; el material rodante funcionó correctamente y el tren circulaba con velocidad prefijada.",
+  "mantenimiento": "El 16/02/2012 se realizaron pruebas de funcionalidad de hombre muerto y velocidad prefijada en los Talleres de Sant Andreu Comtal, comprobando funcionamiento correcto."
+ },
+ "clima": "No existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción por incumplimiento de las órdenes dadas por las señales y no prestar la debida atención durante la conducción.",
+  "contribuyentes": [
+   "Exceso de velocidad al pasar por los desvíos de acceso a la vía 4: 40-45 km/h frente a los 30 km/h prescritos.",
+   "No reducir la velocidad para asegurar el cumplimiento de la señal de parada ante el final de vía.",
+   "No uso del freno durante los últimos 290 metros previos a la colisión.",
+   "Distracción del maquinista tras reconocer el anuncio de parada de la señal S1/4A, al coger el libro horario para guardarlo en la mochila."
+  ],
+  "sistemicas": [
+   "Vías con topera y elevado número de entradas de trenes de viajeros sin balizas ASFA con fondo fijo L7 para control de velocidad.",
+   "Toperas no diseñadas para absorber y amortiguar el impacto de trenes que finalizan recorrido en vías con alta ocupación de viajeros."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 1,
+  "heridos_leves": 10,
+  "danos_materiales": "Daños en el automotor UT 447030 cuantificados en 797.196 €, con reconstrucción de chapa, interiorismo, cabina, primer bogie, instalaciones y cableado general; daños en la topera de la vía 4, poste de catenaria y dispositivos de compensación.",
+  "afectacion_servicio": "Sin afectación a la circulación general por producirse en vía de topera; no fue necesario plan alternativo de transportes; supresión de un tren de cercanías; vía 4 reparada y entregada a las 05:02 del 10 de febrero de 2012."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "colisión topera",
+  "estación de mataró",
+  "tren de cercanías",
+  "renfe operadora",
+  "adif",
+  "asfa",
+  "fallo humano",
+  "velocidad excesiva",
+  "señal de parada",
+  "descarrilamiento",
+  "línea 276",
+  "barcelona"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-090212-271112-CIAF"
+}

@@ -1,0 +1,145 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un motocarro por el tren 264 en el paso a nivel de Vila-real (2010)",
+ "idioma_original": "es",
+ "resumen": "El 2010-01-15, a las 18:26 horas, el tren de viajeros de larga distancia 264 de Renfe Operadora arrolló a un motocarro en el paso a nivel clase C del P.K. 62+902, en la estación de Vila-real (Castellón), línea 600 Valencia – San Vicente de Calders. Su único ocupante, un varón de 79 años, falleció tras el impacto y el arrastre del vehículo. El informe concluye que el origen fue cruzar el paso a nivel con las semibarreras bajadas y las señales activas por la llegada del tren 264. Las instalaciones y el tren funcionaron correctamente; ambas vías quedaron interceptadas 2 horas y 2 minutos y no se establecieron recomendaciones.",
+ "hechos": "El tren 264 de Renfe Operadora, con origen en Cartagena y destino Barcelona Sants, circulaba por la vía 2 de la estación de Vila-real sin parada prescrita. Al alcanzar el paso a nivel clase C del P.K. 62+902, un motocarro de tres ruedas cruzó de derecha a izquierda, en el sentido de la marcha del tren, sorteando las semibarreras bajadas y las señales que indicaban la llegada del convoy.\n\nEl maquinista observó el vehículo y, según su declaración, aplicó de inmediato el freno de emergencia y el silbato. El registrador de seguridad refleja paso por la señal de salida S2/2 a 124 km/h y actuación del freno de urgencia a 122 km/h; la cronología analítica indica 128 km/h en el momento del freno de emergencia. No pudo evitarse el arrollamiento.\n\nTras el impacto, el motocarro quedó empotrado al tren y fue arrastrado; el informe consigna 598 metros en la descripción inmediata y 630 metros en la cronología analítica antes de la parada total a las 18:27:21. El cuerpo de la víctima quedó en la cuneta de la vía impar, en el P.K. 63+050. Mientras el 264 circulaba por la vía 2, el cercanías 24391 se aproximaba por la vía 1 en sentido contrario y tres minutos antes había circulado el cercanías 24346 en el mismo sentido que el 264.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Vila-real",
+  "pk": "62+902",
+  "linea": "600 Valencia – San Vicente de Calders",
+  "provincia": "Castellón",
+  "descripcion_lugar": "Paso a nivel clase C situado al final de la estación de Vila-real, lado San Vicente de Calders, en el tramo Vila-real – Castellón de la Plana, municipio de Vila-real, Castellón. Zona urbana; a unos 400 metros existe un paso superior de carretera y en la estación otro paso a nivel en el P.K. 62+363."
+ },
+ "cronologia": [
+  {
+   "hora": "18:26",
+   "evento": "2010-01-15: Arrollamiento del motocarro por el tren 264 en el paso a nivel P.K. 62+902."
+  },
+  {
+   "hora": "18:26",
+   "evento": "Paso del tren 264 por la señal de salida S2/2 a 124 km/h, según el informe a las 18:26:39."
+  },
+  {
+   "hora": "18:26",
+   "evento": "El maquinista aplica el freno de emergencia y usa el silbato, según el informe a las 18:26:47."
+  },
+  {
+   "hora": "18:27",
+   "evento": "El convoy queda totalmente parado a las 18:27:21, tras arrastrar el vehículo; el informe consigna 598 m y 630 m según apartado."
+  },
+  {
+   "hora": "18:50",
+   "evento": "Inicio de la interceptación total de ambas vías entre Vila-real y Castellón."
+  },
+  {
+   "hora": "20:06",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la CIAF por telefonía móvil."
+  },
+  {
+   "hora": "20:52",
+   "evento": "Restablecimiento de la circulación normal tras 2 horas y 2 minutos de interceptación."
+  },
+  {
+   "hora": "21:00",
+   "evento": "Prueba de alcoholemia al maquinista en Castellón: resultado negativo."
+  },
+  {
+   "hora": "23:30",
+   "evento": "Pruebas de funcionamiento del paso a nivel: preaviso, bajada de semibarreras, sonería y señales luminosas correctas."
+  },
+  {
+   "hora": null,
+   "evento": "2010-01-26: La Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "2010-02-08: El jefe de gabinete de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2010-04-09: El gerente territorial de Levante entrega su informe particular por delegación del director de seguridad en la circulación de Adif."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "264",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en material rodante: tope; estribo izquierdo; tubería de freno; faldón quitarreses; arenero; antena A.T.P.; captador ASFA."
+  },
+  {
+   "numero": "24391",
+   "tipo": "tren de cercanías",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "24346",
+   "tipo": "tren de cercanías",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 264",
+   "implicacion": "Matrícula 9704065. Condujo el tren; observó el motocarro, aplicó freno de emergencia y silbato. Prueba de alcoholemia negativa a las 21:00 en Castellón. Título B de conducción; habilitado conforme a la Orden FOM/2520/2006; último reciclaje formativo 2007-07-18; último reconocimiento médico y psicotécnico 2006-10-30."
+  },
+  {
+   "rol": "Conductor del motocarro",
+   "implicacion": "Único ocupante del vehículo; varón de 79 años; falleció tras el arrollamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase C protegido por semibarreras enclavadas con la estación; señales acústicas y luminosas y señales fijas verticales y horizontales. Señalización de carretera conforme a la Orden de 2 agosto de 2001. Señalización ferroviaria: cartelones de silbar en ambas bandas. Momento de circulación AxT: 600 (A=5 y T=120).",
+  "tipo_via": "Tramo de vía doble electrificada, con bloqueo automático (B.A.D.) y sin control de tráfico centralizado (C.T.C.). Armamento con traviesas monobloque de hormigón y entarimado tipo strail; calles y camino de asfalto; alineación recta.",
+  "velocidad_maxima": "140 km/h para trenes tipo B al paso por la estación de Vila-real; no existía limitación temporal de velocidad en el momento del accidente.",
+  "ancho": null,
+  "electrificacion": "Vía electrificada",
+  "estado_via": "Sin deficiencias indicadas en el informe; visibilidad a ambos lados superior a 600 metros; el paso a nivel funcionó correctamente según el registro de eventos.",
+  "otro": "Media semanal de circulaciones del tramo Vila-real – Castellón de la Plana: 815, considerada alta (231 larga distancia, 41 media distancia, 451 cercanías, 85 mercancías, 7 servicio). Radiotelefonía A. Obra de supresión del paso a nivel contratada por Adif; información facilitada por la Dirección General de Infraestructuras Ferroviarias el 2010-03-26. En la estación existe otro paso a nivel en el P.K. 62+363 y un paso superior de carretera a unos 400 metros."
+ },
+ "material_rodante": {
+  "series": "Tren 264: Tipo 200 B; 9 vehículos Talgo; 142 Tn de masa remolcada; Nº UIC 957102520609. Vehículo de carretera: automóvil de tres ruedas (motocarro).",
+  "averia": "No se indica avería; los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "En el momento del arrollamiento estaba atardeciendo.",
+ "causas": {
+  "directa": "El accidente tuvo su origen al cruzar el motocarro, ocupado por la víctima, por el paso a nivel cuando las semibarreras se encontraban bajadas y las señales indicaban la llegada del tren 264.",
+  "contribuyentes": [
+   "El vehículo cruzó de derecha a izquierda, en el sentido de la marcha del tren, sorteando las semibarreras bajadas.",
+   "El paso a nivel permaneció cerrado durante siete minutos por la sucesión de otras dos circulaciones."
+  ],
+  "sistemicas": [
+   "Paso a nivel en zona urbana con tráfico ferroviario alto y accidentes mortales previos similares en el mismo paso a nivel y en otro paso a nivel de la estación.",
+   "Obra de supresión del paso a nivel contratada por Adif, según la información facilitada el 2010-03-26."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños en material rodante: tope; estribo izquierdo; tubería de freno; faldón quitarreses; arenero; antena A.T.P.; captador ASFA. El motocarro quedó destrozado.",
+  "afectacion_servicio": "Ambas vías quedaron interceptadas totalmente entre Vila-real y Castellón durante 2 horas y 2 minutos, desde las 18:50 hasta las 20:52. Se suprimieron ocho trenes de cercanías y uno de larga distancia. Retrasos totales: 17 trenes de cercanías, 272 minutos; 7 de larga distancia, 733 minutos; 1 de media distancia, 22 minutos; 1 de mercancías, 88 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase c",
+  "semibarreras",
+  "motocarro",
+  "vía pública",
+  "vila-real",
+  "línea 600",
+  "renfe operadora",
+  "accidente mortal",
+  "supresión de paso a nivel",
+  "intercepción de vía"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-150110-310510-CIAF_VILA-REAL"
+}

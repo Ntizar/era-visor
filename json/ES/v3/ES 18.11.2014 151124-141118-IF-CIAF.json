@@ -1,0 +1,182 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías con óxido de propileno en vía EV de Tarragona Clasificación por fallo de infraestructura",
+ "idioma_original": "es",
+ "resumen": "El 18 de noviembre de 2014 a las 21:17 horas, el tren de mercancías 87503 de Transfesa Rail, cargado con óxido de propileno, descarriló en el PK 0+571 de la vía EV de Tarragona Clasificación. Descarrilaron los vagones 4º y 5º de la composición mientras circulaban a 6,9 km/h, por debajo de la limitación temporal de velocidad de 10 km/h vigente desde 2010. La causa fue el fallo de la infraestructura: la vía se abrió al paso del tren por el estado deficiente de sus sujeciones y traviesas. No se produjeron víctimas ni daños medioambientales. La CIAF recomienda a Adif impulsar el mantenimiento preventivo y correctivo de la vía EV.",
+ "hechos": "El tren de mercancías 87503 de Transfesa Rail, procedente de Constantí con destino Puertollano, estaba estacionado en la vía 16C de Tarragona Clasificación. Compuesto por la locomotora 95.71.0335.010-5, dos vagones-cisterna limpios, nueve cargados con óxido de propileno (MMPP) y uno vacío con restos de benceno, inició la marcha a las 21:13:25 horas con itinerario hacia la vía EV de conexión a la vía general de Valencia, con señal M17C en rebase autorizado. Durante 50 segundos (98 metros) aumentó su velocidad hasta un pico de 11,4 km/h, reduciéndola inmediatamente por debajo de 10 km/h debido a una limitación temporal de velocidad vigente desde 2010 por el mal estado de la vía. Tras pasar por varios aparatos de vía, el último el T34, el tren circuló por la vía EV hacia la señal 4-O/B. A las 21:17:35 horas, a 6,9 km/h, se produjo el descarrilamiento de los vagones 4º y 5º. El maquinista, al notar una reacción del material, frenó y el tren recorrió 60 metros descarrilado hasta detenerse a las 21:18:17 horas. No hubo víctimas ni daños medioambientales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Tarragona Clasificación",
+  "pk": "0+571",
+  "linea": "622 Aguja Clasif. PK 272+000 a Tarragona Clasificación",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Vía EV de conexión entre el grupo de vías de mercancías de Tarragona Clasificación y la línea 600 Valencia Estació del Nord a Sant Vicenç de Calders. Zona entre desvíos T4 (PK 271+999) y T34 (PK 100+123), con señal 4-O/B (PK 272+115) y señal EV (PK 100+061)."
+ },
+ "cronologia": [
+  {
+   "hora": "2010-03-09",
+   "evento": "Visita conjunta de Gerencia de Seguridad en la Circulación y Red Convencional de Adif; se acuerda LTV de 10 km/h por estado de la vía y se redacta proyecto de renovación (mayo 2010)"
+  },
+  {
+   "hora": "21:12:27",
+   "evento": "Se establece itinerario para tren 87503 desde vía 16C a vía EV (moviola CTC)"
+  },
+  {
+   "hora": "21:13:25",
+   "evento": "El tren inicia la marcha desde vía 16C con señal M17C en rebase autorizado"
+  },
+  {
+   "hora": "21:14:15",
+   "evento": "Pico de velocidad de 11,4 km/h durante un segundo; luego se estabiliza por debajo de 10 km/h (98 m recorridos)"
+  },
+  {
+   "hora": "21:17:35",
+   "evento": "Descarrilamiento a 6,9 km/h en PK 0+571; tren libera circuito de cambios y ocupa CV A4-O/B con señal 4-OB en anuncio de parada"
+  },
+  {
+   "hora": "21:18:17",
+   "evento": "Tren detenido tras recorrer 60 m descarrilado (628 m totales desde inicio)"
+  },
+  {
+   "hora": "21:22:51",
+   "evento": "Maquinista informa al jefe de CTC que está detenido y no sabe si ha descarrilado"
+  },
+  {
+   "hora": "21:27:34",
+   "evento": "Maquinista confirma descarrilamiento al CTC (indica vagones 3º y 4º, incorrecto)"
+  },
+  {
+   "hora": "21:37:59",
+   "evento": "Maquinista informa que los vagones 4º y 5º están en el suelo, todos los bogies; cree que se ha abierto la vía"
+  },
+  {
+   "hora": "21:38:47",
+   "evento": "CPS llama al 112 comunicando la incidencia; se avisa a bomberos"
+  },
+  {
+   "hora": "21:43:59",
+   "evento": "CPS de Barcelona comunica el accidente a CECAT, Delegación de Gobierno y C24h de Barcelona"
+  },
+  {
+   "hora": "22:05:05",
+   "evento": "CECAT indica activación del Plan TRANSCAT"
+  },
+  {
+   "hora": "22:17",
+   "evento": "Jefe de investigación de Adif comunica a CIAF la producción del suceso"
+  },
+  {
+   "hora": "22:18:53",
+   "evento": "Vigilante informa al CPS que bomberos están en el lugar y no parece existir fuga"
+  },
+  {
+   "hora": "23:12",
+   "evento": "Siete vagones de cola apartados a vía 18 con locomotora de servicio"
+  },
+  {
+   "hora": "00:08",
+   "evento": "Inicia maniobra de apartado de locomotora y 3 vagones de cabeza a vía 20 (día 19/11)"
+  },
+  {
+   "hora": "04:18",
+   "evento": "Tren 87503 efectúa salida vía Tarragona con locomotora y 9 vagones no afectados (día 19/11)"
+  },
+  {
+   "hora": "13:20",
+   "evento": "Vagones descarrilados apartados a vía 12; inician trabajos de reparación de vía (día 20/11)"
+  },
+  {
+   "hora": "22:22",
+   "evento": "Finalizan reparaciones de vía; se normaliza la circulación (día 20/11)"
+  },
+  {
+   "hora": "2014-11-30",
+   "evento": "Noche: tres vagones afectados (3º, 4º y 5º) trasladados a Constantí a 5 km/h"
+  },
+  {
+   "hora": "2014-12-01",
+   "evento": "Vagones trasladados a Repsol Química en El Morell para descarga y vuelta a Constantí para reparación"
+  },
+  {
+   "hora": "2015-11-24",
+   "evento": "Firma del informe final de la CIAF en Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "87503",
+   "tipo": "tren de mercancías (cisternas MMPP)",
+   "operador": "Transfesa Rail",
+   "danos": "Todos los ejes de los vagones 4º (347178662115) y 5º (347178662081) sustituidos en taller; un eje del vagón 3º (837178650177) sustituido en taller. Sin fugas ni deformaciones estructurales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 87503 (Transfesa Rail)",
+   "implicacion": "Conducía la locomotora sin anomalías previas. Percibió una reacción del material y frenó. Circulaba a 6-7 km/h. Título B de conducción, habilitado en línea desde 21/10/2013 y en vehículo desde 07/06/2013. Prueba de alcoholemia negativa. Jornada de conducción ese día: 1 h 49 min. Lenguaje impreciso en comunicaciones con CTC."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal M17C (rebase autorizado), señal 4-O/B (anuncio de parada), señal EV. Enclavamiento de Tarragona Clasificación y Tarragona. Instalaciones técnicas funcionaron correctamente.",
+  "tipo_via": "Vía única electrificada de ancho convencional, bloqueo automático en vía única (BAU) con control de tráfico centralizado (CTC)",
+  "velocidad_maxima": "30 km/h (cuadro de velocidades máximas); LTV de 10 km/h vigente desde 2010 por estado de la vía",
+  "ancho": "Ancho convencional (1.668 mm nominal; ancho máximo teórico 1.683 mm según NAV 7-3-2.0)",
+  "electrificacion": "Electrificada",
+  "estado_via": "Deficiente: sobreancho superior al admitido (máx. 1.691,4 mm en -5 vs. 1.683 mm teórico), fisuras en carril y traviesas, sujeciones sin par de apriete, bridas con fisuras, aparatos de vía con fuertes desgastes, balasto contaminado y degradado. Carriles 45 kg/m, traviesas de madera con sujeción rígida.",
+  "otro": "Sin obras en el lugar ni proximidades. Tramo con media semanal de 26 circulaciones de mercancías (CIRTRA)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 95.71.0335.010-5 (serie 335). Vagones-cisterna: PRR 347178662115, 347178662081, 837178650177. Composición: 12 vagones, 48 ejes, 171 m, 750 t, tren tipo 100 (vmax 100 km/h).",
+  "averia": "Ninguna avería en locomotora ni vagones. Parámetros de rodadura (espesor pestaña ≥25 mm, altura pestaña ≤36 mm, Qr ≥6,5 mm) dentro de tolerancias. Registrador de seguridad funcionó correctamente.",
+  "mantenimiento": "Cisternas dentro de periodos de mantenimiento establecidos según archivo patrón de Adif; autorizadas a circular sin restricción. Carga inferior a la máxima en todos los vagones."
+ },
+ "clima": "Noche, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo de la infraestructura: la vía se abrió al paso del tren por encontrarse en estado deficiente sus sujeciones y traviesas, generando sobreancho superior al admitido por la norma.",
+  "contribuyentes": [
+   "Mal estado general de la vía: fisuras en carriles y traviesas, sujeciones sin par de apriete, bridas fisuradas, aparatos de vía con fuertes desgastes, balasto contaminado y degradado",
+   "Limitación temporal de velocidad de 10 km/h vigente desde 2010 sin que se ejecutara la renovación de la vía",
+   "Proyecto de renovación redactado en mayo de 2010 no ejecutado a fecha del accidente"
+  ],
+  "sistemicas": [
+   "Deficiencias en el mantenimiento preventivo y correctivo de la infraestructura ferroviaria por parte de Adif",
+   "Lenguaje impreciso y poco correcto en las comunicaciones entre maquinista y puesto de mando (interfaz hombre-máquina-organización)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: todos los ejes de vagones 4º y 5º sustituidos en taller; 1 eje del vagón 3º sustituido. Infraestructura: daños en 25 metros de vía; importe total 7.800 euros (Adif). Sin daños medioambientales.",
+  "afectacion_servicio": "Vía EV interceptada 2 días, 1 hora y 5 minutos (21:17 del 18/11 a 22:22 del 20/11). Afectados: 6 trenes de mercancías de Renfe Operadora (380 min de retraso total), 1 tren de Comsa Rail (51 min), 1 tren de Transfesa Rail (408 min). Establecido Plan Alternativo de Transporte (PAT) con inversión de locomotora en Tarragona Término."
+ },
+ "lecciones": [
+  "Una LTV de 10 km/h vigente durante más de 4 años por mal estado de vía no garantiza la seguridad si no se ejecuta la renovación de la infraestructura",
+  "El sobreancho por sujeciones y traviesas deficientes puede provocar descarrilamiento incluso a velocidades muy inferiores a la LTV",
+  "La imprecisión en las comunicaciones de emergencia entre maquinista y CTC dificulta la respuesta operativa",
+  "La carga de MMPP (óxido de propileno) no generó fugas ni daño medioambiental gracias a la integridad estructural de las cisternas"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar la realización de un mantenimiento, tanto preventivo como correctivo, con el objeto de conservar la vía EV de Tarragona Clasificación en condiciones que permitan circular con seguridad.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "óxido de propileno",
+  "mercancías peligrosas",
+  "transfesa rail",
+  "adif",
+  "vía ev",
+  "tarragona clasificación",
+  "limitación temporal de velocidad",
+  "sobreancho",
+  "sujeciones",
+  "traviesas de madera",
+  "mantenimiento de infraestructura",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 18.11.2014 151124-141118-IF-CIAF"
+}

@@ -1,0 +1,124 @@
+{
+ "titulo_normalizado": "Conato de colisión en la estación de Sant Andreu Arenal por rebase indebido de señal R3 por maniobra de material vacío",
+ "idioma_original": "es",
+ "resumen": "El 29 de junio de 2010 a las 09:07 se produjo un conato de colisión en la estación subterránea de Sant Andreu Arenal (Barcelona) entre una maniobra de material vacío procedente del tren de cercanías 25122 y el tren de cercanías 28708, ambos de Renfe Operadora. La maniobra rebasó indebidamente la señal de retroceso R3, que se encontraba en indicación de parada, tras un cambio de mandos en cabina, y quedó enfrentada al tren 28708 a unos 100 metros en vía 4. No hubo víctimas ni daños materiales, pero se produjeron 114 minutos de retraso en 9 trenes de cercanías. La CIAF concluyó que el origen fue el incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "hechos": "El día 29 de junio de 2010, a las 09:02:40, el tren de cercanías 25122 de Renfe Operadora, procedente de Terrassa, se estacionó en vía 4 de la estación de Sant Andreu Arenal. Tras finalizar las operaciones comerciales, el material vacío debía situarse en vía 3 para realizar el tren de cercanías 28621 con destino Cerdanyola Universidad. A las 09:04:13, tras indicar rebase autorizado la señal S2/4, la maniobra de material vacío inició la marcha desde vía 4 hasta la señal R3 en vía 2. A las 09:05:33, tras recorrer 500 metros, la maniobra libró la señal R3 y se realizó un cambio de mandos en cabina. Seguidamente, el CTC autorizó la entrada por lado Montcada al tren 28708, con rebase autorizado de la señal de entrada E2 e itinerario de entrada a vía 4. A las 09:06:34, la maniobra de material vacío inició movimiento en sentido Terrassa y rebasó indebidamente la señal R3, que estaba en indicación de parada, encaminándose de nuevo a vía 4. A las 09:07:00, ambos trenes quedaron enfrentados sobre la vía 4 a una distancia de unos 100 metros. El maquinista de la maniobra, al ver unos focos enfrente y gente que le hacía señales de parada, efectuó detención inmediata. El tren 28708 quedó detenido a la altura de la señal S1/4.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Andreu Arenal",
+  "pk": "361+100",
+  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación subterránea con enclavamiento electrónico, adscrita al puesto de mando de Barcelona Sants. Tramo Montcada Bif.-Bif. Vilanova. La señal R3 está dentro de un túnel."
+ },
+ "cronologia": [
+  {
+   "hora": "09:02:40",
+   "evento": "El tren de cercanías 25122 se estaciona en vía 4 de Sant Andreu Arenal, procedente de Terrassa"
+  },
+  {
+   "hora": "09:04:13",
+   "evento": "La maniobra de material vacío inicia la marcha de vía 4 hacia la señal R3 en vía 2, tras rebase autorizado de la señal S2/4"
+  },
+  {
+   "hora": "09:05:33",
+   "evento": "La maniobra libra la señal R3 tras recorrer 500 metros; se realiza cambio de mandos en cabina; el CTC autoriza entrada del tren 28708 a vía 4"
+  },
+  {
+   "hora": "09:06:34",
+   "evento": "La maniobra de material vacío inicia movimiento en sentido Terrassa y rebasa indebidamente la señal R3 en indicación de parada, encaminándose de nuevo a vía 4"
+  },
+  {
+   "hora": "09:07:00",
+   "evento": "Conato de colisión: ambos trenes quedan enfrentados en vía 4 a unos 100 metros; parada inmediata de la maniobra al ver focos enfrente"
+  },
+  {
+   "hora": "09:35:00",
+   "evento": "Comunicación telefónica entre el maquinista de la maniobra y el operador del puesto de mando de Barcelona Sants"
+  },
+  {
+   "hora": "14:14",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF la producción del suceso"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25122",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "28708",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista de la maniobra de material vacío (tren 25122)",
+   "implicacion": "Rebasó indebidamente la señal R3 en indicación de parada tras cambio de mandos en cabina; matrícula 6820658; título B de conducción; prueba de alcoholemia negativa"
+  },
+  {
+   "rol": "supervisor de circulación del CTC en Barcelona",
+   "implicacion": "Autorizó la entrada del tren 28708 a vía 4 tras observar que la maniobra había librado la señal R3; comunicó por tren tierra al maquinista que estuviera atento a la señal"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal R3: baja de cuatro focos, buena visibilidad, dentro de un túnel, sin baliza, en indicación de parada. Señal S2/4: rebase autorizado. Señal E2: rebase autorizado para tren 28708.",
+  "tipo_via": "vía doble electrificada, estación subterránea con enclavamiento electrónico",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "sí",
+  "estado_via": "correcto; bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) funcionaban correctamente",
+  "otro": "Adscrita al puesto de mando de Barcelona Sants; mando central; consigna serie A número 1545; radiotelefonía modalidad A (tren-tierra)"
+ },
+ "material_rodante": {
+  "series": "UTs 447099/447053, 6 coches, 152 metros, 432 toneladas; UIC 967194470530 y 967194740993",
+  "averia": "ninguna; funcionó correctamente",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Rebase indebido por la maniobra de material vacío (procedente de tren 25122) de la señal de retroceso R3, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción (artículo 217 del Reglamento General de Circulación)",
+  "contribuyentes": [
+   "Cambio de mandos en cabina tras librar la señal R3, lo que pudo generar confusión en el maquinista sobre la indicación de la señal",
+   "El maquinista interpretó erróneamente la señal R3 como rebase autorizado cuando estaba en indicación de parada",
+   "El itinerario establecido por el CTC para la maniobra la encaminaba de nuevo a vía 4, lo que sorprendió al maquinista"
+  ],
+  "sistemicas": [
+   "Gestión del riesgo por fallo humano en la conducción (Renfe Operadora puso en marcha proyectos de mejora tras el incidente)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante",
+  "afectacion_servicio": "Retraso total de 114 minutos en 9 trenes de cercanías; no se activó plan de emergencia interno-externo"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Considerando suficientes las medidas adoptadas por Renfe Operadora (oficina de gestión del fallo humano, comunidad de gestión de conocimiento para formación de maquinistas, programas formativos sobre fiabilidad de la conducción y prevención de rebases), no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "señal en parada",
+  "maniobra de material vacío",
+  "cambio de mandos",
+  "estación subterránea",
+  "enclavamiento electrónico",
+  "CTC",
+  "fallo humano",
+  "cercanías",
+  "Renfe Operadora",
+  "Sant Andreu Arenal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-290610-250211-CIAF"
+}

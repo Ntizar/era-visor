@@ -1,0 +1,102 @@
+{
+ "titulo_normalizado": "Freno de emergencia por secuencia de señales incorrecta en Les Borges del Camp por fallo de software de señalización",
+ "idioma_original": "es",
+ "resumen": "El 18 de mayo de 2023, el maquinista del tren 55115 de RENFE Mercancías accionó el freno de emergencia en la estación de Les Borges del Camp al detectar una secuencia de señales incorrecta con insuficiente distancia de frenado. El origen fue un fallo en el nuevo software de señalización puesto en servicio el 27/02/2023, que mostraba la secuencia Verde-Amarillo-Rojo en lugar de Amarillo-Amarillo-Rojo para itinerarios de entrada por vía principal. La CIAF acordó la investigación formal el 22/11/2023, centrada en los procedimientos de desarrollo y pruebas de software del tecnólogo Alstom.",
+ "hechos": "El 18 de mayo de 2023, sobre las 19:00 h, en la estación de Les Borges del Camp (p.k. 573+750 de la línea 210, entre las estaciones de Reus y Riudecanyes-Botarell, provincia de Tarragona), el maquinista del tren 55115 de RENFE Mercancías accionó el freno de emergencia al apreciar que la secuencia de señales no era la correcta, al no existir suficiente distancia de frenado entre la señal de entrada E1 y la señal de salida de la estación S1/1.\n\nEl lugar del suceso había sido objeto de una actuación relacionada con la señalización, puesta en servicio el 27 de febrero de 2023, que incluía la 'Centralización de Bloqueos Reus-Mora' en las estaciones de Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp.\n\nLa nueva versión de software instalada en esa fecha contenía un fallo en la secuencia de señales para los itinerarios de entrada por vía principal a las estaciones mencionadas: mostraba la secuencia Verde-Amarillo-Rojo (V-A-R) cuando la secuencia correcta indicada en la consigna es Amarillo-Amarillo-Rojo (A-A-R), ya que no existe distancia de frenado suficiente entre la señal de entrada y la de salida.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Les Borges del Camp",
+  "pk": "573+750",
+  "linea": "210",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Estación de Les Borges del Camp, entre las estaciones de Reus y Riudecanyes-Botarell, municipio de Les Borges del Camp. Señal de entrada E1 y señal de salida S1/1."
+ },
+ "cronologia": [
+  {
+   "hora": "2023-02-27",
+   "evento": "Puesta en servicio de la actuación de señalización (Centralización de Bloqueos Reus-Mora) con la nueva versión de software"
+  },
+  {
+   "hora": "19:00",
+   "evento": "El maquinista del tren 55115 acciona el freno de emergencia al detectar secuencia de señales incorrecta en la estación de Les Borges del Camp"
+  },
+  {
+   "hora": "2023-06-07",
+   "evento": "Pleno CIAF nº 173: acuerdo de realización de examen preliminar del suceso"
+  },
+  {
+   "hora": "2023-11-22",
+   "evento": "Pleno CIAF nº 178: acuerdo de investigación formal del suceso"
+  },
+  {
+   "hora": "2024-05-28",
+   "evento": "Fecha del informe (nota de avance). Borrador de informe de investigación completado; inicio de fase de consulta con partes afectadas"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "55115",
+   "tipo": "mercancías",
+   "operador": "RENFE Mercancías",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Accionó el freno de emergencia al detectar que la secuencia de señales no era la correcta"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E1 y señal de salida S1/1. Centralización de Bloqueos Reus-Mora con nuevo software (puesto en servicio 27/02/2023). Secuencia de señales incorrecta mostrada por software: V-A-R en lugar de A-A-R para itinerarios de entrada por vía principal.",
+  "tipo_via": "via principal",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "No existe distancia de frenado suficiente entre la señal de entrada y la señal de salida de la estación. Afectación en estaciones: Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Fallo en la nueva versión de software de señalización (Centralización de Bloqueos Reus-Mora) que mostraba la secuencia de señales Verde-Amarillo-Rojo (V-A-R) para itinerarios de entrada por vía principal, cuando la secuencia correcta indicada en la consigna es Amarillo-Amarillo-Rojo (A-A-R), debido a la insuficiente distancia de frenado entre la señal de entrada y la de salida.",
+  "contribuyentes": [
+   "Insuficiente distancia de frenado entre la señal de entrada E1 y la señal de salida S1/1 de la estación",
+   "Fallo en el procedimiento de desarrollo del software por parte del tecnólogo (Alstom)",
+   "Insuficiencia en las pruebas realizadas para la comprobación de la funcionalidad del software (pruebas FAT, pruebas de concordancia y pruebas conjuntas con ADIF)"
+  ],
+  "sistemicas": [
+   "Deficiencias en los procedimientos de desarrollo y validación de software de señalización por parte del tecnólogo",
+   "Posible insuficiencia en los protocolos de pruebas (FAT, concordancia, conjuntas) antes de la puesta en servicio"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": null,
+  "afectacion_servicio": "Freno de emergencia del tren 55115. No se menciona interrupción del servicio en este informe de avance."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "señalización",
+  "software",
+  "fallo de software",
+  "freno de emergencia",
+  "secuencia de señales",
+  "centralización de bloqueos",
+  "alstom",
+  "adif",
+  "renfe mercancías",
+  "distancia de frenado",
+  "les borges del camp",
+  "línea 210"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp"
+}

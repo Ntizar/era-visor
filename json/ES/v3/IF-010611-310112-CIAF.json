@@ -1,0 +1,153 @@
+{
+ "titulo_normalizado": "Escape de ocho plataformas portabobinas vacías en la estación de Trasona tras desacople defectuoso",
+ "idioma_original": "es",
+ "resumen": "El 1 de junio de 2011 a las 16:00 horas, en la estación de Trasona (Asturias), línea 11 Ferrol-Gijón de Feve, se produjo el escape de 8 plataformas portabobinas vacías del tren de mercancías 9203 tras el desacople de las dos locomotoras. El corte inició deslizamiento por la pendiente de 10 milésimas de la vía 3A, accedió a la vía general y recorrió 1.380 metros a la deriva antes de detenerse cerca del apeadero de Llaranes. No hubo víctimas ni daños materiales. La causa fue el incumplimiento normativo del personal ferroviario en las operaciones de frenado y corte, así como la no modificación de la posición de las agujas por la jefa de circulación.",
+ "hechos": "El día 1 de junio de 2011, el tren de mercancías 9203 de Feve, compuesto por dos locomotoras diésel-eléctricas (1607 y 1612) y ocho plataformas portabobinas vacías (tipo 2SSag), procedente de Pravia con destino Trasona, realizó su entrada a la estación de Trasona con treinta minutos de retraso, estableciéndose itinerario sobre vía 3A. El tren pasó la señal de entrada E1 en amarillo a las 15:59:57 a 40 km/h. El maquinista cortó tracción 30 metros antes del punto de detención (a 18 km/h) y accionó únicamente el freno directo de la locomotora 20 metros antes (a 8 km/h), deteniéndose a las 16:02:05 sin haber accionado el freno neumático del convoy. La estación estaba en mando local para realizar la maniobra de desacople.\n\nInmediatamente después de la detención, el especialista de estaciones procedió al corte: cerró simultáneamente los grifos de la locomotora y del primer vagón, desconectó las mangueras de aire sin abrir el grifo del primer vagón (por lo que no se descargó el circuito y no se activó el freno automático), no aplicó los frenos de estacionamiento manuales de los vagones ni utilizó calces. Las dos locomotoras se encaminaron al parque de Aceralia mientras las ocho plataformas iniciaron deslizamiento en dirección Pravia por la pendiente de 10 milésimas de la vía 3A. Como las agujas 1 y 3 seguían dispuestas hacia vía general (la jefa de circulación no las había modificado aún), el corte accedió a la vía general y recorrió 1.380 metros a la deriva, deteniéndose por sí solo cerca del apeadero de Llaranes al pasar el perfil a horizontal.\n\nLa jefa de circulación detectó la ocupación de circuitos de vía, alertó al CTC y ordenó detener el tren de viajeros 2419 en Avilés apeadero, evacuando a los viajeros al andén. Tras recibir autorización del CTC, una locomotora fue enviada a recoger el material escapado, que fue remolcado de vuelta a Trasona. La incidencia tuvo una duración de 25 minutos (16:00 a 16:25). No se suprimió ningún tren, pero 16 trenes sufrieron un retraso total de 269 minutos. No hubo víctimas ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Trasona",
+  "pk": "PK 27+510",
+  "linea": "11 Ferrol - Gijón",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Vía 3A (vía de apartado) de la estación de Trasona, tramo 12 Aboño-Avilés, trayecto Avilés apeadero - El Regueral. Municipio de Corvera de Asturias (Parroquia de Trasona). Vía en curva a derecha radio 307 m, pendiente 10 milésimas sentido Pravia."
+ },
+ "cronologia": [
+  {
+   "hora": "15:56",
+   "evento": "Llegada del tren 9203 a la estación de Trasona (según jefa de circulación)"
+  },
+  {
+   "hora": "15:57",
+   "evento": "El maquinista llega a Trasona con el tren 9203 y estaciona en vía 3A"
+  },
+  {
+   "hora": "15:59:57",
+   "evento": "El tren pasa la señal de entrada E1 en amarillo a 40 km/h (registrador de seguridad)"
+  },
+  {
+   "hora": "16:00",
+   "evento": "Hora oficial del incidente; el especialista de estaciones realiza el corte de locomotoras"
+  },
+  {
+   "hora": "16:02:05",
+   "evento": "El tren queda detenido por freno directo de locomotora (sin freno neumático del convoy)"
+  },
+  {
+   "hora": "16:02",
+   "evento": "Inmediatamente tras el corte, las 8 plataformas inician deslizamiento sentido Pravia"
+  },
+  {
+   "hora": "16:25",
+   "evento": "Fin de la incidencia; material escapado detenido cerca del apeadero de Llaranes"
+  },
+  {
+   "hora": "19:12",
+   "evento": "El inspector general de Feve comunica el suceso a la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "9203",
+   "tipo": "mercancías",
+   "operador": "Feve",
+   "danos": "Ningún daño material; una plataforma presentaba problemas de frenado detectados tras el incidente"
+  },
+  {
+   "numero": "2419",
+   "tipo": "viajeros (cercanías)",
+   "operador": "Feve",
+   "danos": "Detenido en Avilés apeadero; viajeros evacuados al andén. Sin daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 9203",
+   "implicacion": "No realizó el frenado total del tren ni comprobó la inmovilidad de todos los vehículos (incumplimiento RCT art. 6/15/00). Antigua 23 años. Último reciclaje 16/03/09."
+  },
+  {
+   "rol": "Especialista de estaciones",
+   "implicacion": "No comprobó la inmovilización de los vagones antes del desacople, no aplicó frenos de estacionamiento ni calces, cerró ambos grifos simultáneamente sin descargar la TFA, desconocía la pendiente de la vía 3A y no iba acompañado de agente caracterizado. Antigua 2 años y 10 meses. Último reciclaje 28/02/08."
+  },
+  {
+   "rol": "Jefa de circulación",
+   "implicacion": "Mantuvo las agujas 1 y 3 dispuestas hacia vía general una vez estacionado el tren, permitiendo que el escape accediera a la vía general. No hizo que el personal comprobara los frenos de estacionamiento (incumplimiento Anexo IX RCT art. 7/03/00). Antigua 19 años y 8 meses. Último reciclaje 31/08/10."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E1 en amarillo; radiotelefonía analógica; no existían indicadores de rasante en la vía 3A (no preceptivos en red Feve)",
+  "tipo_via": "Vía única electrificada; vía 3A de apartado con curva derecha radio 307 m y pendiente 10 milésimas sentido Pravia",
+  "velocidad_maxima": "80 km/h (tramo); 50 km/h (tipo material rodante)",
+  "ancho": null,
+  "electrificacion": "Sí, vía única electrificada",
+  "estado_via": "Pendiente 10 milésimas en vía 3A; perfil con tramo horizontal de 620 m y rampa de 5 milésimas en vía general; bloqueo automático (BAU) con CTC; mando local en el momento del incidente",
+  "otro": "Estación conectada con factoría Aceralia (maniobras de mercancías); 66 circulaciones diarias de cercanías; 73 circulaciones en días laborables (66 cercanías + 8 mercancías); obras en la estación"
+ },
+ "material_rodante": {
+  "series": "Locomotoras diésel-eléctricas 1607 y 1612; plataformas portabobinas tipo 2SSag (8 unidades); Tipo 50 (velocidad máxima 50 km/h)",
+  "averia": "Una de las plataformas presentaba problemas de frenado (detectados tras el incidente, ordenada su retirada inmediata)",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado",
+ "causas": {
+  "directa": "Incumplimiento normativo del personal ferroviario: el maquinista no realizó el frenado total del tren (solo freno directo de locomotora, sin freno neumático del convoy) y el especialista de estaciones no comprobó la inmovilización, no aplicó frenos de estacionamiento ni calces, y cerró simultáneamente ambos grifos sin descargar la TFA, impidiendo el frenado automático del corte.",
+  "contribuyentes": [
+   "Pendiente de 10 milésimas de la vía 3A sin señalización mediante indicadores de rasante",
+   "Agujas 1 y 3 mantenidas en posición vía general por la jefa de circulación, permitiendo el acceso del escape a la vía general",
+   "Desconocimiento por el especialista de estaciones de la pendiente de la vía 3A (no era su residencia habitual)",
+   "El especialista no iba acompañado de agente caracterizado que conociera la estación",
+   "La jefa de circulación no hizo que el personal a su cargo comprobara los frenos de estacionamiento",
+   "Existe de obras en la estación que alteraban la forma de trabajo",
+   "No se documentó mediante consigna la realización de maniobras en la estación (RCT art. 6/12/00)"
+  ],
+  "sistemicas": [
+   "Ausencia de indicadores de rasante en vías con pendiente significativa en la red Feve (no preceptivo)",
+   "Falta de documentación obligatoria de maniobras mediante consigna en estaciones con elevadas pendientes y tráfico mixto",
+   "Posible deficiencia en la formación/reciclaje del especialista de estaciones (último reciclaje 28/02/08, más de 3 años antes del incidente)",
+   "No se realizaron pruebas de alcoholemia al personal implicado"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños ni en la infraestructura ni en el material móvil",
+  "afectacion_servicio": "Incidencia de 25 minutos (16:00-16:25). No se suprimió ningún tren. 16 trenes sufrieron un retraso total de 269 minutos. Tren de viajeros 2419 detenido en Avilés apeadero con evacuación de viajeros al andén."
+ },
+ "lecciones": [
+  "La correcta aplicación del freno neumático del convoy antes del desacople es imprescindible para evitar escapes de material en vías con pendiente",
+  "El cierre simultáneo de grifos de locomotora y primer vagón sin descarga de la TFA impide el frenado automático y es una práctica peligrosa",
+  "La posición de las agujas debe modificarse inmediatamente tras el estacionamiento para prevenir que un escape acceda a vía general",
+  "La ausencia de indicadores de rasante puede contribuir a que personal no habitual desconozca las condiciones de la vía",
+  "Las maniobras en estaciones con pendientes elevadas y tráfico mixto deben estar documentadas mediante consigna"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "escape de material",
+  "desacople",
+  "frenado defectuoso",
+  "plataformas portabobinas",
+  "pendiente",
+  "incumplimiento normativo",
+  "maniobras de mercancías",
+  "mando local",
+  "trasona",
+  "feve",
+  "acceso a vía general",
+  "incidente ferroviario"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-010611-310112-CIAF"
+}

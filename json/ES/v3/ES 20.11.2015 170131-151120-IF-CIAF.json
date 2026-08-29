@@ -1,0 +1,172 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías por fallo en caja de grasa del vagón 24 entre Palencia y Monzón de Campos",
+ "idioma_original": "es",
+ "resumen": "El 20 de noviembre de 2015 a las 20:21 h, el tren de mercancías 82697 (locomotora Renfe Mercancías y 28 vagones Leks PMA de SEMAT, Pamplona-Muriedas) descarriló en el PK 305+197 de la línea 160 Santander-Palencia, entre Palencia y Monzón de Campos. La causa fue el desprendimiento de la caja de grasa del 2º eje del vagón 24º (437141795314) en el PK 303+340, por sobrecalentamiento y posible agarrotamiento del rodamiento que provocó la rotura de la mangueta. Tres vagones (23º, 24º y 25º) resultaron descarrilados o dañados; el vagón 24º fue para desguace. No hubo víctimas. La CIAF concluye que se trata de un fallo técnico del material móvil y emite dos recomendaciones a Transfesa y a la AESF.",
+ "hechos": "El tren de mercancías 82697, compuesto por la locomotora 957102530541 de Renfe Mercancías y 28 vagones Leks (plataformas porta-automóviles PMA) propiedad de SEMAT, procedía de Pamplona con destino Muriedas (Cantabria). Circulaba con normalidad por la línea 160 Santander-Palencia. Tras pasar por la estación de Palencia (PK 297+053), a las 20:19:28 h y a 98 km/h, en el PK 303+340 se desprendió la caja de grasa de la rueda derecha del 2º eje del vagón 24º (437141795314). El tren continuó su marcha produciendo roces en los pasos a nivel de los PK 304+170 y 304+966. A las 20:20:38 h, a 95 km/h, en el PK 305+197 (clotoide de transición a curva a derechas de radio 1428 m) descarriló la rueda izquierda del 2º eje del vagón 24º, y poco después, en el PK 305+296, la rueda derecha del mismo eje. El tren pasó por la señal avanzada E'1 (PK 306+756, 94 km/h) y la entrada E1 (PK 308+621, 95 km/h). Al paso por el desvío 3 (PK 308+956) de la estación de Monzón de Campos, descarrilaron el 1er eje del vagón 24º, el 2º eje del vagón 23º (que se reencarriló) y el 1er eje del vagón 25º.\n\nEl jefe de circulación de servicio en Monzón de Campos se percató de que el tren circulaba descarrilado y solicitó al PM de Miranda de Ebro su inmediata detención. A las 20:23:02 h se produjo la pérdida de presión de la tubería de freno (TFA) por rotura de la continuidad del freno, y a las 20:23:43 h la locomotora se detuvo en el PK 310+043. El vagón 24º recorrió 4401 m descarrilado y el tren 569 m desde el inicio del frenado hasta la parada. Se verificó que la locomotora y los vagones 1 a 22 y 26 a 28 quedaron encarrilados; los vagones 23º, 24º y 25º con ejes descarrilados. No se produjeron víctimas.\n\nLa investigación determinó que el fallo se originó por un aumento de temperatura en la caja de grasa del 2º eje del vagón 24º, por posible agarrotamiento del rodamiento cilíndrico de mangueta de 120 mm, que desgastó la mangueta hasta su rotura y provocó el desprendimiento de la caja de grasa fundida con la parte fraccionada de la mangueta. El plan de mantenimiento del vagón y del eje tipo 66 se había cumplido según los registros. Las mediciones de vía (ancho, peralte, alabeo) y de rodadura resultaron conformes. El DEC de Bujedo, 280 km antes, no detectó ninguna alarma.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Monzón de Campos",
+  "pk": "305+197",
+  "linea": "160 Santander a Palencia",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Tramo entre las estaciones de Palencia (PK 297+053) y Monzón de Campos (PK 309+254), tramo Palencia-Osorno. Zona de descarrilamiento: clotoide de 406 m de longitud, pendiente 0,5 ‰, peralte 115 mm, de transición a curva a derechas de radio 1428 m. Paso a nivel en PK 304+170, 304+966, 306+595, 308+902. Desvío 3 de la estación de Monzón de Campos en PK 308+956."
+ },
+ "cronologia": [
+  {
+   "hora": "17:43:13",
+   "evento": "El tren pasa por el DEC de Bujedo (PK 454+056, línea 100 Chamartín-Hendaya) sin alarma"
+  },
+  {
+   "hora": "20:19:28",
+   "evento": "A 98 km/h, en PK 303+340, se desprende la caja de grasa de la rueda derecha del 2º eje del vagón 24º (437141795314)"
+  },
+  {
+   "hora": "20:20:38",
+   "evento": "A 95 km/h, en PK 305+197, descarrilamiento de la rueda izquierda del 2º eje del vagón 24º; en PK 305+296 descarrila la rueda derecha del mismo eje"
+  },
+  {
+   "hora": "20:21:19",
+   "evento": "Paso por baliza ASFA de señal E'1 (PK 306+756) a 94 km/h"
+  },
+  {
+   "hora": "20:22:30",
+   "evento": "Paso por baliza ASFA de señal E1 (PK 308+621) a 95 km/h; en el desvío 3 (PK 308+956) descarrilan 1er eje vagón 24º, 2º eje vagón 23º y 1er eje vagón 25º"
+  },
+  {
+   "hora": "20:23:02",
+   "evento": "Inicio del frenado por pérdida de presión de TFA en PK 309+474 a 94 km/h"
+  },
+  {
+   "hora": "20:23:04",
+   "evento": "Paso por señal S1/1 (PK 309+513) a 91 km/h"
+  },
+  {
+   "hora": "20:23:43",
+   "evento": "Detención de la locomotora en PK 310+043"
+  },
+  {
+   "hora": "20:24:45",
+   "evento": "El jefe de circulación de Monzón de Campos ordena al CTC parar el tren 82697 por ir descarrilado"
+  },
+  {
+   "hora": "20:25:10",
+   "evento": "El jefe del CTC ordena detenerse al tren 82697; el maquinista confirma"
+  },
+  {
+   "hora": "02:12",
+   "evento": "El PM ordena la continuidad del tren 82697 con 22 vagones (21-11-2015)"
+  },
+  {
+   "hora": "03:15",
+   "evento": "Llega motor de maniobras de Reinosa para apartar vagón 23º en Frómista"
+  },
+  {
+   "hora": "05:30",
+   "evento": "Vagón 24º apartado en Monzón de Campos; limitación de velocidad 60 km/h entre PK 305+200 y 308+960"
+  },
+  {
+   "hora": "07:40",
+   "evento": "Expedición del tren MP609 con 4 vagones restantes a vía 4 de Frómista, LV 15 km/h"
+  },
+  {
+   "hora": "08:15",
+   "evento": "Enclavados y embridados cambios 1 y 2 a vía 2; vías 1 y 3 de baja. Fin de la interrupción total (11 h 54 min)"
+  },
+  {
+   "hora": "13:25",
+   "evento": "Finalizada la reparación de rodadura de pasos a nivel, cambios 1, 3 y 4, señal S2/1 y otros daños (21-11-2015)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "82697",
+   "tipo": "mercancías (PMA / plataformas porta-automóviles)",
+   "operador": "Renfe Mercancías (tracción) / SEMAT (vagones)",
+   "danos": "Locomotora y vagones 1-22 y 26-28 encarrilados sin daños relevantes. Vagón 24º (437141795314) descarrilado de 2 ejes, para desguace. Vagón 23º (437141795447) y 25º (437141797997) con daños en elementos de choque-tracción, freno, rodadura, plataformas y protecciones laterales; cada uno con 8 VW Polo dañados"
+  },
+  {
+   "numero": "4192",
+   "tipo": "viajeros (Larga Distancia)",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso; viajeros trasladados en autobús Osorno-Palencia"
+  },
+  {
+   "numero": "4193",
+   "tipo": "viajeros (Larga Distancia)",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso; viajeros trasladados en autobús Palencia-Osorno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 82697 (matrícula 8984122)",
+   "implicacion": "Conducía el tren. No detectó el descarrilamiento; estaba llamando a Bombardier por teléfono de empresa cuando notó tracción y frenado simultáneos y caída de presión en TFA. Recibió orden de parada del PM. Título B de conducción desde 02-01-2007, habilitado en vehículo desde 20-02-2009 y línea desde 11-06-2010. Último reciclaje 14-01-2015, reconocimiento médico/psicotécnico 04-09-2014. Jornada del día 20: 4 h 58 min (8 min conducción efectiva)."
+  },
+  {
+   "rol": "jefe de circulación de Monzón de Campos (matrícula 8921140)",
+   "implicacion": "Se percató visualmente del paso del tren descarrilado y solicitó la inmediata detención al PM de Miranda de Ebro. Habilitado como responsable de circulación desde 30-05-2008 y de la estación desde 27-03-2009. Último reciclaje 22-10-2014, reconocimiento médico/psicotécnico 03-04-2014. Jornada del día 20: 6 h 21 min hasta el accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA (balizas en señales E'1, E1, S1/1). Señales S2/1 (caída sobre vía 3) y S1/3 dañadas. Consigna A 2714 v17 (Bloqueos Palencia-Santander) y Consigna A 2795 v3 (Apartadero de Monzón de Campos)",
+  "tipo_via": "Vía única con bloqueo automático y CTC (Puesto de Mando de Miranda de Ebro). Estación de Monzón de Campos con 3 vías (1, 2, 3) en mando central",
+  "velocidad_maxima": "135 km/h permitida en la zona del suceso (sin limitaciones vigentes). Tren tipo 100N (máx. 100 km/h); velocidad real 98 km/h al perder la caja de grasa, 95 km/h al descarrilar, 94 km/h al frenar",
+  "ancho": "1668 mm (ancho ibérico; norma NAV 7.3.2.0). Mediciones in situ dentro de tolerancia (+0,9 a +3,2 mm)",
+  "electrificacion": null,
+  "estado_via": "Ancho de vía, variación del ancho, peralte y alabeo medidos tras el suceso: todos dentro de tolerancia (normas NAV 7.3.2.0 y NAV 7.3.5.0). No existían obras en las inmediaciones",
+  "otro": "Radiotelefonía en modalidad A. Pasos a nivel en PK 304+170, 304+966, 306+595, 308+902 (rodadura dañada en 304+966, 306+595 y 308+902). Media semanal de circulaciones del tramo Palencia-Osorno: 141 (42 LD, 28 MD, 64 mercancías, 7 servicio)"
+ },
+ "material_rodante": {
+  "series": "Locomotora 957102530541 (Renfe Mercancías). 28 vagones Leks / PMA propiedad de SEMAT; vagón siniestrado 437141795314 (posición 24º). Eje tipo 66 (nº 66925273). Vagones 4 y 18 de 3 ejes (26,50 m entre topes, 26,5 t tara, 19,5 t carga); restantes de 2 ejes (17,14 m, 17 t tara, 14 t carga). Tren: 498 m de longitud (sin locomotora), 58 ejes, 232 t carga, 727 t masa remolcada",
+  "averia": "Fallo del rodamiento cilíndrico (mangueta Ø120 mm, tipo SKF) de la rueda derecha del 2º eje del vagón 24º: posible agarrotamiento → aumento de temperatura → desgaste de la mangueta hasta rotura → desprendimiento de la caja de grasa fundida con parte fraccionada de la mangueta. No se tiene constancia de mantenimiento correctivo previo en la caja de grasa siniestrada",
+  "mantenimiento": "EEMM: Transfesa; Centro de Mantenimiento: Transervi (100% Transfesa). Vagón 24º: última R el 30-05-2013 en Soto del Real (Transervi); 130.478 km recorridos desde R hasta el suceso. Última VS el 20/03/2015 (3.971 km antes); desde esa VS, 41.216 km hasta el suceso. Desde enero de 2015 las VS desaparecen y se sustituyen por inspecciones en origen (RT 2/2015 DGF) sin registro en historial. Eje 66: última DR el 22-05-2013 en Soto del Real; ciclos R2/6 años y DR/12 años. Planes aplicables: vagón Leks ed.1 rev.0 (09/10/2013); ejes tipo 66 ed.B (22/11/2011). Ejes tipo 66 solo en tráficos nacionales"
+ },
+ "clima": "Noche, tiempo despejado, condiciones atmosféricas buenas",
+ "causas": {
+  "directa": "Fallo técnico del material móvil: aumento de temperatura en la caja de grasa por posible agarrotamiento del rodamiento de la rueda derecha del 2º eje del vagón 24º, que desgastó la mangueta hasta su rotura y provocó el desprendimiento de la caja de grasa fundida con la parte fraccionada de la mangueta, causando el descarrilamiento",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Vagón 24º (437141795314): para desguace. Vagones 23º (437141795447) y 25º (437141797997): daños en elementos de choque-tracción, freno, rodadura, plataformas y protecciones laterales; cada uno con 8 vehículos VW Polo (4+4) dañados. Infraestructura: daños en carril, traviesas, cruzamiento y contracarril de desvíos 1, 3 y 4; señales S2/1 (caída) y S1/3; rodadura de pasos a nivel PK 304+966, 306+595 y 308+902",
+  "afectacion_servicio": "Interrupción total de la circulación durante 11 h 54 min (20:21 del 20/11 al 08:15 del 21/11). Retrasos a 16 trenes de viajeros (230 min totales) y 4 trenes de mercancías incluidos el siniestro (340 min totales). Viajeros de LD 4192 y 4193 trasladados en autobús entre Osorno y Palencia. Plan de emergencia externo no activado"
+ },
+ "lecciones": [
+  "Los ejes tipo 66 con cajas de grasa de diseño antiguo presentan riesgo de agarrotamiento del rodamiento y rotura de mangueta, como ya se evidenció en el accidente de Almudévar-Tardienta (6/09/2012, expediente CIAF 61/2012)",
+  "La supresión de las VS (visitas de seguridad) en enero de 2015, sustituidas por inspecciones en origen sin registro en el historial del vagón, reduce la trazabilidad del estado de las cajas de grasa entre revisiones R",
+  "La distancia de 280 km entre el último DEC (Bujedo) y el punto de desprendimiento de la caja de grasa evidencia la insuficiencia de la cobertura de detectores de ejes calientes en el recorrido",
+  "Los retrasos en la implantación de la nueva caja de grasa (SKF) y en la adaptación de ejes tipo 65 al parque de vagones Leks (42/155 adaptados a fecha del informe) prolongan la exposición al riesgo"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Requerir a Transfesa que presente un nuevo plan de homologación y montaje de las nuevas cajas de grasa de los ejes tipo 66 de los vagones Leks, asegurando el cumplimiento del mismo",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: AESF"
+  },
+  {
+   "texto": "Hasta la implantación del nuevo plan de la recomendación 58/15-1, intensificar el mantenimiento de las actuales cajas de grasa de los ejes tipo 66 de los vagones Leks mediante un plan de mantenimiento complementario, a fin de asegurar su correcto funcionamiento",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: TRANSFESA"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "caja de grasa",
+  "rodamiento",
+  "mangueta",
+  "vagón leks",
+  "pma",
+  "fallo técnico",
+  "tren mercancías",
+  "línea 160",
+  "palencia",
+  "monzón de campos",
+  "transfesa",
+  "semat",
+  "eje tipo 66",
+  "skf"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 20.11.2015 170131-151120-IF-CIAF"
+}

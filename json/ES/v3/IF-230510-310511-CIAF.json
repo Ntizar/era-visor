@@ -1,0 +1,130 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías 95053 entre Pozuelo y Príncipe Pío por decalado de rueda en vagón-plataforma",
+ "idioma_original": "es",
+ "resumen": "El 23 de mayo de 2010 a las 22:54, el tren de mercancías 95053 descarriló en el P.K. 5+114 de la línea 910 Madrid-Atocha Cercanías a Pinar de las Rozas, entre Pozuelo y Príncipe Pío (Madrid). Descarriló el primer bogie del vagón-plataforma en duodécima posición debido al decalado de la rueda derecha del primer eje. No hubo víctimas. El origen fue probablemente un mal calado de la rueda durante la intervención de mantenimiento en Siderúrgica Requena S.A., sin poder determinarse la causa exacta.",
+ "hechos": "El tren de mercancías 95053, formado por una locomotora de Renfe Operadora y 22 vagones-plataforma del Ministerio de Defensa, circulaba de Pozuelo hacia Príncipe Pío. El maquinista, al ver la señal de avanzada de Príncipe Pío en anuncio de parada, aplicó freno y tras la detención no pudo recuperarlo. Al reconocer el tren observó el descarrilamiento del primer bogie del vagón-plataforma en duodécima posición. La rueda derecha del primer eje se encontraba fuera de la zona de calado y desplazada 45 cm hacia el interior. Se encontró el remonte de la pestaña de la rueda derecha del segundo eje del bogie en el P.K. 5+125 y su caída al exterior en el P.K. 5+114, produciendo el descarrilamiento de las ruedas del lado izquierdo del bogie hacia el interior de la vía, circulando descarrilado 2.186 metros hasta su detención en el P.K. 2+928. El vagón había sido intervenido tipo R el 2 de octubre de 2009 en Siderúrgica Requena S.A., donde se sustituyeron las ocho ruedas adquiridas a CAF S.A., habiendo recorrido solo 860 km desde entonces.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Pozuelo y Príncipe Pío",
+  "pk": "5+114",
+  "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Tramo recto entre las estaciones de Pozuelo y Príncipe Pío, vía doble electrificada, pendiente de 10 milésimas, ancho convencional"
+ },
+ "cronologia": [
+  {
+   "hora": "22:54",
+   "evento": "Descarrilamiento del primer bogie del vagón-plataforma duodécimo en el P.K. 5+114. El tren circulaba a 92 km/h"
+  },
+  {
+   "hora": "22:54",
+   "evento": "El maquinista aplica freno al ver señal de avanzada en anuncio de parada; tras detenerse no puede recuperar el freno"
+  },
+  {
+   "hora": "22:54",
+   "evento": "El maquinista reconoce el tren y observa el descarrilamiento; informa al CTC y al centro de gestión"
+  },
+  {
+   "hora": "23:05",
+   "evento": "Vía 1 queda interceptada"
+  },
+  {
+   "hora": "23:05",
+   "evento": "Vía 2 queda interceptada"
+  },
+  {
+   "hora": "23:28",
+   "evento": "Vía 2 reabre con marcha a la vista banalizada"
+  },
+  {
+   "hora": "05:40",
+   "evento": "Vía 1 reabre (25 de mayo de 2010)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "95053",
+   "tipo": "mercancías",
+   "operador": "Renfe Operadora (locomotora) / Ministerio de Defensa (vagones)",
+   "danos": "Ruedas del bogie delantero del duodécimo vagón-plataforma con daños importantes; ruedas del bogie trasero con golpes menores; tubería de freno y distribuidor golpeados"
+  },
+  {
+   "numero": "837139591320",
+   "tipo": "vagón-plataforma",
+   "operador": "Ministerio de Defensa",
+   "danos": "Descarrilamiento del primer bogie; rueda derecha del primer eje decalada y desplazada 45 cm"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista (matrícula 6815609)",
+   "implicacion": "Conducía el tren 95053; aplicó freno correctamente al ver señal de avanzada en anuncio de parada; no pudo recuperar el freno tras detención; reconoció el tren y detectó el descarrilamiento. Poseía título B de conducción, habilitación vigente, último reciclaje 08/07/08, último reconocimiento médico 29/07/08. No se le realizó prueba de alcoholemia"
+  },
+  {
+   "rol": "militar encargado del tren",
+   "implicacion": "Llamó al maquinista para pedir información sobre la parada; acompañó al maquinista a reconocer el tren"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de avanzada de Príncipe Pío en anuncio de parada; balizas ASFA (2 rotas, 3 dañadas)",
+  "tipo_via": "vía doble electrificada",
+  "velocidad_maxima": "100 km/h",
+  "ancho": "ancho convencional",
+  "electrificacion": "electrificada",
+  "estado_via": "Cierto sobreancho pero dentro de tolerancias admisibles",
+  "otro": "Bloqueo automático banalizado (BAB); control de tráfico centralizado (CTC) desde puesto de mando de Chamartín; capacidad 22,5 t/eje (categoría D4); media semanal 1.171 circulaciones (alta)"
+ },
+ "material_rodante": {
+  "series": "Locomotora 957102530384 (Renfe Operadora); vagón-plataforma UIC 837139591320 (Ministerio de Defensa), velocidad máx 100 km/h, peso 45,3 t; tren total 348 m y 1.062 t",
+  "averia": "Decalado de la rueda derecha del primer eje (nº 39956-7) del primer bogie (nº 3958-1-0); presión de calado tras el suceso 150 t (presión de decalado); aprieto 0,12 mm inferior al mínimo normativo (~28,5 mm)",
+  "mantenimiento": "Última intervención tipo R el 02/10/2009 en Siderúrgica Requena S.A.; sustitución de las 8 ruedas (adquiridas a CAF S.A.); 860 km recorridos desde intervención; empresa con homologación y habilitación vigentes"
+ },
+ "clima": "Noche, tiempo despejado",
+ "causas": {
+  "directa": "Decalado de la rueda derecha del primer eje del primer bogie del vagón-plataforma duodécimo, probablemente por mal calado de dicha rueda",
+  "contribuyentes": [
+   "Presión de calado en taller alcanzó valores mínimos admisibles (66 t) aunque conformes",
+   "Aprieto medio (0,30 mm) en el proceso de calado original",
+   "Posible error en el proceso de calado (error de medición o del aparato) o pérdida de material en el cubo por giro de la rueda sobre la zona de calado durante el decalado",
+   "Incremento del diámetro medio del centro de rueda de 184,05 a 184,25 mm tras el suceso"
+  ],
+  "sistemicas": [
+   "No se pudo determinar la causa exacta del mal calado",
+   "Siderúrgica Requena S.A. pasó a operar buscando la mayor presión posible dentro de límites y a supervisar personalmente todas las operaciones de calado por el responsable de calidad/técnico de mantenimiento"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: ruedas del bogie delantero del vagón duodécimo con daños importantes; bogie trasero golpes menores; tubería de freno y distribuidor golpeados. Infraestructura: traviesas y sujeciones dañadas en 2.186 m; rotura de 2 balizas ASFA y 3 dañadas",
+  "afectacion_servicio": "Vía 1 interceptada de 23:05 del 23/05 a 05:40 del 25/05 (aprox. 30,5 h); vía 2 interceptada de 23:05 a 23:28 del 23/05, luego circuló por vía 2 banalizada con marcha a la vista hasta 05:40 del 25/05. 88 trenes de cercanías con retraso total de 1.303 minutos; 12 trenes de mercancías con retraso total de 886 minutos"
+ },
+ "lecciones": [
+  "El aprieto medio (0,30 mm) y la presión mínima admisible (66 t) en el calado original, aunque conformes, pueden no proporcionar suficiente margen de seguridad",
+  "Los errores de medición o de aparato en el proceso de calado pueden pasar desapercibidos con los controles existentes",
+  "La supervisión personal de todas las operaciones de calado por el responsable de calidad/técnico de mantenimiento es una medida correctiva efectiva"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Realizar auditoría, externa a Siderúrgica Requena, S.A., en los aspectos relativos a: 1. Documentación aplicada al calado de ruedas y control de calidad. 2. Verificar el estado, el control y la calibración de los medios de mecanizado, calado y sistemas de medición.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "decalado de rueda",
+  "tren de mercancías",
+  "vagón-plataforma",
+  "calado",
+  "siderúrgica requena",
+  "mantenimiento",
+  "línea 910",
+  "príncipe pío",
+  "pozuelo",
+  "adif",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-230510-310511-CIAF"
+}

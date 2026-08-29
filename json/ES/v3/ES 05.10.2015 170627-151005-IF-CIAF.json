@@ -1,0 +1,203 @@
+{
+ "titulo_normalizado": "Colisión de locomotora contra vagón de cola durante maniobra de inversión en la estación de Tardienta (Huesca)",
+ "idioma_original": "es",
+ "resumen": "El 05.10.2015 a las 17:17 horas, durante la maniobra de inversión de sentido del tren de mercancías BAR11/52 en la estación de Tardienta (Huesca), la locomotora 333.3 colisionó contra el vagón de cola del material remolcado estacionado en vía 4. El accidente se produjo por fallo humano del maquinista al no aplicar correctamente el freno mientras conducía desde la cabina contraria al sentido de la marcha. Resultaron heridos leves el maquinista y el agente de maniobras, y se produjeron daños de consideración en la locomotora y el último vagón. La CIAF formuló tres recomendaciones de seguridad dirigidas a AESF y Continental Rail.",
+ "hechos": "El tren de mercancías BAR11/52, operado por Continental Rail, procedente de Canfranc con destino Barcelona Can Tunis, entró en la estación de Tardienta por vía 1 y se estacionó en vía 4 a las 17:00 horas para invertir su sentido de circulación. La locomotora fue desenganchada y realizó una serie de movimientos de maniobra controlados desde el puesto de mando centralizado de Zaragoza Portillo. Tras varios desplazamientos por vía 3, en el último movimiento de retroceso desde la señal R1 hacia la cola del material remolcado en vía 4, el maquinista condujo desde la cabina de cola (contraria al sentido de la marcha) mientras el agente de maniobras iba en la cabina de cabeza indicando las distancias. A los 50 metros, el agente marcó la distancia y el maquinista aplicó el freno directo sin notar reacción; a los 20 metros tiró de urgencia pero no pudo evitar la colisión a 21 km/h. Como consecuencia del impacto se produjeron daños importantes en el testero 1 de la locomotora con abatimiento de la cabina y deformación en el cabecero del vagón de cola. Resultaron heridos leves el maquinista y el agente de maniobras. La notificación del accidente al puesto de mando fue deficiente: no se informó con claridad ni de forma inmediata, y el conocimiento completo de la envergadura del suceso no se tuvo hasta las 20:30 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Tardienta",
+  "pk": "52+950",
+  "linea": "200 Madrid Chamartín - Barcelona Estación de Francia",
+  "provincia": "Huesca",
+  "descripcion_lugar": "Vía 4 de la estación de Tardienta, tramo Bifurcación Canfranc – Tardienta - Sariñena, Comunidad Autónoma de Aragón. Estación con seis vías (vías 1 y 2 de ancho UIC, vías 3 a 6 de ancho ibérico), enclavamiento electrónico, mando centralizado desde Zaragoza Portillo, Bloqueo Automático de Vía Única con CTC. La vía 4 tiene alineación recta y no está dotada de andén."
+ },
+ "cronologia": [
+  {
+   "hora": "16:57",
+   "evento": "El tren BAR11/52 circula por vía 1 en el circuito anterior a la señal de entrada E1; el jefe de CTC establece itinerario de entrada vía 1 a vía 4"
+  },
+  {
+   "hora": "17:00",
+   "evento": "El tren BAR11/52 se estaciona en vía 4. Se libera la locomotora y queda el material remolcado estacionado"
+  },
+  {
+   "hora": "17:06",
+   "evento": "El jefe de CTC establece itinerario de maniobra para la locomotora vía 4 a vía 3, desde señal S1/4 hasta señal R2"
+  },
+  {
+   "hora": "17:08",
+   "evento": "La locomotora inicia su movimiento vía 4 a vía 3 (señal S1/4 a R2), velocidad máxima 21 km/h, maquinista en cabina de cabeza"
+  },
+  {
+   "hora": "17:11",
+   "evento": "La locomotora inicia movimiento por vía 3 desde señal R2 hasta señal S2/3, velocidad máxima 40 km/h. Se realiza el relevo de maquinista en el andén de vía 3"
+  },
+  {
+   "hora": "17:13",
+   "evento": "La locomotora se detiene ante la señal S2/3. Nuevo maquinista en cabina de cabeza, agente de maniobras en cabina de cola"
+  },
+  {
+   "hora": "17:15",
+   "evento": "La locomotora inicia movimiento por vía 3 desde señal S2/3 hasta señal R1, velocidad máxima 37 km/h"
+  },
+  {
+   "hora": "17:16",
+   "evento": "La locomotora se detiene ante señal R1. El jefe de CTC establece itinerario de vía 3 a vía 4 para acoplamiento con material remolcado. La locomotora invierte marcha; maquinista en cabina de cola, agente de maniobras en cabina de cabeza"
+  },
+  {
+   "hora": "17:17",
+   "evento": "COLISIÓN: la locomotora impacta contra el vagón de cola del material remolcado a 21 km/h (velocidad máxima alcanzada en este tramo: 28 km/h). Heridos leves el maquinista y el agente de maniobras"
+  },
+  {
+   "hora": "17:54",
+   "evento": "El agente de circulación de Tardienta llama al jefe de CTC para comunicarle que el maquinista va a hablar"
+  },
+  {
+   "hora": "17:56",
+   "evento": "El grupo de gestión de Barcelona informa al regulador de un golpe un poco más fuerte de lo normal al vagón de cola"
+  },
+  {
+   "hora": "18:02",
+   "evento": "El maquinista llama al jefe de CTC y le informa que la locomotora está inútil y que llega otra de Madrid"
+  },
+  {
+   "hora": "18:05",
+   "evento": "El agente de circulación comunica al puesto de mando que la locomotora se encuentra inútil para circular"
+  },
+  {
+   "hora": "20:00",
+   "evento": "El agente de circulación informa que un agente de material ha dado inútil para circular el vagón 347193410029"
+  },
+  {
+   "hora": "20:15",
+   "evento": "El puesto de mando informa a Seguridad en la Circulación de ADIF, que determina la inmovilización de locomotora y vagón en vía 4"
+  },
+  {
+   "hora": "20:31",
+   "evento": "Parte de Vicálvaro Clasificación (Madrid) locomotora aislada CGR62 (333314) para continuar el trayecto"
+  },
+  {
+   "hora": "22:00",
+   "evento": "El agente de circulación asegura la locomotora y el vagón con freno de estacionamiento y calces antideriva"
+  },
+  {
+   "hora": "01:13",
+   "evento": "Llega a Tardienta la locomotora 333314 procedente de Madrid (día 06.10.2015)"
+  },
+  {
+   "hora": "03:14",
+   "evento": "El tren BAR11/52 efectúa su salida de Tardienta con 551 minutos de retraso (día 06.10.2015)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "BAR11/52",
+   "tipo": "tren de mercancías",
+   "operador": "CONTINENTAL RAIL",
+   "danos": "Daños de consideración en locomotora (abatimiento de cabina, separación de parte superior, daños en topes y armarios eléctricos, reparación presupuestada en 118.607 € IVA no incluido) y deformación importante en cabecero nº 2 del vagón de cola 347193410029 (altura de topes fuera de tolerancia)"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren BAR11/52 (de salida)",
+   "implicacion": "Condujo la locomotora desde la cabina de cola (contraria al sentido de la marcha) incumpliendo la Carta Circular de Reglamentación nº 8 de ADIF; no aplicó correctamente el freno; no informó de forma clara e inmediata al puesto de mando; herido leve (baja domiciliaria del 06.10 al 19.10.2015)"
+  },
+  {
+   "rol": "Agente de maniobras (focalizador)",
+   "implicacion": "Situado en cabina de cabeza durante el último movimiento, indicó las distancias al maquinista; herido leve (fractura del brazo izquierdo, baja domiciliaria)"
+  },
+  {
+   "rol": "Jefe de CTC de servicio",
+   "implicacion": "Estableció itinerario de entrada del tren; no participó en la maniobra de inversión (estaba en descanso ante pantallas)"
+  },
+  {
+   "rol": "Jefe de CTC de refuerzo",
+   "implicacion": "Estableció los itinerarios de maniobra de inversión de la locomotora; no fue informado de la incidencia durante la maniobra"
+  },
+  {
+   "rol": "Agente de circulación de Tardienta",
+   "implicacion": "Presenció la maniobra desde el andén; no vio la señal que autorizaba el movimiento; informó al puesto de mando de forma incompleta y tardía; aseguró el material estacionado"
+  },
+  {
+   "rol": "Regulador A",
+   "implicacion": "Recibió información inicial incompleta del incidente a través del Grupo de Gestión de Tráfico"
+  },
+  {
+   "rol": "Regulador B",
+   "implicacion": "Se hizo cargo de la gestión de la incidencia; constató la falta de información clara del maquinista; gestionó la inmovilización del material"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico con señales S1/4, S1/4A, R2, S2/3, R1. Solo las señales de salida S1/4 (pk 52+347) y S2/3 (pk 53+054) están dotadas de balizas ASFA de pie de señal. Señales en indicación de rebase autorizado durante la maniobra.",
+  "tipo_via": "Vía de servicio (vía 4), alineación recta, longitud útil 217 m desde señal S2/4 hasta S1/4A y 630 m hasta señal S1/4. Vía 3 paralela, perfil horizontal recto. Ligera rampa de 3,3 0/00 desde señal R1 hasta pk 53+070.",
+  "velocidad_maxima": "No existe limitación de velocidad permanente inferior a la mínima para maniobras en la estación. RGC Art. 141.2: 30 km/h tirando, 20 km/h empujando.",
+  "ancho": "Mixto: vías 1 y 2 de ancho UIC; vías 3, 4, 5 y 6 de ancho ibérico. Desvío mixto nº 1 por el lado Huesca. Tramo con tres carriles Tardienta-Huesca (línea 070).",
+  "electrificacion": "Vía Única Electrificada de Ancho Ibérico",
+  "estado_via": "No se detectaron anomalías en instalaciones, dispositivos de seguridad, señales ni enclavamiento. No existían obras en el lugar ni cercanías.",
+  "otro": "Mando central desde Puesto de Mando de Zaragoza Portillo (banda de regulación 5408, San Juan de Mozarrifar a Monzón Río Cinca). Bloqueo Automático de Vía Única (BAU) con Control de Tráfico Centralizado (CTC). Comunicación por radiotelefonía modalidad C (agente-CTC) y modalidad A canal 64 (tren-tierra)."
+ },
+ "material_rodante": {
+  "series": "Locomotora serie 333.3, clase T, tipo 333.3, nº UIC 957103333192 (333319). Propiedad de RENFE ALQUILER, operada por CONTINENTAL RAIL. Mantenimiento: RENFE FABRICACIÓN Y MANTENIMIENTO, SA. Registrador de seguridad CESIS IV y ASFA digital. Material remolcado: 14 tolvas de 4 ejes tipo TT/PTT cargadas de cereal, 1009 Tm, 218 m, propiedad de UTG-RAIL ESPAÑA. Vagón afectado: 347193410029.",
+  "averia": "Anomalía en ASFA digital de cabina 2 (todos los testigos encendidos, indicaciones correctas), registrada en libro de reparaciones el 05.09.2015 y pendiente de reparación. Freno de palillo (no de cabeza de freno). Protocolo de freno posterior mostró funcionamiento normal, aunque algunos valores cercanos al límite de tolerancia. No se detectó fallo en el freno.",
+  "mantenimiento": "RENFE FABRICACIÓN Y MANTENIMIENTO, SA (RENFE INTEGRIA). Protocolo de freno practicado en taller de Villaverde Bajo (Madrid). Habilitación de material para locomotora 333: 80 horas (50% teórica, 50% práctica). Reciclaje máximo cada 3 años."
+ },
+ "clima": "Condiciones meteorológicas normales, horas diurnas, buen tiempo, sin condiciones adversas. Visibilidad buena en la zona del accidente (recorrido recto y prácticamente horizontal).",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción (maquinista) al ejecutar la maniobra de inversión de la locomotora y no realizar una correcta aplicación del freno, probablemente por una mala percepción del riesgo (falta de atención o exceso de confianza) al conducir desde la cabina contraria al sentido de la marcha, incumpliendo el Reglamento General de Circulación y la Carta Circular de Reglamentación nº 8 de ADIF.",
+  "contribuyentes": [
+   "Realización de la maniobra a una velocidad superior a la establecida en el RGC (28 km/h alcanzados frente a 20 km/h límite para empujar)",
+   "Escasa experiencia del maquinista en la línea y con el material (maquinista desde enero 2015, habilitación de línea desde 07.09.2015, habilitación de material desde 18.08.2015)",
+   "Conducción desde la cabina contraria al sentido de la marcha (cabina de cola) incumpliendo la Carta Circular de Reglamentación nº 8 de ADIF",
+   "Freno de palillo en la locomotora que a veces no sube correctamente (según declaración del maquinista)"
+  ],
+  "sistemicas": [
+   "Ausencia en el SGS de Continental Rail de un procedimiento específico que establezca criterios generales para la suspensión, revocación y recuperación de habilitaciones tras un fallo humano",
+   "Deficiente notificación del accidente: los agentes implicados no informaron de forma clara, concisa e inmediata al puesto de mando; el conocimiento completo de la envergadura no se tuvo hasta 3 horas después"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 2,
+  "danos_materiales": "Locomotora 333319: daños importantes en testero 1 con abatimiento de la cabina, separación de su parte superior, daños en topes y armarios eléctricos de cabina. Reparación presupuestada en 118.607 € (IVA no incluido). Vagón 347193410029: deformación importante en cabecero nº 2, altura de topes fuera de tolerancia (daños de menor cuantía). No se produjeron daños en infraestructura, medio ambiente, carga transportada ni a terceros.",
+  "afectacion_servicio": "La estación de Tardienta quedó en vía única para vía convencional, sin afectar a la circulación general ni a vías generales. El tren BAR11/52 perdió 551 minutos sobre su horario establecido. No se estableció plan alternativo de transporte. La locomotora y el vagón quedaron inmovilizados en vía 4 hasta su retirada."
+ },
+ "lecciones": [
+  "La conducción desde la cabina contraria al sentido de la marcha en maniobras reduce la percepción del riesgo y puede provocar errores en la aplicación del freno",
+  "La notificación clara, concisa e inmediata de un suceso al puesto de mando es esencial para una gestión ágil y segura de la incidencia",
+  "La escasa experiencia del personal, aunque posea habilitaciones en vigor, puede ser un factor de riesgo en maniobras habituales",
+  "El exceso de velocidad en maniobras, aunque no sea determinante, incrementa el riesgo y reduce el margen de actuación",
+  "La necesidad de un procedimiento uniforme en el SGS para la suspensión, revocación y recuperación de habilitaciones tras un fallo humano"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En las acciones de formación y reciclaje al personal de conducción incidir en la obligación de conducir, siempre que sea posible, en la cabina de cabeza cuando se realizan maniobras, con el fin de conseguir una mayor percepción de la operación.",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / Implementador final: CONTINENTAL RAIL"
+  },
+  {
+   "texto": "En las acciones de formación y reciclaje al personal de conducción incidir en la importancia de transmitir al responsable de circulación, la información de un suceso por los cauces normativamente establecidos y en el menor tiempo posible.",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / Implementador final: CONTINENTAL RAIL"
+  },
+  {
+   "texto": "Se reitera la recomendación de la CIAF 28/15-2: Que se elabore e incluya dentro del Sistema de Gestión de la Seguridad de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones tras un fallo humano, en función de la gravedad de éste, con el fin de conseguir un tratamiento uniforme en el proceso de reciclaje para la incorporación del trabajador a su puesto de trabajo tras una incidencia de este tipo.",
+   "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / Implementador final: CONTINENTAL RAIL"
+  }
+ ],
+ "tags": [
+  "colision",
+  "maniobra",
+  "inversion",
+  "locomotora",
+  "vagones",
+  "fallo-humano",
+  "freno",
+  "cabina-contraria",
+  "exceso-velocidad",
+  "mercancias",
+  "continental-rail",
+  "asfa",
+  "ctc"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 05.10.2015 170627-151005-IF-CIAF"
+}

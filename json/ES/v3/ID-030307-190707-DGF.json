@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de dos personas por tren de mercancías entre las señales Avanzada y de Entrada de la estación de Viella",
+ "idioma_original": "es",
+ "resumen": "El 2007-03-03, a las 14:19, el tren de mercancías 58272 de RENFE, remolcado por la locomotora 251026, arrolló a dos personas en plena vía entre las señales Avanzada y de Entrada de la estación de Viella, en el pk 7,755 de la línea 154 Tudela Veguín-Lugo de Llanera. Una mujer falleció en el acto y un hombre resultó herido leve. El tren circulaba a 69 km/h, por debajo de los 90 km/h máximos, y el maquinista realizó señales acústicas y frenado de emergencia. No hubo daños materiales y el servicio se restableció a las 16:12. La investigación atribuyó el accidente a la imprudencia de las víctimas.",
+ "hechos": "El tren de mercancías 58272, remolcado por la locomotora 251026 con 13 vagones y masa remolcada de 959 toneladas, de la empresa ferroviaria RENFE, realizaba el recorrido entre Trasona y Busdongo. A las 14:19 detuvo su marcha en la estación de Viella tras arrollar a dos personas que caminaban junto a la vía de espaldas al tren y en la dirección de éste, en el punto kilométrico 7,755 de la línea Tudela Veguín-Lugo de Llanera, entre las señales Avanzada y de Entrada.\n\nComo consecuencia del arrollamiento, una mujer falleció en el acto y un hombre resultó herido de carácter leve. El hombre fue evacuado en ambulancia a las 14:42 al Hospital Central de Asturias, y la Guardia Civil autorizó el levantamiento del cadáver a las 16:05. El restablecimiento de la circulación se autorizó a las 16:12.\n\nEl tren circulaba a 69 km/h, por debajo de los 90 km/h máximos autorizados. El maquinista hizo uso de las señales acústicas y efectuó frenado de emergencia, no pudiendo evitar el arrollamiento. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Viella",
+  "pk": "7,755",
+  "linea": "154 Tudela Veguín-Lugo de Llanera",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Entre las señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera; bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; zona semiurbana."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2007-03-04: el coordinador de accidentes ferroviarios de ADIF comunicó el arrollamiento de dos personas, una muerta y otra herida."
+  },
+  {
+   "hora": "14:19",
+   "evento": "El tren de mercancías 58272 detuvo su marcha en la estación de Viella tras arrollar a dos personas en el pk 7,755."
+  },
+  {
+   "hora": "14:42",
+   "evento": "El hombre herido fue evacuado en ambulancia al Hospital Central de Asturias."
+  },
+  {
+   "hora": "16:05",
+   "evento": "La Guardia Civil autorizó el levantamiento del cadáver."
+  },
+  {
+   "hora": "16:12",
+   "evento": "Se autorizó el restablecimiento de la circulación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "58272 (en perturbaciones aparece como 582752)",
+   "tipo": "tren de mercancías",
+   "operador": "RENFE",
+   "danos": "No se producen daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren de mercancías 58272",
+   "implicacion": "Matrícula 8854473. Jornada efectiva previa en el día de la incidencia: 10 minutos. Jornada 24 horas anteriores: descanso. Jornada 48 horas anteriores: descanso. Último reconocimiento médico: 2006-03-23. Curso de reciclaje del RGC: 2007-02-05. Prueba de alcoholemia negativa. Realizó señales acústicas y frenado de emergencia."
+  },
+  {
+   "rol": "víctima (mujer)",
+   "implicacion": "Caminaba junto a la vía de espaldas al tren y en la dirección de éste; falleció en el acto."
+  },
+  {
+   "rol": "víctima (hombre)",
+   "implicacion": "Caminaba junto a la vía de espaldas al tren y en la dirección de éste; resultó herido de carácter leve y fue evacuado al Hospital Central de Asturias."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera.",
+  "tipo_via": "vía única (Bloqueo Automático de vía única con C.T.C.)",
+  "velocidad_maxima": "90 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Zona semiurbana; trazado recto y al final de una curva de radio 1000 metros; no se aprecia cerramiento entre la Carretera Comarcal SI-3 y la línea férrea.",
+  "otro": "Punto bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; existe otro puente de acceso desde el ramal de la Carretera Comarcal SI-3; visibilidad de unos 250 metros en dirección Lugo de Llanera; velocidad del tren 69 km/h."
+ },
+ "material_rodante": {
+  "series": "Locomotora 251026; tren con 13 vagones y masa remolcada de 959 toneladas",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Nublado con buena visibilidad.",
+ "causas": {
+  "directa": "Imprudencia de las víctimas por caminar junto a la vía en lugar no autorizado para el tránsito de peatones e invadiendo el gálibo de seguridad del tren.",
+  "contribuyentes": [
+   "Ausencia de cerramiento entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación de Viella.",
+   "Zona semiurbana con accesos próximos desde la autovía A64 y la Carretera Comarcal SI-3."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 1,
+  "danos_materiales": "No se producen daños.",
+  "afectacion_servicio": "Retraso de 92 minutos del tren de mercancías 582752 (implicado en el arrollamiento); restablecimiento de la circulación a las 16:12."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar un estudio que analice los distintos itinerarios de personas hacia la estación de Viella así como la necesidad de reponer el cerramiento (aparentemente inexistente) entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación.",
+   "destinatario": null
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatones",
+  "tren de mercancías",
+  "viella",
+  "asturias",
+  "imprudencia",
+  "sin cerramiento",
+  "fallecido",
+  "herido leve",
+  "retraso",
+  "seguridad ferroviaria",
+  "gálibo"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-030307-190707-DGF"
+}

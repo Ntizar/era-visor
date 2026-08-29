@@ -1,0 +1,151 @@
+{
+ "titulo_normalizado": "Arrollamiento de operario de Comsa por tren de mercancías de Continental Rail durante trabajos de desguarnecido en la estación de Tembleque",
+ "idioma_original": "es",
+ "resumen": "El 29 de noviembre de 2008, a las 3:00 horas, el tren de mercancías 97401 de Continental Rail arrolló mortalmente a un operario de la empresa Comsa que cruzaba la vía I en la estación de Tembleque (PK 101,270, línea 300 Madrid Chamartín - Valencia Nord, Toledo). El operario formaba parte de los grupos de trabajo de desguarnecido en la vía II, donde la circulación estaba suspendida. La causa directa fue la invasión del gálibo de la vía I por la víctima en el momento del paso del tren, a pesar de que el maquinista hizo uso del silbato y del freno de emergencia. El accidente se vio favorecido por el ruido de los trabajos nocturnos y la iluminación artificial que pudo impedir percibir la aproximación del tren.",
+ "hechos": "En la estación de Tembleque se realizaban trabajos nocturnos de desguarnecido en la vía II, al amparo del punto 191 del Acta de trabajos semanal y de la Consigna Serie B nº 11, que establecía la suspensión de la circulación por la vía II y una limitación de velocidad de 60 km/h para la vía I. Había cuatro grupos de trabajo con maquinaria: dos de desguarnecido entre los PP.KK. 101,200 y 101,350, y dos de electrificación más avanzados hacia El Romeral.\n\nSobre las 3:00 horas, el tren de mercancías 97401 de Continental Rail, con locomotora 333380 y 28 vehículos (553 toneladas remolcadas), pasaba por la vía I. El maquinista, al advertir la presencia de maquinaria en la vía contigua, hizo uso del silbato. En ese momento, un operario de Comsa (encargado de obra, 58 años) que se encontraba entre la maquinaria de la vía II salió repentinamente cruzando la vía I, invadiendo el gálibo. El maquinista aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima portaba la dotación completa de seguridad (prendas reflectantes, radioteléfono, móvil, linterna) y falleció en el acto.\n\nEl aviso de la llegada del tren fue transmitido por radioteléfono desde el grupo más avanzado hacia El Romeral y entendido por todos los equipos, pero el ruido de los trabajos y los focos de iluminación nocturna pudieron impedir que la víctima percibiera la aproximación del tren.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Tembleque",
+  "pk": "101,270",
+  "linea": "300 Madrid Chamartín - Valencia Nord",
+  "provincia": "Toledo",
+  "descripcion_lugar": "Zona rural. Vía I en servicio con limitación de 60 km/h; vía II con circulación suspendida por trabajos de desguarnecido. Tramo Castillejo Añover - Villacañas (trayecto Tembleque - El Romeral). Distancia aproximada entre zonas de trabajo y vía en servicio: 20/30 m."
+ },
+ "cronologia": [
+  {
+   "hora": "23:28",
+   "evento": "Inicio de la interceptación de la vía II para trabajos de desguarnecido (28 de noviembre)"
+  },
+  {
+   "hora": "02:50",
+   "evento": "El tren 97401 pasa por la estación de El Romeral con señal de salida en anuncio de parada"
+  },
+  {
+   "hora": "03:00",
+   "evento": "Arrollamiento del operario de Comsa por el tren 97401 al cruzar la vía I en el PK 101,270"
+  },
+  {
+   "hora": "03:50",
+   "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "06:05",
+   "evento": "La autoridad judicial ordena el levantamiento del cadáver"
+  },
+  {
+   "hora": "06:35",
+   "evento": "Fin de la interceptación de la vía II (29 de noviembre)"
+  },
+  {
+   "hora": null,
+   "evento": "Fin de la interceptación de la vía I (tras 3 horas y 20 minutos)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "97401",
+   "tipo": "mercancías",
+   "operador": "Continental Rail",
+   "danos": "Ningún daño en el material rodante"
+  },
+  {
+   "numero": null,
+   "tipo": "larga distancia",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 97401 (Continental Rail)",
+   "implicacion": "Condujo correctamente, hizo uso del silbato y aplicó el freno de emergencia. No pudo evitar el arrollamiento. Alcoholemia negativa. Jornada dentro de límites."
+  },
+  {
+   "rol": "Operario de Comsa (encargado de obra, varón 58 años)",
+   "implicacion": "Víctima mortal. Invadió el gálibo de la vía I al cruzar entre la maquinaria de la vía II. Portaba dotación completa de seguridad."
+  },
+  {
+   "rol": "Encargado de trabajos (Adif, matrícula 7790819)",
+   "implicacion": "Coordinaba los 4 grupos de trabajo. Avisó por radioteléfono de la llegada del tren. Desconocía qué tarea realizaba la víctima en ese momento."
+  },
+  {
+   "rol": "Piloto de seguridad del grupo de desguarnecido (Adif, matrícula 7790710)",
+   "implicacion": "Acompañaba las tolvas de descarga de balasto. Repitió el aviso de tren por walkie."
+  },
+  {
+   "rol": "Piloto de seguridad del grupo de electrificación PK 103,500 (Adif, matrícula 9648551)",
+   "implicacion": "Primer grupo en ver la luz del tren. Avisó por radioteléfono."
+  },
+  {
+   "rol": "Piloto de seguridad del grupo de electrificación PP.KK. 103,500-104,500 (Adif, matrícula 9680778)",
+   "implicacion": "Grupo más avanzado hacia El Romeral. Primeros en ver la luz del tren. Avisó por radioteléfono."
+  },
+  {
+   "rol": "Maquinista de la perfiladora (Comsa)",
+   "implicacion": "Único testigo presencial del arrollamiento. Declaró que la víctima apareció detrás de la desguarnecedora y al cruzar fue arrollada."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada Tembleque pasó a vía libre durante el paso del tren. Cartelón de silbar y limitación de velocidad señalizados en vía I.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "60 km/h (limitación en vía I por Consigna B nº 11)",
+  "ancho": null,
+  "electrificacion": "Sí, vía electrificada",
+  "estado_via": "Vía I en servicio con limitación de velocidad; vía II interceptada por trabajos de desguarnecido. Bloqueo automático banalizado y CTC.",
+  "otro": "Comunicaciones: radiotelefonía modalidad A (maquinista-puesto de mando), teléfono móvil corporativo (puesto de mando-encargado), radiotelefonía modalidad C (encargado-maquinaria), radioteléfonos portátiles (encargado-pilotos). Media semanal de circulaciones del tramo: 698 (322 larga distancia, 110 media distancia, 1 cercanías, 253 mercancías, 12 servicio)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 333380 (Nº UIC: 957103333804)",
+  "averia": "Ninguna. Material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, tiempo atmosférico lluvioso",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía I por parte de la víctima en el momento en que pasaba el tren 97401.",
+  "contribuyentes": [
+   "El ruido de los trabajos de desguarnecido pudo impedir que la víctima escuchara el aviso de llegada del tren por radioteléfono.",
+   "La gran cantidad de focos de iluminación utilizados en trabajos nocturnos pudo impedir que el operario viera la luz de la locomotora.",
+   "El operario salió repentinamente de entre la maquinaria de la vía II sin percatarse de la aproximación del tren.",
+   "El encargado de trabajos desconocía qué tarea realizaba la víctima en ese momento."
+  ],
+  "sistemicas": [
+   "Necesidad de establecer o analizar procedimientos para la elaboración de estudios y planes de salud y seguridad en obras ferroviarias, autorización de trabajos y vigilancia durante su ejecución."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Ningún daño en material rodante, infraestructura ni medio ambiente.",
+  "afectacion_servicio": "Vía I interceptada 3 h 20 min; vía II interceptada desde 23:28 del 28/11 hasta 06:35 del 29/11. 1 tren de larga distancia con 82 min de retraso; 7 trenes de mercancías con 1.036 min de retraso total."
+ },
+ "lecciones": [
+  "La actuación del maquinista fue correcta: uso del silbato y freno de emergencia, velocidad dentro del límite establecido.",
+  "El sistema de avisos por radioteléfono funcionó correctamente: la llegada del tren fue avisada y entendida por todos los equipos.",
+  "La dotación de seguridad individual de la víctima era completa (prendas reflectantes, radioteléfono, móvil, linterna).",
+  "El ruido de los trabajos y la iluminación nocturna pueden anular los avisos acústicos y visuales de aproximación de trenes.",
+  "La desconexión entre la organización formal de los trabajos y las actividades individuales de los operarios puede generar situaciones de riesgo."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "A la vista de los accidentes ocurridos en trabajos ferroviarios y dada la incidencia que estos tienen en la seguridad en la circulación, se recomienda a los Administradores de infraestructuras de la Red ferroviaria de interés general el establecimiento de los procedimientos necesarios, o el análisis de los mismos si estos existen, tanto para la elaboración de los estudios y planes de salud y seguridad en obras ferroviarias, como para la autorización de los trabajos y la vigilancia de los mismos durante su ejecución, con la finalidad de que la actividad de las personas participantes en los trabajos se desarrolle minimizando los riesgos para las personas y la circulación ferroviaria.",
+   "destinatario": "Administradores de infraestructuras de la Red ferroviaria de interés general"
+  }
+ ],
+ "tags": [
+  "arrollamiento de operario",
+  "trabajos de desguarnecido",
+  "invasión de gálibo",
+  "tren de mercancías",
+  "continental rail",
+  "comsa",
+  "adif",
+  "consigna serie b",
+  "limitación de velocidad",
+  "trabajos nocturnos",
+  "estación de tembleque",
+  "línea 300"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-291108-310309-CIAF"
+}

@@ -1,0 +1,169 @@
+{
+ "titulo_normalizado": "Descarrilamiento en la estación de Moncófar por rotura de rueda del tren de mercancías 50460",
+ "idioma_original": "es",
+ "resumen": "El 24 de octubre de 2008, a las 6:28 horas, el tren de mercancías 50460 de Renfe Operadora descarriló a la salida de la estación de Moncófar (vía 2, lado Tarragona). La locomotora 269268 quedó volcada interceptando las dos vías generales y 6 de los 15 vagones descarrilaron. El maquinista resultó herido leve. La causa fue la rotura por fatiga de la rueda izquierda del tercer eje, originada por una entalla producida por las garras del torno durante el retorneado de ruedas.",
+ "hechos": "El día 24 de octubre de 2008, a las 6:28 horas, el tren de mercancías 50460 de Renfe Operadora, con origen en Silla y destino Tarragona y Bilbao, realizaba su paso por la vía 2 de la estación de Moncófar. Al pasar por los cambios de salida, lado Tarragona, descarriló hacia la izquierda en el sentido de su marcha. La locomotora 269268 quedó volcada, interceptando las dos vías generales. Los tres primeros vagones quedaron volcados y en muy mal estado; los vagones cuatro y cinco semivolcados y descarrilados; y el vagón seis descarrilado. El maquinista, único ocupante, resultó herido leve y quedó atrapado en la locomotora hasta ser rescatado por los servicios de emergencia.\n\nLa investigación determinó que el descarrilamiento se produjo por la rotura de la rueda izquierda del tercer eje (primero del segundo bogie), lo que originó el decalado del eje. La rueda derecha golpeó la pata de liebre del cambio de aguja, provocando el remonte de la pestaña y el descarrilamiento. La rotura de la rueda fue causada por una entalla desde la cual se desarrolló una grieta que progresó por fatiga hasta producir el colapso del material. La entalla fue producida por las garras del torno empleado para el retorneado de las ruedas después del calado de centros.\n\nEl cambio de agujas y la catenaria quedaron destrozados. Tres columnas de electrificación fueron dobladas y destrozadas, con 100 metros de catenaria desprendida y rota. El trayecto entre Almenara y Nules quedó sin tensión. Los motores de los desvíos 1 y 3 fueron arrancados y el cambio número 5 resultó dañado. La circulación quedó interrumpida entre Almenara y Nules desde las 6:40 del día 24 hasta las 21:03 del día 25, restableciéndose por vía 1 con limitación a 30 km/h. El día 26 a las 9:35 se restableció la circulación por ambas vías con limitación de 30 km/h.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Moncófar",
+  "pk": "48,748",
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+  "provincia": "Castellón",
+  "descripcion_lugar": "Cambios de salida de la estación de Moncófar, lado Tarragona, vía 2. Tramo Sagunt - Vila-Real. Estación de transición de BAB a BAD, vía doble electrificada, alineación recta."
+ },
+ "cronologia": [
+  {
+   "hora": "06:28",
+   "evento": "Descarrilamiento del tren 50460 a la salida de Moncófar, vía 2, lado Tarragona. Locomotora volcada, 6 vagones descarrilados."
+  },
+  {
+   "hora": "06:40",
+   "evento": "Interrupción de circulaciones entre Almenara y Nules."
+  },
+  {
+   "hora": "06:42",
+   "evento": "Aviso a Renfe Operadora, Gerencia de Seguridad y Protección Civil y Mantenimiento de Infraestructura (Plan de emergencia interno)."
+  },
+  {
+   "hora": "06:44",
+   "evento": "Notificación al CPS de Valencia. Se establece Plan alternativo de Transportes con transbordos por carretera."
+  },
+  {
+   "hora": "06:53",
+   "evento": "Se moviliza el tren taller de Valencia."
+  },
+  {
+   "hora": "08:00",
+   "evento": "Se solicitan grúas de carretera."
+  },
+  {
+   "hora": "12:50",
+   "evento": "Quedan apartados en vía 3 de Moncófar los 9 vagones de cola no descarrilados."
+  },
+  {
+   "hora": "13:40",
+   "evento": "Con grúas de carretera empiezan las labores de encarrilar y dejar fuera de gálibo los 6 vagones descarrilados."
+  },
+  {
+   "hora": "19:30",
+   "evento": "Se retira la locomotora de la vía."
+  },
+  {
+   "hora": "21:03",
+   "evento": "Día 25: Se restablece circulación por vía 1 con limitación de velocidad a 30 km/h."
+  },
+  {
+   "hora": "09:35",
+   "evento": "Día 26: Se restablece circulación por ambas vías con limitación de 30 km/h."
+  },
+  {
+   "hora": null,
+   "evento": "28/10/2008: El Presidente de la CIAF resuelve abrir la investigación del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "09/03/2009: Entrega del informe particular de Renfe Operadora."
+  },
+  {
+   "hora": null,
+   "evento": "27/04/2009: Entrega del informe particular de Adif."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "50460",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Locomotora 269268 volcada con daños considerables. 6 de 15 vagones descarrilados (3 volcados, 2 semivolcados, 1 descarrilado) con daños considerables en vagones y contenedores con azulejos cerámicos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 50460",
+   "implicacion": "Único ocupante del tren. Resultó herido leve, atrapado en la locomotora hasta ser rescatado. Matrícula 9730078. Habilitado conforme a Orden Ministerial 2520 de 27/07/2006. Último reciclaje formativo 28/03/08. Último reconocimiento médico y psicotécnico 09/02/06. Jornada de conducción día 24: 2h55min; día 23: 4h22min; día 22: 8h30min (4h10min de conducción continuada). No se le realizó prueba de alcoholemia por estar herido."
+  },
+  {
+   "rol": "Jefe de Circulación",
+   "implicacion": "Habilitado conforme a la Orden Ministerial de Habilitación de Personal 2520 de 27 de julio de 2006."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de avanzada, de entrada y salida en indicación de vía libre. Las instalaciones de seguridad funcionaron correctamente.",
+  "tipo_via": "Vía doble electrificada. Estación de transición de Bloqueo Automático Banalizado (BAB) a Bloqueo Automático de Vía Doble (BAD). Alineación recta.",
+  "velocidad_maxima": "100 km/h (velocidad máxima permitida para el tren 50460 en ese trayecto según libro horario)",
+  "ancho": null,
+  "electrificacion": "Vía electrificada. Tras el accidente: 3 columnas de electrificación dobladas y destrozadas, 100 metros de catenaria desprendida y rota. Trayecto Almenara-Nules sin tensión.",
+  "estado_via": "Cambio de agujas destrozado. Motores de desvíos 1 y 3 arrancados. Cambio número 5 dañado. Catenaria destrozada.",
+  "otro": "Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Sagunt-Vila-Real: 843 (alta): 231 larga distancia, 42 media distancia, 456 cercanías, 106 mercancías, 8 servicio."
+ },
+ "material_rodante": {
+  "series": "Locomotora serie 269, número 269268. Nº UIC: 957102692689. Composición: locomotora + 15 vagones, 816 toneladas.",
+  "averia": "Rotura de la rueda izquierda del tercer eje (primero del segundo bogie). La rotura se inició en la parte interior de llanta a partir de una entalla. Desde la entalla se desarrolló una grieta que progresó por fatiga hasta el colapso. La grieta se inició en el remate de la unión entre velo y banda de rodadura, por la parte exterior de la rueda. Se apreciaron tres grupos de cinco marcas de distinta profundidad, equidistantes, cada grupo a 120º del siguiente, coincidentes con las garras del torno de retorneado.",
+  "mantenimiento": "La rueda había sido torneada (retorneada) después del calado de centros en un torno cuyas garras de sujeción produjeron entallas. Se habían detectado dos ruedas más del mismo tipo agrietadas unos días antes del accidente, con las mismas marcas."
+ },
+ "clima": "Noche, tiempo atmosférico de lluvia.",
+ "causas": {
+  "directa": "Rotura de la rueda izquierda del tercer eje (primero del segundo bogie) por fatiga, iniciada en una entalla producida por las garras del torno empleado para el retorneado de las ruedas después del calado de centros. La rotura originó el decalado del eje, y la rueda derecha golpeó la pata de liebre del cambio, provocando el remonte de la pestaña y el descarrilamiento.",
+  "contribuyentes": [
+   "Entallas o marcas de sujeción del torno no detectadas ni eliminadas durante el control de calidad posterior al torneado.",
+   "Ausencia de procedimientos específicos de inspección (magnetoscopia) para detectar grietas originadas en entallas de torneado.",
+   "Existencia de otras dos ruedas del mismo tipo agrietadas detectadas unos días antes del accidente, lo que indica un problema sistémico no abordado a tiempo."
+  ],
+  "sistemicas": [
+   "Deficiencia en los sistemas de sujeción del torno de ruedas del TRC de Madrid, que generan entallas en la zona de unión entre velo y banda de rodadura.",
+   "Falta de procedimientos de inspección por magnetoscopia de zonas afectadas por marcas de mecanizado en los planes de mantenimiento.",
+   "Necesidad de comunicación y coordinación entre operadores ferroviarios, centros de mantenimiento y Adif sobre defectos de torneado que puedan afectar a ruedas de distintos operadores."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 1,
+  "danos_materiales": "Locomotora 269268 volcada con daños considerables. 6 vagones descarrilados (3 volcados, 2 semivolcados, 1 descarrilado) con daños en vagones y contenedores con azulejos cerámicos. Cambio de agujas y catenaria destrozados. 3 columnas de electrificación dobladas y destrozadas. 100 m de catenaria desprendida y rota. Motores de desvíos 1 y 3 arrancados. Cambio número 5 dañado.",
+  "afectacion_servicio": "Circulaciones interrumpidas entre Almenara y Nules desde las 6:40 del 24 hasta las 21:03 del 25 (vía 1 a 30 km/h). El 26 a las 9:35 se restableció por ambas vías a 30 km/h. Día 24: 80 cercanías, 6 media distancia, 24 larga distancia y 9 mercancías afectados (81 transbordados). Día 25: 11 cercanías, 3 media distancia, 22 larga distancia (20 transbordados). Día 26: 5 cercanías, 1 media distancia, 4 larga distancia y 1 mercancías."
+ },
+ "lecciones": [
+  "Las entallas producidas por garras de torno durante el retorneado de ruedas pueden ser origen de grietas por fatiga que conduzcan a la rotura de la rueda y al descarrilamiento.",
+  "Es imprescindible la inspección por magnetoscopia de zonas con marcas de mecanizado en talón y velo de rueda.",
+  "Los defectos detectados en una rueda deben activar la revisión inmediata de ruedas similares del mismo lote o serie.",
+  "La comunicación entre operadores ferroviarios, centros de mantenimiento y gestores de infraestructura es esencial para abordar defectos sistémicos de material rodante."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer procedimientos y fichas de inspección para: 1) Comprobación de la existencia de entallas o marcas de sujeción de torno, 2) Inspección por magnetoscopia de la zona afectada comprobando la no existencia de grietas, 3) Eliminación de las citadas marcas. Estos procedimientos afectarán a todos los tipos de ruedas que hayan podido ser torneadas en los tornos que produzcan el problema.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Establecer para cada serie de vehículos afectados un plan de actuación, indicando en qué intervención de mantenimiento se realizará la aplicación de cada procedimiento. Introducción de estas operaciones en los Planes de Mantenimiento.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Seguimiento del avance de las actuaciones y resultado de las mismas en cada una de las series, llevando un control de resultados. En función del avance, y cuando se pueda garantizar la desaparición del problema, modificar posteriormente los Planes de Mantenimiento, adaptándolos al Plan de Mantenimiento normal de este tipo de ejes.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "En el procedimiento de torneado, modificar los sistemas de sujeción de las ruedas de forma que se garantice que no se producen entallas o marcas, estableciendo en el control de calidad a la salida del torno una ficha de inspección de comprobación de que las ruedas salen sin las citadas entallas o marcas y, si estas existieran, eliminarlas conforme a procedimiento.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Todas las actuaciones anteriores deberán ser comunicadas a las Empresas Ferroviarias cuyas ruedas hayan podido ser torneadas en tornos que produzcan entallas o marcas, y estas empresas deberán introducir en sus planes de mantenimiento actuaciones similares. Además comprobarán que los torneados que se realizan a las ruedas por las empresas fabricantes no se producen los citados defectos.",
+   "destinatario": "Empresas Ferroviarias / Centros de Mantenimiento / Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rotura de rueda",
+  "fatiga",
+  "entalla de torno",
+  "tren de mercancías",
+  "estacion de moncofar",
+  "renfe operadora",
+  "locomotora serie 269",
+  "magnetoscopia",
+  "mantenimiento de rodaje",
+  "pata de liebre",
+  "interrupcion de circulacion"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-241008-140709-CIAF"
+}

@@ -1,0 +1,182 @@
+{
+ "titulo_normalizado": "Desprendimiento de puerta del tren Talgo 2164 y arrollamiento por el AVE 2361 en el túnel de Venta La Inés (Ciudad Real)",
+ "idioma_original": "es",
+ "resumen": "El 7 de abril de 2013, a las 17:31 h, el tren de larga distancia 2164 (Renfe, Madrid-Cádiz) circulaba por la vía II del túnel de Venta La Inés (línea 010 Madrid-Sevilla, PK 245+885-247+555) cuando se desprendió la puerta izquierda del coche 3 por diferencia de presión. El tren de alta velocidad 2361 (Sevilla-Madrid), que circulaba en sentido contrario por la vía I, arrolló la puerta. No hubo descarrilamiento ni víctimas. La causa fue el fallo humano del interventor en ruta, que condenó la puerta sin enclavarla al no recuperar el cuadradillo de la maneta de apertura manual.",
+ "hechos": "El tren de larga distancia 2164 de Renfe Operadora, material Talgo S-130 (rama 130.045), procedente de Madrid Puerta de Atocha y con destino Cádiz, efectuó parada comercial en Puertollano a las 17:13 h. El interventor en ruta observó que la puerta izquierda del coche 3 no cerraba correctamente (rebotaba). Tras dos intentos de reseteo mediante el interruptor magnetotérmico 3F58 sin resultado, procedió a cerrar la puerta manualmente, accionar la condena con la llave de cuadradillo y rearmar la maneta. Sin embargo, omitió el giro de 90° del cuadradillo de la maneta, por lo que los ganchos de enclavamiento quedaron levantados y la puerta no quedó bloqueada, aunque sí condenada. El lazo de puertas se cerró y el tren reanudó la marcha con tracción. A las 17:29:30 h, circulando a más de 240 km/h, se anuló la condena y se perdió presión en la junta hinchable; la puerta comenzó a salir de su alojamiento. A las 17:31:09 h, en el interior del túnel de Venta La Inés, la puerta se desprendió y cayó sobre la vía I. Simultáneamente, el tren AVE 2361 (Sevilla-Madrid) arrolló la puerta, que provocó una chapa retorcida en el coche 2. El maquinista del 2164 detuvo el tren en el PK 257+000 y lo comunicó al puesto de mando. El 2361 se detuvo en el PK 241+600 para inspección y continuó a 60 km/h hasta Puertollano. No hubo descarrilamiento ni daños personales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "245+885 - 247+555 (túnel); desprendimiento PK ~246; detención tren 2164 PK 257+000; detención tren 2361 PK 241+600",
+  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa (alta velocidad)",
+  "provincia": "Ciudad Real",
+  "descripcion_lugar": "Túnel de Venta La Inés (1.681 m de longitud), entre las estaciones de Venta La Inés y Conquista, municipio de Almodóvar del Campo, tramo Puertollano-Conquista. Alineación en planta: recta de 1.471 m + curva de transición de 210 m en boca sur. Perfil: horizontal al inicio y rampa de 12 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "17:13:10",
+   "evento": "El tren 2164 se detiene en Puertollano; el maquinista ordena apertura de puertas lado izquierdo"
+  },
+  {
+   "hora": "17:15:02",
+   "evento": "Primer reseteo de electrónicas de control de puertas mediante interruptor 3F58; puerta sigue rebotando"
+  },
+  {
+   "hora": "17:15:40",
+   "evento": "Segundo reseteo mediante interruptor 3F58; anomalía persiste"
+  },
+  {
+   "hora": "17:16:24",
+   "evento": "Accionamiento de apertura manual de emergencia: maneta girada 180°, cuadradillo a 90°"
+  },
+  {
+   "hora": "17:16:54",
+   "evento": "Condena de la puerta; se cierra el lazo de puertas y el tren dispone de tracción; LED rojo fijo"
+  },
+  {
+   "hora": "17:17:35",
+   "evento": "Rearme de la maneta (subida) pero NO se recupera el cuadradillo (no se gira 90°); puerta condenada pero NO enclavada"
+  },
+  {
+   "hora": "17:29:30",
+   "evento": "Velocidad >240 km/h; anulación de la condena; pérdida de presión en junta hinchable (1 s)"
+  },
+  {
+   "hora": "17:29:34",
+   "evento": "Detección en cabeza motriz: 'apertura del lazo de puertas con velocidad superior a 0'"
+  },
+  {
+   "hora": "17:29:38",
+   "evento": "Recuperación del cuadradillo (tardía); puerta ya desencajada, no se enclava"
+  },
+  {
+   "hora": "17:31:09",
+   "evento": "Último contacto puerta-coche: desprendimiento de la puerta; arrollamiento por tren 2361 en vía I"
+  },
+  {
+   "hora": "17:32:53",
+   "evento": "Detención del tren 2164 por actuación del freno del maquinista en PK 257+000"
+  },
+  {
+   "hora": "17:35",
+   "evento": "El maquinista del 2164 avisa al Puesto de Mando de Alta Velocidad"
+  },
+  {
+   "hora": "17:38:01",
+   "evento": "El tren 2164 reanuda marcha a velocidad reducida hasta Córdoba con interventor custodiando la puerta"
+  },
+  {
+   "hora": "18:17",
+   "evento": "El tren 2361 continúa marcha a 60 km/h hasta Puertollano, donde es apartado"
+  },
+  {
+   "hora": "19:47",
+   "evento": "Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "23:20",
+   "evento": "Personal de infraestructura reconoce los túneles de Vereda y Venta La Inés"
+  },
+  {
+   "hora": "00:44",
+   "evento": "Queda la vía expedita (8 de abril)"
+  },
+  {
+   "hora": "03:05",
+   "evento": "Terminada reposición de 300 m de cable LZB; se restablece la normal circulación (8 de abril)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "2164",
+   "tipo": "Larga distancia (Talgo S-130, rama 130.045, 11 coches + 2 cabezas motrices, 184 m, 336 t, tipo 250)",
+   "operador": "Renfe Operadora",
+   "danos": "Desprendimiento de la puerta izquierda del coche 3 (lado ECV)"
+  },
+  {
+   "numero": "2361",
+   "tipo": "Alta velocidad (AVE)",
+   "operador": "Renfe Operadora",
+   "danos": "Chapa del propio tren colgando retorcida en el coche 2 (consecuencia del arrollamiento de la puerta); falso techo desprendido sobre asiento 2B del coche 2"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Interventor en ruta del tren 2164 (matrícula 8930083, antigüedad desde 06/11/1982, curso SSB S/130 el 26/04/2012)",
+   "implicacion": "Fallo humano: manipulación incorrecta del sistema de apertura/cierre manual; no recuperó el cuadradillo de la maneta (no giró 90°), dejando la puerta condenada pero no enclavada. No sabía la diferencia entre condenar y bloquear/enclavar. No comprobó desde el puesto de supervisor el cierre correcto de puertas antes de dar el tren dispuesto."
+  },
+  {
+   "rol": "Maquinista del tren 2164 (matrícula 9734427, título B, antigüedad desde 05/04/1998, último reciclaje 20/12/2012)",
+   "implicacion": "No actuó sobre el pulsador de 'Emergencia otra Vía' porque no llegó a asimilar lo ocurrido. No observó anomalía en pantalla de sinopsis. Detuvo el tren tras aviso del interventor."
+  },
+  {
+   "rol": "Interventor en ruta del tren 2361",
+   "implicacion": "Informó al jefe de tren del golpe seco y ruido continuo; participaron en la inspección exterior del tren."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "LZB (con sistema de señalización), bloqueo de control automático (BCA), banalizada",
+  "tipo_via": "Vía doble electrificada y banalizada (alta velocidad)",
+  "velocidad_maxima": "250 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionó correctamente antes del suceso; dañada por arrollamiento de la puerta (300 m de cable LZB reponidos, herrajes de señalización afectados)",
+  "otro": "Túnel de Venta La Inés de 1.681 m; radiotelefonía digital GSM-R; media semanal de circulaciones del tramo Puertollano-Conquista: 563 (556 LD, 4 MD, 3 servicio)"
+ },
+ "material_rodante": {
+  "series": "Talgo S-130, rama 130.045, Nº UIC motor 96719130045; parte mecánica Talgo, componentes eléctricos Bombardier",
+  "averia": "Puerta izquierda del coche 3 (lado ECV) no cerraba correctamente (rebotaba); reincidente en el mismo día (tren 2085 con misma composición en Puertollano)",
+  "mantenimiento": "Plan cumplido. Rama 130.045: 1.247.065 km recorridos. Últimas intervenciones: IS 06/04/2013 (1.245.498 km), IB 23/02/2013 (1.210.499 km), IM1 15/12/2012, IM4 21/09/2012, IM2 13/08/2011, IM3 17/09/2010"
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Fallo humano del interventor en ruta del tren 2164: al rearmar la maneta de apertura manual de emergencia no giró el cuadradillo 90° para llevarlo a la posición vertical inicial, lo que impidió el enclavamiento de la puerta por los ganchos. La puerta quedó cerrada y condenada pero NO enclavada.",
+  "contribuyentes": [
+   "Diferencia de presión entre interior y exterior del tren al circular a 245 km/h en el interior del túnel, que generó esfuerzos de expulsión sobre la puerta",
+   "Diseño del sistema que permite cerrar el lazo de puertas (y habilitar tracción) con la puerta solo condenada pero no enclavada",
+   "Formación insuficiente del interventor: 8 horas de teoría + viaje sin práctica sobre dispositivos; no sabía la diferencia entre condenar y bloquear/enclavar",
+   "La puerta ya había dado problemas previos (rebotaba) en el mismo día con la misma composición (tren 2085) sin que se comunicara la anomalía",
+   "El interventor no comprobó desde el puesto de supervisor el correcto cierre de puertas antes de dar el tren dispuesto"
+  ],
+  "sistemicas": [
+   "Ausencia de mecanismo que impidiera físicamente el accionamiento de la condena de puerta sin que los ganchos de retención estuvieran dispuestos",
+   "Terminología no unificada entre documentos (manuales de conducción, explotación, intervención en vía) que generaba confusión conceptual (condenar vs. enclavar)",
+   "Instrucción técnica de Talgo sobre puertas exteriores (IT-2008-32) no contemplaba procedimiento de anulación de puerta en avería"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Tren 2164: desprendimiento de puerta (coche 3). Tren 2361: chapa retorcida en coche 2, falso techo desprendido sobre asiento 2B. Infraestructura: 300 m de cable LZB reponidos, herrajes de señalización afectados.",
+  "afectacion_servicio": "28 trenes sufrieron retrasos (25 LD AVE, 2 regionales, 1 cercanías) con un retraso total de 429 minutos. 3 trenes transbordados (2 implicados). 3 trenes suprimidos (2 implicados). Marcha a la vista prescrita en el túnel. Limitación a 160 km/h vía I entre Venta La Inés y Puertollano. Vía expedita a las 00:44 h del 8/04; normalización a las 03:05 h del 8/04."
+ },
+ "lecciones": [
+  "La diferencia entre 'condenar' y 'enclavar/bloquear' una puerta es crítica: la condena sola no garantiza la sujeción de la puerta frente a presiones aerodinámicas en túnel a alta velocidad",
+  "El rearme de la maneta de apertura manual de emergencia exige dos acciones: girar la maneta 180° a posición inicial Y girar el cuadradillo 90° a posición vertical; omitir la segunda deja los ganchos levantados",
+  "La formación práctica sobre dispositivos de puertas es imprescindible; 8 horas de teoría sin actuación práctica no garantiza comprensión operativa",
+  "Las anomalías reincidentes en material rodante deben comunicarse y no normalizarse sin diagnóstico",
+  "El diseño del sistema de puertas permitía dar tracción al tren con una puerta no enclavada, lo que constituye una barrera de seguridad insuficiente"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas (revisión normativa técnica de puertas por Talgo, montaje de mecanismo anti-condena sin ganchos en S-130/S-730, nuevas normas de condena en trenes nuevos, glosario de definiciones Renfe), no se establecen recomendaciones adicionales.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "desprendimiento puerta",
+  "fallo humano",
+  "condena vs enclavamiento",
+  "cuadradillo maneta apertura manual",
+  "diferencia presion tunel",
+  "alta velocidad",
+  "talgo s-130",
+  "arrollamiento objeto via",
+  "tunel venta la ines",
+  "formacion insuficiente",
+  "ganchos retencion",
+  "laazo puertas traccion"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 07 04 2013 IF-070413-240315-CIAF"
+}

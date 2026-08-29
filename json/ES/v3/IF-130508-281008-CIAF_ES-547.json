@@ -1,0 +1,133 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal del responsable de Seguridad y Salud por tren de cercanías 26828 entre Alegia y Tolosa, línea Madrid-Hendaya",
+ "idioma_original": "es",
+ "resumen": "El 13 de mayo de 2008, a las 12:07, el tren de cercanías 26828 de Renfe Operadora arrolló mortalmente al responsable de Seguridad y Salud de unos trabajos en postes de electrificación, en el P.K. 594,380 de la línea 100 Madrid-Hendaya, entre el apeadero de Alegia y la estación de Tolosa (Guipúzcoa). La víctima, un varón de 29 años empleado de una empresa contratista de Adif, invadió el gálibo de la vía mientras el tren pasaba a 64 km/h. El accidente se originó en la invasión del gálibo por parte de la persona arrollada, en una zona de poca visibilidad y mucho ruido por la cercanía de la Ctra. N-I. No se produjeron daños materiales ni en infraestructura ni en material rodante. La CIAF recomienda analizar la adecuación de la normativa de seguridad para trabajos en proximidades de la vía.",
+ "hechos": "El día 13 de mayo de 2008, a las 12:07 horas, el tren de cercanías 26828 de Renfe Operadora, procedente de Irún y con destino a Brinkola, arrolló a una persona en el P.K. 594,380 de la línea 100 Madrid-Hendaya, situado entre el apeadero de Alegia y la estación de Tolosa (Guipúzcoa), con resultado de muerte. La persona arrollada era el responsable de Seguridad y Salud de los trabajos que se estaban realizando en los postes de electrificación, al amparo del acta semanal de trabajos nº 123 de la Gerencia Operativa de Miranda de Ebro, perteneciente a la empresa Ingeniería y Prevención de Riesgos Laborales SL, contratada por Mantenimiento e Infraestructura de Adif como consultora en prevención de riesgos laborales. El lugar del suceso se encontraba a la salida de un túnel, en curva a la izquierda de radio 475 m, con gran tráfico de camiones y ruido importante por la cercanía de la Ctra. Nacional I. Según las declaraciones, el encargado de trabajos había advertido a la víctima de la mala visibilidad y el ruido, y le había comunicado que no se bajasen del poste. Los trabajadores de la empresa SEMI, que ejecutaban los trabajos de electrificación, declararon que el ruido del motor y del taladro les impidió escuchar la llegada del tren. El maquinista, al notar un golpe lateral a unos 60 km/h, efectuó parada de emergencia y comprobó la existencia de un piloto de electrificación junto a la vía. Los medios sanitarios se personaron a las 12:50 y confirmaron el fallecimiento del varón de 29 años.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Tolosa",
+  "pk": "594,380",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Entre el apeadero de Alegia y la estación de Tolosa, a la salida de un túnel en curva a la izquierda de radio 475 m, pendiente ascendente de 9,4 milésimas en sentido de circulación, próximo a la Ctra. Nacional I con gran tráfico de camiones e importante ruido"
+ },
+ "cronologia": [
+  {
+   "hora": "12:07",
+   "evento": "El tren de cercanías 26828 arrolla a la persona en el P.K. 594,380 con resultado de muerte"
+  },
+  {
+   "hora": "12:08",
+   "evento": "El maquinista nota un golpe lateral a la salida del túnel de Tolosa y efectúa parada de emergencia"
+  },
+  {
+   "hora": "12:50",
+   "evento": "Los medios sanitarios se personan en el lugar y reconocen a la víctima, informando de su fallecimiento"
+  },
+  {
+   "hora": "13:27",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF por correo electrónico"
+  },
+  {
+   "hora": "14:30",
+   "evento": "Se levanta el cadáver y se traslada al Instituto Forense Teresa de Calcuta de San Sebastián"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "26828",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 26828",
+   "implicacion": "Efectuó parada de emergencia tras notar un golpe lateral; circulaba a unos 60-64 km/h con foco de gran intensidad encendido; jornada de conducción de 5 horas el día del accidente"
+  },
+  {
+   "rol": "Responsable de Seguridad y Salud (víctima mortal)",
+   "implicacion": "Varón de 29 años, empleado de Empresa Ingeniería y Prevención de Riesgos Laborales SL (contratista de Adif); invadió el gálibo de la vía durante el paso del tren; falleció en el arrollamiento"
+  },
+  {
+   "rol": "Oficial de electrificación de Adif",
+   "implicacion": "Matrícula 8673899; presente en los trabajos de electrificación"
+  },
+  {
+   "rol": "Trabajador de SEMI (contrata de ADIF)",
+   "implicacion": "Trabajaba en cabeza del poste Z; bajó a apagar el motor y se volvió a subir; no escuchó la llegada del tren por el ruido del motor y del taladro"
+  },
+  {
+   "rol": "Trabajador de SEMI (contrata de ADIF)",
+   "implicacion": "Trabajaba en la cabeza del poste Z; escuchó un golpe y vio a la persona accidentada ser desplazada y quedar tumbada en las zarzas, cabeza abajo, sin moverse"
+  },
+  {
+   "rol": "Encargado de trabajos",
+   "implicacion": "Se encontraba fuera de la vía, en el paso a nivel a unos 200 m del poste Z, retirando materiales; había advertido a los trabajadores que no se bajasen del poste y a la víctima de la mala visibilidad y el ruido; no había colocado cartelón de 'silbar'"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "90 km/h",
+  "ancho": null,
+  "electrificacion": "Línea electrificada con postes de catenaria; trabajos en curso en postes de electrificación",
+  "estado_via": "No se produjeron daños en la infraestructura; no existían condiciones especiales de circulación",
+  "otro": "Tramo a la salida de un túnel en curva a la izquierda de radio 475 m, pendiente ascendente de 9,4 milésimas; zona de poca visibilidad y mucho ruido por cercanía a la Ctra. N-I; radiotelefonía modalidad A; trabajos al amparo del acta semanal de trabajos nº 123 de la Gerencia Operativa de Miranda de Ebro; zona de seguridad de 3 m desde el extremo del carril"
+ },
+ "material_rodante": {
+  "series": "Tren de Cercanías, área de Actividad de Cercanías; Matrícula UIC: 967194401428",
+  "averia": "Ninguna; el material rodante funcionó correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Buenas condiciones atmosféricas, de día",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte de la persona arrollada en el momento del paso del tren de cercanías 26828",
+  "contribuyentes": [
+   "Zona de poca visibilidad a la salida de un túnel en curva",
+   "Ruido importante por la cercanía de la Ctra. Nacional I con gran tráfico de camiones",
+   "Ruido adicional generado por el motor y el taladro de los trabajos de electrificación que redujo la percepción auditiva de la víctima",
+   "El encargado de trabajos no había colocado cartelón de 'silbar'",
+   "La víctima se encontraba en la cabeza de las traviesas (de pie) en la zona de seguridad, próxima al gálibo"
+  ],
+  "sistemicas": [
+   "Adif y Renfe Operadora autorizaron la reanudación de la marcha del tren sin haberse realizado la prueba de alcoholemia al maquinista, por carecer de medios para ello en ese momento (no relevante para la causalidad)",
+   "Por Seguridad en la Circulación no se consideró necesario implantar medidas especiales de protección (aplicación de medidas de trabajos en vía) al no estar previsto afectar a la seguridad de las circulaciones, si bien los trabajos se efectuaban dentro de la zona de seguridad"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en la infraestructura, ni en el material rodante ni al medio ambiente",
+  "afectacion_servicio": "Interceptación de vía: 2 trenes de mercancías con retraso total de 21 minutos, 8 trenes de cercanías con retraso total de 41 minutos, 1 tren de larga distancia con retraso total de 6 minutos"
+ },
+ "lecciones": [
+  "La combinación de poca visibilidad (salida de túnel en curva) y ruido ambiental (Ctra. N-I) y de obra (motor, taladro) puede anular la percepción auditiva de la aproximación de un tren",
+  "La zona de seguridad de 3 m desde el extremo del carril no garantiza la seguridad si el trabajador invade el gálibo",
+  "La ausencia de cartelón de 'silbar' y de medidas especiales de protección en trabajos dentro de la zona de seguridad puede contribuir a la vulnerabilidad del trabajador"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "No siendo causa del accidente investigado el incumplimiento del RGC, se entiende que, por quien proceda, debería analizarse la adecuación de la normativa aplicable a la seguridad de los trabajos en las proximidades de la vía y el grado de seguimiento de la misma.",
+   "destinatario": "Adif / Renfe Operadora / organismos competentes en normativa de seguridad ferroviaria"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "cercanias",
+  "gálibo",
+  "electrificación",
+  "trabajos",
+  "seguridad y salud",
+  "túnel",
+  "ruido",
+  "visibilidad",
+  "zona de seguridad",
+  "acta de trabajos"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-130508-281008-CIAF_ES-547"
+}

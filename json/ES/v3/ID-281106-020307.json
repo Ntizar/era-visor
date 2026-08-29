@@ -1,0 +1,159 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de Cercanías entre San Cristóbal de los Ángeles y San Cristóbal Industrial",
+ "idioma_original": "es",
+ "resumen": "El 28 de noviembre de 2006, el tren de Cercanías nº 20017 de Renfe arrolló a una persona en plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, en el pk 9,800 de la Línea 300 Madrid Atocha-Valencia Nord. La víctima, sin documentación identificativa, falleció en el acto. El accidente se originó por imprudencia de la persona al cruzar las vías por un lugar no autorizado y prohibido. No se produjeron daños materiales. Se generaron perturbaciones en el tráfico de Cercanías, Larga y Media Distancia durante varias horas.",
+ "hechos": "El tren de Cercanías nº 20017 de Renfe, compuesto por 6 coches con motores 449-248 y 440-198, procedente de Aranjuez con destino Madrid-Atocha, salió de la estación de San Cristóbal Industrial tras realizar su parada prescrita. A la salida de una curva, en plena vía, en el pk 9,800 de la Línea 300 Madrid-Valencia Nord, el maquinista observó a dos personas que se aproximaban a la vía con claras intenciones de cruzar. Aplicó inmediatamente el freno de urgencia y accionó el silbato, pero no pudo evitar el arrollamiento de una de ellas, cuyo cadáver quedó interceptando la vía G3. La víctima carecía de documentación.\n\nLa zona es de tránsito frecuente de personas no autorizadas que se dirigen a un poblado chabolista asentado en el margen izquierdo de las vías, utilizando un camino de servicio paralelo. Aunque existe una pasarela metálica peatonal próxima, estas personas no la utilizan. El cerramiento de la vía se encontraba roto en ambos márgenes para la ejecución de obras, protegido por vallas portátiles. Desde que se estableció vigilancia en San Cristóbal Industrial, las personas utilizan el apeadero sin vigilancia de San Cristóbal de los Ángeles para apearse y acceder al poblado.\n\nEl tren circulaba a 74 km/h (velocidad máxima permitida 110 km/h limitada por curva) y recorrió 270 metros desde la aplicación del freno de emergencia hasta la detención. La alcoholemia del maquinista fue negativa (0,00 mg/1000 ml). No se produjeron daños materiales. Se suspendió la circulación por las cuatro vías entre 08:25 y 08:32, y la vía G4 permaneció cortada de 10:00 a 12:21 para el levantamiento del cadáver.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "San Cristóbal Industrial",
+  "pk": "9,800",
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a la salida de una curva. Tramo de cuádruple vía (G1, G2, G3, G4) formado por las dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara. Cerramiento roto en ambos márgenes por obras, protegido por vallas portátiles. Existe una pasarela metálica peatonal próxima. Zona de tránsito no permitido de personas hacia un poblado chabolista en el margen izquierdo."
+ },
+ "cronologia": [
+  {
+   "hora": "08:00",
+   "evento": "Salida del tren 20017 de Aranjuez. Arrollamiento de una persona tras la salida de San Cristóbal Industrial en pk 9,800. Detención del tren."
+  },
+  {
+   "hora": "08:20",
+   "evento": "El cadáver queda custodiado por los agentes de Seguridad. El tren 20017 permanece detenido en el lugar."
+  },
+  {
+   "hora": "08:25",
+   "evento": "A petición del SAMUR se suspende la circulación por las cuatro vías entre San Cristóbal Industrial y Villaverde Bajo."
+  },
+  {
+   "hora": "08:32",
+   "evento": "Se reanuda la circulación por vías G1, G2 y G4. Se corta la vía G4."
+  },
+  {
+   "hora": "10:00",
+   "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver. Vía G4 permanece cortada."
+  },
+  {
+   "hora": "12:12",
+   "evento": "Retirada del cadáver."
+  },
+  {
+   "hora": "12:21",
+   "evento": "Se reanuda la circulación en condiciones normales en todas las vías."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "20017",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 20017",
+   "implicacion": "Aplicó freno de emergencia y silbato al observar a dos personas cruzando; alcoholemia negativa (0,00 mg/1000 ml); no pudo evitar el arrollamiento"
+  },
+  {
+   "rol": "Jefe delegado del accidente",
+   "implicacion": "Participó en la gestión del suceso"
+  },
+  {
+   "rol": "Portavoz de información",
+   "implicacion": "Gestión de la comunicación del accidente"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con CTC",
+  "tipo_via": "Cuádruple vía (G1, G2, G3, G4): dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara",
+  "velocidad_maxima": "110 km/h (limitada por curva)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Cerramiento roto en ambos márgenes para ejecución de obras, protegido por vallas portátiles. Ruta de acceso irregular creada entre el cerramiento y las vías. Paso elevado peatonal existente próximo pero no utilizado.",
+  "otro": "Apeadero de San Cristóbal de los Ángeles sin vigilancia; estación de San Cristóbal Industrial con vigilancia de seguridad; estación de San Cristóbal vallada en su totalidad incluyendo perímetro del andén principal."
+ },
+ "material_rodante": {
+  "series": "Motores 449-248 y 440-198, composición de 6 coches",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima que transitaba por las vías intentando cruzar por lugar no autorizado y prohibido para personas y carruajes",
+  "contribuyentes": [
+   "Cerramiento de la vía roto en ambos márgenes por ejecución de obras, protegido solo por vallas portátiles",
+   "Existencia de una ruta de acceso irregular entre el apeadero de San Cristóbal de los Ángeles y el poblado chabolista",
+   "Apeadero de San Cristóbal de los Ángeles sin vigilancia de seguridad, utilizado como punto de acceso al poblado",
+   "No utilización de la pasarela metálica peatonal existente próxima al lugar del accidente",
+   "Tránsito repetido y no permitido de personas hacia el poblado chabolista en el margen izquierdo"
+  ],
+  "sistemicas": [
+   "Reiteración de accidentes graves por arrollamiento en el mismo tramo durante 2006 (cuatro accidentes: 18.04.06, 09.06.06, 27.11.06 y 28.11.06)",
+   "Ausencia de alternativas de transporte o acceso adecuado para los habitantes del poblado chabolista",
+   "Insuficiencia de medidas de protección perimetral ante la presión del entorno social"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "Suspensión total de 4 vías entre 08:25 y 08:32; corte de vía G4 de 10:00 a 12:21. Retrasos acumulados: 118 minutos en 14 trenes de Cercanías, 65 minutos en 6 trenes de Larga Distancia y 14 minutos en 2 trenes de Media Distancia."
+ },
+ "lecciones": [
+  "La presencia de un poblado chabolista junto a la vía genera un riesgo recurrente de intrusión que requiere medidas estructurales y sociales coordinadas.",
+  "La vigilancia en una estación (San Cristóbal Industrial) desplaza el problema hacia el apeadero sin vigilancia (San Cristóbal de los Ángeles) si no se aborda la raíz del acceso.",
+  "La reiteración de accidentes graves (4 en 2006) en un mismo tramo indica que las medidas adoptadas son insuficientes y requieren una intervención integral.",
+  "La existencia de una pasarela peatonal no evita el cruce a nivel si no se garantiza la accesibilidad y la alternativa de transporte para la población afectada."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Intervención permanente de reparación del cerramiento e incremento de medidas barrera como la reposición de cerramiento forzado. En reposición, ya aprobada, se utilizará otro tipo de cerramiento de mayor consistencia.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Reforzar la acción de vigilancia actuando sobre las dos estaciones de acceso: San Cristóbal Industrial (efectiva con anterioridad) y San Cristóbal de los Ángeles (no efectiva y utilizada en la actualidad).",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Ejecución de un paso inferior como alternativa para facilitar el tránsito de las personas del poblado chabolista.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Creación de un servicio lanzadera de transporte público y gratuito como alternativa al cruce de vías.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Seguimiento exhaustivo del estado de la valla con el fin de reparar los trozos deteriorados en el plazo más breve posible, dada la reiteración de accidentes.",
+   "destinatario": "Renfe"
+  },
+  {
+   "texto": "Intensificar la vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+   "destinatario": "Adif/Renfe"
+  },
+  {
+   "texto": "Reparar el cerramiento actual y realizar una campaña de exhaustivo seguimiento del estado de conservación de dicho vallado.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Intentar coordinar junto con el Ayuntamiento de Madrid algún tipo de transporte o actuación para estas personas que impida que deambulen por las vías.",
+   "destinatario": "Dirección General de Ferrocarriles / Ayuntamiento de Madrid"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "intrusión",
+  "cercanías",
+  "plena vía",
+  "imprudencia",
+  "poblado chabolista",
+  "cerramiento",
+  "san cristóbal",
+  "línea 300",
+  "reiteración de accidentes",
+  "bloqueo automático banalizado",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-281106-020307"
+}

@@ -1,0 +1,232 @@
+{
+ "titulo_normalizado": "Colisión por alcance entre trenes de mercancías 58242 y 58244 en proximidades de la estación de Arévalo por fallo en señalización fija durante pruebas de enclavamiento",
+ "idioma_original": "es",
+ "resumen": "El 26 de marzo de 2010 a las 00:33 h se produjo una colisión por alcance entre los trenes de mercancías 58242 y 58244 de Renfe Operadora en el P.K. 172+050 de la línea 100 Madrid Chamartín–Hendaya, cerca de la estación de Arévalo (Ávila). El tren 58242 estaba detenido ante la señal de entrada E2 en parada, mientras que el tren 58244 encontró la señal avanzada 1734 en vía libre pese a estar el circuito posterior ocupado. El origen fue un fallo técnico en la señalización fija provocado por los cambios en el enclavamiento (nuevas tarjetas y software) para pruebas de futuro B.A.B. El accidente se catalogó como grave según R.D. 810/2007. El maquinista del tren 58244 falleció.",
+ "hechos": "El día 26 de marzo de 2010, el tren de mercancías 58242, compuesto por 13 vagones con bobinas de acero procedentes de Trasona (Asturias) con destino Sagunto (Valencia), circulaba por la vía 2 de la línea 100 al amparo de la Consigna ATO nº 18 – CTO nº 25. Se detuvo ante la señal de entrada E2 de la estación de Arévalo, que presentaba indicación de parada. Tras recibir autorización del jefe de circulación para rebasar la señal, y antes de reiniciar la marcha, fue alcanzado por el tren gemelo 58244 (misma composición, carga y trayecto) que circulaba detrás. Este segundo tren encontró la señal avanzada 1734 en indicación de vía libre, aunque el circuito posterior estaba ocupado por el 58242 y la señal E2 en parada. Como consecuencia, la locomotora del 58244 quedó elevada sobre los dos últimos vagones del 58242, que resultaron descarrilados y dañados, al igual que los dos primeros vagones de cabeza del tren siniestrado. El maquinista del tren 58244 falleció en la cabina. Los trabajos en el enclavamiento (cambio de tarjetas y software para futura instalación de B.A.B. con C.T.C. del trayecto Ávila-Arévalo) se estaban realizando al amparo de la Consigna ATO nº 18 – CTO nº 25, iniciándose a las 23:47 h del día 25 tras el paso del tren 91602. Durante unos diez minutos se cortó el fluido eléctrico, y al restablecerse sobre las 23:57 h, la señal 1734 pasó a indicar vía libre de forma errónea.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Arévalo",
+  "pk": "172+050",
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "provincia": "Ávila (estación) / Segovia (P.K. 172+050, municipio de Martín Muñoz de la Dehesa)",
+  "descripcion_lugar": "Entre la señal avanzada 1734 y la señal de entrada E2 de la estación de Arévalo, vía 2, tramo Arévalo–Palacios de Goda, trayecto Arévalo–Ataquines. Alineación recta en rampa de 5,1‰."
+ },
+ "cronologia": [
+  {
+   "hora": "23:30",
+   "evento": "Solicitud de inicio de trabajos por el encargado de trabajos al jefe de circulación (día 25)"
+  },
+  {
+   "hora": "23:36:12",
+   "evento": "Comunicación Arévalo–Puesto de Mando: solicitud de trabajos del punto de acta 193, corte de señales"
+  },
+  {
+   "hora": "23:40",
+   "evento": "El jefe de circulación concede autorización al encargado de trabajos para iniciar los trabajos tras paso del tren 91602"
+  },
+  {
+   "hora": "23:45",
+   "evento": "Inicio del cambio de software del enclavamiento por personal de Thales"
+  },
+  {
+   "hora": "23:47",
+   "evento": "Desconexión del enclavamiento (corte de tensión)"
+  },
+  {
+   "hora": "23:57",
+   "evento": "Restablecimiento del fluido eléctrico al enclavamiento y cambio de tarjetas y software"
+  },
+  {
+   "hora": "00:08:50",
+   "evento": "Ataquines anuncia paso del tren 58242 al Puesto de Mando"
+  },
+  {
+   "hora": "00:14:26",
+   "evento": "Ataquines anuncia paso del tren 58244 al Puesto de Mando"
+  },
+  {
+   "hora": "00:25:01",
+   "evento": "Tren 58242 pasa por baliza previa de señal 1734 (hora corregida), velocidad 14 km/h"
+  },
+  {
+   "hora": "00:26:14",
+   "evento": "Tren 58242 realiza parada tras baliza previa de señal 1734"
+  },
+  {
+   "hora": "00:27:04",
+   "evento": "Tren 58242 pasa baliza de pie de señal 1734 a 8 km/h (rebase autorizado)"
+  },
+  {
+   "hora": "00:30:12",
+   "evento": "Maquinista 58242 comunica al Puesto de Mando que está parado ante señal de entrada de Arévalo"
+  },
+  {
+   "hora": "00:30:15",
+   "evento": "Tren 58242 pasa baliza previa de señal E2 a 23 km/h"
+  },
+  {
+   "hora": "00:31:22",
+   "evento": "Tren 58242 se detiene ante señal E2"
+  },
+  {
+   "hora": "00:31:56",
+   "evento": "Tren 58244 pasa baliza previa de señal 1734 a 34 km/h, indicación vía libre"
+  },
+  {
+   "hora": "00:32:25",
+   "evento": "Tren 58244 pasa baliza de pie de señal 1734 a 42 km/h, vía libre"
+  },
+  {
+   "hora": "00:33",
+   "evento": "Hora oficial del accidente según el informe"
+  },
+  {
+   "hora": "00:33:39",
+   "evento": "Tren 58244 pasa baliza previa de señal E2 a 69 km/h; se activa freno de emergencia"
+  },
+  {
+   "hora": "00:33:45",
+   "evento": "COLISIÓN: el tren 58244 alcanza al 58242. Registrador 58242 refleja movimiento: 16 m desplazados, velocidad 18 km/h"
+  },
+  {
+   "hora": "00:35:25",
+   "evento": "Arévalo comunica al Puesto de Mando que el 58244 ha golpeado por cola al 58242"
+  },
+  {
+   "hora": "00:49:44",
+   "evento": "Arévalo informa que la locomotora del 44 está casi por encima de la catenaria"
+  },
+  {
+   "hora": "00:59:25",
+   "evento": "Maquinista 58242 confirma que no encuentra a su compañero (58244) y que ambas vías están interceptadas"
+  },
+  {
+   "hora": "01:08:02",
+   "evento": "Agentes de señales confirman que ven al maquinista del 44 dentro de la cabina con sangre en el cristal; creen que está muerto"
+  },
+  {
+   "hora": "02:05",
+   "evento": "Jefe de investigación de Adif comunica el accidente a la CIAF"
+  },
+  {
+   "hora": "21:39",
+   "evento": "Fin del día 27: se establece vía única con limitación a 30 km/h"
+  },
+  {
+   "hora": "14:47",
+   "evento": "Día 28: se restablece tráfico por ambas vías con limitación a 30 km/h"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "58242",
+   "tipo": "Mercancías (bobinas de acero, 13 vagones, 52 ejes, 156 m, 955 T remolcadas)",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilados y dañados los dos últimos vagones; desperfectos en bastidor, topes, triángulo de freno, tuberías de frenos y brazo retenedor. Locomotora 251017 (UIC 957102510170). Trayecto Trasona (Asturias) – Sagunto (Valencia)."
+  },
+  {
+   "numero": "58244",
+   "tipo": "Mercancías (bobinas de acero, 13 vagones, 52 ejes, 156 m, 955 T remolcadas)",
+   "operador": "Renfe Operadora",
+   "danos": "Grandes daños en locomotora 251009 (UIC 957102510097), que quedó elevada y apoyada sobre los dos últimos vagones del 58242. Dos primeros vagones de cabeza dañados. Trayecto Trasona (Asturias) – Sagunto (Valencia)."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe de circulación de Arévalo (Adif, matrícula 9749748)",
+   "implicacion": "Autorizó el rebase de la señal E2 al tren 58242. No estableció comunicación con el maquinista del 58244. Preparó telefonema para el 58244 pero no llegó a transmitirlo. No verificó en campo el estado de las señales tras el restablecimiento del enclavamiento."
+  },
+  {
+   "rol": "Encargado de trabajos (Adif, matrícula 9740440)",
+   "implicacion": "Interlocutor entre jefe de circulación y empresa Thales. No solicitó ni realizó comprobación del aspecto de las señales en campo. No supervisa la concordancia con la consigna."
+  },
+  {
+   "rol": "Maquinista del tren 58242 (Renfe Operadora, matrícula 9735218)",
+   "implicacion": "Se detuvo correctamente ante señal E2 en parada. Recibió autorización de rebase. Sentó el impacto por cola. Actuación correcta."
+  },
+  {
+   "rol": "Maquinista del tren 58244 (Renfe Operadora, matrícula 8669038)",
+   "implicacion": "FALLECIÓ en la cabina. Circulaba con señal avanzada 1734 en vía libre (indicación errónea). Actuó correctamente conforme a las indicaciones recibidas."
+  },
+  {
+   "rol": "Ingeniero de la prueba (UTE Dimetronic-Thales)",
+   "implicacion": "Realizó el cambio de tarjetas y software del enclavamiento. No realizó prueba ni comprobación de la repercusión en las señales. No tenía constancia de circulaciones en la zona durante los trabajos."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales altas luminosas de entrada (E2) y avanzada (1734) con baliza ASFA previa y de pie de señal. Señal intermedia 1756. Enclavamiento electrónico INTERSIG (Alcatel España/Thales).",
+  "tipo_via": "Vía doble, bloqueo automático de vía doble (B.A.D.). Vía 2 (sentido Hendaya).",
+  "velocidad_maxima": "140 km/h (tramo); 100 km/h (velocidad máxima del trayecto para trenes de mercancías según libro horario)",
+  "ancho": null,
+  "electrificacion": "Cateneria (dañada en el accidente)",
+  "estado_via": "Alineación recta, rampa de 5,1‰. Sin elementos que dificulten visibilidad. Sin limitaciones de velocidad en Consigna serie B nº 3.",
+  "otro": "Tráfico regulado por jefes de circulación de estaciones colaterales bajo supervisión del Puesto de Mando de Madrid Chamartín. Media semanal de 329 circulaciones en el tramo. Radiotelefonía modalidad A y C."
+ },
+ "material_rodante": {
+  "series": "Locomotora 251017 (tren 58242, UIC 957102510170); Locomotora 251009 (tren 58244, UIC 957102510097). Serie 251.",
+  "averia": "Funcionamiento correcto de ambos trenes. Frecuencia captada coherente con la emitida por balizas. Desfase horario entre registradores de 4 min 44 s.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, tiempo despejado",
+ "causas": {
+  "directa": "Fallo técnico en la señalización fija: la señal avanzada 1734 presentó indicación de vía libre estando el circuito posterior ocupado por el tren 58242 y la señal de entrada E2 en parada, debido a los cambios en el enclavamiento (nuevas tarjetas y software para pruebas de B.A.B.).",
+  "contribuyentes": [
+   "No interrupción completa de las circulaciones durante los trabajos en el enclavamiento",
+   "No establecimiento de bloqueo alternativo ni medidas que garantizaran la seguridad (ej.: eliminación de lámparas permisivas)",
+   "No verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos",
+   "Incorrecta evaluación del riesgo que comportaba la realización de los trabajos con tráfico en la zona",
+   "No constancia de verificación y validación de los datos y prestaciones del enclavamiento en su situación provisional"
+  ],
+  "sistemicas": [
+   "Ausencia de un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora conforme a UNE-EN 50126",
+   "Falta de clarificación de funciones y responsabilidades del jefe de puesta en servicio de la empresa instaladora",
+   "Ausencia de constancia documental (safety case) antes de autorizar la puesta en servicio de modificaciones",
+   "La consigna ATO nº 18 – CTO nº 25 no establecía condiciones de explotación específicas para garantizar la seguridad durante los trabajos"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura (vía y catenaria): 78.959,50 €. Material rodante: 67.250 €. Carga (bobinas de acero): 42.042 €. Total estimado: 188.251,50 €. Locomotora 251009 con grandes daños, elevada sobre vagones. 4 vagones descarrilados y dañados.",
+  "afectacion_servicio": "Ambas vías interceptadas desde el accidente hasta las 21:39 del 27/03. Vía única a 30 km/h desde las 21:39 del 27/03. Ambas vías restablecidas a 30 km/h desde las 14:47 del 28/03. Suprimidos: 2 trenes larga distancia, 4 media distancia, todos los de mercancías hasta el 28/03. Afectados: 5 larga distancia, 7 media distancia."
+ },
+ "lecciones": [
+  "Los cambios en enclavamientos con tráfico en servicio requieren interrupción completa de circulaciones o bloqueo alternativo garantizado",
+  "Es imprescindible la verificación en campo de la concordancia de señales tras trabajos en instalaciones de seguridad",
+  "La evaluación del riesgo de los trabajos debe considerar la presencia de circulaciones en la zona de control del enclavamiento",
+  "Las consignas deben especificar las condiciones de seguridad, periodos de corte y comprobaciones a realizar",
+  "La empresa instaladora debe tener constancia documental (safety case) de verificación/validación antes de la puesta en servicio",
+  "No se debe dar por supuesto que las señales están en el aspecto prescrito por la consigna sin comprobarlo"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales (Caso de seguridad – safety case – de la instalación).",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Cuando la realización de estos trabajos pueda afectar al funcionamiento de las instalaciones de seguridad que regulan (señales, balizas, aparatos de vía, etc.), se deberán tomar las siguientes medidas: Interrupción de las circulaciones o, en su defecto, el establecimiento de un sistema de bloqueo alternativo que garantice la seguridad de las mismas. Finalizados los trabajos, y antes de permitir la normal circulación, se comprobará en campo que todas las instalaciones de seguridad son acordes con lo previsto. Estos términos se deberán recoger en la consigna correspondiente, especificando: las actividades a realizar, los responsables y las condiciones de seguridad necesarias; los periodos de corte de circulación durante las pruebas; las comprobaciones (concordancia) a realizar en las situaciones provisionales. Todo lo anterior vendrá como resultado de un análisis de riesgos documentado a realizar conjuntamente con la empresa instaladora.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Se deberán revisar los procesos del sistema de Gestión de Seguridad/Calidad de la empresa, relativos a instalaciones de seguridad, tanto nuevas como modificación de las existentes, y en los casos de mantenimiento del tráfico ferroviario, con el fin de evitar situaciones similares. Se deberá clarificar las funciones y responsabilidades del jefe de puesta en servicio de la empresa. Los equipos de seguridad de la empresa deberán controlar que se realicen de forma efectiva las actividades para la verificación/validación de los sistemas o subsistemas. Se deberá tener constancia documental de todo lo anterior (caso de seguridad) antes de proceder a la autorización de la puesta en servicio.",
+   "destinatario": "UTE Dimetronic-Thales"
+  }
+ ],
+ "tags": [
+  "colisión por alcance",
+  "trenes de mercancías",
+  "fallo señalización",
+  "enclavamiento electrónico",
+  "pruebas software",
+  "bloqueo automático banalizado",
+  "consigna trabajos",
+  "señal avanzada vía libre errónea",
+  "renfe operadora",
+  "adif",
+  "thales",
+  "línea 100"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-260310-281210-CIAF"
+}

@@ -1,0 +1,114 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal en el paso enmaderado del apeadero de Hostalric",
+ "idioma_original": "es",
+ "resumen": "El 2 de noviembre de 2008, a las 22:10 horas, el tren 475 de Renfe Operadora arrolló mortalmente a una mujer de 19 años en el paso enmaderado del apeadero de Hostalric. La víctima cruzaba las vías sin percatarse de la proximidad del tren, mientras otras personas lograron apartarse. La actuación de la maquinista fue correcta, ya que usó el silbato y frenó en emergencia; el tren circulaba a 128 km/h, por debajo del límite de 140 km/h. El accidente no causó daños materiales, pero interrumpió la vía 1 durante varias horas y generó retrasos. Se recomienda señalizar el paso y evaluar señales de silbar hasta la ejecución de pasos inferiores adjudicados.",
+ "hechos": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de larga distancia 475 de Renfe Operadora, formado por la locomotora 252068, 17 coches y 277 Tn de masa remolcada, circulaba por el apeadero de Hostalric, en el P.K. 170,925 de la línea 270. Una joven de 19 años cruzaba las vías por el paso enmaderado junto a otras personas y fue arrollada por el tren, falleciendo en el acto.\n\nLa maquinista principal observó un grupo de personas cruzando por el paso entablonado al salir de una curva, hizo uso del silbato de forma insistente, redujo la velocidad y, al comprobar que la víctima no podía apartarse, accionó el freno de emergencia. Según el registrador de seguridad, el tren circulaba a 128 km/h en el momento de accionar el freno, por debajo de la velocidad máxima permitida de 140 km/h.\n\nEl suceso provocó la retirada del cadáver a las 2:00 horas y la interrupción de la circulación por la vía 1 hasta las 3:17 horas del día siguiente. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Hostalric",
+  "pk": "170,925",
+  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "provincia": "Gerona",
+  "descripcion_lugar": "Paso enmaderado del apeadero de Hostalric, en el trayecto Riells y Viabrea - Maçanet-Massanes, a la salida de una curva por el lado de Barcelona."
+ },
+ "cronologia": [
+  {
+   "hora": "22:10",
+   "evento": "El tren 475 arrolla a una persona que cruzaba por el paso enmaderado del apeadero de Hostalric."
+  },
+  {
+   "hora": "23:14",
+   "evento": "La policía autoriza a la maquinista del tren 475 a reanudar la marcha hasta la estación de Maçanet-Massanes."
+  },
+  {
+   "hora": "23:33",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "01:10",
+   "evento": "El tren 475 efectúa su salida de la estación de Maçanet-Massanes."
+  },
+  {
+   "hora": "02:00",
+   "evento": "Es retirado el cadáver de la víctima."
+  },
+  {
+   "hora": "03:17",
+   "evento": "Finaliza la interrupción de la circulación por la vía 1."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "475",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 475",
+   "implicacion": "Hizo uso del silbato y accionó el freno de emergencia; su actuación fue correcta. Prueba de alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "No consta señalización del paso enmaderado; se recomienda señalizarlo y evaluar señales de silbar si no existen.",
+  "tipo_via": "vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "No se observan daños en la infraestructura; instalaciones técnicas funcionaron correctamente.",
+  "otro": "Apeadero con dos pasos entarimados, uno a cada extremo, sin paso a distinto nivel; distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado; radiotelefonía modalidad A."
+ },
+ "material_rodante": {
+  "series": "locomotora 252068; 17 coches; masa remolcada 277 Tn; número UIC 9571025220682",
+  "averia": "No se detectan averías; funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "De noche y tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Cruce de la víctima por el paso enmaderado sin percatarse de la proximidad del tren 475.",
+  "contribuyentes": [
+   "Oscuridad nocturna que pudo afectar a la visibilidad de la víctima.",
+   "Corta distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado.",
+   "Escasa visibilidad y tiempo de reacción muy corto para maquinistas y usuarios.",
+   "Reducción del tiempo de reacción cuando el tren no tiene parada en el apeadero.",
+   "Ausencia de alternativa segura para cruzar las vías, como un paso a distinto nivel."
+  ],
+  "sistemicas": [
+   "Paso enmaderado sin señalizar y con situación de riesgo detectada.",
+   "Obras de pasos inferiores adjudicadas pero no ejecutadas en el momento del accidente.",
+   "Antecedente de arrollamiento mortal similar en el mismo apeadero el 31 de diciembre de 2006."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Marcha a la vista sin exceder 5 km/h al paso por el apeadero por ambas vías; vía 1 interrumpida desde las 22:10 horas del 2 de noviembre hasta las 3:17 horas del día siguiente; 3 trenes de larga distancia con 397 minutos de retraso total, 4 trenes de media distancia con 300 minutos y 1 tren de cercanías con 41 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda que el paso enmaderado se señalice y se evalúe la conveniencia de colocar señales de silbar, en el caso de que no existan, mientras no se lleven a cabo las obras ya adjudicadas del proyecto Línea Tarragona-Barcelona-Francia. Tramo: Granollers – Maçanet. Pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric (BOE nº 181, de 28 de julio de 2008).",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso enmaderado",
+  "apeadero",
+  "hostalric",
+  "renfe operadora",
+  "adif",
+  "línea 270",
+  "gerona",
+  "peatón",
+  "visibilidad",
+  "señalización",
+  "retrasos"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-021108-240209-CIAF"
+}

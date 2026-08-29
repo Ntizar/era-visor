@@ -1,0 +1,122 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías FR 901 de Feve por exceso de velocidad en curva entre Cerdido y Ortigueira (A Coruña)",
+ "idioma_original": "es",
+ "resumen": "El 14 de junio de 2010 a las 08:32, el tren de mercancías FR 901 de Feve descarriló en plena vía en una curva a la derecha en el P.K. 43+559 de la línea 11 Ferrol-Gijón, entre Ponte Mera y Santa María de Mera. El accidente se produjo al circular a 77 km/h cuando la velocidad máxima del tramo era de 60 km/h, un exceso del 28%. Como factor subyacente se identificó el incorrecto establecimiento de la velocidad del tramo, ya que para el radio de 141 m y el peralte existente, la velocidad máxima debería haber sido de 50 km/h. No hubo víctimas mortales ni heridos, pero se produjeron daños materiales significativos en vía y material rodante.",
+ "hechos": "El día 14 de junio de 2010, el tren de mercancías FR 901 de Feve, procedente de Ferrol y con destino Xove (Lugo), estaba formado por dos locomotoras diesel-eléctricas (1611 y 1606) y 14 plataformas, 10 de ellas cargadas con contenedores de madera y 4 vacías en cola. El tren salió de la estación de Cerdido a las 08:21:34 tras agregar 10 plataformas cargadas. A las 08:32:21, tras recorrer 9,5 km, el tren descarriló al tomar una curva a la derecha en el P.K. 43+559, circulando a 77 km/h cuando la velocidad máxima permitida era de 60 km/h. El descarrilamiento se inició hacia el lado exterior de la curva desde la quinta plataforma, quedando descarriladas las posiciones quinta a décima. Se activó la válvula detectora de descarrilamientos, entrando en funcionamiento el frenado de urgencia y el arenado. El tren quedó detenido a las 08:32:44 en el P.K. 43+877, tras recorrer 241 metros desde la activación del freno. La composición quedó fraccionada en dos partes: locomotoras y seis plataformas (las dos últimas descarriladas) detenidas en el P.K. 43+880, y ocho plataformas remolcadas detenidas a unos 130 m del corte de cabeza.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Entre Ponte Mera y Santa María de Mera (tramo entre Cerdido y Ortigueira)",
+  "pk": "43+559",
+  "linea": "11 Ferrol - Gijón",
+  "provincia": "A Coruña",
+  "descripcion_lugar": "Curva a la derecha de radio 141 m, en trinchera, zona boscosa de difícil acceso, pendiente de 18 milésimas, vía única no electrificada con traviesas de hormigón y bloqueo telefónico. Municipio de Ortigueira, tramo 10 Ferrol-Pravia."
+ },
+ "cronologia": [
+  {
+   "hora": "07:15",
+   "evento": "Salida del tren FR 901 de Ferrol (según declaración del maquinista)"
+  },
+  {
+   "hora": "08:10",
+   "evento": "Llegada a la estación de Cerdido para agregar 10 plataformas con contenedores de madera"
+  },
+  {
+   "hora": "08:21:34",
+   "evento": "Salida del tren FR 901 de la estación de Cerdido ya compuesto (2 locomotoras + 14 plataformas)"
+  },
+  {
+   "hora": "08:32:21",
+   "evento": "Descarrilamiento en el P.K. 43+559 circulando a 77 km/h, en curva a la derecha"
+  },
+  {
+   "hora": "08:32:22",
+   "evento": "Activación de la válvula detectora de descarrilamiento; frenado de urgencia y arenado (velocidad 68 km/h)"
+  },
+  {
+   "hora": "08:32:44",
+   "evento": "Detención del tren en el P.K. 43+877 tras recorrer 241 m desde activación del freno"
+  },
+  {
+   "hora": "13:20",
+   "evento": "Restablecimiento de la circulación el día 16 de junio con limitación a paso de hombre entre PP.KK. 43+500 y 43+850"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "FR 901",
+   "tipo": "tren de mercancías (tipo T60)",
+   "operador": "Feve",
+   "danos": "6 plataformas descarriladas (posiciones 5ª a 10ª); daños en material remolcado por 39.182,89 €"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren FR 901 (CF nº 6024)",
+   "implicacion": "Conducía el tren con exceso de velocidad (77 km/h vs 60 km/h permitidos). No se le realizó prueba de alcoholemia ni de drogas tras el accidente. No fue relevado del servicio y continuó prestando servicio con el mismo tren. Último reciclaje formativo: 24/01/2008; último reconocimiento médico y psicotécnico: 11/06/2009. Jornada del día 14: 2h22 (conducción efectiva 1h30)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía única no electrificada, traviesas de hormigón, bloqueo telefónico",
+  "velocidad_maxima": "60 km/h (establecida); velocidad correcta para la curva debería ser 50 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Dañada totalmente entre PP.KK. 43+560 y 43+800; restablecida el 16/06/2010 a las 13:20 con limitación a paso de hombre entre PP.KK. 43+500 y 43+850",
+  "otro": "Curva radio 141 m (rectificada a 149 m tras el accidente); peralte medio 71 mm; insuficiencia de peralte calculada 143 mm (máximo permitido 70 mm según norma NFI Vía 002); perfil en pendiente de 18 milésimas; radiotelefonía analógica; trazado en trinchera en zona boscosa de difícil acceso"
+ },
+ "material_rodante": {
+  "series": "Locomotoras diesel-eléctricas 1611 y 1606; plataformas series 2SSag",
+  "averia": "Ninguna. Parámetros de bandaje y suspensión verificados tras el accidente, todos dentro de tolerancias de la N.B.S.M. Equipos de seguridad (válvula detectora de descarrilamiento, frenado de urgencia, arenado) funcionaron correctamente.",
+  "mantenimiento": "Sin anomalías detectadas; inspecciones posteriores confirmaron valores dentro de tolerancias"
+ },
+ "clima": "Nublado",
+ "causas": {
+  "directa": "Exceso de velocidad: el tren FR 901 circulaba a 77 km/h cuando la velocidad máxima del tramo era de 60 km/h (exceso del 28%), provocando el descarrilamiento en curva por insuficiencia de peralte.",
+  "contribuyentes": [
+   "Incorrecto establecimiento de la velocidad máxima del tramo: para el radio de 141 m y el peralte existente (71 mm), la velocidad máxima debería ser 50 km/h, no 60 km/h.",
+   "Insuficiencia de peralte de 143 mm, muy superior al máximo permitido de 70 mm según norma NFI Vía 002.",
+   "Incluso con peralte máximo de Feve (110 mm), la insuficiencia sería de 105 mm, fuera de norma para 60 km/h.",
+   "No se realizó prueba de alcoholemia ni de drogas al maquinista tras el accidente.",
+   "El maquinista no fue relevado del servicio tras el descarrilamiento, continuando con el mismo tren."
+  ],
+  "sistemicas": [
+   "Deficiencia en la gestión de la seguridad por parte de Feve en el establecimiento de velocidades máximas de tramo en función de la geometría de la vía (radio y peralte).",
+   "Ausencia de un programa de sondeos periódicos con lectura de registradores de seguridad para verificar el comportamiento de los maquinistas respecto a la reglamentación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Vía totalmente destrozada entre PP.KK. 43+560 y 43+800: 161.055,31 €. Daños en material remolcado: 39.182,89 €. Total estimado: 200.238,20 €.",
+  "afectacion_servicio": "Vía interceptada entre Ortigueira y Cerdido; trasbordo por carretera de viajeros. 19 trenes con supresiones parciales. 8 trenes acumularon 1 hora y 49 minutos de retraso. Circulación restablecida el 16/06/2010 a las 13:20 con limitación a paso de hombre entre PP.KK. 43+500 y 43+850."
+ },
+ "lecciones": [
+  "La velocidad máxima de un tramo debe establecerse en función de la geometría real de la vía (radio y peralte) para garantizar que la insuficiencia de peralte no supere los límites normativos.",
+  "El exceso de velocidad en curvas con insuficiencia de peralte fuera de norma incrementa notablemente el riesgo de descarrilamiento.",
+  "Tras un accidente, es imprescindible realizar pruebas de alcoholemia y drogas al personal implicado y relevarlo del servicio.",
+  "La verificación periódica de los registradores de seguridad es una herramienta clave para detectar comportamientos de conducción no conformes con la reglamentación."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "exceso velocidad",
+  "tren mercancías",
+  "feve",
+  "insuficiencia peralte",
+  "curva",
+  "línea ferrol-gijón",
+  "registrador seguridad",
+  "bloqueo telefónico",
+  "vía única",
+  "a coruña",
+  "ortigueira"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-140610-310111-CIAF"
+}

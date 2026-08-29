@@ -1,0 +1,122 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de cercanías en la estación de Cardedeu por cruce no autorizado de vías",
+ "idioma_original": "es",
+ "resumen": "El 3 de noviembre de 2008, a las 20:29, el tren de cercanías 15818 de Renfe Operadora arrolló a una mujer de 62 años que cruzaba la vía de forma no autorizada en la estación de Cardedeu (PK 143,105, línea 270). El maquinista activó el silbato y el freno de emergencia sin poder evitar el impacto. La víctima falleció en el acto. El accidente se originó por el tránsito de la víctima por zona no autorizada. Se recomienda estudiar el vallado del aparcamiento colindante con las vías.",
+ "hechos": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de cercanías 15818 de Renfe Operadora, compuesto por el automotor 440185, tres coches y masa remolcada de 205 Tn, circulaba de Barcelona Sant Andreu Comtal a Sant Celoni. A su paso por la estación de Cardedeu, a la altura del edificio de viajeros (P.K. 143,105), arrolló a una mujer de 62 años que cruzaba la vía de izquierda a derecha en el sentido de la marcha del tren. Al percatarse de la llegada del tren, la víctima intentó subirse al andén sin conseguirlo. El maquinista, al observar a la persona en la caja de la vía, hizo uso simultáneo del silbato y del freno de emergencia, sin poder evitar el impacto. La víctima falleció en el acto. No se produjeron daños en material rodante, infraestructura ni medio ambiente. El tren quedó detenido y los viajeros permanecieron a bordo hasta que los Mossos d'Esquadra autorizaron el retroceso del tren a las 21:01, sin poder estacionarse en el andén. A las 21:58 el tren reanudó la marcha y a las 23:11 se produjo el levantamiento del cadáver. La vía 2 quedó interceptada entre las 20:30 y las 23:50 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Cardedeu",
+  "pk": "143,105",
+  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Cardedeu, tramo de vía en curva, vía doble electrificada, con paso inferior para acceso a andenes. Junto a las vías existe un aparcamiento de automóviles sin valla ni muro que impida el acceso a las vías."
+ },
+ "cronologia": [
+  {
+   "hora": "20:29",
+   "evento": "Arrollamiento de una persona por el tren 15818 en la estación de Cardedeu"
+  },
+  {
+   "hora": "20:30",
+   "evento": "Inicio de la interceptación de la vía 2"
+  },
+  {
+   "hora": "21:01",
+   "evento": "Los Mossos d'Esquadra autorizan el retroceso del tren 15818 sin estacionarse en el andén"
+  },
+  {
+   "hora": "21:03",
+   "evento": "Se restablece la circulación a la vista por la vía 3"
+  },
+  {
+   "hora": "21:58",
+   "evento": "El tren 15818 reanuda la marcha; se restablece circulación a la vista por la vía 1"
+  },
+  {
+   "hora": "22:23",
+   "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "23:11",
+   "evento": "Levantamiento del cadáver"
+  },
+  {
+   "hora": "23:50",
+   "evento": "Fin de la interceptación de la vía 2"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15818",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 15818",
+   "implicacion": "Matrícula 9703869. Activó silbato y freno de emergencia al detectar a la víctima. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 2 h 5 min (jornada laboral 7 h 26 min). Último reciclaje formativo: 06/05/2008. Último reconocimiento médico y psicotécnico: 12/09/2005. Habilitado conforme a OM 2520/2006. Actuación correcta según la investigación."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático con C.T.C.",
+  "tipo_via": "Vía doble electrificada, tramo en curva",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Correcto, funcionando de acuerdo a la normativa de seguridad",
+  "otro": "Paso inferior para acceso a andenes. Aparcamiento junto a las vías sin valla ni muro que impida el acceso libre a las vías. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Granollers Centre-Sant Celoni: 1002 (60 larga distancia, 294 media distancia, 488 cercanías, 156 mercancías, 4 servicio)."
+ },
+ "material_rodante": {
+  "series": "Automotor 440185 (UT 440185), Nº UIC 987184401857, 3 coches, masa remolcada 205 Tn",
+  "averia": "Ninguna. Funcionamiento correcto según registrador de seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, tiempo atmosférico despejado",
+ "causas": {
+  "directa": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizada para ello",
+  "contribuyentes": [
+   "Ausencia de valla o muro que impida el acceso libre desde el aparcamiento colindante a las vías",
+   "Muchos usuarios acceden directamente a la estación cruzando las vías"
+  ],
+  "sistemicas": [
+   "Falta de barrera física entre el aparcamiento de la estación y las vías"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente",
+  "afectacion_servicio": "Vía 2 interceptada de 20:30 a 23:50. Retrasos: 10 trenes cercanías (203 min), 7 media distancia (319 min), 3 grandes distancias (93 min), 5 mercancías (232 min). Total 25 trenes, 847 minutos de retraso acumulado."
+ },
+ "lecciones": [
+  "La actuación del maquinista fue correcta: uso simultáneo de silbato y freno de emergencia",
+  "El tren circulaba a 108 km/h, por debajo de la velocidad máxima autorizada de 140 km/h",
+  "El material rodante y las instalaciones técnicas funcionaron correctamente",
+  "La alcoholemia y los tiempos de conducción del maquinista cumplían la normativa"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación, para impedir el libre acceso a las vías desde el mismo.",
+   "destinatario": "Autoridad competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento de persona",
+  "cruce no autorizado de vías",
+  "estacion cardedeu",
+  "tren cercanias",
+  "renfe operadora",
+  "freno de emergencia",
+  "aparcamiento sin vallado",
+  "acceso libre a vias",
+  "via peatonal no autorizada",
+  "linea 270",
+  "victima mortal",
+  "intercepcion via"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-031108-240209-CIAF"
+}

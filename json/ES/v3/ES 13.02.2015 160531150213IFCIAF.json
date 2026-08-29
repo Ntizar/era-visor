@@ -1,0 +1,169 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 1112 en la vía 3 de Barcelona Estació de França por sobreanchos y deficiencias en sujeciones del carril",
+ "idioma_original": "es",
+ "resumen": "El 13 de febrero de 2015 a las 14:36, el tren de viajeros 1112 de Renfe Viajeros descarriló al entrar en la vía 3 de la estación de Barcelona Estació de França. La rueda derecha del primer eje descarriló a 24 km/h en una curva de radio 220 m. El tren avanzó 256 metros descarrilado hasta detenerse ante la topera. No hubo víctimas. La causa fue el fallo técnico de la infraestructura de vía por sobreanchos y deficiencias en las sujeciones del carril.",
+ "hechos": "El tren de viajeros 1112 de Renfe Viajeros, procedente de Valencia Joaquín Sorolla y con destino Barcelona Estació de França, circulaba con normalidad y se disponía a realizar parada comercial de final de recorrido en la vía 3. Desde el puesto de mando se le estableció itinerario de entrada hacia dicha vía. El tren venía a 24 km/h y al tomar una curva a la derecha descarriló la rueda derecha del primer eje de cabeza, quedando suspendida sin tocar el balasto y rozando la cara interna del carril derecho. La rueda izquierda continuó sobre la superficie de rodadura del carril izquierdo. El tren avanzó 256 metros en esas condiciones hasta detenerse ante la topera de la vía 3. El roce de las ruedas con los carriles produjo un fuerte ruido oído por el personal de servicio en la estación, que lo comunicó al maquinista, quien reconoció la composición y confirmó el descarrilamiento. No se produjeron víctimas mortales ni heridos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Barcelona Estació de França",
+  "pk": "684+991",
+  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Vía 3 de estacionamiento, zona de andenes fuera de la marquesina, tramo en curva a la derecha de radio 220 m con transición brusca y pendiente de 1,70 ‰. Tramo Bif. Clot – Barcelona Estació de França."
+ },
+ "cronologia": [
+  {
+   "hora": "14:33:57",
+   "evento": "Se establece itinerario de entrada desde vía G2 a vía 3 para el tren 1112 (moviola CTC)"
+  },
+  {
+   "hora": "14:33:48",
+   "evento": "El tren pasa por baliza previa de señal avanzada E'4 (PK 682+770) a 40 km/h, señal en anuncio de parada"
+  },
+  {
+   "hora": "14:34:13",
+   "evento": "El tren pasa por baliza de pie de señal avanzada E'4 (PK 683+070) a 45 km/h, señal en anuncio de precaución"
+  },
+  {
+   "hora": "14:34:27",
+   "evento": "El tren pasa por baliza previa de señal de entrada E4 (PK 684+019) a 41 km/h, señal en anuncio de parada"
+  },
+  {
+   "hora": "14:34:53",
+   "evento": "El tren pasa por baliza de pie de señal de entrada E4 (PK 684+319) a 36 km/h, señal en anuncio de parada"
+  },
+  {
+   "hora": "14:35:02",
+   "evento": "El tren pasa por la aguja 2 (PK 684+717)"
+  },
+  {
+   "hora": "14:35:15",
+   "evento": "El tren ocupa circuito de vía CVT22 (PK 684+858), iniciando entrada a vía 3"
+  },
+  {
+   "hora": "14:35:30",
+   "evento": "El tren ocupa circuito de vía CV3, circulando por la vía 3"
+  },
+  {
+   "hora": "14:36:14",
+   "evento": "Descarrilamiento de la rueda derecha del primer eje en PK 684+991 a 24 km/h"
+  },
+  {
+   "hora": "14:37:25",
+   "evento": "El tren queda detenido tras recorrer 256 m descarrilado, ante la topera de la vía 3"
+  },
+  {
+   "hora": "14:36:52",
+   "evento": "El jefe de circulación comunica al jefe del CTC que un tren ha entrado en vía 3 con mucho ruido y posible descarrilamiento"
+  },
+  {
+   "hora": "14:37",
+   "evento": "El jefe de circulación de Barcelona Estació de França comunica al jefe del CTC el descarrilamiento del tren 1112"
+  },
+  {
+   "hora": "14:39:03",
+   "evento": "El jefe de circulación confirma al CTC el descarrilamiento del primer eje"
+  },
+  {
+   "hora": "15:21",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "2015-03-24",
+   "evento": "El Presidente de la CIAF decide abrir la investigación"
+  },
+  {
+   "hora": "2015-02-19T04:40",
+   "evento": "Finaliza la reparación definitiva de la vía 3; la vía es dada de alta"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1112",
+   "tipo": "viajeros larga distancia (tipo 200B, vmax 200 km/h)",
+   "operador": "Renfe Viajeros",
+   "danos": "Primer eje de la composición dañado por el descarrilamiento"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1112 (matrícula 9691882)",
+   "implicacion": "Conducía el tren a 24 km/h en maniobra de entrada a vía 3. No detectó el descarrilamiento por sí mismo; fue avisado por personal de estación. Pruebas de alcoholemia y drogas negativas. Título B de conducción, antigüedad desde 30.06.1995, último reciclaje 19.06.2014, último reconocimiento médico 16.01.2015."
+  },
+  {
+   "rol": "Jefe de circulación de Barcelona Estació de França",
+   "implicacion": "Estableció el itinerario de entrada a vía 3. Oyó el ruido y bloqueó las vías 3 y 4. Comunicó el suceso al CTC. Pruebas de alcoholemia y drogas negativas."
+  },
+  {
+   "rol": "Jefe del CTC de Barcelona",
+   "implicacion": "Recibió la notificación del accidente y comunicó a CPS, Logística, Jefatura Operativa, Seguridad en la Circulación de Adif y Renfe Viajeros."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal avanzada E'4 en anuncio de precaución; señal de entrada E4 en anuncio de parada; señal R4 en movimiento autorizado. Itinerario correctamente establecido.",
+  "tipo_via": "Vía 3 de estacionamiento, traviesas de madera sujetas mediante tirafondos, apoyadas sobre balasto. Ancho ibérico, electrificada.",
+  "velocidad_maxima": "50 km/h en el trayecto Bif. Clot – Barcelona Estació de França. Sin limitación temporal el día del accidente.",
+  "ancho": "Ancho ibérico (1668 mm nominal)",
+  "electrificacion": "Sí, todas las vías electrificadas",
+  "estado_via": "Deficiente: sobreanchos (máximo 1.714 mm, 11 mm por encima del máximo admitido de 1.703 mm), ausencia de peralte, tirafondos flojos y fuera de alojamiento, placas de sujeción desplazadas, balasto contaminado, traviesas deterioradas. 49 traviesas rotas a tracción en los 256 m recorridos descarrilados.",
+  "otro": "Bloqueo Automático Banalizado (BAB) con CTC. Mando local en el momento del accidente. Curva a la derecha de radio 220 m con transición brusca. Pendiente 1,70 ‰. Zona de andenes fuera de la marquesina. No había obras en proximidades."
+ },
+ "material_rodante": {
+  "series": "Talgo serie 130 (ramas 130035 y 130036, doble composición, 16 coches, 40 ejes, 366 m, 672 t). Nº UIC rama descarrilada: 907171300359. Bogie BG130-031.",
+  "averia": "Descarrilamiento de la rueda derecha del primer eje de cabeza. Decalado de ambas ruedas (5 mm derecha, 12 mm izquierda) producido durante el descarrilamiento, no con anterioridad. Parámetros de rodadura (Qr, espesor, altura de pestañas) dentro de tolerancia. Última medición de distancias entre caras internas el 30.01.2015, conforme a norma. Prueba de decalado del eje realizada el 26/06/2014, satisfactoria. Fuerza de decalado superior a 80 toneladas (UNE EN 13260).",
+  "mantenimiento": "Último control de distancias entre caras internas del eje: 30.01.2015 (conforme). Prueba de decalado del eje: 26/06/2014 (satisfactoria). Superficie de calado (cubo de rueda y eje) sin anomalías. Protector de cable de temperatura y guarnición de freno sin desgaste, confirmando que el decalado fue posterior al descarrilamiento."
+ },
+ "clima": "Soleado y despejado. Buenas condiciones meteorológicas.",
+ "causas": {
+  "directa": "Fallo técnico de la infraestructura de vía en la zona del accidente, principalmente por la existencia de sobreanchos y deficiencias en las sujeciones del carril (tirafondos flojos, placas desplazadas, balasto contaminado, traviesas deterioradas, ausencia de peralte).",
+  "contribuyentes": [
+   "Transición brusca de la curva de radio 220 m en la zona del descarrilamiento",
+   "Ausencia de peralte en el punto '0' del descarrilamiento",
+   "Sobreancho de 1.714 mm (11 mm por encima del máximo admitido de 1.703 mm) a 1 m antes del punto '0'",
+   "Deficiencias en la clavazón y sujeción del carril"
+  ],
+  "sistemicas": [
+   "No se realizaron labores de mantenimiento en la zona de andenes de la vía 3 para paliar los defectos detectados en las inspecciones (priorización de recursos en vías generales por mayor tráfico y velocidad)",
+   "El procedimiento general ADIF-PG-104-003-003 de gestión de No Conformidades es de aplicación general a todas las actividades de Adif, resultando de complicada aplicación concreta en el ámbito del mantenimiento de infraestructura"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: primer eje dañado. Infraestructura: daños en traviesas y sujeciones en 240 m de vía; 49 traviesas rotas a tracción. Valoración económica: 56.800 €.",
+  "afectacion_servicio": "Vía 3 dada de baja desde el descarrilamiento (13.02.2015) hasta las 04:40 del 19.02.2015. Supresión de 1 tren de larga distancia y retrasos en 3 trenes de larga distancia (106 min), 1 tren de media distancia (65 min) y 2 trenes de cercanías (18 min)."
+ },
+ "lecciones": [
+  "La priorización exclusiva del mantenimiento en vías generales puede dejar desatendidas vías de estacionamiento con curvas de radio reducido y transiciones bruscas donde el riesgo de descarrilamiento por sobreancho es real.",
+  "Los procedimientos generales de gestión de No Conformidades pueden resultar insuficientes si no se concretan para cada ámbito operativo, como el mantenimiento de infraestructura.",
+  "Las pruebas de decalado de ruedas y el análisis de elementos adyacentes (protector de cable, guarniciones de freno) permiten determinar si un decalado es causa o consecuencia del descarrilamiento.",
+  "La ausencia de peralte y la transición brusca en curvas de radio reducido en vías de estacionamiento incrementan la vulnerabilidad frente a sobreanchos."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Que se revise y/o complemente el procedimiento general PG-104-003-003 'No Conformidades, Acciones Correctivas, Preventivas y de Mejora' para que se detalle y concrete el tratamiento y gestión de las no conformidades detectadas en la inspección y vigilancia de la infraestructura por el personal de mantenimiento, con el fin de mejorar la operativa de dicho procedimiento y asegurar su cumplimiento.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Adif"
+  },
+  {
+   "texto": "Una vez revisado y/o complementado el procedimiento general PG-104-003-003 según lo dispuesto en la Recomendación 10/15-1, comprobar que la sistemática es operativa y asegurar que es conocida por el personal involucrado.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "sobreancho",
+  "deficiencia sujeciones",
+  "tirafondos",
+  "vía de estacionamiento",
+  "curva radio reducido",
+  "transición brusca",
+  "falta de peralte",
+  "mantenimiento infraestructura",
+  "no conformidades",
+  "procedimiento general",
+  "talgo serie 130"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 13.02.2015 160531150213IFCIAF"
+}

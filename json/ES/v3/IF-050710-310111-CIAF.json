@@ -1,0 +1,134 @@
+{
+ "titulo_normalizado": "Conato de colisión en estación Móstoles-El Soto por rebase indebido de señal en parada por maniobra de material vacío",
+ "idioma_original": "es",
+ "resumen": "El 5 de julio de 2010 a las 10:01 horas se produjo un conato de colisión en la estación de Móstoles-El Soto (Madrid), línea 920. Una maniobra de material vacío procedente del tren de cercanías 27753 rebasó indebidamente la señal de salida 1721, que indicaba parada (rojo), acercándose a 225 metros del tren de cercanías 19819 que se encontraba detenido ante la señal de entrada. No se produjeron víctimas ni daños materiales. El origen fue el incumplimiento de las órdenes dadas por las señales al personal del tren. No se formularon recomendaciones al considerar suficientes las medidas adoptadas por Renfe Operadora.",
+ "hechos": "El día 5 de julio de 2010, el tren de cercanías 27753 de Renfe Operadora, procedente de Fuenlabrada y con destino Móstoles-El Soto, una vez terminadas las operaciones comerciales y con la composición vacía, se encontraba estacionado en la vía 2 de Móstoles-El Soto e inició una maniobra de apartado hacia el foso de vía 8. Mientras tanto, el tren de cercanías 19819 estaba parado ante la señal de entrada 1702, que lucía en rojo, y el tren 19828 se encontraba estacionado en vía 1 ante la señal de salida 1711 en verde, con itinerario de salida hacia Móstoles establecido. La maniobra de material vacío, al llegar a la señal de salida 1721 en indicación de parada (rojo), la rebasó tras haber pulsado el maquinista el interruptor de rebase autorizado del ASFA, circulando a 9 km/h. Recorrió 120 metros a 4 km/h antes de que el maquinista actuara sobre el manipulador del freno, quedando detenido en el P.K. 20+535, a 225 metros del tren 19819. No se produjeron víctimas ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Móstoles – El Soto",
+  "pk": "20+655",
+  "linea": "920 Móstoles-El Soto - Parla",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Señal de salida 1721, vía 2, estación terminal (fondo de saco) última de la línea C-5 de cercanías de Madrid, adscrita al puesto de mando de Madrid Atocha. Tramo Móstoles-El Soto – Cuatro Vientos."
+ },
+ "cronologia": [
+  {
+   "hora": "10:01:00",
+   "evento": "Se produce el conato de colisión en la estación Móstoles-El Soto"
+  },
+  {
+   "hora": "10:01:28",
+   "evento": "El tren 27753, realizando maniobra de material vacío hacia foso vía 8, se aproxima a la señal de salida 1721 que luce en rojo. Tren 19828 detenido en vía 1 ante señal 1711 en verde con itinerario de salida establecido. Tren 19819 parado ante señal de entrada 1702 en rojo."
+  },
+  {
+   "hora": "10:01:32",
+   "evento": "La maniobra de material vacío rebasa la señal 1721 tras pulsar el interruptor de rebase autorizado del ASFA, circulando a 9 km/h"
+  },
+  {
+   "hora": "10:01:43",
+   "evento": "Tras recorrer 120 metros a 4 km/h, el maquinista actúa sobre el manipulador del freno. Composición se detiene en P.K. 20+535, a 225 metros del tren 19819"
+  },
+  {
+   "hora": "15:29",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por teléfono móvil"
+  },
+  {
+   "hora": null,
+   "evento": "2010-07-27: El pleno de la CIAF resuelve abrir la investigación"
+  },
+  {
+   "hora": null,
+   "evento": "2011-01-31: Firma del informe final en Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "27753",
+   "tipo": "tren de cercanías / maniobra de material vacío",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "19819",
+   "tipo": "tren de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "19828",
+   "tipo": "tren de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 27753",
+   "implicacion": "Rebasó indebidamente la señal de salida 1721 en indicación de parada (rojo) tras pulsar el interruptor de rebase autorizado del ASFA. Matrícula 9730482. Título B de conducción. Último reciclaje formativo 17/11/2009. Último reconocimiento médico y psicotécnico 22/02/2006. Control de alcohol y drogas a las 13:00 del día del incidente: negativo. Declaró que apreció la señal en 'rebase autorizado' y que posiblemente la luminosidad afectó al foco blanco."
+  },
+  {
+   "rol": "auxiliar del tren 27753",
+   "implicacion": "Ordenó al maquinista realizar la maniobra de vía 2 a foso vía 8"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida 1721: luminosa de tres focos y foco blanco, sobre mástil elevado, buena visibilidad, con baliza ASFA a pie de señal. Señal de entrada 1702 (P.K. 20+310) en rojo. Señal de salida 1711 (vía 1) en verde. Distancia señal 1702 a señal 1721: 345 metros.",
+  "tipo_via": "vía doble con bloqueo automático (B.A.D.)",
+  "velocidad_maxima": "80 km/h para trenes tipo N; limitación de 50 km/h desde P.K. 18+884 hasta P.K. 19+367",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Enclavamiento electrónico tipo Ebilock 950 (Bombardier Transportation). Estación en mando central, dependiente del puesto de mando de Madrid Atocha. CTC. Estación terminal (fondo de saco), última de la línea C-5 de cercanías de Madrid. Media semanal de circulaciones del tramo: 1.934 (1.930 cercanías + 4 servicio), considerada alta. Radiotelefonía modalidad C."
+ },
+ "material_rodante": {
+  "series": "Tren 27753: motores 446162 y 446163, 6 vehículos, 346 T masa remolcada, UIC 967194461620, Tipo 100, ASFA digital. Tren 19819: motores 446154 y 446102, 6 vehículos, 346 T masa remolcada, UIC 967194461540, Tipo 100.",
+  "averia": null,
+  "mantenimiento": "ASFA digital del tren 27753 conectado y funcionando correctamente."
+ },
+ "clima": "De día, despejado",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida 1721 en indicación de parada (rojo) por la maniobra de material vacío procedente del tren 27753, por incumplimiento de las órdenes dadas por las señales al personal del tren (Artículo 217 del R.G.C.).",
+  "contribuyentes": [
+   "El maquinista pulsó el interruptor de rebase autorizado del ASFA antes de rebasar la señal, interpretando erróneamente que la señal indicaba rebase autorizado cuando en realidad estaba en rojo (parada).",
+   "Posible afectación de la luminosidad sobre el foco blanco de la señal, según declaración del propio maquinista.",
+   "La parte final del itinerario no estaba correctamente establecida, lo que pudo confundir al maquinista."
+  ],
+  "sistemicas": [
+   "Fallo humano en el reconocimiento de la indicación de la señal por parte del personal de conducción."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante.",
+  "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+ },
+ "lecciones": [
+  "El ASFA digital, aunque funcionó correctamente, no impidió el rebase al haberse pulsado el interruptor de rebase autorizado.",
+  "La correcta percepción de las señales es crítica; la luminosidad puede afectar la identificación del foco blanco.",
+  "La formación continua y la gestión del fallo humano son esenciales para prevenir rebases indebidos de señal en parada."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando suficientes las medidas adoptadas por Renfe Operadora (creación de oficina de gestión del fallo humano, comunidad de gestión de conocimiento para mejora de formación de maquinistas, programas formativos sobre fiabilidad de conducción y análisis de causas de rebase), no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "señal en parada",
+  "maniobra de material vacío",
+  "ASFA digital",
+  "fallo humano",
+  "estación terminal",
+  "fondo de saco",
+  "Cercanías Madrid",
+  "línea C-5",
+  "Renfe Operadora",
+  "Adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-050710-310111-CIAF"
+}

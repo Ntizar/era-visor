@@ -1,0 +1,126 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en paso a nivel tipo F en la estación de Algemesí",
+ "idioma_original": "es",
+ "resumen": "El 24 de marzo de 2009, a las 14:10 horas, el tren de viajeros 24048 de Renfe Operadora arrolló a un peatón en un paso a nivel peatonal provisional tipo F de la estación de Algemesí. La víctima cruzó cuando las señales ópticas y acústicas indicaban que no se podía cruzar. El accidente causó un fallecido y no produjo daños materiales en tren, infraestructura ni medio ambiente. El informe concluye que el origen estuvo en el cruce indebido de la víctima y no establece recomendaciones porque el paso a nivel fue sustituido por un paso inferior el 22 de mayo de 2009.",
+ "hechos": "El tren de viajeros 24048, procedente de Xátiva y con destino Valencia, circulaba hacia Valencia y se estaba estacionando en el andén de la vía 2 de la estación de Algemesí. En ese momento, un hombre de 77 años irrumpió en el paso a nivel peatonal provisional tipo F del P.K. 81,494, que sirve de paso entre andenes, cuando las señales acústicas y luminosas indicaban que no se podía cruzar. El maquinista hizo uso del silbato y del freno de urgencia, pero no pudo evitar el arrollamiento.\n\nSegún la declaración del maquinista, al mismo tiempo que el tren implicado se estacionaba en el andén 2, otro tren lo hacía en el andén 1, lo que pudo confundir a la víctima. El tren circulaba a 60 km/h, por debajo de la velocidad máxima permitida de 120 km/h, y los equipos de seguridad del tren y las instalaciones del paso a nivel funcionaron correctamente. La víctima falleció y no se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Algemesí",
+  "pk": "81,494",
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Paso a nivel peatonal provisional clase F, situado en la estación de Algemesí, entre andenes, en el tramo Xátiva-Silla de la línea 300 Madrid Chamartín – Valencia Estació del Nord."
+ },
+ "cronologia": [
+  {
+   "hora": "14:03",
+   "evento": "Comienzan a funcionar las protecciones del paso a nivel tipo F, señales acústicas y luminosas."
+  },
+  {
+   "hora": "14:10",
+   "evento": "El tren de viajeros 24048 de Renfe Operadora arrolla a un peatón que cruza el paso a nivel tipo F en la estación de Algemesí."
+  },
+  {
+   "hora": "14:20",
+   "evento": "El tren implicado reanuda la marcha desde la vía 2."
+  },
+  {
+   "hora": "14:30",
+   "evento": "Acuden efectivos de la policía local y de la Guardia Civil, que custodian el cadáver."
+  },
+  {
+   "hora": "15:20",
+   "evento": "Finaliza la circulación por vía 3."
+  },
+  {
+   "hora": "16:20",
+   "evento": "Se produce el levantamiento del cadáver."
+  },
+  {
+   "hora": "18:10",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona en el paso a nivel clase F de la estación de Algemesí."
+  },
+  {
+   "hora": null,
+   "evento": "2009-04-22: El Gerente Territorial de Seguridad en la Circulación de Levante de Adif entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2009-04-24: El Responsable de Seguridad de Renfe Operadora entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "2009-05-22: Se abre al público el paso inferior y se clausura el paso a nivel provisional tipo F."
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: Fecha del informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24048",
+   "tipo": "tren de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 24048",
+   "implicacion": "Matrícula 9702739. Utilizó el silbato y el freno de urgencia/emergencia al ver cruzar a la víctima. Su actuación fue considerada correcta. Prueba de alcoholemia negativa: 0,00 mg/1000 ml. Jornada efectiva de conducción el día del accidente: 4 horas y 34 minutos."
+  },
+  {
+   "rol": "peatón",
+   "implicacion": "Víctima mortal, hombre de 77 años que cruzó el paso a nivel cuando las señales ópticas y acústicas indicaban que no se podía cruzar."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "El paso a nivel tipo F estaba dotado de señales acústicas y luminosas; funcionaron correctamente y comenzaron a funcionar a las 14:03 horas.",
+  "tipo_via": "Línea de vía doble electrificada; en el paso a nivel existen 4 vías.",
+  "velocidad_maxima": "120 km/h permitida al paso por la estación de Algemesí",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo automático (BAD), control de tráfico centralizado (CTC), enclavamiento eléctrico, pavimento tipo strail, radiotelefonía modalidad A. Paso a nivel provisional creado mientras duraban las obras de un paso inferior para sustituir el paso a nivel tipo C del P.K. 81,454."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": "Ninguna; los equipos de seguridad del tren, freno, ASFA y sistema de vigilancia funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Día con tiempo despejado.",
+ "causas": {
+  "directa": "La víctima cruzó el paso a nivel haciendo caso omiso de las señales ópticas y acústicas que indicaban que no se podía cruzar, en el momento en que pasaba el tren 24048.",
+  "contribuyentes": [
+   "Otro tren estacionándose en el andén 1, en sentido contrario al tren implicado, pudo confundir a la víctima.",
+   "El paso a nivel tipo F era provisional y se utilizaba como paso entre andenes."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+  "afectacion_servicio": "Tren implicado: 9 minutos de retraso. Un tren de media distancia: 8 minutos. Once trenes de corta distancia: 78 minutos en total. Cinco trenes de larga distancia: 19 minutos en total. Circulación por vía 3 desde las 14:10 hasta las 15:20 horas y circulación por vías 1 y 2 con marcha a la vista hasta las 16:20 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "paso a nivel",
+  "clase f",
+  "estación de algemesí",
+  "señales acústicas",
+  "señales luminosas",
+  "renfe operadora",
+  "línea 300",
+  "valencia",
+  "paso inferior",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240309-140709-CIAF_ALGEMESÍ"
+}

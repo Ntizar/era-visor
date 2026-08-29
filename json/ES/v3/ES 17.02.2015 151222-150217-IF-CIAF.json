@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Conato de colisión por rebase indebido de la señal EB5 en la estación de Madrid Chamartín",
+ "idioma_original": "es",
+ "resumen": "El 17 de febrero de 2015, a las 15:30 horas, se produjo un conato de colisión en la estación de Madrid Chamartín entre la maniobra para tren 21428, formada por material vacío de cercanías, y la maniobra de la rama AVE 130003, ambas de Renfe Viajeros. La maniobra del tren 21428 rebasó indebidamente la señal EB5, que indicaba parada, porque el maquinista percibió erróneamente que autorizaba el rebase. Las dos maniobras ocuparon circuitos de vía contiguos, pero no se produjeron víctimas ni daños materiales. La CIAF atribuyó el incidente a un fallo humano del personal de conducción y consideró adecuadas las medidas adoptadas por Adif y Renfe Viajeros, sin establecer nuevas recomendaciones.",
+ "hechos": "Los hechos ocurrieron el 17 de febrero de 2015 a las 15:30 horas en la estación de Madrid Chamartín, línea 102 Bifurcación Aranda – Madrid Chamartín. La maniobra de la rama AVE 130003 se encontraba en la vía 14 con itinerario autorizado desde la señal S1/14, en indicación de rebase autorizado, hacia la vía VJ1 de Fuencarral-Complejo. La maniobra para tren 21428, compuesta por material vacío de cercanías UTs 907174461505 y 907174461596, procedía de Fuencarral y circulaba hacia la estación con la señal EB1 en anuncio de parada y la siguiente señal EB5 en parada.\n\nA las 15:28:42 horas, la maniobra para tren 21428 rebasó la señal EB1 y la maniobra de la rama AVE 130003 rebasó la señal S1/14, permaneciendo la señal EB5 en indicación de parada. A las 15:29:57 horas, el maquinista de la maniobra para tren 21428 actuó sobre el dispositivo de rebase autorizado al acercarse a la señal EB5, circulando a 11 km/h, y un segundo después pasó por la baliza de pie de dicha señal, produciéndose el rebase indebido. A las 15:30:13 horas, la maniobra ocupó el circuito de vía contiguo al ocupado por la maniobra de la rama AVE 130003, que circulaba en sentido contrario.\n\nAl acercarse a la travesía T38, el maquinista de la maniobra para tren 21428 se percató de que el itinerario estaba mal dispuesto e inició la detención, que se produjo a las 15:30:22 horas tras recorrer 100 metros desde el rebase de la señal EB5. Se produjo un conato de colisión entre ambas maniobras, aunque la rama AVE 130003 continuó su marcha hasta la vía VJ1. No se produjeron víctimas ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Madrid Chamartín",
+  "pk": "1+026",
+  "linea": "102 Bifurcación Aranda – Madrid Chamartín",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Señal de entrada EB5, en la estación de Madrid Chamartín, tramo Madrid Chamartín – Bifurcación Fuencarral, junto a la travesía T38 y el circuito de vía 4B."
+ },
+ "cronologia": [
+  {
+   "hora": "15:27",
+   "evento": "La maniobra de la rama AVE 130003 está en vía 14 con itinerario autorizado desde S1/14 en rebase autorizado a vía VJ1; la maniobra para tren 21428 circula hacia EB1 en anuncio de parada con EB5 en parada."
+  },
+  {
+   "hora": "15:28",
+   "evento": "La maniobra para tren 21428 rebasa la señal EB1 y la maniobra de la rama AVE 130003 rebasa la señal S1/14; la señal EB5 permanece en indicación de parada."
+  },
+  {
+   "hora": "15:29",
+   "evento": "La maniobra para tren 21428 pasa por la baliza previa de EB5, se detiene ante la señal EB5 y reinicia la marcha."
+  },
+  {
+   "hora": "15:29",
+   "evento": "El maquinista de la maniobra para tren 21428 actúa sobre el dispositivo de rebase autorizado a 11 km/h y pasa por la baliza de pie de EB5, produciéndose el rebase indebido."
+  },
+  {
+   "hora": "15:30",
+   "evento": "La maniobra para tren 21428 ocupa circuitos de vía contiguos a la maniobra de la rama AVE 130003; al observar la travesía T38 mal dispuesta, inicia la detención y se detiene tras 100 metros desde el rebase."
+  },
+  {
+   "hora": "15:52",
+   "evento": "Tras comprobar los agentes de instalaciones que el cambio no está talonado y disponer el itinerario sobre vía 8, se autoriza el movimiento de la maniobra para realizar servicio comercial como tren 21430 hasta Alcalá de Henares."
+  },
+  {
+   "hora": "20:20",
+   "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF la producción del suceso."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "21428",
+   "tipo": "Maniobra de material vacío de cercanías (UTs 907174461505 y 907174461596), 6 vehículos, 440 toneladas y 152 metros",
+   "operador": "Renfe Viajeros",
+   "danos": "No se producen daños"
+  },
+  {
+   "numero": "130003",
+   "tipo": "Maniobra de rama AVE 130003 (13 vehículos, M+11R+M), 298 toneladas y 181 metros",
+   "operador": "Renfe Viajeros",
+   "danos": "No se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista de la maniobra para tren 21428",
+   "implicacion": "Fallo humano y error de percepción de la señal EB5, que indicaba parada pero que el maquinista percibió como rebase autorizado; matrícula 6813877; título B de conducción; habilitado conforme a la Orden FOM/2520/2006; antigüedad desde el 08/06/2007; último reciclaje formativo el 04/10/2013; último reconocimiento médico y psicotécnico el 16/04/2013; prueba de alcoholemia y drogas negativa."
+  },
+  {
+   "rol": "Jefe de CTC de Madrid Chamartín",
+   "implicacion": "Intentó comunicar con el maquinista de la maniobra 21428, le ordenó no moverse tras el aviso de rebase y coordinó la comprobación de las agujas."
+  },
+  {
+   "rol": "Agentes de instalaciones",
+   "implicacion": "Comprobaron in situ la situación de las agujas 38a/38b y que el cambio no estaba talonado."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal EB5 alta de tres focos, baliza previa y de pie, dotada de foco blanco de rebase autorizado; funcionó correctamente e indicó parada en todo momento; visibilidad buena, pero en momentos puntuales la luz incidía sobre el frontal del vehículo detenido y podía reflejar su color blanco sobre la óptica del foco blanco, induciendo a error.",
+  "tipo_via": "Línea 102 de ancho ibérico con bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC); mando centralizado; enclavamiento electrónico desde 2007.",
+  "velocidad_maxima": "110 km/h para trenes tipo N al paso por el lugar; limitación permanente de 60 km/h entre Fuencarral y Madrid Chamartín para trenes tipo N; velocidad máxima en marcha de maniobras según RGC: 30 km/h si va tirando.",
+  "ancho": "Ancho ibérico en la zona del suceso; la estación dispone de vías 16 a 21 de ancho estándar.",
+  "electrificacion": null,
+  "estado_via": "La señal EB5 está en alineación recta y perfil horizontal; la travesía T38 tenía la aguja 38a a posición invertida por el itinerario de la rama AVE 130003; el cambio no estaba talonado.",
+  "otro": "Radiotelefonía en modalidad C y teléfono móvil corporativo; no existían obras en el lugar ni en proximidades; media semanal de circulaciones en el tramo Madrid Chamartín – Bifurcación Fuencarral: 1.775, de las cuales 1.769 de cercanías y 6 de servicio."
+ },
+ "material_rodante": {
+  "series": "UTs 907174461505 y 907174461596 (números UIC 967194461505 y 967194461596); rama AVE 130003 (número UIC 967191300037).",
+  "averia": "No se produjeron daños materiales; el registrador de seguridad de la UT 446150 funcionó correctamente, con un desfase horario de 1 minuto y 58 segundos respecto al registrador de eventos del puesto de mando.",
+  "mantenimiento": null
+ },
+ "clima": "Día, tiempo despejado.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción de la maniobra para tren 21428: error en la percepción de la indicación de la señal EB5, que en todo momento indicó parada, actuando el maquinista como si autorizara el rebase y rebasándola indebidamente.",
+  "contribuyentes": [
+   "Con el vehículo detenido delante de la señal EB5, en momentos puntuales la luz incidía sobre el frontal del vehículo y podía reflejar su color blanco sobre la óptica del foco blanco de la señal, induciendo a error de percepción del rebase autorizado.",
+   "El maquinista superó la velocidad máxima permitida en marcha de maniobras durante la aproximación a las señales EB1 y EB5, circulando a 54 km/h y 34 km/h respectivamente, frente al límite de 30 km/h."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+  "afectacion_servicio": "No se produjo intercepción parcial ni total de la vía; el tren de cercanías 21428 sufrió un retraso de 6 minutos y posteriormente se autorizó su movimiento como tren 21430 hasta Alcalá de Henares."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "conato de colisión",
+  "rebase indebido",
+  "señal eb5",
+  "estación de madrid chamartín",
+  "error de percepción",
+  "fallo humano",
+  "renfe viajeros",
+  "adif",
+  "cercanías",
+  "ave",
+  "maniobras",
+  "foco blanco"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 17.02.2015 151222-150217-IF-CIAF"
+}

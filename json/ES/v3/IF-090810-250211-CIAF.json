@@ -1,0 +1,117 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo agrícola en un paso a nivel en Cabezón de la Sal (Cantabria)",
+ "idioma_original": "es",
+ "resumen": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolló a un vehículo agrícola (motosegadora) que invadió el gálibo de la vía en el paso a nivel clase A situado en el P.K. 489+795 de la línea 1021 Oviedo-Santander. Como resultado del impacto falleció el único ocupante del vehículo, un varón de 21 años. La investigación concluyó que el accidente tuvo su origen en la invasión del gálibo por parte del vehículo agrícola, que cruzó el paso a nivel cuando pasaba el tren. Se identificaron deficiencias en la señalización del camino y en la visibilidad del paso a nivel.",
+ "hechos": "El día 9 de agosto de 2010, el tren regular de viajeros 6502 de Feve circulaba con normalidad, en sentido Este-Oeste, entre las estaciones de Casar de Periedo y Virgen de la Peña (Cantabria). Al aproximarse al paso a nivel clase A situado en el P.K. 489+795, el maquinista apreció que un vehículo agrícola (motosegadora) se disponía a cruzar el paso, de derecha a izquierda según la marcha del tren, sin percatarse de la llegada del tren. El maquinista activó el freno de emergencia y hizo uso del silbato sin poder evitar el arrollamiento del vehículo, resultando fallecido el conductor del mismo. A las 17:00:02 horas, el maquinista accionó la bocina al percatarse de la posible invasión de la vía, cuando el tren circulaba a 73,6 km/h y se encontraba a unos 130 metros del paso a nivel. A las 17:00:03 horas, hizo uso del freno de emergencia a 102 metros del paso. A las 17:00:09 horas se produjo el arrollamiento y a las 17:00:29 horas el tren quedó detenido, tras recorrer 253 metros desde el punto donde accionó el freno de emergencia y 151 metros desde el paso a nivel. La vía quedó interceptada hasta las 17:35 horas, cuando la Guardia Civil dio la vía expedita.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "489+795",
+  "linea": "1021 Oviedo – Santander",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Paso a nivel nº 68, clase A, denominado 'La recta de Casar', entre las estaciones de Casar de Periedo y Virgen de la Peña, municipio de Cabezón de la Sal. Trayecto de alineación recta con perfil en rampa de 9,55 milésimas. Cruza por el lado Sur con un camino que da acceso a la carretera CA-135 y por el lado Norte con un camino que da acceso a fincas."
+ },
+ "cronologia": [
+  {
+   "hora": "17:00:00",
+   "evento": "Hora del suceso según resumen del informe"
+  },
+  {
+   "hora": "17:00:02",
+   "evento": "El maquinista acciona la bocina al percatarse de la posible invasión de la vía por parte de un vehículo. El tren circula a 73,6 km/h y se encuentra a unos 130 metros del paso a nivel"
+  },
+  {
+   "hora": "17:00:03",
+   "evento": "El maquinista hace uso del freno de emergencia a 73,6 km/h y a 102 metros del paso a nivel. Reitera el uso de la bocina"
+  },
+  {
+   "hora": "17:00:09",
+   "evento": "Se produce el arrollamiento del vehículo agrícola"
+  },
+  {
+   "hora": "17:00:29",
+   "evento": "El tren queda detenido, tras recorrer 253 metros desde el punto donde se accionó el freno de emergencia y 151 metros desde el paso a nivel"
+  },
+  {
+   "hora": "17:35",
+   "evento": "La Guardia Civil da la vía expedita"
+  },
+  {
+   "hora": "18:43",
+   "evento": "El inspector general de Feve comunica el suceso a la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6502",
+   "tipo": "Tren regular de viajeros",
+   "operador": "Feve",
+   "danos": "La unidad que iba en cabeza (2427) sufre daños de escasa entidad: rozaduras en la carrocería, huellas del impacto en los cofres metálicos del lateral derecho bajo el bastidor, torceduras en la chapa de intercomunicación y en la guía de enganche en el lado frontal, y perforación de la chapa del quitarreses"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 6502",
+   "implicacion": "Carné ferroviario número 7796. Habilitado para la conducción de vehículos ferroviarios. Último reciclaje formativo el 10/04/08 y último reconocimiento médico y psicotécnico el 02/10/09. Pruebas de alcoholemia y drogas con resultado negativo. Accionó el freno de emergencia y la bocina. Jornada laboral el día 9: 3 horas y 30 minutos (conducción efectiva: 2 horas y 10 minutos)"
+  },
+  {
+   "rol": "Conductor de la motosegadora agrícola",
+   "implicacion": "Fallecido en el accidente. Varón de 21 años. Único ocupante del vehículo"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización de la vía férrea: sendos cartelones de silbar a 250 metros. Señalización del camino: en ambos lados (C1 y C2) dispone de señales de detención obligatoria (R-2) y de situación de paso a nivel sin barreras (P-11). La señalización del camino está incompleta conforme a la Orden Ministerial de 2 de agosto de 2001: carece de P-8 (paso a nivel sin barreras), P-15 (firme irregular), P-9 y P-10 (bandas de proximidad), R-301 (velocidad máxima) y R-305 (adelantamiento prohibido)",
+  "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.)",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Pavimento del cruce del paso a nivel en mal estado, tipo bituminoso (tratamiento superficial). Sin contracarriles y con los carriles en mal estado (descarnados). Visibilidad deficiente: C1 ≥500 m; C2 165 m con maleza y columna de catenaria; C3 195 m con un árbol; C4 325 m con arbustos. La distancia de visibilidad técnica para 80 km/h es de 237 metros, siendo la real inferior en dos cuadrantes",
+  "otro": "Paso a nivel nº 68, clase A, momento de circulación AxT: 92 (A=2 y T=46)"
+ },
+ "material_rodante": {
+  "series": "UTDEs M2427-M2477 (unidades de tren diésel-eléctricas)",
+  "averia": "Según el registrador de seguridad de la unidad en cabeza 2427, los equipos de seguridad del tren funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado en el momento del suceso",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo agrícola (motosegadora), que cruza por el paso a nivel cuando pasaba el tren 6502",
+  "contribuyentes": [
+   "Señalización del camino incompleta conforme a la Orden Ministerial de 2 de agosto de 2001 (carece de P-8, P-15, P-9, P-10, R-301 y R-305)",
+   "Pavimento del cruce en mal estado, sin contracarriles y con carriles descarnados",
+   "Visibilidad real en dos cuadrantes (165 m y 195 m) inferior a la distancia de visibilidad técnica (237 m), con presencia de maleza, columna de catenaria, árbol y arbustos",
+   "El conductor del vehículo agrícola no se percató de la llegada del tren y hizo caso omiso de las señales acústicas del tren y de la señalización de STOP del paso a nivel"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños de escasa entidad en la unidad 2427 (rozaduras en carrocería, torceduras en chapa de intercomunicación y guía de enganche, perforación del quitarreses). La motosegadora agrícola quedó destrozada",
+  "afectacion_servicio": "Vía interceptada hasta las 17:35 horas (35 minutos). El tren implicado sufrió un retraso de 60 minutos y otros cuatro trenes de viajeros sufrieron un retraso total de 117 minutos"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001",
+   "destinatario": "Ayuntamiento de Cabezón de la Sal"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "clase a",
+  "arrollamiento",
+  "vehículo agrícola",
+  "motosegadora",
+  "invasión de gálibo",
+  "señalización incompleta",
+  "visibilidad deficiente",
+  "feve",
+  "cantabria",
+  "fallecido",
+  "orden ministerial 2001"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-090810-250211-CIAF"
+}

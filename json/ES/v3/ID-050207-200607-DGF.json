@@ -1,0 +1,124 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en paso a nivel de Veguellina de Orbigo (León) por imprudencia en la entrada de estación",
+ "idioma_original": "es",
+ "resumen": "El 5 de febrero de 2007, a las 14:37, una mujer de 56 años fue arrollada mortalmente por el tren de larga distancia 280 de Renfe en el paso a nivel de clase C del pk 157,671 de la línea 800 León-La Coruña SD, en Veguellina de Orbigo (León). El paso a nivel estaba protegido con semibarreras enclavadas y sistemas luminosos y acústicos en correcto funcionamiento, y el tren circulaba a 152 km/h, por debajo de la máxima de 155 km/h. El maquinista usó el silbato y el freno de emergencia, pero el arrollamiento fue inevitable. Las conclusiones atribuyen el accidente a la imprudencia de la víctima, que cruzó haciendo caso omiso de las señales y avisos. Se recomienda completar la señalización de la carretera titularidad de Castilla y León conforme a la Orden Ministerial de 2 de agosto de 2001 y sensibilizar a la población.",
+ "hechos": "El día 5 de febrero de 2007, a las 14:37 horas, una mujer de 56 años que cruzaba las vías resultó fallecida al ser arrollada por el tren de larga distancia número 280 de Renfe, procedente de Vigo y con destino Hendaya, compuesto por la locomotora 269.412-3 y 3 vehículos con una masa remolcada de 150 toneladas. El suceso ocurrió a la altura del paso a nivel de clase C situado en el punto kilométrico 157,671 de la línea 800 León-La Coruña SD, en la entrada de la estación de Veguellina de Orbigo, provincia de León.\n\nSegún el parte del maquinista, al acercarse al paso a nivel hizo uso del silbato de la locomotora y observó que una mujer se dirigía hacia la vía, aparentemente distraída y hablando por el móvil, sin hacer caso del silbato ni de las indicaciones de un señor situado al otro lado del paso. A pesar de aplicar el freno de emergencia, no se pudo evitar el arrollamiento, quedando el tren detenido en el km 156,500. En el momento del accidente, las semibarreras estaban bajadas y los sistemas de seguridad luminosos y acústicos funcionaban correctamente; las señales de entrada y salida de la estación estaban en vía libre para el paso directo del tren.\n\nNo se produjeron daños en la vía ni en sus instalaciones, aunque sí daños menores en la locomotora, concretamente en la manga de calefacción eléctrica. El suceso provocó importantes perturbaciones al tráfico, con retrasos acumulados, transbordos por carretera y la supresión de un tren de mercancías. La circulación se restableció en condiciones normales a las 18:00 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Veguellina de Orbigo",
+  "pk": "157,671",
+  "linea": "800 León - La Coruña SD",
+  "provincia": "León",
+  "descripcion_lugar": "Paso a nivel de clase C sito en el pk 157,671, en la entrada de la estación de Veguellina de Orbigo. Cruza una vía general y una vía desviada, en una recta de 7.257 metros, en la intersección del ferrocarril con el camino denominado “Carretera de Río Negro a León-Caboalles”, en el interior del núcleo urbano de Veguellina."
+ },
+ "cronologia": [
+  {
+   "hora": "14:37",
+   "evento": "Arrollamiento de la mujer de 56 años por el tren de larga distancia 280 en el paso a nivel del pk 157,671."
+  },
+  {
+   "hora": "16:33",
+   "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "17:35",
+   "evento": "Levantamiento del cadáver por la Autoridad Judicial y el forense; se autoriza al tren 280 a reanudar la marcha."
+  },
+  {
+   "hora": "18:00",
+   "evento": "Restablecimiento de la circulación en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "El Coordinador de accidentes ferroviarios de ADIF comunica el accidente por correo electrónico el 05/02/2007."
+  },
+  {
+   "hora": null,
+   "evento": "Firma del informe definitivo en Madrid el 20 de junio de 2007."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "280",
+   "tipo": "tren de larga distancia",
+   "operador": "Renfe",
+   "danos": "Daños menores en la locomotora, concretamente en la manga de calefacción eléctrica."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Matrícula 9664178. Conducía el tren 280. Utilizó el silbato y el freno de emergencia. Su jornada de conducción del día del accidente fue de 02:39 h, del día 04/02/2007 de 03:02 h y el día 03/02/2007 descansó. Prueba de alcoholemia negativa y condiciones aptas para el servicio."
+  },
+  {
+   "rol": "víctima",
+   "implicacion": "Mujer de 56 años que cruzaba las vías y resultó fallecida por arrollamiento."
+  },
+  {
+   "rol": "persona ajena al servicio",
+   "implicacion": "Se encontraba al otro lado del paso a nivel e intentó advertir a la víctima, que no hizo caso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C protegido con semibarreras enclavadas/automáticas, señalización luminosa y acústica, y dos pasos exclusivos de peatones con señalización luminosa y semáforo peatonal. Señalización ferroviaria: silbar a 500 metros del paso a nivel. Señalización de carretera titularidad de la Comunidad Autónoma de Castilla y León: señales de peligro a ambos lados, bandas de aproximación de 2 y 3 bandas a la izquierda y 3 a la derecha, y limitación de velocidad a la izquierda; no dispone de firme irregular, prohibido adelantar, cruce regulado con semáforos, limitación de velocidad en el lado derecho ni señalización en calzada.",
+  "tipo_via": "Vía general y vía desviada; paso situado en una recta de 7.257 metros.",
+  "velocidad_maxima": "155 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "No se produjeron daños en la vía ni en sus instalaciones. Se constató buen estado de mantenimiento del firme de Strail del paso a nivel, tanto para vehículos como para peatones.",
+  "otro": "Tipo de bloqueo: Bloqueo Automático en Vía Única con CTC. Momento de circulación: 21.316. Visibilidad técnica: 497 metros. Estudio en fase de Convenio entre el Ministerio de Fomento y la Comunidad Autónoma de Castilla y León para la supresión del paso a nivel."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269.412-3 y 3 vehículos con masa remolcada de 150 toneladas.",
+  "averia": "Daños menores en la locomotora: manga de calefacción eléctrica.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima, que se dispuso a cruzar las vías haciendo caso omiso de las señales del paso a nivel y de las señales acústicas efectuadas por el tren.",
+  "contribuyentes": [
+   "La víctima parecía hablar por el móvil y estar distraída.",
+   "La víctima no hizo caso del silbato del tren ni de las advertencias de una persona situada al otro lado del paso a nivel.",
+   "El camino que conduce al paso a nivel, de titularidad de la Comunidad Autónoma de Castilla y León, no se adecuaba a las prescripciones de la Orden Ministerial de 2 de agosto de 2001 por falta de señalización en la carretera."
+  ],
+  "sistemicas": [
+   "Paso a nivel situado en el interior de un núcleo urbano, en la entrada de una estación, con tráfico mixto de vehículos y peatones.",
+   "Titularidad autonómica del camino con señalización incompleta respecto a la normativa ferroviaria.",
+   "Necesidad de supresión del paso a nivel, entonces en fase de estudio mediante Convenio."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en la vía ni en sus instalaciones. Daños menores en la locomotora del tren, en la manga de calefacción eléctrica.",
+  "afectacion_servicio": "435 minutos de retraso acumulados en 3 trenes de Larga Distancia; 65 viajeros transbordados por carretera correspondientes a 3 trenes de Media Distancia; supresión de un tren de Mercancías; circulación restablecida en condiciones normales a las 18:00 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Comunicar al titular del camino que conduce al paso a nivel objeto del arrollamiento la necesidad de completar la señalización de la carretera de acuerdo con las prescripciones establecidas en la Orden Ministerial de 2 de agosto de 2001.",
+   "destinatario": "Titular del camino / Comunidad Autónoma de Castilla y León"
+  },
+  {
+   "texto": "Sensibilizar a la población en el correcto uso de las zonas de paso.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "imprudencia",
+  "peatón",
+  "vegellina de orbigo",
+  "león",
+  "línea 800",
+  "renfe",
+  "larga distancia",
+  "silbato",
+  "freno de emergencia",
+  "señalización carretera"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-050207-200607-DGF"
+}

@@ -1,0 +1,112 @@
+{
+ "titulo_normalizado": "Arrollamiento de una joven en el paso entarimado del apeadero de Hernani Centro por el tren 401 de larga distancia",
+ "idioma_original": "es",
+ "resumen": "El 13 de mayo de 2008, a las 16:35, en el apeadero de Hernani Centro (Guipúzcoa), el tren de larga distancia 401 de Renfe Operadora arrolló a una joven de 27 años que cruzaba por el paso entarimado desde el andén de la vía II a la vía I sin percatarse de la aproximación del tren. La víctima falleció en el lugar. El tren circulaba a 108 km/h, ligeramente por encima de la velocidad máxima permitida de 105 km/h. La actuación del maquinista fue correcta. La CIAF recomendó campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias.",
+ "hechos": "El día 13 de mayo de 2008, a las 16:35 horas, el tren de viajeros de larga distancia 401 de Renfe Operadora, formado por la locomotora 252071 y 3 coches con una masa remolcada de 150 Tm, circulaba por la vía I del apeadero de Hernani Centro (P.K. 615,049, línea 100 Madrid-Hendaya). Una joven de 27 años, pasajera de otro tren del que se acababa de apear, cruzó por el paso entarimado desde el andén de la vía II hacia la vía I sin percatarse de la aproximación del tren 401. El maquinista, al observar un tren de cercanías detenido en el apeadero, hizo sonar el silbato varias veces. Al iniciar la marcha el tren de cercanías y quedar libre el paso entre andenes, vio a los viajeros esperando, pero la joven, con auriculares puestos, cruzó sin mirar y fue arrollada de lleno por la locomotora. El maquinista frenó y accionó la seta de urgencia, pero no pudo evitar el impacto. Tras detener el tren, comunicó el suceso al Puesto de Mando de Miranda de Ebro. Los servicios sanitarios atendieron a la víctima a las 16:40 horas y comunicaron su fallecimiento a las 18:30 horas, momento en que se levantó el cadáver. Ambas vías quedaron interceptadas hasta las 17:20 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Hernani Centro",
+  "pk": "615,049",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Paso entarimado del apeadero de Hernani Centro, vía I. Trayecto Andoaín - Hernani. El tramo se encuentra en curva a derecha (sentido kilometración). A ambos lados del paso entarimado existen avisos con la leyenda 'Cuidado al cruzar. Trenes circulando en ambos sentidos' en euskera y castellano."
+ },
+ "cronologia": [
+  {
+   "hora": "16:35",
+   "evento": "Arrollamiento de la joven por el tren 401 en el paso entarimado del apeadero de Hernani Centro, vía I."
+  },
+  {
+   "hora": "16:40",
+   "evento": "Los servicios sanitarios proceden a atender a la víctima."
+  },
+  {
+   "hora": "17:17",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF vía telefonía móvil."
+  },
+  {
+   "hora": "17:20",
+   "evento": "Se levanta la interceptación de ambas vías; por la vía I se autoriza circulación a 5 km/h."
+  },
+  {
+   "hora": "18:30",
+   "evento": "Comunicación del fallecimiento de la víctima; se levanta el cadáver."
+  },
+  {
+   "hora": null,
+   "evento": "Circulación normal restablecida tras 115 minutos de interrupción total."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "401",
+   "tipo": "viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante. Retraso de 85 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 401",
+   "implicacion": "Matrícula 8868911. Hacía sonar el silbato al acercarse al apeadero. Al ver cruzar a la joven, frenó y accionó la seta de urgencia. Actuación correcta según la investigación. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Último reciclaje formativo: 20/02/2007. Último reconocimiento psicofísico: 11/11/2005."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Avisos a ambos lados del paso entarimado: 'Cuidado al cruzar. Trenes circulando en ambos sentidos' (euskera y castellano).",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "105 km/h (libro horario del tren 401 en el apeadero de Hernani Centro)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "En curva a derecha (sentido kilometración) en el P.K. 615,049. Funcionamiento correcto de los sistemas de control.",
+  "otro": "Paso entarimado entre andenes de vía II y vía I. Administrada por Adif (Red Ferroviaria de Interés General)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252071 (UIC: 967192520716) + 3 coches, masa remolcada 150 Tm",
+  "averia": "Ninguna. El material rodante funcionó correctamente según el registrador de seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "De día, condiciones atmosféricas buenas.",
+ "causas": {
+  "directa": "Cruce de la víctima por el paso entarimado sin percatarse de la aproximación del tren 401 por la vía I.",
+  "contribuyentes": [
+   "La joven llevaba auriculares puestos, lo que pudo impedirle oír el silbato del tren.",
+   "La joven cruzó sin mirar.",
+   "El tren circulaba a 108 km/h, 3 km/h por encima de la velocidad máxima permitida de 105 km/h (aunque la CIAF concluye que esta diferencia no influyó en el desencadenamiento)."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "Ambas vías interceptadas 45 minutos (hasta las 17:20). Circulación normal interrumpida 115 minutos. Tren 401 retrasado 85 minutos. Otros 8 trenes de viajeros retrasados 83 minutos en total. 5 trenes de mercancías retrasados 192 minutos en total. Tren 26856 suspendido."
+ },
+ "lecciones": [
+  "El uso de auriculares puede impedir percibir señales acústicas de trenes en aproximación.",
+  "Existen antecedentes de arrollamientos en el mismo entorno (18/03/2007, P.K. 615,644, entre Hernani y Andoaín).",
+  "Los avisos de precaución en pasos entarimados no son suficientes para garantizar la seguridad del peatón."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso entarimado",
+  "apeadero",
+  "hernani centro",
+  "guipuzcoa",
+  "renfe operadora",
+  "adif",
+  "linea 100",
+  "larga distancia",
+  "auriculares",
+  "fallecimiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-130508-300908-CIAF_ES-548"
+}

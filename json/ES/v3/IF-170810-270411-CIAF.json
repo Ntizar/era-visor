@@ -1,0 +1,151 @@
+{
+ "titulo_normalizado": "Conato de colisión entre trenes de mercancías por rebase de señal de parada en la estación de Ponferrada",
+ "idioma_original": "es",
+ "resumen": "El 17 de agosto de 2010 a las 20:04, en la estación de Ponferrada (León), el tren de mercancías 82214 de Renfe Operadora rebasó indebidamente la señal de salida S2/4 en indicación de parada, ocupando el circuito de vía A1 y talonando la aguja número 1. En ese instante, el tren LK289 se encontraba en el circuito contiguo, produciéndose un conato de colisión. No hubo víctimas ni daños materiales significativos salvo el cambio de aguja. La causa fue un despiste del maquinista del 82214, agravado por distractores externos. No se emitieron recomendaciones al considerarse suficientes las medidas adoptadas por Renfe.",
+ "hechos": "El tren de mercancías 82214, procedente de O Irixo (Ourense) con itinerario de entrada a vía 4 por el lado A Coruña, fue recibido con anuncio de parada en la señal de entrada E2 y la señal de salida S2/4 en indicación de parada. Según la declaración del maquinista, al pasar por la señal de avanzada 2532 una mujer con un menor cruzó la vía, lo que le obligó a aplicar el freno de emergencia. Reanudó la marcha en modo 'marcha a la vista' hasta la señal E2, y al aproximarse a la señal S2/4 observó que un guarda jurado salía corriendo del gabinete de circulación, quedando distraído mirándolo por el espejo retrovisor, lo que provocó el rebase de la señal en parada a 56 km/h.\n\nTras rebasar S2/4, el tren 82214 ocupó el circuito de vía A1 y pasó por la aguja número 1 en posición invertida (talonamiento) a 44 km/h. Simultáneamente, el tren LK289, procedente de Sagunto (Valencia), se aproximaba por el lado León con previsión de itinerario a vía 3. Cuando el LK289 se encontraba en el circuito de vía 2491 (contiguo al A1), se produjo el conato de colisión. Ambos trenes quedaron enfrentados a 141 metros de distancia.\n\nEl maquinista del 82214 comprobó el estado de los cambios, retrocedió por iniciativa propia sin autorización (dos movimientos de retroceso de 171 metros) y se detuvo ante la señal S2/4. Informó al puesto de mando de León, que cursó aviso a las gerencias territoriales de Adif y Renfe Operadora.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Ponferrada",
+  "pk": "250+950",
+  "linea": "800 A Coruña - León",
+  "provincia": "León",
+  "descripcion_lugar": "Señal de salida S2/4, situada en el PK 250+553, tramo Folgoso - Ponferrada. Estación con enclavamiento electrónico adscrita al puesto de mando de León."
+ },
+ "cronologia": [
+  {
+   "hora": "20:01:54",
+   "evento": "El tren 82214 pasa por la baliza previa de la señal de entrada E2 (PK 251+313) en indicación L1 (anuncio de parada) a 35 km/h."
+  },
+  {
+   "hora": "20:02:28",
+   "evento": "El tren LK289 pasa por la baliza de pie de la señal de avanzada 2491 en indicación L1 a 73 km/h, a 1.041 m de la baliza previa de E1."
+  },
+  {
+   "hora": "20:02:41",
+   "evento": "El tren 82214 pasa por la baliza de pie de la señal E2 en indicación L1 a 27 km/h."
+  },
+  {
+   "hora": "20:03:39",
+   "evento": "El tren 82214 ocupa el circuito de estacionamiento de vía 4, con la señal S2/4 en indicación de parada."
+  },
+  {
+   "hora": "20:03:53",
+   "evento": "El tren LK289 pasa por la baliza previa de la señal de entrada E1 en anuncio de parada a 24 km/h."
+  },
+  {
+   "hora": "20:03:59",
+   "evento": "Se inicia el establecimiento de itinerario de entrada a vía 3 para el tren LK289."
+  },
+  {
+   "hora": "20:04:04",
+   "evento": "El tren 82214 rebasa indebidamente la señal S2/4 a 56 km/h, se activa urgencia ASFA (L8), ocupa circuito A1, pasa aguja nº 1 en posición invertida a 44 km/h. Conato de colisión con el LK289 en circuito 2481."
+  },
+  {
+   "hora": "20:04:20",
+   "evento": "El tren 82214 queda detenido en PK 250+398 (155 m desde S2/4). El tren LK289 se detiene en PK 250+257 (196 m de E1). Ambos enfrentados a 141 m."
+  },
+  {
+   "hora": "20:06:00",
+   "evento": "El tren 82214 inicia dos movimientos de retroceso sin autorización."
+  },
+  {
+   "hora": "20:08:44",
+   "evento": "El tren 82214 se detiene ante la señal S2/4 tras retroceder 171 metros."
+  },
+  {
+   "hora": "21:11",
+   "evento": "El jefe de investigación de Adif comunica el suceso a la CIAF por telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "28 de septiembre de 2010: el pleno de la CIAF resuelve abrir la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "82214",
+   "tipo": "mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno reportado en el material rodante; funcionó correctamente."
+  },
+  {
+   "numero": "LK289",
+   "tipo": "mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno reportado."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista tren 82214 (matrícula 9644204)",
+   "implicacion": "Rebasó indebidamente la señal S2/4 en parada por despiste al observar a un guarda jurado corriendo por el andén. Incumplió art. 217 RGC (rebase de señal) y art. 475.1 RGC (retroceso sin autorización). Relevado del servicio por Renfe Operadora."
+  },
+  {
+   "rol": "Maquinista tren LK289 (matrícula 8849614)",
+   "implicacion": "No tuvo responsabilidad en el suceso. Se detuvo al observar la anomalía y se puso en comunicación con el factor y el guarda jurado."
+  },
+  {
+   "rol": "Guarda jurado de la estación de Ponferrada",
+   "implicacion": "Su salida corriendo del gabinete de circulación fue un distractor para el maquinista del 82214."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal S2/4: baja, 4 focos, buena visibilidad, baliza ASFA de pie de señal, sin baliza previa. Señal E2 con baliza previa. Señal de avanzada 2532.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "95 km/h (lado León) / 130 km/h (lado A Coruña)",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Funcionamiento correcto; enclavamiento electrónico; bloqueo automático (BAU); control de tráfico centralizado (CTC); mando centralizado desde puesto de mando de León.",
+  "otro": "Tramo Folgoso-Ponferrada: media semanal 178 circulaciones (baja): 55 LD, 52 MD, 62 mercancías, 9 servicio. Radiotelefonía modalidad A (tren-tierra)."
+ },
+ "material_rodante": {
+  "series": "Tren 82214: 14 vagones, 349 t, Nº UIC 957102510089, Tipo 90 (vmax 90 km/h). Tren LK289: 14 vagones, 1.086 t.",
+  "averia": "Ninguna. Funcionó correctamente según el informe.",
+  "mantenimiento": null
+ },
+ "clima": "Sol dando de cara a la señal (mencionado por el maquinista como factor contribuyente); no se detalla otra condición meteorológica.",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S2/4 en indicación de parada por incumplimiento de las órdenes dadas por las señales al personal de conducción (art. 217 RGC).",
+  "contribuyentes": [
+   "Despiste del maquinista del tren 82214 al observar a un guarda jurado saliendo corriendo del gabinete de circulación y mirándolo por el espejo retrovisor.",
+   "Cruce de vía de una mujer con un menor por la señal de avanzada 2532, que provocó frenada de emergencia y elevó el grado de tensión del maquinista.",
+   "Sol dando de cara a la señal S2/4.",
+   "Primera apreciación errónea de la señal S2/4 como vía libre.",
+   "Rebase de señal con velocidad creciente (de 27 km/h en E2 a 56 km/h en S2/4)."
+  ],
+  "sistemicas": [
+   "Fallo humano por despiste/atencción dividida en el personal de conducción.",
+   "No se identifican causas sistémicas adicionales; instalaciones, infraestructura y material funcionaron correctamente."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en el cambio (aguja) número 1 de la estación de Ponferrada debido al talonamiento.",
+  "afectacion_servicio": "Retraso total de 351 minutos en 4 trenes de mercancías (incluidos los 2 implicados) y 9 minutos de retraso en 1 tren de larga distancia."
+ },
+ "lecciones": [
+  "El rebase de señal en parada puede producirse por distractores externos (personas en andén, cruce de vía de peatones, deslumbramiento solar) que dividen la atención del maquinista.",
+  "La activación del ASFA Digital y la urgencia L8 funcionaron correctamente como barrera de seguridad, pero no impidieron el talonamiento de la aguja.",
+  "El retroceso sin autorización del tren 82214 (art. 475.1 RGC) constituye un incumplimiento adicional que agrava la situación.",
+  "Las medidas de gestión del fallo humano (oficina dedicada, comunidad de conocimiento, programas formativos) se consideraron suficientes para no emitir recomendaciones."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "rebase señal",
+  "conato colisión",
+  "fallo humano",
+  "despiste maquinista",
+  "talonamiento aguja",
+  "ASFA",
+  "mercancías",
+  "Ponferrada",
+  "línea 800",
+  "Renfe Operadora",
+  "Adif",
+  "CTC"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-170810-270411-CIAF"
+}

@@ -1,0 +1,155 @@
+{
+ "titulo_normalizado": "Rebase de señal y encarrilamiento erróneo tras talonamiento de aguja en estación de Cortes de Navarra por error de comunicación del RC",
+ "idioma_original": "es",
+ "resumen": "El 22 de mayo de 2025, el tren 18079 de Renfe Viajeros rebasó la señal de salida S1/1 en la estación de Cortes de Navarra tras efectuar parada comercial en vía 1. El cierre intempestivo de la señal, ordenado por el RC del CRC de Miranda de Ebro para permitir el adelantamiento del tren 00801 por vía 3, no fue comunicado al maquinista del 18079, pues el RC contactó erróneamente al tren 18078. Tras el rebase se produjo el talonamiento de la aguja 6, no detectado en la inspección, lo que llevó a autorizar el retroceso del tren, generando un encarrilamiento parcial erróneo hacia la vía 3. No hubo víctimas, pero se interceptaron las vías 1 y 3 durante más de 25 horas con un acumulado de retraso de 1.499 horas.",
+ "hechos": "El 22 de mayo de 2025 a las 21:52:53, el tren 18079 de Renfe Viajeros (Miraflores-Castejón) se detuvo en la vía 1 de la estación de Cortes de Navarra para su parada comercial. Tres segundos después, la señal de salida S1/1 pasó de vía libre a parada por actuación del RC del CRC de Miranda de Ebro, que pretendía retener el tren para que fuera adelantado por vía 3 por el tren 00801. Sin embargo, el RC comunicó erróneamente el cierre al maquinista del tren 18078 (que entraba en Castejón) en lugar del 18079, debido a que la entrada del 18078 en la banda de regulación anuló automáticamente la preselección del 18079 en el sistema Tren-Tierra. A las 21:53:21, el tren 18079 reanudó la marcha sin advertir el cambio de aspecto. A las 21:53:38 rebasó la señal a 54 km/h, activándose el freno de urgencia por ASFA. El talonamiento de la aguja 6 (desviada para el paso del 00801) no fue detectado por el maquinista durante la inspección, que solo revisó el desvío 4. El RC autorizó el retroceso, produciéndose un encarrilamiento parcial erróneo: el primer bogie del vehículo de cabeza quedó encaminado a vía 3 mientras los vehículos segundo y tercero permanecían en vía 1. El tren impactó contra un poste de catenaria.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Cortes de Navarra",
+  "pk": null,
+  "linea": "Línea 700 Bilbao Abando Indalecio Prieto a Casetas",
+  "provincia": "Navarra",
+  "descripcion_lugar": "Estación telemandada desde el CRC de Miranda de Ebro, con dos vías generales (1 y 2) y tres vías de apartado (3, 5 y 7) por el lado de la vía 1. Vía doble banalizada de ancho ibérico, electrificada a 3.000 V CC, equipada con ASFA. Primera estación gestionada por el CRC de Miranda de Ebro en sentido Zaragoza-Tudela; la anterior (Luceni) pertenece al CRC de Zaragoza, lo que crea una situación de frontera entre dos CRC."
+ },
+ "cronologia": [
+  {
+   "hora": "21:52:53",
+   "evento": "El tren 18079 se estaciona en la vía 1 de Cortes de Navarra para efectuar su parada comercial."
+  },
+  {
+   "hora": "21:52:56",
+   "evento": "La señal de salida S1/1 cambia de vía libre a parada por actuación del RC del CRC de Miranda de Ebro (3 segundos tras la detención)."
+  },
+  {
+   "hora": "21:53:21",
+   "evento": "El tren 18079 reanuda la marcha sin advertir el cambio de aspecto de la señal (25 segundos tras el cierre)."
+  },
+  {
+   "hora": "21:53:38",
+   "evento": "El tren 18079 rebasa la señal S1/1 a 54 km/h; se activa el freno de urgencia por ASFA. Se produce el talonamiento de la aguja 6. El tren se detiene con la cabeza sobrepasando el desvío 4."
+  },
+  {
+   "hora": "21:56",
+   "evento": "Inicio de la interceptación de las vías 1 y 3."
+  },
+  {
+   "hora": "23:30",
+   "evento": "Fin de la interceptación de las vías 1 y 3 (día siguiente, 23 de mayo de 2025)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18079",
+   "tipo": "media distancia",
+   "operador": "Renfe Viajeros",
+   "danos": "Impacto contra poste de catenaria; daños en el enganche Scharfenberg; encarrilamiento parcial erróneo hacia vía 3."
+  },
+  {
+   "numero": "00801",
+   "tipo": "tren rápido/pasante",
+   "operador": null,
+   "danos": "Sin daños; circulaba detrás del 18079 y debía adelantar por vía 3."
+  },
+  {
+   "numero": "18078",
+   "tipo": "tren de pasajeros",
+   "operador": "Renfe Viajeros",
+   "danos": "Sin daños; fue contactado erróneamente por el RC en lugar del 18079. Se encontraba entrando en la estación de Castejón."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 18079",
+   "implicacion": "Reanudó la marcha sin verificar el estado de la señal S1/1; no observó el cambio a aspecto de parada; tras el rebase, inspeccionó solo el desvío 4 sin detectar el talonamiento de la aguja 6; autorizó el retroceso bajo indicación del RC."
+  },
+  {
+   "rol": "Maquinista del tren 18078",
+   "implicacion": "Recibió la comunicación errónea del cierre de la señal S1/1 de Cortes de Navarra; no verificó su ubicación ni la denominación de la señal durante la comunicación."
+  },
+  {
+   "rol": "Responsable de Circulación (RC) del CRC de Miranda de Ebro, banda 6101 Cortes de Navarra-Altsasu",
+   "implicacion": "Ordenó el cierre intempestivo de la señal S1/1; comunicó erróneamente al tren 18078 en lugar del 18079; autorizó el retroceso sin detectar el talonamiento de la aguja 6."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/1 (cambió de vía libre a parada); sistema ASFA activo; señal de entrada en vía libre.",
+  "tipo_via": "Vía doble banalizada; estación con vías generales 1 y 2 y vías de apartado 3, 5 y 7.",
+  "velocidad_maxima": "120 km/h (material rodante); velocidad al rebase: 54 km/h.",
+  "ancho": "Ibérico",
+  "electrificacion": "3.000 V corriente continua",
+  "estado_via": "Aguja 6 talonada (conexión entre vías 1 y 3); desvío 4 no afectado; poste de catenaria impactado.",
+  "otro": "Telemandada desde CRC de Miranda de Ebro. Situación de frontera entre CRC de Miranda de Ebro y CRC de Zaragoza (estación anterior: Luceni). Diferímetro de seguridad de 3 minutos en señal de entrada (reducido a 30 s al estar el tren en cantón de estación)."
+ },
+ "material_rodante": {
+  "series": "Serie 463 de Renfe Viajeros, 3 coches, longitud 63,478 m entre topes, velocidad máxima 120 km/h.",
+  "averia": "Daños en el enganche Scharfenberg por impacto contra poste de catenaria.",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones meteorológicas favorables; visibilidad propia del periodo inmediatamente posterior a la puesta del sol, con iluminación natural residual.",
+ "causas": {
+  "directa": "Concurrencia de dos eventos: (1) rebase de la señal S1/1 por el tren 18079 sin advertencia del cierre, causado por la comunicación errónea del RC al tren 18078; (2) encarrilamiento parcial erróneo hacia vía 3 por retroceso autorizado sin detectar el talonamiento de la aguja 6.",
+  "contribuyentes": [
+   "Falta de verificación del estado de la señal por el maquinista del 18079 antes de reanudar la marcha.",
+   "Error en la comunicación del cierre de la señal S1/1: el RC contactó al tren 18078 en lugar del 18079.",
+   "Ausencia de confirmación de la ubicación y del nombre de la señal S1/1 en las comunicaciones entre maquinista del 18078 y el RC.",
+   "No observación por el maquinista del 18079 del cambio a aspecto de parada de la señal S1/1.",
+   "Falta de experiencia del maquinista del 18079 en la identificación del talonamiento de la aguja 6.",
+   "Situación de borde de banda que dificulta al RC anticipar la planificación de adelantamientos de trenes en orden inverso."
+  ],
+  "sistemicas": [
+   "Observancia no sistemática de las normas de comunicaciones entre personal de conducción y responsables de circulación.",
+   "Cancelación automática del tren preseleccionado por el RC en el monitor del sistema Tren-Tierra al incorporarse una nueva circulación en la banda de regulación.",
+   "Deficiencia en la formación de los maquinistas sobre talonamientos.",
+   "Señales acústicas genéricas del CTC sin especificidad que pasan inadvertidas en sala común de múltiples RC.",
+   "Limitación de la anticipación operativa por la frontera entre CRC de Miranda de Ebro y CRC de Zaragoza y la representación no fiel del videográfico de la sección Cortes de Navarra-Luceni."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Aguja 6 talonada; poste de catenaria impactado; daños en el enganche Scharfenberg del tren; vías 1 y 3 interceptadas.",
+  "afectacion_servicio": "Vías 1 y 3 interceptadas desde las 21:56 del 22/05/2025 hasta las 23:30 del 23/05/2025 (aprox. 25,5 horas). Acumulado de retraso: 1.499 horas."
+ },
+ "lecciones": [
+  "El cumplimiento estricto de los protocolos de comunicación (identificación de tren, ubicación, dependencia del RC, confirmación de la señal) es crítico y su omisión puede tener consecuencias graves.",
+  "La automatización del sistema Tren-Tierra puede generar errores de selección del interlocutor si no se verifica la identidad del tren contactado.",
+  "La falta de formación específica en identificación de talonamientos puede llevar a inspecciones incompletas y a decisiones operativas erróneas (autorización de retroceso).",
+  "Las situaciones de frontera entre CRC y la limitada anticipación por el videográfico/SITRA reducen el margen temporal para gestionar operaciones no programadas.",
+  "Las señales acústicas genéricas en salas comunes de RC no constituyen un medio fiable de alerta ante cambios en la banda de regulación."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Garantizar, mediante la vigilancia interna y supervisión de las comunicaciones entre el personal de conducción y el personal de circulación, el cumplimiento estricto, en cualquier situación operacional, de los protocolos de comunicación establecidos en los SGS del Administrador de Infraestructuras y las empresas ferroviarias.",
+   "destinatario": "AESF (implementadores: AESF, EEFF y AAII)"
+  },
+  {
+   "texto": "Incidir en los contenidos del plan de formación del personal de conducción y circulación sobre la identificación de situaciones de riesgo en casos de talonamiento de las agujas y/o retroceso en los aparatos de vía con riesgo de descarrilamiento.",
+   "destinatario": "AESF (implementadores: EEFF y AAII)"
+  },
+  {
+   "texto": "Analizar las características operativas del sistema 'Tren-Tierra' en los puestos CTC durante los procesos de entrada y salida de trenes en la banda de regulación y, en su caso, adoptar medidas que eviten efectos no deseados sobre las selecciones de tren realizadas por los RC.",
+   "destinatario": "AESF (implementadores: ADIF y ADIF AV)"
+  },
+  {
+   "texto": "Mejorar la coordinación y las comunicaciones entre RC de puestos de CTC de bandas colaterales dentro de un propio CRC o de distintos CRC.",
+   "destinatario": "AESF (implementadores: ADIF y ADIF AV)"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "talonamiento de aguja",
+  "encarrilamiento erróneo",
+  "error de comunicación",
+  "sistema tren-tierra",
+  "adelantamiento de trenes",
+  "crc miranda de ebro",
+  "cortes de navarra",
+  "asfa",
+  "serie 463",
+  "procedimientos de comunicación",
+  "formación maquinistas"
+ ],
+ "v3_completo": true,
+ "id": "ES-es-10728 - final report, 2025-41-0522-if"
+}

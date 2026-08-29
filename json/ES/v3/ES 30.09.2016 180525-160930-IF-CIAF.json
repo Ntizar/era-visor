@@ -1,0 +1,236 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren Alvia 665 por rotura de carril en el túnel nº 15 Canto del Estillero, tramo Busdongo-Pajares (Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 30 de septiembre de 2016 a las 21:26, el tren de viajeros de larga distancia 665 (Alvia, Renfe Viajeros) descarriló en plena vía dentro del túnel nº 15 'Canto del Estillero' (p.k. 59+505) entre Busdongo y Pajares, línea 130 Gijón Sanz Crespo-Venta de Baños, en Asturias. La causa directa fue la rotura del carril izquierdo por un defecto de fabricación que generó una fisura longitudinal entre la cabeza y el alma, progresada por fatiga, corrosión del túnel y tráfico pesado. No hubo víctimas mortales ni heridos. La circulación quedó interrumpida durante 23 horas y 47 minutos. La CIAF determinó como causa raíz la ineficacia de la auscultación ultrasónica de vía conforme al procedimiento SGSC-PO-24.00.09 de Adif.",
+ "hechos": "El día 30 de septiembre de 2016 a las 21:26 horas, el tren Alvia 665 de Renfe Viajeros (serie S-130, rama 130043, Talgo-Bombardier), procedente de Barcelona Sants con destino Gijón Sanz Crespo, circulaba por la línea 130 con 14 minutos de retraso. A las 21:22 pasó por la estación de Busdongo con itinerario de paso directo y todas las señales en vía libre. A las 21:26:36 entró por la boca sur del túnel nº 15 'Canto del Estillero' (p.k. 59+407) a 57 km/h. A los 98 metros de recorrido dentro del túnel, en el p.k. 59+505 y a 62 km/h, se produjo el descarrilamiento de toda la composición excepto la última rueda del último eje de la cabeza motriz en cola. El maquinista activó simultáneamente el freno de emergencia. El tren circuló descarrilado 197 metros apoyándose en los hastiales del túnel hasta detenerse en el p.k. 59+702. La motriz de cabeza y parte del primer coche salieron por la boca norte del túnel.\n\nLa rotura del carril izquierdo (hilo alto) se había producido 13 minutos antes, al paso del tren de mercancías 94212 de Renfe Mercancías (locomotora 251) en sentido contrario. La rotura afectaba a la cabeza y parte superior del alma del carril (330 cm de longitud), pero no al patín ni a la parte inferior del alma, por lo que se mantuvo la continuidad eléctrica del circuito de vía y las señales no cambiaron a aspecto de peligro. El carril presentaba una fisura longitudinal antigua de 167 cm entre cabeza y alma (código 236 del catálogo UIC), con oxidación patente, originada por un defecto de fabricación del carril (Arcelor Mittal, abril 2003), agravada por la corrosión del interior del túnel y la fatiga por tráfico pesado.\n\nNo se produjeron víctimas mortales ni heridos. Se dañaron todos los vehículos por rozamiento con el hastial del túnel, 270 traviesas y se sustituyeron 180 metros de carril. La circulación entre Busdongo y Pajares quedó interrumpida 23 horas y 47 minutos. Se afectaron 12 trenes (el 665 y 11 suprimidos), con transbordo de 200 viajeros del tren 4381 por carretera.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "59+505",
+  "linea": "130 Gijón Sanz Crespo-Venta de Baños",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Interior del túnel nº 15 'Canto del Estillero', tramo Busdongo-Pajares, municipio de Lena. Boca sur p.k. 59+407, boca norte p.k. 59+648 (241 m de longitud). Punto cero a 98 m de la boca sur. Final de curva de transición con curva circular a derecha de radio 312 m. Pendiente de 18,3 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "21:13",
+   "evento": "El tren 94212 de mercancías (Renfe Mercancías, locomotora 251) pasa por el p.k. 59+505 en sentido contrario y produce la rotura del carril izquierdo (hilo alto)"
+  },
+  {
+   "hora": "21:22:01",
+   "evento": "El tren 665 pasa por la estación de Busdongo con 14 min de retraso, señal de salida S1/1 en vía libre (L3), a 83 km/h"
+  },
+  {
+   "hora": "21:26:36",
+   "evento": "El tren 665 entra por la boca sur del túnel nº 15 (p.k. 59+407) a 57 km/h"
+  },
+  {
+   "hora": "21:26:41",
+   "evento": "El tren 665 pasa por baliza previa de señal avanzada 599 de Pajares en vía libre (L3), p.k. 59+477, a 63 km/h"
+  },
+  {
+   "hora": "21:26:42",
+   "evento": "Descarrilamiento en punto '0' p.k. 59+505 a 62 km/h. El maquinista actúa sobre freno de servicio simultáneamente"
+  },
+  {
+   "hora": "21:26:43",
+   "evento": "El maquinista lleva el manipulador a posición de freno máximo, a 61 km/h"
+  },
+  {
+   "hora": "21:26:44",
+   "evento": "El maquinista aplica freno de emergencia (seta) en p.k. 59+535 a 60 km/h"
+  },
+  {
+   "hora": "21:26",
+   "evento": "Se interrumpe la circulación entre Busdongo y Pajares"
+  },
+  {
+   "hora": "21:27:07",
+   "evento": "El tren 665 queda detenido en p.k. 59+702 tras 197 m descarrilado"
+  },
+  {
+   "hora": "22:05",
+   "evento": "Se movilizan trenes taller de León y Lugo de Llanera"
+  },
+  {
+   "hora": "22:20",
+   "evento": "Adif comunica el suceso a la CIAF por teléfono"
+  },
+  {
+   "hora": "22:48",
+   "evento": "Adif corrobora la comunicación a la CIAF por SMS"
+  },
+  {
+   "hora": "23:17",
+   "evento": "Sale de Pola de Lena el autopropulsado PL294 (463009) para transbordo de viajeros"
+  },
+  {
+   "hora": "00:15",
+   "evento": "El autopropulsado PL294 llega al punto de transbordo"
+  },
+  {
+   "hora": "00:07",
+   "evento": "Sale de Lugo de Llanera el tren taller LET22 (locomotora 333.337-4, 5 vagones)"
+  },
+  {
+   "hora": "00:55",
+   "evento": "Finaliza el transbordo de viajeros del tren 665 al PL294"
+  },
+  {
+   "hora": "03:01",
+   "evento": "Sale de León Clasificación el tren taller LET23 (locomotora 333.324-2, 7 vagones)"
+  },
+  {
+   "hora": "03:23",
+   "evento": "El tren taller LET22 llega a Pajares"
+  },
+  {
+   "hora": "04:21",
+   "evento": "El tren taller LET23 llega a Busdongo"
+  },
+  {
+   "hora": "06:00",
+   "evento": "Queda encarrilada la cabeza motriz 1 (cola)"
+  },
+  {
+   "hora": "07:46",
+   "evento": "Se estaciona la cabeza motriz 1 en vía 11 de Busdongo"
+  },
+  {
+   "hora": "08:23",
+   "evento": "Comienzan los trabajos de la grúa de carretera"
+  },
+  {
+   "hora": "11:00",
+   "evento": "Queda encarrilada la cabeza motriz 2 (cabeza)"
+  },
+  {
+   "hora": "12:35",
+   "evento": "Queda encarrilado el primer coche de viajeros"
+  },
+  {
+   "hora": "15:40",
+   "evento": "Queda encarrilada toda la composición (rama 130.043)"
+  },
+  {
+   "hora": "17:28",
+   "evento": "Sale de Busdongo el tren taller LET26 hacia León"
+  },
+  {
+   "hora": "19:10",
+   "evento": "Sale de Pajares el tren taller LET27 hacia Lugo de Llanera"
+  },
+  {
+   "hora": "21:13",
+   "evento": "Se restablece la circulación entre Busdongo y Pajares con LTV de 30 km/h (p.k. 58+950 a 59+720)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "665",
+   "tipo": "viajeros larga distancia (Alvia)",
+   "operador": "Renfe Viajeros",
+   "danos": "Todos los vehículos descarrilados con daños por rozamiento con el hastial del túnel. 13 vehículos (11 coches + 2 cabezas motrices), serie S-130, rama 130043, Talgo-Bombardier, 183 m, 343 t, 299 plazas."
+  },
+  {
+   "numero": "94212",
+   "tipo": "mercancías",
+   "operador": "Renfe Mercancías",
+   "danos": "Sin daños. Circuló 13 minutos antes en sentido contrario y provocó la rotura completa del carril ya fisurado."
+  },
+  {
+   "numero": "PL294 (463009)",
+   "tipo": "autopropulsado cercanías",
+   "operador": "Renfe Cercanías",
+   "danos": null
+  },
+  {
+   "numero": "4381",
+   "tipo": "viajeros",
+   "operador": "Renfe",
+   "danos": "Suprimido en Busdongo. 200 viajeros transbordados por carretera a Gijón."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 665 (matrícula 8907024)",
+   "implicacion": "Conducía el tren descarrilado. Activó el freno de emergencia al percatarse del descarrilamiento. Informó al puesto de mando de Oviedo. Prueba de alcoholemia y drogas negativa. Habilitado con título B, antigüedad desde 02/12/2005, reciclaje 09/02/2016, reconocimiento médico 28/09/2015. Jornada del día 30: 01:00 h (conducción efectiva 55 min)."
+  },
+  {
+   "rol": "Jefe de CTC de Oviedo (matrícula 9748468)",
+   "implicacion": "Estableció itinerario de paso directo por Busdongo y Pajares para el tren 665. Activó protocolos del plan de contingencias al recibir la notificación. Habilitación de responsable de circulación vigente hasta 05/03/2018, reciclaje 05/03/2015, reconocimiento 21/03/2016. Turno 14-22 h."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA, Bloqueo Automático de vía Única (B.A.U.), Control de Tráfico Centralizado (C.T.C.) desde Puesto de Mando de Oviedo. Señales en vía libre (verde) por itinerario de paso directo. Circuito de vía no detectó la rotura parcial del carril.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "85 km/h (tren tipo 200B); limitación permanente por curva a 70 km/h entre p.k. 59+095 y 60+130 (CVM)",
+  "ancho": "1668 mm (ibérico)",
+  "electrificacion": "Corriente continua 3,3 kV",
+  "estado_via": "Carril tipo UIC54 (54 kg/m) fabricado por Arcelor Mittal en abril 2003, instalado el 18/12/2003. Traviesas de madera 1ª categoría, sujeciones elásticas SKL-12, sin junta sobre traviesa de madera en túnel. Última renovación de vía: 1988. Presencia de corrosión por humedad del túnel y fatiga por tráfico pesado. Fisura longitudinal antigua de 167 cm entre cabeza y alma (código UIC 236).",
+  "otro": "Túnel nº 15 'Canto del Estillero', 241 m de longitud. Curva circular a derecha de radio 312 m. Pendiente 18,3 milésimas. Enclavamiento electrónico ALSTOM en Busdongo y Pajares (mando centralizado desde CTC Oviedo). Radiotelefonía modalidad A (tren-tierra), tipo A-2. Media semanal: 252 circulaciones (68 LD, 14 MD, 160 mercancías, 10 servicio)."
+ },
+ "material_rodante": {
+  "series": "S-130 (Talgo-Bombardier), rama 130043, tipo 200B",
+  "averia": "No se detectó avería en el material rodante. Parámetros de rodadura (espesor de pestaña, altura de pestaña, Qr) dentro de tolerancia. Equipos de seguridad (freno, ASFA, ERTMS, Ebicab) funcionaron correctamente. Registrador HASLER 2500 analizado. Se descarta que el tren 665 o sus componentes fueran causa del descarrilamiento.",
+  "mantenimiento": "Rama dentro de ciclos de mantenimiento. Últimas intervenciones: IS 30/09/2016, IB 09/07/2016, IM1 10/04/2016, IM2 26/08/2016, IM3 28/02/2014, IM4 25/07/2012, IM5 21/11/2015. Mantenimiento realizado por Talgo. IM2 del 22/08/2016 comprobó parámetros de rodadura sin valores fuera de tolerancia."
+ },
+ "clima": "Noche, llovía ligeramente. El descarrilamiento tuvo lugar dentro de un túnel.",
+ "causas": {
+  "directa": "Fallo de la infraestructura: rotura del carril izquierdo (hilo alto) por defecto de fabricación del carril, que originó una fisura longitudinal entre la cabeza y el alma (código 236 catálogo UIC, 167 cm), progresada hasta la rotura completa al paso del tren de mercancías 94212.",
+  "contribuyentes": [
+   "Corrosión por condiciones de humedad dentro del túnel nº 15",
+   "Tráfico pesado de mercancías por la línea (160 circulaciones semanales de mercancías)",
+   "Fenómenos de fatiga en el carril por la combinación de corrosión y tráfico pesado",
+   "La rotura no seccionó el patín ni la parte inferior del alma, por lo que el circuito de vía no detectó la ocupación y las señales no cambiaron a aspecto de peligro",
+   "Dificultad de detección visual de la fisura (horizontal, entre cabeza y alma, en zona oscura del túnel)"
+  ],
+  "sistemicas": [
+   "Ineficacia de la auscultación ultrasónica de vía conforme al procedimiento SGSC-PO-24.00.09 (junio 2015), que no detectó la anomalía interna del carril presente desde al menos 11 meses antes",
+   "Las vigilancias a pie (SGSC-PO-24.00.08) no detectaron anomalías relevantes; solo se registraron goteras en túneles",
+   "Discrepancias entre los procedimientos operativos SGSC-PO-24.00.08 y SGSC-PO-24.00.09 y las normas NAV 7-4-0.1 y 7-4-1.1 en cuanto a periodicidades y criterios de tráfico/velocidad"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Todos los vehículos de la composición descarrilados con daños por rozamiento con el hastial del túnel. En infraestructura: 270 traviesas dañadas y 180 metros de carril sustituidos.",
+  "afectacion_servicio": "Interrupción total de la circulación entre Busdongo y Pajares durante 23 horas y 47 minutos (21:26 del 30/09 al 21:13 del 01/10). 12 trenes afectados (el 665 y 11 suprimidos: 10 viajeros + 1 mercancías). 200 viajeros del tren 4381 transbordados por carretera. Restablecimiento con LTV de 30 km/h entre p.k. 58+950 y 59+720."
+ },
+ "lecciones": [
+  "La auscultación ultrasónica realizada conforme al procedimiento SGSC-PO-24.00.09 resultó ineficaz al no detectar una fisura interna de 167 cm presente desde al menos 11 meses antes",
+  "Las vigilancias a pie y en cabina no detectaron anomalías; la fisura horizontal entre cabeza y alma en zona oscura de túnel es de muy difícil detección visual",
+  "La rotura parcial del carril (sin sección del patín) mantiene la continuidad eléctrica del circuito de vía y no provoca cambio de aspecto de señales, eliminando una barrera de seguridad",
+  "Existen discrepancias entre los procedimientos operativos del SGS de Adif y las normas NAV en periodicidades y criterios de tráfico/velocidad",
+  "Las fichas de vigilancia a pie solo recogían goteras, sin reflejar problemas de corrosión y fatiga del carril en un tramo con tráfico pesado en túnel"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adoptar las medidas necesarias a nivel procedimental, técnico y de equipos tanto humanos como materiales, con el objeto de conocer, al realizar las auscultaciones ultrasónicas de carril, incluyendo los aparatos de vía, el estado interno de los mismos y detectar de manera eficaz los defectos que puedan desembocar en una rotura posterior del carril.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif (43/16-1)"
+  },
+  {
+   "texto": "Adecuar el contenido de los procedimientos operativos SGSC-PO-24.00.08 'Vigilancia del estado de la infraestructura y la vía' y SGSC-PO-24.00.09 'Auscultación de vía en red convencional' y de las normas NAV N.A.V. 7-4-0.1 'Inspección de vía. Criterios de vigilancia de la vía' y la N.A.V. 7-4-1.1 'Inspección de vía. Operaciones de vigilancia en los recorridos a pie', de manera que no se produzcan discrepancias entre unos y otras.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Adif (43/16-2)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rotura de carril",
+  "defecto de fabricación",
+  "fatiga",
+  "corrosión",
+  "túnel",
+  "auscultación ultrasónica",
+  "circuito de vía",
+  "alvia",
+  "talgo s-130",
+  "adif",
+  "sgs",
+  "línea 130",
+  "busdongo-pajares"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 30.09.2016 180525-160930-IF-CIAF"
+}

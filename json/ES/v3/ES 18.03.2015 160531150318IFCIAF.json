@@ -1,0 +1,194 @@
+{
+ "titulo_normalizado": "Deriva incontrolada de locomotora de maniobras desde la estación de Aboño hasta descarrilamiento en la topera de Veriña (Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 18 de marzo de 2015, la locomotora diésel-eléctrica U19B05 de la UTE APG Rail inició una deriva incontrolada desde la vía 13 de la estación de Aboño (Asturias), tras ser puesta en marcha por el responsable de circulación del turno de tarde, quien abandonó la cabina sin asegurar la inmovilización. La locomotora recorrió aproximadamente 1.200 metros a una velocidad media de 22 km/h, rebasó tres señales en indicación de parada y arrolló la topera de la vía mango (prolongación de la vía 7) de la estación de Veriña de Adif, descarrilando sus dos bogies. No se produjeron víctimas, aunque sí daños materiales en la locomotora y la infraestructura. La causa directa fue el fallo humano del operador, con causas coadyuvantes en el dispositivo hombre muerto inutilizado y el freno de estacionamiento defectuoso.",
+ "hechos": "Los hechos tuvieron lugar el 18 de marzo de 2015 en la estación de Aboño, dependencia de la Autoridad Portuaria de Gijón (Asturias), en la línea 150 Aboño-Serín. La locomotora U19B05, propiedad de la UTE APG Rail (Continental Rail y Logirail), se encontraba estacionada en la vía 13 y debía desplazarse a la vía 15 para maniobrar con dos vagones. Sobre las 15:30 horas, el responsable de circulación del turno de tarde, actuando como operador de vehículos de maniobras, inició el proceso de puesta en marcha de la locomotora para dar presión a los depósitos de aire (proceso que requiere unos cinco minutos). Estando en cabina, llegó el auxiliar de circulación L2 y le preguntó por la identificación de los vagones a mover. El responsable decidió abandonar la locomotora y ambos se dirigieron al gabinete de circulación. Según su declaración, al levantarse del asiento pudo accionar involuntariamente la palanca de tracción (acelerador) al golpearla con el muslo, dado el reducido espacio del pupitre. No verificó que el freno de estacionamiento estuviera aplicado, que el inversor estuviera en neutro ni que la palanca de aceleración estuviera sin tracción. Al salir del gabinete, observaron que la locomotora se desplazaba por la vía 13 en dirección a Veriña sin personal en cabina. El responsable intentó alcanzarla corriendo pero se cayó. Se puso en comunicación con el puesto de mando de Adif en Oviedo (CTC), que le informó de que la vía general de Veriña estaba protegida con itinerarios hechos hacia la topera de la vía mango.\n\nLa locomotora continuó la marcha sin control, rebasando las señales 7SA (15:53:51, PK 0+943), 5S (15:54:48, PK 0+590) y 1S/7 (15:56:06, PK 0+163), todas en indicación de parada. A las 15:56:27 horas arrolló la topera de la vía mango (prolongación de la vía 7) de la estación de Veriña, descarrilando de sus dos bogies tras recorrer unos 1.200 metros a una velocidad media estimada de 22 km/h. No se produjeron víctimas mortales ni heridos. Se causaron daños materiales en la locomotora (pasamanos, escalerilla, areneros, cilindro de freno, portazapatas, timonería, cristal de cabina) y en la infraestructura (traviesas, carriles y topera M1). La vía Aboño-Veriña quedó fuera de servicio 30 minutos. No fue necesaria la activación del plan de emergencia externo.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Aboño (origen de la deriva) / Veriña (punto de descarrilamiento)",
+  "pk": "PK 0+943 (señal 7SA), PK 0+590 (señal 5S), PK 0+163 (señal 1S/7); topera M1 estación de Veriña",
+  "linea": "150 Aboño - Serín",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Estación de Aboño, dependencia de la Autoridad Portuaria de Gijón, con doce vías. El punto de conexión física con Adif está a 25 metros de la señal E1 en dirección Aboño. La deriva terminó en la estación de Veriña (Adif), en la topera de la vía mango, prolongación de la vía 7."
+ },
+ "cronologia": [
+  {
+   "hora": "15:00",
+   "evento": "Inicio del turno de tarde: entra el responsable de circulación y dos agentes (L1 y L2)"
+  },
+  {
+   "hora": "15:30",
+   "evento": "El responsable de circulación del turno de tarde inicia la puesta en marcha de la locomotora U19B05 en vía 13"
+  },
+  {
+   "hora": "15:52:00",
+   "evento": "El responsable de circulación abandona la locomotora; se observa que la máquina se desplaza sin personal"
+  },
+  {
+   "hora": "15:52:13",
+   "evento": "Notificación del escape al puesto de mando de Adif en Oviedo (CTC)"
+  },
+  {
+   "hora": "15:52:30",
+   "evento": "La locomotora se encuentra en el circuito anterior a la señal 7S/A, señal en indicación de parada"
+  },
+  {
+   "hora": "15:53",
+   "evento": "Inicio de la deriva incontrolada de la locomotora desde la vía 13 de Aboño"
+  },
+  {
+   "hora": "15:53:51",
+   "evento": "Rebase de la señal 7SA (PK 0+943), señal de salida de Aboño, en indicación de parada"
+  },
+  {
+   "hora": "15:54:48",
+   "evento": "Rebase de la señal 5S (PK 0+590), en indicación de parada"
+  },
+  {
+   "hora": "15:56:06",
+   "evento": "Rebase de la señal 1S/7 (PK 0+163), en indicación de parada"
+  },
+  {
+   "hora": "15:56:27",
+   "evento": "Arrolla la topera de la vía mango (prolongación de vía 7) de la estación de Veriña y descarrila de sus dos bogies"
+  },
+  {
+   "hora": "16:15",
+   "evento": "Hora registrada como dato del suceso en el informe"
+  },
+  {
+   "hora": "17:27",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "2015-03-24",
+   "evento": "El Presidente de la CIAF decide abrir la investigación"
+  },
+  {
+   "hora": "2015-05-26",
+   "evento": "Verificaciones de funcionamiento de los equipos de seguridad de la locomotora en Aboño"
+  },
+  {
+   "hora": "2015-05-28",
+   "evento": "Reciclaje formativo del operador de vehículos de maniobras"
+  },
+  {
+   "hora": "2016-05-31",
+   "evento": "Fecha del informe final de la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "U19B05",
+   "tipo": "Locomotora diésel-eléctrica U10 General Electric (modelo de 1962)",
+   "operador": "UTE APG Rail (Continental Rail y Logirail)",
+   "danos": "Daños en pasamanos, escalerilla de acceso, areneros, cilindro de freno, portazapatas, timonería y cristal de cabina; descarrilamiento de ambos bogies"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de circulación del turno de tarde / operador de vehículos de maniobras (UTE APG Rail)",
+   "implicacion": "Puso en marcha la locomotora U19B05 y abandonó la cabina sin asegurar su inmovilización. No disponía de autorización en vigor de la APG ni habilitación Adif como responsable de circulación, aunque sí título de operador de vehículos de maniobras de Renfe (vigente 07/03/2013 a 07/03/2016). Incumplió el artículo 607 apartado 3 del RGC y el Manual de Operación de la locomotora. Se le suspendió la habilitación tras el suceso."
+  },
+  {
+   "rol": "Auxiliar de circulación L2 (UTE APG Rail)",
+   "implicacion": "Realizaba prueba de freno de un tren de Renfe. Preguntó al responsable de circulación por los vagones a mover, lo que provocó que este abandonara la locomotora. Presenció el inicio de la deriva."
+  },
+  {
+   "rol": "Auxiliar de circulación L1 (UTE APG Rail)",
+   "implicacion": "Se encontraba en el cargadero de carbón atendiendo un tren de Comsa. Desconoce lo sucedido. Posteriormente cogió una furgoneta con L2 para seguir la locomotora."
+  },
+  {
+   "rol": "Responsable de circulación del turno de mañana LR (UTE APG Rail)",
+   "implicacion": "Informó al turno de tarde de las locomotoras a atender (Comsa y Renfe). Autorizó al operador a arrancar la U19B05 para pasar de vía 13 a vía 15."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales 7SA, 5S y 1S/7 en indicación de parada durante toda la deriva. Señal de maniobras abierta para cambio de vía 13 a vía 15. Punto de conexión física Adif a 25 m de la señal E1 en dirección Aboño. Señal S1 como punto de conexión funcional en sentido Aboño-Veriña.",
+  "tipo_via": "Vía 13 de Aboño (estación portuaria) hasta vía I general de Veriña, desvíos 18 y 7A, vía mango (prolongación de vía 7) con topera M1",
+  "velocidad_maxima": null,
+  "ancho": "Ibérico (1668 mm)",
+  "electrificacion": null,
+  "estado_via": "No existían obras en las inmediaciones. Las instalaciones técnicas funcionaron correctamente.",
+  "otro": "Circulación en ambos sentidos con bloqueo automático de vía única (BAU) y control de tráfico centralizado (CTC) desde Oviedo. No existe ningún dispositivo en la infraestructura que evite el acceso no autorizado desde las instalaciones de Aboño a la red ferroviaria de Adif. Expedición de circulaciones Aboño-Veriña mediante acuerdo verbal y señal S1."
+ },
+ "material_rodante": {
+  "series": "U10 General Electric (locomotora diésel-eléctrica, modelo de 1962), número U19B05",
+  "averia": "Dispositivo hombre muerto inutilizado (sin precinto, de efecto simple/continuamente pisado). Freno de estacionamiento defectuoso: tirante roto y le faltaba una zapata, no inmovilizaba el vehículo. La locomotora no dispone de registrador de seguridad. No está dada de alta en el fichero patrón de Adif. No dispone de número UIC.",
+  "mantenimiento": "Plan de mantenimiento por tiempo: CN (control de niveles) mensual e IM1 (revisión general) cada 270 días. Últimas IM1 conocidas por APG: 17.03.2011, 12.07.2012, 04.02.2013. IM1 en Renfe-Integria (talleres de Lugo de Llanera): 19.03.2014. Se considera que el plan no se cumplió adecuadamente, con intervenciones IM1 en periodos superiores a los 9 meses. Mantenimiento correctivo: 08.01.2011 (batería), 03.02.2011 (magneto térmico), 22.02.2011 (arranque motor diésel), 15.10.2012 (regulador carga batería), 30.08.2013 (fuga TFA), 20.09.2013 (compresor principal)."
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso.",
+ "causas": {
+  "directa": "Fallo humano del operador de vehículos de maniobras (responsable de circulación del turno de tarde) que puso en marcha la locomotora y abandonó la cabina de conducción sin tomar las medidas de seguridad necesarias para evitar el movimiento incontrolado, incumpliendo el artículo 607 apartado 3 del RGC y el Manual de Operación de la locomotora.",
+  "contribuyentes": [
+   "El dispositivo hombre muerto se encontraba inutilizado (sin precinto)",
+   "El freno de estacionamiento no inmovilizaba el vehículo (tirante roto y falta de zapata)",
+   "El inversor no estaba en posición neutro y la palanca de aceleración tenía algún punto de tracción al abandonar la cabina",
+   "Posible accionamiento involuntario de la palanca de tracción al levantarse del asiento (espacio reducido del pupitre)",
+   "El responsable de circulación no disponía de autorización en vigor de la Autoridad Portuaria de Gijón ni habilitación Adif conforme a la Orden FOM/2872/2010"
+  ],
+  "sistemicas": [
+   "La Autoridad Portuaria de Gijón no disponía del Sistema de Gestión de la Seguridad (SGS) exigido por la disposición adicional tercera del RD 810/2007",
+   "El plan de mantenimiento de la locomotora no se cumplió adecuadamente, superándose los plazos de 270 días entre revisiones IM1",
+   "No existía ningún dispositivo en la infraestructura que impidiera el acceso no autorizado de material rodante a la deriva desde las instalaciones portuarias de Aboño a la red ferroviaria de Adif",
+   "Ausencia de medidas para impedir que movimientos no controlados procedentes del Puerto de Gijón llegaran al punto de conexión con Adif"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en pasamanos, escalerilla de acceso, areneros, cilindro de freno, portazapatas, timonería y cristal de cabina de la locomotora U19B05. Infraestructura: daños en traviesas, carriles y en la topera de la vía de escape M1 de la estación de Veriña.",
+  "afectacion_servicio": "La vía que conecta la estación de Aboño con la de Veriña quedó fuera de servicio 30 minutos. No fue necesaria la activación del plan de emergencia externo. Se solicitó tren taller para encarrilar la locomotora."
+ },
+ "lecciones": [
+  "Todo trabajador a cargo del manejo de locomotoras de maniobras debe permanecer en cabina mientras la locomotora esté en marcha y no abandonarla sin asegurar su inmovilización con frenos de servicio y estacionamiento apretados y mandos enclavados.",
+  "El cumplimiento de los planes de mantenimiento es crítico para garantizar el correcto funcionamiento de los dispositivos de seguridad como el hombre muerto y el freno de estacionamiento.",
+  "La conexión entre instalaciones portuarias y la red ferroviaria de interés general requiere dispositivos de protección frente a movimientos no controlados.",
+  "Las autorizaciones y habilitaciones del personal ferroviario deben estar en vigor y ser verificadas antes de asumir funciones de seguridad."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Que la AESF requiera a la APG que elabore un Sistema de Gestión de la Seguridad, según se establece en la disposición adicional tercera del RD 810/2007 por el que se aprueba el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Autoridad Portuaria de Gijón (APG)"
+  },
+  {
+   "texto": "Analizar la viabilidad de implantar medidas que impidan que movimientos no controlados de material rodante (deriva) procedentes del Puerto de Gijón lleguen al punto de conexión física de éste con las instalaciones de Adif.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Autoridad Portuaria de Gijón (APG)"
+  },
+  {
+   "texto": "Controlar el cumplimiento del plan de mantenimiento del material rodante que circule por sus instalaciones.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Autoridad Portuaria de Gijón (APG)"
+  },
+  {
+   "texto": "Habilitar conforme al Convenio Adif-APG a los responsables de circulación que actúan en la conexión del puerto con la RFIG administrada por Adif.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: Autoridad Portuaria de Gijón (APG)"
+  },
+  {
+   "texto": "Asegurar el cumplimiento de los ciclos de las intervenciones de mantenimiento del material móvil de su propiedad.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: UTE APG Rail"
+  },
+  {
+   "texto": "Verificar periódicamente por personal responsable de las empresas de la UTE APG Rail la no anulación del dispositivo Hombre Muerto en el material móvil de su propiedad.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador final: UTE APG Rail"
+  }
+ ],
+ "tags": [
+  "deriva incontrolada",
+  "locomotora de maniobras",
+  "fallo humano",
+  "hombre muerto",
+  "freno de estacionamiento",
+  "Aboño",
+  "Veriña",
+  "puerto de Gijón",
+  "UTE APG Rail",
+  "descarrilamiento",
+  "topera",
+  "sistema de gestión de seguridad",
+  "mantenimiento",
+  "conexión portuaria RFIG"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 18.03.2015 160531150318IFCIAF"
+}

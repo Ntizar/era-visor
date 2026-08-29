@@ -1,0 +1,140 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren entre Neda y Ferrol en el puente Ponte do Couto",
+ "idioma_original": "es",
+ "resumen": "El 2007-07-08, el tren de Media Distancia 2684 de Renfe arrolló a una persona en el punto kilométrico 37/600 de la línea Betanzos-Infesta a Ferrol, entre Neda y Ferrol, en el puente Ponte do Couto. La víctima falleció y el tren quedó detenido en el PK 37/890; no se produjeron daños materiales. La investigación calificó el accidente como grave y atribuyó el origen a la imprudencia de la víctima por hallarse en zona no autorizada e invadir el gálibo. La incidencia duró 132 minutos y generó retrasos en los trenes afectados.",
+ "hechos": "El tren de viajeros de Media Distancia 2684 de Renfe, con vehículo automotor 592208, procedente de A Coruña S.C. y destino Ferrol, arrolló a una persona en el PK 37/600 de la línea Betanzos-Infesta a Ferrol, entre Neda y Ferrol, sobre el puente Ponte do Couto. Como consecuencia, el tren detuvo su marcha en el PK 37/890 y el cadáver quedó desplazado fuera del gálibo de la vía.\n\nSegún el parte del maquinista, observó a un hombre sobre el carril izquierdo en el sentido de la marcha, pescando sobre la ría; hizo uso del silbato y del freno de emergencia, pero el hombre no se percató hasta el último momento, dejó las cañas en el margen izquierdo e intentó evitar el arrollamiento por el margen derecho sin conseguirlo. La velocidad en el momento del accionamiento del freno de emergencia era de 72 km/h, con velocidad máxima de 80 km/h.\n\nTras la detención, el maquinista informó al Puesto de mando de Orense y custodió el cadáver hasta la llegada de la Policía Nacional y los servicios sanitarios. Se realizaron avisos a los servicios de seguridad y emergencia, y una prueba de alcoholemia al maquinista resultó negativa (0,00 mg/1000 ml).",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "37/600",
+  "linea": "Betanzos – Infesta a Ferrol",
+  "provincia": "A Coruña",
+  "descripcion_lugar": "Plena vía, sobre un puente denominado Ponte do Couto (A Ponte do Couto), entre las estaciones de Neda y Ferrol, sobre la ría de Ferrol, en tramo en curva. A pocos metros del comienzo del puente, por el lado de Narón, existe una senda que permite el acceso a las vías; junto a la vía hay una pasarela peatonal separada por una valla metálica abierta en varios puntos. La visibilidad desde el punto del arrollamiento al lugar de aproximación del tren era de 400 metros."
+ },
+ "cronologia": [
+  {
+   "hora": "15:53",
+   "evento": "Se produce el arrollamiento de una persona por el tren 2684 en el PK 37/600 de la línea Betanzos-Infesta a Ferrol."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 2684 detiene su marcha en el PK 37/890; el maquinista informa al Puesto de mando de Orense y custodia el cadáver hasta la llegada de las autoridades."
+  },
+  {
+   "hora": null,
+   "evento": "Se cursan avisos a Seguridad Corporativa y Protección Civil de ADIF, Gerencias Territoriales de Seguridad en la Circulación, operadores afectados, Jefatura Técnica de Operaciones y servicios de emergencia."
+  },
+  {
+   "hora": null,
+   "evento": "Se realiza al maquinista una prueba de alcoholemia en Ferrol con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "16:35",
+   "evento": "Se presentan la Policía Nacional y los servicios sanitarios, quedan a cargo del cadáver y el tren reanuda la marcha 7 minutos después."
+  },
+  {
+   "hora": "18:05",
+   "evento": "Se procede al levantamiento del cadáver y la vía queda libre para la circulación en condiciones normales; finaliza la incidencia."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "2684",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales; retraso de 47 minutos."
+  },
+  {
+   "numero": "2642",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": "No se mencionan daños materiales; afectado por los 51 minutos de retraso acumulado en los trenes 2642, 2685, 2686 y 32643."
+  },
+  {
+   "numero": "2685",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": "No se mencionan daños materiales; afectado por los 51 minutos de retraso acumulado en los trenes 2642, 2685, 2686 y 32643."
+  },
+  {
+   "numero": "2686",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": "No se mencionan daños materiales; afectado por los 51 minutos de retraso acumulado en los trenes 2642, 2685, 2686 y 32643."
+  },
+  {
+   "numero": "32643",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": "No se mencionan daños materiales; afectado por los 51 minutos de retraso acumulado en los trenes 2642, 2685, 2686 y 32643."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Matrícula 8.849.895. Jornada efectiva previa el día de la incidencia: 1 hora y 15 minutos; 24 horas anteriores: 5 horas y 19 minutos; 48 horas anteriores: 5 horas y 16 minutos. Observó a la víctima, accionó silbato y freno de emergencia; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "víctima",
+   "implicacion": "Persona fallecida que se encontraba pescando sobre el carril izquierdo en el sentido de la marcha, en zona no autorizada, invadiendo el gálibo de la vía; intentó evitar el arrollamiento por el margen derecho sin conseguirlo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de vía única con C.T.C.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo en curva sobre puente; valla metálica abierta en varios puntos; senda que permite acceso a las vías a pocos metros del puente.",
+  "otro": "Visibilidad de la vía desde el punto del arrollamiento al lugar de aproximación del tren: 400 metros. Pasarela peatonal separada por valla metálica."
+ },
+ "material_rodante": {
+  "series": "Automotor 592208",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "De día, con buenas condiciones meteorológicas.",
+ "causas": {
+  "directa": "Imprudencia de la víctima por encontrarse en una zona no autorizada e invadir el gálibo de la vía.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Incidencia de 132 minutos desde las 15:53 hasta las 18:05. Retraso de 47 minutos al tren 2684 y 51 minutos de retraso acumulado en los trenes 2642, 2685, 2686 y 32643. La vía quedó libre para circulación normal a las 18:05."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Revisar el cerramiento existente en la zona y sus proximidades.",
+   "destinatario": null
+  },
+  {
+   "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "destinatario": null
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+   "destinatario": "ciudadanía"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "media distancia",
+  "renfe",
+  "adif",
+  "ponte do couto",
+  "betanzos-infesta a ferrol",
+  "neda",
+  "ferrol",
+  "a coruña",
+  "imprudencia",
+  "cerramiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_080707_191007_Betanzos–Infesta a Ferrol,"
+}

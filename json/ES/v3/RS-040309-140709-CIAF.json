@@ -1,0 +1,76 @@
+{
+ "titulo_normalizado": "Accidente ferroviario en el apeadero de Platja de Castelldefels",
+ "idioma_original": "es",
+ "resumen": "El documento es la resolución de la CIAF sobre el accidente ferroviario nº 0015/2009, ocurrido el 2009-03-04 en el apeadero de Platja de Castelldefels. La línea implicada es la 200 Madrid Chamartín - Barcelona Sants. El Pleno del 2009-07-14 aprobó como definitivo el informe particular del técnico investigador. No se establecieron recomendaciones porque ya existía un paso elevado entre andenes y carteles de advertencia sobre el peligro de cruzar las vías. Además, se indicaba que se estaba construyendo un paso inferior próximo al edificio de viajeros.",
+ "hechos": "El texto identifica un accidente ferroviario acaecido el 2009-03-04 en el apeadero de Platja de Castelldefels, perteneciente a la línea 200 Madrid Chamartín - Barcelona Sants. La resolución no describe la secuencia del suceso, el tren o las personas implicadas, ni la mecánica del accidente. Se limita a aprobar el informe particular del técnico investigador y a explicar la ausencia de recomendaciones por las condiciones de infraestructura y señalización del entorno.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Platja de Castelldefels",
+  "pk": null,
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "provincia": null,
+  "descripcion_lugar": "Apeadero de Platja de Castelldefels"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-03-04: Accidente ferroviario en el apeadero de Platja de Castelldefels."
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: El Pleno de la CIAF aprueba como definitivo el informe particular del técnico investigador."
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": "Carteles que advierten del peligro de cruzar las vías.",
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso elevado que comunica los andenes; paso inferior próximo al edificio de viajeros en construcción."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "No se establecen recomendaciones, dada la existencia de un paso elevado que comunica los andenes y de carteles que advierten del peligro de cruzar las vías. Además, se está construyendo un paso inferior próximo al edificio de viajeros.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "apeadero",
+  "platja de castelldefels",
+  "linea 200",
+  "madrid chamartin",
+  "barcelona sants",
+  "ciaf",
+  "resolucion",
+  "paso elevado",
+  "carteles",
+  "paso inferior",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-040309-140709-CIAF"
+}

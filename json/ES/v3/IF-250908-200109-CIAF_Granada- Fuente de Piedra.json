@@ -1,0 +1,111 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren en P.K. 14,250 de la línea 426 Granada-Fuente de Piedra, Málaga",
+ "idioma_original": "es",
+ "resumen": "El 2008-09-25, a las 13:21, el tren Complementario vacío de Media Distancia GR376, de Renfe Operadora, arrolló a una mujer de 70 años en plena vía en el P.K. 14,250 de la línea 426 Granada-Fuente de Piedra, provincia de Málaga. La víctima, que según vecinos de la zona padecía problemas de audición, cruzaba la vía por un lugar no autorizado y falleció en el acto. El maquinista usó el silbato y aplicó el freno de emergencia sin poder evitar el impacto; el tren circulaba a 105 km/h, por debajo de los 155 km/h permitidos. No hubo daños materiales en el material ni en la vía, pero 3 trenes sufrieron un retraso total de 50 minutos. Se recomienda a la autoridad competente instalar señales fijas que adviertan del peligro de cruzar las vías y de la existencia de un paso superior a 200 metros.",
+ "hechos": "El 2008-09-25, a las 13:21, el tren Complementario vacío de Media Distancia GR376 de Renfe Operadora, compuesto por el vehículo automotor 592.042 y 3 coches, con 133 Tn de masa remolcada, circulaba por el trayecto Antequera - Bif. Las Maravillas, en la línea 426 Granada-Fuente de Piedra, perteneciente a la Red Ferroviaria de Interés General del Estado. En el P.K. 14,250, en plena vía, arrolló a una mujer de 70 años que cruzaba por un lugar no autorizado. La víctima, según vecinos de la zona, tenía problemas de audición y no se percató de la presencia del tren; falleció en el acto y su cadáver quedó desplazado unos 2 metros de la caja de la vía, en el lado derecho del sentido de la marcha.\n\nEl maquinista principal hizo uso del silbato repetidas veces y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La memoria estática del automotor indica que, al aplicar el freno de emergencia, el tren circulaba a 105 km/h, velocidad inferior a la máxima permitida de 155 km/h. El material rodante y las instalaciones técnicas funcionaron correctamente, y no se produjeron daños en el tren ni en la vía.\n\nEl maquinista comunicó el suceso al Puesto de Mando de la estación de Córdoba, desde donde se cursaron avisos al Servicio de Emergencia de la Comunidad Andaluza (112), Seguridad Corporativa y Protección Civil de Adif, Gerencias Territoriales de Seguridad en la Circulación Sur de Adif y Renfe Operadora, Jefatura Técnica de Operaciones de Málaga y operador afectado. A las 13:35 se personó la Policía Nacional y quedó custodiado el cadáver. A las 13:53 se autorizó el retroceso del tren a la estación de Antequera, donde quedó apartado a las 14:00; a esa hora se reanudó la circulación con marcha a la vista entre los P.K. 14,100 y 14,400. A las 18:15 se levantó el cadáver y se reanudó la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "14,250",
+  "linea": "426 Granada-Fuente de Piedra",
+  "provincia": "Málaga",
+  "descripcion_lugar": "P.K. 14,250 en plena vía, trayecto Antequera - Bif. Las Maravillas, línea 426 Granada-Fuente de Piedra, Red Ferroviaria de Interés General del Estado. El informe oficial sitúa el accidente en P.K. 14,250, mientras la declaración del maquinista menciona el kilómetro 14,150. A ambos lados de la vía hay fincas rústicas y en una de ellas residía la víctima. A 200 metros del punto del accidente hay un paso superior que posibilita el cruce del ferrocarril con la autovía A-343."
+ },
+ "cronologia": [
+  {
+   "hora": "13:21",
+   "evento": "El tren GR376 arrolla a una mujer que cruzaba la vía por lugar no autorizado en el P.K. 14,250; la víctima fallece en el acto."
+  },
+  {
+   "hora": "13:35",
+   "evento": "Se personan en el lugar la Policía Nacional y queda custodiado el cadáver."
+  },
+  {
+   "hora": "13:53",
+   "evento": "Se autoriza el retroceso del tren causante del accidente a la estación de Antequera."
+  },
+  {
+   "hora": "14:00",
+   "evento": "El tren queda apartado en la estación de Antequera y se reanuda la circulación con marcha a la vista entre los P.K. 14,100 y 14,400."
+  },
+  {
+   "hora": "14:22",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la CIAF, por telefonía móvil, el arrollamiento del tren GR376 entre Antequera y Bif. Las Maravillas."
+  },
+  {
+   "hora": "18:15",
+   "evento": "Se procede al levantamiento del cadáver y se reanuda la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "GR376",
+   "tipo": "Complementario vacío de Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren GR376",
+   "implicacion": "Matrícula 9694316. Habilitado conforme a la Orden Ministerial 2520, de 2006-07-27. Último reciclaje formativo: 2008-07-10. Último reconocimiento médico y psicotécnico: 2005-09-29. Prueba de alcoholemia en aire expirado: 0,00 mg/1000 ml. Hizo uso del silbato y aplicó el freno de emergencia; su actuación fue correcta. Jornada efectiva de conducción el día del accidente: 2 horas y 55 minutos; 24 horas anteriores: descanso/vacaciones; 48 horas anteriores: 5 horas y 50 minutos."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Mujer de 70 años, residente en una finca rústica cercana. Padecía problemas de audición, según vecinos de la zona. Cruzaba la vía por un lugar no autorizado y falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de Vía Única con CTC (BAU con CTC); radiotelefonía modalidad A.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "155 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Traviesas de hormigón en buen estado y alineación recta; no se producen daños en la vía.",
+  "otro": "Paso a nivel desmantelado convertido en paso vicioso de tránsito para lugareños; paso superior a 200 metros sobre la autovía A-343; fincas rústicas a ambos lados de la vía. Media semanal de circulaciones del tramo Antequera - Bif. Las Maravillas: 133, considerada baja; 28 de larga distancia, 99 de media distancia, 0 de cercanías, 4 de mercancías y 2 de servicio."
+ },
+ "material_rodante": {
+  "series": "592.042",
+  "averia": "No se producen daños en el material.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "El tránsito de la víctima por un lugar no autorizado para cruzar la vía, en el momento en que pasaba el tren.",
+  "contribuyentes": [
+   "La víctima padecía problemas de audición y no se percató de las señales acústicas usadas por el maquinista.",
+   "En el lugar del accidente existió un paso a nivel que, una vez desmantelado, se había convertido en paso vicioso de tránsito para lugareños."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material ni en la vía.",
+  "afectacion_servicio": "3 trenes afectados con un retraso total de 50 minutos; retroceso y apartado del tren GR376 en Antequera; circulación en marcha a la vista entre P.K. 14,100 y 14,400 desde las 14:00 hasta las 18:15, cuando se reanuda en condiciones normales; no se adoptaron medidas específicas de protección."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda, a la autoridad competente, la instalación de señales fijas que adviertan del peligro de cruzar las vías y de la existencia de un paso superior a 200 metros.",
+   "destinatario": "Autoridad competente"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "plena vía",
+  "paso vicioso",
+  "problemas de audición",
+  "línea 426",
+  "málaga",
+  "renfe operadora",
+  "adif",
+  "ciaf",
+  "señalización",
+  "paso superior"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-250908-200109-CIAF_Granada- Fuente de Piedra"
+}

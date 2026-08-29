@@ -1,0 +1,110 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías 50284 en paso a nivel clase C entre Monforte de Lemos y Canabal (Lugo)",
+ "idioma_original": "es",
+ "resumen": "El 8 de octubre de 2009 a las 18:30, el tren de mercancías 50284 de Renfe Operadora arrolló a un hombre de 83 años que cruzaba por uno de los pasos peatonales del paso a nivel tipo C situado en el P.K. 0+851 de la línea 810 Vigo–Monforte de Lemos, entre las estaciones de Canabal y Monforte de Lemos (Lugo). Las semibarreras estaban bajadas y las señales luminosas y acústicas indicaban la llegada del tren. La vía quedó interceptada 15 minutos y el tren sufrió un retraso de 10 minutos. No se produjeron daños materiales. La CIAF concluyó que el accidente tuvo su origen en la actuación imprudente de la víctima y no estableció recomendaciones.",
+ "hechos": "El día 8 de octubre de 2009, a las 18:30 horas, el tren de mercancías 50284 de Renfe Operadora, procedente de Vigo-Guixar con destino León Clasificación, se aproximaba al paso a nivel tipo C del P.K. 0+851 de la línea 810 Vigo–Monforte de Lemos, situado en la población de Monforte de Lemos (Lugo), entre las estaciones de Canabal y Monforte de Lemos. El paso a nivel, concatenado con otros dos en los P.K. 1+898 y 2+455, estaba dotado de semibarreras y señalización luminosa y acústica. A las 18:26:29 el tren pasó sobre la baliza direccional que inicia el aseguramiento de los pasos concatenados, y a las 18:26:43 los pasos quedaron asegurados con las semibarreras bajadas y las señales activas. El tiempo de cierre del paso a nivel fue de 3 minutos y 27 segundos.\n\nA las 18:30:04, cuando el tren ocupó el circuito de vía isla del paso a nivel lado Canabal, un hombre de 83 años cruzó imprudentemente por uno de los dos pasos peatonales del paso a nivel (el más cercano a la estación de Monforte de Lemos), de izquierda a derecha en sentido de la marcha del tren, sin mirar ni hacer caso a las señales acústicas y luminosas. El maquinista hizo uso del silbato de la locomotora y aplicó el freno de urgencia cuando el tren circulaba a 40 km/h. El arrollamiento se produjo sobre las 18:30:10, golpeando la persona con la parte lateral izquierda del estribo de la locomotora. El tren se detuvo en el P.K. 0+771, a unos 80 metros del paso a nivel.\n\nEl maquinista comunicó lo sucedido al puesto de mando de Orense, desde donde se cursó aviso al servicio de emergencias 061, al Centro Permanente de Seguridad de La Coruña, a Seguridad en la Circulación de Adif y Renfe, a Red Convencional, a Jefatura de Operaciones de Galicia y al operador afectado. La vía quedó interceptada desde las 18:30 hasta las 18:45. Tras la llegada de la policía local y el 061, se reanudó la marcha. No se produjeron daños en el material rodante ni en la infraestructura. El tren 50284 sufrió un retraso de 10 minutos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Canabal / Monforte de Lemos",
+  "pk": "0+851",
+  "linea": "810 Vigo – Monforte de Lemos",
+  "provincia": "Lugo",
+  "descripcion_lugar": "Paso a nivel clase C en la intersección con la carretera de A Gudiña a Lalín, en la población de Monforte de Lemos, entre las estaciones de Canabal y Monforte de Lemos. Vía única en curva (radio 1800 m a la izquierda en sentido de la marcha del tren). El paso a nivel tiene dos pasos peatonales; la víctima cruzaba por el más próximo a la estación de Monforte de Lemos. Visibilidad limitada."
+ },
+ "cronologia": [
+  {
+   "hora": "18:26:29",
+   "evento": "El tren 50284 pasa sobre la baliza direccional que da inicio al proceso de asegurar los pasos a nivel concatenados."
+  },
+  {
+   "hora": "18:26:43",
+   "evento": "Los pasos a nivel quedan asegurados: semibarreras bajadas y señales luminosas y acústicas activas."
+  },
+  {
+   "hora": "18:30:04",
+   "evento": "El tren ocupa el circuito de vía isla del paso a nivel lado Canabal. La víctima cruza por el paso peatonal más próximo a la estación de Monforte de Lemos."
+  },
+  {
+   "hora": "18:30:10",
+   "evento": "Arrollamiento de la víctima por la parte lateral izquierda del estribo de la locomotora. El tren circulaba a 40 km/h; el maquinista hizo uso del silbato y del freno de urgencia."
+  },
+  {
+   "hora": "18:30",
+   "evento": "El tren se detiene en el P.K. 0+771, a unos 80 metros del paso a nivel. La vía queda interceptada."
+  },
+  {
+   "hora": "18:35",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": "18:44",
+   "evento": "Se reanuda la marcha del tren tras la llegada de la policía local y el 061, previa petición a la policía local."
+  },
+  {
+   "hora": "18:45",
+   "evento": "Fin de la interceptación de la vía."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "50284",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista principal del tren 50284",
+   "implicacion": "Actuación correcta: hizo uso del silbato y del freno de urgencia. Título B de conducción conforme a Orden FOM/2520/2006. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Última reciclaje formativo: 24/04/2007. Último reconocimiento médico y psicotécnico: 16/11/2005. Jornada del día 8: 4h15min (3h45min de conducción)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase C automático con semibarreras, señalización luminosa y acústica. Concatenado con otros dos pasos a nivel en P.K. 1+898 y P.K. 2+455. Señal de avanzada en anuncio de precaución. Tiempo de cierre: 3 minutos y 27 segundos. Funcionamiento correcto según registro de eventos.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "150 km/h (trenes tipo N); 100 km/h (tren tipo 100 implicado)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "correcto; no se producen daños en la infraestructura",
+  "otro": "Bloqueo automático con control de tráfico centralizado (CTC) en estación de Orense. Tramo en curva, radio 1800 m a la izquierda. Pavimento del paso a nivel de goma vulcanizada tipo strail. Visibilidad limitada. Media semanal de circulaciones del tramo Orense–Monforte de Lemos: 163 (considerada baja): 37 larga distancia, 34 media distancia, 82 mercancías, 10 servicio. AxT: 170.563 (A=7.258, T=23,50)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 3333093 (Nº UIC: 957103333093), 14 vagones, 333 Tn de masa remolcada. Tipo 100 (velocidad máxima 100 km/h).",
+  "averia": null,
+  "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según registrador de seguridad."
+ },
+ "clima": "Tiempo despejado en el momento del arrollamiento.",
+ "causas": {
+  "directa": "Actuación imprudente de la víctima (hombre de 83 años) que cruza el paso a nivel por el paso peatonal estando las semibarreras bajadas y las señales luminosas y acústicas activas alertando de la llegada del tren, sin mirar ni hacer caso a la señalización.",
+  "contribuyentes": [
+   "Visibilidad limitada del paso a nivel.",
+   "La víctima cruzaba de izquierda a derecha en sentido de la marcha del tren, por el paso peatonal más próximo a la estación."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+  "afectacion_servicio": "Vía interceptada desde las 18:30 hasta las 18:45 (15 minutos). El tren 50284 sufrió un retraso de 10 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase C",
+  "peatón",
+  "tren de mercancías",
+  "Renfe Operadora",
+  "Monforte de Lemos",
+  "Lugo",
+  "imprudencia",
+  "semibarreras",
+  "señalización acústica",
+  "víctima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-081009-230210-CIAF"
+}

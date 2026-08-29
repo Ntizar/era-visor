@@ -1,0 +1,112 @@
+{
+ "titulo_normalizado": "Atropello de una menor por el tren 407 en el paso entre andenes de Las Navas del Marqués",
+ "idioma_original": "es",
+ "resumen": "El 2009-04-07, a las 20:04, el tren de larga distancia 407 de Renfe Operadora arrolló a una niña de 13 años que cruzaba por el paso entre andenes de la estación de Las Navas del Marqués (Ávila). El tren circulaba por la vía 1 a una velocidad inferior a la máxima permitida, y el maquinista usó el silbato y el freno de emergencia. La víctima fue trasladada con vida al hospital Nuestra Señora de Sonsoles de Ávila y falleció en la madrugada del día siguiente. La CIAF concluye que el origen del accidente fue el tránsito de la víctima por el paso entre andenes sin percatarse de que el tren 407 circulaba por la estación. No se establecen recomendaciones.",
+ "hechos": "El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros de larga distancia 407 de Renfe Operadora, procedente de Madrid Chamartín y con destino París, sin parada prescrita en Las Navas del Marqués, arrolló a una niña que cruzaba por el paso entre andenes de la estación. El tren circulaba por la vía 1 y la víctima cruzaba acompañada de otra persona, de izquierda a derecha en el sentido de la marcha.\n\nEl maquinista, al percatarse de la presencia de las dos personas, hizo uso del silbato y del freno de emergencia, sin lograr evitar el arrollamiento de una de ellas. En ese mismo momento, el tren de viajeros 18006 circulaba por la vía 2 de la estación.\n\nLa víctima fue trasladada con vida al hospital Nuestra Señora de Sonsoles de Ávila, donde falleció en la madrugada del día ocho. La vía 1 quedó interceptada desde las 20:06 hasta las 20:35 horas, y la circulación por ambas vías generales se interrumpió desde las 20:48 hasta las 21:07 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Las Navas del Marqués",
+  "pk": "83,700",
+  "linea": "100 Madrid - Hendaya",
+  "provincia": "Ávila",
+  "descripcion_lugar": "Paso entre andenes de placas de hormigón, en la estación de Las Navas del Marqués, tramo Santa María de la Alameda – Herradón Cañada."
+ },
+ "cronologia": [
+  {
+   "hora": "20:04",
+   "evento": "El tren de viajeros 407 arrolla a una niña que cruzaba por el paso entre andenes de la estación de Las Navas del Marqués."
+  },
+  {
+   "hora": "20:06",
+   "evento": "La vía 1 queda interceptada."
+  },
+  {
+   "hora": "20:35",
+   "evento": "Finaliza la interceptación de la vía 1."
+  },
+  {
+   "hora": "20:48",
+   "evento": "Se interrumpe la circulación por ambas vías generales para evacuar a la víctima."
+  },
+  {
+   "hora": "21:07",
+   "evento": "Se restablece la circulación por ambas vías generales."
+  },
+  {
+   "hora": null,
+   "evento": "En la madrugada del 2009-04-08, la víctima fallece en el hospital Nuestra Señora de Sonsoles de Ávila."
+  },
+  {
+   "hora": "10:42",
+   "evento": "El 2009-04-08, el coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "407",
+   "tipo": "tren de viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante"
+  },
+  {
+   "numero": "18006",
+   "tipo": "tren de viajeros",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 407",
+   "implicacion": "Matrícula 9753997; habilitado conforme a la Orden FOM/2520/2006; al observar a dos personas usó el silbato y el freno de emergencia; no se le realizó prueba de alcoholemia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.); carteles de peligro en el paso entre andenes",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "90 km/h para trenes tipo B al paso por la estación",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Estación en alineación recta, completamente iluminada, con buena visibilidad; paso entre andenes de placas de hormigón en buen estado",
+  "otro": "Radiotelefonía modalidad A; en julio Adif adjudicó obras de un paso inferior peatonal dentro de la renovación integral del tramo El Escorial – La Cañada; media semanal de circulaciones del tramo: 539"
+ },
+ "material_rodante": {
+  "series": "Locomotora 252019; tren 407; Nº UIC 957102510195; tipo 160 B; 22 vehículos; 322 Tn de masa remolcada",
+  "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; antes de aplicar el freno de emergencia, el tren circulaba a 86 km/h",
+  "mantenimiento": null
+ },
+ "clima": "Despejado y con buena visibilidad",
+ "causas": {
+  "directa": "El tránsito de la víctima por el paso entre andenes sin percatarse de que, en ese momento, el tren 407 circulaba por la estación.",
+  "contribuyentes": [
+   "La víctima cruzaba acompañada de otra persona.",
+   "En el mismo momento, el tren de viajeros 18006 circulaba por la vía 2, lo que pudo distraer la atención de la víctima."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+  "afectacion_servicio": "Vía 1 interceptada de 20:06 a 20:35; ambas vías generales interrumpidas de 20:48 a 21:07; tren 407 con 29 minutos de retraso; tres trenes de media distancia con un retraso total de 63 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso entre andenes",
+  "estación",
+  "tren 407",
+  "renfe operadora",
+  "adif",
+  "línea 100",
+  "las navas del marqués",
+  "avila",
+  "menor",
+  "seguridad ferroviaria",
+  "atropello"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-070409-271009-CIAF"
+}

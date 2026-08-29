@@ -1,0 +1,152 @@
+{
+ "titulo_normalizado": "Incidente operacional por incompatibilidad de itinerarios tras corte de tensión en la estación de Torelló (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 5 de noviembre de 2022, un corte de tensión en la catenaria en la estación de Manlleu dejó sin tracción a los trenes Rodalies 78355 y 78350, que debían cruzarse en la estación de Torelló. El tren 78355 se detuvo con la cabina sobrepasando la señal E1 pero sin ocupar el circuito de vía de audiofrecuencia, generando una discrepancia sobre su posición real entre el maquinista y el RC del CTC. Tras recuperar tensión, el RC disolvió el itinerario del 78355 y estableció otro incompatible para el 78350 a la vía 2, y al ordenar al 78355 avanzar hasta la señal de entrada, el maquinista interpretó la instrucción como referida a la siguiente señal. La ocupación intempestiva del CV hizo creer al RC que se había producido un rebase de señal, ordenando la detención del 78350 y evitando una colisión.",
+ "hechos": "El día 5/11/2022, sobre las 10:08:51, se produjo un corte de tensión en la línea L222 Bif. Aigües - La Tour de Carol en las inmediaciones de la estación de Manlleu, debido a que al levantar los pantógrafos un tren estacionado en la vía 3 se fusionaron ambos hilos de contacto, provocando un cortocircuito que desconectó los feeders de las subestaciones de Manlleu y Ripoll. Los trenes Rodalies 78355 (procedente de Manlleu, destino La Tour de Carol) y 78350 (procedente de Sant Quirze de Besora-Montesquiu, destino L'Hospitalet) quedaron sin tracción y continuaron por inercia hasta detenerse. El tren 78355, que tenía establecido itinerario de entrada a la vía 2 de Torelló, se detuvo a las 10:12:22 con la cabina sobrepasando la señal E1 (en anuncio de parada) pero sin que el primer eje ocupara el circuito de vía de audiofrecuencia CVA1, quedando en la zona muerta adyacente al lazo de cortocircuito. El tren 78350 quedó detenido en el cantón de bloqueo previo a la señal E2, que estaba en parada.\n\nA las 10:18 se restableció la tensión salvo en Manlleu. A las 10:20:53, el RC del CTC confirmó que el 78350 tenía tensión pero el 78355 aún no. Dado que el 78350 recuperó tensión antes y el tramo Torelló-Manlleu seguía sin tensión, se decidió suprimir el servicio del 78350 en Torelló. El RC realizó una Disolución Artificial de Itinerario (DAI) para el 78355, cerrando la señal E1, y estableció itinerario de entrada a la vía 2 para el 78350, incompatible con el itinerario disuelto. A las 10:25:02, el maquinista del 78355 comunicó que ya tenía tensión y el RC le ordenó avanzar hasta la señal de entrada, creyendo erróneamente que el tren estaba antes de dicha señal. El maquinista, que no podía ver la señal al haberla sobrepasado y cuyo ASFA había reconocido el aspecto previo de anuncio de parada, interpretó la orden como referida a la siguiente señal y avanzó.\n\nA las 10:28:57, el RC observó en el videográfico la ocupación intempestiva del CVA1 por el 78355, interpretó que se había producido un rebase de señal y ordenó inmediatamente la detención total del tren 78350. A las 10:30:22, el 78355 ocupó el CV de la vía 2, cerrando la señal E2 para el 78350. No se produjeron víctimas ni daños materiales. En ningún momento durante las comunicaciones entre el RC y el maquinista del 78355 se precisó la ubicación real de la cabina del tren.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Torelló",
+  "pk": "85+129",
+  "linea": "L222 Bif. Aigües - La Tour de Carol-Enveigt",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Torelló, en recta precedida por curva a la izquierda en sentido de marcha del tren 78355. La línea discurre en rampa en dirección Manlleu-Torelló (14,5 milésimas). Señal E1 de entrada por lado Manlleu en PK 84+645; señal E2 de entrada por lado Sant Quirze en PK 85+578. Estaciones colaterales: Manlleu (lado Bif. Aigües) y Sant Quirze de Besora-Montesquiu (lado La Tour de Carol)."
+ },
+ "cronologia": [
+  {
+   "hora": "10:08:51",
+   "evento": "Corte de tensión en la catenaria en Manlleu: al levantar pantógrafos un tren estacionado en vía 3 se fusionan ambos hilos de contacto, cortocircuito y desconexión de feeders de subestaciones de Manlleu y Ripoll."
+  },
+  {
+   "hora": "10:08:59",
+   "evento": "El RC del CTC establece itinerario de entrada a vía 2 de Torelló para el tren 78355; señal E1 en anuncio de parada."
+  },
+  {
+   "hora": "10:12:22",
+   "evento": "El tren 78355 se detiene por inercia con la cabina sobrepasando la señal E1, pero sin ocupar el CVA1 (primer eje en zona muerta). Velocidad al paso por baliza previa: 38 km/h; al pie de señal: 7 km/h."
+  },
+  {
+   "hora": "10:18",
+   "evento": "Restablecimiento de la tensión en el tramo Manlleu-Ripoll tras aislar vía 3 de Manlleu, excepto en la propia estación de Manlleu. Se reparan hilos de contacto con calas."
+  },
+  {
+   "hora": "10:20:53",
+   "evento": "Comunicación RC-CTC con maquinista del 78350 (confirma tensión) y con el del 78355 (sin tensión)."
+  },
+  {
+   "hora": null,
+   "evento": "El RC realiza DAI: disuelve itinerario del 78355 (cierra señal E1) y, tras diferímetro, establece itinerario de entrada a vía 2 para el 78350 (incompatible con el disuelto)."
+  },
+  {
+   "hora": "10:25:02",
+   "evento": "El maquinista del 78355 comunica que ya tiene tensión. El RC le ordena avanzar hasta la señal de entrada (creyendo que está antes de E1). El maquinista interpreta la orden como referida a la siguiente señal."
+  },
+  {
+   "hora": "10:28:57",
+   "evento": "El RC observa en el videográfico ocupación intempestiva del CVA1 por el 78355. Interpreta rebase de señal y ordena detención total del tren 78350."
+  },
+  {
+   "hora": "10:30:22",
+   "evento": "El tren 78355 ocupa el CV de la vía 2 de Torelló, cerrando la señal E2 para el 78350. Riesgo de colisión evitado."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "78355",
+   "tipo": "Rodalies (2 unidades 447: 447033 y 447163)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  },
+  {
+   "numero": "78350",
+   "tipo": "Rodalies (2 unidades 447: 447111 y 447108)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de Circulación del CTC (RC del CTC)",
+   "implicacion": "Personal de ADIF. Estableció y disolvió itinerarios sin verificar la ubicación real del tren 78355. Ordenó al 78355 avanzar hasta la señal de entrada creyendo que estaba antes de E1. Ordenó detención del 78350 al observar ocupación intempestiva del CV."
+  },
+  {
+   "rol": "Maquinista del tren 78355",
+   "implicacion": "Personal de Renfe Viajeros. Detuvo el tren con cabina sobrepasando E1 sin comunicar su posición exacta. Interpretó la orden del RC como referida a la siguiente señal (ya que E1 había sido sobrepasada). No pudo observar el cambio de aspecto de E1 al estar fuera de su campo de visión."
+  },
+  {
+   "rol": "Maquinista del tren 78350",
+   "implicacion": "Personal de Renfe Viajeros. Recibió la orden de detención total del RC cuando se detectó la ocupación del CV por el 78355."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales E1 (PK 84+645, entrada por lado Manlleu) y E2 (PK 85+578, entrada por lado Sant Quirze). Sistema ASFA embarcado. Baliza previa y baliza de pie en E1. Contadores de ejes para el bloqueo entre estaciones; circuitos de vía de audiofrecuencia (CVA1 y CVA2) en la estación.",
+  "tipo_via": "Vía única con bloqueo BLAU (Bloqueo de Liberación Automática en Vía Única) y CTC. Estación con vías 1 (directa), 2 y 4.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Catenaria (2 hilos de contacto). Corte de tensión por fusión de hilos al levantar pantógrafos un tren estacionado en vía 3 de Manlleu.",
+  "estado_via": "Recta en la estación, precedida por curva a la izquierda. Rampa de 14,5 milésimas en sentido kilométrico ascendente. En el momento del suceso, la vía estaba operativa; el corte de tensión fue temporal (~15 min).",
+  "otro": "Comunicación por radiotelefonía tren-tierra modo A, canal 64. Videográfico del CTC para supervisión. Zona muerta en CVA1 adyacente al lazo de cortocircuito (tren shunt < 0,3 Ω). Contadores de ejes a 0,5 m después de E1; lazo de cortocircuito a 1,8 m y equipo de sintonía a 5 m del pie de señal. Baliza de pie a 4,8 m antes de la señal."
+ },
+ "material_rodante": {
+  "series": "447 (unidades 447033, 447163 en tren 78355; 447111, 447108 en tren 78350)",
+  "averia": null,
+  "mantenimiento": "Material rodante funcionó correctamente. Dimensiones relevantes: primer eje a 3 m de la cabeza del tren; pupitre del maquinista a 160 cm por delante del primer eje (no puede observar señal sobrepasada por cabina); captador ASFA a 60 cm por delante del primer eje (no detecta cambio de aspecto posterior al paso)."
+ },
+ "clima": "Condiciones meteorológicas y de visibilidad buenas.",
+ "causas": {
+  "directa": "Falta de entendimiento entre el maquinista del 78355 y el RC del CTC por errónea interpretación de la posición real del tren (cabina sobrepasó E1 pero sin ocupación del CV), que provocó la reanudación de marcha con itinerario disuelto, combinada con el establecimiento de itinerario incompatible para el 78350 a la vía 2.",
+  "contribuyentes": [
+   "Corte de tensión en la catenaria que detuvo ambos trenes en aproximación a Torelló.",
+   "Detención del 78355 con primer eje en la zona muerta del CV de audiofrecuencia, habiendo sobrepasado el puesto de conducción la posición de la señal E1.",
+   "Desconocimiento e inexistencia de pautas sobre la condición de uso de los CV de audiofrecuencia y su zona muerta.",
+   "Disolución del itinerario del 78355 sin verificar su ubicación real.",
+   "Decisión de suprimir el tren 78350 en Torelló, donde quedaría temporalmente estacionado.",
+   "Recuperación de la tensión por el 78350 con anterioridad al 78355.",
+   "En las comunicaciones durante el corte de tensión (~10 min) nunca se precisó la ubicación exacta del 78355.",
+   "El ASFA embarcado había reconocido el aspecto previo de E1 (anuncio de parada), por lo que el maquinista no tuvo conocimiento del cambio a indicación de parada."
+  ],
+  "sistemicas": [
+   "Inexistencia de prescripciones regulatorias con carácter general que restrinjan la disolución y modificación de itinerarios establecidos (el RCF solo lo contempla en caso de anormalidad del enclavamiento).",
+   "Carencias regulatorias y formativas sobre la condición de uso de los sistemas de detección de trenes asociados a las señales (zona muerta de CV de audiofrecuencia)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "No se produjo interceptación de la vía. No fue necesaria la activación de ningún plan de emergencias. El corte de tensión duró aproximadamente 15 minutos. El tren 78350 fue suprimido en Torelló."
+ },
+ "lecciones": [
+  "La detención de un tren con la cabina sobrepasando una señal pero sin ocupación del CV (zona muerta) genera una discrepancia de percepción entre el maquinista y el RC que puede derivar en situaciones de riesgo.",
+  "Las comunicaciones entre RC y maquinista tras una parada no prevista deben incluir siempre la ubicación exacta del tren antes de cualquier modificación de itinerario.",
+  "La disolución de itinerarios sin verificación de la posición real del tren es un factor de riesgo que debe estar reglamentado con carácter general.",
+  "Las peculiaridades geométricas del material rodante (distancia cabina-primer eje, posición del captador ASFA) y de los CV de audiofrecuencia (zona muerta) pueden pasar desapercibidas en operación normal pero son determinantes en paradas imprevistas.",
+  "El ASFA embarcado no detecta cambios de aspecto de una señal una vez que el captador ya ha pasado por ella."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria (Art. 5.2.2.1) para la variación de itinerarios en caso de anormalidad de los enclavamientos, a la totalidad de las disoluciones de itinerario.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales (zona muerta de CV de audiofrecuencia), tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha.",
+   "destinatario": "AESF"
+  }
+ ],
+ "tags": [
+  "incidente operacional",
+  "corte de tension",
+  "disolucion de itinerario",
+  "zona muerta",
+  "circuito de via audiofrecuencia",
+  "asfa",
+  "incompatibilidad de itinerarios",
+  "comunicacion tren-tierra",
+  "rocalies",
+  "serie 447",
+  "ctc",
+  "torello"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10382 - 2022-108-1105-IF"
+}

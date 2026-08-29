@@ -1,0 +1,122 @@
+{
+ "titulo_normalizado": "Deriva de locomotora aislada tras rebase de señal y fallo de freno en Torralba (Soria)",
+ "idioma_original": "es",
+ "resumen": "El 25 de julio de 2017, la locomotora aislada 90957 de Ferrovial Railway rebasó indebidamente una señal de parada en la estación de Torralba. Durante el estacionamiento ordenado por Adif, se detectó una pérdida de presión neumática debido a la rotura del cardan del compresor. Al no aplicarse correctamente el freno de estacionamiento ni usar calces antideriva, la locomotora entró en deriva hacia Medinaceli recorriendo 8,25 km sin control. La tripulación logró detenerla mediante el uso insistente del freno manual; no hubo víctimas ni daños materiales.",
+ "hechos": "La locomotora diésel-eléctrica serie 308 (UIC 937113340114), operada por Ferrovial Railway con un maquinista y un operador de maquinaria de infraestructura (OMI), circulaba desde Pla de Vilanoveta hacia Sigüenza. A las 20:25 horas, al llegar a la estación de Torralba, el personal de conducción no mantuvo la atención debida y rebasó la señal de entrada E1 en indicación de parada. El sistema ASFA analógico estaba desconectado desde el origen del servicio, lo que impidió la intervención automática.\n\nTras el rebase, el puesto de mando de Adif ordenó estacionar la locomotora en la vía 1. Durante la espera, los manómetros mostraron una caída de presión causada por la rotura de la transmisión cardan del motor al compresor, dejando inoperativo el freno automático antes de lo previsto. El personal aplicó insuficientemente el freno de estacionamiento mecánico (que actúa sobre una sola rueda) y no colocó calces antideriva, confiando erróneamente en la estanqueidad del circuito.\n\nAproximadamente dos horas después, la locomotora inició un movimiento de retroceso involuntario (deriva) por la vía impar hacia la estación de Medinaceli. A bordo, el OMI y el maquinista intentaron detenerla accionando repetidamente el freno de estacionamiento mientras comunicaban la emergencia al puesto de mando. Tras recorrer unos 8.250 metros y alcanzar velocidades de hasta 70-80 km/h, lograron detenerla en la zona de cambios de salida de Medinaceli a las 22:40 horas. Posteriormente, fue asegurada con calces y apartada en la vía 3.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Torralba",
+  "pk": "157+696",
+  "linea": "200 Madrid Chamartín - Barcelona Estació França",
+  "provincia": "Soria",
+  "descripcion_lugar": "Vía 1 de la estación de Torralba, punto de inicio de la deriva hacia Medinaceli."
+ },
+ "cronologia": [
+  {
+   "hora": "20:25",
+   "evento": "Rebase indebido de la señal de entrada E1 en indicación de parada."
+  },
+  {
+   "hora": "20:27:37",
+   "evento": "La locomotora queda estacionada en la vía 1 de Torralba ocupando el circuito CV1."
+  },
+  {
+   "hora": "22:25:32",
+   "evento": "Inicio del movimiento de retroceso (deriva) por insuficiencia de freno."
+  },
+  {
+   "hora": "22:26:06",
+   "evento": "Comunicación del maquinista al Puesto de Mando informando de la deriva sin control."
+  },
+  {
+   "hora": "22:40",
+   "evento": "Detención de la locomotora en la estación de Medinaceli mediante freno de estacionamiento."
+  },
+  {
+   "hora": "00:50",
+   "evento": "Locomotora apartada en vía 3 de Medinaceli y asegurada con calces antideriva."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "90957",
+   "tipo": "locomotora aislada",
+   "operador": "Ferrovial Railway",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Conductor titular con título categoría B. No mantuvo atención a la señalización y no aseguró correctamente el vehículo durante la parada."
+  },
+  {
+   "rol": "Operador de Maquinaria de Infraestructura (OMI)",
+   "implicacion": "Personal conocedor del vehículo pero no de la línea. Colaboró en la gestión de la avería y en el intento de frenado durante la deriva."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E1 en indicación de parada. Visibilidad considerada buena aunque dificultosa desde la posición del maquinista en cabina descentrada.",
+  "tipo_via": "vía doble",
+  "velocidad_maxima": "150 km/h",
+  "ancho": "ibérico",
+  "electrificacion": "sí",
+  "estado_via": "correcto",
+  "otro": "Bloqueo BLAD con CTC gestionado desde Madrid Chamartín. Pendiente media del tramo Torralba-Medinaceli de 8,34 milésimas."
+ },
+ "material_rodante": {
+  "series": "Serie 308 (antigua RENFE 10811), UIC 937113340114",
+  "averia": "Rotura de la transmisión cardan del motor diésel al compresor de aire, provocando pérdida de presión en el circuito neumático e inoperatividad del freno automático.",
+  "mantenimiento": "Última revisión R0 en junio de 2017. El plan de mantenimiento no contemplaba inspección específica de la transmisión cardan del compresor."
+ },
+ "clima": "No existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo del material rodante (rotura del cardan del compresor) combinado con la aplicación insuficiente del freno de estacionamiento y la ausencia de calces antideriva.",
+  "contribuyentes": [
+   "Desconexión del sistema ASFA analógico desde el origen del servicio.",
+   "Falta de atención del personal de conducción a la señalización.",
+   "Inexistencia de registros de velocidad y señales por falta de cuerda en el registrador electromecánico.",
+   "Diseño del freno de estacionamiento actuando sobre una sola rueda con bajo porcentaje de frenado (6,25%)."
+  ],
+  "sistemicas": [
+   "Plan de mantenimiento deficiente que no incluía la revisión de la transmisión cardan del compresor.",
+   "Procedimientos de seguridad inadecuados para paradas prolongadas con averías de freno (no obligatoriedad explícita de calces en manual de conducción)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "Intercepción de la vía impar durante 144 minutos. Retrasos en trenes 84533, 18755 y 50186."
+ },
+ "lecciones": [
+  "La importancia crítica de mantener conectados los sistemas de protección como el ASFA.",
+  "La necesidad de asegurar vehículos con fallos de freno mediante medios físicos (calces) además del freno mecánico.",
+  "Las limitaciones del freno de estacionamiento en locomotoras antiguas con actuación sobre una sola rueda."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la formación del personal sobre la atención a la señalización, la obligatoriedad de circular con ASFA y registrador conectados, y el uso de calces ante problemas de freno.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Ferrovial Railway"
+  },
+  {
+   "texto": "Incluir en el manual de conducción la obligatoriedad de colocar calces antideriva en paradas prolongadas.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Ferrovial Railway"
+  }
+ ],
+ "tags": [
+  "deriva",
+  "locomotora aislada",
+  "torralba",
+  "ferrovial railway",
+  "asfa desconectado",
+  "fallo freno",
+  "cardan compresor",
+  "rebase señal",
+  "seguridad ferroviaria",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 25.07.2017 190426-170725-IF-SN-CIAF_"
+}

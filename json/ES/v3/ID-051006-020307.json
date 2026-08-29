@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por un tren de mercancías en la estación de El Vendrell",
+ "idioma_original": "es",
+ "resumen": "El 5 de octubre de 2006 a las 11:35, un varón falleció al ser arrollado por el tren de mercancías 54883 de Renfe en la estación de El Vendrell, provincia de Tarragona. La víctima cruzaba las vías por un paso entarimado entre andenes, lugar no autorizado, mientras el tren circulaba a 95 km/h. El maquinista usó señales acústicas y freno de emergencia sin poder evitar el atropello. No hubo daños materiales, aunque se produjeron intercepciones de vía y retrasos en la circulación.",
+ "hechos": "Una persona que cruzaba las vías por el paso enmaderado o entarimado entre andenes de la estación de El Vendrell resultó fallecida al ser arrollada por el tren de mercancías 54883 de Renfe. El tren estaba compuesto por las locomotoras 269297 y 269217, 19 vagones y 495 toneladas remolcadas, procedía de Gerona Mercancías y tenía destino Zaragoza Corbera. El accidente se produjo el 5 de octubre de 2006 a las 11:35 en el punto kilométrico 28,570 de la línea Barcelona Sants-Sant Vicent de Calders.\n\nEl maquinista observó a la persona, hizo uso del silbato de la locomotora y del freno de emergencia, pero no pudo evitar el arrollamiento. La víctima era un varón. El paso entarimado se situaba en el extremo del andén principal, dirección Sant Vicent de Calders, aunque el acceso reglamentario a los andenes se realizaba mediante un paso inferior peatonal.\n\nTras el suceso, el maquinista informó al Puesto de Mando, que cursó avisos a los servicios de emergencia y a distintos responsables de ADIF y Renfe. Se realizó prueba de alcoholemia al maquinista con resultado negativo. La vía 2 y la vía 1 quedaron interceptadas dentro de la estación, y la circulación se restableció en condiciones normales a las 13:45.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "El Vendrell",
+  "pk": "28,570",
+  "linea": "Barcelona Sants-Sant Vicent de Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Estación de El Vendrell, en el paso entarimado o enmaderado entre andenes, situado en el extremo del andén principal dirección Sant Vicent de Calders. Trayecto Els Monjos-Sant Vicent de Calders."
+ },
+ "cronologia": [
+  {
+   "hora": "11:35",
+   "evento": "Arrollamiento de una persona por el tren de mercancías 54883 en la estación de El Vendrell."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista informa inmediatamente del suceso al Puesto de Mando, que avisa a servicios de emergencia, personal sanitario, Jefatura Territorial de Mantenimiento de Infraestructura, Gerencias de Seguridad en la Circulación de ADIF y RENFE Operadora, Jefatura Territorial de operaciones de Barcelona, Logística y operadores afectados."
+  },
+  {
+   "hora": "12:09",
+   "evento": "Se confirma la intercepción de vía 2 además de la vía 1 dentro de la estación de El Vendrell."
+  },
+  {
+   "hora": "12:59",
+   "evento": "La policía judicial autoriza al tren 54883 la reanudación de su marcha."
+  },
+  {
+   "hora": "13:11",
+   "evento": "Queda liberada la vía 1 entre El Vendrell y Sant Vicent."
+  },
+  {
+   "hora": "13:45",
+   "evento": "Queda restablecida la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "54883",
+   "tipo": "Mercancías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales. Compuesto por locomotoras 269297 y 269217, 19 vagones y 495 toneladas remolcadas."
+  },
+  {
+   "numero": "18316",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 54883",
+   "implicacion": "Observó a la persona, usó el silbato y el freno de emergencia, pero no pudo evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Declarado en condiciones aptas y su actuación fue correcta. Jornada del incidente: 07:30-13:07; jornada anterior: 09:20-17:25; jornada 48 horas antes: 05:15-14:00."
+  },
+  {
+   "rol": "víctima",
+   "implicacion": "Varón que cruzaba las vías por el paso entarimado entre andenes y resultó fallecido como consecuencia del arrollamiento."
+  },
+  {
+   "rol": "agentes de ADIF",
+   "implicacion": "Se personaron en el lugar del accidente, procedieron a la toma de datos, realizaron la prueba de alcoholemia al maquinista y tomaron declaración."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Seales acústicas del tren. Se recomienda señalización mediante cartelones que indiquen la prohibición de cruzar las vías a personal ajeno y el peligro de no utilizar el paso inferior.",
+  "tipo_via": "dos vías de apartado y dos vías generales",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Bloqueo Automático Banalizado con CTC. El acceso a los andenes se realiza mediante un paso inferior peatonal. El paso entarimado estaba en el extremo del andén principal dirección Sant Vicent de Calders. El tren circulaba a 95 km/h según la memoria estática de la locomotora 269297. El informe particular de ADIF no dispone del cuadro de velocidades máximas del tramo. El texto cita también el tren nº18316 circulando a 95 km/h."
+ },
+ "material_rodante": {
+  "series": "269297, 269217",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "La víctima se dispuso a cruzar las vías por un lugar no autorizado, haciendo caso omiso de la señalización acústica efectuada por el tren 54883.",
+  "contribuyentes": [
+   "Continuo tránsito de personas no autorizadas por el paso entarimado entre andenes.",
+   "No utilización del paso inferior peatonal previsto para el cruce de vías por los usuarios del ferrocarril."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Retrasos acumulados de 60 minutos con 4 trenes afectados. El tren 54883 sufrió un retraso total de 97 minutos. Intercepción de vías 1 y 2 dentro de la estación; vía 1 liberada a las 13:11; circulación normal restablecida a las 13:45."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda realizar una campaña, en estaciones que dispongan de paso inferior y entre andenes, de señalización mediante cartelones que indiquen la prohibición de cruzar las vías a personal ajeno y el peligro que supone la no utilización del paso inferior.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "estacion",
+  "el vendrell",
+  "tarragona",
+  "paso entarimado",
+  "paso inferior",
+  "tren de mercancias",
+  "renfe",
+  "adif",
+  "senalizacion acustica",
+  "freno de emergencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-051006-020307"
+}

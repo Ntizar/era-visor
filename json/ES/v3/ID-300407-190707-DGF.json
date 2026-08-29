@@ -1,0 +1,111 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en paso entre andenes de la estación de San Sebastián",
+ "idioma_original": "es",
+ "resumen": "Una mujer de 23 años falleció tras ser arrollada por el tren de Cercanías 26877 al cruzar imprudentemente un paso entre andenes en la estación de San Sebastián. A pesar de las advertencias del maquinista y del Jefe de Circulación, la víctima ignoró el paso inferior habilitado para acceder a los andenes. El accidente fue calificado como grave y la investigación concluyó que la causa directa fue el uso indebido del paso a nivel por parte de la peatona.",
+ "hechos": "El 30 de abril de 2007, a las 22:06 horas, una mujer resultó fallecida al ser arrollada por el tren de Viajeros de Cercanías 26877 de Renfe mientras cruzaba uno de los pasos entre andenes de la estación de San Sebastián (PK 622,516). La víctima, que llevaba la cabeza agachada, hizo caso omiso a las reiteradas advertencias verbales y gestuales tanto del Jefe de Circulación como del silbato del tren. Aunque existía un paso inferior con ascensores a 58 metros, la persona optó por invadir la vía general. El maquinista aplicó el freno de emergencia, pero no pudo evitar el impacto. Tras retirar el cuerpo, el servicio se reanudó con un retraso de 21 minutos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "San Sebastián",
+  "pk": "622,516",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Paso entre andenes situado en el lado Hernani, dentro de la playa de vías de la estación."
+ },
+ "cronologia": [
+  {
+   "hora": "22:05",
+   "evento": "El Jefe de Circulación observa a la víctima corriendo hacia el paso entre andenes mientras el tren 26877 entra en la estación."
+  },
+  {
+   "hora": "22:06",
+   "evento": "Se produce el arrollamiento de la víctima por el tren 26877 a una velocidad de 30 km/h."
+  },
+  {
+   "hora": "22:27",
+   "evento": "Una vez retirado el cuerpo, se autoriza al maquinista a continuar la marcha."
+  },
+  {
+   "hora": "23:00",
+   "evento": "Prueba de alcoholemia negativa al maquinista realizada en Irún."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "26877",
+   "tipo": "Viajeros de Cercanías",
+   "operador": "Renfe",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "26880",
+   "tipo": "Tren estacionado",
+   "operador": null,
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 26877",
+   "implicacion": "Accionó el silbato y el freno de emergencia; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Jefe de Circulación",
+   "implicacion": "Intentó detener a la víctima gritando y gesticulando desde el andén/vía."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal E-1 indicaba vía libre.",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Correcto",
+  "otro": "Existencia de paso inferior con ascensores a 58m del lugar del suceso, bien iluminado y señalizado."
+ },
+ "material_rodante": {
+  "series": "UT 440139 (Automotor 967194401394)",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Uso indebido del paso entre andenes para cruzar las vías en lugar de utilizar el paso inferior existente.",
+  "contribuyentes": [
+   "Imprudencia de la víctima al no percatarse de la llegada del tren.",
+   "Ignorancia de las advertencias visuales y acústicas del personal ferroviario."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "Retraso de 21 minutos en el tren 26877."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar un estudio para impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía sobre el peligro de cruzar las vías.",
+   "destinatario": "Adif/Renfe/Autoridades competentes"
+  },
+  {
+   "texto": "Considerar la posible eliminación de los dos pasos entre andenes existentes en la estación de San Sebastián, manteniéndolos solo si son estrictamente necesarios.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "estacion",
+  "san sebastian",
+  "cercanias",
+  "imprudencia",
+  "paso entre andenes",
+  "muerte",
+  "adif",
+  "renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-300407-190707-DGF"
+}

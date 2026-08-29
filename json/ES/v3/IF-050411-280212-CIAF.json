@@ -1,0 +1,141 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías por rebase indebido de señal S1/1 en la estación de Rubí (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 5 de abril de 2011, el tren de mercancías 91103 de Renfe Operadora, circulando en ancho UIC por vía II banalizada de la línea 246, rebasó indebidamente la señal de salida S1/1 de la estación de Rubí en indicación de parada. Como consecuencia, el tren accedió al cambiador de hilo CH6, que estaba dispuesto para ancho convencional por un cruce previsto, perdiéndose la continuidad del carril izquierdo y provocando el descarrilamiento de la primera locomotora y el primer bogie de la segunda. No hubo víctimas. El accidente se originó por incumplimiento del personal de conducción de las órdenes de la señal, agravado por la ausencia de balizas ASFA duales operativas y por la falta de condiciones de protección del CH6 en el programa de explotación del enclavamiento.",
+ "hechos": "El día 5 de abril de 2011, a las 15:29 horas, el tren de mercancías 91103 de Renfe Operadora, procedente de Barcelona Morrot con destino Figueres Vilafant, circulaba en ancho UIC por vía II banalizada de la línea 246 Mollet Sant Fost – Castellbisbal. El tren fue recibido en la estación de Rubí con la señal de entrada E3 en anuncio de parada (amarillo). Al no tener parada prescrita, continuó la marcha y encontró la señal de salida S1/1 en parada (rojo). El personal de conducción no se puso en condiciones de detenerse ante la señal y la rebasó indebidamente.\n\nA continuación de la señal S1/1 se encontraba el cambiador de hilo CH6, situado dentro del túnel de salida (PK 6+707), que estaba dispuesto para ancho convencional debido a un cruce previsto con el tren de cercanías 28548 que circulaba en sentido contrario por vía II. Al acceder el tren 91103 al CH6, el tercer carril (lado izquierdo en el sentido de la marcha) desapareció, provocando que las ruedas de ese lado cayeran a la caja de la vía. Descarriló la locomotora en cabeza (252024) y el primer bogie de la segunda locomotora (250025). El tren quedó detenido a las 15:30:02 horas, habiendo recorrido 165 metros desde el punto de rebase.\n\nEl tren 28548 de cercanías, que debía cruzarse con el 91103, no había rebasado aún la señal de entrada E2 y estaba a la espera de itinerario. No hubo víctimas mortales ni heridos. Los daños materiales afectaron al cambiador de hilo CH6 y a un tubo arenero de una de las locomotoras. La vía II quedó interceptada entre Cerdanyola Universitat y Castellbisbal hasta las 07:10 horas del día siguiente, afectando a 21 trenes de cercanías (323 minutos de retraso acumulado) y 10 trenes de mercancías (429 minutos de retraso acumulado).",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Rubí",
+  "pk": "6+707",
+  "linea": "246 Mollet Sant Fost - Castellbisbal",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Cambiador de hilo CH6 situado dentro del túnel de salida de la estación de Rubí, a la salida de la señal S1/1 (PK 6+580), en vía 1 (vía II banalizada), lado Mollet Sant Fost. La estación está ubicada entre dos túneles, con tramos curvos que dificultan la visibilidad de la señal de salida."
+ },
+ "cronologia": [
+  {
+   "hora": "15:28:37",
+   "evento": "El tren 91103 es recibido en la estación de Rubí con itinerario dispuesto hasta la señal de salida S1/1. Pasa por la baliza de la señal E3 en indicación de anuncio de parada (L1) a 51 km/h."
+  },
+  {
+   "hora": "15:29",
+   "evento": "El tren pasa por la baliza previa de la señal S1/1 sin ser captada por el sistema ASFA Digital (balizas de ancho convencional, no duales)."
+  },
+  {
+   "hora": "15:29",
+   "evento": "El tren pasa por la baliza de pie de la señal de salida S1/1 en indicación de parada (rojo), activándose el freno de urgencia (L8) a 55 km/h. Se produce el rebase indebido."
+  },
+  {
+   "hora": "15:30:02",
+   "evento": "El tren queda detenido tras recorrer 165 metros desde el punto de rebase. Descarrilamiento en el CH6: locomotora 252024 (cabeza) y primer bogie de la locomotora 250025."
+  },
+  {
+   "hora": "16:35",
+   "evento": "Prueba de alcoholemia al maquinista acompañante: resultado negativo."
+  },
+  {
+   "hora": "16:40",
+   "evento": "Prueba de alcoholemia al maquinista titular: resultado negativo."
+  },
+  {
+   "hora": "06:40",
+   "evento": "Día 6 de abril. Se eleva la limitación de velocidad a 20 km/h entre PK 6+600 y 6+750 (zona de trabajos)."
+  },
+  {
+   "hora": "07:10",
+   "evento": "Día 6 de abril. Finalizan los trabajos en la vía y se restablece la circulación por ambas vías."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "91103",
+   "tipo": "mercancias",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de la locomotora 252024 (cabeza) y primer bogie de la locomotora 250025. Rotura de un tubo arenero en una de las dos locomotoras."
+  },
+  {
+   "numero": "28548",
+   "tipo": "cercanias",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños. Circulaba en sentido contrario por vía II en ancho convencional, a la espera de itinerario de entrada. No llegó a rebasar la señal E2."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista titular del tren 91103",
+   "implicacion": "Conducía el tren que rebasó indebidamente la señal S1/1 en parada. Incumplió los artículos 213, 217 y 320.4 del RGC. Título B de conducción, habilitación de línea desde 31/12/2004, del vehículo desde 15/02/2008. Último reciclaje formativo 30/07/10, último reconocimiento médico y psicotécnico 04/01/11. Jornada del día 5: 32 minutos. Alcoholemia negativa."
+  },
+  {
+   "rol": "maquinista acompañante del tren 91103",
+   "implicacion": "Acompañaba en cabina al maquinista titular (obligatorio por ausencia de balizas ASFA duales operativas para ancho UIC). Título B de conducción. Último reciclaje formativo 28/09/10, último reconocimiento médico y psicotécnico 20/02/09. Jornada del día 5: 32 minutos. Alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal S1/1 alta de cuatro focos con baliza previa, situada en PK 6+580, en indicación de parada (rojo) en el momento del rebase. Señal de entrada E3 en anuncio de parada (amarillo). Balizas ASFA instaladas eran para ancho convencional (no duales), desplazadas lateralmente respecto a los captadores embarcados en vehículos de ancho UIC, lo que impedía la recepción fiable de las señales por parte de trenes UIC. A fecha 22/08/2011 se instalaron balizas ASFA duales.",
+  "tipo_via": "Vía general de ancho mixto (tres carriles), vía II banalizada, con Bloqueo Automático Banalizado (BAB) gestionado por CTC desde el puesto de mando de Barcelona Sants. Dos vías de apartado en ancho convencional.",
+  "velocidad_maxima": "120 km/h (cuadro de máximas de la línea); limitación temporal de 60 km/h para ancho UIC según consigna serie B nº 4 de la DOIRCNE.",
+  "ancho": "Mixto (UIC y convencional, tres carriles)",
+  "electrificacion": null,
+  "estado_via": "Declividad de 2 milésimas en rampa. Tramo con curvas (radio 850 m a derechas en entrada, 1200 m a izquierdas en zona de estación). Túnel de salida entre PK 6+616 y 7+035. Consigna CO nº 951 obliga a circular por vía II entre PK 4+595 y 5+505 por falta de gálibo en vía I. Visibilidad de la señal S1/1 dificultada por trazado curvo, pilares de marquesina, mobiliario urbano y carteles indicadores sobre el andén 2.",
+  "otro": "Cambiador de hilo CH6 en PK 6+707: posición normal permite paso de ancho convencional por vía 1; posición invertida permite ancho UIC cambiando el tercer carril del lado izquierdo al derecho. Aguja 4 a continuación del CH6. La consigna serie A nº 2858 v5 no establece ninguna condición sobre el CH6 para el establecimiento de itinerarios de entrada en ancho UIC a vía 1 desde E3. Media semanal de circulaciones del tramo: 188 (111 cercanías, 73 mercancías, 3 servicio)."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 252 (252024 en cabeza, UIC 957102520245) y 250 (250025, UIC 95710250252). Tren tipo 100, 26 vehículos, 104 ejes, 967 toneladas, ancho UIC.",
+  "averia": "Rotura de un tubo arenero de una de las dos locomotoras como consecuencia del descarrilamiento.",
+  "mantenimiento": null
+ },
+ "clima": "De día, sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S1/1 de la estación de Rubí en indicación de parada por el tren 91103, por incumplimiento de las órdenes dadas por la señal al personal de conducción. Como consecuencia, el tren accedió al cambiador de hilo CH6 no dispuesto para ancho UIC, perdiéndose la continuidad del carril izquierdo y provocando el descarrilamiento.",
+  "contribuyentes": [
+   "Balizas ASFA de las señales eran para ancho convencional (no duales), desplazadas lateralmente respecto a los captadores de vehículos UIC, por lo que en muchas ocasiones los trenes de ancho UIC no recibían las señales emitidas desde la vía y circulaban como si no dispusieran de ASFA.",
+   "La baliza previa de la señal S1/1 no fue captada por el ASFA Digital del tren 91103.",
+   "Trazado curvo, pilares de la marquesina, mobiliario urbano y carteles indicadores sobre el andén 2 dificultaban la visibilidad de la señal S1/1 a los trenes que se aproximaban.",
+   "El tren circulaba con 10 minutos de retraso sobre el horario previsto.",
+   "El personal de conducción incumplió el art. 213 del RGC (no se puso en condiciones de parar ante la señal siguiente), el art. 217 (no se detuvo ante la señal) y el art. 320.4 (no prestó la debida atención a la indicación de las señales)."
+  ],
+  "sistemicas": [
+   "La consigna serie A de la estación de Rubí no establecía ninguna condición sobre el cambiador de hilo CH6 para el establecimiento de itinerarios de entrada en ancho UIC a vía 1 desde la señal E3, de forma que la posición del CH6 no protegía contra un posible rebase de la señal.",
+   "Ausencia de balizas ASFA duales operativas en el tramo para ancho mixto, lo que obligaba a acompañar al maquinista titular con un segundo maquinista y reducía la eficacia del sistema de protección de señales para trenes UIC.",
+   "Problemas de visibilidad de la señal S1/1 no resueltos por el gestor de infraestructura."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: daños en el cambiador de hilo CH6. Material rodante: rotura de un tubo arenero de una de las dos locomotoras.",
+  "afectacion_servicio": "Interrupción de la circulación por vía II entre Cerdanyola Universitat y Castellbisbal desde la notificación hasta las 07:10 h del 6 de abril. Circulación por vía I con limitación de 5 km/h entre PK 6+492 y 6+800, posteriormente elevada a 20 km/h entre PK 6+600 y 6+750. Afectados 21 trenes de cercanías con 323 minutos de retraso total y 10 trenes de mercancías con 429 minutos de retraso total. Los trenes pares circularon por vía 3 de Rubí al estar la vía 1 ocupada por la locomotora descarrilada."
+ },
+ "lecciones": [
+  "La ausencia de balizas ASFA duales en vías de ancho mixto invalida el sistema de protección de señales para los trenes de ancho UIC, reduciendo la seguridad a un nivel dependiente exclusivamente de la atención del personal de conducción.",
+  "Los cambiadores de hilo situados a continuación de una señal de salida deben incluirse como condición en el programa de explotación del enclavamiento para que un rebase indebido no derive en descarrilamiento.",
+  "Las condiciones de visibilidad de las señales en estaciones con trazado curvo, marquesinas y mobiliario urbano deben ser verificadas y mejoradas para garantizar la percepción efectiva por el personal de conducción.",
+  "La necesidad de acompañar al maquinista titular con un segundo maquinista por deficiencias de señalización no sustituye la protección automática de ASFA y no elimina el riesgo de rebase."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar la posibilidad de mejorar la visibilidad de la señal de salida S1/1 de la estación de Rubí.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Estudiar la posibilidad de incluir, en el programa de explotación del enclavamiento de la estación de Rubí, condiciones en los cambiadores de hilo y demás aparatos de vía de forma que, en el establecimiento de los itinerarios, se tenga en cuenta la orientación de estos aparatos de vía, cuando estén a continuación de una señal y puedan verse afectados por un posible rebase de la misma.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rebase de señal",
+  "cambiador de hilo",
+  "ancho mixto",
+  "asfa",
+  "señalización",
+  "estación de rubí",
+  "tren de mercancías",
+  "incumplimiento de señal",
+  "visibilidad de señal",
+  "enclavamiento",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-050411-280212-CIAF"
+}

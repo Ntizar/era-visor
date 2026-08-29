@@ -1,0 +1,157 @@
+{
+ "titulo_normalizado": "Paso sin parada del tren 551 en la estación de Monte la Reina durante bloqueo telefónico supletorio por cambio de enclavamiento",
+ "idioma_original": "es",
+ "resumen": "El 14 de octubre de 2015 a las 14:11, el tren de viajeros 551 de Renfe Viajeros pasó por la estación de Monte la Reina (Zamora) sin detenerse, cuando debía hacerlo al estar establecido Bloqueo Telefónico Supletorio (BTS) entre Toro y Zamora por trabajos de cambio de enclavamiento. El maquinista interpretó erróneamente que se trataba de una estación intermedia sin personal al ver las señales avanzada y de entrada giradas hacia el campo. No se produjeron daños materiales ni heridos. La CIAF atribuyó el incidente a fallo humano del personal de conducción, con factores coadyuvantes relacionados con la situación no reglamentaria de las señales y la no entrega de la Noticia TO Nº58 al maquinista.",
+ "hechos": "El día 14 de octubre de 2015 a las 14:11 horas, el tren de viajeros 551 de Renfe Viajeros, procedente de Madrid Chamartín con destino Ferrol, pasó por la estación de Monte la Reina (P.K. 68+042, línea 820 Zamora-Medina del Campo) en sentido Zamora sin efectuar parada, cuando debía haberse detenido al estar establecido Bloqueo Telefónico Supletorio (BTS) entre Toro y Zamora por trabajos de sustitución del enclavamiento eléctrico por uno electrónico Thales Intersig. El tren realizó su parada en Toro a las 14:03, donde el jefe de circulación le entregó el BOI informando del BTS. A las 14:04 el maquinista seleccionó el modo BTS del ASFA digital. A las 14:10:44 pasó la señal avanzada E'1 a 132 km/h y a las 14:11:24 la señal de entrada E1 a 122 km/h, ambas giradas hacia el campo. El maquinista interpretó erróneamente que era una estación intermedia sin personal y continuó sin detenerse. El jefe de circulación de Monte la Reina esperaba en el gabinete la parada del tren para darle el rebase de señal. El tren pasó la señal de salida S1/1 a 126 km/h y continuó hasta Ourense, donde fue relevado el maquinista. El jefe de circulación comunicó el incidente al puesto de mando de León unos 40 minutos después, incumpliendo el artículo 104.2 del RGC. No se produjeron daños materiales ni heridos, ni afectación al servicio.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Monte la Reina",
+  "pk": "68+042",
+  "linea": "820 Zamora-Medina del Campo",
+  "provincia": "Zamora",
+  "descripcion_lugar": "Estación en entorno rural, flanqueada al sur por el río Duero y la carretera N-122. Vía única en recta con ligera pendiente por el lado Toro/Medina del Campo, enlazando con curva a derecha de radio 2000 m por el lado Zamora. Dispone de edificio de viajeros al sur, vía principal (vía 1), una secundaria y una tercera sobre topera al norte. Protegida por señales avanzada, entrada y salida por ambos lados. Cruza la LAV Olmedo-Zamora mediante paso superior a unos 100 m del edificio de viajeros."
+ },
+ "cronologia": [
+  {
+   "hora": "14:03:25",
+   "evento": "El tren 551 realiza su parada en la estación de Toro"
+  },
+  {
+   "hora": "14:04:07",
+   "evento": "El maquinista selecciona el modo BTS del ASFA digital en Toro; recibe el BOI del jefe de circulación de Toro"
+  },
+  {
+   "hora": "14:10:44",
+   "evento": "El tren 551 pasa la señal avanzada E'1 de Monte la Reina a 132 km/h, señal girada hacia el campo"
+  },
+  {
+   "hora": "14:11:00",
+   "evento": "Hora del incidente según cabecera del informe: paso sin parada por la estación de Monte la Reina"
+  },
+  {
+   "hora": "14:11:24",
+   "evento": "El tren 551 pasa la señal de entrada E1 a 122 km/h, señal también girada hacia el campo"
+  },
+  {
+   "hora": "14:11:48",
+   "evento": "El tren 551 pasa frente al edificio de viajeros de Monte la Reina a 124 km/h"
+  },
+  {
+   "hora": "14:11:53",
+   "evento": "El tren 551 pasa la señal de salida S1/1 a 126 km/h en dirección Zamora, sin haberse detenido"
+  },
+  {
+   "hora": "15:00",
+   "evento": "El jefe de circulación de Monte la Reina comunica el incidente al puesto de mando de León (40 minutos después)"
+  },
+  {
+   "hora": "17:33",
+   "evento": "Se releva al maquinista en Ourense; se le practican pruebas de alcoholemia y drogas (negativas)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "551",
+   "tipo": "viajeros larga distancia (autopropulsado)",
+   "operador": "Renfe Viajeros",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 551 (matrícula 9754854)",
+   "implicacion": "Fallo humano: no cumplió las prescripciones de circulación del BTS al no detenerse en Monte la Reina. Interpretó erróneamente que era estación intermedia sin personal al ver señales giradas. No conocía la Noticia TO Nº58. Conocía el Aviso Nº63. No superó velocidad máxima. Pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "jefe de circulación de la estación de Monte la Reina (matrícula 8828832)",
+   "implicacion": "Esperaba en el gabinete la parada del tren para dar rebase de señal. No tenía constancia de que las señales avanzada y de entrada estaban giradas. Tardó 40 minutos en comunicar el incidente al puesto de mando de León, incumpliendo el art. 104.2 del RGC."
+  },
+  {
+   "rol": "encargado de trabajos en la estación de Monte la Reina",
+   "implicacion": "Giró las señales avanzada y de entrada hacia el campo sin solicitarlo reglamentariamente ni informar al jefe de circulación. Situación no contemplada en la consigna ni en el estudio de riesgos."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales avanzada E'1 y entrada E1 giradas hacia el campo (no reglamentario, no contemplado en consigna). Señal de salida S1/1 apagada y orientada a la vía. Agujas 1 y 2 embridadas y aseguradas a posición normal hacia vía 1. ASFA en servicio con balizas concordantes.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "180 km/h (tipo 180B); velocidad de paso tipo B: 135 km/h según CVM",
+  "ancho": "ibérico",
+  "electrificacion": "sin electrificar",
+  "estado_via": "vía 3 (secundaria) dada de baja desde las 13:10 hasta las 16:30 del 14/10/2015; agujas sin relación eléctrica con enclavamiento desde las 09:30; circulación por vía 1",
+  "otro": "BLAU (bloqueo de liberación automática en vía única) sustituido por BTS durante los trabajos. CTC en puesto de mando de León. Sin radiotelefonía tren-tierra en modalidad A (solo en entorno de estaciones, modalidad C). Cambio de enclavamiento eléctrico Cobra por electrónico Thales Intersig L905E en curso."
+ },
+ "material_rodante": {
+  "series": "Talgo S-730, automotor 730.014-8, tipo 180B, 15 vehículos, 391 toneladas",
+  "averia": "ninguna; equipos de seguridad (freno, ASFA) funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Día, buena visibilidad",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción: el maquinista no cumplió las prescripciones de circulación del Bloqueo Telefónico Supletorio entre Toro y Zamora, pasando sin detenerse en Monte la Reina.",
+  "contribuyentes": [
+   "Señales avanzada E'1 y de entrada E1 giradas hacia el campo, situación no contemplada en la consigna ATO/CTO Nº 35/52 ni en el estudio de riesgos; el encargado de trabajos no solicitó reglamentariamente el giro ni informó al jefe de circulación.",
+   "El maquinista no disponía de la Noticia TO Nº58 (con los aspectos de las señales), al no habérsela facilitado el personal responsable de documentación de la empresa operadora.",
+   "El Aviso Nº63 que sí conocía el maquinista no mencionaba el BTS ni el estado de las señales.",
+   "El BOI entregado en Toro no indicaba que Monte la Reina fuera estación intermedia sin personal, pero el maquinista interpretó erróneamente que lo era.",
+   "El jefe de circulación tardó 40 minutos en comunicar el incidente al puesto de mando de León (incumplimiento art. 104.2 RGC), lo que permitió que el tren continuara hasta Ourense."
+  ],
+  "sistemicas": [
+   "La consigna ATO/CTO Nº 35/52 no era suficientemente detallada respecto a las afecciones sobre elementos de las instalaciones de seguridad (señales, agujas) y sus posibles indicaciones no eran acordes con el BTS establecido.",
+   "El estudio de riesgos (Informe de Gestión de Riesgos) era poco detallado y generalista; no analizaba cómo cada operación afectaba al conjunto de instalaciones de seguridad. Existía contradicción interna: indicaba no circular trenes durante pruebas y a la vez que si hubiera circulaciones no fuera al amparo de señalización lateral.",
+   "No había trazabilidad, comunicación ni intercambio de información entre el estudio de riesgos y la consigna.",
+   "Fallo en el proceso de distribución de documentación operativa (Noticia TO) al personal de conducción por parte de la empresa operadora."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "ninguno",
+  "afectacion_servicio": "ninguna; no se produjo interceptación de vía, ningún tren sufrió retraso ni hubo que suprimir circulación"
+ },
+ "lecciones": [
+  "En situaciones de BTS, las señales avanzada y de entrada intervienen en el bloqueo (art. 433 RGC); girarlas hacia el campo es una acción no reglamentaria que puede inducir a error al maquinista.",
+  "El BOI debe reflejar todas las circunstancias que afecten a la circulación, incluida la consideración de estaciones intermedias sin personal.",
+  "La consigna es un documento reglamentario de obligado cumplimiento; cualquier variación de elementos de instalaciones de seguridad debe solicitarse por cauces reglamentarios.",
+  "El análisis de riesgos debe ser específico y detallado para cada operación, con trazabilidad hacia la consigna.",
+  "La comunicación de incidencias al puesto de mando debe ser inmediata (art. 104.2 RGC); los 40 minutos de demora impidieron detener el tren antes de Ourense."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En los cursos de reciclaje dirigido al personal de conducción, incidir en las situaciones degradadas o no habituales como es el caso del bloqueo telefónico supletorio.",
+   "destinatario": "AESF / Renfe Operadora (49/15-1)"
+  },
+  {
+   "texto": "Desarrollar e implementar los mecanismos adecuados para asegurar que, por parte de los responsables de documentación de las diferentes áreas organizativas, a los maquinistas les lleguen las Noticias que les afecten antes de la realización de los servicios. Los mandos intermedios deberán asesorar a los maquinistas recordando la aplicación de las condiciones de circulación que se recojan en dichos documentos antes de la realización de los servicios.",
+   "destinatario": "AESF / Renfe Operadora (49/15-2)"
+  },
+  {
+   "texto": "Las Consignas que regulen trabajos deberán ser más detalladas, describiendo en todo momento las afecciones y situaciones que la realización de los trabajos ocasionan sobre los diferentes elementos de las instalaciones de seguridad, y muy especialmente en las señales y demás componentes.",
+   "destinatario": "AESF / Adif (49/15-3)"
+  },
+  {
+   "texto": "La realización del análisis y estudio de riesgos deberá hacerse en fases previas del proyecto para la mitigación adecuada de los riesgos detectados y su verificación posterior durante las fases y etapas del proyecto. Se deberá establecer trazabilidad, comunicación e intercambio de información entre la elaboración del estudio de riesgo y la consigna.",
+   "destinatario": "AESF / Adif (49/15-4)"
+  },
+  {
+   "texto": "En los cursos de reciclaje impartidos al personal que interviene en la circulación, insistir en la necesidad de comunicar a la mayor brevedad posible las incidencias que puedan afectar a la seguridad en la circulación.",
+   "destinatario": "AESF / Adif (49/15-5)"
+  }
+ ],
+ "tags": [
+  "bloqueo telefonico supletorio",
+  "paso sin parada",
+  "cambio de enclavamiento",
+  "senal girada al campo",
+  "fallo humano conduccion",
+  "noticia TO no entregada",
+  "consigna insuficiente",
+  "estudio de riesgos deficiente",
+  "monte la reina",
+  "linea 820",
+  "renfe viajeros",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 14.10.2015 170503-151014-IF-CIAF"
+}

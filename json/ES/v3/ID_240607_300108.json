@@ -1,0 +1,132 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona en la estación de Vinaroz por imprudencia al cruzar la vía sin usar el paso inferior",
+ "idioma_original": "es",
+ "resumen": "El 24 de junio de 2007, a las 23:04, una persona fue arrollada mortalmente por el tren de Larga Distancia 1501 en la vía 2 de la estación de Vinaroz (línea 600 Valencia Nord – San Vicenç de Calders). La víctima, tras apearse de un tren en la vía 3, cruzó la vía 2 por un lugar no autorizado en vez de utilizar el paso inferior situado a 95 metros. El tren circulaba a 165 km/h en un trazado recto con visibilidad buena y tiempo despejado. El maquinista emitió señales acústicas reiteradas y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. La investigación concluyó que el accidente se debió a la imprudencia de la víctima.",
+ "hechos": "Tras apearse de un tren que había efectuado una parada en vía 3 de la estación de Vinaroz, una persona se dispuso a cruzar desde el margen derecho hacia el izquierdo de la vía 2 (según el sentido de la marcha del tren) por un lugar no autorizado, sin hacer uso del paso inferior existente a 95 metros del punto del arrollamiento. En ese momento pasó por dicha vía el tren de Larga Distancia 1501, que circulaba a 165 km/h en un trazado recto con buena visibilidad, siendo de noche con tiempo despejado. El maquinista emitió reiteradas señales acústicas mediante el silbato y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento, que resultó mortal para la víctima. El tren quedó detenido a 1000 metros del punto del impacto. El maquinista notificó al PM de Valencia, que movilizó servicios de emergencias externos. Los medios sanitarios confirmaron el fallecimiento y levantaron el cadáver a la 01:00. La circulación por vía 2 se restableció a velocidad normal a la 1:00.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Vinaroz",
+  "pk": "146+805",
+  "linea": "600 Valencia Nord – San Vicenç de Calders",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Vía 2 de la estación de Vinaroz, sentido Valencia. Andenes elevados, sin paso entarimado ni paso vicioso. Existe un paso inferior entre andenes a 95 m del lugar del arrollamiento. Trazado en recta."
+ },
+ "cronologia": [
+  {
+   "hora": "23:04",
+   "evento": "Arrollamiento de una persona por el tren Larga Distancia 1501 en vía 2 de la estación de Vinaroz. Frenada brusca, tren detenido a 1000 m."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista notifica al PM de Valencia, que moviliza servicios de emergencias externos. El tren reanuda la marcha 39 minutos después."
+  },
+  {
+   "hora": null,
+   "evento": "Se persona el Jefe de Circulación del S.I.C. como Delegado de la emergencia. Policía Local analiza el lugar del arrollamiento."
+  },
+  {
+   "hora": "01:00",
+   "evento": "Medios sanitarios confirman el fallecimiento y levantan el cadáver. Se restablece la circulación por Vía 2 a velocidad normal."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1501",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 39 minutos. Daños materiales valorados en 1.151,28 euros."
+  },
+  {
+   "numero": "947",
+   "tipo": null,
+   "operador": null,
+   "danos": "Retraso de 7 minutos."
+  },
+  {
+   "numero": "997",
+   "tipo": null,
+   "operador": null,
+   "danos": "Retraso de 14 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del Larga Distancia 1501",
+   "implicacion": "Emitió señales acústicas reiteradas con el silbato y aplicó el freno de emergencia sin poder evitar el arrollamiento. Control de alcoholemia negativo. Verificada su aptitud psicofísica. Jornada previa 13:00-23:40 con 3 h de espera en Barcelona; conducción efectiva 14:05-17:13 y 20:30-23:03. Jornada 24 h anteriores: 14:20-20:15. Jornada 48 h anteriores: descanso."
+  },
+  {
+   "rol": "PM de Valencia",
+   "implicacion": "Recibió la notificación del maquinista y movilizó servicios de emergencias externos."
+  },
+  {
+   "rol": "Jefe de Circulación del S.I.C.",
+   "implicacion": "Se personó en el lugar y actuó como Delegado de la emergencia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Existe un paso inferior entre andenes a 95 m del lugar del arrollamiento. Andenes elevados, sin paso entarimado ni paso vicioso.",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "200 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Trazado en recta, visibilidad buena",
+  "otro": "Bloqueo Automático con C.T.C. en vía doble. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "De noche, tiempo despejado, visibilidad buena",
+ "causas": {
+  "directa": "Imprudencia de la víctima al cruzar la vía 2 por un lugar inadecuado y no autorizado, invadiendo el gálibo de la vía en el momento de paso del tren, sin utilizar el paso inferior existente a 95 m.",
+  "contribuyentes": [
+   "Velocidad elevada del tren (165 km/h) que redujo el tiempo de reacción disponible.",
+   "La víctima hizo caso omiso de las señales acústicas emitidas reiteradamente por el maquinista mediante el silbato."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Valoración económica de 1.151,28 euros (según informe de Renfe Operadora).",
+  "afectacion_servicio": "Tren 1501 retraso 39 min; tren 947 retraso 7 min; tren 997 retraso 14 min. Vía 2 restablecida a velocidad normal a la 01:00."
+ },
+ "lecciones": [
+  "La existencia de un paso inferior a 95 m del punto del arrollamiento no fue aprovechada por la víctima.",
+  "Las señales acústicas del silbato y la aplicación del freno de emergencia no fueron suficientes para evitar el atropello a 165 km/h en un trazado recto."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Sensibilizar a la población en el respeto de las normas y en el correcto uso de las zonas de paso.",
+   "destinatario": null
+  },
+  {
+   "texto": "Señalar con paneles informativos sobre el peligro de cruzar las vías.",
+   "destinatario": null
+  },
+  {
+   "texto": "Intensificar las labores de vigilancia, así como los avisos por megafonía ante la proximidad de un tren.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "imprudencia",
+  "cruce de via",
+  "paso inferior",
+  "larga distancia",
+  "estacion",
+  "vinallop",
+  "vinares",
+  "valencia",
+  "adif",
+  "renfe",
+  "freno emergencia",
+  "silbato"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_240607_300108"
+}

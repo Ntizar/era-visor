@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un viajero al intentar subir en marcha a un tren de Cercanías en la estación de Villalba de Guadarrama",
+ "idioma_original": "es",
+ "resumen": "El 6 de abril de 2007, en la estación de Villalba de Guadarrama (Madrid), un viajero de 54 años fue arrollado mortalmente al intentar abrir la puerta y subir a un tren de Cercanías de Renfe (nº 21162) ya en marcha. El tren se detuvo a los 21 metros tras alcanzar una velocidad máxima de 13 km/h, pero la persona quedó atrapada entre el andén y el tren. Pese a los intentos de reanimación, se certificó su muerte a las 22:00. El accidente se atribuyó a la imprudencia de la víctima.",
+ "hechos": "El tren de Cercanías 21162 de Renfe, compuesto por 3 vagones y 198 toneladas, realizaba su salida a las 20:53 desde la topera de vía 10 de la estación de Villalba de Guadarrama. Un viajero de 54 años que se encontraba en el andén, a la altura de la última puerta de la composición, intentó abrir la puerta para subir al tren ya en marcha, introduciéndose el pie entre el coche y el andén, cayendo y quedando atrapado entre ambos. El tren fue detenido a 21 metros de su inicio de marcha, tras alcanzar una velocidad máxima de 13 km/h. La persona fue rescatada a las 21:30 por los Bomberos de la Comunidad, y tras los intentos de reanimación por parte del SAMUR, se certificó su fallecimiento a las 22:00. El levantamiento del cadáver se autorizó a las 23:30.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villalba de Guadarrama",
+  "pk": "37/893",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Andén de la vía 10, en recta, topera de vía 10. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "cronologia": [
+  {
+   "hora": "20:53",
+   "evento": "Salida del tren 21162 desde la topera de vía 10. El viajero cae entre el andén y el tren en movimiento."
+  },
+  {
+   "hora": "20:53",
+   "evento": "Detención del tren a 21 metros de su inicio de marcha. Se verifica que la persona está atrapada pero con vida."
+  },
+  {
+   "hora": "21:30",
+   "evento": "Rescate de la persona por los Bomberos de la Comunidad."
+  },
+  {
+   "hora": "22:00",
+   "evento": "Certificación del fallecimiento tras intentos de reanimación por Urgencia Médica de Madrid."
+  },
+  {
+   "hora": "23:30",
+   "evento": "Autorización del levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "21162",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "17246",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe de Circulación de Villalba de Guadarrama",
+   "implicacion": "Matrícula 1344951. Presintió el riesgo y cerró la señal de salida S2/10."
+  },
+  {
+   "rol": "Maquinista del tren 21162",
+   "implicacion": "Matrícula 8845711. Detuvo el tren de motu proprio. Jornada previa 3h18min, 24h anteriores 8h, 48h anteriores descanso. Último reconocimiento médico 17.09.2004. Curso reciclaje RGC 01.02.2007. Prueba de alcoholemia negativa (0,00mg/1000ml)."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Varón de 54 años, viajero que intentó subir al tren en marcha."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. Señal de salida S2/10. Monitores de circuito cerrado de TV en el gabinete de circulación con visión longitudinal del andén. Megafonía y cartelones luminosos anunciando la salida de los trenes.",
+  "tipo_via": "Andén de vía 10 en recta",
+  "velocidad_maxima": "13 km/h (velocidad alcanzada por el tren antes de frenar)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Red Ferroviaria de Interés General administrada por Adif. Línea 100 Madrid-Hendaya."
+ },
+ "material_rodante": {
+  "series": "3v/198t Tm.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Lluvia en el momento del accidente, visibilidad reducida. El espejo retrovisor del maquinista se encontraba mojado.",
+ "causas": {
+  "directa": "Imprudencia de la víctima al caminar en paralelo al tren en marcha e intentar abrir la puerta para acceder al mismo, introduciéndose el pie entre coche y andén y cayendo atrapada.",
+  "contribuyentes": [
+   "Lluvia y visibilidad reducida en el andén",
+   "Espejo retrovisor del maquinista mojado por la lluvia, dificultando la visión",
+   "La víctima se encontraba en el andén sin hacer ademán de subir, lo que pudo llevar al maquinista a no prever su intención"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+  "afectacion_servicio": "Transbordo de los viajeros del tren 21162 al tren 17246."
+ },
+ "lecciones": [
+  "El cierre de puertas y el inicio de marcha deben realizarse con verificación visual directa cuando las condiciones meteorológicas (lluvia) impiden una visión fiable por espejos retrovisores.",
+  "La coordinación entre Jefe de Circulación y maquinista ante una situación de riesgo permitió una reacción inmediata (cierre de señal y detención de motu proprio), aunque no fue suficiente para evitar el fallecimiento."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Realizar campañas de sensibilización para evitar que viajeros intenten subir o bajar de un tren en marcha.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "viajero",
+  "tren en marcha",
+  "imprudencia",
+  "cercanias",
+  "villalba de guadarrama",
+  "lluvia",
+  "visibilidad reducida",
+  "fallecido",
+  "andén",
+  "puertas",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-060407-190707-DGF"
+}

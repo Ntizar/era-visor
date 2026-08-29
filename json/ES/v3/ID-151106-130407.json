@@ -1,0 +1,126 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo por un tren de Cercanías en paso a nivel entre Cullera y Tavernes (Valencia)",
+ "idioma_original": "es",
+ "resumen": "El 15 de noviembre de 2006, a las 08:50, un turismo Opel Corsa fue arrollado por el tren de Cercanías nº 24215 de Renfe en un paso a nivel de clase C situado entre las estaciones de Cullera y Tavernes (línea Silla-Gandía, pk 28,363, provincia de Valencia). El conductor, un varón de 66 años, falleció tras sortear la semibarrera bajada e invadir la vía. Las instalaciones del paso a nivel funcionaban correctamente y el tren circulaba a velocidad inferior a la máxima permitida. El accidente se atribuyó a la imprudencia del conductor del automóvil. Se recomienda incidir en el mantenimiento de la señalización luminosa.",
+ "hechos": "Un vehículo automóvil Opel Corsa, matrícula V-8284-CK, se introdujo en el paso a nivel de clase C del pk 28,363 de la línea Silla-Gandía (entre Cullera y Tavernes, provincia de Valencia) por el lado derecho en sentido de la marcha, sorteando la semibarrera que se encontraba bajada, encontrándose el paso protegido con señalización luminosa y semibarreras. El tren de Cercanías nº 24215 de Renfe, compuesto por 3 vehículos con 169 toneladas y motor 447.017, circulaba a 117 km/h (máxima permitida 120 km/h). El maquinista, al observar el vehículo invadiendo la vía a unos 5-10 metros, accionó simultáneamente silbato y freno, sin poder evitar el arrollamiento. El único ocupante del vehículo, un varón de 66 años, falleció en el lugar. Según el reportaje fotográfico, el vehículo presuntamente se saltó la isleta de ordenación del tráfico y accedió al paso a nivel por sentido contrario al normal de circulación.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "28,363",
+  "linea": "Silla-Gandía",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Paso a nivel de clase C en la intersección con el camino de Barranquet, dentro del municipio de Cullera, entre las estaciones de Cullera y Tavernes. Entorno rural, fuera del núcleo urbano. Traza en recta. Línea electrificada de vía única con bloqueo banalizado y control de tráfico centralizado (CTC)."
+ },
+ "cronologia": [
+  {
+   "hora": "06:00",
+   "evento": "Inicio de jornada del maquinista del tren 24215"
+  },
+  {
+   "hora": "08:50",
+   "evento": "Arrollamiento del vehículo por el tren de Cercanías nº 24215 en el paso a nivel del pk 28,363"
+  },
+  {
+   "hora": "10:45",
+   "evento": "Los bomberos liberan el vehículo de debajo del tren"
+  },
+  {
+   "hora": "11:10",
+   "evento": "Se autoriza el levantamiento del cadáver"
+  },
+  {
+   "hora": "12:35",
+   "evento": "Se restablece la tensión y queda libre la vía"
+  },
+  {
+   "hora": "14:11",
+   "evento": "Finalización de la jornada del maquinista"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24215",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "Desperfectos varios en material móvil (11.668,90 euros según informe de RENFE)"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 24215",
+   "implicacion": "Accionó silbato y freno simultáneamente al ver el vehículo invadiendo la vía; prueba de alcoholemia negativa (0,00 mg/l) realizada dos veces"
+  },
+  {
+   "rol": "Técnico de la Jefatura Técnica de Operaciones de Valencia",
+   "implicacion": "Nombrado jefe delegado del accidente"
+  },
+  {
+   "rol": "Conductor del vehículo Opel Corsa",
+   "implicacion": "Fallecido (varón de 66 años); invadió la vía con semibarrera bajada"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa. Señalización ferroviaria y de camino reglamentaria. Uno de los dos focos del lado derecho no funcionaba adecuadamente.",
+  "tipo_via": "Vía única electrificada con bloqueo automático banalizado y control de tráfico centralizado (CTC)",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Correcto; visibilidad de 800 m a ambos lados por cada margen; traza en recta; vallado metálico en margen derecha",
+  "otro": "Momento de circulación del paso a nivel: 11.640. Ordenación del tráfico de carretera por dos caminos de asfalto que confluyen separados por una isleta. En fase de redacción de proyecto para supresión del paso a nivel y sustitución por paso superior."
+ },
+ "material_rodante": {
+  "series": "447.017 (motor), UT de 3 vehículos, 169 toneladas",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Día soleado con buenas condiciones atmosféricas y perfecta visibilidad",
+ "causas": {
+  "directa": "Invasión indebida de la vía por el conductor del vehículo automóvil, que sorteó la semibarrera bajada y accedió al paso a nivel por sentido contrario al normal de circulación, saltándose la isleta de ordenación del tráfico.",
+  "contribuyentes": [
+   "Posible fallo parcial en la señalización luminosa: uno de los dos focos del lado derecho no funcionaba adecuadamente",
+   "Diseño del acceso al paso a nivel por dos caminos que confluyen separados por isleta, lo que pudo facilitar la maniobra indebida del conductor"
+  ],
+  "sistemicas": [
+   "Necesidad de supresión del paso a nivel y sustitución por paso superior (en fase de proyecto)",
+   "Mantenimiento insuficiente de la señalización luminosa del paso a nivel"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Siniestro total del vehículo Opel Corsa. Desperfectos varios en material móvil (11.668,90 euros). Rotura del pedal y de la caja de conexiones del circuito de vía del paso a nivel; sueltas algunas grapas de sujeción de carril. Daños en instalaciones pendientes de valorar.",
+  "afectacion_servicio": "Retrasos de 201 minutos acumulados en 16 trenes de Cercanías (ADIF) / 246 minutos en 29 trenes más 4 suprimidos con trasbordo por autobús (Renfe). Tren accidentado detenido 120 minutos en el paso a nivel. Vía libre a las 12:35."
+ },
+ "lecciones": [
+  "El correcto funcionamiento de las instalaciones del paso a nivel no garantiza la seguridad si los usuarios de carretera no respetan la señalización y las semibarreras.",
+  "La existencia de una isleta de ordenación del tráfico no impide que un vehículo acceda al paso a nivel por sentido contrario saltándosela.",
+  "El diseño de accesos al paso a nivel con dos caminos que confluyen puede facilitar maniobras indebidas de usuarios."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Incidir en el correcto mantenimiento de la señalización luminosa del paso a nivel.",
+   "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+  },
+  {
+   "texto": "Proceder a la supresión del paso a nivel y su sustitución por un paso superior (proyecto en fase de redacción).",
+   "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase C",
+  "semibarrera",
+  "imprudencia",
+  "cercanías",
+  "cullera",
+  "tavernes",
+  "silla-gandía",
+  "opel corsa",
+  "señalización luminosa",
+  "valencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-151106-130407"
+}

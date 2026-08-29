@@ -1,0 +1,141 @@
+{
+ "titulo_normalizado": "Rebase de señal de salida en Barcelona Sants con conato de colisión",
+ "idioma_original": "es",
+ "resumen": "El 10 de mayo de 2015, a las 22:23, el tren 39766 de RENFE Viajeros, en material vacío, rebasó la señal de salida S BSN M3 en indicación de parada en la estación de Barcelona Sants. El rebase se produjo por confusión del maquinista con la señal de la vía 4, alineada desde la cabina. El sistema ERTMS aplicó un frenado de emergencia y se registró un conato de colisión con el tren 00537, que entraba en la vía 1. No hubo heridos ni daños materiales, aunque la vía 3 quedó interceptada 189 minutos.",
+ "hechos": "Los hechos tuvieron lugar el 10 de mayo de 2015 a las 22:23 en la estación de Barcelona Sants, en la línea 050 Madrid Puerta de Atocha a Límite Adif TP-Ferro. El tren 39766, de RENFE Viajeros y con material vacío, estaba estacionado en la vía 3 con destino a la base de mantenimiento de alta velocidad de Barcelona Can Tunis. El jefe del CRC de Zaragoza había establecido un itinerario de salida por la vía 4 para el tren 38888, también en material vacío con destino a Can Tunis, y simultáneamente un itinerario de entrada para el tren 00537 hacia la vía 1. A las 22:21 se abrió la señal de salida S BSN M4 de la vía 4 para el tren 38888, que realizó su salida a las 22:22.\n\nDado que las señales de salida de las vías 3 y 4 se encontraban al final del andén común, desde la posición del tren 39766 el maquinista confundió la señal de la vía 4 con la de la vía 3, que estaba en indicación de parada, e inició la marcha a las 22:23:30. A las 22:23:43, circulando a 21 km/h, el tren pasó sobre la baliza de la señal S BSN M3 y el sistema ERTMS actuó un frenado de emergencia, conocido como TRIP. El tren se detuvo a las 22:23:51 tras recorrer 46 metros desde la baliza, ocupando el circuito de vía V S22 BSN N2. En ese momento el tren 00537 estaba realizando su entrada en la vía 1, produciéndose un conato de colisión.\n\nEl jefe del CRC de Zaragoza observó la ocupación intempestiva del circuito de vía, contactó con el maquinista y, al comprobar que el tren no había pisado el cambio posterior a la señal, autorizó el retroceso de la composición para volver a estacionarla en la vía 3. El retroceso terminó a las 22:33:48 tras recorrer 33 metros. El maquinista fue relevado conforme a los protocolos de seguridad y el tren 39766 continuó hacia Barcelona Can Tunis a la 01:09 con 189 minutos de retraso. No se produjeron heridos ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Barcelona Sants",
+  "pk": "620+644 (señal S BSN M3); estación PK 621+052",
+  "linea": "050 Madrid Puerta de Atocha a Límite Adif TP-Ferro",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación subterránea en túnel artificial y de tipo comercial; vía 3, señal de salida S BSN M3, tramo Barcelona Sants-Bif. Can Tunis."
+ },
+ "cronologia": [
+  {
+   "hora": "22:21",
+   "evento": "El jefe del CRC de Zaragoza abre la señal de salida S BSN M4 de la vía 4 para el tren 38888, material vacío con destino a Barcelona Can Tunis."
+  },
+  {
+   "hora": "22:22",
+   "evento": "El tren 38888 realiza su salida desde la vía 4."
+  },
+  {
+   "hora": "22:22",
+   "evento": "Está establecido el itinerario de entrada del tren 00537 desde la señal E BSN F2 hasta la vía 1."
+  },
+  {
+   "hora": "22:23",
+   "evento": "El tren 39766, material vacío, inicia la marcha desde la vía 3 con la señal de salida S BSN M3 en indicación de parada."
+  },
+  {
+   "hora": "22:23",
+   "evento": "El tren 39766 pasa por la baliza de la señal S BSN M3 a 21 km/h y el sistema ERTMS aplica un TRIP o frenado de emergencia."
+  },
+  {
+   "hora": "22:23",
+   "evento": "El tren 39766 queda detenido tras recorrer 46 metros desde la baliza y ocupa el circuito de vía V S22 BSN N2; se produce conato de colisión con el tren 00537, que entraba en la vía 1."
+  },
+  {
+   "hora": "22:33",
+   "evento": "El tren 39766 inicia retroceso hacia la vía 3 tras autorización del jefe del CRC de Zaragoza."
+  },
+  {
+   "hora": "22:33",
+   "evento": "El tren 39766 termina el retroceso y queda estacionado en la vía 3 tras recorrer 33 metros."
+  },
+  {
+   "hora": "01:09",
+   "evento": "El tren 39766 sale hacia Barcelona Can Tunis con otro maquinista y 189 minutos de retraso."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "39766",
+   "tipo": "Material vacío, serie 114 de alta velocidad",
+   "operador": "RENFE Viajeros",
+   "danos": "No se produjeron daños materiales"
+  },
+  {
+   "numero": "38888",
+   "tipo": "Material vacío",
+   "operador": null,
+   "danos": "No se produjeron daños materiales"
+  },
+  {
+   "numero": "00537",
+   "tipo": null,
+   "operador": null,
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 39766",
+   "implicacion": "Confundió la señal de salida de la vía 4 con la de la vía 3, inició la marcha y rebasó la señal S BSN M3 en indicación de parada; tras el incidente fue relevado, se le aplicaron medidas y las pruebas de alcoholemia y drogas fueron negativas."
+  },
+  {
+   "rol": "Jefe del CRC de Zaragoza",
+   "implicacion": "Estableció los itinerarios, observó la ocupación intempestiva del circuito de vía, contactó con el maquinista, autorizó el retroceso y activó el protocolo de seguridad."
+  },
+  {
+   "rol": "Maquinista de relevo",
+   "implicacion": "Continuó el trayecto del tren 39766 hacia Barcelona Can Tunis a la 01:09."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S BSN M3 de la vía 3 en indicación de parada; señal de salida S BSN M4 de la vía 4 al final del andén común; ambas señales altas y de cuatro focos; desde el 10.07.2015 se instaló una pantalla entre las señales.",
+  "tipo_via": "Estación con 6 vías de ancho UIC; vía doble electrificada; vías 3 y 4 comparten andén en curva.",
+  "velocidad_maxima": "30 km/h en el lugar del suceso",
+  "ancho": "UIC",
+  "electrificacion": "Electrificada",
+  "estado_via": "Itinerarios establecidos correctamente; señal S BSN M3 en todo momento en indicación de parada; sin obras en inmediaciones; circuito de vía V S22 BSN N2 ocupado tras el rebase.",
+  "otro": "Sistema ERTMS en Bloqueo de Señalización Lateral; comunicaciones GSM-R; PK estación 621+052; PK señal S BSN M3 620+644; PK señal S BSN M4 620+627; distancia entre señales 17 metros; desvío D14 BSN N2 en posición invertida; media semanal de circulaciones del tramo Barcelona Sants-Bif. Can Tunis: 835."
+ },
+ "material_rodante": {
+  "series": "Serie 114 de alta velocidad, rama 114007, 4 vehículos, 16 ejes, 108 metros y 229 toneladas; registrador de seguridad tipo CESIS 3.",
+  "averia": "No se detectaron anomalías en los equipos o dispositivos de seguridad del tren.",
+  "mantenimiento": "No consta deficiencia de mantenimiento; los equipos de seguridad funcionaron correctamente."
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren 39766 al confundir la señal de salida de la vía 3 con la de la vía 4, dando lugar al rebase indebido de la señal S BSN M3 en indicación de parada.",
+  "contribuyentes": [
+   "La posición de las señales de salida de las vías 3 y 4, al final del andén común y alineadas desde la cabina, podía inducir confusión.",
+   "La apertura de la señal de salida de la vía 4 para el tren 38888 mientras el tren 39766 esperaba en la vía 3.",
+   "El maquinista no vio correctamente el aspecto de la señal de salida correspondiente a la vía 3.",
+   "Existencia de tres sucesos similares previos en la misma señal S BSN M3 en los últimos cuatro años, todos con material vacío con destino a Barcelona Can Tunis."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "La vía 3 estuvo interceptada durante 189 minutos; el tren 39766 sufrió 189 minutos de retraso; no fue necesario activar el plan de emergencia interno-externo."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 y B BSN M4 de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "barcelona sants",
+  "ertms",
+  "error humano",
+  "señalización",
+  "material vacío",
+  "renfe viajeros",
+  "adif",
+  "alta velocidad",
+  "pantalla entre señales",
+  "protocolo de seguridad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 10.05.2015 161129150510IFCIAF"
+}

@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una peatona en paso a nivel de clase C en la estación de Sant Feliú de Llobregat",
+ "idioma_original": "es",
+ "resumen": "El 16 de abril de 2008, a las 14:48, el tren de Cercanías 28934 de Renfe Operadora arrolló mortalmente a una mujer de 14 años en el Paso a Nivel de clase C del P.K. 88,906, dentro de la estación de Sant Feliú de Llobregat. Las semibarreras estaban bajadas y enclavadas y las señales luminosas de prohibición encendidas, según los registros del paso a nivel y del enclavamiento. La investigación concluye que el origen del accidente fue el cruce de la víctima por el paso a nivel cuando su señalización indicaba prohibición de paso. No se produjeron daños materiales ni recomendaciones específicas, al existir un paso superior de peatones y estar en marcha la supresión del paso a nivel.",
+ "hechos": "El 16 de abril de 2008, a las 14:48, el tren de Cercanías 28934 de Renfe Operadora, formado por U/T 463202 en cabeza y U/T 464209 en cola, entraba en la estación de Sant Feliú de Llobregat por la línea 240 Barcelona-San Vicente de Calders, en trayecto Molins del Rey-Cornellá. Al llegar al Paso a Nivel de clase C del P.K. 88,906, denominado 'Paseo de Villardaba', se encontró con una mujer que cruzaba por la zona reservada a peatones con las semibarreras bajadas y enclavadas y las señales luminosas de prohibición encendidas.\n\nSegún la declaración del maquinista, la víctima hablaba por un móvil y se introdujo entre las barreras por la izquierda en sentido de la marcha. El maquinista hizo uso del silbato y del freno de urgencia, pero no pudo evitar el impacto. La mujer, de 14 años, resultó herida muy grave y falleció minutos después en el lugar del accidente.\n\nEl registro del paso a nivel y del enclavamiento confirmaron que ambos funcionaban correctamente y que habían transcurrido 1 minuto 54 segundos desde el cierre del paso hasta el accidente. El tren circulaba a 60 km/h, velocidad inferior a la máxima permitida para ese tipo de tren en el trayecto.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Feliú de Llobregat",
+  "pk": "88,906",
+  "linea": "240 Barcelona - San Vicente de Calders",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso a Nivel de clase C del P.K. 88,906, denominado 'Paseo de Villardaba', situado dentro de la estación de Sant Feliú de Llobregat, entre las señales de entrada y salida; trayecto Molins del Rey-Cornellá."
+ },
+ "cronologia": [
+  {
+   "hora": "14:48",
+   "evento": "El tren de Cercanías 28934 arrolla a una mujer en el Paso a Nivel de clase C del P.K. 88,906, en la estación de Sant Feliú de Llobregat."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista informa al Puesto de Mando de Barcelona; se autoriza al maquinista a custodiar a la víctima hasta la llegada de la Policía Local y personal sanitario viajero atiende a la persona arrollada."
+  },
+  {
+   "hora": "15:27",
+   "evento": "La Policía autoriza al maquinista a continuar la marcha hasta estacionarse en vía 3 de L'Hospitalet de Llobregat."
+  },
+  {
+   "hora": "15:37",
+   "evento": "Se informa del fallecimiento de la víctima."
+  },
+  {
+   "hora": "16:11",
+   "evento": "Se restablece la circulación normal por todas las vías."
+  },
+  {
+   "hora": "17:42",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el arrollamiento a la Comisión de Investigación de Accidentes Ferroviarios."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28934",
+   "tipo": "Tren de viajeros de Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 28934",
+   "implicacion": "Titulado y habilitado; último reconocimiento psicofísico 2005-05-25 y último reciclaje formativo 2006-08-01; jornada de conducción en el día del accidente 24 minutos, 4 horas 26 minutos en 24 horas anteriores y 4 horas 13 minutos en 48 horas anteriores; pruebas de alcohol y drogas negativas; usó el silbato y el freno de urgencia; informó al Puesto de Mando y custodió a la víctima hasta la llegada de la Policía Local."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Mujer de 14 años arrollada mortalmente en el paso a nivel."
+  },
+  {
+   "rol": "Personal sanitario viajero",
+   "implicacion": "Atendió a la persona arrollada a requerimiento del maquinista."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Comunicó el accidente a la CIAF el 16 de abril de 2008 a las 17:42."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a Nivel de clase C con semibarreras bajadas y enclavadas, señales luminosas de prohibición encendidas, señalización acústica y paso separado para peatones; en el momento del accidente funcionaba correctamente.",
+  "tipo_via": "Vía doble electrificada, B.A.B con C.T.C.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Tramo con perfil recto y buena visibilidad; no figuraba limitación temporal de velocidad en el lugar del accidente.",
+  "otro": "Momento de circulación del PN A x T=326.801, superior a 1.500, por lo que debía suprimirse; enclavamiento y PN funcionaron correctamente; radiotelefonía modalidad C; tiempo desde el cierre del PN hasta el accidente 1 minuto 54 segundos; paso superior de peatones poco utilizado."
+ },
+ "material_rodante": {
+  "series": "U/T 463202 en cabeza y U/T 464209 en cola; matrículas 94632022 y 64642096",
+  "averia": "No se produjeron daños; el material rodante funcionaba correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y no existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Cruce de la víctima por el Paso a Nivel de clase C del P.K. 88,906 cuando la señalización indicaba prohibición de paso, con semibarreras bajadas y enclavadas y señales luminosas encendidas.",
+  "contribuyentes": [
+   "La víctima sorteó las semibarreras abatidas.",
+   "Según la declaración del maquinista, la víctima cruzaba mientras hablaba con un móvil.",
+   "El paso superior de peatones cercano era poco utilizado por los usuarios."
+  ],
+  "sistemicas": [
+   "Existencia de un paso a nivel con momento de circulación A x T=326.801, superior al umbral de 1.500, por lo que debía suprimirse.",
+   "Baja utilización del paso superior de peatones, que no disuadía a los peatones de cruzar por el paso a nivel.",
+   "Antecedentes de otros sucesos en el mismo paso a nivel en 2006 y 2007."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "Vía I interceptada; se prescribe marcha a la vista a todos los trenes al paso por el punto del arrollamiento; 7 trenes suprimidos, 33 trenes retrasados y 479 minutos de retraso acumulado; circulación normal restablecida a las 16:11."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dado que existe un paso superior de peatones y la supresión del paso a nivel para vehículos está en marcha, no se establecen recomendaciones específicas para este accidente.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "peatones",
+  "señalización",
+  "semibarreras",
+  "cercanías",
+  "renfe operadora",
+  "adif",
+  "sant feliú de llobregat",
+  "víctima mortal",
+  "móvil"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-160408-300908-CIAF"
+}

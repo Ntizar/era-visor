@@ -1,0 +1,234 @@
+{
+ "titulo_normalizado": "Colisión frontal en Bifurcación Vila-seca por insuficiencia de freno tras reperfilado de ruedas",
+ "idioma_original": "es",
+ "resumen": "El 12 de junio de 2022, el tren 95172, formado por dos locomotoras serie 310, salió de los talleres de GMF tras un reperfilado extraordinario de ruedas no contemplado en el plan de mantenimiento. A la salida de Reus mostró insuficiencia de frenado, rebasó la señal E2V en indicación de parada y talonó la aguja 11 de Bifurcación Vila-seca. El tren 18087, detenido ante la señal E1V por protección de flanco, fue colisionado frontalmente a las 21:46:57. Hubo 6 heridos graves, 16 heridos leves y 7 contusionados, además de daños materiales en material rodante e infraestructura. La causa fue la insuficiencia de freno por falta de ajuste de las timonerías tras el reperfilado.",
+ "hechos": "El 12 de junio de 2022, tras una intervención extraordinaria de reperfilado de ruedas en los talleres de GMF, el tren 95172 salió de Constantí con las locomotoras 310.101 y 310.102 en mando múltiple, con destino Can Tunis. En Reus invirtió la marcha y, tras 75 minutos detenido por problemas ASFA sin relación con el suceso, reanudó a las 21:35:05 en un tramo en pendiente.\n\nDurante el descenso, el tren mostró insuficiencia de frenado: el maquinista frenó al ver la señal E'2V en anuncio de parada, aplicó freno máximo, emergencia y llegó a desconectar ASFA, pero no pudo detenerse. A las 21:44:00 comunicó al RC del CTC la insuficiencia de freno y el inminente rebase de la señal E2V, que protegía el itinerario del tren 18087. A las 21:45:08 rebasó E2V y se cerró E1V por protección de flanco; a las 21:45:40 talonó la aguja 11 y quedó encaminado por vía I.\n\nEl tren 18087, de Renfe Viajeros, había parado comercialmente en el apeadero de Vila-seca a las 21:42:25 y reanudó la marcha a las 21:45:50. Al encontrar E1V cerrada, se detuvo a 123 metros de la señal a las 21:46:42. El maquinista advirtió la llegada del tren 95172, alertó a los pasajeros y, a las 21:46:57, se produjo la colisión frontal. Como consecuencia hubo 6 heridos graves, 16 leves y 7 contusionados entre los 75 viajeros del tren 18087, además de daños materiales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Bifurcación Vila-seca",
+  "pk": "94+015",
+  "linea": "210 Miraflores – Sant Vicenç de Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Plena vía, delante de la señal de entrada E1V de Bifurcación Vila-seca, a la salida del apeadero de Vila-seca; término municipal de Vila-seca según la descripción del suceso, con referencia al municipio de Reus en el resumen; coordenadas 41° 6' 53.99 N, 1° 8' 52.41 E."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2022-05-17: en mantenimiento preventivo se detectaron valores de pestaña próximos al límite en las locomotoras 310.101 y 310.102."
+  },
+  {
+   "hora": null,
+   "evento": "2022-06-04: se reperfiló las locomotoras 310.103 y 310.104 sin ajuste de timonerías; no se detectó deficiencia de freno."
+  },
+  {
+   "hora": null,
+   "evento": "2022-06-11: las locomotoras 310.101 y 310.102 fueron trasladadas a talleres GMF para reperfilado extraordinario."
+  },
+  {
+   "hora": "19:59",
+   "evento": "12/06/2022 19:59:40: el tren 95172 sale de los talleres de GMF con 310.101 en cabeza y 310.102 en cola, en mando múltiple, dirección Can Tunis."
+  },
+  {
+   "hora": "20:19",
+   "evento": "12/06/2022 20:19:40: llega a Reus; se invierte la marcha y la 310.102 pasa a cabeza. El maquinista detecta problemas con ASFA y acude un mecánico de GMF."
+  },
+  {
+   "hora": "21:35",
+   "evento": "12/06/2022 21:35:05: el tren 95172 reanuda la marcha en Reus dirección Can Tunis, en tramo en pendiente."
+  },
+  {
+   "hora": "21:38",
+   "evento": "12/06/2022 21:38:04: el tren 95172 pasa por la señal 866 a unos 35 km/h."
+  },
+  {
+   "hora": "21:41",
+   "evento": "12/06/2022 21:41:53: el tren 95172 inicia frenada a unos 82 km/h al observar la señal E'2V en anuncio de parada."
+  },
+  {
+   "hora": "21:42",
+   "evento": "12/06/2022 21:42:25: el tren 18087 realiza parada comercial en el apeadero de Vila-seca."
+  },
+  {
+   "hora": "21:42",
+   "evento": "12/06/2022 21:42:51: el tren 95172 pasa por la señal E'2V a 75 km/h; el maquinista aplica freno máximo y emergencia."
+  },
+  {
+   "hora": "21:43",
+   "evento": "12/06/2022 21:43:16: el maquinista del tren 95172 desconecta ASFA para intentar provocar una frenada de emergencia."
+  },
+  {
+   "hora": "21:44",
+   "evento": "12/06/2022 21:44:00: el maquinista del tren 95172 comunica al RC del CTC la insuficiencia de freno y el inminente rebase de la señal E2V."
+  },
+  {
+   "hora": "21:45",
+   "evento": "12/06/2022 21:45:05: finaliza la comunicación entre el RC del CTC y el maquinista del tren 95172."
+  },
+  {
+   "hora": "21:45",
+   "evento": "12/06/2022 21:45:08: el tren 95172 rebasa la señal E2V en indicación de parada y provoca el cierre de la señal E1V por protección de flanco."
+  },
+  {
+   "hora": "21:45",
+   "evento": "12/06/2022 21:45:40: el tren 95172 talona la aguja 11 y queda encaminado por la vía donde estaba el itinerario del tren 18087."
+  },
+  {
+   "hora": "21:45",
+   "evento": "12/06/2022 21:45:50: el tren 18087 reanuda la marcha tras la parada comercial."
+  },
+  {
+   "hora": "21:46",
+   "evento": "12/06/2022 21:46:15: el tren 18087 pasa por la baliza previa de la señal E1V en indicación de parada."
+  },
+  {
+   "hora": "21:46",
+   "evento": "12/06/2022 21:46:42: el tren 18087 se detiene a 123 metros de la señal E1V."
+  },
+  {
+   "hora": "21:46",
+   "evento": "12/06/2022 21:46:57: se produce la colisión frontal entre el tren 95172 y el tren 18087."
+  },
+  {
+   "hora": "21:56",
+   "evento": "12/06/2022 21:56:16: el PM de Barcelona Estación de Francia solicita aviso a bomberos por riesgo de incendio en las zapatas."
+  },
+  {
+   "hora": "22:11",
+   "evento": "12/06/2022 22:11: por orden de bomberos se corta la tensión en catenaria por ambas vías entre Reus y Tarragona."
+  },
+  {
+   "hora": "22:34",
+   "evento": "12/06/2022 22:34: ADIF comunica a la CIAF, mediante SMS, la producción del suceso."
+  },
+  {
+   "hora": "02:25",
+   "evento": "13/06/2022 02:25: comienzan los trabajos de reparación de la aguja nº 11."
+  },
+  {
+   "hora": "03:12",
+   "evento": "13/06/2022 03:12: se devuelve la tensión en catenaria por ambas vías."
+  },
+  {
+   "hora": "06:02",
+   "evento": "13/06/2022 06:02: se restablece parcialmente la circulación; vía I banalizada entre Reus y Bif. Vila-seca y vía II entre apeadero de Vila-seca y Tarragona; interrumpidas circulaciones hacia Tortosa."
+  },
+  {
+   "hora": "06:54",
+   "evento": "13/06/2022 06:54: se devuelve la vía a circulación tras los trabajos en la aguja nº 11; se restablecen circulaciones a Tortosa y por las dos vías entre Reus y Bifurcación Vila-seca."
+  },
+  {
+   "hora": "10:05",
+   "evento": "13/06/2022 10:05: se inicia la retirada del tren 18087."
+  },
+  {
+   "hora": "13:38",
+   "evento": "13/06/2022 13:38: se inicia la retirada del tren 95172 para su apartado."
+  },
+  {
+   "hora": "01:45",
+   "evento": "14/06/2022 01:45: queda restablecida la circulación en las dos vías con total normalidad."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "95172",
+   "tipo": "Tren de locomotoras diésel-eléctricas serie 310 en mando múltiple; servicio de material vacío Constantí - Can Tunis; comercializado por Cargometro Rail Transport; 8 ejes, 25,1 m, 156 t, ASFA Digital",
+   "operador": "CAPTRAIN España S.A.U",
+   "danos": "Desperfectos en elementos de unión y tracción, motor y elementos estructurales"
+  },
+  {
+   "numero": "18087",
+   "tipo": "Tren Media Distancia / regional con automotores eléctricos serie 448; servicio Barcelona Estación de Francia - Tortosa; 6 vehículos, 158 m, 179 t",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños en elementos de unión y tracción, estructura, cabina de conducción, equipos de seguridad y comunicación y elementos interiores"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 95172",
+   "implicacion": "Personal de Captrain; detectó insuficiencia de frenado, aplicó freno y emergencia, desconectó ASFA, comunicó al RC del CTC y el tren rebasó la señal E2V."
+  },
+  {
+   "rol": "Maquinista del tren 18087",
+   "implicacion": "Personal de Renfe Viajeros; se detuvo ante E1V, advirtió la llegada del tren 95172, usó luces y silbato y alertó a los pasajeros del primer coche."
+  },
+  {
+   "rol": "Responsable de Circulación del CTC",
+   "implicacion": "Personal de ADIF; recibió aviso del maquinista del 95172, intentó contactar sin éxito con el tren 18087 y no pudo evitar la colisión; test de alcohol positivo tras el suceso."
+  },
+  {
+   "rol": "Reguladores del CTC",
+   "implicacion": "Personal de ADIF mencionado como relevante para la investigación."
+  },
+  {
+   "rol": "Técnico de mantenimiento",
+   "implicacion": "Personal de GMF relacionado con el mantenimiento; tras el reperfilado extraordinario no se ajustaron las timonerías de freno."
+  },
+  {
+   "rol": "Mecánico de GMF",
+   "implicacion": "Acudió a Reus por problemas con el sistema ASFA, sin relación con el suceso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2V por lado Reus en p.k. 90+006 y señal de entrada E1V por lado Tarragona en p.k. 93+902; baliza previa de E1V; E2V en indicación de parada y E1V cerrada por protección de flanco; ASFA Digital en el tren 95172.",
+  "tipo_via": "Vía doble electrificada con BAB y CTC entre Reus y Bifurcación Vila-seca; colisión en vía I; trayecto Constantí-Reus vía única electrificada con BAU.",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Vía electrificada; catenaria cortada por orden de bomberos y restablecida a las 03:12 del 13/06/2022.",
+  "estado_via": "Infraestructura e instalaciones funcionaron correctamente antes del suceso; la aguja nº 11 resultó dañada por talonamiento.",
+  "otro": "Radiotelefonía tren-tierra modo A, canal 62; enclavamiento con diferímetro de seguridad de 3 minutos; aguja nº 11 da acceso a la línea 600 Valencia Nord – Sant Vicenç de Calders; escape 7-5 del p.k. 93+372 al 93+472; pendiente entre 12 y 15,8 milésimas desde Reus hasta el apeadero de Vila-seca."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 310.101 y 310.102 (serie 310, diésel-eléctricas, propiedad de FGC, EEM GMF, explotadas por Captrain en mando múltiple, ASFA Digital); automotores 448.010 y 448.007 (serie 448, eléctricos autopropulsados, Renfe).",
+  "averia": "Insuficiencia de frenado en el tren 95172 por zapatas sin contacto con la banda de rodadura tras el reperfilado; problemas con ASFA en Reus sin relación con el suceso; daños por colisión en ambos trenes.",
+  "mantenimiento": "Reperfilado extraordinario de ruedas el 12/06/2022 tras desgaste acelerado; no se ajustaron las timonerías de freno; prueba de freno no detectó el defecto; GMF desarrolló tras el suceso la instrucción INGMF 0192 y el procedimiento PSGMF 0193."
+ },
+ "clima": "Condiciones meteorológicas no adversas; la colisión se produjo 15 minutos después de la puesta del sol, con cierta luminosidad solar.",
+ "causas": {
+  "directa": "Insuficiencia de frenado del tren 95172 provocada por falta de ajuste de las timonerías de freno tras una operación extraordinaria de reperfilado de ruedas, de modo que 7 de las 16 zapatas no entraban en contacto con la banda de rodadura.",
+  "contribuyentes": [
+   "Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+   "Ausencia de un AOT u otro agente que comprobase el apriete y afloje de zapatas en la circulación de locomotoras aisladas.",
+   "Comprobación dinámica de freno realizada a una velocidad que pudo dificultar al maquinista ponderar la deceleración."
+  ],
+  "sistemicas": [
+   "Ausencia de procedimiento en el Sistema de Gestión del Mantenimiento de GMF que especificara las acciones posteriores al reperfilado de ruedas y el ajuste de timonerías.",
+   "Falta de definición de procedimientos de pruebas de freno en el SGS de Captrain y en el Manual de conducción para locomotoras 310 aisladas.",
+   "Falta de concreción en los procedimientos para establecer pruebas de freno que detecten problemas de frenado relacionados con elementos mecánicos en máquinas aisladas y trenes cortos."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": 6,
+  "heridos_leves": 16,
+  "danos_materiales": "Daños en el tren 95172 (elementos de unión y tracción, motor y elementos estructurales) y en el tren 18087 (elementos de unión y tracción, estructura, cabina, equipos de seguridad y comunicación, elementos interiores). Daños en la infraestructura, en el desvío nº 11 por talonamiento. Sin daños al medio ambiente.",
+  "afectacion_servicio": "Vía II cortada del 12/06/2022 21:46 al 13/06/2022 06:02 (8 h 16 min). Vía I cortada del 12/06/2022 21:46 al 14/06/2022 01:45 (27 h 59 min). 72 trenes sufrieron retrasos: 3 larga distancia 37 min, 55 media distancia 1993 min, 14 mercancías 1399 min. Se suprimieron 14 trenes: 1 larga distancia, 8 media distancia y 5 mercancías. Se efectuó un transbordo en el tren 15030 del 13/06/2022. Se habilitaron autobuses en Vila-seca, Cambrils y Tarragona."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos.",
+   "destinatario": "AESF"
+  },
+  {
+   "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual.",
+   "destinatario": "AESF"
+  }
+ ],
+ "tags": [
+  "colisión frontal",
+  "insuficiencia de freno",
+  "reperfilado de ruedas",
+  "timonerías de freno",
+  "prueba de freno",
+  "bifurcación vila-seca",
+  "línea 210",
+  "tarragona",
+  "captrain",
+  "renfe viajeros",
+  "gmf",
+  "aesf"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10251 - 2022-48-0612-IF"
+}

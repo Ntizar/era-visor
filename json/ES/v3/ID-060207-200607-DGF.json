@@ -1,0 +1,147 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en plena vía junto a la estación de Catarroja (Valencia)",
+ "idioma_original": "es",
+ "resumen": "El informe definitivo analiza el arrollamiento grave de un peatón ocurrido el 6 de febrero de 2007 en plena vía, junto a la señal de entrada de la estación de Catarroja. El tren de Larga Distancia 1091 de Renfe Operadora, con origen en Barcelona y destino Alicante, golpeó a un varón de 91 años que intentaba cruzar las vías. La investigación atribuye el accidente a la invasión indebida de la vía y constata deficiencias en el vallado y pasos viciosos en la zona. No se produjeron daños materiales, aunque hubo interrupción de la circulación y retrasos en otros trenes.",
+ "hechos": "El 6 de febrero de 2007, a las 12:12 h, se produjo un accidente grave por arrollamiento de una persona en plena vía, en la señal de entrada de la estación de Catarroja, en el punto kilométrico 106,066 de la línea La Encina - Valencia. El tren afectado fue el de viajeros de Larga Distancia 1091 de Renfe Operadora, que realizaba el recorrido Barcelona - Alicante. La víctima fue un varón de 91 años que intentaba cruzar las vías.\n\nSegún el parte del maquinista, entre Massanassa y Catarroja, sobre el km 106 aproximadamente, observó a una persona que se aproximaba a la vía II por su lado izquierdo con intención de atravesar las vías. El maquinista hizo uso del silbato y vio que la persona levantó la cabeza hacia el tren, pero continuó cruzando. Aplicó el freno de emergencia y siguió haciendo sonar el silbato, sin conseguir que se detuviera, produciéndose el golpe con un soporte lateral derecho del tren. Del análisis de la memoria estática del vehículo motor 101.101 se desprende que la velocidad de circulación era de 138 km/h, siendo la máxima del tramo 140 km/h.\n\nTras el suceso, el maquinista comunicó el accidente al Jefe del CTC de Valencia, que cursó aviso a las gerencias de seguridad, protección civil y servicios de emergencia. Se realizaron actuaciones de toma de datos por ADIF y Renfe, prueba de alcoholemia negativa al maquinista y levantamiento del cadáver a las 13:55 h por autorización judicial. No se produjeron daños materiales, aunque se registraron perturbaciones en la circulación.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Catarroja",
+  "pk": "106,066",
+  "linea": "La Encina - Valencia",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Plena vía en la señal de entrada E-1 de Catarroja, junto a un paso superior de vehículos situado a unos 12 metros del inicio del puente ferroviario sobre el Barranco de Chiva, entre Massanassa y el polígono industrial de Catarroja."
+ },
+ "cronologia": [
+  {
+   "hora": "07:20",
+   "evento": "Inicio del tiempo de trabajo del maquinista el día del accidente."
+  },
+  {
+   "hora": "12:12",
+   "evento": "Se produce el arrollamiento del peatón por el tren de Larga Distancia 1091."
+  },
+  {
+   "hora": "12:30",
+   "evento": "Finaliza la interrupción de la circulación por vía 1."
+  },
+  {
+   "hora": "12:45",
+   "evento": "Se restablece la marcha normal tras la marcha a la vista."
+  },
+  {
+   "hora": "13:55",
+   "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver."
+  },
+  {
+   "hora": "14:45",
+   "evento": "Fin del tiempo de trabajo del maquinista el día del accidente."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1091",
+   "tipo": "Viajeros de Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1091",
+   "implicacion": "Condujo el tren, observó a la persona, hizo sonar el silbato, aplicó el freno de emergencia y comunicó el suceso. Prueba de alcoholemia negativa (0,00 mg/ml)."
+  },
+  {
+   "rol": "Supervisor de a bordo del tren 1091",
+   "implicacion": "Intervino en el tren implicado en el accidente."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de ADIF",
+   "implicacion": "Comunicó el accidente por mensaje de telefonía móvil el 6 de febrero."
+  },
+  {
+   "rol": "Jefe del CTC de Valencia",
+   "implicacion": "Recibió la comunicación del suceso realizada por el maquinista."
+  },
+  {
+   "rol": "Supervisor de línea de la Jefatura Técnica de Operaciones de Valencia (ADIF)",
+   "implicacion": "Fue nombrado jefe delegado del accidente."
+  },
+  {
+   "rol": "Agentes de Seguridad en la Circulación Levante de ADIF",
+   "implicacion": "Se personaron en el lugar del arrollamiento para realizar la toma de datos."
+  },
+  {
+   "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación de Levante de Renfe",
+   "implicacion": "Realizaron la inspección del suceso y la recogida de datos del accidente."
+  },
+  {
+   "rol": "Autoridad judicial",
+   "implicacion": "Autorizó el levantamiento del cadáver a las 13:55 h."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Varón de 91 años que intentaba cruzar las vías y resultó fallecida por el arrollamiento."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E-1 de Catarroja; Bloqueo Automático Banalizado con CTC.",
+  "tipo_via": "Vía doble electrificada, en recta y terreno llano, sin trincheras.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Paso superior de vehículos a unos 12 metros del puente sobre el Barranco de Chiva; paso vicioso muy frecuentado; visibilidad muy buena; ausencia de vallado en 175 metros del lado izquierdo; vallado del lado derecho forzado y con roturas, sin continuidad."
+ },
+ "material_rodante": {
+  "series": "101.101",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Soleado",
+ "causas": {
+  "directa": "Invasión indebida de la vía por una persona que intentaba cruzar las vías, calificada como imprudencia de la víctima.",
+  "contribuyentes": [
+   "Existencia de pasos viciosos muy frecuentados en el entorno.",
+   "Defectuoso estado de mantenimiento del vallado existente.",
+   "Falta de continuidad del cerramiento.",
+   "Ausencia de vallado en 175 metros del lado izquierdo.",
+   "Vallado del lado derecho forzado, permitiendo el paso de transeúntes.",
+   "Proximidad de núcleos urbanos y polígonos industriales a la línea ferroviaria."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Interrupción de la circulación por vía 1 hasta las 12:30 h, marcha a la vista hasta las 12:45 h y retrasos acumulados en dos trenes de Cercanías de 22 minutos y en un tren de mercancías de 35 minutos. El tren L.D. 1091 estuvo detenido 13 minutos hasta que fue autorizado a continuar."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Completar el vallado en ambos márgenes de la vía entre los dos núcleos de población y entre los dos polígonos industriales.",
+   "destinatario": "Administrador de la infraestructura (ADIF)"
+  },
+  {
+   "texto": "Reparar y mantener adecuadamente el cerramiento existente.",
+   "destinatario": "Administrador de la infraestructura (ADIF)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "imprudencia",
+  "paso vicioso",
+  "vallado",
+  "catarroja",
+  "valencia",
+  "renfe operadora",
+  "adif",
+  "larga distancia",
+  "señal de entrada",
+  "bloqueo automático"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-060207-200607-DGF"
+}

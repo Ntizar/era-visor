@@ -1,0 +1,149 @@
+{
+ "titulo_normalizado": "Descarrilamiento de perfiladora por rotura de eje motriz por fatiga entre Urda y Malagón (Toledo)",
+ "idioma_original": "es",
+ "resumen": "El 26 de marzo de 2013, a las 01:00 horas, una perfiladora PDB-110 de Vías y Construcciones descarriló en el PK 122+450 de la línea de alta velocidad Madrid-Sevilla al romperse un eje motriz por fatiga. El tren de trabajos circulaba en régimen de vía bloqueada para realizar bateo. No hubo víctimas. La rotura se originó por carga cíclica de fatiga iniciada en tres puntos de la superficie del eje, sin que las inspecciones periódicas detectaran el defecto.",
+ "hechos": "El día 26 de marzo de 2013, a las 01:00 horas, un tren de trabajos compuesto por bateadora, perfiladora y estabilizadora, procedente de la base de mantenimiento de Mora (PK 89+500), circulaba en régimen de vía bloqueada para realizar trabajos de bateo en la línea 010 Madrid Puerta de Atocha – Sevilla Santa Justa. Tras pasar por la estación de Urda (PK 119+700), en el PK 122+450 de la vía II, el operador de la perfiladora percibió un ruido anormal y un movimiento brusco. Al detener el convoy y bajar de la máquina, observó que el eje nº 1 (nº 43464) estaba partido y la máquina descarrilada, desplazada hacia el exterior de la vía II, dejando expedita la vía I.\n\nLa perfiladora, modelo PDB-110 de la marca PLASSER, de 35 toneladas y 17 metros de longitud, con dos ejes motrices, podía circular a una velocidad máxima de 100 km/h. Según la declaración del operador, circulaba a unos 80 km/h. El análisis metalúrgico del CENIM determinó que la rotura se produjo por un proceso de carga cíclica de fatiga, con iniciación en tres puntos de la superficie del eje. La superficie de rotura presentaba una zona cobriza (oxidación) del 60% y otra blanquecina metálica. El material era acero EA4T conforme a UNE-EN 13261:2009+A1, con propiedades mecánicas, microestructura y limpieza correctas, aunque sin tratamiento superficial para aumentar la resistencia a la fatiga.\n\nNo se produjeron víctimas. La vía II quedó interceptada entre Mora y Urda durante 6 horas y entre Urda y Malagón durante 52 horas. Se suprimieron 3 trenes de viajeros y 105 sufrieron retrasos acumulados de 811 minutos. Los daños materiales incluyeron el eje de la perfiladora y daños en tirafondos, codales y clips en unos 200 metros de vía.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "122+450",
+  "linea": "010 Madrid Puerta de Atocha – Sevilla Santa Justa",
+  "provincia": "Toledo",
+  "descripcion_lugar": "Vía II, tramo La Sagra – PK KM 137,7, entre las estaciones de Urda y Malagón, municipio de Urda, en rampa de 7,15‰ en 1.818 m en sentido de la marcha"
+ },
+ "cronologia": [
+  {
+   "hora": "00:40",
+   "evento": "El operador inicia la marcha en cabina de la perfiladora, acoplada entre bateadora y estabilizadora, circulando a 80 km/h desde Mora hacia Malagón"
+  },
+  {
+   "hora": "01:00",
+   "evento": "En el PK 122+400/122+450 de la vía II se oye un ruido anormal y movimiento brusco; se produce la rotura del eje motriz y el descarrilamiento de la perfiladora"
+  },
+  {
+   "hora": "01:00",
+   "evento": "El operador informa a los maquinistas para que paren la marcha; al bajar observa el eje nº1 partido y descarrilado; avisa al jefe de equipo"
+  },
+  {
+   "hora": "01:00",
+   "evento": "Notificación en cadena: operador → jefe de equipo → jefe de obra → puesto de mando; el puesto de mando de Atocha avisa a operadores, servicios afectados, gerencia de seguridad Adif y H24"
+  },
+  {
+   "hora": "01:00",
+   "evento": "Se intercepta la vía II entre Mora y Malagón; vía I queda expedita; se solicita intervención del tren taller de la base de La Sagra"
+  },
+  {
+   "hora": "06:59",
+   "evento": "Se desbloquea la vía II entre Mora y Urda (interrupción de 6 horas)"
+  },
+  {
+   "hora": "05:15",
+   "evento": "Día 28/03/2013: terminan todos los trabajos entre Urda y Malagón (52 horas de interrupción); se reanuda la circulación en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "Tren de trabajos (bateo)",
+   "tipo": "tren de trabajos",
+   "operador": "Vías y Construcciones",
+   "danos": "Perfiladora descarrilada; rotura de eje motriz nº 43464"
+  },
+  {
+   "numero": "Bateadora",
+   "tipo": "maquinaria pesada de vía (08-475-4S)",
+   "operador": "Vías y Construcciones",
+   "danos": null
+  },
+  {
+   "numero": "Perfiladora PDB-110",
+   "tipo": "maquinaria pesada de vía",
+   "operador": "Vías y Construcciones",
+   "danos": "Descarrilamiento por rotura de eje motriz nº 43464; desplazada hacia el exterior de la vía II"
+  },
+  {
+   "numero": "Estabilizadora",
+   "tipo": "maquinaria pesada de vía (DGS-62N)",
+   "operador": "Vías y Construcciones",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Operador de maquinaria de infraestructura (perfiladora)",
+   "implicacion": "Iba en cabina de la perfiladora; percibió ruido anormal y movimiento brusco; detuvo el convoy; observó la rotura del eje; notificó al jefe de equipo. Habilitación emitida por Adif el 22/12/2011, válida hasta 21/12/2014. Se desconoce su jornada laboral y si se le hizo prueba de alcoholemia."
+  },
+  {
+   "rol": "Jefe de equipo",
+   "implicacion": "Recibió la notificación del operador"
+  },
+  {
+   "rol": "Jefe de obra",
+   "implicacion": "Recibió la notificación del jefe de equipo y dio aviso al puesto de mando"
+  },
+  {
+   "rol": "Maquinistas de bateadora y estabilizadora",
+   "implicacion": "Recibieron la orden de parada del operador"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo de control automático LZB gestionado desde el CRC de Atocha; bloqueo automático supletorio (BAS) como sustitutivo del LZB; ASFA Digital como ayuda a la conducción",
+  "tipo_via": "Vía doble electrificada de ancho UIC (alta velocidad)",
+  "velocidad_maxima": "270 km/h (línea); 100 km/h (perfiladora autorizada); circulaba a ~80 km/h",
+  "ancho": "UIC (estándar)",
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionó correctamente; régimen de entrega de vía bloqueada (EVB) conforme al acta semanal de trabajos nº 13 de 21/03/2013",
+  "otro": "Trazado en rampa de 7,15‰ en 1.818 m en sentido de la marcha; tráfico medio semanal del tramo La Sagra – PK KM 137,7: 683 circulaciones (546 larga distancia, 134 media distancia, 3 servicio); comunicaciones GSM-R"
+ },
+ "material_rodante": {
+  "series": "Perfiladora PLASSER PDB-110, UIC 997130522110, matrícula P-211-VC; Bateadora 08-475-4S; Estabilizadora DGS-62N",
+  "averia": "Rotura del eje motriz nº 43464 por carga cíclica de fatiga; iniciación en tres puntos de la superficie; zona de rotura por fatiga del 60-85% de la sección transversal; no se detectó defecto en inspecciones previas",
+  "mantenimiento": "Parque autorizado para IS desde diciembre de 1998 e IM desde julio de 2000. Intervenciones: IM 02/11/2011 (ultrasonidos por SGS Tecnos, resultado correcto); IS1 02/11/2012 (comprobación visual, sin defectos); IS2 10/12/2009. En IS1 e IS2 solo comprobación visual; en IM inspección por ultrasonidos. El eje no recibió tratamiento superficial (térmico ni mecánico) para aumentar resistencia a fatiga, aunque no está considerado en UNE-EN 13261:2009+A1."
+ },
+ "clima": "Noche despejada, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Rotura del eje motriz nº 43464 de la perfiladora por proceso de carga cíclica de fatiga, con iniciación de grieta en tres puntos de la superficie del eje",
+  "contribuyentes": [
+   "No se pudo determinar con exactitud la naturaleza de todos los concentradores de tensión que pudieron contribuir al fallo (transición de zona de calado, posible impacto de balasto o picadura de corrosión)",
+   "El eje no recibió tratamiento superficial (térmico ni mecánico) para aumentar la resistencia a la fatiga",
+   "Las intervenciones IS1 e IS2 solo incluyen comprobación visual de ausencia de fisuras; la inspección por ultrasonidos se realiza únicamente en la intervención decenal IM"
+  ],
+  "sistemicas": [
+   "El plan de mantenimiento de ejes de maquinaria pesada de vía no contempla ensayos por ultrasonidos con periodicidad suficiente para detectar fatiga incipiente entre intervenciones decenales",
+   "La norma UNE-EN 13261:2009+A1 no considera el tratamiento superficial para resistencia a fatiga de ejes"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Un eje de la perfiladora; daños en tirafondos, codales y clips en unos 200 metros de vía",
+  "afectacion_servicio": "Vía II interceptada 6 horas entre Mora y Urda y 52 horas entre Urda y Malagón; circulación por vía I en el tramo afectado; 3 trenes de viajeros suprimidos; 105 trenes de viajeros con retraso total acumulado de 811 minutos"
+ },
+ "lecciones": [
+  "Las inspecciones visuales periódicas (IS1, IS2) no son suficientes para detectar fatiga incipiente en ejes; los ensayos por ultrasonidos solo se realizan en intervenciones decenales (IM)",
+  "La ausencia de tratamiento superficial en ejes puede reducir la resistencia a la fatiga, aunque la norma UNE-EN 13261 no lo exija",
+  "La fatiga puede originarse en múltiples puntos de la superficie y no ser detectable en inspecciones previas si la grieta es incipiente"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Remitida por la DGF su Recomendación técnica 2/2014: 'Pautas para evitar el deterioro de ejes montados del material rodante durante su explotación y mantenimiento' a las empresas propietarias y mantenedoras de maquinaria pesada de vía, se recomienda que la DGF inste a dichas empresas para que introduzcan los apartados que sean de aplicación de la citada recomendación en las instrucciones de mantenimiento de rodaje para asegurar el cumplimiento de ésta.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "perfiladora",
+  "eje motriz",
+  "fatiga",
+  "maquinaria pesada de vía",
+  "vías y construcciones",
+  "alta velocidad",
+  "vía bloqueada",
+  "bateo",
+  "plasser pdb-110",
+  "toledo",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_260313_240614_CIAF"
+}

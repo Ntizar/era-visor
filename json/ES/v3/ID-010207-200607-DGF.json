@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en el paso entre andenes de la estación de Beasaín",
+ "idioma_original": "es",
+ "resumen": "El 1 de febrero de 2007, a las 18:53, el tren de Larga Distancia 609 de Renfe arrolló a una mujer de 40 años en el paso entre andenes de la estación de Beasaín. La víctima se había apeado del tren de Cercanías 26860 y cruzaba por el paso entarimado hacia el andén de vía I. El tren circulaba a 84 km/h, por debajo de la velocidad máxima de 85 km/h, y el maquinista usó el silbato y el freno de urgencia. La investigación atribuye el accidente a la imprudencia de la víctima, que no utilizó el paso inferior existente. No hubo daños materiales, aunque se produjeron retrasos y la víctima falleció a las 20:54.",
+ "hechos": "El tren de viajeros de Larga Distancia nº 609 de Renfe, compuesto por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm, procedente de Madrid y con destino Irún, pasaba por la vía I de la estación de Beasaín cuando arrolló a una persona en el paso entre andenes situado en el punto kilométrico 581+060 de la línea Madrid-Hendaya.\n\nLa víctima era una mujer de 40 años que se había apeado del tren de Cercanías 26860, procedente de Irún y con destino Brinkola, que se encontraba parado en vía II. La persona se disponía a cruzar desde el andén secundario al principal por el paso entarimado, desde el lado derecho hacia el lado izquierdo según la kilometración.\n\nEl maquinista observó un tren parado en vía II y personas en el andén, por lo que hizo uso del silbato; al oír un golpe aplicó el freno de urgencia y el tren quedó detenido a unos 400 metros. No se produjeron daños materiales, pero la víctima fue trasladada a la Clínica de Nuestra Sra de la Asunción de Tolosa y falleció a las 20:54.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Beasaín",
+  "pk": "581+060",
+  "linea": "Línea 100 Madrid-Hendaya",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Paso entarimado o enmaderado entre andenes de la estación de Beasaín, en traza recta, con buena visibilidad y buena iluminación ambiental; existe un paso inferior a 68 metros del lugar del accidente."
+ },
+ "cronologia": [
+  {
+   "hora": "18:53",
+   "evento": "Arrollamiento de la persona por el tren de Larga Distancia 609 en el paso entre andenes de la estación de Beasaín."
+  },
+  {
+   "hora": "19:10",
+   "evento": "Los medios sanitarios proceden al traslado de la víctima y se restablece el tráfico por vía 4."
+  },
+  {
+   "hora": "19:40",
+   "evento": "La víctima ingresa en el centro sanitario; las vías generales quedan interceptadas hasta esta hora."
+  },
+  {
+   "hora": "20:54",
+   "evento": "El centro sanitario informa del fallecimiento de la víctima."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "609",
+   "tipo": "tren de viajeros de Larga Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales en el material móvil."
+  },
+  {
+   "numero": "26860",
+   "tipo": "tren de Cercanías",
+   "operador": null,
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe de Circulación de Beasaín",
+   "implicacion": "Figura entre las personas que intervinieron en el accidente; el informe no detalla su actuación concreta."
+  },
+  {
+   "rol": "Maquinista del tren 609",
+   "implicacion": "Matrícula 9723149; jornada de conducción de 04:23 h; prueba de alcoholemia negativa; usó el silbato y el freno de urgencia."
+  },
+  {
+   "rol": "Maquinista en prácticas",
+   "implicacion": "Matrícula 9723156; jornada de conducción de 04:23 h; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Mujer de 40 años, fallecida; se había apeado del tren de Cercanías 26860 y cruzaba por el paso entre andenes."
+  },
+  {
+   "rol": "Acompañante de la víctima",
+   "implicacion": "Advirtió a la víctima de la presencia del tren desde el andén de vía II."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Carteles de advertencia en colores llamativos en la parte inferior de los andenes con la leyenda Cuidado al pasar, trenes circulando en ambos sentidos.",
+  "tipo_via": "vía doble electrificada",
+  "velocidad_maxima": "85 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": "traza recta, buena visibilidad desde los márgenes del paso y buena iluminación ambiental",
+  "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado; paso inferior en el PK 581+128 a 68 m; perímetro de la estación vallado; paso entarimado destinado fundamentalmente a personas con discapacidades y paso de vehículos de ruedas."
+ },
+ "material_rodante": {
+  "series": "locomotora nº UIC 252029",
+  "averia": "No se produjeron daños materiales en el material móvil.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, tiempo despejado y buena iluminación ambiental.",
+ "causas": {
+  "directa": "Imprudencia de la víctima al cruzar por el paso entre andenes sin percatarse de la llegada del tren 609 y no utilizar el paso inferior.",
+  "contribuyentes": [
+   "La víctima cruzaba por el paso entarimado desde el andén de vía II al andén de vía I.",
+   "No se utilizó el paso inferior existente a 68 metros del lugar del accidente."
+  ],
+  "sistemicas": [
+   "El paso entre andenes enmaderado se considera un foco de peligro para los usuarios."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+  "afectacion_servicio": "Incidencia de 17 minutos; tráfico restablecido por vía 4 a las 19:10; vías generales interceptadas hasta 19:40; 27 minutos de retrasos acumulados en 2 trenes de Larga Distancia y 55 minutos de retrasos acumulados en 4 trenes de Cercanías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Reforzar la señalización existente mediante la instalación de señalización vertical en los accesos al paso entarimado, ya que estos pasos suponen un foco de peligro para los usuarios.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "estación de beasaín",
+  "paso entre andenes",
+  "paso entarimado",
+  "imprudencia",
+  "tren de larga distancia",
+  "tren de cercanías",
+  "línea 100",
+  "guipúzcoa",
+  "adif",
+  "renfe"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-010207-200607-DGF"
+}

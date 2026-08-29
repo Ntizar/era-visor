@@ -1,0 +1,158 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo en paso a nivel clase B entre Utrera y El Sorbito con un fallecido",
+ "idioma_original": "es",
+ "resumen": "El 2010-08-18, a las 12:16, el tren de viajeros de media distancia 13926 de Renfe Operadora arrolló a un vehículo de carretera en el paso a nivel clase B del P.K. 8+579 de la línea 422 Bif. Utrera a Fuente de Piedra, entre Utrera y El Sorbito, en Sevilla. La señalización acústica y luminosa del paso a nivel estaba activada y funcionando correctamente en el momento del arrollamiento. El conductor del vehículo, único ocupante, falleció. La investigación concluyó que el accidente se originó por la invasión del gálibo de la vía por el vehículo de carretera.",
+ "hechos": "El 2010-08-18, a las 12:16, el tren de viajeros de media distancia 13926, de Renfe Operadora, procedente de Sevilla Santa Justa y con destino Almería, se aproximaba al paso a nivel clase B del P.K. 8+579 de la línea 422 Bif. Utrera a Fuente de Piedra, entre las estaciones de Utrera y El Sorbito, en la provincia de Sevilla.\n\nEl maquinista advirtió que un vehículo de carretera se acercaba a la vía con intención de cruzar de derecha a izquierda en el sentido de la marcha del tren. El maquinista hizo uso del silbato y del freno de emergencia, pero el vehículo invadió el paso a nivel y se produjo el arrollamiento. En ese momento la señalización acústica y luminosa del paso a nivel estaba activada y funcionando correctamente.\n\nEl vehículo, marca BMW, fue arrastrado 30 metros y desplazado hacia la izquierda 5 metros. El conductor falleció y su cuerpo quedó fuera del vehículo, a unos metros del mismo. El tren quedó detenido en el P.K. 9+500 tras recorrer 874 metros desde el arrollamiento.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "8+579",
+  "linea": "422 Bif. Utrera a Fuente de Piedra",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Paso a nivel clase B automático situado en el P.K. 8+579 de la línea 422 Bif. Utrera a Fuente de Piedra, en el tramo Bif. Utrera - El Sorbito, municipio de Utrera, provincia de Sevilla. El camino es una vía pecuaria, por un lado conecta con la carretera autonómica A-394, y la zona es rural, con trazado recto, perfil horizontal y visibilidad superior a 500 metros."
+ },
+ "cronologia": [
+  {
+   "hora": "12:15",
+   "evento": "El tren 13926 pasa por la baliza de señal de paso a nivel en estado protegido a las 12:15:13, a 2.357 metros del paso a nivel y a 123 km/h."
+  },
+  {
+   "hora": "12:15",
+   "evento": "El maquinista hace uso del silbato a las 12:15:51."
+  },
+  {
+   "hora": "12:16",
+   "evento": "El maquinista vuelve a utilizar el silbato a las 12:16:11."
+  },
+  {
+   "hora": "12:16",
+   "evento": "El maquinista actúa sobre el freno de emergencia a las 12:16:15, cuando el tren circula a 143 km/h."
+  },
+  {
+   "hora": "12:16",
+   "evento": "Se produce el arrollamiento del vehículo de carretera dos segundos después, a la velocidad de 133 km/h."
+  },
+  {
+   "hora": "12:17",
+   "evento": "El tren queda detenido a las 12:17:02 tras recorrer 874 metros desde el arrollamiento."
+  },
+  {
+   "hora": "13:20",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios por mensaje de telefonía móvil."
+  },
+  {
+   "hora": "13:30",
+   "evento": "Se restablece la circulación con marcha a la vista entre los P.K. 8+400 y 8+700."
+  },
+  {
+   "hora": "13:40",
+   "evento": "Al maquinista se le realiza prueba de alcoholemia con resultado negativo."
+  },
+  {
+   "hora": "13:50",
+   "evento": "Personal de Adif, en presencia de un delegado de Renfe Operadora, realiza pruebas al paso a nivel; las instalaciones funcionaron correctamente."
+  },
+  {
+   "hora": "19:10",
+   "evento": "Entra en servicio el paso a nivel y se restablece la circulación en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "El tren 13926 es apartado en la estación de El Sorbito y los viajeros son trasbordados al tren XR307."
+  },
+  {
+   "hora": null,
+   "evento": "La Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación en su pleno del 2010-09-28."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13926",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "El vehículo motor que iba en cabeza queda inutilizado para continuar la marcha como consecuencia de los daños producidos en su parte frontal y lateral izquierda; estos daños están pendientes de valorar."
+  },
+  {
+   "numero": "XR307",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "13962",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 13926",
+   "implicacion": "Matrícula 9711078; posee título B de conducción y está habilitado conforme a la Orden FOM/2520/2006; último reciclaje formativo el 2008-06-03 y último reconocimiento médico y psicotécnico el 2005-11-11; advierte la aproximación del vehículo, usa silbato y freno de emergencia; prueba de alcoholemia negativa; jornada del 2010-08-18: 4 horas y 20 minutos, con conducción efectiva de 4 horas y 20 minutos."
+  },
+  {
+   "rol": "interventor en ruta del tren 13926",
+   "implicacion": "Informa de forma puntual a los viajeros; se efectúa trasbordo de 90 viajeros en la estación de El Sorbito; se evacua en ambulancia a un viajero con episodio de ansiedad."
+  },
+  {
+   "rol": "conductor del vehículo de carretera",
+   "implicacion": "Único ocupante del vehículo BMW; fallecido en el arrollamiento."
+  },
+  {
+   "rol": "viajero",
+   "implicacion": "Sufre un episodio de ansiedad y es evacuado en ambulancia."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "El paso a nivel disponía de señales acústicas y luminosas en postes a ambos lados del camino, activadas y funcionando correctamente; había carteles de silbar a unos 250 metros. La señalización fija del camino visitada el 2011-02-14 constaba de P.9, P.8, P.3 y P.11; la señalización vertical del camino está incompleta por carecer de R.301, P.15 y R.305.",
+  "tipo_via": "vía única sin electrificar; paso a nivel clase B automático",
+  "velocidad_maxima": "155 km/h",
+  "ancho": null,
+  "electrificacion": "sin electrificar",
+  "estado_via": "Tramo recto y de perfil horizontal, con visibilidad superior a 500 metros en los cuatro cuadrantes. En la zona de carriles del paso a nivel el pavimento estaba formado por traviesas con estado aceptable de conservación; a ambos lados había franja de aglomerado y, tras ella, una zona de unos 4 metros de hormigón.",
+  "otro": "Sistema de bloqueo automático (BAU); control de tráfico centralizado (CTC) regulado desde el puesto de mando de Sevilla; radiotelefonía tren-tierra; titularidad del camino: Junta de Andalucía; media semanal de circulaciones del tramo: 142, de las cuales 140 de media distancia y 2 de servicio; tiempo desde la activación de señales luminosas y acústicas hasta el arrollamiento: unos 75 segundos."
+ },
+ "material_rodante": {
+  "series": "Tren tipo 160D; velocidad máxima 160 km/h; Número UIC 967195980131; compuesto por 3 vehículos",
+  "averia": "El vehículo motor que iba en cabeza queda inutilizado para continuar la marcha por daños en parte frontal y lateral izquierda; los equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, que irrumpe en el paso a nivel estando los dispositivos de protección, sonería e indicadores luminosos, activados.",
+  "contribuyentes": [
+   "La señalización vertical del camino no se adapta en su totalidad a lo establecido en la Orden de 2 de agosto de 2001, al carecer de las señales R.301, P.15 y R.305."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Infraestructura: daños en la señal luminosa de carretera del lado derecho, lado El Sorbito, valorados en 1.852,23 euros según Adif. Material rodante: vehículo motor en cabeza inutilizado para continuar la marcha por daños frontal y lateral izquierdo, pendientes de valorar. Vehículo de carretera: destrozado.",
+  "afectacion_servicio": "La vía queda interceptada desde las 12:16 hasta las 13:30 entre Bifurcación Utrera y El Sorbito; a las 13:30 se restablece la circulación con marcha a la vista entre P.K. 8+400 y P.K. 8+700; a las 19:10 entra en servicio el paso a nivel y se restablece la circulación normal. Tres trenes de media distancia sufren un retraso total de 150 minutos y otro es suprimido. El tren 13926 es apartado en El Sorbito y los viajeros son trasbordados al tren XR307."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "47/10-1: Completar la señalización vertical de los caminos que acceden al paso a nivel para adecuarlo a lo establecido en la Orden de 2 de agosto de 2001, relativa a la supresión y protección de pasos a nivel.",
+   "destinatario": "Comunidad Autónoma de Andalucía"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "clase b",
+  "arrollamiento",
+  "invasión del gálibo",
+  "señalización vertical",
+  "orden de 2 de agosto de 2001",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "sevilla",
+  "utera",
+  "el sorbito"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-180810-290311-CIAF"
+}

@@ -1,0 +1,98 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren AVE entre San Cristóbal Industrial y Getafe Industrial, línea Madrid-Valencia",
+ "idioma_original": "es",
+ "resumen": "El 5 de febrero de 2008, a las 17:00 horas, el tren de viajeros 224 AVE-Larga Distancia de Renfe Operadora arrolló a una persona que caminaba por la vía en el P.K. 13+100 de la línea 300 Madrid-Valencia, entre San Cristóbal Industrial y Getafe Industrial. El maquinista advirtió a la víctima con el silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. La víctima, un varón de 31 años, falleció en el lugar. No hubo daños en instalaciones ni en el medio ambiente, aunque se registraron daños de escasa consideración en el material motor y retrasos en la circulación.",
+ "hechos": "El tren de viajeros 224 AVE-Larga Distancia de Renfe Operadora, compuesto por la locomotora 95710334008-0 y 9 vehículos, circulaba entre las estaciones de San Cristóbal Industrial y Getafe Industrial por el P.K. 13+100 de la línea 300 Madrid-Valencia. A unos 80 metros de la señal de entrada de Getafe Industrial, el maquinista observó que una persona caminaba por encima de las traviesas, en el sentido de la marcha del tren.\n\nEl maquinista hizo uso insistente del silbato y del freno de emergencia, pero no pudo evitar el arrollamiento; el tren circulaba a 139 km/h en el momento de accionarse el freno de urgencia, por debajo de la velocidad máxima permitida de 160 km/h. Tras detenerse, el maquinista avisó al Puesto de Mando y se personó en el lugar; el cuerpo de la víctima, un varón de 31 años, quedó a metro y medio de la vía y fue confirmado cadáver por la Policía Nacional y los equipos de emergencia.\n\nLa investigación concluyó que el material rodante y las instalaciones funcionaron correctamente y que la actuación del maquinista fue adecuada. El origen del accidente fue el tránsito de la víctima por un lugar no autorizado, en el momento del paso del tren.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "13+100",
+  "linea": "300 Madrid-Valencia",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Plena vía entre las estaciones de San Cristóbal Industrial y Getafe Industrial, a unos 80 m de la señal de entrada de Getafe Industrial."
+ },
+ "cronologia": [
+  {
+   "hora": "17:00",
+   "evento": "El tren 224 arrolla a una persona que caminaba por la vía en el P.K. 13+100."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista observa a la persona, acciona el silbato y el freno de emergencia, pero no evita el impacto."
+  },
+  {
+   "hora": null,
+   "evento": "El tren se detiene; el maquinista avisa al Puesto de Mando y se confirma el fallecimiento de la víctima."
+  },
+  {
+   "hora": "19:15",
+   "evento": "Se levanta la marcha a la vista por ambas vías tras la interceptación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "224",
+   "tipo": "AVE-Larga Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños de escasa consideración en el material motor"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 224",
+   "implicacion": "Observó a la persona, usó el silbato y el freno de emergencia; no pudo evitar el arrollamiento. Su jornada, aptitud psicofísica y habilitación se consideraron correctas."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático en Doble vía electrificada con control de tráfico centralizado (B.A.D con C.T.C)",
+  "tipo_via": "doble vía",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": null,
+  "otro": "Radiotelefonía, modalidad A. El registrador jurídico MEMOTEL indicó 139 km/h al accionarse el freno de urgencia."
+ },
+ "material_rodante": {
+  "series": "Locomotora 95710334008-0 y 9 vehículos; masa remolcada 135 Tn",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Las condiciones atmosféricas en el momento del accidente eran buenas.",
+ "causas": {
+  "directa": "El tránsito de la víctima por un lugar no autorizado para ello, en el momento del paso del tren.",
+  "contribuyentes": [
+   "La víctima caminaba por encima de las traviesas, en el sentido de la marcha del tren."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños de escasa consideración en el material motor; no se produjeron daños en instalaciones ni en el medio ambiente.",
+  "afectacion_servicio": "Marcha a la vista por ambas vías hasta las 19:15 h; 25 trenes de viajeros retrasados; 271 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar un estudio para detectar la existencia de posibles pasos viciosos en la zona sur de Madrid y proceder a su supresión, en caso de que existan.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "ave",
+  "renfe operadora",
+  "linea 300",
+  "plena via",
+  "suicidio",
+  "paso no autorizado",
+  "zona sur madrid",
+  "pasos viciosos",
+  "marcha a la vista",
+  "freno de emergencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-050208-240608-CIAF"
+}

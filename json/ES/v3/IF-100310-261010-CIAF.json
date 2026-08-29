@@ -1,0 +1,117 @@
+{
+ "titulo_normalizado": "Conato de colisión por rebase indebido de señal de salida en la estación de Logroño",
+ "idioma_original": "es",
+ "resumen": "El 10 de marzo de 2010, a las 01:58, se produjo un conato de colisión en la estación de Logroño. El tren de larga distancia 933, de Renfe Operadora, rebasó indebidamente la señal de salida S1/4, que indicaba parada. Como consecuencia, la señal de entrada E2 cambió a rojo para el tren de mercancías 54654, que se detuvo. No hubo víctimas ni daños materiales, pero se registraron 133 minutos de retraso en dos trenes de larga distancia.",
+ "hechos": "El tren de larga distancia 933, de Renfe Operadora, procedente de Barcelona y con destino Gijón, estaba detenido en la vía 4 de la estación de Logroño realizando parada comercial. La señal de salida S1/4 indicaba parada y la señal indicadora de salida anunciaba continuar detenido ante la misma, conforme a la consigna C nº 29. Tras recibir la indicación de operaciones terminadas del agente de acompañamiento, el maquinista inició la marcha mirando por el espejo retrovisor; al mirar adelante vio la señal en rojo, frenó y el ASFA aplicó urgencia, sin poder evitar el rebase.\n\nEl rebase se produjo a una velocidad de 23 km/h. Según el análisis del informe, el tren 933 quedó detenido a las 01:58:52 en el P.K. 76+416, tras rebasar en 20 metros la señal S1/4. Simultáneamente, el tren de mercancías 54654, con origen en Grisén y destino Bilbao, tenía establecido paso directo por la estación por vía 1 y circulaba a 90 km/h, con las señales de avanzada y de entrada en indicación de vía libre.\n\nAl rebasar el tren 933 la señal S1/4, se produjo un cierre intempestivo de la señal de entrada E2, que cambió de verde a rojo. El tren 54654 se detuvo en el P.K. 77+169 sin llegar a la baliza previa de la señal E2, quedando ambos trenes separados por 753 metros y produciéndose un conato de colisión. No se produjeron víctimas ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Logroño",
+  "pk": "76+396",
+  "linea": "700 Casetas - Intermodal Abando Indalecio Prieto",
+  "provincia": "La Rioja",
+  "descripcion_lugar": "Señal de salida S1/4, en el lado Bilbao de la estación de Logroño, tramo Logroño - Haro, municipio de Logroño."
+ },
+ "cronologia": [
+  {
+   "hora": "01:58",
+   "evento": "El tren 933 inicia la marcha en vía 4 tras recibir la indicación de operaciones terminadas, con la señal de salida S1/4 en indicación de parada."
+  },
+  {
+   "hora": "01:58",
+   "evento": "El tren 933 rebasa la señal S1/4 a 23 km/h; el ASFA aplica urgencia y el tren queda detenido en el P.K. 76+416."
+  },
+  {
+   "hora": "01:58",
+   "evento": "La señal de entrada E2 cambia a rojo por cierre intempestivo y el tren 54654 se detiene en el P.K. 77+169, produciéndose el conato de colisión."
+  },
+  {
+   "hora": "03:30",
+   "evento": "Se realiza prueba de alcoholemia al agente de acompañamiento del tren 933, con resultado negativo."
+  },
+  {
+   "hora": "03:44",
+   "evento": "Se realizan pruebas de alcoholemia y drogas al maquinista del tren 933, con resultado negativo en ambas."
+  },
+  {
+   "hora": "12:57",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "933",
+   "tipo": "tren de larga distancia (Barcelona-Gijón)",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales; rebasó la señal S1/4, frenado de urgencia ASFA y suspensión de la habilitación del maquinista."
+  },
+  {
+   "numero": "54654",
+   "tipo": "tren de mercancías (Grisén-Bilbao)",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales; se detuvo ante la señal E2 tras el cierre intempestivo."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 933",
+   "implicacion": "Matrícula 8868911. Inició la marcha con la señal S1/4 en indicación de parada y rebasó la señal. Posee título B de conducción, habilitado conforme a la Orden FOM/2520/2006; último reciclaje formativo el 2010-03-02 y último reconocimiento médico y psicotécnico el 2008-10-16. Pruebas de alcoholemia y drogas negativas. Tras el incidente se le suspende la habilitación."
+  },
+  {
+   "rol": "agente de acompañamiento del tren 933",
+   "implicacion": "Matrícula 9700568. Indicó operaciones terminadas al maquinista cuando la señal indicadora de salida estaba en blanco intermitente y la señal de salida S1/4 en parada. Prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "maquinista del tren 54654",
+   "implicacion": "Se detuvo ante la señal E2 tras el cierre intempestivo. Declaró que la señal avanzada estaba en vía libre y la de entrada en indicación de parada, y que pudo detenerse sin rebasar la señal."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/4 alta, con baliza ASFA a pie de señal pero sin baliza previa; señal indicadora de salida en vía 4 regulada por la consigna C nº 29; señales de avanzada E'2 y de entrada E2.",
+  "tipo_via": "Tramo de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (CTC); estación con enclavamiento electrónico de tecnología Thales y mando local, en mando central dependiente del puesto de mando de Miranda de Ebro.",
+  "velocidad_maxima": "120 km/h en el tramo; limitación de 55 km/h entre P.K. 75+234 y P.K. 76+855; limitación de 40 km/h en vía 4.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "No se producen daños a la infraestructura; las instalaciones técnicas funcionaron correctamente.",
+  "otro": "Radiotelefonía modalidad A. Tramo Logroño-Haro con media semanal de 177 circulaciones, considerada baja: 41 de larga distancia, 24 de media distancia, 0 de cercanías, 107 de mercancías y 5 de servicio."
+ },
+ "material_rodante": {
+  "series": "Tren 933: locomotora 252031, 16 vehículos y 288 t de masa remolcada, Nº UIC 957102520310, tipo 160B. Tren 54654: locomotora 253064, 21 vagones y 760 t de masa remolcada.",
+  "averia": "Ninguna; los equipos de seguridad de ambos trenes funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Noche; no se describen condiciones meteorológicas.",
+ "causas": {
+  "directa": "Rebase indebido por el tren 933 de la señal de salida S1/4 de la estación de Logroño, que estaba en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal del tren.",
+  "contribuyentes": [
+   "El maquinista inició la marcha tras recibir la indicación de operaciones terminadas y miró por el espejo retrovisor, comprobando tarde la indicación de parada de la señal S1/4.",
+   "El agente de acompañamiento indicó operaciones terminadas al maquinista cuando la señal indicadora de salida estaba en blanco intermitente y la señal de salida en parada.",
+   "El maquinista confió en que la señal estaba en verde o vía libre tras la indicación de operaciones terminadas."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños ni a la infraestructura ni al material rodante.",
+  "afectacion_servicio": "Dos trenes de larga distancia sufren un retraso total de 133 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "señal de parada",
+  "asfa",
+  "estación de logroño",
+  "línea 700",
+  "renfe operadora",
+  "tren de larga distancia",
+  "tren de mercancías",
+  "fallo humano",
+  "operaciones terminadas",
+  "señal indicadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-100310-261010-CIAF"
+}

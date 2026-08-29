@@ -1,0 +1,139 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías por falta de balasto entre Santa Lucía y Villamanín (León)",
+ "idioma_original": "es",
+ "resumen": "El 24 de mayo de 2011, a las 16:19 horas, descarriló el tren de mercancías ER201 de Renfe Operadora en plena vía, en el PK 45+104 de la línea 130 Gijón-Cercanías a Venta de Baños, entre las estaciones de Santa Lucía y Villamanín, en la provincia de León. El accidente afectó al vagón 4º y a los vagones del 6º al 18º, produciéndose además el fraccionamiento del tren. No hubo víctimas mortales ni heridos. La causa fue un fallo de infraestructura por falta de balasto tras trabajos de mantenimiento incompletos, agravado por la entrega de la vía en condiciones normales sin advertir la anomalía.",
+ "hechos": "Durante la noche anterior al accidente se habían programado trabajos de mantenimiento en la zona del descarrilamiento, concretamente entre los PK 45+100 y 45+120, incluyendo el arreglo de una desnivelación existente. La noche del 23 al 24 de mayo se solicitó intervalo programado entre Villamanín y Santa Lucía, pero los trabajos solo se ejecutaron parcialmente debido a la avería del vehículo de apoyo utilizado para retirar balasto contaminado y colocar balasto nuevo. El encargado de los trabajos devolvió la vía al jefe del CTC en condiciones normales sin advertir que los trabajos no habían concluido.\n\nEl día 24 de mayo de 2011, a las 16:19 horas, el tren de mercancías ER201 de Renfe Operadora, compuesto por locomotora 251.016-2 y 26 vagones MMB vacíos, circulaba de Burgo de Ranero a Trasona por la vía general en paso directo hacia la estación de Villamanín. Aproximadamente a quince metros de la señal de entrada, en plena curva de transición hacia la izquierda y circulando a 75 km/h, se produjo el descarrilamiento del vagón 4º y de los vagones del 6º al 18º. Seguidamente el tren se fraccionó entre los vagones 10º y 11º, quedando separados 61 metros. El tren detenido quedó en el PK 45+435 tras recorrer 331 metros.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Villamanín",
+  "pk": "45+104",
+  "linea": "130 Gijón-Cercanías a Venta de Baños",
+  "provincia": "León",
+  "descripcion_lugar": "Tramo entre las estaciones de Santa Lucía y Villamanín, en la parte central de una curva de transición a la izquierda, cerca de la señal de entrada de Villamanín y de la zona de cambio de traviesas de hormigón a madera."
+ },
+ "cronologia": [
+  {
+   "hora": "2011-05-23T00:00",
+   "evento": "Inicio previsto de los trabajos nocturnos de mantenimiento entre PK 45+100 y PK 45+120."
+  },
+  {
+   "hora": "2011-05-24T00:07",
+   "evento": "El encargado de los trabajos solicita al CTC intervalo programado entre Villamanín y Santa Lucía hasta las 04:30 horas."
+  },
+  {
+   "hora": "2011-05-24T00:08",
+   "evento": "El jefe del CTC concede el intervalo programado entre Villamanín y Santa Lucía hasta las 04:30 horas."
+  },
+  {
+   "hora": "2011-05-24T03:32",
+   "evento": "El encargado de los trabajos comunica al CTC que la vía queda libre de trenes y obstáculos y que puede reanudarse la circulación en condiciones normales."
+  },
+  {
+   "hora": "2011-05-24T08:30",
+   "evento": "Según la declaración del encargado de los trabajos, dos obreros revisan la vía y no aprecian riesgo para la seguridad."
+  },
+  {
+   "hora": "2011-05-24T16:19",
+   "evento": "Descarrilamiento del tren ER201 en el PK 45+104 circulando a 75 km/h."
+  },
+  {
+   "hora": "2011-05-24T16:19:42",
+   "evento": "El tren descarrilado queda detenido en el PK 45+435 tras recorrer 331 metros."
+  },
+  {
+   "hora": "2011-05-24T16:25",
+   "evento": "El maquinista comunica al puesto de mando lo ocurrido tras reconocer el tren."
+  },
+  {
+   "hora": "2011-05-25T11:40",
+   "evento": "Se restablece la circulación en Villamanín por vías 3 y 5, con limitación temporal de velocidad a 30 km/h entre PK 45+100 y PK 45+200."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "ER201",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento del vagón 4º y de los vagones del 6º al 18º; fraccionamiento entre el 10º y el 11º vagón; diecisiete vagones dañados."
+  },
+  {
+   "numero": "319.243-2",
+   "tipo": "locomotora",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "319.401-6",
+   "tipo": "locomotora",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren ER201",
+   "implicacion": "Conduce el tren accidentado; observa oscilación de catenaria y pérdida de freno, detiene el tren en PK 45+400, comunica al puesto de mando y realiza reconocimiento del tren."
+  },
+  {
+   "rol": "encargado de los trabajos",
+   "implicacion": "Responsable de los trabajos nocturnos de mantenimiento; comunica al CTC la liberación de la vía en condiciones normales sin advertir que los trabajos estaban incompletos."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada 1N/E de Villamanín en PK 45+119; casi en el suelo tras el accidente.",
+  "tipo_via": "Vía única electrificada de ancho convencional.",
+  "velocidad_maxima": "75 km/h",
+  "ancho": "ancho convencional",
+  "electrificacion": "electrificada",
+  "estado_via": "Tras los trabajos incompletos se observó desnivelación longitudinal, falta de balasto y desplazamiento de la vía; antes del accidente había una desnivelación pendiente de arreglo entre PK 45+114 y PK 45+120.",
+  "otro": "Bloqueo automático en vía única (BAU) con control de tráfico centralizado (CTC) en Oviedo; traviesas de hormigón hasta PK 45+120 y de madera a partir de ese punto por el desvío 1 de Villamanín; curva a izquierda de radio 280 m y peralte 160 mm."
+ },
+ "material_rodante": {
+  "series": "Locomotora 251.016-2, 26 vagones MMB vacíos; locomotoras de rescate 319.243-2 y 319.401-6.",
+  "averia": "No se detectaron anomalías en el material rodante; equipos de seguridad funcionaron correctamente y parámetros de ruedas dentro de tolerancia.",
+  "mantenimiento": "El informe no describe mantenimiento previo del tren; solo constata funcionamiento correcto."
+ },
+ "clima": "De día, tiempo soleado y con temperaturas moderadamente altas.",
+ "causas": {
+  "directa": "Fallo de infraestructura por falta de balasto en la zona del descarrilamiento, que permitió el desplazamiento de la vía al paso de las circulaciones y produjo una desalineación con el consiguiente descarrilamiento.",
+  "contribuyentes": [
+   "Ejecución incompleta de los trabajos de mantenimiento previstos por avería del vehículo de apoyo.",
+   "Entrega de la vía al jefe del CTC en condiciones normales sin advertir la anomalía.",
+   "Existencia previa de una desnivelación o bache pendiente de arreglo en la zona de transición de traviesas."
+  ],
+  "sistemicas": [
+   "Dispersión normativa sobre condiciones para la entrega de la vía tras trabajos.",
+   "Falta de un procedimiento claro para entregar la vía en condiciones degradadas cuando los trabajos no se completan."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Diecisiete vagones dañados; daños iniciales valorados en 236.336,59 €; daños en catenaria y en unos 300 metros de vía; desvío muy deteriorado.",
+  "afectacion_servicio": "Vía general interceptada desde las 16:19 del 24/05/2011 hasta las 11:40 del 25/05/2011; afectó a 18 trenes: 10 suprimidos y 8 transbordados por carretera; limitación de velocidad a 30 km/h entre PK 45+100 y PK 45+200."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Ante la dispersión normativa, evaluar la conveniencia de redactar una norma sobre condiciones para la entrega de la vía tras la realización de trabajos en la misma, tanto si ésta se produce en condiciones normales como degradadas.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "renfe operadora",
+  "adif",
+  "mantenimiento de vía",
+  "falta de balasto",
+  "desalineación de vía",
+  "villamanín",
+  "león",
+  "línea 130",
+  "entrega de vía",
+  "ctc oviedo"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240511-270312-CIAF"
+}

@@ -1,0 +1,143 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en el apeadero de Grijota (Palencia) por tren de Larga Distancia nº78 de RENFE",
+ "idioma_original": "es",
+ "resumen": "El 21 de abril de 2006, un varón de 67 años fue arrollado mortalmente por el tren de Larga Distancia nº78 de RENFE en el apeadero de Grijota (PK 5,800, Línea 130 Venta de Baños-Gijón Cercanías, Palencia). La víctima cruzó las vías desde el andén secundario al principal en un punto no habilitado, siendo alcanzada por el tren que circulaba a 155 km/h. No se produjeron daños materiales ni lesiones al personal ferroviario. ADIF y RENFE coincidieron en atribuir la causa a la imprudencia del peatón. La vía quedó interceptada durante 1 hora y 46 minutos.",
+ "hechos": "El tren de Larga Distancia nº78 de RENFE, compuesto por la locomotora 269.603-7 y 11 vehículos con masa de 169 Tm, que efectuaba el recorrido Gijón Cercanías-Alicante, detuvo su marcha a las 12:44 horas en la vía par del apeadero de Grijota, PK 5,800 de la Línea 130 Venta de Baños-Gijón Cercanías, tras arrollar a una persona que resultó fallecida en el acto. La víctima, un varón de 67 años, cruzó las vías desde el andén secundario (lado derecho) al andén principal (lado izquierdo, sentido línea y marcha del tren), por un lugar no habilitado para el tránsito de personas, a unos 10 metros del paso entablonado entre andenes. El tren circulaba a 155 km/h (máximo autorizado 160 km/h) con visibilidad superior a 600 metros. El maquinista hizo uso del silbato repetidamente; la persona subió al andén pero no llegó a situarse fuera del gálibo del tren. Al pasar a su altura, el maquinista oyó un golpe en el costado izquierdo. Se detuvo a 1,5 km del apeadero y comunicó los hechos al Puesto de Mando de León para que enviaran una ambulancia. Se comprobó que había manchas de sangre en el estribo izquierdo de la locomotora.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Grijota",
+  "pk": "5,800",
+  "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Vía par del apeadero de Grijota, entre los dos andenes, en recta y terreno raso y despejado, a unos 10 metros de un paso entablonado entre andenes para uso de viajeros. Visibilidad superior a 600 metros. Trayecto Palencia-Becerril."
+ },
+ "cronologia": [
+  {
+   "hora": "12:44",
+   "evento": "El tren LD nº78 arrolla a una persona en la vía par del apeadero de Grijota, PK 5,800. La víctima fallece en el acto."
+  },
+  {
+   "hora": "12:44",
+   "evento": "El maquinista hace uso del silbato al observar a una persona en la vía; oye un golpe en el costado izquierdo del tren."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista detiene el tren a 1,5 km del apeadero y comunica los hechos al Puesto de Mando de León."
+  },
+  {
+   "hora": null,
+   "evento": "El Puesto de Mando de León cursa aviso a Gerencias Territoriales de Seguridad en la Circulación, Protección Civil, Mantenimiento de Infraestructura, GIRE, operadores afectados y servicios de emergencia."
+  },
+  {
+   "hora": null,
+   "evento": "Agentes de ADIF se desplazan al lugar para recogida de datos e inspección. Se realiza prueba de alcoholemia al maquinista (resultado negativo: 0,00 mg/1000ml)."
+  },
+  {
+   "hora": null,
+   "evento": "El cadáver queda custodiado por agentes de Guardia Civil."
+  },
+  {
+   "hora": "14:05",
+   "evento": "Se persona la Autoridad Judicial y autoriza el levantamiento del cadáver."
+  },
+  {
+   "hora": "14:30",
+   "evento": "La vía par queda en condiciones normales de circulación. Fin de la intercepción de la vía 2."
+  },
+  {
+   "hora": null,
+   "evento": "El 22 de abril de 2006 se realiza el parte de accidente del maquinista en Oviedo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "78",
+   "tipo": "Larga Distancia",
+   "operador": "RENFE",
+   "danos": "No se produjeron daños materiales. Manchas de sangre en el estribo izquierdo de la locomotora."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 78",
+   "implicacion": "Conducía el tren a 155 km/h. Hizo uso del silbato al observar a la persona. Detuvo el tren a 1,5 km y comunicó los hechos. Alcoholemia negativa (0,00 mg/1000ml). Reconocimiento médico y psicotécnico del 20.01.06. Curso de reciclaje RGC del 31.01.06 y 01.02.06. Jornada de conducción el día de la incidencia: 55 minutos. Descanso las 24 y 48 horas anteriores. Cumplía reglamentariamente las jornadas de conducción."
+  },
+  {
+   "rol": "Jefe delegado",
+   "implicacion": "Intervino en el accidente (sin detalle adicional en el informe)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso entablonado entre andenes para uso de viajeros, en aceptables condiciones de conservación. No se dispone de paso inferior de cruce de vías. Se recomienda mejora de señalización pasiva y dotación de señales luminosas peatonales.",
+  "tipo_via": "Vía par del apeadero, en recta, terreno raso y despejado. Bloqueo B.A.D. con CTC.",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Vía en condiciones normales antes del accidente. Intercepción de la vía 2 de 12:44 a 14:30.",
+  "otro": "Visibilidad superior a 600 metros en el punto del arrollamiento. El paso entablonado se encontraba a unos 10 metros del punto donde cruzó la víctima."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269.603-7 con 11 vehículos, masa total 169 Tm",
+  "averia": "Ninguna. Manchas de sangre en el estribo izquierdo tras el arrollamiento.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima (varón de 67 años) que cruzó las vías por un lugar no habilitado para el tránsito de personas, invadiendo el gálibo del tren en el momento de la llegada del LD nº78, desoyendo el aviso acústico del silbato del maquinista. El arrollamiento fue inevitable.",
+  "contribuyentes": [
+   "Ausencia de paso inferior o superior de cruce de vías en el apeadero de Grijota.",
+   "La víctima trató de cruzar desde el andén secundario al principal sin utilizar el paso entablonado situado a unos 10 metros.",
+   "Alta velocidad de paso del tren (155 km/h), aunque inferior a la máxima autorizada (160 km/h)."
+  ],
+  "sistemicas": [
+   "Existencia de múltiples accidentes similares desde el 01.01.05 que evidencian la necesidad de una revisión global de la seguridad peatonal en apeaderos sin paso inferior.",
+   "Falta de un plan jerarquizado de actuaciones en estaciones y apeaderos que no disponen de paso inferior de cruce de vías."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Intercepción de la vía 2 de 12:44 a 14:30 (1 h 46 min). Retardos: 16 min en Larga Distancia, 2 min en Media Distancia, 53 min en Mercancías."
+ },
+ "lecciones": [
+  "La imprudencia de peatones que cruzan vías por lugares no habilitados es una causa recurrente de accidentes mortales en apeaderos.",
+  "La visibilidad y la velocidad controlada del tren no impiden el arrollamiento cuando una persona invade el gálibo en el momento de paso.",
+  "Los apeaderos sin paso inferior o superior de cruce de vías representan un riesgo significativo para la seguridad de los viajeros."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, en función de variables como tráfico ferroviario, velocidad de paso de los trenes más rápidos, tráfico de usuarios y tiempo de cruce del paso entre andenes, para elaborar un plan de actuaciones jerarquizado.",
+   "destinatario": "Dirección General de Ferrocarriles y ADIF"
+  },
+  {
+   "texto": "Mejora de señalización pasiva en apeaderos sin paso inferior.",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Dotación de señales luminosas peatonales con accionamiento similar al de los pasos a nivel.",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Sustitución de pasos entre andenes por pasos superiores o inferiores.",
+   "destinatario": "ADIF"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "apeadero",
+  "grijota",
+  "palencia",
+  "línea 130",
+  "larga distancia",
+  "renfe",
+  "imprudencia",
+  "cruce de vías",
+  "paso entablonado",
+  "seguridad peatonal"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-210406-020307"
+}

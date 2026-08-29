@@ -1,0 +1,122 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren de Media Distancia 3067 entre Valchillón y Córdoba El Higuerón, línea 430, Córdoba",
+ "idioma_original": "es",
+ "resumen": "El 1 de marzo de 2007, a las 17:22, un tren de Media Distancia de Renfe arrolló a un peatón que caminaba por el centro de la vía en el PK 5/350 de la línea 430, entre Valchillón y Córdoba El Higuerón. El maquinista observó a la persona, accionó silbato y freno de emergencia a 105 km/h, pero no pudo evitar el impacto. La víctima, un varón, falleció en el acto. No hubo daños materiales en el tren ni en la infraestructura. La causa fue la imprudencia del peatón por transitar indebidamente por la vía.",
+ "hechos": "El tren de viajeros de Media Distancia 3067 de Renfe, con vehículo motor 470014, compuesto por 3 vehículos y 196 toneladas, procedente de Bobadilla con destino Córdoba, circulaba por la línea 430 (Bifurcación Córdoba El Higuerón a Málaga) en vía única electrificada con Bloqueo Automático de vía única con C.T.C. A la salida de una curva de 179 metros de transición y radio 972 metros, en el punto kilométrico 5/350, el maquinista observó a un hombre caminando en el mismo sentido de la marcha del tren por el centro de la caja de vía. El conductor hizo uso del silbato y accionó el freno de emergencia, que se activó a una velocidad de 105 km/h (máxima permitida: 140 km/h), pero no pudo evitar el arrollamiento. La visibilidad de la vía desde el punto del arrollamiento era de 200 metros. La víctima resultó ser un varón, identificado como D. Manuel Rodríguez Risque, cuyo cadáver quedó a dos metros del carril derecho sin interceptar la vía. El tren detuvo su marcha y el maquinista informó al Puesto de Mando de Córdoba. Se cursaron avisos a los servicios de emergencia, Guardia Civil y medios sanitarios, que confirmaron el fallecimiento. El cadáver fue levantado a las 20:00 horas. La prueba de alcoholemia al maquinista fue negativa (0,00 mg/1000 ml). No se produjeron daños materiales en el tren ni en la infraestructura.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "5/350",
+  "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
+  "provincia": "Córdoba",
+  "descripcion_lugar": "Plena vía entre las estaciones de Valchillón y Córdoba El Higuerón, a la salida de una curva de 179 m de transición con radio 972 m. Vía única electrificada en BAU con C.T.C. Visibilidad de 200 m desde el punto del arrollamiento."
+ },
+ "cronologia": [
+  {
+   "hora": "17:22",
+   "evento": "Arrollamiento de una persona por el tren MD 3067 en el PK 5/350. El maquinista observa al peatón, acciona silbato y freno de emergencia a 105 km/h, pero no puede evitar el impacto."
+  },
+  {
+   "hora": "17:22",
+   "evento": "El tren detiene su marcha. El maquinista informa al Puesto de Mando de Córdoba. Cadáver a 2 m del carril derecho, sin interceptar la vía."
+  },
+  {
+   "hora": "17:22",
+   "evento": "Se cursan avisos a Seguridad Corporativa, Protección Civil de ADIF, Gerencias Territoriales de Seguridad en la Circulación Sur de ADIF y Renfe, operadores afectados, Jefatura Técnica de Operaciones, Servicio de Mantenimiento y medios sanitarios."
+  },
+  {
+   "hora": "18:09",
+   "evento": "El Puesto de Mando de Córdoba permite reanudar la marcha al tren 3067 y prescribe Marcha a la Vista entre los PK 5/200 y 5/400 hasta el levantamiento del cadáver."
+  },
+  {
+   "hora": "20:00",
+   "evento": "La Guardia Civil y los Servicios Sanitarios confirman el fallecimiento y levantan el cadáver. Fin de la incidencia (duración total: 2 h 38 min)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "3067",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños"
+  },
+  {
+   "numero": "696",
+   "tipo": "Alta Velocidad - Larga Distancia",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "3058",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 3067",
+   "implicacion": "Observó a la persona caminando por el centro de la vía, accionó el silbato y el freno de emergencia a 105 km/h, pero no pudo evitar el arrollamiento. Jornada previa: 6 h 5 min; 24 h anteriores: 9 h; 48 h anteriores: 8 h. Prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de vía única con C.T.C. (BAU)",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": null,
+  "otro": "Curva de 179 m de transición, radio 972 m. Visibilidad de 200 m desde el punto del arrollamiento. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": "Vehículo motor 470014",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Condiciones meteorológicas buenas, arrollamiento de día",
+ "causas": {
+  "directa": "Imprudencia de la víctima (D. Manuel Rodríguez Risque) al transitar indebidamente por la vía, de espaldas al tren, sin percatarse de su llegada e ignorando las señales acústicas (silbato).",
+  "contribuyentes": [
+   "Visibilidad limitada a 200 m por la curva de radio 972 m",
+   "La víctima caminaba en el mismo sentido de la marcha del tren, de espaldas a él",
+   "Velocidad del tren de 105 km/h en el momento de la frenada de emergencia"
+  ],
+  "sistemicas": [
+   "Falta de cerramiento en la línea que permite el acceso de peatones a la vía"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales en el tren ni en la infraestructura",
+  "afectacion_servicio": "Incidencia de 2 h 38 min (17:22 a 20:00). Retraso al tren 3067: 43 min. Retraso al tren 696 AV-LD: 10 min. Retraso al tren 3058 MD: 21 min. Marcha a la Vista prescrita entre PK 5/200 y 5/400 hasta levantamiento del cadáver."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "media-distancia",
+  "linea-430",
+  "cordoba",
+  "imprudencia",
+  "cerramiento",
+  "bauc-tc",
+  "via-unica-electrificada",
+  "frenada-emergencia",
+  "renfe",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-010307-140907-DGF"
+}

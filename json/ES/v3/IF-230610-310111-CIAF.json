@@ -1,0 +1,168 @@
+{
+ "titulo_normalizado": "Arrollamiento de personas que cruzaban vías en el apeadero de Platja de Castelldefels (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 23 de junio de 2010 a las 23:23, el tren Alaris 1202 de larga distancia, circulando por vía 2 sin parada establecida en el apeadero de Platja de Castelldefels, arrolló a un grupo de personas que cruzaban las vías desde el andén 1 hacia el andén 2 por un lugar no autorizado. Momentos antes, el tren de cercanías 28391 había realizado parada en vía 1 y descendido un gran número de viajeros con destino a la playa. El accidente causó 12 fallecidos, 10 heridos graves y 7 leves. La causa fue la invasión del gálibo por parte de las víctimas, que no percibieron la llegada del tren al cruzar por detrás del cercanías en marcha. No se emitió ninguna recomendación de seguridad.",
+ "hechos": "El día 23 de junio de 2010, a las 23:23 horas, en el apeadero de Platja de Castelldefels (P.K. 656+598) de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga distancia Alaris 1202 de Renfe Operadora, procedente de Alicante con destino Barcelona Sants, sin parada establecida y circulando por la vía 2, arrolló a varias personas que cruzaban la vía de izquierda a derecha en sentido de la marcha del tren. Momentos antes, el tren de cercanías 28391, también de Renfe Operadora, había realizado parada comercial en la vía 1 (lado montaña) en sentido contrario, procedente de Barcelona con destino Vilanova i la Geltrú, descendiendo un gran número de viajeros con destino a la playa cercana situada en el lado del andén 2. Para desplazarse entre andenes se utiliza mayoritariamente el paso inferior existente, pero un grupo numeroso cruzó a nivel y de forma indebida las vías, lo que provocó su arrollamiento por el tren 1202. Como consecuencia del arrollamiento fallecieron 12 personas, 10 resultaron con heridas graves y 7 con heridas leves; ambas vías quedaron interceptadas y se produjeron ciertos daños en el material rodante. El accidente tuvo lugar en la noche de San Juan, con actuaciones musicales programadas en la playa próxima y fiesta al día siguiente, lo que generó una afluencia muy considerable de personas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Apeadero de Platja de Castelldefels",
+  "pk": "656+598",
+  "linea": "200 Madrid Chamartín – Barcelona Sants",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Apeadero con dos andenes enfrentados de 258 m, sin andén central, vía doble. Acceso por el lado mar. Remodelado en noviembre de 2009 con paso inferior entre andenes, ascensor, recrecido de andenes y nuevo vallado. El paso superior fue clausurado. Tramo Sitges-Castelldefels, trayecto Garraf-Castelldefels, municipio de Castelldefels."
+ },
+ "cronologia": [
+  {
+   "hora": "23:10",
+   "evento": "Hora prevista de parada comercial del tren 28391 en el apeadero (llegó con ~10 min de retraso)"
+  },
+  {
+   "hora": "23:18:44",
+   "evento": "Tren 28391 rebasa baliza de pie de señal 6577-1 (P.K. 657+655) a 89 km/h, vía libre, y ocupa circuito de vía E'2-1B"
+  },
+  {
+   "hora": "23:18:46",
+   "evento": "Tren 28391 ocupa circuito de vía E'2-1B (andén 1); comienza parada comercial y descenso masivo de viajeros"
+  },
+  {
+   "hora": "23:22:06",
+   "evento": "Tren 1202 rebasa señal 6552-2 (P.K. 655+132) a 140 km/h, vía libre, y ocupa circuito de vía 6552"
+  },
+  {
+   "hora": "23:22:57",
+   "evento": "Tren 28391 reinicia marcha, rebasa señal 6565-1 (P.K. 656+426) a 23 km/h"
+  },
+  {
+   "hora": "23:23:11",
+   "evento": "Tren 28391 libera circuito de vía E'2-1B; cola del tren al final del andén 1"
+  },
+  {
+   "hora": "23:23:16",
+   "evento": "Maquinista del tren 1202 actúa sobre la bocina durante 2 segundos"
+  },
+  {
+   "hora": "23:23:19",
+   "evento": "Maquinista del tren 1202 acciona la seta de emergencia a 139 km/h"
+  },
+  {
+   "hora": "23:23:26",
+   "evento": "Tren 1202 rebasa baliza de pie de señal E'2/2 (P.K. 656+700) a 122 km/h y arrolla a las personas que cruzan; 15 segundos después de que la cola del 28391 saliera del andén 1"
+  },
+  {
+   "hora": "23:24:30",
+   "evento": "Tren 1202 se detiene en P.K. 657+245 tras recorrer 800 m desde aplicación del freno"
+  },
+  {
+   "hora": "23:25:57",
+   "evento": "Comunicación del maquinista del 1202 al Puesto de Mando de Barcelona"
+  },
+  {
+   "hora": "23:31:54",
+   "evento": "Segunda comunicación Puesto de Mando / tren 1202"
+  },
+  {
+   "hora": "01:53",
+   "evento": "Se disponen autobuses entre estaciones colaterales para mantener servicio de cercanías (día 24/06)"
+  },
+  {
+   "hora": "11:25",
+   "evento": "Se restablece la circulación por vía 1 (día 24/06)"
+  },
+  {
+   "hora": "12:25",
+   "evento": "Se restablece la circulación normal y sin limitaciones por ambas vías entre Castelldefels y Garraf (día 24/06)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1202",
+   "tipo": "Alaris (larga distancia)",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la parte delantera por valor de 14.983,78 €"
+  },
+  {
+   "numero": "28391",
+   "tipo": "Cercanías (doble composición, UEM 451008 en cabeza y 451010 en cola)",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños; continuó su servicio comercial hasta destino"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1202",
+   "implicacion": "Circulaba a 139-140 km/h (inferior a la permitida de 150 km/h), en vía libre, sin retraso. Accionó bocina (2 s) y seta de emergencia. Llevaba encendido el faro de gran intensidad y focos LED laterales. Prueba de alcohol y drogas negativa. Título B de conducción habilitado. Jornada de 5 h 38 min (3 h 38 min de conducción)."
+  },
+  {
+   "rol": "Maquinista del tren 28391",
+   "implicacion": "Circulaba con ~10 min de retraso. Realizó parada comercial de ~3 min. Accionó retrovisores laterales. No percibió cruce de personas por detrás del tren."
+  },
+  {
+   "rol": "Interventor del tren 1202",
+   "implicacion": "Acompañó al maquinista tras la detención para socorrer a las víctimas"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.) gestionado desde Puesto de Mando Barcelona Sants. Señalización funcionó correctamente; todas las señales en verde/vía libre.",
+  "tipo_via": "Vía doble, perfil horizontal y recto, buena visibilidad",
+  "velocidad_maxima": "150 km/h (sin limitaciones en el tramo)",
+  "ancho": "Ibérico (no especificado explícitamente en el informe)",
+  "electrificacion": "No especificado en el texto",
+  "estado_via": "En buen estado; no se produjeron daños en infraestructura",
+  "otro": "Andenes de 258 m, recrecidos a 68 cm sobre cabeza de carril, ancho medio 3 m, franja de seguridad. Paso inferior entre andenes de 3 m de ancho y 2,55 m de altura libre, con ascensores y escalera de 1,75 m. Paso superior clausurado tras remodelación (noviembre 2009, coste 1,4 M€). Carteles de salida y de prohibición de cruzar vías. 1.840 viajeros/día; 228 circulaciones/día (87 sin parada, 141 con parada). Tramo Sitges-Castelldefels: 1.593 circulaciones/semana (222 LD, 377 MD, 990 cercanías, 4 servicio). Radiotelefonía modalidad A."
+ },
+ "material_rodante": {
+  "series": "Tren 1202: autopropulsado 967194900031 (3 vehículos, 12 ejes, 80 m, 172 t). Tren 28391: doble composición UEM serie 451 (unidades 451008 y 451010), capacidad 1.816 plazas (996 sentadas, 820 de pie).",
+  "averia": "Ninguna; ambos trenes funcionaron correctamente según registradores de seguridad",
+  "mantenimiento": "No se especifica en el informe"
+ },
+ "clima": "Noche, tiempo despejado, temperatura agradable. Noche de San Juan con actuaciones musicales programadas en la playa próxima y fiesta al día siguiente, lo que generó una afluencia muy considerable de personas.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte de las víctimas, al cruzar por un lugar no autorizado y sin percatarse de la llegada del tren 1202. Incumplimiento del artículo 40 del Reglamento del Sector Ferroviario.",
+  "contribuyentes": [
+   "Gran afluencia de personas por la celebración de la Noche de San Juan con actuaciones musicales en la playa próxima",
+   "El tren de cercanías 28391, al reiniciar marcha, dificultaba la visibilidad del tren 1202 que llegaba por vía 2 en sentido contrario",
+   "Solo 15 segundos transcurrieron entre la salida del cercanías del andén 1 y el paso del Alaris por el andén 2",
+   "Algunos testigos indican que la pasarela superior (puente del pueblo sobre la C-32) estaba cerrada con cadena y candado, lo que pudo generar confusión en parte de los viajeros",
+   "Desconocimiento del paso inferior por parte de algunos viajeros (testigos indican que no lo veían o no lo conocían)"
+  ],
+  "sistemicas": [
+   "El cruce imprudente de vías por lugares no autorizados, especialmente en estaciones, tiene un peso significativo en la siniestralidad de la RFIG",
+   "No se identificaron deficiencias en la infraestructura, señalización, iluminación, accesos o material rodante"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 12,
+  "heridos_graves": 10,
+  "heridos_leves": 7,
+  "danos_materiales": "Daños en la parte delantera del tren 1202 por valor de 14.983,78 €. Sin daños en infraestructura.",
+  "afectacion_servicio": "13 horas y 2 minutos de anormalidad (23:23 del 23/06 a 12:25 del 24/06). Vía 1 restablecida a las 11:25. Tren 1202 suprimido, 47 viajeros transbordados por carretera. 5 trenes LD: 100 min retraso acumulado; 6 MD: 181 min; 59 cercanías: 828 min. Autobuses entre estaciones colaterales desde las 01:53."
+ },
+ "lecciones": [
+  "El cruce de vías por lugares no autorizados en estaciones es un factor de riesgo significativo en la siniestralidad de la RFIG",
+  "La proximidad temporal entre la salida de un tren de un andén y el paso de otro en sentido contrario por la vía contigua (15 segundos) impide cualquier tiempo de reacción del maquinista",
+  "La existencia de pasos superiores clausurados que aún son percibidos como vía de acceso por los viajeros puede generar confusión y conductas de riesgo",
+  "La afluencia masiva por eventos festivos en zonas próximas a estaciones incrementa el riesgo de invasión de vías"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información recabada de otros países europeos sobre elementos de seguridad en estaciones (incluida la práctica de instalar vallas entre vías como medida disuasoria), a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares.",
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (Autoridad Nacional de Seguridad Ferroviaria)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "cruce indebido de vías",
+  "apeadero",
+  "noche de san juan",
+  "invasión de gálibo",
+  "cercanías",
+  "larga distancia",
+  "renfe operadora",
+  "adif",
+  "plata de castelldefels",
+  "paso inferior",
+  "siniestralidad estación"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-230610-310111-CIAF"
+}

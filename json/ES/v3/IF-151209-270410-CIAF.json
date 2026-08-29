@@ -1,0 +1,140 @@
+{
+ "titulo_normalizado": "Colisión y descarrilamiento del tren FEVE 3102 por desprendimiento de rocas entre Navia y Piñera Villaoril (Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 15/12/2009, a las 17:27 horas, el tren regular de viajeros 3102 de FEVE colisionó con un desprendimiento de rocas en el P.K. 191+222, entre la estación de Navia y el apeadero de Piñera Villaoril (Asturias). La colisión provocó el descarrilamiento de los dos bogies de la UTDE 2466, que iba en cabeza, y daños materiales en las dos unidades. El maquinista resultó herido leve y los 14 viajeros resultaron ilesos. La causa fue la colisión con el desprendimiento, cuya malla de protección no resistió el empuje. FEVE recibió recomendaciones para vigilar y proteger trincheras y taludes críticos.",
+ "hechos": "El 15 de diciembre de 2009, a las 17:27 horas, el tren regular de viajeros 3102 de FEVE, procedente de Oviedo y con destino Navia, salió del túnel nº 42 (P.K. 191+200) y se encontró con un desprendimiento de rocas sobre la vía en el P.K. 191+222, entre la estación de Navia y el apeadero de Piñera Villaoril (Asturias). El maquinista, con una visibilidad de unos 25 metros hacia el obstáculo, aplicó el freno de emergencia cuando el convoy circulaba a 49 km/h, pero no pudo evitar la colisión.\n\nComo consecuencia, los dos bogies de la unidad diésel-eléctrica UTDE 2466, que iba en cabeza, descarrilaron y la unidad colisionó contra el talud derecho de la trinchera. La UTDE 2416, que circulaba en segundo lugar, sufrió daños de menor consideración.\n\nEl maquinista resultó herido leve e informó del suceso al puesto de mando de El Berrón; junto con el interventor ayudó a los 14 viajeros, que resultaron ilesos, a salir del tren. La vía quedó interceptada durante 13 horas y 13 minutos y se reabrió a las 06:40 del día siguiente con limitación de marcha a la vista entre P.K. 191+150 y P.K. 191+250.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Navia",
+  "pk": "191+222",
+  "linea": "11 Ferrol-Oviedo",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Entre la estación de Navia y el apeadero de Piñera Villaoril, municipio de Navia, a la salida del túnel nº 42. Zona de trinchera de 80 metros lineales, altura media 7,50 metros y protegida con malla metálica; vía única con bloqueo telefónico, rampa de 15 milésimas y curva pronunciada a la izquierda."
+ },
+ "cronologia": [
+  {
+   "hora": "17:27",
+   "evento": "El informe oficial sitúa la colisión del tren 3102 con el desprendimiento de rocas en el P.K. 191+222 y el descarrilamiento de los dos bogies de la UTDE 2466."
+  },
+  {
+   "hora": "17:34",
+   "evento": "En su informe, el maquinista sitúa el impacto a las 17:34 en el P.K. 191/200, a la salida del túnel 42."
+  },
+  {
+   "hora": "19:05",
+   "evento": "El inspector general de FEVE comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "El 26 de enero de 2010, la CIAF resuelve en pleno abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "El 20 de febrero de 2010, el maquinista del tren 3102 realiza su informe/declaración en Pravia."
+  },
+  {
+   "hora": null,
+   "evento": "El 11 de marzo de 2010, el inspector general de FEVE entrega su informe particular."
+  },
+  {
+   "hora": "06:40",
+   "evento": "A las 06:40 del día siguiente, 16 de diciembre de 2009, la vía queda expedita con limitación de marcha a la vista entre P.K. 191+150 y P.K. 191+250."
+  },
+  {
+   "hora": null,
+   "evento": "El 27 de abril de 2010 se firma el informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "3102",
+   "tipo": "tren regular de viajeros, tipo 80",
+   "operador": "FEVE",
+   "danos": "Colisionó con un desprendimiento de rocas; descarrilaron los dos bogies de la unidad en cabeza; daños de consideración en la UTDE 2466 y de menor consideración en la UTDE 2416."
+  },
+  {
+   "numero": "2466",
+   "tipo": "UTDE serie 2400, unidad en cabeza",
+   "operador": "FEVE",
+   "danos": "Descarrilamiento de los dos bogies; colisión contra el talud derecho de la trinchera; daños de consideración en parte frontal, lateral derecho y parte inferior."
+  },
+  {
+   "numero": "2416",
+   "tipo": "UTDE serie 2400, segunda unidad",
+   "operador": "FEVE",
+   "danos": "Daños de menor consideración."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 3102",
+   "implicacion": "Carné ferroviario número 3621; poseía el título de conducción y estaba habilitado conforme a la normativa de FEVE. Realizó su último reciclaje formativo el 03/09/09 y su último reconocimiento médico el 16/11/09. Aplicó el freno de emergencia a unos 25 metros del obstáculo; resultó herido leve; informó al puesto de mando de El Berrón y ayudó a los viajeros a salir. Su jornada el día 15 fue de 1 hora y 55 minutos, descansó los días 13 y 14, y no se le realizó prueba de alcoholemia."
+  },
+  {
+   "rol": "interventor",
+   "implicacion": "Junto con el maquinista ayudó a los 14 viajeros a salir del tren."
+  },
+  {
+   "rol": "inspector general de FEVE",
+   "implicacion": "Comunicó el suceso a la CIAF a las 19:05 horas y entregó su informe particular el 11 de marzo de 2010."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía única con bloqueo telefónico.",
+  "velocidad_maxima": "50 km/h entre P.K. 192+600 y P.K. 189+180; no existía limitación temporal de velocidad.",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo de trinchera de 80 metros lineales, altura media 7,50 metros, protegido con malla metálica; a la salida del túnel nº 42 comienza bajada con curva pronunciada a la izquierda; la malla no aguantó el empuje del desprendimiento y se rompió por varios sitios.",
+  "otro": "Sistemas de comunicación: radio y GSM. No fue necesario activar el plan de emergencia externo-interno. No se constataron deficiencias en las instalaciones técnicas. Perfil de vía con rampa de 15 milésimas."
+ },
+ "material_rodante": {
+  "series": "UTDE serie 2400: 2466 (en cabeza) y 2416; tipo tren 80.",
+  "averia": "No se dispone de los archivos de datos registrados por la UTDE 2466 correspondientes al momento del suceso; el registrador de seguridad de la UTDE 2416 presenta un desfase de 17 minutos; al aplicar el freno de emergencia el convoy circulaba a 49 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y las condiciones atmosféricas eran buenas.",
+ "causas": {
+  "directa": "Colisión del tren de viajeros 3102 con un desprendimiento de rocas caídas de la trinchera que ocupaba la vía.",
+  "contribuyentes": [
+   "La malla metálica de protección no aguantó el empuje del desprendimiento y se rompió por varios sitios.",
+   "Visibilidad de unos 25 metros hacia el obstáculo tras la salida del túnel nº 42.",
+   "Curva pronunciada a la izquierda y bajada en el punto donde apareció el desprendimiento.",
+   "El desprendimiento ocupaba toda la vía, según la declaración del maquinista."
+  ],
+  "sistemicas": [
+   "La antigüedad de las líneas explotadas por FEVE, su trazado, orografía y climatología dan lugar a desprendimientos sobre la vía.",
+   "La existencia de zonas del trazado donde la vía discurre entre trincheras y puntos singulares de la red que requieren vigilancia, protección y estudio de estabilidad."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 1,
+  "danos_materiales": "Daños de consideración en parte frontal, lateral derecho y parte inferior de la UTDE 2466; daños de menor consideración en la UTDE 2416; rotura de la malla metálica de protección.",
+  "afectacion_servicio": "Vía interceptada durante 13 horas y 13 minutos; a las 06:40 del día siguiente la vía quedó expedita con limitación de marcha a la vista entre P.K. 191+150 y P.K. 191+250; fueron suprimidos parcialmente dos trenes de viajeros y uno totalmente; un tren de viajeros sufrió un retraso de cinco minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Recomendación 65/09-1: Seguir las medidas correctoras presentadas y establecidas en el Comité de Seguridad en la Circulación del 30 de marzo de 2006, en orden a la actuación en zonas del trazado donde la vía discurre entre trincheras en la provincia de Asturias, extendiendo dicho estudio y actuaciones a otros puntos singulares de la red. Estas medidas son: especial vigilancia de la infraestructura desde los trenes y a pie, programación de recorridos con locomotoras de exploración y establecimiento de limitaciones temporales de velocidad en situaciones de riesgo; realización de obras de protección consistentes, fundamentalmente, en la instalación de mallas, mallazos, anclajes, pantallas, escolleras, muros de contención y prolongaciones de túneles; estudio de estabilidad de taludes en tramos que se consideren críticos; e inversión anual sistemática para esta problemática específica.",
+   "destinatario": "FEVE"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "desprendimiento de rocas",
+  "trinchera",
+  "malla metálica",
+  "feve",
+  "vía única",
+  "bloqueo telefónico",
+  "túnel",
+  "curva",
+  "velocidad máxima",
+  "herido leve",
+  "asturias"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-151209-270410-CIAF"
+}

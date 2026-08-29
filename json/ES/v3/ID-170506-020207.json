@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de un peatón por tren de Cercanías en Lorca San Diego",
+ "idioma_original": "es",
+ "resumen": "El 17 de mayo de 2006, a las 19:40, un tren de Cercanías de Renfe arrolló a un joven de 17 años en plena vía, en el punto kilométrico 0,385 de la Línea 322 Murcia Cargas-Águilas, entre el apeadero de Lorca San Diego y la estación de Lorca Sutullena. La víctima cruzó intempestivamente la vía pese al aviso con el silbato y a la aplicación del freno de emergencia. No hubo daños materiales al tren, pero se produjo un fallecido y perturbaciones en el tráfico. El informe destaca la ausencia de cerramiento y recomienda el vallado de los tramos urbanos o periurbanos.",
+ "hechos": "El tren de Cercanías nº 24925 de Renfe, compuesto por la locomotora 592065 y tres vehículos con una masa remolcada de 152 toneladas, se detuvo a las 19:40 en el punto kilométrico 0,385 de la línea Lorca San Diego-Lorca Sutullena tras arrollar a un joven que cruzaba intempestivamente la vía. La víctima era un varón de 17 años. El lugar del suceso se encuentra en el casco urbano de Lorca, en tramo recto con buena visibilidad, sin cerramiento y con varios pasos irregulares que conectan núcleos de viviendas próximos.\n\nSegún el registro de la memoria estática del automotor, el tren había parado antes en el apeadero de Lorca San Diego, a unos 300 metros de la señal de entrada E-1 de Lorca Sutullena, y en el momento del arrollamiento circulaba a 55 km/h, siendo la velocidad máxima autorizada de 115 km/h. El maquinista declaró que observó personas en las inmediaciones de la vía, hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. La prueba de alcoholemia realizada al maquinista fue negativa.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Lorca San Diego",
+  "pk": "0,385",
+  "linea": "Línea 322 Murcia Cargas-Águilas",
+  "provincia": "Murcia",
+  "descripcion_lugar": "Plena vía en el casco urbano de Lorca, entre el apeadero de Lorca San Diego y la estación de Lorca Sutullena. Tramo recto, vía única sin electrificar, sin cerramiento, con pasos irregulares y terraplén de 5 metros con paso inferior de carretera."
+ },
+ "cronologia": [
+  {
+   "hora": "2006-05-16T00:00",
+   "evento": "La Dirección General de Ferrocarriles designó el equipo de investigación de accidentes ferroviarios."
+  },
+  {
+   "hora": "2006-05-17T19:40",
+   "evento": "El tren de Cercanías nº 24925 arrolla a un joven y detiene su marcha en el pk 0,385 de la Línea 322."
+  },
+  {
+   "hora": "2006-05-17T20:03",
+   "evento": "Agentes de Adif notifican el fallecimiento de la víctima; el cadáver queda custodiado por la Policía Local."
+  },
+  {
+   "hora": "2006-05-17T20:27",
+   "evento": "Se interrumpe la circulación a petición de la Policía Local."
+  },
+  {
+   "hora": "2006-05-17T20:40",
+   "evento": "Se reanuda la circulación."
+  },
+  {
+   "hora": "2006-05-17T21:55",
+   "evento": "Se personó la Autoridad Judicial y autorizó el levantamiento del cadáver."
+  },
+  {
+   "hora": "2006-05-17T22:08",
+   "evento": "Se levanta el cadáver."
+  },
+  {
+   "hora": "2006-05-17T22:15",
+   "evento": "La circulación se reanuda en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24925",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 24925",
+   "implicacion": "Observó personas en las inmediaciones de la vía, accionó el silbato y aplicó el freno de emergencia, sin poder evitar el arrollamiento. Prueba de alcoholemia negativa y jornada laboral dentro de los límites."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E-1 de la estación de Lorca Sutullena; bloqueo CCR.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "115 km/h",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Tramo recto, buena visibilidad, sin cerramiento, con pasos irregulares y terraplén de 5 metros con paso inferior de carretera.",
+  "otro": "Línea administrada por Adif, perteneciente a la Red Ferroviaria de Interés General."
+ },
+ "material_rodante": {
+  "series": "Locomotora 592065 y 3 vehículos remolcados",
+  "averia": "No se aprecia avería del material rodante; el tren circulaba a 55 km/h en el momento del arrollamiento.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima, que transitó por lugar no permitido y cruzó la vía de manera intempestiva cuando el tren estaba muy cerca.",
+  "contribuyentes": [
+   "Falta de vallado o cerramiento que impida u obstaculice el acceso a la vía.",
+   "Existencia de pasos irregulares y caminos que cruzan la vía en el entorno urbano."
+  ],
+  "sistemicas": [
+   "Permeabilidad de la trama urbana respecto al ferrocarril en el tramo Lorca San Diego-Lorca Sutullena."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Retraso de 7 minutos en 1 tren de Larga Distancia y 54 minutos acumulados en 5 trenes de Cercanías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Proceder al vallado de esta línea en sus tramos urbanos o periurbanos para evitar o dificultar la reproducción de este tipo de accidentes.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Analizar la permeabilidad de la trama urbana en relación con el ferrocarril y adoptar medidas para mejorarla si fuera deficiente.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "imprudencia",
+  "falta de vallado",
+  "cercanias",
+  "lorca",
+  "via unica",
+  "cruce intempestivo",
+  "casco urbano",
+  "adif",
+  "renfe",
+  "fatal"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-170506-020207"
+}

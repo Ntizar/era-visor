@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en el paso enmaderado del apeadero de Segur de Calafell por el tren MD 15058",
+ "idioma_original": "es",
+ "resumen": "El 29 de agosto de 2008, a las 12:51, el tren de Media Distancia 15058 de Renfe Operadora arrolló a un varón de 67 años con movilidad reducida (caminaba con muleta) que cruzaba el paso enmaderado del apeadero de Segur de Calafell (Tarragona) sin percatarse de la llegada del tren. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. La víctima falleció en el acto. El accidente se originó en el tránsito de la víctima por el paso enmaderado sin advertir la aproximación del tren.",
+ "hechos": "El tren de viajeros de Media Distancia 15058 de Renfe Operadora, compuesto por la U/T 470070 (3 vehículos, masa remolcada de 220 Tm), procedente de Cambrils con destino a Barcelona, circulaba por el trayecto San Vicente de Calders - Cunit. A unos 300 metros del apeadero de Segur de Calafell, el maquinista observó a una persona que cruzaba de montaña a mar por el paso entarimado de madera del lado San Vicente de Calders. Al percatarse de que iba con muletas y a paso muy lento, hizo uso del silbato repetidas veces y accionó el freno de emergencia (posición ocho, máxima), pero no pudo evitar el arrollamiento. La víctima, un varón de 67 años, fue golpeada por el lado derecho del tren y quedó ya cadáver en la vía 2 entre el carril derecho y el andén. El tren quedó detenido en el apeadero de Segur de Calafell.\n\nAcompañaba al maquinista principal un maquinista sin servicio que había subido en San Vicente de Calders para iniciar su turno en Barcelona. Ambos coincidieron en que el paso de la víctima era excesivamente lento debido a la muleta. El tren circulaba a 123 km/h antes de aplicar el freno de emergencia, por debajo de la velocidad máxima permitida de 140 km/h.\n\nEl paso enmaderado era de uso habitual no solo para acceder a los andenes sino también para cruzar entre los dos núcleos de población divididos por el ferrocarril. Existía un paso inferior cercano, pero su salida hacia los andenes solo era posible por una escalera, lo que obligaba a personas con movilidad reducida a cruzar por el paso enmaderado. Además, en las inmediaciones existían varios pasos viciosos con frecuente tránsito de personas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Segur de Calafell (apeadero)",
+  "pk": "624,800",
+  "linea": "200 Madrid Chamartín – Barcelona-Sants",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Paso enmaderado (paso entablonado) situado al final de ambos andenes (sentido San Vicente de Calders), aproximadamente a 50 metros del edificio de viajeros. Trayecto con alineación recta y perfil horizontal, con buena visibilidad para trenes y personas."
+ },
+ "cronologia": [
+  {
+   "hora": "12:51",
+   "evento": "Arrollamiento de la víctima por el tren 15058 en el paso enmaderado. Interrupción de la circulación por la vía 2."
+  },
+  {
+   "hora": "13:38",
+   "evento": "Transbordo de los pasajeros del tren 15058 a otro tren para terminar su recorrido."
+  },
+  {
+   "hora": "13:40",
+   "evento": "Interrupción de la circulación por la vía 1 para intervención de la policía judicial."
+  },
+  {
+   "hora": "14:16",
+   "evento": "Reanudación de la circulación por la vía 1."
+  },
+  {
+   "hora": "15:03",
+   "evento": "Se levanta el cadáver y se reanuda la circulación normal por ambas vías."
+  },
+  {
+   "hora": "13:40",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF (1 de septiembre, a las 13:40)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15058",
+   "tipo": "Viajeros de Media Distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 15058",
+   "implicacion": "Observó a la víctima a unos 300 m, hizo uso del silbato y accionó el freno de emergencia. Actuación correcta. Tasa de alcoholemia negativa (0,00 mg/1000 ml)."
+  },
+  {
+   "rol": "Maquinista sin servicio (acompañante)",
+   "implicacion": "Subió en San Vicente de Calders para iniciar turno en Barcelona. Declaró los hechos y confirmó la lentitud del paso de la víctima por la muleta."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Sí",
+  "estado_via": "Correcta; alineación recta y perfil horizontal; buena visibilidad",
+  "otro": "Control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Apeadero con paso inferior accesible por rampa pero salida a andenes solo por escalera. Paso enmaderado al final de ambos andenes. Varios pasos viciosos en las inmediaciones."
+ },
+ "material_rodante": {
+  "series": "U/T 470070 (Matrícula UIC: 967194700704), 3 vehículos, masa remolcada 220 Tm",
+  "averia": "Ninguna. Funcionamiento correcto según análisis del registrador de seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado",
+ "causas": {
+  "directa": "Tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "Movilidad reducida de la víctima (caminaba con muleta), lo que condicionó la velocidad de su paso e impidió que llegara al andén antes del impacto.",
+   "El paso enmaderado era de uso habitual para cruzar entre núcleos de población divididos por el ferrocarril.",
+   "El paso inferior existente no permitía el acceso a los andenes por su salida mediante escalera, obligando a personas con movilidad reducida a usar el paso enmaderado.",
+   "Existencia de varios pasos viciosos en las inmediaciones con frecuente tránsito de personas.",
+   "En la línea 200, entre marzo de 2005 y agosto de 2008, se habían producido 8 arrollamientos mortales de personas, 6 en estaciones y apeaderos (dos en pasos entablonados), todos dotados de pasos inferiores."
+  ],
+  "sistemicas": [
+   "Falta de permeabilidad peatonal accesible en el apeadero: el paso inferior no era accesible para personas con movilidad reducida.",
+   "El ferrocarril divide los núcleos urbanos donde se ubica, generando cruces habituales por pasos no habilitados.",
+   "Alta densidad de tráfico ferroviario en el tramo (media semanal de 1.332 circulaciones, considerada ALTA)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070",
+  "afectacion_servicio": "Interrupción de la vía 2 desde las 12:51 hasta las 15:03 (2 h 12 min). Interrupción de la vía 1 desde las 13:40 hasta las 14:16 (36 min). Marcha a la vista hasta el restablecimiento. Retrasos en 2 trenes de larga distancia, 6 de media distancia y 11 de corta distancia, sumando 355 minutos. Supresión de 3 trenes de cercanías, 3 de media distancia y 1 de larga distancia. Transbordo de pasajeros del tren 15058 a otro tren."
+ },
+ "lecciones": [
+  "La actuación del maquinista (silbato y freno de emergencia) fue correcta, pero no pudo evitar el arrollamiento debido a la velocidad del tren (123 km/h) y la lentitud del paso de la víctima.",
+  "Los pasos enmaderados/entablonados en apeaderos suponen un riesgo elevado cuando son usados como vía de paso entre núcleos urbanos divididos por la vía.",
+  "La falta de accesibilidad en los pasos inferiores (salida solo por escalera) obliga a personas con movilidad reducida a cruzar por pasos en superficie, aumentando el riesgo de arrollamiento.",
+  "La alta densidad de tráfico ferroviario (1.332 circulaciones semanales) en tramos con apeaderos con pasos enmaderados multiplica el riesgo."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "A la vista de los arrollamientos enumerados en el punto 3.8 del informe (Incidencias anteriores de carácter similar) y teniendo en cuenta que, en la mayoría de los casos, el ferrocarril divide a los núcleos urbanos donde se ubica, se recomienda a las autoridades competentes que tomen las medidas necesarias para mejorar la permeabilidad.",
+   "destinatario": "Autoridades competentes"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso enmaderado",
+  "movilidad reducida",
+  "apeadero",
+  "permeabilidad peatonal",
+  "media distancia",
+  "renfe operadora",
+  "segur de calafell",
+  "línea 200",
+  "freno de emergencia",
+  "tráfico denso",
+  "víctima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-290808-181208-CIAF"
+}

@@ -1,0 +1,184 @@
+{
+ "titulo_normalizado": "Conato de colisión por rebase indebido de señal en parada en la estación de Barcelona Marina (Bif. Vilanova)",
+ "idioma_original": "es",
+ "resumen": "El 12 de enero de 2015 a las 21:14 horas, en la estación de Barcelona Marina (línea 266 Bif. Glorias – Bif. Vilanova), el tren de cercanías 25780 de Renfe Viajeros rebasó indebidamente la señal 3646 en indicación de parada. Tras detenerse por actuación del ASFA, el maquinista rearmó el sistema y reinició la marcha sin comunicar el incidente al puesto de mando, aproximándose al desvío B3. Simultáneamente, el tren 25386, que circulaba por vía II de la línea 220 con itinerario establecido hacia el mismo desvío, se percató de la situación y se detuvo, produciéndose un conato de colisión. No hubo heridos ni daños materiales. La causa directa fue el fallo humano del maquinista del tren 25780 por falta de atención.",
+ "hechos": "Los hechos tuvieron lugar el día 12 de enero de 2015 a las 21:14 horas, en la línea 266 Bif. Glorias a Bif. Vilanova de la estación de Barcelona Marina. El tren de cercanías 25780 de Renfe Viajeros, procedente de Arenys de Mar y con destino L'Hospitalet de Llobregat, tenía establecido itinerario hasta la señal 3646 de Bif. Glorias, que se encontraba en indicación de parada, con la señal anterior 1094 en anuncio de parada. El tren 25386, procedente de Ripoll y con destino L'Hospitalet de Llobregat, tenía itinerario de paso directo por vía II de la línea 220, con la señal 3648 en anuncio de parada. Ambas líneas confluyen en Bif. Vilanova (aguja B3).\n\nAl llegar a la señal 3646 en indicación de parada, el tren 25780 la rebasó indebidamente a 30 km/h y se detuvo por actuación del sistema ASFA embarcado sobre el freno de emergencia, a unos 30 metros de la señal. Tras estar detenido 22 segundos, el maquinista rearmó el sistema y reinició la marcha a baja velocidad (alcanzando 14 km/h) durante aproximadamente 200 metros, sin haberse puesto en comunicación con el puesto de mando para notificar el rebase, aproximándose a la aguja B3.\n\nEntre tanto, el tren 25386 pasó por la señal 3648 en anuncio de parada. Al percatarse de la presencia del tren 25780 dirigiéndose al mismo desvío, su maquinista actuó sobre la bocina y aplicó el freno, deteniéndose antes de llegar al desvío B3. El maquinista del 25780 también detuvo la marcha al acercarse al desvío, sin llegar a rebasar el piquete de vía. Ninguno de los dos trenes ocupó el CVB3. Se puso en comunicación con el puesto de mando. Como consecuencia del incidente no se produjeron daños materiales ni personales. La vía II de la línea 266 estuvo interceptada durante cuatro minutos, afectando a 4 trenes de cercanías con un retraso total de 19 minutos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Barcelona Marina",
+  "pk": "364+859",
+  "linea": "266 Bif. Glorias – Bif. Vilanova",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación subterránea de tipo no comercial destinada exclusivamente a regular los procesos de circulación. En ella confluyen las líneas 200, 220, 262 y 266 a través de tres bifurcaciones: Bifurcación Clot, Bifurcación Vilanova y Bifurcación Glorias. El incidente ocurrió en la vía II de la línea 266, en la señal 3646 de entrada a Bif. Vilanova, a 357 metros del desvío B3."
+ },
+ "cronologia": [
+  {
+   "hora": "21:12",
+   "evento": "El tren 25780 sale del apartadero de Clot Aragó"
+  },
+  {
+   "hora": "21:13:10",
+   "evento": "El jefe de circulación establece itinerario de paso directo por vía II para el tren 25386; señal 3648 en indicación de parada; tren 25780 con itinerario hasta señal 3646 (parada)"
+  },
+  {
+   "hora": "21:13:32",
+   "evento": "Tren 25386 con itinerario de paso directo por vía II; desvío B3 enclavado en posición normal; señal 3648 en anuncio de parada. Tren 25780 pasa por señal 1094 en anuncio de parada"
+  },
+  {
+   "hora": "21:13:34",
+   "evento": "Tren 25780 pasa por la señal 1094 a 49 km/h (hora del puesto de mando; 21:16:17 hora del registrador)"
+  },
+  {
+   "hora": "21:14:03",
+   "evento": "Tren 25386 pasa por señal 3630 en anuncio de parada, ocupa CV A3640. Tren 25780 ocupa CV A19; señal 3646 indica parada"
+  },
+  {
+   "hora": "21:14:14",
+   "evento": "Tren 25780 rebasa indebidamente la señal 3646 en indicación de parada a 30 km/h. Actúa el ASFA y se activa el freno de emergencia. Tren 25386 en CV 3640, señales 3640 y 3648 en anuncio de parada"
+  },
+  {
+   "hora": "21:14:21",
+   "evento": "Tren 25780 queda detenido por freno de emergencia tras recorrer 30 metros desde la señal"
+  },
+  {
+   "hora": "21:14:43",
+   "evento": "Tren 25780 reinicia la marcha tras 22 segundos detenido, sin comunicarse con el puesto de mando"
+  },
+  {
+   "hora": "21:14:44",
+   "evento": "Conversación grabada: el maquinista del tren 25386 llama al jefe del CTC para informar de que se ha parado delante de Bif. Vilanova al ver otro tren"
+  },
+  {
+   "hora": "21:15:01",
+   "evento": "Tren 25386 pasa señal 3640 en anuncio de parada, ocupa CV2 anterior a señal 3648. Tren 25780 ocupa CV3646 anterior a CVB3"
+  },
+  {
+   "hora": "21:15:23",
+   "evento": "Tren 25386 pasa por señal 3648 en anuncio de parada, ocupa CV3648 anterior al desvío B3. Tren 25780 libera CV3651"
+  },
+  {
+   "hora": "21:15:31",
+   "evento": "Tren 25780 alcanza 14 km/h"
+  },
+  {
+   "hora": "21:15:35",
+   "evento": "Tren 25386 queda detenido en CV3648. Tren 25780 se detiene en CV3646. Ninguno ocupa CVB3. Se produce el conato de colisión"
+  },
+  {
+   "hora": "21:15:44",
+   "evento": "Conversación grabada: el maquinista del tren 25780 llama al jefe del CTC para informar del rebase"
+  },
+  {
+   "hora": "21:15:54",
+   "evento": "Tren 25780 se detiene definitivamente tras recorrer 200 metros desde el reinicio de marcha"
+  },
+  {
+   "hora": "21:21:40",
+   "evento": "Tras 5 minutos y 46 segundos de parada, el tren 25780 reanuda su marcha normal"
+  },
+  {
+   "hora": "21:22",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF (13 de enero de 2015)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25780",
+   "tipo": "cercanías",
+   "operador": "Renfe Viajeros",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "25386",
+   "tipo": "cercanías",
+   "operador": "Renfe Viajeros",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista tren 25780",
+   "implicacion": "Rebasó indebidamente la señal 3646 en parada por falta de atención. Reinició la marcha sin comunicar el rebase al puesto de mando, incumpliendo los artículos 213, 320.4, 217.1 y 279 del Reglamento General de Circulación. Tenía 13 días de antigüedad en el servicio de Cercanías de Barcelona. Prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "maquinista tren 25386",
+   "implicacion": "Se detuvo al observar la presencia del tren 25780 dirigiéndose al mismo desvío B3. Actuó sobre la bocina y aplicó el freno. Se puso en comunicación con el puesto de mando informando de la situación anormal."
+  },
+  {
+   "rol": "jefe de circulación / responsable de circulación (Adif)",
+   "implicacion": "Estableció los itinerarios correctamente. Tras recibir las comunicaciones, verificó la situación de ambos trenes, autorizó al 25386 a continuar, movió manualmente la aguja B3 a posición invertida y la bloqueó, y autorizó al 25780 a reanudar la marcha hasta la señal siguiente. Prueba de alcoholemia y drogas negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal 3646 (PK 364+859): alta, tres focos, dotada de baliza de pie de señal pero sin baliza previa. Señal 1094 (PK 109+499): alta, tres focos, avanzada de la 3646. Señal 3648 (PK 364+859): alta, tres focos, baliza previa y de pie. Señal 3640 (PK 363+967): avanzada de la 3648, alta, tres focos, baliza previa y de pie. Desvío B3 (PK 365+216).",
+  "tipo_via": "vía II de la línea 266; estación subterránea",
+  "velocidad_maxima": "60 km/h entre Bif. Glorias y Bif. Vilanova (línea 266); tipo 120A (120 km/h) según libro horario",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "correcta; iluminación artificial (estación subterránea); sin obras en las inmediaciones",
+  "otro": "Bloqueo Automático Banalizado (BAB). Mando central comandado desde el puesto de mando de Barcelona. Enclavamiento regulado por consigna serie A nº 2124 versión 3 de fecha 08.05.2012. El diseño del enclavamiento no cierra automáticamente la señal 3648 cuando se ocupan los CV siguientes a la señal 3646 rebasada. Protección de flanco mediante señal 3646 en rojo con baliza ASFA y 357 m de distancia de deslizamiento. Aviso nº 34 de 05/07/2013 de Adif informa de la falta de baliza ASFA previa de la señal 3646."
+ },
+ "material_rodante": {
+  "series": "Serie 447 (automotor eléctrico 447165 tren 25780; automotor eléctrico 447068 tren 25386). Composición: 3 coches (motor-remolque-motor), 2 bogies de dos ejes por coche, longitud total 76 m, peso 163 toneladas. Tipo 120A (120 km/h). Nº UIC tren 25780: 907174471652.",
+  "averia": "ninguna; los equipos de seguridad (freno, ASFA, registrador de seguridad) funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "No se menciona información meteorológica específica. El incidente ocurrió en una estación subterránea con iluminación artificial.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren 25780 por falta de atención, dando lugar al rebase indebido de la señal 3646 en indicación de parada.",
+  "contribuyentes": [
+   "Incumplimiento normativo del maquinista del tren 25780 al reiniciar la marcha sin haberse puesto en contacto con el puesto de mando para notificar el rebase (art. 279 RGC)",
+   "La señal 3646 carece de baliza ASFA previa por falta de distancia suficiente para su emplazamiento (Aviso nº 34 de Adif)",
+   "El enclavamiento de Barcelona Marina no cierra automáticamente la señal 3648 cuando se ocupan los circuitos de vía siguientes a la señal 3646 rebasada, al no formar parte estos de la ruta asegurada por la señal 3648",
+   "El maquinista del tren 25780 tenía solo 13 días de antigüedad en el servicio de Cercanías de Barcelona (pocas horas de experiencia)"
+  ],
+  "sistemicas": [
+   "El SGS de Renfe Viajeros no dispone de un procedimiento reglado que posibilite la trazabilidad de la formación práctica para las habilitaciones de infraestructura del personal de conducción, impidiendo constatar que el maquinista circulara acompañado por el tramo durante su formación",
+   "La Resolución de 15/10/2007 sobre itinerarios formativos no exigía un número mínimo de trayectos completos por el tramo, situación corregida por la Resolución de 23/12/2015 de la AESF (3 trayectos de ida y vuelta)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales (ni en material rodante ni en infraestructura)",
+  "afectacion_servicio": "Vía II de la línea 266 interceptada durante 4 minutos. 4 trenes de cercanías afectados con un retraso total de 19 minutos."
+ },
+ "lecciones": [
+  "La falta de baliza previa en una señal de entrada en parada reduce la capacidad de detección temprana del rebase y depende exclusivamente de la atención del maquinista",
+  "El diseño del enclavamiento puede no proporcionar protección automática ante un rebase si los circuitos de vía ocupados no forman parte de la ruta asegurada por la señal de flanco",
+  "La trazabilidad de la formación práctica es esencial para garantizar que el personal de conducción ha recorrido los tramos críticos antes de prestar servicio en ellos",
+  "El reinicio de la marcha tras un rebase sin comunicación con el puesto de mando agrava el riesgo al no activar las medidas de protección necesarias",
+  "La calificación de una señal como punto singular y la recomendación de extremar la atención no sustituyen la dotación de baliza previa cuando es técnicamente posible"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar la posibilidad de cambiar de posición la señal 3646 para mejorar su visibilidad y dotarla, en su caso, de baliza previa.",
+   "destinatario": "Adif (implementador final), AESF (destinatario)"
+  },
+  {
+   "texto": "Que se requiera a las empresas ferroviarias y a los administradores de infraestructura que en sus sistemas de gestión de la seguridad (SGS) incluyan un procedimiento por el que se posibilite la trazabilidad de las actuaciones formativas, en especial las de naturaleza práctica. En dicho procedimiento deberían concretarse los modelos de actividad a establecer por los distintos responsables para cada una de las actividades formativas.",
+   "destinatario": "AESF (destinatario e implementador final)"
+  },
+  {
+   "texto": "Que se concrete a las empresas ferroviarias y a los administradores de infraestructura un plazo máximo en el que las disposiciones contenidas en la Resolución de 23 de diciembre de 2015 de la AESF (BOE 27/01/2016) deben estar incorporadas en sus sistemas de gestión de la seguridad (SGS) y ser, por ello, plenamente operativas.",
+   "destinatario": "AESF (destinatario e implementador final)"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "fallo humano",
+  "falta de atención",
+  "baliza previa ausente",
+  "ASFA",
+  "Barcelona Marina",
+  "Bifurcación Vilanova",
+  "protección de flanco",
+  "trazabilidad formación práctica",
+  "cercanías",
+  "enclavamiento"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 12.01.2015 160223-150112-IF-CIAF"
+}

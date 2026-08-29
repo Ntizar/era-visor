@@ -1,0 +1,119 @@
+{
+ "titulo_normalizado": "Arrollamiento de un pastor y un rebaño de ovejas por el tren de media distancia 18073 entre Ribaforada y Tudela de Navarra",
+ "idioma_original": "es",
+ "resumen": "El 26 de noviembre de 2008 a las 15:21, el tren de media distancia 18073 de Renfe Operadora arrolló a un pastor de 68 años y a unas 100 ovejas en plena vía, PK 70,200, entre Ribaforada y Tudela de Navarra. El pastor, de espaldas al tren, intentaba sacar el rebaño de la vía cuando el tren se aproximaba. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. El pastor falleció en el acto. No se produjeron daños materiales en material rodante ni infraestructura. Dadas las características del suceso, no se establecieron recomendaciones.",
+ "hechos": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073, de Renfe Operadora, circulaba por la vía 1 en el PK 70,200 de la línea 700, entre las estaciones de Ribaforada y Tudela de Navarra. El maquinista observó a unos 600-700 metros un rebaño de ovejas interceptando la vía y la presencia del pastor, de espaldas al tren, intentando sacar los animales. Hizo uso del silbato y del freno de emergencia, pero no pudo evitar el arrollamiento de la persona y de unas 100 ovejas. El pastor, un hombre de 68 años, falleció en el acto como consecuencia del impacto. El tren circulaba a 138 km/h en el momento de accionar el freno de emergencia, por debajo de la velocidad máxima permitida de 140 km/h. El lugar del accidente se encuentra en zona rural, tramo recto de vía doble con buena visibilidad y sin cerramiento. No se produjeron daños materiales en material rodante, infraestructura ni medio ambiente. A las 17:45 horas se procedió al levantamiento del cadáver y los agentes de vías y obras retiraron las ovejas muertas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "70,200",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "provincia": "Navarra",
+  "descripcion_lugar": "Plena vía, PK 70,200, entre las estaciones de Ribaforada y Tudela de Navarra, término municipal de Fontellas. Tramo recto de vía doble, buena visibilidad, zona rural, sin cerramiento. Tramo Cortes Navarra – Tudela Navarra."
+ },
+ "cronologia": [
+  {
+   "hora": "15:21",
+   "evento": "Arrollamiento del pastor y ~100 ovejas por el tren 18073 en el PK 70,200"
+  },
+  {
+   "hora": "15:21",
+   "evento": "Corte de ambas vías"
+  },
+  {
+   "hora": "15:45",
+   "evento": "Reapertura de la vía 1 (ambas vías cortadas hasta este momento)"
+  },
+  {
+   "hora": "16:00",
+   "evento": "Reapertura de la vía 2"
+  },
+  {
+   "hora": "17:45",
+   "evento": "Levantamiento del cadáver del pastor"
+  },
+  {
+   "hora": null,
+   "evento": "Retirada de ovejas muertas por agentes de vías y obras"
+  },
+  {
+   "hora": "17:52",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Miranda de Ebro"
+  },
+  {
+   "hora": null,
+   "evento": "Se establece limitación de velocidad a 'paso de hombre' hasta retirada de ovejas"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18073",
+   "tipo": "viajeros media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 18073",
+   "implicacion": "Observó el rebaño a 600-700 m, hizo uso del silbato y del freno de emergencia. Actuación correcta. Tasa de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 2h52min. Habilitado conforme a OM 2520/2006. Último reciclaje formativo: 13/02/08. Último reconocimiento médico/psicotécnico: 16/11/05."
+  },
+  {
+   "rol": "Pastor (víctima mortal)",
+   "implicacion": "Hombre de 68 años. Invadió la caja de la vía de espaldas al tren intentando sacar el rebaño de ovejas. Falleció en el acto por el impacto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (CTC)",
+  "tipo_via": "Vía doble, alineación recta, perfil horizontal",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Funcionamiento correcto. Sin cerramiento en este tramo.",
+  "otro": "Radiotelefonía modalidad A. Consigna Serie A 2655 del 31/03/2006 del BAB con CTC del trayecto Casetas-Castejón de Ebro. Media semanal de circulaciones del tramo: 401 (115 larga distancia, 83 media distancia, 193 mercancías, 10 servicio)."
+ },
+ "material_rodante": {
+  "series": "U/T 432011, 3 vehículos, 206 Tn de masa remolcada. Nº UIC: 967194320115",
+  "averia": "No se produjeron daños en el material rodante. Funcionamiento correcto.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado y con viento",
+ "causas": {
+  "directa": "Invasión del galibo de la vía por el pastor, que intentaba apartar el rebaño de la vía cuando pasaba el tren 18073.",
+  "contribuyentes": [
+   "El pastor estaba de espaldas al sentido de la marcha del tren, despistado en el momento de la aproximación del tren.",
+   "Ausencia de cerramiento en el tramo, permitiendo el acceso de ganado y personas a la caja de la vía.",
+   "La velocidad del tren (138 km/h) impidió detenerlo a pesar de la actuación del freno de emergencia."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente. Aproximadamente 100 ovejas muertas.",
+  "afectacion_servicio": "Ambas vías cortadas de 15:21 a 15:45; vía 2 cortada de 15:21 a 16:00. 2 trenes de media distancia retrasados 73 min, 3 trenes de larga distancia retrasados 40 min, 4 trenes de mercancías retrasados 115 min. Limitación de velocidad a 'paso de hombre' hasta retirada de ovejas."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento de persona",
+  "ganado en vía",
+  "pastor",
+  "ovejas",
+  "invasión de galibo",
+  "sin cerramiento",
+  "media distancia",
+  "renfe operadora",
+  "navarra",
+  "línea 700",
+  "freno de emergencia",
+  "víctima mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-261108-310309-CIAF"
+}

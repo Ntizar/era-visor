@@ -1,0 +1,128 @@
+{
+ "titulo_normalizado": "Arrollamiento de un vehículo por un tren en paso a nivel tipo A en Orbita-Espinosa (Ávila)",
+ "idioma_original": "es",
+ "resumen": "El 13 de diciembre de 2009 a las 18:27 horas, el tren de viajeros 17212 de Renfe Operadora arrolló a un vehículo Renault 11 en el paso a nivel tipo A del P.K. 164+429 de la línea 100 Madrid-Hendaya, en las inmediaciones del apeadero de Orbita-Espinosa (Ávila). El único ocupante del vehículo, un varón de 68 años, falleció como consecuencia del impacto y posterior arrastre de 319 metros. La investigación concluye que el accidente tuvo su origen al cruzar el vehículo el paso a nivel cuando circulaba el tren. La señalización de carretera del paso a nivel era incompleta y no cumplía la Orden Ministerial de 2 de agosto de 2001.",
+ "hechos": "El tren de viajeros de media distancia 17212 de Renfe Operadora, procedente de Valladolid Campo Grande y con destino Madrid Atocha Cercanías, circulaba por la línea 100 Madrid-Hendaya. Al aproximarse al paso a nivel tipo A situado en el P.K. 164+429, en las inmediaciones del apeadero de Orbita-Espinosa (Ávila), el maquinista observó por un camino lateral a su derecha, perpendicular a la vía, dos vehículos de carretera que avanzaban hacia el paso a nivel, situado unos trescientos metros por delante. El maquinista hizo uso del silbato y del foco de gran intensidad para advertir de la presencia del tren. En el momento de alcanzar el paso a nivel, el vehículo de la víctima interceptó el gálibo, por lo que el maquinista provocó la frenada de urgencia sin poder evitar el arrollamiento. El vehículo, que cruzaba de derecha a izquierda en sentido de la marcha del tren, quedó enganchado al convoy tras el impacto y fue arrastrado 319 metros antes de que el tren quedara totalmente parado. El único ocupante del vehículo, un varón de 68 años, falleció como consecuencia del impacto y posterior arrollamiento.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Apeadero de Orbita-Espinosa",
+  "pk": "164+429",
+  "linea": "100 Madrid-Hendaya",
+  "provincia": "Ávila",
+  "descripcion_lugar": "Paso a nivel tipo A, clase A, denominado Cordel de Toledo, situado al final del andén (lado Hendaya) del apeadero de Orbita-Espinosa, en el tramo Ávila-Arévalo, sobre un trayecto de alineación recta de 8 kilómetros. Camino de tierra compactada de 6 metros de anchura con pavimento de traviesas de madera y 4 metros de balasto a cada lado."
+ },
+ "cronologia": [
+  {
+   "hora": "18:27",
+   "evento": "El tren 17212 arrolla al vehículo Renault 11 en el paso a nivel tipo A del P.K. 164+429. El vehículo es arrastrado 319 metros hasta que el convoy queda totalmente parado."
+  },
+  {
+   "hora": "19:45",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": "20:30",
+   "evento": "Se reabre la vía impar con circulación en marcha a la vista."
+  },
+  {
+   "hora": "23:23",
+   "evento": "Se reabre la vía par, finalizando la interceptación (4 horas y 56 minutos de afectación)."
+  },
+  {
+   "hora": null,
+   "evento": "22 de diciembre de 2009: la CIAF resuelve en pleno abrir la investigación del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "17 de diciembre de 2009: toma de declaración al maquinista."
+  },
+  {
+   "hora": null,
+   "evento": "1 de marzo de 2010: entrega del informe particular del gerente de seguridad en la circulación centro de Adif."
+  },
+  {
+   "hora": null,
+   "evento": "10 de marzo de 2010: entrega del informe particular del jefe de gabinete de investigación técnica de accidentes de Renfe Operadora."
+  },
+  {
+   "hora": null,
+   "evento": "27 de abril de 2010: fecha del informe final (Madrid)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17212",
+   "tipo": "Viajeros de media distancia, tipo 120 A, 3 vehículos, 216 Tn de masa remolcada",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en el material rodante, en particular bajo el bastidor y en el frontal del coche motor (UT 447241). Nº UIC: 967194472411."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 17212 (matrícula 1348168)",
+   "implicacion": "Titular del título B de conducción, habilitado conforme a la Orden FOM/2520/2006. Último reciclaje formativo el 30/06/07, último reconocimiento médico y psicotécnico el 22/02/06. Prueba de alcoholemia negativa. Actuación correcta: usó silbato, foco de gran intensidad y freno de urgencia. Velocidad del tren (105 km/h) inferior a la máxima permitida (120 km/h). Jornada del día 13: 8 horas (2h55min de conducción)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel tipo A protegido exclusivamente con señales fijas verticales. Señalización ferroviaria: sendos cartelones de silbar en ambas bandas. Señalización de carretera incompleta: solo señal R-2 (Detención obligatoria) en el lado derecho sentido de la línea, careciendo del resto de señales en ambos lados. No cumple la Orden Ministerial de 2 de agosto de 2001.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "155 km/h para trenes tipo A; 120 km/h para el tren 17212. Sin limitación temporal de velocidad en el momento del accidente.",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo automático (B.A.D.), sin control de tráfico centralizado (C.T.C.), señalización luminosa y ASFA. Radiotelefonía A. Visibilidad a ambos lados del paso: 1.500 metros. Alineación recta de 8 km. Tráfico medio semanal del tramo Ávila-Arévalo: 415 circulaciones (62 larga distancia, 156 media distancia, 2 cercanías, 188 mercancías, 7 servicio). Momento de circulación AxT: 640 (A=10, T=64). Adif tenía en proceso la redacción del proyecto constructivo para la supresión del paso a nivel."
+ },
+ "material_rodante": {
+  "series": "Tipo 120 A, UT 447241, Nº UIC 967194472411, 3 vehículos, 216 Tn",
+  "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "En el momento del arrollamiento era de noche.",
+ "causas": {
+  "directa": "El vehículo de carretera cruzó el paso a nivel tipo A en el momento en que el tren 17212 alcanzaba dicho paso, invadiendo el gálibo del convoy.",
+  "contribuyentes": [
+   "Señalización de carretera del paso a nivel incompleta: solo contaba con señal R-2 en el lado derecho, careciendo del resto de señales en ambos lados, no cumpliendo la Orden Ministerial de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+   "Protección del paso a nivel exclusivamente con señales fijas verticales (clase A), sin barreras ni semibarreras.",
+   "Existencia de un segundo vehículo que también avanzaba hacia el paso a nivel, lo que pudo dificultar la percepción del peligro por parte del conductor de la víctima.",
+   "Paso a nivel en proceso de supresión por Adif pero aún operativo en el momento del accidente."
+  ],
+  "sistemicas": [
+   "Deficiencia en la adecuación de la señalización de carretera de los pasos a nivel a la normativa vigente (Orden de 2 de agosto de 2001).",
+   "Mantenimiento en servicio de un paso a nivel tipo A con protección deficiente mientras se tramitaba su supresión."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños en el material rodante bajo el bastidor y en el frontal del coche motor (UT 447241). Destrucción del vehículo Renault 11.",
+  "afectacion_servicio": "Vía par interceptada 4 horas y 56 minutos (18:27 a 23:23). Vía impar interceptada hasta las 20:30, luego circulación en marcha a la vista. Retrasos: 9 trenes de media distancia (525 min), 1 tren de larga distancia (21 min), 4 trenes de mercancías (84 min). Total: 630 minutos de retraso acumulado."
+ },
+ "lecciones": [
+  "La señalización de carretera de los pasos a nivel tipo A debe ser completa y conforme a la Orden Ministerial de 2 de agosto de 2001 para garantizar la percepción del riesgo por parte de los usuarios de la carretera.",
+  "La actuación correcta del maquinista (silbato, foco de gran intensidad y freno de urgencia) no fue suficiente para evitar el arrollamiento al tratarse de un paso a nivel sin barreras con protección exclusivamente por señales fijas.",
+  "La velocidad del tren (105 km/h) era inferior a la máxima permitida (120 km/h), por lo que la frenada de urgencia no pudo evitar el impacto dado el tiempo de reacción y la distancia de frenado."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel.",
+   "destinatario": "Ayuntamiento de Orbita"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "señalización incompleta",
+  "clase a",
+  "renfe operadora",
+  "media distancia",
+  "órbita-espinosa",
+  "ávila",
+  "línea 100 madrid-hendaya",
+  "señal r-2",
+  "orden 2001 pasos a nivel",
+  "vehículo Renault 11"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-131209-270410-CIAF"
+}

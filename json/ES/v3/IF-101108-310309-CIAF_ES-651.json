@@ -1,0 +1,128 @@
+{
+ "titulo_normalizado": "Rebase de señal de parada en la estación de El Entrego con conato de colisión entre trenes de cercanías de Feve",
+ "idioma_original": "es",
+ "resumen": "El 10 de noviembre de 2008 a las 15:05, el tren de cercanías 4918 de Feve rebasó la señal de salida S1/1 en rojo en la estación de El Entrego (línea 61 Gijón-Laviana, Asturias), provocando un conato de colisión con el tren 5493 que esperaba cruce regular. El maquinista reinició la marcha tras la parada sin atender a la indicación de parada. El incidente no llegó a producir riesgo grave gracias al correcto funcionamiento de las instalaciones de seguridad. Se averió la aguja nº 6 y se acumularon 119 minutos de retraso en 9 trenes. No se establecieron recomendaciones al no considerarse necesarias dadas las características del suceso.",
+ "hechos": "El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530-6530 de Feve, circula diariamente entre Laviana y Gijón. En la estación de El Entrego tiene un cruce regular con el tren 5493, también de cercanías, que circula entre Oviedo y Laviana. El 10 de noviembre de 2008, tras realizar la parada prevista en El Entrego, el maquinista del 4918 reinició la marcha sin atender a la señal S1/1 que indicaba parada (rojo), ya que debía efectuar el cruce con el 5493. A escasos metros de la señal, el maquinista se percató del error e intentó frenar, pero rebasó la baliza ASFA, se disparó la emergencia y el tren quedó detenido encima de la aguja nº 6, talonándola. El tren 5493 se detuvo correctamente ante la señal de entrada E2 en rojo. El factor de circulación del CTC comunicó la ocupación anómala y dio orden de no rebasar. No hubo riesgo grave de colisión gracias al funcionamiento correcto de las instalaciones de seguridad. El tren 4918 fue retirado al espacio entre agujas 6 y 2, retrocediendo a vía 2, y el 5493 entró por vía 3.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "El Entrego",
+  "pk": "40,996 (estación) / 41,094 (punto del incidente)",
+  "linea": "61 Gijón-Laviana",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Estación de El Entrego, trayecto Sama-Laviana, con cruce regular entre los trenes 4918 y 5493. Señal de salida S1/1 en vía 1; señal de entrada E2 para el tren 5493."
+ },
+ "cronologia": [
+  {
+   "hora": "15:05",
+   "evento": "El tren 4918, tras parada en vía 1, reinicia la marcha rebasando la señal S1/1 en rojo. El CTC efectúa itinerario de entrada del 5493 desde E2 a vía 2 con agujas enclavadas."
+  },
+  {
+   "hora": "15:05",
+   "evento": "El tren 4918 rebasa la baliza ASFA, se dispara la emergencia y queda detenido sobre la aguja nº 6, talonándola. Un vagón queda en vía 1 y otro en vía 2."
+  },
+  {
+   "hora": "15:06",
+   "evento": "El tren 5493 llega al disco de entrada E2 y observa la señal en rojo. Llama por emisora al CTC."
+  },
+  {
+   "hora": "15:06",
+   "evento": "El maquinista del 4918 comunica por emisora al 5493 que no puede entrar porque ocupa el piquete. El CTC informa al 5493 de ocupación en circuito de agujas y anula el rebase."
+  },
+  {
+   "hora": "15:06",
+   "evento": "El maquinista del 4918 llama por teléfono al CTC informando del rebase de la señal S1/1 y talonamiento de aguja. Requiere al ACT para protección del tren."
+  },
+  {
+   "hora": "~15:30",
+   "evento": "El 4918 se retira al espacio entre aguja 6 y aguja 2, retrocede y estaciona en vía 2. El 5493 recibe rebase de E2 y R2 con precaución."
+  },
+  {
+   "hora": "15:38",
+   "evento": "El tren 5493 entra en El Entrego por vía 3 y continúa trayecto hacia Laviana."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4918",
+   "tipo": "viajeros de cercanías",
+   "operador": "Feve",
+   "danos": "Ninguno en material rodante; detención de emergencia tras rebasar señal y talonar aguja nº 6."
+  },
+  {
+   "numero": "5493",
+   "tipo": "viajeros de cercanías",
+   "operador": "Feve",
+   "danos": "Ninguno. Detenido correctamente ante señal E2 en rojo; retraso de ~25 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 4918 (matrícula 7884)",
+   "implicacion": "Rebasó la señal S1/1 en rojo tras la parada en estación, incumpliendo el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve. Alcohol test negativo (0,00 mg/1000 ml). Jornada del día: 34 min (1 tren). Último reciclaje: 11/03/2008. Último reconocimiento médico/psicotécnico: 03/04/2008."
+  },
+  {
+   "rol": "Maquinista principal del tren 5493 (matrícula 5493)",
+   "implicacion": "Actuación correcta: se detuvo ante la señal E2 en rojo y esperó órdenes del CTC. Jornada del día: 3 horas (2 trenes). Último reciclaje: 08/02/2008. Último reconocimiento médico/psicotécnico: 29/01/2008."
+  },
+  {
+   "rol": "Factor de circulación de servicio en el CTC (Nº CF: 9928)",
+   "implicacion": "Actuación correcta: detectó la ocupación anómala, comunicó al 5493, anuló el rebase y coordinó la resolución. Jornada del día: 3 h 35 min."
+  },
+  {
+   "rol": "ACT (Auxiliar de Control de Trenes) del tren 4918",
+   "implicacion": "Protegió el tren por el lado de Gijón con celeridad tras el rebase."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S1/1 en rojo (parada); señal de entrada E2; disco de entrada. Señales en verde-amarillo, amarillo y amarillo a la entrada del 4918.",
+  "tipo_via": "Bloqueo Automático de vía Única (BAU) con Control de Tráfico Centralizado (CTC)",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Operativa; enclavamientos y bloqueo automático sin anomalías previas. Aguja nº 6 averiada tras el incidente (espadín parcialmente roto).",
+  "otro": "Sistema ASFA operativo y funcionando correctamente. Registrador de seguridad de UTE 3530 confirma funcionamiento. Estación con vía 1, vía 2 y vía 3. Cruce regular entre trenes 4918 y 5493."
+ },
+ "material_rodante": {
+  "series": "UTE serie 3500: tren 4918 (coche motor 3530 + remolque con cabina 6530); tren 5493 (coche motor 3531 + remolque con cabina 6524)",
+  "averia": "Ninguna en material rodante. ASFA operativo y correcto en ambos trenes según registradores de seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "El maquinista del tren 4918 reinició la marcha tras la parada en estación sin atender a la indicación de parada (rojo) de la señal de salida S1/1, incumpliendo el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve (artículos 2/04/00, 2/09/00, 2/10/00 y 2/14/00).",
+  "contribuyentes": [
+   "El maquinista declaró que inició la marcha 'incomprensiblemente' tras cerrar puertas, sin explicación clara del despiste.",
+   "La operación de subida/bajada de viajeros y recogida del ACT pudo contribuir a una pérdida de atención momentánea."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Aguja nº 6 averiada (espadín parcialmente roto).",
+  "afectacion_servicio": "Retrasos en 9 trenes de viajeros, acumulando un total de 119 minutos. No se activó ningún plan de emergencia."
+ },
+ "lecciones": [
+  "El correcto funcionamiento de las instalaciones de seguridad (ASFA, enclavamientos, CTC) impidió un conato de colisión con riesgo grave.",
+  "La detección de la ocupación anómala por el CTC y la comunicación inmediata por emisora evitaron que el tren 5493 rebasara su señal de entrada.",
+  "La actuación correcta del maquinista del 5493 (detenerse ante señal en rojo) y del factor de circulación del CTC mitigó las consecuencias del rebase."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "rebase de señal",
+  "señal en rojo",
+  "conato de colisión",
+  "cruce de trenes",
+  "feve",
+  "el entrego",
+  "asfa",
+  "talón de aguja",
+  "reglamento de circulación",
+  "asturias",
+  "cercanías",
+  "factor de circulación"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-101108-310309-CIAF_ES-651"
+}

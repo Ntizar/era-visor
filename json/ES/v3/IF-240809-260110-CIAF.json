@@ -1,0 +1,135 @@
+{
+ "titulo_normalizado": "Arrollamiento de una mujer en silla de ruedas en el paso entarimado de la estación de Sant Feliú de Llobregat",
+ "idioma_original": "es",
+ "resumen": "El 24 de agosto de 2009, a las 16:57, el tren de cercanías 25163 de Renfe Operadora arrolló a una mujer de 72 años que cruzaba en silla de ruedas por un paso entarimado entre andenes en la estación de Sant Feliú de Llobregat (Barcelona). La víctima invadió indebidamente el gálibo de la vía al cruzar cuando se aproximaba el tren. El deficiente estado de conservación del pavimento del paso pudo contribuir al accidente. Como medida correctiva se sustituyó el pavimento por goma vulcanizada (sistema strail). La investigación recomendó a la D.G. de Infraestructuras Ferroviarias un análisis de riesgos en estaciones y apeaderos para personas de movilidad reducida.",
+ "hechos": "El día 24 de agosto de 2009, el tren de viajeros de cercanías 25163 de Renfe Operadora, procedente de Tarrasa con destino Martorell, pasaba por la estación de Sant Feliú de Llobregat. Una mujer de 72 años, en silla de ruedas y acompañada por su hija, cruzaba las vías por el paso entarimado existente en la punta de andenes del lado Barcelona, desde el andén principal hacia el andén de la vía 1. La hija logró saltar al andén, pero la madre fue arrollada por el tren, que circulaba a 32 km/h en el punto del impacto tras haber aplicado el freno de emergencia. El maquinista, al observar la silla de ruedas arrastrada por una mujer, accionó el silbato y el freno de urgencia, rebasando el punto de arrollamiento unos 25 metros. La víctima falleció.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Feliú de Llobregat",
+  "pk": "89+150",
+  "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso entarimado entre andenes en la punta de andenes del lado Barcelona, en deficiente estado de conservación. Tramo Molins de Rei – L'Hospitalet."
+ },
+ "cronologia": [
+  {
+   "hora": "16:56:52",
+   "evento": "Se establece itinerario de paso directo por vía 1 para el tren 25163; señales E1 y S1-1 en vía libre."
+  },
+  {
+   "hora": "16:57",
+   "evento": "Arrollamiento de la víctima en el paso entarimado entre andenes."
+  },
+  {
+   "hora": "16:57:12",
+   "evento": "El tren 25163 rebasa la señal de entrada E1 en indicación de vía libre."
+  },
+  {
+   "hora": "16:57:18",
+   "evento": "El tren 25163 libera el circuito de vía de la señal E1 y se detiene en el circuito de estacionamiento de la vía 1."
+  },
+  {
+   "hora": "17:00:05",
+   "evento": "Registro (con desfase de 3 min) de manipulación del freno de servicio a 80 km/h y posterior actuación del freno de emergencia."
+  },
+  {
+   "hora": "18:50",
+   "evento": "Se restablece la circulación; las circulaciones se realizan por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista al paso por el apeadero."
+  },
+  {
+   "hora": "19:10",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25163",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno significativo; equipos de seguridad (freno y silbato) funcionaron correctamente."
+  },
+  {
+   "numero": "25945",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retrocede a Cornellá; viajeros trasbordados en Sant Joan Despí al tren 25049."
+  },
+  {
+   "numero": "25049",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Acoge viajeros trasbordados del tren 25945."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25163",
+   "implicacion": "Título de conducción categoría B, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 08/03/2009, último reconocimiento médico y psicotécnico 30/01/2007. Alcohol test negativo. Accionó silbato y freno de urgencia sin poder evitar el arrollamiento."
+  },
+  {
+   "rol": "Auxiliar de taquilla (testigo)",
+   "implicacion": "Informó el 21/08/2009 a la hija de la víctima de que los trenes hacia Villafranca carecían de plataforma para minusválidos."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de entrada E1 y salida S1-1 en indicación de vía libre; control de tráfico centralizado (BAD con CTC).",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Sin limitaciones temporales de velocidad en el momento del accidente. Paso entarimado entre andenes en deficiente estado de conservación.",
+  "otro": "Estación con dos vías generales, paso inferior entre andenes (acceso por escaleras) y paso entarimado en punta de andenes lado Barcelona. Alineación en curva a izquierda a la entrada por lado Barcelona. Media semanal de 1.243 circulaciones (alta): 2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio."
+ },
+ "material_rodante": {
+  "series": "447004 (cabeza) y 447136 (cola), tren tipo 120 A, matrícula 8880445",
+  "averia": "Ninguna; equipos de seguridad (freno y silbato) funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión indebida del gálibo de la vía por la víctima que cruzaba el paso entarimado entre andenes cuando se aproximaba un tren.",
+  "contribuyentes": [
+   "Deficiente estado de conservación del pavimento del paso entarimado (pudo contribuir, sin poder afirmarse como causa).",
+   "Falta de adaptación de la línea para personas con movilidad reducida (la hija fue informada el 21/08/2009 de que los trenes carecían de plataforma para minusválidos).",
+   "Inexistencia de una normativa general que establezca dispositivos de seguridad pertinentes en las estaciones."
+  ],
+  "sistemicas": [
+   "Ausencia de un inventario y análisis de riesgos de estaciones y apeaderos de la RFIG que jerarquice las actuaciones necesarias.",
+   "Deficiencias en la accesibilidad para personas con movilidad reducida en estaciones y material rodante."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Ninguno significativo en el tren; equipos de seguridad funcionaron correctamente.",
+  "afectacion_servicio": "Interrupción de la circulación por vía 1 de 16:57 a 18:50 (2 h). Circulaciones por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista. 19 trenes de cercanías suprimidos. 8 trenes de cercanías con retraso total de 375 minutos. Viajeros del tren 25163 apeados en Sant Feliú."
+ },
+ "lecciones": [
+  "La necesidad de garantizar el buen estado de conservación de los pasos entre andenes, especialmente en estaciones con alta densidad de tráfico.",
+  "La importancia de la accesibilidad para personas de movilidad reducida y de informar adecuadamente a los usuarios sobre las limitaciones existentes.",
+  "La insuficiencia de la normativa general sobre dispositivos de seguridad en estaciones y apeaderos."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la implementación de la recomendación general emitida en el documento CIAF 'Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008' (noviembre 2009), contemplando la situación de las personas de movilidad reducida: realizar un inventario de estaciones y apeaderos de la RFIG con parámetros para un análisis de riesgos, y elaborar un plan de medidas que jerarquice las estaciones y apeaderos donde actuar según su nivel de riesgo.",
+   "destinatario": "D.G. Infraestructuras Ferroviarias (45/09-1)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "silla de ruedas",
+  "movilidad reducida",
+  "paso entarimado",
+  "estacion",
+  "cercanias",
+  "gálibo",
+  "accesibilidad",
+  "sant feliu de llobregat",
+  "renfe operadora",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240809-260110-CIAF"
+}

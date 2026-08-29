@@ -1,0 +1,154 @@
+{
+ "titulo_normalizado": "Descarrilamiento de tren de mercancías 9656 por remonte de carril entre Unquera y Colombres en línea RAM 770",
+ "idioma_original": "es",
+ "resumen": "El 2 de septiembre de 2014, el tren de mercancías 9656 de Renfe Mercancías (ancho métrico) descarriló en el PK 451+557 de la línea RAM 770 Santander-Oviedo, entre la estación de Unquera y el apeadero de Colombres. Descarrilaron los dos bogies traseros de ambas locomotoras (1908 y 1907) por remonte del carril, recorriendo 107 metros descarrilado. No hubo víctimas. La causa fue la existencia de defectos en la geometría de la vía (alabeos) ocasionados por un drenaje insuficiente de la plataforma, que ya motivaba una LTV a 30 km/h en la zona.",
+ "hechos": "El día 2 de septiembre de 2014, el tren de mercancías 9656 del servicio de ancho métrico (SAM) de Renfe Mercancías, procedente de Santander con destino El Berrón, formado por las locomotoras 1908 y 1907 y 19 vagones (13 portabobinas vacíos, 5 plataformas cargadas con palanquilla y 1 plataforma con útiles de amarre), venía circulando con normalidad por la línea RAM 770 Santander-Oviedo. El tren circulaba a 32 km/h en un tramo con limitación temporal de velocidad (LTV) a 30 km/h establecida por deformación de la vía por inestabilidad de la plataforma. Al llegar al PK 451+557, en la transición de entrada a una curva a la izquierda de radio 182 metros, se produjo el remonte del carril por la rueda derecha del primer eje del segundo bogie de la locomotora en cabeza, seguido del descarrilamiento del segundo bogie de la locomotora siguiente.\n\nEl maquinista notó un comportamiento extraño del tren y desconectó el sistema ASFA, activándose el freno de emergencia. El tren recorrió 107 metros descarrilado hasta detenerse en el PK 451+450 a las 21:11 horas. No se produjeron víctimas mortales ni heridos. El maquinista protegió la composición y avisó al puesto de mando de Santander. Se activó el plan de contingencias interno de Renfe y Adif. A las 02:00 horas se apartaron los 19 vagones en Unquera, y a las 13:45 horas del día siguiente quedó desbloqueada la vía tras encarrilar ambas locomotoras.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Unquera (estación) / Colombres (apeadero)",
+  "pk": "451+557",
+  "linea": "RAM 770 Santander – Oviedo",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Plena vía entre la estación de Unquera (Cantabria) y el apeadero de Colombres (Asturias), municipio de Ribadedeva. Transición de entrada a curva a la izquierda, radio 182 m, trinchera, rampa de 12 milésimas. Zona con LTV a 30 km/h por deformación de vía e inestabilidad de plataforma."
+ },
+ "cronologia": [
+  {
+   "hora": "21:09:51",
+   "evento": "El tren entra en la zona de LTV a 30 km/h circulando a 24 km/h con velocidad descendente"
+  },
+  {
+   "hora": "21:09:55",
+   "evento": "El maquinista aplica tracción"
+  },
+  {
+   "hora": "21:10:54",
+   "evento": "Descarrilamiento en PK 451+557 a 32 km/h; remonte de carril por rueda derecha del segundo bogie de la locomotora 1908, seguido del segundo bogie de la 1907"
+  },
+  {
+   "hora": "21:10:57",
+   "evento": "Arenado automático por patinaje, freno neumático y freno de emergencia por desconexión del ASFA (tras ~80 m descarrilado)"
+  },
+  {
+   "hora": "21:11:15",
+   "evento": "Tren detenido en PK 451+450 tras 107 m descarrilado"
+  },
+  {
+   "hora": "21:11:00",
+   "evento": "Hora oficial del accidente según resumen; aviso al puesto de mando de Santander"
+  },
+  {
+   "hora": "02:00:00",
+   "evento": "Vagones del tren 9656 apartados por cola en estación de Unquera con locomotora 1914"
+  },
+  {
+   "hora": "04:05:00",
+   "evento": "Sale tren de socorro de Llanes hacia el PK del descarrilamiento"
+  },
+  {
+   "hora": "08:00:00",
+   "evento": "Queda encarrilada la locomotora 1907"
+  },
+  {
+   "hora": "11:15:00",
+   "evento": "Queda encarrilada la locomotora 1908"
+  },
+  {
+   "hora": "12:25:00",
+   "evento": "Locomotoras 1908 y 1907 apartadas en estación de Unquera"
+  },
+  {
+   "hora": "13:45:00",
+   "evento": "Vía desbloqueada; restablecida la circulación con LTV a 10 km/h entre PKs 450+600 y 451+400"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "9656",
+   "tipo": "mercancías (SAM, ancho métrico)",
+   "operador": "Renfe Mercancías",
+   "danos": "Daños en tuberías de alimentación de bogies descarrilados y en pestañas de ruedas; 40.500 €"
+  },
+  {
+   "numero": "1908",
+   "tipo": "locomotora (serie 1900)",
+   "operador": "Renfe Mercancías (SAM)",
+   "danos": "Descarrilamiento del segundo bogie; encarrilada a las 11:15"
+  },
+  {
+   "numero": "1907",
+   "tipo": "locomotora (serie 1900)",
+   "operador": "Renfe Mercancías (SAM)",
+   "danos": "Descarrilamiento del segundo bogie; encarrilada a las 08:00"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 9656",
+   "implicacion": "Matrícula 6961817; habilitado desde 19.01.2000; último reciclaje formativo 09.10.2012; último reconocimiento médico/psicotécnico 17.06.2014; prueba de alcoholemia negativa (0,00 mg/1000 ml) a las 00:30 del 03.09.2014; cumplió normativa; protegió la composición reglamentariamente; desconectó ASFA para activar freno de emergencia al notar comportamiento extraño"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ASFA",
+  "tipo_via": "Vía única, no electrificada, bloqueo telefónico",
+  "velocidad_maxima": "80 km/h (trayecto Llanes-Unquera, Consigna Serie C nº 4/2011 DGI); LTV 30 km/h en PK 451+550 a 452+000 por deformación de vía",
+  "ancho": "Ancho métrico (1000 mm)",
+  "electrificacion": "No electrificada",
+  "estado_via": "Defectos de geometría: alabeos de 8 mm/m (19 mm/3 m) incumpliendo máximo de 9 mm/3 m; variaciones peralte teórico-real hasta 26 mm (máximo ±10 mm); flechas con progresión no constante; contaminación del balasto y presencia de lodo por drenaje insuficiente de cuneta de hormigón a cota elevada",
+  "otro": "Carriles 54 kg/ml en barra larga soldada, traviesas hormigón monobloque, sujeción elástica tipo HM, balasto silíceo. Cuneta de hormigón en lado derecho que no drena eficazmente. Tramo en trinchera, rampa 12 milésimas, curva izquierda R=182 m."
+ },
+ "material_rodante": {
+  "series": "Locomotoras serie 1900 (1908 y 1907); 19 vagones (13 portabobinas vacíos, 5 plataformas con palanquilla, 1 plataforma con útiles de amarre). Peso bruto remolcado: 559 t. Tipo 50 (Vmax 50 km/h)",
+  "averia": "No se detectó avería previa. Parámetros de rodadura (espesor y altura de pestaña, Qr) dentro de normativa. Registrador de seguridad en locomotora 1908 con retraso de 63 s respecto a hora oficial",
+  "mantenimiento": "No se menciona mantenimiento específico del material rodante como factor"
+ },
+ "clima": "No existían condiciones meteorológicas adversas en el momento del suceso",
+ "causas": {
+  "directa": "Defectos en la geometría de la vía, concretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma, que provocaron el remonte del carril por las ruedas exteriores en curva de radio reducido",
+  "contribuyentes": [
+   "Baja velocidad del tren (32 km/h) que provoca sobrecarga de ruedas del carril interior y descarga de las del exterior, facilitando el remonte",
+   "Curva de radio reducido (R=181-182 m) con fuerte descenso de peralte (8 mm/m / 19 mm en 3 m) que impone ángulo de ataque significativo a la rueda exterior",
+   "Exceso de velocidad de 2 km/h sobre la LTV de 30 km/h (no considerado determinante)",
+   "Flechas con progresión no constante en la transición de entrada a curva con tramos rectilíneos intercalados",
+   "Contaminación del balasto y presencia de lodo por cuneta de hormigón a cota elevada que no drena eficazmente"
+  ],
+  "sistemicas": [
+   "Las labores de mantenimiento preventivos (nivelaciones manuales, bateos, depuraciones, riego de balasto) no fueron suficientes para restablecer las condiciones adecuadas de circulación ni suprimir la LTV",
+   "Inestabilidad de la plataforma no resuelta a pesar de la LTV establecida"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 40.500 € (tuberías de alimentación de bogies y pestañas de ruedas). Infraestructura: 39.500 € (rotura de traviesas, desalineación de geometría; sustitución de 180 traviesas de hormigón monobloque). Total: 80.000 €",
+  "afectacion_servicio": "Interrupción de circulación de 21:11 del 02/09/2014 a 13:45 del 03/09/2014 (~16,5 h). Supresión total de 4 trenes de mercancías; supresión parcial de 2 trenes de mercancías (incluido el accidentado) y 3 trenes de viajeros (media distancia). 1 tren de mercancías con retraso de 141 minutos. Restablecida la circulación con LTV a 10 km/h entre PK 450+600 y 451+400"
+ },
+ "lecciones": [
+  "El drenaje insuficiente de la plataforma genera alabeos y contaminación del balasto que pueden provocar remonte de carril en curvas de radio reducido",
+  "Las labores de mantenimiento puntuales (nivelación, bateo) no son suficientes cuando la causa raíz es la inestabilidad de plataforma por deficiencias de drenaje",
+  "La existencia de una LTV por deformación de vía no garantiza por sí sola la seguridad si los defectos geométricos superan los límites tolerables",
+  "En curvas de radio reducido con baja velocidad, la descarga de ruedas exteriores facilita el remonte del carril ante alabeos"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Impulsar la ejecución del proyecto 'Segunda intervención en refuerzo de asentamientos Colombres' con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Adif (RAM)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "remonte de carril",
+  "ancho métrico",
+  "RAM 770",
+  "alabeo",
+  "drenaje insuficiente",
+  "LTV",
+  "tren mercancías",
+  "Renfe Mercancías",
+  "inestabilidad plataforma",
+  "curva radio reducido",
+  "ASFA"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 02.09.2014 -140902-IF-CIAF"
+}

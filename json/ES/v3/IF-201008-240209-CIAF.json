@@ -1,0 +1,108 @@
+{
+ "titulo_normalizado": "Arrollamiento de una mujer en el paso a nivel de Santa María de Huerta por cruzar con las barreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 20 de octubre de 2008, a las 12:36 horas, el tren de media distancia 17012 de Renfe Operadora arrolló a una mujer de 77 años en el paso a nivel de clase C de la estación de Santa María de Huerta, P.K. 191,876 de la línea 200 Madrid Chamartín-Barcelona Sants. La víctima falleció en el acto al cruzar el paso cuando las semibarreras estaban bajadas y el paso para peatones estaba prohibido. El maquinista advirtió la intención de cruzar, hizo uso del silbato y accionó el freno de emergencia, pero no pudo evitar el impacto. El tren circulaba a 140 km/h, por debajo de la velocidad máxima de 160 km/h, y tanto el material rodante como las instalaciones funcionaban correctamente.",
+ "hechos": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de Renfe Operadora, compuesto por el motor 470136 con tres coches y una masa remolcada de 205 Tn, arrolló a una mujer de 77 años en el paso a nivel de clase C de la estación de Santa María de Huerta, situado en el P.K. 191,876 de la línea 200 Madrid Chamartín-Barcelona Sants, trayecto Arcos de Jalón-Ariza, provincia de Soria. Como consecuencia del impacto, la víctima falleció en el acto.\n\nSegún la declaración del maquinista, al aproximarse al paso a nivel observó a una persona próxima a la vía en el lado izquierdo del sentido de la marcha, hizo uso del silbato para advertir su presencia y tuvo la sensación de que la persona dudaba entre pasar o no. Cuando el tren estaba prácticamente encima del paso, la mujer se puso a cruzar desde el lado izquierdo al derecho y fue golpeada con el tope del lado derecho del tren.\n\nEl análisis de los registradores del paso a nivel y de la estación confirmó que, en el momento del accidente, las semibarreras estaban bajadas. Del registrador de seguridad del vehículo motor se desprende que, al accionar el freno de emergencia, el tren circulaba a 140 km/h, velocidad inferior a la máxima permitida de 160 km/h en el trayecto. Las instalaciones de seguridad funcionaron correctamente, el tiempo era despejado y no se produjeron daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Santa María de Huerta",
+  "pk": "191,876",
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "provincia": "Soria",
+  "descripcion_lugar": "Paso a nivel de clase C de la estación de Santa María de Huerta, dotado de señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización. La superficie del paso a nivel es de strail y la del camino de asfalto."
+ },
+ "cronologia": [
+  {
+   "hora": "12:35",
+   "evento": "Desde las 12:35 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+  },
+  {
+   "hora": "12:36",
+   "evento": "El tren de media distancia 17012 de Renfe Operadora arrolla a una mujer de 77 años en el paso a nivel de clase C de Santa María de Huerta; la víctima fallece en el acto."
+  },
+  {
+   "hora": "13:30",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la Comisión de Investigación de Accidentes Ferroviarios el arrollamiento producido en el paso a nivel de Santa María de Huerta."
+  },
+  {
+   "hora": "15:08",
+   "evento": "Hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+  },
+  {
+   "hora": null,
+   "evento": "El 02.12.08 el Responsable de Seguridad de Renfe Operadora entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 30.12.08 el Gerente Territorial de Seguridad en la Circulación Centro de Adif entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 24.02.2009 la Comisión de Investigación de Accidentes Ferroviarios aprueba como definitivo el informe del técnico investigador con la recomendación relativa al paso a nivel."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17012",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de media distancia 17012",
+   "implicacion": "Advirtió la intención de la víctima de cruzar el paso a nivel, hizo uso del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. Su actuación fue correcta; poseía título de conducción y habilitación vigente, alcoholimia negativa y jornada conforme a la normativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización.",
+  "tipo_via": "Vía doble electrificada con bloqueo de liberación automática con control de tráfico centralizado (BLAD con CTC).",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Todos los elementos del paso a nivel estaban en buenas condiciones y funcionaban correctamente.",
+  "otro": "Momento de circulación AxT: 750*32=24.000. Sistemas de comunicación: radiotelefonía modalidad A. Transcurren 2 minutos y 46 segundos desde que se inicia el proceso de bajada de las semibarreras hasta su apertura."
+ },
+ "material_rodante": {
+  "series": "Motor 470136; número UIC 967194701363; tren de media distancia 17012 compuesto por tres coches y masa remolcada de 205 Tn.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Despejado",
+ "causas": {
+  "directa": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba con las barreras bajadas y prohibido el paso para los peatones.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Se producen retrasos en 1 tren de mercancías (36 minutos) y 2 trenes de media distancia (62 minutos). Desde las 12:35 horas hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir este paso a nivel en el Programa de Supresión y Mejora de Pasos a Nivel cuando los presupuestos lo permitan.",
+   "destinatario": "Dirección General de Ferrocarriles"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "peatón",
+  "barreras bajadas",
+  "semibarreras",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "santa maría de huerta",
+  "línea 200",
+  "soria",
+  "supresión de pasos a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-201008-240209-CIAF"
+}

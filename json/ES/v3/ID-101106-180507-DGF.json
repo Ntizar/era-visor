@@ -1,0 +1,165 @@
+{
+ "titulo_normalizado": "Arrollamiento de una máquina retroexcavadora y fallecimiento del piloto de seguridad en plena vía entre Flaça y San Miquel de Fluviá por invasión del gálibo en niebla intensa",
+ "idioma_original": "es",
+ "resumen": "El 10 de noviembre de 2006 a las 02:08, el tren de mercancías 91495 de Renfe colisionó contra una máquina de obra MANISCOPIC MT 1030s que, durante trabajos de mantenimiento en vía par, invadió el gálibo de la vía impar en el pk 231,500 de la línea 270 Barcelona-Portbou, cerca del apeadero de Camallera. El encargado de trabajos y piloto de seguridad de ADIF fue hallado fallecido en la zona. La niebla intensa redujo la visibilidad del maquinista, que circulaba a 79 km/h (9 km/h sobre el límite de mercancías). La circulación quedó interrumpida entre Figueras y Gerona durante casi cuatro horas, afectando a 18 trenes.",
+ "hechos": "A las 02:08 del 10 de noviembre de 2006, el Tren de Mercancías nº 91495 de Renfe, compuesto por la locomotora 269231, 23 vagones, 55 ejes y 735 Tm de masa remolcada, circulaba por vía impar en dirección Portbou a 79 km/h por el pk 231,500 de la línea 270 Barcelona-Portbou, entre el apeadero de Camallera y la estación de San Miquel de Fluviá. El tren colisionó con una máquina de obra (MANISCOPIC MT 1030s) conducida por un empleado de la empresa COVISA que realizaba trabajos autorizados en vía par pero invadiendo el gálibo de la vía impar durante la descarga de palets de bloques de hormigón para la construcción de un muro. La locomotora sufrió avería inmediata y el tren se detuvo. El maquinista declaró que, debido a la densa niebla, se encontró la situación de improviso y que antes del impacto vio saltar a dos personas de la máquina.\n\nAl inspeccionar la zona se halló el cuerpo sin vida del encargado de trabajos y piloto de seguridad, perteneciente a la Gerencia de Mantenimiento de Infraestructura de ADIF. Los trabajos de mantenimiento habían comenzado a las 22:00 horas y consistían en el traslado de materiales desde el apeadero de Camallera (pk 230,623) hasta el tajo (pk 231,500) mediante toro y plataforma con diplory. Para descargar los palets, la máquina debía adoptar una posición transversal a la vía, lo que provocaba que las ruedas traseras del toro saltaran el carril de la entrevía entre vía par e impar, invadiendo el gálibo de la vía impar. El piloto de seguridad autorizaba cada invasión basándose en información telefónica sobre las circulaciones.\n\nEl tren 91495 llevaba 113 minutos de retraso y había estado detenido en la estación de Gerona hasta que a las 01:40 le abrieron la señal. La circulación quedó interrumpida entre Figueras y Gerona desde las 02:08 hasta las 06:38, afectando a 18 trenes. A las 05:05 el juez ordenó el levantamiento del cadáver y a las 06:12 el tren 91495 comenzó a avanzar hacia Figueres remolcado por la locomotora 269305.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Camallera (apeadero)",
+  "pk": "231,500",
+  "linea": "270 Barcelona-Portbou",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Proximidades del apeadero de Camallera, trayecto Flaça-San Miquel de Fluviá, entre el apeadero de Camallera (pk 230,623) y la estación de San Miguel de Fluviá. Vía doble, bloqueo automático sin CTC. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "cronologia": [
+  {
+   "hora": "22:00",
+   "evento": "Comienzan los trabajos de mantenimiento en vía par (traslado de materiales desde el apeadero de Camallera al tajo)"
+  },
+  {
+   "hora": "22:40",
+   "evento": "El factor de circulación de Flaça comunica al encargado de trabajos la concesión del intervalo programado (telefonema nº 680) y se bloquea la vía par entre Flaça y Figueras"
+  },
+  {
+   "hora": "23:10",
+   "evento": "Pasa el tren 59559 por vía impar; los operarios se detienen 15 minutos"
+  },
+  {
+   "hora": "01:30",
+   "evento": "Pasa el tren 92546 a contravía por vía impar; los operarios reanudan los trabajos cargando la plataforma de bloques"
+  },
+  {
+   "hora": "01:40",
+   "evento": "Se abre la señal al maquinista del tren 91495 en la estación de Gerona"
+  },
+  {
+   "hora": "02:08",
+   "evento": "Colisión del tren 91495 con la máquina MANISCOPIC MT 1030s que invade el gálibo de la vía impar. Avería inmediata de la locomotora 269231 y parada del tren. El maquinista solicita socorro a las 03:32"
+  },
+  {
+   "hora": "03:32",
+   "evento": "El maquinista del tren 91495 solicita socorro; se envía la locomotora 269305 desde Portbou como PB 538, que sale de Figueras como tren S2"
+  },
+  {
+   "hora": "05:05",
+   "evento": "El juez ordena el levantamiento del cadáver del encargado de trabajos y piloto de seguridad"
+  },
+  {
+   "hora": "06:12",
+   "evento": "Comienza a avanzar el tren 91495 hacia Figueres"
+  },
+  {
+   "hora": "06:38",
+   "evento": "Las dos vías quedan expeditas; se restablece la circulación normalmente"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "91495",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe",
+   "danos": "Avería inmediata de la locomotora 269231; daños en maquinaria de vía (toro y plataforma de transporte de prefabricados) y en infraestructura ferroviaria. 23 vagones, 55 ejes, 735 Tm masa remolcada. Origen Ford (Valencia), destino Portbou. Retraso de 113 minutos."
+  },
+  {
+   "numero": "269305 (PB 538 / tren S2)",
+   "tipo": "locomotora de socorro",
+   "operador": "Renfe",
+   "danos": "Sin daños. Enviada desde Portbou para remolcar el tren 91495 averiado."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 91495",
+   "implicacion": "Conducía el tren a 79 km/h (9 km/h sobre el límite de mercancías). Declaró que la niebla intensa le impidió ver la máquina de vía hasta el impacto. Alcoholemia negativa (0,00 mg/1000ml). Jornada: 21:20 a 02:08; descanso las 24 y 48 horas anteriores."
+  },
+  {
+   "rol": "Encargado de trabajos y piloto de seguridad de ADIF (Gerencia de Mantenimiento de Infraestructura)",
+   "implicacion": "FALLECIDO. Autorizó la invasión del gálibo de la vía impar durante la descarga de palets. Se comunicaba con las estaciones por teléfono móvil durante los trabajos. Su obligación era impedir invasiones del gálibo de la vía impar."
+  },
+  {
+   "rol": "Capataz de obras (empresa COVISA)",
+   "implicacion": "Realizaba los trabajos de traslado de materiales. Declaró que el encargado de trabajos le informó de que podía invadir el gálibo de la vía impar. Alcoholemia negativa. Jornada: 22:00 a 02:08; las 24 y 48 h anteriores: 06:00 a 14:00."
+  },
+  {
+   "rol": "Oficial 2º conductor del toro (empresa COVISA)",
+   "implicacion": "Conducía la máquina MANISCOPIC MT 1030s. Declaró que el piloto le autorizó a pisar la vía impar. Alcoholemia negativa. Jornada: 22:00 a 02:08; las 24 y 48 h anteriores: 22:00 a 06:00 (turno nocturno consecutivo)."
+  },
+  {
+   "rol": "Factor de circulación estación de Figueres",
+   "implicacion": "Bloqueó la vía par y estableció la vía única temporal impar. Alcoholemia negativa. Jornada: 22:00 a 06:00; descanso las 24 y 48 h anteriores."
+  },
+  {
+   "rol": "Factor de circulación estación de Flaça",
+   "implicacion": "Recibió la solicitud de intervalo programado, lo comunicó al puesto de mando y bloqueó la vía par. Alcoholemia negativa. Jornada: 22:00 a 06:00; las 24 y 48 h anteriores: 22:00 a 06:00."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de vía doble sin CTC",
+  "tipo_via": "Vía doble (vía par e impar)",
+  "velocidad_maxima": "140 km/h (general); 70 km/h para trenes de mercancías entre pk 215,420 y 232,000 según Consigna Serie B",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Vía par bloqueada para trabajos de mantenimiento (limpieza de cunetas, saneamiento de trincheras, reconstrucción de muros de contención y limpieza de desprendimientos). Vía impar en servicio con vía única temporal impar.",
+  "otro": "Apeadero de Camallera en pk 230,623 con acopio de materiales. El tajo estaba en pk 231,500. La descarga de palets requería invadir el gálibo de la vía impar por la posición transversal del toro."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269231 (serie 269)",
+  "averia": "Avería inmediata de la locomotora 269231 tras la colisión con la máquina de obra. Daños pendientes de valoración.",
+  "mantenimiento": null
+ },
+ "clima": "Niebla intensa que redujo considerablemente la visibilidad",
+ "causas": {
+  "directa": "Ocupación indebida del gálibo de la vía impar por la máquina de obra MANISCOPIC MT 1030s durante la descarga de palets de bloques de hormigón, autorizada por el encargado de trabajos y piloto de seguridad, incumpliendo el artículo 340 punto 2 del Reglamento General de Circulación.",
+  "contribuyentes": [
+   "Niebla intensa que redujo la visibilidad del maquinista, impidiéndole detectar la máquina a tiempo.",
+   "El tren circulaba a 79 km/h, 9 km/h por encima del límite de 70 km/h para mercancías (aunque el informe estima que esta circunstancia no influyó en el accidente ya que el tren necesitó 407 m para detenerse desde la aplicación del freno).",
+   "El diseño de la máquina (MANISCOPIC MT 1030s) obligaba a adoptar una posición transversal a la vía para descargar lateralmente, haciendo que las ruedas traseras saltaran el carril de la entrevía e invadieran el gálibo de la vía impar.",
+   "El encargado de trabajos y piloto de seguridad se comunicaba con las estaciones mediante teléfono móvil durante la realización de los trabajos, estimando la ocupación del gálibo de forma no reglamentaria.",
+   "El tren 91495 acumulaba 113 minutos de retraso y había estado detenido en Gerona hasta las 01:40.",
+   "El oficial 2º conductor del toro llevaba dos turnos nocturnos consecutivos (22:00-06:00 las 24 y 48 h anteriores)."
+  ],
+  "sistemicas": [
+   "El Régimen de Trabajos no correspondía a la previsión de necesidades de los trabajos ni a los medios y máquinas disponibles.",
+   "Prácticas viciosas en los trabajos en vía por parte del personal de Circulación y de Mantenimiento.",
+   "Sistema de autorización de invasión de gálibo basado en comunicaciones telefónicas informales en lugar de procedimientos reglamentarios robustos."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Avería de la locomotora 269231; daños en la maquinaria de vía (toro y plataforma de transporte de prefabricados); daños en la infraestructura ferroviaria. Todos pendientes de valoración.",
+  "afectacion_servicio": "Circulación interrumpida entre Figueras y Gerona (línea 270) desde las 02:08 hasta las 06:38 (4 h 30 min). Afectados 18 trenes: 4 Media Distancia (119 min retrasos acumulados), 4 Cercanías (38 min), 1 Larga Distancia (50 min), 9 mercancías (2185 min acumulados)."
+ },
+ "lecciones": [
+  "El Régimen de Trabajos debe corresponder en todos los casos a la previsión de necesidades de los trabajos y a los medios y máquinas disponibles, y viceversa.",
+  "La estimación de la ocupación del gálibo de la vía contigua no puede basarse en comunicaciones telefónicas informales durante la ejecución de los trabajos.",
+  "El diseño de la maquinaria de vía (necesidad de posición transversal para descarga lateral) puede generar invasiones de gálibo no previstas si no se evalúa adecuadamente."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "El Régimen de Trabajos debe corresponder en todos los casos a la previsión de necesidades de los trabajos y a los medios y máquinas disponibles, y viceversa.",
+   "destinatario": "ADIF / Operadores ferroviarios"
+  },
+  {
+   "texto": "Realizar campaña formativa tanto al personal de Circulación como de Mantenimiento con el fin de eliminar las prácticas viciosas en los trabajos en vía.",
+   "destinatario": "ADIF / Operadores ferroviarios"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "invasion de galibo",
+  "maquinaria de via",
+  "mantenimiento de infraestructura",
+  "niebla",
+  "piloto de seguridad",
+  "trabajos en via",
+  "tren de mercancias",
+  "bloqueo automatico",
+  "via unica temporal",
+  "fallecido",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-101106-180507-DGF"
+}

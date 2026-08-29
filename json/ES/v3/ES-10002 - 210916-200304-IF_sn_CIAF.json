@@ -1,0 +1,240 @@
+{
+ "titulo_normalizado": "Incidente operacional en estación de Xeraco (Valencia) por expedición indebida de tren sin bloqueo establecido tras avería de desvío A1",
+ "idioma_original": "es",
+ "resumen": "El 4 de marzo de 2020 se produjo un incidente operacional en la estación de Xeraco (Valencia), línea 344 Gandía-Silla, tras una avería en el desvío A1 que impidió la comprobación de posición. El Responsable de Circulación del CTC desactivó los automatismos GRP de Xeraco y Gandía Mercancías pero no de Tavernes. Al liberarse el trayecto tras la llegada del tren 24272 a Tavernes, el GRP de Tavernes estableció automáticamente el bloqueo en sentido contrario y lanzó el itinerario del tren 24279 hacia Xeraco. Simultáneamente, el RC autorizó indebidamente el rebase de señal de salida al tren 24294 sin bloqueo establecido, provocando una situación de riesgo de colisión en vía única. Ambos trenes fueron detenidos a tiempo sin consecuencias personales ni materiales.",
+ "hechos": "El incidente se originó cuando el tren 24272, situado en vía 1 de Xeraco, intentó salir hacia Tavernes pero la aguja A1 no comprobó en posición normal, permaneciendo invertida hacia vía 2. El RC del CTC bloqueó el cambio en posición invertida y realizó maniobras para posicionar el tren en vía 2 y expedirlo con autorización de rebase de señal. Mientras tanto, el tren 24294 se estacionó en vía 2 de Xeraco. El RC desactivó los GRP de Xeraco y Gandía Mercancías pero no de Tavernes. El tren 24272 circuló hacia Tavernes y se estacionó en vía 1 de esa estación, donde ya se encontraba el tren 24279 en vía 2. Al liberar el último circuito del trayecto, se produjo el desbloqueo automático y el GRP de Tavernes (sin desactivar) estableció automáticamente el bloqueo Tavernes-Xeraco y lanzó el itinerario de salida del 24279.\n\nCasi simultáneamente, el RC autorizó al tren 24294 el rebase de la señal de salida S2/2 de Xeraco sin haber mandado establecer el bloqueo Xeraco-Tavernes, incumpliendo el artículo 4.2.1.2 del RCF. El tren 24294 inició la marcha y el 24279 también salió de Tavernes, quedando dos trenes en sentidos opuestos en vía única con bloqueo establecido solo en un sentido. El RC detectó la situación al percibir la salida del 24279 y ordenó inmediatamente la detención del 24294, que se detuvo antes de la señal E1 de Xeraco, protegido por ella. Al tren 24279 no pudo contactar en el primer intento de llamada; en el segundo logró detenerlo antes de la señal 417, a unos 2.250-2.500 metros del 24294. No hubo riesgo inminente de colisión al no coincidir ambos trenes en el mismo cantón.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Xeraco",
+  "pk": "43+488",
+  "linea": "344 Gandía - Silla",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Estación de Xeraco y trayecto Xeraco-Tavernes de la Valldigna (vía única). Estación de Tavernes en PK 36+976. Aguja A1 en PK 43+221, señal de salida S2/2 en PK 43+287, señal de entrada E1 en PK 42+921."
+ },
+ "cronologia": [
+  {
+   "hora": "21:40:36",
+   "evento": "Tren 24272 detenido en CV1 vía 1 de Xeraco ante señal S2/1. GRP de Xeraco desactivado; GRP de Tavernes activo."
+  },
+  {
+   "hora": "21:45:30",
+   "evento": "Tren 24272 rebasa señal S2/1 y ocupa CV A1. El maquinista verifica que la aguja A1 está en posición invertida (no normal)."
+  },
+  {
+   "hora": "21:50:00",
+   "evento": "Tren 24294 detenido en señal de entrada E2 de Xeraco (aproximadamente)."
+  },
+  {
+   "hora": "21:54:23",
+   "evento": "Tren 24272 retrocede a CV1 vía 1 para maniobra de cambio a vía 2 por lado Gandía."
+  },
+  {
+   "hora": "22:03:19",
+   "evento": "Tren 24272 ya en CV2 vía 2 ante señal S2/2. Tren 24279 ocupa CV2 vía 2 de Tavernes."
+  },
+  {
+   "hora": "22:07:00",
+   "evento": "RC autoriza al tren 24272 rebase de S2/2 con marcha a la vista y reconocimiento de aguja A1 a invertido."
+  },
+  {
+   "hora": "22:12:00",
+   "evento": "Tren 24294 se estaciona en vía 2 de Xeraco (aproximadamente)."
+  },
+  {
+   "hora": "22:13:06",
+   "evento": "Tren 24272 se aproxima a señal E2 de Tavernes. Tren 24294 estacionado en vía 2 de Xeraco."
+  },
+  {
+   "hora": "22:13:38",
+   "evento": "Tren 24272 pasa señal E2 de Tavernes. Se produce desbloqueo automático del trayecto Xeraco-Tavernes."
+  },
+  {
+   "hora": "22:14:00",
+   "evento": "Tren 24272 ocupa CV1 vía 1 de Tavernes. Trayecto Tavernes-Xeraco desbloqueado."
+  },
+  {
+   "hora": "22:14:06",
+   "evento": "GRP de Tavernes (sin desactivar) establece automáticamente bloqueo Tavernes-Xeraco y manda itinerario de salida para tren 24279 desde vía 2 de Tavernes."
+  },
+  {
+   "hora": "22:14:00",
+   "evento": "RC autoriza indebidamente al tren 24294 rebase de señal S2/2 de Xeraco sin bloqueo establecido Xeraco-Tavernes."
+  },
+  {
+   "hora": "22:14:30",
+   "evento": "Señal S1/2 de Tavernes pasa a vía libre (GRP estableció itinerario para 24279). Tren 24294 aún ante S2/2 cerrada de Xeraco."
+  },
+  {
+   "hora": "22:15:10",
+   "evento": "Tren 24294 rebasa señal S2/2 de Xeraco y ocupa CV del cambio A1. Bloqueo establecido Tavernes-Xeraco."
+  },
+  {
+   "hora": "22:15:19",
+   "evento": "Tren 24279 pasa señal S1/2 abierta de Tavernes y ocupa CV de cambios. Dos trenes en sentidos opuestos en vía única."
+  },
+  {
+   "hora": "22:15:45",
+   "evento": "Tren 24279 ocupa CV E2 saliendo de Tavernes. Tren 24294 ocupa CV A1 de Xeraco."
+  },
+  {
+   "hora": "22:16:02",
+   "evento": "Tren 24279 libera CV E2 y ocupa CV388 anterior a señal 389. RC detecta la salida del 24279."
+  },
+  {
+   "hora": "22:16:49",
+   "evento": "Tren 24294 ocupa CVE1 y CVA1 de Xeraco. Señal E1 y avanzada 417 en parada. RC ordena detención del 24294."
+  },
+  {
+   "hora": "22:17:04",
+   "evento": "Tren 24279 ocupa CV402 anterior a señal 403. RC ordena detención del 24279 (primer intento fallido)."
+  },
+  {
+   "hora": "22:17:53",
+   "evento": "Tren 24279 se detiene antes de señal 417, a unos 2.250 m del 24294. RC contacta en segundo intento."
+  },
+  {
+   "hora": "22:27:29",
+   "evento": "Tren 24279 inicia retroceso hacia Tavernes. GRP de Tavernes desactivado."
+  },
+  {
+   "hora": "22:34:00",
+   "evento": "Hora oficial del incidente según la ficha de descripción del suceso."
+  },
+  {
+   "hora": "22:36:00",
+   "evento": "CTC (RC entrante tras relevo) autoriza al tren 24294 a continuar hacia Tavernes."
+  },
+  {
+   "hora": "22:56:00",
+   "evento": "Tren 24294 recibe autorización de rebase de señal avanzada 388 de Tavernes."
+  },
+  {
+   "hora": "23:02:00",
+   "evento": "Tren 24294 llega a Tavernes."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "24272",
+   "tipo": "Cercanías (unidad autopropulsada)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  },
+  {
+   "numero": "24279",
+   "tipo": "Cercanías (447.003)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  },
+  {
+   "numero": "24294",
+   "tipo": "Cercanías (447.087)",
+   "operador": "Renfe Viajeros",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de Circulación (RC) del CTC de Valencia, Banda de Regulación Valencia Fuente de San Luis a Gandía",
+   "implicacion": "Fallo humano directo: expidió el tren 24294 con autorización de rebase sin bloqueo establecido Xeraco-Tavernes, sin haber desconectado previamente el GRP de Tavernes. Incumplió art. 4.2.1.2 RCF y consigna AOI 28/17. Tras detectar el problema, ordenó detención de ambos trenes. No contactó con el 24279 en primer intento y no adoptó medidas urgentes tras el fallo."
+  },
+  {
+   "rol": "Maquinista del tren 24272",
+   "implicacion": "Actuó correctamente: verificó visualmente la posición invertida de la aguja A1, informó al RC, realizó maniobra de retroceso y cambio a vía 2, reconoció la aguja en salida."
+  },
+  {
+   "rol": "Maquinista del tren 24294",
+   "implicacion": "Actuó correctamente: se detuvo en E2 de Xeraco, se estacionó en vía 2, reconoció aguja A1 a invertido, acató orden de detención y se detuvo antes de E1. Confirmó estar protegido por señal."
+  },
+  {
+   "rol": "Maquinista del tren 24279",
+   "implicacion": "Actuó correctamente: recibió autorización de rebase de señal, se detuvo antes de la señal 417 que ordenaba parada, cambió de cabina y retrocedió a Tavernes según orden del RC."
+  },
+  {
+   "rol": "Regulador (supervisor)",
+   "implicacion": "Indicó al RC que pasara el 24294 por vía 2 de Xeraco y que el 24279 esperara en Tavernes."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales luminosas con balizas ASFA (todas excepto retroceso y maniobras). Enclavamientos eléctricos en Xeraco y Tavernes. Señales de salida S2/1 (PK 43+287), S2/2 (PK 43+287), S1/2 (PK 37+170), E1 (PK 42+921), E2 (PK 36+283), R1 (PK 42+921), avanzadas 389 (PK 38+900), 403 (PK 40+247), 417 (PK 41+565).",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "120 km/h (material rodante tipo 120 A)",
+  "ancho": "Ibérico (1668 mm)",
+  "electrificacion": "Electrificada",
+  "estado_via": "Correcta. Única anomalía: avería en desvío A1 de Xeraco (falta de comprobación de posición por deficiente estado del embrague del motor de accionamiento). Espadines se desplazaban con dificultad; se engrasó cerrojo de uña, resbaladera y se realizó ajuste; se sustituyó embrague del accionamiento eléctrico.",
+  "otro": "Bloqueo automático de vía única (BAU). CTC con videográfico. GRP (Gestor de Rutas y Prioridades) en Xeraco, Tavernes y Gandía Mercancías. Radiotelefonía tren-tierra modalidad A canal 66. Telefonía móvil corporativa. Media semanal de circulaciones tramo Cullera-Gandía Mercancías: 494 (11 LD, 482 cercanías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Serie 447 de Renfe (447.003 y 447.087). Tipo 120 A, velocidad máxima 120 km/h. 3 coches (2 motores + 1 remolque), bogies de 2 ejes. ASFA Digital. Registrador CESIS 1. 702 plazas. Puesta en servicio 1996.",
+  "averia": null,
+  "mantenimiento": "No se detectaron anomalías en el material rodante ni en los sistemas ASFA embarcados. Funcionamiento correcto en todo momento."
+ },
+ "clima": "Noche. Buenas condiciones de visibilidad. Meteorología favorable. Sin condiciones adversas.",
+ "causas": {
+  "directa": "Fallo humano del RC del CTC: expedición indebida del tren 24294 con autorización de rebase de señal de salida sin tener establecido el bloqueo Xeraco-Tavernes, y sin haber desconectado previamente el GRP de Tavernes. Incumplimiento del art. 4.2.1.2 del RCF y de la consigna AOI 28/17.",
+  "contribuyentes": [
+   "Avería y falta de comprobación del desvío A1 de la estación de Xeraco (embrague del motor de accionamiento en deficiente estado), que originó la situación degradada de operación.",
+   "Consigna GRP AOI 28/17 no establece claramente que se deba desconectar el automatismo en las estaciones colaterales a aquella donde se produce una avería, generando ambigüedad.",
+   "Confianza del RC en que el bloqueo Xeraco-Tavernes (tomado por el 24272) se mantendría para la salida del 24294.",
+   "Carga de trabajo relativamente alta en el momento del suceso (avería de aguja + otras operaciones en la banda)."
+  ],
+  "sistemicas": [
+   "Discrepancia entre la Consigna A 3115 de Xeraco, la norma NAS 806 y el comportamiento real del enclavamiento respecto a la detección de escapes de material (la consigna omite la condición de liberación del circuito de agujas).",
+   "Indicaciones del videográfico del CTC no conformes a la NAS 806 en caso de escape de material (flechas en blanco fijo en lugar de rojo fijo/intermitente).",
+   "Ausencia de restricción técnica en el GRP para impedir el establecimiento automático de bloqueo en sentido contrario cuando una estación colateral presenta anormalidades."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno. No se produjeron daños personales, ni materiales, ni al medio ambiente.",
+  "afectacion_servicio": "8 trenes de cercanías sufrieron retrasos, con un total acumulado de 227 minutos. Intercepción de la vía en el trayecto Xeraco-Tavernes."
+ },
+ "lecciones": [
+  "En vía única con BAU, el RC debe asegurar el bloqueo automático del trayecto antes de expedir cualquier tren con autorización de rebase de señal de salida.",
+  "El GRP debe desconectarse tanto en la estación afectada por la avería como en las estaciones colaterales receptoras para evitar que lancen automáticamente trenes hacia la estación con anormalidad.",
+  "Ante un riesgo inminente, la actuación debe ser inmediata utilizando todos los medios disponibles (cierre de señales, radiotelefonía de emergencia, corte de tensión), sin esperar a un segundo intento de contacto fallido.",
+  "Las consignas locales de estación deben ser coherentes con las normas generales aplicables (NAS 806/NAS 818) para evitar confusiones en situaciones de anormalidad.",
+  "Los videográficos del CTC deben reflejar correctamente el estado de bloqueo conforme a la normativa para no inducir a error al RC."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En los procesos de formación incidir en que funcionando el BAU, debe asegurarse previamente el bloqueo automático del trayecto por el RC en todos los casos en que expida un tren con autorización de rebase de la señal de salida.",
+   "destinatario": "AESF / Adif (19/20-1)"
+  },
+  {
+   "texto": "Analizar posibles restricciones técnicas al GRP en el establecimiento del bloqueo expedidor cuando en la estación colateral receptora existan anormalidades en las instalaciones de seguridad.",
+   "destinatario": "AESF / Adif (19/20-2)"
+  },
+  {
+   "texto": "Hacer constar expresamente en la consigna reguladora del GRP e instruir a los RC de los CTC sobre lo siguiente: cuando por anormalidad en las instalaciones haya que autorizar el rebase de una señal de salida a efectos de expedir los trenes, se procederá previamente a desconectar el automatismo del GRP tanto en la estación expedidora afectada por la anormalidad como en su colateral receptora.",
+   "destinatario": "AESF / Adif (19/20-3)"
+  },
+  {
+   "texto": "En los procesos de formación a los RC de los CTC y de las estaciones incidir en la necesidad de que la actuación en caso de riesgo inminente para la circulación ha de ser inmediata y utilizando para ello los medios existentes en las instalaciones (cierre de señales en estaciones y bloqueos, radiotelefonía de emergencia e incluso corte de tensión) para garantizar la detención inmediata de las circulaciones afectadas.",
+   "destinatario": "AESF / Adif (19/20-4)"
+  },
+  {
+   "texto": "Normalizar, respecto a la detección de escapes de material, la Consigna Serie A 3115 (apartado 5.14 del manual de operación, versión 2, de fecha 24-02-2017) de la estación de Xeraco. Asimismo, normalizar en el CTC las comprobaciones que visualizan el efecto de escape de material producido en la estación de Xeraco. Todo ello de acuerdo con lo establecido en la NAS 806. Aplicar, si procede, las mismas modificaciones en las consignas de las dependencias de la línea que presenten las mismas circunstancias.",
+   "destinatario": "AESF / Adif (19/20-5)"
+  }
+ ],
+ "tags": [
+  "incidente operacional",
+  "bloqueo automatico",
+  "via unica",
+  "expedicion indebida",
+  "fallo humano",
+  "rc ctc",
+  "grp",
+  "averia desvio",
+  "xeraco",
+  "valencia",
+  "renfe viajeros",
+  "asfa",
+  "autorizacion rebase"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10002 - 210916-200304-IF_sn_CIAF"
+}

@@ -1,0 +1,120 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en plena vía entre Arcade y Figueirido por invasión de vía en paso abusivo, línea Redondela-Santiago de Compostela",
+ "idioma_original": "es",
+ "resumen": "El 30 de noviembre de 2006, a las 11:15, el tren de Larga Distancia nº 2422 de Renfe arrolló a un peatón de 81 años en el pk 10,320 de la línea Redondela-Santiago de Compostela, entre Arcade y Figueirido (Pontevedra). La víctima cruzó la vía por un paso abusivo de peatones, desoyendo el aviso acústico del tren, y falleció en el lugar. El maquinista accionó la bocina y el freno de emergencia, pero no pudo evitar el atropello. El accidente fue calificado como grave y la investigación atribuyó la causa a la imprudencia del peatón.",
+ "hechos": "El tren de Larga Distancia nº 2422 de Renfe, compuesto por el automotor 598.001, realizaba el trayecto Vigo-La Coruña por la línea Redondela-Santiago de Compostela. A la salida de una curva, entre Arcade y Pontevedra, el maquinista observó a una persona de edad avanzada intentando cruzar la vía por un lugar no habilitado. Hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento, produciéndose la muerte del peatón. El tren detuvo su marcha en el pk 10,700, aproximadamente 400 metros más adelante del punto del impacto, y el cadáver quedó fuera de la caja de la vía, en una carretera adyacente. La víctima era un varón de 81 años que cruzó la vía de derecha a izquierda (sentido línea y marcha) por un paso abusivo de peatones, en lugar de utilizar la pasarela peatonal existente a 140 metros del lugar del accidente.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "10,320",
+  "linea": "Redondela-Santiago de Compostela",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Plena vía entre las estaciones de Arcade y Figueirido, trayecto Arcade-Pontevedra. Vía discurre en recta entre dos curvas, con visibilidad de 80 metros en la curva anterior y 450 metros en la posterior. Núcleo semi-urbano. Margen derecha con viviendas alineadas separadas por camino local de tierra Paredes; margen izquierda con carretera N-550. A 140 metros dirección Redondela (pk 10,180) existe pasarela peatonal. A 30 metros del arrollamiento se aprecian señales de varios pasos abusivos."
+ },
+ "cronologia": [
+  {
+   "hora": "11:15",
+   "evento": "Arrollamiento de la persona en el pk 10,320. El tren circulaba a 111 km/h. El maquinista usa la bocina y acciona el freno de emergencia."
+  },
+  {
+   "hora": null,
+   "evento": "El tren detiene su marcha en el pk 10,700, unos 400 metros más adelante del punto del impacto."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Jefe del CTC del Puesto de Mando de Orense, que cursa aviso a múltiples organismos y servicios de emergencia."
+  },
+  {
+   "hora": null,
+   "evento": "Agentes de Adif acuden al lugar para recogida de datos e inspección del punto del arrollamiento."
+  },
+  {
+   "hora": null,
+   "evento": "Se realiza prueba de alcoholemia al maquinista en La Coruña con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "13:13",
+   "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver y la circulación queda restablecida en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "2422",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe",
+   "danos": "Daños en material móvil: capota de poliéster, embellecedor derecho quita-reses y carenado de poliéster."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 2422",
+   "implicacion": "Observó a la persona cruzando la vía, hizo uso del silbato y aplicó freno de emergencia. Alcoholemia negativa (0,00 mg/1000 ml). Jornada del día: 1h20min, conducción 0h20min. Jornada 24h anteriores: 8h44min, conducción 2h03min. Jornada 48h anteriores: descanso. Último reconocimiento médico: 01.02.2005. Curso de reciclaje del Reglamento General de Circulación: 16.11.2006. Se encontraba en perfectas condiciones para el desarrollo de sus funciones."
+  },
+  {
+   "rol": "Jefe delegado del accidente",
+   "implicacion": "Intervino en el accidente según el listado de personas que intervinieron."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Se aprecian señales de existencia de varios pasos abusivos a 30 metros del lugar del arrollamiento. No se menciona señalización específica de cruce peatonal en el punto del accidente.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Recta entre dos curvas con notable desnivel entre cota de vía y terreno en ambos márgenes. No dispone de vallado perimetral. Tramo con escasa visibilidad por traza en curva.",
+  "otro": "Bloqueo automático banalizado de vía única con CTC. En el pk 10,180 existe pasarela peatonal sobre vía y carretera N-550."
+ },
+ "material_rodante": {
+  "series": "598.001 (autopropulsado 598.001-6)",
+  "averia": "Daños en capota de poliéster, embellecedor derecho quita-reses y carenado de poliéster.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima al invadir intempestivamente la vía cruzando por un paso abusivo de peatones, lugar no habilitado para el tránsito de personas, desoyendo la señalización acústica del tren.",
+  "contribuyentes": [
+   "Escasa visibilidad del tramo por su traza en curva (80 metros en la curva anterior por donde accedió la víctima).",
+   "Existencia de varios pasos abusivos o viciosos en las proximidades del lugar del arrollamiento.",
+   "Ausencia de vallado perimetral en el tramo ferroviario.",
+   "Núcleo semi-urbano con viviendas y fincas próximas a la vía, lo que facilita el acceso indebido a la misma."
+  ],
+  "sistemicas": [
+   "Falta de eliminación de pasos viciosos e irregulares en la zona.",
+   "Insuficiente señalización disuasoria y de peligro en los puntos de acceso indebido a la vía."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños en material móvil del tren: capota de poliéster, embellecedor derecho quita-reses y carenado de poliéster.",
+  "afectacion_servicio": "132 minutos de retrasos acumulados en 5 trenes de Media Distancia, 16 minutos en 1 tren de Larga Distancia y 100 minutos en 1 tren de Mercancías. Circulación restablecida a las 13:13."
+ },
+ "lecciones": [
+  "La existencia de pasos abusivos en tramos con núcleos semi-urbanos próximos a la vía representa un riesgo relevante para la seguridad peatonal.",
+  "La escasa visibilidad por traza en curva reduce el tiempo de reacción del maquinista y dificulta la evitación de arrollamientos.",
+  "La disponibilidad de una pasarela peatonal a 140 metros del lugar del accidente no impidió que la víctima cruzara por un paso indebido."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Proceder a la eliminación de los pasos viciosos o irregulares mediante la instalación de cartelones que indiquen la presencia de circulaciones, el peligro que supone cruzar las vías del ferrocarril y la recomendación de utilizar la pasarela peatonal.",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso abusivo",
+  "imprudencia",
+  "via unica",
+  "sin electrificar",
+  "renfe",
+  "adif",
+  "arcade",
+  "figueirido",
+  "pontevedra",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-301106-130407"
+}

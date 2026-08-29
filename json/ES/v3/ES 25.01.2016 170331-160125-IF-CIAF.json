@@ -1,0 +1,172 @@
+{
+ "titulo_normalizado": "Conato de colisión por alcance en la estación de Elx Parc (Alicante) por rebase de señales de entrada y retroceso en parada por tren de mantenimiento EM485",
+ "idioma_original": "es",
+ "resumen": "El 25 de enero de 2016 a las 23:29 horas, el tren de mantenimiento de infraestructura EM485, formado por una perfiladora de Acciona y una bateadora de Ferrovial, rebasó indebidamente las señales de entrada E1 y de retroceso R1, ambas en indicación de parada, en la estación de Elx Parc (línea 336 El Reguerón–Alacant Terminal, Alicante). Se produjo un conato de colisión por alcance con el tren de viajeros 10171 de Renfe Viajeros, estacionado en la vía 1. No se registraron víctimas ni daños materiales. La causa fue un fallo humano del personal de conducción por falta de atención. Adif aplicó el procedimiento de suspensión y recuperación de habilitaciones, y la CIAF no formuló recomendaciones adicionales.",
+ "hechos": "El día 25 de enero de 2016, el tren de viajeros 10171 de Renfe Viajeros (procedente de Barcelona Sants, destino Murcia del Carmen) y el tren de mantenimiento de infraestructura EM485 (formado por la perfiladora PLASSER PDB-100 de Acciona y la bateadora PLASSER UNIMAT 08-16 4S/32 de Ferrovial, procedente de Elx Mercaderies, destino El Reguerón) circulaban en el mismo sentido por vía única hacia la estación de Elx Parc por el lado Alicante. El tren 10171 se detuvo a las 23:25:36 en la vía 1 para parada comercial. A esa hora, el EM485 se aproximaba a la señal avanzada E'1 en anuncio de parada, con las señales E1 y R1 en indicación de parada. A las 23:28:24 el 10171 reanudó la marcha y, 11 segundos después, el EM485 —que no dispone de sistema ASFA— rebasó la señal de entrada E1 (PK 20+094) en parada, produciéndose el conato de colisión por alcance. El EM485 continuó 252 metros en 19 segundos (velocidad media 47 km/h) hasta que el operador de maquinaria aplicó freno de servicio al percatarse de la señal R1 en parada, sin poder evitar su rebase a las 23:28:56. El tren 10171 pasó la señal de salida S1/1 a las 23:28:57 y prosiguió sin incidente. El EM485 retrocedió hasta situarse delante de R1 y fue comunicado al CTC a las 23:39:35.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Elx Parc",
+  "pk": "20+094 (señal E1) / 20+346 (señal R1) / 20+596 (centro estación)",
+  "linea": "336 El Reguerón – Alacant Terminal",
+  "provincia": "Alicante",
+  "descripcion_lugar": "Estación de Elx Parc, tramo vía única en túnel sin electrificar, ancho ibérico. Señales situadas en el lado derecho adosadas a la pared del túnel. Puesto de Mando de Valencia (CTC). Municipio: Elx."
+ },
+ "cronologia": [
+  {
+   "hora": "23:14:15",
+   "evento": "El jefe del CTC llama al teléfono móvil del EM485 y transmite telefonema (número de tren, tipo, asimilación) al operador de maquinaria (OMI) de la perfiladora"
+  },
+  {
+   "hora": "23:24:40",
+   "evento": "El tren 10171 pasa por baliza de pie de señal E1 en indicación de vía libre"
+  },
+  {
+   "hora": "23:25:36",
+   "evento": "El tren 10171 realiza parada comercial en vía 1 (CV1 ocupado). El EM485 se aproxima a señal avanzada E'1 en anuncio de parada; E1 y R1 en parada"
+  },
+  {
+   "hora": "23:28:24",
+   "evento": "El tren 10171 reanuda la marcha con itinerario de salida establecido y señal S1/1 en vía libre"
+  },
+  {
+   "hora": "23:28:35",
+   "evento": "El EM485 ocupa circuito CV E'1, ante la señal E1 en parada"
+  },
+  {
+   "hora": "23:28:37",
+   "evento": "El EM485 rebasa indebidamente la señal de entrada E1 (PK 20+094) en indicación de parada. Conato de colisión por alcance con el 10171"
+  },
+  {
+   "hora": "23:28:56",
+   "evento": "El EM485 rebasa la señal de retroceso R1 (PK 20+346) en parada tras recorrer 252 m en 19 s (velocidad media 47 km/h). El operador aplica freno de servicio"
+  },
+  {
+   "hora": "23:28:57",
+   "evento": "El tren 10171 pasa baliza de pie de señal de salida S1/1 (PK 20+849) en vía libre y prosigue"
+  },
+  {
+   "hora": "23:29:57",
+   "evento": "El tren 10171 libera circuitos CV1, CVA2 y CVE2. El EM485 sigue ocupando CVE1 y CVA1"
+  },
+  {
+   "hora": "23:29:58",
+   "evento": "El EM485 retrocede sin autorización hasta situarse delante de la señal R1, liberando CVA1"
+  },
+  {
+   "hora": "23:39:35",
+   "evento": "El maquinista (agente de infraestructura) contacta al jefe del CTC tras buscar cobertura. Le indica que están en la R1"
+  },
+  {
+   "hora": "23:49:45",
+   "evento": "Conversación con técnico de regulación: el maquinista afirma que no rebasaron la R1 y que la E1 estaba en anuncio de parada; el técnico le corrige que E1 estaba en parada"
+  },
+  {
+   "hora": "10:39",
+   "evento": "26/01/2016: Cristóbal Cuesta Maestre (Adif) comunica el suceso a la CIAF por teléfono móvil"
+  },
+  {
+   "hora": null,
+   "evento": "23/02/2016: El Presidente de la CIAF decide abrir la investigación"
+  },
+  {
+   "hora": null,
+   "evento": "31/03/2017: Fecha del informe final"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "EM485",
+   "tipo": "Tren de mantenimiento de infraestructura, Tipo T80 (velocidad máxima 80 km/h), tracción múltiple de dos máquinas de vía. 137 toneladas, 8 ejes, 44 metros. Sin ASFA ni registrador de seguridad.",
+   "operador": "Adif (maquinista en funciones) / Acciona Infraestructuras (perfiladora) / Ferrovial Agroman (bateadora)",
+   "danos": "No se producen daños"
+  },
+  {
+   "numero": "10171",
+   "tipo": "Tren de viajeros, 9 vehículos, 155 toneladas, 116 metros, locomotora UIC 95710334014-8. Procedente de Barcelona Sants, destino Murcia del Carmen.",
+   "operador": "Renfe Viajeros",
+   "danos": "No se producen daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Agente de infraestructura de Adif en funciones de maquinista, con Título de Conducción A (otorgado 08/06/2015) y habilitación de infraestructura (12/06/2013). Categoría: Ayudante Ferroviario, residencia Distrito Alacant T. Último reciclaje 02/10/14, último reconocimiento 17/09/15.",
+   "implicacion": "Responsable de la dirección de la marcha del tren EM485. No recibió el telefonema del CTC (art. 305.2 RGC), no exigió el boletín de circulación y frenado (art. 529 RGC), no se puso en condiciones de detenerse ante la siguiente señal (art. 213 RGC) y no se detuvo ante señal en parada (art. 217.1 RGC). Falta de atención. Habilitación suspendida 29/01/2016, recuperada 14/04/2016 tras formación de 32 h."
+  },
+  {
+   "rol": "Conductor de la perfiladora (Operador de Maquinaria de Infraestructura - OMI) de Acciona, habilitación conforme Orden FOM/2872/2010 Título III (en vigor hasta 21/04/18). Último reciclaje 21/04/15, último reconocimiento 23/10/14.",
+   "implicacion": "Ejercía materialmente la conducción de la perfiladora. Recibió el telefonema del CTC en lugar del maquinista. No vio la señal E1 en parada. Aplicó freno de servicio al ver la R1 en parada (~50 m antes), sin poder evitar el rebase. Habilitación suspendida 28/01/2016, recuperada 08/06/2016 tras formación de 21 h."
+  },
+  {
+   "rol": "Jefe del CTC (Puesto de Mando de Valencia)",
+   "implicacion": "Transmitió el telefonema al OMI en lugar del maquinista responsable. No facilitó el boletín de circulación y frenado al maquinista (observación adicional, art. 529 RGC)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E1 (PK 20+094): alta, tres focos (parada, anuncio de parada, vía libre), baliza previa y de pie, foco blanco de rebase autorizado, teléfono. Señal de retroceso R1 (PK 20+346): baja, cuatro focos (parada, rebase autorizado, indicadora de entrada), sin balizas ASFA. Señal avanzada E'1 (PK 18+498). Señal de salida S1/1 (PK 20+849). Todas las señales luminosas normalmente encendidas. Visibilidad comprobada el 07/10/2016: E1 a 550 m, R1 a 700 m.",
+  "tipo_via": "Vía única en túnel, sin electrificar, ancho ibérico. Bloqueo automático (BAU), CTC desde Puesto de Mando de Valencia. Enclavamiento electrónico (modo remoto en el momento del suceso). Estación de dos vías. Tramo S. Isidro-Albater – Sant Gabriel. Trazado: alineación recta, pendiente 6 milésimas (800 m), horizontal (200 m), rampa 5 milésimas (300 m), horizontal (1200 m hasta estación).",
+  "velocidad_maxima": "140 km/h por vía general (sin limitación temporal o permanente en el tramo). Tren EM485 tipo T80: 80 km/h.",
+  "ancho": "Ibérico (1668 mm)",
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Funcionamiento correcto. No existían obras en el lugar ni en las inmediaciones. Las instalaciones técnicas funcionaron correctamente.",
+  "otro": "Radiotelefonía analógica y telefonía móvil GSM. Dentro del túnel no hay cobertura de móvil. Media semanal de circulaciones del tramo: 327 (42 LD, 27 MD, 257 cercanías, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "Perfiladora: PLASSER PDB-100, UIC 99713010305-1 (Acciona). Bateadora: PLASSER UNIMAT 08-16 4S/32, UIC 99713034502-5 (Ferrovial). Tren 10171: locomotora UIC 95710334014-8 + 9 vehículos.",
+  "averia": "No se produjeron daños en material rodante. Ninguna anomalía en equipos o dispositivos de seguridad. Ambos trenes circulaban en condiciones normales.",
+  "mantenimiento": "Ambas máquinas de vía autorizadas para circular según archivo patrón de Adif. Perfiladora: dispone de dispositivo de vigilancia; NO dispone de Tren Tierra, equipo ASFA ni registrador de seguridad. Bateadora: dispone de dispositivo de vigilancia y Tren Tierra; NO dispone de equipo ASFA ni registrador de seguridad. Perfiladora no dispone de radiotelefonía (comunicación por móvil, sin cobertura en túnel)."
+ },
+ "clima": "Nocturno. El túnel estaba iluminado. No se menciona condición meteorológica adversa.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren EM485 por falta de atención, dando lugar al rebase indebido de la señal de entrada E1 y de la señal de retroceso R1, ambas en indicación de parada, y al consecuente incumplimiento reglamentario (arts. 213, 217.1, 305.2 y 529 del RGC).",
+  "contribuyentes": [
+   "Posible confusión de las luces del interior del túnel con las señales de cola del tren Talgo estacionado en vía general 1 de Elx Parc (mencionado en declaraciones)",
+   "Ausencia de equipo ASFA en la perfiladora y la bateadora (tren tipo T80 sin protección automática contra SPAD)",
+   "El maquinista en funciones (agente de infraestructura) no recibió el telefonema del CTC ni el boletín de circulación y frenado; estos fueron transmitidos al OMI de la perfiladora",
+   "El maquinista en funciones desconocía que era él quien ejercía la función de maquinista responsable de la dirección de la marcha",
+   "El OMI no vio la señal de entrada E1 en parada; se percató de la R1 solo ~50 m antes",
+   "Velocidad media de 47 km/h tras el rebase de E1 (recorrido 252 m en 19 s), insuficiente para detenerse ante R1"
+  ],
+  "sistemicas": [
+   "Ninguna causa subyacente relacionada con cualificaciones del personal o mantenimiento del material rodante/infraestructura identificada por la CIAF",
+   "Ninguna causa relacionada con el marco normativo o la aplicación del sistema de gestión de la seguridad identificada por la CIAF"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+  "afectacion_servicio": "El tren EM485 fue suprimido en Elx Parc y devuelto a su base en Elx Mercaderies. No se produjo interceptación parcial ni total de la vía. El tren 10171 prosiguió su marcha sin incidencia."
+ },
+ "lecciones": [
+  "La responsabilidad de la dirección de la marcha del tren recae en el titular del título de conducción, que debe recibir el telefonema y el boletín de circulación y frenado del CTC, no el operador de maquinaria.",
+  "La ausencia de ASFA en maquinaria de vía tipo T80 elimina la protección automática contra rebases de señal en parada.",
+  "La confusión entre luces del túnel y señales de cola de un tren estacionado puede contribuir a la falta de percepción de señales.",
+  "La falta de cobertura de telefonía móvil en túneles dificulta la comunicación de emergencia con el CTC."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "rebase de señal",
+  "spad",
+  "conato de colisión",
+  "fallo humano",
+  "falta de atención",
+  "tren de mantenimiento",
+  "maquinaria de vía",
+  "sin asfa",
+  "elx parc",
+  "línea 336",
+  "adif",
+  "renfe viajeros",
+  "túnel",
+  "vía única",
+  "ancho ibérico",
+  "ctc valencia",
+  "perfiladora",
+  "bateadora",
+  "accion",
+  "ferrovial"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 25.01.2016 170331-160125-IF-CIAF"
+}

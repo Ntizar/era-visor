@@ -1,0 +1,149 @@
+{
+ "titulo_normalizado": "Deriva y colisión con topera del automotor histórico BILLARD FA-0029 en la estación de Balmaseda Mercancías por pérdida de frenos",
+ "idioma_original": "es",
+ "resumen": "El 25 de septiembre de 2008, el automotor BILLARD FA-0029, vehículo histórico de la Asociación de Amigos del Ferrocarril de Bilbao, sufrió una avería del motor diesel en plena vía. Durante las maniobras para reanudar la marcha, el sistema neumático de frenos se vació por completo, provocando la deriva del vehículo en dirección contraria. El Jefe de Circulación de Balmaseda dirigió el tren sin frenos hacia la vía 29M, donde impactó contra la topera a unos 65 km/h. Dos personas resultaron heridas leves. La investigación concluyó que el origen fue la pérdida de los sistemas de frenado y formuló una recomendación a Feve sobre el cumplimiento de normas de mantenimiento y autorización para material histórico.",
+ "hechos": "El tren BM402, constituido por el automotor BILLARD matrícula FA-0029 (vehículo histórico de 1966, propiedad de la Asociación de Amigos del Ferrocarril de Bilbao), salió a las 16:10 de la vía 9M de Balmaseda Mercancías en dirección León para verificar el estado del vehículo de cara a futuros viajes lúdicos. Tras recorrer 6.400 metros, el motor diesel se detuvo por avería en el P.K. 276,900, entre los apeaderos de Arla-Berrón y Ungo-Nava. Se decidió reparar in situ. Mientras se intentaba arrancar el motor, el circuito de gasoil con barro provocó el agotamiento del aire del depósito principal y de los cilindros de freno. El freno de mano (tipo husillo) no retuvo el vehículo, que inició la deriva en sentido contrario, hacia Balmaseda. Dos mecánicos y tres personas de la Asociación se arrojaron del automotor en marcha. El maquinista llamó al Jefe de Circulación avisando de que iban sin frenos. Este encaminó el tren hacia la vía 29M, la más larga y segura. El automotor impactó contra la topera de hormigón armado a una velocidad estimada de 65 km/h.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Balmaseda Mercancías",
+  "pk": "284,050",
+  "linea": "31 León-Bilbao",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Topera de hormigón armado al final de la vía 29M (vía mango), trazado horizontal, no electrificada, por el lado Bilbao. El tramo de deriva es vía única no electrificada con bloqueo telefónico."
+ },
+ "cronologia": [
+  {
+   "hora": "15:00",
+   "evento": "El maquinista se presenta por medios propios en Balmaseda"
+  },
+  {
+   "hora": "15:15",
+   "evento": "Inicio de la puesta en marcha del automotor (problemas en circuito de gasoil); localización de personal, calce supletorio y salida de nave de talleres"
+  },
+  {
+   "hora": "16:10",
+   "evento": "Salida del tren BM402 de la vía 9M de Balmaseda Mercancías en dirección León"
+  },
+  {
+   "hora": "16:20",
+   "evento": "Inicio de la marcha según declaración del maquinista (discrepancia con las 16:10 del informe)"
+  },
+  {
+   "hora": null,
+   "evento": "Recorridos 6.400 m, parada del motor diesel por avería en el P.K. 276,900 (entre Arla-Berrón y Ungo-Nava). Se aprieta el freno de mano de la cabina lado León."
+  },
+  {
+   "hora": null,
+   "evento": "Prolongación de la parada por barro en circuito de gasoil; pérdida total del aire de frenos; inicio de la deriva hacia Balmaseda. Dos mecánicos y tres personas de la Asociación se tiran del vehículo."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista contacta por teléfono móvil al Jefe de Circulación de Balmaseda avisando de que van sin frenos"
+  },
+  {
+   "hora": null,
+   "evento": "El Jefe de Circulación encamina el tren a la vía 29M"
+  },
+  {
+   "hora": "16:40",
+   "evento": "Impacto del automotor contra la topera de la vía 29M a velocidad estimada de 65 km/h"
+  },
+  {
+   "hora": "21:01",
+   "evento": "El Inspector General de Feve comunica el accidente a la CIAF por mensaje telefónico"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "BM402",
+   "tipo": "Automotor histórico BILLARD (Pegaso, 1966)",
+   "operador": "Asociación de Amigos del Ferrocarril de Bilbao (circula en red Feve)",
+   "danos": "Parte frontal del bogíe portador incrustada en chasis; tuberías neumáticas reventadas; pupitre de conducción destrozado; varios asientos arrancados"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista (Jefe de Maquinistas de Bilbao, matrícula 7062)",
+   "implicacion": "Conducía el automotor; intentó accionar frenos de mano en ambas cabinas; contactó al Jefe de Circulación; herido leve (dos costillas fisuradas, heridas en pierna)"
+  },
+  {
+   "rol": "Jefe de Circulación de Balmaseda",
+   "implicacion": "Recibió aviso de deriva; decidió encaminar el tren a la vía 29M"
+  },
+  {
+   "rol": "2 mecánicos (personal de la Asociación)",
+   "implicacion": "Se arrojaron del vehículo en marcha en el P.K. 276,900"
+  },
+  {
+   "rol": "3 personas de la Asociación de Amigos del Ferrocarril de Bilbao",
+   "implicacion": "Iban en el automotor durante la deriva; una resultó herida leve; dos se tiraron en marcha"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía única, no electrificada, bloqueo telefónico (tramo); vía 29M de estación, trazado horizontal, termina en topera",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas",
+  "otro": "Topera de hormigón armado arrancada de su emplazamiento. Tramo entre apeaderos Arla-Berrón y Ungo-Nava. Trayecto Guardo-Balmaseda. Bloqueo por Ocupación exigido por la autorización pero se usó Bloqueo Telefónico."
+ },
+ "material_rodante": {
+  "series": "BILLARD (Pegaso), construido en 1966, matrícula FA-0029, vehículo histórico",
+  "averia": "Fallo en circuito de gasoil (barro) que detuvo el motor diesel; pérdida total del aire del depósito principal y cilindros de freno; freno de mano inoperativo (timonerías no conectadas a los tirantes); fallos consecutivos en alimentación del motor, engranajes de tracción, freno de servicio y freno de emergencia",
+  "mantenimiento": "Acta de autorización para circular de 10 de noviembre de 2005. Taller de Balmaseda de fácil acceso; el vehículo fue manipulado por personal ajeno a Feve con posterioridad a la autorización. Se les había exigido plan de mantenimiento conforme a nuevos requisitos. Circulaba contadas veces al año previa inspección técnica."
+ },
+ "clima": "Tiempo atmosférico despejado",
+ "causas": {
+  "directa": "Pérdida de los sistemas de frenado del automotor (vaciado del circuito neumático por fallo en alimentación de gasoil y freno de mano inoperativo por timonerías desconectadas), provocando la deriva del vehículo hasta impactar contra la topera.",
+  "contribuyentes": [
+   "Avería del motor diesel por barro en el circuito de gasoil",
+   "Manipulación del vehículo por personal ajeno a Feve tras la autorización, con posible desconexión de timonerías del freno de mano",
+   "Ausencia de emisora de radio en el vehículo (dependencia de teléfono móvil del maquinista)",
+   "Incumplimiento del Bloqueo por Ocupación exigido (se usó Bloqueo Telefónico)",
+   "Solicitud de circulación formulada oralmente en lugar de por escrito",
+   "No se publicó la preceptiva Orden del Día",
+   "No se señaló a la vía el automotor pese a estar prevista la salida a distancia del tren 8700",
+   "No se entregó BOI al maquinista con información de que el tren no estaba señalado a la vía"
+  ],
+  "sistemicas": [
+   "Deficiencias en el convenio de colaboración Feve-AAFB para circulación de material histórico",
+   "Falta de control sobre el mantenimiento y estado real del vehículo histórico tras la autorización inicial",
+   "Acceso libre al taller donde se custodia el vehículo"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 2,
+  "danos_materiales": "Automotor: parte frontal del bogíe portador incrustada en chasis, tuberías neumáticas reventadas, pupitre destrozado, asientos arrancados. Infraestructura: topera de hormigón de la vía 29M arrancada de su emplazamiento.",
+  "afectacion_servicio": "No se produjo ninguna alteración del tráfico ferroviario"
+ },
+ "lecciones": [
+  "La decisión del Jefe de Circulación de encaminar el tren sin frenos a la vía 29M (la más larga y que no comprometía otros trenes) fue la más correcta.",
+  "El freno de mano tipo husillo resultó inútil porque las timonerías no estaban conectadas a los tirantes, evidenciando manipulación no controlada del vehículo.",
+  "La ausencia de emisora de radio en el vehículo dificultó las comunicaciones de emergencia (dependencia de teléfono móvil, primer intento fallido)."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "deriva",
+  "pérdida de frenos",
+  "vehículo histórico",
+  "automotor billard",
+  "colisión con topera",
+  "balmaseda mercancías",
+  "feve",
+  "bloqueo telefónico",
+  "asociación amigos del ferrocarril",
+  "freno de mano",
+  "avería motor diesel",
+  "mantenimiento material histórico"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-250908-190509-CIAF_Balmaseda Mercancías"
+}

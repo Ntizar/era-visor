@@ -1,0 +1,105 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de media distancia en plena vía de la línea 440 (Sevilla)",
+ "idioma_original": "es",
+ "resumen": "El 24 de mayo de 2008, a las 19:52 horas, el tren de viajeros de media distancia 13049 de Renfe Operadora arrolló a una persona que caminaba por la vía en el P.K. 24,900 de la línea 440 Majarabique Estación-Huelva Término, en la provincia de Sevilla. La víctima, un varón de 42 años que portaba una placa identificativa de sordomudo, falleció en el lugar. El maquinista advirtió a la persona con el silbato y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. El informe concluye que el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado.",
+ "hechos": "El día 24 de mayo de 2008, a las 19:52 horas, el tren de viajeros de media distancia 13049, de Renfe Operadora, formado por el automotor 470008 de tres coches y con una masa remolcada de 164 toneladas, circulaba por el punto kilométrico 24,900 de la línea 440 Majarabique Estación-Huelva Término, en plena vía, antes de llegar a la estación de Aznalcázar Pilas, en la provincia de Sevilla. El tren arrolló a una persona que caminaba por la vía de espaldas a la marcha del tren, por el lado derecho en el sentido de la circulación, sin percatarse de la aproximación del convoy.\n\nEl maquinista observó a la persona caminando por las traviesas del hilo derecho del carril, hizo uso del silbato y aplicó inmediatamente el freno de emergencia, pero no pudo evitar el arrollamiento. Según la declaración del maquinista, dos personas cercanas al punto fueron testigos presenciales de las señales acústicas emitidas para avisar a la víctima. Tras el suceso, el tren quedó detenido y el maquinista comunicó el incidente al Puesto de Mando de Sevilla, desde donde se activó el aviso a los servicios de emergencia.\n\nLos servicios de emergencia se personaron a las 20:00 horas y confirmaron el fallecimiento de la víctima, un varón de 42 años que, según una placa identificativa, era sordomudo. A las 20:17 horas se autorizó al tren a continuar su marcha, quedando el cadáver custodiado por la Guardia Civil, y se estableció circulación a marcha a la vista con limitación de 5 km/h en los puntos kilométricos 24,850 y 24,950. La circulación normal en toda la línea se reanudó a las 22:30 horas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Aznalcázar Pilas",
+  "pk": "24,900",
+  "linea": "440 Majarabique Estación-Huelva Término",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Plena vía, en el P.K. 24,900 de la línea 440 Majarabique Estación-Huelva Término, trayecto Aznalcázar Pilas-Villanueva del Ariscal, antes de llegar a la estación de Aznalcázar Pilas, en Sevilla."
+ },
+ "cronologia": [
+  {
+   "hora": "19:52",
+   "evento": "El tren de media distancia 13049 arrolla a una persona en el P.K. 24,900 de la línea 440."
+  },
+  {
+   "hora": "20:00",
+   "evento": "Los servicios de emergencia se personan en el lugar y confirman el fallecimiento de la víctima."
+  },
+  {
+   "hora": "20:17",
+   "evento": "El Puesto de Mando de Sevilla autoriza al tren 13049 a continuar su marcha y establece circulación a marcha a la vista con limitación de 5 km/h en los P.K. 24,850 y 24,950."
+  },
+  {
+   "hora": "20:45",
+   "evento": "La Policía Judicial se presenta en el lugar del accidente."
+  },
+  {
+   "hora": "22:20",
+   "evento": "La autoridad judicial autoriza el levantamiento del cadáver."
+  },
+  {
+   "hora": "22:30",
+   "evento": "Se reanuda la circulación normal en toda la línea."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13049",
+   "tipo": "Tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 13049",
+   "implicacion": "Conducía el tren, observó a la persona caminando por la vía, usó el silbato y aplicó el freno de emergencia sin poder evitar el arrollamiento. Su actuación fue considerada correcta; la prueba de alcoholemia dio resultado negativo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "90 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Perfil llano y alineación recta, con buena visibilidad.",
+  "otro": "Bloqueo de liberación automática (B.L.A.U.), control de tráfico centralizado (C.T.C.) y radiotelefonía canal 61."
+ },
+ "material_rodante": {
+  "series": "Automotor 470008, matrícula UIC 9671947000084, formado por 3 coches, con masa remolcada de 164 Tm.",
+  "averia": "Ninguna; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Era de día y las condiciones atmosféricas eran buenas.",
+ "causas": {
+  "directa": "El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello.",
+  "contribuyentes": [
+   "La víctima era sordomuda, lo que pudo impedirle percibir las señales acústicas del tren."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+  "afectacion_servicio": "La circulación normal por la línea estuvo suspendida durante 2 horas y 38 minutos: 25 minutos con la vía interceptada y 2 horas y 13 minutos circulando a marcha a la vista. El tren implicado sufrió un retraso de 17 minutos y otro tren de media distancia sufrió un retraso de 14 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Fomentar campañas de educación y concienciación ciudadana sobre la importancia de no transitar por las instalaciones ferroviarias no autorizadas para ello.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "plena vía",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "línea 440",
+  "sevilla",
+  "sordomudo",
+  "seguridad ferroviaria",
+  "concienciación ciudadana"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240508-2-300908-CIAF_Majarabique Estación-Huelva Término"
+}

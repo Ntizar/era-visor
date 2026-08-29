@@ -1,0 +1,159 @@
+{
+ "titulo_normalizado": "Colisión y descarrilamiento durante maniobras en la terminal de contenedores de Silla (Valencia)",
+ "idioma_original": "es",
+ "resumen": "El 8 de abril de 2010, a las 11:25 horas, durante maniobras en la terminal de contenedores de Silla (Valencia), un tractor de maniobras de Renfe Operadora empujó un corte de 9 vagones plataforma contra otro corte de 27 vagones estacionados en la vía 17. La colisión causó la muerte de un agente de maniobras que se encontraba entre los topes y el descarrilamiento de dos vagones, además de daños en tres vagones. La investigación atribuye el suceso al incumplimiento de los artículos 615 (puntos 4 y 8) y 605 (punto 3) del R.G.C. y a la situación inadecuada del agente fallecido conforme al POP/20. Se recomendó reforzar la formación en el cumplimiento normativo y operativo.",
+ "hechos": "El día 8 de abril de 2010, a las 11:25 horas, se realizaban maniobras en la terminal de contenedores de Silla (Valencia), en la línea 300 Madrid Chamartín – Valencia Estació del Nord. Con la locomotora de maniobras 310051 de Renfe Operadora se empujaba un corte de 9 vagones plataforma vacíos (8 MMC3 y 1 MC3) para acoplarlo a otro corte de 27 vagones plataforma (MC3) estacionados en la vía 17.\n\nLa maniobra pretendía dejar el primer vagón del corte en la vía 17 y luego salir con los 8 restantes para estacionarlos en la vía 16. El corte de 185 m salió hasta la vía mango y, tras librar el cambio nº 52, se estableció itinerario sobre vía 17. El retroceso se realizó empujando a una velocidad continuada de entre 12 y 14 km/h.\n\nEl agente de maniobras fallecido se encontraba dentro de la caja de la vía 17, entre los topes de la plataforma más próxima al corte que se aproximaba. El otro agente de maniobras estaba en el cambio nº 62, a 122 metros. El primer vagón del corte en maniobra colisionó tras recorrer 168 metros y a 14 km/h con el primer vagón estacionado, quedando el agente atrapado entre ambos.\n\nComo resultado, el primer vagón descarriló de sus dos ejes y quedó encaballado sobre el corte estacionado, mientras que el segundo vagón descarriló de un eje. Se produjeron daños en tres vagones y murió un operario de 47 años.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Terminal de contenedores de Silla",
+  "pk": null,
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Vía 17 del haz de vías de formación de trenes en la terminal de contenedores de Silla; alineación curva; desvíos accionados manualmente por marmita."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "El 2009-03-31, el presidente de la CIAF designó como técnico responsable de la investigación a un técnico investigador integrado en la Secretaría de la CIAF."
+  },
+  {
+   "hora": "11:25",
+   "evento": "El 2010-04-08, durante maniobras en la terminal de contenedores de Silla, un corte de 9 vagones colisiona con material estacionado en vía 17; fallece un agente de maniobras y descarrilan 2 vagones."
+  },
+  {
+   "hora": "12:40",
+   "evento": "El 2010-04-08, el jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF, por telefonía móvil, la producción del suceso."
+  },
+  {
+   "hora": "12:45",
+   "evento": "El 2010-04-08, se realiza prueba de alcoholemia al responsable de circulación, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "13:15",
+   "evento": "El 2010-04-08, se realiza prueba de alcoholemia al ayudante ferroviario auxiliar de operaciones del tren, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "14:50",
+   "evento": "El 2010-04-08, se realiza prueba de alcoholemia al operador del vehículo de maniobras, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "17:20",
+   "evento": "El 2010-04-08, queda autorizada la entrada de trenes al centro logístico de Silla."
+  },
+  {
+   "hora": null,
+   "evento": "El 2010-04-27, en pleno de la CIAF, se resuelve abrir la investigación de este accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 2010-05-12, el gerente territorial de Adif en la zona de Levante entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "El 2010-06-11, el jefe de gabinete de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "El 2010-12-28 se firma el informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "310051",
+   "tipo": "tractor de maniobras",
+   "operador": "Renfe Operadora",
+   "danos": null
+  },
+  {
+   "numero": null,
+   "tipo": "corte de 9 vagones plataforma (8 MMC3 + 1 MC3)",
+   "operador": null,
+   "danos": "Descarrilamiento de 2 vagones y daños en otro vagón más."
+  },
+  {
+   "numero": null,
+   "tipo": "corte de 27 vagones plataforma (MC3) estacionado en vía 17",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "responsable de circulación (factor de circulación)",
+   "implicacion": "Intervino en la maniobra; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "agente de conducción del vehículo de maniobra / maquinista del tractor 310051",
+   "implicacion": "Conducía el tractor; no tenía visión directa del agente accidentado; ejecutó el retroceso a 12-14 km/h; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "ayudante ferroviario auxiliar de operaciones del tren (agente de maniobras superviviente)",
+   "implicacion": "Intervino en la maniobra; estaba en el cambio nº 62; veía al agente accidentado; no dio orden ni señal de alto; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "ayudante ferroviario auxiliar de operaciones del tren (agente de maniobras fallecido)",
+   "implicacion": "Ordenó el retroceso sobre vía 17; se encontraba entre los topes; falleció en la colisión."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "haz de vías de formación de trenes; vía 17",
+  "velocidad_maxima": "20 km/h si empuja; 30 km/h si tira",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Alineación curva; instalaciones funcionaban correctamente.",
+  "otro": "Desvíos accionados manualmente por marmita; comunicación por 2 radioteléfonos y equipo tren-tierra modalidad C (canal 8); no existía grabadora para las conversaciones por radiotelefonía en el centro logístico de Silla."
+ },
+ "material_rodante": {
+  "series": "tractor de maniobras 310051; vehículo de maniobra con matrícula 8667396; vagones plataforma MMC3 y MC3",
+  "averia": null,
+  "mantenimiento": "Revisiones de mantenimiento dentro de plazo; parámetros de rodadura y altura de topes dentro de límites."
+ },
+ "clima": "día soleado",
+ "causas": {
+  "directa": "La colisión y el descarrilamiento se produjeron por realizarse la maniobra sin cumplir los artículos 615 (puntos 4 y 8) y 605 (punto 3) del R.G.C.; el arrollamiento del agente fallecido se produjo por encontrarse en un lugar inadecuado según el POP/20 (punto 7).",
+  "contribuyentes": [
+   "La comunicación no fue continuada ni permanente durante la aproximación.",
+   "No se informó al personal de conducción de las distancias existentes entre los cortes de material.",
+   "En la locomotora no se recibió comunicación alguna desde que se inició el retroceso hasta el topetazo, transcurriendo casi un minuto.",
+   "No se realizó ninguna detención inmediata en ese periodo.",
+   "La velocidad en el momento de unir topes era excesiva (14 km/h).",
+   "La visibilidad del maquinista era reducida por conducir desde la parte trasera de la composición, con morro largo y en trazado curvo.",
+   "El agente fallecido se encontraba entre los topes en un lugar inadecuado."
+  ],
+  "sistemicas": [
+   "No existía grabadora para las conversaciones por radiotelefonía en el centro logístico de Silla.",
+   "Incumplimiento de las normas del R.G.C. y del procedimiento operativo de prevención POP/20."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Descarrilamiento de 2 vagones plataforma (2 ejes del primer vagón y 1 eje del segundo vagón); daños en 3 vagones; primer vagón encaballado sobre el corte estacionado.",
+  "afectacion_servicio": "Quedaron interrumpidas las operaciones de entrada y salida de trenes al centro logístico y los movimientos a las vías 15 a 18; a las 17:20 horas quedó autorizada la entrada de trenes."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir, mediante acciones formativas dirigidas tanto al personal de conducción como a los agentes de maniobras, en el estricto cumplimiento de las normas recogidas en el R.G.C. y en el procedimiento operativo de prevención POP/20 de Adif.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "maniobras",
+  "terminal de contenedores",
+  "colisión",
+  "descarrilamiento",
+  "vagón plataforma",
+  "agente fallecido",
+  "rgc",
+  "pop/20",
+  "velocidad excesiva",
+  "visibilidad reducida",
+  "comunicación no continua",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-080410-281210-CIAF"
+}

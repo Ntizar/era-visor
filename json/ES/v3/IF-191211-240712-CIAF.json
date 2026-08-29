@@ -1,0 +1,208 @@
+{
+ "titulo_normalizado": "Incidente por conexión cruzada de conectores de agujas 9 y 27 en la estación de Madrid Chamartín",
+ "idioma_original": "es",
+ "resumen": "El 19 de diciembre de 2011, tras trabajos de mantenimiento nocturnos en los módulos de mando de agujas del enclavamiento de Madrid Chamartín, se cruzaron los conectores de los cambios 9 y 27. Esto provocó que tres trenes de cercanías de Renfe Operadora (20204, 20004 y 20207) recibieran indicaciones de señalización discordantes con la posición real de las agujas. No se produjeron víctimas ni daños materiales, pero se interrumpió la circulación por el Túnel de Sol durante casi tres horas, afectando a 90 trenes con un retraso acumulado de 1.171 minutos.",
+ "hechos": "La noche del 18 al 19 de diciembre de 2011, entre las 00:30 y las 04:30 horas, personal de Alstom, bajo la coordinación del encargado de instalaciones de Adif, realizó trabajos de mantenimiento consistentes en el cambio de chapas de los módulos de agujas por otras agujereadas para evitar sobrecalentamiento. Para ello fue preciso desconectar los módulos de mando de agujas 9 y 27. Al reconectarlos, los conectores de campo de ambos cambios quedaron cruzados, de forma que la comprobación y el mando del cambio 9 en el enclavamiento correspondían al cambio 27 y viceversa. No se realizaron pruebas de concordancia en el terreno.\n\nA las 05:29 horas, el tren de cercanías 20204 (Chamartín-Parla) salió de vía 4 con itinerario hacia vía II y señal S2/4 en vía libre. El maquinista, al aproximarse a la aguja 27, observó que la señal indicadora IA27 no coincidía con la posición real de la aguja y detuvo el tren antes de talonar. Se le ordenó retroceder a vía 4; al reexpedir el tren se reprodujo la misma discordancia. A las 06:05 horas, el tren 20004 (Chamartín-Aranjuez) salió de vía 5 y el maquinista detectó la misma discordancia en la aguja 27, siendo ordenado retroceder. A las 06:14 horas, el tren 20207 (Parla-Alcobendas) entraba por vía I; un operario de Adif le detuvo con señal de parada a mano antes de que talonara la aguja 27. El tren retrocedió a Nuevos Ministerios.\n\nSe interrumpió la circulación entre Atocha y Chamartín por el Túnel de Sol, desviándose los trenes por el Túnel de Recoletos. A las 08:15 horas se restableció el tráfico. A las 11:45 horas se volvió a interrumpir por un fallo de comunicaciones en el Túnel de Sol, restableciéndose a las 14:00 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Madrid Chamartín",
+  "pk": "PK 0+482 (aguja 27) / PK 0+635 (aguja 9)",
+  "linea": "900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Lado Túnel de Sol de la estación de Madrid Chamartín, tramo entre Madrid-Chamartín y Madrid-Atocha Cercanías"
+ },
+ "cronologia": [
+  {
+   "hora": "00:30",
+   "evento": "Inicio de trabajos de mantenimiento nocturnos en módulos de mando de agujas (previa autorización del CTC)"
+  },
+  {
+   "hora": "01:02",
+   "evento": "El encargado de trabajos solicita al jefe de circulación CTC los grupos de agujas 9 y 27 para trabajos de mantenimiento"
+  },
+  {
+   "hora": "01:25",
+   "evento": "El encargado de trabajos comunica al CTC que han acabado con las agujas 9 y 27 y que tras comprobación concluyen que funcionan bien"
+  },
+  {
+   "hora": "04:30",
+   "evento": "Fin de los trabajos de mantenimiento"
+  },
+  {
+   "hora": "05:28",
+   "evento": "Se establece itinerario de salida para tren 20204 desde vía 4 sobre vía II, señal S2/4 vía libre"
+  },
+  {
+   "hora": "05:29",
+   "evento": "Maquinista del tren 20204 detecta discordancia entre señal indicadora IA27 y posición real de aguja 27; detiene el tren"
+  },
+  {
+   "hora": "05:30",
+   "evento": "Tren 20204 detenido delante de la aguja 27; el PM ordena retroceso a vía 4"
+  },
+  {
+   "hora": "05:42",
+   "evento": "Tren 20204 reanuda marcha; se reproduce la misma discordancia; nueva detención"
+  },
+  {
+   "hora": "06:04",
+   "evento": "Se establece itinerario de salida para tren 20004 de vía 5; tren 20204 vuelve a estacionarse en vía 4"
+  },
+  {
+   "hora": "06:05",
+   "evento": "Maquinista del tren 20004 detecta discordancia en aguja 27; PM ordena retroceso a vía 5"
+  },
+  {
+   "hora": "06:14",
+   "evento": "Se establece itinerario de entrada para tren 20207 por vía I; señal E1 en anuncio de parada"
+  },
+  {
+   "hora": "06:15",
+   "evento": "Operario de Adif detiene tren 20207 con señal de parada a mano antes de talonar aguja 27"
+  },
+  {
+   "hora": "06:50",
+   "evento": "Evacuación de viajeros del tren 20207"
+  },
+  {
+   "hora": "07:52",
+   "evento": "Tren 20207 sale como M182 hacia Nuevos Ministerios"
+  },
+  {
+   "hora": "08:15",
+   "evento": "Se restablece la circulación en condiciones normales por el Túnel de Sol"
+  },
+  {
+   "hora": "09:00",
+   "evento": "El Secretario General de Transportes comunica telefónicamente a la CIAF la producción del suceso"
+  },
+  {
+   "hora": "11:45",
+   "evento": "Nueva interrupción del tráfico por el Túnel de Sol (fallo de comunicaciones); desvío por Túnel de Recoletos"
+  },
+  {
+   "hora": "14:00",
+   "evento": "Restablecimiento de las condiciones normales de circulación tras el segundo incidente"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "20204",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  },
+  {
+   "numero": "20004",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  },
+  {
+   "numero": "20207",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe del CTC de Madrid Chamartín (matrícula 9749615)",
+   "implicacion": "Autorizó los trabajos verbalmente; no observó nada anormal tras la finalización; fue informado de la incidencia por el compañero del Túnel de Sol"
+  },
+  {
+   "rol": "Jefe del CTC de Madrid Chamartín-Túnel Sol (matrícula 9751702)",
+   "implicacion": "Autorizó los trabajos verbalmente; fue informado de la incidencia por el maquinista del tren 20204"
+  },
+  {
+   "rol": "Encargado de los trabajos de Adif (matrícula 9729369)",
+   "implicacion": "Coordinó los trabajos; realizó pruebas desde la cabina sin comprobación en campo; las comunicaciones con el CTC fueron verbales sin telefonemas"
+  },
+  {
+   "rol": "Encargado de los trabajos de Alstom",
+   "implicacion": "Ejecutó los trabajos de cambio de chapas; observó que los conectores carecían de etiqueta de identificación; no se previó agente de campo"
+  },
+  {
+   "rol": "Maquinista del tren 20204 (matrícula 8005951)",
+   "implicacion": "Detectó la discordancia señal/aguja y detuvo el tren evitando el talonamiento"
+  },
+  {
+   "rol": "Maquinista del tren 20004 (matrícula 9752551)",
+   "implicacion": "Detectó la discordancia y detuvo el tren; el PM le ordenó retroceder"
+  },
+  {
+   "rol": "Maquinista del tren 20207 (matrícula 78800964)",
+   "implicacion": "Detenido por operario de Adif antes de talonar; observó que el cambio estaba invertido"
+  },
+  {
+   "rol": "Operario de Adif de instalaciones eléctricas de seguridad",
+   "implicacion": "Detuvo el tren 20207 con señal de parada a mano evitando el talonamiento de la aguja 27"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico Alstom con CTC; señales de salida S2/4 y S2/5; señal de entrada E1; señales indicadoras IA27; balizas de pie de señal",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "120 km/h (trenes tipo 120A)",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Correcto; bloqueo automático banalizado (BAB) con CTC",
+  "otro": "Radiotefonía en modalidad A; media semanal de 2.875 circulaciones en el tramo (muy alta); tramo de 3ª categoría según art. 271 RGC"
+ },
+ "material_rodante": {
+  "series": "UT 465015/39 (tren 20204), UT 465043/084 (tren 20004), UT 465044/002 (tren 20207). Tipo 120A, 10 coches, 432-435 toneladas",
+  "averia": "Ninguna; los equipos de seguridad funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Noche, sin condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo humano: conexión incorrecta (cruzamiento) de los conectores de los motores de las agujas nº 9 y nº 27 al módulo de mando de agujas del enclavamiento, de forma que la comprobación y el mando del cambio 9 correspondían en campo al cambio 27 y viceversa",
+  "contribuyentes": [
+   "Ausencia de etiquetas de identificación en los conectores",
+   "Falta de una conexión individualizada (sistema mecánico diferenciado) para cada conector",
+   "Longitud de cable idéntica para ambos conectores, permitiendo el cruce",
+   "No se previó agente de campo durante los trabajos (solo desconexión y reconexión, no sustitución del módulo)"
+  ],
+  "sistemicas": [
+   "No se realizaron pruebas de concordancia en el terreno una vez finalizados los trabajos (causa subyacente)",
+   "Las comunicaciones entre el encargado de trabajos y el CTC fueron verbales, sin telefonemas conforme al artículo 271 del RGC",
+   "El Puesto de Mando de Madrid Chamartín no avisó a Seguridad en la Circulación con los primeros trenes afectados",
+   "Los trabajos no estaban recogidos en ficha o manual de procedimientos (solución puntual de mantenimiento)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños en material rodante ni en infraestructura",
+  "afectacion_servicio": "Interrupción total (vías I y II) entre Madrid Atocha y Madrid Chamartín por el Túnel de Sol desde las 05:29 hasta las 08:15 (2 h 46 min), desviando por Túnel de Recoletos. Segunda interrupción de 11:45 a 14:00 (2 h 15 min) por fallo de comunicaciones. 90 trenes afectados con 1.171 minutos de retraso acumulado (5 LD: 137 min, 7 MD: 124 min, 78 cercanías: 910 min). 1 tren de cercanías suprimido."
+ },
+ "lecciones": [
+  "Tras cualquier intervención que implique desconexión de conectores de enclavamiento, es imprescindible realizar pruebas de concordancia en el terreno (moviola CTC, mando local y posición real de la aguja)",
+  "Los conectores deben estar etiquetados, individualizados y con longitudes de cable diferenciadas para impedir conexiones cruzadas",
+  "Las comunicaciones para autorización y finalización de trabajos de instalaciones de seguridad deben realizarse conforme al artículo 271 del RGC (telefonemas), no verbalmente",
+  "La detección temprana por parte de los maquinistas de discordancias señal/aguja evitó un talonamiento con consecuencias potencialmente graves",
+  "La codificación mecánica de los conectores es una medida preventiva eficaz frente a errores de conexión"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Que se extienda a los encargados de trabajos del resto de la red la sesión de formación y reciclaje impartida al encargado de Chamartín",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "conexión cruzada de conectores",
+  "enclavamiento electrónico",
+  "mantenimiento de agujas",
+  "discordancia señal-aguja",
+  "fallo humano",
+  "pruebas de concordancia en campo",
+  "cercanías",
+  "túnel de sol",
+  "madrid chamartín",
+  "renfe operadora",
+  "alstom",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-191211-240712-CIAF"
+}

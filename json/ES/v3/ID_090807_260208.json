@@ -1,0 +1,158 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en paso a nivel de Ciaño, Langreo (Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 9 de agosto de 2007, el tren de Cercanías 22236, formado por el autopropulsado 440241, arrolló a una persona en el paso a nivel clase C del pk 19/338, junto al Apeadero de Ciaño, en Langreo (Asturias). La víctima cruzó por el paso peatonal con las semibarreras bajadas y las señales acústicas y luminosas funcionando. El maquinista usó el silbato y el freno de urgencia, pero el arrollamiento fue inevitable y la persona falleció. No hubo daños materiales, aunque se produjeron retrasos en varios trenes y la supresión de uno.",
+ "hechos": "El tren de Cercanías 22236, formado por el autopropulsado 440241 y con recorrido Oviedo–El Entrego, circulaba por la línea Soto de Rey a El Entrego. A las 20:28 detuvo su marcha en el km 19/440 tras haber arrollado a una persona en el paso a nivel clase C del km 19/338, situado al final del Apeadero de Ciaño, en el trayecto entre Sama y El Entrego.\n\nLa persona circulaba por el paso peatonal del paso a nivel de izquierda a derecha, en el sentido de la línea y de la marcha del tren, con las semibarreras bajadas y las señales acústicas y luminosas para carretera y peatones funcionando correctamente. El maquinista observó a una persona que intentaba cruzar, hizo uso insistente del silbato y aplicó el freno de urgencia, sin poder evitar el arrollamiento. El tren quedó detenido unos 50 metros más adelante del paso a nivel.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Apeadero de Ciaño",
+  "pk": "19/338",
+  "linea": "Soto de Rey a El Entrego",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Paso a nivel clase C situado al final del Apeadero de Ciaño, lado El Entrego, entre las estaciones de Sama y El Entrego, en el municipio de Langreo. El camino que cruza la vía es la calle Camino de la Iglesia de San Esteban de Ciaño, en zona urbana, en una recta de 635 metros y en rampa de 7,50‰."
+ },
+ "cronologia": [
+  {
+   "hora": "20:27",
+   "evento": "El vigilante de seguridad observa, desde el interior del tren, que el maquinista avisa mediante señales acústicas más de lo normal y acciona el freno de emergencia antes de la estación de Ciaño."
+  },
+  {
+   "hora": "20:28",
+   "evento": "El tren de Cercanías 22236 detiene su marcha en el km 19/440 tras arrollar a una persona en el paso a nivel del km 19/338."
+  },
+  {
+   "hora": "20:37",
+   "evento": "Efectivos del SAMUR certifican el fallecimiento de la persona arrollada."
+  },
+  {
+   "hora": "20:49",
+   "evento": "Agentes de la Policía Nacional permiten reanudar la marcha del tren y el Puesto de Mando de Oviedo autoriza reanudar la marcha del tren 22236."
+  },
+  {
+   "hora": "22:05",
+   "evento": "Se procede al levantamiento del cadáver y se restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "22236",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños en el tren; retraso de 21 minutos."
+  },
+  {
+   "numero": "22046",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 6 minutos."
+  },
+  {
+   "numero": "22051",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 6 minutos."
+  },
+  {
+   "numero": "22227",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 30 minutos."
+  },
+  {
+   "numero": "22228",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Tren suprimido."
+  },
+  {
+   "numero": "22229",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 3 minutos."
+  },
+  {
+   "numero": "22230",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 15 minutos."
+  },
+  {
+   "numero": "22359",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Retraso de 6 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal de Cercanías – Renfe Operadora",
+   "implicacion": "Conducía el tren 22236. Matrícula 8.907.263. Jornada efectiva el día del accidente: 3 horas; jornada 24 horas anteriores: 6 horas; jornada 48 horas anteriores: descanso. Usó el silbato y aplicó el freno de urgencia. Prueba de alcohol en aire espirado negativa: 0,00 mg/1000 ml."
+  },
+  {
+   "rol": "Vigilante de Seguridad, Securitas – Delegación de Asturias",
+   "implicacion": "Testigo de los hechos. Observó la actuación del maquinista y quedó custodiando el cuerpo hasta la llegada de la Policía Nacional."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel protegido por semibarreras automáticas y señalización acústica y luminosa a la carretera y a los peatones. Dispone de dos pasos peatonales con señales luminosas peatonales que lucen en rojo al detectarse la aproximación de los trenes. Tiene señales reglamentarias de “Silbar” en la vía a 250 y 500 metros por ambos lados, pero carece de varias de las otras señales de carretera prescritas por la O.M. 2/08/01.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "75 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Recta de 635 metros, rampa de 7,50‰, zona urbana. No se produjeron daños en la vía ni en las instalaciones.",
+  "otro": "Bloqueo Automático de Vía Única con control de tráfico centralizado. Visibilidad por el lado izquierdo de la vía, dirección Soto de Rey, de 500 metros, medida a 2 metros del carril más próximo desde el paso peatonal situado al principio del paso a nivel."
+ },
+ "material_rodante": {
+  "series": "Autopropulsado 440241",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado y visibilidad atmosférica buena.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del paso a nivel.",
+  "contribuyentes": [
+   "El paso a nivel carecía de varias señales de carretera que prescribe la O.M. 2/08/01."
+  ],
+  "sistemicas": [
+   "El paso a nivel urbano estaba incluido en un estudio de supresión de pasos a nivel de muy difícil eliminación, dentro del estudio de viabilidad de la integración ferroviaria de RENFE y FEVE en la comarca del Nalón."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el tren, en la vía ni en las instalaciones.",
+  "afectacion_servicio": "Retrasos en trenes de Cercanías: 22236, 21 minutos; 22046, 6 minutos; 22051, 6 minutos; 22227, 30 minutos; 22229, 3 minutos; 22230, 15 minutos; 22359, 6 minutos. El tren 22228 fue suprimido. La circulación se restableció en condiciones normales a las 22:05."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Acelerar los trámites para hacer efectiva cuanto antes la eliminación del paso a nivel, dado que se encuentra en marcha el estudio de supresión de este paso a nivel dentro del estudio especial para la supresión de pasos a nivel de muy difícil eliminación y difícil supresión en zona urbana.",
+   "destinatario": null
+  },
+  {
+   "texto": "Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01.",
+   "destinatario": "Ayuntamiento de Langreo"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril y en el correcto uso de las zonas de paso.",
+   "destinatario": "Ciudadanía"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "paso a nivel",
+  "cercanías",
+  "langreo",
+  "asturias",
+  "semibarreras",
+  "imprudencia",
+  "autopropulsado",
+  "fallecido",
+  "señalización",
+  "supresión"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_090807_260208"
+}

@@ -1,0 +1,154 @@
+{
+ "titulo_normalizado": "Conato de colisión por alcance entre trenes de mercancías 90602 y 82202 en la estación de Arévalo",
+ "idioma_original": "es",
+ "resumen": "El 15 de junio de 2012, a las 07:17 horas, se produjo un conato de colisión por alcance entre los trenes de mercancías 90602 y 82202 de Renfe Operadora en la estación de Arévalo y el trayecto hacia Sanchidrián. Ambos trenes accedieron al mismo cantón mientras estaba establecido bloqueo telefónico supletorio por trabajos en instalaciones de seguridad. El incidente se originó por un fallo humano del maquinista del 90602, que reanudó la marcha sin haber recibido la orden de marcha. No hubo víctimas ni daños materiales. Considerando adecuadas las medidas adoptadas, el informe no establece recomendaciones.",
+ "hechos": "El día 15 de junio de 2012, a las 07:17 horas, en la estación de Arévalo, lado Sanchidrián, de la línea 100 Madrid-Hendaya, se produjo un conato de colisión por alcance entre los trenes de mercancías 90602 y 82202, ambos de Renfe Operadora. Entre Arévalo y Sanchidrián estaba establecido bloqueo telefónico supletorio por trabajos en las instalaciones de seguridad, regulados por la Consigna serie ATO nº 18/CTO nº 48 de 04/06/2012.\n\nAl tren 90602 se le estableció itinerario de entrada a vía 4 para ser adelantado por el tren de viajeros 18000. El tren se detuvo ante la señal S2/4A y el jefe de circulación le entregó un boletín de autorización de rebase para avanzar hasta la señal S2/4, porque la longitud del tren no libraba por cola los circuitos de agujas 2, 12 y 18. Después el jefe elaboró y entregó el boletín de órdenes e informaciones correspondiente al BTS.\n\nEl tren 90602 inició la marcha sin itinerario de salida y sin haber recibido la orden de marcha, rebasó la señal S2/4 en parada y salió a vía general hacia Sanchidrián, donde circulaba el tren 82202 al amparo del BTS. El puesto de mando de Madrid detuvo al 90602 en el PK 169+893, a 798 metros de la señal S2/4, cuando el tren 82202 estaba a 15.090 metros. El 90602 fue autorizado a retroceder y quedó estacionado en vía 4 de Arévalo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Arévalo",
+  "pk": "169+893",
+  "linea": "100 Madrid - Hendaya",
+  "provincia": "Ávila",
+  "descripcion_lugar": "Lado Sanchidrián de la estación de Arévalo; el informe describe el lugar como plena vía entre Arévalo y Sanchidrián, con el tren 90602 detenido en el PK 169+893, a 798 metros de la señal S2/4."
+ },
+ "cronologia": [
+  {
+   "hora": "07:07",
+   "evento": "El tren 82202 sale al trayecto Arévalo-Sanchidrián al amparo del bloqueo telefónico supletorio."
+  },
+  {
+   "hora": "07:08",
+   "evento": "El tren 90602 ocupa el circuito E'2 con itinerario de entrada a vía 4, mientras el 82202 circula entre Arévalo y Sanchidrián."
+  },
+  {
+   "hora": "07:09",
+   "evento": "El tren 90602 pasa por la señal de entrada E2 en anuncio de parada y ocupa el circuito de agujas A2."
+  },
+  {
+   "hora": "07:13",
+   "evento": "Según el registrador de la locomotora del 90602, el tren se detiene ante la señal S2/4A."
+  },
+  {
+   "hora": "07:14",
+   "evento": "Según el enclavamiento, el 90602 está detenido ante S2/4A sin librar por cola los circuitos de agujas 2, 18 y 12."
+  },
+  {
+   "hora": "07:15",
+   "evento": "El 90602 rebasa la señal S2/4A en parada y, poco después, libera los circuitos de agujas sin itinerario de salida."
+  },
+  {
+   "hora": "07:16",
+   "evento": "Según el registrador de seguridad, el 90602 inicia la marcha y rebasa la señal S2/4A."
+  },
+  {
+   "hora": "07:17",
+   "evento": "El 90602 pasa por la señal de salida S2/4 en parada y sale a vía general hacia Sanchidrián; se produce el conato de colisión por alcance con el 82202."
+  },
+  {
+   "hora": "07:18",
+   "evento": "El puesto de mando de Madrid llama al 90602 y ordena su parada."
+  },
+  {
+   "hora": "07:19",
+   "evento": "El 90602 queda detenido en el PK 169+893; el jefe de circulación llama al PM y se coordina el retroceso."
+  },
+  {
+   "hora": "07:20",
+   "evento": "El PM comunica al jefe de circulación que ha detenido el 90602 y le pide que autorice el retroceso a vía 4."
+  },
+  {
+   "hora": "07:21",
+   "evento": "El jefe de circulación da telefonema para retroceder y el 90602 inicia el retroceso."
+  },
+  {
+   "hora": "07:23",
+   "evento": "Según el enclavamiento, el 90602 finaliza su estacionamiento en vía 4 de Arévalo."
+  },
+  {
+   "hora": "07:25",
+   "evento": "Según el registrador de seguridad, el 90602 queda estacionado en vía 4 de Arévalo."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "90602",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales"
+  },
+  {
+   "numero": "82202",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales"
+  },
+  {
+   "numero": "18000",
+   "tipo": "tren de viajeros",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe de circulación de Arévalo (Adif, matrícula 12317402)",
+   "implicacion": "Entregó el BAR y el BOI; según su declaración no dio la orden de marche el tren; llamó al PM para detener al 90602."
+  },
+  {
+   "rol": "Maquinista del tren 90602 (Renfe Operadora, matrícula 8831703)",
+   "implicacion": "Reanudó la marcha sin haber recibido la orden de marcha, según la conclusión del informe."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales E'2 en anuncio de precaución y E2 en anuncio de parada; señales bajas de 4 focos S2/4A (PK 170+912) y S2/4 (PK 170+691) en indicación de parada, no abrían por BTS.",
+  "tipo_via": "Vía doble electrificada de ancho convencional.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Estación en mando local; enclavamiento electrónico; bloqueo telefónico supletorio por trabajos en instalaciones de seguridad; señales de salida en parada.",
+  "otro": "Pendiente 4,1‰; radiotelefonía modalidad A y C; media semanal de circulaciones del tramo Ávila-Arévalo: 307; trabajos para implantar BAB con CTC; Consigna serie ATO nº 18/CTO nº 48 de 04/06/2012."
+ },
+ "material_rodante": {
+  "series": "Locomotora 253043 (Nº UIC 957102530434) del tren 90602; locomotora 253042 (Nº UIC 957102530426) del tren 82202; trenes tipo 100.",
+  "averia": "No se detectó avería; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "No existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren 90602 al reanudar la marcha sin haber recibido la orden de marcha, incumpliendo el artículo 432 del RGC.",
+  "contribuyentes": [
+   "Bloqueo telefónico supletorio por trabajos en instalaciones de seguridad.",
+   "Señales S2/4A y S2/4 en indicación de parada.",
+   "Ausencia de itinerario de salida al iniciar la marcha.",
+   "Entrega del BAR y del BOI sin que se recibiera la orden de marcha.",
+   "Mal entendimiento de las órdenes, según declaración del jefe de circulación.",
+   "El jefe de circulación no llevaba gorra ni banderín al entregar el BOI, según declaración del maquinista."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+  "afectacion_servicio": "No hubo minutos perdidos ni interceptación de la vía."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "conato de colisión por alcance",
+  "bloqueo telefónico supletorio",
+  "fallo humano",
+  "orden de marcha",
+  "renfe operadora",
+  "adif",
+  "estación de arévalo",
+  "línea 100",
+  "tren de mercancías",
+  "boletín de autorización de rebase",
+  "boletín de órdenes e informaciones",
+  "trabajos en instalaciones de seguridad"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_150612_290413_CIAF"
+}

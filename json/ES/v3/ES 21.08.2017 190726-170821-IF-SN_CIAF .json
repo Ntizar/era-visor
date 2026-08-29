@@ -1,0 +1,199 @@
+{
+ "titulo_normalizado": "Rebase de señal de entrada y conato de colisión en la estación de Lleida-Pirineus",
+ "idioma_original": "es",
+ "resumen": "El 21 de agosto de 2017, el tren de mercancías 90979 de Transitia Rail rebasó la señal de entrada nº11 en parada en la estación de Lleida-Pirineus. Circulaba en bloqueo telefónico supletorio por una avería en el enclavamiento de Puigverd-Artesa y no conocía la consigna ATO/CTO 17/17. Casi simultáneamente, el tren de media distancia 15622 de Renfe Viajeros salió desde la vía 5A con señal de salida en vía libre, produciéndose un conato de colisión a unos 50 metros. No hubo heridos ni daños materiales, aunque se registraron afectación y retrasos en la circulación.",
+ "hechos": "El día 21 de agosto de 2017, sobre las 08:51 horas, el tren de mercancías 90979 de Transitia Rail, con origen en Barcelona Casa Antúnez y destino Azuqueca de Henares, rebasó la señal de entrada nº11 de la estación de Lleida-Pirineus, situada en el p.k. 1+144, mientras la señal se encontraba en indicación de parada. En los días previos se había establecido bloqueo telefónico supletorio entre Juneda y Lleida-Pirineus por una avería en el enclavamiento de Puigverd-Artesa, regulado por la consigna ATO/CTO nº17/17. En Juneda, el maquinista recibió un BOI que indicaba el BTS y remitía a la consigna, pero la empresa no le había facilitado previamente la consigna.\n\nEl tren 90979 salió de Puigverd-Artesa, pasó la señal avanzada nº29 en indicación de parada, aplicó freno de servicio antes de la señal nº11 y la rebasó a 54 km/h. El maquinista liberó el freno y después actuó sobre la seta de emergencia, deteniéndose cerca de la aguja A1 sin talonarla, tras recorrer 316 metros desde la señal.\n\nDe forma casi simultánea, el tren 15622 de media distancia de Renfe Viajeros salió desde la vía 5A hacia Manresa con la señal de salida S2/5A en vía libre. Al observar al tren de mercancías, la maquinista ordenó parada con freno de servicio. Se produjo un conato de colisión al quedar enfrentados a unos 50 metros. No hubo víctimas ni daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Lleida-Pirineus",
+  "pk": "1+144",
+  "linea": "200 Madrid Chamartín-Barcelona Estación de Francia",
+  "provincia": "Lleida",
+  "descripcion_lugar": "Estación de Lleida-Pirineus, p.k. 1+144 de la línea 200, señal de entrada nº11, señal avanzada nº29, aguja A1 y vía 5A desde la que salió el tren 15622 hacia la línea 220."
+ },
+ "cronologia": [
+  {
+   "hora": "03:55",
+   "evento": "Salida del tren 90979 desde Barcelona Casa Antúnez."
+  },
+  {
+   "hora": "07:45",
+   "evento": "En Juneda, el responsable de circulación entrega al maquinista del tren 90979 el BOI nº126102 informando del BTS y remitiendo a la consigna ATO/CTO 17/17."
+  },
+  {
+   "hora": "08:37",
+   "evento": "El tren 90979 sale de la estación de Puigverd-Artesa con BTS establecido en ASFA y sin registro de paso por balizas."
+  },
+  {
+   "hora": "08:44",
+   "evento": "El tren 90979 alcanza 101 km/h."
+  },
+  {
+   "hora": "08:45",
+   "evento": "El tren 90979 pasa la señal avanzada nº29 a unos 96 km/h y aplica brevemente el freno de servicio."
+  },
+  {
+   "hora": "08:47",
+   "evento": "Según el registrador, a 689 metros de la señal nº11 y a 87 km/h se aplica el freno de servicio; a las 08:47 el tren rebasa la señal nº11 en parada a 54 km/h."
+  },
+  {
+   "hora": "08:48",
+   "evento": "Según el registrador, el tren 90979 aplica la seta de emergencia y queda detenido a 316 metros de la señal nº11; el responsable de circulación de Lleida informa al CTC del rebase."
+  },
+  {
+   "hora": "08:50",
+   "evento": "Según la moviola, el tren 15622 pasa la señal de salida S2/5A en vía libre y el tren 90979 rebasa la señal de entrada nº11 ocupando el circuito de vía 11."
+  },
+  {
+   "hora": "08:51",
+   "evento": "Hora oficial del suceso; el tren 90979 ocupa el circuito de agujas A1 y el tren 15622 el circuito de agujas A5, quedando enfrentados a unos 50 metros."
+  },
+  {
+   "hora": "08:51",
+   "evento": "El responsable de circulación de Lleida intenta ordenar parada inmediata por radiotelefonía en modalidad C, sin conseguirlo porque los trenes estaban en modalidad A."
+  },
+  {
+   "hora": "08:52",
+   "evento": "El responsable de circulación de Lleida habla por teléfono corporativo con la maquinista del tren 15622, quien confirma que ambos trenes están detenidos a 30-50 metros."
+  },
+  {
+   "hora": "08:54",
+   "evento": "El maquinista del tren 90979 llama al responsable de circulación de Lleida y se le autoriza a retroceder hasta la señal nº11."
+  },
+  {
+   "hora": "08:59",
+   "evento": "El tren 90979 retrocede hasta la señal de entrada nº11."
+  },
+  {
+   "hora": "09:00",
+   "evento": "Se reanuda la circulación normal en la estación de Lleida-Pirineus."
+  },
+  {
+   "hora": "09:02",
+   "evento": "El tren 15622 es expedido nuevamente con destino L'Hospitalet de Llobregat."
+  },
+  {
+   "hora": "10:08",
+   "evento": "Adif comunica el suceso a la CIAF mediante SMS."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "90979",
+   "tipo": "tren de mercancías; locomotora 335.007 y 17 vagones plataforma PMMC",
+   "operador": "Transitia Rail",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "15622",
+   "tipo": "tren de media distancia; autopropulsado 447024 de 3 vehículos",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 90979",
+   "implicacion": "Condujo el tren que rebasó la señal de entrada nº11; declaró que creyó que la señal nº11 era la avanzada; no conocía la consigna ATO/CTO 17/17; pruebas de alcohol, drogas y sustancias psicoactivas negativas."
+  },
+  {
+   "rol": "maquinista del tren 15622",
+   "implicacion": "Detectó la presencia del tren 90979 y ordenó parada con freno de servicio; estaba acompañada por tres becarios, conduciendo uno de ellos; pruebas tóxicas negativas."
+  },
+  {
+   "rol": "responsable de circulación de la estación de Lleida-Pirineus",
+   "implicacion": "Gestionó el mando local, notificó el rebase al CTC, intentó detener los trenes, autorizó el retroceso del 90979 y la reanudación del 15622; pruebas tóxicas negativas."
+  },
+  {
+   "rol": "auxiliar de circulación de la estación de Lleida-Pirineus",
+   "implicacion": "Dio la orden de marcha al tren 15622 antes del suceso."
+  },
+  {
+   "rol": "responsable de circulación de la estación de Juneda",
+   "implicacion": "Detuvo el tren 90979 y le entregó el BOI nº126102 con información sobre el BTS y referencia a la consigna."
+  },
+  {
+   "rol": "responsable de personal de conducción de Transitia Rail",
+   "implicacion": "No hizo llegar la consigna ATO/CTO 17/17 al personal de conducción hasta tres días después del suceso y no adoptó medidas ante el historial de rebases del maquinista."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada nº11 (p.k.1+144) alta de 4 focos, en parada; señal avanzada nº29 (p.k.3+181) alta de 3 focos, en parada por BTS; señal de salida S2/5A en vía libre; balizas ASFA previa y de pie de señal.",
+  "tipo_via": "Línea 200: vía única electrificada de ancho ibérico con BAU y CTC; estación con 6 vías de ancho ibérico; línea 220: vía única electrificada con bloqueo eléctrico manual; línea 206: vía única sin electrificar con bloqueo telefónico; línea 050: ancho internacional.",
+  "velocidad_maxima": "95 km/h de paso para trenes tipo normal en proximidades; tren 90979 tipo 100; tren 15622 tipo 120 A.",
+  "ancho": "ibérico; también confluye ancho internacional en línea 050.",
+  "electrificacion": "Electrificada en líneas 200 y 220; línea 206 sin electrificar.",
+  "estado_via": "Sin obras; tramo en curva de radio 870 m; perfil horizontal y rampa de 11,9 milésimas; agujas motorizadas con cerrojo mecánico tipo uña.",
+  "otro": "BTS entre Juneda y Lleida-Pirineus por avería en enclavamiento de Puigverd-Artesa; ASFA dejó de reconocer balizas durante BTS; consigna ATO/CTO 17/17 vigente desde 18-08-2017."
+ },
+ "material_rodante": {
+  "series": "90979: locomotora 335.007 (UIC 957103350071) y 17 vagones plataforma PMMC; 15622: autopropulsado 447024, serie 447.",
+  "averia": "No se detectó avería; equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": "No se indica; al hacerse cargo del vehículo los dispositivos de seguridad circulaban correctamente."
+ },
+ "clima": "Buenas condiciones meteorológicas y luz de día.",
+ "causas": {
+  "directa": "No cumplir el personal de conducción la orden de parada de la señal de entrada nº11.",
+  "contribuyentes": [
+   "Falta de atención por parte del personal de conducción.",
+   "La empresa ferroviaria no facilitó al maquinista la información de la consigna ATO/CTO 17/17 que establecía las condiciones de circulación.",
+   "Establecimiento del bloqueo telefónico supletorio por avería en las instalaciones, prolongado en el tiempo y con ASFA fuera de servicio.",
+   "Circulación en condiciones no ordinarias con señales apagadas y con la señal avanzada nº29 indicando parada.",
+   "Posible confusión entre la señal avanzada nº29 y la señal de entrada nº11.",
+   "Denominación no habitual de las señales avanzada y de entrada en la zona afectada.",
+   "Posible fatiga del maquinista, al llevar al menos 12 horas sin descanso efectivo.",
+   "Secuencia inadecuada de frenado: freno de servicio, rebase, liberación del freno y posterior seta de emergencia.",
+   "Historial de rebases de señal del maquinista del tren 90979.",
+   "Rebase anterior en la misma señal de entrada nº11 tres días antes."
+  ],
+  "sistemicas": [
+   "Deficiencias e incumplimientos del SGS de Transitia Rail en el seguimiento de las labores profesionales del personal de conducción.",
+   "Deficiencias e incumplimientos del SGS de Transitia Rail en la comunicación de documentos de trabajo al personal de conducción.",
+   "Procedimientos inadecuados para actuar ante reiterados incumplimientos normativos del personal de conducción.",
+   "La consigna no consideró la duración prevista de la incidencia en el enclavamiento de Puigverd-Artesa.",
+   "Denominación de señales de entrada y avanzada no conforme a la NAG 2-0-1.0 para instalaciones de nueva creación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Afectación de nueve minutos desde las 08:51 hasta las 09:00; retrasos de 570 minutos en el tren 90979, finalmente suprimido en Tamarite; retrasos de 12 y 7 minutos en dos trenes de Media Distancia y 4 minutos en un tren de cercanías; total acumulado 593 minutos; afectó a la línea 220 lado Manresa y a la línea 200 lado Barcelona Sants."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "40/17-1: En los procesos de formación dirigidos al personal de conducción, se deberá considerar lo establecido en la Recomendación Técnica 2/2019 de la AESF sobre formación en situaciones operativas no ordinarias.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF); implementador final: Transitia Rail"
+  },
+  {
+   "texto": "40/17-2: Desarrollar e implementar los procedimientos adecuados dentro del SGS de la empresa ferroviaria para asegurar que a los maquinistas les llegue la documentación que les afecte y la comprendan antes de la realización de los servicios, incluyendo mecanismos que aseguren la trazabilidad de dichas comunicaciones.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF); implementador final: Transitia Rail"
+  },
+  {
+   "texto": "40/17-3: Desarrollar/mejorar los procedimientos operativos del SGS de la empresa ferroviaria encaminados a supervisar el historial de actuaciones en el desarrollo de sus labores profesionales del personal de conducción, de forma que se pueda evaluar y detectar situaciones de riesgo, contemplando las diferentes acciones a adoptar, dando cumplimiento a la recomendación 4/2016 de la AESF.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF); implementador final: Transitia Rail"
+  },
+  {
+   "texto": "40/17-4: Incluir lo establecido en la Ficha-Guía de aplicación del Reglamento de Circulación Ferroviaria F-RCF-01/2019: Circulación con ASFA en modo BTS en caso de incidencias o trabajos programados de la AESF, de enero de 2019, en los documentos del SGS que se estime necesarios de manera que pase a formar parte del mismo.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF); implementador final: Adif"
+  }
+ ],
+ "tags": [
+  "rebase de señal",
+  "conato de colisión",
+  "bloqueo telefónico supletorio",
+  "asfa",
+  "consigna",
+  "sgs",
+  "fatiga",
+  "lleida-pirineus",
+  "transitia rail",
+  "renfe viajeros",
+  "señal avanzada",
+  "historial de rebases"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 21.08.2017 190726-170821-IF-SN_CIAF "
+}

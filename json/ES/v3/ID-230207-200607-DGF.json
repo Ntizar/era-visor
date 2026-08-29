@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de Cercanías a la entrada de la estación de Madrid-Atocha",
+ "idioma_original": "es",
+ "resumen": "El 23 de febrero de 2007, a las 23:52 horas, el tren de Cercanías nº 17551 de Renfe Operadora arrolló a una persona que deambulaba por las vías en la playa de la estación de Madrid-Atocha. La víctima, un varón, falleció en el suceso. La investigación determinó que el accidente se originó por la imprudencia de la víctima al invadir una zona restringida y prohibida al tránsito peatonal, sin que existieran fallos en el material, la señalización o la actuación del maquinista.",
+ "hechos": "A las 23:52 horas del día 23 de febrero de 2007, se produjo el arrollamiento de una persona a la altura del punto kilométrico 0,619 de la línea 920 Móstoles El Soto-Parla, en la playa de vías de la estación de Madrid-Atocha. El tren de Cercanías nº 17551, que prestaba servicio entre Humanes y Madrid Atocha, golpeó a la víctima que se encontraba deambulando por las vías a la entrada de la vía 8. La persona fallecida era un varón.\n\nEl maquinista observó a la persona con movimientos inestables por el lado derecho de la vía, hizo uso de la bocina y aplicó el freno de urgencia, pero no pudo evitar el impacto durante la frenada. El tren circulaba a una velocidad de 69 km/h, por debajo de la máxima permitida de 75 km/h para ese tramo, y se detuvo tras recorrer 120 metros. La prueba de alcoholemia al maquinista fue negativa.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Madrid-Atocha Cercanías",
+  "pk": "0,619",
+  "linea": "920 Móstoles El Soto-Parla",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Playa de vías de la estación de Madrid-Atocha, a 619 metros del edificio de viajeros y a 113 metros del andén de parada del tren. Zona con alto tráfico ferroviario, restringida a la explotación y prohibida al tránsito de viandantes."
+ },
+ "cronologia": [
+  {
+   "hora": "23:50:32",
+   "evento": "El tren circula a 69 km/h y se origina un frenado de urgencia."
+  },
+  {
+   "hora": "23:50:33",
+   "evento": "Se inicia la frenada del tren."
+  },
+  {
+   "hora": "23:50:49",
+   "evento": "El tren se detiene tras recorrer 120 metros."
+  },
+  {
+   "hora": "23:52",
+   "evento": "Se produce el arrollamiento de la persona."
+  },
+  {
+   "hora": "00:05",
+   "evento": "Comienza la interrupción de la circulación por las vías 7, 8 y 9."
+  },
+  {
+   "hora": "01:35",
+   "evento": "Se reanuda la circulación por la vía 9."
+  },
+  {
+   "hora": "02:45",
+   "evento": "Se reanuda la circulación por las vías 7 y 8."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17551",
+   "tipo": "Cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 17551",
+   "implicacion": "Observó a la víctima, usó la bocina, aplicó el freno de urgencia y comunicó el suceso al puesto de mando. Alcoholemia negativa (0,00 mg/ml)."
+  },
+  {
+   "rol": "Supervisor de circulación de la Jefatura Técnica de Operaciones de Madrid (Adif)",
+   "implicacion": "Nombrado jefe delegado del accidente."
+  },
+  {
+   "rol": "Portavoz de la información en el puesto de mando (Adif)",
+   "implicacion": "Gestión de la comunicación del suceso."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales avanzada y de entrada en vía libre. Bloqueo CTC con mando local y control automático LZB con funciones de supervisión BAB.",
+  "tipo_via": "Playa de vías de estación (10 vías)",
+  "velocidad_maxima": "75 km/h",
+  "ancho": null,
+  "electrificacion": "Pórticos de electrificación presentes en la zona",
+  "estado_via": "Zona con alto tráfico de trenes y restringida a la explotación ferroviaria. Prohibido el tránsito de viandantes.",
+  "otro": "El punto del arrollamiento está a 619 m del edificio de viajeros y 113 m del andén."
+ },
+ "material_rodante": {
+  "series": "Motor 96719446169-5 y 96719446150-5",
+  "averia": "Ninguna. Circulaba bajo horario previsto y velocidad inferior a la máxima.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima al transitar e invadir las vías por un lugar indebido y prohibido.",
+  "contribuyentes": [
+   "Escasa visibilidad del tramo por las condiciones de nocturnidad.",
+   "Acceso de la víctima a una zona restringida a la explotación ferroviaria."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Interrupción de la circulación por vías 7 y 8 (00:05-02:45) y vía 9 (00:05-01:35), provocando 158 minutos de retrasos acumulados en Cercanías."
+ },
+ "lecciones": [
+  "El tránsito de viandantes en zonas de playa de vías está absolutamente prohibido y supone un elevado peligro para la vida humana.",
+  "La actuación correcta del maquinista (bocina y freno de urgencia) no pudo evitar el impacto por la proximidad y la inestabilidad de la víctima."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Fomentar campañas de sensibilización destinadas a la ciudadanía con el objeto de concienciar del peligro que supone cruzar o transitar por las vías del ferrocarril.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "cercanias",
+  "madrid-atocha",
+  "imprudencia",
+  "zona restringida",
+  "renfe",
+  "adif",
+  "lz",
+  "nocturnidad",
+  "via 8",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-230207-200607-DGF"
+}

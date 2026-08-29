@@ -1,0 +1,132 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de persona por tren de Larga Distancia 697 entre Vila-Real y Burriana (Castellón)",
+ "idioma_original": "es",
+ "resumen": "El 7 de junio de 2007 a las 10:55, un tren de Larga Distancia de Renfe arrolló a una persona en plena vía en el PK 61/700 de la Línea 600 Valencia Nord – San Vicente Calders, entre Vila-Real y Burriana (Castellón). La víctima, acompañada de otra persona, cruzó indebidamente las vías sin percatarse de la llegada del convoy. El tren circulaba a 138 km/h (máximo 140) en un tramo recto con buena visibilidad. La persona arrollada fue trasladada al Hospital de la Plana de Vila-Real, donde falleció horas después. No hubo daños materiales al tren. La investigación atribuyó el accidente a la imprudencia de la víctima.",
+ "hechos": "El tren de viajeros de Larga Distancia 697 de Renfe, con locomotora 252.070, procedente de Barcelona Sants y destino Málaga, circulaba por la vía impar de la Línea 600 Valencia Nord – San Vicente Calders en dirección Valencia. En el punto kilométrico 61/700, entre las estaciones de Vila-Real y Burriana, el maquinista observó la aparición de dos varones mayores en la vía. Accionó el silbato y el freno de emergencia. Una de las dos personas se retiró a tiempo, pero la otra (Francisco Alejandro) no logró apartarse completamente y fue rozada por el lateral de la locomotora a 138 km/h. El tren se detuvo y el maquinista informó al Puesto de Mando de Valencia, que cursó los avisos correspondientes.\n\nA las 11:05 se ordenó marcha a la vista por vía par hasta la evacuación del herido. A las 11:15 se presentó la Policía Local y a las 11:23 el tren reanudó la marcha, ya que la persona arrollada estaba siendo atendida fuera de la vía. A las 11:30 llegaron los medios sanitarios y a las 11:35 el herido fue evacuado al Hospital de la Plana de Vila-Real, donde falleció horas más tarde. Se restableció la circulación en condiciones normales. Se realizaron pruebas de alcoholemia y drogadicción al maquinista con resultado negativo. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Vila-Real y Burriana",
+  "pk": "61/700",
+  "linea": "600 Valencia Nord – San Vicente Calders",
+  "provincia": "Castellón",
+  "descripcion_lugar": "Tramo de vía recto con muy buena visibilidad, lugar eminentemente rural pero muy próximo al núcleo urbano, zona transitada con numerosos pasos viciosos que cruzan las vías. El tramo no se encuentra vallado, aunque existen parcelas cuyos cerramientos actúan a modo de vallado."
+ },
+ "cronologia": [
+  {
+   "hora": "10:55",
+   "evento": "Arrollamiento de persona por el tren LD 697 en el PK 61/700. El maquinista acciona silbato y freno de emergencia. Detención del tren."
+  },
+  {
+   "hora": "10:55",
+   "evento": "El maquinista informa al Puesto de Mando de Valencia, que cursa avisos a Seguridad Corporativa, Protección Civil, Gerencias Territoriales y servicios de emergencia."
+  },
+  {
+   "hora": "11:05",
+   "evento": "Se ordena marcha a la vista por vía par hasta la evacuación del herido."
+  },
+  {
+   "hora": "11:15",
+   "evento": "Se presenta la Policía Local en el lugar."
+  },
+  {
+   "hora": "11:23",
+   "evento": "El tren reanuda la marcha; la persona arrollada está herida y siendo atendida fuera de la vía."
+  },
+  {
+   "hora": "11:30",
+   "evento": "Llegan los medios sanitarios."
+  },
+  {
+   "hora": "11:35",
+   "evento": "El herido es evacuado al Hospital de la Plana de Vila-Real. Se restablece la circulación en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "La víctima fallece horas más tarde en el hospital."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "697",
+   "tipo": "Larga Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 697",
+   "implicacion": "Matrícula 9721499. Jornada efectiva previa: 3h25min. Jornada 24h anteriores: 8h15min. Jornada 48h anteriores: 8h. Accionó silbato y freno de emergencia. Pruebas de alcoholemia y drogadicción negativas. En perfectas condiciones para sus funciones."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Tramo recto con muy buena visibilidad. No vallado. Numerosos pasos viciosos. Zona rural próxima a núcleo urbano.",
+  "otro": "Bloqueo Automático en vía doble electrificada. Red Ferroviaria de Interés General administrada por Adif."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252.070",
+  "averia": "Ninguna",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones meteorológicas buenas. Día.",
+ "causas": {
+  "directa": "Imprudencia de la víctima que cruzó las vías de forma indebida sin percatarse de la llegada del tren.",
+  "contribuyentes": [
+   "Existencia de numerosos pasos viciosos que cruzan las vías en la zona",
+   "Tramo no vallado, aunque próximo a núcleo urbano",
+   "La víctima y su acompañante se aseguraron de que ningún tren se aproximaba en dirección Castellón, pero no percataron de la proximidad del convoy en dirección Valencia",
+   "Francisco Alejandro se quedó rezagado y muy cerca de las vías al paso del tren"
+  ],
+  "sistemicas": [
+   "Ausencia de vallado en un tramo con gran número de pasos viciosos y próxima a núcleo urbano",
+   "Necesidad de intensificar el Plan de instalación de cerramientos de las líneas"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales al tren.",
+  "afectacion_servicio": "Incidencia de 40 minutos (10:55 a 11:35). Retraso de 31 min al tren 697. 75 min de retraso acumulado en 4 trenes de Larga Distancia, 84 min en 5 trenes de Cercanías y 29 min en 1 tren de Media Distancia."
+ },
+ "lecciones": [
+  "La imprudencia de peatones al cruzar vías en zonas no valladas con pasos viciosos puede provocar accidentes mortales incluso en tramos rectos con buena visibilidad.",
+  "La velocidad del tren (138 km/h, próxima al máximo de 140) reduce el tiempo de reacción y la posibilidad de evitar el arrollamiento.",
+  "La ausencia de vallado en zonas rurales próximas a núcleos urbanos facilita el acceso indebido a la vía."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+   "destinatario": "Adif / Administraciones públicas"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "imprudencia",
+  "pasos-viciosos",
+  "sin-vallado",
+  "larga-distancia",
+  "renfe",
+  "linea-600",
+  "vila-real",
+  "burriana",
+  "castellon",
+  "fatalidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_070607_191007"
+}

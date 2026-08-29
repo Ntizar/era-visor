@@ -1,0 +1,251 @@
+{
+ "titulo_normalizado": "Colisión lateral entre trenes de cercanías en la estación de L'Hospitalet de Llobregat por rebase de señal en parada debido a funcionamiento incorrecto del enclavamiento electrónico",
+ "idioma_original": "es",
+ "resumen": "El 4 de noviembre de 2016 a las 21:36 horas, el tren de cercanías 25752 rebasó indebidamente la señal de entrada E1 en indicación de parada en la estación de L'Hospitalet de Llobregat (Barcelona), tras percibir un único destello blanco de duración inferior a un segundo provocado por un comportamiento incorrecto del enclavamiento electrónico Ebilock 950. El tren entró en la estación sin itinerario establecido, rebasó la señal de retroceso R1 y colisionó lateralmente contra el tercer coche del tren 25779, que había salido de vía 3 con itinerario establecido por orden del jefe del CTC. No se produjeron víctimas mortales ni heridos, aunque ambos trenes sufrieron descarrilamientos parciales y daños materiales por 47.654,70 €. La interrupción del servicio afectó a las líneas R1, R3 y R4 de Cercanías durante 5 horas y 51 minutos.",
+ "hechos": "El accidente se produjo a las 21:36 horas del 4 de noviembre de 2016 en la estación de L'Hospitalet de Llobregat (pk 95+106, línea 220 Lleida Pirineus – L'Hospitalet de Llobregat, Barcelona), en horario nocturno y sin condiciones meteorológicas adversas. El tren de cercanías 25752, procedente de Barcelona Sants/Calella y circulando por vía II, se encontraba detenido 18 metros antes de la señal de entrada E1 que ordenaba parada. El jefe del CTC de Barcelona ordenó el establecimiento de un itinerario de rebase autorizado de E1 a vía 17, pero inmediatamente —antes de que se completara el enclavamiento— procedió a su anulación mediante el comando DAI (disolución artificial de itinerario) hasta cinco veces consecutivas, al considerar prioritaria la salida del tren 25779 desde vía 3.\n\nDurante el intervalo de 0,950 segundos entre el enclavamiento del itinerario y su disolución, el enclavamiento electrónico Ebilock 950 (Bombardier) generó un comportamiento incorrecto: la señal E1 emitió un único destello blanco (aspecto rojo-blanco) y la señal R1 mostró momentáneamente blanco-blanco, sin que el sistema reconociera la apertura ni aplicara el diferímetro. El maquinista del tren 25752 percibió ese destello, interpretó la indicación como rebase autorizado y activó el ASFA Digital, iniciando la marcha y rebasando E1 en parada. Tras recorrer la estación sin itinerario, rebasó también la señal de retroceso R1 en parada y entró en la aguja A37 orientada hacia vía 2, colisionando lateralmente a 10 km/h contra el tercer coche del tren 25779, detenido en la travesía T47 por orden del jefe del CTC.\n\nComo consecuencia de la colisión se produjo el descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre el segundo y tercer coche del tren 25779. No hubo víctimas mortales ni heridos. Los 17 viajeros fueron evacuados a los andenes. La circulación entre Barcelona Sants y L'Hospitalet quedó suspendida por ambas vías, afectando a las líneas R1, R3 y R4 de Cercanías, con una interrupción total de 5 horas 51 minutos, 3.116 minutos de retraso acumulado y la supresión de 8 trenes. La reparación de infraestructura ascendió a 7.555,63 € y la del material móvil a 40.099,07 €, con un total de 47.654,70 €.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "L'Hospitalet de Llobregat",
+  "pk": "95+106",
+  "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación telemandada desde el CTC de Barcelona, en tramo de vía doble electrificada con Bloqueo Automático Banalizado con CTC (BAB con CTC). La colisión se produjo en la travesía T47 (pk 96+633). Señal E1 de entrada en pk 096+295, señal R1 de retroceso en pk 096+031, señal S2/3 de salida en pk 095+522. Perfil longitudinal horizontal desde pk 095+150 a pk 096+800. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11, 12, 13, 14, 15, 16, 17, 18)."
+ },
+ "cronologia": [
+  {
+   "hora": "21:32:14",
+   "evento": "El tren 25752 pasa por la baliza previa de la señal avanzada E'1 (parada) a 45 km/h"
+  },
+  {
+   "hora": "21:33:02",
+   "evento": "El tren 25752 pasa por la baliza de la señal E'1 (anuncio de parada) a 24 km/h"
+  },
+  {
+   "hora": "21:33:35",
+   "evento": "El tren 25752 pasa por la baliza previa de la señal E1 (parada) a 42 km/h"
+  },
+  {
+   "hora": "21:34:30",
+   "evento": "El tren 25752 se detiene 18 m antes de la señal E1 que ordena parada"
+  },
+  {
+   "hora": "21:34:42",
+   "evento": "El jefe del CTC establece itinerario E1 a vía 17 para el tren 25752. Señales E1, R1 y S2/3 en parada"
+  },
+  {
+   "hora": "21:34:51",
+   "evento": "El jefe del CTC comienza a dar órdenes DAI de anulación del itinerario (hasta cinco veces)"
+  },
+  {
+   "hora": "21:34:52",
+   "evento": "El enclavamiento reconoce que el itinerario E1 a vía 17 está enclavado"
+  },
+  {
+   "hora": "21:34:53",
+   "evento": "El sistema da orden de abrir E1 (rojo-blanco destellos) y R1 (blanco-blanco). En el mismo ciclo se disuelve el itinerario"
+  },
+  {
+   "hora": "21:34:54",
+   "evento": "Transcurridos 0,950 s, el sistema lanza orden de cerrar E1 y R1 sin comprobar apertura. Itinerario disuelto. El tren 25752 inicia la marcha tras 18 s detenido"
+  },
+  {
+   "hora": "21:34:57",
+   "evento": "El maquinista del 25752 activa el pulsador de rebase autorizado ASFA a 10 km/h"
+  },
+  {
+   "hora": "21:34:59",
+   "evento": "El tren 25752 pasa por la baliza de E1 (parada) a 18 km/h con rebase autorizado ASFA activado"
+  },
+  {
+   "hora": "21:35:01",
+   "evento": "Se confirma la disolución del itinerario E1 a vía 17"
+  },
+  {
+   "hora": "21:35:16",
+   "evento": "El jefe del CTC manda establecimiento de itinerario de salida S2/3 a Barcelona Sants para el tren 25779"
+  },
+  {
+   "hora": "21:35:20",
+   "evento": "El maquinista del 25752 desactiva rebase autorizado ASFA a 28 km/h"
+  },
+  {
+   "hora": "21:35:39",
+   "evento": "El tren 25779 inicia marcha desde vía 3. El maquinista del 25752 contacta con el agente de circulación de la estación"
+  },
+  {
+   "hora": "21:35:45",
+   "evento": "El tren 25752 rebasa la señal R1 en parada y ocupa el CVA3 sin itinerario establecido"
+  },
+  {
+   "hora": "21:35:54",
+   "evento": "El tren 25779 pasa por la baliza de S2/3 (vía libre) a 20 km/h"
+  },
+  {
+   "hora": "21:36:10",
+   "evento": "El maquinista del 25779 activa freno de emergencia por orden del CTC en pk 95+616 a 23 km/h"
+  },
+  {
+   "hora": "21:36:16",
+   "evento": "El tren 25779 queda detenido en la travesía T47 (pk 96+633)"
+  },
+  {
+   "hora": "21:36:25",
+   "evento": "El tren 25752 entra en aguja A37 (orientada hacia vía 2) a 28 km/h"
+  },
+  {
+   "hora": "21:36:27",
+   "evento": "El maquinista del 25752 acciona el freno de urgencia (2 s tras entrar en aguja, 16 m recorridos)"
+  },
+  {
+   "hora": "21:36:31",
+   "evento": "COLISIÓN: el tren 25752 a 10 km/h impacta contra el 3er coche del tren 25779 detenido en T47"
+  },
+  {
+   "hora": "21:36:34",
+   "evento": "El tren 25752 se detiene tras recorrer 2 m desde la colisión (25 m desde freno de emergencia)"
+  },
+  {
+   "hora": "21:36:36",
+   "evento": "El agente de circulación comunica al CTC la entrada del 25752 y la orden de detención"
+  },
+  {
+   "hora": "21:39:04",
+   "evento": "El maquinista del 25752 comunica telefónicamente la colisión al jefe del CTC tras sintonizar la banda"
+  },
+  {
+   "hora": "22:30",
+   "evento": "Se garantiza paso de trenes por itinerarios alternativos vía 1"
+  },
+  {
+   "hora": "22:32",
+   "evento": "Se reanuda la circulación entre Barcelona Sants y L'Hospitalet por ambas vías con autorización del CTC"
+  },
+  {
+   "hora": "22:40",
+   "evento": "Se informa que los 17 viajeros han sido evacuados a los andenes"
+  },
+  {
+   "hora": "00:30",
+   "evento": "Se autoriza el movimiento de los trenes para su apartado (25779 en vía 3, 25752 en vía 19)"
+  },
+  {
+   "hora": "03:30",
+   "evento": "Se reanuda el tráfico normal de la estación (vías 2, 3 y 4 disponibles)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25752",
+   "tipo": "Tren de viajeros de cercanías (autopropulsado UT 465242, tipo 120A, 5 vehículos, 12 ejes, 98 m, 237 Tm, vmax 120 km/h)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Descarrilamiento del primer bogie del primer coche según sentido de la marcha. Reparación material: 15.054,39 €"
+  },
+  {
+   "numero": "25779",
+   "tipo": "Tren de viajeros de cercanías (autopropulsados 464211 y 464210, tipo 120A, 8 vehículos, 20 ejes, 160 m, 352 Tm, vmax 120 km/h)",
+   "operador": "RENFE VIAJEROS",
+   "danos": "Descarrilamiento del bogie entre el segundo y tercer coche. Reparación material: 25.004,39 €"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe del CTC de Barcelona (matrícula 8002321, ADIF)",
+   "implicacion": "Actuación precipitada: ordenó itinerario E1 a vía 17 y lo anuló inmediatamente con DAI sin comunicación previa con el maquinista (Art. 268.3 RGC). Estableció itinerario de salida S2/3 para el 25779 sin observar el rebase de R1 por el 25752. No detectó el destello momentáneo de E1."
+  },
+  {
+   "rol": "Agente/jefe de circulación de L'Hospitalet (matrícula 7786049, ADIF)",
+   "implicacion": "Recibió la llamada del maquinista del 25752 por modalidad C, ordenó detención inmediata y comunicó la situación al CTC. Ordenó al maquinista cambiar a modalidad A."
+  },
+  {
+   "rol": "Maquinista del tren 25752 (matrícula 6837256, RENFE VIAJEROS)",
+   "implicacion": "Percibió un único destello blanco en E1 y lo interpretó como rebase autorizado. Infringió la orden de parada de E1 y R1. Cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC. Circuló en velocidad prefijada contraviniendo la marcha de maniobras (Art. 218 RGC) y el Aviso SC nº 37."
+  },
+  {
+   "rol": "Maquinista del tren 25779 (matrícula 9732389, RENFE VIAJEROS)",
+   "implicacion": "Inició la salida de vía 3 con itinerario establecido. Recibió orden de parada inmediata del CTC y activó el freno de emergencia. No tuvo responsabilidad en el accidente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico tipo Ebilock 950, tecnología Bombardier Transportation. Señal E'1 avanzada (pk 096+900), señal E1 entrada alta de tres focos más foco blanco (pk 096+295), señal R1 retroceso de cuatro focos mono bajo (pk 096+031), señal S2/3 salida (pk 095+522). Todas con balizas ASFA Digital. Bloqueo Automático Banalizado con CTC (BAB con CTC).",
+  "tipo_via": "Vía doble electrificada. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11-18) con andenes superiores a 200 m, acabadas en topera.",
+  "velocidad_maxima": "120 km/h (material tipo 120A). Perfil horizontal entre pk 095+150 y pk 096+800.",
+  "ancho": null,
+  "electrificacion": "Vía electrificada",
+  "estado_via": "Obras en toperas de vías 13-19 del 26.10.2016 al 09.11.2016. Ocupación artificial de circuitos de vías 17, 18 y 19 regulada por Consigna CTO nº 63/2016 (acceso con rebase autorizado de E1 o E3).",
+  "otro": "Desvíos 3, 5, 11, 31 y 37 en el sentido de marcha del 25752. Travesía T47 donde se produjo la colisión. La aguja A37 no intervino en los itinerarios mandados por el CTC y permaneció en posición invertida, no realizando la protección de flanco a la salida del tren 25779."
+ },
+ "material_rodante": {
+  "series": "UT 465242 (tren 25752, tipo 120A); UT 464211 y 464210 (tren 25779, tipo 120A). Registradores de seguridad tipo CESIS 3 con ASFA Digital.",
+  "averia": "No se detectó ninguna anomalía en equipos y dispositivos de seguridad de ambos trenes. Funcionaban correctamente y estaban precintados.",
+  "mantenimiento": "Material en servicio según Libro Horario 204 de 17 de octubre de 2016. No se mencionan deficiencias de mantenimiento."
+ },
+ "clima": "Horas nocturnas sin condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Aspecto indebido de la señal de entrada E1 (único destello blanco de duración inferior a un segundo) causado por un funcionamiento incorrecto de la lógica del software del enclavamiento electrónico Ebilock 950, que indujo a error al maquinista del tren 25752 en la percepción de la señal. Fallo humano del maquinista al no mantener la debida atención y no volver a fijarse en el aspecto de la señal.",
+  "contribuyentes": [
+   "Actuación precipitada del jefe del CTC: ordenó un itinerario y procedió inmediatamente a su anulación con DAI (5 veces) sin comunicación previa con el maquinista, contraviniendo el Art. 268.3 del RGC",
+   "El jefe del CTC estableció el itinerario de salida S2/3 para el tren 25779 sin observar que el 25752 había rebasado E1 y R1 en parada",
+   "El enclavamiento no reconoció la apertura momentánea de E1, no aplicó diferímetro y permitió la disolución del itinerario con tren ocupando el circuito anterior",
+   "El maquinista del 25752 cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC para ordenar parada",
+   "El maquinista del 25752 circuló en velocidad prefijada desde E1, dificultando la observancia de la marcha de maniobras (Art. 141.2 y 218 RGC) e incumpliendo el Aviso SC nº 37",
+   "La aguja A37 permaneció en posición invertida sin realizar protección de flanco a la salida del tren 25779"
+  ],
+  "sistemicas": [
+   "Insuficiente verificación y pruebas del diseño del enclavamiento electrónico de L'Hospitalet, basado en el programa de explotación, que no detectó el riesgo potencial existente",
+   "Las especificaciones de diseño y prueba de los enclavamientos convencionales no electrónicos no contemplaban el comportamiento del tiempo entre órdenes sucesivas",
+   "Las deficiencias detectadas no eran objeto de control y/o inspección en las verificaciones periódicas de ADIF (29.01.2016 y 10.05.2016) ni en las visitas del instalador (28.04.2016 y 02.05.2016)",
+   "Posible existencia de otros enclavamientos de tecnología similar con la misma problemática",
+   "ADIF no adoptó medidas preventivas sobre la actuación del jefe del CTC según PGSC-PG-11; RENFE VIAJEROS no adoptó medidas sobre el maquinista según RV-SGS-PE-SPC-16 y COP nº 1"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre 2º y 3er coche del tren 25779. Daños en material motor (40.099,07 €: 15.054,39 € UT 465242 + 25.004,39 € UT 464211) e infraestructura (7.555,63 €). Total: 47.654,70 €.",
+  "afectacion_servicio": "Suspensión de la circulación entre Barcelona Sants y L'Hospitalet por ambas vías durante 5 h 51 min (21:39 a 03:30). Afectación a líneas R1, R3 y R4 de Cercanías. Retraso acumulado de 3.116 minutos y supresión de 8 trenes. 17 viajeros evacuados a andenes. Prealerta PROCICAT activada a las 22:14."
+ },
+ "lecciones": [
+  "El enclavamiento electrónico Ebilock 950 presenta una lógica incorrecta que, ante órdenes sucesivas y contradictorias (establecimiento y disolución inmediata), genera un destello momentáneo de señal en menos de un segundo que puede inducir a error al maquinista",
+  "La disolución artificial de itinerario (DAI) no debe ejecutarse sin comunicación previa con el maquinista afectado y confirmación de su disposición a detenerse",
+  "El diferímetro no actúa cuando el sistema no reconoce la apertura momentánea de la señal, permitiendo la disolución con tren ocupando el circuito anterior",
+  "El cambio no autorizado a modalidad C de la radiotelefonía Tren-Tierra impide la comunicación con el CTC y puede evitar una intervención correctora",
+  "La velocidad prefijada dificulta la observancia de la marcha de maniobras y la capacidad de parar ante señales en parada",
+  "Las pruebas de validación de enclavamientos electrónicos deben contemplar los tiempos entre órdenes sucesivas y las condiciones transitorias de señalización",
+  "La no adopción de medidas preventivas sobre el personal implicado puede inducir a considerar adecuadas conductas de riesgo y su repetición"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "51/2016-1: Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales.",
+   "destinatario": "AESF / ADIF"
+  },
+  {
+   "texto": "51/2016-2: Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar al de L'Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI).",
+   "destinatario": "AESF / ADIF"
+  },
+  {
+   "texto": "51/2016-3: En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios.",
+   "destinatario": "AESF / ADIF"
+  },
+  {
+   "texto": "51/2016-4: En la formación impartida al personal de conducción, insistir en la vital importancia de adecuar su marcha a lo reglamentariamente prescrito y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Recalcar los riesgos del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren-Tierra.",
+   "destinatario": "AESF / RENFE OPERADORA"
+  }
+ ],
+ "tags": [
+  "colision lateral",
+  "rebase de señal",
+  "enclavamiento electronico",
+  "ebilock 950",
+  "bombardier",
+  "disolucion artificial de itinerario",
+  "dai",
+  "asfa digital",
+  "radiotelefonia modalidad c",
+  "velocidad prefijada",
+  "cercanias barcelona",
+  "factor humano"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT "
+}

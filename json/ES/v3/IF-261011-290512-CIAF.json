@@ -1,0 +1,151 @@
+{
+ "titulo_normalizado": "Descarrilamiento tras rebase de señal en parada y retroceso no autorizado en la estación de Sant Pol de Mar (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 26 de octubre de 2011 a las 16:24, el tren de cercanías 25736 de Renfe Operadora rebasó indebidamente la señal de salida S2/1 en indicación de parada en la estación de Sant Pol de Mar (Barcelona). El sistema ASFA Digital activó el frenado de urgencia y el tren se detuvo tras talonar la aguja nº1. Posteriormente, el tren retrocedió sin autorización y descarriló sobre la misma aguja, produciéndose un conato de colisión con el tren 25639 que esperaba ante la señal de entrada E1. No hubo víctimas mortales ni heridos, pero la circulación quedó interrumpida durante 12 horas y 33 minutos.",
+ "hechos": "El tren de viajeros de cercanías 25736, operado por Renfe Operadora (Dirección de Rodalies i Regionals de Catalunya), procedente de Calella con destino L'Hospitalet de Llobregat, se estacionó en vía 1 de la estación de Sant Pol de Mar para realizar operaciones comerciales. Al reiniciar la marcha, el maquinista, tras ver la señal indicadora de salida IS-S2/1 abierta, emprendió el movimiento y rebasó la señal de salida S2/1, que se encontraba en indicación de parada (rojo), a 59 km/h. El sistema ASFA Digital actuó de urgencia, provocando una parada de emergencia tras recorrer 240 metros y talonar la aguja nº1.\n\nEn ese momento, el tren 25639, en sentido contrario, se encontraba parado ante la señal de entrada E1 con itinerario de entrada establecido a vía 2, produciéndose un conato de colisión con ambos trenes enfrentados a unos 125 metros de distancia. Tras detenerse, el tren 25736 retrocedió sin autorización durante 60 metros a una velocidad máxima de 19 km/h, pasando nuevamente sobre la aguja nº1 ya talonada, lo que provocó el descarrilamiento del segundo bogie del primer coche, los dos bogies del segundo coche y el primer bogie del tercer coche.\n\nEl descarrilamiento tuvo su origen en el retroceso no autorizado del tren 25736 sobre la aguja nº1, antes talonada tras el rebase indebido de la señal de salida S2/1 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Pol de Mar",
+  "pk": "44+979",
+  "linea": "276 Bifurcación Sagrera a Maçanet-Massanes",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación de Sant Pol de Mar, señal de salida S2/1 situada en el PK 44+703, aguja nº1 en el PK 44+628. Tramo Arenys de Mar a Calella. Vía 1 (general) y vía 2 (apartado)."
+ },
+ "cronologia": [
+  {
+   "hora": "16:22:00",
+   "evento": "El tren 25736 ocupa el circuito de vía de la señal E2 (en anuncio de parada). La señal de salida S2/1 en indicación de parada. El tren 25639 ocupa el circuito anterior a la señal E1 (en indicación de parada)."
+  },
+  {
+   "hora": "16:22:56",
+   "evento": "El tren 25736 se estaciona en vía 1, delante de la señal indicadora de salida IS-S2/1 y la señal de salida S2/1 (en indicación de parada)."
+  },
+  {
+   "hora": "16:23:15",
+   "evento": "Se establece itinerario de entrada a vía 2 para el tren 25639. El tren 25736 permanece estacionado en vía 1 con la señal S2/1 en indicación de parada."
+  },
+  {
+   "hora": "16:23:29",
+   "evento": "El tren 25736 reanuda la marcha tras 33 segundos de parada comercial, al ver la señal indicadora de salida IS-S2/1 abierta."
+  },
+  {
+   "hora": "16:23:58",
+   "evento": "La señal E1 pasa a amarillo (anuncio de parada) durante 7 segundos para el tren 25639, que no realiza movimiento por divisar al tren 25736 en situación extraña."
+  },
+  {
+   "hora": "16:24:05",
+   "evento": "El tren 25736 rebasa la señal S2/1 en indicación de parada a 59 km/h, ocupa el circuito de vía de la aguja nº1 y la talona en posición invertida. La señal E1 se cierra (pasa a rojo) para el tren 25639."
+  },
+  {
+   "hora": "16:24:11",
+   "evento": "El tren 25736 se detiene por activación del ASFA Digital tras recorrer 240 metros desde el rebase de la señal."
+  },
+  {
+   "hora": "16:24:24",
+   "evento": "El tren 25736 inicia retroceso sin autorización (tras 13 segundos detenido), alcanzando 19 km/h."
+  },
+  {
+   "hora": "16:24:41",
+   "evento": "El tren 25736 descarrila sobre la aguja nº1 tras recorrer 60 metros de retroceso (50 metros según análisis). Detención total."
+  },
+  {
+   "hora": "16:24",
+   "evento": "Hora del suceso según datos generales."
+  },
+  {
+   "hora": "17:06",
+   "evento": "El jefe de gabinete de investigación de accidentes de Adif comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "18:33",
+   "evento": "Se realizan pruebas de alcoholemia y drogas al maquinista del tren 25736, con resultado negativo."
+  },
+  {
+   "hora": "05:00",
+   "evento": "Queda de baja y embridado a posición normal el cambio nº1 de Sant Pol de Mar. Operativa la vía 1, no pudiéndose realizar cruces en la estación. Fin de la interceptación de vía."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25736",
+   "tipo": "cercanías (viajeros)",
+   "operador": "Renfe Operadora - Dirección de Rodalies i Regionals de Catalunya",
+   "danos": "Descarrilamiento del segundo bogie del primer coche, los dos del segundo y el primer bogie del tercer coche. Daños en UTs 447101 y 447161."
+  },
+  {
+   "numero": "25639",
+   "tipo": "cercanías (viajeros)",
+   "operador": "Renfe Operadora - Dirección de Rodalies i Regionals de Catalunya",
+   "danos": "Sin daños materiales. Retrocede a Canet de Mar."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 25736",
+   "implicacion": "Rebasó indebidamente la señal de salida S2/1 en indicación de parada y realizó retroceso sin autorización, provocando el descarrilamiento. Incumplió los artículos 217.1, 475.1 y 279 del RGC. Título B de conducción, antigüedad desde 13/04/2009. Pruebas de alcohol y drogas negativas."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S2/1 alta luminosa de tres focos con foco blanco, baliza de pie de señal, sin baliza previa (instalada posteriormente en marzo de 2012). Señal indicadora de salida IS-S2/1 en PK 44+852 sin baliza. Señal de entrada E1 en PK 44+500. Señal de avanzada E'2 en PK 46+960. Señal de entrada E2 en PK 45+327. Protección BLAU (bloqueo de liberación automática en vía única) con CTC en Arenys.",
+  "tipo_via": "vía única (tramo Arenys de Mar-Calella), estación con vía 1 general y vía 2 de apartado",
+  "velocidad_maxima": "120 km/h en estación; limitación temporal de 30 km/h entre PK 45+500 y PK 45+550",
+  "ancho": "ancho ibérico",
+  "electrificacion": "electrificada",
+  "estado_via": "funcionamiento correcto",
+  "otro": "Paso a nivel protegido de clase C en PK 45+041, enclavado con las señales de la estación. Desvíos en PK 44+628 (aguja 1) y PK 45+110 (aguja 2). Media semanal de 632 circulaciones en el tramo Calella-Arenys de Mar (629 cercanías, 3 servicio)."
+ },
+ "material_rodante": {
+  "series": "UTs 447161 (cabeza) - 447101, tipo 120A, 6 vehículos, 24 ejes, 152 metros, 432 toneladas",
+  "averia": "Funcionó correctamente. Registrador de seguridad confirma circulación normal hasta el rebase.",
+  "mantenimiento": null
+ },
+ "clima": "Día despejado y soleado",
+ "causas": {
+  "directa": "Retroceso no autorizado del tren 25736 sobre la aguja nº1, antes talonada tras el rebase indebido de la señal de salida S2/1 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+  "contribuyentes": [
+   "Incumplimiento del artículo 217.1 del RGC (rebase de señal en parada)",
+   "Incumplimiento del artículo 475.1 del RGC (retroceso sin autorización)",
+   "Incumplimiento del artículo 279 del RGC (no informar adecuadamente al CTC, negar el retroceso)",
+   "Exceso de velocidad sobre la limitación temporal (38 km/h frente a 30 km/h permitidos) antes de la estación, incumpliendo la Consigna Serie B nº 10"
+  ],
+  "sistemicas": [
+   "La señal de salida S2/1 carecía de baliza previa en el momento del accidente",
+   "Fallo humano en la conducción"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en las UTs 447101 y 447161 (descarrilamiento). Daños en la vía y en sus aparatos (aguja nº1).",
+  "afectacion_servicio": "Interceptación de la vía desde las 16:24 del 26/10 hasta las 05:00 del 27/10 (12 horas y 33 minutos). Retrasos en 51 trenes de cercanías (804 minutos totales). Supresión de 31 trenes de cercanías. Transbordo de viajeros por carretera entre Arenys de Mar y Pineda de Mar. No se podían realizar cruces en la estación hasta reparación del cambio nº1."
+ },
+ "lecciones": [
+  "El incumplimiento de las señales por parte del personal de conducción puede provocar conatos de colisión y descarrilamientos.",
+  "El retroceso no autorizado sobre una aguja talonada es extremadamente peligroso y provoca descarrilamiento.",
+  "La información inadecuada del maquinista al puesto de mando (negar el retroceso) dificulta la gestión de la emergencia.",
+  "La ausencia de baliza previa en señales de salida puede reducir la protección ante un rebase indebido."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "rebase de señal",
+  "conato de colisión",
+  "retroceso no autorizado",
+  "aguja talonada",
+  "asfa digital",
+  "cercanías",
+  "renfe operadora",
+  "sant pol de mar",
+  "fallo humano",
+  "baliza previa",
+  "limitación de velocidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-261011-290512-CIAF"
+}

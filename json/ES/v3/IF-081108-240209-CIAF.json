@@ -1,0 +1,131 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona por tren de media distancia en la estación de Tudela de Navarra",
+ "idioma_original": "es",
+ "resumen": "El 8 de noviembre de 2008, a las 14:51, el tren de media distancia 18076 de Renfe Operadora arrolló a una persona en la estación de Tudela de Navarra, en el P.K. 77,050 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto. La víctima, un hombre de 21 años, falleció en el acto. El maquinista utilizó el silbato y el freno de emergencia, y el tren circulaba a 40 km/h, por debajo de la velocidad máxima permitida de 140 km/h. La investigación concluye que el accidente tuvo su origen en el tránsito de la víctima por la vía sin estar autorizada para ello. No se establecen recomendaciones.",
+ "hechos": "El día 8 de noviembre de 2008, a las 14:51, el tren de viajeros de media distancia 18076, de Renfe Operadora, circulaba por el trayecto Cortes-Tudela tras efectuar parada comercial en la estación de Tudela de Navarra. A la altura de la señal de salida, en el P.K. 77,050, arrolló a una persona que estaba sentada en la vía, sin camiseta y con auriculares puestos.\n\nEl maquinista observó a la víctima, hizo uso del silbato y aplicó el freno de emergencia. La víctima, al percatarse de la proximidad del tren, intentó levantarse y salir de la vía, pero resbaló y cayó, siendo arrollada. Como consecuencia del impacto, falleció en el acto.\n\nEl maquinista comunicó el suceso al Puesto de Mando de Miranda de Ebro, desde donde se informó a los servicios correspondientes de Adif y Renfe Operadora y a medios sanitarios. Los servicios sanitarios trasladaron el cadáver al Juzgado de San Sebastián. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente, y solo el tren implicado sufrió un retraso de 11 minutos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Tudela de Navarra",
+  "pk": "77,050",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "provincia": "Navarra",
+  "descripcion_lugar": "A la altura de la señal de salida de la estación de Tudela de Navarra, en el trayecto Cortes-Tudela. Vía doble electrificada, en un tramo de vía de transición de curva a derecha en sentido de la marcha del tren."
+ },
+ "cronologia": [
+  {
+   "hora": "14:51",
+   "evento": "El tren de media distancia 18076 arrolla a una persona en la estación de Tudela de Navarra, P.K. 77,050."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Miranda de Ebro."
+  },
+  {
+   "hora": "15:29",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona por el tren 18076."
+  },
+  {
+   "hora": null,
+   "evento": "Los servicios sanitarios trasladan el cadáver al Juzgado de San Sebastián."
+  },
+  {
+   "hora": null,
+   "evento": "Según el texto, el 11 de diciembre de 2007 la CIAF designó técnico responsable de la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "El 2 de diciembre de 2008, el Responsable de Seguridad de Renfe Operadora entregó su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 29 de diciembre de 2008, el Gerente Territorial de Seguridad en la Circulación Norte de Adif entregó su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 24 de febrero de 2009, el Pleno de la CIAF aprobó como definitivo el informe particular del técnico investigador."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18076",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 18076",
+   "implicacion": "Matrícula 9684945. Al observar a la víctima sentada en la vía, utilizó el silbato y el freno de emergencia. Su actuación fue considerada correcta. La prueba de alcoholemia fue negativa (0,00 mg/1000 ml). Su jornada efectiva de conducción ese día fue de 41 minutos, con descanso en las 24 y 48 horas anteriores. Estaba habilitado conforme a la Orden Ministerial 2520/2006; su último reciclaje formativo fue el 13/04/07 y su último reconocimiento médico y psicotécnico el 04/04/07."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Comunicó el accidente a la CIAF el 8 de noviembre de 2008 a las 15:29 mediante mensaje de telefonía móvil."
+  },
+  {
+   "rol": "Técnico responsable de la investigación",
+   "implicacion": "Integrado en la Secretaría de la CIAF, designado conforme al artículo 23.1 del Reglamento sobre seguridad en la circulación de la RFIG."
+  },
+  {
+   "rol": "Gerente Territorial de Seguridad en la Circulación Norte de Adif",
+   "implicacion": "Por delegación expresa del Director de Seguridad en la Circulación de Adif, entregó su informe particular del accidente el 29/12/08."
+  },
+  {
+   "rol": "Responsable de Seguridad de Renfe Operadora",
+   "implicacion": "Por delegación expresa del Director de Seguridad en la Circulación de Renfe Operadora, entregó su informe particular del accidente el 02/12/08."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Hombre de 21 años, no autorizado para transitar por la vía. Estaba sentado en el carril derecho, sin camiseta y con auriculares puestos, de espaldas al tren. Falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida de la estación de Tudela de Navarra. Bloqueo automático banalizado (B.A.B) con control de tráfico centralizado (C.T.C).",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionamiento correcto de las instalaciones técnicas. Tramo de vía de transición de curva a derecha en sentido de la marcha del tren.",
+  "otro": "Radiotelefonía modalidad A. Consigna Serie A nº 2655 del B.A.B. con C.T.C. de Casetas-Castejón-Cabañas-Grisen. Consigna Serie A nº 2259 de la estación de Tudela de Navarra. Circulaciones reales medias semanales del tramo Cortes-Tudela: 401, desglosadas en 115 de larga distancia, 83 de media distancia, 193 de mercancías y 10 de servicio."
+ },
+ "material_rodante": {
+  "series": "Unidad de tracción 440117 (citada también como 440147 en el informe), compuesta por tres vehículos, masa remolcada de 154 Tn, número UIC 967194401477.",
+  "averia": "No se aprecian averías. El material rodante funcionó correctamente. En el momento de accionar el freno de emergencia, el tren circulaba a 40 km/h según el registrador de seguridad.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado en el momento del arrollamiento.",
+ "causas": {
+  "directa": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizada para ello.",
+  "contribuyentes": [
+   "La víctima estaba sentada en la vía, en el carril derecho del sentido de la marcha.",
+   "La víctima llevaba auriculares puestos y estaba de espaldas al tren, lo que propició que no se percatara de la proximidad del tren.",
+   "La víctima intentó salir de la vía pero resbaló y cayó, no pudiendo evitar el arrollamiento."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Sólo resulta afectado el tren implicado en el accidente con un retraso de 11 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "persona en via",
+  "estacion de tudela",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "cifr",
+  "navarra",
+  "fallecido",
+  "auriculares",
+  "freno de emergencia",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-081108-240209-CIAF"
+}

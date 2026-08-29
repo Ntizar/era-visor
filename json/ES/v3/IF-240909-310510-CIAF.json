@@ -1,0 +1,159 @@
+{
+ "titulo_normalizado": "Rotura de eje del tren 6722 de FEVE en el apeadero de Cazoña por fisura previa en mangueta recargada por soldadura",
+ "idioma_original": "es",
+ "resumen": "El 24 de septiembre de 2009 a las 13:50 horas se produjo la rotura de la mangueta de un eje del tren de viajeros 6722 de FEVE en el apeadero de Cazoña (Santander), en el PK 527+485 de la línea Oviedo-Santander. El incidente no causó víctimas pero provocó la interceptación de la vía durante 6 horas y 16 minutos, con supresión y retraso de múltiples trenes. La rotura se originó por una fisura previa en una zona del eje recargada mediante soldadura, operación prohibida desde hacía 5 años. FEVE carecía de trazabilidad sobre los ejes recuperados, estimándose que hasta un 15% del parque podía estar afectado. Se formularon tres recomendaciones dirigidas a FEVE sobre trazabilidad, inspección por ultrasonidos y control de calidad en procesos de calado.",
+ "hechos": "El tren de viajeros 6722 de FEVE, procedente de Santander con destino Puente de San Miguel, circulaba con normalidad. Al aplicar el freno para efectuar parada comercial en el apeadero de Cazoña, se activó la señal del sistema antibloqueo de rueda, pero el tren se detuvo correctamente. Al intentar reanudar la marcha, el maquinista advirtió que algún bogie permanecía frenado pese a aplicar tracción. Tras notificar al CTC y revisar la unidad sin apreciar anomalías, solicitó socorro. El tren de socorro acopló las unidades y realizó dos pruebas satisfactorias, pero el jefe de maquinistas detectó la rotura completa de la mangueta de la tercera rueda izquierda del vehículo 3806, último de la composición. Marcas en rueda y traviesas indican que la rueda se soltó del eje antes de llegar a Cazoña sin descarrilar; el descarrilamiento se produjo durante las operaciones de acople con el tren de socorro.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Apeadero de Cazoña",
+  "pk": "527+485",
+  "linea": "Oviedo-Santander (L-21), tramo Santander-Llanes (T-23)",
+  "provincia": "Cantabria",
+  "descripcion_lugar": "Andén de la vía par del apeadero de Cazoña, en alineación recta y nivelación longitudinal horizontal. Kilometración Ferrol-Bilbao."
+ },
+ "cronologia": [
+  {
+   "hora": "13:50",
+   "evento": "Rotura de la mangueta del eje del tren 6722 durante la frenada para parada comercial en el apeadero de Cazoña. Activación de la señal antibloqueo de rueda."
+  },
+  {
+   "hora": "13:50",
+   "evento": "Maquinista intenta reanudar la marcha y advierte que un bogie permanece frenado."
+  },
+  {
+   "hora": "13:50:46",
+   "evento": "Maquinista comunica al puesto de mando de Santander que se ha quedado frenado el último vehículo."
+  },
+  {
+   "hora": "14:06:08",
+   "evento": "Maquinista solicita tren de socorro tras revisar la unidad sin detectar anomalías."
+  },
+  {
+   "hora": "14:16:19",
+   "evento": "CTC informa al maquinista de la salida del tren de socorro desde Santander."
+  },
+  {
+   "hora": "14:29:03",
+   "evento": "Maquinista comunica acoplamiento con tren de socorro y prueba de movimiento satisfactoria."
+  },
+  {
+   "hora": "14:44:32",
+   "evento": "Jefe de maquinistas informa al CTC del descarrilamiento de la UTE durante las operaciones de acople."
+  },
+  {
+   "hora": "20:12",
+   "evento": "El inspector general de FEVE comunica a la CIAF la rotura de un eje en el apeadero de Cazoña."
+  },
+  {
+   "hora": null,
+   "evento": "27 de octubre de 2009: la CIAF resuelve en pleno abrir la investigación."
+  },
+  {
+   "hora": null,
+   "evento": "31 de mayo de 2010: fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "6722",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "FEVE",
+   "danos": "Rotura de la mangueta izquierda del tercer eje (1º del 2º bogie) del coche remolque 3806. Descarrilamiento durante operaciones de acople con tren de socorro."
+  },
+  {
+   "numero": null,
+   "tipo": "tren de socorro",
+   "operador": "FEVE",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 6722",
+   "implicacion": "Carné ferroviario nº 9982. Habilitado para conducción de vehículos ferroviarios. Último reciclaje formativo 25/03/2008, último reconocimiento médico 19/02/2009. Jornada del 24: 1h20min (conducción efectiva 5 min). Detectó la incidencia y solicitó socorro."
+  },
+  {
+   "rol": "Jefe de maquinistas (tren de socorro)",
+   "implicacion": "Realizó revisión tras acoplamiento y detectó la rotura completa de la mangueta del eje del vehículo 3806. Informó al CTC del descarrilamiento."
+  },
+  {
+   "rol": "Inspector general de FEVE",
+   "implicacion": "Comunicó el incidente a la CIAF el 24/09/2009 a las 20:12. Entregó informe particular el 14/01/2010. Integrado en el equipo investigador."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático con control de tráfico centralizado (CTC). Sistema antibloqueo de rueda activado durante la frenada.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Alineación recta y nivelación longitudinal horizontal. Sin deficiencias constatadas en instalaciones técnicas.",
+  "otro": "Comunicaciones: radio y GSM. No fue necesario activar plan de emergencia."
+ },
+ "material_rodante": {
+  "series": "Coche motor 6806, remolque intermedio 6856, coche remolque con cabina 3806 (serie 3800). Cada coche con 2 bogies de 2 ejes.",
+  "averia": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806. Origen: fisura previa por dos entallas en zona recargada por soldadura. Eje fabricado en 1993, último calado en 2003. En el momento de la rotura el eje estaba unido por solo 1/3 de su superficie (2/3 con estado de oxidación indicando fisura de tiempo).",
+  "mantenimiento": "Última intervención R4 (120.000 km/1 año) realizada entre 24/11/2008 y 26/11/2008, con comprobación visual de ausencia de fisuras y deformaciones en bogies. Intervenciones R1-R4 con control visual. Verificación por ultrasonidos y partículas magnéticas en el calado de 2003. No se dispone de datos de calados/decalados anteriores. Falta de trazabilidad de ejes recuperados."
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806, por insuficiente capacidad de la sección motivada por la progresión de una fisura previa.",
+  "contribuyentes": [
+   "Dos entallas localizadas en una zona del eje recargada mediante soldadura, posiblemente producidas en un proceso de calado, que originaron la fisura.",
+   "Utilización de un procedimiento de trabajo inadecuado durante el montaje del eje: recargue mediante soldadura, operación prohibida desde hacía 5 años en todos los talleres de FEVE.",
+   "Ausencia de trazabilidad suficiente en la información de los talleres para identificar ejes recuperados que pudieran estar operativos.",
+   "Mantenimiento preventivo con inspección exclusivamente visual de los bogies, sin detección de fisuras internas.",
+   "Indicios de que el problema no era un caso aislado: estimación de hasta un 15% de ejes recuperados en el parque."
+  ],
+  "sistemicas": [
+   "Falta de un sistema de trazabilidad de las operaciones realizadas a los ejes.",
+   "Ausencia de inspección por ultrasonidos en el plan de mantenimiento para localización de fisuras.",
+   "Falta de instrucciones de control de calidad en los procesos de calado de ejes.",
+   "Procedimientos de recuperación de ejes mediante soldadura no eliminados completamente del parque operativo."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Rotura de la mangueta izquierda del tercer eje del vehículo 3806. Descarrilamiento durante operaciones de acople con tren de socorro. Unidad llevada al taller de Santander con dyploris.",
+  "afectacion_servicio": "Vía par interceptada durante 6 horas y 16 minutos. 1 tren de cercanías suprimido parcialmente, 9 totalmente. 13 trenes de cercanías con retraso total de 122 minutos."
+ },
+ "lecciones": [
+  "Las inspecciones visuales de bogies en intervenciones R4 no son suficientes para detectar fisuras internas en ejes recargados por soldadura.",
+  "La ausencia de trazabilidad de operaciones de recuperación de ejes impide identificar unidades potencialmente defectuosas en el parque operativo.",
+  "Un procedimiento de trabajo prohibido (recargue por soldadura) puede permanecer presente en el material rodante durante años si no existe control de trazabilidad.",
+  "La activación del antibloqueo de rueda durante la frenada fue un indicio temprano de la rotura del eje.",
+  "La rueda se soltó del eje antes de llegar a Cazoña pero no descarriló; el descarrilamiento se produjo durante el acople con el tren de socorro."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes.",
+   "destinatario": "FEVE"
+  },
+  {
+   "texto": "Incluir, en el tipo de intervención que sea más factible de los establecidos en el plan de mantenimiento de cada una de las series de material, una inspección por ultrasonidos que permita la localización de fisuras. Seguimiento de resultados.",
+   "destinatario": "FEVE"
+  },
+  {
+   "texto": "Establecer unas Instrucciones de Control de calidad en los procesos de calado de los ejes.",
+   "destinatario": "FEVE"
+  }
+ ],
+ "tags": [
+  "rotura de eje",
+  "mangueta",
+  "fisura",
+  "soldadura",
+  "calado",
+  "trazabilidad",
+  "feve",
+  "cercanías",
+  "descarrilamiento",
+  "mantenimiento",
+  "ultrasonidos",
+  "cantabria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240909-310510-CIAF"
+}

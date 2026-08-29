@@ -1,0 +1,147 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 621 de Renfe Operadora en el cambiador de ancho de Zaragoza Delicias por fallo en tornillería del eje BRAVA",
+ "idioma_original": "es",
+ "resumen": "El 4 de enero de 2011 a las 19:20, el tren de larga distancia 621 de Renfe Operadora (serie 120.050 de CAF, Vigo-Barcelona Sants) descarriló al pasar por el cambiador de ancho de Zaragoza Delicias. La rueda derecha del segundo eje del primer bogie no realizó el cambio de ancho convencional a UIC debido a la pérdida de un tornillo y el aflojamiento de otro del soporte de la palanca del cerrojo del mecanismo de bloqueo. No hubo víctimas. La circulación se vio afectada durante 13 horas y 18 minutos.",
+ "hechos": "El día 4 de enero de 2011, a las 19:20 horas, el tren de viajeros de larga distancia 621 de Renfe Operadora, compuesto por material CAF serie 120.050 (rama 120.051) con origen en Vigo y destino Barcelona Sants, descarriló al efectuar su paso por el cambiador de ancho de Zaragoza Delicias (PK 305+740, línea 060). El tren circulaba en ancho convencional y debía realizar el cambio a ancho UIC. La rueda del lado derecho del segundo eje del primer bogie en el sentido de la marcha no efectuó el cambio de ancho: el cerrojo que libera el mecanismo de bloqueo no llegó a desenclavarse debido a la pérdida del tornillo exterior del soporte de la palanca que desengatilla el cerrojo y al aflojamiento del tornillo interior. La rueda quedó en ancho convencional, remontó el carril de guiado del lado derecho y circuló por el exterior del carril derecho de la vía de ancho UIC hasta la detención del tren, aproximadamente 25 metros después del punto de descarrilamiento. Según el registrador de seguridad, la velocidad en el momento del descarrilamiento era de 6,5 km/h, inferior al límite de 17 km/h indicado en el manual de conducción.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Zaragoza Delicias",
+  "pk": "305+740",
+  "linea": "060 Cambiador de Zaragoza Delicias a Bifurcación Cambiador de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Cambiador de ancho de Zaragoza Delicias, que comunica la vía de ancho UIC de la línea 050 Zaragoza-Madrid con la línea 290 CIM aguja 337.1 a cambiador de Zaragoza, perteneciente a la línea 200 Madrid Chamartín-Barcelona estación de Francia (ancho convencional). Tramo Ricla-La Almunia-Cambiador-Ag. Km 308+6."
+ },
+ "cronologia": [
+  {
+   "hora": "2011-01-04T19:20",
+   "evento": "Descarrilamiento de la rueda derecha del segundo eje del primer bogie del tren 621 al pasar por el cambiador de ancho de Zaragoza Delicias"
+  },
+  {
+   "hora": "2011-01-04T19:20",
+   "evento": "El tren se detiene aproximadamente 25 metros después del punto de descarrilamiento"
+  },
+  {
+   "hora": "2011-01-04T20:00",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/1000 ml)"
+  },
+  {
+   "hora": "2011-01-05T08:38",
+   "evento": "Queda reparada la plataforma tipo CAF; se restablece la circulación"
+  },
+  {
+   "hora": "2011-02-25",
+   "evento": "Pleno de la CIAF resuelve abrir la investigación"
+  },
+  {
+   "hora": "2011-06-21",
+   "evento": "Estado de implantación de la chapa tope: S120 100%, S120.050 100%, S121 30%"
+  },
+  {
+   "hora": "2011-09-20",
+   "evento": "Firma del informe final en Madrid"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "621",
+   "tipo": "Viajeros larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en el bogie afectado (segundo eje del primer bogie en sentido de la marcha)"
+  },
+  {
+   "numero": "104019",
+   "tipo": "Tren de transbordo (regional)",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "537",
+   "tipo": "Tren de transbordo",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "091",
+   "tipo": "Tren de transbordo",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 621",
+   "implicacion": "Comunicó al CRC de Zaragoza Delicias el descarrilamiento. Poseía título B de conducción y habilitación conforme a Orden FOM/2520/2006. Último reciclaje formativo 04/11/08; último reconocimiento médico y psicotécnico 06/11/09. Prueba de alcoholemia negativa. Cumplía la normativa vigente."
+  },
+  {
+   "rol": "Agente de mantenimiento del cambiador",
+   "implicacion": "Encargado de las instalaciones del cambiador; la coordinación con jefes de CTC se asegura mediante telefonemas."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático de vía única electrificada con CTC y ancho convencional (lado convencional); bloqueo de señalización lateral y ancho UIC (lado UIC)",
+  "tipo_via": "Cambiador de ancho con plataformas independientes para material Talgo y material CAF",
+  "velocidad_maxima": "17 km/h para el cambio de ancho (serie 120.050)",
+  "ancho": "Transición de ancho convencional (1668 mm) a ancho UIC (1435 mm)",
+  "electrificacion": "Electrificada",
+  "estado_via": "Daños y deformaciones en los perfiles del sistema de guiado de la plataforma para el cambio de ancho de los bogies tipo BRAVA de CAF",
+  "otro": "Media semanal de circulaciones del tramo: 215 (baja): 38 larga distancia, 68 media distancia, 105 mercancías, 4 servicio. Radiotelefonía modalidad A en ancho convencional; GSM-R en ancho UIC. Instalaciones a cargo del CTC de Zaragoza Portillo/CIM (lado convencional) y CRC de Zaragoza Delicias/PLO Zaragoza (lado UIC)."
+ },
+ "material_rodante": {
+  "series": "CAF serie 120.050 (rama 120.051), bogies BRAVA (Bogie de Rodadura de Ancho Variable), 4 vehículos, 16 ejes, 266 toneladas",
+  "averia": "Pérdida del tornillo exterior y aflojamiento del tornillo interior del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo del cambio de ancho en el segundo eje del primer bogie. Parámetros de rodadura dentro de tolerancia.",
+  "mantenimiento": "1ª V1: 12/12/2010 (13.459 km); 2ª ES: 16/12/2010 (16.085 km); 3ª ES: 23/12/2010 (21.451 km); 4ª ES: 27/12/2010 (26.835 km); 5ª ES: 02/01/2011 (32.219 km). Plan de mantenimiento realizado correctamente. ES cada 4.500 km (no incluye comprobación de par de apriete de tornillos del soporte palanca); V1 cada 27.000 km (revisa par de apriete 250 Nm y presencia de tornillos). Kilometraje total: 34.581 km (12.758 pruebas, 701 vacío, 21.122 comercial)."
+ },
+ "clima": "Noche; no existían condiciones meteorológicas adversas",
+ "causas": {
+  "directa": "Fallo en los dispositivos de cambio de ancho de la rueda descarrilada (segundo eje del primer bogie en sentido de la marcha) debido a defectos en la tornillería de anclaje del soporte de la palanca del cerrojo que libera el mecanismo de bloqueo del cambio de ancho: pérdida del tornillo exterior y aflojamiento del tornillo interior.",
+  "contribuyentes": [
+   "El examen de servicio (ES) del plan de mantenimiento no contempla la comprobación del par de apriete de los tornillos de fijación del soporte palanca del dispositivo de seguridad",
+   "La frecuencia del ES (cada 4.500 km) no permite detectar el aflojamiento progresivo de los tornillos entre revisiones V1",
+   "El sistema de sujeción original de los tornillos no incluía un mecanismo de bloqueo redundante (chapa tope)"
+  ],
+  "sistemicas": [
+   "Diseño del sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del eje BRAVA susceptible de pérdida/aflojamiento sin detección en inspecciones rutinarias",
+   "Necesidad de adecuar el plan de mantenimiento desde el kilómetro 0 (salida de fábrica), incluyendo los kilómetros de pruebas"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en el bogie afectado. Infraestructura: daños y deformaciones en los perfiles del sistema de guiado de la plataforma para el cambio de ancho de los bogies tipo BRAVA de CAF.",
+  "afectacion_servicio": "Circulación afectada 13 horas y 18 minutos (19:20 del 4/01 a 08:38 del 5/01). 8 trenes de larga distancia con retraso total de 165 minutos; 1 tren de media distancia con 59 minutos de retraso; 2 trenes suprimidos (el implicado y otro de media distancia). Viajeros transbordados al tren 104019 hasta Zaragoza Delicias y de ahí a los trenes 537 y 091."
+ },
+ "lecciones": [
+  "El plan de mantenimiento tipo ES (cada 4.500 km) no detecta el aflojamiento o pérdida de tornillos del soporte palanca del dispositivo de seguridad del eje BRAVA",
+  "Un único tornillo perdido o aflojado es suficiente para impedir el desenclavamiento del cerrojo y provocar un descarrilamiento en el cambiador de ancho",
+  "La velocidad de paso por el cambiador (6,5 km/h) no fue un factor contribuyente, pues era inferior al límite de 17 km/h",
+  "El cosido con alambre de los tornillos presenta dificultades prácticas (taladrado, rotura del alambre, posición del orificio tras apriete) que pueden derivar en riesgos adicionales",
+  "Se produjo una incidencia similar el 23 de diciembre de 2007, lo que indica un problema recurrente no resuelto"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Modificar el sistema de sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho de los ejes BRAVA añadiendo una 'chapa tope' a las unidades de la flota S121 que a fecha de este informe aún no hayan sido modificadas.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Estudiar, diseñar e implantar un sistema que asegure la sujeción de los tornillos soporte del mecanismo de bloqueo del cambio de ancho del eje BRAVA en los ejes de nueva fabricación.",
+   "destinatario": "CAF"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambiador de ancho",
+  "eje BRAVA",
+  "tornillería",
+  "soporte palanca",
+  "cerrojo",
+  "bloqueo",
+  "serie 120.050",
+  "Zaragoza Delicias",
+  "ancho variable",
+  "mantenimiento",
+  "CAF"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-040111-200911-CIAF"
+}

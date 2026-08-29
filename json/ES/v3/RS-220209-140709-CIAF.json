@@ -1,0 +1,74 @@
+{
+ "titulo_normalizado": "Accidente ferroviario entre las estaciones de Chapela y Vigo en la línea 810",
+ "idioma_original": "es",
+ "resumen": "La resolución documenta el accidente ferroviario nº 0012/2009, ocurrido el 2009-02-22 entre las estaciones de Chapela y Vigo, en la línea 810 Vigo – Monforte de Lemos. El Pleno de la CIAF del 2009-07-14 aprobó como definitivo el informe particular presentado por el técnico investigador. El informe incluye una recomendación dirigida a Adif para estudiar la conveniencia de vallar la zona cercana al accidente. El texto no detalla trenes, causas, personal ni consecuencias.",
+ "hechos": "El 2009-02-22 se produjo un accidente ferroviario entre las estaciones de Chapela y Vigo, en la línea 810 Vigo – Monforte de Lemos. El expediente nº 0012/2009 fue analizado por la Comisión de Investigación de Accidentes Ferroviarios en su Pleno del 2009-07-14. En dicha sesión se aprobó como definitivo el informe particular presentado por el técnico investigador, que incluyó una recomendación a Adif para estudiar la conveniencia de vallar la zona cercana al accidente.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": null,
+  "linea": "810 Vigo – Monforte de Lemos",
+  "provincia": null,
+  "descripcion_lugar": "Entre las estaciones de Chapela y Vigo"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-02-22: Accidente ferroviario entre las estaciones de Chapela y Vigo"
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: Pleno de la CIAF aprueba el informe particular definitivo y la recomendación a Adif"
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": null
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "chapela",
+  "vigo",
+  "linea 810",
+  "monforte de lemos",
+  "ciaf",
+  "adif",
+  "vallado",
+  "recomendacion",
+  "resolucion"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-220209-140709-CIAF"
+}

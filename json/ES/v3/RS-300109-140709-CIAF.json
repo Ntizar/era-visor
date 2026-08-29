@@ -1,0 +1,68 @@
+{
+ "titulo_normalizado": "Accidente ferroviario en la estación de Sodupe (línea Santander-Bilbao)",
+ "idioma_original": "es",
+ "resumen": "La resolución identifica un accidente ferroviario ocurrido el 2009-01-30 en la estación de Sodupe, en la línea 24 Santander - Bilbao. El informe particular del técnico investigador fue aprobado por la CIAF en su pleno del 2009-07-14. El texto no describe la mecánica del suceso ni sus causas. Indica que no se establecen recomendaciones y menciona la licitación prevista de un estudio para aumentar la capacidad en el tramo Aranguren - Zaramillo, que podría implicar la supresión del paso a nivel.",
+ "hechos": "El 2009-01-30 se produjo un accidente ferroviario en la estación de Sodupe, de la línea 24 Santander - Bilbao.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sodupe",
+  "pk": null,
+  "linea": "24 Santander - Bilbao",
+  "provincia": null,
+  "descripcion_lugar": "Estación de Sodupe, de la línea 24 Santander - Bilbao."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-01-30: accidente ferroviario en la estación de Sodupe."
+  },
+  {
+   "hora": null,
+   "evento": "2009-07-14: pleno de la CIAF aprueba el informe particular y la resolución."
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Tramo Aranguren - Zaramillo con paso a nivel; está prevista la licitación de un estudio para aumentar la capacidad que podría implicar la supresión del paso a nivel."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "accidente ferroviario",
+  "sodupe",
+  "línea santander bilbao",
+  "ciaf",
+  "resolución",
+  "paso a nivel",
+  "aranguren zaramillo",
+  "sin recomendaciones",
+  "informe particular"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-300109-140709-CIAF"
+}

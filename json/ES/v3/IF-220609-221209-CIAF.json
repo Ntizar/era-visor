@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de un peatón en el paso a nivel de Infiesto (Asturias)",
+ "idioma_original": "es",
+ "resumen": "El 22 de junio de 2009, a las 09:20, el tren de viajeros 5950 de Feve arrolló a un peatón en el paso a nivel clase C nº 236 de la estación de Infiesto (Asturias). La víctima cruzó con las barreras bajadas y pese a la actuación correcta de la sonería y de los indicadores luminosos. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto; el hombre falleció en el acto. No hubo daños en material rodante ni en infraestructura y la vía no resultó interceptada. El informe no establece recomendaciones.",
+ "hechos": "El tren de viajeros 5950 de Feve, procedente de Llanes y con destino a Oviedo, arrolló a un hombre que cruzaba por el paso a nivel de clase C nº 236, situado dentro de la estación de Infiesto, lado Santander. La víctima cruzaba la vía de izquierda a derecha en el sentido de la marcha del tren, sorteando la barrera de la parte izquierda, correspondiente a la calle Camino Real. En el momento del arrollamiento, las barreras estaban bajadas y la sonería y los indicadores luminosos se encontraban activos.\n\nSegún el registrador de eventos del vehículo 2473, que circulaba en cabeza, a las 09:20:02 el maquinista reconoció la indicación en amarillo de la señal de entrada E4, lo que confirmaba que el paso a nivel estaba correctamente formado. A las 09:20:19, con el tren a 40 km/h, el maquinista actuó sobre el silbato. A las 09:20:22, a 38 km/h, aplicó el pulsador seta de emergencia, recorriendo 49 metros hasta la parada del tren, producida a las 09:20:35. La persona falleció en el acto como consecuencia del impacto y salió despedida hacia la parte derecha de vía, quedando fuera del gálibo.\n\nTras el arrollamiento, el agente comercial y de trenes quedó custodiando a la persona arrollada hasta la llegada del Samur, la Guardia Civil y la Policía Local de Infiesto. El tren reinició la marcha a las 09:24, tras estar parado 3 minutos y 23 segundos. El levantamiento del cadáver se produjo a las 10:15 por la autoridad competente. No se produjeron daños en el material rodante ni en la infraestructura, y la vía no resultó interceptada.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Infiesto",
+  "pk": "P.K.361+975",
+  "linea": "21 Oviedo - Santander",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Paso a nivel clase C, nº 236, situado dentro de la estación de Infiesto, en el tramo Oviedo - Llanes, término municipal de Piloña, Asturias. Está a la entrada de la estación, lado Santander, entre la señal de retroceso R2 y el desvío A2. Se encuentra en zona urbana, en la carretera AS-254, con pavimento de asfalto, y en la calle Camino Real que desemboca en el paso. Punto bastante transitado por vehículos y peatones."
+ },
+ "cronologia": [
+  {
+   "hora": "09:20",
+   "evento": "2009-06-22. El tren de viajeros 5950 de Feve arrolla a un peatón en el paso a nivel clase C nº 236 de la estación de Infiesto, con barreras bajadas, sonería y indicadores luminosos activos."
+  },
+  {
+   "hora": "09:20",
+   "evento": "Según el registrador de eventos del vehículo 2473, a las 09:20:02 el maquinista reconoce la indicación en amarillo de la señal de entrada E4, confirmando que el paso a nivel está correctamente formado."
+  },
+  {
+   "hora": "09:20",
+   "evento": "A las 09:20:19, con el tren a 40 km/h, el maquinista actúa sobre el silbato al observar al peatón sorteando la barrera."
+  },
+  {
+   "hora": "09:20",
+   "evento": "A las 09:20:22, con el tren a 38 km/h, el maquinista aplica el pulsador seta de emergencia; recorre 49 metros hasta la parada del tren, producida a las 09:20:35."
+  },
+  {
+   "hora": "09:24",
+   "evento": "El tren reinicia la marcha tras permanecer parado 3 minutos y 23 segundos en el lugar del arrollamiento."
+  },
+  {
+   "hora": "10:14",
+   "evento": "El Inspector General de Feve comunica a la CIAF, mediante mensaje de telefonía móvil, el arrollamiento de una persona en el paso a nivel clase C de Infiesto con barreras bajadas."
+  },
+  {
+   "hora": "10:15",
+   "evento": "La autoridad competente procede al levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "5950",
+   "tipo": "Tren de viajeros/cercanías diesel eléctrico, compuesto por UTDE 2473 en cabeza y UTDE 2423 en cola",
+   "operador": "Feve",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 5950",
+   "implicacion": "Número CF 9447. Realizaba turno nº 21 del Depósito del Berrón. Observó a un peatón sorteando la barrera, usó el silbato y el freno de emergencia sin poder evitar el arrollamiento. Poseía título de conducción y habilitación vigente; último reciclaje formativo el 2008-09-18 y último reconocimiento médico y psicotécnico el 2009-04-06. Prueba de alcoholemia negativa: 0,00 mg/1000 ml. Jornada del día del accidente: 2 horas y 50 minutos, con 40 minutos de tiempo efectivo de conducción. Fue relevado del servicio al llegar a El Berrón."
+  },
+  {
+   "rol": "Agente comercial y de trenes",
+   "implicacion": "Acompañaba al maquinista. Tras el arrollamiento, quedó custodiando a la persona arrollada hasta la llegada del Samur, la Guardia Civil y la Policía Local de Infiesto, y el tren quedó estacionado en el andén hasta recibir orden de reanudar la marcha."
+  },
+  {
+   "rol": "Inspector General de Feve",
+   "implicacion": "Comunicó el accidente a la CIAF el 2009-06-22 a las 10:14 y entregó su informe particular el 2009-08-05."
+  },
+  {
+   "rol": "Peatón/víctima",
+   "implicacion": "Varón de 90 años. Cruzó por el paso a nivel de izquierda a derecha en el sentido de la marcha del tren, pasando por debajo de la barrera con intención de cruzar las vías. Falleció en el acto como consecuencia del impacto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas. Señal de entrada E4 en amarillo; señal de retroceso R2 y desvío A2 en el ámbito de entrada a estación, lado Santander.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "60 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Vía no interceptada. El paso a nivel se cerró correctamente y permaneció cerrado por un tiempo no superior a 3 minutos hasta el arrollamiento; la inspección posterior comprobó su funcionamiento correcto.",
+  "otro": "Bloqueo automático (BAU) lado Oviedo y bloqueo telefónico (BT) lado Santander, lado del paso a nivel. Paso a nivel incluido en el cuadro de mando de la estación de Infiesto. Pavimento de asfalto en la carretera AS-254 y en la calle Camino Real. Radiotelefonía tren-tierra. Momento de circulación A(2.549) x T(48): 122.352 a fecha 2008-12-31."
+ },
+ "material_rodante": {
+  "series": "UTDE 2473 (cabeza) y UTDE 2423 (cola)",
+  "averia": "No se detectan averías. Los equipos de seguridad del tren, como freno y silbato, funcionaron correctamente. Velocidad registrada al aplicar el freno de emergencia: 38 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Soleado",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por la víctima al cruzar el paso a nivel cuando el tren estaba próximo, pese a que las barreras estaban bajadas, la sonería había actuado correctamente y los indicadores luminosos se encontraban activados.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+  "afectacion_servicio": "La vía no resultó interceptada. El tren 5950 reanudó su marcha a las 09:24, tras permanecer parado 3 minutos y 23 segundos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "peatón",
+  "paso a nivel",
+  "clase c",
+  "barreras bajadas",
+  "feve",
+  "infiesto",
+  "asturias",
+  "muerte",
+  "freno de emergencia",
+  "registrador de eventos",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-220609-221209-CIAF"
+}

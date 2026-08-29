@@ -1,0 +1,125 @@
+{
+ "titulo_normalizado": "Arrollamiento de dos peatones por tren de cercanías en plena vía entre Vilassar de Mar y Mataró (P.K. 26,100, línea 276)",
+ "idioma_original": "es",
+ "resumen": "El 24 de junio de 2008 a las 13:36, el tren de cercanías 25981 de Renfe Operadora arrolló a dos personas que caminaban por el margen de la Vía I (lado mar) en el P.K. 26,100 de la línea 276 Barcelona Sagrera–Maçanet-Massanes, entre Vilassar de Mar y Mataró. Una mujer de 30 años falleció y otra de 32 resultó herida grave. El origen fue la presencia de las víctimas en la vía, facilitada por defectos en el vallado ferroviario que permitían el paso de peatones. No se produjeron daños materiales en tren ni infraestructura.",
+ "hechos": "El día 24 de junio de 2008, a las 13:36 horas, el tren de viajeros de corta distancia 25981 de Renfe Operadora, formado por las U/T 447047 en cabeza y 447083 en cola (6 vehículos, masa total remolcada 432 Tm), procedente de L'Hospitalet de Llobregat con destino Maçanet-Massanes, arrolló a dos personas que caminaban por el margen de la Vía I (lado mar) en el P.K. 26,100, inicio del viaducto sobre la Riera D'Argentona. El maquinista hizo uso del silbato y, al ver que no se apartaban, accionó el manipulador a la posición de freno de urgencia, sin poder evitar golpear a las víctimas, despidiéndolas hacia las rocas junto al mar. Una mujer de 30 años resultó fallecida y otra de 32 años herida de gravedad.\n\nEn las inmediaciones del lugar existe un centro comercial y una zona industrial, y se habían detectado numerosos pasos viciosos (accesos a la vía) en el vallado (P.K. 25+500, 25+650, 25+100, 26+150, 26+200) que facilitaban el tránsito de viandantes junto a la vía. El viaducto ferroviario era el único puente existente sobre la riera, por lo que los peatones que accedían por los pasos viciosos invadían el gálibo del tren al cruzar.\n\nEl tren circulaba a 115 km/h, por debajo de la velocidad máxima permitida de 120 km/h. Tanto el material rodante como las instalaciones técnicas funcionaron correctamente. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "26,100",
+  "linea": "276 Barcelona Sagrera - Maçanet-Massanes",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Inicio del viaducto sobre la Riera D'Argentona, trayecto Vilassar de Mar - Mataró. Vía doble electrificada junto al mar, con escollera de protección. En el punto del accidente existe un puente sobre una riera, desapareciendo la franja de ancho entre vía y mar."
+ },
+ "cronologia": [
+  {
+   "hora": "13:36",
+   "evento": "El tren 25981 arrolla a dos personas en el P.K. 26,100. El maquinista acciona el freno de urgencia tras usar el silbato sin resultado."
+  },
+  {
+   "hora": "13:36",
+   "evento": "Comienza la interrupción de la circulación por ambas vías (35 minutos) y de la Vía I (52 minutos)."
+  },
+  {
+   "hora": "15:14",
+   "evento": "Se restablece la frecuencia de trenes de cercanías entre Vilassar de Mar y Mataró."
+  },
+  {
+   "hora": "18:17",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el accidente a la CIAF mediante telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "22/09/2008: El Responsable de Seguridad de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "08/10/2008: El Gerente Territorial de Seguridad en la Circulación Noreste de Adif entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "28/11/2008: El Pleno de la CIAF aprueba el informe definitivo y la resolución."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25981",
+   "tipo": "Tren de viajeros de corta distancia (cercanías)",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 25981 (matrícula 1345586)",
+   "implicacion": "Accionó el silbato y el freno de urgencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción: 3h 39min el día del accidente; 4h 03min en las 24h anteriores; descanso (vacaciones) en las 48h anteriores. Título de conducción vigente, reciclaje formativo 13/11/2007, reconocimiento psicofísico 10/10/2007."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo BAB con CTC",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "120 km/h",
+  "ancho": null,
+  "electrificacion": "Sí (electrificada)",
+  "estado_via": "Correcta. No se recogía limitación de velocidad temporal en el lugar (Consigna Serie B Nº 6 de la Gerencia Operativa de Barcelona).",
+  "otro": "Trazado junto al mar. Plataforma protegida con escollera. P.K. 26,100 es inicio del viaducto sobre la Riera D'Argentona. Franja de ancho variable entre vía y mar desaparece en el puente. Vallado con numerosos pasos viciosos (P.K. 25+500, 25+650, 25+100, 26+150, 26+200). Centro comercial en las inmediaciones (distancia borde explanación ferroviaria: 33,50-43,50 m, cumpliendo ORDEN FOM 2230/2005)."
+ },
+ "material_rodante": {
+  "series": "U/T 447047 (cabeza) y U/T 447083 (cola), 6 vehículos, 432 Tm",
+  "averia": "Ninguna. Funcionamiento correcto.",
+  "mantenimiento": "Registrador de seguridad de la U/T 447047 operativo, confirmando velocidad de 115 km/h en el momento del arrollamiento."
+ },
+ "clima": "Buenas condiciones atmosféricas. Día.",
+ "causas": {
+  "directa": "Presencia de las víctimas (dos peatones) en la vía en el momento en que pasaba el tren de corta distancia.",
+  "contribuyentes": [
+   "Defectos y roturas en el vallado ferroviario con numerosos pasos viciosos (P.K. 25+500, 25+650, 25+100, 26+150, 26+200) que facilitaban el acceso de viandantes a la vía.",
+   "Ausencia de un paso alternativo cercano sobre la Riera D'Argentona: el viaducto ferroviario era el único puente existente, lo que obligaba a los peatones a invadir el gálibo del tren.",
+   "Problema de movilidad urbana entre los municipios de Cabrera de Mar y Mataró, separados por la Riera de Argentona.",
+   "Zona frecuentada por pescadores y por personas que se dirigen desde la zona industrial al centro comercial sin paso alternativo."
+  ],
+  "sistemicas": [
+   "Falta de coordinación urbanística para resolver la movilidad peatonal entre municipios separados por la infraestructura ferroviaria.",
+   "Insuficiente mantenimiento o reparación del vallado de protección de la infraestructura ferroviaria."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 1,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+  "afectacion_servicio": "Circulación interrumpida por ambas vías 35 minutos; Vía I interrumpida 52 minutos. Suspensión de la frecuencia de cercanías entre Vilassar de Mar y Mataró de 13:36 a 15:14. 34 trenes de cercanías afectados con un retraso total de 822 minutos. 7 trenes de cercanías suprimidos."
+ },
+ "lecciones": [
+  "La presencia de peatones en la vía constituye un riesgo mortal que no puede ser evitado por el maquinista con el freno de urgencia a 115 km/h.",
+  "El vallado ferroviario debe mantenerse íntegro; las discontinuidades crean pasos viciosos que facilitan el acceso de viandantes a la vía.",
+  "La existencia de un único puente sobre un cauce (Riera de Argentona) compartido con la infraestructura ferroviaria genera un conflicto de movilidad urbana que se resuelve de forma insegura por los peatones.",
+  "La proximidad de equipamientos (centro comercial, zona industrial) y actividades (pesca) junto a la vía requiere una evaluación continua de los flujos peatonales y de la adecuación del vallado."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Reparación de las discontinuidades en el vallado que permiten el paso de personas del lado montaña al lado mar en el trayecto de Vilassar hasta Mataró, en especial en la zona del puente sobre la Riera de Argentona.",
+   "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+  },
+  {
+   "texto": "Al haberse detectado un problema de movilidad urbana entre los municipios de Cabrera de Mar y Mataró (separados ambos municipios por la Riera de Argentona), se recomienda que estos organismos estudien la posibilidad de construir una pasarela peatonal sobre la Riera, que evite la utilización del puente ferroviario para el tránsito peatonal.",
+   "destinatario": "Ayuntamientos de Cabrera de Mar y Mataró / organismos de movilidad urbana"
+  }
+ ],
+ "tags": [
+  "arrollamiento peatones",
+  "cercanías",
+  "vallado defectuoso",
+  "pasos viciosos",
+  "viaducto sobre riera",
+  "movilidad urbana",
+  "freno de urgencia",
+  "línea 276",
+  "renfe operadora",
+  "adif",
+  "ciaf",
+  "accidente mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-240608-281108-CIAF"
+}

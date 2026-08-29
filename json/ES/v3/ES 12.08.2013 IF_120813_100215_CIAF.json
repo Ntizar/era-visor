@@ -1,0 +1,132 @@
+{
+ "titulo_normalizado": "Descarrilamiento en plena vía de vagoneta de electrificación entre Salomó y Valls por rotura de eje",
+ "idioma_original": "es",
+ "resumen": "El 2013-08-12, sobre las 09:12 horas, la vagoneta de electrificación SC507 de Adif descarriló en plena vía en el PK 18+920, entre Salomó y Valls, durante trabajos de mantenimiento preventivo de la línea aérea de contacto. La causa fue la rotura de la mangueta derecha del segundo eje según el sentido de la marcha. Resultaron heridos leves el conductor y los tres operarios que viajaban a bordo. La circulación se vio afectada durante unas 12 horas y se produjeron daños materiales en el vehículo y en la vía.",
+ "hechos": "El 2013-08-12 estaban programados trabajos de electrificación, concretamente de mantenimiento preventivo de la línea aérea de contacto, en el trayecto entre Salomó y Valls, según el punto nº 20 del acta semanal de trabajos nº 33/2013 de la Subdirección de Operaciones Noreste de Adif. Los trabajos se realizaban en régimen de interrupción de la circulación y al amparo del artículo 341 del Reglamento General de Circulación.\n\nLa vagoneta de electrificación de Adif circulaba como tren SC507 con un equipo de electrificación compuesto por cuatro personas. Salió alrededor de las 09:12 horas de la estación de Salomó en dirección a Valls y, a la altura del PK 18+920, los ocupantes escucharon un ruido acompañado de un desplazamiento del vehículo hacia la izquierda según el sentido de la marcha. El conductor aplicó el freno a fondo y la vagoneta se detuvo en el PK 18+850, tras recorrer descarrilada unos 70 metros; la velocidad en el momento del suceso era aproximadamente de 50 km/h.\n\nComo consecuencia del descarrilamiento resultaron heridos de carácter leve el conductor y los otros tres operarios que viajaban a bordo. El conductor avisó del suceso al puesto de mando de Barcelona, y no fue necesaria la intervención de cuerpos y fuerzas de seguridad ni de servicios de emergencia externos.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Salomó",
+  "pk": "PK 18+920",
+  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Plena vía entre Salomó y Valls, cerca de la salida de la estación de Salomó en dirección a Valls. Tramo Valls – Roda de Bará, municipio de Salomó, provincia de Tarragona. La vía discurre en una rampa de 10,40 milésimas según el sentido de la marcha y entre el punto '0' y el punto de detención la vía está en trinchera."
+ },
+ "cronologia": [
+  {
+   "hora": "09:12",
+   "evento": "La vagoneta SC507 sale de la estación de Salomó en dirección a Valls para realizar trabajos de electrificación."
+  },
+  {
+   "hora": "09:12",
+   "evento": "Se produce el descarrilamiento en el PK 18+920; los ocupantes oyen un ruido y el vehículo se desplaza hacia la izquierda según el sentido de la marcha."
+  },
+  {
+   "hora": "09:12",
+   "evento": "El conductor aplica el freno a fondo y la vagoneta se detiene en el PK 18+850 tras recorrer descarrilada unos 70 metros."
+  },
+  {
+   "hora": "09:30",
+   "evento": "Se solicita tren taller."
+  },
+  {
+   "hora": "12:00",
+   "evento": "Prueba de alcoholemia en aire espirado al conductor, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "15:25",
+   "evento": "Queda encarrilado el eje descarrilado."
+  },
+  {
+   "hora": "20:53",
+   "evento": "El tren taller aparta la vagoneta a la vía 2 de Salomó."
+  },
+  {
+   "hora": "20:58",
+   "evento": "El capataz de vía y obra comunica que se puede circular sin limitaciones al paso por el punto kilométrico del descarrilamiento."
+  },
+  {
+   "hora": "21:40",
+   "evento": "Se restablece la tensión en el trayecto Salomó – Valls."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "SC507",
+   "tipo": "vagoneta de electrificación VLD EL, velocidad máxima 70 km/h",
+   "operador": "Adif",
+   "danos": "Rotura de la mangueta derecha del segundo eje según el sentido de la marcha; daños en el eje trasero; vehículo dado de baja y retirado para desguace."
+  },
+  {
+   "numero": null,
+   "tipo": "6 trenes afectados por la interceptación de la vía",
+   "operador": "Renfe Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "conductor de la vagoneta de electrificación",
+   "implicacion": "Conducía la vagoneta SC507; escuchó un ruido y el desplazamiento del vehículo, aplicó el freno a fondo y resultó herido leve. Poseía título A de conducción habilitado conforme a la Orden FOM/2520/2006; último curso formativo 2012-05-25 y último reconocimiento médico y psicotécnico 2012-05-29. Jornada de 8 horas, con 2 horas y 12 minutos hasta el accidente; descanso los días 2013-08-11 y 2013-08-10. Prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "operarios de electrificación",
+   "implicacion": "Tres operarios viajaban a bordo de la vagoneta; resultaron heridos de carácter leve."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (BAU) con CTC gestionado desde el puesto de mando de Barcelona; en el momento del suceso la secuencia de señales era vía libre.",
+  "tipo_via": "Vía única electrificada de ancho ibérico.",
+  "velocidad_maxima": null,
+  "ancho": "Ancho ibérico.",
+  "electrificacion": "Línea electrificada; se realizaban trabajos de mantenimiento preventivo de la línea aérea de contacto; la tensión se restableció a las 21:40 horas.",
+  "estado_via": "No se realizaron mediciones de los parámetros de la vía de la zona del descarrilamiento al detectarse que la causa era la rotura del segundo eje; se produjeron daños en 7 traviesas y pequeñas deformaciones valoradas en 3.100 €.",
+  "otro": "Tramo Valls – Roda de Bará; media semanal de 89 circulaciones: 57 de media distancia, 29 de mercancías y 3 de servicio."
+ },
+ "material_rodante": {
+  "series": "Vagoneta de electrificación VLD EL, matrícula 9671140, Nº UIC 927160205518, serie de vehículos construidos por CAF en los años 70.",
+  "averia": "Rotura de la mangueta derecha del segundo eje según el sentido de la marcha; daños en el eje trasero; grasa aparentemente correcta en densidad pero no en color; vehículo sin ASFA embarcado, sin registrador de seguridad, sin seta de urgencia y con cuentakilómetros y cuentarrevoluciones no funcionales.",
+  "mantenimiento": "Plan de mantenimiento VLD EL de 2006-12-20; últimas intervenciones IS1 2012-03-21, IS2 2013-02-28 e IM 2003-11-18; desmontaje de cajas de grasa e inspecciones por ultrasonidos y magnetoscopía solo en IM cada 10 años; se desconoce el número de kilómetros; no hubo informe técnico de taller o laboratorio; vehículo dado de baja y retirado para desguace."
+ },
+ "clima": "Era de día y no existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo del material móvil, concretamente rotura de la mangueta derecha del segundo eje según el sentido de la marcha.",
+  "contribuyentes": [],
+  "sistemicas": [
+   "El plan de mantenimiento solo contempla desmontaje de cajas de grasa e inspecciones por ultrasonidos y magnetoscopía en la intervención IM, cada 10 años, sin limitación por kilómetros."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 4,
+  "danos_materiales": "Material rodante: daños en el eje trasero y vehículo dado de baja para desguace. Infraestructura: daños en 7 traviesas y pequeñas deformaciones, valoración económica 3.100 €.",
+  "afectacion_servicio": "Circulación afectada durante 12 horas aproximadamente, desde las 09:12 hasta las 20:58 horas; otros 6 trenes de Renfe Operadora resultaron afectados con un retraso total de 52 minutos; tensión restablecida a las 21:40 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar la posibilidad de modificar los planes de mantenimiento de los vehículos similares al de este informe (vagonetas, dresinas, etc.), de forma que las operaciones de desmontaje de cajas de grasa e inspecciones de los ejes mediante ultrasonidos y magnetoscopía se realicen en un mayor número de intervenciones, sin limitarse sólo a las de mayor nivel según lo previsto en los planes de mantenimiento, con objeto de acortar el tiempo entre las citadas intervenciones.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Incluir, en los planes de mantenimiento de todos los vehículos, la operación de control por ultrasonidos e inspección por partículas magnéticas y líquidos penetrantes en un mayor número de intervenciones de mantenimiento de los ejes, sin limitarse a la intervención de mayor nivel prevista en el plan.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "vagoneta de electrificación",
+  "adif",
+  "rotura de eje",
+  "mangueta",
+  "mantenimiento",
+  "línea 200",
+  "salomó",
+  "valls",
+  "tarragona",
+  "heridos leves",
+  "fallo de material móvil"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 12.08.2013 IF_120813_100215_CIAF"
+}

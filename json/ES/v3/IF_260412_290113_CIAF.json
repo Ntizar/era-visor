@@ -1,0 +1,117 @@
+{
+ "titulo_normalizado": "Rebase indebido de la señal de salida S1/3 en la estación de Río Huerva (Zaragoza)",
+ "idioma_original": "es",
+ "resumen": "El 2012-04-26, a las 23:58 horas, el tren de mercancías 99561 de Logitren rebasó indebidamente la señal de salida S1/3 en parada en la estación (apartadero) de Río Huerva, Zaragoza. El rebase produjo un conato de colisión con el tren 91182 de Renfe Operadora, que estaba detenido ante la señal de entrada E2 para el cruce. No hubo fallecidos, heridos ni daños materiales, pero el tren 99561 acumuló 180 minutos de retraso y el 91182, 6 minutos. La causa directa fue el incumplimiento de la orden de parada por el personal de conducción; no se establecieron recomendaciones.",
+ "hechos": "El día 26 de abril de 2012, a las 23:58 horas, los trenes de mercancías 99561 de Logitren y 91182 de Renfe Operadora circulaban en sentido contrario por vía única hacia la estación de Río Huerva, en la línea 214 La Cartuja a CIM de Zaragoza. Para permitir el cruce, el CTC dispuso la detención del tren 91182 ante la señal de entrada E2 y un itinerario de entrada hasta la señal S1/3 para el tren 99561.\n\nEl tren 99561 encontró la señal de avanzada E'1 en anuncio de precaución y la señal de entrada E1 en anuncio de parada, ambas reconocidas por el maquinista. Tras acceder a vía 3, el maquinista no se apercibió a tiempo de la señal de salida S1/3, que indicaba parada; aplicó el freno de emergencia a 24 km/h y a 25 metros de la señal, pero rebasó la señal a 20 km/h y quedó detenido 18 metros después, sin talonar el cambio de acceso a vía general. El sistema ASFA activó de forma redundante el frenado de urgencia.\n\nEn ese momento, el tren 91182 estaba detenido ante la señal E2, con indicación de parada, produciéndose un conato de colisión entre ambos trenes, que quedaron enfrentados a más de 110 metros. El tren 99561 comunicó el suceso al CTC y se cursó aviso a Seguridad en la circulación, Jefatura técnica de operaciones de Aragón, CPS de Adif y Logitren; al no haber talonado la aguja, fue autorizado a retroceder por vía 3 hasta liberar el circuito de agujas y estacionarse, reanudando la marcha a las 02:50 horas del 27 de abril de 2012.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Río Huerva",
+  "pk": "16+973",
+  "linea": "214 La Cartuja a CIM de Zaragoza",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Estación (apartadero) de Río Huerva, PK 16+973, tramo Bif. Teruel – Cartuja –Ag. 23.3, municipio Cerveruela, provincia de Zaragoza; vía única electrificada, enclavamiento electrónico y dos vías, en paralelo con el Bypass de Zaragoza de la LAV Madrid-Barcelona."
+ },
+ "cronologia": [
+  {
+   "hora": "23:55",
+   "evento": "El tren 99561 pasa por la baliza de pie de la señal de avanzada E'1 en anuncio de precaución, a 47 km/h."
+  },
+  {
+   "hora": "23:57",
+   "evento": "El tren 99561 pasa por la baliza previa y de pie de la señal de entrada E1 en anuncio de parada; el maquinista reconoce las indicaciones."
+  },
+  {
+   "hora": "23:58",
+   "evento": "El tren 99561 aplica freno de emergencia a 24 km/h, a 25 metros de la señal S1/3, al percatarse de su indicación de parada."
+  },
+  {
+   "hora": "23:58",
+   "evento": "El tren 99561 rebasa la señal S1/3 en parada a 20 km/h; se activa el frenado de urgencia por ASFA y se produce el conato de colisión con el tren 91182."
+  },
+  {
+   "hora": "23:59",
+   "evento": "El tren 99561 queda detenido 18 metros después de la señal S1/3, sin talonar el cambio."
+  },
+  {
+   "hora": "01:15",
+   "evento": "El 27 de abril de 2012 se realiza prueba de alcoholemia al maquinista del tren 99561, con resultado negativo."
+  },
+  {
+   "hora": "02:50",
+   "evento": "El 27 de abril de 2012, el tren 99561 reanuda la marcha tras retroceder a vía 3 y ser relevado el maquinista."
+  },
+  {
+   "hora": "08:23",
+   "evento": "El 27 de abril de 2012, el jefe de gabinete de investigación de accidentes e inspección de Adif comunica el suceso a la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "99561",
+   "tipo": "Tren de mercancías",
+   "operador": "Logitren",
+   "danos": "Sin daños materiales"
+  },
+  {
+   "numero": "91182",
+   "tipo": "Tren",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 99561",
+   "implicacion": "Conducía el tren Logitren; matrícula 41515728-Y-B; no llevaba acompañante; llevaba teléfono móvil particular pero no lo utilizó; no recibió ninguna orden, solo las señales; título B habilitado; llevaba 7 meses como maquinista para Logitren desde junio de 2011; último reconocimiento médico y psicotécnico 2010-12-09; prueba de alcoholemia 2012-04-27 a las 01:15 negativa; rebasó la señal S1/3 en parada; Logitren aplicó procedimiento de actuación por fallo humano."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de avanzada E'1 alta de tres focos, con baliza previa, baliza de señal y pantalla alfanumérica; señal de entrada E1 alta de tres focos, con baliza previa y de señal; señal de salida S1/3 mono bajo de cuatro focos, con baliza de pie y buena visibilidad; señal E2 en parada para el tren 91182; enclavamiento electrónico; ASFA activo.",
+  "tipo_via": "Vía única electrificada; estación/apartadero con dos vías; escapes tipo B por ambos lados, con paso por vía desviada a 50 km/h.",
+  "velocidad_maxima": "160 km/h en el tramo; 50 km/h en el paso por desvío; tren 99561 tipo T100, velocidad máxima 100 km/h.",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionó correctamente; no se produjeron daños en la infraestructura.",
+  "otro": "Bloqueo automático BAU con control de tráfico centralizado (CTC) gestionado desde Zaragoza; radiotelefonía analógica y telefonía móvil GSM; tráfico medio semanal de 230 circulaciones en el tramo, considerado bajo; variante exterior a Zaragoza para mercancías; trazado en curva a derechas de radio amplio (unos 2000 m) y rampa de 16 milésimas."
+ },
+ "material_rodante": {
+  "series": "Tren 99561: origen Barcelona-Morrot, destino Santurce (Vizcaya); locomotora diésel-eléctrica serie 335, Nº UIC 957103350287; tren tipo T100; 14 vagones PMMC cargados; 84 ejes; 414 metros; 947 toneladas.",
+  "averia": "Ninguna; el material rodante funcionó correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, con tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida S1/3 en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción.",
+  "contribuyentes": [
+   "El maquinista observó varias señales en parada al final de la vía 3 y pensó que la S1/3 no era la señal de salida de la vía por la que circulaba.",
+   "El inicio del frenado se produjo a solo 25 metros de la señal S1/3, a 24 km/h, lo que impidió detenerse antes de rebasarla.",
+   "Aunque las señales tenían buena visibilidad y el tren circulaba a poca velocidad, el maquinista no se apercibió a tiempo de la indicación de parada."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante.",
+  "afectacion_servicio": "Conato de colisión; el tren 99561 sufrió 180 minutos de retraso y el tren 91182, 6 minutos; el 99561 fue autorizado a retroceder a vía 3 y reanudó la marcha a las 02:50 del 27 de abril de 2012."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "rebase de señal",
+  "señal de parada",
+  "conato de colisión",
+  "estación de río huerva",
+  "línea 214",
+  "tren de mercancías",
+  "logitren",
+  "renfe operadora",
+  "asfa",
+  "fallo humano",
+  "zaragoza",
+  "incidente ferroviario"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_260412_290113_CIAF"
+}

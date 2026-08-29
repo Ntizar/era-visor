@@ -1,0 +1,108 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de cercanías entre Tordera y Blanes",
+ "idioma_original": "es",
+ "resumen": "El 20 de enero de 2009, a las 13:46, el tren de cercanías 25630 de Renfe Operadora arrolló a un hombre de 80 años en plena vía, en el PK 64,810 de la línea 276, entre Tordera y Blanes. La víctima intentaba cruzar la vía por un antiguo paso a nivel ya suprimido, aunque todavía quedaban marcas de señalización. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el atropello, y el fallecido murió en el acto. La investigación concluyó que el origen fue la invasión del galibo por la víctima y recomendó retirar las señales vinculadas al paso a nivel suprimido.",
+ "hechos": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de Renfe Operadora, procedente de Tordera y con dirección a Blanes, arrolló en plena vía a una persona que intentaba cruzar la vía de izquierda a derecha en sentido de la circulación del tren. El accidente se produjo en el PK 64,810, entre las estaciones de Tordera y Blanes, en la línea 276 Barcelona Sagrera a Macanet-Massanes.\nAunque el maquinista hizo uso del silbato y del freno de emergencia, no pudo evitar el impacto. Como consecuencia del arrollamiento, la víctima, un hombre de 80 años, falleció en el acto.\nEn el lugar existía una zona de huertos y trazas de un antiguo camino que cruzaba la vía por un paso a nivel suprimido, del que aún quedaban marcas de señalización de carretera. En el punto de acceso a la vía la vegetación era espesa y había árboles de altura considerable que disminuían la visibilidad.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "64,810",
+  "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía entre Tordera y Blanes, PK 64,810, tramo Blanes – Macanet Massanes, zona de huertos con restos de un antiguo paso a nivel suprimido y vegetación que disminuía la visibilidad."
+ },
+ "cronologia": [
+  {
+   "hora": "13:46",
+   "evento": "El tren de cercanías 25630 arrolla a una persona en plena vía en el PK 64,810; se interrumpe la circulación entre Maçanet–Masanes y Blanes."
+  },
+  {
+   "hora": "14:13",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "14:24",
+   "evento": "Llegan al lugar los Mossos d'Esquadra, policía local, bomberos y ambulancia."
+  },
+  {
+   "hora": "15:15",
+   "evento": "Los viajeros del tren implicado son evacuados en autobús."
+  },
+  {
+   "hora": "16:40",
+   "evento": "Se realiza el levantamiento del cadáver."
+  },
+  {
+   "hora": "16:49",
+   "evento": "Se reanuda la circulación normal."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25630",
+   "tipo": "Tren de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de viajeros 25630",
+   "implicacion": "Matrícula 8862989; hizo uso del silbato y del freno de emergencia, pero no pudo evitar el accidente; actuación considerada correcta; alcoholemia negativa (0,00 mg/1000 ml); poseía título de conducción habilitado conforme a la Orden Ministerial 2520/2006; último reciclaje formativo 27/05/08 y último reconocimiento médico y psicotécnico 05/04/05."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Antigua señalización de carretera vinculada a un paso a nivel ya suprimido; aún quedaban marcas y se recomendó su retirada.",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "105 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC), radiotelefonía modalidad A; tramo con media semanal de 223 circulaciones de cercanías, considerada muy baja."
+ },
+ "material_rodante": {
+  "series": "UTs 464204 en cabeza y 463214 en cola, 7 coches y 352 Tn de masa remolcada; Nº UIC 927164642047",
+  "averia": "No se producen daños; los equipos de seguridad del tren (freno, ASFA, sistema de vigilancia, etc.) funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Día y tiempo despejado.",
+ "causas": {
+  "directa": "Invasión del galibo de la vía por la víctima cuando pasaba el tren 25630.",
+  "contribuyentes": [
+   "La víctima cruzó la vía por el lugar donde hubo un paso a nivel ya suprimido.",
+   "Aún quedaban marcas de la señalización de carretera del paso a nivel suprimido.",
+   "En el punto de acceso a la vía la vegetación se espesaba y había árboles de altura considerable que disminuían la visibilidad."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+  "afectacion_servicio": "Interrupción de circulaciones entre Maçanet–Masanes y Blanes desde las 13:46 hasta las 16:49 horas; 11 trenes de cercanías afectados con 163 minutos de retraso total y 2 trenes suprimidos; durante la intervención se autorizó la circulación de dos trenes a 5 km/h por el lugar del accidente."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido.",
+   "destinatario": "DGF"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "cercanías",
+  "plena vía",
+  "paso a nivel suprimido",
+  "invasión del galibo",
+  "tordera",
+  "blanes",
+  "barcelona",
+  "renfe operadora",
+  "adif",
+  "fallecido"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-200109-2-190509-CIAF_TORDERA Y BLANES"
+}

@@ -1,0 +1,113 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en paso vicioso entre Montroig del Camp y L'Hospitalet de L'Infant, Tarragona",
+ "idioma_original": "es",
+ "resumen": "El 25 de mayo de 2007 a las 19:17, el tren de Larga Distancia 1181 de RENFE arrolló a una persona que intentaba cruzar las vías por un paso vicioso en el pk 244,350 de la línea Valencia–San Vicente de Calders, entre Montroig del Camp y L'Hospitalet de L'Infant (Tarragona). La víctima falleció. El tren circulaba a 148 km/h, por debajo de la máxima permitida de 160 km/h. El maquinista accionó el silbato repetidamente y la válvula de urgencia sin poder evitar el arrollamiento. No se produjeron daños materiales. La causa directa fue la invasión indebida de la vía por la persona accidentada.",
+ "hechos": "A las 19:17 del 25 de mayo de 2007, el tren de viajeros de Larga Distancia 1181 de RENFE, con origen en Sant Andreu Comtal y destino Alicante, arrolló a una persona que intentaba cruzar las vías por un paso vicioso aparentemente bastante utilizado, situado en el pk 244,350 de la línea Valencia a San Vicente de Calders, entre Montroig del Camp y L'Hospitalet de L'Infant, en la provincia de Tarragona. El punto del arrollamiento se encontraba en recta, próximo a la salida de una curva, con buena visibilidad hacia ambos lados. El tren circulaba a 148 km/h (máxima permitida: 160 km/h).\n\nSegún el parte del maquinista, al ver a la persona disponerse a cruzar la vía en sentido montaña a mar, hizo uso reiterado del silbato y, al no responder la persona al aviso, accionó la válvula de urgencia (seta) para detener el tren, sin poder evitar el arrollamiento. La prueba de alcoholemia al maquinista dio resultado negativo (0,00 mg/1000 ml).\n\nEl maquinista comunicó el suceso al Puesto de Mando de Barcelona, que cursó aviso a las Gerencias de Seguridad en la Circulación de ADIF y RENFE, Protección Civil, Jefatura de Operaciones de Tarragona-Lleida, Delegación del Gobierno de Cataluña y servicios de emergencia. El tren 1181 quedó apartado en la estación de L'Hospitalet de L'Infant hasta las 20:28. A las 21:15 la Autoridad Judicial autorizó el levantamiento del cadáver y se reanudó la circulación normal.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "244,350",
+  "linea": "Valencia a San Vicente de Calders",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Paso vicioso aparentemente bastante utilizado, en recta próximo a la salida de una curva, entre Montroig del Camp y L'Hospitalet de L'Infant. Visibilidad buena hacia ambos lados."
+ },
+ "cronologia": [
+  {
+   "hora": "19:17",
+   "evento": "Arrollamiento de una persona por el tren LD 1181 en el pk 244,350"
+  },
+  {
+   "hora": "19:17",
+   "evento": "El maquinista comunica el suceso al Puesto de Mando de Barcelona"
+  },
+  {
+   "hora": "20:15",
+   "evento": "Se autoriza la circulación entre Montroig del Camp y L'Hospitalet de L'Infant (pk 244-245) con marcha a la vista"
+  },
+  {
+   "hora": "20:28",
+   "evento": "El tren 1181 reanuda marcha desde L'Hospitalet de L'Infant hacia Alicante"
+  },
+  {
+   "hora": "21:15",
+   "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver; se reanuda la circulación en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1181",
+   "tipo": "Viajeros Larga Distancia (Euromed)",
+   "operador": "RENFE",
+   "danos": "Sin daños materiales. Retraso de 80 minutos."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1181",
+   "implicacion": "Accionó silbato reiteradamente y válvula de urgencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada previa: 2h 17min. Descanso en las 24 y 48 horas anteriores. Apto para el desarrollo de sus funciones."
+  },
+  {
+   "rol": "Víctima (persona arrollada)",
+   "implicacion": "Fallecida. Intentaba cruzar las vías por un paso vicioso sin percatarse de la llegada del tren."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Bloqueo Automático Banalizado con CTC en vía única. Red Ferroviaria de Interés General administrada por ADIF. Paso vicioso en pk 244,350, en recta a la salida de una curva."
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Soleado",
+ "causas": {
+  "directa": "Invasión indebida de la vía por la persona accidentada al cruzar por un paso vicioso sin percatarse de la llegada del tren 1181, siendo inevitable el arrollamiento a pesar de la actuación del maquinista (aviso acústico reiterado y aplicación urgente del freno).",
+  "contribuyentes": [
+   "Existencia de un paso vicioso aparentemente bastante utilizado en la zona del accidente",
+   "El punto de arrollamiento se encuentra en recta a la salida de una curva en la que los trenes circulan a altas velocidades"
+  ],
+  "sistemicas": [
+   "Acceso indebido a la vía por paso no autorizado (paso vicioso) sin medidas que impidan el acceso"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales.",
+  "afectacion_servicio": "Retraso de 80 minutos en el tren 1181. Retraso acumulado de 334 minutos en 6 trenes de Larga Distancia, 200 minutos en 4 trenes de Media Distancia y 37 minutos en 1 tren de Mercancías. Circulación interrumpida desde las 19:17 hasta las 21:15 (2 horas)."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Promover la adopción de las medidas que impidan el acceso a la vía en la zona del accidente.",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+   "destinatario": "ADIF / RENFE"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso vicioso",
+  "persona fallecida",
+  "invasión de vía",
+  "larga distancia",
+  "euromed",
+  "renfe",
+  "adif",
+  "tarragona",
+  "montroig del camp",
+  "l'hospitalet de l'infant",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_250507_140907"
+}

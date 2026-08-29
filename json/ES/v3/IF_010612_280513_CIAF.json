@@ -1,0 +1,154 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de mercancías 92559 en el túnel 73 de L'Argentera (línea 210, Tarragona) por incorrecta disposición de un cupón de vía",
+ "idioma_original": "es",
+ "resumen": "El 1 de junio de 2012 a las 14:32, el tren de mercancías 92559 de Renfe Operadora descarriló en el interior del túnel nº 73 'L'Argentera' (PK 558+049) de la línea 210 Miraflores-Tarragona, entre las estaciones de Duesaigües-L'Argentera y Marçà-Falset. El descarrilamiento se originó en el primer eje del penúltimo vagón y progresó hasta afectar a los tres últimos vagones, circulando el tren descarrilado unos 6 km antes de detenerse. No hubo víctimas mortales ni heridos. La causa fue el fallo de la infraestructura, concretamente la incorrecta disposición de un cupón de vía de 5 metros (inferior a los 10 metros exigidos por la norma NAV 7-6-0.1) montado tras un descarrilamiento previo del 22/03/2012, con deficiencias en bridas, calzos, tuercas y grapas.",
+ "hechos": "El día 1 de junio de 2012, a las 14:32 horas, el tren de mercancías 92559 de Renfe Operadora, con origen Barcelona-Can Tunis y destino Zaragoza Corbera Alta, circulaba por el interior del túnel nº 73 'L'Argentera' (PK 558+049) a 83 km/h cuando descarriló el primer eje del penúltimo vagón en el sentido de la marcha. La rueda derecha descarriló hacia el exterior del carril y la izquierda hacia el interior (entre los dos carriles). Se desconoce el PK exacto del remonte de la rueda, tomándose como 'punto 0' el PK 558+049 donde se produce la caída.\n\nEl tren continuó circulando descarrilado y a la entrada de la estación de Pradell (PK 556+098), al pasar por los cambios, la rueda descarrilada golpeó cruzamientos y aparatos de vía, descarrilando el segundo eje del penúltimo vagón y los dos ejes del último vagón. Al paso por el andén de vía I de Pradell, la caja de grasa derecha del último eje rozó la estructura del andén, y a la salida de la estación la composición golpeó por el lado izquierdo la estructura del puente de Pradell. Durante el recorrido hacia Marçà-Falset se perdieron los contenedores de los dos últimos vagones.\n\nAl llegar a la estación de Marçà-Falset (PK 551+348), con itinerario establecido hacia vía 3 para cruce con otro tren, al pasar por las agujas 1/3 los ejes del penúltimo vagón golpearon el cambio y salieron despedidos, impactando con elementos del equipo de freno, produciéndose el descarrilamiento del antepenúltimo vagón. Con los tres últimos vagones descarrilados se cortó la manga de freno TFA entre el penúltimo y último vagón, deteniéndose el tren en el PK 551+569 a la altura de la indicadora IS2/1, tras haber circulado descarrilado unos 6 kilómetros.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Túnel nº 73 'L'Argentera' (entre Duesaigües-L'Argentera y Marçà-Falset)",
+  "pk": "PK 558+049",
+  "linea": "210 Miraflores - Tarragona",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Interior del túnel nº 73 'L'Argentera' (4.470 m de longitud), en alineación recta, rampa de 10 milésimas. Municipio: Falset. Tramo: Mora La Nova - Reus. Boca oeste del túnel (PK 556+636) junto a la estación de Pradell (PK 556+098). Estación de Marçà-Falset en PK 551+348."
+ },
+ "cronologia": [
+  {
+   "hora": "14:32",
+   "evento": "Descarrilamiento del primer eje del penúltimo vagón en el interior del túnel nº 73 (PK 558+049), a 83 km/h"
+  },
+  {
+   "hora": "14:32",
+   "evento": "A la entrada de Pradell (PK 556+098), descarrilan el segundo eje del penúltimo vagón y los dos ejes del último vagón al pasar por cambios"
+  },
+  {
+   "hora": "14:32",
+   "evento": "Al paso por andén vía I de Pradell, caja de grasa roza el andén; a la salida golpea el puente de Pradell"
+  },
+  {
+   "hora": "14:32",
+   "evento": "Pérdida de contenedores de los dos últimos vagones durante el recorrido hacia Marçà-Falset"
+  },
+  {
+   "hora": "14:32",
+   "evento": "A la entrada de Marçà-Falset (PK 551+348), descarrila el antepenúltimo vagón al pasar por agujas 1/3"
+  },
+  {
+   "hora": "14:32",
+   "evento": "Corte de manga de freno TFA; detención del tren en PK 551+569 tras ~6 km descarrilado"
+  },
+  {
+   "hora": "14:37",
+   "evento": "Interrupción de la circulación"
+  },
+  {
+   "hora": "14:40",
+   "evento": "Queda sin comprobación ni telemando el CTC entre Pradell y Mora La Nova; el maquinista comunica el descarrilamiento"
+  },
+  {
+   "hora": "15:20",
+   "evento": "Se moviliza camión taller de Tarragona"
+  },
+  {
+   "hora": "17:45",
+   "evento": "Se expide vagoneta desde Riudecanyes"
+  },
+  {
+   "hora": "20:32",
+   "evento": "Sale de Zaragoza Plaza el tren taller"
+  },
+  {
+   "hora": "23:00",
+   "evento": "El jefe de gabinete de investigación de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": null,
+   "evento": "El 26 de junio de 2012, el Pleno de la CIAF acuerda abrir la investigación"
+  },
+  {
+   "hora": "08:27",
+   "evento": "El 04/06/2012 se restablece la circulación con limitaciones de velocidad"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "92559",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Daños graves en los dos últimos vagones (valoración 76.000 €). Pérdida de contenedores del último y penúltimo vagón. Ejes con pestañas por debajo del mínimo (27,6/27,2/27,8 mm vs 28 mm) como consecuencia de circular descarrilados."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 92559",
+   "implicacion": "Matrícula 9693219. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Antigüedad en el cargo desde 01/01/2000. Último reciclaje formativo 16/03/2012. Último reconocimiento médico y psicotécnico 16/04/2010. Pruebas de alcoholemia y drogadicción negativas (realizadas a las 16:40 en Marçà). Jornada del día: 60 min (40 min conducción efectiva). No se observa irregularidad en la conducción. Cumplimentó la limitación de 60 km/h."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E1 de Pradell en verde; señal de salida S1/1 de Pradell en verde; balizas previa y pie de señal intermedia 5539 en anuncio de precaución (verde-amarillo); señal de entrada E1 de Marçà-Falset en anuncio de parada; indicadora IS2/1 en Marçà-Falset",
+  "tipo_via": "Vía única electrificada",
+  "velocidad_maxima": "100 km/h (con limitaciones temporales de 60 km/h en tramos PK 560+700 a 558+210 por estado de plataforma del túnel, y PK 556+210 a 555+700 por descarrilamiento del 22/03/2012)",
+  "ancho": null,
+  "electrificacion": "Electrificada (columnas de electrificación dañadas)",
+  "estado_via": "Deficiente: cupón de vía de 5 m (inferior a los 10 m exigidos por NAV 7-6-0.1 para 100 km/h), falta de calzos bajo bridas, falta de tuerca en tornillo de brida, incorrecta fijación de muchas grapas que no presionan sobre el patín del carril. Valores de alabeo de -27,2 y +30,1 mm/m en zona del cupón. Variaciones de ancho superiores a 3,33 mm/m. Peralte fuera de tolerancia (hasta 14-15 mm). Túnel con problemas de filtraciones y drenaje. Última auscultación geométrica: 13/05/2010.",
+  "otro": "Bloqueo automático (BAU) con CTC. Comunicaciones tren-tierra modalidad A. Tramo Mora La Nova - Reus con tráfico medio semanal de 204 circulaciones (considerado bajo): 1 larga distancia, 81 media distancia, 113 mercancías, 9 servicio."
+ },
+ "material_rodante": {
+  "series": "Locomotoras 269015 y 269056 (UIC 95719269015-9 y 95719269056-9). 30 vagones plataforma MC3F de 2 ejes con contenedores vacíos. Longitud 416 m, peso 438 t. Tipo 100 (velocidad máxima 100 km/h).",
+  "averia": "Funcionamiento correcto. Registrador de seguridad sin irregularidades. Parámetros de rodadura dentro de tolerancia (excepto pestañas ligeramente por debajo del mínimo en ruedas descarriladas, atribuible a circular descarriladas). Ejes de vagones de cola con intervenciones tipo R: abril 2009 (último) y marzo 2012 (penúltimo).",
+  "mantenimiento": "Ejes de los dos vagones de cola habían pasado intervenciones tipo R (reparación general) según plan de mantenimiento: abril de 2009 y marzo de 2012."
+ },
+ "clima": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo de la infraestructura por incorrecta disposición de un cupón de vía de 5 metros (inferior a los 10 m exigidos por la norma NAV 7-6-0.1 para velocidad de 100 km/h), con deficiencias en la fijación de bridas (falta de calzos y tuerca) y de grapas (no presionan sobre el patín del carril), lo que provocó el remonte y descarrilamiento de la rueda.",
+  "contribuyentes": [
+   "Problemas de filtraciones y drenaje en el túnel nº 73 que afectan al estado de la plataforma",
+   "Última auscultación geométrica realizada en mayo de 2010, con datos que ya indicaban zonas urgentes de tratamiento (ZUT) al aproximarse al PK 558+049, con nivelación longitudinal fuera de tolerancia, fallos en nivelación transversal y sobreanchos",
+   "Valores de alabeo extremos (-27,2 y +30,1 mm/m) en la zona del cupón, muy superiores al límite de 2 mm/m",
+   "Cupón de vía montado como reparación provisional tras el descarrilamiento del 22/03/2012 por rotura del carril derecho",
+   "Grapas dispuestas tras el descarrilamiento del 22/03/2012 con incorrecta fijación",
+   "Limitación temporal de 60 km/h existente por el descarrilamiento previo del 22/03/2012, pero el tren circulaba a 83 km/h tras finalizar la limitación (aunque dentro de la velocidad máxima de 100 km/h)"
+  ],
+  "sistemicas": [
+   "Deficiencias en el mantenimiento correctivo de infraestructura en el área de Tarragona (motivo de la recomendación de auditoría)",
+   "Posible incumplimiento de la normativa NAV 7-6-0.1 en la reparación provisional del cupón de vía",
+   "Intervalo excesivo entre auscultaciones geométricas (última en mayo 2010 para un accidente en junio 2012)",
+   "Repetición de descarrilamientos en el mismo punto (28/03/2008 y 22/03/2012) sin resolución definitiva de la causa"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: 76.000 € (daños graves en los dos últimos vagones). Infraestructura: 275.958 € (daños en vía, instalaciones de seguridad, señales, aparatos de vía, columnas de electrificación en Pradell, Marçà-Falset y trayecto entre ambas). Pérdida de contenedores del último y penúltimo vagón. Daños en puente de Pradell y andén de vía I.",
+  "afectacion_servicio": "Circulación interrumpida del 01/06/2012 14:37 al 04/06/2012 08:27 (~66 horas). 17 trenes suprimidos. Retrasos en 20 trenes de mercancías (1.436 min acumulados) y 16 trenes de viajeros (871 min acumulados). Transbordo por carretera de viajeros en Pradell y Mora La Nova. Limitaciones de velocidad posteriores: 20 km/h mercancías y 40 km/h resto entre PK 552+145 y 555+940; 60 km/h entre PK 555+940 y 560+700, vigentes a fecha del informe."
+ },
+ "lecciones": [
+  "Un cupón de vía de longitud insuficiente (5 m frente a los 10 m mínimos exigidos para 100 km/h) y con fijación deficiente puede provocar descarrilamientos repetidos en el mismo punto.",
+  "Las reparaciones provisionales tras un descarrilamiento deben cumplir estrictamente la normativa (NAV 7-6-0.1) para evitar nuevos incidentes.",
+  "La presencia de defectos menores (falta de calzos, tuerca, grapas mal fijadas) en un cupón de vía puede ser determinante para el remonte de una rueda.",
+  "Los descarrilamientos previos en el mismo punto (28/03/2008 y 22/03/2012) debieron alertar sobre una causa sistémica no resuelta.",
+  "El intervalo entre auscultaciones geométricas debe ser adecuado al estado de la infraestructura, especialmente en túneles con problemas de filtraciones."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, con objeto de verificar la correcta aplicación de la normativa al respecto.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "tren de mercancías",
+  "túnel",
+  "cupón de vía",
+  "mantenimiento de infraestructura",
+  "adif",
+  "renfe operadora",
+  "línea 210",
+  "tarragona",
+  "alabeo",
+  "nav 7-6-0.1",
+  "filtraciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_010612_280513_CIAF"
+}

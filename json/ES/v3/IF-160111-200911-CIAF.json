@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Arrollamiento de vehículo pesado en paso a nivel clase A en Aguadulce (Sevilla) por invasión del gálibo de la vía",
+ "idioma_original": "es",
+ "resumen": "El 16 de enero de 2011 a las 13:18, el tren de media distancia 13943 de Renfe Operadora arrolló un vehículo pesado de carretera (cabeza tractora con remolque) que invadió el paso a nivel clase A en el PK 87+782 de la línea 422, en Aguadulce (Sevilla). El conductor del vehículo y una viajera del tren resultaron heridos leves. La vía quedó interceptada 5 horas y 50 minutos. La causa directa fue la invasión del gálibo por el vehículo de carretera, y se recomienda adecuar el paso a nivel a clase B o suprimirlo.",
+ "hechos": "El día 16 de enero de 2011, a las 13:18 horas, el tren de viajeros de media distancia 13943 de Renfe Operadora, procedente de Almería con destino Sevilla Santa Justa, circulaba entre las estaciones de Osuna y Pedrera por la línea 422. Al aproximarse al paso a nivel clase A situado en el PK 87+782, en el término municipal de Aguadulce (Sevilla), el maquinista observó que un vehículo pesado de carretera (cabeza tractora con remolque) se acercaba a la vía por el lado izquierdo, con intención de cruzar de izquierda a derecha respecto al sentido de marcha del tren. El maquinista hizo uso del silbato durante 48 segundos y activó el freno de emergencia a 90 metros del paso a nivel, cuando circulaba a 83 km/h, pero no pudo evitar el arrollamiento. El impacto se produjo a las 13:18:10 a una velocidad de 71 km/h sobre el remolque del vehículo. El tren quedó detenido 48 segundos después de la colisión, tras recorrer 436 metros. El vehículo quedó partido en dos, interceptando el gálibo de la vía, y su carga (alpechín) se derramó sobre la misma.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "87+782",
+  "linea": "422 Bif. Utrera a Fuente de Piedra",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Paso a nivel clase A en el término municipal de Aguadulce, entre las estaciones de Osuna y Pedrera. Intersección con la vía pecuaria La Colada del Marqués, camino de tierra perpendicular a la vía férrea, en zona rural. Superficie de zahorra, ancho de explanada 7 metros, cunetas a ambos lados. Pavimento de traviesas en zona de carriles."
+ },
+ "cronologia": [
+  {
+   "hora": "13:13:04",
+   "evento": "El tren 13943 sale de la estación de Pedrera"
+  },
+  {
+   "hora": "13:18:00",
+   "evento": "El maquinista hace uso del silbato para alertar al vehículo carretero (durante 48 segundos)"
+  },
+  {
+   "hora": "13:18:05",
+   "evento": "El maquinista activa el freno de emergencia a 90 metros del paso a nivel, circulando a 83 km/h"
+  },
+  {
+   "hora": "13:18:10",
+   "evento": "Se produce el arrollamiento del vehículo de carretera, tren a 71 km/h"
+  },
+  {
+   "hora": "13:18:58",
+   "evento": "El tren queda detenido tras recorrer 436 metros y 48 segundos desde la colisión"
+  },
+  {
+   "hora": "17:30",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "19:08",
+   "evento": "Se restablece la circulación con limitación de 60 km/h entre PK 87+750 y 87+800"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13943",
+   "tipo": "viajeros media distancia, tipo 160D (3 vehículos)",
+   "operador": "Renfe Operadora",
+   "danos": "Vehículo motor en cabeza: daños en testero completo, cabina de conducción, ventanas rotas, golpes en caja y enganche automático. Coche intermedio: ventanas rotas, golpe en caja y puerta de acceso. Pendiente de valoración económica. Queda apartado en Osuna."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 13943",
+   "implicacion": "Matrícula 9676941. Título B de conducción vigente, reciclaje formativo 09/12/09, reconocimiento médico y psicotécnico 16/11/10. Jornada del día 16: 2h08min. Prueba de alcoholemia negativa a las 16:05 en Pedrera. Hizo uso del silbato (4 ocasiones, 48 segundos) y freno de emergencia. No pudo evitar el arrollamiento."
+  },
+  {
+   "rol": "Conductor del vehículo de carretera",
+   "implicacion": "Único ocupante del vehículo. Invadió el gálibo de la vía al cruzar el paso a nivel sin cerciorarse de la circulación de trenes. Herido leve."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase A con señales fijas. Carteles de silbar a 250 y 500 m a cada lado. Señalización fija del camino con todos los elementos de protección. Falta señal de prohibido adelantar (no exigible en camino de tierra). Visibilidad C4: real 350 m, técnica 296 m. C1: 130 m, C2: 300 m, C3: 200 m.",
+  "tipo_via": "Vía única sin electrificar. Bloqueo telefónico. Regulación por jefes de circulación de Osuna y Pedrera bajo supervisión del puesto de mando de Sevilla. Alineación curva, pendiente 9,7 milésimas.",
+  "velocidad_maxima": "100 km/h (zona del paso a nivel)",
+  "ancho": null,
+  "electrificacion": "Sin electrificar",
+  "estado_via": "Pavimento de traviesas en zona de carriles con estado aceptable de conservación. Tras el accidente: vía interceptada, restablecida con limitación de 60 km/h entre PK 87+750 y 87+800.",
+  "otro": "Momento de circulación AxT: 1.026 (A=54, T=19). Según art. 12 OM 2/8/2001, la clasificación debiera ser al menos clase B. Pasos de clase B cercanos en PK 86+900 y PK 89+240."
+ },
+ "material_rodante": {
+  "series": "160D (3 vehículos). Número UIC motor: 967195990429.",
+  "averia": "Ninguna. Equipos de seguridad funcionaron correctamente según registrador de seguridad. Circulaba a velocidad inferior a la permitida (95 km/h en libro horario, 83 km/h al aplicar freno, 71 km/h en impacto).",
+  "mantenimiento": "Sin restricciones ni condiciones especiales de circulación. Sin información sobre mantenimiento específico."
+ },
+ "clima": "De día, tiempo despejado.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera, que cruza el paso a nivel cuando pasaba el tren 13943.",
+  "contribuyentes": [
+   "El vehículo de carretera no se detuvo ante el stop del paso a nivel sin cerciorarse de la posible circulación de trenes.",
+   "La clasificación del paso a nivel como clase A no se ajusta a la normativa vigente (OM 2/8/2001), ya que el momento de circulación AxT supera 1.000 y la velocidad del tramo es superior a 40 km/h, debiendo ser al menos clase B.",
+   "La visibilidad real en el cuadrante de acceso (C4) es superior a la visibilidad técnica, lo que puede inducir a error de apreciación."
+  ],
+  "sistemicas": [
+   "Deficiencia en la clasificación y protección del paso a nivel respecto a la normativa de la OM de 2 de agosto de 2001.",
+   "Proximidad de dos pasos a nivel de clase B (PK 86+900 y PK 89+240) a menos de 1.000 m del paso accidentado, sin que se haya promovido su concentración."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 2,
+  "danos_materiales": "Infraestructura: 21.687,19 € (daños en entarimado y contracarriles del paso a nivel, informe Adif). Material rodante: daños en testero, cabina, ventanas, caja y enganche del motor; ventanas, caja y puerta del coche intermedio (pendiente de valoración). Vehículo de carretera: partido en dos por el remolque. Medio ambiente: no cuantificado (derrame de alpechín sobre la vía).",
+  "afectacion_servicio": "Vía interceptada entre Osuna y Pedrera durante 5 h 50 min (13:18 a 19:08). 3 trenes de media distancia suprimidos. 8 trenes con retraso total de 357 min, transbordo por carretera entre Osuna y Pedrera. Restablecimiento con limitación de 60 km/h entre PK 87+750 y 87+800. Tren 13943 apartado en Osuna."
+ },
+ "lecciones": [
+  "El paso a nivel clase A con momento de circulación superior a 1.000 y velocidad de tramo superior a 40 km/h debe ser reclasificado al menos como clase B según la OM de 2/8/2001.",
+  "La proximidad de pasos a nivel alternativos de clase B a menos de 1.000 m debe considerarse para la concentración y supresión de pasos no protegidos.",
+  "El uso correcto del silbato y el freno de emergencia por el maquinista no siempre evita el arrollamiento cuando un vehículo invade el gálibo."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adecuar el paso a nivel del PK 87+782 a lo establecido en la OM de 2/8/2001: bien dotándolo de protección clase B, por ser su momento de circulación superior a 1.000; o bien proceder a su supresión promoviendo su concentración al paso a nivel del PK 86+900, por estar ambos situados a menos de 1.000 metros de distancia.",
+   "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF)"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "vehículo pesado",
+  "invasión de gálibo",
+  "clase A",
+  "clase B",
+  "OM 2/8/2001",
+  "media distancia",
+  "alpechín",
+  "vía pecuaria",
+  "visibilidad",
+  "freno de emergencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-160111-200911-CIAF"
+}

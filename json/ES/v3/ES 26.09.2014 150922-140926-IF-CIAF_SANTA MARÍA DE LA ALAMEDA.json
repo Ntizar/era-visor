@@ -1,0 +1,261 @@
+{
+ "titulo_normalizado": "Colisión por alcance de locomotora aislada contra tren detenido en plena vía entre Santa María de la Alameda y Las Navas del Marqués por incumplimiento de marcha a la vista",
+ "idioma_original": "es",
+ "resumen": "El 26 de septiembre de 2014 a las 06:51, la locomotora aislada SU101 de Transfesa Rail, que circulaba en régimen de marcha a la vista para socorrer al tren de mercancías 97469 (Continental Rail) detenido tras el tren 58425 (Renfe Operadora) que había sufrido un incendio, colisionó por alcance contra el vagón de cola del 97469 en el PK 73+885 de la línea 100. La locomotora alcanzó 67 km/h antes de frenar, produciéndose el impacto a unos 35 km/h. Resultaron heridos leves el maquinista de la locomotora y un agente en prácticas. La CIAF concluye que la causa fue un fallo humano por incumplimiento del artículo 141.1 del RGC al no cumplimentarse adecuadamente la orden de marcha a la vista.",
+ "hechos": "El tren de mercancías 58425 de Renfe Operadora, procedente de Sagunt con destino Trasona, sufrió un incendio en su locomotora y quedó detenido en el PK 74+700 de la vía 1 de la línea 100, solicitando socorro a las 03:04 al PM de Madrid Chamartín. A la distancia de bloqueo, el tren de mercancías 97469 de Continental Rail, procedente de Silla con destino Bilbao Mercancías, fue avisado por el PM y quedó detenido en el PK 74+293. El PM dispuso el apartado del tren 87021 de Transfesa Rail en la vía 4 de la estación de Santa María de la Alameda. Aproximadamente a las 06:10, el PM decidió el retroceso del 97469 y ordenó segregar la locomotora del 87021 para que traccionara al tren detenido. El maquinista segregó su locomotora, obtuvo autorización por telefonema (nº 228) para rebasar la señal S1/4 y salió como tren SU101 con prescripción de marcha a la vista hasta el PK 73+800. Durante 2 minutos y 30 segundos la locomotora aceleró progresivamente hasta 67 km/h, recorriendo 1.716 metros, y luego redujo durante 17 segundos (303 metros) hasta 46 km/h. A la salida del túnel nº 6 (PK 73+832), el maquinista avistó la cola del 97469 y aplicó máximo freno y seta de urgencia, pero no pudo evitar la colisión en el PK 73+885 a unos 35 km/h, tras recorrer 28 metros desde la activación de la seta. Resultaron heridos leves el maquinista y un agente en prácticas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Santa María de la Alameda",
+  "pk": "73+885",
+  "linea": "100 Madrid Chamartín - Hendaya",
+  "provincia": "Ávila",
+  "descripcion_lugar": "Vía 1, tramo Santa María de la Alameda (Madrid) – Las Navas del Marqués (Ávila). Punto situado a unos 50 metros de la salida del túnel nº 6 (PK 73+679 al 73+832), en trinchera y curva a la izquierda, con rampa de 20,90‰. Visibilidad reducida por características del trazado."
+ },
+ "cronologia": [
+  {
+   "hora": "02:55",
+   "evento": "El tren 58425 ocupa el circuito de vía CV745; el tren 97469 pasa por vía 1 de Santa María de la Alameda con señal S1/1 en vía libre."
+  },
+  {
+   "hora": "02:58",
+   "evento": "El tren 58425 se detiene en CV745 por incendio en su locomotora."
+  },
+  {
+   "hora": "03:00",
+   "evento": "El tren 97469 ocupa el CV745 tras rebasar la señal intermedia 745 en parada (permisiva)."
+  },
+  {
+   "hora": "03:04",
+   "evento": "El maquinista del 58425 solicita socorro al PM de Madrid Chamartín. El PM ordena detención inmediata al 97469 por tren tierra."
+  },
+  {
+   "hora": "03:29",
+   "evento": "Se suspenden los trabajos en vía II tras el aviso de detención por incendio."
+  },
+  {
+   "hora": "03:30",
+   "evento": "El maquinista del 58425 solicita presencia de bomberos."
+  },
+  {
+   "hora": "03:40",
+   "evento": "Se comunica que no circulen trenes por vía contigua ni se envíe material de socorro por humo denso."
+  },
+  {
+   "hora": "03:45",
+   "evento": "Bomberos salen de Ávila hacia el lugar."
+  },
+  {
+   "hora": "03:49",
+   "evento": "El tren 87021 queda estacionado en vía 4 de Santa María de la Alameda."
+  },
+  {
+   "hora": "04:08",
+   "evento": "Bomberos solicitan corte de tensión por ambas vías en el trayecto afectado."
+  },
+  {
+   "hora": "04:30",
+   "evento": "Incendio extinguido; no es posible acceder a la locomotora del 58425 por emanación de gases. Vías I y II inhábiles."
+  },
+  {
+   "hora": "06:10",
+   "evento": "El PM decide el retroceso del 97469 y dispone segregar la locomotora del 87021 para traccionarlo."
+  },
+  {
+   "hora": "06:20",
+   "evento": "El técnico de regulación comunica al maquinista del 87021 que corte la máquina y llame cuando esté preparado."
+  },
+  {
+   "hora": "06:37",
+   "evento": "El jefe del CTC comunica al maquinista del 87021 que la cabeza del 97469 está en PK 74+300 y le prescribe marcha a la vista hasta PK 73+850. Telefonema 228: autorización de rebase señal S1/4."
+  },
+  {
+   "hora": "06:39",
+   "evento": "Se restablece circulación por vía II con marcha a la vista en el punto del suceso."
+  },
+  {
+   "hora": "06:43",
+   "evento": "El PM autoriza por telefonema nº 228 el rebase de la señal S1/4 con marcha a la vista hasta PK 73+800."
+  },
+  {
+   "hora": "06:44",
+   "evento": "Señal S1/4 sigue en indicación de parada; agujas 6, 4 y 2 orientadas y bloqueadas para trayecto vía 4 a vía 1."
+  },
+  {
+   "hora": "06:45",
+   "evento": "La locomotora aislada (SU101) sale de la estación de Santa María de la Alameda."
+  },
+  {
+   "hora": "06:48",
+   "evento": "Inicio del movimiento de SU101 (registrador). A las 06:48:51, rebase de señal S1/4 a 14,44 km/h."
+  },
+  {
+   "hora": "06:51",
+   "evento": "A las 06:51:02, velocidad máxima 67,4 km/h en PK 73+565. A las 06:51:19, seta de urgencia a 45,9 km/h a la salida del túnel nº 6. A las 06:51:21, colisión a 35,3 km/h en PK 73+885, tras 28 m desde activación de seta."
+  },
+  {
+   "hora": "06:51",
+   "evento": "Colisión por alcance de SU101 contra vagón de cola del 97469. Ambos trenes quedan inutilizados."
+  },
+  {
+   "hora": "06:53",
+   "evento": "El personal de conducción herido solicita asistencia sanitaria."
+  },
+  {
+   "hora": "06:51",
+   "evento": "La locomotora queda finalmente detenida a las 06:51:29 (registrador)."
+  },
+  {
+   "hora": "07:47",
+   "evento": "El jefe de investigación de Adif comunica el suceso a la CIAF por teléfono móvil."
+  },
+  {
+   "hora": "08:10",
+   "evento": "La Guardia Civil traslada al personal herido al apeadero de El Pimpollar (Madrid) para asistencia SUMA y posterior traslado al Hospital de El Escorial."
+  },
+  {
+   "hora": "11:49",
+   "evento": "Se dispone locomotora aislada desde Las Navas del Marqués para socorrer por cabeza al 58425."
+  },
+  {
+   "hora": "12:49",
+   "evento": "Se dispone locomotora aislada desde Santa María de la Alameda para socorrer por cola a la locomotora accidentada SU101."
+  },
+  {
+   "hora": "13:15",
+   "evento": "El tren 58425 reanuda su marcha."
+  },
+  {
+   "hora": "13:48",
+   "evento": "El tren SU101 inicia su retroceso."
+  },
+  {
+   "hora": "15:30",
+   "evento": "El tren 97469 reanuda la marcha; el vagón de cola alcanzado queda en el lugar del suceso."
+  },
+  {
+   "hora": "17:45",
+   "evento": "Se dispone locomotora aislada desde Ávila para retirar el vagón de cola accidentado."
+  },
+  {
+   "hora": "19:20",
+   "evento": "Se inicia el empuje del vagón hacia Santa María de la Alameda para apartarlo; mercancía transbordada por carretera."
+  },
+  {
+   "hora": "19:25",
+   "evento": "Se inician trabajos de reparación de vía 1."
+  },
+  {
+   "hora": "20:05",
+   "evento": "Vía 1 queda apta para circulación con limitación de velocidad a 30 km/h en el punto del suceso."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "58425",
+   "tipo": "tren de mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Locomotora con incendio; quedó inutilizada en el momento del suceso. 33 vehículos, 132 ejes, 396 m, 1153 t. Procedente de Sagunt, destino Trasona."
+  },
+  {
+   "numero": "97469",
+   "tipo": "tren de mercancías",
+   "operador": "Continental Rail",
+   "danos": "Vagón de cola 378049524366 alcanzado: daños en topes y bastidor deformado. 14 vehículos, 76 ejes, 385 m (sin locomotora), 995 t. Procedente de Silla, destino Bilbao Mercancías."
+  },
+  {
+   "numero": "87021",
+   "tipo": "tren de mercancías",
+   "operador": "Transfesa Rail",
+   "danos": "Locomotora segregada para socorro. Procedente de Vallecas Industrial, destino Vilar Formoso (Portugal). Quedó estacionado en vía 4 de Santa María de la Alameda."
+  },
+  {
+   "numero": "SU101",
+   "tipo": "locomotora aislada (tren de socorro)",
+   "operador": "Transfesa Rail",
+   "danos": "Locomotora UIC 95.71.0335.006.3 (matrícula 335006). Daños en topes, frontal, mangas de freno TFA y TDP, grifos, tubería y gancho de tracción. Quedó inutilizada."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren SU101 (locomotora aislada del 87021)",
+   "implicacion": "Herido leve. Incumplió el artículo 141.1 del RGC al no cumplimentar adecuadamente la orden de marcha a la vista, alcanzando 67 km/h en una zona de visibilidad reducida. Titulo B de conducción, habilitado en línea 100 desde 24.11.2011. Antigüedad en el cargo desde 04.02.2010. Último reciclaje 16.01.2013. Retirado cautelarmente del servicio; dado de baja como maquinista en el Registro Especial Ferroviario."
+  },
+  {
+   "rol": "Agente de conducción en prácticas",
+   "implicacion": "Herido leve. Acompañaba al maquinista del SU101."
+  },
+  {
+   "rol": "Maquinista del tren 58425 (Renfe Operadora)",
+   "implicacion": "No implicado directamente en la colisión. Solicitó socorro por el incendio de su locomotora a las 03:04."
+  },
+  {
+   "rol": "Maquinista del tren 97469 (Continental Rail)",
+   "implicacion": "No implicado directamente. Recibió orden de detención inmediata del PM por tren tierra."
+  },
+  {
+   "rol": "Responsable de circulación del PM de Madrid Chamartín (matrícula 2810877)",
+   "implicacion": "Prescribió la marcha a la vista al maquinista del SU101. Comunicó verbalmente el PK de destino (73+850, corregido a 73+800) y emitió telefonema nº 228 de autorización de rebase. Habilitado conforme a Orden FOM/2872/2010. Último reciclaje 24.02.2012. Jornada de 8 h (23:00-07:00)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático de vía doble banalizada (BAB) con CTC. Enclavamiento electrónico en Santa María de la Alameda. Señal de salida S1/4 (PK 71+874) en indicación de parada. Señal intermedia 745 en parada (permisiva). Estación sin personal de servicio; coordinación a cargo del CTC de Madrid Chamartín.",
+  "tipo_via": "Vía doble banalizada",
+  "velocidad_maxima": "85 km/h (Cuadro de Velocidades Máximas en el punto del suceso)",
+  "ancho": null,
+  "electrificacion": "Se solicitó corte de tensión por ambas vías a las 04:08 por los bomberos",
+  "estado_via": "Vía 1 en trinchera y curva a la izquierda, a unos 50 m de la salida del túnel nº 6 (PK 73+679 al 73+832), rampa de 20,90‰. Visibilidad reducida. Daños: corte de carril, posterior nivelación y perfilado con maquinaria pesada (PK 73+832 al 73+910), soldadura de carril y neutralización de tensiones. LTV 30 km/h desde PK 73+870 al 73+910 tras reparación.",
+  "otro": "Radiotelefonía analógica por tren tierra modalidad A (canal 64) y telefonía móvil GSM-R. Trabajos en vía II al amparo del acta nº 300 de banda 1103, suspendidos a las 03:29. Media semanal de circulaciones del tramo: 403 (32 larga distancia, 262 media distancia, 89 mercancías, 20 servicio)."
+ },
+ "material_rodante": {
+  "series": "Locomotora UIC 95.71.0335.006.3 (serie 335, Transfesa Rail). Vagón de cola 378049524366 (Continental Rail).",
+  "averia": "La locomotora del tren 58425 sufrió un incendio (causa del incidente original). La locomotora SU101 y el vagón de cola del 97469 sufrieron daños materiales por la colisión. El registrador de seguridad del SU101 funcionó correctamente; se detectó un desfase horario de ~3 min 11 s de adelanto respecto a la moviola del PM.",
+  "mantenimiento": "No se identifican deficiencias de mantenimiento en el informe. Las instalaciones técnicas y el material rodante funcionaron correctamente."
+ },
+ "clima": "De noche. No existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción de la locomotora aislada SU101 por incumplimiento reglamentario del artículo 141.1 del RGC: no se cumplimentó adecuadamente la orden de 'marcha a la vista', alcanzando 67 km/h en una zona de visibilidad reducida (salida de túnel en curva y rampa).",
+  "contribuyentes": [
+   "Visibilidad reducida por las características del trazado (salida de túnel nº 6, curva a la izquierda, trinchera, rampa de 20,90‰).",
+   "El maquinista declaró posible influencia de la fatiga por horas estacionado y despiste al buscar los puntos kilométricos que no se veían bien.",
+   "La locomotora aumentó progresivamente la velocidad hasta 67 km/h antes de reducir, lo que indica que no se ajustó la velocidad a la distancia de frenado visible."
+  ],
+  "sistemicas": [
+   "El informe no identifica causas subyacentes relacionadas con cualificaciones del personal ni con mantenimiento (apartado 4.3.2: 'Ninguna').",
+   "El informe no identifica causas relacionadas con el marco normativo ni con la aplicación del sistema de gestión de la seguridad (apartado 4.3.3: 'Ninguna')."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 2,
+  "danos_materiales": "Locomotora SU101: daños en topes, frontal, mangas de freno TFA y TDP, grifos, tubería y gancho de tracción. Vagón 378049524366: daños en topes y bastidor deformado. Infraestructura: corte de carril, nivelación, perfilado, soldadura y neutralización de tensiones; importe total de daños a la vía: 10.906 euros (según Adif).",
+  "afectacion_servicio": "Circulación interrumpida en ambas vías: 3 h 35 min por vía 2 (03:04-06:39) y 17 h 1 min por vía 1 (03:04-20:05). Afectados: 35 trenes de viajeros (700 min de retraso total), 1 tren cercanías/media distancia suprimido, 10 trenes de mercancías (1.611 min de retraso), 6 trenes complementarios (235 min), trenes del suceso 58425/97469/87021 (1.787 min de retraso total). Vía 1 restablecida a las 20:05 con LTV 30 km/h."
+ },
+ "lecciones": [
+  "La prescripción de 'marcha a la vista' exige que el maquinista ajuste su velocidad a la distancia de frenado dentro de su campo de visión, especialmente en zonas de visibilidad reducida como salidas de túneles en curva.",
+  "La fatiga y el despiste en la búsqueda de referencias kilométricas pueden contribuir a incumplimientos reglamentarios, aunque en este caso la jornada laboral cumplía la normativa.",
+  "Las operaciones de socorro en plena vía requieren especial atención a las condiciones de circulación y a la correcta transmisión de las prescripciones por parte del puesto de mando."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en los cursos de reciclaje del personal de conducción en el cumplimiento de las condiciones de circulación con 'marcha a la vista'.",
+   "destinatario": "AESF / Transfesa Rail"
+  }
+ ],
+ "tags": [
+  "colision-por-alcance",
+  "marcha-a-la-vista",
+  "locomotora-aislada",
+  "socorro-tren-detenido",
+  "incendio-locomotora",
+  "linea-100",
+  "santa-maria-de-la-alameda",
+  "las-navas-del-marques",
+  "transfesa-rail",
+  "continental-rail",
+  "renfe-operadora",
+  "rgc-articulo-141"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 26.09.2014 150922-140926-IF-CIAF_SANTA MARÍA DE LA ALAMEDA"
+}

@@ -1,0 +1,180 @@
+{
+ "titulo_normalizado": "Descarrilamiento en el cambiador de ancho de Zaragoza Delicias por agarrotamiento del semiacoplamiento del sistema de cambio de ancho",
+ "idioma_original": "es",
+ "resumen": "El 31 de agosto de 2014 a las 16:14 horas, el tren de viajeros de larga distancia 632 de Renfe Operadora (material CAF serie 120, rama 120004) descarriló al pasar por el cambiador de ancho de Zaragoza Delicias. La rueda derecha del último eje (eje 16) no realizó la traslación axial del cambio de ancho de estándar a ibérico debido al agarrotamiento del semiacoplamiento, causado por degradación de la grasa al estar contaminada por una junta (rascador) desgastada. No se produjeron víctimas. La circulación quedó interrumpida durante 11 horas y 41 minutos, afectando a 13 trenes con un retraso total de 1.022 minutos.",
+ "hechos": "El tren de larga distancia 632 de Renfe Operadora, compuesto por material CAF serie 120 (rama 120004), con origen Barcelona Sants y destino Valladolid Campo Grande, debía realizar el cambio de ancho de estándar (1.435 mm) a ibérico (1.668 mm) en el cambiador de Zaragoza Delicias. Los 15 primeros ejes realizaron el cambio correctamente, pero la rueda derecha del último eje (eje 16), aunque desencerrojó la palanca del dispositivo de seguridad, no realizó su traslación axial debido al agarrotamiento del semiacoplamiento causado por insuficiente lubricación: la grasa estaba degradada por contaminación al encontrarse la junta (rascador) desgastada y no ser totalmente estanca. El tren quedó detenido en el cambiador con la rueda descarrilada. El personal del cambiador avisó al maquinista, quien detuvo el tren. Se suspendió el paso de trenes por el cambiador, los pasajeros fueron transbordados a la rama 121020 y 10 trenes de viajeros fueron desviados al cambiador de Plasencia de Jalón. La rama 120004 fue encarrilada a las 23:24 horas y estacionada en Zaragoza CIM a las 23:55 horas. El cambiador quedó reparado y operativo a las 03:55 horas del día siguiente.",
+ "lugar": {
+  "tipo": "apartado",
+  "estacion": "Cambiador de ancho de Zaragoza Delicias",
+  "pk": "337+395 (ancho ibérico) / 305+745 (ancho estándar)",
+  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+  "provincia": "Zaragoza",
+  "descripcion_lugar": "Cambiador de ancho situado entre la estación CIM de Zaragoza y Zaragoza Delicias, con transición de bloqueo automático de vía única electrificada con CTC y ancho ibérico (lado Valladolid) a bloqueo de señalización lateral y ancho estándar (lado Barcelona). Dispone de plataformas independientes para material Talgo y CAF."
+ },
+ "cronologia": [
+  {
+   "hora": "16:09:03",
+   "evento": "Salida del tren 632 de la estación de Zaragoza Delicias"
+  },
+  {
+   "hora": "16:11:24",
+   "evento": "Paso por baliza de pie de señal S ZAR M4 (PK 305+420) en indicación de anuncio de parada, a 33 km/h"
+  },
+  {
+   "hora": "16:12:33",
+   "evento": "El maquinista actúa sobre el pulsador de rebase autorizado"
+  },
+  {
+   "hora": "16:12:36",
+   "evento": "Paso por baliza de pie de señal M ZAR M404 (PK 304+994) en indicación de rebase autorizado, a 14 km/h"
+  },
+  {
+   "hora": "16:12:38",
+   "evento": "El maquinista actúa sobre el pulsador de cambio de ancho automático (PK 304+984), a 14 km/h; un segundo después se establece velocidad prefijada de 5 km/h"
+  },
+  {
+   "hora": "16:13:40",
+   "evento": "Cabeza del tren pasa por señal S1/1 (PK 337+360) en indicación de anuncio de parada, a 9 km/h"
+  },
+  {
+   "hora": "16:14:17",
+   "evento": "Cabeza del tren en PK 337+300 a 2 km/h; se registra un fallo de cerrojos. El agente del cambiador percata de que la rueda derecha del último eje no ha realizado el cambio de ancho y avisa al maquinista"
+  },
+  {
+   "hora": "16:14:33",
+   "evento": "El tren queda detenido en el PK 337+290 con la rueda descarrilada"
+  },
+  {
+   "hora": "16:19:40",
+   "evento": "El maquinista informa al PM de Zaragoza Portillo del descarrilamiento"
+  },
+  {
+   "hora": "16:21:31",
+   "evento": "El Regulador del PM llama al CRC de Zaragoza Delicias informando del suceso"
+  },
+  {
+   "hora": "16:27:59",
+   "evento": "El CRC llama al maquinista para confirmar el descarrilamiento"
+  },
+  {
+   "hora": "17:41",
+   "evento": "Adif comunica el suceso a la CIAF por telefonía móvil"
+  },
+  {
+   "hora": "18:00",
+   "evento": "El tren de transbordo (rama 121020) sale del cambiador con los viajeros"
+  },
+  {
+   "hora": "19:06",
+   "evento": "El tren de transbordo llega al cambiador de Plasencia de Jalón"
+  },
+  {
+   "hora": "23:24",
+   "evento": "La rama 120004, ya encarrilada, inicia movimiento"
+  },
+  {
+   "hora": "23:55",
+   "evento": "La rama 120004 queda estacionada en Zaragoza CIM"
+  },
+  {
+   "hora": "03:55",
+   "evento": "El cambiador queda reparado y operativo (1 de septiembre de 2014)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "632",
+   "tipo": "Tren de viajeros de larga distancia, tipo 250 (velocidad máxima 250 km/h), autopropulsado con tracción distribuida",
+   "operador": "Renfe Operadora",
+   "danos": "Dañado el último eje (eje 16) de la rama 120004. Rueda derecha descarrilada con agarrotamiento del semiacoplamiento."
+  },
+  {
+   "numero": "120004",
+   "tipo": "Rama de material CAF serie 120, bogies BRAVA, 4 vehículos, 16 ejes, 108 m, 247 t",
+   "operador": "Renfe Operadora",
+   "danos": "Último eje dañado; semiacoplamiento agarrotado; dentado con grandes desgastes; grasa degradada; junta (rascador) desgastada en zona interior."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 632",
+   "implicacion": "Matrícula 9754425. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Antigüedad desde 02.01.2007. Último reciclaje 20.11.2012. Último reconocimiento médico 20.05.2010. Prueba de alcoholemia negativa a las 18:00 horas. Jornada del día 31: 6h08min (1h07min conducción efectiva). Cumplió la normativa vigente."
+  },
+  {
+   "rol": "Agente encargado del cambiador (Adif)",
+   "implicacion": "Supervisó in situ el proceso de cambio de ancho. Percibió que la rueda derecha del último eje no había realizado el cambio y avisó inmediatamente al maquinista para que detuviera el tren."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales M1 (PK 337+280) y S1/1 (PK 337+360) en lado ibérico; señales M ZAR F404 (PK 304+920), E ZAR F404 (PK 305+205), S ZAR M4 (PK 305+420) y M ZAR M404 (PK 304+994) en lado estándar. Todas dotadas de balizas ASFA de pie de señal.",
+  "tipo_via": "Cambiador de ancho con plataformas independientes para material Talgo y CAF. Transición de ancho ibérico (1.668 mm) a ancho estándar (1.435 mm).",
+  "velocidad_maxima": "Velocidad máxima para cambio de ancho serie 120: inferior a 15 km/h. Velocidad prefijada durante la operación: 5 km/h.",
+  "ancho": "Ibérico 1.668 mm / Estándar 1.435 mm",
+  "electrificacion": "Lado ibérico: electrificada con CTC. Lado estándar: electrificada.",
+  "estado_via": "Funcionamiento normal antes del suceso. Tras el descarrilamiento: deformaciones en los perfiles del sistema de guiado de la plataforma CAF, elementos de sujeción rotos o doblados.",
+  "otro": "Bloqueo automático de vía única (BAU) electrificada con CTC (lado ibérico) y bloqueo de señalización lateral (BSL) (lado estándar). Dos fosos de descongelación de rodales. Comunicaciones: tren-tierra modalidad A canal 61 (ibérico) y GSM-R (estándar), ambos funcionales. No existían obras en el cambiador ni proximidades."
+ },
+ "material_rodante": {
+  "series": "CAF serie 120, rama 120004, bogies BRAVA (Bogie de Rodadura de Ancho Variable), fabricada por CAF y Alstom. Eje 120-7-0071-1.",
+  "averia": "Agarrotamiento del semiacoplamiento de la rueda derecha del eje 16. Grasa completamente degradada, endurecida, ocupando los huecos entre los dientes. Grandes desgastes en el dentado del acoplamiento y semiacoplamiento. Junta (rascador) con desgaste en la zona interior, no estanca. Holgura en rueda 2: 4,38 mm en ancho UIC (máx. permitido 2,39 mm) y 2,41 mm en ancho ibérico (máx. permitido 2,39 mm).",
+  "mantenimiento": "EEM: Renfe Operadora; mantenimiento realizado por ACTREN (participada por Renfe Operadora y CAF). Últimas revisiones de la rama 120004: GVG 23/06/2010 (1.242.079 km), VG 08/08/2012 (1.876.506 km), VL 01/09/2013 (2.185.900 km), V2 16/04/2014 (2.344.693 km), V1 04/07/2014 (2.407.093 km), múltiples ES. Junta (rascador) había recorrido unos 2.454.000 km sin sustitución. En las revisiones V1 y superiores no se detectó deterioro en la junta. No existen registros de medición de fuerzas de traslación en las dos últimas V1; en la anterior ya se registró un valor superior en un 30% a la máxima admitida, no advertido por el personal mantenedor."
+ },
+ "clima": "En el momento del suceso era de día y no existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Fallo del material móvil: el sistema de cambio de ancho de la rueda derecha del último eje (eje 16) no realizó la traslación axial para el cambio de ancho estándar a ibérico debido al agarrotamiento del sistema cónico dentado (semiacoplamiento), generado por la degradación de la grasa al estar contaminada por encontrarse la junta (rascador) desgastada y no ser totalmente estanca.",
+  "contribuyentes": [
+   "En las últimas revisiones conforme al plan de mantenimiento y en el último cambio de ruedas (septiembre 2012) no se detectó deterioro en la junta (rascador), por lo que no fue sustituida; la junta había recorrido unos 2.454.000 km.",
+   "La prueba de medición de esfuerzos de traslación en una revisión V1 anterior al suceso arrojó resultados superiores en un 30% a los admisibles, sin ser detectados por el personal mantenedor.",
+   "No existen registros de medición de fuerzas de traslación en las dos últimas V1 inmediatas al suceso, posiblemente por error de coordinación entre los jefes de taller de Santa Catalina y Can Tunis (carencia de instalación de cambio de ancho en Can Tunis).",
+   "Exceso de confianza del técnico responsable, posiblemente por no haberse detectado nunca un esfuerzo mayor al límite máximo.",
+   "Grandes desgastes en el dentado del acoplamiento y semiacoplamiento por falta de estanqueidad de la zona de contacto entre semiacoplamiento y junta."
+  ],
+  "sistemicas": [
+   "El plan de mantenimiento no contemplaba la sustitución sistemática de la junta (rascador) en ciclos operativos GVG ni en operaciones donde se desmonte el sistema de acoplamiento.",
+   "Deficiencias en la coordinación y registro de las operaciones de medición de fuerzas de traslación entre talleres (Santa Catalina y Can Tunis)."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: dañado el último eje de la rama 120004 (semiacoplamiento agarrotado, dentado desgastado, grasa degradada, junta desgastada). Infraestructura: deformaciones en los perfiles del sistema de guiado de la plataforma CAF del cambiador, elementos de sujeción rotos o doblados.",
+  "afectacion_servicio": "Circulación interrumpida durante 11 horas y 41 minutos (de 16:14 del 31/08/2014 a 03:55 del 01/09/2014). Afectados 13 trenes de larga distancia (incluido el implicado) con un retraso total de 1.022 minutos. 10 trenes de viajeros desviados al cambiador de Plasencia de Jalón. Viajeros y personal del tren 632 transbordados a la rama 121020 (204 viajeros)."
+ },
+ "lecciones": [
+  "La junta (rascador) del semiacoplamiento puede degradarse de forma progresiva sin que las revisiones V1 detecten el deterioro, requiriendo sustitución sistemática en ciclos largos (GVG) y en operaciones de desmontaje del acoplamiento.",
+  "La medición de fuerzas de traslación en el cambiador es un indicador crítico que puede detectar deficiencias antes del fallo; su ausencia de registro o no detección de valores fuera de límite puede permitir que el problema evolucione hasta el descarrilamiento.",
+  "La coordinación entre talleres en la ejecución y registro de operaciones de mantenimiento es esencial para garantizar la trazabilidad de las mediciones.",
+  "El sistema de cambio de ancho BRAVA con semiacoplamiento cónico dentado es sensible a la degradación de la grasa y al desgaste de la junta de estanqueidad, lo que puede provocar agarrotamiento y descarrilamiento."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Incluir en el plan de mantenimiento la sustitución sistemática de la junta (rascador) en los ciclos operativos GVG (1.200.000 kilómetros) y superiores. Dicha sustitución también se llevará a cabo en aquellas operaciones donde se realice el desmontaje del sistema de acoplamiento.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Renfe Operadora (entidad encargada del mantenimiento)"
+  },
+  {
+   "texto": "Seguimiento de las investigaciones relativas a la modificación de los rascadores y nuevo dentado del sistema de cambio de ancho. Plan de implantación del resultado de las mismas.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Renfe Operadora (entidad encargada del mantenimiento)"
+  },
+  {
+   "texto": "Terminar de implantar todas las modificaciones en la realización de la operación de medición de fuerzas de traslación en el cambio de ancho establecidas en el punto 5 del Informe Final. Modificar la documentación de mantenimiento correspondiente.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Renfe Operadora (entidad encargada del mantenimiento)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "cambiador de ancho",
+  "zaragoza delicias",
+  "renfe operadora",
+  "caf serie 120",
+  "bogies brava",
+  "semiacoplamiento",
+  "agarrotamiento",
+  "junta rascador",
+  "degradación grasa",
+  "mantenimiento",
+  "traslación axial"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 31.08.2014 150803-140831-IF-CIAF"
+}

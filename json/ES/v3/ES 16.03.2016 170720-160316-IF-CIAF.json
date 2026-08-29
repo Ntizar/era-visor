@@ -1,0 +1,168 @@
+{
+ "titulo_normalizado": "Conato de colisión en la estación de Torrejón de Ardoz por rebase indebido de señal de salida S1/3 por tren de mercancías CGX89",
+ "idioma_original": "es",
+ "resumen": "El 16 de marzo de 2016 a las 08:37 horas, en la estación de Torrejón de Ardoz (Madrid), el tren de mercancías CGX89 de Acciona Rail Services rebasó indebidamente la señal de salida S1/3 que se encontraba en indicación de parada, provocando un conato de colisión con el tren CGX44 de Continental Rail que circulaba en sentido opuesto por la misma vía. El incidente se produjo por fallo humano del personal de conducción (falta de atención). No hubo víctimas ni daños materiales. La circulación de la vía 3 resultó afectada durante unos 175 minutos.",
+ "hechos": "El tren de mercancías CGX89 de Acciona Rail Services, procedente de Bilbao Mercancías con destino Vicálvaro Clasificación, y el tren CGX44 de Continental Rail, procedente de Bilbao Mercancías con destino Azuqueca de Henares, circulaban en sentidos opuestos hacia la estación de Torrejón de Ardoz. A las 08:32:57 el CGX89 tenía itinerario establecido de entrada a la vía 3 con señales en anuncio de parada y salida S1/3 en parada. El maquinista titular reconocía las indicaciones ASFA del anuncio de parada en la señal E1. A las 08:35:56 el tren ocupaba el circuito de vía anterior a la señal S1/3, que seguía en indicación de parada, mientras el CGX44 se aproximaba en sentido contrario por la misma vía (vía G2/vía 3). A las 08:37:05 se activó el freno de emergencia del ASFA al rebasar la señal S1/3 en parada a 37 km/h, produciéndose el conato de colisión. El CGX89 se detuvo 46 metros tras el rebase y el CGX44 ante la señal E6, quedando las cabezas enfrentadas a 412 metros.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Torrejón de Ardoz",
+  "pk": "22+554",
+  "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Señal de salida S1/3 (PK 22+554) en la estación de Torrejón de Ardoz, tramo Alcalá de Henares-Torrejón de Ardoz. Vía 3 de la estación (correspondiente a vía general G2). Estación en mando central desde el Puesto de Mando de Chamartín."
+ },
+ "cronologia": [
+  {
+   "hora": "08:31:00",
+   "evento": "El tren CGX44 efectúa el paso por San Fernando de Henares"
+  },
+  {
+   "hora": "08:32:57",
+   "evento": "El tren CGX89 tiene itinerario establecido de entrada a vía 3; señales E1 y R1 en anuncio de parada, S1/3 en parada"
+  },
+  {
+   "hora": "08:34:34",
+   "evento": "El CGX89 reconoce en ASFA la indicación de anuncio de parada en baliza previa de señal E1 a 37 km/h"
+  },
+  {
+   "hora": "08:35:03",
+   "evento": "El CGX89 reconoce en ASFA la indicación de anuncio de parada en pie de señal E1 a 39 km/h"
+  },
+  {
+   "hora": "08:35:56",
+   "evento": "El CGX89 ocupa el circuito de vía CV3 anterior a la señal S1/3 (en parada); el CGX44 se aproxima a la señal avanzada E'6"
+  },
+  {
+   "hora": "08:37:05",
+   "evento": "Rebase indebido de la señal S1/3 por el CGX89; activación del freno de emergencia ASFA; conato de colisión con el CGX44"
+  },
+  {
+   "hora": "08:37:13",
+   "evento": "El tren CGX89 se detiene en PK 22+508, tras recorrer 46 metros desde el rebase"
+  },
+  {
+   "hora": "08:37",
+   "evento": "El Jefe del CTC se percata del rebase y contacta por radio con el maquinista del CGX89"
+  },
+  {
+   "hora": "08:41:39",
+   "evento": "El tren CGX44 se detiene ante la señal E6 (en indicación de parada)"
+  },
+  {
+   "hora": "08:52:02",
+   "evento": "El tren CGX44 inicia nuevamente la marcha tras apertura de señal E6"
+  },
+  {
+   "hora": "09:44",
+   "evento": "Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "11:32",
+   "evento": "El tren CGX89 se expide desde vía 3 a su destino (Vicálvaro Clasificación) tras relevo del maquinista"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "CGX89",
+   "tipo": "mercancías",
+   "operador": "Acciona Rail Services",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "CGX44",
+   "tipo": "mercancías",
+   "operador": "Continental Rail",
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista titular del tren CGX89",
+   "implicacion": "Responsable de la conducción; falta de atención que provocó el rebase indebido de la señal S1/3 en indicación de parada. Explicaba situaciones al práctico en formación. Posible fatiga por jornada de 11h37min."
+  },
+  {
+   "rol": "Segundo maquinista (práctico) del tren CGX89",
+   "implicacion": "Conducía en el momento del incidente; en proceso de formación práctica para obtención de habilitación de infraestructura de línea 200. No había circulado nunca por el lugar del suceso."
+  },
+  {
+   "rol": "Jefe del CTC Operador Banda 1108 (Madrid Atocha Cercanías/Alcalá de Henares)",
+   "implicacion": "Se percibió del rebase, contactó por radio con el maquinista, ordenó retroceso y estacionamiento del tren CGX89."
+  },
+  {
+   "rol": "Responsable de circulación Adif (matrícula 2837854)",
+   "implicacion": "Personal de Adif implicado en la operación."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales luminosas con balizas ASFA. Señal de salida S1/3 (PK 22+554) de tres focos sobre pescante con baliza de pie de señal, visibilidad buena. Señal de entrada E6 (PK 22+118) alta con baliza previa y pie de señal, visibilidad buena. Señal E1 (PK 24+025) y R1 (PK 23+771) con indicación de anuncio de parada.",
+  "tipo_via": "Vía cuádruple (G1, G2, G3, G4). Estación con cuatro vías generales (2, 1, 3 y 5). Bloqueo automático de vía cuádruple banalizada (BAB). Mando central desde PM Chamartín.",
+  "velocidad_maxima": "140 km/h para trenes tipo N al paso por la estación. Trenes CGX89 y CGX44 tipo 100 (100 km/h). Desvío 1/5 a 50 km/h. Sin limitaciones temporales.",
+  "ancho": "Ancho ibérico",
+  "electrificacion": "Electrificada (todas las vías G1, G2, G3, G4)",
+  "estado_via": "Recta y horizontal. Sin obras en el lugar ni proximidades.",
+  "otro": "Perfil en recta y horizontal. No existían obras. Radiotelefonía tren-tierra A canal 99 con PM Madrid Chamartín y modalidad C."
+ },
+ "material_rodante": {
+  "series": "Locomotora UIC 957103333218 (serie 333) del CGX89; locomotora UIC 9571033350238 (serie 333) del CGX44",
+  "averia": "Ninguna. ASFA conectado y funcionando con normalidad en ambos trenes. Sin anomalías en equipos ni dispositivos de seguridad.",
+  "mantenimiento": "No se especifica en el informe."
+ },
+ "clima": "Condiciones meteorológicas normales. Día soleado. El sol incidía lateralmente sobre la señal S1/3, pero se verificó que a 150 metros se distinguía bien el color rojo.",
+ "causas": {
+  "directa": "Fallo humano del personal de conducción del tren CGX89 (falta de atención), dando lugar al rebase indebido de la señal de salida S1/3 en indicación de parada y al incumplimiento del artículo 217.1 del Reglamento General de Circulación.",
+  "contribuyentes": [
+   "Limitada experiencia del maquinista titular en el lugar del suceso (7 pasos por la estación, 6 en sentido contrario; habilitación de línea desde 18.12.2015).",
+   "Posible fatiga por jornada laboral de 11 horas y 37 minutos en el momento del rebase (tiempos de conducción reglamentarios: 4h26min).",
+   "Retraso acumulado del tren CGX89 (3 horas y 3 minutos sobre horario teórico), lo que pudo generar presión.",
+   "El maquinista titular estaba explicando situaciones al práctico en formación en el momento de aproximación a la señal.",
+   "Posible deslumbramiento por reflejo del sol en la señal (aunque se verificó visibilidad buena; pudo estar motivado por cansancio)."
+  ],
+  "sistemicas": [
+   "El SGS de Acciona Rail Services (PROC 02_03) no especifica las acciones concretas para la recuperación de títulos habilitantes tras un fallo humano, ni criterios graduados por gravedad.",
+   "No se constató procedimiento en el SGS de ARS para verificar cumplimiento de jornadas de trabajo en función de servicios grafiados y reajustar tiempos en situación degradada.",
+   "No se aplicó al maquinista titular el reconocimiento psicofísico adicional establecido en el apartado 4.10 del PROC 02_03, ni se le suspendió el certificado de conducción tras el suceso."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno (ni material rodante ni infraestructura).",
+  "afectacion_servicio": "Circulación de la vía 3 de la estación afectada unos 175 minutos (08:37 a 11:32). Retrasos: 23 minutos el tren CGX44 y 175 minutos el tren CGX89."
+ },
+ "lecciones": [
+  "La falta de atención del personal de conducción puede provocar rebases indebidos de señales en parada incluso con ASFA activo, que solo mitiga pero no evita el rebase.",
+  "Las jornadas laborales prolongadas (11h37min), aunque dentro de límites reglamentarios de conducción, pueden generar fatiga que afecta a la atención en tramos finales del servicio.",
+  "La escasa experiencia de un maquinista en un itinerario concreto (pocas pasadas por el lugar, especialmente en el sentido del servicio) puede contribuir a la pérdida de atención.",
+  "El ASFA actuó correctamente provocando la frenada de emergencia, pero no pudo evitar el rebase de la señal (46 metros de recorrido tras el rebase).",
+  "Las explicaciones al práctico en formación en momentos críticos de aproximación a señales pueden distraer al maquinista titular."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la 'Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano'.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: Acciona Rail Services"
+  },
+  {
+   "texto": "Que se realice una evaluación a la empresa ARS en lo referente al tratamiento que viene realizando a su personal de conducción tras sucesos que inciden en la seguridad de la circulación ferroviaria.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF) / Implementador: AESF"
+  }
+ ],
+ "tags": [
+  "rebase señal",
+  "conato de colisión",
+  "fallo humano",
+  "falta de atención",
+  "ASFA",
+  "señal en parada",
+  "trenes de mercancías",
+  "estación torrejon de ardoz",
+  "fatiga",
+  "jornada laboral",
+  "SGSF",
+  "práctico en formación",
+  "línea 200",
+  "vía 3"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 16.03.2016 170720-160316-IF-CIAF"
+}

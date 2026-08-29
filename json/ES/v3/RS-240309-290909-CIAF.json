@@ -1,0 +1,79 @@
+{
+ "titulo_normalizado": "Accidente en paso a nivel tipo A entre Villargordo y Grañena (línea 402, Jaén)",
+ "idioma_original": "es",
+ "resumen": "La Resolución de la CIAF aprueba el informe definitivo del accidente ferroviario nº 0018/2009, ocurrido el 2009-03-24 en un paso a nivel tipo A situado en el PK 137,803, entre Villargordo y Grañena, en la línea 402 Espeluy Aguja Km. 340.1 - Jaén. El Pleno de la CIAF aprobó el informe el 2009-09-29. El documento contiene una recomendación dirigida al Ayuntamiento de Jaén para mejorar el acceso al paso a nivel e instalar la señalización prevista en la Orden de 2001-08-02.",
+ "hechos": "El 2009-03-24 se produjo el accidente ferroviario nº 0018/2009 en un paso a nivel tipo A, PK 137,803, entre Villargordo y Grañena, de la línea 402 Espeluy Aguja Km. 340.1 - Jaén. El informe particular fue presentado por el técnico investigador y aprobado como definitivo por la CIAF el 2009-09-29. El texto no añade más detalles sobre la secuencia, trenes, causas o consecuencias.",
+ "lugar": {
+  "tipo": null,
+  "estacion": null,
+  "pk": "137,803",
+  "linea": "402",
+  "provincia": "Jaén",
+  "descripcion_lugar": "Paso a nivel tipo A, PK 137,803, entre Villargordo y Grañena, línea 402 Espeluy Aguja Km. 340.1 - Jaén."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-03-24: accidente ferroviario nº 0018/2009 en paso a nivel tipo A entre Villargordo y Grañena"
+  },
+  {
+   "hora": null,
+   "evento": "2009-09-29: aprobación del informe definitivo por la CIAF"
+  }
+ ],
+ "trenes": [],
+ "personal": [
+  {
+   "rol": "Técnico investigador",
+   "implicacion": "Presentó el informe particular aprobado como definitivo"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel tipo A; se recomienda instalar la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2001-08-02",
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso a nivel tipo A; se recomienda mejorar el acceso al paso a nivel"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "18/09-1: Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2001-08-02 en materia de supresión y protección de pasos a nivel.",
+   "destinatario": "Ayuntamiento de Jaén"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "tipo a",
+  "villargordo",
+  "grañena",
+  "línea 402",
+  "jaén",
+  "ciaf",
+  "recomendación",
+  "señalización",
+  "acceso"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-240309-290909-CIAF"
+}

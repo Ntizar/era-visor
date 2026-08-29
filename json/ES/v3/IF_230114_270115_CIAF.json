@@ -1,0 +1,167 @@
+{
+ "titulo_normalizado": "Arrollamiento de una plataforma portaherramientas por el tren LD 282 entre Calzada de Bureba y Briviesca (Burgos) por bloqueo erróneo de vía del CTC",
+ "idioma_original": "es",
+ "resumen": "El 23 de enero de 2014, a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya–Madrid-Chamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros LD 282 de Renfe Operadora, con origen Irún y destino Vigo-Guixar, arrolló una plataforma de trabajos situada sobre la vía II. El jefe del CTC de Miranda de Ebro, que había concedido por telefonema la interrupción de la vía II al encargado de trabajos, bloqueó por error la vía I en lugar de la vía II. Como consecuencia del arrollamiento no se produjeron daños personales, aunque sí daños materiales en la locomotora, dos coches y la infraestructura, y una interceptación de la vía II durante 272 minutos. La CIAF concluye que el accidente se debió a un fallo humano del personal de circulación.",
+ "hechos": "El día 23 de enero de 2014 estaban programados trabajos de mantenimiento en la vía II del trayecto entre Calzada de Bureba y Briviesca, consistentes en la sustitución de cupones de carril con soldadura aluminotérmica, al amparo del punto 29 del acta semanal de trabajos y bajo el artículo 341 del Reglamento General de Circulación y la Consigna C Experimental nº 58 de Adif. A las 11:37 horas, el encargado de trabajos solicitó por telefonema nº 95 al jefe del CTC de Miranda de Ebro la interrupción de la circulación por la vía II hasta las 13:15 horas, y a las 11:38 horas el jefe del CTC concedió el bloqueo por telefonema nº 110. Sin embargo, al ejecutar la operación, el jefe del CTC bloqueó por error la vía I (CV E1 de Calzada de Bureba y CV E4 de Briviesca) en lugar de la vía II concedida.\n\nMientras tanto, el tren de viajeros LD 282 de Renfe Operadora, formado por la locomotora 252023 y cinco coches, circulaba por la vía II con paso directo por la estación de Calzada de Bureba, con las señales en verde. Pasó la señal de entrada E2 a 67 km/h y la señal de salida S2/2 a 81 km/h, aumentando progresivamente su velocidad hasta alcanzar 147 km/h en el PK 423+331. El maquinista se percató de la presencia de los trabajadores en la vía II, hizo uso del silbato y, cuando los operarios se retiraron, vio sobre la vía una plataforma portaherramientas sin poder evitar arrollarla en el PK 422+950 a 126 km/h, aplicando el freno de emergencia y quedando detenido en el PK 422+350. El encargado de trabajos, al ver aproximarse el tren, ordenó retirarse al personal e hizo señales de parada al maquinista.\n\nNo se produjeron daños personales. La locomotora y los dos primeros coches resultaron dañados, así como la vía y las instalaciones. La vía II quedó interceptada desde las 11:43 hasta las 16:15 horas, restableciéndose la circulación tras retirar la composición del tren. El jefe de investigación de accidentes de Adif comunicó el suceso a la CIAF a las 13:16 horas del mismo día, y el Pleno de la Comisión acordó abrir la investigación el 25 de febrero de 2014.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "422+950",
+  "linea": "100 Hendaya a Madrid-Chamartín",
+  "provincia": "Burgos",
+  "descripcion_lugar": "Vía II de la línea 100, entre las estaciones de Calzada de Bureba y Briviesca, en el tramo Briviesca-Pancorbo, municipio de Fuentebureba (Burgos). Zona de alineación recta de 1.471 metros."
+ },
+ "cronologia": [
+  {
+   "hora": "11:37:00",
+   "evento": "El encargado de trabajos solicita por telefonema nº 95 al jefe del CTC de Miranda de Ebro el bloqueo de la vía II entre Calzada de Bureba y Briviesca hasta las 13:15 horas, sin trenes de trabajo."
+  },
+  {
+   "hora": "11:38:00",
+   "evento": "El jefe del CTC concede por telefonema nº 110 la interrupción de la circulación por la vía II hasta las 13:15 horas; ambos telefonemas quedan anotados en el libro de bloqueos."
+  },
+  {
+   "hora": "11:38:44",
+   "evento": "Según la moviola del CTC, queda protegido el paso a nivel del PK 427+946 y está establecido el itinerario de paso directo para el tren 282 por la vía II hasta Briviesca."
+  },
+  {
+   "hora": "11:38:58",
+   "evento": "Por error, el jefe del CTC bloquea el CV E1 de Calzada de Bureba (vía I)."
+  },
+  {
+   "hora": "11:39:07",
+   "evento": "Por error, el jefe del CTC bloquea el CV E4 de Briviesca (vía I)."
+  },
+  {
+   "hora": "11:40:32",
+   "evento": "El tren 282 pasa por la baliza de la señal de entrada E2 (PK 429+073) en vía libre a 67 km/h."
+  },
+  {
+   "hora": "11:40:38",
+   "evento": "El tren 282 circula por la vía 2 de Calzada de Bureba (PK 428+180) en paso directo."
+  },
+  {
+   "hora": "11:41:31",
+   "evento": "El tren 282 pasa por la baliza de la señal de salida S2/2 (PK 428+021) en vía libre a 81 km/h."
+  },
+  {
+   "hora": "11:41:49",
+   "evento": "El tren 282 ocupa el circuito de vía BV2 entre Calzada de Bureba y Briviesca."
+  },
+  {
+   "hora": "11:42:20",
+   "evento": "El tren 282 ocupa el circuito de vía BC2 entre Calzada de Bureba y Briviesca, donde se realizaban los trabajos."
+  },
+  {
+   "hora": "11:43:43",
+   "evento": "El tren 282 alcanza su velocidad máxima de 147 km/h en el PK 423+331."
+  },
+  {
+   "hora": "11:43:53",
+   "evento": "Se produce la colisión con la plataforma de trabajos en el PK 422+950, circulando el tren a 126 km/h."
+  },
+  {
+   "hora": "11:43:57",
+   "evento": "Queda registrada la aplicación del freno de emergencia."
+  },
+  {
+   "hora": "11:44:27",
+   "evento": "El tren queda detenido en el PK 422+350."
+  },
+  {
+   "hora": "11:50:00",
+   "evento": "El jefe del CTC llama al encargado de trabajos preguntando si ha pasado algo; admite su equivocación al bloquear la vía I."
+  },
+  {
+   "hora": "13:16:00",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "16:15:00",
+   "evento": "Tras retirar la composición del tren 282, se restablece la circulación por la vía II en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "25 de febrero de 2014: el Pleno de la CIAF acuerda abrir la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "282",
+   "tipo": "Larga distancia (LD), tren tipo 160A",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la locomotora y en los dos primeros coches; valoración de Renfe Operadora: 41.780 €."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe del CTC de Miranda de Ebro (responsable de circulación), matrícula 8893638",
+   "implicacion": "Concedió por telefonema la interrupción de la vía II pero, por error, bloqueó la vía I en lugar de la vía II, realizando una operación de circulación incorrecta."
+  },
+  {
+   "rol": "Encargado de trabajos, matrícula 2850261",
+   "implicacion": "Solicitó el bloqueo de la vía II, ordenó el comienzo de los trabajos, vio aproximarse el tren, mandó retirarse al personal e hizo señales de parada al maquinista."
+  },
+  {
+   "rol": "Maquinista del tren 282, matrícula 9712209",
+   "implicacion": "Circulaba el tren LD 282; al ver a los trabajadores usó el silbato, redujo la velocidad y aplicó el freno de emergencia, sin poder evitar el arrollamiento de la plataforma."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (BAB) con control de tráfico centralizado (CTC) desde el puesto de mando de Miranda de Ebro; radiotelefonía modalidad A.",
+  "tipo_via": "Vía doble electrificada de ancho ibérico.",
+  "velocidad_maxima": "150 km/h (según el Cuadro de Velocidades Máximas en el sentido de la marcha)",
+  "ancho": "Ibérico",
+  "electrificacion": "Electrificada",
+  "estado_via": "Vía II con trabajos de mantenimiento en curso; vía I bloqueada por error.",
+  "otro": "Carril de 54 kg/ml sobre traviesa monobloque de hormigón; zona de alineación recta de 1.471 metros; antes del arrollamiento el tren circulaba en rampa de 9,40 milésimas (640 m), pasaba un cambio de rasante en PK 423+020 y entraba en pendiente de 3,29 milésimas (70 m)."
+ },
+ "material_rodante": {
+  "series": "Locomotora 252023 (Nº UIC 95710250237) más 5 coches; tren tipo 160A, longitud 132 m, peso 250 t, velocidad máxima 160 km/h.",
+  "averia": "Ninguna avería: los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Nublado con buena visibilidad.",
+ "causas": {
+  "directa": "Fallo humano del personal de circulación (jefe del CTC de Miranda de Ebro) al realizar una operación de circulación incorrecta: bloqueó por error la vía I entre Calzada de Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por telefonema al encargado de trabajos.",
+  "contribuyentes": [
+   "Carga de trabajo del jefe del CTC: varios cortes de vía en el turno y varios trenes en la banda (seis en total), lo que pudo influir en la confusión.",
+   "Ausencia de protección mediante barra de shuntado o útiles de cortocircuito en la zona de trabajos, medida no obligatoria en la Consigna C Experimental nº 58 pero que podría haber evitado el suceso."
+  ],
+  "sistemicas": [
+   "Riesgo inherente al procedimiento de interrupción de la circulación sin tren de trabajo cuando no se garantiza el cierre efectivo de la señal de salida ni el uso de protecciones adicionales.",
+   "Posibilidad de confusión entre vías en operaciones de bloqueo realizadas manualmente desde CTC sin verificación cruzada suficiente."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: daños en la locomotora y en los dos primeros coches, valorados por Renfe Operadora en 41.780 €. Infraestructura: daños en vía e instalaciones, valorados por Adif en 2.977 €.",
+  "afectacion_servicio": "Vía II interceptada de 11:43 a 16:15 horas (272 minutos). La vía I quedó expedita y permitió las circulaciones en los dos sentidos, informando a los trenes de marcha a la vista entre los PK 422+300 y 422+500. Retrasos: tren 282, 190 minutos; 2 trenes de larga distancia, 36 minutos totales; 9 trenes de mercancías, 486 minutos totales; 4 trenes de media distancia, 59 minutos totales. No fue necesario activar el Plan Alternativo de Transporte (PAT) ni el plan externo."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se reitera la recomendación 43/13-1: incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "fallo humano",
+  "bloqueo",
+  "ctc",
+  "telefonema",
+  "plataforma portaherramientas",
+  "trabajos en via",
+  "soldadura aluminotérmica",
+  "arrollamiento",
+  "consigna c experimental 58",
+  "barra de shuntado",
+  "renfe operadora",
+  "adif",
+  "linea 100"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_230114_270115_CIAF"
+}

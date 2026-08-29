@@ -1,0 +1,107 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por el tren 1186 en la entrada de Villarrobledo (Albacete)",
+ "idioma_original": "es",
+ "resumen": "El 11 de mayo de 2008, a las 17:53 horas, el tren de viajeros de larga distancia 1186 de Renfe Operadora arrolló a un hombre de 72 años en el P.K. 202,400 de la línea 300 Madrid-Chamartín–Valencia–Estación de Nord, en la entrada de la estación de Villarrobledo (Albacete). La víctima, que padecía la enfermedad de Alzheimer, transitaba por la vía en sentido de la marcha. El maquinista hizo uso del silbato y del freno de emergencia sin poder evitar el impacto, resultando el hombre fallecido en el acto. Adif calificó el suceso como suicidio. La investigación concluyó que el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado, sin que se establecieran recomendaciones.",
+ "hechos": "El día 11 de mayo de 2008, el tren de viajeros de larga distancia 1186 de Renfe Operadora, compuesto por la locomotora 252046 y 22 coches con una masa total remolcada de 378 Tm, procedente de Madrid con destino Alicante, circulaba por la línea 300 Madrid-Chamartín–Valencia–Estación de Nord. En la entrada de la estación de Villarrobledo, entre la señal de avanzada y la de entrada, en el P.K. 202,400 de la vía II, el tren arrolló a un hombre de 72 años que transitaba a pie por la vía en sentido de la marcha.\n\nEl maquinista observó a la persona andando por la vía, hizo uso del silbato de forma insistente y, al ver que no se apartaba, aplicó el freno de emergencia. La velocidad del tren en el momento de activar el freno era de 155 km/h, por debajo de la máxima permitida de 160 km/h. Pese a ello, no pudo evitar el arrollamiento y la víctima falleció en el acto, quedando su cuerpo totalmente fuera de la caja de la vía.\n\nEl maquinista comunicó el suceso al puesto de mando, que activó el Plan de Emergencia exterior a través del 112. Aproximadamente 20 minutos después se personaron la ambulancia, los bomberos y la Guardia Civil. Tras la autorización de la policía judicial, el tren continuó hasta su destino. La circulación quedó interrumpida por la vía 2 hasta las 22:15, pudiendo circular con marcha a la vista por la vía 1. No se produjeron daños materiales al tren, la infraestructura ni al medio ambiente. Adif consideró el accidente como suicidio.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Villarrobledo",
+  "pk": "202,400",
+  "linea": "300 Madrid-Chamartín–Valencia–Estación de Nord",
+  "provincia": "Albacete",
+  "descripcion_lugar": "Entrada de la estación de Villarrobledo, entre la señal de avanzada y la señal de entrada, vía II. Tramo de vía doble electrificada, sin vallar, no zona poblada."
+ },
+ "cronologia": [
+  {
+   "hora": "17:53",
+   "evento": "Arrollamiento de la persona por el tren 1186 en el P.K. 202,400. El maquinista hace uso del silbato y del freno de emergencia."
+  },
+  {
+   "hora": "17:53",
+   "evento": "Fallecimiento del hombre de 72 años en el acto. Cuerpo fuera de la caja de la vía."
+  },
+  {
+   "hora": "18:13",
+   "evento": "Se personan ambulancia, bomberos y Guardia Civil (aproximadamente 20 minutos después del suceso)."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista comunica el suceso al puesto de mando; se activa el Plan de Emergencia exterior por el 112."
+  },
+  {
+   "hora": null,
+   "evento": "Autorización de la policía judicial para continuar la marcha. El tren llega a destino sin más novedad."
+  },
+  {
+   "hora": "22:15",
+   "evento": "Se restablece la circulación por la vía 2; hasta entonces se circula con marcha a la vista por la vía 1."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1186",
+   "tipo": "Viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños en el material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 1186 (matrícula 9663493)",
+   "implicacion": "Hizo uso del silbato repetidas veces y del freno de emergencia sin poder evitar el arrollamiento. Actuación correcta según la investigación. Jornada de conducción el día del accidente: 1 h 45 min. Último reciclaje formativo: 18/10/2007. Último reconocimiento médico y psicotécnico: 10/02/2005. Tasa de alcoholemia y jornadas dentro de la normativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de avanzada y señal de entrada a Villarrobledo",
+  "tipo_via": "Vía doble, sin vallar, no zona poblada",
+  "velocidad_maxima": "160 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Correcto; bloqueo automático BAB sin CTC",
+  "otro": "Radiotelefonía modalidad A"
+ },
+ "material_rodante": {
+  "series": "Locomotora 252046 + 22 coches (masa remolcada 378 Tm)",
+  "averia": null,
+  "mantenimiento": "Funcionó correctamente según el informe"
+ },
+ "clima": "Tiempo atmosférico despejado en el momento del arrollamiento",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar no autorizado para ello (circulaba a pie por la vía en sentido de la marcha)",
+  "contribuyentes": [
+   "La víctima padecía la enfermedad de Alzheimer",
+   "Vía sin vallar en el tramo del accidente",
+   "Adif consideró el accidente como suicidio"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+  "afectacion_servicio": "Circulación interrumpida por la vía 2 hasta las 22:15; marcha a la vista por la vía 1 durante la interrupción"
+ },
+ "lecciones": [
+  "La actuación del maquinista fue correcta: uso del silbato y freno de emergencia, velocidad inferior a la máxima permitida.",
+  "El accidente no fue evitable pese a la actuación correcta del personal ferroviario y al correcto funcionamiento de material e infraestructura.",
+  "La presencia de una persona vulnerable (Alzheimer) en vía no vallada constituye un riesgo no controlable desde la operación ferroviaria."
+ ],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento de persona",
+  "suicidio",
+  "vía sin vallar",
+  "enfermedad de alzheimer",
+  "tren de larga distancia",
+  "freno de emergencia",
+  "villarrobledo",
+  "albacete",
+  "renfe operadora",
+  "adif",
+  "bloqueo automático bab",
+  "sin recomendaciones"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-110508-281108-CIAF"
+}

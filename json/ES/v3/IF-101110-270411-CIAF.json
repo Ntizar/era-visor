@@ -1,0 +1,121 @@
+{
+ "titulo_normalizado": "Descarrilamiento de locomotora en estación Betanzos-Infesta por fallo técnico en sujeción del desvío 9",
+ "idioma_original": "es",
+ "resumen": "El 10 de noviembre de 2010 a las 18:20 horas, la locomotora del tren de mercancías 81729 de Renfe Operadora descarriló 5 ejes al paso por el cruzamiento del cambio 9 en la estación Betanzos-Infesta (A Coruña), P.K. 524+416 de la línea 800. El tren transportaba parte de su carga con mercancías peligrosas (etanol). El accidente se originó por el deficiente estado de la sujeción del carril de unión del desvío 9, lo que provocó la apertura de la vía al paso de la locomotora. No hubo víctimas mortales ni heridos, aunque se produjeron daños en la infraestructura y una interceptación total de la vía durante 4 horas.",
+ "hechos": "El día 10 de noviembre de 2010, a las 18:20 horas, el tren de mercancías 81729 de Renfe Operadora, con origen en Teixeiro y destino A Coruña, se aproxima a la estación Betanzos-Infesta. Una vez rebasada la señal de entrada E3, se le establece itinerario de entrada a vía 5. Al pasar por el cruzamiento del cambio 9, a la altura del P.K. 524+416 (lado León), la locomotora 335008 descarrila parcialmente de 5 ejes (1º, 2º, 3º, 5º y 6º) del lado derecho según el sentido de la marcha. El tren circulaba a 21 km/h cuando se produjo el descarrilamiento, dentro de la velocidad máxima permitida de 30 km/h para la marcha de maniobra tras el rebase autorizado de la señal interior E1.\n\nEl maquinista detectó un fuerte impacto y accionó el frenado de emergencia, recorriendo 28 metros hasta la detención total. Las ruedas derechas de los ejes implicados quedaron descarriladas en la parte interior de la vía. Como consecuencia se produjeron daños en la infraestructura: varias traviesas y elementos de sujeción rotos y algunos tramos de carril. No hubo daños en el material rodante ni en la carga transportada.\n\nEl desvío 9 presentaba un estado deficiente de sujeción y clavazón con traviesas defectuosas y tirafondos sueltos. Tras el descarrilamiento se comprobaron sobreanchos fuera de tolerancia (entre 30 y 60 mm en los 30 metros medidos), con valores de ancho de vía desde 1.699 hasta 1.730 mm. En los cinco meses anteriores se habían realizado dos vigilancias a pie sin detectar defectos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Betanzos-Infesta",
+  "pk": "524+416",
+  "linea": "800 A Coruña - León",
+  "provincia": "A Coruña",
+  "descripcion_lugar": "Estación Betanzos-Infesta, a la altura del cruzamiento del cambio 9, tramo Guitiriz – Betanzos-Infesta. Desvío 9 instalado en curva a la derecha, lado León."
+ },
+ "cronologia": [
+  {
+   "hora": "18:19:00",
+   "evento": "El tren 81729 pasa por la baliza de pie de señal E3 (en anuncio de parada) a 17 km/h"
+  },
+  {
+   "hora": "18:19:31",
+   "evento": "Pasa por la baliza previa de la señal de entrada interior E1 (control de velocidad L7) a 27 km/h"
+  },
+  {
+   "hora": "18:20:22",
+   "evento": "Pasa por la baliza de pie de la señal E1 con indicación de rebase autorizado a 19 km/h"
+  },
+  {
+   "hora": "18:20:54",
+   "evento": "A 21 km/h, el maquinista aplica el freno de emergencia y recorre 28 metros hasta la detención total; descarrilamiento de 5 ejes del lado derecho de la locomotora"
+  },
+  {
+   "hora": "18:20",
+   "evento": "Hora oficial del descarrilamiento (P.K. 524+416)"
+  },
+  {
+   "hora": "22:23",
+   "evento": "Se levanta la interceptación total de la vía general, lado Oza dos Ríos"
+  },
+  {
+   "hora": "01:00",
+   "evento": "Se levanta la interceptación de la vía 5"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "81729",
+   "tipo": "Tren de mercancías, tipo 100",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños en el material rodante ni en la carga transportada"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Condujo el tren 81729 (matrícula 8907354). Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 03/02/2010, último reconocimiento médico y psicotécnico 21/10/2008. Prueba de alcoholemia a las 21:05 con resultado negativo (0,00 mg/1000 ml). Jornada del día 10: 2h10min (conducción efectiva 1h21min). Cumplió la normativa vigente."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E3, señal de entrada interior E1 con rebase autorizado (movimientos 6 y 13 de Consigna Serie A 2250). Control de velocidad L7.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "80 km/h en estación; 30 km/h tras rebase autorizado (marcha de maniobra)",
+  "ancho": "Convencional",
+  "electrificacion": "No electrificada",
+  "estado_via": "Deficiente sujeción del desvío 9: traviesas defectuosas y tirafondos sueltos. Sobreanchos fuera de tolerancia (30-60 mm) en 30 m medidos. Ancho de vía desde 1.699 hasta 1.730 mm tras el descarrilamiento.",
+  "otro": "Bloqueo de liberación automática (BLAU). CTC desde puesto de mando de Ourense. Desvío 9 tipo A recto, carril 45 kg/ml, traviesas de madera. Vigilancias de vía por sección de vía y obra de A Coruña (Gerencia de mantenimiento de Ourense, Adif) con periodicidad de seis meses."
+ },
+ "material_rodante": {
+  "series": "Locomotora 335008 (Nº UIC: 967193350089), 14 vehículos, 725 toneladas de masa remolcada",
+  "averia": "No se producen daños en el material rodante. Equipos de seguridad funcionaron correctamente. Parámetros de rodadura (altura y espesor de pestaña, factor Qr) dentro de tolerancia.",
+  "mantenimiento": "No se especifica estado de mantenimiento del material rodante; se indica que los equipos de seguridad funcionaron correctamente y los parámetros de rodadura eran correctos."
+ },
+ "clima": "Anocheciendo y lloviendo",
+ "causas": {
+  "directa": "Fallo técnico en las instalaciones de la vía: el deficiente estado de la sujeción del carril de unión del desvío 9 provocó la apertura de la vía al paso de la locomotora y la posterior caída de los primeros ejes.",
+  "contribuyentes": [
+   "Traviesas defectuosas y tirafondos sueltos en el desvío 9",
+   "Sobreanchos fuera de tolerancia (30-60 mm) no detectados en inspecciones previas",
+   "Dos vigilancias a pie realizadas en los cinco meses anteriores (08/06/2010 y 24/09/2010) sin detectar defectos ni anormalidades",
+   "Inspección de infraestructura 45 días antes del accidente sin detectar anomalías"
+  ],
+  "sistemicas": [
+   "Deficiencias en el mantenimiento periódico de la infraestructura",
+   "Ineficacia de las inspecciones periódicas para detectar el deterioro progresivo de las sujeciones del desvío",
+   "Periodicidad de seis meses para vigilancias de vía insuficiente para detectar deterioros en elementos críticos como desvíos"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en infraestructura: varias traviesas y elementos de sujeción rotos, algunos tramos de carril. Sin daños en material rodante ni en la carga (mercancías peligrosas: etanol 33/1170).",
+  "afectacion_servicio": "Interceptación total de la vía general (lado Oza dos Ríos) de 18:20 a 22:23 (4h 3min). Vía 5 interceptada hasta las 01:00. Retrasos: tren implicado 179 min; dos trenes de larga distancia 44 min; un tren de media distancia 30 min. Activación del plan de contingencias interno desde el puesto de mando de Ourense. Personación de Guardia Civil y bomberos de Betanzos por mercancías peligrosas."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "locomotora",
+  "mercancías peligrosas",
+  "etanol",
+  "desvío",
+  "sujeción",
+  "tirafondos",
+  "traviesas",
+  "apertura de vía",
+  "mantenimiento",
+  "betanzos-infesta",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-101110-270411-CIAF"
+}

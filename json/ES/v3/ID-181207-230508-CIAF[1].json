@@ -1,0 +1,129 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por vagoneta de Adif en la línea 810 entre Louredo Valos y Redondela",
+ "idioma_original": "es",
+ "resumen": "El 18 de diciembre de 2007, a las 14:10, una vagoneta de electrificación de Adif arrolló a una persona en el P.K. 165,160 de la línea 810 Monforte de Lemos-Vigo, entre Louredo Valos y Redondela. La víctima, un varón de 86 años, cruzó la vía por un lugar no habilitado y falleció horas después en el hospital. El maquinista hizo sonar la bocina y frenó, pero no pudo evitar el atropello; el tren circulaba por debajo de la velocidad máxima. No hubo daños materiales, aunque se produjeron 20 minutos de retraso.",
+ "hechos": "El suceso ocurrió el 18 de diciembre de 2007 a las 14:10 en plena vía, en el P.K. 165,160 de la línea 810 Monforte de Lemos-Vigo, entre Louredo Valos y Redondela. La vagoneta de electrificación GY259, de Mantenimiento de Infraestructura de Adif, procedente de Guillarei y con destino Redondela, circulaba en curva cuando el maquinista observó a una persona cruzando la vía por un lugar no habilitado, sin paso a nivel.\n\nEl maquinista hizo sonar la bocina repetidamente y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento lateral. La víctima quedó herida, tendida fuera del gálibo en el lado derecho del sentido de la marcha. Fue atendida por el maquinista y el personal de servicio de la vagoneta y evacuada al hospital a las 14:20, donde falleció horas más tarde.\n\nTras la evacuación, la circulación normal quedó restablecida a las 14:25. La vagoneta reanudó la marcha y llegó a Redondela a las 14:33, donde el Agente de la Jefatura Técnica de Operaciones de Galicia realizó al maquinista la prueba de alcoholemia, con resultado negativo.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "165,160",
+  "linea": "810 Monforte de Lemos-Vigo",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Plena vía, entre las estaciones de Louredo Valos y Redondela, en curva, con paso vicioso por donde accedió la víctima; delimitado a la derecha, en el sentido de la línea, por una carretera local. Trayecto Guillarei-Redondela."
+ },
+ "cronologia": [
+  {
+   "hora": "14:10",
+   "evento": "18/12/2007: arrollamiento de la persona por la vagoneta GY259 en el P.K. 165,160."
+  },
+  {
+   "hora": "14:20",
+   "evento": "La víctima es evacuada al hospital, donde fallece horas más tarde."
+  },
+  {
+   "hora": "14:25",
+   "evento": "Circulación normal restablecida."
+  },
+  {
+   "hora": "14:33",
+   "evento": "La vagoneta GY259 llega a Redondela."
+  },
+  {
+   "hora": "15:20",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo."
+  },
+  {
+   "hora": "11:24",
+   "evento": "Al día siguiente, el coordinador de accidentes ferroviarios de Adif informa a la CIAF por correo electrónico."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "GY259",
+   "tipo": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif",
+   "operador": "Adif",
+   "danos": "No se produjeron daños en el material motor ni en las instalaciones."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Víctima (varón de 86 años)",
+   "implicacion": "Cruzó la vía por un lugar no habilitado; resultó herida de gravedad y falleció posteriormente en el hospital."
+  },
+  {
+   "rol": "Maquinista principal del tren GY259",
+   "implicacion": "Hizo sonar la bocina y accionó el freno sin poder evitar el arrollamiento; su actuación fue correcta. Prueba de alcoholemia negativa. Jornada de conducción de 2 horas y 15 minutos. Antigüedad en el cargo: 01/04/1985. Último reciclaje formativo: 02/01/2007. Último reconocimiento: 07/11/2006."
+  },
+  {
+   "rol": "Personal de servicio de la vagoneta",
+   "implicacion": "Atendió a la víctima junto al maquinista."
+  },
+  {
+   "rol": "Agente de la Jefatura Técnica de Operaciones de Galicia",
+   "implicacion": "Realizó la prueba de alcoholemia al maquinista en Redondela."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Informó a la CIAF al día siguiente a las 11:24 horas mediante correo electrónico."
+  },
+  {
+   "rol": "Responsable de Seguridad en la Circulación de Adif",
+   "implicacion": "Por delegación del Director de Seguridad en la Circulación de Adif, entregó su informe particular del accidente el 05/03/2008."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C); señal avanzada en anuncio de precaución.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "85 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Tramo en curva; carretera local al lado derecho, en el sentido de la línea; paso vicioso; visibilidad aproximada de 100 metros y discontinua unos 400 metros debido a arbustos; ausencia de paso a nivel en el punto del arrollamiento."
+ },
+ "material_rodante": {
+  "series": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; matrícula 92.71.60.00.913.4",
+  "averia": "No se produjeron daños; el material rodante y las instalaciones técnicas funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+ "causas": {
+  "directa": "El accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no habilitado para ello cuando se acercaba el tren.",
+  "contribuyentes": [
+   "Cruce por un lugar no habilitado (paso vicioso).",
+   "Ausencia de paso a nivel en el punto del arrollamiento.",
+   "Tramo en curva.",
+   "Visibilidad discontinua por arbustos en la zona."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material motor ni en las instalaciones.",
+  "afectacion_servicio": "Retraso de 20 minutos del tren GY259; circulación normal restablecida a las 14:25; llegada a Redondela a las 14:33."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "vagoneta",
+  "adif",
+  "línea 810",
+  "plena vía",
+  "paso vicioso",
+  "fallecido",
+  "cruce no autorizado",
+  "seguridad ferroviaria",
+  "pontevedra",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-181207-230508-CIAF[1]"
+}

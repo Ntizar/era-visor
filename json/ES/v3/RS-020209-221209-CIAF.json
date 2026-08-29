@@ -1,0 +1,83 @@
+{
+ "titulo_normalizado": "Accidente ferroviario entre Zegama Otzaurte y Brinkola en la línea Madrid-Hendaya",
+ "idioma_original": "es",
+ "resumen": "La resolución de la CIAF aprueba como definitivo el informe particular del accidente ferroviario nº 0010/2009. El suceso ocurrió el 2 de febrero de 2009 entre Zegama Otzaurte y Brinkola, en la línea 100 Madrid-Hendaya. El Pleno de la CIAF celebrado el 22 de diciembre de 2009 modifica la tercera recomendación del informe. Se establecen recomendaciones dirigidas a Adif y a la DGIF sobre mantenimiento, comprobación periódica y sustitución de vía.",
+ "hechos": "El 2 de febrero de 2009 se produjo un accidente ferroviario entre Zegama Otzaurte y Brinkola, en la línea 100 Madrid-Hendaya.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": null,
+  "linea": "100 Madrid-Hendaya",
+  "provincia": null,
+  "descripcion_lugar": "Entre Zegama Otzaurte y Brinkola"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-02-02: Accidente ferroviario entre Zegama Otzaurte y Brinkola, en la línea 100 Madrid-Hendaya"
+  },
+  {
+   "hora": null,
+   "evento": "2009-12-22: Pleno de la CIAF aprueba el informe definitivo y modifica la tercera recomendación"
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": null
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas.",
+   "destinatario": "DGIF"
+  }
+ ],
+ "tags": [
+  "accidente ferroviario",
+  "ciaf",
+  "resolución",
+  "zegama otzaurte",
+  "brinkola",
+  "línea madrid-hendaya",
+  "adif",
+  "dgif",
+  "mantenimiento",
+  "vía sobre balasto",
+  "vía en placa"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-020209-221209-CIAF"
+}

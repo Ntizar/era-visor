@@ -1,0 +1,118 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona por tren de mercancías en paso enmaderado de la estación de Martorell",
+ "idioma_original": "es",
+ "resumen": "El 12 de septiembre de 2008, a las 19:49 horas, el tren de mercancías 40360 de Renfe Operadora arrolló a una persona en el paso enmaderado de la estación de Martorell, en el PK 73,130 de la línea 240. La víctima falleció en el acto. El informe concluye que el origen del accidente fue el tránsito de la persona por un lugar no autorizado mientras pasaba el tren. No se establecen recomendaciones porque existían carteles prohibiendo el cruce de vías y un paso inferior.",
+ "hechos": "El día 12 de septiembre de 2008, a las 19:49 horas, el tren de mercancías 40360 de Renfe Operadora, compuesto por la locomotora 250009 y 20 vagones, con 602 toneladas de masa remolcada, arrolló a una persona en el paso enmaderado de la estación de Martorell. El suceso se produjo en el PK 73,130 de la línea 240 San Vicente de Calders – L’Hospitalet de Llobregat, a la salida del túnel, en la vía II, una vez rebasada la señal de entrada de la estación.\n\nEl maquinista hizo uso del silbato repetidas veces antes y después de la salida del túnel y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. Como consecuencia del impacto, la persona falleció en el acto.\n\nAl lugar del accidente se personaron los Mossos d’Esquadra y una ambulancia a las 19:50 horas, y los bomberos a las 19:57 horas. El juez se presentó a las 21:55 horas y ordenó el levantamiento del cadáver. El tren afectado reanudó la marcha a las 00:15 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Martorell",
+  "pk": "73,130",
+  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso enmaderado situado a la salida del túnel, en la vía II de la estación de Martorell, a unos 40 metros de la boca de salida del túnel. El acceso desde el lado de San Vicente de Calders se realiza por un túnel que termina en curva, cerca del edificio de viajeros. Existía un paso inferior a unos 50 metros y carteles que prohibían cruzar las vías."
+ },
+ "cronologia": [
+  {
+   "hora": "2008-09-12T19:49",
+   "evento": "El tren de mercancías 40360 arrolla a una persona en el paso enmaderado de la estación de Martorell."
+  },
+  {
+   "hora": "2008-09-12T19:50",
+   "evento": "Se personan en el lugar del accidente los Mossos d’Esquadra y la ambulancia."
+  },
+  {
+   "hora": "2008-09-12T19:57",
+   "evento": "Se presentan los bomberos."
+  },
+  {
+   "hora": "2008-09-12T21:55",
+   "evento": "Se presenta el juez y ordena el levantamiento del cadáver."
+  },
+  {
+   "hora": "2008-09-13T00:15",
+   "evento": "Reanuda la marcha el tren afectado."
+  },
+  {
+   "hora": "2008-09-15T10:37",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona por el tren 40360 en la estación de Martorell."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "40360",
+   "tipo": "Mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en el frontis de la locomotora 250009, brida de sujeción de la tubería de freno y deformación en chapas-estribo del acceso frontal del lado derecho."
+  },
+  {
+   "numero": "25173",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de mercancías 40360",
+   "implicacion": "Conducía el tren implicado; usó el silbato repetidamente y accionó el freno de emergencia, sin poder evitar el arrollamiento. Su actuación fue considerada correcta. Matrícula: 7788235."
+  },
+  {
+   "rol": "Factor de circulación de la estación de Martorell",
+   "implicacion": "Testigo del suceso; anunció por megafonía el paso del tren por vía II y, tras observar el arrollamiento, dio aviso al C.T.C."
+  },
+  {
+   "rol": "Maquinista del tren 25173",
+   "implicacion": "Testigo; estaba estacionado en vía I con destino a Vilafranca del Penedés y hizo sonar su silbato."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con C.T.C.",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Radiotelefonía modalidad A. El paso enmaderado estaba a unos 40 metros de la boca de salida del túnel, en un trazado con perfil curvo y cambio brusco de luminosidad. Existía un paso inferior a unos 50 metros y carteles que prohibían cruzar las vías. Durante la afectación se estableció circulación por vía 1 banalizada entre Martorell y Castellbisbal, y el paso por la estación de Martorell se realizó por la vía 3."
+ },
+ "material_rodante": {
+  "series": "Locomotora 250009 y 20 vagones",
+  "averia": "No consta avería; el material rodante funcionó correctamente. Según la memoria estática de la locomotora, al accionar el freno de emergencia el tren circulaba a 96 km/h.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar no autorizado para ello, en el momento en que pasaba el tren.",
+  "contribuyentes": [
+   "Paso enmaderado situado a unos 40 metros de la boca de salida del túnel.",
+   "Perfil curvo de la vía.",
+   "Escasa visibilidad agravada por el cambio brusco de luminosidad al salir del túnel.",
+   "Disminución del tiempo de reacción del maquinista."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Daños en el frontis de la locomotora 250009, brida de sujeción de la tubería de freno y deformación en chapas-estribo del acceso frontal del lado derecho.",
+  "afectacion_servicio": "42 trenes afectados y 1.911 minutos de retraso, correspondientes a 28 trenes de Cercanías y 14 de Mercancías. Se estableció circulación por vía 1 banalizada entre Martorell y Castellbisbal, y el paso por la estación de Martorell se realizó por la vía 3. El tren afectado reanudó la marcha a las 00:15 horas."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso enmaderado",
+  "estación de martorell",
+  "tren de mercancías",
+  "peatón",
+  "túnel",
+  "silbato",
+  "freno de emergencia",
+  "lugar no autorizado",
+  "muerte",
+  "adif",
+  "renfe operadora"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-120908-200109-CIAF"
+}

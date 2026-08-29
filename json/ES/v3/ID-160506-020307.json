@@ -1,0 +1,115 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en el paso a nivel de la estación de Villarreal (Castellón)",
+ "idioma_original": "es",
+ "resumen": "El informe investiga el arrollamiento mortal de un varón de 52 años por el tren de Larga Distancia 1501 de RENFE en el paso a nivel de la estación de Villarreal (Castellón), el 16 de mayo de 2006 a las 23:01. El paso a nivel de clase C estaba cerrado y con semibarreras, sonería y señales luminosas funcionando correctamente. La víctima cruzó sin respetar las indicaciones y falleció en el acto, mientras el tren circulaba a 138 km/h, por debajo de la velocidad máxima permitida de 140 km/h. No se produjeron daños materiales, aunque hubo intercepción de vías y retrasos acumulados.",
+ "hechos": "El tren de Larga Distancia nº 1501 de RENFE, compuesto por la locomotora 258.065 y 11 vehículos, realizaba el recorrido Barcelona-Valencia y no tenía parada en Villarreal. A las 23:01 del 16 de mayo de 2006, al pasar por el paso a nivel de clase C del punto kilométrico 62,363, arrolló a una persona que resultó fallecida en el acto. La víctima era un varón de 52 años.\n\nSegún el parte del maquinista, el hombre se disponía a cruzar desde las vías 4 y 2 hacia la vía 1; al percibir la proximidad del tren se detuvo, pero intentó continuar y el arrollamiento fue inevitable. Las semibarreras estaban bajadas y funcionaban la sonería y las señales luminosas.\n\nEl tren circulaba a 138 km/h, por debajo de la velocidad máxima permitida de 140 km/h. El paso a nivel estaba correctamente señalizado y en buen estado de funcionamiento, aunque no disponía de paso peatonal. No se produjeron daños materiales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Villarreal",
+  "pk": "62,363",
+  "linea": "Línea 600 Valencia-Tarragona",
+  "provincia": "Castellón",
+  "descripcion_lugar": "Paso a nivel de clase C en casco urbano, incluido en el enclavamiento de la estación de Villarreal, en la intersección del Camino de Jedre y la línea Valencia-Tarragona. Tramo en recta, iluminado y con buena visibilidad en ambos sentidos. No dispone de paso peatonal."
+ },
+ "cronologia": [
+  {
+   "hora": "23:01",
+   "evento": "El tren LD 1501 arrolló a una persona en el paso a nivel de la estación de Villarreal; la víctima falleció en el acto."
+  },
+  {
+   "hora": "23:03",
+   "evento": "Se interceptaron las dos vías generales."
+  },
+  {
+   "hora": "00:05",
+   "evento": "Se estableció la circulación por vía par."
+  },
+  {
+   "hora": "00:15",
+   "evento": "Se personó la Autoridad Judicial."
+  },
+  {
+   "hora": "01:15",
+   "evento": "La Autoridad Judicial autorizó el levantamiento del cadáver."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1501",
+   "tipo": "Tren de Larga Distancia",
+   "operador": "RENFE",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 1501",
+   "implicacion": "Condujo el tren, usó el silbato, informó al jefe de circulación y dio negativo en la prueba de alcoholemia (0,00 mg/1000 ml). Su jornada fue de 15:40 a 23:40."
+  },
+  {
+   "rol": "Jefe de circulación",
+   "implicacion": "Recibió el aviso del maquinista y puso el suceso en conocimiento del puesto de mando de Valencia."
+  },
+  {
+   "rol": "Puesto de mando de Valencia",
+   "implicacion": "Cursó aviso a las Gerencias Territoriales de Seguridad en la Circulación de ADIF y RENFE, a los servicios internos de ADIF y RENFE y a los servicios de emergencia."
+  },
+  {
+   "rol": "Personal de ADIF",
+   "implicacion": "Acudió al lugar del suceso para realizar la recogida de datos e inspeccionar el punto del arrollamiento."
+  },
+  {
+   "rol": "Autoridad Judicial",
+   "implicacion": "Se personó a las 00:15 y autorizó el levantamiento del cadáver a las 01:15."
+  },
+  {
+   "rol": "Víctima",
+   "implicacion": "Varón de 52 años que cruzó el paso a nivel cerrado y falleció en el acto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel de clase C con semibarreras bajadas, sonería y señales luminosas funcionando correctamente. Señalización de carretera y vía reglamentaria según la Orden Ministerial de 2 de agosto de 2001.",
+  "tipo_via": "Vía general en estación; paso por la vía 1.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo en recta, iluminado y con buena visibilidad en ambos sentidos. Firme del paso a nivel entablonado en regulares condiciones de mantenimiento.",
+  "otro": "Bloqueo BAD. Paso a nivel incluido en el enclavamiento de la estación. No dispone de paso peatonal ni de paso a distinto nivel para usuarios o peatones. En el mismo tramo existe otro paso a nivel en el PK 62,902, distante 539 metros. Momento de circulación: 312.234 vehículos/día. Titularidad del camino: Administración autonómica."
+ },
+ "material_rodante": {
+  "series": "Locomotora 258.065 y 11 vehículos",
+  "averia": "No se produjeron daños materiales.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima, que cruzó el paso a nivel cerrado sin respetar las semibarreras bajadas y las señales acústicas y luminosas.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Intercepción de las dos vías generales desde las 23:03 hasta las 00:05, cuando se estableció la circulación por vía par. Se produjeron 158 minutos de retrasos acumulados en 2 trenes de viajeros y 23 minutos en un tren de mercancías."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "estación",
+  "villarreal",
+  "castellón",
+  "renfe",
+  "adif",
+  "imprudencia",
+  "fallecido",
+  "sin daños",
+  "retrasos",
+  "paso a nivel clase c"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-160506-020307"
+}

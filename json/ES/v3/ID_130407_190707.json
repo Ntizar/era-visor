@@ -1,0 +1,182 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de Cercanías en el apeadero de El Tejar (Madrid)",
+ "idioma_original": "es",
+ "resumen": "El 2007-04-13, en el accidente nº 0024/2007, el tren de Cercanías 17106 de Renfe arrolló a una persona fallecida en el apeadero de El Tejar, entre Pinar de Las Rozas y Pitis, en la Línea 100 Madrid-Chamartín-Hendaya. El informe definitivo de la Dirección General de Ferrocarriles, fechado el 2007-07-19, calificó el accidente como grave. La víctima, viajero del tren 7120, se encontraba tendida sobre la vía y se desconoce el motivo de su conducta. No hubo daños materiales, aunque se interrumpió la circulación en vía II y se produjeron retrasos acumulados. No se estimó ninguna recomendación por las características especiales del caso.",
+ "hechos": "El tren de viajeros de Cercanías 17106 de Renfe, con motores 96719447122-3 y 96719447148-8, procedente de El Escorial y destino Madrid Atocha, circulaba sin parada prescrita por el apeadero de El Tejar, en vía II, entre Pinar de Las Rozas y Pitis. En el punto kilométrico 18/190, según las comprobaciones del informe y citado también como 18/200 en los antecedentes, el maquinista observó el cuerpo de un hombre tendido sobre la vía, en decúbito supino y en diagonal al eje de la vía, con la cabeza entre el andén y el carril izquierdo, los hombros y parte superior del tórax sobre dicho carril, y el resto del cuerpo dentro de la caja de la vía. Activó el freno de urgencia con manipulador T/F e informó al Puesto de Mando por radiotelefonía; el Puesto de Mando cursó aviso a Seguridad Corporativa, Seguridad en la Circulación de ADIF y RENFE Operadora, servicios de emergencia y Fuerzas de Seguridad.\n\nEl análisis del registro de eventos indicó que la velocidad del tren en el momento de activar el freno de emergencia era de 100 km/h, inferior a la velocidad máxima permitida de 130 km/h. El suceso ocurrió a las 07:33, de día, con condiciones meteorológicas buenas. Como el tren había rebasado el cuerpo, tras informar al Puesto de Mando se permitió reanudar la marcha a las 07:44.\n\nLa autoridad judicial se personó a las 09:30 y los servicios funerarios retiraron el cadáver a las 10:50. La circulación por vía II entre Pinar de Las Rozas y Pitis quedó interrumpida hasta las 10:58. Según las Fuerzas y Cuerpos de Seguridad, la víctima portaba un billete del mismo día en Villalba de Guadarrama, estación en el P.K. 37/900, con hora de paso por tornos 07:03; al descontar el adelanto de 8 minutos de los tornos, el paso real fue a las 06:55. El tren anterior con parada en El Tejar, el de media distancia 7120, paró en Villalba de Guadarrama a las 07:00, reanudó la marcha un minuto después y llegó al apeadero a las 07:21; entre ese tren y el 17106 no circuló ningún otro tren.\n\nAdif concluyó que la disposición del cuerpo, los horarios y los trenes de la franja horaria afectada no revelaban actividad anormal del servicio ferroviario, como subida o bajada de tren. RENFE señaló como causa directa e inmediata que la víctima se encontraba dentro del gálibo de vía, desconociéndose las causas por las que estaba allí. Otras posibles razones quedaron reservadas a las investigaciones de la Autoridad Judicial y de los Cuerpos y Fuerzas de Seguridad del Estado.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Apeadero de El Tejar",
+  "pk": "18/190 (según comprobaciones; en antecedentes se cita 18/200)",
+  "linea": "Línea 100 Madrid-Chamartín-Hendaya",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Vía II del apeadero de El Tejar, entre las estaciones de Pinar de Las Rozas y Pitis, en tramo en curva, dentro de la Red Ferroviaria de Interés General administrada por Adif. El apeadero se encuentra en el espacio natural del Monte del Pardo, sin viviendas o servicios próximos, y se utiliza ocasionalmente para el trasbordo de viajeros."
+ },
+ "cronologia": [
+  {
+   "hora": "06:55",
+   "evento": "Paso real de la víctima por los tornos de Villalba de Guadarrama, una vez descontado el adelanto de 8 minutos."
+  },
+  {
+   "hora": "07:00",
+   "evento": "El tren de media distancia 7120 efectúa parada en Villalba de Guadarrama."
+  },
+  {
+   "hora": "07:01",
+   "evento": "El tren 7120 reanuda su marcha un minuto después de parar en Villalba de Guadarrama."
+  },
+  {
+   "hora": "07:03",
+   "evento": "Hora registrada en el billete de la víctima al paso por los tornos de Villalba de Guadarrama; los tornos llevaban un adelanto de 8 minutos."
+  },
+  {
+   "hora": "07:21",
+   "evento": "El tren 7120 llega al apeadero de El Tejar."
+  },
+  {
+   "hora": "07:33",
+   "evento": "El tren de Cercanías 17106 arrolla a una persona tendida sobre la vía en el apeadero de El Tejar; el accidente fue calificado como grave."
+  },
+  {
+   "hora": "07:44",
+   "evento": "El tren 17106 reanuda su marcha tras informar al Puesto de Mando y haber rebasado el cuerpo."
+  },
+  {
+   "hora": "09:30",
+   "evento": "La autoridad judicial se persona en el lugar."
+  },
+  {
+   "hora": "10:50",
+   "evento": "Los servicios funerarios proceden a la retirada del cadáver."
+  },
+  {
+   "hora": "10:58",
+   "evento": "Se restablece la circulación en vía II entre Pinar de Las Rozas y Pitis."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "17106",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales; retraso de 25 minutos."
+  },
+  {
+   "numero": "7120",
+   "tipo": "Media distancia",
+   "operador": null,
+   "danos": "No se mencionan daños; tren en el que viajaba la víctima según las conclusiones."
+  },
+  {
+   "numero": null,
+   "tipo": "Cercanías",
+   "operador": null,
+   "danos": "No se mencionan daños; 50 trenes sufrieron 710 minutos de retrasos acumulados."
+  },
+  {
+   "numero": null,
+   "tipo": "Mercancías",
+   "operador": null,
+   "danos": "No se mencionan daños; un tren de mercancías sufrió 22 minutos de retraso."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 17106",
+   "implicacion": "Conductor del tren implicado; observó el cuerpo, activó el freno de urgencia e informó al Puesto de Mando. Jornada previa: 36 minutos; jornada 24 horas anteriores: 6 horas y 16 minutos; jornada 48 horas anteriores: descanso; último reconocimiento médico: 2004-09-17; curso de reciclaje del RGC: 2007-02-01."
+  },
+  {
+   "rol": "Persona arrollada",
+   "implicacion": "Viajero del tren 7120; fallecida; se encontraba tendida sobre la vía y se desconoce el motivo de su conducta."
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de Adif",
+   "implicacion": "Comunicó por mensaje de correo electrónico la producción del arrollamiento y el fallecimiento de la persona."
+  },
+  {
+   "rol": "Delegado territorial de Adif",
+   "implicacion": "Realizó la recogida de los datos básicos del accidente conforme a la Orden Circular 3/2004."
+  },
+  {
+   "rol": "Técnico responsable de la investigación",
+   "implicacion": "Funcionario adscrito a la Dirección General de Ferrocarriles; suscribe el informe definitivo."
+  },
+  {
+   "rol": "Responsable de seguridad de Adif en la zona Centro",
+   "implicacion": "Entregó su informe particular del accidente el 2007-05-18."
+  },
+  {
+   "rol": "Responsable de seguridad de Renfe",
+   "implicacion": "Entregó su informe particular del accidente el 2007-06-20."
+  },
+  {
+   "rol": "Empresa INECO S.A.",
+   "implicacion": "Realizó trabajos de apoyo en la investigación en el marco del convenio suscrito con la Dirección General de Ferrocarriles el 2006-09-26."
+  },
+  {
+   "rol": "Dirección General de Ferrocarriles",
+   "implicacion": "Calificó el accidente como grave, designó el equipo de investigación el 2007-03-01 para el periodo 2007-03-01 a 2007-04-30 y emitió el informe definitivo el 2007-07-19."
+  },
+  {
+   "rol": "Autoridad judicial",
+   "implicacion": "Se personó a las 09:30; tenía reservadas las investigaciones sobre otras posibles razones de la posición de la víctima en la vía."
+  },
+  {
+   "rol": "Fuerzas y Cuerpos de Seguridad",
+   "implicacion": "Proporcionaron datos sobre el billete de la víctima y la hora de paso por tornos; tenían reservadas investigaciones sobre otras posibles razones."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado con C.T.C.",
+  "tipo_via": "Vía doble electrificada, tramo en curva",
+  "velocidad_maxima": "130 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": null,
+  "otro": "Línea 100 Madrid-Chamartín-Hendaya, Red Ferroviaria de Interés General administrada por Adif. El tren 17106 no tenía parada prescrita en el apeadero de El Tejar."
+ },
+ "material_rodante": {
+  "series": "Motores 96719447122-3 y 96719447148-8",
+  "averia": "No se mencionan averías; no se produjeron daños materiales.",
+  "mantenimiento": null
+ },
+ "clima": "De día, con condiciones meteorológicas buenas.",
+ "causas": {
+  "directa": "La víctima, viajero del tren 7120, invadió el gálibo de la vía y se encontraba tendida sobre la vía; se desconoce el motivo de dicha conducta.",
+  "contribuyentes": [
+   "Circunstancia: el arrollamiento se produjo en un tramo de vía en curva.",
+   "Circunstancia: el tren 17106 circulaba sin parada prescrita por el apeadero de El Tejar.",
+   "Circunstancia: la víctima estaba en decúbito supino, en diagonal al eje de la vía, con la cabeza entre el andén y el carril izquierdo."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Circulación por vía II entre Pinar de Las Rozas y Pitis interrumpida hasta las 10:58; tren 17106 retraso de 25 minutos; 710 minutos de retrasos acumulados en 50 trenes de Cercanías y 22 minutos en un tren de mercancías."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "No se estima indicar ningún tipo de recomendación dadas las características especiales de este caso.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona fallecida",
+  "apeadero el tejar",
+  "línea 100",
+  "madrid",
+  "cercanías",
+  "renfe",
+  "gálibo",
+  "bloqueo automático banalizado",
+  "ctc",
+  "seguridad ferroviaria",
+  "investigación"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_130407_190707"
+}

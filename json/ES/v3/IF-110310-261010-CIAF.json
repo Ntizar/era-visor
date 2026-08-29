@@ -1,0 +1,154 @@
+{
+ "titulo_normalizado": "Arrollamiento de un automóvil por tren de cercanías en paso a nivel tipo A en Villaquilambre (León)",
+ "idioma_original": "es",
+ "resumen": "El 11 de marzo de 2010, a las 09:15, el tren de cercanías 7403 de FEVE arrolló a un Nissan Micra que invadió el gálibo de la vía en el paso a nivel nº 009 (clase A), P.K. 5+037 de la línea 31 León-Bilbao, en Villaquilambre (León). La conductora, mujer de 29 años y única ocupante del vehículo, falleció. La investigación concluyó que el accidente tuvo su origen en la invasión del gálibo por el vehículo, que cruzó sin detenerse ante las señales de stop y aviso de paso a nivel. Se formularon dos recomendaciones dirigidas al Ayuntamiento de Villaquilambre y a FEVE para adecuar la señalización y las condiciones del paso a nivel a la Orden Ministerial de 2 de agosto de 2001.",
+ "hechos": "El día 11 de marzo de 2010, el tren de viajeros de cercanías 7403 de FEVE, compuesto por las unidades diesel hidráulicas 2605 (cabeza) y 2606 (cola), procedente de León con destino San Feliz, circulaba normalmente por la línea 31 León-Bilbao. Al aproximarse al paso a nivel nº 009, P.K. 5+037, conocido como 'El Ejido', en el municipio de Villaquilambre (León), el maquinista advirtió que un vehículo Nissan Micra se acercaba a la vía con intención de cruzar de izquierda a derecha en el sentido de la marcha del tren.\n\nEl maquinista hizo uso del silbato en varias ocasiones y, al observar que el vehículo no mostraba signos de detenerse, activó el freno de emergencia (seta de emergencia) cuando el tren circulaba a 55,7 km/h. Pese a ello, no pudo evitar el arrollamiento. El tren recorrió 113 metros desde el punto de activación del freno de emergencia hasta su detención a las 09:15:16. El automóvil fue desplazado 19 metros hacia la izquierda (sentido de la marcha del tren) y quedó fuera del gálibo de la vía, completamente destrozado.\n\nLa conductora del vehículo, una mujer de 29 años y única ocupante, resultó gravemente herida y falleció minutos más tarde. El tren continuó su marcha hasta la estación de San Feliz sobre las 09:25, donde se dio el relevo al maquinista. La vía permaneció interceptada desde las 09:15 hasta las 09:48 horas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "5+037",
+  "linea": "31 León - Bilbao",
+  "provincia": "León",
+  "descripcion_lugar": "Paso a nivel nº 009, clase A, denominado 'El Ejido', entre los apeaderos de La Raya y Villaquilambre. Intersección de la vía férrea con un camino que da acceso a fincas y a una zona deportiva desde la carretera LE-311. Tramo recto tras una curva a la derecha (lado León), perfil en rampa de 2,8 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "09:14:50",
+   "evento": "El maquinista acciona la bocina ante el cartelón de silbar; el tren circula a 48 km/h."
+  },
+  {
+   "hora": "09:14:54",
+   "evento": "El maquinista acciona nuevamente la bocina al percatarse de la posible invasión de la vía; velocidad 51,6 km/h."
+  },
+  {
+   "hora": "09:14:57",
+   "evento": "El maquinista acciona la bocina ante la invasión del gálibo por el vehículo; velocidad 53,9 km/h."
+  },
+  {
+   "hora": "09:15:00",
+   "evento": "El maquinista hace uso de la seta de emergencia; velocidad 55,7 km/h."
+  },
+  {
+   "hora": "09:15:16",
+   "evento": "El tren queda detenido tras arrollar al vehículo, habiendo recorrido 113 m desde la activación del freno de emergencia. El coche es desplazado 19 m hacia la izquierda."
+  },
+  {
+   "hora": "09:25",
+   "evento": "El tren continúa la marcha hasta la estación de San Feliz, donde se da el relevo al maquinista."
+  },
+  {
+   "hora": "09:48",
+   "evento": "Se reabre la vía al tráfico ferroviario tras la intervención de servicios de emergencia."
+  },
+  {
+   "hora": "10:33",
+   "evento": "El inspector general de FEVE comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "23/03/2010: La CIAF resuelve en pleno abrir la investigación del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "29/03/2010: El inspector general de FEVE entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "17/03/2010: Declaración del maquinista ante la CIAF."
+  },
+  {
+   "hora": null,
+   "evento": "26/10/2010: Firma del informe final en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "7403",
+   "tipo": "Cercanías (tren de viajeros)",
+   "operador": "FEVE",
+   "danos": "Rotura de la carrocería inferior delantera izquierda de la UTDH 2605; rotura del cuerno guía del enganche Schaffenberg; rozamiento en pintura lateral izquierda; puerta exterior de acceso a carga de agua del W.C. reventada."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 7403",
+   "implicacion": "CF nº 7679, título B de conducción. Reciclaje formativo 13/11/2009, reconocimiento médico y psicotécnico 01/03/2010. Accionó repetidamente la bocina y el freno de emergencia. Prueba de alcoholemia y drogas negativa. Jornada del día 11: 2h43min (conducción efectiva 1h55min)."
+  },
+  {
+   "rol": "Agente comercial del tren 7403",
+   "implicacion": "Avisó a los servicios de emergencia (Guardia Civil, equipos sanitarios, bomberos) tras el accidente."
+  },
+  {
+   "rol": "Conductora del vehículo Nissan Micra",
+   "implicacion": "Mujer de 29 años, única ocupante del vehículo. No se detuvo ante las señales de stop y aviso de paso a nivel. Falleció como consecuencia del impacto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Cartelones de silbar a ambos lados. Señalización horizontal de carretera (M-4.1 y M-7.5) solo por el lado de la carretera LE-311; inexistente por el otro lado. Señalización vertical: stop (R-2) y paso a nivel sin barreras (P-11) por ambos lados. Marca transversal continua M-4.1 a 67 cm de la cara externa del carril más próximo (no conforme a la Orden Ministerial de 2 de agosto de 2001). Señalización de carretera incompleta.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": null,
+  "otro": "Bloqueo telefónico. Radiotelefonía analógica. Paso a nivel clase A (sin barreras). Pavimento de asfalto en buen estado. Momento de circulación AxT: 111 (A=3, T=37). Visibilidad limitada por vegetación: 152 m (León) y 129 m (Bilbao) desde lado LE-311; ~50 m a cada lado por el otro acceso. Distancia de visibilidad técnica requerida: 237 m para 80 km/h; 163 m para 55 km/h en vía única. Distancia real en cuadrante del accidente: 152 m."
+ },
+ "material_rodante": {
+  "series": "UTDH 2605 (cabeza) y UTDH 2606 (cola) - Unidades de Tren Diesel Hidráulicas",
+  "averia": null,
+  "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según el registrador de seguridad de la locomotora 2605. Velocidad en el momento del freno de emergencia: 55,4 km/h (registrador)."
+ },
+ "clima": "Tiempo despejado.",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera (Nissan Micra), que cruzó el paso a nivel sin detenerse ante las señales de stop (R-2) y aviso de paso a nivel (P-11) mientras pasaba el tren 7403.",
+  "contribuyentes": [
+   "Señalización de carretera del paso a nivel incompleta respecto a la Orden Ministerial de 2 de agosto de 2001 (falta señalización horizontal y vertical por el lado del camino).",
+   "Marca transversal continua M-4.1 (punto de detención) situada a solo 67 cm de la cara externa del carril más próximo, fuera de la distancia de seguridad reglamentaria.",
+   "Distancias de visibilidad reales inferiores a la distancia técnica correspondiente a la velocidad del tramo (80 km/h), especialmente desde el lado del camino.",
+   "Tipo de protección del paso a nivel (clase A) no adecuado a la velocidad del tramo, momento de circulación y visibilidades reales según la Orden Ministerial de 2 de agosto de 2001.",
+   "Vegetación existente que limita la visibilidad en el paso a nivel."
+  ],
+  "sistemicas": [
+   "No adaptación del paso a nivel a las condiciones exigidas por la Orden Ministerial de 2 de agosto de 2001 (protección tipo A con velocidades de 80 km/h y visibilidades insuficientes).",
+   "Falta de actualización periódica de la señalización de carretera en pasos a nivel por parte de la administración competente."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "UTDH 2605: rotura de carrocería inferior delantera izquierda, rotura del cuerno guía del enganche Schaffenberg, rozamiento en pintura lateral izquierda, puerta exterior del W.C. reventada. Vehículo Nissan Micra: completamente destrozado.",
+  "afectacion_servicio": "Vía interceptada de 09:15 a 09:48 (33 minutos). Tren 7403: 31 minutos de retraso. Dos trenes de cercanías adicionales: 68 minutos de retraso total. Tres trenes suprimidos."
+ },
+ "lecciones": [
+  "La señalización de carretera en pasos a nivel debe estar completa y conforme a la Orden Ministerial de 2 de agosto de 2001, incluyendo marcas transversales de detención a la distancia reglamentaria.",
+  "El tipo de protección de un paso a nivel debe ser coherente con la velocidad del tramo, el momento de circulación y las visibilidades reales; un paso a nivel clase A puede resultar insuficiente en determinadas condiciones.",
+  "La vegetación en las proximidades de un paso a nivel puede reducir la visibilidad real por debajo de la distancia técnica requerida, comprometiendo la seguridad.",
+  "El comportamiento del usuario de la carretera (no detenerse ante señales de stop y aviso de paso a nivel) es un factor determinante en este tipo de accidentes."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Adaptar la señalización de carretera del P.N. conforme a la Orden Ministerial de 2 de Agosto de 2001, prestando especial atención a la marca transversal continua indicadora del punto de detención del vehículo (M-4.1).",
+   "destinatario": "Ayuntamiento de Villaquilambre"
+  },
+  {
+   "texto": "Adaptar las condiciones del P.N. a lo establecido en la Orden Ministerial de 2 de Agosto de 2001. Bien cambiando el tipo de protección de A a B, bien modificando las distancias de visibilidad real acordes a la velocidad establecida en el tramo, o reduciendo la velocidad del tramo adecuándola a las características del P.N.",
+   "destinatario": "FEVE"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "arrollamiento",
+  "cercanías",
+  "feve",
+  "villaquilambre",
+  "león",
+  "gálibo",
+  "señalización",
+  "visibilidad",
+  "orden ministerial 2001",
+  "utdh",
+  "colisión tren-vehículo"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-110310-261010-CIAF"
+}

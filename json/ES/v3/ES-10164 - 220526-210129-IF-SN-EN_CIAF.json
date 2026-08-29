@@ -1,0 +1,265 @@
+{
+ "titulo_normalizado": "Incidente operacional en el apeadero de L'Énova-Manuel por retroceso no autorizado de tren tras cambio de material y personal por avería ASFA",
+ "idioma_original": "es",
+ "resumen": "El 29 de enero de 2021, el tren 14423 (automotor 592.205) salió de Valencia Nord con destino Alcoi con 18 minutos de retraso por una avería en el equipo ASFA digital. Tras reproducirse la avería entre Silla y Benifaió, el CG de Renfe decidió retornar el material mediante un intercambio de trenes y transbordo de viajeros en el apeadero de L'Énova-Manuel. La operación implicó invertir el sentido de circulación de ambos trenes e intercambiar sus números, pero el RC del CTC no comprendió el alcance real de la operativa. El tren 14423 inició un retroceso no autorizado sobre vía ocupada y bloqueada en sentido contrario, quedando a 84 metros del tren 24083 detenido. El incidente se clasificó como operacional por incumplimiento de varias normas de seguridad (parada no autorizada, marcha no autorizada, incumplimiento de bloqueo y retroceso).",
+ "hechos": "El 29 de enero de 2021, el tren 14423 (automotor 592.205) salió de Valencia Nord a las 20:38 con destino Alcoi, 18 minutos tarde por resolución de una avería en el equipo ASFA digital. Tras el paso por Silla, sobre las 20:55, la avería se reprodujo; M1 desconectó el ASFA y comunicó al CG. El CG decidió retornar el material a Valencia mediante un intercambio de trenes y transbordo de viajeros con el tren 14422 (592.216). La operación se planeó en Xàtiva, luego en Pobla Llarga, pero finalmente se ejecutó en el apeadero de L'Énova-Manuel porque el 14423 ya había pasado por Pobla Llarga. El CG comunicó al RC del CTC un cambio de 'material y personal', pero el RC lo interpretó como un simple cambio de maquinistas. El 14423 llegó al apeadero a las 21:15:13 (vía I) y el 14422 a las 21:18:01 (vía II). Se realizó el transbordo de viajeros y personal. M1 se situó en la cabina de cola del tren 14422 (vía II) y M2 en la cabina de cola del tren 14423 (vía I). M1 cambió el número tren-tierra del 14423 a 14422 sin conocimiento del RC. A las 21:20, M2 (identificándose como tren 14422) pidió continuar marcha y el RC dio conformidad; M1 (identificándose como 14423) dio el tren dispuesto y el RC indicó 'atento a la señal'. El tren 14423 inició retroceso a baja velocidad (máx 46 km/h) sobre vía bloqueada en sentido contrario y ocupada por el tren 24083 detenido ante la señal 659. M2 observó la señal avanzada E'4 en parada y el foco del 24083, deteniéndose tras recorrer 236 m desde la baliza previa, quedando a 84 m del 24083. El tren 14422 no llegó a retroceder porque M1 divisó la señal 641 en parada y el tren 24090 acercándose a la señal 640.",
+ "lugar": {
+  "tipo": "apeadero",
+  "estacion": "apeadero de L'Énova-Manuel",
+  "pk": "64+955",
+  "linea": "300 Madrid Chamartín - Valencia Nord/Xàtiva",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Apeadero situado en el municipio de L'Énova, Comunidad Valenciana (39°3'1.31\"N, 0°28'36.85\"O), entre las estaciones colaterales de Pobla Llarga y Xàtiva. Dispone de andén central, vía I y vía II. Señal E'4 (avanzada de Pobla Llarga) a ~840 m hacia Pobla Llarga por vía I; señal 659 a ~840 m por vía I en sentido opuesto; señal 641 a ~860 m hacia Xàtiva por vía II; señal 640 por vía II en sentido opuesto."
+ },
+ "cronologia": [
+  {
+   "hora": "20:20",
+   "evento": "Hora prevista de salida del tren 14423 de Valencia Nord"
+  },
+  {
+   "hora": "20:38",
+   "evento": "Salida del tren 14423 de Valencia Nord con 18 min de retraso por avería ASFA resuelta"
+  },
+  {
+   "hora": "20:55",
+   "evento": "Se reproduce la avería del ASFA digital tras el paso por Silla; M1 desconecta el ASFA y solicita presencia de OCE como auxiliar de cabina"
+  },
+  {
+   "hora": "21:04",
+   "evento": "El tren 14422 abandona Xàtiva; no es posible realizar la operativa allí"
+  },
+  {
+   "hora": "21:08",
+   "evento": "M1 comunica la avería del ASFA al CG-2"
+  },
+  {
+   "hora": "21:11",
+   "evento": "CG-1 llama al RC del CTC para comunicar parada en Pobla y cambio de material y personal; RC da conformidad"
+  },
+  {
+   "hora": "21:12",
+   "evento": "Encargado del CIC informa al RC que el 14423 ya salió de Pobla y quieren transbordar en Manuel; RC da conformidad"
+  },
+  {
+   "hora": "21:13",
+   "evento": "CG-2 contacta con M2 para comunicar cambio en Pobla pero el 14423 ya salió"
+  },
+  {
+   "hora": "21:13:33",
+   "evento": "El tren 14423 pasa por la estación de Pobla Llarga con señal de salida abierta"
+  },
+  {
+   "hora": "21:14",
+   "evento": "RC pregunta al CG por dónde cambia el maquinista; CG responde transbordo en Manuel; CG-1 llama para que no saque al 14423 de Manuel; RC da conformidad"
+  },
+  {
+   "hora": "21:15",
+   "evento": "CG-2 contacta con M2 para comunicar que el cambio se hará en Manuel; M2 pregunta si el PM lo sabe; CG-2 confirma"
+  },
+  {
+   "hora": "21:15:13",
+   "evento": "El tren 14423 llega al apeadero de L'Énova-Manuel (vía I) y se detiene"
+  },
+  {
+   "hora": "21:16",
+   "evento": "M1 llama al RC del CTC confirmando transbordo y cambio de cabina; M1 cambia número tren-tierra del 14423 a 14422"
+  },
+  {
+   "hora": "21:18:01",
+   "evento": "El tren 14422 llega al apeadero de L'Énova-Manuel (vía II) y se detiene; se realiza transbordo de viajeros y personal"
+  },
+  {
+   "hora": "21:20",
+   "evento": "M2 (identificándose como 14422) pide continuar marcha; RC da conformidad. M1 (identificándose como 14423) da tren dispuesto; RC da conformidad e indica atento a señal"
+  },
+  {
+   "hora": "21:20",
+   "evento": "El tren 24083 llega a la señal permisiva 659 (vía I) y se detiene"
+  },
+  {
+   "hora": "21:21",
+   "evento": "CG-3 llama al regulador para comunicar que ya cambiaron viajeros y todo; el regulador se alerta"
+  },
+  {
+   "hora": "21:22",
+   "evento": "Hora del incidente (21:22). El tren 14423 inicia retroceso sobre vía bloqueada y ocupada"
+  },
+  {
+   "hora": "21:22:21",
+   "evento": "Maquinistas intercambiados en cabinas de cola; regulador recibe comunicación del CG y acude al Técnico de Regulación"
+  },
+  {
+   "hora": "21:25:10",
+   "evento": "El tren 24090 (vía II) rebasa la señal permisiva 641"
+  },
+  {
+   "hora": null,
+   "evento": "El tren 14423 se detiene tras recorrer 236 m desde baliza previa de señal E'4, a 64 m de la señal y 84 m del tren 24083"
+  },
+  {
+   "hora": null,
+   "evento": "El tren 24090 se detiene a ~50 m de la cola del 14422 detenido en vía II"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "14423",
+   "tipo": "Media Distancia (autopropulsado diésel)",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "14422",
+   "tipo": "Media Distancia (autopropulsado diésel)",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "24083",
+   "tipo": "Cercanías",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno"
+  },
+  {
+   "numero": "24090",
+   "tipo": "Cercanías",
+   "operador": "Renfe Viajeros",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista M1 (tren 14423)",
+   "implicacion": "Condujo el 14423 con ASFA averiado/desconectado; no comunicó la avería al RC del CTC; obedeció orden de parada del CG sin autorización del PM; cambió número tren-tierra; se situó en cabina de cola del 14422; no inició retroceso al ver señal 641 en parada"
+  },
+  {
+   "rol": "Maquinista M2 (tren 14422)",
+   "implicacion": "Se situó en cabina de cola del 14423; identificó el tren como 14422 ante el RC; inició retroceso no autorizado; se detuvo al observar señal E'4 en parada y el foco del 24083"
+  },
+  {
+   "rol": "Maquinista M3 (tren 24083)",
+   "implicacion": "Detenido ante señal 659; observó el retroceso del 14423; alertó con ráfagas y silbato; intentó comunicar con CTC sin éxito; avisó al CG"
+  },
+  {
+   "rol": "Maquinista M4 (tren 24090)",
+   "implicacion": "Se detuvo ante señal 640 en parada; rebasó señal permisiva; circuló a marcha a la vista 1002 m; se detuvo a 50 m de cola del 14422"
+  },
+  {
+   "rol": "CG-1 (Centro de Gestión, Cercanías, OCE)",
+   "implicacion": "Comunicó al RC del CTC el cambio de material y personal; no especificó alcance real; no conocía particularidades de la línea"
+  },
+  {
+   "rol": "CG-2 (Centro de Gestión, Media Distancia, operador comercial)",
+   "implicacion": "Gestionó la incidencia del 14423; contactó con M2; vio en videowall que L'Énova-Manuel parecía estación con 3 vías; no tenía formación en circulación"
+  },
+  {
+   "rol": "CG-3 (Centro de Gestión, refuerzo, operador comercial)",
+   "implicacion": "Contactó con OCE del 14423 para comunicar transbordo; llamó al regulador tras la operativa; no sabía que era un apeadero"
+  },
+  {
+   "rol": "Responsable de Circulación del CTC (RC)",
+   "implicacion": "No comprendió el alcance de la operativa; no cursó telefonemas de parada no prescrita; no prescribió retroceso; delegó funciones en CG; desconocía avería ASFA"
+  },
+  {
+   "rol": "Regulador del PM (R)",
+   "implicacion": "Presente durante el incidente; fue alertado por CG-3 tras la operativa; acudió al Técnico de Regulación"
+  },
+  {
+   "rol": "Técnico de Regulación (T)",
+   "implicacion": "Presente en el PM; acudió para resolver la situación tras alerta del regulador"
+  },
+  {
+   "rol": "OCE del tren 14423 (auxiliar de cabina)",
+   "implicacion": "Iba en cabina con M1 haciendo funciones de auxiliar; recibió comunicación del CG sobre transbordo; la transmitió a M1"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales de bloqueo automático banalizado: E'4 (avanzada Pobla Llarga, vía I, no visible desde apeadero por curva), 659 (intermedia vía I sentido opuesto), 641 (vía II hacia Xàtiva, permisiva y visible), 640 (vía II sentido opuesto, permisiva). Señales E'4 y 659 a 20 m entre sí en sentidos opuestos.",
+  "tipo_via": "Vía doble banalizada (BAB/BAD)",
+  "velocidad_maxima": "Superior a 140 km/h en casi todo el recorrido (línea 300); máxima del material 140 km/h",
+  "ancho": null,
+  "electrificacion": "Sí (línea 300 Valencia-Xàtiva); No (línea 342 Xàtiva-Alcoi)",
+  "estado_via": "Normal; tramo Pobla Llarga-Xàtiva con bloqueo automático banalizado (BAB) con CTC, ocupado por otras circulaciones",
+  "otro": "Banda de regulación 4105 (Silla excluida a La Encina). Xàtiva en mando local, Pobla Llarga en mando central. Radiotelefonía tren-tierra canales 61, 62, 66. ASFA Digital en línea 300. Línea 342 sin ASFA, sin radiotelefonía, sin electrificación, con BT. Densidad alta: 763 circulaciones semanales, 109 diarias (CIRTRA 2020)."
+ },
+ "material_rodante": {
+  "series": "592.2 (tipo 140N, autopropulsados diésel). Ramas: 592.205 (tren 14423) y 592.216 (tren 14422). Cada una: 3 vehículos, 12 ejes, 70 m longitud, 158 T masa, velocidad máxima 140 km/h, equipadas con ASFA Digital.",
+  "averia": "Avería recurrente del equipo ASFA Digital en el tren 14423 (592.205): apareció en origen (Valencia Nord), se resolvió parcialmente, se reprodujo entre Silla y Benifaió dejando inoperativo el ASFA. M1 desconectó el sistema. La serie 592 suele dar problemas y deficiencias de material según CG.",
+  "mantenimiento": "El material averiado debía ser apartado y trasladado a talleres tras retorno a Valencia Nord. No se detalla mantenimiento específico."
+ },
+ "clima": "Noche, condiciones meteorológicas normales",
+ "causas": {
+  "directa": "Planificación y ejecución del retroceso no autorizado del material del tren 14423 (conducido por M2 desde cabina de cola) sobre vía bloqueada en sentido contrario y ocupada por el tren 24083, y la disposición de iniciar retroceso del tren 14422 (conducido por M1 desde cabina de cola), debido a la incorrecta asunción de responsabilidades entre el CG, los maquinistas y el PM.",
+  "contribuyentes": [
+   "Comunicación incorrecta y no eficaz entre el CG de Renfe Viajeros y el RC del CTC, que llevó a confundir la operativa con un simple cambio de maquinistas",
+   "Cambio de número de tren en los sistemas tren-tierra por parte de los maquinistas sin conocimiento del PM, dificultando el entendimiento de la situación",
+   "Delegación de facto por el RC del CTC en el CG de las órdenes de parada no prescrita",
+   "Asunción errónea por los maquinistas de que el PM había invertido el bloqueo automático banalizado (imposible reglamentaria y técnicamente con vía ocupada)",
+   "Desconocimiento del RC del CTC de la avería y desconexión del ASFA Digital del tren 14423",
+   "Desconocimiento o incumplimiento por los maquinistas de las prescripciones del Art. 3.6.2.2 del RCF (solicitud y orden de retroceso)",
+   "Comunicación directa del CG a los maquinistas impartiendo instrucciones que corresponden exclusivamente al RC del CTC",
+   "Voluntarismo de los maquinistas M1 y M2 por solventar prematuramente la incidencia obviando prescripciones reglamentarias",
+   "Presión de tiempos en la ejecución de la operación (parada casi inmediata requerida)"
+  ],
+  "sistemicas": [
+   "Falta de procedimientos en el SGS de ADIF y de Renfe Viajeros que regulen detalladamente las comunicaciones entre los Centros de Gestión y los Puestos de Mando",
+   "Falta de definición concreta de las funciones dentro del PM entre los Responsables de Circulación y los Reguladores",
+   "Las Fichas de los Centros de Gestión de Renfe no formaban parte del SGS y no detallaban la comunicación CG-PM",
+   "El personal del CG no recibe formación en circulación ferroviaria ni conocimiento de características técnicas de líneas y estaciones; no se les exige habilitación",
+   "Falta de un superior jerárquico que supervisara la actuación del CG en la resolución de la incidencia",
+   "Información no fiable sobre ubicación de trenes en el CG (SITRA no en tiempo real; videowall con representación errónea de Manuel-L'Énova como estación con 3 vías)"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Ninguno",
+  "afectacion_servicio": "No se produjo interceptación de vía general tras resolución. Durante el desarrollo quedaron afectadas 20 circulaciones, con una pérdida total de 470 minutos."
+ },
+ "lecciones": [
+  "Las comunicaciones entre CG y PM deben ser regladas, con telefonemas específicos y un punto de interlocución único; la comunicación informal con el RC del CTC sin involucrar al regulador genera ambigüedad y riesgo",
+  "El RC del CTC no debe delegar funciones exclusivas (órdenes de parada no prescrita, autorización de retroceso) en el CG de una empresa ferroviaria",
+  "Los maquinistas no deben obedecer órdenes de parada o circulación que no procedan del RC del CTC mediante telefonemas reglamentarios",
+  "El cambio de número de tren en el sistema tren-tierra sin conocimiento del PM puede ocultar la verdadera situación operativa y confundir al mando",
+  "La avería de un sistema de seguridad embarcado (ASFA) debe comunicarse siempre al RC del CTC, no solo al CG",
+  "El personal del CG necesita formación en circulación ferroviaria y conocimiento de las líneas gestionadas para no planificar operativas inviables",
+  "La baja velocidad y la detección visual entre maquinistas mitigaron el riesgo de colisión, pero no deben sustituir a los procedimientos reglamentarios",
+  "El videowall del CG con información desactualizada (antigua estación vs. apeadero actual) puede inducir a error en la planificación de operativas"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Establecimiento de protocolos de comunicaciones entre los Puestos de Mando de ADIF y los Centros de Gestión de las empresas ferroviarias que establezcan una regulación para que la transmisión de la información entre ambos sea fiable y concreta.",
+   "destinatario": "ADIF (implementador final); AESF (destinatario)"
+  },
+  {
+   "texto": "Elaboración de un procedimiento específico a incluir en el Sistema de Gestión de la Seguridad que defina las responsabilidades y funciones de todo el personal dentro de un Puesto de Mando, así como los procedimientos operativos de las tareas a desempeñar por dicho personal.",
+   "destinatario": "ADIF (implementador final); AESF (destinatario)"
+  },
+  {
+   "texto": "Inclusión en el SGS de Renfe Viajeros de las Fichas de los Centros de Gestión y modificación de las mismas para que detallen y concreten las comunicaciones de los Centros de Gestión con los Puestos de Mando de los Administradores de Infraestructuras y las comunicaciones de los CG con los maquinistas.",
+   "destinatario": "Renfe Viajeros (implementador final); AESF (destinatario)"
+  },
+  {
+   "texto": "Reforzar el conocimiento de los maquinistas sobre la aplicación de las normas reglamentarias de circulación para que no acaten órdenes que no cumplan la normativa reglamentaria y que no procedan de los Responsables de Circulación.",
+   "destinatario": "Renfe Viajeros (implementador final); AESF (destinatario)"
+  }
+ ],
+ "tags": [
+  "retroceso no autorizado",
+  "avería ASFA",
+  "comunicación CG-PM",
+  "apeadero",
+  "cambio de material",
+  "transbordo viajeros",
+  "bloqueo automático banalizado",
+  "parada no prescrita",
+  "tren-tierra",
+  "incidente operacional",
+  "factores humanos organizacionales",
+  "renfe viajeros",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-10164 - 220526-210129-IF-SN-EN_CIAF"
+}

@@ -1,0 +1,100 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona en paso a nivel peatonal en la estación de La Garriga (Barcelona)",
+ "idioma_original": "es",
+ "resumen": "El 2007-04-05, a las 08:54 horas, una persona falleció al ser arrollada por el tren de Cercanías nº 25373 de Renfe en un paso a nivel peatonal de clase C situado en el PK 37,492 de la línea 222 Barcelona-Ripoll, en la estación de La Garriga. El paso a nivel se encontraba enclavado y cerrado, con semibarreras abatidas y señalización peatonal encendida. El tren circulaba por vía I a velocidad inferior a la máxima autorizada y el maquinista resultó apto, con prueba de alcoholemia negativa. No hubo daños materiales, pero se produjeron retrasos acumulados de 280 minutos en 8 trenes de Cercanías.",
+ "hechos": "El día 5 de abril de 2007, a las 08:54 horas, una persona que cruzaba la vía resultó fallecida como consecuencia de su arrollamiento por el tren de Cercanías nº 25373 de Renfe. El tren estaba compuesto por tres coches, con locomotora 447168 y 162 Tm de masa remolcada, y efectuaba su paso por vía I, procedente de L'Hospitalet de Llobregat y con destino Ribes de Freser. El arrollamiento se produjo a la altura del paso a nivel peatonal de clase C ubicado en el PK 37+492 de la línea 222 Barcelona-Ripoll, en la estación de La Garriga. La víctima cruzaba el paso a nivel de izquierda a derecha en el sentido de la marcha del tren. El paso a nivel se encontraba enclavado y cerrado en el momento del paso del tren, con semibarreras automáticas abatidas y señalización peatonal luminosa encendida. Según la declaración del maquinista, al observar a la persona cruzó el paso a nivel haciendo caso omiso a las indicaciones del paso a nivel y a las indicaciones acústicas que realizó, sin poder evitar el arrollamiento. La velocidad máxima en ese punto era de 95 km/h y, según la ficha de registro del tren, en el momento del accionamiento del freno la velocidad era de 47 km/h. No se produjeron daños materiales. El maquinista fue sometido a prueba de alcoholemia a las 12:05 horas, con resultado negativo, y a las 10:33 horas se autorizó a reanudar la marcha.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "La Garriga",
+  "pk": "37,492",
+  "linea": "222 Barcelona-Ripoll",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Paso a nivel peatonal de clase C sito en el PK 37,492 de la estación de La Garriga, protegido con semibarreras para el tráfico vial y señalización peatonal; según el maquinista, estaba situado en la entrada de la estación, lado Barcelona."
+ },
+ "cronologia": [
+  {
+   "hora": "08:54",
+   "evento": "Arrollamiento de una persona por el tren de Cercanías nº 25373 en el paso a nivel peatonal de clase C del PK 37,492 de la estación de La Garriga."
+  },
+  {
+   "hora": "10:33",
+   "evento": "Se autoriza a reanudar la marcha al maquinista del tren 25373."
+  },
+  {
+   "hora": "12:05",
+   "evento": "Prueba de alcoholemia al maquinista, con resultado negativo (0,00 mg/1000 ml)."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25373",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25373",
+   "implicacion": "Conducía el tren; realizó indicaciones acústicas al observar a la persona cruzar el paso a nivel; prueba de alcoholemia negativa y se constató que se encontraba en condiciones aptas para el desarrollo de su función."
+  },
+  {
+   "rol": "Persona arrollada",
+   "implicacion": "Cruzaba el paso a nivel de izquierda a derecha en sentido de la marcha del tren, haciendo caso omiso a las indicaciones del paso a nivel y a las indicaciones acústicas del tren; resultó fallecida."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Semibarreras automáticas, señalización acústica y luminosa para el tráfico vial y señalización luminosa para el tráfico de peatones; el paso a nivel se encontraba enclavado y cerrado en el momento del paso del tren.",
+  "tipo_via": "Vía I",
+  "velocidad_maxima": "95 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Paso a nivel de clase C, con momento de circulación (57,32 x 2048) = 117.398. Bloqueo automático vía única con CTC. Velocidad del tren en el momento del accionamiento del freno: 47 km/h."
+ },
+ "material_rodante": {
+  "series": "Locomotora 447168; tren de tres coches; 162 Tm de masa remolcada.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Paso indebido de la persona por el paso a nivel con semibarreras abatidas y señalización peatonal luminosa encendida, haciendo caso omiso a la prohibición de pasar mientras circulaba el tren nº 25373.",
+  "contribuyentes": [
+   "La víctima cruzaba el paso a nivel de izquierda a derecha en sentido de la marcha del tren.",
+   "La víctima hizo caso omiso a las indicaciones del paso a nivel y a las indicaciones acústicas realizadas por el maquinista.",
+   "Según Renfe Operadora, la persona accidentada se situó en una posición que invadió el gálibo de libre paso del entarimado del paso a nivel."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Se produjeron unos retrasos acumulados de 280 minutos, con 8 trenes de Cercanías afectados."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Sensibilizar a la población en el correcto uso de las zonas de paso.",
+   "destinatario": "Población"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "peatón",
+  "estación",
+  "la garriga",
+  "barcelona",
+  "cercanías",
+  "renfe",
+  "adif",
+  "señalización",
+  "fallecido",
+  "imprudencia"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID_050407_140907"
+}

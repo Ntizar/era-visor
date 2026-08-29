@@ -1,0 +1,139 @@
+{
+ "titulo_normalizado": "Colisión por alcance entre tren detenido y tren de cercanías en El Clot Aragó, Barcelona",
+ "idioma_original": "es",
+ "resumen": "El 19 de enero de 2012, a las 18:30, el tren de cercanías 25652 colisionó por alcance con el tren 37506, material Talgo vacío, detenido ante la señal 1094 en el PK 109+810 de la línea 262, entre El Clot Aragó y Bif. Glorias, Barcelona. El tren 25652 había rebasado una señal permisiva y no cumplió la marcha a la vista tras salir del apeadero. La colisión causó el descarrilamiento del eje 13º del tren 37506 y 27 heridos leves. La investigación atribuyó el accidente a un fallo humano del personal de conducción.",
+ "hechos": "El tren 37506, material Talgo vacío del tren 00273, procedente de Barcelona Sant Andreu Comtal y con destino a Barcelona Estació de França, estaba detenido ante la señal de entrada 1094 a Bif. Glorias, en indicación de parada. En ese momento, el tren de cercanías 25652, procedente de Maçanet-Massanes y con destino a L'Hospitalet de Llobregat, circulaba en el mismo sentido y rebasó en indicación de parada la señal permisiva 1100, anterior a la 1094. El tren 25652 se detuvo en el apeadero de El Clot Aragó, situado entre ambas señales, para realizar parada comercial. Tras finalizar la parada, reanudó la marcha dentro del circuito de vía CV 1100, ocupado también por el tren 37506. En un tramo de túnel con curva cerrada y visibilidad limitada, el tren alcanzó 39 km/h y el maquinista activó el freno de emergencia, pero no pudo evitar colisionar con la cola del tren 37506. La colisión por alcance se produjo en el PK 109+810 y provocó el descarrilamiento de los dos rodales del eje 13º del décimo coche del tren 37506, daños en el coche de cola de este tren y daños en el frontal del tren 25652. Resultaron heridas leves 27 personas: dos empleados de la tripulación del tren 37506 y 25 viajeros del tren 25652.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "109+810",
+  "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Plena vía entre los apeaderos de El Clot Aragó y Bif. Glorias, en Barcelona, a unos 275 metros después del apeadero de El Clot Aragó, en un tramo de túnel con curva cerrada, escasa anchura, iluminación artificial y visibilidad limitada."
+ },
+ "cronologia": [
+  {
+   "hora": "18:25",
+   "evento": "El tren 37506 está detenido ante la señal de entrada 1094 a Bif. Glorias, en indicación de parada."
+  },
+  {
+   "hora": "18:26",
+   "evento": "El tren 25652 se detiene ante la señal permisiva 1100, en indicación de parada."
+  },
+  {
+   "hora": "18:30",
+   "evento": "Tras la parada comercial en El Clot Aragó, el tren 25652 reanuda la marcha y colisiona por alcance con la cola del tren 37506 en el PK 109+810."
+  },
+  {
+   "hora": "19:05",
+   "evento": "El jefe de gabinete de investigación de accidentes e inspección de Adif comunica el suceso a la CIAF."
+  },
+  {
+   "hora": "20:00",
+   "evento": "Se restablece la circulación por vía I con limitación de velocidad de 5 km/h hasta rebasar el tren descarrilado."
+  },
+  {
+   "hora": "20:30",
+   "evento": "Se realiza prueba de alcoholemia al maquinista del tren 25652, con resultado negativo."
+  },
+  {
+   "hora": "22:00",
+   "evento": "Se realiza prueba de alcoholemia al maquinista del tren 37506, con resultado negativo."
+  },
+  {
+   "hora": "02:05",
+   "evento": "Al día siguiente, el tren descarrilado queda apartado en la base Talgo de Sant Andreu Comtal y se restablece la circulación en condiciones normales."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25652",
+   "tipo": "Tren de viajeros de cercanías, doble composición, 8 coches, 160 metros, 276 toneladas, tipo 120 A",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en la UT de cabeza en topera, testeros frontales y sistema de frenado."
+  },
+  {
+   "numero": "37506",
+   "tipo": "Material vacío Talgo del tren 00273, locomotora 252075, 21 vehículos, 271 metros, 314 toneladas, tipo 200 B",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento de los dos rodales del eje 13º del décimo coche; daños en coche de cola, elementos de tracción, choque, mangas y grifos de freno, señales de cola y chasis con pequeños golpes, abolladuras y rasguños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25652",
+   "implicacion": "Conducía el tren que colisionó; no cumplió la marcha a la vista reglamentaria tras rebasar una señal permisiva; prefijó la velocidad y alcanzó 39 km/h; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Maquinista del tren 37506",
+   "implicacion": "Conducía el tren detenido; avisó al puesto de mando tras el golpe; prueba de alcoholemia negativa."
+  },
+  {
+   "rol": "Tripulación del tren 37506",
+   "implicacion": "Dos empleados de la tripulación resultaron heridos leves."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal 1100, avanzada de Bif. Glorias, alta, de tres focos, permisiva, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Señal 1094, de entrada a Bif. Glorias, alta, de tres focos, absoluta, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Tras el cambio de BAD a BAB en junio de 2011, se reubicaron señales y se recantonó el tramo, dejando el apeadero entre una señal permisiva y otra absoluta.",
+  "tipo_via": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y CTC gestionado desde el puesto de mando de Barcelona Sants; tramo en túnel con curva.",
+  "velocidad_maxima": "85 km/h en sentido par; no existían limitaciones de velocidad permanentes en el punto del accidente.",
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas; tras el accidente, daños en las sujeciones de las traviesas.",
+  "otro": "Apeadero de El Clot Aragó en PK 110+068, entre señales 1094 y 1100, distantes 814 metros, con andén de 183 metros. Tráfico medio semanal de 1.436 circulaciones, considerado alto, con 90% de cercanías. Suceso similar el 28/04/2011 en el mismo apeadero, investigado por la CIAF, expediente 18/11, con 18 heridos leves y causa por mala cumplimentación de la marcha a la vista."
+ },
+ "material_rodante": {
+  "series": "Tren 25652: UT 464223 en cabeza y UT 464205 en cola, tipo 120 A. Tren 37506: locomotora 252075 con material Talgo vacío, tipo 200 B.",
+  "averia": "No consta avería previa; los equipos de seguridad funcionaron correctamente; las luces de cola rojas del tren 37506 funcionaban correctamente.",
+  "mantenimiento": "El 20 de enero de 2012 se comprobó en el taller de Integria de Montcada Bifurcación la distancia de frenado y el llenado de cilindros de freno de las UT del tren 25652, con funcionamiento correcto. Renfe Operadora instalaba Asfa Digital en el 94% del parque móvil de cercanías de Barcelona, faltando 12 unidades."
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Fallo humano del personal de conducción: incumplimiento de la marcha a la vista reglamentaria por el maquinista del tren 25652 tras rebasar una señal permisiva, conforme a los artículos 217.2 y 141.1 del Reglamento General de Circulación.",
+  "contribuyentes": [
+   "Visibilidad limitada en el túnel por escasa anchura, curva cerrada e iluminación artificial.",
+   "El tren 25652 prefijó la velocidad a 33 km/h y alcanzó 39 km/h tras salir del apeadero.",
+   "Según la declaración del maquinista, el Asfa analógico no recuerda la indicación de las señales después de una parada prolongada.",
+   "El cambio de BAD a BAB en junio de 2011 reubicó señales y produjo un recantonamiento más corto, colocando el apeadero entre una señal permisiva y otra absoluta."
+  ],
+  "sistemicas": [
+   "Configuración de señalización y bloqueo tras el cambio de BAD a BAB, con apeadero situado entre una señal permisiva y otra absoluta.",
+   "Uso de velocidad prefijada durante la marcha a la vista, objeto de recomendación.",
+   "Limitación del Asfa analógico para mantener indicaciones de señal tras paradas prolongadas, según la declaración del maquinista."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": 27,
+  "danos_materiales": "Infraestructura: daños en sujeciones de traviesas por 2.046,00 €. Material rodante: daños en trenes; importe total estimado de los daños: 175.539 €.",
+  "afectacion_servicio": "Circulación interrumpida por ambas vías entre Barcelona Marina y Bif. Sagrera desde el accidente hasta las 20:00; restablecida por vía I con limitación de 5 km/h hasta rebasar el tren descarrilado; condiciones normales a las 02:05 del día siguiente. Suprimidos 23 trenes de cercanías; retrasos en 3 trenes de larga distancia (192 minutos), 3 de media distancia (79 minutos) y 66 de cercanías (1.595 minutos)."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+   "destinatario": "Renfe Operadora"
+  },
+  {
+   "texto": "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "colisión por alcance",
+  "marcha a la vista",
+  "fallo humano",
+  "señal permisiva",
+  "velocidad prefijada",
+  "descarrilamiento",
+  "renfe operadora",
+  "adif",
+  "barcelona",
+  "el clot aragó",
+  "asfa",
+  "bab"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-190112-271112-CIAF-El Clot-Aragó"
+}

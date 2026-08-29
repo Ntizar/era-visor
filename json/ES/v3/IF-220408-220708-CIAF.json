@@ -1,0 +1,100 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de mercancías en la estación de Zorrotza (Vizcaya)",
+ "idioma_original": "es",
+ "resumen": "El 22 de abril de 2008 a las 14:03 horas, el tren de mercancías 58665 de Renfe Operadora arrolló a una mujer de 25 años que caminaba pegada al andén por la vía I de la estación de Zorrotza (Vizcaya). A pesar de que el maquinista hizo uso del silbato y del frenado, no pudo evitar el atropello. La víctima falleció a las 14:50 horas. El accidente se originó por el tránsito de la víctima por un lugar de la vía no autorizado. No se establecieron recomendaciones.",
+ "hechos": "El tren de mercancías 58665 de Renfe Operadora, formado por la locomotora 269219 y 23 vagones con una masa remolcada de 527 Tm, efectúa su entrada por la vía I en la estación de Zorrotza. El maquinista observa cómo una mujer, que camina pegada al andén, echa a correr hacia el tren a medida que éste avanza. El maquinista hace uso del silbato y acciona los sistemas de frenado (seta de urgencias) pero no puede evitar el arrollamiento de la víctima. Una vez que el tren está estacionado, el maquinista comprueba que la víctima aún está con vida y comunica el hecho al Puesto de Mando de Miranda de Ebro. A las 14:12 horas los servicios sanitarios atienden a la víctima y a las 14:50 horas comunican su fallecimiento. El levantamiento del cadáver se produce a las 15:57 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Zorrotza",
+  "pk": "5,348",
+  "linea": "720 Intermodal Abando Indalecio Prieto-Santurtzi",
+  "provincia": "Vizcaya",
+  "descripcion_lugar": "Vía I de la estación de Zorrotza, tramo de vía recta, junto al andén. Estación vallada en su perímetro."
+ },
+ "cronologia": [
+  {
+   "hora": "14:03",
+   "evento": "Arrollamiento de la víctima por el tren de mercancías 58665 en la estación de Zorrotza"
+  },
+  {
+   "hora": "14:12",
+   "evento": "Los servicios sanitarios proceden a atender a la víctima"
+  },
+  {
+   "hora": "14:50",
+   "evento": "Los servicios sanitarios comunican el fallecimiento de la víctima"
+  },
+  {
+   "hora": "15:57",
+   "evento": "Levantamiento del cadáver"
+  },
+  {
+   "hora": "17:55",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "58665",
+   "tipo": "mercancías",
+   "operador": "Renfe Operadora",
+   "danos": "Ningún daño en el material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 58665 (matrícula 8947269)",
+   "implicacion": "Observó a la mujer, accionó silbato y frenado correctamente; actuación ajustada a normativa"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+  "tipo_via": "Vía doble",
+  "velocidad_maxima": "70 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Correcto; estación vallada en su perímetro",
+  "otro": "Radiotelefonía modalidad A. Tramo de vía recta en el lugar del arrollamiento."
+ },
+ "material_rodante": {
+  "series": "Locomotora 269219 (matrícula 2692192), 23 vagones, masa remolcada 527 Tm",
+  "averia": "Ninguna; funcionó correctamente",
+  "mantenimiento": "Registrador de seguridad operativo; velocidad registrada en momento del arrollamiento: 57 km/h"
+ },
+ "clima": "Condiciones atmosféricas buenas",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar de la vía no autorizado para ello",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+  "afectacion_servicio": "Vía I interceptada 47 minutos. Tren 58665: 48 minutos de retraso. 12 trenes de cercanías retrasados por 99 minutos totales. 6 trenes de cercanías suprimidos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Dadas las características del accidente, no se establecen recomendaciones.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "estacion",
+  "zorrotza",
+  "vizcaya",
+  "mercancias",
+  "renfe operadora",
+  "adif",
+  "via no autorizada",
+  "linea 720",
+  "victima mortal",
+  "cercanias"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-220408-220708-CIAF"
+}

@@ -1,0 +1,112 @@
+{
+ "titulo_normalizado": "Arrollamiento de un ciclomotor con dos ocupantes en paso a nivel de Salou por invadir la vía con semibarreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 15 de octubre de 2006, a las 20:40, un ciclomotor con dos ocupantes fue arrollado por el tren 8098 de Renfe en el paso a nivel de clase C del PK 262,561 de la línea Valencia-Tarragona, en Salou (Tarragona). La acompañante, una mujer de 18 años, falleció al día siguiente en el hospital San Juan XXIII de Tarragona, mientras que el conductor, un varón de 21 años, resultó ileso. El paso a nivel funcionó correctamente y el tren circulaba por debajo de la velocidad máxima autorizada. La causa fue la invasión de la vía por el ciclomotor sorteando las semibarreras abatidas.",
+ "hechos": "El día 15 de octubre de 2006, sobre las 20:40, un ciclomotor con dos ocupantes cruzaba las vías en el paso a nivel de clase C situado en el punto kilométrico 262,561 de la línea Valencia-Tarragona, en el municipio de Salou, provincia de Tarragona. En ese momento fue arrollado por el tren nº 8098 de Renfe, compuesto por las unidades UIC 957104700357 y 957104700712, que efectuaba el itinerario entre La Aldea Amposta y Barcelona Francia.\n\nComo consecuencia del arrollamiento, el conductor del ciclomotor, un varón de 21 años, resultó ileso. La acompañante, una mujer de 18 años, fue trasladada al hospital San Juan XXIII de Tarragona a causa de la gravedad de sus lesiones y falleció el día 16 de octubre.\n\nEl maquinista del tren realizó frenada de emergencia y, tras el suceso, informó al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Cecat, Subdelegación del Gobierno y Supervisor de guardia de la Jefatura de Operaciones de Tarragona. Agentes de ADIF se personaron en el lugar para tomar datos. El análisis posterior constató que el paso a nivel funcionó correctamente, que el tren circulaba a una velocidad inferior a la máxima autorizada y que el accidente se originó por la invasión de la vía al sortear las semibarreras abatidas.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "262,561",
+  "linea": "Valencia-Tarragona",
+  "provincia": "Tarragona",
+  "descripcion_lugar": "Paso a nivel de clase C situado en el PK 262,561 de la línea Valencia-Tarragona, en el municipio de Salou, provincia de Tarragona, en la intersección con el camino de Marcel. Tramo de vía única electrificada."
+ },
+ "cronologia": [
+  {
+   "hora": "20:40",
+   "evento": "Arrollamiento de un ciclomotor con dos ocupantes por el tren nº 8098 de Renfe en el paso a nivel de clase C del PK 262,561 de la línea Valencia-Tarragona, en Salou."
+  },
+  {
+   "hora": "20:41",
+   "evento": "Activación del pedal B-Aviso lado Valencia, según el registro del paso a nivel, con una duración de 2 segundos."
+  },
+  {
+   "hora": "20:41",
+   "evento": "Comprobación de barrera cerrada, según el registro del paso a nivel, con una duración de 10 minutos y 19 segundos."
+  },
+  {
+   "hora": "20:42",
+   "evento": "Activación del circuito de vía, según el registro del paso a nivel, con una duración de 9 minutos y 20 segundos."
+  },
+  {
+   "hora": null,
+   "evento": "El 16 de octubre de 2006 falleció la acompañante del ciclomotor, una mujer de 18 años, en el hospital San Juan XXIII de Tarragona."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "8098",
+   "tipo": null,
+   "operador": "Renfe",
+   "danos": "Pequeños daños en frotis de la UT 470035."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 8098",
+   "implicacion": "Conducía el tren arrollante. Realizó frenada de emergencia, informó del suceso al Puesto de Mando y prestó atención a los afectados hasta la llegada del personal técnico. No se le realizó prueba de control de alcoholemia."
+  },
+  {
+   "rol": "conductor del ciclomotor",
+   "implicacion": "Varón de 21 años. Resultó ileso. Según el informe, el accidente se produjo al invadir la vía sorteando las semibarreras abatidas."
+  },
+  {
+   "rol": "acompañante del ciclomotor",
+   "implicacion": "Mujer de 18 años. Resultó herida de gravedad, fue trasladada al hospital San Juan XXIII de Tarragona y falleció el 16 de octubre de 2006."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "El paso a nivel dispone de señalización ferroviaria. El camino que da acceso al paso a nivel no dispone de la adecuada señalización y carece de la señalización prescrita en la O.M. de 02.08.2001.",
+  "tipo_via": "vía única electrificada",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": "electrificada",
+  "estado_via": null,
+  "otro": "Paso a nivel de clase C con momento de circulación (61,71 x 94) = 5801. Bloqueo automático de vía única con CTC. Visibilidad por el lado derecho de la vía: 500 metros a la derecha y 500 metros a la izquierda; por el lado izquierdo: 500 metros a la derecha y 580 metros a la izquierda. El registro del paso a nivel presentaba un desfase de 60 minutos. El sistema detectó al tren y bajó las semibarreras. Se constató el buen estado de conservación del paso a nivel."
+ },
+ "material_rodante": {
+  "series": "UT 470035 (UIC 957104700357 y UIC 957104700712)",
+  "averia": "Pequeños daños en frotis de la UT 470035.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Invasión de la vía por el ciclomotor sorteando las semibarreras abatidas del paso a nivel de clase C.",
+  "contribuyentes": [
+   "Falta de la adecuada señalización del camino que da acceso al paso a nivel, prescrita en la O.M. de 02.08.2001."
+  ],
+  "sistemicas": [
+   "Existencia de pasos a nivel en Salou pendientes de supresión mediante duplicación de vía en el tramo Valdellós-Tarragona, entonces en fase de proyecto."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": 0,
+  "danos_materiales": "Pequeños daños en frotis de la UT 470035.",
+  "afectacion_servicio": "Retrasos acumulados de 76 minutos en 3 trenes de Media Distancia y 70 minutos acumulados en 4 trenes de Larga Distancia."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Concienciar a la población más joven en el correcto uso de los pasos a nivel y del peligro que supone hacer caso omiso de la señalización ferroviaria.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "clase c",
+  "salou",
+  "tarragona",
+  "ciclomotor",
+  "arrollamiento",
+  "semibarreras",
+  "invasion de via",
+  "renfe",
+  "adif",
+  "media distancia",
+  "larga distancia"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-151006-020307-SALOU_Valencia to Barcelona"
+}

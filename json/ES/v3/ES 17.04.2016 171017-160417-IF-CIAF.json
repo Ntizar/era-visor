@@ -1,0 +1,195 @@
+{
+ "titulo_normalizado": "Colisión por alcance en estación de Hernani por fallo de circuito de vía CVA4 por exceso de óxido",
+ "idioma_original": "es",
+ "resumen": "El 17 de abril de 2016 a las 21:34 horas se produjo una colisión por alcance entre el tren de viajeros 26882 de Renfe Viajeros y el tren de mercancías 82692 de Renfe Mercancías en la estación de Hernani (Guipúzcoa), línea 100 Hendaya-Madrid Chamartín. El accidente se debió al fallo del circuito de vía CVA4, que no detectó la presencia del último vagón del tren de mercancías estacionado en vía 4 y rebasando el piquete de vías 2-4. El exceso de óxido en los carriles impidió el shuntado correcto del circuito. Cinco viajeros resultaron heridos y se produjeron daños materiales en ambos trenes.",
+ "hechos": "El tren de mercancías 82692 de Renfe Mercancías, procedente de Irún con destino Miranda de Ebro, fue apartado en la estación de Hernani para revisión por posibles planos en ruedas entre los vagones 9º y 11º. A las 21:26 horas el tren quedó estacionado en vía 4, pero su longitud total (299,3 m) superaba la de la vía (283 m), por lo que el vagón de cola invadía el gálibo de la vía 2, rebasando el piquete en 12 metros. Sin embargo, el circuito de vía CVA4 aparecía libre en el videográfico del CTC debido a la falta de shuntado por exceso de óxido en los carriles. El jefe del CTC, confiando en la indicación del enclavamiento, estableció itinerario de paso directo por vía 2 para el tren de viajeros 26882 de Renfe Viajeros, procedente de Irún con destino Brinkola. A las 21:33:38 horas, el tren 26882 colisionó a 23 km/h con el vagón de cola del tren 82692 en el PK 616+351. El maquinista aplicó freno de urgencia y el tren quedó detenido a las 21:33:42 horas.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Hernani",
+  "pk": "616+351",
+  "linea": "100 Hendaya a Madrid Chamartín",
+  "provincia": "Guipúzcoa",
+  "descripcion_lugar": "Colisión en la vía 2 de la estación de Hernani, en el circuito de vía CVA4 correspondiente a las agujas de entrada por el lado Irún, inicio de trayecto en recta con pendiente de 0,4 milésimas. Tramo Tolosa a San Sebastián-Donostia."
+ },
+ "cronologia": [
+  {
+   "hora": "21:21:21",
+   "evento": "El tren 82692 ocupa el circuito CV E'2 anterior a señal E2, con itinerario establecido a vía 4"
+  },
+  {
+   "hora": "21:23:00",
+   "evento": "El jefe del CTC comunica al maquinista del tren 82692 parada en Hernani para revisión por posibles planos en ruedas entre vagones 9 y 11"
+  },
+  {
+   "hora": "21:23:36",
+   "evento": "El tren 82692 pasa por señal de entrada E2 en anuncio de parada a 40 km/h"
+  },
+  {
+   "hora": "21:25:21",
+   "evento": "El tren 82692 pasa por señal de salida interior S2/4A en anuncio de parada a 11 km/h"
+  },
+  {
+   "hora": "21:26:02",
+   "evento": "El tren 82692 se detiene en vía 4 (PK 616+059)"
+  },
+  {
+   "hora": "21:26:00",
+   "evento": "El jefe del CTC confirma al maquinista del 82692 que ha librado el gálibo de vía 2 y le avisa de llegada de cercanías por vía 2"
+  },
+  {
+   "hora": "21:26:08",
+   "evento": "El tren 82692 ocupa CV4; el circuito CVA4 aparece libre en CTC (fallo de shuntado); establecido itinerario de paso directo por vía 2 para tren 26882 con señales en vía libre"
+  },
+  {
+   "hora": "21:32:09",
+   "evento": "El tren 26882 pasa por baliza de señal avanzada E'2 en vía libre a 105 km/h"
+  },
+  {
+   "hora": "21:33:12",
+   "evento": "El tren 26882 pasa por señal de entrada E2 en vía libre a 92 km/h"
+  },
+  {
+   "hora": "21:33:38",
+   "evento": "Colisión del tren 26882 con el vagón de cola del tren 82692 en PK 616+351 a 23 km/h"
+  },
+  {
+   "hora": "21:33:40",
+   "evento": "Aplicación de freno de urgencia en tren 26882 (PK 616+340, velocidad 12 km/h)"
+  },
+  {
+   "hora": "21:33:42",
+   "evento": "El tren 26882 queda detenido en PK 616+337"
+  },
+  {
+   "hora": "21:34:00",
+   "evento": "El maquinista del 26882 informa al jefe del CTC sobre la colisión"
+  },
+  {
+   "hora": "22:14:00",
+   "evento": "Adif activa el Plan de Actuación ante Emergencias nivel 1"
+  },
+  {
+   "hora": "22:37:00",
+   "evento": "Sale de Hernani el tren 26884 con viajeros transbordados"
+  },
+  {
+   "hora": "00:45:00",
+   "evento": "Se autoriza encarrilamiento del vagón de cola del tren 82692"
+  },
+  {
+   "hora": "01:03:00",
+   "evento": "Se desactiva el Plan de Emergencias nivel 1"
+  },
+  {
+   "hora": "01:34:00",
+   "evento": "Finaliza acondicionamiento de UT 447147 para traslado a Irún"
+  },
+  {
+   "hora": "02:18:00",
+   "evento": "Se autoriza circulación del tren 26882 hacia Irún; restablecida circulación por vía 2"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "26882",
+   "tipo": "Viajeros (cercanías), tipo 120A",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños importantes en los 15 primeros metros del coche de cabeza 967194472932: 2 primeras puertas, chapa lateral izquierda, ventanas, elementos de choque, tracción y rodaje. Ventana de emergencia rota en coche intermedio 907174471470."
+  },
+  {
+   "numero": "82692",
+   "tipo": "Mercancías, tipo 100",
+   "operador": "Renfe Mercancías",
+   "danos": "Daños menores en vagón de cola 837139015173: tope derecho y 2 teleros. Bogie trasero descarrilado (ruedas derechas elevadas 30 cm). No portaba carga."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de circulación (Jefe del CTC)",
+   "implicacion": "No comprobó longitud del tren vs vía 4; no verificó de forma fehaciente la liberación del circuito CVA4 en vía de poco uso (incumplimiento Art. 315 RGC)"
+  },
+  {
+   "rol": "Maquinista tren 26882",
+   "implicacion": "Condujo con señales en vía libre; aplicó freno de emergencia al observar invasión de gálibo; matrícula 6834881"
+  },
+  {
+   "rol": "Maquinista tren 82692",
+   "implicacion": "Estacionó tren en vía 4; matrícula 6820641; prueba alcohol/drogas negativa"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico WESTRACE (Dimetronic); bloqueo automático banalizado (BAB); mando central desde PM Miranda de Ebro; señales E'2, E2, S2/4A, S2/4, S2/2",
+  "tipo_via": "Vía doble electrificada ancho ibérico; estación con vías 1, 2 y 4 en enclavamiento; vía 4 de apartado poco utilizada (283 m)",
+  "velocidad_maxima": "115 km/h (tipo A) / 105 km/h (tipo N) por vía general; sin limitaciones temporales o permanentes",
+  "ancho": "Ibérico",
+  "electrificacion": "Sí",
+  "estado_via": "Carriles de vía 4 con fuerte oxidación desde aguja 6; sin obras en el lugar",
+  "otro": "Radiotelefonía tren-tierra modalidad A con fallo en Hernani (maquinista usó móvil de empresa); piquete vías 2-4 en PK 616+339; caras internas carriles interiores vías 2-4 distan 2,10 m"
+ },
+ "material_rodante": {
+  "series": "Tren 82692: locomotora eléctrica 957102510279 (20,7 m, 138 t) + 14 vagones (278,6 m, 340 t), total 299,3 m. Tren 26882: UT 447147, 3 vehículos, 76 m, 219 t (coches 967194472932, 907174471470, 967194472940)",
+  "averia": "Fallo de shuntado del circuito CVA4 por óxido en carriles; resistencia rueda-carril oxidado: 23 megaohmios vs 20 ohmios sin óxido; resistencia entre ruedas eje cola: 0,33 ohmios",
+  "mantenimiento": "Última revisión circuito CVA4: 27/01/2014 sin anomalías (pero no se midió tensión con shunt calibrado ni estado superficie carril). Vagón cola 837139015173: última gran reparación 21/09/2006, última RS 27/02/2013. UT 447147 construida 04/08/2000."
+ },
+ "clima": "Noche, condiciones meteorológicas buenas",
+ "causas": {
+  "directa": "Fallo del circuito de vía CVA4 al no detectar la presencia del último vagón del tren 82692 estacionado sobre él y rebasando el piquete de vías 2-4; la no ocupación eléctrica permitió al enclavamiento establecer itinerario por vía 2 al tren 26882",
+  "contribuyentes": [
+   "Fallo humano del personal de circulación: estacionar tren de 299 m en vía de 283 m sin comprobar longitud",
+   "No comprobar de forma fehaciente la liberación del circuito CVA4 en vía de poco uso (Art. 315 RGC)",
+   "Exceso de óxido en carriles de vía 4 que impidió el shuntado del circuito CVA4"
+  ],
+  "sistemicas": [
+   "El exceso de óxido en carriles no era objeto de vigilancia en las actividades de mantenimiento preventivo de la vía (SGSC-PO-24.00.08)",
+   "No completa verificación del funcionamiento del circuito CVA4 en la revisión de mantenimiento del 27/01/2014; no se midió tensión con shunt calibrado ni estado superficie carril",
+   "Ausencia de procedimiento SGS específico para vigilancia y mantenimiento de circuitos de vía que detecte problemas de shuntado"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": null,
+  "heridos_leves": 5,
+  "danos_materiales": "Daños importantes en coche de cabeza UT 447147 (tren 26882); daños menores en vagón de cola 837139015173 (tren 82692) con bogie descarrilado; sin daños en infraestructura",
+  "afectacion_servicio": "Interrupción vía 2 entre Andoain y San Sebastián-Donostia desde 21:34 hasta 02:18 (4 h 44 min); circulación por vía 1 con marcha a la vista y L/V 10 km/h; tren 26882 suprimido en Hernani; tren 38723 suprimido en Brínkola; retrasos: 131 min a 8 trenes corta distancia, 33 min a 3 larga distancia, 271 min al mercancías 82692"
+ },
+ "lecciones": [
+  "La oxidación excesiva en carriles de vías poco utilizadas puede provocar fallos de shuntado en circuitos de vía con consecuencias graves",
+  "El videográfico del CTC no siempre refleja el estado real de ocupación de circuitos de vía",
+  "La verificación fehaciente de la liberación de circuitos en vías de poco uso es imprescindible según Art. 315 RGC",
+  "La comprobación de longitud de tren vs vía de estacionamiento debe ser sistemática antes de apartar un tren"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "En los cursos de reciclaje al personal de circulación, insistir en verificar de forma fehaciente la liberación de circuitos eléctricos en vías poco utilizadas, y en verificar la longitud de vías de estacionamiento y de los trenes al ser estacionados.",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Establecer un plan de inspección del óxido existente en desvíos de la red que dan acceso desde vía general a desviadas, comprobando el correcto shuntado de circuitos de vía y procediendo a su limpieza si es necesario.",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Incluir en el Procedimiento SGSC-PO-24.00.08 el exceso de óxido en vía (principalmente desvíos de vías generales y secundarias incluidas en enclavamiento) como elemento a revisar para impedir defectos de shuntado.",
+   "destinatario": "AESF / Adif"
+  },
+  {
+   "texto": "Incluir en el SGS de Adif un procedimiento para vigilancia y mantenimiento de circuitos de vía que permita detectar problemas de shuntado, tanto en situación de circuito libre como ocupado (con tren shunt aplicado).",
+   "destinatario": "AESF / Adif"
+  }
+ ],
+ "tags": [
+  "colisión por alcance",
+  "fallo circuito de vía",
+  "shuntado",
+  "óxido carriles",
+  "enclavamiento electrónico",
+  "vía poco utilizada",
+  "invasión gálibo",
+  "artículo 315 rgc",
+  "ctc miranda de ebro",
+  "renfe viajeros",
+  "renfe mercancías",
+  "sgsc adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 17.04.2016 171017-160417-IF-CIAF"
+}

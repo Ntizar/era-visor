@@ -1,0 +1,133 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona de 80 años en el apeadero de Sant Ildefons de Cornellá por tren de Cercanías",
+ "idioma_original": "es",
+ "resumen": "El 7 de octubre de 2006 a las 06:33, un varón de 80 años que cruzaba las vías a pie en el antiguo apeadero de Sant Ildefons de Cornellá (sin servicio comercial) fue arrollado por el tren de Cercanías nº 18304 de Renfe. La víctima resultó herida grave y falleció días después en el hospital de Bellvitge. El tren circulaba a 69 km/h, por debajo de la máxima permitida de 100 km/h. El accidente fue calificado como grave y fue investigado por la Dirección General de Ferrocarriles. No se produjeron daños materiales.",
+ "hechos": "Una persona de 80 años cruzaba las vías a la altura del antiguo apeadero de Sant Ildefons de Cornellá, actualmente sin servicio comercial, cuando fue golpeada por el tren de Cercanías nº 18304 de Renfe, compuesto por la U.T. 447103II, que efectuaba el trayecto Martorell-Tarrasa. Según la declaración del maquinista, al salir del túnel de Cornellá divisó a la persona cruzando del lado montaña al lado mar por el centro del apeadero, aplicó el freno de urgencia y usó repetidamente el silbato, pero la víctima subió al andén del lado del mar sin librar el gálibo y fue golpeada, cayendo en el propio andén. La víctima resultó herida grave y falleció días más tarde en el hospital de Bellvitge. El maquinista informó al Puesto de Mando, solicitó ayuda por megafonía y un ATS presente en el tren se quedó con el herido hasta la llegada de la ambulancia.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Apeadero de Sant Ildefons de Cornellá",
+  "pk": "93,900",
+  "linea": "240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Antiguo apeadero sin servicio comercial, con dos andenes y un paso entarimado entre andenes que se suprimió. Tramo en recta a la salida del túnel de Cornellá, fuera de núcleo urbano, con vallado parcial pero no perimetral continuo."
+ },
+ "cronologia": [
+  {
+   "hora": "05:34",
+   "evento": "Inicio de jornada del maquinista del tren 18304"
+  },
+  {
+   "hora": "06:33",
+   "evento": "Arrollamiento de la persona en el PK 93,900 del apeadero de Sant Ildefons"
+  },
+  {
+   "hora": "06:33",
+   "evento": "El maquinista aplica freno de urgencia y usa silbato; informa al Puesto de Mando"
+  },
+  {
+   "hora": "07:08",
+   "evento": "Fin de jornada del maquinista; la policía autoriza al tren a reanudar marcha"
+  },
+  {
+   "hora": "07:30",
+   "evento": "El herido es evacuado al hospital de Bellvitge"
+  },
+  {
+   "hora": "08:05",
+   "evento": "La circulación se reanuda en condiciones normales"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "18304",
+   "tipo": "Cercanías",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 18304",
+   "implicacion": "Aplicó freno de urgencia y silbato al divisar a la persona; informó al Puesto de Mando; solicitó ayuda por megafonía; prueba de alcoholemia negativa (0,00 mg/1000ml); jornada de 05:34 a 07:08"
+  },
+  {
+   "rol": "ATS (Agente de Tren)",
+   "implicacion": "Se presentó al requerimiento del maquinista y permaneció con el herido hasta la llegada de la ambulancia"
+  },
+  {
+   "rol": "Coordinador de accidentes ferroviarios de ADIF",
+   "implicacion": "Comunicó el accidente por mensaje de telefonía móvil"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático banalizado con CTC (Control de Tráfico Centralizado)",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Recta a la salida del túnel de Cornellá; fuera de núcleo urbano; sin vallado perimetral continuo, solo vallado parcial en el entorno del antiguo apeadero",
+  "otro": "Antiguo apeadero con dos andenes y paso entarimado suprimido; rebaje de andén que daba acceso al paso entarimado aún existente"
+ },
+ "material_rodante": {
+  "series": "U.T. 447103II",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "De noche a las 06:33, visibilidad no buena",
+ "causas": {
+  "directa": "Tránsito indebido de una persona sobre las vías generales del apeadero de Sant Ildefons sin servicio comercial; la víctima no tuvo tiempo suficiente para librar el gálibo del tren al subirse al andén",
+  "contribuyentes": [
+   "Visibilidad deficiente por ser de noche (06:33 horas)",
+   "La víctima se movía con dificultad (80 años)",
+   "Ausencia de vallado perimetral continuo en el tramo",
+   "Existencia de un rebaje de andén que facilitaba el acceso indebido a las vías tras la supresión del paso entarimado"
+  ],
+  "sistemicas": [
+   "Mantenimiento de un rebaje de andén que permitía el acceso a las vías una vez suprimido el paso entarimado",
+   "Falta de vallado perimetral continuo que disuada del cruce indebido",
+   "Ausencia de campañas de sensibilización suficientes a la ciudadanía sobre la prohibición de cruzar las vías"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales",
+  "afectacion_servicio": "12 trenes de Cercanías afectados; circulación reanudada en condiciones normales a las 08:05"
+ },
+ "lecciones": [
+  "El accidente se produce por tránsito indebido y no pudo ser evitado por el maquinista pese a aplicar freno de urgencia y silbato",
+  "La supresión de un paso entre andenes debe ir acompañada de la inhabilitación de los accesos (rebajes de andén) para evitar usos indebidos",
+  "La ausencia de vallado perimetral continuo en tramos fuera de núcleo urbano facilita el cruce indebido de peatones"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Inhabilitar el rebaje de andén que daba acceso al paso entarimado suprimido",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Ejecución del vallado perimetral en el entorno del apeadero que disuada de su uso como alternativa al paso superior existente en la zona",
+   "destinatario": "ADIF"
+  },
+  {
+   "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril",
+   "destinatario": "Administraciones competentes / Operadores ferroviarios"
+  }
+ ],
+ "tags": [
+  "arrollamiento peatón",
+  "cruce indebido vías",
+  "apeadero fuera de servicio",
+  "cercanías",
+  "sant ildefons cornellá",
+  "línea 240",
+  "accidente grave",
+  "fallecimiento hospitalario",
+  "vallado perimetral",
+  "paso entarimado suprimido",
+  "sensibilización ciudadana",
+  "bloqueo automático banalizado"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-071006-130407"
+}

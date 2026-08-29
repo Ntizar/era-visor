@@ -1,0 +1,138 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por la máquina de vía TD200 en el paso a nivel de Villadepalos, León",
+ "idioma_original": "es",
+ "resumen": "El 14 de mayo de 2008 a las 10:44, la máquina de vía TD200 (bateadora-niveladora-alineadora de Iberovías) arrolló a una mujer de 41 años en el paso a nivel clase F del pk 263,566 de la línea 800 La Coruña-León, junto al apeadero de Villadepalos (León). La víctima, que cruzaba la vía con dos perros sueltos, regresó a la vía para retirar uno de ellos e hizo caso omiso de las señales acústicas del tren. El conductor aplicó los frenos de emergencia pero no pudo evitar el arrollamiento. No se produjeron daños materiales. No se emitieron recomendaciones específicas al estar el paso a nivel en proceso de supresión.",
+ "hechos": "El tren TD200, máquina de vía Bateadora-Niveladora-Alineadora de la empresa Iberovías, realizaba el recorrido Toral de los Vados-Ponferrada por la línea 800 La Coruña-León, entre las estaciones de Dehesas y Toral de los Vados. Circulaba a una velocidad aproximada de 55 km/h. Una mujer de 41 años accedió a la vía por el paso a nivel clase F situado al final del andén del apeadero de Villadepalos, acompañada de dos perros sueltos, cruzando de izquierda a derecha en sentido de la línea. Uno de los perros se detuvo en la vía y la mujer regresó para retirarlo. El personal ferroviario hizo uso reiterado de las señales acústicas de la máquina antes incluso de rebasar la señal de silbar, y el obrero 1º de vías y obras ordenó al maquinista aplicar los frenos de emergencia, que se ejecutó al instante. La máquina frenó durante unos 50 metros, pero no fue suficiente para evitar el arrollamiento. El oficial de telecomunicaciones de Adif, que trabajaba en el mismo punto, intentó avisar a la mujer de viva voz, y varios viandantes también gritaron para que abandonara la vía. La víctima falleció en el lugar. La circulación fue restablecida a las 12:38 tras el levantamiento del cadáver.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Villadepalos",
+  "pk": "263,566",
+  "linea": "800 La Coruña-León",
+  "provincia": "León",
+  "descripcion_lugar": "Paso a nivel clase F para uso exclusivo de peatones, situado junto al apeadero de Villadepalos, entre las estaciones de Dehesas y Toral de los Vados. El paso se encuentra en una recta de 879 m y pendiente de 5,05 milésimas. El camino es acceso al apeadero desde la carretera comarcal de Ponferrada a Toral de los Vados. Cruza la vía oblicuamente y el acceso desde el lado de la víctima discurre en fuerte rampa."
+ },
+ "cronologia": [
+  {
+   "hora": "10:44",
+   "evento": "Arrollamiento de la persona por el tren TD200 en el paso a nivel del pk 263,566"
+  },
+  {
+   "hora": "10:50",
+   "evento": "El obrero 1º de vías y obras informa al Puesto de Mando de León"
+  },
+  {
+   "hora": "11:15",
+   "evento": "El tren TD200 llega a su destino, Ponferrada"
+  },
+  {
+   "hora": "11:30",
+   "evento": "Se persona en el lugar la policía judicial"
+  },
+  {
+   "hora": "12:20",
+   "evento": "Llega el servicio funerario"
+  },
+  {
+   "hora": "12:38",
+   "evento": "Levantamiento del cadáver y restablecimiento de la circulación"
+  },
+  {
+   "hora": "14:58",
+   "evento": "El coordinador de accidentes de Adif comunica el accidente a la CIAF mediante mensaje de telefonía móvil"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "TD200",
+   "tipo": "Máquina de vía Bateadora-Niveladora-Alineadora",
+   "operador": "Iberovías",
+   "danos": "ninguno"
+  },
+  {
+   "numero": "620",
+   "tipo": "Larga Distancia",
+   "operador": null,
+   "danos": "ninguno"
+  },
+  {
+   "numero": "12604",
+   "tipo": "Media Distancia",
+   "operador": null,
+   "danos": "ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Obrero 1º de vías y obras de Adif (conductor de maquinaria de vía, categoría A)",
+   "implicacion": "Viajaba en la bateadora, observó a la mujer con los perros, ordenó al maquinista aplicar frenos de emergencia e informó al Puesto de Mando de León"
+  },
+  {
+   "rol": "Oficial de telecomunicaciones de Adif",
+   "implicacion": "Trabajaba en el mismo punto, intentó avisar a la víctima de viva voz del peligro"
+  },
+  {
+   "rol": "Operador de maquinaria de infraestructura de Iberovías (conductor del tren TD200)",
+   "implicacion": "Conducía la máquina a ~55 km/h, aplicó los frenos de emergencia por orden del obrero 1º de vías y obras"
+  },
+  {
+   "rol": "Víctima (mujer, 41 años)",
+   "implicacion": "Arrollada al intentar retirar un perro de la vía; falleció en el lugar"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel clase F sin barreras. Señalización de vía (cartelones de silbar) en buen estado. El camino dispone de una señal antigua y no reglamentaria como aviso; carece de todas las señales que prescribe la O.M. 2/08/01 (Peligro Paso a Nivel sin barrera, Aspa, Circulación prohibida, Atención al Tren paso de Peatones).",
+  "tipo_via": "Vía única electrificada, BAU con CTC",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Bueno",
+  "otro": "Recta de 879 m, pendiente 5,05 milésimas. Visibilidad desde el acceso de la víctima: 240 m. Pavimento del paso entablonado en la vía con balasto en el firme del camino. Camino propiedad del Ayuntamiento de Carracedelo."
+ },
+ "material_rodante": {
+  "series": "Bateadora Plasser-Theurer 08-4754S, matrícula P-401-IBV; tren TD200 matrícula 30274019 (99.71.30.27.401-9)",
+  "averia": null,
+  "mantenimiento": "Material rodante autorizado para circular y cumpliendo las normas establecidas"
+ },
+ "clima": "Tiempo despejado, visibilidad buena",
+ "causas": {
+  "directa": "Ocupación de la vía por la persona arrollada, al intentar sacar de la misma a uno de los dos perros que la acompañaban, en el momento en que circulaba la máquina de vía TD200, haciendo caso omiso de las señales acústicas",
+  "contribuyentes": [
+   "Perros sueltos que se negaban a cruzar la vía, obligando a la mujer a regresar a la vía para retirarlos",
+   "Acceso al paso a nivel en fuerte rampa y cruce oblicuo de la vía",
+   "Ausencia de señalización reglamentaria en el camino del paso a nivel (solo señal antigua no reglamentaria)"
+  ],
+  "sistemicas": [
+   "Paso a nivel clase F en proceso de supresión pero aún operativo al momento del accidente"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "Ninguno (ni material rodante, ni infraestructura, ni medio ambiente)",
+  "afectacion_servicio": "Interceptación de vía hasta las 12:38. Retrasos: tren LD 620: 3 min; tren MD 12604: 3 min; 3 trenes de mercancías: 30 min en total"
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "No se establecen recomendaciones específicas para este accidente, dado que el proceso de supresión del paso a nivel (paso inferior en ejecución, previsto en servicio para septiembre de 2008) estaba a punto de finalizar.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "peaton",
+  "paso a nivel",
+  "clase f",
+  "perros sueltos",
+  "maquina de via",
+  "bateadora",
+  "iberovias",
+  "adif",
+  "linea 800",
+  "villadepalos",
+  "supresion paso a nivel"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-140508-220708-CIAF"
+}

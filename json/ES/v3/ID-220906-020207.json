@@ -1,0 +1,131 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de una persona en la estación de Meirama (La Coruña)",
+ "idioma_original": "es",
+ "resumen": "El informe definitivo investiga el accidente ferroviario nº 0034/2006, ocurrido el 22-09-2006 a las 19:55 en la estación de Meirama, pk 430,433 de la Línea 822 Zamora-La Coruña. El tren de Media Distancia nº 2436 de Renfe, con automotor 598.015-6, arrolló a una mujer de 81 años que cruzaba la vía por un paso abusivo no habilitado. La víctima falleció en el acto; no se produjeron daños materiales y hubo retrasos de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia. La causa atribuida fue la imprudencia de la víctima, y se recomendó eliminar el paso vicioso.",
+ "hechos": "El tren de Media Distancia nº 2436 de Renfe, compuesto por el automotor 598.015-6 y con origen en Vigo y destino La Coruña, circulaba por la Línea 822 Zamora-La Coruña. A las 19:55 del 22 de septiembre de 2006, al aproximarse a los desvíos de entrada 2 y 4 de la estación de Meirama, en el pk 430,433, el maquinista observó a una mujer de edad avanzada cruzando la vía por un paso no habilitado. Activó el silbato y el freno, pero el arrollamiento fue inevitable y el tren quedó detenido; la mujer, de 81 años, falleció en el acto.\n\nTras la parada, el maquinista informó al Jefe de Circulación de Meirama, quien comunicó el suceso al Puesto de Mando de Orense para avisar a los servicios afectados, emergencia y Juzgado de Guardia. Agentes de Adif tomaron datos y realizaron prueba de alcoholemia al maquinista, negativa. El cadáver quedó custodiado hasta la llegada de la Guardia Civil y, tras la autorización judicial, fue levantado a las 22:10, reanudándose la circulación en condiciones normales.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Meirama",
+  "pk": "430,433",
+  "linea": "Línea 822 Zamora-La Coruña",
+  "provincia": "La Coruña",
+  "descripcion_lugar": "Estación de Meirama, entre los cambios de entrada nº 2 y 4, lado Zamora. La línea discurre en recta y en horizontal, en zona rural y de arbolado, con densa vegetación en ambos márgenes a un metro del carril. Por el lado derecho desde Meirama existe una senda peatonal y un prado que accede a la vía por un paso abusivo de peatones para acceso a fincas situadas en el lado izquierdo. La visibilidad por el lado derecho era de 150 metros."
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2006-09-01: La Dirección General de Ferrocarriles designó el equipo de investigación de accidentes ferroviarios."
+  },
+  {
+   "hora": "19:55",
+   "evento": "El tren de Media Distancia nº 2436 detuvo su marcha a la altura de los desvíos de entrada 2 y 4 de la estación de Meirama tras arrollar a una mujer de 81 años que cruzaba la vía."
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista informó al Jefe de Circulación de Meirama, quien comunicó el suceso al Puesto de Mando de Orense, que cursó aviso al CPS de La Coruña, operadores afectados, Jefatura de Operaciones de La Coruña, Gerencia de Seguridad de ADIF y RENFE, servicios de emergencia y Juzgado de Guardia de La Coruña."
+  },
+  {
+   "hora": null,
+   "evento": "Agentes de Adif se personaron en el lugar, procedieron a la toma de datos y realizaron la prueba de alcoholemia al maquinista a su llegada a La Coruña, con resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": null,
+   "evento": "El cadáver quedó custodiado por el Jefe de Circulación de Meirama hasta la llegada de la Guardia Civil."
+  },
+  {
+   "hora": "22:10",
+   "evento": "La Autoridad Judicial autorizó el levantamiento del cadáver y la circulación se reanudó en condiciones normales."
+  },
+  {
+   "hora": null,
+   "evento": "2007-02-02: Se emitió el informe definitivo en Madrid."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "2436",
+   "tipo": "Media Distancia",
+   "operador": "Renfe",
+   "danos": "No se produjeron daños."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "víctima",
+   "implicacion": "Mujer de 81 años, Dª Josefa Parada Pérez, que cruzó la vía por un paso abusivo no habilitado y falleció en el acto."
+  },
+  {
+   "rol": "maquinista del tren 2436",
+   "implicacion": "Observó a la mujer cruzando la vía, usó silbato y freno; prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada el día: 7 h 37 min, con 5 h 20 min de conducción; 24 h anteriores: 7 h 55 min, con 4 h 47 min; 48 h anteriores: 4 h 13 min, con 2 h 43 min. Reciclaje RGC: 2006-04-04 a 2006-04-06; reconocimiento médico: 2006-05-10."
+  },
+  {
+   "rol": "Jefe de Circulación de la estación de Meirama",
+   "implicacion": "Recibió la comunicación del maquinista, comunicó el suceso y custodió el cadáver hasta la llegada de la Guardia Civil."
+  },
+  {
+   "rol": "Agentes de Adif",
+   "implicacion": "Se personaron en el lugar del accidente para toma de datos y realización de la prueba de alcoholemia al maquinista."
+  },
+  {
+   "rol": "Guardia Civil",
+   "implicacion": "Acudió al lugar; el cadáver quedó custodiado hasta su llegada."
+  },
+  {
+   "rol": "Autoridad Judicial",
+   "implicacion": "Autorizó el levantamiento del cadáver."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático de Vía Única con C.T.C.",
+  "tipo_via": "Vía única, recta y horizontal",
+  "velocidad_maxima": "115 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Zona rural y de arbolado; densa vegetación en ambos márgenes a un metro del carril; visibilidad por el lado derecho de 150 metros; existencia de paso abusivo/irregular de peatones para acceso a fincas del lado izquierdo.",
+  "otro": "El arrollamiento se produjo entre los cambios de entrada nº 2 y 4, lado Zamora; velocidad del tren en el momento del arrollamiento: 100 km/h."
+ },
+ "material_rodante": {
+  "series": "Automotor 598.015-6",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Imprudencia de la víctima, Dª Josefa Parada Pérez, por invasión intempestiva de la vía al intentar cruzar por un paso abusivo no habilitado para peatones en el momento de llegar el tren.",
+  "contribuyentes": [
+   "Existencia de un paso abusivo/irregular de peatones para acceso a fincas situadas en el lado izquierdo de la vía."
+  ],
+  "sistemicas": [
+   "Existencia de un paso vicioso en la zona del arrollamiento, cuya eliminación se recomienda al responsable de la infraestructura."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños.",
+  "afectacion_servicio": "Retraso de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia; la circulación se reanudó en condiciones normales tras el levantamiento del cadáver a las 22:10."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se estima conveniente recomendar que se procediera a la eliminación del paso vicioso en la zona del arrollamiento por el responsable de la infraestructura.",
+   "destinatario": "responsable de la infraestructura"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "fallecimiento",
+  "estación de meirama",
+  "paso abusivo",
+  "invasión de vía",
+  "imprudencia",
+  "media distancia",
+  "renfe",
+  "adif",
+  "línea zamora-la coruña",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-220906-020207"
+}

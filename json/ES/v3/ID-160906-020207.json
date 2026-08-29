@@ -1,0 +1,162 @@
+{
+ "titulo_normalizado": "Arrollamiento de retroexcavadora y operario por tren de mercancías en el apeadero de Montcada i Reixach-Santa María por incumplimiento del RGC",
+ "idioma_original": "es",
+ "resumen": "El 16 de septiembre de 2006, el tren de mercancías nº 53584 de Renfe, circulando por vía II con 85 km/h, arrolló una retroexcavadora (Viacar) y a un operario de COVISA en el apeadero de Montcada i Reixach-Santa María (PK 353,200, línea Lérida-Barcelona). El operario falleció en el acto y otro resultó herido. El accidente se debió a que el encargado de trabajos inició las obras en vía II sin tener concedido el intervalo de bloqueo, y el jefe del CTC proporcionó información errónea sobre el retraso del tren salero (2 horas frente a 92 minutos reales). Se constató incumplimiento del Reglamento General de Circulación (RGC) por ambas partes.",
+ "hechos": "A las 00:44 del 16 de septiembre de 2006, el tren de mercancías nº 53584 de Renfe, compuesto por la locomotora 250.022-1 y 10 vagones con masa remolcada de 298 Tm, circulaba por vía II con un retraso de 1 hora y 26 minutos. El tren detuvo su marcha a la entrada del apeadero de Montcada i Reixach-Santa María, en el PK 353,200 de la línea 220 Lérida-Barcelona, tras arrollar en primera instancia una retroexcavadora (Viacar) situada en vía II y posteriormente a un operario de la empresa COVISA, que falleció en el acto. Del impacto con la retroexcavadora se produjo un incendio que se propagó hacia la cabina de la locomotora.\n\nEl accidente se originó porque el encargado de trabajos, tras obtener del CTC únicamente la concesión de vía I (quedando vía II pendiente de la pasada del tren salero 53584), decidió iniciar los trabajos en vía II de forma anticipada, confiando en que faltaban dos horas para la llegada del tren. Sin embargo, el jefe del CTC había proporcionado información incorrecta: el tren salero contabilizaba un retraso de 92 minutos, no de 2 horas. El maquinista circulaba al amparo del bloqueo automático banalizado, sin constancia de trabajos en la vía, a una velocidad de 85 km/h (máxima permitida 90 km/h). El tren necesitó 375 metros para detenerse, distancia en la que arrolló al operario fallecido.\n\nAdemás del fallecido (empleado de COVISA, 26 años), otro operario de COVISA resultó herido y fue trasladado al Hospital Tauli de Sabadell. El resto de operarios evacuaron las vías de forma intempestiva. No se produjeron afecciones a otras circulaciones.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Montcada i Reixach-Santa María (apeadero)",
+  "pk": "353,200",
+  "linea": "Línea 220 Lérida-Barcelona",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Entrada del apeadero de Montcada i Reixach-Santa María, entre las estaciones de Cerdanyola del Vallés y Montcada Bifurcación, vía II. Arrollamiento de la Viacar en PK 353,194."
+ },
+ "cronologia": [
+  {
+   "hora": "00:26",
+   "evento": "El encargado de trabajos se pone en contacto con el puesto de mando e identifica los trabajos a realizar."
+  },
+  {
+   "hora": "00:29",
+   "evento": "Solicita intervalo programado entre Cerdanyola del Vallés y Montcada Bifurcación por vía I y II hasta las 04:45."
+  },
+  {
+   "hora": "00:30",
+   "evento": "El jefe del CTC concede intervalo programado solo por vía I hasta las 04:45, indicando que la vía II se concederá cuando pase el tren salero."
+  },
+  {
+   "hora": "00:31:03",
+   "evento": "Cesión del intervalo de trabajos por parte del jefe del CTC al encargado de trabajos (registro AUDILOG)."
+  },
+  {
+   "hora": "00:44",
+   "evento": "El tren 53584 arrolla la retroexcavadora (Viacar) en PK 353,194 y posteriormente al operario de COVISA, que fallece. Se produce incendio propagado a la cabina de la locomotora."
+  },
+  {
+   "hora": "00:46:16",
+   "evento": "El encargado de trabajos informa del accidente al jefe del CTC (registro AUDILOG)."
+  },
+  {
+   "hora": "00:50:12",
+   "evento": "Conversación entre el maquinista y el jefe del CTC (registro AUDILOG)."
+  },
+  {
+   "hora": null,
+   "evento": "Se procede al corte de tensión en la catenaria de ambas vías y se notifica a servicios de emergencia, gerencias de seguridad, Gire, operadores, jefatura de operaciones y logística."
+  },
+  {
+   "hora": null,
+   "evento": "Agentes de Adif se personan en el lugar y en el puesto de mando: toma de datos, declaraciones y pruebas de alcoholemia."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "53584",
+   "tipo": "tren de mercancías (tren salero)",
+   "operador": "Renfe",
+   "danos": "Daños en la locomotora 250.022-1 (incendio propagado a la cabina), pendientes de valoración."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 53584",
+   "implicacion": "Circulaba a 85 km/h por vía II al amparo del BAB, sin constancia de trabajos en la vía. No pudo evitar el arrollamiento. Alcoholemia negativa."
+  },
+  {
+   "rol": "Encargado de trabajos (Gerencia de Mantenimiento de Infraestructura de Barcelona)",
+   "implicacion": "Inició los trabajos en vía II sin tener concedido el intervalo de bloqueo para dicha vía, incumpliendo el RGC. Proporcionó orden de inicio basándose en información errónea del CTC. Alcoholemia negativa."
+  },
+  {
+   "rol": "Supervisor de circulación en el CTC",
+   "implicacion": "Concedió solo vía I, pero proporcionó información incorrecta sobre el retraso del tren salero (2 horas frente a 92 minutos reales), generando confusión. Alcoholemia negativa."
+  },
+  {
+   "rol": "Operario COVISA (fallecido, 26 años)",
+   "implicacion": "Víctima mortal del arrollamiento por el tren."
+  },
+  {
+   "rol": "Operario COVISA (herido)",
+   "implicacion": "Conductor de la retroexcavadora; recibió el impacto de un objeto al trepar hacia un muro. Trasladado al Hospital Tauli de Sabadell."
+  },
+  {
+   "rol": "Oficial de segunda COVISA",
+   "implicacion": "Recibió orden de iniciar la obra, trasladándose por vía I conduciendo una Dumper. Vio luces y silbido del tren, se arrojó a la cuneta."
+  },
+  {
+   "rol": "Oficial de segunda COVISA",
+   "implicacion": "Recibió orden de iniciar la obra, trasladándose por vía I. Vio al tren a 50-60 metros. Cuestionó al encargado si estaba seguro de empezar ya que faltaba pasar el salero."
+  },
+  {
+   "rol": "Peón especialista COVISA",
+   "implicacion": "Recibió orden de comenzar los trabajos. Vio la luz del tren al llegar al tajo por vía I y dio la voz de alarma a sus compañeros."
+  },
+  {
+   "rol": "Oficial de primera MAQUINTEX",
+   "implicacion": "Recibió orden de iniciar las obras. Escuchó comentario de un peón sobre esperar al salero. Estaba en la máquina, saltó y se agachó en la entrevía."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo Automático Banalizado (BAB) con CTC",
+  "tipo_via": "vía II (plena vía / entrada de apeadero)",
+  "velocidad_maxima": "90 km/h",
+  "ancho": null,
+  "electrificacion": "catenaria (se cortó tensión tras el accidente)",
+  "estado_via": null,
+  "otro": "Perteneciente a la Red Ferroviaria de Interés General administrada por Adif. Trayecto: Montcada Bifurcación-Cerdanyola del Vallés."
+ },
+ "material_rodante": {
+  "series": "Locomotora 250.022-1",
+  "averia": "Incendio en la locomotora por impacto con la retroexcavadora; daños pendientes de valoración.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Incumplimiento de las normas del Reglamento General de Circulación (RGC) por parte del encargado de trabajos, que inició los trabajos en vía II sin tener concedido el intervalo de bloqueo para dicha vía, y del jefe del CTC, cuya actuación generó confusión al proporcionar información errónea sobre el retraso del tren salero.",
+  "contribuyentes": [
+   "El jefe del CTC informó de un retraso de 2 horas del tren salero cuando contabilizaba 92 minutos, lo que indujo al encargado de trabajos a creer que disponía de tiempo suficiente.",
+   "El encargado de trabajos pactó con su equipo una circulación de tren de balastro fuera de las condiciones habituales del RGC, y ordenó iniciar los trabajos confiando en que les avisarían con tiempo.",
+   "El maquinista no tenía constancia de que se estaban realizando trabajos en la vía, por lo que circulaba al amparo del BAB sin precaución especial.",
+   "Un operario (oficial de segunda COVISA) y un peón cuestionaron al encargado sobre la conveniencia de empezar antes de que pasara el salero, pero no se detuvo la actividad."
+  ],
+  "sistemicas": [
+   "Deficiencia en la aplicación y supervisión del procedimiento de concesión de intervalos de trabajo del RGC (Art. 341, 342 y Cap. 21 del manual de conducción).",
+   "Necesidad de reforzar la formación y el reciclaje del personal de circulación e infraestructura de Adif en la estricta aplicación del RGC.",
+   "Fallo en la comunicación y coordinación entre el CTC y el encargado de trabajos respecto a la situación real de la circulación."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": 1,
+  "danos_materiales": "Daños pendientes de valoración en la locomotora del tren 53584, en el material móvil, en la vía y en la retroexcavadora (Viacar). Incendio propagado a la cabina de la locomotora.",
+  "afectacion_servicio": "Sin afecciones a otras circulaciones."
+ },
+ "lecciones": [
+  "La información proporcionada por el CTC sobre el retraso de trenes debe ser precisa y verificada, ya que una discrepancia (2 horas vs. 92 minutos) puede ser determinante para la seguridad del personal de vía.",
+  "El encargado de trabajos no debe iniciar actividades en una vía sin tener formalmente concedido el intervalo de bloqueo correspondiente, independientemente de estimaciones verbales de tiempo.",
+  "Las voces de alarma de los operarios sobre la conveniencia de esperar (cuestionamiento del oficial de segunda y del peón) deben ser atendidas por el encargado de trabajos antes de iniciar la actividad.",
+  "El bloqueo automático banalizado no protege al personal de vía si los trabajos se realizan sin la concesión formal del intervalo."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Incidir en los planes de formación y reciclaje de los centros de formación del personal de circulación y de infraestructura de ADIF, en cuanto a la estricta y correcta aplicación de las normas establecidas en el Reglamento General de Circulación, así como de la trascendencia que pudiera tener el incumplimiento del mismo.",
+   "destinatario": "ADIF (personal de circulación e infraestructura)"
+  }
+ ],
+ "tags": [
+  "arrollamiento de operario",
+  "tren de mercancías",
+  "retroexcavadora viacar",
+  "incumplimiento rgc",
+  "bloqueo automático banalizado",
+  "ctc",
+  "intervalo de trabajos",
+  "información errónea de retraso",
+  "incendio locomotora",
+  "montcada i reixach",
+  "línea lérida-barcelona",
+  "accidente grave"
+ ],
+ "v3_completo": true,
+ "id": "ES-ID-160906-020207"
+}

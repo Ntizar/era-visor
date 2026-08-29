@@ -1,0 +1,119 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por tren de media distancia en paso a nivel tipo C de la estación de Figueres",
+ "idioma_original": "es",
+ "resumen": "El 3 de junio de 2008, a las 12:39 horas, el tren de media distancia 15810 de Renfe Operadora arrolló a un varón de 91 años en el paso a nivel tipo C del P.K. 247,215, en la estación de Figueres. El accidente se originó por la presencia de la víctima muy próxima a la caja de la vía cuando el tren cruzaba el paso a nivel. El tren circulaba a 45 km/h, por debajo de la velocidad máxima permitida de 140 km/h, y el maquinista actuó correctamente usando el silbato y el freno de emergencia. No hubo daños materiales y la afectación principal fue la interrupción de la circulación durante la intervención policial y judicial.",
+ "hechos": "El día 3 de junio de 2008, a las 12:39 horas, el tren de viajeros de media distancia 15810 de Renfe Operadora, compuesto por la unidad de tracción 440138, entraba en la estación de Figueres para estacionarse en la vía 2. Al cruzar el paso a nivel tipo C situado en el P.K. 247,215, arrolló a un hombre que se encontraba detenido en el paso a nivel, presumiblemente esperando a que estuviera permitido cruzarlo.\n\nEl maquinista hizo uso del silbato al aproximarse al paso a nivel y observó a varias personas que esperaban, entre ellas la víctima, que se apoyaba con una mano en una barandilla del paso peatonal. Inmediatamente percibió un golpe y oyó gritos de varios testigos, por lo que actuó sobre el freno de emergencia. Detenido el tren, el maquinista y el agente de acompañamiento bajaron y comprobaron que bajo los dos últimos vehículos de la composición yacía el cuerpo de la víctima.\n\nLa investigación concluyó que el accidente tuvo su origen en la presencia de la víctima muy próxima a la caja de la vía en el momento en que el tren cruzaba el paso a nivel. El paso a nivel funcionaba correctamente, el material rodante circulaba a una velocidad inferior a la máxima permitida y no se formularon recomendaciones al estar prevista la supresión del paso a nivel.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Figueres",
+  "pk": "247,215",
+  "linea": "270 Barcelona-Cerbere",
+  "provincia": "Gerona",
+  "descripcion_lugar": "Paso a nivel tipo C situado en la estación de Figueres, en el P.K. 247,215 de la línea 270 Barcelona-Cerbere, dentro de un trayecto de vía doble con bloqueo automático."
+ },
+ "cronologia": [
+  {
+   "hora": "12:39",
+   "evento": "El tren de media distancia 15810 arrolla a una persona en el paso a nivel tipo C de la estación de Figueres."
+  },
+  {
+   "hora": "13:15",
+   "evento": "Efectivos de los Mossos d'Esquadra se personan en el lugar del accidente e interrumpen la circulación por ambas vías."
+  },
+  {
+   "hora": "13:20",
+   "evento": "La Policía científica acude al lugar de los hechos."
+  },
+  {
+   "hora": "13:27",
+   "evento": "Llega el Forense, que por delegación del Juez se hará cargo del levantamiento del cadáver."
+  },
+  {
+   "hora": "13:55",
+   "evento": "Se levanta el cadáver."
+  },
+  {
+   "hora": "14:00",
+   "evento": "Se restablece la circulación normal por ambas vías generales."
+  },
+  {
+   "hora": null,
+   "evento": "El 4 de junio a las 12:45 horas, el Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15810",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren de media distancia 15810",
+   "implicacion": "Conducía el tren, hizo uso del silbato al aproximarse al paso a nivel, percibió un golpe, accionó el freno de emergencia y descendió del tren junto al agente de acompañamiento para comprobar el arrollamiento."
+  },
+  {
+   "rol": "Agente de acompañamiento de Adif",
+   "implicacion": "Mando Intermedio de Seguridad en la Circulación que acompañaba al tren; observó a varias personas detenidas en el paso a nivel y a la víctima en el lado derecho, sin que mirase hacia el tren, y oyó el fuerte golpe."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Paso a nivel tipo C dotado de semibarreras eléctricas enclavadas y pasos peatonales con señalización acústica y luminosa para vehículos y peatones.",
+  "tipo_via": "Vía doble con bloqueo automático (B.A.D.).",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Tramo de vía de la estación de Figueres en curva de amplio radio con centro a la izquierda en el sentido de circulación del tren; visibilidad buena para trenes y usuarios del paso a nivel.",
+  "otro": "El paso a nivel tenía un momento de circulación de 845.961. Su supresión estaba prevista dentro del proyecto Variante de Figueras. Línea Barcelona-Portbou. Fase I, aprobada por SEITT el 07.07.08."
+ },
+ "material_rodante": {
+  "series": "Unidad de tracción 440138",
+  "averia": null,
+  "mantenimiento": "Tanto el material rodante como las instalaciones técnicas funcionaron correctamente. La memoria estática de la U/T 440138 refleja que el tren circulaba a 45 km/h en el momento del arrollamiento."
+ },
+ "clima": "Era de día y las condiciones atmosféricas eran buenas.",
+ "causas": {
+  "directa": "Presencia de la víctima muy próxima a la caja de la vía en el momento en que el tren cruzaba el paso a nivel.",
+  "contribuyentes": [
+   "La víctima se encontraba detenida en el paso a nivel presumiblemente esperando a que estuviera permitido cruzarlo.",
+   "La protección peatonal del paso a nivel consistía en una barandilla transversal que no impedía el acceso directo a la vía.",
+   "La víctima se apoyaba sobre una mano en una de las barandillas que delimitaban el paso peatonal, muy cerca de la caja de la vía."
+  ],
+  "sistemicas": [
+   "Paso a nivel tipo C con protección peatonal que no impedía el acceso directo a la vía.",
+   "El paso a nivel permanecía operativo pese a tener prevista su supresión en el proyecto de la Variante de Figueras."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+  "afectacion_servicio": "La vía 2 quedó interceptada inicialmente 36 minutos y posteriormente la circulación quedó interrumpida por ambas vías durante 45 minutos. El tren implicado sufrió un retraso de 80 minutos; un tren de media distancia, 81 minutos; un tren de mercancías, 82 minutos; y seis trenes de media distancia, un retraso total de 249 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Puesto que está prevista la supresión del paso a nivel, no se estima necesario formular ninguna recomendación.",
+   "destinatario": null
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "figueres",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "peatón",
+  "semibarreras",
+  "supresión paso a nivel",
+  "estación",
+  "línea 270",
+  "accidente mortal"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-030608-300908-CIAF_Barcelona-Cerbere"
+}

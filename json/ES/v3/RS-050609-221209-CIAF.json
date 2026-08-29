@@ -1,0 +1,68 @@
+{
+ "titulo_normalizado": "Accidente en paso a nivel de la estación de Maçanet-Massanes",
+ "idioma_original": "es",
+ "resumen": "El documento es una resolución de la Comisión de Investigación de Accidentes Ferroviarios sobre el accidente nº 0025/2009. El suceso ocurrió el 5 de junio de 2009 en el paso a nivel de la estación de Maçanet-Massanes, provincia de Gerona, en la línea 270 Barcelona San Andrés Condal a Cerbere. El 22 de diciembre de 2009, el Pleno de la CIAF aprobó como definitivo el informe particular presentado por el técnico investigador. La resolución indica que no se establecen recomendaciones. El texto no aporta detalles sobre trenes, personal, causas, consecuencias o desarrollo del accidente.",
+ "hechos": "El 5 de junio de 2009 ocurrió un accidente ferroviario en el paso a nivel de la estación de Maçanet-Massanes, en la provincia de Gerona, dentro de la línea 270 Barcelona San Andrés Condal a Cerbere.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Maçanet-Massanes",
+  "pk": null,
+  "linea": "270 Barcelona San Andrés Condal a Cerbere",
+  "provincia": "Gerona",
+  "descripcion_lugar": "paso a nivel de la estación de Maçanet-Massanes"
+ },
+ "cronologia": [
+  {
+   "hora": null,
+   "evento": "2009-06-05: Accidente ferroviario en el paso a nivel de la estación de Maçanet-Massanes (Gerona)."
+  },
+  {
+   "hora": null,
+   "evento": "2009-12-22: El Pleno de la CIAF aprueba como definitivo el informe particular del accidente nº 0025/2009 y se firma la resolución en Madrid."
+  }
+ ],
+ "trenes": [],
+ "personal": [],
+ "infraestructura": {
+  "senalizacion": null,
+  "tipo_via": null,
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "paso a nivel de la estación de Maçanet-Massanes"
+ },
+ "material_rodante": {
+  "series": null,
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": null,
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": null,
+  "afectacion_servicio": null
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "accidente ferroviario",
+  "paso a nivel",
+  "estacion",
+  "maçanet-massanes",
+  "gerona",
+  "linea 270",
+  "ciaf",
+  "resolucion",
+  "2009"
+ ],
+ "v3_completo": true,
+ "id": "ES-RS-050609-221209-CIAF"
+}

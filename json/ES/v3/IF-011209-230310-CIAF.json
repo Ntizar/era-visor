@@ -1,0 +1,107 @@
+{
+ "titulo_normalizado": "Arrollamiento de persona en paso a nivel clase C en la estación de O Porriño (Pontevedra) por cruce con semibarreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 1 de diciembre de 2009 a las 19:34, el tren de larga distancia 283 de Renfe Operadora arrolló a un varón de 44 años que cruzaba por el paso peatonal del paso a nivel clase C del P.K. 151+433 de la línea 810 Monforte de Lemos-Vigo, en la estación de O Porriño (Pontevedra). La víctima cruzó con las semibarreras bajadas y la señalización luminosa y acústica activada. El maquinista aplicó el freno de emergencia cuando el tren circulaba a 139 km/h, pero el impacto fue inevitable. No se produjeron daños materiales ni en el tren ni en la infraestructura. La investigación concluyó que el accidente tuvo su origen exclusivamente en la actuación de la víctima.",
+ "hechos": "El tren de viajeros de larga distancia 283 de Renfe Operadora, procedente de Irún con destino Vigo, circulaba por la línea 810 Monforte de Lemos-Vigo a una velocidad de 150 km/h. A las 19:32:49 pasó sobre la baliza direccional (C.V.1485) que inició el cierre del paso a nivel clase C del P.K. 151+433, en la estación de O Porriño. A las 19:33:12 el paso quedó cerrado con las dobles semibarreras bajadas y la señalización luminosa y acústica activada, tanto para el paso carretero como para el peatonal. A las 19:34:26 el tren ocupó el circuito de vía isla A1 (P1) lado Monforte de Lemos; simultáneamente, una persona cruzó por el paso peatonal lado Vigo, de izquierda a derecha en sentido de la marcha del tren. El maquinista hizo uso reiterado del silbato y observó que el varón, al ver llegar el tren, intentó correr pero fue alcanzado por el tope derecho de la locomotora. Se aplicó el freno de emergencia cuando el convoy circulaba a 139 km/h. La víctima fue desplazada por el impacto y quedó fuera de la caja de vía, en el lado derecho. El tren se detuvo aproximadamente a 480 metros del paso a nivel. Era de noche y llovía moderadamente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "O Porriño",
+  "pk": "151+433",
+  "linea": "810 Monforte de Lemos-Vigo",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Paso a nivel clase C enclavado con la estación de O Porriño, en la intersección con la Avenida de Buenos Aires, tramo Guillarei-Ag K 141,6-Redondela. Vía única, alineación recta, perfil en rampa de 8,344 mm/m."
+ },
+ "cronologia": [
+  {
+   "hora": "19:32:49",
+   "evento": "El tren 283 pasa sobre la baliza direccional (C.V.1485) que inicia el cierre del paso a nivel"
+  },
+  {
+   "hora": "19:33:12",
+   "evento": "El paso a nivel queda cerrado: semibarreras bajadas y señalización luminosa y acústica activada"
+  },
+  {
+   "hora": "19:34",
+   "evento": "Hora oficial del accidente según el informe"
+  },
+  {
+   "hora": "19:34:26",
+   "evento": "El tren ocupa el circuito de vía isla A1 (P1) lado Monforte de Lemos; simultáneamente la víctima cruza por el paso peatonal lado Vigo. Impacto con el tope derecho de la locomotora. Aplicación del freno de emergencia a 139 km/h"
+  },
+  {
+   "hora": "19:34",
+   "evento": "El tren se detiene aproximadamente a 480 metros del paso a nivel"
+  },
+  {
+   "hora": "20:30",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+  },
+  {
+   "hora": "20:43",
+   "evento": "Prueba de alcoholemia al maquinista en la estación de Vigo: resultado negativo (0,00 mg/1000 ml)"
+  },
+  {
+   "hora": "21:57",
+   "evento": "Reapertura de la vía general tras 2 horas y 23 minutos de interceptación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "283",
+   "tipo": "Viajeros larga distancia, Tipo 160 A",
+   "operador": "Renfe Operadora",
+   "danos": "Ninguno"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 283 (matrícula 9704677)",
+   "implicacion": "Circulaba a 150 km/h (velocidad máxima permitida 155 km/h). Hizo uso reiterado del silbato. Aplicó el freno de emergencia a 139 km/h. Actuación correcta según la investigación. Título B de conducción, reciclaje formativo 30/01/07, reconocimiento médico y psicotécnico 14/04/09. Alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa y acústica en ambos lados del paso (carretero y peatonal), activada en el momento del accidente. Semibarreras dobles bajadas.",
+  "tipo_via": "Vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.) desde el puesto de mando auxiliar de Ourense",
+  "velocidad_maxima": "155 km/h (trenes tipo A)",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Funcionamiento correcto. Sin limitación temporal de velocidad. Registro de eventos del paso y del CTC confirman funcionamiento correcto. Tiempo entre cierre y llegada del tren: 1 minuto 14 segundos.",
+  "otro": "Paso a nivel clase C enclavado con la estación de O Porriño. Pavimento de hormigón (paso carretero) y caucho tipo strail (paso peatonal). Tramo con alineación recta y rampa de 8,344 mm/m. Media semanal de 202 circulaciones (considerada baja): 64 larga distancia, 70 media distancia, 63 mercancías, 5 servicio. Momento de circulación AxT: 194.130 (A=6.471 y T=30)."
+ },
+ "material_rodante": {
+  "series": "Tipo 160 A, Nº UIC: 957102520534, 1 vehículo, 51 Tn de masa remolcada",
+  "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, llovía moderadamente",
+ "causas": {
+  "directa": "La víctima cruzó por el paso peatonal del paso a nivel cuando las semibarreras estaban bajadas y la señalización luminosa y acústica alertaba de la llegada del tren.",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+  "afectacion_servicio": "Vía general interceptada de 19:34 a 21:57 (2 horas y 23 minutos). Tren 283: 37 minutos de retraso. Tres trenes de media distancia: 51 minutos de retraso total."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "paso a nivel",
+  "clase C",
+  "peaton",
+  "semibarreras",
+  "o porriño",
+  "pontevedra",
+  "linea 810",
+  "monforte-vigo",
+  "renfe operadora",
+  "tren 283",
+  "conduccion temeraria peaton"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-011209-230310-CIAF"
+}

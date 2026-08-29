@@ -1,0 +1,111 @@
+{
+ "titulo_normalizado": "Arrollamiento de peatón en paso a nivel entre Monforte de Lemos y Canabal con barreras bajadas",
+ "idioma_original": "es",
+ "resumen": "El 10 de noviembre de 2008, a las 09:30, el tren de media distancia 12604 de Renfe Operadora arrolló a un peatón en el paso a nivel de clase C del PK 2,455, entre Monforte de Lemos y Canabal, en la línea 810 Vigo-Monforte de Lemos. La víctima falleció en el acto tras cruzar la vía con las semibarreras bajadas. El maquinista accionó silbato y freno de emergencia, circulando el tren a 125 km/h, por debajo de la velocidad máxima permitida. Las instalaciones del paso a nivel funcionaron correctamente, pero la señalización fija de carretera no cumplía la Orden de 2 de agosto de 2001.",
+ "hechos": "El tren de viajeros de media distancia 12604, de Renfe Operadora, compuesto por el automotor 440181, tres coches y una masa remolcada de 205 toneladas, circulaba por el paso a nivel de clase C situado en el PK 2,455, entre las estaciones de Monforte de Lemos y Canabal, en la línea 810 Vigo-Monforte de Lemos. Al aproximarse al paso a nivel, el maquinista observó a un varón que se acercaba con intención de cruzar por la zona peatonal, de izquierda a derecha en el sentido de la marcha del tren. Aunque el maquinista hizo uso repetidamente del silbato y accionó el freno de emergencia, la víctima cruzó la vía sin atender las señales acústicas y fue golpeada por la parte lateral derecha del automotor, falleciendo en el acto.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Monforte de Lemos",
+  "pk": "2,455",
+  "linea": "810 Vigo - Monforte de Lemos",
+  "provincia": "Lugo",
+  "descripcion_lugar": "Paso a nivel de clase C situado en la población de Monforte de Lemos, entre las estaciones de Monforte de Lemos y Canabal, en una zona urbana, sobre la carretera de Monforte a Neiras, en una recta de 2.143 metros."
+ },
+ "cronologia": [
+  {
+   "hora": "09:30",
+   "evento": "Arrollamiento de una persona por el tren 12604 en el paso a nivel del PK 2,455."
+  },
+  {
+   "hora": "10:42",
+   "evento": "Se restablece la circulación en condiciones normales tras la interrupción por orden judicial entre Monforte de Lemos y Canabal."
+  },
+  {
+   "hora": "12:54",
+   "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": null,
+   "evento": "El 02/12/2008, el responsable de seguridad de Renfe Operadora entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 14/01/2009, el gerente territorial de seguridad en la circulación Noroeste de Adif entrega su informe particular del accidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 24/02/2009 se aprueba el informe final y se emite la resolución del Pleno de la CIAF."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "12604",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 12604",
+   "implicacion": "Matrícula 9664285. Observó a la víctima, hizo uso del silbato y accionó el freno de emergencia; su actuación fue correcta. Alcoholemia negativa y jornada de conducción conforme a la normativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "En vía: señales de silbar a 500 metros de cada lado del cruce. En carretera: únicamente dos bandas de aproximación en el lado derecho y otra en el lado izquierdo; carece del resto de la señalización establecida en la Orden de 2 de agosto de 2001.",
+  "tipo_via": "Trayecto de vía única con bloqueo automático con C.T.C.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Paso a nivel de clase C con semibarreras automáticas, dos pasos peatonales con señales luminosas y pavimento tipo strail. Instalaciones de seguridad funcionaron correctamente.",
+  "otro": "Propiedad del camino que cruza la vía: Diputación de Lugo. Supresión prevista dentro del proyecto de alta velocidad Orense-Monforte-Lugo, variante de La Puebla de San Julián, aprobado el 26/06/2006. Momento de circulación AxT: 41.449."
+ },
+ "material_rodante": {
+  "series": "Automotor 440181, número UIC 997194401816",
+  "averia": null,
+  "mantenimiento": "El material rodante funcionaba correctamente en el momento del accidente y de acuerdo a la normativa de seguridad."
+ },
+ "clima": "Tiempo atmosférico despejado.",
+ "causas": {
+  "directa": "Cruce de la víctima por el paso a nivel cuando las semibarreras se encontraban bajadas.",
+  "contribuyentes": [
+   "La víctima cruzó la vía sin mirar ni hacer caso a las señales acústicas del tren.",
+   "La señalización fija de carretera del paso a nivel no cumplía lo establecido en la Orden de 2 de agosto de 2001.",
+   "El paso a nivel estaba situado en una zona urbana con un camino de titularidad de la Diputación de Lugo."
+  ],
+  "sistemicas": [
+   "Deficiencia en la adecuación de la señalización fija de carretera respecto a la normativa de protección de pasos a nivel.",
+   "Demora en la ejecución de la supresión prevista del paso a nivel dentro del proyecto de alta velocidad Orense-Monforte-Lugo."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+  "afectacion_servicio": "Circulación interrumpida por orden judicial entre Monforte de Lemos y Canabal hasta las 10:42. Cinco trenes sufren retrasos: un tren de larga distancia, 23 minutos; un tren de media distancia, 22 minutos; y tres trenes de mercancías, un total de 247 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Aunque la supresión del paso está prevista, en tanto las obras no comiencen, se recomienda a la Dirección General de Ferrocarriles que, por las vías oportunas, comunique a la Diputación de Lugo la responsabilidad de adecuar las señales fijas de carretera a lo establecido en la Orden de 2 de agosto de 2001, en materia de supresión y protección de pasos a nivel.",
+   "destinatario": "Dirección General de Ferrocarriles"
+  }
+ ],
+ "tags": [
+  "paso a nivel",
+  "peatón",
+  "barreras bajadas",
+  "arrollamiento",
+  "fallecido",
+  "monforte de lemos",
+  "canabal",
+  "línea 810",
+  "renfe operadora",
+  "adif",
+  "señalización carretera",
+  "media distancia"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-101108-240209-CIAF_ES-607"
+}

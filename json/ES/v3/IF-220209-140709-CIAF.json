@@ -1,0 +1,110 @@
+{
+ "titulo_normalizado": "Arrollamiento de una persona por el tren de media distancia 12703 entre Chapela y Vigo",
+ "idioma_original": "es",
+ "resumen": "El 22 de febrero de 2009 a las 17:29, el tren de media distancia 12703 de Renfe Operadora arrolló a una persona que se encontraba invadiendo la caja de la vía en el PK 175,050, entre las estaciones de Chapela y Vigo (línea 810 Vigo-Monforte de Lemos, provincia de Pontevedra). La víctima, un hombre de 47 años, falleció en el acto. El maquinista actuó correctamente al aplicar silbato y freno de emergencia, pero no pudo evitar el impacto a unos 80 km/h. No se produjeron daños materiales en tren ni infraestructura. La vía quedó interceptada desde las 17:29 hasta las 19:17.",
+ "hechos": "El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolló a una persona que se encontraba en la caja de la vía en el PK 175,050. Según la declaración del maquinista, la víctima se encontraba en la parte derecha de la vía, sentido de la marcha, con medio cuerpo sobre la caja de la vía y una mano apoyada en el carril derecho tratando de coger algún objeto (un cartón de vino blanco de mesa). El maquinista, al ver a la víctima a unos 50 metros, hizo uso del silbato y del freno de emergencia, pero dada la proximidad, la parte inferior derecha del frontal del vehículo impactó contra el cuerpo del hombre a aproximadamente 80 km/h. El tren se detuvo 200 metros más adelante. El maquinista comunicó la incidencia al puesto de mando y al CGMD, y se dirigió a pie al lugar del impacto, donde observó al hombre a unos 5 metros de la vía con el cuello partido. A las 19:15 se produjo el levantamiento del cadáver.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Chapela y Vigo",
+  "pk": "175,050",
+  "linea": "810 Vigo – Monforte de Lemos",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Tramo Chapela Aguja - Vigo. Zona semiurbana. Por el lado derecho existe un terraplén que dificulta el acceso. Por el lado izquierdo hay un vallado que separa la vía de la autopista del Atlántico. En el PK 175,700 la carretera se encuentra a la misma cota de la vía sin vallado, permitiendo fácil acceso a los lugareños pese a disponer de una pasarela peatonal."
+ },
+ "cronologia": [
+  {
+   "hora": "17:29",
+   "evento": "Arrollamiento de la persona por el tren 12703. Inicio de la interceptación de la vía."
+  },
+  {
+   "hora": "17:29",
+   "evento": "El tren se detiene 200 metros más adelante. El maquinista comunica la incidencia al puesto de mando y al CGMD."
+  },
+  {
+   "hora": "18:52",
+   "evento": "El puesto de mando de Orense autoriza al tren implicado a reanudar la marcha."
+  },
+  {
+   "hora": "19:15",
+   "evento": "Levantamiento del cadáver."
+  },
+  {
+   "hora": "19:17",
+   "evento": "Se restablece la circulación en condiciones normales."
+  },
+  {
+   "hora": "19:45",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante telefonía móvil."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "12703",
+   "tipo": "media distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños en el material rodante."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 12703 (matrícula 9646464)",
+   "implicacion": "Actuó correctamente: usó silbato y freno de emergencia al ver a la víctima. No pudo evitar el impacto por proximidad. Tasa de alcoholemia negativa (0,00 mg/1000 ml). Título de conducción vigente. Último reciclaje formativo 18/01/07. Último reconocimiento médico y psicotécnico 12/04/06. Jornada de conducción el día 22: 2h 2min (jornada laboral 3h 2min); día 21: 5h 23min (jornada laboral 7h 38min); día 20: descanso/vacaciones."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (BAU) con control de tráfico centralizado",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "95 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": null,
+  "otro": "Radiotelefonía modalidad A. Zona semiurbana con terraplén a derecha y vallado a izquierda (autopista del Atlántico). En PK 175,700 la carretera está a la misma cota sin vallado. Media semanal de circulaciones del tramo: 408 (88 larga distancia, 319 media distancia, 1 servicio)."
+ },
+ "material_rodante": {
+  "series": "440.181-6 (autopropulsado), Nº UIC 967194401816",
+  "averia": "No se produjeron daños materiales. Equipos de seguridad funcionaron correctamente.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado en el momento del arrollamiento.",
+ "causas": {
+  "directa": "Invasión de la vía por parte de la víctima cuando pasaba el tren 12703. La persona se encontraba en la caja de la vía tratando de coger un objeto (cartón de vino blanco de mesa).",
+  "contribuyentes": [
+   "Acceso libre a la vía en el PK 175,700 donde la carretera se encuentra a la misma cota sin vallado, permitiendo el paso de lugareños pese a existir una pasarela peatonal.",
+   "Proximidad de la víctima al tren (50 metros) que impidió la parada aun con freno de emergencia.",
+   "Velocidad de 80 km/h en el momento del impacto."
+  ],
+  "sistemicas": [
+   "Falta de vallado en la zona cercana al accidente que permite el acceso peatonal a la vía."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": null,
+  "heridos_leves": null,
+  "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+  "afectacion_servicio": "Vía interceptada desde las 17:29 hasta las 19:17. Afectados 9 trenes de media distancia con 664 minutos de retraso total y 2 trenes de larga distancia con 72 minutos de retraso total."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "invacion_via",
+  "media_distancia",
+  "renfe",
+  "autopropulsado_440",
+  "chapelavigo",
+  "pontevedra",
+  "vallado",
+  "peatonal",
+  "linea_810",
+  "ciaf"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-220209-140709-CIAF"
+}

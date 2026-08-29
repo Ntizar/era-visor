@@ -1,0 +1,105 @@
+{
+ "titulo_normalizado": "Arrollamiento de un automóvil en el paso a nivel Los Limoneros, línea Cartagena-Los Nietos (Murcia)",
+ "idioma_original": "es",
+ "resumen": "El 28 de septiembre de 2009, el tren de viajeros 91724 de FEVE arrolló a un vehículo que invadió el paso a nivel tipo B 'Los Limoneros' en la línea Cartagena-Los Nietos. El accidente se produjo cuando las señales luminosas y acústicas del paso estaban activadas, indicando la llegada inminente del tren. Como resultado, falleció una mujer ocupante del coche y el conductor resultó herido grave. La investigación concluyó que la causa fue la invasión del gálibo por parte del vehículo de carretera.",
+ "hechos": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de cercanías 91724 de FEVE, compuesto por unidades diésel-hidráulicas, circulaba entre Los Nietos y Cartagena. Al aproximarse al paso a nivel nº35 ('Los Limoneros'), situado en el PK 16+708, el maquinista observó un vehículo acercándose desde la izquierda con intención de cruzar. Pese a que el paso contaba con señalización luminosa y acústica activa, el automóvil invadió la vía. El maquinista hizo uso prolongado del silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. El vehículo quedó destrozado, falleciendo una pasajera y resultando herido grave el conductor.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "16+708",
+  "linea": "Línea 45 Cartagena – Los Nietos",
+  "provincia": "Murcia",
+  "descripcion_lugar": "Paso a nivel nº35, clase B, denominado 'Los Limoneros', intersección de vía férrea con camino rural."
+ },
+ "cronologia": [
+  {
+   "hora": "13:33:35",
+   "evento": "Salida del tren del apeadero de Los Nietos Viejos"
+  },
+  {
+   "hora": "13:35:10",
+   "evento": "Paso por baliza ASFA; señal en verde (paso conformado)"
+  },
+  {
+   "hora": "13:35:20",
+   "evento": "Primera actuación sobre la bocina (velocidad 73 km/h)"
+  },
+  {
+   "hora": "13:35:27",
+   "evento": "Actuación sobre el freno neumático (velocidad 73,4 km/h)"
+  },
+  {
+   "hora": "13:35:32",
+   "evento": "Actuación sobre la seta de emergencia (velocidad 56,6 km/h)"
+  },
+  {
+   "hora": "13:35:33",
+   "evento": "Arrollamiento del vehículo (velocidad 44,3 km/h)"
+  },
+  {
+   "hora": "13:35:41",
+   "evento": "Tren totalmente parado tras recorrer 53 metros desde la seta"
+  },
+  {
+   "hora": "22:00",
+   "evento": "Reapertura de la vía tras interceptación"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "91724",
+   "tipo": "Viajeros de cercanías",
+   "operador": "FEVE",
+   "danos": "Daños en carenado frontal, enganche Schaffenberg y tuberías neumáticas de la unidad 2610"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista",
+   "implicacion": "Realizó actuaciones correctas de frenado y aviso sonoro; prueba de alcoholemia negativa"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Clase B con señalización luminosa y acústica automática",
+  "tipo_via": "Vía única sin electrificar",
+  "velocidad_maxima": "80 km/h",
+  "ancho": null,
+  "electrificacion": "No electrificada",
+  "estado_via": "Buen estado general; pavimento del cruce de hormigón en buen estado; caminos adyacentes de tierra con barro por lluvias previas",
+  "otro": "Bloqueo automático de trenes telemandado desde Cartagena"
+ },
+ "material_rodante": {
+  "series": "UTDH 2610 y 2609",
+  "averia": null,
+  "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador"
+ },
+ "clima": "Despejado tras fuertes lluvias recientes",
+ "causas": {
+  "directa": "Invasión del gálibo de la vía por parte del vehículo de carretera mientras las señales del paso a nivel estaban activadas",
+  "contribuyentes": [],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 1,
+  "heridos_leves": 0,
+  "danos_materiales": "Destrucción total del automóvil Suzuki Vitara; daños menores en material rodante",
+  "afectacion_servicio": "Interceptación de la vía de 13:35 a 22:00; supresión del tren 91724 y transbordo por carretera"
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "paso a nivel",
+  "clase b",
+  "feve",
+  "cartagena-los nietos",
+  "murcia",
+  "arrollamiento",
+  "invasion gálibo",
+  "señalización activa",
+  "accidente mortal",
+  "cercanías"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-280909-230210-CIAF"
+}

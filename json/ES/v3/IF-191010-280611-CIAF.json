@@ -1,0 +1,160 @@
+{
+ "titulo_normalizado": "Conato de colisión entre trenes de Feve entre Gijón y Sotiello por autorización de rebase de señal en cantón ocupado",
+ "idioma_original": "es",
+ "resumen": "El 19 de octubre de 2010, a las 15:25, se produjo un conato de colisión entre los trenes de viajeros de cercanías 4519 y 5418 de Feve entre las estaciones de Gijón y Sotiello, en Asturias. El bloqueo entre ambas estaciones estaba averiado, por lo que la circulación se realizaba en situación degradada mediante autorizaciones de rebase de señales. El CTC autorizó el rebase de la señal S1/1 de Sotiello al tren 5418 hacia Gijón y, después, la estación de Gijón autorizó al tren 4519 el rebase de la señal S2/P hacia un cantón ocupado. El tren 4519 no llegó a rebasar la señal y ambos trenes se detuvieron enfrentados a 1475 metros. La causa fue la autorización de circulación hacia un cantón ocupado por otro tren.",
+ "hechos": "El día 19 de octubre de 2010, entre las estaciones de Gijón y Sotiello, en el tramo 62 El Berrón-Gijón de la línea 61 Gijón-Laviana, el bloqueo automático entre ambas estaciones estaba averiado. En esta situación degradada, la salida de trenes dependía de autorizaciones de rebase de señales: la jefa de circulación del CTC de El Berrón ordenaba los rebases en Sotiello y la jefa de estación de Gijón autorizaba los rebases de salida hacia Sotiello, previa autorización del CTC. La jefa del CTC confeccionó itinerario de salida y autorizó por telefonema el rebase de la señal S1/1 de Sotiello al tren 5418, que inició marcha hacia Gijón.\n\nPoco después, el tren 4519 inició movimiento desde vía 2 de Gijón hacia Sotiello tras recibir autorización de la jefa de estación de Gijón para rebasar la señal S2/P, autorización concedida previamente por el CTC para entrar en su ámbito. El inspector principal de movimiento del puesto de mando de El Berrón detectó que el cantón estaba ocupado por el tren 5418 y alertó al CTC y a la estación de Gijón. Los maquinistas recibieron orden de detenerse: el tren 4519 paró antes de rebasar S2/P y el tren 5418 antes de la señal de avanzada E'1/P, quedando enfrentados a 1475 metros.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Gijón",
+  "pk": "1+057",
+  "linea": "61 Gijón - Laviana",
+  "provincia": "Asturias",
+  "descripcion_lugar": "Señal de salida S2/P de la estación de Gijón, PK 1+057, en el tramo 62 El Berrón-Gijón de la línea 61 Gijón-Laviana, entre Gijón y Sotiello; vía única, curva derecha radio 500 m y rampa de 9 milésimas en sentido Gijón-Sotiello."
+ },
+ "cronologia": [
+  {
+   "hora": "12:20",
+   "evento": "Según el análisis del informe, se produce una avería en el bloqueo entre las estaciones de Sotiello y Gijón."
+  },
+  {
+   "hora": "14:20",
+   "evento": "Según la declaración del inspector principal de movimiento, se produce una avería en el bloqueo entre Sotiello y Gijón y se procede a autorizar rebases de señales."
+  },
+  {
+   "hora": "15:23",
+   "evento": "El tren 5418 inicia la marcha desde Sotiello hacia Gijón tras autorización de rebase de la señal S1/1 mediante telefonema."
+  },
+  {
+   "hora": "15:24",
+   "evento": "El tren 4519 inicia movimiento desde el andén de vía 2 de Gijón hacia Sotiello tras autorización de rebase de la señal S2/P mediante telefonema."
+  },
+  {
+   "hora": "15:25",
+   "evento": "Se produce el conato de colisión entre los trenes 4519 y 5418; el inspector principal de movimiento alerta de la situación incompatible."
+  },
+  {
+   "hora": "15:25",
+   "evento": "El tren 4519 se detiene antes de rebasar la señal S2/P, al final del apeadero de La Braña, PK 0+688, a 320 metros de la señal."
+  },
+  {
+   "hora": "15:27",
+   "evento": "El tren 5418 se detiene en plena vía a 168 metros de la señal de avanzada E'1P de Gijón."
+  },
+  {
+   "hora": "15:31",
+   "evento": "La estación de Gijón anula el telefonema 863 al maquinista del tren 4519."
+  },
+  {
+   "hora": "15:37",
+   "evento": "Se autoriza al tren 5418 a rebasar la señal E'1P y al tren 4519 a rebasar la señal S2P tras confeccionarse itinerarios."
+  },
+  {
+   "hora": "20:23",
+   "evento": "El inspector general de Feve comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios mediante mensaje de telefonía móvil."
+  },
+  {
+   "hora": null,
+   "evento": "El 2010-10-26 la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación del incidente."
+  },
+  {
+   "hora": null,
+   "evento": "El 2011-06-28 se emite el informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4519",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Feve",
+   "danos": "Sin daños materiales"
+  },
+  {
+   "numero": "5418",
+   "tipo": "tren de viajeros de cercanías",
+   "operador": "Feve",
+   "danos": "Sin daños materiales"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefa de circulación del CTC de El Berrón (carné 9236)",
+   "implicacion": "Autorizó el rebase de la señal S1/1 de Sotiello al tren 5418 y concedió a Gijón autorización para el tren 4519; no se percató de que había autorizado un movimiento incompatible."
+  },
+  {
+   "rol": "Jefa de estación de Gijón (carné 8308)",
+   "implicacion": "Solicitó autorización al CTC y cursó al tren 4519 el telefonema de rebase de la señal S2/P; ordenó su detención tras el aviso."
+  },
+  {
+   "rol": "Inspector principal de movimiento del puesto de mando de El Berrón (carné 1330)",
+   "implicacion": "Detectó la situación de cantón ocupado, alertó al CTC y a la estación de Gijón y ordenó anular la autorización de salida del tren 4519."
+  },
+  {
+   "rol": "Maquinista del tren 4519 (carné 9875)",
+   "implicacion": "Recibió autorización de rebase de la señal S2/P y se detuvo antes de rebasarla."
+  },
+  {
+   "rol": "Maquinista del tren 5418 (carné 8514)",
+   "implicacion": "Recibió autorización de rebase de la señal S1/1 de Sotiello y se detuvo antes de la señal de avanzada E'1P de Gijón."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida S2/P en Gijón, PK 1+057; señal de salida S1/1 en Sotiello; señal de avanzada E'1/P en Gijón, PK 2+044; enclavamiento electrónico en Gijón y Sotiello.",
+  "tipo_via": "vía única",
+  "velocidad_maxima": "100 km/h",
+  "ancho": null,
+  "electrificacion": null,
+  "estado_via": "Bloqueo automático en vía única averiado entre Gijón y Sotiello; Gijón en mando local y Sotiello en mando centralizado desde El Berrón.",
+  "otro": "Radiotelefonía analógica; CTC en El Berrón; uso de libros de telefonemas, bloqueo e itinerarios."
+ },
+ "material_rodante": {
+  "series": "Tren 4519: UTE 3637-3638, tren tipo 100; tren 5418: UTE 3635-3636, tren tipo 100.",
+  "averia": "No se aprecia avería en los trenes implicados; funcionaron correctamente. Se menciona una avería de una UTE en La Florida que provocó retrasos y cambios de cruzamiento en la línea.",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo despejado",
+ "causas": {
+  "directa": "El conato de colisión tuvo su origen al autorizar el personal responsable de la circulación el rebase de la señal S2/P al tren 4519 hacia un cantón ocupado por el tren 5418.",
+  "contribuyentes": [
+   "Avería del bloqueo entre Gijón y Sotiello, que obligó a circular en situación degradada mediante autorizaciones de rebase de señales.",
+   "Autorización del rebase de la señal S2/P al tren 4519 sin verificar todas las medidas necesarias para garantizar la seguridad, con incumplimiento del artículo 2/09/00 del Reglamento de Circulación de Trenes.",
+   "No verificación del cruzamiento con el tren 5418 indicado en el libro itinerario antes de expedir el tren 4519, con incumplimiento del artículo 2/14/00 del Reglamento de Circulación de Trenes.",
+   "Autorización por el CTC de un movimiento incompatible con el tren 5418, con incumplimiento del artículo 8/01/00 del Reglamento de Señales.",
+   "Diferencias en el contenido y en la hora de los telefonemas registrados en los libros."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+  "afectacion_servicio": "Retrasos en 26 trenes, con un retraso total de 5 horas y 3 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación rigurosa del Reglamento de Circulación de Trenes de Feve por parte del personal responsable de la circulación, principalmente en situaciones degradadas debidas a averías en los sistemas de seguridad que controlan la circulación de los trenes.",
+   "destinatario": "Feve"
+  },
+  {
+   "texto": "En los programas de formación y reciclaje del personal de circulación se deberán incluir prácticas de circulación en situaciones degradadas.",
+   "destinatario": "Feve"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "incidente ferroviario",
+  "feve",
+  "gijón",
+  "sotiello",
+  "bloqueo averiado",
+  "situación degradada",
+  "rebase de señal",
+  "cantón ocupado",
+  "ctc",
+  "telefonema",
+  "reglamento de circulación"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-191010-280611-CIAF"
+}

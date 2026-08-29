@@ -1,0 +1,178 @@
+{
+ "titulo_normalizado": "Conato de colisión en la estación de Redondela por rebase de la señal de salida 1S/I",
+ "idioma_original": "es",
+ "resumen": "El 30 de septiembre de 2010, a las 08:09, en la estación de Redondela se produjo un conato de colisión entre los trenes 620 y 651 de Renfe Operadora. El tren 620 rebasó indebidamente la señal de salida 1S/I, que estaba en indicación de parada, tras interpretar erróneamente la señal 1S/II en vía libre como la suya. El origen fue el incumplimiento de las órdenes dadas por las señales al personal del tren. No hubo víctimas mortales ni heridos, ni daños materiales, aunque la vía 1 quedó parcialmente interceptada y se produjeron retrasos.",
+ "hechos": "El día 30 de septiembre de 2010, a las 08:09 horas, en la estación de Redondela (Pontevedra), situada en el PK 166+800 de la línea 810 Vigo – Monforte de Lemos, se produjo un conato de colisión entre los trenes de viajeros de larga distancia 620 y 651, ambos de Renfe Operadora. El tren 620, procedente de Vigo y con destino Barcelona, fue recibido con itinerario de entrada a vía 1, anuncio de parada en la señal de entrada 2S y señal de salida 1S/I en indicación de parada.\n\nCon el tren 620 estacionado en vía 1, al tren 651, procedente de Madrid y destino Vigo, se le estableció itinerario de paso a vía 3, con señal de entrada 1N en anuncio de parada y señal de salida 2N/III en vía libre. Tras la parada comercial, el maquinista del tren 620 observó una señal alta en vía libre (1S/II), interpretó erróneamente que era la suya y reanudó la marcha; al pasar por la baliza de la señal 1S/I, en parada, se activó el freno de urgencia y el tren rebasó la señal, ocupó el circuito de vía R1 y se produjo el conato con el tren 651, que estaba en el circuito contiguo 1N.\n\nEl tren 620 se detuvo en el PK 166+591, a unos 77 metros del otro tren, e inició retroceso por propia iniciativa, activándose de nuevo el freno de urgencia al pasar otra vez por la baliza de la señal 1S/I. No hubo víctimas mortales ni heridos, ni daños materiales en infraestructura o material rodante.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Redondela",
+  "pk": "166+601",
+  "linea": "810 Vigo – Monforte de Lemos",
+  "provincia": "Pontevedra",
+  "descripcion_lugar": "Estación de Redondela, señal de salida 1S/I, PK 166+601, tramo Guillarei aguja 141,6 - Redondela, municipio de Redondela."
+ },
+ "cronologia": [
+  {
+   "hora": "08:05",
+   "evento": "El tren 620 pasa por la baliza previa de la señal de entrada 2S en indicación L1 (anuncio de parada) a 52 km/h (08:05:11)."
+  },
+  {
+   "hora": "08:05",
+   "evento": "El tren 620 pasa por la baliza de pie de la señal de entrada 2S, PK 167+346, en indicación L1 a 29 km/h (08:05:35)."
+  },
+  {
+   "hora": "08:06",
+   "evento": "El tren 620 se detiene en el circuito de estacionamiento de vía 1 para realizar parada comercial, con la señal de salida 1S/I en indicación de parada (08:06:54)."
+  },
+  {
+   "hora": "08:07",
+   "evento": "El tren 651 pasa por la baliza previa de la señal avanzada 1649 en indicación L1 a 78 km/h (08:07:21)."
+  },
+  {
+   "hora": "08:07",
+   "evento": "El tren 651 pasa por la baliza de pie de la señal avanzada 1649, PK 164+830, en indicación L1 a 67 km/h (08:07:39)."
+  },
+  {
+   "hora": "08:08",
+   "evento": "Se establece itinerario de paso por vía 2 para el tren 12584, con origen Vigo y destino Santiago de Compostela, disponiendo vía libre la señal de salida 1S/II (08:08:30)."
+  },
+  {
+   "hora": "08:08",
+   "evento": "El tren 651 pasa por la baliza previa de la señal de entrada 1N en indicación L1 a 49 km/h (08:08:41)."
+  },
+  {
+   "hora": "08:09",
+   "evento": "El tren 651 pasa por la baliza de pie de la señal de entrada 1N, PK 166+106, en indicación L1 a 38 km/h (08:09:07)."
+  },
+  {
+   "hora": "08:09",
+   "evento": "El tren 620 reanuda la marcha tras 2 minutos y 24 segundos de parada comercial y tras recibir la comunicación de operaciones terminadas (08:09:18)."
+  },
+  {
+   "hora": "08:09",
+   "evento": "El tren 620 pasa por la baliza de pie de la señal 1S/I en indicación de parada, se activa el freno de urgencia L8 y rebasa la señal a 12 km/h; ocupa el circuito de vía R1 mientras el tren 651 está en el circuito 1N, produciéndose conato de colisión (08:09:47)."
+  },
+  {
+   "hora": "08:09",
+   "evento": "El tren 620 queda detenido en el PK 166+591; un segundo después, el tren 621, según consta en el informe, se detiene en el PK 166+514, quedando ambos trenes enfrentados a 77 metros (08:09:56)."
+  },
+  {
+   "hora": "08:10",
+   "evento": "El tren 620 inicia retroceso (08:10:16); 9 segundos después pasa de nuevo por la baliza de pie de la señal 1S/I en indicación de parada, activándose nuevamente el freno de urgencia L8."
+  },
+  {
+   "hora": "08:10",
+   "evento": "El tren 620 se detiene tras recorrer 27 metros (08:10:36)."
+  },
+  {
+   "hora": "09:38",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF, por telefonía móvil, que se ha producido el suceso."
+  },
+  {
+   "hora": null,
+   "evento": "2010-10-26: el pleno de la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación de este incidente."
+  },
+  {
+   "hora": null,
+   "evento": "2010-12-20: el gerente de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2011-03-14: el responsable de la gerencia territorial de seguridad en la circulación noroeste de Adif entrega su informe particular."
+  },
+  {
+   "hora": null,
+   "evento": "2011-06-28: fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "620",
+   "tipo": "viajeros de larga distancia / Alvia tipo 200A",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales."
+  },
+  {
+   "numero": "651",
+   "tipo": "viajeros de larga distancia",
+   "operador": "Renfe Operadora",
+   "danos": "No se producen daños materiales."
+  },
+  {
+   "numero": "12584",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 620",
+   "implicacion": "Matrícula 8870966. Condujo el tren que rebasó la señal 1S/I; declaró haber interpretado erróneamente la señal 1S/II en vía libre como la suya; realizó retroceso por propia iniciativa; pruebas de alcohol y drogas negativas; fue relevado del servicio y se le aplicó la circular operativa nº1 de Renfe Operadora."
+  },
+  {
+   "rol": "agente de acompañamiento del tren 620",
+   "implicacion": "Matrícula 8831448. Categoría Operador comercial especializado N1. Comunicó operaciones terminadas por teléfono al maquinista estando la señal 1S/I en indicación de parada; no pudo comprobar la indicación de parada por falta de visibilidad; pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "maquinista del tren 651",
+   "implicacion": "Matrícula 8930547. Observó que salía un tren de la vía 1, usó la emergencia y comunicó la incidencia al puesto de mando."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Estación con enclavamiento eléctrico, mando local y adscrita al puesto de mando de Ourense. Señal 1S/I alta de 3 focos en PK 166+601, con baliza de pie de señal y sin baliza previa; señal 1S/II alta a 37 m en lado opuesto; señales de entrada 2S y 1N, señal avanzada 1649 y señal de salida 2N/III; visibilidad de 1S/I dificultada desde el andén por pilares de la marquesina y curva.",
+  "tipo_via": "Vía doble electrificada con bloqueo automático banalizado (BAB) por lado Chapela/Vigo; transición a dos vías únicas electrificadas con bloqueo automático en vía única (BAU), hacia Monforte/Ourense y hacia Santiago (línea 824); tramo de entrada horizontal y en curva de radio 500 m.",
+  "velocidad_maxima": "95 km/h",
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "Sin daños materiales; vía 1 interceptada parcialmente desde la hora del suceso hasta las 14:00.",
+  "otro": "Radiotelefonía modalidad A; tráfico CIRTRA 2009: media semanal de 207 circulaciones (baja), desglosadas en 70 larga distancia, 72 media distancia, 61 mercancías y 4 servicio."
+ },
+ "material_rodante": {
+  "series": "Tren 620: automotor 120602, Alvia tipo 200A, 4 vehículos. Tren 651: locomotora 333406, 10 vehículos.",
+  "averia": "Material rodante funcionó correctamente; el dispositivo de mando de operaciones terminadas del tren 620 falló, por lo que se comunicó por teléfono.",
+  "mantenimiento": null
+ },
+ "clima": "Noche, tiempo despejado.",
+ "causas": {
+  "directa": "Rebase indebido de la señal de salida 1S/I, en indicación de parada, por el tren 620, por incumplimiento de las órdenes dadas por las señales al personal del tren.",
+  "contribuyentes": [
+   "Visibilidad dificultada de la señal 1S/I desde el andén y el punto de parada por los pilares de la marquesina y la curva a derechas en sentido de la marcha.",
+   "Interpretación errónea del maquinista del tren 620 al confundir la señal 1S/II, en vía libre, con la señal propia 1S/I.",
+   "La señal 1S/I disponía de baliza de pie de señal, pero no de baliza previa.",
+   "El agente de acompañamiento comunicó operaciones terminadas al maquinista estando la señal de salida 1S/I en indicación de parada.",
+   "Fallo del dispositivo de mando de operaciones terminadas, lo que obligó a realizar la comunicación por teléfono."
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+  "afectacion_servicio": "La vía 1 quedó interceptada parcialmente desde la hora del suceso hasta las 14:00 horas. El tren 651 sufrió un retraso de 4 minutos; los viajeros del tren 620 continuaron viaje en el 280 hasta León, donde se reinició el 620 hasta destino."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Estudiar la viabilidad de instalar señal indicadora de salida a la señal 1S/I de la estación de Redondela, dadas las especiales condiciones, al situarse en curva y ser transición de vía doble a dos vías únicas, ampliándose el análisis al resto de las señales de salida de dicha estación.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "rebase de señal",
+  "señal de salida",
+  "visibilidad",
+  "curva",
+  "transición de vía",
+  "operaciones terminadas",
+  "asfa",
+  "renfe operadora",
+  "adif",
+  "redondela",
+  "fallo humano"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-300910-280611-CIAF"
+}

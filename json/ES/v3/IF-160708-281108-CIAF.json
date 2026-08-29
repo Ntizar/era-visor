@@ -1,0 +1,90 @@
+{
+ "titulo_normalizado": "Arrollamiento mortal de persona por tren 1094 en PK 108,898 entre señales de avanzada y entrada de Valencia Nord",
+ "idioma_original": "es",
+ "resumen": "El 16 de julio de 2008 a las 12:17, el tren de Viajeros de Larga Distancia 1094 de Renfe Operadora arrolló a una persona en el P.K. 108,898 de la línea 300 Madrid Chamartín – Valencia Estación de Nord, entre las señales de avanzada y de entrada de la estación de Valencia Nord. La víctima, un varón de 40 años, falleció en el acto. El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado mientras el tren efectuaba su paso. Dadas las características del suceso, no se establecieron recomendaciones.",
+ "hechos": "El tren de viajeros 1094 de Renfe Operadora, compuesto por un autopropulsado en doble composición (motores 490203 y 490006, 6 coches, 24 ejes, 158 m, masa remolcada 254 Tm.), procedente de Alfafar Benetusser con destino Valencia Nord, circulaba por vía II entre las señales de avanzada y de entrada a Valencia Nord. El maquinista observó a una persona que caminaba por la vía de espaldas al tren con intención de cruzarla. El maquinista hizo uso del silbato repetidas veces y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. Según la declaración del maquinista, la persona salió de la cuneta derecha a unos cien metros, andaba distraída de espaldas al tren, y al oír el silbato corrió hacia el lado derecho de la vía; al pasar el tren se oyó un golpe seco por el lado derecho a la altura de los estribos de acceso a cabina. La persona falleció en el acto. En la zona del arrollamiento existe un asentamiento chabolista por lo que el tránsito de personas por la vía es frecuente.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": "Valencia Nord",
+  "pk": "108,898",
+  "linea": "300 Madrid Chamartín – Valencia Estación de Nord",
+  "provincia": "Valencia",
+  "descripcion_lugar": "Vía II, entre las señales de avanzada y de entrada de la estación de Valencia Nord, tras rebasar la señal de avanzada. En las proximidades existe un asentamiento chabolista. Tramo en pendiente y en recta."
+ },
+ "cronologia": [
+  {
+   "hora": "12:17",
+   "evento": "Arrollamiento de una persona por el tren 1094 en P.K. 108,898"
+  },
+  {
+   "hora": "12:53",
+   "evento": "Fin de la interceptación de vía (36 minutos de afectación)"
+  },
+  {
+   "hora": "17:35",
+   "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF (17/07/2008)"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "1094",
+   "tipo": "Viajeros Larga Distancia, autopropulsado en doble composición",
+   "operador": "Renfe Operadora",
+   "danos": "No se produjeron daños en el material rodante"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista principal del tren 1094",
+   "implicacion": "Observó a la persona, hizo uso del silbato repetidas veces y accionó el freno de emergencia; su actuación fue correcta. Matrícula 9722166. Prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señalización luminosa con balizas ASFA; señales de avanzada y de entrada de Valencia Nord",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": "160 km/h (velocidad máxima permitida en el trayecto según libro horario)",
+  "ancho": null,
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Correcta; no existían condiciones especiales de circulación",
+  "otro": "Bloqueo Automático de Vía Doble Banalizada (BAB) con CTC. Radiotelefonía modalidad A. Tramo en pendiente y en recta."
+ },
+ "material_rodante": {
+  "series": "Autopropulsado doble composición, motores 490203 y 490006 (6 coches, 24 ejes, 158 m, masa remolcada 254 Tm.)",
+  "averia": "Ninguna; el material rodante funcionó correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Nublado",
+ "causas": {
+  "directa": "Tránsito de la víctima por un lugar no autorizado para ello cuando el tren efectuaba su paso por dicho punto",
+  "contribuyentes": [
+   "Existencia de un asentamiento chabolista en las proximidades del lugar del arrollamiento",
+   "El tránsito de personas por la vía es frecuente en esa zona"
+  ],
+  "sistemicas": []
+ },
+ "consecuencias": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+  "afectacion_servicio": "Interceptación de vía durante 36 minutos (12:17 a 12:53). Se banalizó la circulación por vía I entre Alfafar Benetusser y Valencia Nord. Afectados 9 trenes de corta distancia y 2 de larga distancia (incluido el implicado), con un retraso total de 135 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [],
+ "tags": [
+  "arrollamiento",
+  "persona",
+  "peatón",
+  "valencia nord",
+  "renfe",
+  "autopropulsado",
+  "asentamiento chabolista",
+  "tránsito no autorizado",
+  "línea 300",
+  "fallecido",
+  "freno de emergencia",
+  "asfa"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-160708-281108-CIAF"
+}

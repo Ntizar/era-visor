@@ -1,0 +1,123 @@
+{
+ "titulo_normalizado": "Rotura catastrófica del segundo eje motor del bogie del tren 15640 por fisura de fatiga originada en arco eléctrico de soldadura, entre Villanueva de Gállego y Zuera",
+ "idioma_original": "es",
+ "resumen": "El 8 de octubre de 2012 a las 07:48, el tren de media distancia 15640 de Renfe Operadora detuvo su marcha en plena vía (PK 25+100, línea 200) al observar el maquinista chispas en el primer bogie y comportamiento anómalo del vehículo. La inspección reveló la rotura del segundo eje (motor) del primer bogie, con las ruedas apoyadas de forma inclinada sobre el carril. La causa fue una fisura antigua superficial originada por arcos eléctricos, probablemente al cebar un electrodo de soldadura sobre el eje durante labores de mantenimiento, que progresó por fatiga hasta la rotura catastrófica. Como factor contribuyente, la intervención tipo R (reparación general con ultrasonidos) se había incumplido por 4.817 km sobre el límite de 500.000 km. No hubo víctimas; la vía quedó liberada a las 15:03 tras 7 horas de interrupción.",
+ "hechos": "El día 8 de octubre de 2012, a las 07:48 horas, el tren 15640 de media distancia de Renfe Operadora, con origen en Zaragoza Delicias y destino Canfranc, circulaba entre las estaciones de Villanueva de Gállego y Zuera (PK 25+100, línea 200 Madrid Chamartín – Barcelona Estación de Francia) a una velocidad de 90-92 km/h. El maquinista, matrícula 9711615, notó un comportamiento anómalo del vehículo y, al mirar por el espejo retrovisor, observó que salían chispas del primer bogie. Aplicó el freno de servicio, recorriendo 588 metros en 36 segundos hasta detenerse cerca de la señal de entrada de Zuera. Informó al CTC (puesto de mando de Zaragoza El Portillo) y descendió para inspeccionar el tren, comprobando que las ruedas del segundo eje en el sentido de la marcha se apoyaban de forma inclinada sobre el carril, al estar roto el cuerpo del eje. Comunicó al CTC que no era posible mover el vehículo por riesgo de descarrilamiento.\n\nEl eje siniestrado, numeración 593001548, era un eje motor de 30 años de vida, montado en el automotor 596018 (UIC 967195960182) desde el 10/05/2012, procedente del vehículo 967195960059. En el momento del incidente acumulaba 822.006 km totales. El análisis en los laboratorios de CAF determinó que la rotura se originó en una fisura superficial antigua con signos de exposición a altas temperaturas y presencia de cobre adherido, compatible con arcos eléctricos producidos al cebar un electrodo de soldadura sobre el eje durante labores de mantenimiento. La fisura progresó por fatiga hasta alcanzar aproximadamente el 80% de la sección, momento en que se produjo la rotura catastrófica. Se descartó contacto con cables del propio vehículo y defectos del acero.\n\nLa circulación quedó interrumpida desde las 07:48 hasta las 15:03 horas, cuando el tren fue apartado en la estación de Zuera y la vía liberada. Los viajeros fueron transbordados a otro tren. No hubo víctimas mortales ni heridos. Los daños materiales se limitaron al material rodante: rotura del eje y roces y deformaciones en el bastidor del primer bogie. La infraestructura no sufrió daños.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "25+100",
+  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "provincia": "Huesca",
+  "descripcion_lugar": "Plena vía entre las estaciones de Villanueva de Gállego y Zuera, tramo San Juan de Mozarrifar – Zuera, municipio de Zuera. Vía única electrificada de ancho convencional con BAU y CTC gestionado desde Zaragoza El Portillo. Perfil en rampa de 2,9 milésimas entre PK 24+610 y 25+100. Paralela a la vía de ancho UIC de la línea 070 Bifurcación Huesca a Huesca."
+ },
+ "cronologia": [
+  {
+   "hora": "07:48",
+   "evento": "El tren 15640 detiene su marcha en el PK 25+100 por aplicación del freno de servicio tras observar el maquinista chispas en el primer bogie y comportamiento anómalo."
+  },
+  {
+   "hora": "07:51",
+   "evento": "El maquinista informa al puesto de mando de Zaragoza El Portillo de los hechos."
+  },
+  {
+   "hora": "09:45",
+   "evento": "Se realiza prueba de alcoholemia al maquinista en Zuera, con resultado negativo."
+  },
+  {
+   "hora": "10:20",
+   "evento": "Se solicita camión taller de Zaragoza como medio de intervención para reparación del material y liberación de la vía."
+  },
+  {
+   "hora": "11:15",
+   "evento": "El jefe de gabinete de investigación de accidentes de Adif comunica el suceso a la CIAF mediante telefonía móvil."
+  },
+  {
+   "hora": "15:03",
+   "evento": "El tren 15640 queda apartado en la estación de Zuera y la vía queda liberada. Viajeros transbordados a otro tren."
+  },
+  {
+   "hora": "2012-10-22",
+   "evento": "El Pleno de la CIAF acuerda abrir la investigación del incidente."
+  },
+  {
+   "hora": "2013-06-25",
+   "evento": "Fecha del informe final."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "15640",
+   "tipo": "media distancia, automotor serie 596, 1 vehículo, 4 ejes, 56 toneladas, 24 m, tipo 120A",
+   "operador": "Renfe Operadora",
+   "danos": "Rotura total del segundo eje motor del primer bogie; roces y deformaciones en el bastidor del primer bogie."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 15640 (matrícula 9711615)",
+   "implicacion": "Detectó el comportamiento anómalo y las chispas, aplicó el freno de servicio, informó al CTC e inspeccionó el tren. Título B de conducción, antigüedad desde 01/07/1983, último reciclaje 30/11/2011, último reconocimiento médico/psicotécnico 14/11/2011. Jornada del día 8: 1h47min (1h07min conducción efectiva). Alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático (BAU) con CTC gestionado por el puesto de mando de Zaragoza El Portillo. Señales avanzada y de entrada a Zuera.",
+  "tipo_via": "Vía única electrificada, ancho convencional. Paralela: vía única ancho UIC (línea 070).",
+  "velocidad_maxima": "120 km/h",
+  "ancho": "Convencional (1668 mm)",
+  "electrificacion": "Sí, electrificada",
+  "estado_via": "Funcionó correctamente. No existían limitaciones de velocidad en la zona.",
+  "otro": "Media semanal de circulaciones del tramo San Juan de Mozarrifar – Zuera: 261 (14 larga distancia, 120 media distancia, 125 cercanías, 2 servicio). Radiotelefonía modalidad A."
+ },
+ "material_rodante": {
+  "series": "Automotor serie 596 (596.0), UIC 967195960182, tipo 120A. Eje motor numeración 593001548, 30 años de vida, 822.006 km totales.",
+  "averia": "Rotura catastrófica del cuerpo del segundo eje motor del primer bogie por progresión de fisura de fatiga iniciada por arco eléctrico.",
+  "mantenimiento": "Plan de mantenimiento del autopropulsado 596.0: IM2 (64.000-80.000 km), IM3 (192.000-240.000 km), R (400.000-500.000 km o 8 años, con ultrasonidos). Las IM2 e IM3 se cumplieron. La intervención R se incumplió: última R el 23/09/2005 (317.189 km), habiendo recorrido el eje 504.817 km desde entonces, superando en 4.817 km el límite de 500.000 km. El eje fue transferido del vehículo 967195960059 al 967195960182 el 10/05/2012. Última IM2 del vehículo implicado: 24/07/2012 (801.929 km)."
+ },
+ "clima": "De día. No existían condiciones meteorológicas adversas.",
+ "causas": {
+  "directa": "Rotura catastrófica del segundo eje motor del primer bogie por progresión de fatiga de una fisura superficial antigua, originada por arcos eléctricos al entrar el eje en contacto esporádico con un equipo de soldadura (cebado del electrodo sobre el cuerpo del eje durante labores de mantenimiento).",
+  "contribuyentes": [
+   "Incumplimiento del plan de mantenimiento: la intervención tipo R (única con inspección por ultrasonidos de los cuerpos de eje) no se realizó dentro de los 500.000 km u 8 años; el eje superó el límite en 4.817 km.",
+   "Uso de elementos del vehículo (ejes) como masa o punto de apoyo para cebar electrodos de soldadura durante trabajos de mantenimiento, sin protección adecuada."
+  ],
+  "sistemicas": [
+   "Ausencia de control informático que impidiera la circulación de ejes fuera de su ciclo máximo de mantenimiento ante cambios de vehículo.",
+   "Falta de inspección por ultrasonidos en intervenciones intermedias (IM2/IM3), dejando los ejes sin detección de fisuras internas durante largos periodos."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: rotura total del segundo eje motor y roces/deformaciones en el bastidor del primer bogie. Infraestructura: sin daños.",
+  "afectacion_servicio": "Interrupción de la circulación de 07:48 a 15:03 (7 h 15 min). Tres trenes de media distancia con retraso total de 84 minutos; un tren de mercancías con 82 minutos de retraso. Dos trenes de viajeros suprimidos en Zuera. Viajeros de dos trenes con destino Zaragoza transbordados en Tardienta a un tren de la línea de ancho UIC."
+ },
+ "lecciones": [
+  "La rotura catastrófica de un eje por fatiga puede originarse en una fisura superficial mínima causada por arco eléctrico durante mantenimiento, invisible en inspecciones visuales ordinarias.",
+  "El incumplimiento de la intervención tipo R, única que incluye ultrasonidos, elimina la última barrera de detección de defectos internos en los ejes.",
+  "El cebar electrodos de soldadura sobre elementos del vehículo (ejes, motores, rodamientos) puede provocar fusiones localizadas y puntos de inicio de fisuras de fatiga.",
+  "Los cambios de ejes entre vehículos sin control informático del kilometraje acumulado pueden ocultar ejes fuera de ciclo de mantenimiento."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Considerando adecuadas las medidas adoptadas, se recomienda analizar la viabilidad de extenderlas a vehículos con circunstancias similares.",
+   "destinatario": "Dirección General de Ferrocarriles (DGF)"
+  }
+ ],
+ "tags": [
+  "rotura de eje",
+  "fatiga",
+  "arco electrico",
+  "soldadura",
+  "mantenimiento",
+  "serie 596",
+  "media distancia",
+  "renfe operadora",
+  "ultrasonidos",
+  "incumplimiento plan mantenimiento",
+  "plena via",
+  "linea 200"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_081012_250613_CIAF"
+}

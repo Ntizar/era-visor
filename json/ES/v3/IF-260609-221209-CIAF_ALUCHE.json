@@ -1,0 +1,170 @@
+{
+ "titulo_normalizado": "Colisión por retroceso indebido de tren de cercanías en la estación subterránea de Aluche (Madrid)",
+ "idioma_original": "es",
+ "resumen": "El 26 de junio de 2009, a las 07:36, el tren de cercanías 27319 de Renfe-Operadora, tras efectuar parada sin apertura de puertas en la estación subterránea de Aluche, reanuda la marcha y se detiene 200 metros después por accionamiento de un aparato de alarma por un viajero. El maquinista, por propia iniciativa y sin autorización, desconecta el sistema LZB e inicia retroceso, colisionando a 19 km/h con el tren 27321, estacionado en vía 2 con puertas abiertas. Se producen 61 heridos leves (60 viajeros y el maquinista del 27319) y daños materiales en ambos trenes y en la infraestructura. El origen del accidente fue el retroceso indebido del tren 27319.",
+ "hechos": "El tren de cercanías 27319 (Humanes–Móstoles-El Soto) efectúa parada en vía 2 de la estación subterránea de Aluche, pero las puertas no se abren para subida y bajada de viajeros. El tren reanuda la marcha y, tras recorrer 200 metros, queda detenido en el túnel entre Aluche y Fanjul por accionamiento de un aparato de alarma por parte de un viajero. El maquinista, ante insultos y amenazas recibidos por el intercomunicador y golpeos en la puerta de la cabina, decide por propia iniciativa desconectar el equipo LZB e iniciar retroceso a velocidad reducida, convencido de no haber liberado el cantón. El tren 27321 (mismo origen y destino) se encontraba detenido en vía 2 de Aluche con las puertas abiertas para bajada de pasajeros. El maquinista del 27321, al percatarse del retroceso, sale a la sala de viajeros para alertar y desalojar el primer coche, pero se produce la colisión a 19 km/h tras 60 metros de retroceso. El tren 27321 se desplaza 3 metros y queda empotrado con el 27319, descarrilando el segundo bogie del coche motor y el del coche remolcado siguiente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Aluche",
+  "pk": "7+612",
+  "linea": "L/920, Móstoles – El Soto Parla (línea C-5 de Cercanías Madrid: Humanes-Atocha-Móstoles)",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Estación subterránea de vía doble electrificada en ancho convencional, con pasos a distinto nivel, dotada de bloqueo de control automático (BCA) mediante sistema LZB. Central de mando del BCA en Madrid-Atocha. Cámaras de seguridad en andén. Tramo Cuatro Vientos – Madrid Atocha Cercanías."
+ },
+ "cronologia": [
+  {
+   "hora": "07:32",
+   "evento": "El tren 27319 llega a la estación de Aluche (según sección 4.1 aparece como 07:52, posiblemente errata del informe)"
+  },
+  {
+   "hora": null,
+   "evento": "Parada en vía 2 sin apertura de puertas; señal de salida 1022 autoriza el paso; el tren reinicia la marcha"
+  },
+  {
+   "hora": null,
+   "evento": "Un viajero acciona el aparato de alarma; el tren se detiene a los 30 segundos tras recorrer 200 m en el túnel entre Aluche y Fanjul, liberando por cola la señal 1022 y el circuito de vía de estacionamiento de vía 2"
+  },
+  {
+   "hora": null,
+   "evento": "Tras 42 segundos de parada, el maquinista desconecta el sistema LZB por propia iniciativa"
+  },
+  {
+   "hora": null,
+   "evento": "Tras 1 minuto y 48 segundos de parada, el tren inicia retroceso recorriendo 60 m"
+  },
+  {
+   "hora": "07:36",
+   "evento": "Colisión a 19 km/h del tren 27319 (retrocediendo) con el tren 27321 estacionado en vía 2 con puertas abiertas"
+  },
+  {
+   "hora": "07:36:33",
+   "evento": "Comunicación radio del maquinista del 27319 al Puesto de Mando de Madrid Chamartín informando del percance"
+  },
+  {
+   "hora": "07:38",
+   "evento": "Queda interceptada la vía 2"
+  },
+  {
+   "hora": "07:45",
+   "evento": "Se interrumpe la circulación entre Madrid Atocha y Móstoles-El Soto por ambas vías"
+  },
+  {
+   "hora": "08:55",
+   "evento": "Se reanuda la circulación en vía 1 con viajeros en régimen de lanzadera Móstoles-El Soto / Cuatro Vientos"
+  },
+  {
+   "hora": "09:00",
+   "evento": "Se reanuda la circulación en vía 1 entre Humanes y Laguna"
+  },
+  {
+   "hora": "20:01",
+   "evento": "El maquinista del 27319 se presenta en la comisaría de Latina de Madrid para declarar"
+  },
+  {
+   "hora": "18:35",
+   "evento": "Día 27/06/2009: se reanuda el tráfico con normalidad en vía 2"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "27319",
+   "tipo": "Cercanías, 6 coches, motores 446141/142, 440 t masa remolcada",
+   "operador": "Renfe-Operadora",
+   "danos": "Daños en órganos de tracción y choque, carenado y chapa de la cabina de conducción trasera"
+  },
+  {
+   "numero": "27321",
+   "tipo": "Cercanías, 6 coches, motores 446145/146, 440 t masa remolcada",
+   "operador": "Renfe-Operadora",
+   "danos": "Descarrilamiento del 2º bogie del primer coche (coche motor) y del 2º bogie del segundo coche (remolcado); daños en órganos de tracción y choque; separado 50 cm del andén de vía 2"
+  },
+  {
+   "numero": "27330",
+   "tipo": "Cercanías",
+   "operador": "Renfe-Operadora",
+   "danos": null
+  },
+  {
+   "numero": "19526",
+   "tipo": "Cercanías",
+   "operador": "Renfe-Operadora",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 27319",
+   "implicacion": "Matrícula 8845687. Habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 01/08/2006; último reconocimiento médico y psicotécnico 05/05/2005. Alcohol negativa; SAMUR registra crisis de ansiedad y administra Valium; test de drogas positivo (por Valium), contraanálisis APTO. Desconectó LZB e inició retroceso sin autorización, incumpliendo art. 475 RGC y Consigna C Experimental nº43. Herido leve."
+  },
+  {
+   "rol": "Maquinista del tren 27321",
+   "implicacion": "Matrícula 9734732. Habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 20/11/2006; último reconocimiento médico y psicotécnico 16/02/2005. Controles de alcohol y drogas negativos. Se detuvo correctamente ante señal de salida 1022. Intentó alertar y desalojar el primer coche del impacto."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de salida 1022 en rojo para el tren 27321; el tren 27319 liberó por cola la señal 1022 al retroceder",
+  "tipo_via": "Vía doble, estación subterránea con pasos a distinto nivel",
+  "velocidad_maxima": null,
+  "ancho": "Convencional",
+  "electrificacion": "Electrificada",
+  "estado_via": "Vía 2 desplazada 20 metros por el impacto; ambas vías interceptadas tras el accidente",
+  "otro": "Bloqueo de control automático (BCA) con sistema LZB; central de mando en Madrid-Atocha; cámaras de seguridad en andén; radiotelefonía modalidad A; tráfico medio semanal del tramo: 1.914 circulaciones (1.910 cercanías, 4 de servicio)"
+ },
+ "material_rodante": {
+  "series": "Motores 446141/142 (tren 27319) y 446145/146 (tren 27321); composiciones de 6 coches, 440 t cada una",
+  "averia": "Puertas del tren 27319 no abrieron en parada; comprobadas en taller Móstoles-El Soto el mismo día con resultado satisfactorio y funcionamiento normal. Equipos de seguridad (freno, ASFA, vigilancia) funcionaron correctamente según registrador. Instalaciones técnicas correctas según registro del puesto de mando.",
+  "mantenamiento": "Comprobación de puertas en taller de Móstoles-El Soto el día del accidente, resultado satisfactorio"
+ },
+ "clima": "Tiempo despejado en el exterior; iluminación artificial habitual en la estación subterránea",
+ "causas": {
+  "directa": "Retroceso indebido por parte del tren 27319, ejecutado por el maquinista por propia iniciativa y sin autorización, tras desconectar el sistema LZB, incumpliendo el artículo 475 del Reglamento General de Circulación y la Consigna C Experimental nº43",
+  "contribuyentes": [
+   "No apertura de las puertas del tren 27319 en la parada de Aluche, provocando la actuación del aparato de alarma por un viajero",
+   "Estado psicológico del maquinista del 27319: acoso, insultos y amenazas recibidos por el intercomunicador y golpeos en la puerta de la cabina, generando una crisis de ansiedad",
+   "Percepción errónea del maquinista del 27319 sobre la posición del tren que le seguía (creyó no haber rebasado el punto a partir del cual podría encontrarlo)",
+   "Desconexión del equipo LZB por propia iniciativa, desactivando la protección automática"
+  ],
+  "sistemicas": [
+   "Necesidad de reforzar la formación en estricto cumplimiento de las normas del Reglamento General de Circulación",
+   "Influencia de los procesos psicológicos en la conducción y necesidad de verificación de aptitud del personal de conducción",
+   "Aplicación de las medidas de gestión de seguridad existentes en Renfe-Operadora"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 61,
+  "danos_materiales": "Tren 27319: daños en órganos de tracción y choque, carenado y chapa de cabina trasera. Tren 27321: descarrilamiento del 2º bogie del primer y segundo coche, daños en órganos de tracción y choque. Infraestructura: vía 2 desplazada 20 metros.",
+  "afectacion_servicio": "Ambas vías interceptadas. Interrupción total entre Madrid Atocha y Móstoles-El Soto de 07:45 a 08:55. Vía 1 reabierta a 08:55 (lanzadera) y 09:00 (Humanes-Laguna). Vía 2 interceptada desde 07:38 del 26/06 hasta 18:35 del 27/06. Trasbordo de viajeros del 27319 mediante tren 27330 en Aluche y tren 19526 en vía 1 para evacuación del túnel."
+ },
+ "lecciones": [
+  "El retroceso sin autorización y con LZB desconectado en un cantón que puede estar ocupado por otro tren constituye un riesgo crítico de colisión",
+  "La presión psicológica ejercida por viajeros (insultos, amenazas, golpeos) puede inducir al maquinista a decisiones operativas indebidas",
+  "La no apertura de puertas en parada genera situaciones de conflicto que pueden derivar en decisiones erróneas del conductor",
+  "Los equipos de seguridad (LZB, ASFA, freno, vigilancia) funcionaron correctamente; el accidente se debió a una decisión humana que anuló la protección automática"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+   "destinatario": "Renfe-Operadora"
+  }
+ ],
+ "tags": [
+  "colisión",
+  "retroceso indebido",
+  "cercanías",
+  "estación subterránea",
+  "lz",
+  "desconexión lz",
+  "reglamento general de circulación",
+  "artículo 475",
+  "factor humano",
+  "presión psicológica",
+  "puertas no abiertas",
+  "descarrilamiento",
+  "renfe-operadora",
+  "aluche"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-260609-221209-CIAF_ALUCHE"
+}

@@ -1,0 +1,150 @@
+{
+ "titulo_normalizado": "Descarrilamiento en Bifurcación Cerrato por disposición incompleta de desvío y autorización errónea de rebase",
+ "idioma_original": "es",
+ "resumen": "El 24 de enero de 2020, el tren 04171 de Renfe Viajeros descarriló su primer bogie al pasar por el desvío nº4 de Bifurcación Cerrato. El desvío acusaba falta de comprobación a posición desviada, pero la brigada de desvíos realizó una inspección visual y acústica errónea, asumiendo que estaba correctamente dispuesto. Basándose en esta información, el Responsable de Circulación autorizó el rebase de la señal de entrada mediante telefonema, lo que derivó en el accidente.",
+ "hechos": "Sobre las 18:25, el desvío nº4 de Bifurcación Cerrato no daba comprobación a posición invertida, impidiendo la apertura de la señal E9. Se avisó a la brigada de desvíos, que inspeccionó el aparato de vía de forma visual y acústica, sin levantar las tapas de los encerrojamientos ni usar galgas de comprobación. A las 18:53, el Piloto de Seguridad Habilitado (PSH) emitió un telefonema indicando erróneamente que la aguja estaba dispuesta a vía desviada y libre de trabajos. A las 18:55, el RC del CRC autorizó al tren 04171 a rebasar la señal E9 con marcha de maniobras. Al pasar por la aguja a menos de 9 km/h, el primer bogie descarriló a las 19:01 porque la punta de la aguja curva no estaba acoplada ni encerrojada en la zona del motor nº1.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Bifurcación Cerrato",
+  "pk": "223/158",
+  "linea": "084 (Bif. Venta de Baños a León AV) / LAV Madrid - Valladolid - León",
+  "provincia": "Palencia",
+  "descripcion_lugar": "Desvío nº4, situado en una zona llana cerca de una fábrica de automóviles, en el escape de la bifurcación."
+ },
+ "cronologia": [
+  {
+   "hora": "18:25",
+   "evento": "El desvío nº4 no da comprobación a posición invertida."
+  },
+  {
+   "hora": "18:26",
+   "evento": "El tren 04171 se detiene ante la señal E9 por actuación del freno ASFA."
+  },
+  {
+   "hora": "18:40",
+   "evento": "Llegada de la brigada de desvíos y solicitud de trabajos en la aguja."
+  },
+  {
+   "hora": "18:53",
+   "evento": "El PSH emite telefonema indicando erróneamente que la aguja está dispuesta a vía desviada."
+  },
+  {
+   "hora": "18:55",
+   "evento": "El RC del CRC autoriza al tren 04171 a rebasar la señal E9 con marcha de maniobras."
+  },
+  {
+   "hora": "19:01",
+   "evento": "Descarrilamiento del primer bogie del tren 04171 al pasar por el desvío nº4."
+  },
+  {
+   "hora": "19:25",
+   "evento": "Se autoriza el paso de trenes por vía 2 con marcha a la vista."
+  },
+  {
+   "hora": "20:26",
+   "evento": "Llegada del tren 97753 para el transbordo de los pasajeros del tren accidentado."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "04171",
+   "tipo": "Intercity",
+   "operador": "Renfe Viajeros",
+   "danos": "Sustitución del bogie afectado, de la antena LZB receptora y de la ventana exterior rota."
+  },
+  {
+   "numero": "97753",
+   "tipo": "Tren de transbordo (UT 114.001)",
+   "operador": "Renfe",
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Piloto de Seguridad Habilitado (PSH)",
+   "implicacion": "Realizó inspección errónea y emitió telefonema de entrega de vía con indicación errónea de disposición a vía desviada."
+  },
+  {
+   "rol": "Oficial 1ª de la brigada de desvíos",
+   "implicacion": "Coordinó la inspección visual y acústica deficiente del desvío, sin comprobar el encerrojamiento mecánico."
+  },
+  {
+   "rol": "Responsable de Circulación del CRC (RC del CRC)",
+   "implicacion": "Autorizó el rebase de la señal E9 basándose en el telefonema erróneo del PSH."
+  },
+  {
+   "rol": "Maquinista del tren 04171",
+   "implicacion": "Rebasó la señal E9 con autorización y frenó de emergencia por no reconocer la LVI, reanudando la marcha hasta descarrilar."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Enclavamiento electrónico SMARTLOCK-300, ASFA Digital, ERTMS Nivel 2, Bloqueo de Señalización Lateral (BSL).",
+  "tipo_via": "Línea de Alta Velocidad (LAV)",
+  "velocidad_maxima": "150 km/h",
+  "ancho": "UIC (1.435 mm)",
+  "electrificacion": "25 kV, corriente alterna",
+  "estado_via": "Desvío nº4 con falta de comprobación a posición desviada y disposición incompleta de la punta de la aguja.",
+  "otro": "Desvío tipo VL 17 007 AV4, apto para 220 km/h, con 14 accionamientos."
+ },
+ "material_rodante": {
+  "series": "Serie 121 (121.001)",
+  "averia": "Ninguna avería previa; parámetros de rodadura dentro de norma.",
+  "mantenimiento": "Revisado y reparado en el taller de Fuencarral tras el accidente."
+ },
+ "clima": "Llovizna, cielo nublado, anochecer con poca visibilidad.",
+ "causas": {
+  "directa": "Disposición incompleta de la punta de la aguja a posición desviada en la zona del primer motor, lo que provocó que el tren entrara a vía directa y descarrilara.",
+  "contribuyentes": [
+   "Inspección errónea del desvío nº4 por parte de la brigada de desvíos.",
+   "Ausencia de una comunicación reglada entre el Oficial 1ª y el PSH.",
+   "Escasa experiencia en materia de desvíos entre los miembros de la brigada de desvíos.",
+   "Descoordinación de la brigada de desvíos con la brigada de señalización.",
+   "Limitaciones a la hora de disponer de personal con la experiencia exigida en los pliegos."
+  ],
+  "sistemicas": [
+   "En los procedimientos de ADIF de gestión de averías no se detalla la coordinación de diferentes equipos ni la definición del agente habilitado y el responsable técnico.",
+   "Falta de coordinación entre los distintos contratos de mantenimiento que afectan a diferentes subsistemas.",
+   "Ausencia de prescripciones en los documentos del contrato que obliguen a los contratistas a aplicar los Requisitos de Seguridad y sus mecanismos de supervisión."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en el desvío nº4 (reparación y sustitución de elementos) y en el tren (bogie, antena LZB, ventana).",
+  "afectacion_servicio": "Vía 1 interceptada durante 2 días y 3 horas. Tiempo perdido total de 590 minutos (9 horas y 50 minutos)."
+ },
+ "lecciones": [
+  "Necesidad de formalizar protocolos de verificación de agujas que incluyan comprobaciones más allá de las visuales y acústicas.",
+  "Importancia de asegurar la idoneidad, capacitación y experiencia del personal en trabajos correctivos urgentes.",
+  "Deficiencias en la coordinación entre diferentes contratos de mantenimiento y equipos (desvíos y señalización)."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas.",
+   "destinatario": "AESF (Implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación.",
+   "destinatario": "AESF (Implementador final: ADIF y ADIF-AV)"
+  },
+  {
+   "texto": "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF.",
+   "destinatario": "AESF (Implementador final: ADIF y ADIF-AV)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "desvio",
+  "falta de comprobacion",
+  "bifurcacion cerrato",
+  "mantenimiento",
+  "asfa",
+  "telefonema",
+  "errores humanos",
+  "coordinacion",
+  "alta velocidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES-6201 - 210520-200124-IF-CIAF"
+}

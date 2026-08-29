@@ -1,0 +1,208 @@
+{
+ "titulo_normalizado": "Descarrilamiento en plena vía por inundación y desbordamiento de cauces entre El Sorbito y Arahal (Sevilla)",
+ "idioma_original": "es",
+ "resumen": "El 29 de noviembre de 2017, el tren de media distancia 13901 de Renfe Viajeros descarriló en plena vía, en el p.k. 20+350 del trayecto El Sorbito-Arahal, línea 422, por desguarnecido de la vía tras una fuerte avenida de agua. La causa directa fue la alteración y deformación de la vía al sobrepasarla el agua procedente del desbordamiento del arroyo Alameda y del río Guadaira. El accidente dejó 31 heridos, 2 graves y 29 leves, y graves daños materiales. La investigación señala carencias en drenaje, identificación de puntos de riesgo y gestión de avisos hidrológicos.",
+ "hechos": "El día 29 de noviembre de 2017, a las 10:10 horas, el tren de viajeros de media distancia 13901, formado por el automotor 599.041 de tres vehículos y operado por Renfe Viajeros, descarriló en plena vía en el p.k. 20+350 del trayecto entre El Sorbito y Arahal, en la línea 422 Bif. Utrera a Fuente de la Piedra. El tren procedía de Málaga con destino Sevilla y, tras cumplir una limitación de velocidad a 30 km/h entre los p.k. 24+900 y 25+100, recuperó velocidad máxima permitida hasta circular a 143 km/h en el punto donde se inició el descarrilamiento.\n\nAntes del accidente, los trenes 13051 y 13920 comunicaron la existencia de una gran balsa de agua sobre la vía cerca del p.k. 25+000, lo que provocó la interrupción de la circulación entre El Sorbito y Arahal a las 7:45 horas. Tras el reconocimiento por Mantenimiento, la circulación se restableció a las 9:25 horas con limitación de velocidad a 5 km/h, elevada después a 30 km/h. El punto del descarrilamiento, en una zona baja próxima al puente sobre el arroyo Alameda, quedó inundado y perdió balasto y elementos de la superestructura por el arrastre del agua desbordada.\n\nEl tren recorrió 410 metros descarrilado y quedó detenido en el p.k. 19+940, con todos los ejes descarrilados excepto el primer eje del segundo bogie del vehículo de cabeza. Viajaban 59 personas y resultaron 31 heridas, 29 leves y 2 graves. Las carreteras cercanas estaban inundadas, por lo que parte de la evacuación sanitaria se realizó por medios aéreos y con ambulancias todoterreno. La vía permaneció interceptada hasta el 2 de diciembre de 2017 a las 9:00 horas, con limitaciones temporales de velocidad tras la reparación.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "20+350",
+  "linea": "422 Bif. Utrera a Fuente de la Piedra",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Trayecto entre las estaciones de El Sorbito y Arahal, municipio de Arahal, en zona de vía única, sin electrificar, próxima al puente sobre el arroyo Alameda y al paso superior del camino de acceso a la carretera A-394."
+ },
+ "cronologia": [
+  {
+   "hora": "07:10",
+   "evento": "El maquinista del tren 13051 informa al Puesto de Mando de Sevilla Santa Justa de una gran balsa de agua sobre la vía en el p.k. 25+500."
+  },
+  {
+   "hora": "07:17",
+   "evento": "El responsable de circulación del CTC prescribe marcha a la vista por acumulación de agua entre los p.k. 25+500 y 27+000 al tren 13920."
+  },
+  {
+   "hora": "07:36",
+   "evento": "El maquinista del tren 13920 encuentra una gran balsa de agua que cubre el carril entre los p.k. 25+000 y 25+200, circula a 10 km/h y recomienda interrumpir la circulación."
+  },
+  {
+   "hora": "07:45",
+   "evento": "Queda interrumpida la circulación entre El Sorbito y Arahal."
+  },
+  {
+   "hora": "09:25",
+   "evento": "Tras el reconocimiento de Mantenimiento, se restablece la circulación con limitación temporal de velocidad de 5 km/h entre los p.k. 24+900 y 25+100."
+  },
+  {
+   "hora": "09:40",
+   "evento": "Se eleva la limitación de velocidad entre los p.k. 24+900 y 25+100 a 30 km/h."
+  },
+  {
+   "hora": "10:04",
+   "evento": "Se notifica al maquinista del tren 13901, detenido en Arahal, la limitación de velocidad a 30 km/h entre los p.k. 24+900 y 25+100."
+  },
+  {
+   "hora": "10:10",
+   "evento": "Se produce el descarrilamiento del tren 13901 en el p.k. 20+350; el registrador sitúa el inicio del descarrilamiento a las 10:06:03."
+  },
+  {
+   "hora": "10:10",
+   "evento": "El puesto de mando de Sevilla Santa Justa es informado por el maquinista de que la composición está descarrilada y el coche de cola volcado."
+  },
+  {
+   "hora": "10:42",
+   "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF la producción del suceso."
+  },
+  {
+   "hora": "11:08",
+   "evento": "Sale un camión taller desde la base de Sevilla hacia el lugar del accidente."
+  },
+  {
+   "hora": "12:15",
+   "evento": "El tren 13900, sin viajeros, llega al p.k. afectado para socorro y evacuación."
+  },
+  {
+   "hora": "12:20",
+   "evento": "Se evacúa en helicóptero al primer herido grave al hospital Virgen del Rocío."
+  },
+  {
+   "hora": "13:12",
+   "evento": "Se evacúa en helicóptero al tercer herido grave al hospital Virgen del Rocío."
+  },
+  {
+   "hora": "13:40",
+   "evento": "Se comunica al Puesto de Mando que la vía está sin balasto y con ocho traviesas descolocadas en el p.k. 11+000 por otra avenida de agua."
+  },
+  {
+   "hora": "15:35",
+   "evento": "Concluye la evacuación de los heridos."
+  },
+  {
+   "hora": "16:02",
+   "evento": "Se autoriza al tren 13900 continuar vacío hasta la composición descarrilada."
+  },
+  {
+   "hora": "09:00",
+   "evento": "El 2 de diciembre de 2017 queda expedita la vía con limitaciones de velocidad de 30 km/h entre p.k. 19+900 y 20+500, y de 60 km/h entre p.k. 10+950 y 11+000."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13901",
+   "tipo": "tren de viajeros de media distancia",
+   "operador": "Renfe Viajeros",
+   "danos": "Daños importantes en los tres vehículos del automotor: enganches automáticos, captador ASFA, módulos neumáticos, baterías, carrocería, depósito de combustible, elementos de motores diésel, rodadura, bogies y ejes montados."
+  },
+  {
+   "numero": "13051",
+   "tipo": "tren de media distancia",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "13920",
+   "tipo": "tren de media distancia",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "13900",
+   "tipo": "tren sin viajeros",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista del tren 13901",
+   "implicacion": "Conducía el tren siniestrado; observó falta de balasto, accionó el freno de emergencia y notificó el suceso al Puesto de Mando. Pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "auxiliar de cabina del tren 13901",
+   "implicacion": "Decidió acompañar voluntariamente en cabina hasta El Sorbito; ayudó en la atención de viajeros heridos. Pruebas de alcohol y drogas negativas."
+  },
+  {
+   "rol": "responsable de circulación",
+   "implicacion": "Recibió avisos de balsas de agua, prescribió marcha a la vista, interrumpió y restableció la circulación y notificó limitaciones de velocidad."
+  },
+  {
+   "rol": "personal de mantenimiento",
+   "implicacion": "Reconoció la zona anegada, restableció la circulación con limitaciones de velocidad y participó en la reparación de la vía."
+  },
+  {
+   "rol": "Centro de Gestión de Red H24",
+   "implicacion": "Coordina la gestión del tráfico de la RFIG y recibe alertas meteorológicas de AEMET para emitir comunicados."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Bloqueo automático con control de tráfico centralizado (BAU con CTC), ASFA Digital y radiotelefonía Tren-Tierra.",
+  "tipo_via": "Vía única",
+  "velocidad_maxima": "160 km/h",
+  "ancho": "1.668 mm",
+  "electrificacion": "No electrificada",
+  "estado_via": "Vía desguarnecida por arrastre de balasto y capas de asiento a causa de la inundación y avenida de agua.",
+  "otro": "Carriles de 60 kg/m, traviesas de hormigón pretensado monobloque y balasto. Puente sobre el arroyo Alameda en p.k. 20+465; paso superior del camino de acceso a la carretera A-394 en p.k. 20+245; río Guadaira a 1.400 m en dirección Bif. Utrera."
+ },
+ "material_rodante": {
+  "series": "Automotor 599.041, serie 599, 3 vehículos, 157 toneladas, 76 metros, tipo 160 A",
+  "averia": "No se observa avería previa; los equipos de seguridad, rodadura, tracción y suspensión funcionaron correctamente. Los daños fueron consecuencia del descarrilamiento.",
+  "mantenimiento": null
+ },
+ "clima": "En el momento del suceso era de día, no llovía y la visibilidad era buena. Días anteriores y en la madrugada del 29 de noviembre se produjeron fuertes lluvias en las cuencas del río Guadaira y del arroyo Alameda, con precipitaciones medidas de 90,5 l/m2 en la estación SAIH M07 y 68,8 l/m2 en la estación P31, que provocaron desbordamientos y avenidas extraordinarias.",
+ "causas": {
+  "directa": "Súbita alteración y deformación de la vía, con desconsolidación y pérdida de elementos de la superestructura, al ser sobrepasada por la altura del agua debido a inundaciones por fuertes lluvias que ocasionaron el desbordamiento de los cauces próximos y el arrastre de materiales de la vía.",
+  "contribuyentes": [
+   "Inexistencia de obras específicas de drenaje o encauzamiento perimetral para salvaguardar la infraestructura frente a fuertes lluvias y avenidas.",
+   "Concurrencia en un punto bajo del terreno del puente sobre el arroyo Alameda, la vía férrea y el paso superior del camino de acceso a la carretera A-394.",
+   "Taludes del paso superior actuaron como muro de contención, favoreciendo el embalsamiento de agua.",
+   "Pilas intermedias esviadas en el puente sobre el arroyo Alameda redujeron la sección hidráulica y dificultaron el paso del caudal.",
+   "El punto del accidente no estaba incluido como punto de riesgo en la Ficha 2 del Manual de Prevención y Gestión de Incidencias.",
+   "Las alertas de AEMET por precipitaciones no permitían conocer puntualmente la afección sobre caudales y avenidas.",
+   "La información del SAIH de la Confederación Hidrográfica del Guadalquivir no estaba canalizada de forma inmediata ni interpretada respecto a la vía férrea.",
+   "La previsión de AEMET no fue acorde con la intensidad real de las precipitaciones registradas."
+  ],
+  "sistemicas": [
+   "Falta de identificación metódica de zonas inundables con afección a las vías férreas de la RFIG.",
+   "Carencias del Plan de Contingencias para abordar fenómenos meteorológicos y hidrológicos similares al ocurrido.",
+   "Insuficiencia de procedimientos para coordinar e interpretar avisos de avenidas o crecidas de confederaciones hidrográficas.",
+   "Deficiencias en el diseño original de la variante ferroviaria respecto a condiciones topográficas, hidrológicas e hidráulicas."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 2,
+  "heridos_leves": 29,
+  "danos_materiales": "Daños importantes en los tres vehículos del automotor 599.041 y daños en la infraestructura en los 400 metros recorridos descarrilado, además de desguarnecido de la vía en unos 150 metros alrededor del cauce del arroyo Alameda.",
+  "afectacion_servicio": "Vía interceptada desde las 10:10 horas del 29 de noviembre de 2017 hasta las 9:00 horas del 2 de diciembre de 2017, 70 horas y 50 minutos. Fueron transbordados 5 trenes de media distancia, suprimidos 22 trenes y se acumularon 272 minutos de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Diseñar un protocolo para la identificación y revisión de puntos y tramos con riesgo de inundación por desbordamiento de ríos y arroyos que puedan afectar a las vías férreas.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  },
+  {
+   "texto": "Estudiar la implantación de un protocolo o procedimiento operativo para coordinar las informaciones sobre posibles avenidas o crecidas de los cauces fluviales detectadas por las confederaciones hidrográficas, que puedan afectar a las vías férreas, y la interpretación de esos datos.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  },
+  {
+   "texto": "Estudiar la modificación del Manual de Prevención y Gestión de Incidencias (Ficha II) del Plan de Contingencias en lo relacionado con el tratamiento de las lluvias y de los fenómenos extraordinarios que acontecen.",
+   "destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "inundación",
+  "avenida de agua",
+  "desbordamiento",
+  "drenaje",
+  "puntos de riesgo",
+  "plan de contingencias",
+  "aemet",
+  "confederación hidrográfica",
+  "adif",
+  "renfe viajeros",
+  "línea 422"
+ ],
+ "v3_completo": true,
+ "id": "ES-200124-291117-IF-SN_CIAF"
+}

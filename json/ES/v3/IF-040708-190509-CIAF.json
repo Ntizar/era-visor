@@ -1,0 +1,187 @@
+{
+ "titulo_normalizado": "Conato de colisión entre tren de cercanías y tren de mercancías en la estación de Sant Celoni por manipulación errónea de señal avanzada durante sustitución de enclavamiento",
+ "idioma_original": "es",
+ "resumen": "El 4 de julio de 2008 a las 21:59, el tren de cercanías 25461, procedente de Llinars del Vallés, accedió al cantón donde se encontraba detenido el tren de mercancías 91361 tras pasar por la señal avanzada 1551 en indicación de anuncio de parada (amarillo) cuando debía estar en parada. El incidente se produjo durante los trabajos de sustitución del enclavamiento eléctrico de Sant Celoni por uno electrónico y la sustitución del BAD con CTC por un BAB con CTC. No hubo víctimas ni daños materiales. La causa fue el incumplimiento de la Consigna ATO nº 91-CTO nº 92 y una manipulación errónea en la cabina del enclavamiento.",
+ "hechos": "El día 4 de julio de 2008, en la cabecera sur (lado Barcelona) de la estación de Sant Celoni, se realizaban trabajos de sustitución del enclavamiento eléctrico por uno electrónico y la sustitución del BAD con CTC por un nuevo BAB con CTC entre Sant Celoni y Riells i Viabrea-Breda. A las 21:59, el tren de viajeros de cercanías 25461 (automotores 447036 en cabeza y 447065 en cola, 6 coches, 432 toneladas), procedente de Llinars del Vallés, hizo su entrada en la estación pasando por la señal avanzada 1551, que se encontraba en estado de anuncio de parada (amarillo), accediendo al cantón donde estaba detenido el tren de mercancías 91361 (locomotora 250027, 20 vagones, 722 toneladas) a la altura de la señal de entrada en situación de parada, produciéndose un conato de colisión. El maquinista detuvo su marcha entre la señal avanzada y la señal de entrada E1 sin llegar a colisionar.\n\nLa señal avanzada presentaba erróneamente el aspecto de anuncio de parada porque, durante los trabajos, algún operario de la empresa instaladora manipuló incorrectamente los dispositivos del enclavamiento, dando aspecto amarillo a la señal avanzada sin tener el circuito de vía en funcionamiento, cuando el circuito de vía estaba ocupado por el tren 91361. En la cabina del enclavamiento no se encontraba ninguna persona de Adif supervisando el trabajo del personal de la empresa instaladora.\n\nTras el incidente, el CTC, al recibir aviso del maquinista, llamó a la estación para verificar si el tren 91361 había pasado. Se acordó poner la señal avanzada en indicación de parada. A partir del conato, el jefe del CTC notificó a los maquinistas de todos los trenes por la vía impar que la señal avanzada 1551 presentaba avería en el cierre, debiendo proceder como si diera indicación de parada. A las 23:00 el Gerente Territorial de Seguridad en la Circulación de Renfe Operadora se enteró de lo sucedido y contactó con el Gerente de Seguridad de Adif, que tampoco tenía noticia.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Sant Celoni",
+  "pk": "156,9",
+  "linea": "270 Portbou-Cerbere-Barcelona Sant Andreu Comtal",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Cabecera sur (lado Barcelona) de la estación de Sant Celoni, a la entrada de la estación, entre la señal avanzada 1551 y la señal de entrada E1. Tramo Granollers Centre-Sant Celoni (entre Llinars del Vallés y Sant Celoni)."
+ },
+ "cronologia": [
+  {
+   "hora": "2008-06-09",
+   "evento": "Fecha de la Consigna ATO nº 91 - CTO nº 92 que regula los trabajos de sustitución del enclavamiento"
+  },
+  {
+   "hora": "2008-07-04",
+   "evento": "Inicio de los trabajos de sustitución del enclavamiento eléctrico por electrónico y del BAD con CTC por BAB con CTC en Sant Celoni"
+  },
+  {
+   "hora": "21:59",
+   "evento": "El tren de cercanías 25461 pasa la señal avanzada 1551 en anuncio de parada (amarillo) y accede al cantón del tren de mercancías 91361 detenido, produciéndose el conato de colisión"
+  },
+  {
+   "hora": null,
+   "evento": "El maquinista detiene su marcha entre la señal avanzada y la señal de entrada E1 sin colisionar"
+  },
+  {
+   "hora": null,
+   "evento": "El CTC recibe aviso del maquinista y llama a la estación para verificar si el 91361 había pasado; se acuerda poner la señal avanzada en indicación de parada"
+  },
+  {
+   "hora": null,
+   "evento": "El jefe del CTC notifica a los maquinistas de todos los trenes por la vía impar que la señal avanzada 1551 presenta avería en el cierre"
+  },
+  {
+   "hora": "23:00",
+   "evento": "El Gerente Territorial de Seguridad en la Circulación de Renfe Operadora se entera del incidente y contacta con el Gerente de Seguridad de Adif"
+  },
+  {
+   "hora": "2008-08-21",
+   "evento": "El Responsable de Seguridad de Renfe Operadora entrega su informe particular del incidente"
+  },
+  {
+   "hora": "2008-09-30",
+   "evento": "El Presidente de la CIAF resuelve abrir la investigación del incidente"
+  },
+  {
+   "hora": "2008-10-08",
+   "evento": "El Gerente Territorial de Seguridad en la Circulación Noreste de Adif entrega su informe particular"
+  },
+  {
+   "hora": "2009-05-19",
+   "evento": "Pleno de la CIAF aprueba el informe final y las recomendaciones"
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "25461",
+   "tipo": "cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Sin daños"
+  },
+  {
+   "numero": "91361",
+   "tipo": "mercancías",
+   "operador": null,
+   "danos": "Sin daños"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 25461 (Renfe Operadora)",
+   "implicacion": "Pasó la señal avanzada en anuncio de parada y accedió al cantón ocupado; detuvo la marcha antes de colisionar"
+  },
+  {
+   "rol": "Ingeniero de pruebas de puesta en servicio (empresa instaladora)",
+   "implicacion": "Afirmó que el circuito de vía de la señal avanzada no se levantó; según su declaración, recibió orden del encargado de los trabajos de dar el aspecto amarillo a la señal"
+  },
+  {
+   "rol": "Técnico de instalaciones de la Gerencia Operativa de Barcelona (Adif), encargado de los trabajos (matrícula 8812107)",
+   "implicacion": "Solicitó y obtuvo autorización de los trabajos; indicó que la señal avanzada debía presentar parada al estar ocupado el circuito de vía; negó haber dado orden de desocupar el circuito; tras confirmarse el aspecto amarillo, dio orden de quitar fusibles de las lámparas y reponer la roja"
+  },
+  {
+   "rol": "Factor de Circulación / Jefe de Circulación de Sant Celoni (Adif, matrícula 8656414)",
+   "implicacion": "Concedió los trabajos al técnico de la G.O.B."
+  },
+  {
+   "rol": "Jefe de Bloqueos de la Dirección de Programación de Instalaciones (Adif, matrícula 9657537)",
+   "implicacion": "No se encontraba allí; no obtuvo respuesta de la empresa instaladora; cree que la causa fue un error en la preparación de los trabajos"
+  },
+  {
+   "rol": "Jefe del CTC (Adif, matrícula 8916884)",
+   "implicacion": "Autorizó los trabajos; entregó el mando local al Jefe de Circulación; notificó a los maquinistas la avería de la señal avanzada"
+  },
+  {
+   "rol": "Encargado de Sector de Instalaciones de Seguridad Eléctricas (I.S.E.) de Granollers Centre (Adif, matrícula 8810723)",
+   "implicacion": "Recibió órdenes del encargado de los trabajos; ignora la causa de lo sucedido"
+  },
+  {
+   "rol": "Técnico de instalaciones de Seguridad y Telecomunicaciones de la Gerencia de Coordinación de Inversiones Noreste (Adif, matrícula 779908-3)",
+   "implicacion": "No se encontraba allí; reconoce al técnico de la G.O.B. como responsable de los trabajos"
+  },
+  {
+   "rol": "Director de la Obra (empresa instaladora)",
+   "implicacion": "Descarta actuación errónea de ningún operario; manifiesta que los trabajos son supervisados por Adif vía interlocutor del Jefe de Circulación"
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal avanzada 1551 (nueva E'1) en indicación de anuncio de parada (amarillo) cuando debía estar en parada; señal de entrada E1 en situación de parada",
+  "tipo_via": "Vía doble electrificada",
+  "velocidad_maxima": null,
+  "ancho": null,
+  "electrificacion": "Electrificada",
+  "estado_via": "En trabajos de sustitución del enclavamiento eléctrico por electrónico y del BAD con CTC por BAB con CTC entre Sant Celoni y Riells i Viabrea-Breda",
+  "otro": "Enclavamiento eléctrico en proceso de sustitución por enclavamiento electrónico; BAD con CTC sustituyéndose por BAB con CTC; radiotelefonía modalidad A; ASFA en funcionamiento correcto"
+ },
+ "material_rodante": {
+  "series": "Automotores 447036 (cabeza) y 447065 (cola), serie 447, 6 coches, 432 t; locomotora 250027 con 20 vagones, 722 t",
+  "averia": "Sin avería en material rodante; equipos de seguridad (freno, ASFA) funcionaron correctamente",
+  "mantenimiento": null
+ },
+ "clima": "Tiempo atmosférico despejado",
+ "causas": {
+  "directa": "Incumplimiento de la Consigna ATO nº 91-CTO nº 92, punto 2.3, párrafo 11: mientras no estén reajustados eléctricamente los nuevos circuitos de vía, las señales afectadas deben ordenar parada. La señal avanzada 1551 presentó erróneamente anuncio de parada (amarillo) cuando el circuito de vía que la protegía estaba ocupado por el tren 91361.",
+  "contribuyentes": [
+   "Manipulación errónea en la cabina del enclavamiento por algún operario de la empresa instaladora, dando aspecto amarillo a la señal avanzada sin tener el circuito de vía en funcionamiento",
+   "Falta de coordinación entre las diferentes personas implicadas en la ejecución de los trabajos y los responsables del mantenimiento de la circulación",
+   "No se encontraba en la cabina del enclavamiento ninguna persona de Adif supervisando el trabajo del personal de la empresa instaladora",
+   "La consigna ATO nº 91-CTO nº 92 no especificaba claramente quién era la única persona interlocutora con el Jefe de Circulación ni cómo se aseguraba la coordinación",
+   "Deficiencia en el accionamiento de los sistemas de control, mando y señalización"
+  ],
+  "sistemicas": [
+   "Consignas para trabajos de gran envergadura en instalaciones de seguridad no especifican claramente el interlocutor único con el Jefe de Circulación",
+   "Elevado número de personas implicadas en la ejecución de este tipo de trabajos aumenta el riesgo por fallo humano",
+   "Trabajos en bloqueos automáticos se ejecutan sin supresión del tráfico ni establecimiento de Bloqueo Telefónico",
+   "Ausencia de protocolo común de actuación que garantice la perfecta coordinación y la cadena de transmisión de órdenes"
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Sin daños en el material rodante, la infraestructura ni el medio ambiente",
+  "afectacion_servicio": "Notificación a los maquinistas de todos los trenes por la vía impar de que la señal avanzada 1551 presentaba avería en el cierre; se puso la señal avanzada en indicación de parada"
+ },
+ "lecciones": [
+  "Las consignas de trabajos en instalaciones de seguridad deben especificar claramente el interlocutor único con el Jefe de Circulación",
+  "Los trabajos en bloqueos automáticos con tráfico activo entrañan alto riesgo por fallo humano y deben programarse en bandas de mantenimiento o suprimir el tráfico",
+  "Es imprescindible la presencia de personal de Adif supervisando los trabajos de la empresa instaladora en la cabina del enclavamiento",
+  "Se requiere un protocolo común de actuación que garantice la coordinación y la cadena de transmisión de órdenes",
+  "El incidente tuvo un antecedente similar: el 21/05/04 en Linarejos-Pedroso, accidente por fallo humano en trabajos en Instalaciones de Seguridad"
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Las consignas editadas para regular los trabajos de gran envergadura en las instalaciones de seguridad, especialmente si se han de compatibilizar con la circulación de los trenes, deberán especificar claramente quién es la 'única' persona responsable, de entre los distintos departamentos que participan en ellos, de las comunicaciones con el Jefe de Circulación, último y máximo responsable de autorizar o suspender la ejecución de dichos trabajos, estableciendo además la forma en que este agente le informará sobre las instalaciones de seguridad afectadas en cada fase y las limitaciones en la explotación que conllevan para que el Jefe de Circulación pueda determinar cuáles deben ser las medidas a tomar para garantizar la seguridad de la circulación.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Debido al elevado número de personas implicadas en la ejecución de este tipo de trabajos el riesgo por fallo humano resulta alto pudiéndose crear situaciones de peligro para la seguridad de las circulaciones, especialmente en el caso de los bloqueos automáticos, por lo que su realización debe programarse en las bandas de mantenimiento o contemplarse incluso la supresión total del tráfico en el trayecto afectado por los mismos estudiándose itinerarios alternativos para los trenes. En el caso de que esto no sea posible, deberá establecerse el Bloqueo Telefónico para garantizar la existencia de un único tren en el trayecto.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Los distintos departamentos que participan en la ejecución de los trabajos tendrán que elaborar un protocolo común de actuación que garantice la perfecta coordinación de las actividades a realizar y la cadena de transmisión de las órdenes entre el interlocutor responsable de la comunicación con el Jefe de Circulación y los equipos de trabajo.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "conato de colisión",
+  "señal avanzada",
+  "anuncio de parada",
+  "sustitución enclavamiento",
+  "trabajos instalaciones seguridad",
+  "fallo humano",
+  "circuito de vía",
+  "consigna ATO CTO",
+  "Sant Celoni",
+  "cercanías",
+  "mercancías",
+  "ASFA"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-040708-190509-CIAF"
+}

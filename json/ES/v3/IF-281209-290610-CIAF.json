@@ -1,0 +1,142 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren de media distancia 13924 en la estación de Pedrera (Sevilla) por autorización indebida de rebase de señal con agujas mal dispuestas",
+ "idioma_original": "es",
+ "resumen": "El 28 de diciembre de 2009 a las 20:10 h, el tren de media distancia 13924 de Renfe Operadora descarriló en el PK 94+716 de la estación de Pedrera (Sevilla) al pasar por el cambio nº 6, con el primer coche completo y el primer bogie del segundo coche fuera de la vía. El accidente se originó por la autorización indebida de rebase de la señal de entrada E2 en condiciones normales, cuando dicha señal no podía abrirse porque el comprobador mecánico de posición de agujas lo impedía, dada la incorrecta posición de las agujas para el itinerario previsto. La responsable de circulación no verificó esta circunstancia antes de dar la autorización. No hubo víctimas mortales ni heridos. Los daños materiales en infraestructura ascendieron a 9.883 euros.",
+ "hechos": "El día 28 de diciembre de 2009, a las 20:10 horas, el tren de viajeros de media distancia 13924 de Renfe Operadora, procedente de Sevilla y con destino Almería, circulaba normalmente por la línea Bif. Utrera–Fuente de Piedra. Al aproximarse a la estación de Pedrera (Sevilla), se detuvo ante la señal de entrada E2, que se encontraba en indicación de parada. La responsable de circulación estableció itinerario de entrada a vía 1, pero la señal E2 no se abría porque el comprobador mecánico de posición de agujas lo impedía, al no acoplar correctamente el espadín derecho de la aguja nº 6 en la contraaguja curva del cambio. Pese a ello, la responsable de circulación autorizó al maquinista mediante telefonema el rebase de la señal E2 en condiciones normales de circulación (marcha normal), sin verificar la posición de las agujas del itinerario. El tren reanudó la marcha y, al pasar por el cambio nº 6 en el PK 94+716, se produjo el descarrilamiento del primer coche completo y el primer bogie del segundo coche. El tren quedó detenido 20 metros más adelante (PK 94+772) tras aplicar el freno de emergencia y recorrer esa distancia en 8 segundos, circulando a 24 km/h en el momento del accidente.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Pedrera",
+  "pk": "94+716",
+  "linea": "244 Bif. Utrera – Fuente de Piedra (también referida como 422 en el resumen)",
+  "provincia": "Sevilla",
+  "descripcion_lugar": "Estación de Pedrera, lado Sevilla, a la altura del cambio nº 6, vía 1 (vía general). Tramo Osuna – Bif. Málaga."
+ },
+ "cronologia": [
+  {
+   "hora": "20:08:32",
+   "evento": "El maquinista se pone en contacto por radiotelefonía con la responsable de circulación tras detenerse ante la señal E2 en parada."
+  },
+  {
+   "hora": "20:09:44",
+   "evento": "El tren reanuda la marcha tras recibir autorización de rebase de E2 en condiciones normales (marcha normal) mediante telefonema."
+  },
+  {
+   "hora": "20:10",
+   "evento": "Se produce el descarrilamiento del primer coche completo y primer bogie del segundo coche al pasar por el cambio nº 6 en PK 94+716. El tren circula a 24 km/h."
+  },
+  {
+   "hora": "20:10:47",
+   "evento": "El maquinista aplica el freno de emergencia tras notar un golpe en el cambio nº 6."
+  },
+  {
+   "hora": "20:10:55",
+   "evento": "El tren queda detenido en PK 94+772, tras recorrer 20 metros y transcurrir 8 segundos desde la aplicación del freno."
+  },
+  {
+   "hora": "22:15",
+   "evento": "Prueba de alcoholemia a la responsable de circulación: resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "23:10",
+   "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/1000 ml)."
+  },
+  {
+   "hora": "23:20",
+   "evento": "Toma de declaración de la responsable de circulación de la estación de Pedrera."
+  },
+  {
+   "hora": null,
+   "evento": "El 29/12/2009 a las 10:37 h, el jefe de investigación de Adif comunica el accidente a la CIAF por correo electrónico."
+  },
+  {
+   "hora": null,
+   "evento": "El 26/01/2010, la CIAF resuelve abrir la investigación en pleno."
+  },
+  {
+   "hora": null,
+   "evento": "El 30/12/2009 se realiza comprobación de la infraestructura: las instalaciones funcionan correctamente."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "13924",
+   "tipo": "Viajeros media distancia, autopropulsado, Tipo 160D, 3 coches, 167 Tn masa remolcada, Nº UIC 967195980180",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento del primer coche completo y primer bogie del segundo coche. No se dispone de datos de daños al material móvil."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de circulación (factora) de la estación de Pedrera, matrícula 2538001, sustituta por vacaciones del titular",
+   "implicacion": "Autorizó indebidamente el rebase de la señal E2 en condiciones normales sin verificar la posición de las agujas del itinerario, incumpliendo el artículo 278 del RGC. Habilitada conforme a Orden FOM/2520/2006; último reciclaje formativo 04/05/2009; último reconocimiento médico y psicotécnico 22/09/2008. Jornada del día 28: 4 h 55 min. Alcoholemia negativa."
+  },
+  {
+   "rol": "Maquinista principal del tren 13924, matrícula 9722133",
+   "implicacion": "Recibió autorización de rebase en condiciones normales y la ejecutó. Detuvo el tren con freno de emergencia al notar un golpe en el cambio nº 6. Título B de conducción, habilitado conforme a Orden FOM/2520/2006; último reciclaje formativo 22/04/2008; último reconocimiento médico y psicotécnico 23/05/2005. Jornada del día 28: 8 h 49 min (5 h 26 min conducción). Alcoholemia negativa."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E2 en indicación de parada; señal de avanzada en anuncio de parada. La señal E2 no podía abrirse por el comprobador mecánico de posición de agujas.",
+  "tipo_via": "Vía única no electrificada, bloqueo telefónico (B.T.), perfil en recta, traviesas de madera en buen estado, ancho convencional.",
+  "velocidad_maxima": "100 km/h para trenes tipo 160 en el tramo; sin limitación de velocidad en el momento del accidente. Velocidad del tren en el momento del descarrilamiento: 24 km/h.",
+  "ancho": "Convencional",
+  "electrificacion": "No electrificada",
+  "estado_via": "Buen estado. Comprobación posterior del 30/12/2009: instalaciones funcionan correctamente.",
+  "otro": "Enclavamiento parcial mediante cerraduras Bouré, con accionamiento de agujas 5 y 6 a distancia por palancas. Comprobador mecánico de posición tipo intermedio en agujas 5 y 6 para impedir que las señales de entrada autoricen movimientos si no acoplan los espadines. Radiotelefonía modalidad C. Tramo con 132 circulaciones semanales de media distancia (baja densidad)."
+ },
+ "material_rodante": {
+  "series": "Autopropulsado 598018, Tipo 160D, Nº UIC 967195980180, 3 coches, 167 Tn masa remolcada",
+  "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente. Las mediciones de parámetros de ruedas se encontraban dentro de norma.",
+  "mantenimiento": "No se menciona información específica sobre mantenimiento."
+ },
+ "clima": "Noche, con lluvia intensa.",
+ "causas": {
+  "directa": "Autorización indebida de rebase de la señal de entrada E2 en condiciones normales de circulación, cuando la señal no podía abrirse porque el comprobador mecánico de posición de agujas lo impedía, dada la incorrecta posición de las agujas para el itinerario previsto, sin verificarse por la responsable de circulación esta circunstancia.",
+  "contribuyentes": [
+   "El espadín derecho de la aguja nº 6 no acopló perfectamente en la contraaguja curva del cambio, impidiendo la apertura de la señal E2.",
+   "Se desconoce la causa del mal acoplamiento puntual del cambio nº 6.",
+   "La responsable de circulación era sustituta por vacaciones del titular, con menor experiencia en estas instalaciones.",
+   "Incumplimiento del artículo 278 del Reglamento General de Circulación por parte de la responsable de circulación (no comprobó la posición de las agujas antes de autorizar el rebase)."
+  ],
+  "sistemicas": [
+   "Necesidad de acciones formativas específicas sobre la ejecución de itinerarios en enclavamientos parciales con cerraduras Bouré, fundamentalmente para agentes nuevos y sin experiencia en estas instalaciones.",
+   "Antecedentes de sucesos similares en la misma estación: descarrilamientos el 27/08/2007 y el 08/11/2008 por fallo humano al establecer el itinerario.",
+   "Suceso similar en la estación de El Rebollar (Valencia), expediente 46/09, el 28/08/2009, por error del responsable de circulación al manipular enclavamientos gestionados mediante cerradura Bouré."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Infraestructura: 9.883 euros (valoración Adif). Material móvil: no se dispone de datos.",
+  "afectacion_servicio": "Circulación interrumpida entre Osuna y Fuente de Piedra desde las 20:10 del 28/12/2009 hasta las 18:20 del 29/12/2009 (aproximadamente 22 horas). Los viajeros fueron evacuados a la estación de Pedrera y continuaron viaje por carretera."
+ },
+ "lecciones": [
+  "Ante la imposibilidad de abrir una señal con itinerario establecido, es imprescindible verificar la posición de las agujas antes de autorizar el rebase de la señal.",
+  "El incumplimiento del artículo 278 del RGC (no comprobación de la posición de agujas) puede derivar en un descarrilamiento.",
+  "Los agentes sustitutos sin experiencia en enclavamientos parciales con cerraduras Bouré requieren formación específica sobre la ejecución de itinerarios en estas instalaciones.",
+  "La existencia de comprobadores mecánicos de posición de agujas es un elemento de seguridad que impide la apertura de señales en condiciones inseguras, pero puede llevar a interpretaciones erróneas si el personal no comprende su función."
+ ],
+ "recomendaciones": [
+  {
+   "texto": "Realizar acciones formativas específicas sobre la ejecución de itinerarios en este tipo de enclavamientos, fundamentalmente para agentes nuevos y sin experiencia en estas instalaciones.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "estacion",
+  "pedrera",
+  "sevilla",
+  "media distancia",
+  "renfe operadora",
+  "adif",
+  "enclavamiento bouré",
+  "autorización indebida",
+  "señal e2",
+  "cambio nº 6",
+  "comprobador mecánico de agujas"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-281209-290610-CIAF"
+}

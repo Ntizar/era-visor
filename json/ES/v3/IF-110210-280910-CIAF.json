@@ -1,0 +1,116 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 27239 en la estación de Pinar de Las Rozas por deficiencias en el desvío nº 6",
+ "idioma_original": "es",
+ "resumen": "El 11 de febrero de 2010, a las 19:10, el tren de cercanías 27239 de Renfe Operadora descarriló en la estación de Pinar de Las Rozas, P.K. 20+658 de la línea 100 Madrid-Hendaya. El descarrilamiento afectó al primer bogie del segundo coche al pasar por el cambio nº 6, sin víctimas mortales ni heridos. La investigación atribuye el origen a un fallo técnico de la vía: deficiente sujeción del carril de unión del desvío y ancho de vía superior al máximo permitido. Se produjeron daños materiales en tren e infraestructura e importantes afecciones al servicio durante la noche.",
+ "hechos": "El día 11 de febrero de 2010, el tren de viajeros de cercanías 27239 de Renfe Operadora, con origen en Guadalajara y destino Cercedilla, circulaba con normalidad y realizó parada comercial en la estación de Pinar de Las Rozas. Tras estacionarse en vía 7, reanudó la marcha con itinerario de salida de vía 7 a vía 1.\n\nAl pasar por el cambio nº 6, situado en el P.K. 20+658, lado Las Matas, descarriló el primer bogie del segundo coche de la composición. El tren se detuvo tras aplicar el freno de urgencia, sin invadir el gálibo de la vía contigua y con la catenaria en estado normal.\n\nNo hubo víctimas mortales ni heridos, aunque se produjeron daños en la infraestructura y en el material rodante, así como interceptaciones y desviaciones de tráfico en el tramo Pinar de Las Rozas-Las Matas. La velocidad del tren en el momento del descarrilamiento no superó los 28 km/h.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Pinar de Las Rozas",
+  "pk": "20+658",
+  "linea": "100 Madrid - Hendaya",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Cambio/desvío nº 6, lado Las Matas, tramo Pinar de Las Rozas – Las Matas, estación de Pinar de Las Rozas"
+ },
+ "cronologia": [
+  {
+   "hora": "19:05",
+   "evento": "El tren 27239 es recibido en la estación de Pinar de Las Rozas con la señal de entrada E7 en indicación de anuncio de precaución (verde-amarillo)."
+  },
+  {
+   "hora": "19:08",
+   "evento": "El tren reanuda la marcha tras parada comercial, con itinerario de salida de vía 7 a vía 1 y señal de salida S1/7 en preanuncio de parada."
+  },
+  {
+   "hora": "19:10",
+   "evento": "Se produce el descarrilamiento del primer bogie del segundo coche al pasar por el cambio nº 6, P.K. 20+658."
+  },
+  {
+   "hora": "19:08",
+   "evento": "El tren se detiene tras aplicar el maquinista el freno de urgencia, habiendo rebasado la aguja nº 6 en 81 metros."
+  },
+  {
+   "hora": "19:45",
+   "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF, por telefonía móvil, que se había producido el descarrilamiento."
+  },
+  {
+   "hora": null,
+   "evento": "El 23 de febrero de 2010, la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "27239",
+   "tipo": "tren de viajeros de cercanías, tipo 140N",
+   "operador": "Renfe Operadora",
+   "danos": "Daños en material rodante cuantificados en 14.524,01 €"
+  }
+ ],
+ "personal": [
+  {
+   "rol": "maquinista",
+   "implicacion": "Condujo el tren 27239; poseía título B de conducción y habilitación vigente; aplicó el freno de urgencia tras notar reacción anormal; prueba de alcoholemia negativa (0,00 mg/1000 ml) a las 21:00; no se detectó incumplimiento normativo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señal de entrada E7 en indicación de anuncio de precaución (verde-amarillo) y señal de salida S1/7 en indicación de preanuncio de parada con pantalla alfanumérica indicando 14 (velocidad de paso 140 km/h).",
+  "tipo_via": "Estación con múltiples vías; cambio/desvío nº 6; aparato de vía implicado de tipo A.",
+  "velocidad_maxima": "140 km/h",
+  "ancho": "ancho convencional",
+  "electrificacion": "electrificada",
+  "estado_via": "Deficiente estado de la sujeción del carril de unión del desvío nº 6; ancho de vía superior a 1.700 mm, llegando a 1.725 mm en tres traviesas consecutivas; desplazamiento de placas, mal estado de la clavazón, tirafondos flojos o ausentes.",
+  "otro": "Bloqueo automático banalizado (B.A.B.), control de tráfico centralizado (C.T.C.), radiotelefonía modalidad A; tráfico medio semanal del tramo Pinar de Las Rozas – Las Matas: 1.635 circulaciones."
+ },
+ "material_rodante": {
+  "series": "140N (composiciones 447133/447118), 6 coches, 432 toneladas de masa remolcada",
+  "averia": "Descarrilamiento del primer bogie del segundo coche; equipos de seguridad funcionaron correctamente; altura, espesor de pestaña y QR dentro de tolerancias.",
+  "mantenimiento": null
+ },
+ "clima": "Estable y despejado",
+ "causas": {
+  "directa": "Fallo técnico en las instalaciones de la vía: deficiente estado de la sujeción del carril de unión del desvío nº 6, así como valor del ancho de vía superior al máximo permitido.",
+  "contribuyentes": [
+   "Ancho de vía superior a 1.700 mm en 14 traviesas anteriores al talón de la aguja, llegando en la parte media a 1.725 mm en tres traviesas consecutivas.",
+   "Desplazamiento de placas, mal estado de la clavazón, tirafondos flojos e incluso ausencia de los mismos en el tramo de unión del desvío nº 6.",
+   "Defectos de sujeción detectados en la inspección a pie de los días 28 y 29 de octubre de 2009 en traviesas de unión doble números 14, 15, 17 y 23.",
+   "Últimas intervenciones de mantenimiento realizadas el 23 de marzo de 2009: sustitución de traviesas, rectificado del ancho y consolidación de la clavazón."
+  ],
+  "sistemicas": [
+   "Posible insuficiencia de los intervalos de mantenimiento de elementos de infraestructura análogos sometidos a fuertes solicitaciones o de la misma tipología.",
+   "Posible insuficiencia de inspecciones a pie de elementos de infraestructura con condiciones análogas a las de la estación de Pinar de Las Rozas."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Daños en material rodante: 14.524,01 €. Daños en infraestructura: 56.902,76 €.",
+  "afectacion_servicio": "Vía 1 entre Pinar de Las Rozas y Las Matas interceptada desde las 19:10 del día 11 hasta las 05:11 del día 12; vía 2 interceptada entre Las Matas y Pinar de Las Rozas desde las 00:14 hasta las 01:50 del día 12. Trenes pares desviados por Las Matas clasificación y trenes impares por vía 2 banalizada. Afectados 5 trenes de larga distancia con 111 minutos de retraso total; 14 de media distancia con 241 minutos; 45 de cercanías con 909 minutos; 1 de mercancías con 121 minutos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Analizar la viabilidad de acortar los intervalos de tiempo entre las actuaciones de mantenimiento de los elementos de la infraestructura análogos a los implicados en este accidente; es decir, sometidos a fuertes solicitaciones o de la misma tipología.",
+   "destinatario": "Adif"
+  },
+  {
+   "texto": "Analizar la viabilidad de incrementar las inspecciones a pie de los elementos de la infraestructura con condiciones análogas a los de la estación de Pinar de Las Rozas.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "renfe operadora",
+  "adif",
+  "desvío nº 6",
+  "ancho de vía",
+  "mantenimiento",
+  "inspección a pie",
+  "pinar de las rozas",
+  "cercanías",
+  "línea 100",
+  "tirafondos",
+  "seguridad ferroviaria"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF-110210-280910-CIAF"
+}
