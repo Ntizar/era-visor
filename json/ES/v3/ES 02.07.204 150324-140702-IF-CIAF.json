@@ -1,0 +1,206 @@
+{
+ "titulo_normalizado": "Incidente en plena vía por deformación de vía por inundación y arrastre de balasto entre Chinchilla y Bonete (Albacete)",
+ "idioma_original": "es",
+ "resumen": "El 2014-07-02 a las 19:40 horas, el tren 5172 de Renfe Operadora se detuvo en el PK 368+925 de la línea de alta velocidad 042 Bif. Albacete a Alicante, entre Chinchilla y Bonete (Albacete). El tren circulaba con marcha a la vista por acumulación de agua tras lluvias torrenciales localizadas. Al paso por el punto, la vía se deformó, la cabeza tractora se inclinó hasta unos 70 grados y dos ruedas quedaron sin contacto con el carril. No hubo víctimas, pero sí daños materiales en material rodante e infraestructura. La conclusión del informe es un fallo de infraestructura por insuficiencia del drenaje frente a la escorrentía.",
+ "hechos": "El tren 4100 de Renfe Operadora, que precedía al tren del suceso, circulaba por vía II a unos 200 km/h cuando activó el frenado de urgencia ASFA en una zona inundada y quedó detenido en el PK 370+000. A las 19:08 horas su maquinista informó al CRC de Albacete de la existencia de agua acumulada y de un cauce que cruzaba la vía por el PK 369+000.\n\nTras el aviso, el CRC prescribió al tren 5172, mediante telefonema, marcha a la vista y reconocimiento de la vía al paso por el PK 369+000. El tren 5172 circuló por vía I y redujo progresivamente la velocidad hasta unos 5 km/h; a las 19:40 horas su maquinista comunicó que el agua se llevaba el balasto lateral y ya circulaba debajo de las traviesas.\n\nAl pasar por el PK 368+925, bajo el paso superior PK 368+917, la vía se deformó, principalmente el carril izquierdo, y la cabeza tractora se inclinó. El maquinista frenó y detuvo el tren; posteriormente la cabeza alcanzó unos 70 grados respecto al plano horizontal y dos ruedas quedaron sin contacto con el carril. La tripulación trasladó a los viajeros a los coches de cola y solicitó la evacuación, que se completó por transbordo a otro tren.",
+ "lugar": {
+  "tipo": "plena_via",
+  "estacion": null,
+  "pk": "368+925",
+  "linea": "042 Bif. Albacete a Alicante",
+  "provincia": "Albacete",
+  "descripcion_lugar": "Plena vía, PK 368+925 entre Chinchilla AV y Bonete, municipio de Bonete, provincia de Albacete. El punto se encuentra bajo un paso superior carretero, PK 368+917, en alineación recta y pendiente de 13 milésimas."
+ },
+ "cronologia": [
+  {
+   "hora": "19:08",
+   "evento": "2014-07-02: el maquinista del tren 4100 informa al CRC de Albacete de la detención en PK 370+000, vía II, y de acumulación y cruce de agua por el PK 369+000."
+  },
+  {
+   "hora": "19:22",
+   "evento": "2014-07-02: el CRC llama al maquinista del tren 4100; el maquinista comunica que reconocerá el vehículo y sugiere que los trenes pasen a 50 km/h."
+  },
+  {
+   "hora": "19:24",
+   "evento": "2014-07-02: el CRC notifica al tren 5172, mediante telefonema 563, marcha a la vista y reconocimiento de la vía al paso por PK 369+000 por acumulación de agua."
+  },
+  {
+   "hora": "19:37",
+   "evento": "2014-07-02: en la moviola del CRC, el circuito posterior al CV 3674 sigue ocupado por el tren 4100 y el anterior al CV 3701 está ocupado por el tren 5172."
+  },
+  {
+   "hora": "19:38",
+   "evento": "2014-07-02: en la moviola del CRC, el circuito CV 3701 está ocupado por el tren 5172 mientras el tren 4100 sigue ocupando el circuito posterior al CV 3674."
+  },
+  {
+   "hora": "19:40",
+   "evento": "2014-07-02: el maquinista del tren 5172 informa al CRC de riada, arrastre de balasto y circulación a 5 km/h; poco después, circulando a 3 km/h bajo el paso superior, la vía se deforma y el tren se detiene en PK 368+925."
+  },
+  {
+   "hora": "19:43",
+   "evento": "2014-07-02: según el registrador de seguridad del tren 5172, el tren queda detenido en PK 368+925."
+  },
+  {
+   "hora": "20:15",
+   "evento": "2014-07-02: al tren 4100 detenido en vía II se le autoriza a proseguir la marcha con restricción de velocidad; el maquinista comunica que puede continuar sin ASFA."
+  },
+  {
+   "hora": "20:25",
+   "evento": "2014-07-02: el CRC autoriza al tren 4100 a circular a 5 km/h hasta estacionarse en Bonete; después se le autoriza al amparo de CCR 7 sin exceder 40 km/h hasta destino."
+  },
+  {
+   "hora": "20:31",
+   "evento": "2014-07-02: el jefe de investigación de accidentes de Adif comunica a la CIAF la producción del suceso."
+  },
+  {
+   "hora": "21:45",
+   "evento": "2014-07-02: llega un tren al PK 368+000 de vía II para el transbordo de los viajeros del tren 5172."
+  },
+  {
+   "hora": "21:50",
+   "evento": "2014-07-02: comienza el transbordo de viajeros del tren 5172 a otro tren."
+  },
+  {
+   "hora": "22:25",
+   "evento": "2014-07-02: finaliza el transbordo y el tren continúa el viaje hasta Alicante."
+  },
+  {
+   "hora": "23:10",
+   "evento": "2014-07-02: se hace necesaria la presencia de grúa y tren taller para nivelar la cabeza tractora; el informe indica que a esa hora queda apartado el tren 5272 en la vía 3 de Chinchilla."
+  },
+  {
+   "hora": "23:45",
+   "evento": "2014-07-02: el tren 5212 pasa por el PK del suceso a paso de hombre, acompañado por personal de mantenimiento para reconocimiento."
+  },
+  {
+   "hora": "06:40",
+   "evento": "2014-07-03: se restablece la circulación por vía II entre PK 368+000 y 368+900 con limitación de 60 km/h por protección de trabajos."
+  },
+  {
+   "hora": "06:40",
+   "evento": "2014-07-05: se restablece la circulación por vía I con limitación de 30 km/h en la zona del suceso."
+  },
+  {
+   "hora": null,
+   "evento": "2014-07-14: el Pleno de la CIAF acuerda abrir la investigación del incidente."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "4100",
+   "tipo": "Tren de alta velocidad",
+   "operador": "Renfe Operadora",
+   "danos": "Rotura del captador ASFA y desacoplamiento de mangas de aire; continúa marcha sin ASFA."
+  },
+  {
+   "numero": "5172",
+   "tipo": "Tren de viajeros de alta velocidad, material Alstom serie 100",
+   "operador": "Renfe Operadora",
+   "danos": "Pequeños daños en motriz de cabeza (caja y bogies), valoración 48.700 € sin IVA; cabeza tractora inclinada hasta unos 70 grados y dos ruedas sin contacto con el carril."
+  },
+  {
+   "numero": "5212",
+   "tipo": "Tren que pasó a paso de hombre para reconocimiento",
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Responsable de circulación de Adif (matrícula 9705633, CRC Albacete)",
+   "implicacion": "Habilitado conforme a Orden FOM/2872/2010; antigüedad desde 2013-01-01; reciclaje formativo 2014-04-09; reconocimiento médico y psicotécnico 2013-01-29. Recibió avisos, prescribió marcha a la vista, activó protocolo de avisos y coordinó la evacuación y el transbordo. Jornada el día 2: 5 h 43 min (14:00-22:00)."
+  },
+  {
+   "rol": "Maquinista del tren 4100 (matrícula 9756479)",
+   "implicacion": "Título B de conducción; habilitado conforme a Orden FOM/2520/2006; antigüedad desde 2010-12-02; curso formativo 2014-01-24; reconocimiento médico y psicotécnico 2010-04-21. Sufrió activación de urgencia ASFA por paso por zona inundada, informó al CRC, reconoció el vehículo, subsanó averías y continuó con restricciones. Jornada el día 2: 6 h 14 min, con 3 h 24 min de conducción efectiva."
+  },
+  {
+   "rol": "Maquinista del tren 5172 (matrícula 9692492)",
+   "implicacion": "Título B de conducción; habilitado conforme a Orden FOM/2520/2006; antigüedad desde 1991-09-26; curso formativo 2012-04-18; reconocimiento médico y psicotécnico 2012-12-12. Circuló con marcha a la vista, redujo velocidad, informó al CRC del estado de la vía, frenó al deformarse la vía y participó en la evacuación de viajeros. Jornada el día 2: 8 h 45 min, con 6 h 2 min de conducción efectiva hasta el incidente."
+  },
+  {
+   "rol": "Interventor del tren 5172",
+   "implicacion": "Participó con el maquinista y la tripulación en la evacuación y en la preparación del transbordo."
+  },
+  {
+   "rol": "Tripulación del tren 5172",
+   "implicacion": "Ayudó a trasladar viajeros a los vagones de cola, transmitió tranquilidad a los pasajeros y colaboró en la pasarela y el transbordo."
+  },
+  {
+   "rol": "Personal de mantenimiento de Adif",
+   "implicacion": "Recibió comunicación de los hechos, acompañó el reconocimiento realizado por el tren 5212 y participó en la protección de trabajos."
+  },
+  {
+   "rol": "Guardia Civil",
+   "implicacion": "Acudió al lugar de los hechos tras activarse el protocolo de avisos."
+  },
+  {
+   "rol": "Protección Civil",
+   "implicacion": "Acudió al lugar de los hechos y colaboró en la evacuación y el transbordo."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ERTMS nivel 2, bloqueo de señalización lateral (BSL) y sistema ASFA; comunicaciones GSMR. La señalización funcionó correctamente; en los circuitos de vía afectados por el agua no se acusó ocupación. Circuitos citados: CV 3674 en vía II y CV 3701 en vía I.",
+  "tipo_via": "Alta velocidad, doble vía, electrificado y de ancho estándar.",
+  "velocidad_maxima": "300 km/h",
+  "ancho": "Estándar",
+  "electrificacion": "Electrificado",
+  "estado_via": "Zona inundada y dañada; deformación del carril izquierdo y pérdida de balasto bajo el eje 1 del primer bogie de la motriz. Circulación suspendida entre Bonete y Chinchilla; restablecida después con limitaciones de velocidad.",
+  "otro": "Control de tráfico desde CRC de Albacete. PK 368+925 bajo paso superior carretero PK 368+917, alineación recta y pendiente de 13 milésimas. Drenaje: cuneta longitudinal, cambio de sección de cuneta y muro interior bajo el paso superior; no existía drenaje transversal próximo al paso superior; obras de drenaje transversal en PK 367+150 (tubo Ø 1,0 m) y PK 368+090 (2 tubos Ø 1,0 m). Tráfico medio semanal del tramo Chinchilla AV-Bonete AV: 95 circulaciones, 91 de larga distancia y 4 de servicio. No se habían detectado ni denunciado anormalidades de drenaje; limpieza de cuneta como punto permanente en acta semanal. Adif identificó posteriormente el PK 368+900 como punto de riesgo y ejecutó proyecto de emergencia de drenaje entre PP.KK. 367+200 y 370+100."
+ },
+ "material_rodante": {
+  "series": "Tren 5172: Alstom serie 100, 10 coches (2 cabezas motrices, 2 remolques extremos y 6 remolques intermedios), 26 ejes, 200 m, velocidad máxima 300 km/h; Nº UIC 957191002104 de la motriz (vehículo 100010). Tren 4100: tren de alta velocidad de Renfe Operadora.",
+  "averia": "Tren 4100: rotura del captador ASFA y desacoplamiento de mangas de aire. Tren 5172: pequeños daños en motriz de cabeza (caja y bogies); inclinación de cabeza tractora y pérdida de contacto de dos ruedas con el carril.",
+  "mantenimiento": "Limpieza de cuneta recogida como punto permanente en acta semanal entre Bif. Albacete y Alicante; no se habían detectado anormalidades de drenaje; valores de circuitos de vía dentro de norma según informe del mantenedor."
+ },
+ "clima": "2014-07-02, de día; fuertes lluvias locales con aporte de granizo. Según prensa local, precipitación de 70 litros por metro cuadrado en una hora en la zona; en estaciones AEMET cercanas, Almansa 0 mm y Chinchilla 6 mm. No existía alerta por precipitación según el umbral de Adif de 20 mm en 6 horas.",
+ "causas": {
+  "directa": "Fallo de infraestructura: deformación de la vía al paso del tren, debido a insuficiencia del sistema de drenaje para recoger, evacuar y restituir la escorrentía de lluvias torrenciales localizadas e imprevistas, con acumulación y corrientes de agua capaces de arrastrar el balasto de la vía I.",
+  "contribuyentes": [
+   "Lluvias torrenciales localizadas e imprevistas con granizo, no reflejadas en las estaciones AEMET cercanas.",
+   "Confluencia ortogonal, con velocidad por desnivel, de aguas de escorrentía de márgenes y plataforma en la zona del paso superior PK 368+917.",
+   "Ausencia de drenaje transversal próximo al paso superior.",
+   "Cambio de sección de cuneta y muro interior en la zona del paso superior.",
+   "El PK 368+925 no estaba identificado como punto de riesgo en el Plan de Contingencias de Adif.",
+   "No existía alerta meteorológica por precipitación en la zona según el convenio AEMET-Adif.",
+   "El CRC no concretó en qué consistía el reconocimiento de la vía prescrito al tren 5172.",
+   "El maquinista del tren 5172 no valoró adecuadamente la situación."
+  ],
+  "sistemicas": [
+   "Insuficiencia del sistema de drenaje superficial para escorrentías muy localizadas de alta intensidad.",
+   "Gestión del riesgo de inundaciones por lluvias basada en umbrales y estaciones meteorológicas que no captaron precipitaciones muy localizadas.",
+   "Inventario de puntos de riesgo del Plan de Contingencias no incluía el lugar del suceso.",
+   "Procedimiento de comunicación y reconocimiento de vía por acumulación de agua no concretaba suficientemente las actuaciones."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "Material rodante: pequeños daños en motriz de cabeza (caja y bogies), valoración 48.700 € sin IVA. Infraestructura: daños en balasto, subbalasto, drenaje, canaleta, vallado y caminos de acceso en unos 2 kilómetros, valoración 1.001.880 €.",
+  "afectacion_servicio": "Circulación suspendida por ambas vías entre Bonete y Chinchilla desde 19:40 horas hasta 06:40 horas del 2014-07-03 en vía II; vía I restablecida el 2014-07-05 a las 06:40 horas con limitación de 30 km/h. Cuatro trenes fueron suprimidos."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Establecer un plan de vigilancia hasta la finalización de la totalidad de las obras del 'Proyecto de Emergencia de obras de refuerzo de la infraestructura de drenaje y restitución de la superestructura ferroviaria entre los PP.KK. 367+200 y 370+100 de la línea Bifurcación Albacete-Alicante'.",
+   "destinatario": "Adif Alta Velocidad"
+  }
+ ],
+ "tags": [
+  "incidente ferroviario",
+  "alta velocidad",
+  "inundación",
+  "lluvia torrencial",
+  "drenaje",
+  "arrastre de balasto",
+  "deformación de vía",
+  "adif",
+  "renfe operadora",
+  "crc albacete",
+  "plan de contingencias",
+  "marcha a la vista"
+ ],
+ "v3_completo": true,
+ "id": "ES-ES 02.07.204 150324-140702-IF-CIAF"
+}

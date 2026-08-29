@@ -1,0 +1,193 @@
+{
+ "titulo_normalizado": "Descarrilamiento del tren 28744 en la estación de Barcelona Sant Andreu Arenal por accionamiento erróneo de la aguja 12",
+ "idioma_original": "es",
+ "resumen": "El 27 de octubre de 2013, a las 20:01, el tren de cercanías 28744 de Renfe Operadora descarriló en la estación de Sant Andreu Arenal cuando el último coche pasaba por la aguja nº 12. La aguja cambió de vía directa a desviada mientras el tren la ocupaba, provocando colisión lateral con el andén, rotura de la unión entre los dos últimos coches y frenada de emergencia. Tres viajeros resultaron heridos leves y quedaron interceptadas las vías 2 y 4 y el gálibo de la 1. La investigación atribuye el accidente a un fallo humano del personal de circulación, que accionó por error la aguja nº 12, probablemente con intención de mover la aguja nº 4.",
+ "hechos": "El día 27 de octubre de 2013, en la estación subterránea de Sant Andreu Arenal, existía una avería por ocupación artificial del circuito de vía A4, asociado a las agujas 4, 6 y 12. Esta avería mantenía las señales E2 y R2 en indicación de parada, por lo que el jefe del CTC autorizaba mediante telefonema el rebase de dichas señales a los trenes afectados, mientras los agentes de instalaciones de seguridad de Adif revisaban la avería desde la cabina de señales.\n\nEl tren de viajeros de cercanías 28744, procedente de La Tour de Carol y con destino L’Hospitalet de Llobregat, se detuvo ante la señal E2 en indicación de parada y recibió autorización para rebasar E2 y R2 con marcha de maniobras hasta su estacionamiento en vía 2, con las agujas 4, 6 y 12 orientadas a vía directa. Antes de que el tren se estacionara, el jefe del CTC actuó sobre la aguja nº 12 y la cambió a vía desviada mientras el tren todavía la ocupaba.\n\nComo consecuencia, el último coche del tren descarriló, colisionó lateralmente con el andén de las vías 2 y 4, se rompió la unión entre los dos últimos coches, se dañaron las tuberías de freno y se produjo una frenada de emergencia. Resultaron heridos de carácter leve tres viajeros y quedaron interceptadas las vías 2 y 4 y el gálibo de la vía 1.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Barcelona Sant Andreu Arenal",
+  "pk": "361+098",
+  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "descripcion_lugar": "Estación subterránea con iluminación artificial, situada en el tramo Bifurcación Montcada – Bifurcación Vilanova, municipio y provincia de Barcelona. El suceso ocurrió en la aguja número 12, PK 361+098, al acceder a las vías 2 y 4."
+ },
+ "cronologia": [
+  {
+   "hora": "19:56",
+   "evento": "El tren 28744 pasa por la baliza previa de la señal avanzada E'2 a 55 km/h en indicación de anuncio de parada."
+  },
+  {
+   "hora": "19:56",
+   "evento": "El tren 28744 pasa por la baliza de la señal avanzada E'2 a 55 km/h en indicación de anuncio de parada."
+  },
+  {
+   "hora": "19:56",
+   "evento": "El tren 28744 pasa por la baliza previa de la señal de entrada E2 a 45 km/h en indicación de parada."
+  },
+  {
+   "hora": "19:57",
+   "evento": "El tren 28744 queda detenido ante la señal de entrada E2 en indicación de parada."
+  },
+  {
+   "hora": "19:58",
+   "evento": "El jefe del CTC autoriza por telefonema al maquinista del tren 28744 el rebase de las señales E2 y R2 con marcha de maniobras hasta vía 2."
+  },
+  {
+   "hora": "19:59",
+   "evento": "El tren 28744 reanuda la marcha tras permanecer detenido 1 minuto y 42 segundos."
+  },
+  {
+   "hora": "19:59",
+   "evento": "El tren 28744 rebasa la señal de entrada E2 en indicación de parada a 17 km/h."
+  },
+  {
+   "hora": "20:00",
+   "evento": "El tren 28744 llega a la aguja nº 12, PK 361+098, a 25 km/h."
+  },
+  {
+   "hora": "20:01",
+   "evento": "La aguja nº 12 cambia de posición directa a desviada mientras el tren la ocupa y se produce la pérdida de comprobación de la aguja."
+  },
+  {
+   "hora": "20:01",
+   "evento": "Descarrila el último coche del tren 28744, colisiona lateralmente con el andén de las vías 2/4, se rompe la unión entre los dos últimos coches y se produce frenada de emergencia."
+  },
+  {
+   "hora": "20:01",
+   "evento": "El tren 28744 queda detenido."
+  },
+  {
+   "hora": "20:03",
+   "evento": "El maquinista del tren 28744 comunica al jefe del CTC que hay humo en cola del tren y que los viajeros salen corriendo."
+  },
+  {
+   "hora": "20:03",
+   "evento": "El jefe del CTC manifiesta al maquinista que posiblemente movió el cambio antes de que el tren estuviera parado."
+  },
+  {
+   "hora": "20:04",
+   "evento": "El jefe del CTC comunica que ha hecho una cosa que no debía y que ha hecho descarrilar un tren."
+  },
+  {
+   "hora": "20:08",
+   "evento": "El maquinista del tren 28744 comunica al jefe del CTC que ha descarrilado el último vagón y solicita cortar la circulación por ambas vías generales."
+  },
+  {
+   "hora": "20:15",
+   "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+  },
+  {
+   "hora": "00:59",
+   "evento": "2013-10-28: Cinco de los seis coches del tren 28744 salen con destino al taller de Vilanova i la Geltrú."
+  },
+  {
+   "hora": "07:12",
+   "evento": "2013-10-28: Queda encarrilado el sexto coche del tren 28744 y es remolcado por el tren taller hacia Montcada Bif."
+  },
+  {
+   "hora": "08:45",
+   "evento": "2013-10-28: El sexto coche queda apartado."
+  },
+  {
+   "hora": "08:48",
+   "evento": "2013-10-28: Se da de baja la vía 2; los cambios nº 7 y 12 quedan embridados a vía 4 y se restablece la circulación de trenes pares por vía 4 e impares por vías 1 y 3."
+  },
+  {
+   "hora": "09:50",
+   "evento": "2013-10-28: Se restablece la circulación de la línea R7 de Rodalies hasta Sant Andreu Arenal."
+  },
+  {
+   "hora": "04:40",
+   "evento": "2013-10-30: Queda restablecida la vía 2."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "28744",
+   "tipo": "Tren de viajeros de cercanías",
+   "operador": "Renfe Operadora",
+   "danos": "Descarrilamiento del último coche; colisión lateral con el andén de vías 2/4; rotura de la unión entre los dos últimos coches; rotura de tuberías de freno; daños en aleta lateral derecha de la caja, dos bogies y elementos de unión del último coche."
+  },
+  {
+   "numero": "28347",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Jefe del CTC / responsable de circulación de Adif",
+   "implicacion": "Autorizó rebases de señales y colaboró con el personal de mantenimiento; accionó por error la aguja nº 12 con el tren encima, probablemente con intención de accionar la aguja nº 4. Se le aplicó suspensión cautelar de habilitación, examen psicofísico con resultado apto y jornada monográfica sobre itinerarios."
+  },
+  {
+   "rol": "Agente de instalaciones de seguridad (1) de Adif",
+   "implicacion": "Revisaba la avería del circuito de vía A4 desde la cabina de señales; no podía actuar sobre los movimientos de las instalaciones."
+  },
+  {
+   "rol": "Agente de instalaciones de seguridad (2) de Adif",
+   "implicacion": "Revisaba la avería del circuito de vía A4; pidió al jefe del CTC mover la aguja nº 4 para discriminar la avería; no podía actuar sobre las instalaciones desde la cabina."
+  },
+  {
+   "rol": "Maquinista del tren 28744",
+   "implicacion": "Recibió autorización de rebase, detuvo el tren tras la frenada de emergencia, observó humo en cola, inspeccionó la composición y comunicó el descarrilamiento y la necesidad de cortar la circulación."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "Señales E2 y R2 en indicación de parada permanente por avería del CV A4; señal avanzada E'2 en anuncio de parada; señal de salida S2/2 con indicación de vía libre; balizas previas de E'2 y E2.",
+  "tipo_via": "Vía doble en bloqueo automático, ancho ibérico, telemandada desde el CTC; estación subterránea con enclavamiento electrónico y 4 vías.",
+  "velocidad_maxima": "100 km/h hasta la estación; limitación permanente de 85 km/h a la entrada; 50 km/h a partir de la estación. El tren no superó 30 km/h durante la maniobra.",
+  "ancho": "Ibérico",
+  "electrificacion": null,
+  "estado_via": "Avería en el circuito de vía A4 de las agujas 4, 6 y 12 con ocupación artificial; daños en vías 2 y 4; vías 1, 2 y 4 interceptadas tras el suceso.",
+  "otro": "Radiotelefonía modalidad A; cabina de señales con videográfico sin mando; enclavamiento electrónico Bombardier EBI Lock con desfase horario de 57 minutos y 58 segundos respecto a la hora real."
+ },
+ "material_rodante": {
+  "series": "Tren tipo 120A; dos automotores eléctricos 967194471082 y 907174471140; 6 coches; longitud total 152 metros; 432 toneladas.",
+  "averia": "Último coche del tren 28744, motor número UIC 94472288: daños en aleta lateral derecha de la caja, dos bogies y elementos de unión con el coche contiguo; rotura de ganchos, tuberías neumáticas y cableado eléctrico entre coches.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Fallo humano del personal de circulación al realizar por error el accionamiento de la aguja nº 12 mientras estaba pasando el tren por dicha aguja, siendo probablemente su intención accionar la aguja nº 4.",
+  "contribuyentes": [
+   "Carga de trabajo del personal de circulación al tener que autorizar rebases a circulaciones de cercanías y colaborar con el personal de instalaciones en la reparación de la avería.",
+   "Avería en el circuito de vía A4 de las agujas 4, 6 y 12, que obligaba a actuar sobre las agujas por emergencia.",
+   "No verificar la no ocupación del circuito de vía A4 antes de accionar la aguja."
+  ],
+  "sistemicas": [
+   "Incumplimiento del artículo 268.3 del Reglamento General de Circulación, que prohíbe manejar agujas a distancia cuando se encuentran vehículos sobre ellas.",
+   "Riesgo asociado a conductas no conformes a norma para mantener la explotación ferroviaria en condiciones degradadas."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": 3,
+  "danos_materiales": "Daños en el último coche del tren 28744 y en las vías 2 y 4; importe de los daños de infraestructura según Adif: 73.661 euros.",
+  "afectacion_servicio": "Interrupción del paso de trenes por las vías 1, 2 y 4 desde las 20:01 del 27/10/2013; vías 1 y 4 restablecidas a las 08:48 del 28/10/2013; vía 2 restablecida a las 04:40 del 30/10/2013. Afectadas las líneas R3, R4 y R7 de cercanías: 20 trenes suprimidos, 74 trenes con retrasos y 662 minutos acumulados de retraso."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Insistir en los cursos de reciclaje al personal de circulación del riesgo que suponen las conductas no conformes a norma, aunque éstas tengan por finalidad el intento de posibilitar la explotación ferroviaria en condiciones degradadas.",
+   "destinatario": "Adif"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "aguja",
+  "fallo humano",
+  "ctc",
+  "avería circuito de vía",
+  "rebase autorizado",
+  "estación subterránea",
+  "sant andreu arenal",
+  "renfe operadora",
+  "adif",
+  "rgc",
+  "cercanías"
+ ],
+ "v3_completo": true,
+ "id": "ES-IF_271013_231214_CIAF_ES-2902"
+}

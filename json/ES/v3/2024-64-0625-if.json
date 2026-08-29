@@ -1,0 +1,175 @@
+{
+ "titulo_normalizado": "Rebase indebido de señal en Cuenca-Fernando Zóbel por interpretación errónea del aspecto FF7C",
+ "idioma_original": "es",
+ "resumen": "El 25 de junio de 2024, el tren de alta velocidad 05903, entre Murcia del Carmen y Madrid-Puerta de Atocha, sufrió un incidente operacional en la estación de Cuenca-Fernando Zóbel. Tras una parada comercial, el tren rebasó indebidamente la señal de salida S1/5 en aspecto FF7C mientras circulaba en ERTMS Nivel 1, lo que activó el modo TRIP. El Responsable de Circulación del CRC de Albacete autorizó reanudar la marcha sin interpretar que se había producido un rebase, aunque poco después ordenó detener el tren y retroceder a la estación. No hubo víctimas ni daños materiales, pero el tren acumuló un retraso de 55 minutos.",
+ "hechos": "El 25 de junio de 2024, el tren de alta velocidad 05903 salió de Murcia del Carmen a las 18:58 con destino Madrid-Puerta de Atocha. Hasta Bifurcación Triángulo circuló con ERTMS Nivel 2 y, desde ese punto, con ERTMS Nivel 1. A las 21:19 llegó a la estación de Cuenca-Fernando Zóbel y realizó una parada comercial en la vía 5, donde la señal de salida S1/5 mostraba aspecto rojo fijo porque otro tren sin parada circulaba por vía directa.\n\nDurante la parada accedió a la cabina un Mando Intermedio Formador de la ETPCO. A las 21:32, la señal S1/5 cambió de rojo fijo a FF7C, rojo fijo y azul fijo. El maquinista interpretó erróneamente que el aspecto era FF7D, rojo fijo y azul destellante, e inició la marcha a 11 km/h, rebasando indebidamente la señal. Se activó el modo TRIP del ERTMS y el tren se detuvo a las 21:33, 5,40 metros después de la señal, sin rebasar el punto de peligro por 8,60 metros.\n\nEl maquinista comunicó el TRIP al Responsable de Circulación del CRC de Albacete, quien autorizó reanudar la marcha mediante telefonema sin interpretar que había ocurrido un rebase. A las 21:36, el RC ordenó detener el tren para revisar la situación y, a las 21:40, tras comprobarse en el videográfico que se había producido un rebase indebido, ordenó cambio de cabina y retroceso a la vía 5 de Cuenca-Fernando Zóbel. A las 22:05 se dio la orden de marcha hacia el destino, con un auxiliar de cabina procedente del tren 05210.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Cuenca-Fernando Zóbel",
+  "pk": "195+100",
+  "linea": "LAV 040",
+  "provincia": null,
+  "descripcion_lugar": "Estación de Cuenca-Fernando Zóbel, vía 5 de apartado, señal de salida S1/5 en sentido Madrid, en la LAV 040 de la Red Ferroviaria de Interés General."
+ },
+ "cronologia": [
+  {
+   "hora": "18:58",
+   "evento": "El tren 05903 sale de Murcia del Carmen con destino Madrid-Puerta de Atocha."
+  },
+  {
+   "hora": "21:19",
+   "evento": "El tren llega a la estación de Cuenca-Fernando Zóbel y realiza parada comercial en la vía 5; la señal S1/5 está en rojo fijo por la circulación de otro tren por vía directa."
+  },
+  {
+   "hora": "21:32",
+   "evento": "La señal S1/5 cambia a FF7C, rojo fijo y azul fijo; el maquinista inicia la marcha a 11 km/h y rebasa indebidamente la señal."
+  },
+  {
+   "hora": "21:33",
+   "evento": "Se activa el modo TRIP del ERTMS y el tren se detiene 5,40 metros después de la señal."
+  },
+  {
+   "hora": "21:33",
+   "evento": "El maquinista comunica el TRIP al RC del CRC de Albacete; el RC autoriza reanudar la marcha mediante telefonema sin interpretar el rebase."
+  },
+  {
+   "hora": "21:36",
+   "evento": "El RC ordena detener el tren para revisar si se había producido un rebase."
+  },
+  {
+   "hora": "21:40",
+   "evento": "Tras revisar el videográfico, el RC ordena cambio de cabina y retroceso del tren a la vía 5 de Cuenca-Fernando Zóbel."
+  },
+  {
+   "hora": "22:05",
+   "evento": "El RC da la orden de marcha hacia el destino, con un auxiliar de cabina procedente del tren 05210."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "05903",
+   "tipo": "tren de alta velocidad",
+   "operador": "RENFE Viajeros",
+   "danos": "Sin daños materiales; retraso de 55 minutos."
+  },
+  {
+   "numero": null,
+   "tipo": "tren sin parada comercial en Cuenca-Fernando Zóbel",
+   "operador": null,
+   "danos": null
+  },
+  {
+   "numero": "05210",
+   "tipo": null,
+   "operador": null,
+   "danos": null
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 05903",
+   "implicacion": "Interpretó erróneamente el aspecto FF7C de la señal S1/5 como FF7D, inició la marcha y rebasó indebidamente la señal; no identificó el TRIP como rebase y tuvo atención dividida por el acceso de personal formador a la cabina."
+  },
+  {
+   "rol": "Responsable de Circulación del CRC de Albacete, banda 0301, personal de ADIF",
+   "implicacion": "Autorizó reanudar la marcha tras el TRIP sin interpretar que se había producido un rebase indebido; posteriormente ordenó detener el tren y retroceder a la estación."
+  },
+  {
+   "rol": "Regulador del CRC de Albacete",
+   "implicacion": "Sospechó que podía tratarse de un rebase indebido, revisó el registro videográfico, confirmó el rebase y ordenó la detención y el retroceso del tren."
+  },
+  {
+   "rol": "Mando Intermedio Formador de conducción de la ETPCO",
+   "implicacion": "Accedió a la cabina durante la parada comercial; su presencia pudo influir en la atención dividida del maquinista."
+  },
+  {
+   "rol": "Auxiliar de cabina procedente del tren 05210",
+   "implicacion": "Acompañó al maquinista en la orden de marcha final hacia el destino."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "ERTMS Nivel 1 en servicio; ERTMS Nivel 2 instalado pero no operativo; ASFA; señal de parada selectiva S1/5 en aspecto FF7C, rojo fijo y azul fijo; el enclavamiento no puede discriminar el nivel ERTMS en el que circula el tren.",
+  "tipo_via": "Vía doble de ancho internacional; estación con dos vías generales y cuatro vías de apartado; suceso en la vía 5 de apartado.",
+  "velocidad_maxima": null,
+  "ancho": "Ancho internacional.",
+  "electrificacion": "Electrificada a 25 kV.",
+  "estado_via": "Vía 5 de apartado con señal de salida S1/5; itinerario en vía general establecido para otro tren; tras el TRIP, el RC verificó que el cantón de Nivel 1 posterior estaba libre.",
+  "otro": "LAV 040 de la RFIG; PK 195+100; desde 2010 solo está en servicio el Nivel 1 por problemas asociados a la FN20; medida mitigadora implementada: programación del enrutador automático en modo ASFA para que la señal pase directamente de rojo a verde; el videográfico del CRC graba archivos cada hora."
+ },
+ "material_rodante": {
+  "series": "Serie 102, unidad 102004.",
+  "averia": null,
+  "mantenimiento": null
+ },
+ "clima": "Condiciones meteorológicas y de visibilidad favorables.",
+ "causas": {
+  "directa": "Interpretación errónea del aspecto FF7C de la señal S1/5 por parte del maquinista, que provocó un rebase indebido, y autorización de reanudación de la marcha por parte del RC sin reconocer que se había producido el rebase.",
+  "contribuyentes": [
+   "Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red.",
+   "Cambio de turno en el CRC.",
+   "Falta de verificación del aspecto de la señal por parte del maquinista.",
+   "Atención dividida del maquinista, debido al acceso de personal formador a la cabina."
+  ],
+  "sistemicas": [
+   "Similitud entre los aspectos FF7C y FF7D de la señal.",
+   "Necesidad de actuaciones diferentes por parte del maquinista ante el aspecto FF7C, en un mismo servicio, en función del nivel de ERTMS en el que circula el tren.",
+   "Atención requerida por el maquinista para el control de la velocidad de liberación.",
+   "Equipamiento ya existente de la vía con Nivel 2 de ERTMS, sin estar operativo en este trayecto.",
+   "Expectativa del maquinista de recibir la Orden de Marcha, señal de salida."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": 0,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "No se produjeron daños materiales.",
+  "afectacion_servicio": "Retraso de 55 minutos del tren implicado; no se produjo interceptación de la vía; no se activó ningún Plan de Emergencias."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Realizar estudios específicos, para mejorar la ergonomía de las señales luminosas en alta velocidad, considerando el factor humano y realizando los análisis de riesgos correspondientes.",
+   "destinatario": "AESF (implementador final: AESF)"
+  },
+  {
+   "texto": "Poner en servicio el Nivel 2 de ERTMS en las líneas equipadas con dicho nivel pero que aún no esté operativo.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF AV)"
+  },
+  {
+   "texto": "Estudiar la posibilidad, en aquellas líneas equipadas con ambos niveles de ERTMS, de desactivar el Nivel 1, suprimiendo el aspecto FF7D, siempre llevando a cabo el preceptivo análisis de riesgos y evaluación sobre la capacidad pertinentes.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF AV)"
+  },
+  {
+   "texto": "Revisar los protocolos de actuación para autorización de reanudación de la marcha tras un modo TRIP, incluidos en sus sistemas de gestión de seguridad, facilitando al RC, en particular, la confirmación del nivel de ERTMS en el que circula el tren, en casos de coexistencia de niveles.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF AV)"
+  },
+  {
+   "texto": "Establecer como medida mitigadora transitoria hasta la puesta en servicio de Nivel 2, la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero que no está operativo.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF AV)"
+  },
+  {
+   "texto": "Establecer en los PPTP de los proyectos que afecten al subsistema CMS, condiciones que garanticen la compatibilidad técnica con los de los tramos adyacentes.",
+   "destinatario": "AESF (implementador final: ADIF y ADIF AV)"
+  },
+  {
+   "texto": "Potenciar los principios de cultura justa en lo referente a los rebases de señal.",
+   "destinatario": "AESF (implementador final: empresas ferroviarias)"
+  }
+ ],
+ "tags": [
+  "rebase indebido",
+  "spad",
+  "ertms nivel 1",
+  "ertms nivel 2",
+  "señal ff7c",
+  "señal ff7d",
+  "modo trip",
+  "crc albacete",
+  "cuenca-fernando zóbel",
+  "lav 040",
+  "factor humano",
+  "alta velocidad"
+ ],
+ "v3_completo": true,
+ "id": "ES-2024-64-0625-if"
+}
