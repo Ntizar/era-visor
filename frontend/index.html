@@ -796,10 +796,33 @@ async function verDetalle(id) {
             ${info('ID eRAIL', full.erail_id)}
         </div></div>
         ${trenes ? seccion('Trenes implicados', trenes) : ''}
-        ${(full.descripcion || full.resumen && full.descripcion !== full.resumen) ? seccion('Descripción', `<div class="detail-resumen">${full.descripcion || ''}</div>`) : ''}
+        ${(full.v3 && (full.v3.hechos || full.hechos)) ? seccion('Hechos', `<div class="detail-resumen">${full.hechos || (full.v3 || {}).hechos}</div>`)
+            : (full.descripcion || full.resumen && full.descripcion !== full.resumen) ? seccion('Descripción', `<div class="detail-resumen">${full.descripcion || ''}</div>`) : ''}
         ${(full.causa_directa || erCausa) ? seccion('Causa directa', `<div class="detail-resumen">${full.causa_directa || erCausa}</div>`) : ''}
         ${(full.causas_sistemicas || erSistem) ? seccion('Causas sistémicas', `<div class="detail-resumen">${full.causas_sistemicas || erSistem}</div>`) : ''}
         ${(full.conclusiones && full.conclusiones.length) ? seccion('Conclusiones', `<ul class="detail-list">${full.conclusiones.map(x => `<li>${x}</li>`).join('')}</ul>`) : ''}
+        ${(() => {
+            const v3 = full.v3 || {};
+            const cron = v3.cronologia || full.cronologia || [];
+            const cronHtml = cron.length ? seccion('Cronología', `<ul class="detail-list">${cron.map(c => {
+                const h = c.hora ? (String(c.hora).length > 5 ? String(c.hora).slice(11, 16) : c.hora) : '';
+                return `<li>${h ? `<b>${h}</b> — ` : ''}${c.evento}</li>`;
+            }).join('')}</ul>`) : '';
+            const inf = v3.infraestructura || full.infraestructura;
+            const infHtml = inf ? seccion('Infraestructura', `<div class="detail-info-grid">` +
+                info('Señalización', inf.senalizacion) + info('Tipo de vía', inf.tipo_via) +
+                info('Velocidad máx.', inf.velocidad_maxima) + info('Ancho', inf.ancho) +
+                info('Electrificación', inf.electrificacion) + info('Estado de la vía', inf.estado_via) +
+                (inf.otro ? info('Otros', inf.otro) : '') + `</div>`) : '';
+            const lecc = v3.lecciones || full.lecciones || [];
+            const leccHtml = lecc.length ? seccion('Lecciones aprendidas', `<ul class="detail-list">${lecc.map(l => `<li>${l}</li>`).join('')}</ul>`) : '';
+            const personal = v3.personal || full.personal || [];
+            const perHtml = personal.length ? seccion('Personal implicado', `<ul class="detail-list">${personal.map(p =>
+                `<li>${p.rol || ''}${p.implicacion ? ': ' + p.implicacion : ''}</li>`).join('')}</ul>`) : '';
+            const clima = v3.clima || full.clima;
+            const climaHtml = clima ? seccion('Condiciones meteorológicas', `<div class="detail-resumen">${clima}</div>`) : '';
+            return cronHtml + infHtml + perHtml + climaHtml + leccHtml;
+        })()}
         ${(full.entidades && full.entidades.length) ? seccion('Entidades implicadas', `<div class="detail-tags">${full.entidades.map(e => `<span class="detail-tag">${e}</span>`).join('')}</div>`) : ''}
         ${(full.recomendaciones && full.recomendaciones.length) ? seccion('Recomendaciones de seguridad', `<ul class="detail-list recommendations">${full.recomendaciones.map(x => `<li>${typeof x === 'string' ? x : (x.texto || JSON.stringify(x))}</li>`).join('')}</ul>`) : ''}
         ${tags ? seccion('Conceptos', `<div class="detail-tags">${tags}</div>`) : ''}
