@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-2901",
  "expediente": "0069/2013",
- "titulo": "Descarrilamiento del tren 28744 en la estación de Barcelona Sant Andreu Arenal por cambio erróneo de aguja",
+ "titulo": "Informe final sobre el accidente ferroviario nº 0069/2013 ocurrido el día 27.10.2013 en la estación de Barcelona Sant Andreu Arenal (Barcelona)",
  "fecha_suceso": "2013-10-27",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Barcelona Sant Andreu Arenal",
   "provincia": "Barcelona",
   "pk": "361+098",
-  "linea": "Línea 220 Lleida Pirineus – L’Hospitalet de Llobregat"
+  "linea": "Línea 220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "lat": 41.45638945313104,
+  "lng": 2.186970649944828,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident is caused by human failure of train driver of train 08904 in particular due to a lack of attention while driving. As a consequence, the order stated by exit signal S2/2 was not complyed with and signal was improperly overrun, breaching article 2/04/00 of Signal Book of Feve."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "autorizacion de rebase por telefonema",
+  "colaboracion con personal instalaciones",
+  "no verificar ocupacion del circuito",
+  "accionamiento de aguja 12"
+ ],
+ "mitigaciones": [
+  "velocidad no supera 25 km/h",
+  "frenada de emergencia",
+  "verificar no ocupacion del circuito",
+  "prohibicion manejar agujas con tren"
+ ],
+ "factores_humanos": [
+  "fallo humano del jefe CTC",
+  "carga de trabajo elevada",
+  "colaborar con personal instalaciones",
+  "no verificar ocupacion de via"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-10-27",
+ "hora": "20:01",
+ "provincia": "Barcelona",
+ "estacion": "Barcelona Sant Andreu Arenal",
+ "pk": "361+098",
+ "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+ "tipo": "Descarrilamiento"
 }

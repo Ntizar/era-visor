@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1437",
  "expediente": "0041/2012",
- "titulo": "Descarrilamiento tren mercancías 92559 entre Duesaigües-L'Argentera y Marçà-Falset (Tarragona)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0041/2012 OCURRIDO EL DÍA 01.06.2012 ENTRE LAS ESTACIONES DE DUESAIGÜES-L’ARGENTERA Y MARÇÀ-FALSET (TARRAGONA)",
  "fecha_suceso": "2012-06-01",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Tarragona",
   "pk": "558+049",
-  "linea": "210 Miraflores - Tarragona"
+  "linea": "210 Miraflores - Tarragona",
+  "lat": 43.02755369,
+  "lng": -2.33519691,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,36 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "150 000 - 2 000 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in an infrastructure failure, basically for an incorrectly layout of a rail section in the area."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cupón de vía mal dispuesto",
+  "Montaje no cumple norma vigente",
+  "Fijación incorrecta de bridas",
+  "Defectos en fijación del carril"
+ ],
+ "mitigaciones": [
+  "Limitación temporal de velocidad",
+  "Sustitución del cupón de vía",
+  "Respeto de limitaciones de velocidad",
+  "Auditoría de mantenimiento correctivo"
+ ],
+ "factores_humanos": [
+  "Mantenimiento incorrecto de infraestructura",
+  "Incumplimiento de norma de montaje",
+  "Fallo de infraestructura por mantenimiento"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-06-01",
+ "hora": "14:32",
+ "provincia": "Tarragona",
+ "pk": "PK 558+049",
+ "linea": "210 Miraflores - Tarragona",
+ "tipo": "descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Medina del Campo",
   "provincia": "Valladolid",
   "pk": "206,300",
-  "linea": "100 Madrid-Hendaya"
+  "linea": "100 Madrid-Hendaya",
+  "lat": 41.31735236,
+  "lng": -4.91007411,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -63,5 +66,12 @@
   "No recordar causa frenada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-07-05",
+ "hora": "11:56",
+ "provincia": "Valladolid",
+ "estacion": "Medina del Campo",
+ "pk": "206,300",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "descarrilamiento"
 }

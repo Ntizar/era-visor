@@ -13,7 +13,10 @@
   "estacion": "San Claudio",
   "provincia": "Asturias",
   "pk": "5+265",
-  "linea": "Línea 12 Oviedo - San Esteban (tramo 71 Oviedo-Trubia)"
+  "linea": "Línea 12 Oviedo - San Esteban (tramo 71 Oviedo-Trubia)",
+  "lat": 43.31978686,
+  "lng": -5.80750288,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -68,5 +71,12 @@
   "no comprobar señal de parada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2012-01-12",
+ "hora": "14:19",
+ "provincia": "Asturias",
+ "estacion": "San Claudio",
+ "pk": "5+265",
+ "linea": "12 Oviedo – San Esteban",
+ "tipo": "Colisión frontal y descarrilamiento"
 }

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Chapela y Vigo",
   "provincia": "Pontevedra",
-  "lat": 42.285,
-  "lng": -8.564
+  "lat": 39.32440222,
+  "lng": -2.91260246,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "PK 175,050",
  "linea": "810 Vigo – Monforte de Lemos",

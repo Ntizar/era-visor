@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-586",
  "expediente": "0038/2008",
- "titulo": "Arrollamiento de una pala retroexcavadora e invasión de gálibo en la estación de Dueñas, Palencia",
+ "titulo": "Informe final sobre la investigación del accidente ferroviario nº 0038/2008 ocurrido el día 01.09.2008 en la estación de Dueñas",
  "fecha_suceso": "2008-09-01",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Dueñas",
   "provincia": "Palencia",
   "pk": "279,000",
-  "linea": "Línea 100 Hendaya Madrid-Chamartín"
+  "linea": "Línea 100 Hendaya Madrid-Chamartín",
+  "lat": 41.87618604234043,
+  "lng": -4.540363625957447,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -69,5 +72,12 @@
   "Acta sin observaciones de seguridad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-09-01",
+ "hora": "17:12",
+ "provincia": "Palencia",
+ "estacion": "Dueñas",
+ "pk": "279,000",
+ "linea": "100 Hendaya Madrid-Chamartín",
+ "tipo": "Arrollamiento"
 }

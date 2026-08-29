@@ -74,5 +74,10 @@
   "Supuestos no validados en fases posteriores"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2023-05-18",
+ "hora": "19:00",
+ "provincia": "Tarragona",
+ "estacion": "Les Borges del Camp",
+ "tipo": "Fallo de señalización"
 }

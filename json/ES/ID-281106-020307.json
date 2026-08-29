@@ -13,7 +13,10 @@
   "estacion": "San Cristóbal Industrial",
   "provincia": "Madrid",
   "pk": "9,800",
-  "linea": "Línea 300 Madrid Atocha-Valencia Nord"
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "lat": 40.44683235,
+  "lng": -3.60163633,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -69,5 +72,12 @@
   "Comportamiento social entorno chabolista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-28",
+ "hora": "08:00",
+ "provincia": "Madrid",
+ "estacion": "San Cristóbal Industrial",
+ "pk": "9,800",
+ "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+ "tipo": "Arrollamiento"
 }

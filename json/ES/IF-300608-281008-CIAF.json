@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-555",
  "expediente": "0028/2008",
- "titulo": "Arrollamiento de una persona por tren de mercancías en Miranda de Ebro (línea 700)",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008 OCURRIDO EL DÍA 30.06.2008",
  "fecha_suceso": "2008-06-30",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Miranda de Ebro",
   "provincia": "Burgos",
   "pk": "146,950",
-  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto"
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 42.688971765,
+  "lng": -2.948283985,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,35 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tránsito de víctima por lugar no autorizado",
+  "Personas permanecían junto al muro"
+ ],
+ "mitigaciones": [
+  "Uso del silbato",
+  "Frenado de urgencia aplicado",
+  "Velocidad inferior a máxima permitida",
+  "Activación del plan de emergencia"
+ ],
+ "factores_humanos": [
+  "Víctima en lugar no autorizado",
+  "Personas permanecieron inmóviles ante tren",
+  "Maquinista actuó conforme a normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-06-30",
+ "hora": "21:07",
+ "provincia": "Burgos",
+ "estacion": "Miranda de Ebro",
+ "pk": "P.K.146,950",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "tipo": "Arrollamiento de una persona"
 }

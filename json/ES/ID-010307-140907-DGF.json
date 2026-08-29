@@ -59,5 +59,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-03-01",
+ "hora": "17:22",
+ "provincia": "Córdoba",
+ "pk": "5/350",
+ "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
+ "tipo": "arrollamiento de una persona"
 }

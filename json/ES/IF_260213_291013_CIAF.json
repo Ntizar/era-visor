@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-2149",
  "expediente": "0015/2013",
- "titulo": "Colisión de tren con vehículo caído desde paso superior entre San Fernando de Henares y Coslada, Madrid",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2013 OCURRIDO EL DÍA 26.02.2013 ENTRE LAS ESTACIONES DE SAN FERNANDO DE HENARES Y COSLADA (MADRID)",
  "fecha_suceso": "2013-02-26",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Madrid",
   "pk": "16+100",
-  "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares"
+  "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+  "lat": 40.434533173333335,
+  "lng": -3.55253528,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused because a road vehicle, which had fallen from a close overpass,impinged on the track gauge"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rotura de barandilla por impacto",
+  "Vehículo invade gálibo de vía",
+  "Puesto de mando no avisa a tiempo",
+  "Frenada de urgencia no evita colisión"
+ ],
+ "mitigaciones": [
+  "Maquinista aplica freno de urgencia",
+  "Tren 21626 detiene antes de colisión",
+  "Instalación de barrera metálica simple",
+  "Señalización ferroviaria por caída de objetos"
+ ],
+ "factores_humanos": [
+  "Maquinista se percata del vehículo",
+  "Maquinista usa freno de urgencia",
+  "Puesto de mando no puede avisar a tiempo",
+  "Alcoholemia y drogas negativas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-02-26",
+ "hora": "09:05",
+ "provincia": "Madrid",
+ "estacion": "Entre las estaciones de San Fernando de Henares y Coslada",
+ "pk": "16+100",
+ "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+ "tipo": "Colisión lateral con el vehículo de carretera"
 }

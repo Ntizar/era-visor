@@ -41,5 +41,34 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when freight train 80382 improperly overrun exit signal S2/4A, stating a stopping order, as driving staff didn't comply with the state of the signal."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No detenerse ante señal roja",
+  "Frenado tardío a 115 metros",
+  "Velocidad excesiva al acercarse"
+ ],
+ "mitigaciones": [
+  "Aplicación inmediata freno emergencia",
+  "Distancia de parada insuficiente colisión",
+  "Rebase solo 7 metros señal"
+ ],
+ "factores_humanos": [
+  "Incumplimiento orden señalización",
+  "Error humano en conducción",
+  "Gestión fallo humano Renfe Operadora"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-07-11",
+ "hora": "19:59",
+ "provincia": "Lleida",
+ "estacion": "Lleida Pirineus",
+ "linea": "200 Madrid Chamartín - Barcelona Estació de França",
+ "tipo": "Incidente"
 }

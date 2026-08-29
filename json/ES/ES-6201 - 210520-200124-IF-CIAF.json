@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "04/2020",
- "titulo": "Descarrilamiento del tren 04171 en Bifurcación Cerrato (Palencia) tras desvío nº4 mal dispuesto",
+ "titulo": "Accidente ferroviario ocurrido el día 24 de enero de 2020 en Bifurcación Cerrato (Palencia)",
  "fecha_suceso": "2020-01-24",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -57,5 +57,11 @@
   "Limitaciones disponibilidad personal cualificado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2020-01-24",
+ "hora": "19:01",
+ "provincia": "Palencia",
+ "estacion": "Bifurcación Cerrato",
+ "linea": "LAV Madrid - Valladolid – León",
+ "tipo": "Descarrilamiento"
 }

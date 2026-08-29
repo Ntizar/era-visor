@@ -73,5 +73,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-07-08",
+ "hora": "15:53",
+ "provincia": "A Coruña",
+ "pk": "37/600",
+ "linea": "Betanzos – Infesta a Ferrol",
+ "tipo": "Arrollamiento de una persona"
 }

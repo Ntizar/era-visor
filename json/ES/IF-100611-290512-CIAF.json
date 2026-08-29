@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1174",
  "expediente": "0028/2011",
- "titulo": "Arrollamiento de un tubo metálico en el PK 11+100 de la LAV Madrid Puerta de Atocha a Sevilla Santa Justa",
+ "titulo": "Informe final sobre el accidente ferroviario nº 0028/2011 ocurrido el día 10.06.2011 en el PK 11+100 de la línea Madrid Puerta de Atocha a Sevilla Santa Justa",
  "fecha_suceso": "2011-06-10",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Los Gavilanes",
   "provincia": "Madrid",
   "pk": "11+100",
-  "linea": "LAV 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa"
+  "linea": "LAV 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "lat": 40.33222802735849,
+  "lng": -3.6515523886792454,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -68,5 +71,12 @@
   "Omisión de condiciones de seguridad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-06-10",
+ "hora": "09:50",
+ "provincia": "Madrid",
+ "estacion": "Los Gavilanes",
+ "pk": "PK 11+100",
+ "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+ "tipo": "Arrollamiento de un tubo metálico"
 }

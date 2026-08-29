@@ -43,5 +43,31 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train 81811 improperly overrun exit signal S1/1, stating a stopping order, as driving staff didn't comply with the state of the signal."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Maquinista no detuvo tren ante señal roja",
+  "Falta de atención a indicaciones de señales"
+ ],
+ "mitigaciones": [
+  "Activación automática freno emergencia ASFA",
+  "Distancia suficiente entre trenes implicados"
+ ],
+ "factores_humanos": [
+  "Incumplimiento normas RGC por maquinista",
+  "Pérdida concentración en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-08-14",
+ "hora": "08:58",
+ "provincia": "Soria",
+ "estacion": "Torralba",
+ "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+ "tipo": "incidente ferroviario"
 }

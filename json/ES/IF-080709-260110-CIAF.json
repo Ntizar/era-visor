@@ -62,5 +62,12 @@
   "omisión señalización de firme irregular"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-07-08",
+ "hora": "18:21",
+ "provincia": "Cantabria",
+ "estacion": "Villaverde de Pontones",
+ "pk": "551+254",
+ "linea": "24 Santander - Bilbao",
+ "tipo": "Arrollamiento"
 }

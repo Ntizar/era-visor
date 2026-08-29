@@ -59,5 +59,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-05-06",
+ "hora": "15:41",
+ "provincia": "Barcelona",
+ "pk": "632,800",
+ "linea": "Línea 200 Madrid-Barcelona",
+ "tipo": "arrollamiento de una persona"
 }

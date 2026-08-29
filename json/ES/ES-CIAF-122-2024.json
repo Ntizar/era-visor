@@ -11,9 +11,7 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "León Clasificación",
-  "provincia": "León",
-  "lat": 42.634145,
-  "lng": -5.971415
+  "provincia": "León"
  },
  "pk": null,
  "linea": null,

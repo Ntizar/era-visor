@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Málaga",
   "pk": "67+916",
-  "linea": "420 Bif. Las Maravillas - Algeciras"
+  "linea": "420 Bif. Las Maravillas - Algeciras",
+  "lat": 36.755207085500004,
+  "lng": -5.1408323634999995,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,12 @@
   "Alcoholemia negativa del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-07-06",
+ "hora": "16:54",
+ "provincia": "Málaga",
+ "estacion": "Ronda y Setenil",
+ "pk": "67+916",
+ "linea": "420 Bif. Las Maravillas - Algeciras",
+ "tipo": "Arrollamiento"
 }

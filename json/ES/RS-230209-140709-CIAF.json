@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0013/2009",
- "titulo": "Accidente ferroviario entre el apeadero de Ozanes y la estación de Soto Dueñas, línea Oviedo-Santander",
+ "titulo": "Investigación del accidente nº 0013/2009 ocurrido el 23.02.2009",
  "fecha_suceso": "2009-02-23",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -27,5 +27,20 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "Actitudes y comportamientos de riesgo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-02-23",
+ "linea": "21 Oviedo Santander"
 }

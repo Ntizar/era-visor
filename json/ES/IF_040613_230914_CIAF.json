@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-2410",
  "expediente": "0043/2013",
- "titulo": "Bloqueo erróneo de vía y cierre intempestivo de señal entre Sant Sadurní d'Anoia y Martorell",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0043/2013 OCURRIDO EL DÍA 04.06.2013 ENTRE LAS ESTACIONES DE SANT SADURNÍ D’ANOIA Y MARTORELL",
  "fecha_suceso": "2013-06-04",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": null,
   "pk": "PK 64+073",
-  "linea": "Tramo Sant Sadurní d'Anoia–Martorell"
+  "linea": "Tramo Sant Sadurní d'Anoia–Martorell",
+  "lat": 41.04557711,
+  "lng": -5.53466911,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,32 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused by traffic master´s human failure when wrongly established a route blocking for the section between Sant Sadurní d'Anoia y Martorell, blocking track I instead of track II."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Bloqueo incorrecto de vía I por error humano",
+  "Establecimiento itinerario tren vía bloqueada",
+  "No cierre previo señal salida vía afectada"
+ ],
+ "mitigaciones": [
+  "Colocación barra shuntado trabajos",
+  "Activación freno urgencia tren mercancías",
+  "Señal intermedia pasó a rojo"
+ ],
+ "factores_humanos": [
+  "Fallo humano jefe CTC bloqueo erróneo",
+  "Error identificación vía a bloquear",
+  "Cumplimiento normativa personal implicado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-06-04",
+ "hora": "00:30:34",
+ "pk": "64+073",
+ "tipo": "incidente"
 }

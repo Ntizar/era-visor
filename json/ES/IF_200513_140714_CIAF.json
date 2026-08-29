@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Badajoz",
   "pk": "25+564",
-  "linea": "516 Mérida - Los Rosales"
+  "linea": "516 Mérida - Los Rosales",
+  "lat": 38.73133215121473,
+  "lng": -6.388539789123312,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,37 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The most likely hypothesis for the cause of the accident is the existence of faults (rail levelling, cant and warp) near the point of derailment (about 15-20 m)."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Defectos de vía detectados",
+  "No se reparan deficiencias",
+  "Inspecciones previas sin defectos",
+  "Última auscultación realizada febrero"
+ ],
+ "mitigaciones": [
+  "Maquinista observa descarrilamiento",
+  "Aplica freno manualmente",
+  "Vagón cisterna vacío",
+  "Velocidad dentro límite"
+ ],
+ "factores_humanos": [
+  "Procedimientos de corrección insuficientes",
+  "Seguimiento auscultación insuficiente",
+  "Inspecciones no detectan defectos",
+  "Zona ZUT no tratada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-05-20",
+ "hora": "11:47",
+ "provincia": "Badajoz",
+ "pk": "25+564",
+ "linea": "516 Mérida - Los Rosales",
+ "tipo": "descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Cádiz",
   "pk": "140,750",
-  "linea": "400 Alcázar de San Juan-Cádiz"
+  "linea": "400 Alcázar de San Juan-Cádiz",
+  "lat": 39.24304876,
+  "lng": -3.87870455,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,32 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Victima ocupaba caja de via",
+  "Victima distraida lanzando piedras"
+ ],
+ "mitigaciones": [
+  "Uso repetido del silbato",
+  "Accionamiento freno emergencia",
+  "Velocidad inferior maxima permitida"
+ ],
+ "factores_humanos": [
+  "Comportamiento suicida victima",
+  "Actuacion correcta maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-09-28",
+ "hora": "13:28",
+ "provincia": "Cádiz",
+ "pk": "140,750",
+ "linea": "400 Alcázar de San Juan – Cádiz",
+ "tipo": "arrollamiento"
 }

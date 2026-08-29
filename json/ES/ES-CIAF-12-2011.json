@@ -11,9 +11,7 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "Olesa de Montserrat",
-  "provincia": "Barcelona",
-  "lat": 43.3667,
-  "lng": -4.5833
+  "provincia": "Barcelona"
  },
  "pk": null,
  "linea": null,

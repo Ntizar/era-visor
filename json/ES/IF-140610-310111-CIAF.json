@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-936",
  "expediente": "0028/2010",
- "titulo": "Descarrilamiento del tren de mercancías FR 901 de Feve entre Cerdido y Ortigueira (A Coruña)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2010 OCURRIDO EL DÍA 14.06.2010 ENTRE CERDIDO Y ORTIGUEIRA (A CORUÑA)",
  "fecha_suceso": "2010-06-14",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Ponte Mera - Santa María de Mera",
   "provincia": "A Coruña",
   "pk": "43+559",
-  "linea": "Línea 11 Ferrol - Gijón"
+  "linea": "Línea 11 Ferrol - Gijón",
+  "lat": 43.64794811,
+  "lng": -7.91150686,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -61,5 +64,11 @@
   "maquinista no relevado tras accidente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-06-14",
+ "hora": "08:32",
+ "provincia": "A Coruña",
+ "pk": "43+559",
+ "linea": "11 Ferrol - Gijón",
+ "tipo": "Descarrilamiento"
 }

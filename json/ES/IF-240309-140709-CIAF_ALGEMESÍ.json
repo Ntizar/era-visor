@@ -13,7 +13,10 @@
   "estacion": "Algemesí",
   "provincia": "Valencia",
   "pk": "81,494",
-  "linea": "300 Madrid Chamartín – Valencia Estació del Nord"
+  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.20317953239415,
+  "lng": -0.4401787931565762,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,36 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce peatonal con protección activada",
+  "Ignora señales ópticas y acústicas",
+  "Otro tren estacionaba en andén contrario"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior máxima permitida",
+  "Uso del silbato y freno",
+  "Señales acústicas y luminosas activas",
+  "Apertura de paso inferior peatonal"
+ ],
+ "factores_humanos": [
+  "Víctima ignora señales activadas",
+  "Posible confusión por otro tren",
+  "Uso peatonal de paso provisional"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-03-24",
+ "hora": "14:10",
+ "provincia": "Valencia",
+ "estacion": "Algemesí",
+ "pk": "81,494",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "tipo": "Arrollamiento"
 }

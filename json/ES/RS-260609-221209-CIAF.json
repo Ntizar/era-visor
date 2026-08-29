@@ -27,5 +27,26 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "estricto cumplimiento normas circulación",
+  "influencia procesos psicológicos conducción",
+  "verificación aptitud personal conducción",
+  "aspecto formativo en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-06-26",
+ "provincia": "Madrid",
+ "estacion": "Aluche",
+ "linea": "920",
+ "tipo": "Accidente ferroviario"
 }

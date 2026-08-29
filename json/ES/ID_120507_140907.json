@@ -13,7 +13,10 @@
   "estacion": "antiguo apeadero de Camargo",
   "provincia": "Cantabria",
   "pk": "508+180",
-  "linea": "Línea 160 Santander-Palencia"
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": 43.41729212,
+  "lng": -3.8420821,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -70,5 +73,12 @@
   "actuación correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-05-12",
+ "hora": "21:55",
+ "provincia": "Cantabria",
+ "estacion": "antiguo apeadero de Camargo",
+ "pk": "508+180",
+ "linea": "160 Santander-Palencia",
+ "tipo": "arrollamiento de una persona"
 }

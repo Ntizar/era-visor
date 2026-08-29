@@ -13,7 +13,10 @@
   "estacion": "Inoso-Oiardo",
   "provincia": "Álava",
   "pk": "183+815",
-  "linea": null
+  "linea": null,
+  "lat": 42.98177995,
+  "lng": -2.90608207,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Transfesa",
@@ -55,5 +58,11 @@
   "Difícil visión de suspensión en vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-05-23",
+ "hora": "12:29",
+ "provincia": "Álava",
+ "estacion": "Inoso-Oiardo",
+ "pk": "183+815",
+ "tipo": "Descarrilamiento"
 }

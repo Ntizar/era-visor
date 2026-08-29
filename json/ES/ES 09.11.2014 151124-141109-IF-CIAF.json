@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Huelva",
   "pk": "130+742",
-  "linea": "línea 512 Zafra – Huelva Cargas"
+  "linea": "línea 512 Zafra – Huelva Cargas",
+  "lat": 37.64546225760649,
+  "lng": -6.877609507779459,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Viajeros",
@@ -57,5 +60,12 @@
   "Paso con protección clase A"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-11-09",
+ "hora": "11:47:13",
+ "provincia": "Huelva",
+ "estacion": "Calañas",
+ "pk": "130+742",
+ "linea": "512 Zafra – Huelva Cargas",
+ "tipo": "Arrollamiento"
 }

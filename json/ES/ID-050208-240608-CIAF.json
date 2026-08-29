@@ -53,5 +53,11 @@
   "Adif cataloga como suicidio"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-02-05",
+ "hora": "17:00",
+ "provincia": "Madrid",
+ "pk": "13+100",
+ "linea": "300 Madrid-Valencia",
+ "tipo": "Arrollamiento de una persona"
 }

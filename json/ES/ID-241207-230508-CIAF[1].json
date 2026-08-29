@@ -13,7 +13,10 @@
   "estacion": "El Pozo",
   "provincia": "Madrid",
   "pk": "5,200",
-  "linea": "930 Madrid-San Fernando de Henares"
+  "linea": "930 Madrid-San Fernando de Henares",
+  "lat": 40.376257012941174,
+  "lng": -3.656882491764706,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,12 @@
   "zona no autorizada para público"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-12-24",
+ "hora": "20:16",
+ "provincia": "Madrid",
+ "estacion": "El Pozo",
+ "pk": "5,200",
+ "linea": "930 Madrid- San Fernando de Henares",
+ "tipo": "arrollamiento"
 }

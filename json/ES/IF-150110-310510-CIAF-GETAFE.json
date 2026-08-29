@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-857",
  "expediente": "0003/2010",
- "titulo": "Arrollamiento mortal de persona en estación Getafe Industrial (Madrid)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0003/2010 OCURRIDO EL DÍA 15.01.2010 EN LA ESTACIÓN DE GETAFE INDUSTRIAL (MADRID)",
  "fecha_suceso": "2010-01-15",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Getafe Industrial",
   "provincia": "Madrid",
   "pk": "13+860",
-  "linea": "Línea 300 Madrid – Valencia"
+  "linea": "Línea 300 Madrid – Valencia",
+  "lat": 40.31235153945794,
+  "lng": -3.7086026837943926,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -61,5 +64,12 @@
   "no uso paso superior existente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-01-15",
+ "hora": "21:06",
+ "provincia": "Madrid",
+ "estacion": "Getafe Industrial",
+ "pk": "P.K. 13+860",
+ "linea": "300 Madrid – Valencia",
+ "tipo": "Arrollamiento"
 }

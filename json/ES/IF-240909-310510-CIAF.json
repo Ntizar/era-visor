@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-809",
  "expediente": "0050/2009",
- "titulo": "Rotura de eje en tren FEVE 6722 en el apeadero de Cazoña (Cantabria)",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0050/2009 OCURRIDO EL DÍA 24.09.2009 EN EL APEADERO DE CAZOÑA (CANTABRIA)",
  "fecha_suceso": "2009-09-24",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -42,5 +42,35 @@
   "RU involved": "Feve",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin on the breakage of an axle journal (last car of the composition). This breakage could had been produced by a previous crack made by two notches, probably during a necking process"
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Entallas en proceso de calado",
+  "Recarga por soldadura no trazable",
+  "Fisura previa no detectada"
+ ],
+ "mitigaciones": [
+  "Parada comercial sin descarrilamiento",
+  "Detección visual tras fallo tracción",
+  "Inspección inmediata ultrasonidos"
+ ],
+ "factores_humanos": [
+  "Trazabilidad inadecuada operaciones",
+  "Ausencia inspección periódica fisuras",
+  "Procedimiento soldadura obsoleto"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-09-24",
+ "hora": "13:50",
+ "provincia": "Cantabria",
+ "estacion": "Apeadero de Cazoña",
+ "pk": "527+485",
+ "linea": "Oviedo-Santander (L-21)",
+ "tipo": "incidente ferroviario"
 }

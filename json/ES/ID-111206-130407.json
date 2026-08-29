@@ -71,5 +71,12 @@
   "No hace uso de pasos inferiores"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-12-11",
+ "hora": "22:06",
+ "provincia": "Barcelona",
+ "estacion": "Vilanova i La Geltrú",
+ "pk": "636,000",
+ "linea": "Madrid-Barcelona",
+ "tipo": "Arrollamiento de una persona"
 }

@@ -13,7 +13,10 @@
   "estacion": "San Sebastián",
   "provincia": null,
   "pk": "622,516",
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 43.31767335,
+  "lng": -1.97664386,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -67,5 +70,12 @@
   "comportamiento temerario peatón"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-30",
+ "hora": "22:06",
+ "provincia": "Guipúzcoa",
+ "estacion": "San Sebastián",
+ "pk": "622,516",
+ "linea": "Línea 100 Madrid-Hendaya",
+ "tipo": "Arrollamiento de una persona"
 }

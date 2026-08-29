@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0051/2016",
- "titulo": "Colisión entre trenes en la estación de L'Hospitalet de Llobregat por fallo lógico del enclavamiento y error humano",
+ "titulo": "INFORME FINAL DE LA CIAF (IFC) SOBRE EL ACCIDENTE FERROVIARIO Nº 0051/2016 OCURRIDO EL DÍA 04.11.2016 EN LA ESTACIÓN DE L’ HOSPITALET DE LLOBREGAT (BARCELONA)",
  "fecha_suceso": "2016-11-04",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -57,5 +57,9 @@
   "Uso inadecuado de velocidad prefijada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-11-04",
+ "provincia": "Barcelona",
+ "estacion": "L'Hospitalet de Llobregat",
+ "tipo": "Accidente ferroviario"
 }

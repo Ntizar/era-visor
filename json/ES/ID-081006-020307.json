@@ -53,5 +53,12 @@
   "Falta de atención a indicaciones acústicas"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-08",
+ "hora": "11:40",
+ "provincia": "Barcelona",
+ "estacion": "Cunit – Sant Vicent de Calders",
+ "pk": "625,120",
+ "linea": "Madrid-Barcelona",
+ "tipo": "Arrollamiento de una persona"
 }

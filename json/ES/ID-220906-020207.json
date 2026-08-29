@@ -71,5 +71,12 @@
   "Falta de control de accesos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-09-22",
+ "hora": "19:55",
+ "provincia": "La Coruña",
+ "estacion": "Meirama",
+ "pk": "430,433",
+ "linea": "Zamora-La Coruña",
+ "tipo": "arrollamiento"
 }

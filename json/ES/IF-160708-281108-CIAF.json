@@ -13,7 +13,10 @@
   "estacion": "Valencia Nord",
   "provincia": "Valencia",
   "pk": "108,898",
-  "linea": "300 Madrid Chamartín – Valencia Estación de Nord"
+  "linea": "300 Madrid Chamartín – Valencia Estación de Nord",
+  "lat": 39.43151999710857,
+  "lng": -0.3888389628342857,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -60,5 +63,12 @@
   "Asentamiento chabolista cercano"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-07-16",
+ "hora": "12:17",
+ "provincia": "Valencia",
+ "estacion": "Valencia Nord",
+ "pk": "108,898",
+ "linea": "300 Madrid Chamartín – Valencia Estación de Nord",
+ "tipo": "Arrollamiento de persona"
 }

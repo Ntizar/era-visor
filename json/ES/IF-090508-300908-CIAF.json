@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Zaragoza",
   "pk": "214,220",
-  "linea": "Línea 200 Madrid-Barcelona"
+  "linea": "Línea 200 Madrid-Barcelona",
+  "lat": 41.2961878732141,
+  "lng": -1.9675598602821158,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora-Mercancías",
@@ -70,5 +73,11 @@
  "meteorologia": [
   "luz artificial"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-05-09",
+ "hora": "22:40",
+ "provincia": "Zaragoza",
+ "pk": "214,220",
+ "linea": "200 Madrid-Barcelona",
+ "tipo": "Arrollamiento"
 }

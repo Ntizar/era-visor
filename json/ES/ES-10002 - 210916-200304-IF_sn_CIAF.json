@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "19/2020",
- "titulo": "Incidente por despacho sin bloqueo en la estación de Xeraco (Valencia)",
+ "titulo": "Incidente ferroviario ocurrido en la estación de Xeraco (Valencia), el 4 de marzo de 2020",
  "fecha_suceso": "2020-03-04",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -57,5 +57,9 @@
   "Falta formación desactivar GRP"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2020-03-04",
+ "provincia": "Valencia",
+ "estacion": "Xeraco",
+ "tipo": "Incidente"
 }

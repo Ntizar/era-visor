@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Lugo",
   "pk": "0+851",
-  "linea": "810 Vigo-Monforte de Lemos"
+  "linea": "810 Vigo-Monforte de Lemos",
+  "lat": 42.52256481123227,
+  "lng": -7.505545460130142,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,11 @@
   "Actuación correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-10-08",
+ "hora": "18:30",
+ "provincia": "Lugo",
+ "pk": "0+851",
+ "linea": "810 Vigo – Monforte de Lemos",
+ "tipo": "Arrollamiento"
 }

@@ -57,5 +57,9 @@
   "No comunicar documentos de trabajo"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-08-21",
+ "provincia": "Lleida",
+ "estacion": "Lleida-Pirineus",
+ "tipo": "incidente"
 }

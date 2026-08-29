@@ -72,5 +72,11 @@
   "Maquinista en condiciones aptas"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-21",
+ "hora": "16:24",
+ "provincia": "Tarragona",
+ "pk": "77,930",
+ "linea": "Lérida-Tarragona",
+ "tipo": "Accidente ferroviario grave"
 }

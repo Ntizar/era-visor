@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Málaga",
   "pk": "14,250",
-  "linea": "426 Granada-Fuente de Piedra"
+  "linea": "426 Granada-Fuente de Piedra",
+  "lat": 36.63186014,
+  "lng": -4.49747083,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,31 @@
   "RU involved": "Heritage train of Asociación de Amigos del Ferrocarril de Bilbao",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused as the braking system didn´t work and the train drifted"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Cruce por paso vicioso no autorizado",
+  "Desmantelamiento previo del paso a nivel"
+ ],
+ "mitigaciones": [
+  "Uso repetido del silbato",
+  "Acción inmediata del freno de emergencia"
+ ],
+ "factores_humanos": [
+  "Problemas de audición de la víctima",
+  "Falta de percepción del peligro"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-09-25",
+ "hora": "13:21",
+ "provincia": "Málaga",
+ "pk": "14,250",
+ "linea": "426 Granada-Fuente de Piedra",
+ "tipo": "Arrollamiento de una persona"
 }

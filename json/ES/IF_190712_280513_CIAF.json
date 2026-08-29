@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Córdoba",
   "pk": "393+525",
-  "linea": "400 Alcázar de San Juan - Cádiz"
+  "linea": "400 Alcázar de San Juan - Cádiz",
+  "lat": 37.992676461115536,
+  "lng": -4.351333623486056,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -46,5 +49,36 @@
   "Estimated total material costs": "150 000 - 2 000 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is caused by a technical failure of the rolling stock, when an axle journal broke down due to an overheating of the axle box",
   "Underlying and root causes description (i.e. systemic factors, if any)": "The situation was not properly handled by the staff."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "falta tapón caja grasa eje",
+  "sobrecalentamiento no detectado antes",
+  "tren tierra sin conexión asignada",
+  "demora comunicación vía móvil"
+ ],
+ "mitigaciones": [
+  "detector ejes calientes genera alarma",
+  "jefe CTC intenta contactar maquinista",
+  "maquinista frena emergencia al ver hilo"
+ ],
+ "factores_humanos": [
+  "no verificar canal tren tierra",
+  "gestión incidencia no adecuada",
+  "no usar llamada general ni cierre señales",
+  "mantenimiento insuficiente tras reparación"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-07-19",
+ "hora": "00:07",
+ "provincia": "Córdoba",
+ "pk": "393+525",
+ "linea": "400 Alcázar de San Juan - Cádiz",
+ "tipo": "descarrilamiento"
 }

@@ -73,5 +73,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-08-09",
+ "hora": "20:28",
+ "provincia": "Asturias",
+ "estacion": "Apeadero de Ciaño",
+ "pk": "19/338",
+ "linea": "Soto de Rey a El Entrego",
+ "tipo": "Arrollamiento de persona"
 }

@@ -23,5 +23,20 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-07-06",
+ "provincia": "Málaga",
+ "linea": "420 Bif. Las Maravillas - Algeciras",
+ "tipo": "Paso a nivel"
 }

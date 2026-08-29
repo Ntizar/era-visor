@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre Cerdido y Ortigueira",
   "provincia": "A Coruña",
-  "lat": 43.59,
-  "lng": -7.61
+  "lat": 43.64794811,
+  "lng": -7.91150686,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "P.K. 43+559",
  "linea": "11 Ferrol - Gijón",

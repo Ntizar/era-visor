@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Cartagena",
   "provincia": "Murcia",
-  "lat": 38.0,
-  "lng": -1.1333
+  "lat": 37.87607558,
+  "lng": -1.35912531,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "16+708",
  "linea": "nº 45 Cartagena – Los Nietos",

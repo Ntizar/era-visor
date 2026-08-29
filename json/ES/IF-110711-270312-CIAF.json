@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Huesca",
   "pk": "11+758",
-  "linea": "Línea 204 Bif. Canfranc - Canfranc (tramo Jaca - Canfranc)"
+  "linea": "Línea 204 Bif. Canfranc - Canfranc (tramo Jaca - Canfranc)",
+  "lat": 42.65602929923077,
+  "lng": -0.5473721958591093,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -64,5 +67,11 @@
   "Pruebas de alcoholemia negativas"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-07-11",
+ "hora": "11:53",
+ "provincia": "Huesca",
+ "pk": "11+758",
+ "linea": "204 Bif. Canfranc - Canfranc",
+ "tipo": "descarrilamiento"
 }

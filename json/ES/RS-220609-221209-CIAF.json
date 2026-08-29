@@ -26,5 +26,21 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-06-22",
+ "provincia": "Asturias",
+ "estacion": "Infiesto",
+ "linea": "21 Oviedo - Santander",
+ "tipo": "paso a nivel"
 }

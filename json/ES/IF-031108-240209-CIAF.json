@@ -13,7 +13,10 @@
   "estacion": "Cardedeu",
   "provincia": "Barcelona",
   "pk": "143,105",
-  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal"
+  "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+  "lat": 41.63329465716514,
+  "lng": 2.366371941004587,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,12 @@
   "Ausencia de control de accesos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-11-03",
+ "hora": "20:29",
+ "provincia": "Barcelona",
+ "estacion": "Cardedeu",
+ "pk": "143,105",
+ "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+ "tipo": "arrollamiento de una persona"
 }

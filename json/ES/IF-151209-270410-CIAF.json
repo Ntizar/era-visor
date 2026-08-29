@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Asturias",
   "pk": "191+222",
-  "linea": "Línea 11 Ferrol-Oviedo"
+  "linea": "Línea 11 Ferrol-Oviedo",
+  "lat": 43.52625938,
+  "lng": -6.7169445,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -64,5 +67,12 @@
   "Visibilidad limitada tras salida túnel"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-12-15",
+ "hora": "17:27",
+ "provincia": "Asturias",
+ "estacion": "Navia",
+ "pk": "P.K. 191+222",
+ "linea": "11 Ferrol-Oviedo",
+ "tipo": "Colisión y descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Valencia Sant Isidre",
   "provincia": "Valencia",
   "pk": "84+565",
-  "linea": "310 Aranjuez – Valencia Estació del Nord"
+  "linea": "310 Aranjuez – Valencia Estació del Nord",
+  "lat": 39.45729398066412,
+  "lng": -0.4094864320687023,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -65,5 +68,12 @@
   "mantenimiento preventivo insuficiente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-12-15",
+ "hora": "07:52",
+ "provincia": "Valencia",
+ "estacion": "Valencia Sant Isidre",
+ "pk": "84+565",
+ "linea": "310 Aranjuez – Valencia Estació del Nord",
+ "tipo": "descarrilamiento"
 }

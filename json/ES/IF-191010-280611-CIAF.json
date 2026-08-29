@@ -13,7 +13,10 @@
   "estacion": "Gijón",
   "provincia": "Asturias",
   "pk": "1+057",
-  "linea": "61 Gijón - Laviana"
+  "linea": "61 Gijón - Laviana",
+  "lat": 41.9822262,
+  "lng": -4.50534836,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -66,5 +69,12 @@
   "Autorización sin verificar seguridad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-10-19",
+ "hora": "15:25",
+ "provincia": "Asturias",
+ "estacion": "Gijón",
+ "pk": "1+057",
+ "linea": "61 Gijón - Laviana",
+ "tipo": "Conato de colisión"
 }

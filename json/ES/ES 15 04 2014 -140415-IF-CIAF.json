@@ -13,7 +13,10 @@
   "estacion": "Bifurcación Arcade",
   "provincia": "Pontevedra",
   "pk": "17+896",
-  "linea": "línea 824 Redondela de Galicia - Santiago de Compostela"
+  "linea": "línea 824 Redondela de Galicia - Santiago de Compostela",
+  "lat": 42.33946187,
+  "lng": -8.61042967,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Comsa Rail Transport",
@@ -52,5 +55,12 @@
   "No detectó pestaña elevada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-04-15",
+ "hora": "18:09",
+ "provincia": "Pontevedra",
+ "estacion": "Bifurcación Arcade",
+ "pk": "17+896",
+ "linea": "824 Redondela de Galicia a Santiago de Compostela",
+ "tipo": "Descarrilamiento"
 }

@@ -56,5 +56,11 @@
   "Plan mantenimiento insuficiente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-08-06",
+ "hora": "22:05",
+ "provincia": "Huesca",
+ "pk": "390+500",
+ "linea": "050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro",
+ "tipo": "Incendio"
 }

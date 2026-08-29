@@ -13,7 +13,10 @@
   "estacion": "Lezama",
   "provincia": "Álava",
   "pk": "194+047",
-  "linea": "700 Intermodal Abando Indalecio Prieto a Casetas"
+  "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+  "lat": 43.02440693460036,
+  "lng": -2.9820087451488333,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Activa Rail",
@@ -43,5 +46,35 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused due to an infrastructure failure. In the area was detected that values for the cant and the warping of track were out of tolerance (bad quality of rail plus heavy rains)."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Mala calidad de vía",
+  "Peraltes y alabeos fuera tolerancia",
+  "Intensas lluvias previas",
+  "Última nivelación en 2008"
+ ],
+ "mitigaciones": [
+  "Activación freno urgencia",
+  "Velocidad inferior máxima permitida",
+  "Limitación velocidad tras suceso"
+ ],
+ "factores_humanos": [
+  "Conducción sin irregularidades",
+  "Cumplimiento normativa personal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-12-24",
+ "hora": "01:00",
+ "provincia": "Álava",
+ "estacion": "Lezama",
+ "pk": "194+047",
+ "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+ "tipo": "descarrilamiento"
 }

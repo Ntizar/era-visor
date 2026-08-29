@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0053/2014",
- "titulo": "Rebase de señal en parada por maniobra de material vacío en Barcelona Estació de França",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2014 OCURRIDO EL DÍA 26.09.2014 EN BARCELONA ESTACIÓ DE FRANÇA (BARCELONA)",
  "fecha_suceso": "2014-09-26",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -53,5 +53,10 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-09-26",
+ "hora": "16:46:28",
+ "provincia": "Barcelona",
+ "estacion": "Barcelona Estació de França",
+ "tipo": "incidente ferroviario"
 }

@@ -13,7 +13,10 @@
   "estacion": "Zaragoza Delicias",
   "provincia": "Zaragoza",
   "pk": "PK 305+740",
-  "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias"
+  "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias",
+  "lat": 41.66883892,
+  "lng": -0.92945469,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -64,5 +67,12 @@
  ],
  "factores_humanos": [],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-01-04",
+ "hora": "19:20",
+ "provincia": "Zaragoza",
+ "estacion": "Zaragoza Delicias",
+ "pk": "305+740",
+ "linea": "060 Cambiador de Zaragoza Delicias a Bifurcación Cambiador de Zaragoza Delicias",
+ "tipo": "descarrilamiento"
 }

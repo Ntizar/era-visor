@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-692",
  "expediente": "0001/2009",
- "titulo": "Arrollamiento de una persona por tren de cercanías en la estación de Sitges",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2009 OCURRIDO EL DÍA 01.01.2009 EN LA ESTACIÓN DE SITGES",
  "fecha_suceso": "2009-01-01",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Sitges",
   "provincia": "Barcelona",
   "pk": "643,230",
-  "linea": "200 Madrid Chamartín - Barcelona Sants"
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "lat": 41.239293715753426,
+  "lng": 1.8090553367123292,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -65,5 +68,12 @@
   "Actuación correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-01-01",
+ "hora": "08:13",
+ "provincia": "Barcelona",
+ "estacion": "Sitges",
+ "pk": "643,230",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "tipo": "Arrollamiento"
 }

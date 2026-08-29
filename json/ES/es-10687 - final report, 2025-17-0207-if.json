@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-10687",
  "expediente": "17/2025",
- "titulo": "Rebase de señal de salida en la estación de Las Matas (Madrid)",
+ "titulo": "Rebase de señal en la estación de Las Matas (Madrid) el 7 de febrero de 2025",
  "fecha_suceso": "2025-02-07",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -75,5 +75,10 @@
   "Presión operativa por despejar vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2025-02-07",
+ "hora": "18:56",
+ "provincia": "Madrid",
+ "estacion": "Las Matas",
+ "tipo": "Rebase de señal"
 }

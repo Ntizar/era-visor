@@ -55,5 +55,9 @@
   "procedimientos permitían errores coordinación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-08-31",
+ "provincia": "Zaragoza",
+ "estacion": "Zaragoza Delicias",
+ "tipo": "Descarrilamiento"
 }

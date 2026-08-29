@@ -65,5 +65,11 @@
   "No percatarse de proximidad del tren"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-15",
+ "hora": "08:50",
+ "provincia": "Valencia",
+ "pk": "28,363",
+ "linea": "Silla-Gandía",
+ "tipo": "arrollamiento en paso a nivel"
 }

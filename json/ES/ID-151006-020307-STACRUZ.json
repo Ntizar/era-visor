@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-25",
  "expediente": "0038/2006",
- "titulo": "Arrollamiento mortal de una persona por un tren de viajeros en la estación de Santa Cruz de Mudela, Ciudad Real",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0038/2006 OCURRIDO EL DÍA 15.10.2006",
  "fecha_suceso": "2006-10-15",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -71,5 +71,12 @@
   "Cerramiento no en condiciones aceptables"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-15",
+ "hora": "13:00",
+ "provincia": "Ciudad Real",
+ "estacion": "Santa Cruz de Mudela",
+ "pk": "239,544",
+ "linea": "Alcázar de San Juan-Cádiz",
+ "tipo": "Arrollamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Alcolea de Córdoba",
   "provincia": "Córdoba",
   "pk": "429,825",
-  "linea": "400 Alcázar de San Juan-Cádiz"
+  "linea": "400 Alcázar de San Juan-Cádiz",
+  "lat": 37.9324672958765,
+  "lng": -4.663323791015936,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,12 @@
   "Actuación correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-01-10",
+ "hora": "15:26",
+ "provincia": "Córdoba",
+ "estacion": "Alcolea de Córdoba",
+ "pk": "429,825",
+ "linea": "400 Alcázar de San Juan-Cádiz",
+ "tipo": "arrollamiento"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-554",
  "expediente": "0026/2008",
- "titulo": "Arrollamiento de dos peatones por tren en P.K. 26,100, línea Barcelona Sagrera-Maçanet-Massanes, entre Vilassar y Mataró",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0026/2008 OCURRIDO EL DÍA 24.06.2008",
  "fecha_suceso": "2008-06-24",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Barcelona",
   "pk": "26,100",
-  "linea": "276 Barcelona Sagrera a Maçanet-Massanes"
+  "linea": "276 Barcelona Sagrera a Maçanet-Massanes",
+  "lat": 41.58732319,
+  "lng": 2.27202133,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,39 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Defectos en vallado ferroviario",
+  "Pasos viciosos en vallado",
+  "Falta paso peatonal alternativo",
+  "Peatones accedieron a vía"
+ ],
+ "mitigaciones": [
+  "Uso de silbato por maquinista",
+  "Freno de urgencia aplicado",
+  "Reparación de discontinuidades en vallado",
+  "Construcción de pasarela peatonal"
+ ],
+ "factores_humanos": [
+  "Presencia de víctimas en vía",
+  "Maquinista reaccionó correctamente",
+  "Gestión deficiente de vallado",
+  "Movilidad urbana no resuelta"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-06-24",
+ "hora": "13:36",
+ "provincia": "Barcelona",
+ "pk": "26,100",
+ "linea": "276 Barcelona Sagrera a Maçanet-Massanes",
+ "tipo": "Arrollamiento"
 }

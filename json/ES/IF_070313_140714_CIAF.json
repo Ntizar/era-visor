@@ -13,7 +13,10 @@
   "estacion": "Viana de Cega",
   "provincia": "Valladolid",
   "pk": "PK 234+843",
-  "linea": "Línea 100 Madrid - Hendaya"
+  "linea": "Línea 100 Madrid - Hendaya",
+  "lat": 41.51586729209565,
+  "lng": -4.754132521878261,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train VB688 (empty stock) unduly overtook both home and backing signals (E2 and R2) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tren con motor parado",
+  "Maquinista atento al panel",
+  "No reduce velocidad en anuncio",
+  "Rebasa baliza previa a alta velocidad"
+ ],
+ "mitigaciones": [
+  "Frenado de urgencia ASFA",
+  "Tren auscultador detenido",
+  "Distancia de 226 metros",
+  "Comprobación posterior del ASFA"
+ ],
+ "factores_humanos": [
+  "Despiste por motor averiado",
+  "Incumplimiento de señales",
+  "Fallo humano en conducción",
+  "No inicia frenado ante parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-03-07",
+ "hora": "13:15",
+ "provincia": "Valladolid",
+ "estacion": "Viana de Cega",
+ "pk": "234+843",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "incidente"
 }

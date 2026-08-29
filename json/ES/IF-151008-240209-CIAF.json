@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-600",
  "expediente": "0050/2008",
- "titulo": "Arrollamiento de una persona por tren de cercanías en el apartadero de El Caleyo (Asturias)",
+ "titulo": "Informe Final sobre la investigación del accidente ferroviario Nº 0050/2008 ocurrido el día 15.10.2008",
  "fecha_suceso": "2008-10-15",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Apartadero de El Caleyo",
   "provincia": "Asturias",
   "pk": "134,396",
-  "linea": "130 Venta de Baños - Gijón"
+  "linea": "130 Venta de Baños - Gijón",
+  "lat": 43.327534150906665,
+  "lng": -5.8750298113333335,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,12 @@
   "falta evaluación seguridad del cruce"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-10-15",
+ "hora": "07:31",
+ "provincia": "Asturias",
+ "estacion": "El Caleyo",
+ "pk": "134,396",
+ "linea": "130 Venta de Baños - Gijón",
+ "tipo": "Arrollamiento de una persona"
 }

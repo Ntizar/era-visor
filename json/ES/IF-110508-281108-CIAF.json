@@ -13,7 +13,10 @@
   "estacion": "Villarrobledo",
   "provincia": "Albacete",
   "pk": "202,400",
-  "linea": "300 Madrid-Chamartín Valencia–Estación de Nord"
+  "linea": "300 Madrid-Chamartín Valencia–Estación de Nord",
+  "lat": 39.264674339038464,
+  "lng": -2.6196749921153843,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -64,5 +67,12 @@
   "maquinista actúa correctamente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-05-11",
+ "hora": "17:53",
+ "provincia": "Albacete",
+ "estacion": "Villarrobledo",
+ "pk": "202,400",
+ "linea": "300 Madrid-Chamartín Valencia–Estación de Nord",
+ "tipo": "Arrollamiento"
 }

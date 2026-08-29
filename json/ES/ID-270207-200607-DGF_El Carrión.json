@@ -13,7 +13,10 @@
   "estacion": "Apeadero de El Carrión",
   "provincia": "Palencia",
   "pk": "310,550",
-  "linea": "Línea 160 Santander-Palencia"
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": 42.0814446909,
+  "lng": -4.5308446827,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -68,5 +71,12 @@
   "Falta de paso peatonal"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-02-27",
+ "hora": "10:12",
+ "provincia": "Palencia",
+ "estacion": "El Carrión",
+ "pk": "310,550",
+ "linea": "160 Santander-Palencia",
+ "tipo": "Accidente ferroviario grave"
 }

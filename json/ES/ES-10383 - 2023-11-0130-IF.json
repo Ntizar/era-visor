@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-10383",
  "expediente": "11/2023",
- "titulo": "Incendio en pantógrafos del tren 120.054 en el cambiador de ancho de Alcolea (Córdoba)",
+ "titulo": "Incendio de material rodante ocurrido el día 30 de enero de 2023 en el cambiador de ancho de Alcolea",
  "fecha_suceso": "2023-01-30",
  "tipo_informe": "final",
  "tipo_suceso": "incendio",
@@ -13,7 +13,10 @@
   "estacion": "Cambiador de ancho de Alcolea",
   "provincia": "Córdoba",
   "pk": "000+490",
-  "linea": "408"
+  "linea": "408",
+  "lat": 37.92467369,
+  "lng": -4.69199066,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "RENFE",
@@ -76,5 +79,11 @@
   "Manual de conducción impreciso"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2023-01-30",
+ "provincia": "Córdoba",
+ "estacion": "Cambiador de Alcolea",
+ "pk": "000+490",
+ "linea": "408",
+ "tipo": "Incendio de material rodante"
 }

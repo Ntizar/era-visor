@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Salamanca",
   "pk": "122+116",
-  "linea": "120 Vilar Formoso - Medina del Campo"
+  "linea": "120 Vilar Formoso - Medina del Campo",
+  "lat": 40.59437168727412,
+  "lng": -6.828483117785304,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,11 @@
   "maquinista aplicó medidas de urgencia"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-12-03",
+ "hora": "10:31",
+ "provincia": "Salamanca",
+ "pk": "122+116",
+ "linea": "120 Vilar Formoso – Medina del Campo",
+ "tipo": "Arrollamiento"
 }

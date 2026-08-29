@@ -11,9 +11,7 @@
  "gravedad": "muy grave",
  "ubicacion": {
   "estacion": "Coslada",
-  "provincia": "Madrid",
-  "lat": 42.25,
-  "lng": -5.8333
+  "provincia": "Madrid"
  },
  "pk": null,
  "linea": null,

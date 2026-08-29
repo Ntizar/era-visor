@@ -32,5 +32,35 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No respetar plan mantenimiento",
+  "Conducción en frenado adverso",
+  "Vehículos sin mantenimiento programado",
+  "Intervenciones mantenimiento no consistentes"
+ ],
+ "mitigaciones": [
+  "Campaña específica inspecciones mantenimiento",
+  "Refuerzo prácticas conducción adversa",
+  "Garantizar cumplimiento plan mantenimiento",
+  "Adaptar conducción condiciones reales"
+ ],
+ "factores_humanos": [
+  "Incumplimiento plan mantenimiento",
+  "Prácticas conducción inadecuadas",
+  "Control mantenimiento insuficiente",
+  "Organización mantenimiento deficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-10-23",
+ "estacion": "Villalba de Guadarrama",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "incidente"
 }

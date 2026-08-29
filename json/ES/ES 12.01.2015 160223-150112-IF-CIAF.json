@@ -57,5 +57,9 @@
   "Falta de trazabilidad formativa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-01-12",
+ "provincia": "Barcelona",
+ "estacion": "Barcelona Marina",
+ "tipo": "incidente"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-607",
  "expediente": "0061/2008",
- "titulo": "Arrollamiento de una persona por el tren 12604 en paso a nivel de Monforte de Lemos",
+ "titulo": "Informe final sobre la investigación del accidente ferroviario Nº 0061/2008 ocurrido el día 10.11.2008",
  "fecha_suceso": "2008-11-10",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Monforte de Lemos",
   "provincia": "Lugo",
   "pk": "2,455",
-  "linea": "810 Vigo - Monforte de Lemos"
+  "linea": "810 Vigo - Monforte de Lemos",
+  "lat": 42.51204623995035,
+  "lng": -7.520432731904256,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,12 @@
   "Ignorar silbato del tren"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-11-10",
+ "hora": "09:30",
+ "provincia": "Lugo",
+ "estacion": "Monforte de Lemos",
+ "pk": "P.K. 2,455",
+ "linea": "810 Vigo - Monforte de Lemos",
+ "tipo": "Arrollamiento de una persona"
 }

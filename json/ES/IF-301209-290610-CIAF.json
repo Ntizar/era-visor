@@ -13,7 +13,10 @@
   "estacion": "Fuenmayor",
   "provincia": "La Rioja",
   "pk": "92+020",
-  "linea": "700 Intermodal Abando Indalecio Prieto - Casetas"
+  "linea": "700 Intermodal Abando Indalecio Prieto - Casetas",
+  "lat": 42.479740495617015,
+  "lng": -2.5868551547659573,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when passenger train 930 collided with large rock (about 1cubic metre) that had fallen from the cutting. The existing mesh couldn´t resist the impact of the rock that fell from a 25 metres height."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "desprendimiento de roca desde ladera",
+  "malla metálica no soportó impacto",
+  "visibilidad limitada al salir curva",
+  "insuficiente tratamiento de trincheras"
+ ],
+ "mitigaciones": [
+  "accionamiento del freno de emergencia",
+  "velocidad inferior a máxima permitida",
+  "malla de protección habría contenido roca",
+  "plan de tratamiento de explanaciones"
+ ],
+ "factores_humanos": [
+  "maquinista actuó sobre freno emergencia",
+  "personal cumplía normativa vigente",
+  "insuficiente gestión de taludes",
+  "prueba de alcoholemia negativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-12-30",
+ "hora": "03:08",
+ "provincia": "La Rioja",
+ "estacion": "Fuenmayor",
+ "pk": "92+020",
+ "linea": "700 Intermodal Abando Indalecio Prieto - Casetas",
+ "tipo": "Colisión y descarrilamiento"
 }

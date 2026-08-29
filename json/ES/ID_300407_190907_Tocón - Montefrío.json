@@ -13,7 +13,10 @@
   "estacion": "Tocón - Montefrío",
   "provincia": "Granada",
   "pk": "88,612",
-  "linea": "Línea 426 Granada – Fuente de Piedra"
+  "linea": "Línea 426 Granada – Fuente de Piedra",
+  "lat": 40.0746111,
+  "lng": 0.1293638,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -68,5 +71,12 @@
   "Uso indebido de infraestructura existente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-30",
+ "hora": "14:37",
+ "provincia": "Granada",
+ "estacion": "Tocón - Montefrío",
+ "pk": "88,612",
+ "linea": "426 Granada – Fuente de Piedra",
+ "tipo": "Arrollamiento"
 }

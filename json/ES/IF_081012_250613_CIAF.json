@@ -13,7 +13,10 @@
   "estacion": "Villanueva de Gállego - Zuera",
   "provincia": "Huesca",
   "pk": "PK 25+100",
-  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia, tramo San Juan de Mozarrifar - Zuera"
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia, tramo San Juan de Mozarrifar - Zuera",
+  "lat": 41.18857889159292,
+  "lng": 1.4000861411504426,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,37 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The breakage has its cause in an old crack probably made when the axle came into contact with a welding equipment."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Fisura antigua por arco eléctrico",
+  "Contacto con equipo soldadura",
+  "Progresión por fatiga",
+  "Incumplimiento intervención tipo R"
+ ],
+ "mitigaciones": [
+  "Freno de servicio aplicado",
+  "Maquinista observó chispas",
+  "Inspección ultrasonidos ejes",
+  "Modificación plan mantenimiento"
+ ],
+ "factores_humanos": [
+  "Incumplimiento intervención tipo R",
+  "Fisura no detectada por ultrasonidos",
+  "Contacto con equipo soldadura",
+  "Detección por maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-10-08",
+ "hora": "07:48",
+ "provincia": "Huesca",
+ "pk": "25+100",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "tipo": "Incidente"
 }

@@ -49,5 +49,8 @@
   "Medios humanos y materiales insuficientes"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-09-30",
+ "provincia": "Asturias",
+ "tipo": "Descarrilamiento"
 }

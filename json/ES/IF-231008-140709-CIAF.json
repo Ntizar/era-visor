@@ -13,7 +13,10 @@
   "estacion": "Villalba de Guadarrama",
   "provincia": "Madrid",
   "pk": "38,748",
-  "linea": "Línea 100 Madrid - Hendaya, tramo Villalba de Guadarrama - El Escorial"
+  "linea": "Línea 100 Madrid - Hendaya, tramo Villalba de Guadarrama - El Escorial",
+  "lat": 40.62559197246452,
+  "lng": -4.015090596283871,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "COMSA Rail Transport",
@@ -43,5 +46,38 @@
   "Movement type": "Freight train",
   "RU involved": "COMSA RAIL TRANSPORT",
   "IM involved": "ADIF"
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "frenado insuficiente no reduce velocidad",
+  "pasa baliza previa velocidad excesiva",
+  "intervención IS fuera programación",
+  "no intervención CN entre IB IS"
+ ],
+ "mitigaciones": [
+  "activación ASFA frenado emergencia",
+  "no alcance otro tren",
+  "no talonamiento aguja",
+  "inspección planes mantenimiento"
+ ],
+ "factores_humanos": [
+  "maquinista en prácticas conduciendo",
+  "incumplimiento plan mantenimiento",
+  "no cumple programación mantenimiento",
+  "formación condiciones adversas frenado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-10-23",
+ "hora": "12:29",
+ "provincia": "Madrid",
+ "estacion": "Villalba de Guadarrama",
+ "pk": "38,748",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "incidente"
 }

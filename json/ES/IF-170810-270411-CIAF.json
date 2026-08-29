@@ -13,7 +13,10 @@
   "estacion": "Ponferrada",
   "provincia": "León",
   "pk": "250+950",
-  "linea": "800 A Coruña - León"
+  "linea": "800 A Coruña - León",
+  "lat": 42.54562458,
+  "lng": -6.60202612,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -65,5 +68,12 @@
   "No respetar indicación parada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-08-17",
+ "hora": "20:04",
+ "provincia": "León",
+ "estacion": "Ponferrada",
+ "pk": "250+950",
+ "linea": "800 A Coruña - León",
+ "tipo": "Incidente"
 }

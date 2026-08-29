@@ -40,5 +40,39 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Ocupación víctima del gálibo",
+  "Centro ocio junto a vía",
+  "Aparcamiento sin separación",
+  "Iluminación artificial impidió percepción"
+ ],
+ "mitigaciones": [
+  "Vallado zona complejo ocio",
+  "Velocidad tren bajo límite",
+  "Maquinista habilitado descansado",
+  "Parada inmediata del tren"
+ ],
+ "factores_humanos": [
+  "Víctima no percibió tren",
+  "Ruido y música distractores",
+  "Maquinista sin alcohol",
+  "Entorno ferroviario sin separación"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-06-22",
+ "hora": "05:25",
+ "provincia": "Huesca",
+ "pk": "149,950",
+ "linea": "200 Madrid-Barcelona",
+ "tipo": "arrollamiento"
 }

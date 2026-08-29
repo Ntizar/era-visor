@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-214",
  "expediente": "0021/2007",
- "titulo": "Arrollamiento mortal de una persona por tren LD 311 entre Hernani Centro y Hernani, línea Madrid-Hendaya",
+ "titulo": "Arrollamiento de una persona, resultando fallecida, por tren Larga Distancia 311 entre Hernani Centro y Hernani, Línea 100 Madrid-Hendaya",
  "fecha_suceso": "2007-03-18",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -70,5 +70,12 @@
  "meteorologia": [
   "luz artificial"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-03-18",
+ "hora": "06:03",
+ "provincia": "Guipúzcoa",
+ "estacion": "Hernani",
+ "pk": "615/644",
+ "linea": "Línea 100 Madrid-Hendaya",
+ "tipo": "arrollamiento"
 }

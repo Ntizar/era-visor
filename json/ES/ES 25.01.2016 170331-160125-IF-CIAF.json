@@ -51,5 +51,11 @@
   "Incumplimiento reglamentario del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-01-25",
+ "hora": "23:29",
+ "provincia": "Alicante",
+ "estacion": "Elx Parc",
+ "linea": "336 El Reguerón a Alacant Terminal",
+ "tipo": "conato de colisión por alcance"
 }

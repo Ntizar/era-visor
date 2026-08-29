@@ -57,5 +57,9 @@
   "Comunicación deficiente entre CG PM"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2021-01-29",
+ "provincia": "Valencia",
+ "estacion": "apeadero de L’Énova-Manuel",
+ "tipo": "Incidente operacional"
 }

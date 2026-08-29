@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-13",
  "expediente": "0022/2006",
- "titulo": "Arrollamiento mortal de un joven por tren de Cercanías en Lorca San Diego (Murcia)",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2006 OCURRIDO EL DÍA 17.05.2006",
  "fecha_suceso": "2006-05-17",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -71,5 +71,12 @@
   "Respuesta correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-05-17",
+ "hora": "19:40",
+ "provincia": "Murcia",
+ "estacion": "Lorca San Diego",
+ "pk": "0,385",
+ "linea": "Línea 322 Murcia Cargas-Águilas",
+ "tipo": "arrollamiento"
 }

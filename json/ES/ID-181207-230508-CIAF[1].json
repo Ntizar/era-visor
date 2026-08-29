@@ -67,5 +67,11 @@
   "Falta de medidas de protección"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-12-18",
+ "hora": "14:10",
+ "provincia": "Pontevedra",
+ "pk": "165,160",
+ "linea": "810 Monforte de Lemos-Vigo",
+ "tipo": "Arrollamiento"
 }

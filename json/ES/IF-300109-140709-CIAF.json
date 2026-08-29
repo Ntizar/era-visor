@@ -13,7 +13,10 @@
   "estacion": "Sodupe",
   "provincia": "Vizcaya",
   "pk": "631,562",
-  "linea": "24 Santander - Bilbao"
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.31160126,
+  "lng": -1.87703081,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -39,5 +42,33 @@
   "IM involved": "Feve",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Peatón cruza con barreras bajadas",
+  "Intento de cruzar antes del tren"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por maquinista",
+  "Acción del freno de emergencia",
+  "Barreras y señales funcionales"
+ ],
+ "factores_humanos": [
+  "Conducta imprudente de la víctima",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-01-30",
+ "hora": "19:58",
+ "provincia": "Vizcaya",
+ "estacion": "Sodupe",
+ "pk": "631,562",
+ "linea": "24 Santander - Bilbao",
+ "tipo": "Arrollamiento"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-653",
  "expediente": "0066/2008",
- "titulo": "Arrollamiento de un operario por un tren de mercancías en la estación de Tembleque",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0066/2008 OCURRIDO EL DÍA 29.11.2008 EN LA ESTACIÓN DE TEMBLEQUE",
  "fecha_suceso": "2008-11-29",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Tembleque",
   "provincia": "Toledo",
   "pk": "101,270",
-  "linea": "Línea 300 Madrid Chamartín - Valencia Nord (tramo Castillejo Añover - Villacañas)"
+  "linea": "Línea 300 Madrid Chamartín - Valencia Nord (tramo Castillejo Añover - Villacañas)",
+  "lat": 39.366139258800004,
+  "lng": -0.41331044485714286,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -42,5 +45,40 @@
   "IM involved": "ADIF",
   "Staff fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Cruce intempestivo de la vía",
+  "Invasión del gálibo por operario",
+  "Ruido de trabajos nocturnos",
+  "Encargado desconocía tarea del operario"
+ ],
+ "mitigaciones": [
+  "Uso del silbato del tren",
+  "Aplicación del freno de emergencia",
+  "Velocidad limitada a 60 km/h",
+  "Aviso por radioteléfono de Adif"
+ ],
+ "factores_humanos": [
+  "Invasión del gálibo por operario",
+  "No escuchó aviso de tren",
+  "No vio luz de locomotora",
+  "Encargado desconocía tarea del operario"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-11-29",
+ "hora": "03:00",
+ "provincia": "Toledo",
+ "estacion": "Tembleque",
+ "pk": "101,270",
+ "linea": "300 Madrid Chamartín - Valencia Nord",
+ "tipo": "Arrollamiento de un operario"
 }

@@ -14,9 +14,9 @@
   "provincia": "Burgos",
   "pk": "420,623",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": 42.57549614,
-  "lng": -3.30160407,
-  "metodo_geo": "via_pkteorico"
+  "lat": 42.57461359537533,
+  "lng": -3.3021414176361237,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -73,5 +73,11 @@
   "mantenimiento insuficiente de vegetación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-19",
+ "hora": "14:42",
+ "provincia": "Burgos",
+ "pk": "420,623",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento de un vehículo"
 }

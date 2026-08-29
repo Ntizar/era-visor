@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Asturias",
   "pk": "378,130",
-  "linea": "Línea 21 Oviedo-Santander"
+  "linea": "Línea 21 Oviedo-Santander",
+  "lat": 42.66589147,
+  "lng": -4.291303,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -39,5 +42,37 @@
   "Movement type": "Regional passenger train",
   "RU involved": "Feve",
   "IM involved": "Feve"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Alarma distrae atención del conductor",
+  "Reflejo solar dificulta ver pantalla",
+  "Maquinista no reduce velocidad"
+ ],
+ "mitigaciones": [
+  "Limitación permanente velocidad curva",
+  "Revisar reciclaje personal conducción",
+  "Activación protocolo emergencias"
+ ],
+ "factores_humanos": [
+  "Distracción por alarma pantalla",
+  "Reflejo solar dificulta visibilidad",
+  "No reduce velocidad curva"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2009-02-23",
+ "hora": "12:30",
+ "provincia": "Asturias",
+ "estacion": "Soto Dueñas",
+ "pk": "378,130",
+ "linea": "21 Oviedo Santander",
+ "tipo": "Descarrilamiento"
 }

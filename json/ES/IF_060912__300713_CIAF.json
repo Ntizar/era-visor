@@ -13,7 +13,10 @@
   "estacion": "Tardienta",
   "provincia": "Huesca",
   "pk": "51+800",
-  "linea": "Línea 200 Madrid Chamartín - Barcelona Estación de Francia"
+  "linea": "Línea 200 Madrid Chamartín - Barcelona Estación de Francia",
+  "lat": 41.397073052765954,
+  "lng": 1.1090898704255319,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -49,5 +52,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin in a failure of the rolling stock by the breakage of the right axle journal of the second axle of 14th wagon (direction of travel) due to an overheating of the grease box because of the seizing of the aforementioned axle´s bearing. Additionally, there was a failure of the hot axle detector since wrongly assigned the axle overheating alarm to another train."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Superado plazo límite de mantenimiento",
+  "Alarma DEC asignada a otro tren",
+  "Maquinista no detecta anomalía",
+  "Continúa marcha tras reconocimiento"
+ ],
+ "mitigaciones": [
+  "CTC detiene tren para inspección",
+  "Detector de ejes calientes",
+  "Maquinista reconoce composición detenida",
+  "Freno automático detecta pérdida presión"
+ ],
+ "factores_humanos": [
+  "Gestión incorrecta de alarmas",
+  "Superación de plazos de mantenimiento",
+  "No detección de anomalía",
+  "Falta identificación vagón eje"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-09-06",
+ "hora": "03:07",
+ "provincia": "Huesca",
+ "estacion": "Tardienta",
+ "pk": "51+800",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "tipo": "Descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Las Navas del Marqués",
   "provincia": "Ávila",
   "pk": "83,700",
-  "linea": "línea 100 Madrid-Hendaya"
+  "linea": "línea 100 Madrid-Hendaya",
+  "lat": 40.58797353403846,
+  "lng": -4.351164275384615,
+  "metodo_geo": "via_pk"
  },
  "entidades": [],
  "resumen": "El informe corresponde a la resolución del accidente ferroviario nº 0019/2009, ocurrido el 7 de abril de 2009. El suceso se produjo en el paso entre andenes de la estación de Las Navas del Marqués (Ávila), en el punto kilométrico 83,700 de la línea 100 Madrid-Hendaya. La CIAF aprobó como definitivo el informe particular del técnico investigador. En la resolución no se establecen recomendaciones de seguridad.",
@@ -23,5 +26,21 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-04-07",
+ "provincia": "Ávila",
+ "estacion": "Las Navas del Marqués",
+ "pk": "83,700",
+ "linea": "100 Madrid - Hendaya"
 }

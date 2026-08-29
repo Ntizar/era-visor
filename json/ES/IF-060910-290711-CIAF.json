@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1040",
  "expediente": "0049/2010",
- "titulo": "Colisión de tren con camión en paso a nivel provisional por obras en Carmonita (Badajoz)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0049/2010 OCURRIDO EL DÍA 06.09.2010 EN PASO A NIVEL PROVISIONAL POR OBRAS, EN EL TÉRMINO MUNICIPAL DE CARMONITA (BADAJOZ)",
  "fecha_suceso": "2010-09-06",
  "tipo_informe": "final",
  "tipo_suceso": "paso_a_nivel",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Badajoz",
   "pk": "24+420",
-  "linea": "510 Aljucén - Cáceres"
+  "linea": "510 Aljucén - Cáceres",
+  "lat": 38.36301624,
+  "lng": -6.61296633,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -73,5 +76,10 @@
   "Piloto no ve camión"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-09-06",
+ "hora": "12:35",
+ "provincia": "Badajoz",
+ "pk": "24+420",
+ "linea": "510 Aljucén - Cáceres"
 }

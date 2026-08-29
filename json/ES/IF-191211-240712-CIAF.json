@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1312",
  "expediente": "0061/2011",
- "titulo": "Incidente por conexión cruzada de agujas en la estación de Madrid Chamartín",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0061/2011 OCURRIDO EL DÍA 19.12.2011 EN LA ESTACIÓN DE MADRID CHAMARTÍN (MADRID)",
  "fecha_suceso": "2011-12-19",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -69,5 +69,11 @@
   "Falta de etiquetado de conectores"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-12-19",
+ "hora": "05:29",
+ "provincia": "Madrid",
+ "estacion": "Madrid Chamartín",
+ "linea": "900 Madrid-Chamartín a Madrid–Atocha Cercanías",
+ "tipo": "incidente"
 }

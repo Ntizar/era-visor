@@ -71,5 +71,12 @@
   "Ausencia de cuadro de velocidades"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-06-23",
+ "hora": "23:29",
+ "provincia": "Barcelona",
+ "estacion": "Cornellá",
+ "pk": "92,700",
+ "linea": "Tarragona-Barcelona-Francia",
+ "tipo": "arrollamiento"
 }

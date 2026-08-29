@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0010/2015",
- "titulo": "Descarrilamiento del primer eje de un tren en la vía 3 de la Estación de Barcelona Estació de França",
+ "titulo": "Informe final de la CIAF (IF) sobre el accidente ferroviario nº 0010/2015 ocurrido el día 13.02.2015 en la estación de Barcelona Estació de França (Barcelona)",
  "fecha_suceso": "2015-02-13",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Barcelona Estació de França",
   "provincia": "Barcelona",
   "pk": "684+991",
-  "linea": "vía 3"
+  "linea": "vía 3",
+  "lat": 41.38511466,
+  "lng": 2.19128363,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif"
@@ -46,5 +49,11 @@
   "procedimiento general difícil aplicación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-02-13",
+ "hora": "14:36:14",
+ "provincia": "Barcelona",
+ "estacion": "Barcelona Estació de França",
+ "pk": "PK 684+991",
+ "tipo": "Descarrilamiento"
 }

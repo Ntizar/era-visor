@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Villaquilambre",
   "provincia": "León",
-  "lat": 43.18,
-  "lng": -5.85
+  "lat": 42.64228725,
+  "lng": -5.55579403,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "5+037",
  "linea": "31 León - Bilbao",

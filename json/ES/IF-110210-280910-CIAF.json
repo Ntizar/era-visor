@@ -13,7 +13,10 @@
   "estacion": "Pinar de Las Rozas",
   "provincia": "Madrid",
   "pk": "20+658",
-  "linea": "Línea 100 Madrid - Hendaya"
+  "linea": "Línea 100 Madrid - Hendaya",
+  "lat": 40.51478497064,
+  "lng": -3.8778012144800003,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -63,5 +66,12 @@
   "intervalos de mantenimiento insuficientes"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-02-11",
+ "hora": "19:10",
+ "provincia": "Madrid",
+ "estacion": "Pinar de Las Rozas",
+ "pk": "20+658",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "descarrilamiento"
 }

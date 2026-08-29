@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-773",
  "expediente": "0027/2009",
- "titulo": "Conato de colisión por rebase indebido de señal en la estación de Madrid Chamartín",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0027/2009 OCURRIDO EL DÍA 18.06.2009 EN LA ESTACIÓN DE MADRID CHAMARTÍN",
  "fecha_suceso": "2009-06-18",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -13,7 +13,10 @@
   "estacion": "Madrid Chamartín",
   "provincia": "Madrid",
   "pk": "0+00",
-  "linea": "100 Hendaya – Madrid Chamartín"
+  "linea": "100 Hendaya – Madrid Chamartín",
+  "lat": 40.4743225,
+  "lng": -3.6818956,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "Necesidad de reforzar formacion"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-06-18",
+ "hora": "08:20",
+ "provincia": "Madrid",
+ "estacion": "Madrid-Chamartín",
+ "pk": "0+00",
+ "linea": "100 Hendaya – Madrid Chamartín",
+ "tipo": "incidente ferroviario"
 }

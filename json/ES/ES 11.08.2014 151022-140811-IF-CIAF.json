@@ -13,7 +13,10 @@
   "estacion": "Apartadero de Pancorbo",
   "provincia": "Burgos",
   "pk": "437+186",
-  "linea": null
+  "linea": null,
+  "lat": 42.62590643,
+  "lng": -3.14106749,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif"
@@ -54,5 +57,11 @@
   "Acta general sin ubicaciones"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-08-11",
+ "hora": "10:06:30",
+ "provincia": "Burgos",
+ "estacion": "Apartadero de Pancorbo",
+ "pk": "437+186",
+ "tipo": "incidente ferroviario"
 }

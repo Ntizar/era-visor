@@ -11,9 +11,7 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "Torelló",
-  "provincia": "Madrid",
-  "lat": 41.3632,
-  "lng": 2.0083
+  "provincia": "Madrid"
  },
  "pk": null,
  "linea": null,

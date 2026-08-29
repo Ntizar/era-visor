@@ -13,7 +13,10 @@
   "estacion": "Sama de Langreo",
   "provincia": "Asturias",
   "pk": "18+055",
-  "linea": "140 Bif. Tudela Veguín – El Entrego"
+  "linea": "140 Bif. Tudela Veguín – El Entrego",
+  "lat": 43.30095721006198,
+  "lng": -5.689778543363636,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "conducta imprudente de víctimas"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-11-16",
+ "hora": "12:41",
+ "provincia": "Asturias",
+ "estacion": "Sama de Langreo",
+ "pk": "18+055",
+ "linea": "140 Bif. Tudela Veguín – El Entrego",
+ "tipo": "arrollamiento"
 }

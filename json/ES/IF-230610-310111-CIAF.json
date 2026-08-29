@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Platja de Castelldefels",
   "provincia": "Barcelona",
   "pk": "656+598",
-  "linea": "Línea 200 Madrid Chamartín – Barcelona Sants"
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Sants",
+  "lat": 41.267794101976925,
+  "lng": 1.9628569563205127,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,40 @@
   "Unauth. person serious injuries": 10,
   "Total serious injuries": 10,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when a huge group of people crossed the tracks at unauthorised place."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Parada comercial del tren cercanías",
+  "Descenso masivo de viajeros",
+  "No uso del paso inferior",
+  "Cruce tras salida del tren"
+ ],
+ "mitigaciones": [
+  "Paso inferior entre andenes",
+  "Carteles de prohibición de cruce",
+  "Bocina y freno de urgencia",
+  "Faro de largo alcance"
+ ],
+ "factores_humanos": [
+  "Cruce por lugar no autorizado",
+  "Falta de percepción del tren",
+  "Comportamiento de grupo imprudente",
+  "Incumplimiento del Reglamento Ferroviario"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2010-06-23",
+ "hora": "23:23",
+ "provincia": "Barcelona",
+ "estacion": "Apeadero de Platja de Castelldefels",
+ "pk": "656+598",
+ "linea": "200 Madrid Chamartín – Barcelona Sants",
+ "tipo": "Arrollamiento"
 }

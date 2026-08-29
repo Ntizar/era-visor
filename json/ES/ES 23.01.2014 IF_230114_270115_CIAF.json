@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Burgos",
   "pk": "422+950",
-  "linea": "Tramo entre Calzada de Bureba y Briviesca"
+  "linea": "Tramo entre Calzada de Bureba y Briviesca",
+  "lat": 39.43908561,
+  "lng": -7.26171121,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -69,5 +72,11 @@
   "Ausencia de barra de shuntado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-01-23",
+ "hora": "11:43:53",
+ "provincia": "Burgos",
+ "estacion": "Calzada de Bureba",
+ "pk": "422+950",
+ "tipo": "Arrollamiento"
 }

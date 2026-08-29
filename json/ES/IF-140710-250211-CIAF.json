@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-991",
  "expediente": "0038/2010",
- "titulo": "Descarrilamiento de tren de mercancías de Feve entre Ribadeo y Vegadeo, línea 11 Ferrol-Gijón (Lugo/Asturias)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0038/2010 OCURRIDO EL DÍA 14.07.2010 ENTRE RIBADEO (LUGO) Y VEGADEO (ASTURIAS)",
  "fecha_suceso": "2010-07-14",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Ribadeo",
   "provincia": "Lugo",
   "pk": "148+845",
-  "linea": "Línea 11 Ferrol-Gijón, tramo 10 Ferrol-Pravia"
+  "linea": "Línea 11 Ferrol-Gijón, tramo 10 Ferrol-Pravia",
+  "lat": 43.51152141,
+  "lng": -7.0518895,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -63,5 +66,11 @@
   "Gestión incorrecta límites velocidad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-07-14",
+ "hora": "12:41",
+ "provincia": "Lugo",
+ "pk": "P.K. 148+845",
+ "linea": "11 Ferrol - Gijón",
+ "tipo": "descarrilamiento"
 }

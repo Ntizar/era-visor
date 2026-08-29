@@ -13,7 +13,10 @@
   "estacion": "Atocha-Cercanías",
   "provincia": "Madrid",
   "pk": "0+448",
-  "linea": "900 Madrid – Chamartín / Madrid – Atocha Cercanías"
+  "linea": "900 Madrid – Chamartín / Madrid – Atocha Cercanías",
+  "lat": 40.408069151012654,
+  "lng": -3.691108621898734,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -41,5 +44,34 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused by a failure of the traffic agent who wrongly authorized to overtake exit signal S1/4C when the route was not rightly established and without the traffic manager´s authorization"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "avería junta aislante circuito vía A6",
+  "expedición con autorización rebase",
+  "entrega indebida boletín autorización"
+ ],
+ "mitigaciones": [
+  "parada tren ante señal entrada",
+  "distancia seguridad cincuenta metros"
+ ],
+ "factores_humanos": [
+  "fallo humano agente circulación",
+  "incumplimiento procedimiento RGC",
+  "deficiencias comunicaciones radioteléfono"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-07-26",
+ "hora": "14:15",
+ "provincia": "Madrid",
+ "estacion": "Atocha-Cercanías",
+ "pk": "0+448",
+ "linea": "900 Madrid Chamartín a Madrid Atocha-Cercanías",
+ "tipo": "incidente"
 }

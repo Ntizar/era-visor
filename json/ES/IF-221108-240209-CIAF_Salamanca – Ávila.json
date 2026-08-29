@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Salamanca",
   "pk": "104,857",
-  "linea": "122 Salamanca - Ávila"
+  "linea": "122 Salamanca - Ávila",
+  "lat": 40.97719584515831,
+  "lng": -5.5996883927851115,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,36 @@
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The fence separating the park and the tracks had been broken and been used as a faulty path"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Circulación no autorizada por la caja de vía",
+  "Acceso desde camino paralelo a la vía",
+  "No modificar trayectoria ante silbato",
+  "Circulación en sentido de marcha tren"
+ ],
+ "mitigaciones": [
+  "Uso repetido del silbato",
+  "Acción sobre freno emergencia",
+  "Velocidad inferior a límite permanente",
+  "Evacuación temprana al hospital"
+ ],
+ "factores_humanos": [
+  "Falta de autorización para circular",
+  "No cambio trayectoria ante tren",
+  "Conducta no autorizada víctima"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-11-22",
+ "hora": "15:00",
+ "provincia": "Salamanca",
+ "pk": "104,857",
+ "linea": "122 Salamanca - Ávila",
+ "tipo": "Arrollamiento"
 }

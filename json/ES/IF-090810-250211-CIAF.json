@@ -65,5 +65,11 @@
   "conductor no respetó prioridad ferroviaria"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-08-09",
+ "hora": "17:00",
+ "provincia": "Cantabria",
+ "pk": "489+795",
+ "linea": "1021 Oviedo – Santander",
+ "tipo": "Paso a nivel"
 }

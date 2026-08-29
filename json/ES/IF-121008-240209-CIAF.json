@@ -13,7 +13,10 @@
   "estacion": "Pravia",
   "provincia": "Asturias",
   "pk": "0,287",
-  "linea": "Línea 11 Ferrol-Gijón"
+  "linea": "Línea 11 Ferrol-Gijón",
+  "lat": 43.33433974,
+  "lng": -5.76278129,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -68,5 +71,12 @@
   "No medida específica adoptada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-10-12",
+ "hora": "13:15",
+ "provincia": "Asturias",
+ "estacion": "Pravia",
+ "pk": "0,287",
+ "linea": "11 Ferrol-Gijón",
+ "tipo": "Arrollamiento"
 }

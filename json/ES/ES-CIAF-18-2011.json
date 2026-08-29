@@ -11,9 +11,7 @@
  "gravedad": "muy grave",
  "ubicacion": {
   "estacion": "El Clot-Aragó",
-  "provincia": "Barcelona",
-  "lat": 38.0833,
-  "lng": -3.0833
+  "provincia": "Barcelona"
  },
  "pk": "PK 110+000",
  "linea": "262 Barcelona Sagrera – Bifurcación Clot",

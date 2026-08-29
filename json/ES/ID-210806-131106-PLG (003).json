@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-18",
  "expediente": "0030/2006",
- "titulo": "Descarrilamiento del tren LD 280 en la estación de Villada al pasar por el escape 2/4",
+ "titulo": "INFORME DEFINITIVO DE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0030/2006 OCURRIDO EL DÍA 21.08.06 EN VILLADA",
  "fecha_suceso": "2006-08-21",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -80,5 +80,10 @@
   "Supervisión de registros de velocidad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-08-21",
+ "hora": "15:55",
+ "estacion": "Villada",
+ "pk": "46/200",
+ "tipo": "Descarrilamiento"
 }

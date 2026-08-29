@@ -23,5 +23,21 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-06-05",
+ "provincia": "Gerona",
+ "estacion": "Maçanet-Massanes",
+ "linea": "270 Barcelona San Andrés Condal a Cerbere",
+ "tipo": "paso a nivel"
 }

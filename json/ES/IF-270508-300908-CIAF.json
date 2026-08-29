@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-484",
  "expediente": "0018/2008",
- "titulo": "Arrollamiento de una retroexcavadora por un tren en paso a nivel entre Santa Cruz de la Zarza y Ocaña (Toledo)",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0018/2008 OCURRIDO EL DÍA 27.05.2008",
  "fecha_suceso": "2008-05-27",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Santa Cruz de la Zarza - Ocaña",
   "provincia": "Toledo",
   "pk": "36,950",
-  "linea": "310 Madrid-Valencia"
+  "linea": "310 Madrid-Valencia",
+  "lat": 39.94452831621868,
+  "lng": -3.256421917972665,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,38 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Excavadora cruza paso a nivel",
+  "Ignora señales de paso a nivel",
+  "Transporta tierra cerca de vía"
+ ],
+ "mitigaciones": [
+  "Aplicación de freno de emergencia",
+  "Uso de señales acústicas",
+  "Proyecto de supresión contratado",
+  "Señalización luminosa y acústica"
+ ],
+ "factores_humanos": [
+  "Conductor ignora señales del paso",
+  "Maquinista frena correctamente",
+  "Obras ajenas a explotación"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-05-27",
+ "hora": "18:00",
+ "provincia": "Toledo",
+ "estacion": "Santa Cruz de la Zarza y Ocaña",
+ "pk": "36,950",
+ "linea": "310 Madrid-Valencia",
+ "tipo": "Arrollamiento"
 }

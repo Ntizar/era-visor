@@ -52,5 +52,10 @@
   "Pérdida atención señales vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-01-15",
+ "provincia": "SEVILLA",
+ "estacion": "ARAHAL",
+ "linea": "422",
+ "tipo": "incidente"
 }

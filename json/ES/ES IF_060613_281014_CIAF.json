@@ -68,5 +68,11 @@
   "Personal cumplía requisitos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2013-06-06",
+ "hora": "11:08",
+ "provincia": "Zaragoza",
+ "estacion": "Zaragoza Delicias",
+ "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
+ "tipo": "descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Flaçà",
   "provincia": "Girona",
   "pk": "224+794",
-  "linea": "270 Barcelona San Andrés Condal - Cerbere"
+  "linea": "270 Barcelona San Andrés Condal - Cerbere",
+  "lat": 42.05695590065667,
+  "lng": 2.9629995374566667,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -70,5 +73,12 @@
   "No reduce velocidad ante parada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-03-07",
+ "hora": "21:22",
+ "provincia": "Girona",
+ "estacion": "Flaçà",
+ "pk": "224+794",
+ "linea": "270 Barcelona San Andrés Condal - Cerbere",
+ "tipo": "incidente"
 }

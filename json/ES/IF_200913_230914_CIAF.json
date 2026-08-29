@@ -41,5 +41,37 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by human failure of train driver of train 25706, in particular due to a lack of attention while driving. As a consequence, the mandatory terms for an authorised overrun of home signal E9 were not carried out correctly, breaching articles 218.1 and 141.2 of the General Operating Rules. As a contributory factor it's pointed a failure to comply with Aviso SC nº 37 (Renfe Operadora) that ordered a manual train driving instead of driving with theoretical speed."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "falta de atención en conducción",
+  "consulta libro horario tren",
+  "circular con velocidad prefijada",
+  "no adoptar marcha maniobras"
+ ],
+ "mitigaciones": [
+  "aplicación freno de urgencia",
+  "visibilidad suficiente para detener",
+  "conducción manual obligatoria",
+  "velocidad baja de maniobras"
+ ],
+ "factores_humanos": [
+  "despiste del maquinista",
+  "falta de atención",
+  "uso velocidad prefijada",
+  "incumplimiento aviso operativo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-09-20",
+ "hora": "10:04",
+ "provincia": "Barcelona",
+ "estacion": "Barcelona Sants",
+ "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+ "tipo": "Colisión por alcance"
 }

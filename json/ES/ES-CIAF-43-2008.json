@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Plena vía",
   "provincia": "Málaga",
-  "lat": 36.764791,
-  "lng": -4.442201
+  "lat": 36.63186014,
+  "lng": -4.49747083,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "P.K. 14,250",
  "linea": "426 Granada-Fuente de Piedra",

@@ -13,7 +13,10 @@
   "estacion": "Vilamalla",
   "provincia": "Girona",
   "pk": "241+083",
-  "linea": "270 Bifurcación Sagrera a Cerbere"
+  "linea": "270 Bifurcación Sagrera a Cerbere",
+  "lat": 42.210341118069444,
+  "lng": 2.979579887221111,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -69,5 +72,12 @@
   "gestión inadecuada fallo técnico"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-10-12",
+ "hora": "17:40",
+ "provincia": "Girona",
+ "estacion": "Vilamalla",
+ "pk": "241+083",
+ "linea": "270 Bifurcación Sagrera a Cerbere",
+ "tipo": "Descarrilamiento"
 }

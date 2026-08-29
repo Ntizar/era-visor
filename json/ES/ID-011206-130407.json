@@ -59,5 +59,11 @@
   "No constan jornadas del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-12-01",
+ "hora": "18:45",
+ "provincia": "Madrid",
+ "pk": "11,907",
+ "linea": "Hortaleza Bifurcación-Pitis",
+ "tipo": "arrollamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Mataró",
   "provincia": "Barcelona",
   "pk": "28+158",
-  "linea": "276 Maçanet-Massanes a Bifurcación Sagrera"
+  "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+  "lat": 41.60523307,
+  "lng": 2.27503201,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -71,5 +74,12 @@
   "Velocidad prefijada sin control"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2012-02-09",
+ "hora": "09:43",
+ "provincia": "Barcelona",
+ "estacion": "Mataró",
+ "pk": "28+158",
+ "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+ "tipo": "Colisión con topera"
 }

@@ -13,7 +13,10 @@
   "estacion": "Villamanín",
   "provincia": "León",
   "pk": "45+104",
-  "linea": "130 Gijón-Cercanías a Venta de Baños"
+  "linea": "130 Gijón-Cercanías a Venta de Baños",
+  "lat": 42.932970258885106,
+  "lng": -5.6561660826950355,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,32 @@
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The lack of ballast was due to an incomplete execution of the planned maintenance works. As a result the running of the rolling stock allowed a longitudinal pull causing the derailment of the train",
   "Underlying and root causes description (i.e. systemic factors, if any)": "Besides the failure of the infrastructure, the works foreman delivered the track to the traffic manager under normal conditions, not warning him about the anomaly."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Trabajos de mantenimiento incompletos",
+  "Rotura del vehículo de apoyo",
+  "Falta de balasto en la zona",
+  "Entrega de vía sin advertir anomalía"
+ ],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "Entrega de vía sin advertencia",
+  "Omisión de anomalía al CTC",
+  "No conclusión de trabajos previstos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-05-24",
+ "hora": "16:19",
+ "provincia": "León",
+ "estacion": "Villamanín",
+ "pk": "45+104",
+ "linea": "130 Gijón-Cercanías a Venta de Baños",
+ "tipo": "Descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Lieres",
   "provincia": "Asturias",
   "pk": "340,807",
-  "linea": "Línea 21 Oviedo-Santander"
+  "linea": "Línea 21 Oviedo-Santander",
+  "lat": 43.37944713,
+  "lng": -5.58018254,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve",
@@ -69,5 +72,12 @@
   "Falta de atención en conducción"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-02-14",
+ "hora": "14:10",
+ "provincia": "Asturias",
+ "estacion": "Lieres",
+ "pk": "P.K.340, 807",
+ "linea": "21 Oviedo-Santander",
+ "tipo": "incidente"
 }

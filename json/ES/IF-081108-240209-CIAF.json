@@ -13,7 +13,10 @@
   "estacion": "Tudela de Navarra",
   "provincia": "Navarra",
   "pk": "77,050",
-  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto"
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "lat": 42.05719770658371,
+  "lng": -1.5952802681447964,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-11-08",
+ "hora": "14:51",
+ "provincia": "Navarra",
+ "estacion": "Tudela de Navarra",
+ "pk": "77,050",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "tipo": "Arrollamiento de una persona"
 }

@@ -58,5 +58,11 @@
  "meteorologia": [
   "temperatura extrema"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-09-02",
+ "hora": "04:47:32",
+ "provincia": "Navarra",
+ "estacion": "Noaín",
+ "pk": "165+409",
+ "tipo": "Arrollamiento de una barra de carril"
 }

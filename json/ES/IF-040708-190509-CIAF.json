@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-668",
  "expediente": "0040/2008",
- "titulo": "Conato de colisión entre tren de cercanías y mercancías en Sant Celoni por fallo en señalización durante obras",
+ "titulo": "Informe final sobre la investigación del incidente ferroviario nº 0040/2008 ocurrido el día 04.07.2008 en la estación de Sant Celoni",
  "fecha_suceso": "2008-07-04",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -70,5 +70,10 @@
   "Responsabilidad de comunicaciones difusa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-07-04",
+ "hora": "21:59",
+ "estacion": "Sant Celoni",
+ "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+ "tipo": "incidente"
 }

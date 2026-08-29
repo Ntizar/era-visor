@@ -13,7 +13,10 @@
   "estacion": "Zalla",
   "provincia": "Vizcaya",
   "pk": "2+057",
-  "linea": "790 RAM La Asunción Universidad - Aranguren"
+  "linea": "790 RAM La Asunción Universidad - Aranguren",
+  "lat": 43.20444529025,
+  "lng": -3.1705617591875,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -26,5 +29,38 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Falta de atención en conducción",
+  "Reanuda marcha con señal parada",
+  "No detenerse ante señal parada",
+  "Despiste del maquinista"
+ ],
+ "mitigaciones": [
+  "Sistema ASFA activa freno",
+  "Aplica freno de urgencia",
+  "Distancia entre trenes suficiente",
+  "Buena visibilidad de señal"
+ ],
+ "factores_humanos": [
+  "Fallo humano en conducción",
+  "Falta de atención del maquinista",
+  "Despiste al reanudar marcha",
+  "Cumplimiento de requisitos personales"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-10-27",
+ "hora": "08:31",
+ "provincia": "Vizcaya",
+ "estacion": "Zalla",
+ "pk": "2+057",
+ "linea": "790",
+ "tipo": "incidente"
 }

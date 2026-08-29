@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-599",
  "expediente": "0049/2008",
- "titulo": "Arrollamiento de una persona por tren 1415 a la salida de La Encina, línea 300 Madrid-Chamartín-Valencia",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0049/2008 OCURRIDO EL DÍA 13.10.2008",
  "fecha_suceso": "2008-10-13",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -70,5 +70,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-10-13",
+ "hora": "12:19",
+ "provincia": "Alicante",
+ "estacion": "La Encina",
+ "pk": "375,740",
+ "linea": "300 Madrid - Chamartín - Valencia – Estación Nord",
+ "tipo": "arrollamiento de una persona"
 }

@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "La Coruña",
   "pk": "8+645",
-  "linea": "Línea 11 Ferrol - Gijón"
+  "linea": "Línea 11 Ferrol - Gijón",
+  "lat": 39.96998027,
+  "lng": -6.15331224,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -39,5 +42,35 @@
   "RU involved": "Feve",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when train 1903 collided with a big tree that was lying on the track"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "fuertes ráfagas de viento",
+  "pudrición raíces y tronco árbol",
+  "árbol caído ocupando gálibo"
+ ],
+ "mitigaciones": [
+  "uso freno emergencia maquinista",
+  "baja velocidad colisión 39 km/h",
+  "tala preventiva arbolado posterior"
+ ],
+ "factores_humanos": [
+  "reacción inmediata frenada",
+  "cumplimiento normativa personal",
+  "inspecciones vegetación existentes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-05-11",
+ "hora": "20:34",
+ "provincia": "La Coruña",
+ "estacion": "Xubia",
+ "pk": "PK 8+645",
+ "linea": "11 Ferrol - Gijón",
+ "tipo": "Colisión, descarrilamiento y vuelco"
 }

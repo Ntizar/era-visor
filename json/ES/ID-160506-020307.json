@@ -62,5 +62,12 @@
   "no respetar señales de cierre"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-05-16",
+ "hora": "23:01",
+ "provincia": "Castellón",
+ "estacion": "Villarreal",
+ "pk": "62,363",
+ "linea": "Línea 600 Valencia-Tarragona",
+ "tipo": "Arrollamiento de una persona"
 }

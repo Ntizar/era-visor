@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1342",
  "expediente": "0006/2012",
- "titulo": "Descarrilamiento de tren de mercancías 9561 en Parres (Asturias) por exceso de velocidad",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 06/2012 OCURRIDO EL DÍA 19.01.2012 EN PARRES (ASTURIAS)",
  "fecha_suceso": "2012-01-19",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Asturias",
   "pk": "378+049",
-  "linea": "Línea 21 Oviedo – Santander"
+  "linea": "Línea 21 Oviedo – Santander",
+  "lat": 43.36485171,
+  "lng": -5.20763906,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -62,5 +65,11 @@
   "Falta de atención"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2012-01-19",
+ "hora": "07:03",
+ "provincia": "Asturias",
+ "pk": "378+049",
+ "linea": "21 Oviedo – Santander",
+ "tipo": "descarrilamiento"
 }

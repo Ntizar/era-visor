@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0046/2018",
- "titulo": "Descarrilamiento por caída de muro en Vacarisses (Barcelona)",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2018 OCURRIDO EL DÍA 20.11.2018 EN LA LÍNEA 220 DE LLEIDA PIRINEUS A L´HOSPITALET DE LLOBREGAT, ENTRE LAS ESTACIONES DE VACARISSES Y VACARISSES-TORREBLANCA (BARCELONA)",
  "fecha_suceso": "2018-11-20",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -57,5 +57,9 @@
   "Falta respuesta hechos constatados"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2018-11-20",
+ "provincia": "Barcelona",
+ "linea": "220",
+ "tipo": "descarrilamiento"
 }

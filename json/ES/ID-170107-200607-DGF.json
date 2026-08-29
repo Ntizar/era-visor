@@ -72,5 +72,12 @@
   "ausencia de paso a distinto nivel"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-01-17",
+ "hora": "11:02",
+ "provincia": "Guadalajara",
+ "estacion": "Sigüenza",
+ "pk": "139,840",
+ "linea": "Madrid-Barcelona",
+ "tipo": "arrollamiento"
 }

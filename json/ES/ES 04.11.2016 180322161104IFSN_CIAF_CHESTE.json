@@ -54,5 +54,10 @@
   "Incumplimiento aviso centro gestión"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-11-04",
+ "hora": "20:45:05",
+ "provincia": "Valencia",
+ "estacion": "Cheste",
+ "tipo": "Incendio"
 }

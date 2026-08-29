@@ -13,7 +13,10 @@
   "estacion": "Sant Feliú de Llobregat",
   "provincia": "Barcelona",
   "pk": "88,906",
-  "linea": "240 Barcelona - San Vicente de Calders"
+  "linea": "240 Barcelona - San Vicente de Calders",
+  "lat": 41.38696604629091,
+  "lng": 2.043226305521212,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -69,5 +72,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-04-16",
+ "hora": "14:48",
+ "provincia": "Barcelona",
+ "estacion": "Sant Feliú de Llobregat",
+ "pk": "88,906",
+ "linea": "240 Barcelona - San Vicente de Calders",
+ "tipo": "Arrollamiento"
 }

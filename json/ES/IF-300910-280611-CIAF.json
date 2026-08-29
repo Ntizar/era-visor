@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1042",
  "expediente": "0053/2010",
- "titulo": "Conato de colisión entre trenes por rebase indebido de señal en la estación de Redondela (Pontevedra)",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2010 OCURRIDO EL DÍA 30.09.2010 EN LA ESTACIÓN DE REDONDELA (PONTEVEDRA)",
  "fecha_suceso": "2010-09-30",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -13,7 +13,10 @@
   "estacion": "Redondela",
   "provincia": "Pontevedra",
   "pk": "PK 166+601",
-  "linea": "Línea 810 Vigo - Monforte de Lemos"
+  "linea": "Línea 810 Vigo - Monforte de Lemos",
+  "lat": 42.28628432,
+  "lng": -8.61942505,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,37 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the train overtook, without authorization, the exit signal (1S/I) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebase indebido señal parada",
+  "Comunicación operaciones terminadas incorrecta",
+  "Retroceso sin autorización",
+  "No informar suceso inmediatamente"
+ ],
+ "mitigaciones": [
+  "Activación freno urgencia ASFA",
+  "Parada tren antes colisión",
+  "Distancia seguridad entre trenes"
+ ],
+ "factores_humanos": [
+  "Incumplimiento normas circulación",
+  "Error agente acompañamiento",
+  "Fallo humano conducción",
+  "Visibilidad limitada señal curva"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2010-09-30",
+ "hora": "08:09",
+ "provincia": "Pontevedra",
+ "estacion": "Redondela",
+ "pk": "166+601",
+ "linea": "810 Vigo – Monforte de Lemos",
+ "tipo": "incidente"
 }

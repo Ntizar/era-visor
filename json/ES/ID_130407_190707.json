@@ -61,5 +61,12 @@
   "no se identifican fallos humanos operativos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-13",
+ "hora": "07:33",
+ "provincia": "Madrid",
+ "estacion": "Apeadero de El Tejar",
+ "pk": "18/190",
+ "linea": "Línea 100 Madrid-Chamartín-Hendaya",
+ "tipo": "Arrollamiento de una persona"
 }

@@ -13,7 +13,10 @@
   "estacion": "Los Gavilanes",
   "provincia": "Madrid",
   "pk": "12+379",
-  "linea": "Línea 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa"
+  "linea": "Línea 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "lat": 40.31742524413962,
+  "lng": -3.6490396114301884,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "Posible distracción en cabina"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-05-16",
+ "hora": "19:03",
+ "provincia": "Madrid",
+ "estacion": "Los Gavilanes",
+ "pk": "PK 12+379",
+ "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+ "tipo": "incidente ferroviario"
 }

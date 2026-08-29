@@ -13,7 +13,10 @@
   "estacion": "Torredembarra",
   "provincia": "Tarragona",
   "pk": "13,550",
-  "linea": "Línea 600 Valencia Norte - San Vicente de Calders"
+  "linea": "Línea 600 Valencia Norte - San Vicente de Calders",
+  "lat": 40.58366657,
+  "lng": -3.71061584,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -67,5 +70,12 @@
   "falta de percepción del peligro"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-02-28",
+ "hora": "05:12",
+ "provincia": "Tarragona",
+ "estacion": "Torredembarra",
+ "pk": "13,550",
+ "linea": "Línea 600 Valencia Norte – San Vicente de Calders",
+ "tipo": "arrollamiento de una persona"
 }

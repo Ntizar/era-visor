@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0022/2009",
- "titulo": "Accidente ferroviario en la estación de El Caleyo (Asturias)",
+ "titulo": "RESOLUCIÓN SOBRE EL ACCIDENTE FERROVIARIO Nº 0022/2009 OCURRIDO EL DÍA 17.04.2009 EN LA ESTACIÓN DE EL CALEYO (ASTURIAS)",
  "fecha_suceso": "2009-04-17",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -27,5 +27,25 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "aspecto formativo del personal de conducción",
+  "procesos psicológicos en la conducción",
+  "aptitud del personal de conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-04-17",
+ "provincia": "Asturias",
+ "estacion": "El Caleyo",
+ "linea": "130 Gijón Cercanías – Venta de Baños",
+ "tipo": "accidente ferroviario"
 }

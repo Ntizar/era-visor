@@ -13,7 +13,10 @@
   "estacion": "Gavá",
   "provincia": "Barcelona",
   "pk": "663,700",
-  "linea": "200 Barcelona Sants - Madrid Chamartín"
+  "linea": "200 Barcelona Sants - Madrid Chamartín",
+  "lat": 41.30538099081081,
+  "lng": 2.0161290627027033,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,38 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Acceso a vía por lugar no habilitado",
+  "Cruce tras tren en sentido contrario",
+  "Línea sin vallado en zona",
+  "Paso vicioso utilizado como cruce"
+ ],
+ "mitigaciones": [
+  "Uso de silbato por maquinista",
+  "Aplicación de freno de emergencia",
+  "Estudio de vallado de vía",
+  "Equipos de seguridad tren correctos"
+ ],
+ "factores_humanos": [
+  "Víctima cruza por lugar no autorizado",
+  "Maquinista reacciona correctamente",
+  "Falta de vallado perimetral",
+  "Paso vicioso no eliminado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-01-22",
+ "hora": "07:03",
+ "provincia": "Barcelona",
+ "estacion": "Gavá",
+ "pk": "663,700",
+ "linea": "200 Barcelona Sants - Madrid Chamartín",
+ "tipo": "Arrollamiento de persona"
 }

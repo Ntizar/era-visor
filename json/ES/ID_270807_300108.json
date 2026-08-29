@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Murcia",
   "pk": "467,110",
-  "linea": "320 Chinchilla a Cartagena"
+  "linea": "320 Chinchilla a Cartagena",
+  "lat": 37.99059787,
+  "lng": -1.06071288,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -71,5 +74,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-08-27",
+ "hora": "09:47",
+ "provincia": "Murcia",
+ "pk": "467,110",
+ "linea": "320 Chinchilla a Cartagena",
+ "tipo": "Arrollamiento de una persona"
 }

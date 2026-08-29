@@ -13,7 +13,10 @@
   "estacion": "Sant Guim de Freixenet",
   "provincia": "Lérida",
   "pk": "253+775",
-  "linea": "220 Lérida Pirineos - L'Hospitalet de Llobregat"
+  "linea": "220 Lérida Pirineos - L'Hospitalet de Llobregat",
+  "lat": 41.65476707246403,
+  "lng": 1.4187411067985614,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,38 @@
   "LC User fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim crossed the level crossing while the barriers were lowered and the flashing lights and warning bell were working"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Niño cruza corriendo",
+  "Cruza por paso carretero",
+  "Víctima ignora barreras bajadas",
+  "Tren pasa señal protección"
+ ],
+ "mitigaciones": [
+  "Semibarreras bajadas funcionan correctamente",
+  "Señalización alerta llegada tren",
+  "Maquinista aplica freno emergencia",
+  "Maquinista usa silbato"
+ ],
+ "factores_humanos": [
+  "Víctima ignora señalización activa",
+  "Niño cruza corriendo",
+  "Maquinista reacciona correctamente",
+  "Personal ferroviario habilitado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-12-20",
+ "hora": "17:07",
+ "provincia": "Lérida",
+ "estacion": "Sant Guim de Freixenet",
+ "pk": "253+775",
+ "linea": "220 Lérida Pirineos – L’Hospitalet de Llobregat",
+ "tipo": "arrollamiento"
 }

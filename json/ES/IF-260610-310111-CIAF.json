@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-938",
  "expediente": "0031/2010",
- "titulo": "Accidente en Vitoria-Gasteiz: salida del tren 407 con viajeros subiendo provoca caída y lesiones en andén",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2010 OCURRIDO EL DÍA 26.06.2010 EN LA ESTACIÓN DE VITORIA – GASTEIZ (ÁLAVA)",
  "fecha_suceso": "2010-06-26",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -13,7 +13,10 @@
   "estacion": "Vitoria-Gasteiz",
   "provincia": "Álava",
   "pk": "492+400",
-  "linea": "100 Madrid Chamartín – Hendaya"
+  "linea": "100 Madrid Chamartín – Hendaya",
+  "lat": 42.84130481,
+  "lng": -2.67268418,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,40 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the guard (on board) authorised the movement of the train without having checked all passengers had got on/off."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Comunicación prematura de operaciones terminadas",
+  "Viajeros pendientes de subir al tren",
+  "Retraso significativo sobre horario previsto",
+  "Parada comercial sin finalizar embarque"
+ ],
+ "mitigaciones": [
+  "Cierre inmediato de señal de salida",
+  "Acción de freno del maquinista",
+  "Verificación completa de viajeros subidos",
+  "Cumplimiento estricto del procedimiento"
+ ],
+ "factores_humanos": [
+  "Error de percepción de operaciones terminadas",
+  "Incumplimiento del procedimiento de embarque",
+  "Falta de verificación de viajeros",
+  "Comunicación sin confirmar subida"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2010-06-26",
+ "hora": "00:28",
+ "provincia": "Álava",
+ "estacion": "Vitoria - Gasteiz",
+ "pk": "492+400",
+ "linea": "100 Madrid Chamartín – Hendaya",
+ "tipo": "accidente ferroviario"
 }

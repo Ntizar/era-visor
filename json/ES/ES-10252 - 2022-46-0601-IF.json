@@ -75,5 +75,9 @@
   "Limitaciones disponibilidad personal experimentado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2022-06-01",
+ "provincia": "Barcelona",
+ "estacion": "El Papiol",
+ "tipo": "Incidente Operacional"
 }

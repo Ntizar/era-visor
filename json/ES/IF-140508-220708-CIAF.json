@@ -13,7 +13,10 @@
   "estacion": "apeadero de Villadepalos",
   "provincia": "León",
   "pk": "263,566",
-  "linea": "800 La Coruña-León"
+  "linea": "800 La Coruña-León",
+  "lat": 42.537904063400006,
+  "lng": -6.7583889436,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -62,5 +65,12 @@
   "Falta de control de animales domésticos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-05-14",
+ "hora": "10:44",
+ "provincia": "León",
+ "estacion": "Villadepalos",
+ "pk": "263,566",
+ "linea": "800 La Coruña-León",
+ "tipo": "Arrollamiento"
 }

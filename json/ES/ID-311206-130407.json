@@ -68,5 +68,12 @@
   "Maquinista silbó y frenó"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-12-31",
+ "hora": "11:20",
+ "provincia": "Barcelona",
+ "estacion": "Apeadero de Hostalric",
+ "pk": "171,039",
+ "linea": "Línea 270 Barcelona-Portbou",
+ "tipo": "Arrollamiento de una persona"
 }

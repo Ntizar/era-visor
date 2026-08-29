@@ -68,5 +68,11 @@
   "Retroceso sin cambio de cabina"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2013-09-26",
+ "hora": "09:19",
+ "provincia": "Valladolid",
+ "estacion": "Puesto de Bloqueo de Río Duero",
+ "linea": "Línea de alta velocidad 080 Madrid Chamartín – Valladolid Campo Grande",
+ "tipo": "Incidente"
 }

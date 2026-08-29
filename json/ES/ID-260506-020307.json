@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-14",
  "expediente": "0023/2006",
- "titulo": "Arrollamiento de una persona en paso a nivel de San Feliu de Llobregat (Barcelona)",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0023/2006 OCURRIDO EL DÍA 26.05.2006",
  "fecha_suceso": "2006-05-26",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "San Feliu de Llobregat",
   "provincia": "Barcelona",
   "pk": "88,906",
-  "linea": "240 Tarragona-Barcelona-Francia"
+  "linea": "240 Tarragona-Barcelona-Francia",
+  "lat": 41.38696604629091,
+  "lng": 2.043226305521212,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -69,5 +72,12 @@
   "Falta de registro eventos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-05-26",
+ "hora": "11:43",
+ "provincia": "Barcelona",
+ "estacion": "San Feliu de Llobregat",
+ "pk": "88,906",
+ "linea": "240 Tarragona-Barcelona-Francia",
+ "tipo": "arrollamiento en paso a nivel"
 }

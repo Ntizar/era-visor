@@ -69,5 +69,11 @@
   "No detención inmediata por conductor"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-04-08",
+ "hora": "11:25",
+ "provincia": "Valencia",
+ "estacion": "Terminal de contenedores de Silla",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "tipo": "Colisión y descarrilamiento"
 }

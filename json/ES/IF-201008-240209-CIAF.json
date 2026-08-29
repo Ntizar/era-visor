@@ -13,7 +13,10 @@
   "estacion": "Santa María de Huerta",
   "provincia": "Soria",
   "pk": "191,876",
-  "linea": "200 Madrid Chamartín - Barcelona Sants"
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "lat": 41.262355513996035,
+  "lng": -2.1796480465782175,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,31 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce peatón con barreras bajadas"
+ ],
+ "mitigaciones": [
+  "uso del silbato por maquinista",
+  "freno de emergencia activado"
+ ],
+ "factores_humanos": [
+  "conducta imprudente víctima",
+  "duda inicial al cruzar"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-10-20",
+ "hora": "12:36",
+ "provincia": "Soria",
+ "estacion": "Santa María de Huerta",
+ "pk": "191,876",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "tipo": "Arrollamiento"
 }

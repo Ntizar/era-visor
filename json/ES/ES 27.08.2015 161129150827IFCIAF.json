@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0039/2015",
- "titulo": "Incidente por sobrecalentamiento de caja de grasa en automotor serie 599 en la estación de Álora (Málaga)",
+ "titulo": "INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0039/2015 OCURRIDO EL DÍA 27.08.2015 EN LA ESTACIÓN DE ÁLORA (MÁLAGA)",
  "fecha_suceso": "2015-08-27",
  "tipo_informe": "final",
  "tipo_suceso": "incendio",
@@ -55,5 +55,9 @@
   "Falta detección de agua"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-08-27",
+ "provincia": "Málaga",
+ "estacion": "Álora",
+ "tipo": "incidente"
 }

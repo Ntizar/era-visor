@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0032/2006",
- "titulo": "Arrollamiento de una persona por un tren en la línea Santander-Palencia (Cantabria), pk 459/200",
+ "titulo": "Informe definitivo sobre la investigación del accidente ferroviario Nº 0032/2006 ocurrido el día 05.09.2006",
  "fecha_suceso": "2006-09-05",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,9 +13,7 @@
   "estacion": null,
   "provincia": "Cantabria",
   "pk": "459/200",
-  "linea": "Línea 160 Santander-Palencia",
-  "lat": 43.1595664,
-  "lng": -4.0878382
+  "linea": "Línea 160 Santander-Palencia"
  },
  "entidades": [
   "Adif",
@@ -52,5 +50,11 @@
   "reacción tardía al aviso sonoro"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-09-05",
+ "hora": "16:13",
+ "provincia": "Cantabria",
+ "pk": "459/200",
+ "linea": "160 Santander-Palencia",
+ "tipo": "Arrollamiento de una persona"
 }

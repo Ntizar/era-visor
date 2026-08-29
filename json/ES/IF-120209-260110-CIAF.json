@@ -13,7 +13,10 @@
   "estacion": "Cerdanyola del Vallés",
   "provincia": "Barcelona",
   "pk": "351+200",
-  "linea": "Línea 224 Cerdanyola Universitat - Cerdanyola del Vallés"
+  "linea": "Línea 224 Cerdanyola Universitat - Cerdanyola del Vallés",
+  "lat": 41.4926046,
+  "lng": 2.14766031,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -69,5 +72,12 @@
   "Error humano rebase señal parada"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-02-12",
+ "hora": "22:07",
+ "provincia": "Barcelona",
+ "estacion": "Cerdanyola del Vallés",
+ "pk": "351+200",
+ "linea": "224",
+ "tipo": "incidente"
 }

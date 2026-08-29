@@ -13,7 +13,10 @@
   "estacion": "O Porriño",
   "provincia": "Pontevedra",
   "pk": "151+433",
-  "linea": "810 Monforte de Lemos-Vigo"
+  "linea": "810 Monforte de Lemos-Vigo",
+  "lat": 42.16880137959921,
+  "lng": -8.621816170544047,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -60,5 +63,12 @@
   "no respetar señales de peligro activas"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-12-01",
+ "hora": "19:34",
+ "provincia": "Pontevedra",
+ "estacion": "O Porriño",
+ "pk": "151+433",
+ "linea": "810 Monforte de Lemos-Vigo",
+ "tipo": "arrollamiento"
 }

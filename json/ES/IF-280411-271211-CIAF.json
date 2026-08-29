@@ -39,5 +39,37 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the train driver failed to comply the signal instructions."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebase de señal en parada",
+  "No aplicar marcha a la vista",
+  "Circuito de vía ocupado"
+ ],
+ "mitigaciones": [
+  "Velocidades inferiores a máxima permitida",
+  "Actuación del manipulador de freno",
+  "Cumplimiento de la marcha a la vista"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de órdenes de señales",
+  "No avanzar con prudencia",
+  "Visibilidad limitada en túnel"
+ ],
+ "meteorologia": [
+  "luz artificial"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2011-04-28",
+ "hora": "09:49",
+ "provincia": "Barcelona",
+ "estacion": "El Clot-Aragó",
+ "pk": "PK 110+000",
+ "linea": "262 Barcelona Sagrera – Bifurcación Clot",
+ "tipo": "colisión por alcance"
 }

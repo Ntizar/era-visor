@@ -72,5 +72,11 @@
   "Coordinación deficiente trabajos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-12-06",
+ "hora": "08:40",
+ "provincia": "Barcelona",
+ "estacion": "Granollers Centre",
+ "linea": "270",
+ "tipo": "incidente"
 }

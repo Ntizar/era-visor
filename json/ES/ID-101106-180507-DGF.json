@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-30",
  "expediente": "0046/2006",
- "titulo": "Arrollamiento de una máquina de obra y fallecimiento del piloto de seguridad en la línea 270 Barcelona-Portbou",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0046/2006 OCURRIDO EL DÍA 10.11.2006",
  "fecha_suceso": "2006-11-10",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -69,5 +69,12 @@
   "Velocidad mercancías superior permitida"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-10",
+ "hora": "02:08",
+ "provincia": "Barcelona",
+ "estacion": "Camallera",
+ "pk": "231,500",
+ "linea": "270 Barcelona-Portbou",
+ "tipo": "arrollamiento"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0034/2014",
- "titulo": "Deformación de vía por acumulación de agua entre Chinchilla y Bonete (Albacete)",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0034/2014 OCURRIDO EL DÍA 02.07.2014 ENTRE CHINCHILLA Y BONETE (ALBACETE)",
  "fecha_suceso": "2014-07-02",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -57,5 +57,10 @@
   "Maquinista reduce velocidad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-07-02",
+ "provincia": "Albacete",
+ "pk": "368+925",
+ "linea": "Bifurcación Albacete-Alicante",
+ "tipo": "Incidente"
 }

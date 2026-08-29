@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-35",
  "expediente": "0051/2006",
- "titulo": "Arrollamiento de persona por tren entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid",
+ "titulo": "Informe definitivo sobre la investigación del accidente ferroviario nº 0051/2006 ocurrido el día 27.11.2006",
  "fecha_suceso": "2006-11-27",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Madrid",
   "pk": "9,850",
-  "linea": "Línea 300 Madrid Atocha-Valencia Nord"
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+  "lat": 40.44683235,
+  "lng": -3.60163633,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe",
@@ -75,5 +78,12 @@
   "paso irregular conocido"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-27",
+ "hora": "19:12",
+ "provincia": "Madrid",
+ "estacion": "San Cristóbal Industrial",
+ "pk": "9,850",
+ "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+ "tipo": "Arrollamiento de una persona"
 }

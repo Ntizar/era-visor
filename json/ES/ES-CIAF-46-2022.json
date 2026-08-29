@@ -11,9 +11,7 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "El Papiol",
-  "provincia": "Barcelona",
-  "lat": 42.4984,
-  "lng": -6.5663
+  "provincia": "Barcelona"
  },
  "pk": null,
  "linea": null,

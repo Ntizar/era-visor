@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-788",
  "expediente": "0054/2008",
- "titulo": "Descarrilamiento de tren de mercancías por rotura de rueda en estación de Moncófar",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0054/2008 OCURRIDO EL DÍA 24.10.2008 EN LA ESTACIÓN DE MONCÓFAR",
  "fecha_suceso": "2008-10-24",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Moncófar",
   "provincia": "Castellón",
   "pk": "48,748",
-  "linea": "600 Valencia Estación del Nord - San Vicente de Calders"
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+  "lat": 39.79287923779661,
+  "lng": -0.18184550627796614,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -45,5 +48,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by the breakage of the left wheel of the third axel placed at the second bogie of the locomotive."
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Retorneado de ruedas con torno",
+  "Garras del torno causaron entalla",
+  "Grieta progresó por fatiga",
+  "Rueda izquierda se rompió"
+ ],
+ "mitigaciones": [
+  "Inspección por magnetoscopia",
+  "Ensayos no destructivos de ruedas",
+  "Paralizar torno de ruedas",
+  "Control de calidad del torneado"
+ ],
+ "factores_humanos": [
+  "Procedimiento de torneado deficiente",
+  "Falta de inspección de marcas",
+  "Falta de control de calidad",
+  "Mantenimiento no detectó grietas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-10-24",
+ "hora": "6:28",
+ "provincia": "Castellón",
+ "estacion": "Moncófar",
+ "pk": "48,748",
+ "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+ "tipo": "descarrilamiento"
 }

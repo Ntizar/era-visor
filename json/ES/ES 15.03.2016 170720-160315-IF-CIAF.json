@@ -13,7 +13,10 @@
   "estacion": "Mont-Roig del Camp",
   "provincia": "Tarragona",
   "pk": "247+490",
-  "linea": null
+  "linea": null,
+  "lat": 38.70512373,
+  "lng": -4.47475266,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Viajeros",
@@ -51,5 +54,11 @@
   "trinchera no catalogada punto riesgo"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-03-15",
+ "hora": "17:19",
+ "provincia": "Tarragona",
+ "estacion": "Mont-Roig del Camp",
+ "pk": "247+490",
+ "tipo": "Arrollamiento de obstáculo"
 }

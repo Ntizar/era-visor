@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Cambiador de Zaragoza Delicias",
   "provincia": "Zaragoza",
-  "lat": 39.15,
-  "lng": -0.6
+  "lat": 41.67016068,
+  "lng": -0.93146983,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "CIM-Aguja km 337,1",
  "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias",

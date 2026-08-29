@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-701",
  "expediente": "0012/2009",
- "titulo": "Arrollamiento de una persona por tren de media distancia entre Chapela y Vigo (Pontevedra)",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2009 OCURRIDO EL DÍA 22.02.2009 ENTRE LAS ESTACIONES DE CHAPELA Y VIGO",
  "fecha_suceso": "2009-02-22",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Chapela - Vigo",
   "provincia": "Pontevedra",
   "pk": "175,050",
-  "linea": "810 Vigo - Monforte de Lemos"
+  "linea": "810 Vigo - Monforte de Lemos",
+  "lat": 39.32440222,
+  "lng": -2.91260246,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,38 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Invasión de vía por persona",
+  "Ausencia de vallado cercano",
+  "Acceso fácil desde carretera",
+  "Intento de coger objeto"
+ ],
+ "mitigaciones": [
+  "Uso de silbato y freno",
+  "Velocidad inferior a máxima",
+  "Vallado de zona cercana",
+  "Comunicación inmediata al mando"
+ ],
+ "factores_humanos": [
+  "Invasión de vía por víctima",
+  "Falta de vallado en zona",
+  "Acceso libre de lugareños",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-02-22",
+ "hora": "17:29",
+ "provincia": "Pontevedra",
+ "estacion": "Chapela y Vigo",
+ "pk": "PK 175,050",
+ "linea": "810 Vigo – Monforte de Lemos",
+ "tipo": "Arrollamiento de una persona"
 }

@@ -51,5 +51,9 @@
   "incumplimiento límites tiempos conducción"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-10-22",
+ "provincia": "Zaragoza",
+ "estacion": "Río Huerva",
+ "tipo": "incidente"
 }

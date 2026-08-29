@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-706",
  "expediente": "0019/2009",
- "titulo": "Arrollamiento de una menor en el paso entre andenes de la estación de Las Navas del Marqués (Ávila)",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0019/2009 OCURRIDO EL DÍA 07.04.2009 EN LA ESTACIÓN DE LAS NAVAS DEL MARQUÉS (ÁVILA)",
  "fecha_suceso": "2009-04-07",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Las Navas del Marqués",
   "provincia": "Ávila",
   "pk": "83,700",
-  "linea": "Línea 100 Madrid - Hendaya"
+  "linea": "Línea 100 Madrid - Hendaya",
+  "lat": 40.58797353403846,
+  "lng": -4.351164275384615,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -69,5 +72,12 @@
  "meteorologia": [
   "luz artificial"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-04-07",
+ "hora": "20:04",
+ "provincia": "Ávila",
+ "estacion": "Las Navas del Marqués",
+ "pk": "83,700",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "arrollamiento"
 }

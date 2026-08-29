@@ -13,7 +13,10 @@
   "estacion": "Alfafar-Benetússer",
   "provincia": "Valencia",
   "pk": "107+996",
-  "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)"
+  "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+  "lat": 39.42453858435429,
+  "lng": -0.39193452693714287,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -61,5 +64,12 @@
   "irrupcion peaton paso nivel"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-10-16",
+ "hora": "11:19",
+ "provincia": "Valencia",
+ "estacion": "Alfafar-Benetússer",
+ "pk": "107+996",
+ "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+ "tipo": "Arrollamiento"
 }

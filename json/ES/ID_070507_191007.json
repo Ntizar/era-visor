@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-234",
  "expediente": "0029/2007",
- "titulo": "Arrollamiento de una persona en el paso a nivel de la estación de Algemesí",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0029/2007 OCURRIDO EL DÍA 07.05.2007",
  "fecha_suceso": "2007-05-07",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Algemesí",
   "provincia": "Valencia",
   "pk": "81,454",
-  "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord"
+  "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+  "lat": 39.94556331,
+  "lng": -3.41265301,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -67,5 +70,12 @@
   "Comportamiento temerario al cruzar"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-05-07",
+ "hora": "19:20",
+ "provincia": "Valencia",
+ "estacion": "Algemesí",
+ "pk": "81,454",
+ "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+ "tipo": "Arrollamiento de una persona"
 }

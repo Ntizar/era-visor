@@ -13,7 +13,10 @@
   "estacion": "Sant Adriá del Besós",
   "provincia": "Barcelona",
   "pk": "3,286",
-  "linea": "276 Barcelona-Massanes"
+  "linea": "276 Barcelona-Massanes",
+  "lat": 41.42076607,
+  "lng": 2.19428568,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,37 @@
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim went through a faulty path used to arrive to a near beach."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "acceso indebido por paso vicioso",
+  "persona circulaba indebidamente por vía",
+  "paso vicioso no suprimido"
+ ],
+ "mitigaciones": [
+  "comunicación inmediata al mando",
+  "marcha a la vista ordenada",
+  "interrupción circulación por petición",
+  "supresión paso vicioso recomendada"
+ ],
+ "factores_humanos": [
+  "víctima transitó vía no autorizada",
+  "paso vicioso por vallado roto",
+  "falta supresión paso vicioso",
+  "maquinista cumplió normativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-03-21",
+ "hora": "14:53",
+ "provincia": "Barcelona",
+ "estacion": "Sant Adriá del Besós",
+ "pk": "3,286",
+ "linea": "276 Barcelona-Massanes",
+ "tipo": "Arrollamiento de una persona"
 }

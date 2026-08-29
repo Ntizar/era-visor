@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0022/2008",
- "titulo": "Arrollamiento de una persona por un tren de cercanías en túnel entre Pitis y Pinar de las Rozas, Madrid",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2008 OCURRIDO EL DÍA 06.01.2008",
  "fecha_suceso": "2008-01-06",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -56,5 +56,12 @@
   "Puesto de Mando coordinó respuesta"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-01-06",
+ "hora": "16:25",
+ "provincia": "Madrid",
+ "estacion": "Pitis y Pinar de las Rozas",
+ "pk": "P.K. 20,100",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento"
 }

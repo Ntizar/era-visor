@@ -23,5 +23,21 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [
+  "apertura de paso inferior"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-03-24",
+ "estacion": "Algemesí",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord"
 }

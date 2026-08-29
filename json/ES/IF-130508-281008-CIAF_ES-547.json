@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Guipúzcoa",
   "pk": "594,380",
-  "linea": "100 Madrid-Hendaya"
+  "linea": "100 Madrid-Hendaya",
+  "lat": 43.11297300043312,
+  "lng": -2.091853378076433,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -70,5 +73,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-05-13",
+ "hora": "12:07",
+ "provincia": "Guipúzcoa",
+ "estacion": "Tolosa",
+ "pk": "594,380",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento de una persona"
 }

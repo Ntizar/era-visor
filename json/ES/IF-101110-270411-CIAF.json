@@ -13,7 +13,10 @@
   "estacion": "Betanzos-Infesta",
   "provincia": "A Coruña",
   "pk": "524+416",
-  "linea": "800 A Coruña - León"
+  "linea": "800 A Coruña - León",
+  "lat": 43.27072133,
+  "lng": -8.22596121,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "Vigilancia no detectó defectos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-11-10",
+ "hora": "18:20",
+ "provincia": "A Coruña",
+ "estacion": "Betanzos-Infesta",
+ "pk": "524+416",
+ "linea": "800 A Coruña - León",
+ "tipo": "Descarrilamiento"
 }

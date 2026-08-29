@@ -13,7 +13,10 @@
   "estacion": "Aluche",
   "provincia": "Madrid",
   "pk": "7+612",
-  "linea": "L/920, Móstoles – El Soto Parla (tramo Cuatro Vientos - Madrid Atocha)"
+  "linea": "L/920, Móstoles – El Soto Parla (tramo Cuatro Vientos - Madrid Atocha)",
+  "lat": 40.51357259,
+  "lng": -3.68366018,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe-Operadora",
@@ -41,5 +44,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the train improperly moved back"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "LZB",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No se abren puertas en parada",
+  "Viajero acciona aparato de alarma",
+  "Maquinista desconecta LZB sin autorización",
+  "Maquinista inicia retroceso no autorizado"
+ ],
+ "mitigaciones": [
+  "Mantener conectado sistema LZB",
+  "Alertar y desalojar pasajeros",
+  "Cumplir reglamento de circulación",
+  "Verificar aptitud personal conducción"
+ ],
+ "factores_humanos": [
+  "Retroceso sin autorización",
+  "Desconexión LZB por iniciativa",
+  "Incumplimiento reglamento circulación",
+  "Procesos psicológicos en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-06-26",
+ "hora": "07:36",
+ "provincia": "Madrid",
+ "estacion": "Aluche",
+ "pk": "7+612",
+ "linea": "L/920, Móstoles – El Soto Parla",
+ "tipo": "Colisión"
 }

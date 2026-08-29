@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1306",
  "expediente": "0050/2011",
- "titulo": "Descarrilamiento del tren 6803 de Feve en la estación de Astillero por rebase de señal",
+ "titulo": "Informe final sobre el accidente ferroviario nº 0050/2011 ocurrido el día 27.10.2011 en la estación de Astillero (Cantabria)",
  "fecha_suceso": "2011-10-27",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -41,5 +41,38 @@
   "RU involved": "Feve",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin whe passenger train overrun exit signal S1/L1 - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Retraso en salida del tren",
+  "Cambio de cruce en Astillero",
+  "Desconocimiento del cambio por conductor",
+  "Aumento velocidad tras aviso parada"
+ ],
+ "mitigaciones": [
+  "Frenado de urgencia ASFA activado",
+  "Señal S1 protege trayectoria",
+  "Tren contrario protegido por señales",
+  "Aplicación de freno de emergencia"
+ ],
+ "factores_humanos": [
+  "Falta de información al conductor",
+  "Incumplimiento del reglamento",
+  "No reducir velocidad ante aviso",
+  "Reconocimiento tardío de señal parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-10-27",
+ "hora": "14:25",
+ "provincia": "Cantabria",
+ "estacion": "Astillero",
+ "pk": "540+075",
+ "linea": "24 Santander - Bilbao",
+ "tipo": "accidente"
 }

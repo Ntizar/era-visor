@@ -65,5 +65,11 @@
   "inexistencia criterios recuperación títulos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-03-16",
+ "hora": "08:37",
+ "provincia": "Madrid",
+ "estacion": "Torrejón de Ardoz",
+ "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+ "tipo": "Incidente"
 }

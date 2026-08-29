@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Barcelona",
   "pk": "94+316",
-  "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat"
+  "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+  "lat": 41.36161049,
+  "lng": 2.09069503,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,34 @@
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim invaded the rail gauge while the train was coming"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "transito persona zona libre gálibo",
+  "ausencia de vallado perimetral",
+  "existencia pasos viciosos personas"
+ ],
+ "mitigaciones": [
+  "uso silbato por maquinista",
+  "aplicación freno urgencia inmediato",
+  "instalación vallado adecuado recomendado"
+ ],
+ "factores_humanos": [
+  "conducta imprudente víctima",
+  "salida persona entre cañas",
+  "tiempo reacción limitado tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-10-23",
+ "hora": "12:30",
+ "provincia": "Barcelona",
+ "pk": "94+316",
+ "linea": "Sant Vicent de Calders – L’Hospitalet de Llobregat",
+ "tipo": "arrollamiento"
 }

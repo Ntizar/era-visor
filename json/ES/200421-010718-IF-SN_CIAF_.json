@@ -57,5 +57,9 @@
   "Consignas no adaptadas normativa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2018-07-01",
+ "provincia": "Zamora",
+ "estacion": "Pedralba",
+ "tipo": "Incidente ferroviario"
 }

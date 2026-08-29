@@ -13,7 +13,10 @@
   "estacion": "Unquera - Pesués",
   "provincia": "Cantabria",
   "pk": "457+381",
-  "linea": "770 Valdecilla - La Marga a Oviedo"
+  "linea": "770 Valdecilla - La Marga a Oviedo",
+  "lat": 43.370312088927875,
+  "lng": -4.480203352357377,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,37 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is produced by the train driver´s human failure for exceeding the speed limit, running at 61 km/h when the speed limit was 40 km/h."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "circular con exceso de velocidad",
+  "aplicar tracción de forma permanente",
+  "circular en pendiente favorable"
+ ],
+ "mitigaciones": [
+  "locomotoras permanecieron encarriladas",
+  "vagones de cola encarrilados",
+  "correcto funcionamiento de frenos",
+  "medidas de gestión fallo humano"
+ ],
+ "factores_humanos": [
+  "fallo humano del maquinista",
+  "circular con velocidad excesiva",
+  "incumplimiento límite de velocidad",
+  "revisión de ruedas no realizada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-01-31",
+ "hora": "15:36",
+ "provincia": "Cantabria",
+ "estacion": "Unquera - Pesués",
+ "pk": "PK 457+381",
+ "linea": "770 Valdecilla - La Marga a Oviedo",
+ "tipo": "Descarrilamiento"
 }

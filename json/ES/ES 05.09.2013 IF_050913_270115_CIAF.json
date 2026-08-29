@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Cantabria",
   "pk": "519+301",
-  "linea": "Línea 770 Santander-Oviedo, tramo Mogro-Bezana"
+  "linea": "Línea 770 Santander-Oviedo, tramo Mogro-Bezana",
+  "lat": 43.43244703807229,
+  "lng": -3.931810173146988,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -71,5 +74,11 @@
   "Problemas eléctricos no resueltos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2013-09-05",
+ "hora": "15:44",
+ "provincia": "Cantabria",
+ "pk": "519+301",
+ "linea": "770 RAM Santander – Oviedo",
+ "tipo": "Incidente"
 }

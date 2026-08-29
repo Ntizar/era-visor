@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Ciudad Real",
   "pk": "257+758",
-  "linea": "522 Manzanares - Ciudad Real"
+  "linea": "522 Manzanares - Ciudad Real",
+  "lat": 38.96724227107772,
+  "lng": -3.8773295300829016,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,34 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when the road vehicle invaded the level crossing as the train was approaching."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "vehículo invade gálibo vía",
+  "aumento tráfico por nueva rotonda",
+  "conductor no comprueba paso nivel"
+ ],
+ "mitigaciones": [
+  "maquinista acciona freno urgencia",
+  "uso silbato aviso peligro",
+  "velocidad inferior máxima permitida"
+ ],
+ "factores_humanos": [
+  "error conductor vehículo carretera",
+  "no respetar prioridad tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-10-29",
+ "hora": "09:52",
+ "provincia": "Ciudad Real",
+ "estacion": "Miguelturra - Pozuelo de Calatrava",
+ "pk": "257+758",
+ "linea": "522 Manzanares - Ciudad Real",
+ "tipo": "Arrollamiento de vehículo"
 }

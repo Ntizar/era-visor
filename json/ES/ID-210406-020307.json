@@ -74,5 +74,12 @@
   "Falta de paso inferior seguro"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-04-21",
+ "hora": "12:44",
+ "provincia": "Palencia",
+ "estacion": "Grijota",
+ "pk": "5,800",
+ "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+ "tipo": "grave"
 }

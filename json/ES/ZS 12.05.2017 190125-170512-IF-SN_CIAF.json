@@ -13,7 +13,10 @@
   "estacion": "Brazatortas",
   "provincia": "Ciudad Real",
   "pk": "225+965",
-  "linea": "Línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa"
+  "linea": "Línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+  "lat": 38.66972348212781,
+  "lng": -4.270509638435233,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -31,5 +34,37 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "LZB",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No detección de defecto interno",
+  "Auscultación ultrasónica insuficiente",
+  "Falta de ciclo de vida útil",
+  "Mantenimiento preventivo deficiente"
+ ],
+ "mitigaciones": [
+  "Detección preventiva de defectos internos",
+  "Sustitución de desvíos completos",
+  "Recargue de partes móviles",
+  "Amolado correctivo intensivo"
+ ],
+ "factores_humanos": [
+  "Procedimientos de inspección inadecuados",
+  "Falta de metodología preventiva",
+  "Deficiencias en sistema gestión seguridad",
+  "Supervisión de mantenimiento insuficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2017-05-12",
+ "provincia": "Ciudad Real",
+ "estacion": "Brazatortas",
+ "pk": "225+965",
+ "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+ "tipo": "Descarrilamiento"
 }

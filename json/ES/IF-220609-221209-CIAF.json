@@ -13,7 +13,10 @@
   "estacion": "Infiesto",
   "provincia": "Asturias",
   "pk": "361+975",
-  "linea": "21 Oviedo - Santander"
+  "linea": "21 Oviedo - Santander",
+  "lat": 43.35122946,
+  "lng": -5.36697933,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -39,5 +42,38 @@
   "IM involved": "Feve",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "peatón sortea barrera del paso",
+  "peatón cruza con barreras bajadas",
+  "víctima invade gálibo de vía",
+  "tren se aproxima al paso"
+ ],
+ "mitigaciones": [
+  "uso silbato por maquinista",
+  "aplicación freno de emergencia",
+  "barreras del paso bajadas",
+  "velocidad del tren correcta"
+ ],
+ "factores_humanos": [
+  "peatón no respeta señalización",
+  "peatón cruza pese a barreras",
+  "víctima invade gálibo de vía",
+  "maquinista actúa correctamente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-06-22",
+ "hora": "09:20",
+ "provincia": "Asturias",
+ "estacion": "Infiesto",
+ "pk": "P.K.361+975",
+ "linea": "21 Oviedo - Santander",
+ "tipo": "Arrollamiento de peatón"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-695",
  "expediente": "0003/2009",
- "titulo": "Incidente ferroviario por rebase de señal de salida en rojo en la estación de La Florida (Asturias)",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0003/2009 OCURRIDO EL DÍA 20.01.2009 EN LA ESTACIÓN DE LA FLORIDA",
  "fecha_suceso": "2009-01-20",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -13,7 +13,10 @@
   "estacion": "La Florida",
   "provincia": "Asturias",
   "pk": "15,057",
-  "linea": "Línea 61 Gijón - Laviana"
+  "linea": "Línea 61 Gijón - Laviana",
+  "lat": 43.27076226,
+  "lng": -5.8111025,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -42,5 +45,35 @@
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "In this place it was a LC which has already been removed"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Cercanías",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No percibe señal salida roja",
+  "Incumple reglamento circulación trenes"
+ ],
+ "mitigaciones": [
+  "ASFA provoca freno emergencia",
+  "CTC gestiona maniobras pertinentes",
+  "Trenes en contacto radio CTC",
+  "Equipos seguridad funcionan correctamente"
+ ],
+ "factores_humanos": [
+  "Maquinista no percibe señal",
+  "Incumple reglamento señales Feve",
+  "Actitudes comportamientos fuentes riesgo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-01-20",
+ "hora": "12:08",
+ "provincia": "Asturias",
+ "estacion": "La Florida",
+ "pk": "PK 15,057",
+ "linea": "61 Gijón - Laviana",
+ "tipo": "incidente ferroviario"
 }

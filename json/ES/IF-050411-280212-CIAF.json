@@ -13,7 +13,10 @@
   "estacion": "Rubí",
   "provincia": "Barcelona",
   "pk": "6+707",
-  "linea": "246 Mollet Sant Fost - Castellbisbal"
+  "linea": "246 Mollet Sant Fost - Castellbisbal",
+  "lat": 41.47539925008547,
+  "lng": 2.034718962905983,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -64,5 +67,12 @@
   "No preparación para detenerse"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-04-05",
+ "hora": "15:30",
+ "provincia": "Barcelona",
+ "estacion": "Rubí",
+ "pk": "6+707",
+ "linea": "246 Mollet Sant Fost - Castellbisbal",
+ "tipo": "descarrilamiento"
 }

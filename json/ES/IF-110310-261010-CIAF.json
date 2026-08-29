@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "León",
   "pk": "5+037",
-  "linea": "31 León - Bilbao"
+  "linea": "31 León - Bilbao",
+  "lat": 42.64228725,
+  "lng": -5.55579403,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -68,5 +71,11 @@
   "Protección paso a nivel no normativa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-03-11",
+ "hora": "09:15",
+ "provincia": "León",
+ "pk": "5+037",
+ "linea": "31 León - Bilbao",
+ "tipo": "Arrollamiento"
 }

@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "93,900",
   "linea": "Línea 240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
-  "lat": 42.10901436,
-  "lng": 2.214335,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.35835550767676,
+  "lng": 2.0827991812121214,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -61,5 +61,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-07",
+ "hora": "06:33",
+ "provincia": "Barcelona",
+ "estacion": "Apeadero de Sant Ildefons de Cornellá",
+ "pk": "93,900",
+ "linea": "240 Sant Vicenç de Calders-L´Hospitalet de Llobregat",
+ "tipo": "grave"
 }

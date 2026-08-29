@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Málaga",
   "pk": "8,870",
-  "linea": "436 Fuengirola-Málaga"
+  "linea": "436 Fuengirola-Málaga",
+  "lat": 36.650524655103446,
+  "lng": -4.483023307103448,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,37 @@
   "Other fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim, who was a regular traveler, was mentally disabled."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Cercanías",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima transita por vía no autorizada",
+  "Compañera camina junto a vía",
+  "Persona camina de espaldas al tren"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a máxima permitida",
+  "Maquinista usa silbato y freno emergencia",
+  "Vallado por ambos márgenes",
+  "Acceso difícil a la zona"
+ ],
+ "factores_humanos": [
+  "Tránsito por lugar no autorizado",
+  "Víctima camina de espaldas",
+  "Acceso no autorizado a vía"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-07-30",
+ "hora": "18:05",
+ "provincia": "Málaga",
+ "pk": "8,870",
+ "linea": "436 Fuengirola-Málaga",
+ "tipo": "arrollamiento"
 }

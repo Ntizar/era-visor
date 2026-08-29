@@ -13,7 +13,10 @@
   "estacion": "La Garriga",
   "provincia": "Barcelona",
   "pk": "37+492",
-  "linea": "Línea 222 Barcelona-Ripoll"
+  "linea": "Línea 222 Barcelona-Ripoll",
+  "lat": 41.68375847285161,
+  "lng": 2.2886860416,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -64,5 +67,12 @@
   "omisión indicaciones acústicas y visuales"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-05",
+ "hora": "08:54",
+ "provincia": "Barcelona",
+ "estacion": "La Garriga",
+ "pk": "37,492",
+ "linea": "222 Barcelona-Ripoll",
+ "tipo": "Arrollamiento"
 }

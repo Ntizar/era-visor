@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-2424",
  "expediente": "0016/2013",
- "titulo": "Escape y colisión de castillete autopropulsado entre Pitis y Pinar de las Rozas (Madrid)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0016/2013 OCURRIDO EL DÍA 27.02.2013 ENTRE LAS ESTACIONES DE PITIS Y PINAR DE LAS ROZAS (MADRID)",
  "fecha_suceso": "2013-02-27",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Madrid",
   "pk": "15+600",
-  "linea": "100 Hendaya - Madrid Chamartín"
+  "linea": "100 Hendaya - Madrid Chamartín",
+  "lat": 40.50678042953846,
+  "lng": -3.8229010276923074,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif"
@@ -42,5 +45,35 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is produced by the train driver´s human failure for wrongly coupling the tower to the platform that was being hauled by the draisine and for not connecting properly the emergency brake´s hoses."
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Enganche incorrecto del castillete",
+  "Válvulas de freno no abiertas",
+  "No comprobación correcta enganche",
+  "Retroceso por herramienta olvidada"
+ ],
+ "mitigaciones": [
+  "Protección itinerarios vía ocupada",
+  "Aviso inmediato al CTC",
+  "Velocidad reducida tren T1"
+ ],
+ "factores_humanos": [
+  "Fallo humano en enganche",
+  "Omisión apertura válvulas",
+  "Supervisión insuficiente contrata"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-02-27",
+ "hora": "04:10",
+ "provincia": "Madrid",
+ "pk": "15+600",
+ "linea": "100 Hendaya – Madrid Chamartín",
+ "tipo": "Accidente ferroviario"
 }

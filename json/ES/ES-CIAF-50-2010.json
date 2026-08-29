@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Paso a nivel entre Aranguren y Zalla",
   "provincia": "Vizcaya",
-  "lat": 42.894,
-  "lng": -1.612
+  "lat": 40.41994121,
+  "lng": -3.71789406,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "0+388",
  "linea": "1031 León – Bilbao",

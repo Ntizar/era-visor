@@ -13,7 +13,10 @@
   "estacion": "Sevilla - Santa Justa",
   "provincia": null,
   "pk": "570+580",
-  "linea": "Línea 400 Alcázar de San Juan a Cádiz"
+  "linea": "Línea 400 Alcázar de San Juan a Cádiz",
+  "lat": 37.39926831967742,
+  "lng": -5.9659553570967745,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is due to an infrastructure failure, since fastenings and sleepers of turnout nº 18 were in poor condition making the track to widen as train passed through."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "sujeciones y traviesas en mal estado",
+  "ancho de vía fuera de tolerancia",
+  "último tratamiento preventivo junio 2012",
+  "elevado número de circulaciones"
+ ],
+ "mitigaciones": [
+  "velocidad de maniobra reducida",
+  "uso del freno de servicio",
+  "actuación del freno de emergencia",
+  "plan de inspección específico de desvíos"
+ ],
+ "factores_humanos": [
+  "deficiencias de seguridad en desvíos",
+  "último tratamiento preventivo junio 2012",
+  "última intervención pesada octubre 2012",
+  "cumplimiento normativo del personal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-05-26",
+ "hora": "15:13",
+ "provincia": "Sevilla",
+ "estacion": "Sevilla Santa Justa",
+ "pk": "PK 570+580",
+ "linea": "400 Alcázar de San Juan a Cádiz",
+ "tipo": "Descarrilamiento y colisión"
 }

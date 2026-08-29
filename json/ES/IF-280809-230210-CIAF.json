@@ -13,7 +13,10 @@
   "estacion": "El Rebollar",
   "provincia": "Valencia",
   "pk": "22+600",
-  "linea": "310 Aranjuez/Valencia-Estación del Nord, tramo Utiel-Buñol"
+  "linea": "310 Aranjuez/Valencia-Estación del Nord, tramo Utiel-Buñol",
+  "lat": 39.468301483913045,
+  "lng": -0.9959805450434782,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,37 @@
   "Movement type": "Regional passenger train",
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Accionamiento indebido de aguja",
+  "Tren sobre aguja nº 2",
+  "Primer día servicio estación",
+  "Itinerario sin efecto pedal"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior a permitida",
+  "Freno de emergencia aplicado",
+  "Enclavamiento funcionó correctamente",
+  "Cerradura Bouré instalada"
+ ],
+ "factores_humanos": [
+  "Accionamiento indebido aguja",
+  "Primer día servicio estación",
+  "Incumplimiento RGC artículos"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-08-28",
+ "hora": "13:33",
+ "provincia": "Valencia",
+ "estacion": "El Rebollar",
+ "pk": "22+600",
+ "linea": "310 Aranjuez/Valencia- Estación del Nord",
+ "tipo": "Descarrilamiento"
 }

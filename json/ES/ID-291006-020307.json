@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Alicante",
   "pk": "54,100",
-  "linea": "Xativa-Alcoy"
+  "linea": "Xativa-Alcoy",
+  "lat": 38.06758694,
+  "lng": -0.95943613,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -68,5 +71,11 @@
   "Falta de campañas de concienciación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-29",
+ "hora": "18:30",
+ "provincia": "Alicante",
+ "pk": "54,100",
+ "linea": "Xativa-Alcoy",
+ "tipo": "arrollamiento de una persona"
 }

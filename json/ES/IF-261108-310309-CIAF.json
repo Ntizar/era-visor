@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Navarra",
   "pk": "70,200",
-  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto, tramo Cortes Navarra–Tudela Navarra"
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto, tramo Cortes Navarra–Tudela Navarra",
+  "lat": 42.01218597561086,
+  "lng": -1.5442458039366516,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,36 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Pastor invade galibo de vía",
+  "Rebaño intercepta la vía",
+  "Ausencia de cerramiento en tramo"
+ ],
+ "mitigaciones": [
+  "Uso de silbato por maquinista",
+  "Activación de freno de emergencia",
+  "Velocidad inferior a máxima permitida",
+  "Cerramiento del tramo"
+ ],
+ "factores_humanos": [
+  "Pastor invade vía con rebaño",
+  "Pastor de espaldas al tren",
+  "Maquinista actúa correctamente",
+  "Alcoholemia negativa del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-11-26",
+ "hora": "15:21",
+ "provincia": "Navarra",
+ "pk": "70,200",
+ "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+ "tipo": "arrollamiento"
 }

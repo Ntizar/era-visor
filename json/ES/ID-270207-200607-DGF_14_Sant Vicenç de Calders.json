@@ -13,7 +13,10 @@
   "estacion": "Sant Vicenç de Calders",
   "provincia": "Barcelona",
   "pk": "618,000",
-  "linea": "Línea Madrid-Barcelona"
+  "linea": "Línea Madrid-Barcelona",
+  "lat": 41.36287189,
+  "lng": 2.11638884,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -69,5 +72,12 @@
   "elevado tráfico ferroviario"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-02-27",
+ "hora": "22:05",
+ "provincia": "Barcelona",
+ "estacion": "Sant Vicenç de Calders",
+ "pk": "618,000",
+ "linea": "Madrid-Barcelona",
+ "tipo": "grave"
 }

@@ -13,7 +13,10 @@
   "estacion": "Calatayud",
   "provincia": "Zaragoza",
   "pk": "224+556",
-  "linea": "50 Madrid Puerta de Atocha a Límite Adif-TP Ferro"
+  "linea": "50 Madrid Puerta de Atocha a Límite Adif-TP Ferro",
+  "lat": 41.36573675915969,
+  "lng": -1.606915392815504,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,35 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failure of the installations due to the malfunction of point S1 CAL 2"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Fallo mecánico motor desvío S1 CAL 2",
+  "Desvío sin comprobación en itinerario",
+  "Autorización rebase señal marcha vista"
+ ],
+ "mitigaciones": [
+  "Baja velocidad aproximación al desvío",
+  "Reconocimiento visual espadín y corazón",
+  "Parada inmediata tras descarrilamiento"
+ ],
+ "factores_humanos": [
+  "Dificultad visual por precipitaciones",
+  "Conocimiento limitado enclavamiento alta velocidad",
+  "Decisión circulación con desvío averiado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-05-30",
+ "hora": "07:20",
+ "provincia": "Zaragoza",
+ "estacion": "Calatayud",
+ "pk": "224+556",
+ "linea": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro",
+ "tipo": "Descarrilamiento"
 }

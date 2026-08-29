@@ -11,9 +11,7 @@
  "gravedad": "muy grave",
  "ubicacion": {
   "estacion": "Terminal de contenedores de Silla",
-  "provincia": "Valencia",
-  "lat": 39.3667,
-  "lng": -0.3833
+  "provincia": "Valencia"
  },
  "pk": null,
  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",

@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Lieres",
   "provincia": "Asturias",
-  "lat": 43.2,
-  "lng": -5.6167
+  "lat": 43.37944713,
+  "lng": -5.58018254,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "P.K. 340,807",
  "linea": "21 Oviedo-Santander",

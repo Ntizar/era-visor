@@ -73,5 +73,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-03-30",
+ "hora": "17:25",
+ "provincia": "Valencia",
+ "estacion": "El Rebollar y Utiel",
+ "pk": "4/465",
+ "linea": "Línea 310 Aranjuez - Valencia",
+ "tipo": "Arrollamiento de un automóvil"
 }

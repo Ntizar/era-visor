@@ -27,5 +27,24 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [],
+ "factores_humanos": [
+  "incumplimiento normas circulación",
+  "procesos psicológicos en conducción",
+  "verificación aptitud personal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-06-18",
+ "estacion": "Madrid Chamartín",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "Incidente"
 }

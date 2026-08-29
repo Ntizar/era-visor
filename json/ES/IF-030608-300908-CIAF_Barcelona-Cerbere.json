@@ -13,7 +13,10 @@
   "estacion": "Figueres",
   "provincia": "Gerona",
   "pk": "247,215",
-  "linea": "270 Barcelona-Cerbere"
+  "linea": "270 Barcelona-Cerbere",
+  "lat": 42.26509273,
+  "lng": 2.96897025,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,12 @@
   "Alcoholemia negativa del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-06-03",
+ "hora": "12:39",
+ "provincia": "Gerona",
+ "estacion": "Figueres",
+ "pk": "247,215",
+ "linea": "270 Barcelona-Cerbere",
+ "tipo": "Arrollamiento"
 }

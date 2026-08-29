@@ -13,7 +13,10 @@
   "estacion": "Villena",
   "provincia": "Alicante",
   "pk": "396,675",
-  "linea": "330 La Encina-Alicante"
+  "linea": "330 La Encina-Alicante",
+  "lat": 38.62700784222222,
+  "lng": -0.865082698840156,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,40 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tránsito de persona por vía no autorizada",
+  "Vallado con rotura y paso vicioso",
+  "Lado derecho de vía sin vallado",
+  "Persona caminaba de espaldas al tren"
+ ],
+ "mitigaciones": [
+  "Uso de silbato por maquinista",
+  "Aplicación de freno de emergencia",
+  "Velocidad inferior a máxima permitida",
+  "Comunicación al Puesto de Mando"
+ ],
+ "factores_humanos": [
+  "Caminar por vía no autorizada",
+  "Vallado con paso vicioso",
+  "Lado derecho sin vallado",
+  "Falta de educación ciudadana"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-05-24",
+ "hora": "16:48",
+ "provincia": "Alicante",
+ "estacion": "Villena",
+ "pk": "396,675",
+ "linea": "330 La Encina-Alicante",
+ "tipo": "Arrollamiento de una persona"
 }

@@ -26,5 +26,9 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "fecha": "2016-09-09",
+ "provincia": "Pontevedra",
+ "estacion": "O Porriño",
+ "tipo": "accidente ferroviario"
 }

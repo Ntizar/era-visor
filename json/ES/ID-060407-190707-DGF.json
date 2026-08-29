@@ -56,5 +56,12 @@
   "espejo retrovisor mojado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-06",
+ "hora": "20:53",
+ "provincia": "Madrid",
+ "estacion": "Villalba de Guadarrama",
+ "pk": "37/893",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento"
 }

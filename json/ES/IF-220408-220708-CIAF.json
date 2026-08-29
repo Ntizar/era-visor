@@ -13,7 +13,10 @@
   "estacion": "Zorrotza",
   "provincia": "Vizcaya",
   "pk": "5,348",
-  "linea": "720 Intermodal Abando Indalecio Prieto-Santurtzi"
+  "linea": "720 Intermodal Abando Indalecio Prieto-Santurtzi",
+  "lat": 43.27776157,
+  "lng": -2.97210843,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,37 @@
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim was walking through an unauthorised place."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima transitaba por vía no autorizada",
+  "Caminaba pegada al andén",
+  "Echó a correr hacia el tren"
+ ],
+ "mitigaciones": [
+  "Estación vallada en su perímetro",
+  "Uso del silbato por maquinista",
+  "Acción de frenado de emergencia",
+  "Aviso a medios sanitarios"
+ ],
+ "factores_humanos": [
+  "Presencia no autorizada de persona",
+  "Caminaba entre vía y andén",
+  "Actuación correcta del maquinista",
+  "Alcoholemia negativa del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-04-22",
+ "hora": "14:03",
+ "provincia": "Vizcaya",
+ "estacion": "Zorrotza",
+ "pk": "5,348",
+ "linea": "720 Intermodal Abando Indalecio Prieto-Santurtzi",
+ "tipo": "Arrollamiento"
 }

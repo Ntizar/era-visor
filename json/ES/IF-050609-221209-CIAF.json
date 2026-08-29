@@ -13,7 +13,10 @@
   "estacion": "Maçanet-Massanes",
   "provincia": "Gerona",
   "pk": "176+126",
-  "linea": "270 Barcelona San Andrés Condal a Cerbere"
+  "linea": "270 Barcelona San Andrés Condal a Cerbere",
+  "lat": 41.77166902,
+  "lng": 2.67314515,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "Prueba de alcoholemia negativa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-06-05",
+ "hora": "22:42",
+ "provincia": "Gerona",
+ "estacion": "Maçanet-Massanes",
+ "pk": "176+126",
+ "linea": "270 Barcelona San Andrés Condal a Cerbere",
+ "tipo": "Arrollamiento"
 }

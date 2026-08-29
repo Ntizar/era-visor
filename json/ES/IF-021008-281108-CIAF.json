@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-644",
  "expediente": "0046/2008",
- "titulo": "Arrollamiento de una persona por tren de FEVE en viaducto sobre el río Esla, línea León-Bilbao, provincia de León",
+ "titulo": "Informe final sobre la investigación del accidente ferroviario nº 0046/2008 ocurrido el día 02.10.2008",
  "fecha_suceso": "2008-10-02",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Cistierna",
   "provincia": "León",
   "pk": "53,725",
-  "linea": "31 León-Bilbao"
+  "linea": "31 León-Bilbao",
+  "lat": 37.89511007,
+  "lng": -3.29051424,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -62,5 +65,12 @@
   "maquinista actuación correcta"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-10-02",
+ "hora": "18:12",
+ "provincia": "León",
+ "estacion": "Cistierna",
+ "pk": "53,725",
+ "linea": "31 León-Bilbao",
+ "tipo": "Arrollamiento"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1133",
  "expediente": "0017/2011",
- "titulo": "Descarrilamiento del tren 15400 entre Bellvitge-Aguja y Barcelona Sants por rotura de eje",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2011 OCURRIDO EL DÍA 23.04.2011 ENTRE LAS ESTACIONES DE BELLVITGE-AGUJA 674+835 Y BARCELONA SANTS (BARCELONA)",
  "fecha_suceso": "2011-04-23",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Bellvitge-Aguja",
   "provincia": "Barcelona",
   "pk": "675+220",
-  "linea": "200 Barcelona Sants - Madrid Chamartín"
+  "linea": "200 Barcelona Sants - Madrid Chamartín",
+  "lat": 41.36619164619355,
+  "lng": 2.1169708127741935,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by the breakage of the last axle of the train (direction of travel) which had its origin in a crack in the traction zone of the driving axle. This probably was due to the malfunction of the electrical outlet."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Toma de tierra en mal estado",
+  "Plan de mantenimiento insuficiente",
+  "Inspección de contacto no realizada",
+  "Arco eléctrico dañó eje"
+ ],
+ "mitigaciones": [
+  "Maquinista aplicó freno de servicio",
+  "Maquinista detuvo tren rápidamente",
+  "Velocidad inferior a máxima permitida",
+  "Descarrilamiento no afectó vía contigua"
+ ],
+ "factores_humanos": [
+  "Detección temprana por maquinista",
+  "Plan de mantenimiento deficiente",
+  "Inspección de toma de tierra omitida",
+  "Personal cumplió normativa vigente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-04-23",
+ "hora": "09:28",
+ "provincia": "Barcelona",
+ "estacion": "Bellvitge-Aguja 674+835 y Barcelona Sants",
+ "pk": "675+220",
+ "linea": "200 Barcelona Sants – Madrid Chamartín",
+ "tipo": "Descarrilamiento"
 }

@@ -11,9 +11,7 @@
  "gravedad": "muy grave",
  "ubicacion": {
   "estacion": "Humanes (Madrid)",
-  "provincia": "Madrid",
-  "lat": 40.2524,
-  "lng": -3.9242
+  "provincia": "Madrid"
  },
  "pk": "P.K. 22+800, vía 1",
  "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",

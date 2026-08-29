@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0021/2016",
- "titulo": "Fallo de circuito de vía que permitió itinerario sobre vía ocupada en Hernani (Guipúzcoa)",
+ "titulo": "Informe final de la CIAF (IFC) sobre el accidente ferroviario nº 0021/2016 ocurrido el día 17.04.2016 en la estación de Hernani (Guipúzcoa)",
  "fecha_suceso": "2016-04-17",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -53,5 +53,9 @@
   "falta procedimiento vigilancia circuitos vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-04-17",
+ "provincia": "Guipúzcoa",
+ "estacion": "Hernani",
+ "tipo": "accidente ferroviario"
 }

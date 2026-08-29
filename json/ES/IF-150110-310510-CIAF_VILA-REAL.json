@@ -13,7 +13,10 @@
   "estacion": "Vila-real",
   "provincia": "Castellón",
   "pk": "62+902",
-  "linea": "600 Valencia – San Vicente de Calders"
+  "linea": "600 Valencia – San Vicente de Calders",
+  "lat": 39.90639986778305,
+  "lng": -0.10232131195677965,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -61,5 +64,12 @@
   "comportamiento imprudente usuario vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-01-15",
+ "hora": "18:26",
+ "provincia": "Castellón",
+ "estacion": "Vila-real",
+ "pk": "62+902",
+ "linea": "600 Valencia – San Vicente de Calders",
+ "tipo": "Arrollamiento"
 }

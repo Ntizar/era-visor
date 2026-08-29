@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Madrid",
   "pk": "5+114",
-  "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas"
+  "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",
+  "lat": 40.44806168376296,
+  "lng": -3.768576713387654,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,38 @@
   "RU involved": "Renfe Operadora Mercancías",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin on the removal of the first axel´s right wheel of the 11th wagon, probably due to a wrong pressing on of wheel process"
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "mal calado rueda derecha",
+  "calado con presión mínima",
+  "posible error medición calado",
+  "incremento diámetro centro rueda"
+ ],
+ "mitigaciones": [
+  "velocidad adecuada inferior máxima",
+  "aplicación freno ante señal",
+  "mayor presión calado posible",
+  "supervisión operaciones calado"
+ ],
+ "factores_humanos": [
+  "personal conducción cumplió normativa",
+  "velocidad adecuada inferior máxima",
+  "posible error medición calado",
+  "supervisión calidad operaciones calado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2010-05-23",
+ "hora": "22:54",
+ "provincia": "Madrid",
+ "estacion": "Pozuelo y Príncipe Pío",
+ "pk": "5+114",
+ "linea": "910 Madrid-Atocha Cercanías - Pinar de las Rozas",
+ "tipo": "Descarrilamiento"
 }

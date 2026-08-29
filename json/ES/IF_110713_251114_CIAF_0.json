@@ -26,5 +26,37 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No detenerse ante señal roja",
+  "Aplicar freno de emergencia tardío",
+  "Continuar marcha tras anuncio parada",
+  "No reducir velocidad suficiente"
+ ],
+ "mitigaciones": [
+  "Aplicación de freno de emergencia",
+  "Parada antes del piquete",
+  "Distancia de quinientos metros",
+  "Señales de buena visibilidad"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de la señal",
+  "Fallo humano en conducción",
+  "Reconocimiento tardío de peligro",
+  "No anticipar parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-07-11",
+ "hora": "19:59",
+ "provincia": "Lleida",
+ "estacion": "Lleida Pirineus",
+ "linea": "200 Madrid Chamartín - Barcelona Estació de França",
+ "tipo": "Incidente"
 }

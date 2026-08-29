@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Barcelona",
   "pk": "64,810",
-  "linea": "276 Barcelona Sagrera a Macanet-Massanes, tramo Blanes-Macanet Massanes"
+  "linea": "276 Barcelona Sagrera a Macanet-Massanes, tramo Blanes-Macanet Massanes",
+  "lat": 41.56175477198107,
+  "lng": 2.5105977792260776,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,37 @@
   "RU involved": "Feve; \n",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 5412 driver overtook the station exit signal, which had the stop indication and he didn´t stop the train as it is established in the General Operating Rules of Feve."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima intentó cruzar vía",
+  "Señalización residual de paso suprimido",
+  "Vegetación espesa redujo visibilidad",
+  "Paso a nivel no retirado"
+ ],
+ "mitigaciones": [
+  "Uso del silbato por maquinista",
+  "Freno de emergencia accionado",
+  "Velocidad inferior a máxima permitida",
+  "Retirar señales de paso suprimido"
+ ],
+ "factores_humanos": [
+  "Cruce de vía por víctima",
+  "Señalización residual de paso suprimido",
+  "Visibilidad reducida por vegetación",
+  "Actuación correcta del maquinista"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-01-20",
+ "hora": "13:46",
+ "provincia": "Barcelona",
+ "pk": "64,810",
+ "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+ "tipo": "Arrollamiento"
 }

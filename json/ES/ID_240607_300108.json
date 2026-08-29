@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-287",
  "expediente": "38/2007",
- "titulo": "Arrollamiento mortal de persona por imprudencia al cruzar vías en estación de Vinaroz",
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 38/2007 OCURRIDO EL DÍA 24.06.2007",
  "fecha_suceso": "2007-06-24",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Vinaroz",
   "provincia": "Valencia",
   "pk": "146+805",
-  "linea": "600 Valencia Nord - San Vicenç de Calders"
+  "linea": "600 Valencia Nord - San Vicenç de Calders",
+  "lat": 40.47171918,
+  "lng": 0.45551574,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -71,5 +74,12 @@
   "Falta de vigilancia"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-06-24",
+ "hora": "23:04",
+ "provincia": "Valencia",
+ "estacion": "Vinaroz",
+ "pk": "146+805",
+ "linea": "600 Valencia Nord – San Viçenc de Calders",
+ "tipo": "Arrollamiento de persona"
 }

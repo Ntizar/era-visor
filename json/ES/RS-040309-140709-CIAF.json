@@ -25,5 +25,23 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": "No se establecen recomendaciones debido a la existencia de un paso elevado y señalización de peligro, además de la construcción de un paso inferior.",
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [
+  "paso elevado entre andenes",
+  "carteles de advertencia peligro"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-03-04",
+ "estacion": "Platja de Castelldefels",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "tipo": "accidente ferroviario"
 }

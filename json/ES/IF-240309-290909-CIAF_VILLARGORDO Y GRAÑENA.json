@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Jaén",
   "pk": "137,803",
-  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén"
+  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+  "lat": 37.81528671669062,
+  "lng": -3.77744099924375,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,37 @@
   "LC User fatalities": 1,
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the road vehicle invaded the level crossing as the train was approaching."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Vehículo invade paso a nivel",
+  "Acceso sin señalización vertical completa",
+  "Camino corto impide señalización completa",
+  "Furgoneta intenta cruzar paso a nivel"
+ ],
+ "mitigaciones": [
+  "Uso de silbato y freno",
+  "Velocidad inferior a máxima permitida",
+  "Buena visibilidad del paso a nivel",
+  "Instalar señalización vertical completa"
+ ],
+ "factores_humanos": [
+  "Conductor invade paso a nivel",
+  "Maquinista actúa correctamente",
+  "Titular del camino no instala señalización",
+  "Vehículo cruza carretera paralela"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-03-24",
+ "hora": "22:25",
+ "provincia": "Jaén",
+ "pk": "137,803",
+ "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+ "tipo": "Paso a Nivel Clase A"
 }

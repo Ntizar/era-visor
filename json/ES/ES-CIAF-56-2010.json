@@ -11,9 +11,7 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "Entre las estaciones de Gijón y Sotiello",
-  "provincia": "Asturias",
-  "lat": 43.2833,
-  "lng": -5.7833
+  "provincia": "Asturias"
  },
  "pk": "PK 1+057 (Señal S2/P de Gijón)",
  "linea": "61 Gijón - Laviana",

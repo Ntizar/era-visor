@@ -73,5 +73,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-07-08",
+ "hora": "08:41",
+ "provincia": "Barcelona",
+ "estacion": "Arenys de Mar",
+ "pk": "37/325",
+ "linea": "Barcelona-Sagrera a Maçanet-Massanes",
+ "tipo": "grave"
 }

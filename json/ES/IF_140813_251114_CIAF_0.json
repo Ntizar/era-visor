@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0056/2013",
- "titulo": "Incidente por rebase de señal en parada en Torralba (Soria) con conato de colisión entre trenes",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0056/2013 OCURRIDO EL DÍA 14.08.2013 EN LA ESTACION DE TORRALBA (SORIA)",
  "fecha_suceso": "2013-08-14",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -26,5 +26,31 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Maquinista no detuvo tren ante señal roja",
+  "Falta de atención a indicaciones de señales"
+ ],
+ "mitigaciones": [
+  "Activación automática freno emergencia ASFA",
+  "Distancia suficiente entre ambos trenes"
+ ],
+ "factores_humanos": [
+  "Incumplimiento normas RGC por maquinista",
+  "Fallo humano en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-08-14",
+ "hora": "08:58",
+ "provincia": "Soria",
+ "estacion": "Torralba",
+ "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+ "tipo": "incidente"
 }

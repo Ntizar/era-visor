@@ -13,7 +13,10 @@
   "estacion": "El Caleyo",
   "provincia": "Oviedo",
   "pk": "134+410",
-  "linea": "Línea 130 Venta de Baños a Gijón Cercanías"
+  "linea": "Línea 130 Venta de Baños a Gijón Cercanías",
+  "lat": 40.99324136,
+  "lng": -2.52419274,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -75,5 +78,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-04",
+ "hora": "11:07",
+ "provincia": "Oviedo",
+ "estacion": "El Caleyo",
+ "pk": "134+410",
+ "linea": "Línea 130 Venta de Baños a Gijón Cercanías",
+ "tipo": "Arrollamiento de persona"
 }

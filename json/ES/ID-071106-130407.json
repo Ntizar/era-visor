@@ -59,5 +59,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-07",
+ "hora": "18:14",
+ "provincia": "Teruel",
+ "estacion": "Teruel",
+ "pk": "131,700",
+ "linea": "Caminreal-Sagunto",
+ "tipo": "arrollamiento de persona"
 }

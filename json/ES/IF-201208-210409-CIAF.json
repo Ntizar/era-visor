@@ -13,7 +13,10 @@
   "estacion": "Salou",
   "provincia": "Tarragona",
   "pk": "263,208",
-  "linea": "600 Valencia Nord - Sant Vicent de Calders"
+  "linea": "600 Valencia Nord - Sant Vicent de Calders",
+  "lat": 41.18874457,
+  "lng": 1.24043051,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,32 @@
   "IM involved": "ADIF",
   "LC User fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima cruza barreras bajadas",
+  "intento de cruzar antes del tren"
+ ],
+ "mitigaciones": [
+  "uso del silbato por maquinista",
+  "aplicación freno de emergencia"
+ ],
+ "factores_humanos": [
+  "comportamiento imprudente víctima",
+  "cruce peatonal indebido"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-12-20",
+ "hora": "05:21",
+ "provincia": "Tarragona",
+ "estacion": "Salou",
+ "pk": "263,208",
+ "linea": "600 Valencia Nord - Sant Vicent de Calders",
+ "tipo": "Arrollamiento"
 }

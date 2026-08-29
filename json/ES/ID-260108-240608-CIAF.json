@@ -68,5 +68,12 @@
   "Activación de protocolos emergencia"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-01-26",
+ "hora": "18:27",
+ "provincia": "Orense",
+ "estacion": "A Rúa Petín",
+ "pk": "310/412",
+ "linea": "800 León-La Coruña",
+ "tipo": "Arrollamiento"
 }

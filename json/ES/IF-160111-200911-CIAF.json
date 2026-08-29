@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Sevilla",
   "pk": "87+782",
-  "linea": "422 Bif. Utrera a Fuente de Piedra"
+  "linea": "422 Bif. Utrera a Fuente de Piedra",
+  "lat": 37.22619666953823,
+  "lng": -4.933650032214706,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,11 @@
   "Maquinista alerta y frena"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-01-16",
+ "hora": "13:18",
+ "provincia": "Sevilla",
+ "pk": "87+782",
+ "linea": "422 Bif. Utrera a Fuente de Piedra",
+ "tipo": "Accidente ferroviario"
 }

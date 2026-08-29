@@ -13,7 +13,10 @@
   "estacion": "Ugao-Miraballes y Llodio",
   "provincia": "Álava",
   "pk": "230+862",
-  "linea": "700 Intermodal Abando Indalecio Prieto-Casetas"
+  "linea": "700 Intermodal Abando Indalecio Prieto-Casetas",
+  "lat": 43.1449981,
+  "lng": -2.94347071,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -62,5 +65,12 @@
  ],
  "factores_humanos": [],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-07-10",
+ "hora": "15:51",
+ "provincia": "Álava",
+ "estacion": "Ugao-Miraballes y Llodio",
+ "pk": "230+862",
+ "linea": "700 Intermodal Abando Indalecio Prieto-Casetas",
+ "tipo": "Descarrilamiento"
 }

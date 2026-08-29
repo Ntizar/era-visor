@@ -1,39 +1,7668 @@
 [
  {
   "id": "ES-190628-120817-IF-SN_CIAF",
+  "problemas": [],
+  "cambios": []
+ },
+ {
+  "id": "ES-191217-230317-IF-SN_CIAF",
+  "problemas": [],
+  "cambios": []
+ },
+ {
+  "id": "ES-191217-280717-if-sn_ciaf",
+  "problemas": [],
+  "cambios": []
+ },
+ {
+  "id": "ES-200124-291117-IF-SN_CIAF",
   "problemas": [
    "campo_vacio:fecha"
   ],
   "cambios": [
-   "titulo: 'Incidente por fallo de enclavamiento y aguja 17 en la estación de Puebla de Sanabria (Zamora)' -> 'INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0038/2017 OCURRIDO EL DÍA 12.08.2017 EN LA ESTACIÓN DE PUEBLA DE SANABRIA (ZAMORA)'",
-   "fecha: None -> '2017-08-12'",
+   "fecha: None -> '2017-11-29'",
+   "provincia: None -> 'Sevilla'",
+   "pk: None -> '20+350'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-200421-010718-IF-SN_CIAF_",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2018-07-01'",
    "provincia: None -> 'Zamora'",
-   "estacion: None -> 'Puebla de Sanabria'",
+   "estacion: None -> 'Pedralba'",
+   "tipo: None -> 'Incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-200723-201118-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento por caída de muro en Vacarisses (Barcelona)' -> 'INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2018 OCURRIDO EL DÍA 20.11.2018 EN LA LÍNEA 220 DE LLEIDA PIRINEUS A L´HOSPITALET DE LLOBREGAT, ENTRE LAS ESTACIONES DE VACARISSES Y VACARISSES-TORREBLANCA (BARCELONA)'",
+   "fecha: None -> '2018-11-20'",
+   "provincia: None -> 'Barcelona'",
+   "linea: None -> '220'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-201117-091219-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase indebido de la señal E1 en la estación de Cornellá (Barcelona)' -> 'Informe Final de la CIAF (IF) sobre el incidente ferroviario nº 0063/2019 ocurrido el día 09.12.2019 en la estación de Cornellá (Barcelona)'",
+   "fecha: None -> '2019-12-09'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Cornellá'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-2024-122-1213-if",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento por escape de material en la estación de León Clasificación el 13 de diciembre de 2024' -> 'Descarrilamiento por escape de material en la estación de León Clasificación (León) el 13 de diciembre de 2024'",
+   "fecha: None -> '2024-12-13'",
+   "hora: None -> '03:50'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'León Clasificación'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-2024-64-0625-if",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente operacional tras reanudar marcha después de un SPAD en la estación de Cuenca-Fernando Zóbel' -> 'Incidente operacional en la estación de Cuenca-Fernando Zóbel'",
+   "fecha: None -> '2024-06-25'",
+   "hora: None -> '21:30'",
+   "estacion: None -> 'Cuenca-Fernando Zóbel'",
+   "tipo: None -> 'Incidente operacional'"
+  ]
+ },
+ {
+  "id": "ES-ES 02.07.204 150324-140702-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Deformación de vía por acumulación de agua entre Chinchilla y Bonete (Albacete)' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0034/2014 OCURRIDO EL DÍA 02.07.2014 ENTRE CHINCHILLA Y BONETE (ALBACETE)'",
+   "fecha: None -> '2014-07-02'",
+   "provincia: None -> 'Albacete'",
+   "pk: None -> '368+925'",
+   "linea: None -> 'Bifurcación Albacete-Alicante'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 02.09.2014 -140902-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-09-02'",
+   "hora: None -> '21:11'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Unquera'",
+   "pk: None -> '451+557'",
+   "linea: None -> 'RAM 770 Santander – Oviedo'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 02.09.2015 170530-150902-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-09-02'",
+   "hora: None -> '04:47:32'",
+   "provincia: None -> 'Navarra'",
+   "estacion: None -> 'Noaín'",
+   "pk: None -> '165+409'",
+   "tipo: None -> 'Arrollamiento de una barra de carril'"
+  ]
+ },
+ {
+  "id": "ES-ES 04.03.2015 160531150304IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-03-04'",
+   "hora: None -> '19:17'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Puerto de Navacerrada'",
+   "pk: None -> '7+855'",
+   "linea: None -> '116 Los Cotos - Cercedilla'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 04.11.2016 180322161104IFSN_CIAF_CHESTE",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-11-04'",
+   "hora: None -> '20:45:05'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Cheste'",
+   "tipo: None -> 'Incendio'"
+  ]
+ },
+ {
+  "id": "ES-ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT ",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: \"Colisión entre trenes en la estación de L'Hospitalet de Llobregat por fallo lógico del enclavamiento y error humano\" -> 'INFORME FINAL DE LA CIAF (IFC) SOBRE EL ACCIDENTE FERROVIARIO Nº 0051/2016 OCURRIDO EL DÍA 04.11.2016 EN LA ESTACIÓN DE L’ HOSPITALET DE LLOBREGAT (BARCELONA)'",
+   "fecha: None -> '2016-11-04'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> \"L'Hospitalet de Llobregat\"",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 05.09.2013 IF_050913_270115_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-09-05'",
+   "hora: None -> '15:44'",
+   "provincia: None -> 'Cantabria'",
+   "pk: None -> '519+301'",
+   "linea: None -> '770 RAM Santander – Oviedo'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 05.10.2015 170627-151005-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-10-05'",
+   "hora: None -> '17:17'",
+   "provincia: None -> 'Huesca'",
+   "estacion: None -> 'Tardienta'",
+   "tipo: None -> 'colisión'"
+  ]
+ },
+ {
+  "id": "ES-ES 06.01.2017 180718-170106-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento en plena vía, pk 477+265, trayecto Nanclares-Manzanos (Álava), 06/01/2017' -> 'INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0001/2017 OCURRIDO EL DÍA 06.01.2017 EN PLENA VÍA EN EL P.K. 477+265, DEL TRAYECTO NANCLARES-MANZANOS (ÁLAVA).'",
+   "fecha: None -> '2017-01-06'",
+   "provincia: None -> 'Álava'",
+   "pk: None -> '477+265'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 06.08.2014 150922-140806-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-08-06'",
+   "hora: None -> '22:05'",
+   "provincia: None -> 'Huesca'",
+   "pk: None -> '390+500'",
+   "linea: None -> '050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro'",
+   "tipo: None -> 'Incendio'"
+  ]
+ },
+ {
+  "id": "ES-ES 07 04 2013 IF-070413-240315-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-04-07'",
+   "hora: None -> '17:31:09'",
+   "provincia: None -> 'CIUDAD REAL'",
+   "pk: None -> '257+000'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 09.02.2015 160927150209IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de topera y descarrilamiento en maniobras en la estación de A Susana (A Coruña)' -> 'Informe final de la CIAF (IFC) sobre el accidente ferroviario nº 0017/2015 ocurrido el día 09.02.2015 en la estación de A Susana (A Coruña)'",
+   "fecha: None -> '2015-02-09'",
+   "hora: None -> '08:58:24'",
+   "provincia: None -> 'A Coruña'",
+   "estacion: None -> 'A Susana'",
+   "tipo: None -> 'Arrollamiento de topera y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 09.09.2016 190329-160909-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-09-09'",
+   "provincia: None -> 'Pontevedra'",
+   "estacion: None -> 'O Porriño'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 09.11.2014 151124-141109-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-11-09'",
+   "hora: None -> '11:47:13'",
+   "provincia: None -> 'Huelva'",
+   "estacion: None -> 'Calañas'",
+   "pk: None -> '130+742'",
+   "linea: None -> '512 Zafra – Huelva Cargas'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 10 07 2014 150428-140710-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "titulo: 'Conato de colisión en Sant Vicenç de Calders por rebase de señal de parada del tren de mercancías BAX80' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0037/2014 OCURRIDO EL DÍA 10.07.2014 EN LA ESTACIÓN DE SANT VICENÇ DE CALDERS (TARRAGONA)'",
+   "fecha: None -> '2014-07-10'",
+   "hora: None -> '11:30'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Sant Vicenç de Calders'",
+   "pk: None -> '25+379'",
+   "linea: None -> '240 Sant Vicenç de Calders a L’Hospitalet de Llobregat'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 10.05.2015 161129150510IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente por rebase de señal en parada y conato de colisión en la estación de Barcelona Sants' -> 'INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2015 OCURRIDO EL DÍA 10.05.2015 EN LA ESTACIÓN DE BARCELONA SANTS (BARCELONA)'",
+   "fecha: None -> '2015-05-10'",
+   "hora: None -> '22:23:43'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Barcelona Sants'",
+   "tipo: None -> 'Incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 11 07 2014 150525-140711-IF-CIAF-1",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una niña en bicicleta en el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2014 OCURRIDO EL DÍA 11.07.2014 EN LA ESTACIÓN DE MATAESPESA DE ALPEDRETE (MADRID)'",
+   "fecha: None -> '2014-07-11'",
+   "hora: None -> '20:33'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Mataespesa de Alpedrete'",
+   "pk: None -> '4+569'",
+   "linea: None -> '110 Segovia a Villalba de Guadarrama'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 11 07 2014 150525-140711-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una niña en el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid)' -> 'Informe final sobre el accidente ferroviario nº 0036/2014 ocurrido el día 11.07.2014 en la estación de Mataespesa de Alpedrete (Madrid)'",
+   "fecha: None -> '2014-07-11'",
+   "hora: None -> '20:33'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Mataespesa de Alpedrete'",
+   "pk: None -> '4+569'",
+   "linea: None -> '110 Segovia a Villalba de Guadarrama'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 11.08.2014 151022-140811-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-08-11'",
+   "hora: None -> '10:06:30'",
+   "provincia: None -> 'Burgos'",
+   "estacion: None -> 'Apartadero de Pancorbo'",
+   "pk: None -> '437+186'",
    "tipo: None -> 'incidente ferroviario'"
   ]
  },
  {
-  "id": "ES-191217-230317-IF-SN_CIAF",
+  "id": "ES-ES 11.10.2014 160628-141011-IF-CIAF",
   "problemas": [
    "campo_vacio:fecha"
   ],
   "cambios": [
-   "fecha: None -> '2017-03-23'",
+   "fecha: None -> '2014-10-11'",
+   "hora: None -> '11:05'",
+   "estacion: None -> 'Desertu-Barakaldo'",
+   "pk: None -> '9+606'",
+   "linea: None -> '720'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 12.01.2015 160223-150112-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-01-12'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Barcelona Marina'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 12.08.2013 IF_120813_100215_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-08-12'",
+   "hora: None -> '09:12'",
+   "pk: None -> 'PK 18+920'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona Estación de Francia'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 13.02.2015 160531150213IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del primer eje de un tren en la vía 3 de la Estación de Barcelona Estació de França' -> 'Informe final de la CIAF (IF) sobre el accidente ferroviario nº 0010/2015 ocurrido el día 13.02.2015 en la estación de Barcelona Estació de França (Barcelona)'",
+   "fecha: None -> '2015-02-13'",
+   "hora: None -> '14:36:14'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Barcelona Estació de França'",
+   "pk: None -> 'PK 684+991'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 13.02.2017 180424-170213-IF-SN-CIAF ",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "titulo: 'Accidente en paso a nivel PK 90+594, Santo Domingo-Caudilla (Toledo): tren arrolla vehículo detenido' -> 'INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0012/2017 OCURRIDO EL DÍA 13.02.2017 EN EL PASO A NIVEL CLASE A (PK 90+594) EN EL TÉRMINO MUNICIPAL DE SANTO DOMINGO-CAUDILLA (TOLEDO)'",
+   "fecha: None -> '2017-02-13'",
+   "provincia: None -> 'TOLEDO'",
+   "pk: None -> '90+594'",
+   "linea: None -> '500 Bifurcación Planetario a Valencia de Alcántara'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 13.07.2017 191022-170713-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-07-13'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Capçanes'",
+   "linea: None -> '210'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 14.10.2015 170503-151014-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-10-14'",
+   "provincia: None -> 'Zamora'",
+   "estacion: None -> 'Monte la Reina'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 15 04 2014 -140415-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-04-15'",
+   "hora: None -> '18:09'",
+   "provincia: None -> 'Pontevedra'",
+   "estacion: None -> 'Bifurcación Arcade'",
+   "pk: None -> '17+896'",
+   "linea: None -> '824 Redondela de Galicia a Santiago de Compostela'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 15.01.2017 N181219-170115-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-01-15'",
+   "provincia: None -> 'SEVILLA'",
+   "estacion: None -> 'ARAHAL'",
+   "linea: None -> '422'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 15.03.2016 170720-160315-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-03-15'",
+   "hora: None -> '17:19'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Mont-Roig del Camp'",
+   "pk: None -> '247+490'",
+   "tipo: None -> 'Arrollamiento de obstáculo'"
+  ]
+ },
+ {
+  "id": "ES-ES 16.03.2016 170720-160316-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-03-16'",
+   "hora: None -> '08:37'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Torrejón de Ardoz'",
+   "linea: None -> '200 Madrid Chamartín a Barcelona Estación de Francia'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 17.02.2015 151222-150217-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-02-17'",
    "provincia: None -> 'Madrid'",
    "estacion: None -> 'Madrid Chamartín'",
    "tipo: None -> 'Incidente'"
   ]
  },
  {
-  "id": "ES-191217-280717-if-sn_ciaf",
+  "id": "ES-ES 17.04.2016 171017-160417-IF-CIAF",
   "problemas": [
    "campo_vacio:fecha"
   ],
   "cambios": [
-   "fecha: None -> '2017-07-28'",
+   "titulo: 'Fallo de circuito de vía que permitió itinerario sobre vía ocupada en Hernani (Guipúzcoa)' -> 'Informe final de la CIAF (IFC) sobre el accidente ferroviario nº 0021/2016 ocurrido el día 17.04.2016 en la estación de Hernani (Guipúzcoa)'",
+   "fecha: None -> '2016-04-17'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Hernani'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 18.03.2015 160531150318IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Accidente ferroviario por movimiento incontrolado de una locomotora de maniobras en Aboño (Asturias)' -> 'INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2015 OCURRIDO EL DÍA 18.03.2015 EN LA ESTACIÓN DE ABOÑO (ASTURIAS)'",
+   "fecha: None -> '2015-03-18'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Aboño'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 18.07.2016 171017-160718-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente en estación de Boñar (León): rebase de límite de maniobras por UT averiada y conato de colisión' -> 'INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0036/2016 OCURRIDO EL DÍA 18.07.2016 EN LA ESTACIÓN DE BOÑAR (LEÓN).'",
+   "fecha: None -> '2016-07-18'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'Boñar'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 18.11.2014 151124-141118-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-11-18'",
+   "hora: None -> '21:17'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Tarragona Clasificación'",
+   "pk: None -> '0+571'",
+   "linea: None -> '622'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 20.11.2015 170131-151120-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-11-20'",
+   "hora: None -> '20:23:02'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'Monzón de Campos'",
+   "pk: None -> '303/340'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 21.08.2017 190726-170821-IF-SN_CIAF ",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-08-21'",
+   "provincia: None -> 'Lleida'",
+   "estacion: None -> 'Lleida-Pirineus'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 22.05.2015 160628-150522-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase indebido de señal de salida por locomotora aislada en la estación de Vicálvaro (Madrid)' -> 'INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0028/2015 OCURRIDO EL DÍA 22.05.2015 EN LA ESTACIÓN DE VICÁLVARO (MADRID)'",
+   "fecha: None -> '2015-05-22'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Vicálvaro'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 22.10.2015 160927151022IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-10-22'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Río Huerva'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 23.01.2014 IF_230114_270115_CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-01-23'",
+   "hora: None -> '11:43:53'",
+   "provincia: None -> 'Burgos'",
+   "estacion: None -> 'Calzada de Bureba'",
+   "pk: None -> '422+950'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 23.01.2016 170919-160123-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-01-23'",
+   "hora: None -> '12:17:55'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Ascó'",
+   "pk: None -> '518+063'",
+   "linea: None -> '210'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 23.05.2017 181219-170523-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-05-23'",
+   "hora: None -> '12:29'",
+   "provincia: None -> 'Álava'",
+   "estacion: None -> 'Inoso-Oiardo'",
+   "pk: None -> '183+815'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 25.01.2016 170331-160125-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-01-25'",
+   "hora: None -> '23:29'",
+   "provincia: None -> 'Alicante'",
+   "estacion: None -> 'Elx Parc'",
+   "linea: None -> '336 El Reguerón a Alacant Terminal'",
+   "tipo: None -> 'conato de colisión por alcance'"
+  ]
+ },
+ {
+  "id": "ES-ES 25.07.2017 190426-170725-IF-SN-CIAF_",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-07-25'",
+   "provincia: None -> 'Soria'",
+   "estacion: None -> 'Torralba'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 26.09.2014 150922-140926-IF-CIAF_SANTA MARÍA DE LA ALAMEDA",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-09-26'",
+   "hora: None -> '06:48:10'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Santa María de la Alameda'",
+   "pk: None -> '73+885'",
+   "tipo: None -> 'Colisión'"
+  ]
+ },
+ {
+  "id": "ES-ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase de señal en parada por maniobra de material vacío en Barcelona Estació de França' -> 'INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2014 OCURRIDO EL DÍA 26.09.2014 EN BARCELONA ESTACIÓ DE FRANÇA (BARCELONA)'",
+   "fecha: None -> '2014-09-26'",
+   "hora: None -> '16:46:28'",
    "provincia: None -> 'Barcelona'",
-   "estacion: None -> 'França'",
-   "tipo: None -> 'Colisión contra topera'"
+   "estacion: None -> 'Barcelona Estació de França'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES 27.08.2015 161129150827IFCIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente por sobrecalentamiento de caja de grasa en automotor serie 599 en la estación de Álora (Málaga)' -> 'INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0039/2015 OCURRIDO EL DÍA 27.08.2015 EN LA ESTACIÓN DE ÁLORA (MÁLAGA)'",
+   "fecha: None -> '2015-08-27'",
+   "provincia: None -> 'Málaga'",
+   "estacion: None -> 'Álora'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 28.05.2016 180223-160528-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-05-28'",
+   "hora: None -> '09:50:39'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Vilanova i la Geltrú'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES 30.09.2016 180525-160930-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2016-09-30'",
+   "provincia: None -> 'Asturias'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 31.03.2015 160223-150331-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2015-03-31'",
+   "hora: None -> '03:37'",
+   "provincia: None -> 'Valladolid'",
+   "estacion: None -> 'Medina del Campo'",
+   "pk: None -> '206+831'",
+   "linea: None -> '100 Madrid – Hendaya'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES 31.08.2014 150803-140831-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-08-31'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Zaragoza Delicias'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES IF_060613_281014_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-06-06'",
+   "hora: None -> '11:08'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Zaragoza Delicias'",
+   "linea: None -> '060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES IF_260913_281014_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-09-26'",
+   "hora: None -> '09:19'",
+   "provincia: None -> 'Valladolid'",
+   "estacion: None -> 'Puesto de Bloqueo de Río Duero'",
+   "linea: None -> 'Línea de alta velocidad 080 Madrid Chamartín – Valladolid Campo Grande'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES-10002 - 210916-200304-IF_sn_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente por despacho sin bloqueo en la estación de Xeraco (Valencia)' -> 'Incidente ferroviario ocurrido en la estación de Xeraco (Valencia), el 4 de marzo de 2020'",
+   "fecha: None -> '2020-03-04'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Xeraco'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES-10111 - 2021-09-0205-IF Blanes",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2021-02-05'",
+   "provincia: None -> 'Girona'",
+   "estacion: None -> 'Blanes'",
+   "tipo: None -> 'Incidente operacional'"
+  ]
+ },
+ {
+  "id": "ES-ES-10126 - 220429-210702-if_ciaf",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2021-07-02'",
+   "provincia: None -> 'Alicante'",
+   "tipo: None -> 'Accidente en paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-ES-10137 - 2021-64 IF v1.1 Medinaceli",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "titulo: 'Fallo de cargamento por vuelco de contenedores en Medinaceli (Soria) debido a viento lateral' -> 'Fallo de cargamento en el p.k. 161 de la línea 200 en Medinaceli (Soria)'",
+   "fecha: None -> '2021-08-11'",
+   "hora: None -> '22:15'",
+   "provincia: None -> 'Soria'",
+   "pk: None -> '161+300 a 161+500'",
+   "linea: None -> '200'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES-10164 - 220526-210129-IF-SN-EN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2021-01-29'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'apeadero de L’Énova-Manuel'",
+   "tipo: None -> 'Incidente operacional'"
+  ]
+ },
+ {
+  "id": "ES-ES-10227 - 221220-210503-IF_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento de tren en Bifurcación Galicia, cerca de la estación de León' -> 'Descarrilamiento de tren ocurrido el día 03/05/2021 en Bif. Galicia en las inmediaciones de la estación de León'",
+   "fecha: None -> '2021-05-03'",
+   "estacion: None -> 'León'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES-10228 - 202171 0906 IF sn_en",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2021-09-06'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Prat de Llobregat'",
+   "linea: None -> '200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES-10251 - 2022-48-0612-IF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Colisión frontal de trenes en Bifurcación Vila-seca (Tarragona) el 12/06/2022' -> 'Colisión frontal de trenes ocurrida el día 12 de junio de 2022 en Bifurcación Vila-seca (Tarragona)'",
+   "fecha: None -> '2022-06-12'",
+   "hora: None -> '21:46:57'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Bifurcación Vila-seca'",
+   "linea: None -> '210 “Miraflores - Sant Vicenç de Calders”'",
+   "tipo: None -> 'Colisión frontal de trenes'"
+  ]
+ },
+ {
+  "id": "ES-ES-10252 - 2022-46-0601-IF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2022-06-01'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'El Papiol'",
+   "tipo: None -> 'Incidente Operacional'"
+  ]
+ },
+ {
+  "id": "ES-ES-10306- 202270 0815 IF Manresa (english version)",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente operacional con riesgo de colisión en la estación de Manresa (Barcelona)' -> 'Incidente operacional con riesgo de colisión ocurrido el 15 de agosto de 2022 en la estación de Manresa (Barcelona)'",
+   "fecha: None -> '2022-08-15'",
+   "hora: None -> '18:41'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Manresa'",
+   "linea: None -> 'línea 220 – Lleida-Pirineus– Bifurcación Vilanova'",
+   "tipo: None -> 'Incidente operacional con riesgo de colisión'"
+  ]
+ },
+ {
+  "id": "ES-ES-10367 - 20230624 2022107 IF ELS GUIAMETS",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2022-12-13'",
+   "hora: None -> '19:23:12'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Els Guiamets'",
+   "pk: None -> '535,45'",
+   "linea: None -> '210'",
+   "tipo: None -> 'Colisión entre trenes por alcance'"
+  ]
+ },
+ {
+  "id": "ES-ES-10382 - 2022-108-1105-IF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente operacional en la estación de Torelló (Barcelona) por corte de tensión y disolución de itinerario' -> 'Incidente operacional ocurrido el día 5/11/2022 en la Estación de Torelló (Barcelona)'",
+   "fecha: None -> '2022-11-05'",
+   "hora: None -> '10:10'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Torelló'",
+   "linea: None -> 'L222 Bif. Aigües - La Tour de Carol'",
+   "tipo: None -> 'Incidente operacional'"
+  ]
+ },
+ {
+  "id": "ES-ES-10383 - 2023-11-0130-IF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incendio en pantógrafos del tren 120.054 en el cambiador de ancho de Alcolea (Córdoba)' -> 'Incendio de material rodante ocurrido el día 30 de enero de 2023 en el cambiador de ancho de Alcolea'",
+   "fecha: None -> '2023-01-30'",
+   "provincia: None -> 'Córdoba'",
+   "estacion: None -> 'Cambiador de Alcolea'",
+   "pk: None -> '000+490'",
+   "linea: None -> '408'",
+   "tipo: None -> 'Incendio de material rodante'"
+  ]
+ },
+ {
+  "id": "ES-ES-10479 - Final Report - 2023-43-0518-IF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2023-05-18'",
+   "hora: None -> '19:00'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Les Borges del Camp'",
+   "tipo: None -> 'Fallo de señalización'"
+  ]
+ },
+ {
+  "id": "ES-ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2023-05-18'",
+   "hora: None -> '19:00'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Les Borges del Camp'",
+   "pk: None -> '573+750'",
+   "linea: None -> '210'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-ES-5925 - 210624-190208-if-sn_ciaf",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2019-02-08'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Castellgalí'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES-6201 - 210520-200124-IF-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren 04171 en Bifurcación Cerrato (Palencia) tras desvío nº4 mal dispuesto' -> 'Accidente ferroviario ocurrido el día 24 de enero de 2020 en Bifurcación Cerrato (Palencia)'",
+   "fecha: None -> '2020-01-24'",
+   "hora: None -> '19:01'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'Bifurcación Cerrato'",
+   "linea: None -> 'LAV Madrid - Valladolid – León'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ES-6255-210121-200419-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente ferroviario en la estación de Mataró (Barcelona) el 20 de abril de 2019' -> 'Incidente ferroviario en la estación de Mataró (Barcelona), ocurrido el 20 de abril de 2019'",
+   "fecha: None -> '2019-04-20'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Mataró'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ES-6274 - 211125-200602-IF_CIAF (+ENG)",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Accidente ferroviario en La Hiniesta (Zamora): tren arrolla vehículo caído desde paso superior y descarrila' -> 'Accidente ferroviario en La Hiniesta (Zamora), ocurrido el 02 de junio de 2020.'",
+   "fecha: None -> '2020-06-02'",
+   "hora: None -> '16:10'",
+   "provincia: None -> 'Zamora'",
+   "estacion: None -> 'La Hiniesta'",
+   "pk: None -> '10+251'",
+   "linea: None -> '822'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-CIAF-1-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-1-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-1-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-1-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-10-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-10-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-10-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-10-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-10-2016",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1262m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-107-2022",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1248m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-108-2022",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2171m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-11-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-11-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-11-2023",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:921m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-114-2023",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:3260m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2442m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2016",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-12-2019",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:607m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-122-2024",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:10668m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-13-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-13-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-13-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-14-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-14-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-14-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-15-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-15-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-15-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-15-2013",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:19361m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-15-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-16-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-16-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-16-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-17-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-17-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-17-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2158m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-17-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-17-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-18-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-18-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-18-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-18-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:27500m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-18-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-19-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-19-2020",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:514m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-2-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:584m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-2-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-2-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-2-2020",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-20-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2463m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-20-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-21-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-21-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-22-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-22-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-22-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-23-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-23-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-23-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-24-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-24-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-24-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-25-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-25-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1917m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-25-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-25-2018",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-26-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-26-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-26-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2295m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-26-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-27-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-27-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-27-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-28-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-28-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1210m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-28-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:7554m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-28-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-28-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1269m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-28-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-29-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-3-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-3-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2063m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-3-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-3-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-30-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-30-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-30-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-30-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-30-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-31-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-31-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-31-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-32-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-32-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:6768m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-32-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-32-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-33-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-33-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-33-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-34-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-34-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-35-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:940m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-35-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-35-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-36-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-36-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-36-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-36-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-36-2014",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:792m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-36-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-37-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-37-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-38-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-38-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:728m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-38-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-38-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-39-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-39-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-4-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-4-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:3681m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-4-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-4-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-4-2020",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:515m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-40-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-40-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-40-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:809m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-40-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-402-2013",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-41-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-41-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-41-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-41-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-41-2025",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-42-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-42-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-42-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-43-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:5678m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-43-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-43-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-43-2016",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-43-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-43-2023",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-44-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:508m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-44-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-44-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-44-2013",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1394m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-44-2014",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1394m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-45-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-45-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-45-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-46-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1082m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-46-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-46-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-46-2015",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-46-2018",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-46-2022",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:5137m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-47-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:908m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-47-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-47-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-47-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1394m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-48-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-48-2022",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-49-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-49-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-49-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-5-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-5-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-5-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-5-2015",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-50-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-50-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-50-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:7499m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-50-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-50-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-51-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-51-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1471m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-51-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-51-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-51-2016",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-52-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-52-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2803m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-52-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-52-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-52-2015",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-53-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-53-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-53-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-53-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-54-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-54-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-54-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-55-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-55-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-56-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-56-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-56-2010",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2364m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-56-2013",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-56-2016",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:502m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-57-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-57-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-59-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-59-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-6-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-6-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-60-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-60-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-60-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-60-2014",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-61-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-61-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-61-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-61-2014",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-62-2007",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-62-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-62-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-62-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-62-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-62-2013",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-63-2007",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1312m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-63-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-63-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-63-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-63-2011",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:12857m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-63-2019",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2007",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2012",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2014",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2021",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-64-2024",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-65-2007",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-65-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-65-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1197m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-66-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-66-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-66-2013",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:10743m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-68-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-68-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-69-2009",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-69-2013",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-7-2002",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-7-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1538m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-7-2011",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-7-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-7-2017",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-70-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-70-2022",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:607m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-71-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-71-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-71-2021",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1004m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-72-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-74-2008",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1312m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-74-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-76-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-77-2012",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-8-2010",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-8-2021",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:2205m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-9-2008",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-9-2009",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:4288m"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-CIAF-9-2021",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1969m",
+   "provincia_no_coincide"
+  ],
+  "cambios": [],
+  "error": "sin_md"
+ },
+ {
+  "id": "ES-ID-010207-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-01'",
+   "hora: None -> '18:53'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Beasaín'",
+   "pk: None -> '581+060'",
+   "linea: None -> 'Línea 100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-010307-140907-DGF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:1016m"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-03-01'",
+   "hora: None -> '17:22'",
+   "provincia: None -> 'Córdoba'",
+   "pk: None -> '5/350'",
+   "linea: None -> '430 Bifurcación Córdoba El Higuerón a Málaga'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-011206-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-12-01'",
+   "hora: None -> '18:45'",
+   "provincia: None -> 'Madrid'",
+   "pk: None -> '11,907'",
+   "linea: None -> 'Hortaleza Bifurcación-Pitis'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-030307-190707-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de dos personas por tren de mercancías en la estación de Viella, Asturias' -> 'Arrollamiento de dos personas por tren de mercancías entre las señales Avanzada y de Entrada de la estación de Viella, Asturias'",
+   "fecha: None -> '2007-03-03'",
+   "hora: None -> '14:19'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Viella'",
+   "pk: None -> '7,755'",
+   "linea: None -> '154 Tudela Veguín-Lugo de Llanera'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-050207-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-05'",
+   "hora: None -> '14:37'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'Veguellina de Orbigo'",
+   "pk: None -> '157,671'",
+   "linea: None -> '800 León - La Coruña S.D.'",
+   "tipo: None -> 'arrollamiento en paso a nivel de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-050208-240608-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-02-05'",
+   "hora: None -> '17:00'",
+   "provincia: None -> 'Madrid'",
+   "pk: None -> '13+100'",
+   "linea: None -> '300 Madrid-Valencia'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-050906-020207",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:mal:3308m"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por un tren en la línea Santander-Palencia (Cantabria), pk 459/200' -> 'Informe definitivo sobre la investigación del accidente ferroviario Nº 0032/2006 ocurrido el día 05.09.2006'",
+   "fecha: None -> '2006-09-05'",
+   "hora: None -> '16:13'",
+   "provincia: None -> 'Cantabria'",
+   "pk: None -> '459/200'",
+   "linea: None -> '160 Santander-Palencia'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-051006-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-05'",
+   "hora: None -> '11:35'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'El Vendrell'",
+   "pk: None -> '28,570'",
+   "linea: None -> 'Barcelona Sants-Sant Vicent de Calders'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-060108-240608-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por un tren de cercanías en túnel entre Pitis y Pinar de las Rozas, Madrid' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2008 OCURRIDO EL DÍA 06.01.2008'",
+   "fecha: None -> '2008-01-06'",
+   "hora: None -> '16:25'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Pitis y Pinar de las Rozas'",
+   "pk: None -> 'P.K. 20,100'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-060207-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren en paso vicioso junto a la estación de Catarroja, Valencia' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0008/2007 OCURRIDO EL DÍA 06.02.2007'",
+   "fecha: None -> '2007-02-06'",
+   "hora: None -> '12:12'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Catarroja'",
+   "pk: None -> '106,066'",
+   "linea: None -> 'La Encina - Valencia'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-060407-190707-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-04-06'",
+   "hora: None -> '20:53'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Villalba de Guadarrama'",
+   "pk: None -> '37/893'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-060507-190707-DGF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "localizacion:duda:728m"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-05-06'",
+   "hora: None -> '15:41'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '632,800'",
+   "linea: None -> 'Línea 200 Madrid-Barcelona'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-070207-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-07'",
+   "hora: None -> '15:26'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'San Cristóbal Industrial'",
+   "pk: None -> '9,670'",
+   "linea: None -> 'Línea 300 Madrid Atocha-Valencia Nord'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-070406-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-04-07'",
+   "hora: None -> '22:55'",
+   "provincia: None -> 'Alicante'",
+   "estacion: None -> 'Villena'",
+   "pk: None -> '395,415'",
+   "linea: None -> 'Madrid-Alicante'",
+   "tipo: None -> 'grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-071006-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-07'",
+   "hora: None -> '06:33'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Apeadero de Sant Ildefons de Cornellá'",
+   "pk: None -> '93,900'",
+   "linea: None -> '240 Sant Vicenç de Calders-L´Hospitalet de Llobregat'",
+   "tipo: None -> 'grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-071106-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-11-07'",
+   "hora: None -> '18:14'",
+   "provincia: None -> 'Teruel'",
+   "estacion: None -> 'Teruel'",
+   "pk: None -> '131,700'",
+   "linea: None -> 'Caminreal-Sagunto'",
+   "tipo: None -> 'arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-081006-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-08'",
+   "hora: None -> '11:40'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Cunit – Sant Vicent de Calders'",
+   "pk: None -> '625,120'",
+   "linea: None -> 'Madrid-Barcelona'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-090606-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-06-09'",
+   "hora: None -> '18:08'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'San Cristóbal Industrial'",
+   "pk: None -> '9,550'",
+   "linea: None -> 'Línea 300 Madrid Atocha-Valencia Nord'",
+   "tipo: None -> 'Arrollamiento de dos personas'"
+  ]
+ },
+ {
+  "id": "ES-ID-101106-180507-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una máquina de obra y fallecimiento del piloto de seguridad en la línea 270 Barcelona-Portbou' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0046/2006 OCURRIDO EL DÍA 10.11.2006'",
+   "fecha: None -> '2006-11-10'",
+   "hora: None -> '02:08'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Camallera'",
+   "pk: None -> '231,500'",
+   "linea: None -> '270 Barcelona-Portbou'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-111106-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-11-11'",
+   "hora: None -> '17:23'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '10,450'",
+   "linea: None -> 'Línea 246 Castellbisball-Mollet Sant Fost'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-111206-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-12-11'",
+   "hora: None -> '22:06'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Vilanova i La Geltrú'",
+   "pk: None -> '636,000'",
+   "linea: None -> 'Madrid-Barcelona'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-120506-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por un tren en paso a nivel de Renedo, Cantabria, línea Santander-Palencia' -> 'Informe definitivo sobre la investigación del accidente ferroviario Nº 0020/2006 ocurrido el día 12.05.2006'",
+   "fecha: None -> '2006-05-12'",
+   "hora: None -> '14:14'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Renedo'",
+   "pk: None -> '494,403'",
+   "linea: None -> '160 Santander-Palencia'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-130207-190707-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-13'",
+   "hora: None -> '18:40'",
+   "provincia: None -> 'Alicante'",
+   "pk: None -> '394,075'",
+   "linea: None -> 'La Encina - Alicante'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-140308-240608-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-03-14'",
+   "hora: None -> '19:54'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Llinars del Vallés'",
+   "pk: None -> '148/000'",
+   "linea: None -> '270 Barcelona-Cerbere'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-151006-020307-SALOU_Valencia to Barcelona",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-15'",
+   "hora: None -> '20:40'",
+   "provincia: None -> 'Tarragona'",
+   "pk: None -> '262,561'",
+   "linea: None -> 'Valencia-Tarragona'",
+   "tipo: None -> 'Arrollamiento en paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-ID-151006-020307-STACRUZ",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de una persona por un tren de viajeros en la estación de Santa Cruz de Mudela, Ciudad Real' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0038/2006 OCURRIDO EL DÍA 15.10.2006'",
+   "fecha: None -> '2006-10-15'",
+   "hora: None -> '13:00'",
+   "provincia: None -> 'Ciudad Real'",
+   "estacion: None -> 'Santa Cruz de Mudela'",
+   "pk: None -> '239,544'",
+   "linea: None -> 'Alcázar de San Juan-Cádiz'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-151006-150107-SFELIU_ES-24",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-15'",
+   "hora: None -> '11:04'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '88,906'",
+   "linea: None -> '240 Tarragona-Barcelona-Francia'",
+   "tipo: None -> 'grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-151106-130407",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-11-15'",
+   "hora: None -> '08:50'",
+   "provincia: None -> 'Valencia'",
+   "pk: None -> '28,363'",
+   "linea: None -> 'Silla-Gandía'",
+   "tipo: None -> 'arrollamiento en paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-ID-160506-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-05-16'",
+   "hora: None -> '23:01'",
+   "provincia: None -> 'Castellón'",
+   "estacion: None -> 'Villarreal'",
+   "pk: None -> '62,363'",
+   "linea: None -> 'Línea 600 Valencia-Tarragona'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-160906-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-09-16'",
+   "hora: None -> '00:44'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Montcada i Reixach-Santa María'",
+   "pk: None -> '353,200'",
+   "linea: None -> 'Línea 220 Lérida-Barcelona'",
+   "tipo: None -> 'Accidente ferroviario grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-170107-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-01-17'",
+   "hora: None -> '11:02'",
+   "provincia: None -> 'Guadalajara'",
+   "estacion: None -> 'Sigüenza'",
+   "pk: None -> '139,840'",
+   "linea: None -> 'Madrid-Barcelona'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-170506-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de un joven por tren de Cercanías en Lorca San Diego (Murcia)' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2006 OCURRIDO EL DÍA 17.05.2006'",
+   "fecha: None -> '2006-05-17'",
+   "hora: None -> '19:40'",
+   "provincia: None -> 'Murcia'",
+   "estacion: None -> 'Lorca San Diego'",
+   "pk: None -> '0,385'",
+   "linea: None -> 'Línea 322 Murcia Cargas-Águilas'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-180107-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-01-18'",
+   "hora: None -> '00:50'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Feliu de Llobregat'",
+   "pk: None -> '88,906'",
+   "linea: None -> '240 Tarragona-Barcelona-Francia'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-180307-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de una persona por tren LD 311 entre Hernani Centro y Hernani, línea Madrid-Hendaya' -> 'Arrollamiento de una persona, resultando fallecida, por tren Larga Distancia 311 entre Hernani Centro y Hernani, Línea 100 Madrid-Hendaya'",
+   "fecha: None -> '2007-03-18'",
+   "hora: None -> '06:03'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Hernani'",
+   "pk: None -> '615/644'",
+   "linea: None -> 'Línea 100 Madrid-Hendaya'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-180406-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-04-18'",
+   "hora: None -> '17:16'",
+   "provincia: None -> 'Madrid'",
+   "pk: None -> '9,900'",
+   "linea: None -> 'Línea 300 Madrid Atocha-Valencia Nord'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-181207-230508-CIAF[1]",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-12-18'",
+   "hora: None -> '14:10'",
+   "provincia: None -> 'Pontevedra'",
+   "pk: None -> '165,160'",
+   "linea: None -> '810 Monforte de Lemos-Vigo'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-191006-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-19'",
+   "hora: None -> '14:42'",
+   "provincia: None -> 'Burgos'",
+   "pk: None -> '420,623'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento de un vehículo'"
+  ]
+ },
+ {
+  "id": "ES-ID-210406-020307",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-04-21'",
+   "hora: None -> '12:44'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'Grijota'",
+   "pk: None -> '5,800'",
+   "linea: None -> 'Línea 130 Venta de Baños-Gijón Cercanías'",
+   "tipo: None -> 'grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-210806-131106-PLG (003)",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren LD 280 en la estación de Villada al pasar por el escape 2/4' -> 'INFORME DEFINITIVO DE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0030/2006 OCURRIDO EL DÍA 21.08.06 EN VILLADA'",
+   "fecha: None -> '2006-08-21'",
+   "hora: None -> '15:55'",
+   "estacion: None -> 'Villada'",
+   "pk: None -> '46/200'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-211106-020307",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-11-21'",
+   "hora: None -> '16:24'",
+   "provincia: None -> 'Tarragona'",
+   "pk: None -> '77,930'",
+   "linea: None -> 'Lérida-Tarragona'",
+   "tipo: None -> 'Accidente ferroviario grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-211207-290408-CIAF[1]",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-12-21'",
+   "hora: None -> '07:32'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Salou'",
+   "pk: None -> '263,600'",
+   "linea: None -> '600 Valencia-San Vicente Calders'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-220208-230508-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-02-22'",
+   "hora: None -> '20:00'",
+   "provincia: None -> 'Álava'",
+   "estacion: None -> 'Apeadero de Salbio'",
+   "pk: None -> '218,654'",
+   "linea: None -> '700 Casetas-Intermodal Abando Indalecio Prieto'",
+   "tipo: None -> 'Colisión con vehículo de carretera'"
+  ]
+ },
+ {
+  "id": "ES-ID-220906-020207",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-09-22'",
+   "hora: None -> '19:55'",
+   "provincia: None -> 'La Coruña'",
+   "estacion: None -> 'Meirama'",
+   "pk: None -> '430,433'",
+   "linea: None -> 'Zamora-La Coruña'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-230207-200607-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-23'",
+   "hora: None -> '23:52'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Madrid-Atocha Cercanías'",
+   "pk: None -> '0,619'",
+   "linea: None -> '920 Móstoles El Soto-Parla'",
+   "tipo: None -> 'Accidente grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-230606-020207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-06-23'",
+   "hora: None -> '23:29'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Cornellá'",
+   "pk: None -> '92,700'",
+   "linea: None -> 'Tarragona-Barcelona-Francia'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-241207-230508-CIAF[1]",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-12-24'",
+   "hora: None -> '20:16'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'El Pozo'",
+   "pk: None -> '5,200'",
+   "linea: None -> '930 Madrid- San Fernando de Henares'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-260108-240608-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-01-26'",
+   "hora: None -> '18:27'",
+   "provincia: None -> 'Orense'",
+   "estacion: None -> 'A Rúa Petín'",
+   "pk: None -> '310/412'",
+   "linea: None -> '800 León-La Coruña'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-260506-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona en paso a nivel de San Feliu de Llobregat (Barcelona)' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0023/2006 OCURRIDO EL DÍA 26.05.2006'",
+   "fecha: None -> '2006-05-26'",
+   "hora: None -> '11:43'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'San Feliu de Llobregat'",
+   "pk: None -> '88,906'",
+   "linea: None -> '240 Tarragona-Barcelona-Francia'",
+   "tipo: None -> 'arrollamiento en paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-ID-270207-200607-DGF_14_Sant Vicenç de Calders",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-27'",
+   "hora: None -> '22:05'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Vicenç de Calders'",
+   "pk: None -> '618,000'",
+   "linea: None -> 'Madrid-Barcelona'",
+   "tipo: None -> 'grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-270207-200607-DGF_El Carrión",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-27'",
+   "hora: None -> '10:12'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'El Carrión'",
+   "pk: None -> '310,550'",
+   "linea: None -> '160 Santander-Palencia'",
+   "tipo: None -> 'Accidente ferroviario grave'"
+  ]
+ },
+ {
+  "id": "ES-ID-271106-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de persona por tren entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid' -> 'Informe definitivo sobre la investigación del accidente ferroviario nº 0051/2006 ocurrido el día 27.11.2006'",
+   "fecha: None -> '2006-11-27'",
+   "hora: None -> '19:12'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'San Cristóbal Industrial'",
+   "pk: None -> '9,850'",
+   "linea: None -> 'Línea 300 Madrid Atocha-Valencia Nord'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-271206-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-12-27'",
+   "hora: None -> '19:19'",
+   "provincia: None -> 'Burgos'",
+   "estacion: None -> 'Villafría y Burgos'",
+   "pk: None -> '371,068'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-280207-190707-DGF",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-02-28'",
+   "hora: None -> '05:12'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Torredembarra'",
+   "pk: None -> '13,550'",
+   "linea: None -> 'Línea 600 Valencia Norte – San Vicente de Calders'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-281106-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-11-28'",
+   "hora: None -> '08:00'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'San Cristóbal Industrial'",
+   "pk: None -> '9,800'",
+   "linea: None -> 'Línea 300 Madrid Atocha-Valencia Nord'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-291006-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-10-29'",
+   "hora: None -> '18:30'",
+   "provincia: None -> 'Alicante'",
+   "pk: None -> '54,100'",
+   "linea: None -> 'Xativa-Alcoy'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-291207-290408-CIAF[1]",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-12-29'",
+   "hora: None -> '22:42'",
+   "provincia: None -> 'Vizcaya'",
+   "estacion: None -> 'Apeadero de Abaroa-San Miguel'",
+   "pk: None -> '241,860'",
+   "linea: None -> '700 Intermodal Abando Ind. Prieto-Casetas'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-300307-140907-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-03-30'",
+   "hora: None -> '17:25'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'El Rebollar y Utiel'",
+   "pk: None -> '4/465'",
+   "linea: None -> 'Línea 310 Aranjuez - Valencia'",
+   "tipo: None -> 'Arrollamiento de un automóvil'"
+  ]
+ },
+ {
+  "id": "ES-ID-300407-190707-DGF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-04-30'",
+   "hora: None -> '22:06'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'San Sebastián'",
+   "pk: None -> '622,516'",
+   "linea: None -> 'Línea 100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-300606-020307",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-06-30'",
+   "hora: None -> '02:43'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'Venta de Baños'",
+   "pk: None -> '285,330'",
+   "linea: None -> 'Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID-301106-130407",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-11-30'",
+   "hora: None -> '11:15'",
+   "provincia: None -> 'Pontevedra'",
+   "pk: None -> '10,320'",
+   "linea: None -> 'Redondela-Santiago de Compostela'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID-311206-130407",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2006-12-31'",
+   "hora: None -> '11:20'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Apeadero de Hostalric'",
+   "pk: None -> '171,039'",
+   "linea: None -> 'Línea 270 Barcelona-Portbou'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_040407_140907",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-04-04'",
+   "hora: None -> '11:07'",
+   "provincia: None -> 'Oviedo'",
+   "estacion: None -> 'El Caleyo'",
+   "pk: None -> '134+410'",
+   "linea: None -> 'Línea 130 Venta de Baños a Gijón Cercanías'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_050407_140907",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-04-05'",
+   "hora: None -> '08:54'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'La Garriga'",
+   "pk: None -> '37,492'",
+   "linea: None -> '222 Barcelona-Ripoll'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID_070507_191007",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona en el paso a nivel de la estación de Algemesí' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0029/2007 OCURRIDO EL DÍA 07.05.2007'",
+   "fecha: None -> '2007-05-07'",
+   "hora: None -> '19:20'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Algemesí'",
+   "pk: None -> '81,454'",
+   "linea: None -> 'Línea 300 Madrid Puerta de Atocha – Valencia Nord'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_070607_191007",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona entre Vila-Real y Burriana, línea 600 Valencia Nord-San Vicente Calders, Castellón' -> 'Informe definitivo sobre la investigación del accidente ferroviario Nº 0036/2007 ocurrido el día 07.06.2007'",
+   "fecha: None -> '2007-06-07'",
+   "hora: None -> '10:55'",
+   "provincia: None -> 'Castellón'",
+   "estacion: None -> 'Vila-Real y Burriana'",
+   "pk: None -> '61/700'",
+   "linea: None -> '600 Valencia Nord – San Vicente Calders'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-07-08'",
+   "hora: None -> '08:41'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Arenys de Mar'",
+   "pk: None -> '37/325'",
+   "linea: None -> 'Barcelona-Sagrera a Maçanet-Massanes'",
+   "tipo: None -> 'grave'"
+  ]
+ },
+ {
+  "id": "ES-ID_080707_191007_Betanzos–Infesta a Ferrol,",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-07-08'",
+   "hora: None -> '15:53'",
+   "provincia: None -> 'A Coruña'",
+   "pk: None -> '37/600'",
+   "linea: None -> 'Betanzos – Infesta a Ferrol'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_090807_260208",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-08-09'",
+   "hora: None -> '20:28'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Apeadero de Ciaño'",
+   "pk: None -> '19/338'",
+   "linea: None -> 'Soto de Rey a El Entrego'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_120507_140907",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-05-12'",
+   "hora: None -> '21:55'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'antiguo apeadero de Camargo'",
+   "pk: None -> '508+180'",
+   "linea: None -> '160 Santander-Palencia'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_130407_190707",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-04-13'",
+   "hora: None -> '07:33'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Apeadero de El Tejar'",
+   "pk: None -> '18/190'",
+   "linea: None -> 'Línea 100 Madrid-Chamartín-Hendaya'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_130607_191007",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-06-13'",
+   "hora: None -> '03:35'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Vilaseca'",
+   "pk: None -> '93/250'",
+   "linea: None -> 'Madrid - Barcelona vía Caspe'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID_160507_300108",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-05-16'",
+   "hora: None -> '09:09'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Castelldefels Playa'",
+   "pk: None -> '656/750'",
+   "linea: None -> '200 Madrid-Barcelona'",
+   "tipo: None -> 'Accidente ferroviario grave'"
+  ]
+ },
+ {
+  "id": "ES-ID_230707_300108",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-07-23'",
+   "hora: None -> '09:39'",
+   "provincia: None -> 'Lleida'",
+   "estacion: None -> \"Bell-Lloc d'Urgell\"",
+   "pk: None -> '196,070'",
+   "linea: None -> \"Línea 220 Lleida-L'Hospitalet de Llobregat\"",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_240607_300108",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de persona por imprudencia al cruzar vías en estación de Vinaroz' -> 'INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 38/2007 OCURRIDO EL DÍA 24.06.2007'",
+   "fecha: None -> '2007-06-24'",
+   "hora: None -> '23:04'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Vinaroz'",
+   "pk: None -> '146+805'",
+   "linea: None -> '600 Valencia Nord – San Viçenc de Calders'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_250407_171207",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de un turismo por tren en paso a nivel de Catoira-Puentecesures (Pontevedra)' -> 'Arrollamiento de un vehículo automóvil por tren en paso a nivel en el trayecto Catoira-Puentecesures (Pontevedra)'",
+   "fecha: None -> '2007-04-25'",
+   "hora: None -> '13:05'",
+   "provincia: None -> 'Pontevedra'",
+   "pk: None -> '66/722'",
+   "linea: None -> '824 Redondela-Santiago de Compostela'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-ID_250507_140907",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-05-25'",
+   "hora: None -> '19:17'",
+   "provincia: None -> 'Tarragona'",
+   "pk: None -> '244,350'",
+   "linea: None -> 'Valencia a San Vicente de Calders'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_270807_300108",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-08-27'",
+   "hora: None -> '09:47'",
+   "provincia: None -> 'Murcia'",
+   "pk: None -> '467,110'",
+   "linea: None -> '320 Chinchilla a Cartagena'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-ID_300407_190907_Tocón - Montefrío",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2007-04-30'",
+   "hora: None -> '14:37'",
+   "provincia: None -> 'Granada'",
+   "estacion: None -> 'Tocón - Montefrío'",
+   "pk: None -> '88,612'",
+   "linea: None -> '426 Granada – Fuente de Piedra'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-010109-190509-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren de cercanías en la estación de Sitges' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2009 OCURRIDO EL DÍA 01.01.2009 EN LA ESTACIÓN DE SITGES'",
+   "fecha: None -> '2009-01-01'",
+   "hora: None -> '08:13'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sitges'",
+   "pk: None -> '643,230'",
+   "linea: None -> '200 Madrid Chamartín - Barcelona Sants'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-010611-310112-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-06-01'",
+   "hora: None -> '16:00'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Trasona'",
+   "pk: None -> 'PK 27+510'",
+   "linea: None -> '11 Ferrol - Gijón'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-010908-310309-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una pala retroexcavadora e invasión de gálibo en la estación de Dueñas, Palencia' -> 'Informe final sobre la investigación del accidente ferroviario nº 0038/2008 ocurrido el día 01.09.2008 en la estación de Dueñas'",
+   "fecha: None -> '2008-09-01'",
+   "hora: None -> '17:12'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'Dueñas'",
+   "pk: None -> '279,000'",
+   "linea: None -> '100 Hendaya Madrid-Chamartín'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-011209-230310-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-01'",
+   "hora: None -> '19:34'",
+   "provincia: None -> 'Pontevedra'",
+   "estacion: None -> 'O Porriño'",
+   "pk: None -> '151+433'",
+   "linea: None -> '810 Monforte de Lemos-Vigo'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-020209-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Colisión lateral entre trenes de viajeros y mercancías en el túnel de Osina (Guipúzcoa)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2009 OCURRIDO EL DÍA 02.02.2009 ENTRE ZEGAMA OTZAURTE Y BRINKOLA'",
+   "fecha: None -> '2009-02-02'",
+   "hora: None -> '19:49'",
+   "provincia: None -> 'Guipúzcoa'",
+   "pk: None -> '551+790'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Colisión lateral'"
+  ]
+ },
+ {
+  "id": "ES-IF-021008-281108-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren de FEVE en viaducto sobre el río Esla, línea León-Bilbao, provincia de León' -> 'Informe final sobre la investigación del accidente ferroviario nº 0046/2008 ocurrido el día 02.10.2008'",
+   "fecha: None -> '2008-10-02'",
+   "hora: None -> '18:12'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'Cistierna'",
+   "pk: None -> '53,725'",
+   "linea: None -> '31 León-Bilbao'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-021108-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de una persona en el paso enmaderado del apeadero de Hostalric (Gerona)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0056/2008 OCURRIDO EL DÍA 02.11.2008'",
+   "fecha: None -> '2008-11-02'",
+   "hora: None -> '22:10'",
+   "provincia: None -> 'Gerona'",
+   "estacion: None -> 'Hostalric'",
+   "pk: None -> '170,925'",
+   "linea: None -> '270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-030608-2-300908-CIAF_y Lora del Río",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-06-03'",
+   "hora: None -> '19:57'",
+   "provincia: None -> 'Sevilla'",
+   "pk: None -> '511,635'",
+   "linea: None -> '400 Alcázar de San Juan-Cádiz'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-030608-300908-CIAF_Barcelona-Cerbere",
+  "problemas": [
+   "campo_vacio:fecha",
+   "provincia_no_coincide"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-06-03'",
+   "hora: None -> '12:39'",
+   "provincia: None -> 'Gerona'",
+   "estacion: None -> 'Figueres'",
+   "pk: None -> '247,215'",
+   "linea: None -> '270 Barcelona-Cerbere'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-031108-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-11-03'",
+   "hora: None -> '20:29'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Cardedeu'",
+   "pk: None -> '143,105'",
+   "linea: None -> '270 Portbou Cerbere-Barcelona Sant Andreu Comtal'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-031210-270411-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-12-03'",
+   "hora: None -> '10:31'",
+   "provincia: None -> 'Salamanca'",
+   "pk: None -> '122+116'",
+   "linea: None -> '120 Vilar Formoso – Medina del Campo'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-040111-200911-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-01-04'",
+   "hora: None -> '19:20'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Zaragoza Delicias'",
+   "pk: None -> '305+740'",
+   "linea: None -> '060 Cambiador de Zaragoza Delicias a Bifurcación Cambiador de Zaragoza Delicias'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-040309-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-03-04'",
+   "hora: None -> '21:49'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Apeadero de Platja de Castelldefels'",
+   "pk: None -> '656,600'",
+   "linea: None -> '200 Madrid Chamartín - Barcelona Sants'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-040708-190509-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Conato de colisión entre tren de cercanías y mercancías en Sant Celoni por fallo en señalización durante obras' -> 'Informe final sobre la investigación del incidente ferroviario nº 0040/2008 ocurrido el día 04.07.2008 en la estación de Sant Celoni'",
+   "fecha: None -> '2008-07-04'",
+   "hora: None -> '21:59'",
+   "estacion: None -> 'Sant Celoni'",
+   "linea: None -> '270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-050310-310111-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de un trabajador de vía por el tren 751 en la estación de Dueñas (Palencia)' -> 'Informe final sobre el accidente ferroviario nº 0014/2010 ocurrido el día 05.03.2010 en Dueñas (Palencia)'",
+   "fecha: None -> '2010-03-05'",
+   "hora: None -> '01:37'",
+   "provincia: None -> 'Palencia'",
+   "estacion: None -> 'Dueñas'",
+   "pk: None -> '278+952'",
+   "linea: None -> '100 Madrid Chamartín – Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-050411-280212-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-04-05'",
+   "hora: None -> '15:30'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Rubí'",
+   "pk: None -> '6+707'",
+   "linea: None -> '246 Mollet Sant Fost - Castellbisbal'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-050609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-05'",
+   "hora: None -> '22:42'",
+   "provincia: None -> 'Gerona'",
+   "estacion: None -> 'Maçanet-Massanes'",
+   "pk: None -> '176+126'",
+   "linea: None -> '270 Barcelona San Andrés Condal a Cerbere'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-050708-181208-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-07-05'",
+   "hora: None -> '11:56'",
+   "provincia: None -> 'Valladolid'",
+   "estacion: None -> 'Medina del Campo'",
+   "pk: None -> '206,300'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-050710-310111-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Conato de colisión por rebase indebido de señal en parada en la estación de Móstoles-El Soto (Madrid)' -> 'Informe final sobre el incidente ferroviario nº 0033/2010 ocurrido el día 05.07.2010 en la estación de Móstoles – El Soto (Madrid)'",
+   "fecha: None -> '2010-07-05'",
+   "hora: None -> '10:01'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Móstoles – El Soto'",
+   "pk: None -> '20+655'",
+   "linea: None -> '920 Móstoles - El Soto - Parla'",
+   "tipo: None -> 'conato de colisión'"
+  ]
+ },
+ {
+  "id": "ES-IF-051111-290512-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-11-05'",
+   "hora: None -> '10:43'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Bif. Sagrera'",
+   "pk: None -> '110+311'",
+   "linea: None -> '268 Bif. Aragó – Barcelona Sant Andreu Comtal'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-060508-181208-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-06'",
+   "hora: None -> '19:20'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Fabara'",
+   "pk: None -> '470+754'",
+   "linea: None -> '210 de Miraflores a Tarragona'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-060709-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-07-06'",
+   "hora: None -> '16:54'",
+   "provincia: None -> 'Málaga'",
+   "estacion: None -> 'Ronda y Setenil'",
+   "pk: None -> '67+916'",
+   "linea: None -> '420 Bif. Las Maravillas - Algeciras'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-060910-290711-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Colisión de tren con camión en paso a nivel provisional por obras en Carmonita (Badajoz)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0049/2010 OCURRIDO EL DÍA 06.09.2010 EN PASO A NIVEL PROVISIONAL POR OBRAS, EN EL TÉRMINO MUNICIPAL DE CARMONITA (BADAJOZ)'",
+   "fecha: None -> '2010-09-06'",
+   "hora: None -> '12:35'",
+   "provincia: None -> 'Badajoz'",
+   "pk: None -> '24+420'",
+   "linea: None -> '510 Aljucén - Cáceres'"
+  ]
+ },
+ {
+  "id": "ES-IF-061209-290610-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-06'",
+   "hora: None -> '08:40'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Granollers Centre'",
+   "linea: None -> '270'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-070311-290512-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-03-07'",
+   "hora: None -> '21:22'",
+   "provincia: None -> 'Girona'",
+   "estacion: None -> 'Flaçà'",
+   "pk: None -> '224+794'",
+   "linea: None -> '270 Barcelona San Andrés Condal - Cerbere'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-070409-271009-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una menor en el paso entre andenes de la estación de Las Navas del Marqués (Ávila)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0019/2009 OCURRIDO EL DÍA 07.04.2009 EN LA ESTACIÓN DE LAS NAVAS DEL MARQUÉS (ÁVILA)'",
+   "fecha: None -> '2009-04-07'",
+   "hora: None -> '20:04'",
+   "provincia: None -> 'Ávila'",
+   "estacion: None -> 'Las Navas del Marqués'",
+   "pk: None -> '83,700'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-070910-290311-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-09-07'",
+   "hora: None -> '17:02'",
+   "provincia: None -> 'Vizcaya'",
+   "pk: None -> '0+388'",
+   "linea: None -> '1031 León – Bilbao'",
+   "tipo: None -> 'Arrollamiento mortal'"
+  ]
+ },
+ {
+  "id": "ES-IF-080410-281210-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-04-08'",
+   "hora: None -> '11:25'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Terminal de contenedores de Silla'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estació del Nord'",
+   "tipo: None -> 'Colisión y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-080709-260110-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-07-08'",
+   "hora: None -> '18:21'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Villaverde de Pontones'",
+   "pk: None -> '551+254'",
+   "linea: None -> '24 Santander - Bilbao'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-081009-230210-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-10-08'",
+   "hora: None -> '18:30'",
+   "provincia: None -> 'Lugo'",
+   "pk: None -> '0+851'",
+   "linea: None -> '810 Vigo – Monforte de Lemos'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-081108-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-11-08'",
+   "hora: None -> '14:51'",
+   "provincia: None -> 'Navarra'",
+   "estacion: None -> 'Tudela de Navarra'",
+   "pk: None -> '77,050'",
+   "linea: None -> '700 Casetas-Intermodal Abando Indalecio Prieto'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-090212-271112-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-02-09'",
+   "hora: None -> '09:43'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Mataró'",
+   "pk: None -> '28+158'",
+   "linea: None -> '276 Maçanet-Massanes a Bifurcación Sagrera'",
+   "tipo: None -> 'Colisión con topera'"
+  ]
+ },
+ {
+  "id": "ES-IF-090508-300908-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-09'",
+   "hora: None -> '22:40'",
+   "provincia: None -> 'Zaragoza'",
+   "pk: None -> '214,220'",
+   "linea: None -> '200 Madrid-Barcelona'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-090810-250211-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-08-09'",
+   "hora: None -> '17:00'",
+   "provincia: None -> 'Cantabria'",
+   "pk: None -> '489+795'",
+   "linea: None -> '1021 Oviedo – Santander'",
+   "tipo: None -> 'Paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-IF-091108-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de vehículo por tren en paso a nivel entre Almagro y El Campillo (Ciudad Real)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0060/2008 OCURRIDO EL DÍA 09.11.2008'",
+   "fecha: None -> '2008-11-09'",
+   "hora: None -> '09:52'",
+   "provincia: None -> 'Ciudad Real'",
+   "estacion: None -> 'El Campillo'",
+   "pk: None -> '226,669'",
+   "linea: None -> '522 Manzanares-Ciudad Real'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-100108-300908-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-01-10'",
+   "hora: None -> '15:26'",
+   "provincia: None -> 'Córdoba'",
+   "estacion: None -> 'Alcolea de Córdoba'",
+   "pk: None -> '429,825'",
+   "linea: None -> '400 Alcázar de San Juan-Cádiz'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-100110-280910-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-01-10'",
+   "hora: None -> '19:49'",
+   "provincia: None -> 'Sevilla'",
+   "estacion: None -> 'Sevilla Santa Justa'",
+   "pk: None -> '568+250'",
+   "linea: None -> '400 Alcázar de San Juan - Cádiz'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-100310-261010-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-03-10'",
+   "hora: None -> '01:58'",
+   "provincia: None -> 'La Rioja'",
+   "estacion: None -> 'Logroño'",
+   "pk: None -> '76+396'",
+   "linea: None -> '700 Casetas - Intermodal Abando Indalecio Prieto'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-100611-290512-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de un tubo metálico en el PK 11+100 de la LAV Madrid Puerta de Atocha a Sevilla Santa Justa' -> 'Informe final sobre el accidente ferroviario nº 0028/2011 ocurrido el día 10.06.2011 en el PK 11+100 de la línea Madrid Puerta de Atocha a Sevilla Santa Justa'",
+   "fecha: None -> '2011-06-10'",
+   "hora: None -> '09:50'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Los Gavilanes'",
+   "pk: None -> 'PK 11+100'",
+   "linea: None -> '10 Madrid-Puerta de Atocha a Sevilla-Santa Justa'",
+   "tipo: None -> 'Arrollamiento de un tubo metálico'"
+  ]
+ },
+ {
+  "id": "ES-IF-100710-290311-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-07-10'",
+   "hora: None -> '15:51'",
+   "provincia: None -> 'Álava'",
+   "estacion: None -> 'Ugao-Miraballes y Llodio'",
+   "pk: None -> '230+862'",
+   "linea: None -> '700 Intermodal Abando Indalecio Prieto-Casetas'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-100908-200109-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de una persona por tren de mercancías en la estación de Villarreal, línea 600' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0041/2008 OCURRIDO EL DÍA 10.09.2008'",
+   "fecha: None -> '2008-09-10'",
+   "hora: None -> '15:14'",
+   "provincia: None -> 'Castellón'",
+   "estacion: None -> 'Villarreal'",
+   "pk: None -> '62,095'",
+   "linea: None -> '600 Valencia-San Vicente de Calders'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-101108-240209-CIAF_ES-607",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por el tren 12604 en paso a nivel de Monforte de Lemos' -> 'Informe final sobre la investigación del accidente ferroviario Nº 0061/2008 ocurrido el día 10.11.2008'",
+   "fecha: None -> '2008-11-10'",
+   "hora: None -> '09:30'",
+   "provincia: None -> 'Lugo'",
+   "estacion: None -> 'Monforte de Lemos'",
+   "pk: None -> 'P.K. 2,455'",
+   "linea: None -> '810 Vigo - Monforte de Lemos'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-101108-310309-CIAF_ES-651",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-11-10'",
+   "hora: None -> '15:05'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'El Entrego'",
+   "pk: None -> '40,996'",
+   "linea: None -> '61 Gijón-Laviana'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-101110-270411-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-11-10'",
+   "hora: None -> '18:20'",
+   "provincia: None -> 'A Coruña'",
+   "estacion: None -> 'Betanzos-Infesta'",
+   "pk: None -> '524+416'",
+   "linea: None -> '800 A Coruña - León'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-110210-280910-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-02-11'",
+   "hora: None -> '19:10'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Pinar de Las Rozas'",
+   "pk: None -> '20+658'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-110310-261010-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-03-11'",
+   "hora: None -> '09:15'",
+   "provincia: None -> 'León'",
+   "pk: None -> '5+037'",
+   "linea: None -> '31 León - Bilbao'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-110508-281108-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-11'",
+   "hora: None -> '17:53'",
+   "provincia: None -> 'Albacete'",
+   "estacion: None -> 'Villarrobledo'",
+   "pk: None -> '202,400'",
+   "linea: None -> '300 Madrid-Chamartín Valencia–Estación de Nord'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-110711-270312-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-07-11'",
+   "hora: None -> '11:53'",
+   "provincia: None -> 'Huesca'",
+   "pk: None -> '11+758'",
+   "linea: None -> '204 Bif. Canfranc - Canfranc'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-111110-280611-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-11-11'",
+   "hora: None -> '01:35'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Algemesí y Benifaió'",
+   "pk: None -> 'PK 89+850'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estació del Nord'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-111209-270410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-11'",
+   "hora: None -> '21:32'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Renedo'",
+   "pk: None -> '495+043'",
+   "linea: None -> '160 Santander - Palencia'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-120112-250912-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-01-12'",
+   "hora: None -> '14:19'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'San Claudio'",
+   "pk: None -> '5+265'",
+   "linea: None -> '12 Oviedo – San Esteban'",
+   "tipo: None -> 'Colisión frontal y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-120209-260110-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-02-12'",
+   "hora: None -> '22:07'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Cerdanyola del Vallés'",
+   "pk: None -> '351+200'",
+   "linea: None -> '224'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-120908-200109-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-09-12'",
+   "hora: None -> '19:49'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Martorell'",
+   "pk: None -> '73,130'",
+   "linea: None -> '240 San Vicente de Calders –L’Hospitalet de Llobregat'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-121008-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-10-12'",
+   "hora: None -> '13:15'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Pravia'",
+   "pk: None -> '0,287'",
+   "linea: None -> '11 Ferrol-Gijón'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-121011-260612-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-10-12'",
+   "hora: None -> '17:40'",
+   "provincia: None -> 'Girona'",
+   "estacion: None -> 'Vilamalla'",
+   "pk: None -> '241+083'",
+   "linea: None -> '270 Bifurcación Sagrera a Cerbere'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-130508-281008-CIAF_ES-547",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-13'",
+   "hora: None -> '12:07'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Tolosa'",
+   "pk: None -> '594,380'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-130508-300908-CIAF_ES-548",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren en el paso entarimado del apeadero de Hernani Centro (Guipúzcoa)' -> 'Informe final sobre la investigación del accidente ferroviario nº 0015/2008 ocurrido el día 13.05.2008'",
+   "fecha: None -> '2008-05-13'",
+   "hora: None -> '16:35'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Hernani Centro'",
+   "pk: None -> '615,049'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-130709-260110-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-07-13'",
+   "hora: None -> '18:44'",
+   "provincia: None -> 'Huesca'",
+   "pk: None -> '99+367'",
+   "linea: None -> '204 Bifurcación Huesca Cambiador - Canfranc'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-130711-250912-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento tren mercancías Logitren entre Teruel y Caparrates por mal estado de vía y estiba' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2011 OCURRIDO EL DÍA 13.07.2011 ENTRE LAS ESTACIONES DE TERUEL Y CAPARRATES (TERUEL)'",
+   "fecha: None -> '2011-07-13'",
+   "hora: None -> '21:45'",
+   "provincia: None -> 'Teruel'",
+   "estacion: None -> 'Caparrates'",
+   "pk: None -> '137+810'",
+   "linea: None -> '610 Sagunto – Bif. Teruel'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-131008-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren 1415 a la salida de La Encina, línea 300 Madrid-Chamartín-Valencia' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0049/2008 OCURRIDO EL DÍA 13.10.2008'",
+   "fecha: None -> '2008-10-13'",
+   "hora: None -> '12:19'",
+   "provincia: None -> 'Alicante'",
+   "estacion: None -> 'La Encina'",
+   "pk: None -> '375,740'",
+   "linea: None -> '300 Madrid - Chamartín - Valencia – Estación Nord'",
+   "tipo: None -> 'arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-131208-210409-CIAF_ES-672",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-12-13'",
+   "hora: None -> '09:45'",
+   "provincia: None -> 'Álava'",
+   "pk: None -> '494,315'",
+   "linea: None -> '100 Hendaya - Madrid'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-131208-310309-CIAF_ES-671",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-12-13'",
+   "hora: None -> '07:41'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Calella'",
+   "pk: None -> '48,524'",
+   "linea: None -> '276 Maçanet-Massanes-Barcelona-Sagrera'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-131209-270410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-13'",
+   "hora: None -> '18:27'",
+   "provincia: None -> 'Ávila'",
+   "estacion: None -> 'Orbita-Espinosa'",
+   "pk: None -> '164+429'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-140109-190509-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-01-14'",
+   "hora: None -> '10:57'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Avilés'",
+   "pk: None -> '16,863'",
+   "linea: None -> '144 San Juan de Nieva – Villabona'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-140209-290909-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-02-14'",
+   "hora: None -> '14:10'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Lieres'",
+   "pk: None -> 'P.K.340, 807'",
+   "linea: None -> '21 Oviedo-Santander'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-140508-220708-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-14'",
+   "hora: None -> '10:44'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'Villadepalos'",
+   "pk: None -> '263,566'",
+   "linea: None -> '800 La Coruña-León'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-140610-310111-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren de mercancías FR 901 de Feve entre Cerdido y Ortigueira (A Coruña)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2010 OCURRIDO EL DÍA 14.06.2010 ENTRE CERDIDO Y ORTIGUEIRA (A CORUÑA)'",
+   "fecha: None -> '2010-06-14'",
+   "hora: None -> '08:32'",
+   "provincia: None -> 'A Coruña'",
+   "pk: None -> '43+559'",
+   "linea: None -> '11 Ferrol - Gijón'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-140710-250211-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento de tren de mercancías de Feve entre Ribadeo y Vegadeo, línea 11 Ferrol-Gijón (Lugo/Asturias)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0038/2010 OCURRIDO EL DÍA 14.07.2010 ENTRE RIBADEO (LUGO) Y VEGADEO (ASTURIAS)'",
+   "fecha: None -> '2010-07-14'",
+   "hora: None -> '12:41'",
+   "provincia: None -> 'Lugo'",
+   "pk: None -> 'P.K. 148+845'",
+   "linea: None -> '11 Ferrol - Gijón'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-141008-210409-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por un tren de cercanías en la entrada de la estación de Leganés (Madrid)' -> 'Informe Final sobre la investigación del accidente ferroviario nº 0070/2008 ocurrido el día 14.10.2008 en la estación de Leganés'",
+   "fecha: None -> '2008-10-14'",
+   "hora: None -> '14:46'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Leganés'",
+   "pk: None -> '13,171'",
+   "linea: None -> '500 Madrid Puerta de Atocha - Valencia de Alcántara'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-150110-310510-CIAF-GETAFE",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de persona en estación Getafe Industrial (Madrid)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0003/2010 OCURRIDO EL DÍA 15.01.2010 EN LA ESTACIÓN DE GETAFE INDUSTRIAL (MADRID)'",
+   "fecha: None -> '2010-01-15'",
+   "hora: None -> '21:06'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Getafe Industrial'",
+   "pk: None -> 'P.K. 13+860'",
+   "linea: None -> '300 Madrid – Valencia'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-150110-310510-CIAF_VILA-REAL",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-01-15'",
+   "hora: None -> '18:26'",
+   "provincia: None -> 'Castellón'",
+   "estacion: None -> 'Vila-real'",
+   "pk: None -> '62+902'",
+   "linea: None -> '600 Valencia – San Vicente de Calders'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-150112-221012-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-01-15'",
+   "hora: None -> '08:12'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Trubia'",
+   "pk: None -> '298+108'",
+   "linea: None -> '12 San Esteban de Pravia - Collanzo'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-151008-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren de cercanías en el apartadero de El Caleyo (Asturias)' -> 'Informe Final sobre la investigación del accidente ferroviario Nº 0050/2008 ocurrido el día 15.10.2008'",
+   "fecha: None -> '2008-10-15'",
+   "hora: None -> '07:31'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'El Caleyo'",
+   "pk: None -> '134,396'",
+   "linea: None -> '130 Venta de Baños - Gijón'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-151209-270410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-15'",
+   "hora: None -> '17:27'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Navia'",
+   "pk: None -> 'P.K. 191+222'",
+   "linea: None -> '11 Ferrol-Oviedo'",
+   "tipo: None -> 'Colisión y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-151211-260612-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-12-15'",
+   "hora: None -> '07:52'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Valencia Sant Isidre'",
+   "pk: None -> '84+565'",
+   "linea: None -> '310 Aranjuez – Valencia Estació del Nord'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-160111-200911-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-01-16'",
+   "hora: None -> '13:18'",
+   "provincia: None -> 'Sevilla'",
+   "pk: None -> '87+782'",
+   "linea: None -> '422 Bif. Utrera a Fuente de Piedra'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-160311-251011-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-03-16'",
+   "hora: None -> '20:19'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '323+320'",
+   "linea: None -> '220 Lleida Pirineus – L’Hospitalet de Llobregat'",
+   "tipo: None -> 'Colisión y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-160408-300908-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-04-16'",
+   "hora: None -> '14:48'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Feliú de Llobregat'",
+   "pk: None -> '88,906'",
+   "linea: None -> '240 Barcelona - San Vicente de Calders'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-160511-280212-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-05-16'",
+   "hora: None -> '19:03'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Los Gavilanes'",
+   "pk: None -> 'PK 12+379'",
+   "linea: None -> '10 Madrid-Puerta de Atocha a Sevilla-Santa Justa'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-160708-281108-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-07-16'",
+   "hora: None -> '12:17'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Valencia Nord'",
+   "pk: None -> '108,898'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estación de Nord'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-160710-290311-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-07-16'",
+   "hora: None -> '15:41'",
+   "provincia: None -> 'Valladolid'",
+   "estacion: None -> 'Río Duero'",
+   "pk: None -> '167+867'",
+   "linea: None -> 'AV 80 Madrid Chamartín – Valladolid Campo Grande'",
+   "tipo: None -> 'conato de colisión'"
+  ]
+ },
+ {
+  "id": "ES-IF-161009-270410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-10-16'",
+   "hora: None -> '11:19'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Alfafar-Benetússer'",
+   "pk: None -> '107+996'",
+   "linea: None -> '300 Madrid (Chamartín)-Valencia (estación del Nord)'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-161109-310510-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-11-16'",
+   "hora: None -> '12:41'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Sama de Langreo'",
+   "pk: None -> '18+055'",
+   "linea: None -> '140 Bif. Tudela Veguín – El Entrego'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-170409-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-04-17'",
+   "hora: None -> '18:40'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'El Caleyo'",
+   "pk: None -> '134+961'",
+   "linea: None -> '130 Gijón Cercanías – Venta de Baños'",
+   "tipo: None -> 'Colisión frontal'"
+  ]
+ },
+ {
+  "id": "ES-IF-170810-270411-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-08-17'",
+   "hora: None -> '20:04'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'Ponferrada'",
+   "pk: None -> '250+950'",
+   "linea: None -> '800 A Coruña - León'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-170909-270410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-09-17'",
+   "hora: None -> '16:00'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Zumárraga'",
+   "pk: None -> '566+856'",
+   "linea: None -> '100 Madrid Chamartín - Hendaya'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-180609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Conato de colisión por rebase indebido de señal en la estación de Madrid Chamartín' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0027/2009 OCURRIDO EL DÍA 18.06.2009 EN LA ESTACIÓN DE MADRID CHAMARTÍN'",
+   "fecha: None -> '2009-06-18'",
+   "hora: None -> '08:20'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Madrid-Chamartín'",
+   "pk: None -> '0+00'",
+   "linea: None -> '100 Hendaya – Madrid Chamartín'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-180810-290311-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de vehículo en paso a nivel entre Utrera y El Sorbito (Sevilla)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2010 OCURRIDO EL DÍA 18.08.2010 EN EL PASO A NIVEL CLASE B ENTRE LAS ESTACIONES DE UTRERA Y EL SORBITO (SEVILLA)'",
+   "fecha: None -> '2010-08-18'",
+   "hora: None -> '12:16'",
+   "provincia: None -> 'Sevilla'",
+   "pk: None -> '8+579'",
+   "linea: None -> '422 Bif. Utrera a Fuente de Piedra'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-181008-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento mortal de una persona por tren de mercancías en el paso a nivel de Figueres (Gerona)' -> 'Informe final sobre la investigación del accidente ferroviario Nº 0051/2008 ocurrido el día 18.10.2008'",
+   "fecha: None -> '2008-10-18'",
+   "hora: None -> '08:06'",
+   "provincia: None -> 'Gerona'",
+   "estacion: None -> 'Figueres'",
+   "pk: None -> '247,215'",
+   "linea: None -> '270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-190112-271112-CIAF-El Clot-Aragó",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-01-19'",
+   "hora: None -> '18:30'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '109+810'",
+   "linea: None -> '262 Barcelona Sagrera a Bifurcación Clot'",
+   "tipo: None -> 'Colisión por alcance'"
+  ]
+ },
+ {
+  "id": "ES-IF-190112-271112-CIAF_ASTURIAS",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento de tren de mercancías 9561 en Parres (Asturias) por exceso de velocidad' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 06/2012 OCURRIDO EL DÍA 19.01.2012 EN PARRES (ASTURIAS)'",
+   "fecha: None -> '2012-01-19'",
+   "hora: None -> '07:03'",
+   "provincia: None -> 'Asturias'",
+   "pk: None -> '378+049'",
+   "linea: None -> '21 Oviedo – Santander'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-191010-280611-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-10-19'",
+   "hora: None -> '15:25'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Gijón'",
+   "pk: None -> '1+057'",
+   "linea: None -> '61 Gijón - Laviana'",
+   "tipo: None -> 'Conato de colisión'"
+  ]
+ },
+ {
+  "id": "ES-IF-191211-240712-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente por conexión cruzada de agujas en la estación de Madrid Chamartín' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0061/2011 OCURRIDO EL DÍA 19.12.2011 EN LA ESTACIÓN DE MADRID CHAMARTÍN (MADRID)'",
+   "fecha: None -> '2011-12-19'",
+   "hora: None -> '05:29'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Madrid Chamartín'",
+   "linea: None -> '900 Madrid-Chamartín a Madrid–Atocha Cercanías'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-200109-190509-CIAF-LA FLORIDA",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente ferroviario por rebase de señal de salida en rojo en la estación de La Florida (Asturias)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0003/2009 OCURRIDO EL DÍA 20.01.2009 EN LA ESTACIÓN DE LA FLORIDA'",
+   "fecha: None -> '2009-01-20'",
+   "hora: None -> '12:08'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'La Florida'",
+   "pk: None -> 'PK 15,057'",
+   "linea: None -> '61 Gijón - Laviana'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-200109-2-190509-CIAF_TORDERA Y BLANES",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-01-20'",
+   "hora: None -> '13:46'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '64,810'",
+   "linea: None -> '276 Barcelona Sagrera a Macanet-Massanes'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-200711-260612-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-07-20'",
+   "hora: None -> '16:25'",
+   "provincia: None -> 'Toledo'",
+   "pk: None -> '66+480'",
+   "linea: None -> '500 Bif. Planetario (Madrid) a Valencia Alcántara'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-201008-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-10-20'",
+   "hora: None -> '12:36'",
+   "provincia: None -> 'Soria'",
+   "estacion: None -> 'Santa María de Huerta'",
+   "pk: None -> '191,876'",
+   "linea: None -> '200 Madrid Chamartín - Barcelona Sants'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-201208-210409-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-12-20'",
+   "hora: None -> '05:21'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Salou'",
+   "pk: None -> '263,208'",
+   "linea: None -> '600 Valencia Nord - Sant Vicent de Calders'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-201209-310510-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-20'",
+   "hora: None -> '17:07'",
+   "provincia: None -> 'Lérida'",
+   "estacion: None -> 'Sant Guim de Freixenet'",
+   "pk: None -> '253+775'",
+   "linea: None -> '220 Lérida Pirineos – L’Hospitalet de Llobregat'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-210308-220708-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-03-21'",
+   "hora: None -> '14:53'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Adriá del Besós'",
+   "pk: None -> '3,286'",
+   "linea: None -> '276 Barcelona-Massanes'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-220109-190509-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-01-22'",
+   "hora: None -> '07:03'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Gavá'",
+   "pk: None -> '663,700'",
+   "linea: None -> '200 Barcelona Sants - Madrid Chamartín'",
+   "tipo: None -> 'Arrollamiento de persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-220209-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren de media distancia entre Chapela y Vigo (Pontevedra)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2009 OCURRIDO EL DÍA 22.02.2009 ENTRE LAS ESTACIONES DE CHAPELA Y VIGO'",
+   "fecha: None -> '2009-02-22'",
+   "hora: None -> '17:29'",
+   "provincia: None -> 'Pontevedra'",
+   "estacion: None -> 'Chapela y Vigo'",
+   "pk: None -> 'PK 175,050'",
+   "linea: None -> '810 Vigo – Monforte de Lemos'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-220408-220708-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-04-22'",
+   "hora: None -> '14:03'",
+   "provincia: None -> 'Vizcaya'",
+   "estacion: None -> 'Zorrotza'",
+   "pk: None -> '5,348'",
+   "linea: None -> '720 Intermodal Abando Indalecio Prieto-Santurtzi'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-220608-240209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-06-22'",
+   "hora: None -> '05:25'",
+   "provincia: None -> 'Huesca'",
+   "pk: None -> '149,950'",
+   "linea: None -> '200 Madrid-Barcelona'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-220609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-22'",
+   "hora: None -> '09:20'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Infiesto'",
+   "pk: None -> 'P.K.361+975'",
+   "linea: None -> '21 Oviedo - Santander'",
+   "tipo: None -> 'Arrollamiento de peatón'"
+  ]
+ },
+ {
+  "id": "ES-IF-221108-2-240209-CIAF- Alcalá de Henares",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-11-22'",
+   "hora: None -> '20:34'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Alcalá de Henares'",
+   "pk: None -> 'P.K 32,800'",
+   "linea: None -> '200 Madrid- Barcelona'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-221108-240209-CIAF_Salamanca – Ávila",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-11-22'",
+   "hora: None -> '15:00'",
+   "provincia: None -> 'Salamanca'",
+   "pk: None -> '104,857'",
+   "linea: None -> '122 Salamanca - Ávila'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-230209-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-02-23'",
+   "hora: None -> '12:30'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Soto Dueñas'",
+   "pk: None -> '378,130'",
+   "linea: None -> '21 Oviedo Santander'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-230411-271211-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren 15400 entre Bellvitge-Aguja y Barcelona Sants por rotura de eje' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2011 OCURRIDO EL DÍA 23.04.2011 ENTRE LAS ESTACIONES DE BELLVITGE-AGUJA 674+835 Y BARCELONA SANTS (BARCELONA)'",
+   "fecha: None -> '2011-04-23'",
+   "hora: None -> '09:28'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Bellvitge-Aguja 674+835 y Barcelona Sants'",
+   "pk: None -> '675+220'",
+   "linea: None -> '200 Barcelona Sants – Madrid Chamartín'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-230510-310511-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-05-23'",
+   "hora: None -> '22:54'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Pozuelo y Príncipe Pío'",
+   "pk: None -> '5+114'",
+   "linea: None -> '910 Madrid-Atocha Cercanías - Pinar de las Rozas'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-230610-310111-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-06-23'",
+   "hora: None -> '23:23'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Apeadero de Platja de Castelldefels'",
+   "pk: None -> '656+598'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona Sants'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-231008-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-10-23'",
+   "hora: None -> '12:29'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Villalba de Guadarrama'",
+   "pk: None -> '38,748'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-231009-270410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-10-23'",
+   "hora: None -> '12:30'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '94+316'",
+   "linea: None -> 'Sant Vicent de Calders – L’Hospitalet de Llobregat'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-240309-140709-CIAF_ALGEMESÍ",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-03-24'",
+   "hora: None -> '14:10'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Algemesí'",
+   "pk: None -> '81,494'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estació del Nord'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-03-24'",
+   "hora: None -> '22:25'",
+   "provincia: None -> 'Jaén'",
+   "pk: None -> '137,803'",
+   "linea: None -> '402 Espeluy Aguja Km. 340.1 - Jaén'",
+   "tipo: None -> 'Paso a Nivel Clase A'"
+  ]
+ },
+ {
+  "id": "ES-IF-240508-2-300908-CIAF_Majarabique Estación-Huelva Término",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-24'",
+   "hora: None -> '19:52'",
+   "provincia: None -> 'Sevilla'",
+   "estacion: None -> 'Aznalcázar Pilas'",
+   "pk: None -> '24,900'",
+   "linea: None -> '440 Majarabique Estación-Huelva Término'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-240508-300908-CIAF_La Encina-Alicante",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-05-24'",
+   "hora: None -> '16:48'",
+   "provincia: None -> 'Alicante'",
+   "estacion: None -> 'Villena'",
+   "pk: None -> '396,675'",
+   "linea: None -> '330 La Encina-Alicante'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-240511-270312-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-05-24'",
+   "hora: None -> '16:19'",
+   "provincia: None -> 'León'",
+   "estacion: None -> 'Villamanín'",
+   "pk: None -> '45+104'",
+   "linea: None -> '130 Gijón-Cercanías a Venta de Baños'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-240608-281108-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de dos peatones por tren en P.K. 26,100, línea Barcelona Sagrera-Maçanet-Massanes, entre Vilassar y Mataró' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0026/2008 OCURRIDO EL DÍA 24.06.2008'",
+   "fecha: None -> '2008-06-24'",
+   "hora: None -> '13:36'",
+   "provincia: None -> 'Barcelona'",
+   "pk: None -> '26,100'",
+   "linea: None -> '276 Barcelona Sagrera a Maçanet-Massanes'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-240809-260110-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-08-24'",
+   "hora: None -> '16:57'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Feliú de Llobregat'",
+   "pk: None -> '89+150'",
+   "linea: None -> '240 Sant Vicent de Calders – L’Hospitalet de Llobregat'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-240909-310510-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rotura de eje en tren FEVE 6722 en el apeadero de Cazoña (Cantabria)' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0050/2009 OCURRIDO EL DÍA 24.09.2009 EN EL APEADERO DE CAZOÑA (CANTABRIA)'",
+   "fecha: None -> '2009-09-24'",
+   "hora: None -> '13:50'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Apeadero de Cazoña'",
+   "pk: None -> '527+485'",
+   "linea: None -> 'Oviedo-Santander (L-21)'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-241008-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento de tren de mercancías por rotura de rueda en estación de Moncófar' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0054/2008 OCURRIDO EL DÍA 24.10.2008 EN LA ESTACIÓN DE MONCÓFAR'",
+   "fecha: None -> '2008-10-24'",
+   "hora: None -> '6:28'",
+   "provincia: None -> 'Castellón'",
+   "estacion: None -> 'Moncófar'",
+   "pk: None -> '48,748'",
+   "linea: None -> '600 Valencia Estación del Nord - San Vicente de Calders'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-250908-190509-CIAF_Balmaseda Mercancías",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Choque de automotor histórico BILLARD contra topera en Balmaseda Mercancías' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0044/2008 OCURRIDO EL DÍA 25.09.2008 EN LA ESTACIÓN DE BALMASEDA MERCANCÍAS'",
+   "fecha: None -> '2008-09-25'",
+   "hora: None -> '16:40'",
+   "provincia: None -> 'Vizcaya'",
+   "estacion: None -> 'Balmaseda Mercancías'",
+   "pk: None -> 'P.K. 284,050'",
+   "linea: None -> '31 León-Bilbao'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-250908-200109-CIAF_Granada- Fuente de Piedra",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-09-25'",
+   "hora: None -> '13:21'",
+   "provincia: None -> 'Málaga'",
+   "pk: None -> '14,250'",
+   "linea: None -> '426 Granada-Fuente de Piedra'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-260310-281210-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-03-26'",
+   "hora: None -> '00:33'",
+   "provincia: None -> 'Ávila'",
+   "estacion: None -> 'Arévalo'",
+   "pk: None -> '172+050'",
+   "linea: None -> '100 Madrid Chamartín – Hendaya'",
+   "tipo: None -> 'Colisión por alcance'"
+  ]
+ },
+ {
+  "id": "ES-IF-260609-221209-CIAF_ALUCHE",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-26'",
+   "hora: None -> '07:36'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Aluche'",
+   "pk: None -> '7+612'",
+   "linea: None -> 'L/920, Móstoles – El Soto Parla'",
+   "tipo: None -> 'Colisión'"
+  ]
+ },
+ {
+  "id": "ES-IF-260609-260110-CIAF_HUMANES",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-26'",
+   "hora: None -> '10:29'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Humanes'",
+   "pk: None -> '22+800'",
+   "linea: None -> '500 Madrid Puerta de Atocha - Valencia de Alcántara'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-260610-310111-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Accidente en Vitoria-Gasteiz: salida del tren 407 con viajeros subiendo provoca caída y lesiones en andén' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2010 OCURRIDO EL DÍA 26.06.2010 EN LA ESTACIÓN DE VITORIA – GASTEIZ (ÁLAVA)'",
+   "fecha: None -> '2010-06-26'",
+   "hora: None -> '00:28'",
+   "provincia: None -> 'Álava'",
+   "estacion: None -> 'Vitoria - Gasteiz'",
+   "pk: None -> '492+400'",
+   "linea: None -> '100 Madrid Chamartín – Hendaya'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF-261011-290512-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-10-26'",
+   "hora: None -> '16:24'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Pol de Mar'",
+   "pk: None -> '44+703'",
+   "linea: None -> '276 Bifurcación Sagrera a Maçanet-Massanes'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-261108-310309-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-11-26'",
+   "hora: None -> '15:21'",
+   "provincia: None -> 'Navarra'",
+   "pk: None -> '70,200'",
+   "linea: None -> '700 Casetas-Intermodal Abando Indalecio Prieto'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-270508-300908-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una retroexcavadora por un tren en paso a nivel entre Santa Cruz de la Zarza y Ocaña (Toledo)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0018/2008 OCURRIDO EL DÍA 27.05.2008'",
+   "fecha: None -> '2008-05-27'",
+   "hora: None -> '18:00'",
+   "provincia: None -> 'Toledo'",
+   "estacion: None -> 'Santa Cruz de la Zarza y Ocaña'",
+   "pk: None -> '36,950'",
+   "linea: None -> '310 Madrid-Valencia'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-270709-260110-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-07-27'",
+   "hora: None -> '20:16'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Bif. Clot'",
+   "pk: None -> '102+700'",
+   "linea: None -> '262 Barcelona Sagrera - Bif. Clot'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-270811-240712-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-08-27'",
+   "hora: None -> '21:27'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Granollers - Centre'",
+   "pk: None -> '134+932'",
+   "linea: None -> '270 Bifurcación Sagrera - Cerbere'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-271011-240712-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren 6803 de Feve en la estación de Astillero por rebase de señal' -> 'Informe final sobre el accidente ferroviario nº 0050/2011 ocurrido el día 27.10.2011 en la estación de Astillero (Cantabria)'",
+   "fecha: None -> '2011-10-27'",
+   "hora: None -> '14:25'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Astillero'",
+   "pk: None -> '540+075'",
+   "linea: None -> '24 Santander - Bilbao'",
+   "tipo: None -> 'accidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-271211-250912-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-12-27'",
+   "hora: None -> '11:38'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Zaragoza Delicias'",
+   "linea: None -> '060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-280411-271211-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-04-28'",
+   "hora: None -> '09:49'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'El Clot-Aragó'",
+   "pk: None -> 'PK 110+000'",
+   "linea: None -> '262 Barcelona Sagrera – Bifurcación Clot'",
+   "tipo: None -> 'colisión por alcance'"
+  ]
+ },
+ {
+  "id": "ES-IF-280809-230210-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-08-28'",
+   "hora: None -> '13:33'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'El Rebollar'",
+   "pk: None -> '22+600'",
+   "linea: None -> '310 Aranjuez/Valencia- Estación del Nord'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-280908-181208-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-09-28'",
+   "hora: None -> '13:28'",
+   "provincia: None -> 'Cádiz'",
+   "pk: None -> '140,750'",
+   "linea: None -> '400 Alcázar de San Juan – Cádiz'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-280909-230210-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-09-28'",
+   "hora: None -> '13:35'",
+   "provincia: None -> 'Murcia'",
+   "pk: None -> '16+708'",
+   "linea: None -> 'Cartagena – Los Nietos'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-281209-290610-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-28'",
+   "hora: None -> '20:10'",
+   "provincia: None -> 'Sevilla'",
+   "estacion: None -> 'Pedrera'",
+   "pk: None -> '94+716'",
+   "linea: None -> '244 Bif. Utrera – Fuente de Piedra'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-290610-250211-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2010-06-29'",
+   "hora: None -> '09:07'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Sant Andreu Arenal'",
+   "pk: None -> '361+100'",
+   "linea: None -> '220 Lleida-Pirineus/ Hospitalet de Llobregat'",
+   "tipo: None -> 'conato de colisión'"
+  ]
+ },
+ {
+  "id": "ES-IF-290808-181208-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-08-29'",
+   "hora: None -> '12:51'",
+   "provincia: None -> 'Tarragona'",
+   "estacion: None -> 'Segur de Calafell'",
+   "pk: None -> '624,800'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona-Sants'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-291108-310309-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de un operario por un tren de mercancías en la estación de Tembleque' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0066/2008 OCURRIDO EL DÍA 29.11.2008 EN LA ESTACIÓN DE TEMBLEQUE'",
+   "fecha: None -> '2008-11-29'",
+   "hora: None -> '03:00'",
+   "provincia: None -> 'Toledo'",
+   "estacion: None -> 'Tembleque'",
+   "pk: None -> '101,270'",
+   "linea: None -> '300 Madrid Chamartín - Valencia Nord'",
+   "tipo: None -> 'Arrollamiento de un operario'"
+  ]
+ },
+ {
+  "id": "ES-IF-300109-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-01-30'",
+   "hora: None -> '19:58'",
+   "provincia: None -> 'Vizcaya'",
+   "estacion: None -> 'Sodupe'",
+   "pk: None -> '631,562'",
+   "linea: None -> '24 Santander - Bilbao'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-300511-270312-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-05-30'",
+   "hora: None -> '07:20'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Calatayud'",
+   "pk: None -> '224+556'",
+   "linea: None -> '50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-300608-281008-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Arrollamiento de una persona por tren de mercancías en Miranda de Ebro (línea 700)' -> 'INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008 OCURRIDO EL DÍA 30.06.2008'",
+   "fecha: None -> '2008-06-30'",
+   "hora: None -> '21:07'",
+   "provincia: None -> 'Burgos'",
+   "estacion: None -> 'Miranda de Ebro'",
+   "pk: None -> 'P.K.146,950'",
+   "linea: None -> '700 Casetas-Intermodal Abando Indalecio Prieto'",
+   "tipo: None -> 'Arrollamiento de una persona'"
+  ]
+ },
+ {
+  "id": "ES-IF-300611-240412-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2011-06-30'",
+   "hora: None -> '11:58'",
+   "provincia: None -> 'Madrid'",
+   "pk: None -> '7+165'",
+   "linea: None -> '116 Los Cotos a Cercedilla'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-300708-2-281108-CIAF_Fuengirola-Málaga",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-07-30'",
+   "hora: None -> '18:05'",
+   "provincia: None -> 'Málaga'",
+   "pk: None -> '8,870'",
+   "linea: None -> '436 Fuengirola-Málaga'",
+   "tipo: None -> 'arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-300708-281108-CIAF_Andoaín, Guipúzcoa",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-07-30'",
+   "hora: None -> '07:15'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Apeadero de Andoaín Centro'",
+   "pk: None -> '608+155'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-300910-280611-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Conato de colisión entre trenes por rebase indebido de señal en la estación de Redondela (Pontevedra)' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2010 OCURRIDO EL DÍA 30.09.2010 EN LA ESTACIÓN DE REDONDELA (PONTEVEDRA)'",
+   "fecha: None -> '2010-09-30'",
+   "hora: None -> '08:09'",
+   "provincia: None -> 'Pontevedra'",
+   "estacion: None -> 'Redondela'",
+   "pk: None -> '166+601'",
+   "linea: None -> '810 Vigo – Monforte de Lemos'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF-301209-290610-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-12-30'",
+   "hora: None -> '03:08'",
+   "provincia: None -> 'La Rioja'",
+   "estacion: None -> 'Fuenmayor'",
+   "pk: None -> '92+020'",
+   "linea: None -> '700 Intermodal Abando Indalecio Prieto - Casetas'",
+   "tipo: None -> 'Colisión y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF-310809-060410-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase indebido de señal de entrada en la estación de San Cristóbal Industrial (Madrid)' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0047/2009 OCURRIDO EL DÍA 31.08.2009 EN LA ESTACIÓN DE SAN CRISTOBAL INDUSTRIAL (MADRID)'",
+   "fecha: None -> '2009-08-31'",
+   "hora: None -> '18:14'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'San Cristóbal Industrial'",
+   "pk: None -> '10+200'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estación del Nord'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_010612_280513_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: \"Descarrilamiento tren mercancías 92559 entre Duesaigües-L'Argentera y Marçà-Falset (Tarragona)\" -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0041/2012 OCURRIDO EL DÍA 01.06.2012 ENTRE LAS ESTACIONES DE DUESAIGÜES-L’ARGENTERA Y MARÇÀ-FALSET (TARRAGONA)'",
+   "fecha: None -> '2012-06-01'",
+   "hora: None -> '14:32'",
+   "provincia: None -> 'Tarragona'",
+   "pk: None -> 'PK 558+049'",
+   "linea: None -> '210 Miraflores - Tarragona'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_010712_280513_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-07-01'",
+   "hora: None -> '09:42'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Cambiador de ancho de Zaragoza Delicias'",
+   "pk: None -> '337+395'",
+   "linea: None -> '060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_040613_230914_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: \"Bloqueo erróneo de vía y cierre intempestivo de señal entre Sant Sadurní d'Anoia y Martorell\" -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0043/2013 OCURRIDO EL DÍA 04.06.2013 ENTRE LAS ESTACIONES DE SANT SADURNÍ D’ANOIA Y MARTORELL'",
+   "fecha: None -> '2013-06-04'",
+   "hora: None -> '00:30:34'",
+   "pk: None -> '64+073'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_060912__300713_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-09-06'",
+   "hora: None -> '03:07'",
+   "provincia: None -> 'Huesca'",
+   "estacion: None -> 'Tardienta'",
+   "pk: None -> '51+800'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona Estación de Francia'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_061212_170913_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Deriva de una UTE estacionada en la estación de Laviana (Asturias) por fallo de frenos' -> 'Informe final sobre el incidente ferroviario nº 0074/2012 ocurrido el día 06.12.2012 en la estación de Laviana (Asturias)'",
+   "fecha: None -> '2012-12-06'",
+   "hora: None -> '02:35'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Laviana'",
+   "pk: None -> '49+700'",
+   "linea: None -> '61 Gijón - Laviana'",
+   "tipo: None -> 'Incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF_070313_140714_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-03-07'",
+   "hora: None -> '13:15'",
+   "provincia: None -> 'Valladolid'",
+   "estacion: None -> 'Viana de Cega'",
+   "pk: None -> '234+843'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_081012_250613_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-10-08'",
+   "hora: None -> '07:48'",
+   "provincia: None -> 'Huesca'",
+   "pk: None -> '25+100'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona Estación de Francia'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_090113_240614_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren 13096 en la estación de Villafranca de Córdoba por fallo técnico en cambio nº 2' -> 'Informe final sobre el accidente ferroviario nº 0001/2013 ocurrido el día 09.01.2013 en la estación de Villafranca de Córdoba (Córdoba)'",
+   "fecha: None -> '2013-01-09'",
+   "hora: None -> '11:22'",
+   "provincia: None -> 'Córdoba'",
+   "estacion: None -> 'Villafranca de Córdoba'",
+   "pk: None -> '415+648'",
+   "linea: None -> '400 Alcázar de San Juan - Cádiz'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_090512_261212_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-05-09'",
+   "hora: None -> '14:22'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Astillero'",
+   "pk: None -> 'PK 540+075'",
+   "linea: None -> '24 Santander - Bilbao'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF_100213_240614_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-02-10'",
+   "hora: None -> '05:43'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Maliaño'",
+   "pk: None -> 'PK 537+005'",
+   "linea: None -> '780 Santander – Bilbao La Concordia'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_110512_290113_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-05-11'",
+   "hora: None -> '20:34'",
+   "provincia: None -> 'La Coruña'",
+   "estacion: None -> 'Xubia'",
+   "pk: None -> 'PK 8+645'",
+   "linea: None -> '11 Ferrol - Gijón'",
+   "tipo: None -> 'Colisión, descarrilamiento y vuelco'"
+  ]
+ },
+ {
+  "id": "ES-IF_110713_251114_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-07-11'",
+   "hora: None -> '19:59'",
+   "provincia: None -> 'Lleida'",
+   "estacion: None -> 'Lleida Pirineus'",
+   "linea: None -> '200 Madrid Chamartín - Barcelona Estació de França'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_110713_251114_CIAF_0",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-07-11'",
+   "hora: None -> '19:59'",
+   "provincia: None -> 'Lleida'",
+   "estacion: None -> 'Lleida Pirineus'",
+   "linea: None -> '200 Madrid Chamartín - Barcelona Estació de França'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_120312_260213_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-03-12'",
+   "hora: None -> '11:30'",
+   "provincia: None -> 'Ciudad Real'",
+   "estacion: None -> 'Socuéllamos'",
+   "pk: None -> '188+690'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estació del Nord'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF_140813_251114_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-08-14'",
+   "hora: None -> '08:58'",
+   "provincia: None -> 'Soria'",
+   "estacion: None -> 'Torralba'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona Estació de França'",
+   "tipo: None -> 'incidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF_140813_251114_CIAF_0",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente por rebase de señal en parada en Torralba (Soria) con conato de colisión entre trenes' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0056/2013 OCURRIDO EL DÍA 14.08.2013 EN LA ESTACION DE TORRALBA (SORIA)'",
+   "fecha: None -> '2013-08-14'",
+   "hora: None -> '08:58'",
+   "provincia: None -> 'Soria'",
+   "estacion: None -> 'Torralba'",
+   "linea: None -> '200 Madrid Chamartín – Barcelona Estació de França'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_150612_290413_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-06-15'",
+   "hora: None -> '07:17'",
+   "provincia: None -> 'Ávila'",
+   "estacion: None -> 'Arévalo'",
+   "pk: None -> '169+893'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_180412_261212_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase indebido de señal de salida y conato de colisión en la estación de Heras (Cantabria)' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 28/2012 OCURRIDO EL DÍA 18.04.2012 EN LA ESTACIÓN DE HERAS (CANTABRIA)'",
+   "fecha: None -> '2012-04-18'",
+   "hora: None -> '10:54'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Heras'",
+   "pk: None -> '545+009'",
+   "linea: None -> '24 Santander - Bilbao'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_190712_280513_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-07-19'",
+   "hora: None -> '00:07'",
+   "provincia: None -> 'Córdoba'",
+   "pk: None -> '393+525'",
+   "linea: None -> '400 Alcázar de San Juan - Cádiz'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_200413_250214_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-04-20'",
+   "hora: None -> '12:39'",
+   "provincia: None -> 'Guipúzcoa'",
+   "estacion: None -> 'Anoeta'",
+   "pk: None -> '600+148'",
+   "linea: None -> '100 Hendaya – Madrid-Chamartín'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_200513_140714_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-05-20'",
+   "hora: None -> '11:47'",
+   "provincia: None -> 'Badajoz'",
+   "pk: None -> '25+564'",
+   "linea: None -> '516 Mérida - Los Rosales'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_200913_230914_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-09-20'",
+   "hora: None -> '10:04'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Barcelona Sants'",
+   "linea: None -> '220 Lleida Pirineus – L’Hospitalet de Llobregat'",
+   "tipo: None -> 'Colisión por alcance'"
+  ]
+ },
+ {
+  "id": "ES-IF_210612_260313_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-06-21'",
+   "hora: None -> '08:51'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Cambiador de Plasencia de Jalón'",
+   "pk: None -> '276+705'",
+   "linea: None -> '52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_211212_250613_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Conato de colisión por rebase indebido de señal en parada en Valencia-Font de Sant Lluis' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0076/2012 OCURRIDO EL DÍA 21.12.2012 EN LA ESTACIÓN DE VALENCIA-FONT DE SANT LLUIS'",
+   "fecha: None -> '2012-12-21'",
+   "hora: None -> '11:15'",
+   "provincia: None -> 'Valencia'",
+   "estacion: None -> 'Valencia-Font de Sant Lluis'",
+   "linea: None -> '600 Valencia – Estació del Nord a Sant Vicenç de Calders'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_230114_270115_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2014-01-23'",
+   "hora: None -> '11:43:53'",
+   "provincia: None -> 'Burgos'",
+   "pk: None -> '422+950'",
+   "tipo: None -> 'Arrollamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_230512_260213_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-05-23'",
+   "hora: None -> '21:20'",
+   "provincia: None -> 'Granada'",
+   "estacion: None -> 'Tocón-Montefrío'",
+   "pk: None -> '88+612'",
+   "linea: None -> '426 Granada a Fuente de Piedra'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_240713_200514_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-07-24'",
+   "provincia: None -> 'A Coruña'",
+   "estacion: None -> 'Santiago de Compostela'",
+   "linea: None -> '082'",
+   "tipo: None -> 'accidente grave ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF_240713_ERA-2014-0070-EN",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren Alvia 04465 cerca de la estación de Santiago de Compostela (A Coruña)' -> 'Serious Railway Accident No 0054/2013 near Santiago de Compostela Station (A Coruña)'",
+   "fecha: None -> '2013-07-24'",
+   "provincia: None -> 'A Coruña'",
+   "estacion: None -> 'Santiago de Compostela'",
+   "linea: None -> 'Line 082'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_241212_300713_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-12-24'",
+   "hora: None -> '01:00'",
+   "provincia: None -> 'Álava'",
+   "estacion: None -> 'Lezama'",
+   "pk: None -> '194+047'",
+   "linea: None -> '700 Intermodal Abando Indalecio Prieto a Casetas'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_260213_291013_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Colisión de tren con vehículo caído desde paso superior entre San Fernando de Henares y Coslada, Madrid' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2013 OCURRIDO EL DÍA 26.02.2013 ENTRE LAS ESTACIONES DE SAN FERNANDO DE HENARES Y COSLADA (MADRID)'",
+   "fecha: None -> '2013-02-26'",
+   "hora: None -> '09:05'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Entre las estaciones de San Fernando de Henares y Coslada'",
+   "pk: None -> '16+100'",
+   "linea: None -> '930 Madrid-Atocha Cercanías a San Fernando de Henares'",
+   "tipo: None -> 'Colisión lateral con el vehículo de carretera'"
+  ]
+ },
+ {
+  "id": "ES-IF_260313_240614_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-03-26'",
+   "hora: None -> '01:00'",
+   "provincia: None -> 'Toledo'",
+   "pk: None -> '122+450'",
+   "linea: None -> '010 Madrid Puerta de Atocha – Sevilla Santa Justa'",
+   "tipo: None -> 'descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_260412_290113_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase de señal de salida en la estación de Río Huerva (Zaragoza) con conato de colisión' -> 'INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2012 OCURRIDO EL DÍA 26.04.2012 EN LA ESTACIÓN DE RÍO HUERVA (ZARAGOZA)'",
+   "fecha: None -> '2012-04-26'",
+   "hora: None -> '23:58'",
+   "provincia: None -> 'Zaragoza'",
+   "estacion: None -> 'Río Huerva'",
+   "pk: None -> '16+973'",
+   "linea: None -> '214 La Cartuja a CIM de Zaragoza'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_260513_140714_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-05-26'",
+   "hora: None -> '15:13'",
+   "provincia: None -> 'Sevilla'",
+   "estacion: None -> 'Sevilla Santa Justa'",
+   "pk: None -> 'PK 570+580'",
+   "linea: None -> '400 Alcázar de San Juan a Cádiz'",
+   "tipo: None -> 'Descarrilamiento y colisión'"
+  ]
+ },
+ {
+  "id": "ES-IF_260712__300713_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-07-26'",
+   "hora: None -> '14:15'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Atocha-Cercanías'",
+   "pk: None -> '0+448'",
+   "linea: None -> '900 Madrid Chamartín a Madrid Atocha-Cercanías'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_270213_291013_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Escape y colisión de castillete autopropulsado entre Pitis y Pinar de las Rozas (Madrid)' -> 'INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0016/2013 OCURRIDO EL DÍA 27.02.2013 ENTRE LAS ESTACIONES DE PITIS Y PINAR DE LAS ROZAS (MADRID)'",
+   "fecha: None -> '2013-02-27'",
+   "hora: None -> '04:10'",
+   "provincia: None -> 'Madrid'",
+   "pk: None -> '15+600'",
+   "linea: None -> '100 Hendaya – Madrid Chamartín'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-IF_271013_231214_CIAF_ES-2902",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Descarrilamiento del tren 28744 en la estación de Barcelona Sant Andreu Arenal por cambio erróneo de aguja' -> 'Informe final sobre el accidente ferroviario nº 0069/2013 ocurrido el día 27.10.2013 en la estación de Barcelona Sant Andreu Arenal (Barcelona)'",
+   "fecha: None -> '2013-10-27'",
+   "hora: None -> '20:01'",
+   "provincia: None -> 'Barcelona'",
+   "estacion: None -> 'Barcelona Sant Andreu Arenal'",
+   "pk: None -> '361+098'",
+   "linea: None -> '220 Lleida Pirineus – L’Hospitalet de Llobregat'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-IF_271013_251114_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-10-27'",
+   "hora: None -> '08:31'",
+   "provincia: None -> 'Vizcaya'",
+   "estacion: None -> 'Zalla'",
+   "pk: None -> '2+057'",
+   "linea: None -> '790'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_271013_251114_CIAF_ES-2901",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-10-27'",
+   "hora: None -> '08:31'",
+   "provincia: None -> 'Vizcaya'",
+   "estacion: None -> 'Zalla'",
+   "pk: None -> '2+057'",
+   "linea: None -> '790'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-IF_280413_200514_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-04-28'",
+   "hora: None -> '09:58'",
+   "provincia: None -> 'León'",
+   "pk: None -> '26+700'",
+   "linea: None -> '790'",
+   "tipo: None -> 'Colisión por alcance'"
+  ]
+ },
+ {
+  "id": "ES-IF_291012_290113_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2012-10-29'",
+   "hora: None -> '09:52'",
+   "provincia: None -> 'Ciudad Real'",
+   "estacion: None -> 'Miguelturra - Pozuelo de Calatrava'",
+   "pk: None -> '257+758'",
+   "linea: None -> '522 Manzanares - Ciudad Real'",
+   "tipo: None -> 'Arrollamiento de vehículo'"
+  ]
+ },
+ {
+  "id": "ES-IF_310113_291013_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2013-01-31'",
+   "hora: None -> '15:36'",
+   "provincia: None -> 'Cantabria'",
+   "estacion: None -> 'Unquera - Pesués'",
+   "pk: None -> 'PK 457+381'",
+   "linea: None -> '770 Valdecilla - La Marga a Oviedo'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-RS-020209-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-02-02'",
+   "linea: None -> '100 Madrid-Hendaya'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-RS-040309-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-03-04'",
+   "estacion: None -> 'Platja de Castelldefels'",
+   "linea: None -> '200 Madrid Chamartín - Barcelona Sants'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-RS-050609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-05'",
+   "provincia: None -> 'Gerona'",
+   "estacion: None -> 'Maçanet-Massanes'",
+   "linea: None -> '270 Barcelona San Andrés Condal a Cerbere'",
+   "tipo: None -> 'paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-RS-060709-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-07-06'",
+   "provincia: None -> 'Málaga'",
+   "linea: None -> '420 Bif. Las Maravillas - Algeciras'",
+   "tipo: None -> 'Paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-RS-070409-271009-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-04-07'",
+   "provincia: None -> 'Ávila'",
+   "estacion: None -> 'Las Navas del Marqués'",
+   "pk: None -> '83,700'",
+   "linea: None -> '100 Madrid - Hendaya'"
+  ]
+ },
+ {
+  "id": "ES-RS-140209-290909-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-02-14'",
+   "estacion: None -> 'Lieres'",
+   "linea: None -> '21 Oviedo-Santander'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-RS-170409-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Accidente ferroviario en la estación de El Caleyo (Asturias)' -> 'RESOLUCIÓN SOBRE EL ACCIDENTE FERROVIARIO Nº 0022/2009 OCURRIDO EL DÍA 17.04.2009 EN LA ESTACIÓN DE EL CALEYO (ASTURIAS)'",
+   "fecha: None -> '2009-04-17'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'El Caleyo'",
+   "linea: None -> '130 Gijón Cercanías – Venta de Baños'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-RS-180609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-18'",
+   "estacion: None -> 'Madrid Chamartín'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'Incidente'"
+  ]
+ },
+ {
+  "id": "ES-RS-220209-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-02-22'",
+   "linea: None -> '810'"
+  ]
+ },
+ {
+  "id": "ES-RS-220609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-22'",
+   "provincia: None -> 'Asturias'",
+   "estacion: None -> 'Infiesto'",
+   "linea: None -> '21 Oviedo - Santander'",
+   "tipo: None -> 'paso a nivel'"
+  ]
+ },
+ {
+  "id": "ES-RS-230209-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Accidente ferroviario entre el apeadero de Ozanes y la estación de Soto Dueñas, línea Oviedo-Santander' -> 'Investigación del accidente nº 0013/2009 ocurrido el 23.02.2009'",
+   "fecha: None -> '2009-02-23'",
+   "linea: None -> '21 Oviedo Santander'"
+  ]
+ },
+ {
+  "id": "ES-RS-231008-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2008-10-23'",
+   "estacion: None -> 'Villalba de Guadarrama'",
+   "linea: None -> '100 Madrid - Hendaya'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-RS-240309-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-03-24'",
+   "estacion: None -> 'Algemesí'",
+   "linea: None -> '300 Madrid Chamartín – Valencia Estació del Nord'"
+  ]
+ },
+ {
+  "id": "ES-RS-240309-290909-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-03-24'",
+   "provincia: None -> 'Jaén'",
+   "pk: None -> '137,803'",
+   "linea: None -> '402'",
+   "tipo: None -> 'paso a nivel tipo A'"
+  ]
+ },
+ {
+  "id": "ES-RS-241008-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Incidente ferroviario en la estación de Moncófar por defectos en ruedas torneadas' -> 'Investigación del incidente nº 0054/2008 ocurrido el 24.10.2008'",
+   "fecha: None -> '2008-10-24'",
+   "estacion: None -> 'Moncófar'",
+   "linea: None -> '600 Valencia Estación del Nord - San Vicente de Calders'",
+   "tipo: None -> 'incidente'"
+  ]
+ },
+ {
+  "id": "ES-RS-260609-221209-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2009-06-26'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Aluche'",
+   "linea: None -> '920'",
+   "tipo: None -> 'Accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-RS-300109-140709-CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Accidente ferroviario en la estación de Sodupe, línea Santander-Bilbao' -> 'Resolución sobre la investigación del accidente ferroviario nº 0007/2009 ocurrido el día 30.01.2009 en la estación de Sodupe'",
+   "fecha: None -> '2009-01-30'",
+   "estacion: None -> 'Sodupe'",
+   "linea: None -> '24 Santander - Bilbao'",
+   "tipo: None -> 'accidente ferroviario'"
+  ]
+ },
+ {
+  "id": "ES-ZS 12.05.2017 190125-170512-IF-SN_CIAF",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2017-05-12'",
+   "provincia: None -> 'Ciudad Real'",
+   "estacion: None -> 'Brazatortas'",
+   "pk: None -> '225+965'",
+   "linea: None -> '010 Madrid Puerta de Atocha a Sevilla Santa Justa'",
+   "tipo: None -> 'Descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-es-10687 - final report, 2025-17-0207-if",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "titulo: 'Rebase de señal de salida en la estación de Las Matas (Madrid)' -> 'Rebase de señal en la estación de Las Matas (Madrid) el 7 de febrero de 2025'",
+   "fecha: None -> '2025-02-07'",
+   "hora: None -> '18:56'",
+   "provincia: None -> 'Madrid'",
+   "estacion: None -> 'Las Matas'",
+   "tipo: None -> 'Rebase de señal'"
+  ]
+ },
+ {
+  "id": "ES-es-10699 - final report, 2024-111-1029-if_1",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2024-10-29'",
+   "hora: None -> '12:10'",
+   "provincia: None -> 'Málaga'",
+   "pk: None -> '124/573'",
+   "linea: None -> '030 Málaga High-Speed Junction – Málaga María Zambrano'",
+   "tipo: None -> 'Colisión de tren con obstáculo y descarrilamiento'"
+  ]
+ },
+ {
+  "id": "ES-es-10728 - final report, 2025-41-0522-if",
+  "problemas": [
+   "campo_vacio:fecha"
+  ],
+  "cambios": [
+   "fecha: None -> '2025-05-22'",
+   "hora: None -> '21:53'",
+   "provincia: None -> 'Navarra'",
+   "estacion: None -> 'Cortes de Navarra'",
+   "tipo: None -> 'Incidente operacional'"
   ]
  }
 ]

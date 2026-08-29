@@ -13,7 +13,10 @@
   "estacion": "Alcalá de Henares",
   "provincia": "Madrid",
   "pk": "32,800",
-  "linea": "Línea 200 Madrid-Barcelona"
+  "linea": "Línea 200 Madrid-Barcelona",
+  "lat": 40.483952816666665,
+  "lng": -3.3821584566666667,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,38 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rotura del cerramiento",
+  "Acceso no autorizado a vía",
+  "Cerramiento forzado por persona",
+  "Zona habitual reuniones jóvenes"
+ ],
+ "mitigaciones": [
+  "Velocidad inferior máxima permitida",
+  "Parada inmediata del tren",
+  "Mantenimiento del cerramiento",
+  "Vallado en buen estado"
+ ],
+ "factores_humanos": [
+  "Tránsito no autorizado persona",
+  "Zona habitual reuniones jóvenes",
+  "Cerramiento forzado por persona",
+  "Rotura del cerramiento"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-11-22",
+ "hora": "20:34",
+ "provincia": "Madrid",
+ "estacion": "Alcalá de Henares",
+ "pk": "P.K 32,800",
+ "linea": "200 Madrid- Barcelona",
+ "tipo": "Arrollamiento"
 }

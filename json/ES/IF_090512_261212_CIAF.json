@@ -42,5 +42,38 @@
   "RU involved": "Feve",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train 6803 overran the exit signal (S1/1L) - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Retraso del tren 6803",
+  "Cambio lugar de cruce",
+  "Reconocimiento erróneo de señal",
+  "Incremento de velocidad"
+ ],
+ "mitigaciones": [
+  "Activación seta de urgencia",
+  "Freno ASFA tras baliza",
+  "Señales de protección posteriores",
+  "Baliza previa recomendada"
+ ],
+ "factores_humanos": [
+  "Reconocimiento erróneo de señal",
+  "No prestar debida atención",
+  "Incumplimiento Reglamento Señales",
+  "Formación en comportamientos de riesgo"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-05-09",
+ "hora": "14:22",
+ "provincia": "Cantabria",
+ "estacion": "Astillero",
+ "pk": "PK 540+075",
+ "linea": "24 Santander - Bilbao",
+ "tipo": "incidente ferroviario"
 }

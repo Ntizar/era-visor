@@ -73,5 +73,12 @@
   "Comunicación deficiente del CTC"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-09-16",
+ "hora": "00:44",
+ "provincia": "Barcelona",
+ "estacion": "Montcada i Reixach-Santa María",
+ "pk": "353,200",
+ "linea": "Línea 220 Lérida-Barcelona",
+ "tipo": "Accidente ferroviario grave"
 }

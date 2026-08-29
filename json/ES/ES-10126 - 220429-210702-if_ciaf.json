@@ -55,5 +55,8 @@
   "Aplicación insuficiente de normativa de seguridad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2021-07-02",
+ "provincia": "Alicante",
+ "tipo": "Accidente en paso a nivel"
 }

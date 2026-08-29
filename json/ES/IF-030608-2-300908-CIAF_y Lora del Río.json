@@ -13,7 +13,10 @@
   "estacion": "entre las estaciones de El Priorato y Lora del Río",
   "provincia": "Sevilla",
   "pk": "511,635",
-  "linea": "Línea 400 Alcázar de San Juan-Cádiz"
+  "linea": "Línea 400 Alcázar de San Juan-Cádiz",
+  "lat": 37.67429782448238,
+  "lng": -5.494827870253304,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,11 @@
   "Actuación correcta maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-06-03",
+ "hora": "19:57",
+ "provincia": "Sevilla",
+ "pk": "511,635",
+ "linea": "400 Alcázar de San Juan-Cádiz",
+ "tipo": "Arrollamiento"
 }

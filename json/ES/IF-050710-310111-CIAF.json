@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-989",
  "expediente": "0033/2010",
- "titulo": "Conato de colisión por rebase indebido de señal en parada en la estación de Móstoles-El Soto (Madrid)",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0033/2010 ocurrido el día 05.07.2010 en la estación de Móstoles – El Soto (Madrid)",
  "fecha_suceso": "2010-07-05",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -13,7 +13,10 @@
   "estacion": "Móstoles – El Soto",
   "provincia": "Madrid",
   "pk": "20+655",
-  "linea": "920 Móstoles-El Soto - Parla"
+  "linea": "920 Móstoles-El Soto - Parla",
+  "lat": 40.252760258978256,
+  "lng": -3.7413625401521737,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -59,5 +62,12 @@
   "Error humano conduccion maniobra"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-07-05",
+ "hora": "10:01",
+ "provincia": "Madrid",
+ "estacion": "Móstoles – El Soto",
+ "pk": "20+655",
+ "linea": "920 Móstoles - El Soto - Parla",
+ "tipo": "conato de colisión"
 }

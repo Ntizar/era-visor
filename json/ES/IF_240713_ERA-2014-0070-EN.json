@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0054/2013",
- "titulo": "Descarrilamiento del tren Alvia 04465 cerca de la estación de Santiago de Compostela (A Coruña)",
+ "titulo": "Serious Railway Accident No 0054/2013 near Santiago de Compostela Station (A Coruña)",
  "fecha_suceso": "2013-07-24",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Santiago de Compostela",
   "provincia": "A Coruña",
   "pk": "85.0",
-  "linea": "Línea 082 Coto da Torre - A Grandeira"
+  "linea": "Línea 082 Coto da Torre - A Grandeira",
+  "lat": 42.85768368,
+  "lng": -8.53312749,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -35,5 +38,36 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No señalización de límite velocidad",
+  "Ausencia balizas frenado automático",
+  "Distracción conductor por teléfono",
+  "Falta evaluación riesgo trazado"
+ ],
+ "mitigaciones": [
+  "Instalación baliza aviso manual",
+  "Señalización temporal post-accidente",
+  "Recomendación ASFA Digital",
+  "Grabadora audio cabina tren"
+ ],
+ "factores_humanos": [
+  "Uso teléfono móvil conducción",
+  "Desconocimiento cambio velocidad",
+  "Deficiencias gestión seguridad Adif",
+  "Procedimientos Renfe insuficientes"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-07-24",
+ "provincia": "A Coruña",
+ "estacion": "Santiago de Compostela",
+ "linea": "Line 082",
+ "tipo": "Descarrilamiento"
 }

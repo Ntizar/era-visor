@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0054/2008",
- "titulo": "Incidente ferroviario en la estación de Moncófar por defectos en ruedas torneadas",
+ "titulo": "Investigación del incidente nº 0054/2008 ocurrido el 24.10.2008",
  "fecha_suceso": "2008-10-24",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -34,5 +34,35 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Torneado con marcas de sujeción",
+  "Ausencia de comprobación de entallas",
+  "No inspección por magnetoscopia",
+  "No eliminación de marcas"
+ ],
+ "mitigaciones": [
+  "Inspección por magnetoscopia de ruedas",
+  "Eliminación de marcas de sujeción",
+  "Fichas de control de calidad",
+  "Planes de mantenimiento específicos"
+ ],
+ "factores_humanos": [
+  "Procedimientos de inspección inexistentes",
+  "Control de calidad insuficiente",
+  "Planes de mantenimiento no actualizados",
+  "Inspección de centros insuficiente"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-10-24",
+ "estacion": "Moncófar",
+ "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+ "tipo": "incidente"
 }

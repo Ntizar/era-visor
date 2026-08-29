@@ -67,5 +67,12 @@
   "no control alcoholemia tardío"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-06-13",
+ "hora": "03:35",
+ "provincia": "Tarragona",
+ "estacion": "Vilaseca",
+ "pk": "93/250",
+ "linea": "Madrid - Barcelona vía Caspe",
+ "tipo": "Arrollamiento"
 }

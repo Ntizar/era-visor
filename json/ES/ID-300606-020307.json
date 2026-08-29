@@ -13,7 +13,10 @@
   "estacion": "Venta de Baños",
   "provincia": "Palencia",
   "pk": "285,330",
-  "linea": "Madrid-Hendaya"
+  "linea": "Madrid-Hendaya",
+  "lat": 41.91727701,
+  "lng": -4.4960483,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -71,5 +74,12 @@
   "uso indebido del paso entarimado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-06-30",
+ "hora": "02:43",
+ "provincia": "Palencia",
+ "estacion": "Venta de Baños",
+ "pk": "285,330",
+ "linea": "Madrid-Hendaya",
+ "tipo": "Arrollamiento"
 }

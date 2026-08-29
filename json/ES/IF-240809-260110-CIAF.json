@@ -13,7 +13,10 @@
   "estacion": "Sant Feliú de Llobregat",
   "provincia": "Barcelona",
   "pk": "89+150",
-  "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat"
+  "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+  "lat": 41.38540077222222,
+  "lng": 2.0450831177777777,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,35 @@
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The victim had been informed that the trains operating in this station were not adapted to disabled persons",
   "Underlying and root causes description (i.e. systemic factors, if any)": "The poor state of the pavement may have contributed to the accident. After the accident the former pavement was replaced by a strail one"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce indebido por paso entarimado",
+  "deficiente estado del pavimento",
+  "invasión del gálibo de vía"
+ ],
+ "mitigaciones": [
+  "uso de freno de emergencia",
+  "reducción velocidad a 32 km/h",
+  "aviso con silbato al entrar"
+ ],
+ "factores_humanos": [
+  "movilidad reducida víctima",
+  "falta adaptación línea accesible",
+  "omisión información seguridad previa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-08-24",
+ "hora": "16:57",
+ "provincia": "Barcelona",
+ "estacion": "Sant Feliú de Llobregat",
+ "pk": "89+150",
+ "linea": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+ "tipo": "arrollamiento"
 }

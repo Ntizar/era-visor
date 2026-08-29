@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Anoeta",
   "provincia": "Guipúzcoa",
   "pk": "600+148",
-  "linea": "Línea 100 Hendaya – Madrid-Chamartín"
+  "linea": "Línea 100 Hendaya – Madrid-Chamartín",
+  "lat": 43.16447061410363,
+  "lng": -2.0715698905284974,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -45,5 +48,38 @@
   "Total fatalities": 1,
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had ist origin when the victim went though the board crossing without noticing an approaching train."
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Personas se dirigen a paso",
+  "Víctima cruza sin percatarse",
+  "Invasión del gálibo",
+  "Cola del tren rebasa paso"
+ ],
+ "mitigaciones": [
+  "Carteles de precaución en paso",
+  "Foco gran intensidad encendido",
+  "Velocidad inferior a máxima",
+  "Análisis de riesgos estaciones"
+ ],
+ "factores_humanos": [
+  "Víctima invade gálibo",
+  "Visibilidad reducida por tren",
+  "No asegurar ausencia tren",
+  "Falta normativa dispositivos seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-04-20",
+ "hora": "12:39",
+ "provincia": "Guipúzcoa",
+ "estacion": "Anoeta",
+ "pk": "600+148",
+ "linea": "100 Hendaya – Madrid-Chamartín",
+ "tipo": "Arrollamiento"
 }

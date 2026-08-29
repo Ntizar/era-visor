@@ -42,5 +42,37 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a failure in the system for changing the gauge in the right wheel of second axle of first bogie at second carriage since the mechanism for locking/unlocking was loose."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Tornillos de sujeción se desenroscaron",
+  "Un tornillo desapareció del alojamiento",
+  "Mecanismo de bloqueo quedó suelto",
+  "Chapa de seguridad se deformó"
+ ],
+ "mitigaciones": [
+  "Maquinista detuvo tren inmediatamente",
+  "Pantalla de cabina mostró anomalía",
+  "Velocidad inferior a máxima permitida",
+  "Soldadura prevista de sujeción"
+ ],
+ "factores_humanos": [
+  "Maquinista observó anomalía",
+  "Acción inmediata de detención",
+  "Plan de mantenimiento correcto",
+  "Cumplimiento normativo del personal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-12-27",
+ "hora": "11:38",
+ "provincia": "Zaragoza",
+ "estacion": "Zaragoza Delicias",
+ "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Intercambiador de Zaragoza Delicias",
+ "tipo": "Descarrilamiento"
 }

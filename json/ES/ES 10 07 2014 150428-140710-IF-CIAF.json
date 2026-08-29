@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0037/2014",
- "titulo": "Conato de colisión en Sant Vicenç de Calders por rebase de señal de parada del tren de mercancías BAX80",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0037/2014 OCURRIDO EL DÍA 10.07.2014 EN LA ESTACIÓN DE SANT VICENÇ DE CALDERS (TARRAGONA)",
  "fecha_suceso": "2014-07-10",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -13,7 +13,10 @@
   "estacion": "Sant Vicenç de Calders",
   "provincia": "Tarragona",
   "pk": "PK 25+379",
-  "linea": "Línea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat"
+  "linea": "Línea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+  "lat": 41.19065286134838,
+  "lng": 1.5337823675290323,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -52,5 +55,12 @@
   "Retraso de 117 minutos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-07-10",
+ "hora": "11:30",
+ "provincia": "Tarragona",
+ "estacion": "Sant Vicenç de Calders",
+ "pk": "25+379",
+ "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+ "tipo": "incidente"
 }

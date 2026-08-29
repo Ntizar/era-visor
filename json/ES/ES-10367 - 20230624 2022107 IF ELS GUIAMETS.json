@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Tarragona",
   "pk": "535,45",
-  "linea": "210"
+  "linea": "210",
+  "lat": 42.89483148,
+  "lng": -2.18139149,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Mercancías",
@@ -57,5 +60,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2022-12-13",
+ "hora": "19:23:12",
+ "provincia": "Tarragona",
+ "estacion": "Els Guiamets",
+ "pk": "535,45",
+ "linea": "210",
+ "tipo": "Colisión entre trenes por alcance"
 }

@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Platja de Castelldefels",
   "provincia": "Barcelona",
   "pk": "656,600",
-  "linea": "200 Madrid Chamartín - Barcelona Sants"
+  "linea": "200 Madrid Chamartín - Barcelona Sants",
+  "lat": 41.26779710192308,
+  "lng": 1.9628715021794876,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,12 @@
   "Maquinista frena correctamente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-03-04",
+ "hora": "21:49",
+ "provincia": "Barcelona",
+ "estacion": "Apeadero de Platja de Castelldefels",
+ "pk": "656,600",
+ "linea": "200 Madrid Chamartín - Barcelona Sants",
+ "tipo": "Arrollamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Maliaño",
   "provincia": "Cantabria",
   "pk": "537+005",
-  "linea": "Línea 780 Bilbao Concordia – Santander"
+  "linea": "Línea 780 Bilbao Concordia – Santander",
+  "lat": 43.422718064499996,
+  "lng": -3.838129452,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is caused as a result of an inadequate stowage of the eight wagon´s load, causing lateral displacement of the load and consequently the destabilization of the wagon and the beginning of the derailment. As a contributory cause a minor warping of track is noticed, few metres before the point of derailment."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Otro",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "inadecuada estiba de carga",
+  "carga apoyada directamente en plataforma",
+  "falta de intercalares de madera",
+  "ausencia de ficha técnica específica"
+ ],
+ "mitigaciones": [
+  "detector de descarrilamiento actuó",
+  "maquinista aplicó freno de servicio",
+  "freno detuvo el tren",
+  "intercalares de madera habrían reducido"
+ ],
+ "factores_humanos": [
+  "IG-66 no obligatoria en RAM",
+  "habilitación de cargadores no aplicable",
+  "ausencia de ficha técnica específica",
+  "inadecuada estiba de carga"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-02-10",
+ "hora": "05:43",
+ "provincia": "Cantabria",
+ "estacion": "Maliaño",
+ "pk": "PK 537+005",
+ "linea": "780 Santander – Bilbao La Concordia",
+ "tipo": "descarrilamiento"
 }

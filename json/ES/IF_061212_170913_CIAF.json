@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-0655",
  "expediente": "0074/2012",
- "titulo": "Deriva de una UTE estacionada en la estación de Laviana (Asturias) por fallo de frenos",
+ "titulo": "Informe final sobre el incidente ferroviario nº 0074/2012 ocurrido el día 06.12.2012 en la estación de Laviana (Asturias)",
  "fecha_suceso": "2012-12-06",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -13,7 +13,10 @@
   "estacion": "Laviana",
   "provincia": "Asturias",
   "pk": "49+700",
-  "linea": "61 Gijón - Laviana"
+  "linea": "61 Gijón - Laviana",
+  "lat": 43.25080614,
+  "lng": -5.5648419,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve",
@@ -46,5 +49,38 @@
   "IM involved": "Feve",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin in a failure of the rolling stock due to an ineffieciency of the braking systems, both air and parking brake."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Estacionar tren en vía pendiente",
+  "Deshabilitar y desconectar unidades",
+  "Accionar solo freno estacionamiento",
+  "Superar plazo revisión R2"
+ ],
+ "mitigaciones": [
+  "Operarios informaron al puesto mando",
+  "Detención en tramo horizontal",
+  "Colocación de calces antideriva",
+  "Circular inmovilización material motor"
+ ],
+ "factores_humanos": [
+  "Procedimiento no exige doble freno",
+  "Inconsistencia plan mantenimiento",
+  "Superación plazo revisión R2",
+  "Falta confirmación real frenado"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-12-06",
+ "hora": "02:35",
+ "provincia": "Asturias",
+ "estacion": "Laviana",
+ "pk": "49+700",
+ "linea": "61 Gijón - Laviana",
+ "tipo": "Incidente ferroviario"
 }

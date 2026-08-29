@@ -74,5 +74,10 @@
   "Protocolos de comunicación inconsistentes"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2025-05-22",
+ "hora": "21:53",
+ "provincia": "Navarra",
+ "estacion": "Cortes de Navarra",
+ "tipo": "Incidente operacional"
 }

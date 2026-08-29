@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-655",
  "expediente": "0070/2008",
- "titulo": "Arrollamiento de una persona por un tren de cercanías en la entrada de la estación de Leganés (Madrid)",
+ "titulo": "Informe Final sobre la investigación del accidente ferroviario nº 0070/2008 ocurrido el día 14.10.2008 en la estación de Leganés",
  "fecha_suceso": "2008-10-14",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Leganés",
   "provincia": "Madrid",
   "pk": "13,171",
-  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, tramo Villaverde Alto - Leganés"
+  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, tramo Villaverde Alto - Leganés",
+  "lat": 40.329243949974995,
+  "lng": -3.771059764325,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -62,5 +65,12 @@
   "Conocimiento del lugar por víctima"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-10-14",
+ "hora": "14:46",
+ "provincia": "Madrid",
+ "estacion": "Leganés",
+ "pk": "13,171",
+ "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+ "tipo": "Arrollamiento"
 }

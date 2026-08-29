@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-606",
  "expediente": "0060/2008",
- "titulo": "Arrollamiento de vehículo por tren en paso a nivel entre Almagro y El Campillo (Ciudad Real)",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0060/2008 OCURRIDO EL DÍA 09.11.2008",
  "fecha_suceso": "2008-11-09",
  "tipo_informe": "final",
  "tipo_suceso": "paso_a_nivel",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Ciudad Real",
   "pk": "226,669",
-  "linea": "522 Manzanares-Ciudad Real"
+  "linea": "522 Manzanares-Ciudad Real",
+  "lat": 38.99752289683037,
+  "lng": -3.6446067882495328,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -64,5 +67,12 @@
   "Protección únicamente por señales fijas"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-11-09",
+ "hora": "09:52",
+ "provincia": "Ciudad Real",
+ "estacion": "El Campillo",
+ "pk": "226,669",
+ "linea": "522 Manzanares-Ciudad Real",
+ "tipo": "Arrollamiento"
 }

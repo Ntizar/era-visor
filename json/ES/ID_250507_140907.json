@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Tarragona",
   "pk": "244,350",
-  "linea": "Valencia - San Vicente de Calders"
+  "linea": "Valencia - San Vicente de Calders",
+  "lat": 41.50375781,
+  "lng": -1.47917779,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",
@@ -72,5 +75,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-05-25",
+ "hora": "19:17",
+ "provincia": "Tarragona",
+ "pk": "244,350",
+ "linea": "Valencia a San Vicente de Calders",
+ "tipo": "arrollamiento de una persona"
 }

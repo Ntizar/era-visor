@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "64/2021",
- "titulo": "Fallo de cargamento por vuelco de contenedores en Medinaceli (Soria) debido a viento lateral",
+ "titulo": "Fallo de cargamento en el p.k. 161 de la línea 200 en Medinaceli (Soria)",
  "fecha_suceso": "2021-08-11",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Soria",
   "pk": "161+300 - 161+500",
-  "linea": "Línea 200 Madrid-Chamartín a Barcelona-França"
+  "linea": "Línea 200 Madrid-Chamartín a Barcelona-França",
+  "lat": 42.41342408,
+  "lng": -5.92223184,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "ADIF",
@@ -58,5 +61,11 @@
   "Supervisión de riesgos insuficiente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2021-08-11",
+ "hora": "22:15",
+ "provincia": "Soria",
+ "pk": "161+300 a 161+500",
+ "linea": "200",
+ "tipo": "incidente"
 }

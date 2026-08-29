@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Valencia",
   "pk": "89+850",
-  "linea": "Línea 300 Madrid Chamartín - Valencia Estació del Nord, tramo Xátiva - Silla"
+  "linea": "Línea 300 Madrid Chamartín - Valencia Estació del Nord, tramo Xátiva - Silla",
+  "lat": 39.27931643803758,
+  "lng": -0.4303546384133612,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -71,5 +74,12 @@
   "Plan de mantenimiento insuficiente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-11-11",
+ "hora": "01:35",
+ "provincia": "Valencia",
+ "estacion": "Algemesí y Benifaió",
+ "pk": "PK 89+850",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "tipo": "Descarrilamiento"
 }

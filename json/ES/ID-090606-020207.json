@@ -57,5 +57,12 @@
   "Tránsito no permitido frecuente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-06-09",
+ "hora": "18:08",
+ "provincia": "Madrid",
+ "estacion": "San Cristóbal Industrial",
+ "pk": "9,550",
+ "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+ "tipo": "Arrollamiento de dos personas"
 }

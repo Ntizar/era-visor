@@ -66,5 +66,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-03-14",
+ "hora": "19:54",
+ "provincia": "Barcelona",
+ "estacion": "Llinars del Vallés",
+ "pk": "148/000",
+ "linea": "270 Barcelona-Cerbere",
+ "tipo": "Arrollamiento"
 }

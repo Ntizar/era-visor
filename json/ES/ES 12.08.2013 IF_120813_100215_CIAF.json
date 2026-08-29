@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": null,
   "pk": "18+920",
-  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia"
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia",
+  "lat": 40.443878126042556,
+  "lng": -3.5292592803829788,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif"
@@ -65,5 +68,10 @@
   "Plan mantenimiento seguido correctamente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2013-08-12",
+ "hora": "09:12",
+ "pk": "PK 18+920",
+ "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+ "tipo": "descarrilamiento"
 }

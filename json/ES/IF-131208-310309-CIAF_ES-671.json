@@ -13,7 +13,10 @@
   "estacion": "Calella",
   "provincia": "Barcelona",
   "pk": "48,524",
-  "linea": "276 Maçanet-Massanes-Barcelona-Sagrera"
+  "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+  "lat": 41.57806378295701,
+  "lng": 2.5505530272261683,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "Actuación correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-12-13",
+ "hora": "07:41",
+ "provincia": "Barcelona",
+ "estacion": "Calella",
+ "pk": "48,524",
+ "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+ "tipo": "Arrollamiento"
 }

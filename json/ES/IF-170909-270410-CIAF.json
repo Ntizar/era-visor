@@ -13,7 +13,10 @@
   "estacion": "Zumárraga",
   "provincia": "Guipúzcoa",
   "pk": "566+856",
-  "linea": "100 Madrid Chamartín - Hendaya"
+  "linea": "100 Madrid Chamartín - Hendaya",
+  "lat": 43.087513452971976,
+  "lng": -2.3123242835299367,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "No se detectó peralte excesivo"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-09-17",
+ "hora": "16:00",
+ "provincia": "Guipúzcoa",
+ "estacion": "Zumárraga",
+ "pk": "566+856",
+ "linea": "100 Madrid Chamartín - Hendaya",
+ "tipo": "Descarrilamiento"
 }

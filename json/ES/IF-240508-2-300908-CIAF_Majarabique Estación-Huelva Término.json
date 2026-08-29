@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Sevilla",
   "pk": "24,900",
-  "linea": "440 Majarabique Estación-Huelva Término"
+  "linea": "440 Majarabique Estación-Huelva Término",
+  "lat": 37.375427546842104,
+  "lng": -6.1954711760087715,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,39 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "víctima transita vía no autorizada",
+  "víctima camina de espaldas tren",
+  "víctima sordomuda no percibe señales"
+ ],
+ "mitigaciones": [
+  "maquinista usa silbato aviso",
+  "aplica freno emergencia",
+  "campañas educación no transitar vía",
+  "circulación marcha a la vista"
+ ],
+ "factores_humanos": [
+  "víctima transita lugar no autorizado",
+  "víctima condición sordomuda",
+  "maquinista actúa correctamente",
+  "falta educación ciudadana"
+ ],
+ "meteorologia": [
+  "luz natural"
+ ],
+ "enriquecido_v2": true,
+ "fecha": "2008-05-24",
+ "hora": "19:52",
+ "provincia": "Sevilla",
+ "estacion": "Aznalcázar Pilas",
+ "pk": "24,900",
+ "linea": "440 Majarabique Estación-Huelva Término",
+ "tipo": "Arrollamiento de una persona"
 }

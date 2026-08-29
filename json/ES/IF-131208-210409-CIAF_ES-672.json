@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Álava",
   "pk": "494,315",
-  "linea": "100 Hendaya - Madrid"
+  "linea": "100 Hendaya - Madrid",
+  "lat": 42.84119566794792,
+  "lng": -2.6567569552916668,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -66,5 +69,11 @@
   "Obras para completar vallado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-12-13",
+ "hora": "09:45",
+ "provincia": "Álava",
+ "pk": "494,315",
+ "linea": "100 Hendaya - Madrid",
+ "tipo": "Arrollamiento de una persona"
 }

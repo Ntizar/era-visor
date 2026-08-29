@@ -13,7 +13,10 @@
   "estacion": "Martorell",
   "provincia": "Barcelona",
   "pk": "73,130",
-  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat"
+  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat",
+  "lat": 41.47886781466667,
+  "lng": 1.9259291026666667,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -62,5 +65,12 @@
   "maquinista actuó conforme a normativa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-09-12",
+ "hora": "19:49",
+ "provincia": "Barcelona",
+ "estacion": "Martorell",
+ "pk": "73,130",
+ "linea": "240 San Vicente de Calders –L’Hospitalet de Llobregat",
+ "tipo": "Arrollamiento de persona"
 }

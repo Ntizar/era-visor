@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Barcelona",
   "pk": "323+320",
-  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat"
+  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "lat": 41.58691107963485,
+  "lng": 1.9169821750290457,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -62,5 +65,11 @@
   "Maquinista no pudo evitar colisión"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-03-16",
+ "hora": "20:19",
+ "provincia": "Barcelona",
+ "pk": "323+320",
+ "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+ "tipo": "Colisión y descarrilamiento"
 }

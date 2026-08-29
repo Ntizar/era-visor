@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-594",
  "expediente": "0041/2008",
- "titulo": "Arrollamiento mortal de una persona por tren de mercancías en la estación de Villarreal, línea 600",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0041/2008 OCURRIDO EL DÍA 10.09.2008",
  "fecha_suceso": "2008-09-10",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Villarreal",
   "provincia": "Castellón",
   "pk": "62,095",
-  "linea": "600 Valencia-San Vicente de Calders"
+  "linea": "600 Valencia-San Vicente de Calders",
+  "lat": 39.90031161194068,
+  "lng": -0.10217351268855931,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Comsa Rail Transport",
@@ -70,5 +73,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-09-10",
+ "hora": "15:14",
+ "provincia": "Castellón",
+ "estacion": "Villarreal",
+ "pk": "62,095",
+ "linea": "600 Valencia-San Vicente de Calders",
+ "tipo": "Arrollamiento"
 }

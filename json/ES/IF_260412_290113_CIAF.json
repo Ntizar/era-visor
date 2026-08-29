@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1421",
  "expediente": "0030/2012",
- "titulo": "Rebase de señal de salida en la estación de Río Huerva (Zaragoza) con conato de colisión",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2012 OCURRIDO EL DÍA 26.04.2012 EN LA ESTACIÓN DE RÍO HUERVA (ZARAGOZA)",
  "fecha_suceso": "2012-04-26",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -13,7 +13,10 @@
   "estacion": "Río Huerva",
   "provincia": "Zaragoza",
   "pk": "16+973",
-  "linea": "214 La Cartuja a CIM de Zaragoza"
+  "linea": "214 La Cartuja a CIM de Zaragoza",
+  "lat": 41.6031049740354,
+  "lng": -0.8849042237539823,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Logitren",
@@ -41,5 +44,38 @@
   "RU involved": "LOGITREN FERROVIARIA; \nRENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when freight train 99561 unduly overran the exit signal S1/3 - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "CTC dispuso itinerario de entrada",
+  "CTC dispuso detención de tren",
+  "Maquinista no se apercibió a tiempo",
+  "Inició frenado a 25 metros"
+ ],
+ "mitigaciones": [
+  "Frenado redundante activado por ASFA",
+  "No talonó el cambio",
+  "Detenido 18 metros después",
+  "Separación mayor de 110 metros"
+ ],
+ "factores_humanos": [
+  "No se apercibió a tiempo",
+  "Frenado iniciado tardíamente",
+  "Incumplimiento orden de señal",
+  "Prueba alcoholemia negativa"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-04-26",
+ "hora": "23:58",
+ "provincia": "Zaragoza",
+ "estacion": "Río Huerva",
+ "pk": "16+973",
+ "linea": "214 La Cartuja a CIM de Zaragoza",
+ "tipo": "incidente"
 }

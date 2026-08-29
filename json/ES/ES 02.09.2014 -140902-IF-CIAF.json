@@ -57,5 +57,12 @@
   "Desconexión de ASFA por maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-09-02",
+ "hora": "21:11",
+ "provincia": "Asturias",
+ "estacion": "Unquera",
+ "pk": "451+557",
+ "linea": "RAM 770 Santander – Oviedo",
+ "tipo": "Descarrilamiento"
 }

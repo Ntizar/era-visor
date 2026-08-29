@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1255",
  "expediente": "0044/2011",
- "titulo": "Descarrilamiento tren mercancías Logitren entre Teruel y Caparrates por mal estado de vía y estiba",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2011 OCURRIDO EL DÍA 13.07.2011 ENTRE LAS ESTACIONES DE TERUEL Y CAPARRATES (TERUEL)",
  "fecha_suceso": "2011-07-13",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "Caparrates",
   "provincia": "Teruel",
   "pk": "137+810",
-  "linea": "610 Sagunto – Bif. Teruel"
+  "linea": "610 Sagunto – Bif. Teruel",
+  "lat": 40.3235311923121,
+  "lng": -1.0707939325828024,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Logitren",
@@ -66,5 +69,12 @@
   "Incumplimiento norma técnica carga"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-07-13",
+ "hora": "21:45",
+ "provincia": "Teruel",
+ "estacion": "Caparrates",
+ "pk": "137+810",
+ "linea": "610 Sagunto – Bif. Teruel",
+ "tipo": "descarrilamiento"
 }

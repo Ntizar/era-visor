@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Andoaín Centro",
   "provincia": "Guipúzcoa",
   "pk": "608+155",
-  "linea": "línea 100 Madrid-Hendaya"
+  "linea": "línea 100 Madrid-Hendaya",
+  "lat": 43.214792282344554,
+  "lng": -2.020395006826425,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -40,5 +43,38 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "cruce por paso enmaderado",
+  "auriculares puestos impedían percepción",
+  "discapacidad mental de la víctima",
+  "visibilidad limitada tras túnel"
+ ],
+ "mitigaciones": [
+  "uso del silbato por maquinista",
+  "frenada de urgencia aplicada",
+  "proyecto de paso inferior previsto",
+  "cerramiento urbano del entorno"
+ ],
+ "factores_humanos": [
+  "no mirar antes de cruzar",
+  "aislamiento sensorial por auriculares",
+  "comportamiento habitual sin precaución",
+  "limitación cognitiva de la víctima"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-07-30",
+ "hora": "07:15",
+ "provincia": "Guipúzcoa",
+ "estacion": "Apeadero de Andoaín Centro",
+ "pk": "608+155",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento"
 }

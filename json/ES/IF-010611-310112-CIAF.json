@@ -13,7 +13,10 @@
   "estacion": "Trasona",
   "provincia": "Asturias",
   "pk": "27+510",
-  "linea": "Línea 11 Ferrol - Gijón"
+  "linea": "Línea 11 Ferrol - Gijón",
+  "lat": 43.35708836,
+  "lng": -5.64382329,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -68,5 +71,12 @@
   "no se realizan pruebas alcoholemia"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2011-06-01",
+ "hora": "16:00",
+ "provincia": "Asturias",
+ "estacion": "Trasona",
+ "pk": "PK 27+510",
+ "linea": "11 Ferrol - Gijón",
+ "tipo": "incidente"
 }

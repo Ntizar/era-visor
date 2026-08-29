@@ -13,7 +13,10 @@
   "estacion": "Socuéllamos",
   "provincia": "Ciudad Real",
   "pk": "188+690",
-  "linea": "Línea 300 Madrid Chamartín – Valencia Estació del Nord"
+  "linea": "Línea 300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.27852938,
+  "lng": -2.77540415,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused when the train was wrongly routed through track 2, while works were being done at this track, and the relevant safety measures weren´t met."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Autorización de trabajos con condición",
+  "Retirada del útil de cortocircuitado",
+  "Continuación de trabajos en vía 2",
+  "Establecimiento de itinerario por vía 2"
+ ],
+ "mitigaciones": [
+  "Señal cuadrada de parada",
+  "Cartelones de silbar",
+  "Freno de urgencia activado",
+  "Aplicación estricta del RGC"
+ ],
+ "factores_humanos": [
+  "Fallo humano del personal de circulación",
+  "Fallo humano del encargado de trabajos",
+  "No entrega del boletín de autorización",
+  "Condición que reduce nivel de seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-03-12",
+ "hora": "11:30",
+ "provincia": "Ciudad Real",
+ "estacion": "Socuéllamos",
+ "pk": "188+690",
+ "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+ "tipo": "Accidente ferroviario"
 }

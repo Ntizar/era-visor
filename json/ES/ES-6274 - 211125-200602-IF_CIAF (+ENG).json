@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "34/2020",
- "titulo": "Accidente ferroviario en La Hiniesta (Zamora): tren arrolla vehículo caído desde paso superior y descarrila",
+ "titulo": "Accidente ferroviario en La Hiniesta (Zamora), ocurrido el 02 de junio de 2020.",
  "fecha_suceso": "2020-06-02",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": "La Hiniesta",
   "provincia": "Zamora",
   "pk": "10+251",
-  "linea": "línea 822 Zamora-A Coruña"
+  "linea": "línea 822 Zamora-A Coruña",
+  "lat": 41.5646341,
+  "lng": -5.81347981,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Viajeros",
@@ -59,5 +62,12 @@
   "Responsabilidad difusa entre administraciones"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2020-06-02",
+ "hora": "16:10",
+ "provincia": "Zamora",
+ "estacion": "La Hiniesta",
+ "pk": "10+251",
+ "linea": "822",
+ "tipo": "Descarrilamiento"
 }

@@ -13,7 +13,10 @@
   "estacion": "Granollers - Centre",
   "provincia": "Barcelona",
   "pk": "134+932",
-  "linea": "270 Bifurcación Sagrera - Cerbere"
+  "linea": "270 Bifurcación Sagrera - Cerbere",
+  "lat": 41.59483256605714,
+  "lng": 2.2908313996571428,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,35 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when commuter train 28480 overrun, without authorization, exit signal S2/7-9 - which stated a stop aspect - due to the non-compliance of the signal instructions by the train driver."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Error auxiliar informando vía ocupada",
+  "Vía 7 sin circuito de detección",
+  "Maquinista confunde señales próximas"
+ ],
+ "mitigaciones": [
+  "Baliza activa frenado de urgencia",
+  "Calce descarrilador limita daño",
+  "Tren no invade gálibo vías adyacentes"
+ ],
+ "factores_humanos": [
+  "Confusión señalización por maquinista",
+  "Información errónea auxiliar circulación",
+  "Falta verificación visual itinerario"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-08-27",
+ "hora": "21:27",
+ "provincia": "Barcelona",
+ "estacion": "Granollers - Centre",
+ "pk": "134+932",
+ "linea": "270 Bifurcación Sagrera - Cerbere",
+ "tipo": "Descarrilamiento"
 }

@@ -55,5 +55,9 @@
   "Identificación subjetiva de riesgos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-11-29",
+ "provincia": "Sevilla",
+ "pk": "20+350",
+ "tipo": "descarrilamiento"
 }

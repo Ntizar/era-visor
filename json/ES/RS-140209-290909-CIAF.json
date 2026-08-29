@@ -29,5 +29,25 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [
+  "Comprobación de sistemas de comunicación",
+  "Auditoría de procedimientos de registro",
+  "Cumplimiento riguroso de normas de explotación",
+  "Mantenimiento de atención en conducción"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-02-14",
+ "estacion": "Lieres",
+ "linea": "21 Oviedo-Santander",
+ "tipo": "incidente"
 }

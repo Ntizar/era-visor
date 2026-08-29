@@ -62,5 +62,12 @@
   "falta de vigilancia en apeadero"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-02-07",
+ "hora": "15:26",
+ "provincia": "Madrid",
+ "estacion": "San Cristóbal Industrial",
+ "pk": "9,670",
+ "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+ "tipo": "Arrollamiento de una persona"
 }

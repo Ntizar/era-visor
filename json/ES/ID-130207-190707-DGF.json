@@ -74,5 +74,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-02-13",
+ "hora": "18:40",
+ "provincia": "Alicante",
+ "pk": "394,075",
+ "linea": "La Encina - Alicante",
+ "tipo": "arrollamiento de una persona"
 }

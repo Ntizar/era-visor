@@ -13,7 +13,10 @@
   "estacion": "Fabara",
   "provincia": "Zaragoza",
   "pk": "470+754",
-  "linea": "Línea 210 Miraflores-Tarragona"
+  "linea": "Línea 210 Miraflores-Tarragona",
+  "lat": 41.23339154995161,
+  "lng": 0.13730240008709693,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,12 @@
   "Respuesta rápida del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-05-06",
+ "hora": "19:20",
+ "provincia": "Zaragoza",
+ "estacion": "Fabara",
+ "pk": "470+754",
+ "linea": "210 de Miraflores a Tarragona",
+ "tipo": "Accidente ferroviario"
 }

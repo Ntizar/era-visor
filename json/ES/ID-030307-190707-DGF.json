@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0019/2007",
- "titulo": "Arrollamiento de dos personas por tren de mercancías en la estación de Viella, Asturias",
+ "titulo": "Arrollamiento de dos personas por tren de mercancías entre las señales Avanzada y de Entrada de la estación de Viella, Asturias",
  "fecha_suceso": "2007-03-03",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -14,8 +14,9 @@
   "provincia": "Asturias",
   "pk": "7,755",
   "linea": "Línea 154 Tudela Veguín-Lugo de Llanera",
-  "lat": 43.4073407,
-  "lng": -5.7877722
+  "lat": 43.39048961731343,
+  "lng": -5.786674060716418,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -57,5 +58,12 @@
   "necesidad de campañas de sensibilización"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-03-03",
+ "hora": "14:19",
+ "provincia": "Asturias",
+ "estacion": "Viella",
+ "pk": "7,755",
+ "linea": "154 Tudela Veguín-Lugo de Llanera",
+ "tipo": "arrollamiento"
 }

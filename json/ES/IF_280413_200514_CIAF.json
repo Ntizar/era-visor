@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "León",
   "pk": "26+700",
-  "linea": "790 La Asunción Universidad (León) - Aranguren"
+  "linea": "790 La Asunción Universidad (León) - Aranguren",
+  "lat": 42.82893307,
+  "lng": -5.51863306,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,33 @@
   "IM involved": "00:00:00",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by the train driver´s failure as he failed to properly tow the railcar according to the Operation Manual for train drivers._x000D_\nAs contributory causes:_x000D_\nhe failed to observe articles 4.04.05 and 9.03.00 of Annex IX of Traffic Regulations Manual (not test brake / not watch out for train to run complete)"
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Fallo motor diésel automotor 2901",
+  "Paradas de urgencia repetidas en vía",
+  "Desacoplamiento incorrecto del tren"
+ ],
+ "mitigaciones": [
+  "Actuación freno hombre muerto",
+  "Pendiente suave redujo velocidad impacto"
+ ],
+ "factores_humanos": [
+  "Error procedimiento remolcado con freno",
+  "No realizó prueba parcial de frenos",
+  "No observó integridad composición tren"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-04-28",
+ "hora": "09:58",
+ "provincia": "León",
+ "pk": "26+700",
+ "linea": "790",
+ "tipo": "Colisión por alcance"
 }

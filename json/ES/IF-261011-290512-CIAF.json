@@ -13,7 +13,10 @@
   "estacion": "Sant Pol de Mar",
   "provincia": "Barcelona",
   "pk": "PK 44+703",
-  "linea": "Línea 276 Bifurcación Sagrera a Maçanet-Massanes, tramo Arenys de Mar a Calella"
+  "linea": "Línea 276 Bifurcación Sagrera a Maçanet-Massanes, tramo Arenys de Mar a Calella",
+  "lat": 41.59013661273738,
+  "lng": 2.5914624801102804,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -40,5 +43,34 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment had its origin when commuter train 25736 moved back, without authorization, and this movement forced to open point nº1 making train to partially derailed."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebase indebido señal parada",
+  "Retroceso sin autorización tren",
+  "Incumplimiento ordenes señales"
+ ],
+ "mitigaciones": [
+  "Actuación frenado urgencia ASFA",
+  "Instalación baliza previa señal"
+ ],
+ "factores_humanos": [
+  "Error conducción maquinista",
+  "No informar adecuadamente incidente",
+  "Negar maniobra retroceso realizada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-10-26",
+ "hora": "16:24",
+ "provincia": "Barcelona",
+ "estacion": "Sant Pol de Mar",
+ "pk": "44+703",
+ "linea": "276 Bifurcación Sagrera a Maçanet-Massanes",
+ "tipo": "Descarrilamiento"
 }

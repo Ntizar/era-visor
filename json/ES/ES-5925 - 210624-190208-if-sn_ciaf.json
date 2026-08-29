@@ -61,5 +61,9 @@
   "supervisiÃ³n insuficiente operaciones"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2019-02-08",
+ "provincia": "Barcelona",
+ "estacion": "Castellgalí",
+ "tipo": "Accidente ferroviario"
 }

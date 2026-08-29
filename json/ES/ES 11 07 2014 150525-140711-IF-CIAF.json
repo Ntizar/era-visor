@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0036/2014",
- "titulo": "Arrollamiento de una niña en el paso entre andenes de la estación de Mataespesa de Alpedrete (Madrid)",
+ "titulo": "Informe final sobre el accidente ferroviario nº 0036/2014 ocurrido el día 11.07.2014 en la estación de Mataespesa de Alpedrete (Madrid)",
  "fecha_suceso": "2014-07-11",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Mataespesa de Alpedrete",
   "provincia": "Madrid",
   "pk": "4+569",
-  "linea": "línea 110 Segovia a Villalba de Guadarrama"
+  "linea": "línea 110 Segovia a Villalba de Guadarrama",
+  "lat": 40.660724117177665,
+  "lng": -4.0408428792284266,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -56,5 +59,12 @@
   "Efecto barrera del trazado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-07-11",
+ "hora": "20:33",
+ "provincia": "Madrid",
+ "estacion": "Mataespesa de Alpedrete",
+ "pk": "4+569",
+ "linea": "110 Segovia a Villalba de Guadarrama",
+ "tipo": "Arrollamiento"
 }

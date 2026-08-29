@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Murcia",
   "pk": "16+708",
-  "linea": "Línea 45 Cartagena - Los Nietos"
+  "linea": "Línea 45 Cartagena - Los Nietos",
+  "lat": 37.87607558,
+  "lng": -1.35912531,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -42,5 +45,32 @@
   "LC User serious injuries": 1,
   "Total serious injuries": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The car crossed the level crossing while the flashing lights and warning bell were working"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "vehículo invade paso a nivel activo",
+  "conductor ignora señales luminosas y acústicas"
+ ],
+ "mitigaciones": [
+  "maquinista usa silbato repetidamente",
+  "aplicación del freno de emergencia",
+  "señalización activa en el paso a nivel"
+ ],
+ "factores_humanos": [
+  "invasión indebida por vehículo carretera",
+  "no se detectan fallos humanos ferroviarios"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-09-28",
+ "hora": "13:35",
+ "provincia": "Murcia",
+ "pk": "16+708",
+ "linea": "Cartagena – Los Nietos",
+ "tipo": "Arrollamiento"
 }

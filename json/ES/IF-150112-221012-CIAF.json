@@ -13,7 +13,10 @@
   "estacion": "Trubia",
   "provincia": "Asturias",
   "pk": "PK 298+108",
-  "linea": "Línea 12 San Esteban de Pravia - Collanzo"
+  "linea": "Línea 12 San Esteban de Pravia - Collanzo",
+  "lat": 42.02234348,
+  "lng": -4.542186,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -68,5 +71,12 @@
   "Falta de actuación inmediata"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2012-01-15",
+ "hora": "08:12",
+ "provincia": "Asturias",
+ "estacion": "Trubia",
+ "pk": "298+108",
+ "linea": "12 San Esteban de Pravia - Collanzo",
+ "tipo": "descarrilamiento"
 }

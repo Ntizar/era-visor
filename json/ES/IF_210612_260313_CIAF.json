@@ -13,7 +13,10 @@
   "estacion": "Cambiador de ancho de Plasencia de Jalón",
   "provincia": "Zaragoza",
   "pk": "276+705",
-  "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón"
+  "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón",
+  "lat": 41.69633147,
+  "lng": -1.22812208,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -44,5 +47,34 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment was caused by a failure in the system for changing the gauge in the left wheel of eight axle since the mechanism for locking/unlocking didn´t work properly due to a lack of lubrication ."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Falta de engrase mecanismo enclavamiento",
+  "Pitón agarrotado ancho UIC",
+  "Desgaste pitones guiado detectado"
+ ],
+ "mitigaciones": [
+  "Aviso personal cambiador detuvo tren",
+  "Velocidad inferior máxima permitida",
+  "Revisión mantenimiento planificada cumplida"
+ ],
+ "factores_humanos": [
+  "Instrucciones mantenimiento insuficientes",
+  "Formación operarios necesaria mejorar"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-06-21",
+ "hora": "08:51",
+ "provincia": "Zaragoza",
+ "estacion": "Cambiador de Plasencia de Jalón",
+ "pk": "276+705",
+ "linea": "52 Cambiador de Plasencia de Jalón - Bifurcación Cambiador de Plasencia de Jalón",
+ "tipo": "descarrilamiento"
 }

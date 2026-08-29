@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-10647",
  "expediente": "122/2024",
- "titulo": "Descarrilamiento por escape de material en la estación de León Clasificación el 13 de diciembre de 2024",
+ "titulo": "Descarrilamiento por escape de material en la estación de León Clasificación (León) el 13 de diciembre de 2024",
  "fecha_suceso": "2024-12-13",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -73,5 +73,10 @@
   "Sustracción de calzos recurrente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2024-12-13",
+ "hora": "03:50",
+ "provincia": "León",
+ "estacion": "León Clasificación",
+ "tipo": "Descarrilamiento"
 }

@@ -14,9 +14,9 @@
   "provincia": "Madrid",
   "pk": "0,619",
   "linea": "Línea 920 Móstoles El Soto-Parla",
-  "lat": 40.4094837,
-  "lng": -3.69318758,
-  "metodo_geo": "via_pkteorico"
+  "lat": 40.39335852941,
+  "lng": -3.67693582613,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -70,5 +70,12 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-02-23",
+ "hora": "23:52",
+ "provincia": "Madrid",
+ "estacion": "Madrid-Atocha Cercanías",
+ "pk": "0,619",
+ "linea": "920 Móstoles El Soto-Parla",
+ "tipo": "Accidente grave"
 }

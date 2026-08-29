@@ -56,5 +56,12 @@
   "Falta conservación vallado Adif"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-04-07",
+ "hora": "22:55",
+ "provincia": "Alicante",
+ "estacion": "Villena",
+ "pk": "395,415",
+ "linea": "Madrid-Alicante",
+ "tipo": "grave"
 }

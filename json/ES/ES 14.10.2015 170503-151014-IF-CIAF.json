@@ -54,5 +54,9 @@
   "Retraso comunicación incidente jefe circulación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-10-14",
+ "provincia": "Zamora",
+ "estacion": "Monte la Reina",
+ "tipo": "incidente"
 }

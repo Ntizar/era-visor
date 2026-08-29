@@ -13,7 +13,10 @@
   "estacion": "Río Duero",
   "provincia": "Valladolid",
   "pk": "167+867",
-  "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande"
+  "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+  "lat": 41.54572388,
+  "lng": -4.76060461,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -63,5 +66,12 @@
   "Conducción sin autorización retroceso"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-07-16",
+ "hora": "15:41",
+ "provincia": "Valladolid",
+ "estacion": "Río Duero",
+ "pk": "167+867",
+ "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+ "tipo": "conato de colisión"
 }

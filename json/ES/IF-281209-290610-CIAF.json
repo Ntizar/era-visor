@@ -13,7 +13,10 @@
   "estacion": "Pedrera",
   "provincia": "Sevilla",
   "pk": "94+716",
-  "linea": "422 Bif. Utrera-Puente de Piedra"
+  "linea": "422 Bif. Utrera-Puente de Piedra",
+  "lat": 37.21903151277647,
+  "lng": -4.880863913423529,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Underlying and root causes description (i.e. systemic factors, if any)": "The traffic manager didn´t check, before authorising the overtook, the right position of point nº 6 as it´s set in the General Operating Regulation"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Establecido itinerario por vía general",
+  "Aguja derecha no acopló",
+  "Señal E2 no abrió",
+  "Autorización sin verificar agujas"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia actuado",
+  "Velocidad inferior a máxima",
+  "Verificación previa de agujas",
+  "Formación específica en enclavamientos"
+ ],
+ "factores_humanos": [
+  "No verificar posición agujas",
+  "Autorización indebida rebase señal",
+  "Agente sin experiencia instalación",
+  "Falta formación específica"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-12-28",
+ "hora": "20:10",
+ "provincia": "Sevilla",
+ "estacion": "Pedrera",
+ "pk": "94+716",
+ "linea": "244 Bif. Utrera – Fuente de Piedra",
+ "tipo": "Descarrilamiento"
 }

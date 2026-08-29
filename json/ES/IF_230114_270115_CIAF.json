@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Burgos",
   "pk": "422+950",
-  "linea": "Calzada de Bureba - Briviesca"
+  "linea": "Calzada de Bureba - Briviesca",
+  "lat": 39.43908561,
+  "lng": -7.26171121,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -28,5 +31,33 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "Bloqueo incorrecto de la vía I",
+  "Error humano en operación CTC",
+  "Ausencia de barra de shuntado"
+ ],
+ "mitigaciones": [
+  "Retirada operarios por encargado",
+  "Uso freno emergencia tren",
+  "No hubo daños personales"
+ ],
+ "factores_humanos": [
+  "Fallo humano jefe CTC",
+  "Operación circulación incorrecta",
+  "Confusión entre vías bloqueadas"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2014-01-23",
+ "hora": "11:43:53",
+ "provincia": "Burgos",
+ "pk": "422+950",
+ "tipo": "Arrollamiento"
 }

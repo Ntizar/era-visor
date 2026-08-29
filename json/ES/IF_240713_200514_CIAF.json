@@ -46,5 +46,30 @@
   "Total serious injuries": 73,
   "Estimated total material costs": "150 000 - 2 000 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The cause of the accident was the train´s speeding (traveling at 179 km / h) at the curve for entering to Bifurcación A Grandeira (“Angrois curve”, speed limited to 80 km / h), when the train driver didn´t comply with what is laid down on the train 150/151´s Route Book and on the Table of Maximum Speeds book for line 082. _x000D_\nIt´s pointed, as a contributing cause, the lack of attention of the train driver as he answered a service phone call from the train´s ticket inspector which led to the application of the brake in an inadequate manner to reduce the speed before reaching that curve."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Exceso de velocidad en curva",
+  "Falta de atención del maquinista"
+ ],
+ "mitigaciones": [
+  "Estructura resistente del tren",
+  "Señalización ASFA activa"
+ ],
+ "factores_humanos": [
+  "Error humano del conductor",
+  "Desconocimiento de la curva"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-07-24",
+ "provincia": "A Coruña",
+ "estacion": "Santiago de Compostela",
+ "linea": "082",
+ "tipo": "accidente grave ferroviario"
 }

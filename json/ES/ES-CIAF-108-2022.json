@@ -11,9 +11,7 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "Torelló",
-  "provincia": "Barcelona",
-  "lat": 41.8167,
-  "lng": 2.2667
+  "provincia": "Barcelona"
  },
  "pk": null,
  "linea": null,

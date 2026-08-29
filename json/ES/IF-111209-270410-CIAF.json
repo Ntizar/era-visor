@@ -13,7 +13,10 @@
   "estacion": "Renedo",
   "provincia": "Cantabria",
   "pk": "495+043",
-  "linea": "160 Santander - Palencia"
+  "linea": "160 Santander - Palencia",
+  "lat": 43.35314468,
+  "lng": -3.94951772,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -67,5 +70,12 @@
   "Formación en cumplimiento normativo"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-12-11",
+ "hora": "21:32",
+ "provincia": "Cantabria",
+ "estacion": "Renedo",
+ "pk": "495+043",
+ "linea": "160 Santander - Palencia",
+ "tipo": "incidente"
 }

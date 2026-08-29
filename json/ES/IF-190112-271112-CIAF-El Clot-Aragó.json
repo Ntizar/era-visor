@@ -67,5 +67,11 @@
   "Visibilidad limitada túnel curva"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2012-01-19",
+ "hora": "18:30",
+ "provincia": "Barcelona",
+ "pk": "109+810",
+ "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+ "tipo": "Colisión por alcance"
 }

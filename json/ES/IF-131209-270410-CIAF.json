@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Orbita-Espinosa",
   "provincia": "Ávila",
   "pk": "164+429",
-  "linea": "100 Madrid-Hendaya"
+  "linea": "100 Madrid-Hendaya",
+  "lat": 41.007327971811506,
+  "lng": -4.666131580242063,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -68,5 +71,12 @@
   "Señalización carretera no normativa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-12-13",
+ "hora": "18:27",
+ "provincia": "Ávila",
+ "estacion": "Orbita-Espinosa",
+ "pk": "164+429",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento"
 }

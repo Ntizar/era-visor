@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1039",
  "expediente": "0047/2010",
- "titulo": "Arrollamiento de vehículo en paso a nivel entre Utrera y El Sorbito (Sevilla)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0047/2010 OCURRIDO EL DÍA 18.08.2010 EN EL PASO A NIVEL CLASE B ENTRE LAS ESTACIONES DE UTRERA Y EL SORBITO (SEVILLA)",
  "fecha_suceso": "2010-08-18",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Sevilla",
   "pk": "8+579",
-  "linea": "422 Bif. Utrera a Fuente de Piedra"
+  "linea": "422 Bif. Utrera a Fuente de Piedra",
+  "lat": 37.20371507380784,
+  "lng": -5.726908902066667,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -63,5 +66,11 @@
   "falta señalización vertical reglamentaria"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-08-18",
+ "hora": "12:16",
+ "provincia": "Sevilla",
+ "pk": "8+579",
+ "linea": "422 Bif. Utrera a Fuente de Piedra",
+ "tipo": "Arrollamiento"
 }

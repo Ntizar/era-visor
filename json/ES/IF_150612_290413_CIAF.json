@@ -13,7 +13,10 @@
   "estacion": "Arévalo",
   "provincia": "Ávila",
   "pk": "169+839",
-  "linea": "100 Madrid - Hendaya"
+  "linea": "100 Madrid - Hendaya",
+  "lat": 41.038126919678575,
+  "lng": -4.6963910779999996,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -43,5 +46,38 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin in a human failure of train 90602 driver when restarting train´s march without having been authorised to do so, failing to observe article 432 of General Operating Rules"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Trabajos en instalaciones de seguridad",
+  "Bloqueo telefónico supletorio establecido",
+  "Entrega BOI sin orden de marcha",
+  "Maquinista inicia marcha sin orden"
+ ],
+ "mitigaciones": [
+  "Jefe circulación avisa puesto mando",
+  "Puesto mando detiene tren",
+  "Se autoriza retroceso a vía 4",
+  "Modalidad C radiotelefonía"
+ ],
+ "factores_humanos": [
+  "Fallo humano personal de conducción",
+  "No recibe orden de marcha",
+  "Incumple artículo 432 RGC",
+  "Jefe circulación sin gorra banderín"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-06-15",
+ "hora": "07:17",
+ "provincia": "Ávila",
+ "estacion": "Arévalo",
+ "pk": "169+893",
+ "linea": "100 Madrid - Hendaya",
+ "tipo": "Incidente"
 }

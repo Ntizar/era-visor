@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-897",
  "expediente": "0014/2010",
- "titulo": "Arrollamiento de un trabajador de vía por el tren 751 en la estación de Dueñas (Palencia)",
+ "titulo": "Informe final sobre el accidente ferroviario nº 0014/2010 ocurrido el día 05.03.2010 en Dueñas (Palencia)",
  "fecha_suceso": "2010-03-05",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": "Dueñas",
   "provincia": "Palencia",
   "pk": "278+952",
-  "linea": "Línea 100 Madrid Chamartín – Hendaya"
+  "linea": "Línea 100 Madrid Chamartín – Hendaya",
+  "lat": 41.8758948853617,
+  "lng": -4.540395140042553,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -70,5 +73,12 @@
   "incumplimiento normas seguridad"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-03-05",
+ "hora": "01:37",
+ "provincia": "Palencia",
+ "estacion": "Dueñas",
+ "pk": "278+952",
+ "linea": "100 Madrid Chamartín – Hendaya",
+ "tipo": "Arrollamiento"
 }

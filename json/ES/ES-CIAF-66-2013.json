@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Puesto de bloqueo de Río Duero",
   "provincia": "Valladolid",
-  "lat": 42.217596,
-  "lng": -5.099282
+  "lat": 41.54572388,
+  "lng": -4.76060461,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "167+867",
  "linea": "AV 080 Madrid Chamartín – Valladolid Campo Grande",

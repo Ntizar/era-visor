@@ -65,5 +65,11 @@
   "mantenimiento deficiente del cerramiento"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-04-18",
+ "hora": "17:16",
+ "provincia": "Madrid",
+ "pk": "9,900",
+ "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+ "tipo": "arrollamiento"
 }

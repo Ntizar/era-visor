@@ -54,5 +54,9 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-02-17",
+ "provincia": "Madrid",
+ "estacion": "Madrid Chamartín",
+ "tipo": "Incidente"
 }

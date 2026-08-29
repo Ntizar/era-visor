@@ -13,7 +13,10 @@
   "estacion": "Sant Andreu Arenal",
   "provincia": "Barcelona",
   "pk": "361+100",
-  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat"
+  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+  "lat": 41.456385440344825,
+  "lng": 2.1869750982758625,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -39,5 +42,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when the empty stock overtook, without authorization, the backing signal (R3) - which stated a stop aspect - due to the non-compliance of the signal instructions by the  train driver"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Maniobra libra señal R3",
+  "Cambio de mandos",
+  "CTC autoriza entrada tren 28708",
+  "Retromarcha hacia vía cuatro"
+ ],
+ "mitigaciones": [
+  "Parada inmediata por focos",
+  "Velocidad inferior a máxima",
+  "Visibilidad correcta de señal",
+  "Equipo seguridad funcionó correctamente"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de señales",
+  "Fallo humano en conducción",
+  "Maquinista desconoce motivo retroceso",
+  "Riesgo por fallo humano"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2010-06-29",
+ "hora": "09:07",
+ "provincia": "Barcelona",
+ "estacion": "Sant Andreu Arenal",
+ "pk": "361+100",
+ "linea": "220 Lleida-Pirineus/ Hospitalet de Llobregat",
+ "tipo": "conato de colisión"
 }

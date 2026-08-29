@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Trasona",
   "provincia": "Asturias",
-  "lat": 43.545,
-  "lng": -5.823
+  "lat": 43.35708836,
+  "lng": -5.64382329,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "PK 27+510",
  "linea": "11 Ferrol - Gijón",

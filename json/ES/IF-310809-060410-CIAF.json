@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-808",
  "expediente": "0047/2009",
- "titulo": "Rebase indebido de señal de entrada en la estación de San Cristóbal Industrial (Madrid)",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0047/2009 OCURRIDO EL DÍA 31.08.2009 EN LA ESTACIÓN DE SAN CRISTOBAL INDUSTRIAL (MADRID)",
  "fecha_suceso": "2009-08-31",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -13,7 +13,10 @@
   "estacion": "San Cristóbal Industrial",
   "provincia": "Madrid",
   "pk": "10+200",
-  "linea": "Línea 300 Madrid Chamartín – Valencia Estación del Nord"
+  "linea": "Línea 300 Madrid Chamartín – Valencia Estación del Nord",
+  "lat": 40.33179066,
+  "lng": -3.69871014,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 20072 driver overtook the station signal (E2) which stated a red aspect (stop indication)."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Aumento velocidad tras anuncio parada",
+  "No preparación para frenar",
+  "Exceso velocidad baliza previa",
+  "Incumplimiento órdenes señales"
+ ],
+ "mitigaciones": [
+  "Frenado emergencia ASFA pie señal",
+  "Freno emergencia maquinista",
+  "Distancia suficiente entre trenes",
+  "Itinerario correcto tren mercancías"
+ ],
+ "factores_humanos": [
+  "Incumplimiento reglamento circulación",
+  "Fallo humano conductor",
+  "Procesos psicológicos conducción",
+  "Verificación aptitud personal"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-08-31",
+ "hora": "18:14",
+ "provincia": "Madrid",
+ "estacion": "San Cristóbal Industrial",
+ "pk": "10+200",
+ "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+ "tipo": "incidente"
 }

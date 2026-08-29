@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "88,906",
   "linea": "Línea 240 Tarragona-Barcelona-Francia",
-  "lat": 42.07428804,
-  "lng": 2.2449246,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.38696604629091,
+  "lng": 2.043226305521212,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -70,5 +70,11 @@
   "no respeto señalización activa"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-15",
+ "hora": "11:04",
+ "provincia": "Barcelona",
+ "pk": "88,906",
+ "linea": "240 Tarragona-Barcelona-Francia",
+ "tipo": "grave"
 }

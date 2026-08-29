@@ -13,7 +13,10 @@
   "estacion": "Desertu-Barakaldo (Apartadero de Sestao)",
   "provincia": null,
   "pk": "9+606",
-  "linea": "720 Abando Indalecio Prieto a Santurtzi"
+  "linea": "720 Abando Indalecio Prieto a Santurtzi",
+  "lat": 43.3062593,
+  "lng": -2.99235033,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Tracción Rail",
@@ -52,5 +55,11 @@
   "Información jefe circulación CTC"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-10-11",
+ "hora": "11:05",
+ "estacion": "Desertu-Barakaldo",
+ "pk": "9+606",
+ "linea": "720",
+ "tipo": "Descarrilamiento"
 }

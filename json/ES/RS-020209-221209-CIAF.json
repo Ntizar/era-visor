@@ -30,5 +30,23 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [],
+ "mitigaciones": [
+  "Campaña de mantenimiento en infraestructuras",
+  "Plan de comprobación y mantenimiento periódico",
+  "Sustitución por vía en placa"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-02-02",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Accidente ferroviario"
 }

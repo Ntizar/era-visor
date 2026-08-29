@@ -41,5 +41,38 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when the train 15052 driver overtook the station signal (E2) which stated a red aspect (stop indication)."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Rebase autorizado de señal de avanzada",
+  "Establecimiento de itinerario al tren precedente",
+  "Curva impide divisar tren precedente",
+  "Aumento de velocidad del tren"
+ ],
+ "mitigaciones": [
+  "Funcionamiento correcto de ASFA",
+  "Aplicación del freno de emergencia",
+  "Detención tras recorrer veinticuatro metros",
+  "Cumplimiento de marcha a la vista"
+ ],
+ "factores_humanos": [
+  "Incumplimiento de órdenes de señales",
+  "No divisar tren precedente",
+  "Influencia de procesos psicológicos",
+  "Ficha de alcoholemia incompleta"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-07-27",
+ "hora": "20:16",
+ "provincia": "Barcelona",
+ "estacion": "Bif. Clot",
+ "pk": "102+700",
+ "linea": "262 Barcelona Sagrera - Bif. Clot",
+ "tipo": "incidente"
 }

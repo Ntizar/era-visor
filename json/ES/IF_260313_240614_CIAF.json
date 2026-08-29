@@ -13,7 +13,10 @@
   "estacion": "Urda",
   "provincia": "Toledo",
   "pk": "122+450",
-  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa"
+  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa",
+  "lat": 39.396019707499995,
+  "lng": -3.8323499473214286,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -43,5 +46,31 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The derailment is caused by a failure of the rolling stock. The breakage of the profiling machine´s axle is caused by a process of cyclic fatigue."
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Alta Velocidad",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Operación normal",
+ "precursores": [
+  "Rotura por fatiga del eje motriz",
+  "Carga cíclica no detectada en inspecciones"
+ ],
+ "mitigaciones": [
+  "Régimen de vía bloqueada sin otros trenes",
+  "Descarrilamiento hacia exterior dejando vía libre"
+ ],
+ "factores_humanos": [
+  "Desconocimiento jornada laboral operador",
+  "Sin prueba alcoholemia documentada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-03-26",
+ "hora": "01:00",
+ "provincia": "Toledo",
+ "pk": "122+450",
+ "linea": "010 Madrid Puerta de Atocha – Sevilla Santa Justa",
+ "tipo": "descarrilamiento"
 }

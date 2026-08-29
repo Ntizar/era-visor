@@ -13,7 +13,10 @@
   "estacion": "El Entrego",
   "provincia": "Asturias",
   "pk": "40,996",
-  "linea": "61 Gijón-Laviana"
+  "linea": "61 Gijón-Laviana",
+  "lat": 42.21800134,
+  "lng": -4.92291721,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -64,5 +67,12 @@
   "Actuación incorrecta salida tren"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2008-11-10",
+ "hora": "15:05",
+ "provincia": "Asturias",
+ "estacion": "El Entrego",
+ "pk": "40,996",
+ "linea": "61 Gijón-Laviana",
+ "tipo": "incidente"
 }

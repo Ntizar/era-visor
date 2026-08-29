@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Abaroa-San Miguel",
   "provincia": "Vizcaya",
   "pk": "241,860",
-  "linea": "700 Intermodal Abando Ind. Prieto-Casetas"
+  "linea": "700 Intermodal Abando Ind. Prieto-Casetas",
+  "lat": 43.225504003333334,
+  "lng": -2.88655127152381,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -70,5 +73,12 @@
  "meteorologia": [
   "luz artificial"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-12-29",
+ "hora": "22:42",
+ "provincia": "Vizcaya",
+ "estacion": "Apeadero de Abaroa-San Miguel",
+ "pk": "241,860",
+ "linea": "700 Intermodal Abando Ind. Prieto-Casetas",
+ "tipo": "Arrollamiento de una persona"
 }

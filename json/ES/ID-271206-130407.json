@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Burgos",
   "pk": "371,068",
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 42.3677341708,
+  "lng": -3.697217558,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
@@ -65,5 +68,12 @@
   "No acelerar paso para eludir"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-12-27",
+ "hora": "19:19",
+ "provincia": "Burgos",
+ "estacion": "Villafría y Burgos",
+ "pk": "371,068",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Arrollamiento de persona"
 }

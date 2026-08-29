@@ -56,5 +56,10 @@
   "Escasa experiencia del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-10-05",
+ "hora": "17:17",
+ "provincia": "Huesca",
+ "estacion": "Tardienta",
+ "tipo": "colisión"
 }

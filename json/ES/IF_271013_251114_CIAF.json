@@ -13,7 +13,10 @@
   "estacion": "Zalla",
   "provincia": "Vizcaya",
   "pk": "2+057",
-  "linea": "790 RAM La Asunción Universidad – Aranguren"
+  "linea": "790 RAM La Asunción Universidad – Aranguren",
+  "lat": 43.20444529025,
+  "lng": -3.1705617591875,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,37 @@
   "IM involved": "ADIF",
   "Estimated total material costs": "< 150 000 €",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident is caused by human failure of traffic agent when wrongly actuated switch nº 12, while train was right passing through it, and probably being his intention to actuate switch nº4._x000D_\nThis failure might be caused by the traffic agent´s workload at that moment since he had to simultaneously authorize commuter trains´movements and help the infrastructure staff to repair the existing breakdown. Nevertheless, to actuate both switches without a previous verification that the track circuit A4 was empty were not a proper action. Non-compliance with article 268.3 of Operation Manual"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "reanuda marcha tras parada comercial",
+  "no se percata de señal parada",
+  "aplica freno de urgencia tarde"
+ ],
+ "mitigaciones": [
+  "activación del freno ASFA",
+  "aplicación del freno de urgencia",
+  "detención antes de la aguja",
+  "itinerario separado para otro tren"
+ ],
+ "factores_humanos": [
+  "falta de atención en conducción",
+  "despiste del maquinista",
+  "incumplimiento del reglamento señales",
+  "no respetar señal de parada"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2013-10-27",
+ "hora": "08:31",
+ "provincia": "Vizcaya",
+ "estacion": "Zalla",
+ "pk": "2+057",
+ "linea": "790",
+ "tipo": "incidente"
 }

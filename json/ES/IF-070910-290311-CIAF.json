@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Vizcaya",
   "pk": "0+388",
-  "linea": "1031 León - Bilbao"
+  "linea": "1031 León - Bilbao",
+  "lat": 40.41994121,
+  "lng": -3.71789406,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"
@@ -70,5 +73,11 @@
   "salida del apeadero en paso"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-09-07",
+ "hora": "17:02",
+ "provincia": "Vizcaya",
+ "pk": "0+388",
+ "linea": "1031 León – Bilbao",
+ "tipo": "Arrollamiento mortal"
 }

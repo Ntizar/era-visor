@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-1398",
  "expediente": "0028/2012",
- "titulo": "Rebase indebido de señal de salida y conato de colisión en la estación de Heras (Cantabria)",
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 28/2012 OCURRIDO EL DÍA 18.04.2012 EN LA ESTACIÓN DE HERAS (CANTABRIA)",
  "fecha_suceso": "2012-04-18",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -41,5 +41,38 @@
   "RU involved": "Feve",
   "IM involved": "Feve",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident was caused when train 9860, without authorization, overrun station´s exit signal (S2/2), which had a red aspect, due to the non-compliance of the signal instructions by the train driver."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "ASFA",
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "No respetar señal de parada",
+  "Velocidad excesiva al pasar agujas",
+  "Redución insuficiente tras aviso parada",
+  "Frenado tardío de emergencia"
+ ],
+ "mitigaciones": [
+  "ASFA activó frenado emergencia",
+  "Maquinista aplicó freno emergencia",
+  "Tren SR507 detenido ante señal",
+  "Frenar al ver señal roja"
+ ],
+ "factores_humanos": [
+  "Falta de atención en conducción",
+  "Incumplimiento de velocidades máximas",
+  "Redución insuficiente de velocidad",
+  "Presencia agente en cabina"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-04-18",
+ "hora": "10:54",
+ "provincia": "Cantabria",
+ "estacion": "Heras",
+ "pk": "545+009",
+ "linea": "24 Santander - Bilbao",
+ "tipo": "incidente"
 }

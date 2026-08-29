@@ -13,7 +13,10 @@
   "estacion": "Siete Picos",
   "provincia": "Madrid",
   "pk": "PK 7+165",
-  "linea": "116 Los Cotos a Cercedilla"
+  "linea": "116 Los Cotos a Cercedilla",
+  "lat": 40.75964684326126,
+  "lng": -4.032788418702703,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -41,5 +44,32 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by a technical failure due to the bad condition of sleepers, sleepers fastenings and ballast"
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Nominal",
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "traviesas de madera en mal estado",
+  "clavazón en mal estado",
+  "balasto en mal estado",
+  "junta con mala sujeción"
+ ],
+ "mitigaciones": [
+  "aplicar freno de urgencia",
+  "suspender circulación de trenes",
+  "sustituir traviesas por hormigón",
+  "reemplazar traviesas en mal estado"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-06-30",
+ "hora": "11:58",
+ "provincia": "Madrid",
+ "pk": "7+165",
+ "linea": "116 Los Cotos a Cercedilla",
+ "tipo": "descarrilamiento"
 }

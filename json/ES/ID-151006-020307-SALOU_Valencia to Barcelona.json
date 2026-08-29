@@ -70,5 +70,11 @@
   "Falta de señalización en acceso"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-15",
+ "hora": "20:40",
+ "provincia": "Tarragona",
+ "pk": "262,561",
+ "linea": "Valencia-Tarragona",
+ "tipo": "Arrollamiento en paso a nivel"
 }

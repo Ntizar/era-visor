@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-10251",
  "expediente": "48/2022",
- "titulo": "Colisión frontal de trenes en Bifurcación Vila-seca (Tarragona) el 12/06/2022",
+ "titulo": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022 en Bifurcación Vila-seca (Tarragona)",
  "fecha_suceso": "2022-06-12",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -66,5 +66,11 @@
   "Deficiencia pruebas freno locomotoras"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2022-06-12",
+ "hora": "21:46:57",
+ "provincia": "Tarragona",
+ "estacion": "Bifurcación Vila-seca",
+ "linea": "210 “Miraflores - Sant Vicenç de Calders”",
+ "tipo": "Colisión frontal de trenes"
 }

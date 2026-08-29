@@ -13,7 +13,10 @@
   "estacion": "Arévalo",
   "provincia": "Ávila",
   "pk": "172+050",
-  "linea": "Línea 100 Madrid Chamartín - Hendaya"
+  "linea": "Línea 100 Madrid Chamartín - Hendaya",
+  "lat": 41.062653241348315,
+  "lng": -4.7076881214606745,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -46,5 +49,38 @@
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident was caused by technical failure of the safety of the railway plant, in particular, in the fixed signalling produced by changes  in the interlocking of Arévalo station for testing it. These changes consisted in the installation of new cards and software for the future placement in service of bi-directional ABS on the route. The rear collision happens when caution signal 1734 indicated line-clear, being  the next track circuit engaged and the home signal E2 stating a stop indication.",
   "Underlying and root causes description (i.e. systemic factors, if any)": "There is a set of circumstances that have contributed to the occurrence of this accident:Trains running during the work were not holding up or, failing that, the establishment of measures that would have guaranteed the safety of   these trains, such as: establishing an alternative blocking system \tacting over the affected signals in order to avoid them stating aspects which authorised the train´s movements (green -yellow)/ No verification on site that the signals met the indications that were established in the special order that regulates the work. / Wrong assessment of the risk involving the performance of the works"
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Otro",
+ "tipo_red": "Convencional",
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": "Puesta en servicio",
+ "precursores": [
+  "Cambios en enclavamiento para pruebas",
+  "Instalación de tarjetas y software",
+  "No interrupción de circulaciones durante trabajos",
+  "No verificación en campo de señales"
+ ],
+ "mitigaciones": [
+  "Interrupción de circulaciones durante trabajos",
+  "Establecer bloqueo alternativo",
+  "Actuación sobre señales afectadas",
+  "Verificación en campo de señales"
+ ],
+ "factores_humanos": [
+  "Incorrecta evaluación del riesgo",
+  "No verificación en campo",
+  "No interrupción de circulaciones",
+  "No supervisar concordancia de señales"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2010-03-26",
+ "hora": "00:33",
+ "provincia": "Ávila",
+ "estacion": "Arévalo",
+ "pk": "172+050",
+ "linea": "100 Madrid Chamartín – Hendaya",
+ "tipo": "Colisión por alcance"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-597",
  "expediente": "0044/2008",
- "titulo": "Choque de automotor histórico BILLARD contra topera en Balmaseda Mercancías",
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0044/2008 OCURRIDO EL DÍA 25.09.2008 EN LA ESTACIÓN DE BALMASEDA MERCANCÍAS",
  "fecha_suceso": "2008-09-25",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -13,7 +13,10 @@
   "estacion": "Balmaseda Mercancías",
   "provincia": "Vizcaya",
   "pk": "284,050",
-  "linea": "Línea 31 León-Bilbao"
+  "linea": "Línea 31 León-Bilbao",
+  "lat": 41.73359843,
+  "lng": 1.64436243,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "FEVE"
@@ -41,5 +44,38 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Material Rodante Operador",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": "Degradada",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "avería del motor diesel",
+  "vacío sistema neumático de frenos",
+  "freno de mano desconectado",
+  "circulación en Bloqueo Telefónico"
+ ],
+ "mitigaciones": [
+  "encaminar tren a vía 29M",
+  "vía mango de mayor longitud",
+  "topera de hormigón armado",
+  "no compromete seguridad otros trenes"
+ ],
+ "factores_humanos": [
+  "solicitud oral no escrita",
+  "incumplimiento autorización para circular",
+  "no publicar Orden del Día",
+  "no señalar a la vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-09-25",
+ "hora": "16:40",
+ "provincia": "Vizcaya",
+ "estacion": "Balmaseda Mercancías",
+ "pk": "P.K. 284,050",
+ "linea": "31 León-Bilbao",
+ "tipo": "accidente ferroviario"
 }

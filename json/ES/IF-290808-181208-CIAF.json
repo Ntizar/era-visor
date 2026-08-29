@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Segur de Calafell",
   "provincia": "Tarragona",
   "pk": "624,800",
-  "linea": "200 Madrid-Chamartín-Barcelona-Sants"
+  "linea": "200 Madrid-Chamartín-Barcelona-Sants",
+  "lat": 41.19273172222222,
+  "lng": 1.6099074135555551,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,37 @@
   "IM involved": "ADIF",
   "Unauthorised person fatalities": 1,
   "Total fatalities": 1
- }
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Víctima cruza por paso enmaderado",
+  "No percibe llegada del tren",
+  "Camina con muleta lentamente",
+  "Paso inferior no accesible"
+ ],
+ "mitigaciones": [
+  "Uso silbato y freno emergencia",
+  "Mejorar permeabilidad del entorno",
+  "Accesibilidad del paso inferior"
+ ],
+ "factores_humanos": [
+  "Víctima no percibe tren",
+  "Movilidad reducida con muleta",
+  "Cruces habituales no habilitados",
+  "Falta permeabilidad urbana"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2008-08-29",
+ "hora": "12:51",
+ "provincia": "Tarragona",
+ "estacion": "Segur de Calafell",
+ "pk": "624,800",
+ "linea": "200 Madrid Chamartín – Barcelona-Sants",
+ "tipo": "arrollamiento"
 }

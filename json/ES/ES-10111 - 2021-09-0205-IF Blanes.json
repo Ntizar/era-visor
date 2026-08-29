@@ -73,5 +73,9 @@
   "Confusión por numeración de tren"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2021-02-05",
+ "provincia": "Girona",
+ "estacion": "Blanes",
+ "tipo": "Incidente operacional"
 }

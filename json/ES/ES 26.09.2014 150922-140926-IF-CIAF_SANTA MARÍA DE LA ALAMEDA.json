@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": null,
   "pk": "73+885",
-  "linea": null
+  "linea": null,
+  "lat": 41.91216995,
+  "lng": -0.32524527,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -52,5 +55,11 @@
   "No cumplimentar adecuadamente la orden"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-09-26",
+ "hora": "06:48:10",
+ "provincia": "Madrid",
+ "estacion": "Santa María de la Alameda",
+ "pk": "73+885",
+ "tipo": "Colisión"
 }

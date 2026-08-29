@@ -13,7 +13,10 @@
   "estacion": "Avilés",
   "provincia": "Asturias",
   "pk": "16,863",
-  "linea": "144 San Juan de Nieva – Villabona"
+  "linea": "144 San Juan de Nieva – Villabona",
+  "lat": 43.54980952452,
+  "lng": -5.91393910612,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -65,5 +68,12 @@
   "Maquinista actúa correctamente"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-01-14",
+ "hora": "10:57",
+ "provincia": "Asturias",
+ "estacion": "Avilés",
+ "pk": "16,863",
+ "linea": "144 San Juan de Nieva – Villabona",
+ "tipo": "Arrollamiento de una persona"
 }

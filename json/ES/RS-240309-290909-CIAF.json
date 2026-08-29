@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Jaén",
   "pk": "137,803",
-  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén"
+  "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+  "lat": 37.81528671669062,
+  "lng": -3.77744099924375,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Ayuntamiento de Jaén"
@@ -27,5 +30,27 @@
  "fallecidos": null,
  "heridos_graves": null,
  "notas": null,
- "erail": {}
+ "erail": {},
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "acceso deficiente al paso a nivel",
+  "señalización prevista no instalada"
+ ],
+ "mitigaciones": [
+  "mejorar acceso al paso a nivel",
+  "instalar señalización prevista"
+ ],
+ "factores_humanos": [],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2009-03-24",
+ "provincia": "Jaén",
+ "pk": "137,803",
+ "linea": "402",
+ "tipo": "paso a nivel tipo A"
 }

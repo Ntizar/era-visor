@@ -56,5 +56,10 @@
   "Autorización sin exigir comprobación visual"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2021-09-06",
+ "provincia": "Barcelona",
+ "estacion": "Prat de Llobregat",
+ "linea": "200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+ "tipo": "Descarrilamiento"
 }

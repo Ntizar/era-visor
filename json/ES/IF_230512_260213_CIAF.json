@@ -13,7 +13,10 @@
   "estacion": "Tocón-Montefrío",
   "provincia": "Granada",
   "pk": "88+612",
-  "linea": "426 Granada a Fuente de Piedra"
+  "linea": "426 Granada a Fuente de Piedra",
+  "lat": 40.0746111,
+  "lng": 0.1293638,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",
@@ -42,5 +45,34 @@
   "RU involved": "RENFE-Operadora",
   "IM involved": "ADIF",
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The incident had its origin when train driver failed to comply with the indication of caution signal (stating a slow warning)."
- }
+ },
+ "subsistema": null,
+ "sistema_proteccion": "Ninguno",
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Retraso de ambos trenes",
+  "Cambio itinerario vía desviada",
+  "Maquinista no reduce velocidad"
+ ],
+ "mitigaciones": [
+  "Orden parada tren contrario",
+  "Tren no rebasa señal salida"
+ ],
+ "factores_humanos": [
+  "Percepción errónea señal avanzada",
+  "Incumplimiento orden precaución",
+  "Fallo humano en conducción"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2012-05-23",
+ "hora": "21:20",
+ "provincia": "Granada",
+ "estacion": "Tocón-Montefrío",
+ "pk": "88+612",
+ "linea": "426 Granada a Fuente de Piedra",
+ "tipo": "Incidente"
 }

@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0001/2017",
- "titulo": "Descarrilamiento en plena vía, pk 477+265, trayecto Nanclares-Manzanos (Álava), 06/01/2017",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO (DESCARRILAMIENTO) Nº 0001/2017 OCURRIDO EL DÍA 06.01.2017 EN PLENA VÍA EN EL P.K. 477+265, DEL TRAYECTO NANCLARES-MANZANOS (ÁLAVA).",
  "fecha_suceso": "2017-01-06",
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Álava",
   "pk": "477+265",
-  "linea": "Nanclares-Manzanos"
+  "linea": "Nanclares-Manzanos",
+  "lat": 42.80296278,
+  "lng": -2.82226351,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif"
@@ -51,5 +54,9 @@
   "Discrepancia entre normas y procedimientos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-01-06",
+ "provincia": "Álava",
+ "pk": "477+265",
+ "tipo": "Descarrilamiento"
 }

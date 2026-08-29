@@ -71,5 +71,12 @@
   "Mantenimiento del vallado recomendado"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-12-21",
+ "hora": "07:32",
+ "provincia": "Tarragona",
+ "estacion": "Salou",
+ "pk": "263,600",
+ "linea": "600 Valencia-San Vicente Calders",
+ "tipo": "Arrollamiento de persona"
 }

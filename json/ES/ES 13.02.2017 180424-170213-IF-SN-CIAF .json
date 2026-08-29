@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0012/2017",
- "titulo": "Accidente en paso a nivel PK 90+594, Santo Domingo-Caudilla (Toledo): tren arrolla vehículo detenido",
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0012/2017 OCURRIDO EL DÍA 13.02.2017 EN EL PASO A NIVEL CLASE A (PK 90+594) EN EL TÉRMINO MUNICIPAL DE SANTO DOMINGO-CAUDILLA (TOLEDO)",
  "fecha_suceso": "2017-02-13",
  "tipo_informe": "final",
  "tipo_suceso": "paso_a_nivel",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Toledo",
   "pk": "90+594",
-  "linea": "Línea 500 Bifurcación Planetario a Valencia de Alcántara"
+  "linea": "Línea 500 Bifurcación Planetario a Valencia de Alcántara",
+  "lat": 39.97594883929918,
+  "lng": -4.3471818329836065,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -55,5 +58,10 @@
   "Falta sensibilidad riesgo"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2017-02-13",
+ "provincia": "TOLEDO",
+ "pk": "90+594",
+ "linea": "500 Bifurcación Planetario a Valencia de Alcántara",
+ "tipo": "Accidente ferroviario"
 }

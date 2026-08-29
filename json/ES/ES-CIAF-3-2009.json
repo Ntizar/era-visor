@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "La Florida",
   "provincia": "Asturias",
-  "lat": 40.45,
-  "lng": -3.7167
+  "lat": 43.27076226,
+  "lng": -5.8111025,
+  "metodo_geo": "via_pkteorico"
  },
  "pk": "P.K.15, 057",
  "linea": "61 Gijón - Laviana",

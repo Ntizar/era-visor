@@ -49,5 +49,10 @@
   "Primer servicio de habilitación"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2016-05-28",
+ "hora": "09:50:39",
+ "provincia": "Barcelona",
+ "estacion": "Vilanova i la Geltrú",
+ "tipo": "incidente"
 }

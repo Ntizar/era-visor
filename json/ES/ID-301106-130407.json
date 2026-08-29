@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Pontevedra",
   "pk": "10,320",
-  "linea": "Redondela-Santiago de Compostela"
+  "linea": "Redondela-Santiago de Compostela",
+  "lat": 40.95017468,
+  "lng": -5.73470756,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",
@@ -68,5 +71,11 @@
   "Falta de vallado perimetral"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-30",
+ "hora": "11:15",
+ "provincia": "Pontevedra",
+ "pk": "10,320",
+ "linea": "Redondela-Santiago de Compostela",
+ "tipo": "Arrollamiento de persona"
 }

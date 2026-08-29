@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Sevilla",
   "pk": "568+250",
-  "linea": "400 Alcázar de San Juan - Cádiz"
+  "linea": "400 Alcázar de San Juan - Cádiz",
+  "lat": 37.41670486,
+  "lng": -5.9531407,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -71,5 +74,12 @@
   "Procedimientos extraordinarios poco definidos"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2010-01-10",
+ "hora": "19:49",
+ "provincia": "Sevilla",
+ "estacion": "Sevilla Santa Justa",
+ "pk": "568+250",
+ "linea": "400 Alcázar de San Juan - Cádiz",
+ "tipo": "Descarrilamiento"
 }

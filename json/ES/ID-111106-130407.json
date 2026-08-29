@@ -69,5 +69,11 @@
   "Falta de protección perimetral"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-11-11",
+ "hora": "17:23",
+ "provincia": "Barcelona",
+ "pk": "10,450",
+ "linea": "Línea 246 Castellbisball-Mollet Sant Fost",
+ "tipo": "arrollamiento de una persona"
 }

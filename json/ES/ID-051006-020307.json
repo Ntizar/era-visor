@@ -57,5 +57,12 @@
   "Actuación correcta del maquinista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2006-10-05",
+ "hora": "11:35",
+ "provincia": "Tarragona",
+ "estacion": "El Vendrell",
+ "pk": "28,570",
+ "linea": "Barcelona Sants-Sant Vicent de Calders",
+ "tipo": "Arrollamiento de una persona"
 }

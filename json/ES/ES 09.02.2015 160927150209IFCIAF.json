@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0017/2015",
- "titulo": "Arrollamiento de topera y descarrilamiento en maniobras en la estación de A Susana (A Coruña)",
+ "titulo": "Informe final de la CIAF (IFC) sobre el accidente ferroviario nº 0017/2015 ocurrido el día 09.02.2015 en la estación de A Susana (A Coruña)",
  "fecha_suceso": "2015-02-09",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -52,5 +52,10 @@
   "movimiento empujando limita visión"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-02-09",
+ "hora": "08:58:24",
+ "provincia": "A Coruña",
+ "estacion": "A Susana",
+ "tipo": "Arrollamiento de topera y descarrilamiento"
 }

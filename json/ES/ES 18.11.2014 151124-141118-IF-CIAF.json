@@ -13,7 +13,10 @@
   "estacion": "Tarragona Clasificación",
   "provincia": "Tarragona",
   "pk": "PK 0+571",
-  "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación"
+  "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",
+  "lat": 36.71535394,
+  "lng": -4.42654595,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Transfesa Rail",
@@ -50,5 +53,12 @@
   "Retraso renovación infraestructura prevista"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2014-11-18",
+ "hora": "21:17",
+ "provincia": "Tarragona",
+ "estacion": "Tarragona Clasificación",
+ "pk": "0+571",
+ "linea": "622",
+ "tipo": "Descarrilamiento"
 }

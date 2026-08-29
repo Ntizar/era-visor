@@ -13,7 +13,10 @@
   "estacion": "Les Borges del Camp",
   "provincia": "Tarragona",
   "pk": "573+750",
-  "linea": "línea 210"
+  "linea": "línea 210",
+  "lat": 43.39185047,
+  "lng": -3.46741369,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "RENFE",
@@ -50,5 +53,12 @@
   "Pruebas conjuntas con Adif"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2023-05-18",
+ "hora": "19:00",
+ "provincia": "Tarragona",
+ "estacion": "Les Borges del Camp",
+ "pk": "573+750",
+ "linea": "210",
+ "tipo": "incidente"
 }

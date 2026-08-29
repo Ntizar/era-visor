@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-699",
  "expediente": "0010/2009",
- "titulo": "Colisión lateral entre trenes de viajeros y mercancías en el túnel de Osina (Guipúzcoa)",
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2009 OCURRIDO EL DÍA 02.02.2009 ENTRE ZEGAMA OTZAURTE Y BRINKOLA",
  "fecha_suceso": "2009-02-02",
  "tipo_informe": "final",
  "tipo_suceso": "colision",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Guipúzcoa",
   "pk": "551+790",
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 42.956206659598365,
+  "lng": -2.304161344221311,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -63,5 +66,11 @@
  ],
  "factores_humanos": [],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2009-02-02",
+ "hora": "19:49",
+ "provincia": "Guipúzcoa",
+ "pk": "551+790",
+ "linea": "100 Madrid-Hendaya",
+ "tipo": "Colisión lateral"
 }

@@ -69,5 +69,12 @@
   "Falta de sensibilización ciudadana"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-05-16",
+ "hora": "09:09",
+ "provincia": "Barcelona",
+ "estacion": "Castelldefels Playa",
+ "pk": "656/750",
+ "linea": "200 Madrid-Barcelona",
+ "tipo": "Accidente ferroviario grave"
 }

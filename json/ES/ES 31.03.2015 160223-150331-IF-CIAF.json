@@ -13,7 +13,10 @@
   "estacion": "Medina del Campo",
   "provincia": "Valladolid",
   "pk": "206+831",
-  "linea": "Línea 100 Madrid – Hendaya"
+  "linea": "Línea 100 Madrid – Hendaya",
+  "lat": 41.32042407206,
+  "lng": -4.90904766502,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Continental Rail",
@@ -53,5 +56,12 @@
   "Falta de auscultación del escape"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-03-31",
+ "hora": "03:37",
+ "provincia": "Valladolid",
+ "estacion": "Medina del Campo",
+ "pk": "206+831",
+ "linea": "100 Madrid – Hendaya",
+ "tipo": "descarrilamiento"
 }

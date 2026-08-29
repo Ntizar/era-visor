@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "70/2022",
- "titulo": "Incidente operacional con riesgo de colisión en la estación de Manresa (Barcelona)",
+ "titulo": "Incidente operacional con riesgo de colisión ocurrido el 15 de agosto de 2022 en la estación de Manresa (Barcelona)",
  "fecha_suceso": "2022-08-15",
  "tipo_informe": "final",
  "tipo_suceso": "otro",
@@ -57,5 +57,11 @@
   "Comunicaciones incorrectas entre agentes"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2022-08-15",
+ "hora": "18:41",
+ "provincia": "Barcelona",
+ "estacion": "Manresa",
+ "linea": "línea 220 – Lleida-Pirineus– Bifurcación Vilanova",
+ "tipo": "Incidente operacional con riesgo de colisión"
 }

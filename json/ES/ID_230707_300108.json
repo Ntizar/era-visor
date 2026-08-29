@@ -13,7 +13,10 @@
   "estacion": "Bell-Lloc d'Urgell",
   "provincia": "Lleida",
   "pk": "196,070",
-  "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat"
+  "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat",
+  "lat": 41.63162863,
+  "lng": 0.77346763,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif"
@@ -62,5 +65,12 @@
   "no percatarse de la llegada del tren"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-07-23",
+ "hora": "09:39",
+ "provincia": "Lleida",
+ "estacion": "Bell-Lloc d'Urgell",
+ "pk": "196,070",
+ "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat",
+ "tipo": "Arrollamiento de una persona"
 }

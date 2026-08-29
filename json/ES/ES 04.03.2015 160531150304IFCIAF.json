@@ -13,7 +13,10 @@
   "estacion": "Puerto de Navacerrada / Apeadero de Collado Albo",
   "provincia": "Madrid",
   "pk": "7+855",
-  "linea": "Línea 116 Los Cotos - Cercedilla"
+  "linea": "Línea 116 Los Cotos - Cercedilla",
+  "lat": 40.764579152126124,
+  "lng": -4.025053012522522,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Viajeros",
@@ -55,5 +58,12 @@
   "Falta de seguimiento de no conformidades"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2015-03-04",
+ "hora": "19:17",
+ "provincia": "Madrid",
+ "estacion": "Puerto de Navacerrada",
+ "pk": "7+855",
+ "linea": "116 Los Cotos - Cercedilla",
+ "tipo": "Descarrilamiento"
 }

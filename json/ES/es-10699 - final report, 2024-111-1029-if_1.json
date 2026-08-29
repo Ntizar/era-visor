@@ -79,5 +79,11 @@
   "Diseminación deficiente del procedimiento"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2024-10-29",
+ "hora": "12:10",
+ "provincia": "Málaga",
+ "pk": "124/573",
+ "linea": "030 Málaga High-Speed Junction – Málaga María Zambrano",
+ "tipo": "Colisión de tren con obstáculo y descarrilamiento"
 }

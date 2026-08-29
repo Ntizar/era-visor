@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": "ES-246",
  "expediente": "025/2007",
- "titulo": "Arrollamiento de un turismo por tren en paso a nivel de Catoira-Puentecesures (Pontevedra)",
+ "titulo": "Arrollamiento de un vehículo automóvil por tren en paso a nivel en el trayecto Catoira-Puentecesures (Pontevedra)",
  "fecha_suceso": "2007-04-25",
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Pontevedra",
   "pk": "66,722",
-  "linea": "824 Redondela-Santiago de Compostela"
+  "linea": "824 Redondela-Santiago de Compostela",
+  "lat": 42.704636841584616,
+  "lng": -8.733244909687693,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe-Operadora",
@@ -74,5 +77,11 @@
  "meteorologia": [
   "luz natural"
  ],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2007-04-25",
+ "hora": "13:05",
+ "provincia": "Pontevedra",
+ "pk": "66/722",
+ "linea": "824 Redondela-Santiago de Compostela",
+ "tipo": "Arrollamiento"
 }

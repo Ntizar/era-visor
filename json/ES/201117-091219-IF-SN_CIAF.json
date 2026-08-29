@@ -5,7 +5,7 @@
  "url_pdf": null,
  "erail_id": null,
  "expediente": "0063/2019",
- "titulo": "Rebase indebido de la señal E1 en la estación de Cornellá (Barcelona)",
+ "titulo": "Informe Final de la CIAF (IF) sobre el incidente ferroviario nº 0063/2019 ocurrido el día 09.12.2019 en la estación de Cornellá (Barcelona)",
  "fecha_suceso": "2019-12-09",
  "tipo_informe": "final",
  "tipo_suceso": "fallos_senal",
@@ -56,5 +56,9 @@
   "Percepción errónea de la señalización"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2019-12-09",
+ "provincia": "Barcelona",
+ "estacion": "Cornellá",
+ "tipo": "incidente"
 }

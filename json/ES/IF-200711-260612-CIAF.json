@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Toledo",
   "pk": "66+480",
-  "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara"
+  "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+  "lat": 39.95964291815126,
+  "lng": -4.089643018302521,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
@@ -47,5 +50,37 @@
   "Total fatalities": 1,
   "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "The accident had its origin when the operator was standing in the clareance gauge while the train was passing by due to the non-compliance of the regulatory standards for this kind of works. \nEl accidente tuvo su origen al estar el operario dentro del gálibo de la vía en el momento en que pasaba el tren 17016, por incumplirse lo establecido en la normativa reglamentaria para este tipo de trabajos.",
   "Underlying and root causes description (i.e. systemic factors, if any)": " \n"
- }
+ },
+ "subsistema": "Mantenimiento",
+ "sistema_proteccion": null,
+ "tipo_red": "Media Distancia",
+ "explotacion": "Nominal",
+ "circulation_type": "via_unica",
+ "fase_ciclo_vida": "Mantenimiento",
+ "precursores": [
+  "operario dentro del gálibo",
+  "incumplimiento normativa trabajos en vía",
+  "acta no recogía modificación diurna",
+  "sin bloqueo ni interrupción circulación"
+ ],
+ "mitigaciones": [
+  "maquinista observa operarios",
+  "uso silbato por maquinista",
+  "aplicación freno de urgencia",
+  "velocidad inferior máxima permitida"
+ ],
+ "factores_humanos": [
+  "trabajador invade gálibo",
+  "incumplimiento reglamentario trabajos",
+  "acta semanal no actualizada",
+  "supervisión insuficiente seguridad"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2011-07-20",
+ "hora": "16:25",
+ "provincia": "Toledo",
+ "pk": "66+480",
+ "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+ "tipo": "Arrollamiento"
 }
