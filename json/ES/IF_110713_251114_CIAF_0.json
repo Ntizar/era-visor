@@ -34,10 +34,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No detenerse ante señal roja",
-  "Aplicar freno de emergencia tardío",
-  "Continuar marcha tras anuncio parada",
-  "No reducir velocidad suficiente"
+  "El maquinista intentaba apurar el espacio disponible para no entorpecer la circulación, con una composición de 537 metros más la máquina, y declaró desconocer la longitud de la vía.",
+  "La aplicación del freno de emergencia a 115 metros de la señal S2/4A, cuando el tren circulaba a 30 km/h, no fue suficiente para detenerse antes de la señal.",
+  "La longitud total del tren (557 m) impedía que pudiera quedar alojado en las vías de la estación sin ocupar el circuito de agujas de entrada."
  ],
  "mitigaciones": [
   "Aplicación de freno de emergencia",
@@ -51,7 +50,9 @@
   "Reconocimiento tardío de peligro",
   "No anticipar parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-07-11",
  "hora": "19:59",

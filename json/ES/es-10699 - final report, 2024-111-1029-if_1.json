@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Málaga",
   "pk": "124/573",
-  "linea": "Línea 030 Málaga Alta Velocidad – Málaga María Zambrano"
+  "linea": "Línea 030 Málaga Alta Velocidad – Málaga María Zambrano",
+  "lat": 36.80335135694504,
+  "lng": -4.6659909961260775,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Viajeros",

@@ -13,7 +13,11 @@
   "estacion": "Boñar",
   "provincia": "León",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 42.86269071630539,
+  "lng": -5.32860514338468,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Boñar"
  },
  "entidades": [
   "Renfe Operadora",
@@ -37,10 +41,10 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "Autorización de maniobra con bloqueo telefónico",
-  "Prueba de rendimiento del motor",
-  "Falta de atención en conducción",
-  "Aplicación tardía del freno"
+  "El jefe de circulación de Boñar autorizó la maniobra por la banda de La Losilla sabiendo que se iba a establecer bloqueo telefónico entre Cistierna y Boñar para el tren 71490 y conociendo al menos parcialmente que la maniobra implicaba superar los 10 km/h.",
+  "El jefe de maquinistas no contactó de forma inmediata con el puesto de mando de Bilbao, informando antes al CGO de Santander, lo que retrasó una actuación que posiblemente habría evitado el conato de colisión.",
+  "La avería inoportuna del frenado de urgencia de la UT 2903 al aplicar la seta de urgencia, que provocó la inmovilización total del vehículo en plena vía.",
+  "La emisora del tren 71490 no emitía por ningún canal, dificultando la comunicación inmediata con el puesto de mando y con las estaciones."
  ],
  "mitigaciones": [
   "Parada voluntaria del tren 71490",
@@ -54,7 +58,9 @@
   "Autorización de maniobra no segura",
   "Retraso en informar al puesto de mando"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Era de día y había buena visibilidad; condiciones atmosféricas buenas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2016-07-18",
  "provincia": "León",

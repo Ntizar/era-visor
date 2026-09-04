@@ -55,9 +55,10 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "circular con exceso de velocidad",
-  "aplicar tracción de forma permanente",
-  "circular en pendiente favorable"
+  "Exceso de velocidad sostenido superior a 50 km/h antes del punto de descarrilamiento.",
+  "Curva a izquierdas de radio aproximado 110 metros con limitación permanente de velocidad a 40 km/h.",
+  "Tracción permanente y circulación en pendiente en el sentido de la marcha.",
+  "Declaración del maquinista sobre pérdida de consciencia en el túnel, no confirmada como causa por el informe."
  ],
  "mitigaciones": [
   "locomotoras permanecieron encarriladas",
@@ -71,7 +72,9 @@
   "incumplimiento límite de velocidad",
   "revisión de ruedas no realizada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Nublado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-01-31",
  "hora": "15:36",

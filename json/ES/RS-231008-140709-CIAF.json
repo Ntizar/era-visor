@@ -13,7 +13,11 @@
   "estacion": "Villalba de Guadarrama",
   "provincia": null,
   "pk": null,
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 40.62647592568803,
+  "lng": -4.00806880826086,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Villalba de Guadarrama"
  },
  "entidades": [
   "Comsa Rail Transport",

@@ -52,10 +52,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No reducir ante anuncio de parada",
-  "Aumentar velocidad tras señal amarilla",
-  "Aplicar freno de urgencia tardíamente",
-  "Rebasar señal de entrada E1"
+  "El tren sobrepasó la señal de entrada E1 (anuncio de parada) a 71 km/h, incumpliendo el artículo 213 del RGC y la Carta Circular de Reglamentación nº 11.",
+  "Recorrido de 647 metros con aumento de velocidad hasta 76 km/h tras el reconocimiento del amarillo, sin reducir adecuadamente.",
+  "El maquinista declaró despistarse con la señal de entrada.",
+  "La señal de salida S1/1 no disponía de baliza ASFA previa, solo baliza a pie de señal."
  ],
  "mitigaciones": [
   "ASFA aplicó freno de urgencia",
@@ -69,7 +69,9 @@
   "Influencia de procesos psicológicos",
   "Formación en cumplimiento normativo"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, llovía débilmente."
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-12-11",
  "hora": "21:32",

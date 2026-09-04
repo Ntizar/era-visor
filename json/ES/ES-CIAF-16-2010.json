@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Logroño",
   "provincia": "La Rioja",
-  "lat": 42.054813,
-  "lng": -1.593009
+  "lat": 42.45760393065442,
+  "lng": -2.4407558626572436,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 76+396 (Señal de salida S1/4)",
  "linea": "700 Casetas - Intermodal Abando Indalecio Prieto",

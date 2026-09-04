@@ -13,7 +13,11 @@
   "estacion": "Villarreal",
   "provincia": "Castellón",
   "pk": "62,363",
-  "linea": "Línea 600 Valencia-Tarragona"
+  "linea": "Línea 600 Valencia-Tarragona",
+  "lat": 41.19613164120046,
+  "lng": -1.2869911143059072,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de Villarreal de Huerva"
  },
  "entidades": [
   "ADIF",

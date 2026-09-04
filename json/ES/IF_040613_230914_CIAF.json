@@ -54,9 +54,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Bloqueo incorrecto de vía I por error humano",
-  "Establecimiento itinerario tren vía bloqueada",
-  "No cierre previo señal salida vía afectada"
+  "Cierre intempestivo de la señal 642 al colocar el encargado de trabajos la barra de shuntado mientras el tren pasaba por la baliza previa",
+  "Elevada carga de trabajo del puesto de CTC con picos muy acusados (trenes de mercancías, maniobras en muchas estaciones, cortes de trabajo en distintos trayectos, complejidad de ciertas estaciones), lo que lleva a cierto grado de saturación",
+  "La Consigna C Experimental nº 58 no exigía el uso obligatorio de barra de shuntado para este tipo de trabajos"
  ],
  "mitigaciones": [
   "Colocación barra shuntado trabajos",
@@ -68,7 +68,9 @@
   "Error identificación vía a bloquear",
   "Cumplimiento normativa personal implicado"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Era de noche. No existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-06-04",
  "hora": "00:30:34",

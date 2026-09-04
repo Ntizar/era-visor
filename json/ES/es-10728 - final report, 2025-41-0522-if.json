@@ -56,10 +56,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Cierre intempestivo de la señal",
-  "Comunicación errónea al tren equivocado",
-  "No verificación del aspecto de señal",
-  "No detección del talonamiento"
+  "Falta de verificación del estado de la señal por el maquinista del 18079 antes de reanudar la marcha.",
+  "Error en la comunicación del cierre de la señal S1/1: el RC contactó al tren 18078 en lugar del 18079.",
+  "Ausencia de confirmación de la ubicación y del nombre de la señal S1/1 en las comunicaciones entre maquinista del 18078 y el RC.",
+  "No observación por el maquinista del 18079 del cambio a aspecto de parada de la señal S1/1.",
+  "Falta de experiencia del maquinista del 18079 en la identificación del talonamiento de la aguja 6.",
+  "Situación de borde de banda que dificulta al RC anticipar la planificación de adelantamientos de trenes en orden inverso."
  ],
  "mitigaciones": [
   "Detección temprana del talonamiento",
@@ -73,7 +75,9 @@
   "Falta de experiencia en talonamiento",
   "Protocolos de comunicación inconsistentes"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas favorables; visibilidad propia del periodo inmediatamente posterior a la puesta del sol, con iluminación natural residual."
+ ],
  "enriquecido_v2": true,
  "fecha": "2025-05-22",
  "hora": "21:53",

@@ -13,7 +13,10 @@
   "estacion": "Apeadero de Ciaño",
   "provincia": "Asturias",
   "pk": "19/338",
-  "linea": "Soto de Rey a El Entrego"
+  "linea": "Soto de Rey a El Entrego",
+  "lat": 43.39780994,
+  "lng": -5.70309225,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

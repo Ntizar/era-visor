@@ -13,7 +13,11 @@
   "estacion": "Villaverde de Pontones",
   "provincia": "Cantabria",
   "pk": "551+254",
-  "linea": "24 Santander - Bilbao"
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.41131917980821,
+  "lng": -3.703613422609303,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de Villaverde de Pontones"
  },
  "entidades": [
   "FEVE"

@@ -52,10 +52,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebase indebido señal parada",
-  "Comunicación operaciones terminadas incorrecta",
-  "Retroceso sin autorización",
-  "No informar suceso inmediatamente"
+  "Visibilidad dificultada de la señal 1S/I desde el andén y el punto de parada por los pilares de la marquesina y la curva a derechas en sentido de la marcha.",
+  "Interpretación errónea del maquinista del tren 620 al confundir la señal 1S/II, en vía libre, con la señal propia 1S/I.",
+  "La señal 1S/I disponía de baliza de pie de señal, pero no de baliza previa.",
+  "El agente de acompañamiento comunicó operaciones terminadas al maquinista estando la señal de salida 1S/I en indicación de parada.",
+  "Fallo del dispositivo de mando de operaciones terminadas, lo que obligó a realizar la comunicación por teléfono."
  ],
  "mitigaciones": [
   "Activación freno urgencia ASFA",
@@ -68,7 +69,9 @@
   "Fallo humano conducción",
   "Visibilidad limitada señal curva"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, tiempo despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-09-30",
  "hora": "08:09",

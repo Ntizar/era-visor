@@ -65,7 +65,9 @@
   "Falta adecuación a señales",
   "No recordar causa frenada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-07-05",
  "hora": "11:56",

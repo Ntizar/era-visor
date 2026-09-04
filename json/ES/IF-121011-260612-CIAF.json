@@ -56,10 +56,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "fallo técnico cambio nº5",
-  "autorización rebase itinerario inexistente",
-  "desconocimiento ancho desvío UIC",
-  "telefonema sin especificar posición"
+  "Fallo técnico del cambio nº5, que no daba comprobación a posición normal y impedía el itinerario a vía 2.",
+  "El jefe del CTC autorizó un rebase sobre un itinerario inexistente para el ancho del tren.",
+  "El jefe del CTC no especificó la posición que debían presentar los aparatos de vía en la autorización de rebase, incumpliendo el Aviso nº43 de la DSC de Adif.",
+  "El jefe del CTC no percibió que el escape 5/7 era exclusivamente de ancho UIC y no especificó el itinerario definitivo por vía 2.",
+  "El maquinista transitó por un tramo con interrupción total para el material rodante que conducía.",
+  "El maquinista desconocía que el cambio nº5 era de ancho UIC."
  ],
  "mitigaciones": [
   "velocidad inferior a máxima permitida",
@@ -71,7 +73,9 @@
   "maquinista desconoce detalle desvío",
   "gestión inadecuada fallo técnico"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Era de día y no existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-10-12",
  "hora": "17:40",

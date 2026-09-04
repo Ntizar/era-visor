@@ -47,9 +47,9 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebase de señal en parada",
-  "No aplicar marcha a la vista",
-  "Circuito de vía ocupado"
+  "Visibilidad limitada en el interior del túnel en curva pronunciada con iluminación artificial.",
+  "El maquinista del tren 28913 declaró ser alérgico y haber estornudado varias veces momentos antes de la colisión, lo que pudo influir en su tiempo de reacción.",
+  "El túnel estaba insuficientemente iluminado, según declaración del maquinista del tren 28913."
  ],
  "mitigaciones": [
   "Velocidades inferiores a máxima permitida",
@@ -62,7 +62,7 @@
   "Visibilidad limitada en túnel"
  ],
  "meteorologia": [
-  "luz artificial"
+  "No afecta al accidente, que ocurre en el interior de un túnel."
  ],
  "enriquecido_v2": true,
  "fecha": "2011-04-28",

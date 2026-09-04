@@ -13,7 +13,11 @@
   "estacion": null,
   "provincia": "Tarragona",
   "pk": null,
-  "linea": "Línea 210 (tramo Flix-Reus)"
+  "linea": "Línea 210 (tramo Flix-Reus)",
+  "lat": 41.10207929422881,
+  "lng": 0.7803393959222966,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de Capçanes (APD)"
  },
  "entidades": [
   "Adif"

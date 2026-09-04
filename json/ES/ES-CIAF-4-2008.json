@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Llinars del Vallés",
   "provincia": "Barcelona",
-  "lat": 41.6396,
-  "lng": 2.4016
+  "lat": 41.64428171853211,
+  "lng": 2.415786751559633,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 148/000",
  "linea": "270 Barcelona-Cerbere",

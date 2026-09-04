@@ -44,10 +44,18 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "tren estacionado en via sin salida",
-  "ruta incorrecta hacia via sin seÃ±al de salida",
-  "maquinista no detuvo completamente tren",
-  "falta de comunicaciÃ³n con CTC"
+  "El RC de Manresa no llevó a cabo la comprobación de que alguna señal de salida del mismo lado ordenaba vía libre, ni comprobó fehacientemente el itinerario de salida (incumplimiento del RCF art. 4.2.1.3, punto 2, párrafos a y b).",
+  "El RC de Manresa no se percató de que la sonería de proximidad y los visores de ocupación correspondían al tren 15624 circulando a contravía.",
+  "El maquinista del 15624 prosiguió circulando a contravía sin amparo del BAD y sin haber recibido la notificación L.4.32, sin detenerse ni comunicar con el RC.",
+  "La RC del CTC no detectó la anormal secuencia a contravía, realizando suposiciones (falsa ocupación) sin verificar adecuadamente la circulación.",
+  "El RC de Manresa no comunicó al CTC la salida del 15624 ni la alteración del orden de salida hasta varios minutos después.",
+  "Ambos RC supusieron que la ocupación era una falsa ocupación de circuito de vía, explicación más probable que un tren a contravía.",
+  "El sistema videográfico del CTC permite asignar manualmente un número ya asignado a otro tren, lo que facilitó la confusión.",
+  "La asignación de vías en el libro de paso variaba respecto a la programación de 2017, condicionando que el 15624 pasase por la vía 1 sin señal de salida.",
+  "La práctica reiterada de expedir trenes desde vía 1 sin abrir señal de salida del mismo lado no fue detectada ni corregida por los procedimientos de Inspección y Vigilancia del SGS.",
+  "La vía 1 de Manresa carece de señal de salida por el lado Barcelona pese a ser cabecera de Cercanías y estación de paso de Media Distancia.",
+  "La configuración de la estación de Manresa dificulta la observación directa de las señales de salida desde el gabinete de circulación.",
+  "La carga de trabajo elevada de la RC del CTC por la avería en Plaça Catalunya y los cruces alterados en Terrassa."
  ],
  "mitigaciones": [
   "activaciÃ³n plan contingencias ferroviarias",
@@ -60,7 +68,9 @@
   "deficiencias formaciÃ³n personal",
   "supervisiÃ³n insuficiente operaciones"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas buenas. El suceso se produjo al atardecer, poco después de la puesta del sol (tres minutos tras el ocaso). Condiciones atmosféricas normales según los maquinistas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2019-02-08",
  "provincia": "Barcelona",

@@ -64,7 +64,9 @@
   "Víctima transitó sin autorización",
   "Conocimiento del lugar por víctima"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-10-14",
  "hora": "14:46",

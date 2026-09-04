@@ -52,10 +52,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Tren con motor parado",
-  "Maquinista atento al panel",
-  "No reduce velocidad en anuncio",
-  "Rebasa baliza previa a alta velocidad"
+  "Distracción del maquinista por la atención al panel de control y a los problemas del motor.",
+  "Avería recurrente del motor 1 con paradas y fuga de gasoil durante el trayecto.",
+  "No reducir la velocidad tras rebasar la baliza previa de la señal avanzada E'2 en anuncio de parada.",
+  "Pasar por la baliza previa de la señal E2 a 122 km/h, superando la velocidad de control de 60 km/h.",
+  "Banalización de la vía 2 por trabajos de una vagoneta de mantenimiento en la vía 1.",
+  "Aguja A8 en posición invertida, que comunicaba la vía 2 con la vía 4 y coincidía con el itinerario del PD601."
  ],
  "mitigaciones": [
   "Frenado de urgencia ASFA",
@@ -69,7 +71,9 @@
   "Fallo humano en conducción",
   "No inicia frenado ante parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-03-07",
  "hora": "13:15",

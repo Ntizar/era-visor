@@ -52,9 +52,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "avería junta aislante circuito vía A6",
-  "expedición con autorización rebase",
-  "entrega indebida boletín autorización"
+  "Avería en junta aislante del circuito de vía A6 que provocó ocupación artificial y obligó a expedir trenes con autorización de rebase",
+  "Deficiencias en las comunicaciones por radioteléfonos portátiles entre agente y jefe de circulación (interferencias, solapamiento de conversaciones, problema recurrente en Atocha)",
+  "Instrucciones confusas y cambiantes del jefe de circulación a la agente (orden de ir a vía 4C, luego volver a vía 1-2, luego nuevamente a vía 4C)",
+  "Falta de confirmación por parte de la agente de circulación de las instrucciones recibidas antes de expedir el tren",
+  "BAR indicaba itinerario por vía I pero el tren se encaminó por vía II hacia Recoletos"
  ],
  "mitigaciones": [
   "parada tren ante señal entrada",

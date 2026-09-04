@@ -13,7 +13,11 @@
   "estacion": "Sant Celoni",
   "provincia": null,
   "pk": null,
-  "linea": "Línea 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal"
+  "linea": "Línea 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "lat": 41.68575456964276,
+  "lng": 2.490717576267924,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Sant Celoni"
  },
  "entidades": [
   "Adif",
@@ -52,10 +56,11 @@
  "circulation_type": null,
  "fase_ciclo_vida": "Mantenimiento",
  "precursores": [
-  "Incumplimiento consigna ATO/91-CTO/92",
-  "Circuitos de vía no reajustados",
-  "Señales afectadas no en parada",
-  "Falta coordinación entre departamentos"
+  "Manipulación errónea en la cabina del enclavamiento por algún operario de la empresa instaladora, dando aspecto amarillo a la señal avanzada sin tener el circuito de vía en funcionamiento",
+  "Falta de coordinación entre las diferentes personas implicadas en la ejecución de los trabajos y los responsables del mantenimiento de la circulación",
+  "No se encontraba en la cabina del enclavamiento ninguna persona de Adif supervisando el trabajo del personal de la empresa instaladora",
+  "La consigna ATO nº 91-CTO nº 92 no especificaba claramente quién era la única persona interlocutora con el Jefe de Circulación ni cómo se aseguraba la coordinación",
+  "Deficiencia en el accionamiento de los sistemas de control, mando y señalización"
  ],
  "mitigaciones": [
   "Establecer bloqueo telefónico",
@@ -69,7 +74,9 @@
   "Incumplimiento de consigna",
   "Responsabilidad de comunicaciones difusa"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-07-04",
  "hora": "21:59",

@@ -13,7 +13,11 @@
   "estacion": "Zaragoza Delicias",
   "provincia": "Zaragoza",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.65868294796719,
+  "lng": -0.9107746835482805,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Zaragoza Delicias"
  },
  "entidades": [
   "Renfe Operadora"

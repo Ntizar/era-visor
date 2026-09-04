@@ -49,9 +49,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No detenerse ante señal roja",
-  "Frenado tardío a 115 metros",
-  "Velocidad excesiva al acercarse"
+  "El maquinista intentaba apurar el espacio de la vía para no entorpecer la circulación de otros trenes, dado que el tren de 557 m no cabía en ninguna vía de la estación y por cola ocupaba el circuito de agujas de entrada.",
+  "Percepción del maquinista de una reacción lenta del sistema de freno sobre la composición larga (27 vagones, 714 t).",
+  "Aplicación del freno de emergencia a solo 115 m de la señal, a 30 km/h, distancia insuficiente para detener una composición de 557 m y 714 t."
  ],
  "mitigaciones": [
   "Aplicación inmediata freno emergencia",
@@ -63,7 +63,9 @@
   "Error humano en conducción",
   "Gestión fallo humano Renfe Operadora"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-07-11",
  "hora": "19:59",

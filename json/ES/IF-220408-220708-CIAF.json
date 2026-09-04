@@ -68,7 +68,9 @@
   "Actuación correcta del maquinista",
   "Alcoholemia negativa del maquinista"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones atmosféricas buenas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-04-22",
  "hora": "14:03",

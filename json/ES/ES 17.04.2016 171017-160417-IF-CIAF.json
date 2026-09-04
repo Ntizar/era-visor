@@ -13,7 +13,11 @@
   "estacion": "Hernani",
   "provincia": "Guipúzcoa",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 43.27251412709156,
+  "lng": -1.9637417916863846,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Hernani"
  },
  "entidades": [
   "Adif"

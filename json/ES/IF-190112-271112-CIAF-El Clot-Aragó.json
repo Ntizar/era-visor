@@ -51,9 +51,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebaso señal permisiva parada",
-  "Parada comercial en apeadero",
-  "Tren detenido ante señal absoluta"
+  "Visibilidad limitada en el túnel por escasa anchura, curva cerrada e iluminación artificial.",
+  "El tren 25652 prefijó la velocidad a 33 km/h y alcanzó 39 km/h tras salir del apeadero.",
+  "Según la declaración del maquinista, el Asfa analógico no recuerda la indicación de las señales después de una parada prolongada.",
+  "El cambio de BAD a BAB en junio de 2011 reubicó señales y produjo un recantonamiento más corto, colocando el apeadero entre una señal permisiva y otra absoluta."
  ],
  "mitigaciones": [
   "Velocidad inferior a máxima permitida",

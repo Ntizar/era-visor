@@ -13,7 +13,11 @@
   "estacion": "Lieres",
   "provincia": null,
   "pk": null,
-  "linea": "Línea 21 Oviedo-Santander"
+  "linea": "Línea 21 Oviedo-Santander",
+  "lat": 43.38049154720793,
+  "lng": -5.5825998724165,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Lieres"
  },
  "entidades": [
   "Feve"
@@ -36,7 +40,11 @@
  "explotacion": "Degradada",
  "circulation_type": null,
  "fase_ciclo_vida": null,
- "precursores": [],
+ "precursores": [
+  "Deficiencias en los sistemas de comunicación entre los maquinistas y el CTC",
+  "Falta de cumplimiento de los procedimientos establecidos para el registro de las comunicaciones (telefonemas escritos)",
+  "Falta de atención debida en la conducción en circunstancias de anormalidad"
+ ],
  "mitigaciones": [
   "Comprobación de sistemas de comunicación",
   "Auditoría de procedimientos de registro",

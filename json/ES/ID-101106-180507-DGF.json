@@ -13,7 +13,11 @@
   "estacion": "Apeadero de Camallera",
   "provincia": "Barcelona",
   "pk": "231,500",
-  "linea": "Línea 270 Barcelona-Portbou"
+  "linea": "Línea 270 Barcelona-Portbou",
+  "lat": 42.1223151279422,
+  "lng": 2.9653769833804136,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de Camallera (APD)"
  },
  "entidades": [
   "Renfe",

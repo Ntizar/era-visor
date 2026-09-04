@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Entre las estaciones de Montefurado y A Rúa Petín",
   "provincia": "Orense",
-  "lat": 39.9372616,
-  "lng": -0.1004465
+  "lat": 42.39154456388482,
+  "lng": -7.121087454789105,
+  "metodo_geo": "via_pk"
  },
  "pk": "310/412",
  "linea": "800 León-La Coruña",

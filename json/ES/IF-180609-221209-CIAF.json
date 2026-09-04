@@ -52,10 +52,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebase indebido de senal de salida",
-  "No respetar orden de parada",
-  "No comunicar con puesto de mando",
-  "Retroceder sin autorizacion reglamentaria"
+  "Incumplimiento del artículo 217 del Reglamento General de Circulación al rebasar la señal en parada.",
+  "No ponerse en contacto con el agente que tenía la señal a su cargo tras el rebase, pese al intento, incumpliendo el artículo 279 del RGC.",
+  "Retroceso por iniciativa del maquinista hasta delante de la señal de salida S1/10 sin autorización reglamentaria, incumpliendo el artículo 475 del RGC.",
+  "Posible cierre intempestivo, según la opinión del maquinista del tren 27209."
  ],
  "mitigaciones": [
   "Actuacion del sistema ASFA",
@@ -69,7 +69,9 @@
   "Influencia de procesos psicologicos",
   "Necesidad de reforzar formacion"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-06-18",
  "hora": "08:20",

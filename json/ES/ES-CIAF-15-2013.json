@@ -11,7 +11,11 @@
  "gravedad": "muy grave",
  "ubicacion": {
   "estacion": "Coslada",
-  "provincia": "Madrid"
+  "provincia": "Madrid",
+  "lat": 40.42373606109871,
+  "lng": -3.561192364203252,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Tren de Coslada / Estación de Metro de Coslada Central"
  },
  "pk": null,
  "linea": null,

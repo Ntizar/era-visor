@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Valencia",
   "pk": "4/465",
-  "linea": "Línea 310 Aranjuez - Valencia"
+  "linea": "Línea 310 Aranjuez - Valencia",
+  "lat": 41.64115425,
+  "lng": -1.04477843,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

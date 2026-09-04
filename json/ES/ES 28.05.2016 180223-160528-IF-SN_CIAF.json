@@ -13,7 +13,11 @@
   "estacion": "Vilanova i la Geltrú",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.2202975990391,
+  "lng": 1.7308048458270808,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Vilanova i La Geltru"
  },
  "entidades": [
   "ADIF",
@@ -36,10 +40,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Pasar señal E1 en amarillo",
-  "No ponerse en disposición de parar",
-  "Retraso de catorce minutos",
-  "Primer servicio de habilitación"
+  "Circular con 14 minutos de retraso sobre el horario previsto.",
+  "Ser el primer servicio del maquinista con la habilitación correspondiente.",
+  "No tener parada comercial prescrita en la estación de Vilanova i la Geltrú.",
+  "Aumentar la tracción tras la señal E1 en anuncio de parada en lugar de disponerse a parar ante la siguiente señal."
  ],
  "mitigaciones": [],
  "factores_humanos": [
@@ -48,7 +52,9 @@
   "Falta de atención o exceso de confianza",
   "Primer servicio de habilitación"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Horas diurnas, algo nublado, sin condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2016-05-28",
  "hora": "09:50:39",

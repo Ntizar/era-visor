@@ -13,7 +13,11 @@
   "estacion": "Astillero",
   "provincia": "Cantabria",
   "pk": "540+782",
-  "linea": "Línea 24 Santander - Bilbao"
+  "linea": "Línea 24 Santander - Bilbao",
+  "lat": 43.40391300860647,
+  "lng": -3.8208257437133573,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Astillero"
  },
  "entidades": [
   "Feve"
@@ -49,10 +53,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Retraso en salida del tren",
-  "Cambio de cruce en Astillero",
-  "Desconocimiento del cambio por conductor",
-  "Aumento velocidad tras aviso parada"
+  "El retraso del tren 6803 motivó alterar el cruce con el tren 6414 en Astillero, habitualmente establecido en Heras.",
+  "El personal de conducción del tren 6803 no tuvo conocimiento de la alteración del cruce; según su declaración, nadie del CTC se puso en contacto para informarle.",
+  "El maquinista reconoció la indicación de aviso de parada de la señal S1/1, pero incrementó la velocidad hasta 64,8 km/h.",
+  "La distancia de visibilidad de la señal S1/1L era de 210 m y el frenado se inició a una distancia inferior, de 170 m.",
+  "La deceleración del frenado de emergencia fue algo menor que la establecida en la NBSM, posiblemente por el carril húmedo y la lluvia.",
+  "El carril estaba mojado y no había arenado, según la declaración del maquinista."
  ],
  "mitigaciones": [
   "Frenado de urgencia ASFA activado",
@@ -66,7 +72,9 @@
   "No reducir velocidad ante aviso",
   "Reconocimiento tardío de señal parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "lluvioso y nublado; carril mojado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-10-27",
  "hora": "14:25",

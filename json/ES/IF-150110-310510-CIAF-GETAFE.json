@@ -52,8 +52,8 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "víctima cruza vía no habilitada",
-  "tren circula sin parada prescrita"
+  "La víctima no hizo uso del paso a distinto nivel (paso superior) dispuesto para tal fin",
+  "Inmediatez del hecho que impidió al maquinista evitar el impacto pese a activar silbato y freno de emergencia"
  ],
  "mitigaciones": [
   "maquinista aplica freno emergencia",
@@ -63,7 +63,9 @@
   "comportamiento imprudente víctima",
   "no uso paso superior existente"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche (en el momento del arrollamiento era de noche)"
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-01-15",
  "hora": "21:06",

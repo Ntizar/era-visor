@@ -13,7 +13,11 @@
   "estacion": "Vacarisses",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "Línea 220 Lleida Pirineus - L'Hospitalet de Llobregat"
+  "linea": "Línea 220 Lleida Pirineus - L'Hospitalet de Llobregat",
+  "lat": 41.60189003213619,
+  "lng": 1.894037061232588,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de Vacarisses (APD)"
  },
  "entidades": [
   "Adif",

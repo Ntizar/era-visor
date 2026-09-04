@@ -13,7 +13,11 @@
   "estacion": "Elx Parc",
   "provincia": "Alicante",
   "pk": null,
-  "linea": "336 El Reguerón a Alacant Terminal"
+  "linea": "336 El Reguerón a Alacant Terminal",
+  "lat": 41.5712427103309,
+  "lng": 2.089973378804382,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Sabadell Parc del Nord"
  },
  "entidades": [
   "Adif"

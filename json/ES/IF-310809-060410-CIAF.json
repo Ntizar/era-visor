@@ -52,10 +52,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Aumento velocidad tras anuncio parada",
-  "No preparación para frenar",
-  "Exceso velocidad baliza previa",
-  "Incumplimiento órdenes señales"
+  "No activación por ASFA de emergencia (L8) al paso por la baliza previa de la señal de entrada E2.",
+  "Aumento de velocidad del tren 20072 tras pasar la señal avanzada en anuncio de parada.",
+  "Paso por la baliza previa de E2 a 96 km/h, superior a 60 km/h.",
+  "Aplicación del freno de emergencia por el maquinista dos segundos después del control de velocidad."
  ],
  "mitigaciones": [
   "Frenado emergencia ASFA pie señal",
@@ -69,7 +69,9 @@
   "Procesos psicológicos conducción",
   "Verificación aptitud personal"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-08-31",
  "hora": "18:14",

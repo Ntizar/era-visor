@@ -50,10 +50,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Aumentar velocidad tras señal entrada",
-  "Ocupar circuito estacionamiento vía 4",
-  "No detenerse ante señal parada",
-  "Establecer itinerario entrada vía 3"
+  "Despiste del maquinista del tren 82214 al observar a un guarda jurado saliendo corriendo del gabinete de circulación y mirándolo por el espejo retrovisor.",
+  "Cruce de vía de una mujer con un menor por la señal de avanzada 2532, que provocó frenada de emergencia y elevó el grado de tensión del maquinista.",
+  "Sol dando de cara a la señal S2/4.",
+  "Primera apreciación errónea de la señal S2/4 como vía libre.",
+  "Rebase de señal con velocidad creciente (de 27 km/h en E2 a 56 km/h en S2/4)."
  ],
  "mitigaciones": [
   "Activación urgencia ASFA",
@@ -67,7 +68,9 @@
   "Retroceso sin autorización",
   "No respetar indicación parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Sol dando de cara a la señal (mencionado por el maquinista como factor contribuyente); no se detalla otra condición meteorológica."
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-08-17",
  "hora": "20:04",

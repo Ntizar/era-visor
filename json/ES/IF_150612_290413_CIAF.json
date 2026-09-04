@@ -54,10 +54,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Trabajos en instalaciones de seguridad",
-  "Bloqueo telefónico supletorio establecido",
-  "Entrega BOI sin orden de marcha",
-  "Maquinista inicia marcha sin orden"
+  "Bloqueo telefónico supletorio por trabajos en instalaciones de seguridad.",
+  "Señales S2/4A y S2/4 en indicación de parada.",
+  "Ausencia de itinerario de salida al iniciar la marcha.",
+  "Entrega del BAR y del BOI sin que se recibiera la orden de marcha.",
+  "Mal entendimiento de las órdenes, según declaración del jefe de circulación.",
+  "El jefe de circulación no llevaba gorra ni banderín al entregar el BOI, según declaración del maquinista."
  ],
  "mitigaciones": [
   "Jefe circulación avisa puesto mando",
@@ -71,7 +73,9 @@
   "Incumple artículo 432 RGC",
   "Jefe circulación sin gorra banderín"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "No existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-06-15",
  "hora": "07:17",

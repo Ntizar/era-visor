@@ -50,11 +50,10 @@ def parse_pk(pk_str):
     if not pk_str:
         return None
     s = str(pk_str).strip()
-    m = re.search(r"(\d{1,4})\s*[+,\.]\s*(\d{1,3})\s*$", s)
+    # separadores validos: + (km+m), , . (decimal) y / (notacion CIAF: 459/200 = 459,200)
+    m = re.search(r"(\d{1,4})\s*[+,./]\s*(\d{1,3})(?!\d)", s)
     if not m:
-        m = re.search(r"(\d{1,4})[.,](\d{1,3})", s)
-        if not m:
-            return None
+        return None
     ent, dec = m.group(1), m.group(2)
     # '368+925' → 368 km + 925 m; '429,825' → 429.825 km
     if dec.startswith("+") or "+" in s:

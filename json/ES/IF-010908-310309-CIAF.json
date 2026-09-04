@@ -54,10 +54,14 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Autorización indebida de invasión del gálibo",
-  "No se interrumpió la circulación ferroviaria",
-  "Falta de conocimiento del PM de Miranda",
-  "No se colocaron cartelones de silbar"
+  "El agente piloto de Adif no conocía con claridad que la estación de Dueñas, en periodo de cierre, era gestionada por el Puesto de Mando de Miranda.",
+  "El Puesto de Mando de Miranda no tenía conocimiento de que se estuviesen realizando trabajos en la estación de Dueñas.",
+  "El punto 294 del acta semanal de trabajos no hacía referencia a la necesidad de piloto de trabajos o encargado de seguridad ni a observaciones sobre afecciones a la circulación.",
+  "El punto 294 del acta tenía asignadas las siglas EC, compatibles con la circulación por vías contiguas.",
+  "No se habían situado los cartelones de silbar a 600 metros previstos en el proyecto de construcción.",
+  "El agente piloto no procedió a establecer la interrupción de la circulación para la invasión del gálibo ni cursó los telefonemas previstos en el Reglamento General de Circulación.",
+  "El lugar del arrollamiento se encontraba en un tramo de visibilidad reducida por un puente elevado para el tráfico carretero.",
+  "Se habían realizado trabajos de apertura de zanjas dentro de la zona de seguridad."
  ],
  "mitigaciones": [
   "Interrupción de la circulación ferroviaria",
@@ -71,7 +75,9 @@
   "Autorización sin aplicar normas RGC",
   "Acta sin observaciones de seguridad"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-09-01",
  "hora": "17:12",

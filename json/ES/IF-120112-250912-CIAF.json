@@ -53,10 +53,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "reanudar marcha sin cruce",
-  "no comprobar señal de parada",
-  "no prestar atención durante conducción",
-  "no esperar cruce grafiado"
+  "Iniciar la marcha sin esperar el cruce grafiado con el tren 3720.",
+  "No comprobar la indicación de la señal S1/2.",
+  "No prestar la debida atención durante la conducción.",
+  "Error de percepción de la señal por parte del maquinista del tren 1301.",
+  "Talonamiento de la aguja A2, orientada para el itinerario del tren 3720."
  ],
  "mitigaciones": [
   "activación ASFA frenado emergencia",
@@ -70,7 +71,9 @@
   "no verificar cruce grafiado",
   "no comprobar señal de parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Nubes y claros sin lluvia."
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-01-12",
  "hora": "14:19",

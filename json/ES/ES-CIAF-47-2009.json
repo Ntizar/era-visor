@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "San Cristóbal Industrial",
   "provincia": "Madrid",
-  "lat": 40.3833,
-  "lng": -3.75
+  "lat": 40.33179066,
+  "lng": -3.69871014,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 10+200, vía 1",
  "linea": "300 Madrid Chamartín – Valencia Estación del Nord",

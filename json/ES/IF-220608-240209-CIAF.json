@@ -48,10 +48,9 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Ocupación víctima del gálibo",
-  "Centro ocio junto a vía",
-  "Aparcamiento sin separación",
-  "Iluminación artificial impidió percepción"
+  "Es probable que la iluminación de la discoteca y del aparcamiento impidiera que la víctima se percatara del acercamiento del tren.",
+  "El ruido de los coches y la música del centro de ocio pudo impedir que la víctima advirtiera la presencia del tren.",
+  "Ausencia de separación física entre la zona de aparcamiento del centro de ocio y el límite de la explanación de la vía férrea."
  ],
  "mitigaciones": [
   "Vallado zona complejo ocio",

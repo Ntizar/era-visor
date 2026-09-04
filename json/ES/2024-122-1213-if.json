@@ -55,10 +55,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Inmovilización no efectiva del corte",
-  "Falta de calzos antideriva",
-  "Fuga de aire en circuito de freno",
-  "Aplicación ineficaz del freno de mano"
+  "Pérdida de efectividad del freno automático debido a la pérdida de aire en el circuito de freno por el paso del tiempo (más de 12 horas de estacionamiento, superando el máximo de 120 minutos permitido por el LNSO).",
+  "Ineficacia del único freno de estacionamiento aplicado al corte de material por el AXC (volante sin topes/muescas/indicadores; retorno de un cuarto de vuelta; desgaste irregular de zapatas con contacto parcial).",
+  "No disposición de calces antideriva en el corte de material estacionado, por su escasez en la estación debida a robos reiterados de elementos metálicos.",
+  "Existencia de declividad en la vía 9 de la estación de León Clasificación (2,8 milésimas promedio; 6,1 milésimas máxima)."
  ],
  "mitigaciones": [
   "Aplicar tres frenos de mano",
@@ -72,7 +72,9 @@
   "Falta de formación operativa",
   "Sustracción de calzos recurrente"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas y de visibilidad favorables el día del suceso."
+ ],
  "enriquecido_v2": true,
  "fecha": "2024-12-13",
  "hora": "03:50",

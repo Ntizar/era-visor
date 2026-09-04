@@ -13,7 +13,11 @@
   "estacion": "Astillero",
   "provincia": "Cantabria",
   "pk": "540+075",
-  "linea": "24 Santander - Bilbao"
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.40391300860647,
+  "lng": -3.8208257437133573,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Astillero"
  },
  "entidades": [
   "Feve"
@@ -50,10 +54,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Retraso del tren 6803",
-  "Cambio lugar de cruce",
-  "Reconocimiento erróneo de señal",
-  "Incremento de velocidad"
+  "El maquinista reconoció erróneamente la señal S1/2, en aviso de parada, como anuncio de precaución.",
+  "El maquinista pulsó el botón de ocultación del ASFA y aumentó el límite de velocidad a 80 km/h.",
+  "El retraso del tren 6803 motivó el cambio del cruce habitual con el tren 6414 desde Heras a Astillero.",
+  "La señal S1/1L carecía de baliza previa.",
+  "La visibilidad de la señal S1/1L era limitada, de unos 210 metros, y el trazado incluía un falso túnel."
  ],
  "mitigaciones": [
   "Activación seta de urgencia",
@@ -67,7 +72,9 @@
   "Incumplimiento Reglamento Señales",
   "Formación en comportamientos de riesgo"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "condiciones atmosféricas buenas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-05-09",
  "hora": "14:22",

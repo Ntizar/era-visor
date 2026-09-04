@@ -13,7 +13,10 @@
   "estacion": "Castelldefels Playa",
   "provincia": "Barcelona",
   "pk": "656/750",
-  "linea": "Línea 200 Madrid-Barcelona"
+  "linea": "Línea 200 Madrid-Barcelona",
+  "lat": 41.268040741442306,
+  "lng": 1.9638771393589745,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

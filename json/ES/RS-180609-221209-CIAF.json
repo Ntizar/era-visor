@@ -34,7 +34,11 @@
  "explotacion": null,
  "circulation_type": null,
  "fase_ciclo_vida": null,
- "precursores": [],
+ "precursores": [
+  "Posible incumplimiento o deficiencia en la aplicación del Reglamento General de Circulación por parte del personal de conducción",
+  "Influencia de procesos psicológicos en la conducción",
+  "Necesidad de verificación de la aptitud del personal de conducción"
+ ],
  "mitigaciones": [],
  "factores_humanos": [
   "incumplimiento normas circulación",

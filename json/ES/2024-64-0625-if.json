@@ -58,10 +58,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Maquinista no verifica aspecto señal",
-  "Personal formación entra cabina",
-  "Cambio turno centro regulación",
-  "Señal FF7C malinterpretada por conductor"
+  "Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red.",
+  "Cambio de turno en el CRC.",
+  "Falta de verificación del aspecto de la señal por parte del maquinista.",
+  "Atención dividida del maquinista, debido al acceso de personal formador a la cabina."
  ],
  "mitigaciones": [
   "Modo TRIP detiene tren automáticamente",
@@ -74,7 +74,9 @@
   "Fallo reconocimiento SPAD por RC",
   "Similitud aspectos señales ERTMS"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas y de visibilidad favorables."
+ ],
  "enriquecido_v2": true,
  "fecha": "2024-06-25",
  "hora": "21:30",

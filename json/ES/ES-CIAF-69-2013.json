@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Barcelona Sant Andreu Arenal",
   "provincia": "Barcelona",
-  "lat": 41.435,
-  "lng": 2.19
+  "lat": 41.45638945313104,
+  "lng": 2.186970649944828,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 361+098 (Aguja número 12)",
  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",

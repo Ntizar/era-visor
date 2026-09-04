@@ -54,7 +54,9 @@
   "Falta de atención en conducción",
   "Retraso de 117 minutos"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Era de día y no existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2014-07-10",
  "hora": "11:30",

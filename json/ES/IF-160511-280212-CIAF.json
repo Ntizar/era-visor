@@ -52,10 +52,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Salida con ASFA Digital desconectado",
-  "No toma transmisión LZB",
-  "Circulación con bloqueo supletorio BAS",
-  "No prepararse para detenerse ante señal"
+  "No funcionamiento del sistema de bloqueo de control automático LZB.",
+  "No funcionamiento del ASFA Digital.",
+  "Circulación en condiciones degradadas con BAS y marcha a la vista.",
+  "Según declaración del maquinista, presión de tiempos y llamadas del CRC por la pérdida de tiempo en la marcha."
  ],
  "mitigaciones": [
   "Freno de emergencia por manipulador",
@@ -69,7 +69,9 @@
   "Comunicación por teléfono móvil",
   "Posible distracción en cabina"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "De día, con tiempo atmosférico despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-05-16",
  "hora": "19:03",

@@ -13,7 +13,11 @@
   "estacion": "Lleida Pirineus",
   "provincia": "Lleida",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.62084992580084,
+  "lng": 0.6327862838576273,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Lleida-Pirineus"
  },
  "entidades": [
   "Transitia Rail",
@@ -39,10 +43,16 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "No cumplir orden de señal",
-  "Falta de atención del maquinista",
-  "No entregar consigna ATO/CTO",
-  "Bloqueo telefónico prolongado por avería"
+  "Falta de atención por parte del personal de conducción.",
+  "La empresa ferroviaria no facilitó al maquinista la información de la consigna ATO/CTO 17/17 que establecía las condiciones de circulación.",
+  "Establecimiento del bloqueo telefónico supletorio por avería en las instalaciones, prolongado en el tiempo y con ASFA fuera de servicio.",
+  "Circulación en condiciones no ordinarias con señales apagadas y con la señal avanzada nº29 indicando parada.",
+  "Posible confusión entre la señal avanzada nº29 y la señal de entrada nº11.",
+  "Denominación no habitual de las señales avanzada y de entrada en la zona afectada.",
+  "Posible fatiga del maquinista, al llevar al menos 12 horas sin descanso efectivo.",
+  "Secuencia inadecuada de frenado: freno de servicio, rebase, liberación del freno y posterior seta de emergencia.",
+  "Historial de rebases de señal del maquinista del tren 90979.",
+  "Rebase anterior en la misma señal de entrada nº11 tres días antes."
  ],
  "mitigaciones": [
   "Circular con ASFA embarcado conectado",
@@ -56,7 +66,9 @@
   "Deficiencias en SGS ferroviario",
   "No comunicar documentos de trabajo"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Buenas condiciones meteorológicas y luz de día."
+ ],
  "enriquecido_v2": true,
  "fecha": "2017-08-21",
  "provincia": "Lleida",

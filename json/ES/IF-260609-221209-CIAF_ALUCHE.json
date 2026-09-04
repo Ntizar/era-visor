@@ -52,10 +52,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No se abren puertas en parada",
-  "Viajero acciona aparato de alarma",
-  "Maquinista desconecta LZB sin autorización",
-  "Maquinista inicia retroceso no autorizado"
+  "No apertura de las puertas del tren 27319 en la parada de Aluche, provocando la actuación del aparato de alarma por un viajero",
+  "Estado psicológico del maquinista del 27319: acoso, insultos y amenazas recibidos por el intercomunicador y golpeos en la puerta de la cabina, generando una crisis de ansiedad",
+  "Percepción errónea del maquinista del 27319 sobre la posición del tren que le seguía (creyó no haber rebasado el punto a partir del cual podría encontrarlo)",
+  "Desconexión del equipo LZB por propia iniciativa, desactivando la protección automática"
  ],
  "mitigaciones": [
   "Mantener conectado sistema LZB",
@@ -69,7 +69,9 @@
   "Incumplimiento reglamento circulación",
   "Procesos psicológicos en conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo despejado en el exterior; iluminación artificial habitual en la estación subterránea"
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-06-26",
  "hora": "07:36",

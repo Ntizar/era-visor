@@ -13,7 +13,11 @@
   "estacion": "Platja de Castelldefels",
   "provincia": null,
   "pk": null,
-  "linea": "Madrid Chamartín - Barcelona Sants"
+  "linea": "Madrid Chamartín - Barcelona Sants",
+  "lat": 41.266956715936104,
+  "lng": 1.9571294815261913,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de Platja de Castelldefels (APD)"
  },
  "entidades": [
   "Comisión de Investigación de Accidentes Ferroviarios (CIAF)"

@@ -40,10 +40,10 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Tren detenido por avería de freno",
-  "Señal 5371 indicaba parada",
-  "Tren 55203 rebasa señal parada",
-  "Llamada a RC durante conducción"
+  "Realización de la marcha a la vista en condiciones adversas: trayecto en curva a izquierdas y en trinchera, niebla, llovizna y nocturnidad",
+  "Realización de una llamada al RC del CTC (36 s) durante la marcha a la vista, dividiendo el foco atencional del maquinista y siendo insuficiente la atención puesta en la regulación de velocidad",
+  "Primera vez que M-55203 conducía un tren en régimen de frenado G, con tiempo de respuesta de frenado más dilatado (18-30 s vs 3-5 s en P), sin referencias previas de distancias de frenado",
+  "Escasa experiencia del maquinista (31 servicios) y falta de percepción del riesgo; además la locomotora de cabeza estaba en régimen P mientras los vagones en G, generando confusión por la discrepancia entre indicaciones de manómetros y respuesta real del freno"
  ],
  "mitigaciones": [
   "Aplicación de freno máximo",
@@ -58,7 +58,7 @@
   "Falta experiencia régimen freno G"
  ],
  "meteorologia": [
-  "luz natural"
+  "Lluvia fuerte, niebla, llovizna y nocturnidad durante el suceso"
  ],
  "enriquecido_v2": true,
  "fecha": "2022-12-13",

@@ -53,9 +53,13 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Error auxiliar informando vía ocupada",
-  "Vía 7 sin circuito de detección",
-  "Maquinista confunde señales próximas"
+  "Confusión del maquinista entre la orden de vía libre de la señal S2/5 y la señal de parada S2/7-9.",
+  "Información errónea del auxiliar de circulación al jefe del CTC sobre la vía donde estaba estacionado el tren 28480.",
+  "Establecimiento del itinerario de salida desde vía 5 cuando el tren se encontraba realmente en vía 7.",
+  "Imposibilidad del jefe del CTC de verificar la ocupación de vía 7 en el videográfico por carecer dicha vía de circuito de vía.",
+  "Tratamiento de la vía 7 como vía de servicio aunque se utilizaba como vía de rotación de trenes de cercanías.",
+  "Ausencia de baliza previa y de señal indicadora de salida en vía 7, junto con un punto de estacionamiento alejado de la señal.",
+  "Cercanía y disposición de las señales S2/5 y S2/7-9, ambas de mono bajo, que pudo facilitar la confusión."
  ],
  "mitigaciones": [
   "Baliza activa frenado de urgencia",
@@ -67,7 +71,9 @@
   "Información errónea auxiliar circulación",
   "Falta verificación visual itinerario"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche con tiempo despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-08-27",
  "hora": "21:27",

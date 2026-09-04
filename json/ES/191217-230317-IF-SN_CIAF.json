@@ -38,9 +38,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Señal con visibilidad limitada",
-  "Falta de baliza previa a la señal",
-  "Incompatibilidades no reflejadas en consigna"
+  "Uso inapropiado de la velocidad prefijada por el maquinista del tren 31116 en itinerario de salida y aproximación a señal en indicación de parada, incumpliendo el Libro de Normas del Maquinista, Tomo 1, Procedimiento 4, que prescribe conducción manual en estas situaciones. La velocidad prefijada limitó la velocidad a 27 km/h pero no permitió la percepción adecuada de la señal.",
+  "Retraso de 6 minutos del tren 31116 sobre el horario previsto, que pudo condicionar la actuación del maquinista (aunque no hay constancia de ello ni fue manifestado en su declaración).",
+  "El enclavamiento electrónico permitía establecer ambos itinerarios de salida (S1/10A→S1/10 y S1/13→SP1) simultáneamente sin generar incompatibilidades por deslizamiento hacia la travesía T72, a pesar de la distancia de solo 78 m entre la señal S1/10 y la travesía.",
+  "La señal S1/10 está situada al lado izquierdo de la vía (sentido Barcelona), lo que limita su percepción, complementada con cartelón de flecha pero sin baliza previa en el momento del incidente (se instaló el 16/06/2017)."
  ],
  "mitigaciones": [
   "Instalación baliza previa posterior",
@@ -52,7 +53,9 @@
   "Dificultad percepción señalización",
   "Formación insuficiente conocimiento vía"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Horas diurnas, buena visibilidad, sin condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2017-03-23",
  "provincia": "Madrid",

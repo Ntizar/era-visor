@@ -50,10 +50,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "agente acompañamiento indicó operaciones terminadas",
-  "maquinista inicia marcha con señal roja",
-  "maquinista miraba espejo retrovisor",
-  "tren detenido ante señal roja"
+  "El maquinista inició la marcha tras recibir la indicación de operaciones terminadas y miró por el espejo retrovisor, comprobando tarde la indicación de parada de la señal S1/4.",
+  "El agente de acompañamiento indicó operaciones terminadas al maquinista cuando la señal indicadora de salida estaba en blanco intermitente y la señal de salida en parada.",
+  "El maquinista confió en que la señal estaba en verde o vía libre tras la indicación de operaciones terminadas."
  ],
  "mitigaciones": [
   "ASFA aplica frenado urgencia",
@@ -67,7 +66,9 @@
   "incumplimiento órdenes dadas señales",
   "fallo humano en conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche; no se describen condiciones meteorológicas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-03-10",
  "hora": "01:58",

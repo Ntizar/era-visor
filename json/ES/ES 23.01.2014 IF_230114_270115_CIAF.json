@@ -54,10 +54,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": "Mantenimiento",
  "precursores": [
-  "Bloqueo por error de vía I",
-  "No bloquear vía II concedida",
-  "No cerrar señal de salida",
-  "No usar barra de shuntado"
+  "Carga de trabajo del jefe del CTC: varios cortes de vía en el turno y seis trenes en la banda, lo que pudo contribuir a la confusión.",
+  "No uso de barra de shuntado (útiles de cortocircuitado): aunque no era obligatorio según la Consigna C Experimental nº 58, su utilización como medida de protección de los trabajos podría haber evitado el suceso.",
+  "La Consigna C Experimental nº 58 no prevé el uso obligatorio de protecciones mediante útiles de cortocircuitado para este tipo de trabajos con interrupción de la circulación sin tren de trabajos."
  ],
  "mitigaciones": [
   "Uso del freno de emergencia",
@@ -71,7 +70,9 @@
   "No aplicación de Consigna C",
   "Ausencia de barra de shuntado"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Buenas condiciones atmosféricas: nublado y con buena visibilidad."
+ ],
  "enriquecido_v2": true,
  "fecha": "2014-01-23",
  "hora": "11:43:53",

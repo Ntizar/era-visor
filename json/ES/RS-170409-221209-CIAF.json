@@ -13,7 +13,11 @@
   "estacion": "El Caleyo",
   "provincia": "Asturias",
   "pk": null,
-  "linea": "130 Gijón Cercanías – Venta de Baños"
+  "linea": "130 Gijón Cercanías – Venta de Baños",
+  "lat": 43.32902085992082,
+  "lng": -5.873282409404516,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de El Caleyo"
  },
  "entidades": [
   "Renfe-Operadora"

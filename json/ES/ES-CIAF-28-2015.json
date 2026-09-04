@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Vicálvaro",
   "provincia": "Madrid",
-  "lat": 40.40335,
-  "lng": -3.685494
+  "lat": 40.39838615730769,
+  "lng": -3.600045608,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 10+797 (Señal de salida B107-3)",
  "linea": "930 Madrid Atocha Cercanías a San Fernando de Henares",

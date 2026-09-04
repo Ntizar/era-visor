@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Rubí",
   "provincia": "Barcelona",
-  "lat": 41.493619,
-  "lng": 2.031948
+  "lat": 41.47539925008547,
+  "lng": 2.034718962905983,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 6+707 (Cambiador de hilo CH6)",
  "linea": "246 Mollet Sant Fost - Castellbisbal",

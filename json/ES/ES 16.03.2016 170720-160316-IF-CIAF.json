@@ -13,7 +13,11 @@
   "estacion": "Torrejón de Ardoz",
   "provincia": "Madrid",
   "pk": null,
-  "linea": "Línea 200 Madrid Chamartín a Barcelona Estación de Francia"
+  "linea": "Línea 200 Madrid Chamartín a Barcelona Estación de Francia",
+  "lat": 40.454727282787054,
+  "lng": -3.479909276798526,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Torrejón de Ardoz"
  },
  "entidades": [
   "Continental Rail",
@@ -52,9 +56,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "falta de atención maquinista",
-  "limitada experiencia del conductor",
-  "posible fatiga por servicio prolongado"
+  "Limitada experiencia del maquinista titular en el lugar del suceso (7 pasos por la estación, 6 en sentido contrario; habilitación de línea desde 18.12.2015).",
+  "Posible fatiga por jornada laboral de 11 horas y 37 minutos en el momento del rebase (tiempos de conducción reglamentarios: 4h26min).",
+  "Retraso acumulado del tren CGX89 (3 horas y 3 minutos sobre horario teórico), lo que pudo generar presión.",
+  "El maquinista titular estaba explicando situaciones al práctico en formación en el momento de aproximación a la señal.",
+  "Posible deslumbramiento por reflejo del sol en la señal (aunque se verificó visibilidad buena; pudo estar motivado por cansancio)."
  ],
  "mitigaciones": [
   "no hubo víctimas ni daños materiales"
@@ -64,7 +70,9 @@
   "fatiga tras 11 horas servicio",
   "inexistencia criterios recuperación títulos"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas normales. Día soleado. El sol incidía lateralmente sobre la señal S1/3, pero se verificó que a 150 metros se distinguía bien el color rojo."
+ ],
  "enriquecido_v2": true,
  "fecha": "2016-03-16",
  "hora": "08:37",

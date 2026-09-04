@@ -52,10 +52,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Establecido itinerario por vía general",
-  "Aguja derecha no acopló",
-  "Señal E2 no abrió",
-  "Autorización sin verificar agujas"
+  "El espadín derecho de la aguja nº 6 no acopló perfectamente en la contraaguja curva del cambio, impidiendo la apertura de la señal E2.",
+  "Se desconoce la causa del mal acoplamiento puntual del cambio nº 6.",
+  "La responsable de circulación era sustituta por vacaciones del titular, con menor experiencia en estas instalaciones.",
+  "Incumplimiento del artículo 278 del Reglamento General de Circulación por parte de la responsable de circulación (no comprobó la posición de las agujas antes de autorizar el rebase)."
  ],
  "mitigaciones": [
   "Freno de emergencia actuado",
@@ -69,7 +69,9 @@
   "Agente sin experiencia instalación",
   "Falta formación específica"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, con lluvia intensa."
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-12-28",
  "hora": "20:10",

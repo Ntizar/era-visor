@@ -13,7 +13,10 @@
   "estacion": "Villada",
   "provincia": null,
   "pk": "46/200",
-  "linea": null
+  "linea": null,
+  "lat": 40.56775957,
+  "lng": -3.25765287,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe",
@@ -62,10 +65,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Paso por escape a velocidad excesiva",
-  "Señal sin indicación de velocidad",
-  "Falta de control de velocidad",
-  "Itinerario por vía desviada"
+  "Incumplimiento del artículo 211 del Reglamento General de Circulación y de la Carta Circular de Reglamentación nº 4 sobre no exceder 30 km/h al pasar las agujas.",
+  "Incumplimiento del artículo 221 del Reglamento General de Circulación y de la Carta Circular de Reglamentación nº 7 sobre iniciar inmediatamente la reducción de velocidad tras la baliza previa.",
+  "Percepción del maquinista de vía libre en la señal avanzada, no acorde con los registros de enclavamiento y locomotora."
  ],
  "mitigaciones": [
   "ASFA digital control de velocidad",
@@ -79,7 +81,9 @@
   "Formación del personal ferroviario",
   "Supervisión de registros de velocidad"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2006-08-21",
  "hora": "15:55",

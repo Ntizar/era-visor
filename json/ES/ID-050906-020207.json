@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Cantabria",
   "pk": "459/200",
-  "linea": "Línea 160 Santander-Palencia"
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": 43.128788025714286,
+  "lng": -4.057899598095238,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

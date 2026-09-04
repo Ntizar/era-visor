@@ -13,7 +13,11 @@
   "estacion": "Les Borges del Camp",
   "provincia": "Tarragona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.16643198983535,
+  "lng": 1.0221273461563143,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Les Borges del Camp"
  },
  "entidades": [
   "Renfe Mercancías",

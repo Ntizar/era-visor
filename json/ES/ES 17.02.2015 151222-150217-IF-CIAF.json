@@ -34,10 +34,8 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "Superó velocidad máxima permitida",
-  "Percepción errónea de señal EB5",
-  "Actuación sobre rebase autorizado",
-  "Anteriores rebases de señal EB5"
+  "Con el vehículo detenido delante de la señal EB5, en momentos puntuales la luz incidía sobre el frontal del vehículo y podía reflejar su color blanco sobre la óptica del foco blanco de la señal, induciendo a error de percepción del rebase autorizado.",
+  "El maquinista superó la velocidad máxima permitida en marcha de maniobras durante la aproximación a las señales EB1 y EB5, circulando a 54 km/h y 34 km/h respectivamente, frente al límite de 30 km/h."
  ],
  "mitigaciones": [
   "Retirada del foco blanco",
@@ -52,7 +50,7 @@
   "Repetición de errores similares"
  ],
  "meteorologia": [
-  "luz natural"
+  "Día, tiempo despejado."
  ],
  "enriquecido_v2": true,
  "fecha": "2015-02-17",

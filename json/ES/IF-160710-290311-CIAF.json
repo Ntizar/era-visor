@@ -50,10 +50,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No reconocer indicación L1 previa",
-  "Continuar marcha tras frenado urgencia",
-  "Pasar baliza entrada a alta velocidad",
-  "Rebase indebido señal parada"
+  "El maquinista no reconoció la indicación L1 (anuncio de parada) en la baliza previa de la señal de avanzada E'1.",
+  "El tren pasó por la baliza previa de la señal de entrada E1 a 130 km/h, superior al límite de 60 km/h para no reconocer la indicación.",
+  "Dificultad de percepción de la señalización lateral durante la transición de sistema ETCS nivel 1 a EBICAB/ASFA, con alta carga de información en cabina a velocidad superior a 200 km/h.",
+  "Retroceso sin autorización del tren tras el rebase de la señal."
  ],
  "mitigaciones": [
   "Frenado automático por ASFA",
@@ -65,7 +65,9 @@
   "Error reconocimiento indicación previa",
   "Conducción sin autorización retroceso"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "De día, despejado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-07-16",
  "hora": "15:41",

@@ -34,10 +34,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "AOT no comprobó itinerario antes",
-  "escape orientado a vía directa",
-  "maniobra realizada empujando",
-  "no visión directa primer vagón"
+  "Movimiento realizado empujando: el maquinista iba en la primera locomotora, al final de la composición según sentido de marcha, sin visión directa del primer vagón (estaba en curva).",
+  "Visibilidad relativa del AOT desde el piquete de vía 2.",
+  "Distancia muy corta entre la aguja A4 y la topera (38 metros), lo que impidió la detención efectiva tras la orden de alto.",
+  "Comunicación exclusivamente por radiotelefonía (el AOT no era visible desde la cabina por estar en curva).",
+  "Escasa visibilidad por niebla débil en el momento del suceso."
  ],
  "mitigaciones": [
   "ordenó detención inmediata",
@@ -51,7 +52,9 @@
   "disposición incorrecta agujas",
   "movimiento empujando limita visión"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Día nublado con escasa visibilidad (niebla débil). Condiciones atmosféricas declaradas por el maquinista: nublado y de escasa visibilidad."
+ ],
  "enriquecido_v2": true,
  "fecha": "2015-02-09",
  "hora": "08:58:24",

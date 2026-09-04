@@ -27,10 +27,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.38443354451806,
+  "lng": 2.1853245084615467,
+  "metodo": "estacion_ign",
+  "dist_via_m": 28,
+  "pk_cercano": 685.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38422082,
+   2.1855107
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-200124-291117-IF-SN_CIAF",
@@ -60,10 +69,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": "220",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.60189003213619,
+  "lng": 1.894037061232588,
+  "metodo": "estacion_ign",
+  "dist_via_m": 62,
+  "pk_cercano": 319.6,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.60138769,
+   1.89435833
+  ],
+  "codtramo_cercano": "022200060",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-201117-091219-IF-SN_CIAF",
@@ -71,10 +89,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.35748968480321,
+  "lng": 2.0705423026775787,
+  "metodo": "estacion_ign",
+  "dist_via_m": 168,
+  "pk_cercano": 92.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.35847453,
+   2.06901901
+  ],
+  "codtramo_cercano": "022400130",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-2024-122-1213-if",
@@ -195,10 +222,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.364194615098185,
+  "lng": 2.10091765811538,
+  "metodo": "estacion_ign",
+  "dist_via_m": 13,
+  "pk_cercano": 95.2,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.36430941,
+   2.10087399
+  ],
+  "codtramo_cercano": "022760200",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ES 05.09.2013 IF_050913_270115_CIAF",
@@ -512,10 +548,19 @@
   "provincia": "Tarragona",
   "pk": null,
   "linea": "210",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.10207929422881,
+  "lng": 0.7803393959222966,
+  "metodo": "estacion_ign",
+  "dist_via_m": 284,
+  "pk_cercano": 544.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.10252068,
+   0.78366989
+  ],
+  "codtramo_cercano": "022100120",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 14.10.2015 170503-151014-IF-CIAF",
@@ -523,10 +568,19 @@
   "provincia": "Zamora",
   "pk": null,
   "linea": "Toro-Zamora",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.5079914016139,
+  "lng": -5.504545155869749,
+  "metodo": "estacion_ign",
+  "dist_via_m": 339,
+  "pk_cercano": 68.4,
+  "provincia_ine": "Zamora",
+  "coord_pkcercano": [
+   41.50857776,
+   -5.50853461
+  ],
+  "codtramo_cercano": "068200015",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 15 04 2014 -140415-IF-CIAF",
@@ -554,10 +608,19 @@
   "provincia": "Sevilla",
   "pk": null,
   "linea": "422",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 37.268135262186135,
+  "lng": -5.548391850327429,
+  "metodo": "estacion_ign",
+  "dist_via_m": 15,
+  "pk_cercano": 27,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.26823307,
+   -5.54850487
+  ],
+  "codtramo_cercano": "044220020",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 15.03.2016 170720-160315-IF-CIAF",
@@ -585,10 +648,19 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.454727282787054,
+  "lng": -3.479909276798526,
+  "metodo": "estacion_ign",
+  "dist_via_m": 13,
+  "pk_cercano": 23,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.45461064,
+   -3.47986611
+  ],
+  "codtramo_cercano": "022000075",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 17.02.2015 151222-150217-IF-CIAF",
@@ -607,10 +679,19 @@
   "provincia": "Guipúzcoa",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 43.27251412709156,
+  "lng": -1.9637417916863846,
+  "metodo": "estacion_ign",
+  "dist_via_m": 29,
+  "pk_cercano": 616.2,
+  "provincia_ine": "Guipúzcoa",
+  "coord_pkcercano": [
+   43.27251686,
+   -1.96338561
+  ],
+  "codtramo_cercano": "011000425",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 18.03.2015 160531150318IFCIAF",
@@ -629,10 +710,19 @@
   "provincia": "León",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.86269071630539,
+  "lng": -5.32860514338468,
+  "metodo": "estacion_ign",
+  "dist_via_m": 0,
+  "pk_cercano": 30.2,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.86269198,
+   -5.32860688
+  ],
+  "codtramo_cercano": "087900030",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 18.11.2014 151124-141118-IF-CIAF",
@@ -680,10 +770,19 @@
   "provincia": "Lleida",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.62084992580084,
+  "lng": 0.6327862838576273,
+  "metodo": "estacion_ign",
+  "dist_via_m": 10,
+  "pk_cercano": 442.1,
+  "provincia_ine": "Lleida",
+  "coord_pkcercano": [
+   41.62091523,
+   0.63287396
+  ],
+  "codtramo_cercano": "120560020",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 22.05.2015 160628-150522-IF-CIAF",
@@ -773,10 +872,19 @@
   "provincia": "Alicante",
   "pk": null,
   "linea": "336 El Reguerón a Alacant Terminal",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.5712427103309,
+  "lng": 2.089973378804382,
+  "metodo": "estacion_ign",
+  "dist_via_m": 987,
+  "pk_cercano": 339.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.56304249,
+   2.08545133
+  ],
+  "codtramo_cercano": "022200070",
+  "veredicto": "duda",
+  "provincia_ok": false
  },
  {
   "id": "ES-ES 25.07.2017 190426-170725-IF-SN-CIAF_",
@@ -837,10 +945,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.2202975990391,
+  "lng": 1.7308048458270808,
+  "metodo": "estacion_ign",
+  "dist_via_m": 41,
+  "pk_cercano": 636,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.21993496,
+   1.73090962
+  ],
+  "codtramo_cercano": "022000500",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 30.09.2016 180525-160930-IF-CIAF",
@@ -879,10 +996,19 @@
   "provincia": "Zaragoza",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.65868294796719,
+  "lng": -0.9107746835482805,
+  "metodo": "estacion_ign",
+  "dist_via_m": 11,
+  "pk_cercano": 339.4,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.65877648,
+   -0.91072851
+  ],
+  "codtramo_cercano": "022000260",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES IF_060613_281014_CIAF",
@@ -890,10 +1016,19 @@
   "provincia": "Zaragoza",
   "pk": null,
   "linea": "060 Bifurcación Cambiador de Zaragoza Delicias a Cambiador de Zaragoza Delicias",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.65868294796719,
+  "lng": -0.9107746835482805,
+  "metodo": "estacion_ign",
+  "dist_via_m": 11,
+  "pk_cercano": 339.4,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.65877648,
+   -0.91072851
+  ],
+  "codtramo_cercano": "022000260",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES IF_260913_281014_CIAF",
@@ -923,10 +1058,19 @@
   "provincia": "Girona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.673518111846924,
+  "lng": 2.769168104374994,
+  "metodo": "estacion_ign",
+  "dist_via_m": 11,
+  "pk_cercano": 60.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.6734807,
+   2.76904036
+  ],
+  "codtramo_cercano": "022760100",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ES-10126 - 220429-210702-if_ciaf",
@@ -987,10 +1131,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": "200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.330903949140435,
+  "lng": 2.089316137206529,
+  "metodo": "estacion_ign",
+  "dist_via_m": 9,
+  "pk_cercano": 670,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.3309797,
+   2.08927252
+  ],
+  "codtramo_cercano": "022000520",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10251 - 2022-48-0612-IF",
@@ -1009,10 +1162,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.43536729469257,
+  "lng": 2.002585140404447,
+  "metodo": "estacion_ign",
+  "dist_via_m": 12,
+  "pk_cercano": 82,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.43531707,
+   2.00246036
+  ],
+  "codtramo_cercano": "022400120",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10306- 202270 0815 IF Manresa (english version)",
@@ -1020,10 +1182,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": "línea 220 – Lleida-Pirineus– Bifurcación Vilanova",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.72436986263043,
+  "lng": 1.8339858927232613,
+  "metodo": "estacion_ign",
+  "dist_via_m": 775,
+  "pk_cercano": 301.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.72026002,
+   1.82645241
+  ],
+  "codtramo_cercano": "022200050",
+  "veredicto": "duda",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10367 - 20230624 2022107 IF ELS GUIAMETS",
@@ -1051,10 +1222,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": "L222 Bif. Aigües - La Tour de Carol",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.052026688493136,
+  "lng": 2.2599996380436496,
+  "metodo": "estacion_ign",
+  "dist_via_m": 51,
+  "pk_cercano": 85,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.05206917,
+   2.26061189
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10383 - 2023-11-0130-IF",
@@ -1082,10 +1262,19 @@
   "provincia": "Tarragona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.16643198983535,
+  "lng": 1.0221273461563143,
+  "metodo": "estacion_ign",
+  "dist_via_m": 400,
+  "pk_cercano": 572.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.1687491,
+   1.02577058
+  ],
+  "codtramo_cercano": "022100120",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp",
@@ -1124,10 +1313,19 @@
   "provincia": "Málaga",
   "pk": "124/573",
   "linea": "030 Málaga High-Speed Junction – Málaga María Zambrano",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 36.80335135694504,
+  "lng": -4.6659909961260775,
+  "metodo": "via_pk",
+  "dist_via_m": 501,
+  "pk_cercano": 127.6,
+  "provincia_ine": "Málaga",
+  "coord_pkcercano": [
+   36.80768671,
+   -4.66749928
+  ],
+  "codtramo_cercano": "140300075",
+  "veredicto": "duda",
+  "provincia_ok": true
  },
  {
   "id": "ES-es-10728 - final report, 2025-41-0522-if",
@@ -1168,10 +1366,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.53337861693792,
+  "lng": 2.4455153941150596,
+  "metodo": "estacion_ign",
+  "dist_via_m": 17,
+  "pk_cercano": 133.1,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.53327016,
+   2.44565545
+  ],
+  "codtramo_cercano": "022760140",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ES-6274 - 211125-200602-IF_CIAF (+ENG)",
@@ -1399,10 +1606,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.052026688493136,
+  "lng": 2.2599996380436496,
+  "metodo": "estacion_ign",
+  "dist_via_m": 51,
+  "pk_cercano": 85,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.05206917,
+   2.26061189
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-11-2009",
@@ -1832,10 +2048,19 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.42373606109871,
+  "lng": -3.561192364203252,
+  "metodo": "estacion_ign",
+  "dist_via_m": 14,
+  "pk_cercano": 15,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.42372565,
+   -3.5610255
+  ],
+  "codtramo_cercano": "029300050",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-15-2015",
@@ -1883,19 +2108,19 @@
   "provincia": "La Rioja",
   "pk": "P.K. 76+396 (Señal de salida S1/4)",
   "linea": "700 Casetas - Intermodal Abando Indalecio Prieto",
-  "lat": 42.054813,
-  "lng": -1.593009,
-  "metodo": null,
-  "dist_via_m": 450,
-  "pk_cercano": 76.3,
-  "provincia_ine": "Navarra",
+  "lat": 42.45760393065442,
+  "lng": -2.4407558626572436,
+  "metodo": "via_pk",
+  "dist_via_m": 11,
+  "pk_cercano": 76.4,
+  "provincia_ine": "La Rioja",
   "coord_pkcercano": [
-   42.05150697,
-   -1.58986821
+   42.45759504,
+   -2.44088586
   ],
-  "codtramo_cercano": "017000030",
+  "codtramo_cercano": "017000070",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-16-2013",
@@ -2154,18 +2379,18 @@
   "provincia": "Orense",
   "pk": "310/412",
   "linea": "800 León-La Coruña",
-  "lat": 39.9372616,
-  "lng": -0.1004465,
-  "metodo": null,
-  "dist_via_m": 584,
-  "pk_cercano": 66.3,
-  "provincia_ine": "Castellón",
+  "lat": 42.39154456388482,
+  "lng": -7.121087454789105,
+  "metodo": "via_pk",
+  "dist_via_m": 342,
+  "pk_cercano": 310.7,
+  "provincia_ine": "Lugo",
   "coord_pkcercano": [
-   39.93294481,
-   -0.09655049
+   42.38991285,
+   -7.12461618
   ],
-  "codtramo_cercano": "036000080",
-  "veredicto": "duda",
+  "codtramo_cercano": "068000120",
+  "veredicto": "bien",
   "provincia_ok": false
  },
  {
@@ -2505,18 +2730,18 @@
   "provincia": "Barcelona",
   "pk": "PK 6+707 (Cambiador de hilo CH6)",
   "linea": "246 Mollet Sant Fost - Castellbisbal",
-  "lat": 41.493619,
-  "lng": 2.031948,
-  "metodo": null,
-  "dist_via_m": 1917,
-  "pk_cercano": 5.8,
+  "lat": 41.47539925008547,
+  "lng": 2.034718962905983,
+  "metodo": "via_pk",
+  "dist_via_m": 287,
+  "pk_cercano": 6.8,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.47700599,
-   2.02588781
+   41.47535642,
+   2.03815826
   ],
   "codtramo_cercano": "022460015",
-  "veredicto": "duda",
+  "veredicto": "bien",
   "provincia_ok": true
  },
  {
@@ -2645,17 +2870,17 @@
   "provincia": "Madrid",
   "pk": "P.K. 0+00, vía 10",
   "linea": "100 Hendaya – Madrid Chamartín",
-  "lat": 40.524098,
-  "lng": -3.882556,
-  "metodo": null,
-  "dist_via_m": 198,
-  "pk_cercano": 21.2,
+  "lat": 40.4743225,
+  "lng": -3.6818956,
+  "metodo": "via_pk",
+  "dist_via_m": 0,
+  "pk_cercano": 0.0,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.52243859,
-   -3.88171116
+   40.4743225,
+   -3.6818956
   ],
-  "codtramo_cercano": "011000040",
+  "codtramo_cercano": "011000010",
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2805,17 +3030,17 @@
   "provincia": "Madrid",
   "pk": "PK 10+797 (Señal de salida B107-3)",
   "linea": "930 Madrid Atocha Cercanías a San Fernando de Henares",
-  "lat": 40.40335,
-  "lng": -3.685494,
-  "metodo": null,
-  "dist_via_m": 170,
-  "pk_cercano": 1,
+  "lat": 40.39838615730769,
+  "lng": -3.600045608,
+  "metodo": "via_pk",
+  "dist_via_m": 430,
+  "pk_cercano": 10.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.4021524,
-   -3.68425392
+   40.39564342,
+   -3.60361271
   ],
-  "codtramo_cercano": "019100006",
+  "codtramo_cercano": "029300030",
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3105,10 +3330,19 @@
   "provincia": "Madrid",
   "pk": "P.K. 22+800, vía 1",
   "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.25561844,
+  "lng": -3.82846006,
+  "metodo": "via_pk",
+  "dist_via_m": 0,
+  "pk_cercano": 22.8,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.25561844,
+   -3.82846006
+  ],
+  "codtramo_cercano": "055000070",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-32-2010",
@@ -3596,17 +3830,17 @@
   "provincia": "Barcelona",
   "pk": "P.K. 148/000",
   "linea": "270 Barcelona-Cerbere",
-  "lat": 41.6396,
-  "lng": 2.4016,
-  "metodo": null,
-  "dist_via_m": 302,
-  "pk_cercano": 147.3,
+  "lat": 41.64428171853211,
+  "lng": 2.415786751559633,
+  "metodo": "via_pk",
+  "dist_via_m": 172,
+  "pk_cercano": 661.5,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.63688692,
-   2.40151658
+   41.64507184,
+   2.41755876
   ],
-  "codtramo_cercano": "022700070",
+  "codtramo_cercano": "120500255",
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3656,15 +3890,15 @@
   "provincia": "Alicante",
   "pk": "PK 20+094 (Señal E1) y PK 20+346 (Señal R1)",
   "linea": "336 El Reguerón a Alacant Terminal",
-  "lat": 38.257694,
-  "lng": -0.720584,
-  "metodo": null,
-  "dist_via_m": 201,
-  "pk_cercano": 23.6,
+  "lat": 38.273177899152174,
+  "lng": -0.688688175076087,
+  "metodo": "via_pk",
+  "dist_via_m": 401,
+  "pk_cercano": 19.6,
   "provincia_ine": "Alicante",
   "coord_pkcercano": [
-   38.25656011,
-   -0.72237018
+   38.27392894,
+   -0.68419849
   ],
   "codtramo_cercano": "033360040",
   "veredicto": "bien",
@@ -4216,10 +4450,10 @@
   "provincia": "Ávila",
   "pk": "PK 169+839 / PK 169+893",
   "linea": "100 Madrid - Hendaya",
-  "lat": 41.038126919678575,
-  "lng": -4.6963910779999996,
+  "lat": 41.037801096303575,
+  "lng": -4.69607090175,
   "metodo": "via_pk",
-  "dist_via_m": 316,
+  "dist_via_m": 271,
   "pk_cercano": 169.6,
   "provincia_ine": "Ávila",
   "coord_pkcercano": [
@@ -4336,10 +4570,19 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.43536729469257,
+  "lng": 2.002585140404447,
+  "metodo": "estacion_ign",
+  "dist_via_m": 12,
+  "pk_cercano": 82,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.43531707,
+   2.00246036
+  ],
+  "codtramo_cercano": "022400120",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-47-2009",
@@ -4347,18 +4590,18 @@
   "provincia": "Madrid",
   "pk": "P.K. 10+200, vía 1",
   "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
-  "lat": 40.3833,
-  "lng": -3.75,
-  "metodo": null,
-  "dist_via_m": 908,
-  "pk_cercano": 7.3,
+  "lat": 40.33179066,
+  "lng": -3.69871014,
+  "metodo": "via_pk",
+  "dist_via_m": 0,
+  "pk_cercano": 10,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.38745397,
-   -3.7592189
+   40.33179066,
+   -3.69871014
   ],
-  "codtramo_cercano": "059200020",
-  "veredicto": "duda",
+  "codtramo_cercano": "033000060",
+  "veredicto": "bien",
   "provincia_ok": true
  },
  {
@@ -5127,10 +5370,19 @@
   "provincia": "Asturias",
   "pk": "PK 1+057 (Señal S2/P de Gijón)",
   "linea": "61 Gijón - Laviana",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.9822262,
+  "lng": -4.50534836,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 1,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   41.9822262,
+   -4.50534836
+  ],
+  "codtramo_cercano": "011640004",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-CIAF-56-2013",
@@ -5138,19 +5390,19 @@
   "provincia": "Soria",
   "pk": "PK 157+520 (Señal S1/1)",
   "linea": "200 Madrid Chamartín – Barcelona Estació de França",
-  "lat": 41.731709,
-  "lng": 0.442112,
-  "metodo": null,
-  "dist_via_m": 274,
-  "pk_cercano": 159.3,
-  "provincia_ine": "Lleida",
+  "lat": 41.13594656,
+  "lng": -2.4929322,
+  "metodo": "via_pk",
+  "dist_via_m": 0,
+  "pk_cercano": 157.7,
+  "provincia_ine": "Soria",
   "coord_pkcercano": [
-   41.73039188,
-   0.44489873
+   41.13594656,
+   -2.4929322
   ],
-  "codtramo_cercano": "022000400",
+  "codtramo_cercano": "022000150",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-56-2016",
@@ -5158,19 +5410,19 @@
   "provincia": "Valencia",
   "pk": "PK 58+934 (entre señales R2 y E2)",
   "linea": "310 Aranjuez a Valencia - La Font de Sant Lluís",
-  "lat": 39.96459,
-  "lng": -3.486043,
-  "metodo": null,
-  "dist_via_m": 502,
-  "pk_cercano": 16,
-  "provincia_ine": "Toledo",
+  "lat": 39.4895052955715,
+  "lng": -0.6973337387674301,
+  "metodo": "via_pk",
+  "dist_via_m": 446,
+  "pk_cercano": 58,
+  "provincia_ine": "Valencia",
   "coord_pkcercano": [
-   39.9648553,
-   -3.49191332
+   39.49032611,
+   -0.70241847
   ],
-  "codtramo_cercano": "033100010",
-  "veredicto": "duda",
-  "provincia_ok": false
+  "codtramo_cercano": "033100090",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-CIAF-57-2008",
@@ -6038,17 +6290,17 @@
   "provincia": "Barcelona",
   "pk": "PK 361+098 (Aguja número 12)",
   "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
-  "lat": 41.435,
-  "lng": 2.19,
-  "metodo": null,
-  "dist_via_m": 335,
-  "pk_cercano": 4.8,
+  "lat": 41.45638945313104,
+  "lng": 2.186970649944828,
+  "metodo": "via_pk",
+  "dist_via_m": 216,
+  "pk_cercano": 358.7,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.43611322,
-   2.19372554
+   41.45468201,
+   2.18820297
   ],
-  "codtramo_cercano": "022700010",
+  "codtramo_cercano": "022200090",
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6378,10 +6630,19 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.052026688493136,
+  "lng": 2.2599996380436496,
+  "metodo": "estacion_ign",
+  "dist_via_m": 51,
+  "pk_cercano": 85,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   42.05206917,
+   2.26061189
+  ],
+  "codtramo_cercano": "022220050",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-CIAF-9-2008",
@@ -6469,18 +6730,18 @@
   "provincia": "Córdoba",
   "pk": "5/350",
   "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
-  "lat": 37.8845813,
-  "lng": -4.7760138,
-  "metodo": null,
-  "dist_via_m": 1016,
-  "pk_cercano": 342.7,
+  "lat": 37.852245124375,
+  "lng": -4.8240487492187505,
+  "metodo": "via_pk",
+  "dist_via_m": 194,
+  "pk_cercano": 5.3,
   "provincia_ine": "Córdoba",
   "coord_pkcercano": [
-   37.89319242,
-   -4.77984187
+   37.85398491,
+   -4.82414813
   ],
-  "codtramo_cercano": "140100140",
-  "veredicto": "duda",
+  "codtramo_cercano": "044300030",
+  "veredicto": "bien",
   "provincia_ok": true
  },
  {
@@ -6549,10 +6810,19 @@
   "provincia": "Cantabria",
   "pk": "459/200",
   "linea": "160 Santander-Palencia",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 43.128788025714286,
+  "lng": -4.057899598095238,
+  "metodo": "via_pk",
+  "dist_via_m": 224,
+  "pk_cercano": 459.4,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.13029838,
+   -4.05972685
+  ],
+  "codtramo_cercano": "061600050",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-051006-020307",
@@ -6600,17 +6870,17 @@
   "provincia": "Madrid",
   "pk": "37/893",
   "linea": "100 Madrid-Hendaya",
-  "lat": 40.6263825,
-  "lng": -4.0081534,
-  "metodo": null,
-  "dist_via_m": 9,
-  "pk_cercano": 0.0,
+  "lat": 40.62622523,
+  "lng": -4.00813515,
+  "metodo": "via_pk",
+  "dist_via_m": 0,
+  "pk_cercano": 37.9,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.62630132,
-   -4.00812122
+   40.62622523,
+   -4.00813515
   ],
-  "codtramo_cercano": "011100010",
+  "codtramo_cercano": "011000060",
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6760,10 +7030,19 @@
   "provincia": "Barcelona",
   "pk": "231,500",
   "linea": "270 Barcelona-Portbou",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.1223151279422,
+  "lng": 2.9653769833804136,
+  "metodo": "estacion_ign",
+  "dist_via_m": 36,
+  "pk_cercano": 230.6,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   42.12243604,
+   2.96577976
+  ],
+  "codtramo_cercano": "022700130",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ID-111106-130407",
@@ -6931,10 +7210,19 @@
   "provincia": "Castellón",
   "pk": "62,363",
   "linea": "Línea 600 Valencia-Tarragona",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.19613164120046,
+  "lng": -1.2869911143059072,
+  "metodo": "estacion_ign",
+  "dist_via_m": 278,
+  "pk_cercano": 45.7,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.1986225,
+   -1.28728934
+  ],
+  "codtramo_cercano": "026100040",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ID-160906-020207",
@@ -7022,10 +7310,19 @@
   "provincia": "Guipúzcoa",
   "pk": "615/644",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.18236178,
+  "lng": 1.49790056,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 615.7,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.18236178,
+   1.49790056
+  ],
+  "codtramo_cercano": "022000470",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ID-180406-020207",
@@ -7093,10 +7390,19 @@
   "provincia": null,
   "pk": "46/200",
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.56775957,
+  "lng": -3.25765287,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 46.2,
+  "provincia_ine": "Guadalajara",
+  "coord_pkcercano": [
+   40.56775957,
+   -3.25765287
+  ],
+  "codtramo_cercano": "022000110",
+  "veredicto": "bien",
+  "provincia_ok": null
  },
  {
   "id": "ES-ID-211106-020307",
@@ -7344,10 +7650,19 @@
   "provincia": "Valencia",
   "pk": "4/465",
   "linea": "Línea 310 Aranjuez - Valencia",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.64115425,
+  "lng": -1.04477843,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 4.5,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.64115425,
+   -1.04477843
+  ],
+  "codtramo_cercano": "022180020",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ID-300407-190707-DGF",
@@ -7415,10 +7730,19 @@
   "provincia": "Barcelona",
   "pk": "171,039",
   "linea": "Línea 270 Barcelona-Portbou",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.74775798678219,
+  "lng": 2.6316507703402148,
+  "metodo": "estacion_ign",
+  "dist_via_m": 31,
+  "pk_cercano": 683,
+  "provincia_ine": "Girona",
+  "coord_pkcercano": [
+   41.74800039,
+   2.6314658
+  ],
+  "codtramo_cercano": "120500277",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ID_040407_140907",
@@ -7486,10 +7810,19 @@
   "provincia": "Castellón",
   "pk": "61/700",
   "linea": "600 Valencia Nord – San Vicente Calders",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 39.89753496525424,
+  "lng": -0.10322594940677964,
+  "metodo": "via_pk",
+  "dist_via_m": 439,
+  "pk_cercano": 61.7,
+  "provincia_ine": "Castellón",
+  "coord_pkcercano": [
+   39.89440419,
+   -0.10634554
+  ],
+  "codtramo_cercano": "036000080",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes",
@@ -7497,10 +7830,19 @@
   "provincia": "Barcelona",
   "pk": "37/325",
   "linea": "Barcelona-Sagrera a Maçanet-Massanes",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.6827592,
+  "lng": 2.28876901,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 37.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.6827592,
+   2.28876901
+  ],
+  "codtramo_cercano": "022220030",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_080707_191007_Betanzos–Infesta a Ferrol,",
@@ -7508,10 +7850,19 @@
   "provincia": "A Coruña",
   "pk": "37/600",
   "linea": "Betanzos – Infesta a Ferrol",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 43.60417619,
+  "lng": -7.92379915,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 37.6,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   43.60417619,
+   -7.92379915
+  ],
+  "codtramo_cercano": "087400040",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_090807_260208",
@@ -7519,10 +7870,19 @@
   "provincia": "Asturias",
   "pk": "19/338",
   "linea": "Soto de Rey a El Entrego",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 43.39780994,
+  "lng": -5.70309225,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 19.3,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.39780994,
+   -5.70309225
+  ],
+  "codtramo_cercano": "087520030",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_120507_140907",
@@ -7550,10 +7910,19 @@
   "provincia": "Madrid",
   "pk": "18/190",
   "linea": "Línea 100 Madrid-Chamartín-Hendaya",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.51085717,
+  "lng": -3.85572066,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 18.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.51085717,
+   -3.85572066
+  ],
+  "codtramo_cercano": "011000025",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_130607_191007",
@@ -7561,10 +7930,19 @@
   "provincia": "Tarragona",
   "pk": "93/250",
   "linea": "Madrid - Barcelona vía Caspe",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.11992198,
+  "lng": 1.14246444,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 93.3,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.11992198,
+   1.14246444
+  ],
+  "codtramo_cercano": "022100135",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_160507_300108",
@@ -7572,10 +7950,19 @@
   "provincia": "Barcelona",
   "pk": "656/750",
   "linea": "200 Madrid-Barcelona",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.268040741442306,
+  "lng": 1.9638771393589745,
+  "metodo": "via_pk",
+  "dist_via_m": 175,
+  "pk_cercano": 657.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.26870069,
+   1.96577511
+  ],
+  "codtramo_cercano": "022000510",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_230707_300108",

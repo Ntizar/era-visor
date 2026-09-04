@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Cheste",
   "provincia": "Valencia",
-  "lat": 39.96459,
-  "lng": -3.486043
+  "lat": 39.4895052955715,
+  "lng": -0.6973337387674301,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 58+934 (entre señales R2 y E2)",
  "linea": "310 Aranjuez a Valencia - La Font de Sant Lluís",

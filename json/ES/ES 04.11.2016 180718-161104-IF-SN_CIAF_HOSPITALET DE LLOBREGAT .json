@@ -13,7 +13,11 @@
   "estacion": "L'Hospitalet de Llobregat",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.364194615098185,
+  "lng": 2.10091765811538,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Tren de  L'Hospitalet de Llobregat / Estación de Metro de Rambla Jus"
  },
  "entidades": [
   "ADIF",
@@ -39,10 +43,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Establecimiento y anulación de itinerario por CTC",
-  "Aguja A37 en posición invertida",
-  "Circulación con velocidad prefijada incumpliendo aviso",
-  "Fallo de lógica del software del enclavamiento"
+  "Actuación precipitada del jefe del CTC: ordenó un itinerario y procedió inmediatamente a su anulación con DAI (5 veces) sin comunicación previa con el maquinista, contraviniendo el Art. 268.3 del RGC",
+  "El jefe del CTC estableció el itinerario de salida S2/3 para el tren 25779 sin observar que el 25752 había rebasado E1 y R1 en parada",
+  "El enclavamiento no reconoció la apertura momentánea de E1, no aplicó diferímetro y permitió la disolución del itinerario con tren ocupando el circuito anterior",
+  "El maquinista del 25752 cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC para ordenar parada",
+  "El maquinista del 25752 circuló en velocidad prefijada desde E1, dificultando la observancia de la marcha de maniobras (Art. 141.2 y 218 RGC) e incumpliendo el Aviso SC nº 37",
+  "La aguja A37 permaneció en posición invertida sin realizar protección de flanco a la salida del tren 25779"
  ],
  "mitigaciones": [
   "Modificación de lógica del enclavamiento electrónico",
@@ -56,7 +62,9 @@
   "Falta de medidas preventivas por ADIF y Renfe",
   "Uso inadecuado de velocidad prefijada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Horas nocturnas sin condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2016-11-04",
  "provincia": "Barcelona",

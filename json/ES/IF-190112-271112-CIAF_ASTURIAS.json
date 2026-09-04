@@ -50,10 +50,10 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "Conducción bajo efectos alcohol",
-  "No ajusta velocidad a itinerario",
-  "Pasa señal aviso a 70 km/h",
-  "No concentra atención en señales"
+  "Prueba de alcoholemia positiva al maquinista",
+  "Distribución de vagones en la composición no conforme a la NBSM (vagones ligeros en cabeza en lugar de cola de los cargados)",
+  "Declividad del trazado que favoreció el incremento de velocidad sin aplicar tracción",
+  "No se aplicó freno hasta 100 m después de la señal de LPV, ya en la curva"
  ],
  "mitigaciones": [
   "Aplicación de freno eléctrico"
@@ -64,7 +64,9 @@
   "Incumplimiento de señales",
   "Falta de atención"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, con niebla"
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-01-19",
  "hora": "07:03",

@@ -57,10 +57,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": "Puesta en servicio",
  "precursores": [
-  "Cambios en enclavamiento para pruebas",
-  "Instalación de tarjetas y software",
-  "No interrupción de circulaciones durante trabajos",
-  "No verificación en campo de señales"
+  "No interrupción completa de las circulaciones durante los trabajos en el enclavamiento",
+  "No establecimiento de bloqueo alternativo ni medidas que garantizaran la seguridad (ej.: eliminación de lámparas permisivas)",
+  "No verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos",
+  "Incorrecta evaluación del riesgo que comportaba la realización de los trabajos con tráfico en la zona",
+  "No constancia de verificación y validación de los datos y prestaciones del enclavamiento en su situación provisional"
  ],
  "mitigaciones": [
   "Interrupción de circulaciones durante trabajos",
@@ -74,7 +75,9 @@
   "No interrupción de circulaciones",
   "No supervisar concordancia de señales"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, tiempo despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-03-26",
  "hora": "00:33",

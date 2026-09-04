@@ -53,9 +53,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebase indebido de señal en parada",
-  "Balizas duales no operativas",
-  "Cambiador dispuesto ancho convencional"
+  "Balizas ASFA de las señales eran para ancho convencional (no duales), desplazadas lateralmente respecto a los captadores de vehículos UIC, por lo que en muchas ocasiones los trenes de ancho UIC no recibían las señales emitidas desde la vía y circulaban como si no dispusieran de ASFA.",
+  "La baliza previa de la señal S1/1 no fue captada por el ASFA Digital del tren 91103.",
+  "Trazado curvo, pilares de la marquesina, mobiliario urbano y carteles indicadores sobre el andén 2 dificultaban la visibilidad de la señal S1/1 a los trenes que se aproximaban.",
+  "El tren circulaba con 10 minutos de retraso sobre el horario previsto.",
+  "El personal de conducción incumplió el art. 213 del RGC (no se puso en condiciones de parar ante la señal siguiente), el art. 217 (no se detuvo ante la señal) y el art. 320.4 (no prestó la debida atención a la indicación de las señales)."
  ],
  "mitigaciones": [
   "Velocidad inferior a máxima permitida",
@@ -66,7 +68,9 @@
   "Falta atención indicación señales",
   "No preparación para detenerse"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "De día, sin condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-04-05",
  "hora": "15:30",

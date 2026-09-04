@@ -36,10 +36,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Maquinista confunde señal salida",
-  "Tren inicia salida vía tres",
-  "Señal vía cuatro autoriza salida",
-  "Señal salida vía tres parada"
+  "La posición de las señales de salida de las vías 3 y 4, al final del andén común y alineadas desde la cabina, podía inducir confusión.",
+  "La apertura de la señal de salida de la vía 4 para el tren 38888 mientras el tren 39766 esperaba en la vía 3.",
+  "El maquinista no vio correctamente el aspecto de la señal de salida correspondiente a la vía 3.",
+  "Existencia de tres sucesos similares previos en la misma señal S BSN M3 en los últimos cuatro años, todos con material vacío con destino a Barcelona Can Tunis."
  ],
  "mitigaciones": [
   "Sistema ERTMS detiene tren",

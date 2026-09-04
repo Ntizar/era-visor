@@ -13,7 +13,11 @@
   "estacion": "Apeadero de Cazoña",
   "provincia": "Cantabria",
   "pk": "527+485",
-  "linea": "Oviedo-Santander (L-21)"
+  "linea": "Oviedo-Santander (L-21)",
+  "lat": 43.455257996589275,
+  "lng": -3.841609052040695,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de Cazoña"
  },
  "entidades": [
   "FEVE"

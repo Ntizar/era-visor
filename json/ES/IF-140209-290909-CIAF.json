@@ -54,10 +54,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "ASFA desconectado por avería",
-  "Modificación del cruce previsto",
-  "Autorización para circular sin ASFA",
-  "Comunicación telefónica interrumpida"
+  "Deficiencias en el sistema de comunicación (interrupciones/ruido en la emisora).",
+  "Discrepancias en los registros de telefonemas escritos (libro del maquinista vs. libro del CTC).",
+  "Circular con el sistema de seguridad ASFA desconectado.",
+  "No comprobación visual adecuada de la disposición del desvío por parte del maquinista."
  ],
  "mitigaciones": [
   "Señal avanzada cambió a rojo",
@@ -71,7 +71,9 @@
   "Errores en registro de telefonemas",
   "Falta de atención en conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Soleado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-02-14",
  "hora": "14:10",

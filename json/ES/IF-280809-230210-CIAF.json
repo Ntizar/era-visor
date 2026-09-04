@@ -51,10 +51,9 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Accionamiento indebido de aguja",
-  "Tren sobre aguja nº 2",
-  "Primer día servicio estación",
-  "Itinerario sin efecto pedal"
+  "Falta de experiencia específica de la jefa de circulación (primer día en la estación).",
+  "Diseño del enclavamiento Bouré que permite maniobrar agujas sin comprobación automática de liberación (sin efecto pedal).",
+  "Percepción visual errónea de la liberación del cambio por parte de la operaria."
  ],
  "mitigaciones": [
   "Velocidad inferior a permitida",
@@ -67,7 +66,9 @@
   "Primer día servicio estación",
   "Incumplimiento RGC artículos"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-08-28",
  "hora": "13:33",

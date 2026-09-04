@@ -13,7 +13,10 @@
   "estacion": "A Rúa Petín",
   "provincia": "Orense",
   "pk": "310/412",
-  "linea": "800 León-La Coruña"
+  "linea": "800 León-La Coruña",
+  "lat": 42.39154456388482,
+  "lng": -7.121087454789105,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

@@ -13,7 +13,11 @@
   "estacion": "Cornellá",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.35748968480321,
+  "lng": 2.0705423026775787,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Tren Cornellà / Estación de Metro Cornellà Centre / Estación de Tran"
  },
  "entidades": [
   "ADIF",
@@ -38,10 +42,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Tren precedente rebasa señal avanzada",
-  "Baliza transmite información ajena",
-  "Maquinista interpreta baliza como propia",
-  "Baja visibilidad por curva y túnel"
+  "No mantener la marcha a la vista durante todo el recorrido hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa fuese equivalente a la indicación de la propia señal E1.",
+  "No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E'1 permisiva, superando la velocidad máxima de 40 km/h permitida.",
+  "Al paso por la baliza previa de la señal E1, la información recibida en cabina correspondía a la orden de la señal para el tren 95951 precedente (detenido en el mismo cantón), lo que confundió al maquinista del 25045.",
+  "Tras la activación del primer frenado de emergencia por exceso de velocidad, el maquinista centró su atención en rearmar el equipo y recuperar tracción, perdiendo la concentración y la percepción del entorno.",
+  "Dificultad de visibilidad por curva a derechas, talud en margen derecho y túnel de ~300 m con cambio brusco de intensidad lumínica que puede producir deslumbramientos. La baliza previa de E1 (PK 93+231) se encuentra en el interior del túnel."
  ],
  "mitigaciones": [
   "Frenado de emergencia ASFA activado",
@@ -55,7 +60,9 @@
   "No adecuar marcha a la vista",
   "Percepción errónea de la señalización"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas favorables. Día soleado y despejado. Horas diurnas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2019-12-09",
  "provincia": "Barcelona",

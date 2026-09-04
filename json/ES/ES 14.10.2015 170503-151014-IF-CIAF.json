@@ -13,7 +13,11 @@
   "estacion": "Monte la Reina",
   "provincia": "Zamora",
   "pk": null,
-  "linea": "Toro-Zamora"
+  "linea": "Toro-Zamora",
+  "lat": 41.5079914016139,
+  "lng": -5.504545155869749,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de Monte La Reina"
  },
  "entidades": [
   "Renfe Viajeros",
@@ -40,9 +44,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Señales giradas hacia el campo",
-  "Maquinista desconocía Noticia TO",
-  "Consigna no detallaba orientación señales"
+  "Señales avanzada E'1 y de entrada E1 giradas hacia el campo, situación no contemplada en la consigna ATO/CTO Nº 35/52 ni en el estudio de riesgos; el encargado de trabajos no solicitó reglamentariamente el giro ni informó al jefe de circulación.",
+  "El maquinista no disponía de la Noticia TO Nº58 (con los aspectos de las señales), al no habérsela facilitado el personal responsable de documentación de la empresa operadora.",
+  "El Aviso Nº63 que sí conocía el maquinista no mencionaba el BTS ni el estado de las señales.",
+  "El BOI entregado en Toro no indicaba que Monte la Reina fuera estación intermedia sin personal, pero el maquinista interpretó erróneamente que lo era.",
+  "El jefe de circulación tardó 40 minutos en comunicar el incidente al puesto de mando de León (incumplimiento art. 104.2 RGC), lo que permitió que el tren continuara hasta Ourense."
  ],
  "mitigaciones": [
   "Aplicación bloqueo telefónico supletorio",
@@ -53,7 +59,9 @@
   "Desconocimiento de noticias operativas",
   "Retraso comunicación incidente jefe circulación"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Día, buena visibilidad"
+ ],
  "enriquecido_v2": true,
  "fecha": "2015-10-14",
  "provincia": "Zamora",

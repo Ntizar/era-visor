@@ -50,9 +50,9 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Alarma distrae atención del conductor",
-  "Reflejo solar dificulta ver pantalla",
-  "Maquinista no reduce velocidad"
+  "Distracción del maquinista por la alarma de presostato de mínima y la dificultad para visualizar la pantalla debido al reflejo solar",
+  "No reducción de la velocidad a tiempo antes de la curva",
+  "Demora en el reconocimiento y acusación de la alarma"
  ],
  "mitigaciones": [
   "Limitación permanente velocidad curva",
@@ -65,7 +65,7 @@
   "No reduce velocidad curva"
  ],
  "meteorologia": [
-  "luz natural"
+  "Día, tiempo soleado; reflejo solar sobre la pantalla de conducción."
  ],
  "enriquecido_v2": true,
  "fecha": "2009-02-23",

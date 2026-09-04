@@ -11,7 +11,11 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "El Papiol",
-  "provincia": "Barcelona"
+  "provincia": "Barcelona",
+  "lat": 41.43536729469257,
+  "lng": 2.002585140404447,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de El Papiol (APD)"
  },
  "pk": null,
  "linea": null,

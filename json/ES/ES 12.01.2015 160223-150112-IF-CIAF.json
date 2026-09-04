@@ -39,10 +39,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Poca antigüedad del maquinista",
-  "Señal sin baliza previa",
-  "Visibilidad insuficiente de la señal",
-  "Falta de trazabilidad formativa"
+  "Incumplimiento normativo del maquinista del tren 25780 al reiniciar la marcha sin haberse puesto en contacto con el puesto de mando para notificar el rebase (art. 279 RGC)",
+  "La señal 3646 carece de baliza ASFA previa por falta de distancia suficiente para su emplazamiento (Aviso nº 34 de Adif)",
+  "El enclavamiento de Barcelona Marina no cierra automáticamente la señal 3648 cuando se ocupan los circuitos de vía siguientes a la señal 3646 rebasada, al no formar parte estos de la ruta asegurada por la señal 3648",
+  "El maquinista del tren 25780 tenía solo 13 días de antigüedad en el servicio de Cercanías de Barcelona (pocas horas de experiencia)"
  ],
  "mitigaciones": [
   "Baliza previa en señal",
@@ -56,7 +56,9 @@
   "Formación práctica insuficiente",
   "Falta de trazabilidad formativa"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "No se menciona información meteorológica específica. El incidente ocurrió en una estación subterránea con iluminación artificial."
+ ],
  "enriquecido_v2": true,
  "fecha": "2015-01-12",
  "provincia": "Barcelona",

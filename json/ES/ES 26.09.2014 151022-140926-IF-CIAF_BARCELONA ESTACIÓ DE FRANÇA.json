@@ -36,9 +36,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Radiación solar sobre focos señal",
-  "Falta claridad comunicación radio",
-  "Error percepción indicación parada"
+  "Falta de claridad y mal entendimiento entre el responsable de circulación y el maquinista del material vacío en la comunicación previa (radiotelefonía).",
+  "Deslumbramiento solar sobre los focos de la señal S1/14 (en particular el blanco), que hacía parecer que estaban encendidos, dificultando la correcta percepción de su indicación.",
+  "Actuación incorrecta posterior al rebase: el responsable de circulación ordenó retroceso sin comprobar el estado de los cambios y el maquinista accedió (incumplimiento art. 475 RGC)."
  ],
  "mitigaciones": [
   "Instalación nuevas viseras señales",
@@ -51,7 +51,7 @@
   "Retroceso sin comprobar cambios"
  ],
  "meteorologia": [
-  "luz natural"
+  "Día soleado. En el momento del suceso era de día y las condiciones meteorológicas eran de tiempo soleado. La radiación solar incidiendo sobre los focos de la señal S1/14 (en particular el blanco) hacía parecer que estaban encendidos, lo que pudo contribuir a la percepción errónea de 'rebase autorizado'."
  ],
  "enriquecido_v2": true,
  "fecha": "2014-09-26",

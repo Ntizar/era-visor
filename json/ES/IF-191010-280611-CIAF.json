@@ -51,10 +51,11 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Avería del bloqueo entre estaciones",
-  "Autorización incompatible del CTC",
-  "No verificación del cruzamiento previsto",
-  "Autorización a cantón ocupado"
+  "Avería del bloqueo entre Gijón y Sotiello, que obligó a circular en situación degradada mediante autorizaciones de rebase de señales.",
+  "Autorización del rebase de la señal S2/P al tren 4519 sin verificar todas las medidas necesarias para garantizar la seguridad, con incumplimiento del artículo 2/09/00 del Reglamento de Circulación de Trenes.",
+  "No verificación del cruzamiento con el tren 5418 indicado en el libro itinerario antes de expedir el tren 4519, con incumplimiento del artículo 2/14/00 del Reglamento de Circulación de Trenes.",
+  "Autorización por el CTC de un movimiento incompatible con el tren 5418, con incumplimiento del artículo 8/01/00 del Reglamento de Señales.",
+  "Diferencias en el contenido y en la hora de los telefonemas registrados en los libros."
  ],
  "mitigaciones": [
   "Alerta inmediata del inspector principal",
@@ -68,7 +69,9 @@
   "Incumplimiento del Reglamento de Circulación",
   "Autorización sin verificar seguridad"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-10-19",
  "hora": "15:25",

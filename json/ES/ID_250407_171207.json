@@ -57,10 +57,13 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Tren no adaptó marcha a señalización",
-  "Vehículo invadió paso a nivel",
-  "No comunicar anomalía al Puesto de Mando",
-  "No permanecer en indicación restrictiva"
+  "Avería intermitente en las instalaciones del paso a nivel que provocó la apertura automática de las semibarreras por tiempo de cierre excesivo (temporizador T2 de 7 min) mientras el tren 2424 se encontraba en aproximación, entre el pedal direccional A y la señal del PN.",
+  "El sistema de protección del PN no responde a los requisitos funcionales del Capítulo 8 del Manual de Circulación: permitió que, tras registrar la presencia del tren 2424 en el pedal direccional A, las semibarreras se levantaran antes de que el tren pasara por el PN.",
+  "La señal del PN, ante la avería existente, debió permanecer en la indicación más restrictiva (aspa amarilla a destellos = PN sin protección) y no pasar a apagada.",
+  "Visibilidad prácticamente nula desde el lugar de acceso del vehículo al paso a nivel, cegada por la caseta de instalaciones.",
+  "Señalización de carretera fija vertical y horizontal incompleta, no ajustada a la OM de 2 de agosto de 2001 (responsabilidad del Ayuntamiento de Valga).",
+  "El maquinista del tren 2425 no informó al PM ni al Jefe de Circulación de la observación de la señal del PN con flecha blanca a destellos (alarma), lo que podría haber permitido adoptar medidas previas.",
+  "El registro de eventos del tren no muestra aplicación del freno de emergencia tras el tiempo establecido para el reconocimiento del aviso ASFA."
  ],
  "mitigaciones": [
   "Semibarreras automáticas del paso a nivel",
@@ -75,7 +78,7 @@
   "Necesidad de reciclaje formativo"
  ],
  "meteorologia": [
-  "luz natural"
+  "Cielo nublado con visibilidad buena"
  ],
  "enriquecido_v2": true,
  "fecha": "2007-04-25",

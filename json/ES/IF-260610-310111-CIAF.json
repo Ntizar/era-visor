@@ -53,10 +53,10 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "Comunicación prematura de operaciones terminadas",
-  "Viajeros pendientes de subir al tren",
-  "Retraso significativo sobre horario previsto",
-  "Parada comercial sin finalizar embarque"
+  "Doble composición del tren con 32 vehículos y 418 metros de longitud",
+  "Distancia de unos 260 metros entre el lugar donde se comunicó operaciones terminadas y el lugar de la caída",
+  "Presencia de viajeros en el andén que aún debían subir, incluida una familia en el coche 25 y personas que habían bajado a fumar",
+  "Retraso de 49 minutos del tren en su entrada a la estación"
  ],
  "mitigaciones": [
   "Cierre inmediato de señal de salida",
@@ -71,7 +71,7 @@
   "Comunicación sin confirmar subida"
  ],
  "meteorologia": [
-  "luz artificial"
+  "Nocturno; el informe indica que no existía lluvia ni niebla y que la iluminación del andén era la habitual. La interventora declaró poca luz y neblina al fondo de la composición, mientras que el jefe de circulación declaró visibilidad normal sin brumas ni nieblas."
  ],
  "enriquecido_v2": true,
  "fecha": "2010-06-26",

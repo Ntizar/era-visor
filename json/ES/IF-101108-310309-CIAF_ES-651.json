@@ -49,10 +49,8 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Reiniciar marcha sin atender señal",
-  "No respetar indicación parada rojo",
-  "Incumplimiento reglamento circulación trenes",
-  "Omisión control señal salida"
+  "El maquinista declaró que inició la marcha 'incomprensiblemente' tras cerrar puertas, sin explicación clara del despiste.",
+  "La operación de subida/bajada de viajeros y recogida del ACT pudo contribuir a una pérdida de atención momentánea."
  ],
  "mitigaciones": [
   "Instalaciones detectaron situación anómala",
@@ -66,7 +64,9 @@
   "Incumplimiento reglamento circulación",
   "Actuación incorrecta salida tren"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-11-10",
  "hora": "15:05",

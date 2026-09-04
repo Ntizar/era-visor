@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "A Coruña",
   "pk": "37/600",
-  "linea": "Betanzos-Infesta a Ferrol"
+  "linea": "Betanzos-Infesta a Ferrol",
+  "lat": 43.60417619,
+  "lng": -7.92379915,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

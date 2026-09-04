@@ -56,10 +56,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Exceder velocidad máxima en agujas",
-  "No aplicar freno últimos metros",
-  "Incumplir señal avanzada precaución",
-  "No reducir ante señal parada"
+  "Exceso de velocidad al pasar por los desvíos de acceso a la vía 4: 40-45 km/h frente a los 30 km/h prescritos.",
+  "No reducir la velocidad para asegurar el cumplimiento de la señal de parada ante el final de vía.",
+  "No uso del freno durante los últimos 290 metros previos a la colisión.",
+  "Distracción del maquinista tras reconocer el anuncio de parada de la señal S1/4A, al coger el libro horario para guardarlo en la mochila."
  ],
  "mitigaciones": [
   "Instalar balizas ASFA control velocidad",
@@ -73,7 +73,9 @@
   "Incumplir órdenes de señales",
   "Velocidad prefijada sin control"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "No existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-02-09",
  "hora": "09:43",

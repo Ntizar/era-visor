@@ -52,10 +52,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Avería en pantalla de diagnóstico",
-  "Desatención a señales por avería",
-  "No reducir velocidad ante anuncio parada",
-  "Rearme ASFA sin autorización"
+  "Desviación de la atención del maquinista por la avería mostrada en la pantalla IDU de la cabina",
+  "El tren no dispone de ASFA digital, por lo que no se reforzó la indicación del estado de la señal",
+  "El maquinista no percibió la información de la baliza previa como parada y no se puso en condiciones de parar",
+  "El maquinista no asimiló que la frenada de emergencia era motivada por el rebase de la señal",
+  "Rearme del ASFA y reanudación de la marcha sin autorización tras el rebase",
+  "No se puso en comunicación con el CTC hasta detenerse ante la señal siguiente E2"
  ],
  "mitigaciones": [
   "Frenado emergencia activado por ASFA",
@@ -68,7 +70,9 @@
   "Error humano en conducción",
   "Gestión inadecuada de alarma"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-12-21",
  "hora": "11:15",

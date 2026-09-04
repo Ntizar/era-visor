@@ -52,9 +52,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "reanuda marcha tras parada comercial",
-  "no se percata de señal parada",
-  "aplica freno de urgencia tarde"
+  "Despiste del maquinista tras la parada comercial: no comprobó la indicación de la señal de salida antes de reanudar la marcha",
+  "Tiempo de reacción insuficiente: solo 3 segundos entre la aplicación de la seta de urgencia y el paso por la baliza ASFA",
+  "Velocidad de 29 km/h al aplicar el freno de urgencia, insuficiente para detenerse antes de la baliza"
  ],
  "mitigaciones": [
   "activación del freno ASFA",
@@ -68,7 +68,9 @@
   "incumplimiento del reglamento señales",
   "no respetar señal de parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "No existían condiciones meteorológicas adversas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-10-27",
  "hora": "08:31",

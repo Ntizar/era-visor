@@ -13,7 +13,11 @@
   "estacion": "França",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.38443354451806,
+  "lng": 2.1853245084615467,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Barna.-Est. de França"
  },
  "entidades": [
   "Renfe Viajeros",

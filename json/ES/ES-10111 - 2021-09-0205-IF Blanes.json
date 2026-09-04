@@ -13,7 +13,11 @@
   "estacion": "Blanes",
   "provincia": "Girona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.673518111846924,
+  "lng": 2.769168104374994,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Blanes"
  },
  "entidades": [
   "ADIF"
@@ -55,10 +59,13 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Tren retrasado reacomodado en malla",
-  "Fallo numeración automática en BTCBM",
-  "Comunicaciones directas desde RUMC a SAs",
-  "Bloqueo gestionado por dos SAs"
+  "No verificación de que el cantón de bloqueo CVCBM estaba libre de trenes (art. 4.3.1.3 del RCF)",
+  "Falta de supervisión por el PM del cumplimiento de las condiciones para autorización de rebase de señal que ordene parada (art. 5.2.1.2 del RCF)",
+  "Fallo en el sistema de numeración y seguimiento automático de trenes del CTC desde el 31 de enero de 2021, sin reparación",
+  "Falta de comunicación formal a todos los RC sobre la pérdida de numeración en el cantón Blanes-Maçanet",
+  "Alteración de la malla de circulaciones en tiempo real por el retraso del tren 30852",
+  "Comunicación directa del personal del CG de RENFE Viajeros a los RC sin canal formal ni verificación de coherencia",
+  "Condición de extremo de banda de CTC del cantón entre Blanes y Maçanet/Massanes (gestionado por dos RC distintos)"
  ],
  "mitigaciones": [
   "Tren detenido frente a señal",
@@ -72,7 +79,9 @@
   "Uso excesivo del videográfico",
   "Confusión por numeración de tren"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Sin condiciones meteorológicas adversas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2021-02-05",
  "provincia": "Girona",

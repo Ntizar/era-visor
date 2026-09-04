@@ -13,7 +13,11 @@
   "estacion": "Infiesto",
   "provincia": "Asturias",
   "pk": null,
-  "linea": "Línea 21 Oviedo - Santander"
+  "linea": "Línea 21 Oviedo - Santander",
+  "lat": 43.35186114852762,
+  "lng": -5.369108417051024,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Infiesto"
  },
  "entidades": [
   "CIAF",

@@ -53,9 +53,11 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Retraso de ambos trenes",
-  "Cambio itinerario vía desviada",
-  "Maquinista no reduce velocidad"
+  "El maquinista declaró percibir la señal de avanzada E'2 en vía libre y no redujo la velocidad, manteniéndola durante unos 1.200 metros.",
+  "La aplicación del freno de emergencia se produjo a unos 220 metros de la señal de entrada E2, cuando el tren pasaba por ella a 122 km/h.",
+  "El paso por la aguja de entrada número 2 se realizó a unos 99 km/h, superior a los 50 km/h admitidos por el desvío tipo C y a los 30 km/h exigibles.",
+  "Ambos trenes circulaban con retraso, lo que determinó que el tren 13946 fuera encaminado por vía desviada en lugar del encaminamiento habitual del 175.",
+  "Las señales mecánicas de la estación no disponían de balizas ASFA."
  ],
  "mitigaciones": [
   "Orden parada tren contrario",
@@ -66,7 +68,9 @@
   "Incumplimiento orden precaución",
   "Fallo humano en conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado y anocheciendo; sol en el lado derecho en sentido de la marcha, casi desaparecido en la línea del horizonte; condiciones normales."
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-05-23",
  "hora": "21:20",

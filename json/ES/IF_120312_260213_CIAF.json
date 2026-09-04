@@ -54,10 +54,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Autorización de trabajos con condición",
-  "Retirada del útil de cortocircuitado",
-  "Continuación de trabajos en vía 2",
-  "Establecimiento de itinerario por vía 2"
+  "Fallo humano del encargado de los trabajos al no tomar las medidas de seguridad pertinentes: retiró el útil de cortocircuitado a las 11:00 pero los operarios continuaban trabajando en el amolado de soldaduras en vía 2, incumpliendo el artículo 343 puntos 2 y 3 del RGC.",
+  "El encargado de los trabajos no entregó el boletín de autorización de trabajos al responsable de circulación, como es preceptivo según el artículo 271 punto 2 del RGC.",
+  "El responsable de circulación no reclamó el boletín de autorización de trabajos al encargado.",
+  "La 'condición' impuesta por el PM de Valencia (liberar el circuito sobre las 11:00 para pasar el tren 222) redujo el nivel de seguridad en el que se debían realizar los trabajos autorizados.",
+  "El responsable de circulación se encontraba realizando operaciones de venta de billetes en el momento del suceso.",
+  "Las señales de avanzada, entrada y salida se encontraban en indicación de vía libre, lo que no alertó al maquinista del tren 222 de la ocupación de la vía."
  ],
  "mitigaciones": [
   "Señal cuadrada de parada",
@@ -71,7 +73,9 @@
   "No entrega del boletín de autorización",
   "Condición que reduce nivel de seguridad"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Soleado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-03-12",
  "hora": "11:30",

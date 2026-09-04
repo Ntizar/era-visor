@@ -14,8 +14,9 @@
   "provincia": "Córdoba",
   "pk": "5/350",
   "linea": "Línea 430 Bifurcación Córdoba El Higuerón a Málaga",
-  "lat": 37.8845813,
-  "lng": -4.7760138
+  "lat": 37.852245124375,
+  "lng": -4.8240487492187505,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

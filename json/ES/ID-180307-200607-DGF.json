@@ -13,7 +13,10 @@
   "estacion": "Hernani",
   "provincia": "Guipúzcoa",
   "pk": "615/644",
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 41.18236178,
+  "lng": 1.49790056,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

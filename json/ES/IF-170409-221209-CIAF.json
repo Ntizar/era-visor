@@ -52,10 +52,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "no inicia reducción inmediata velocidad",
-  "continúa aplicando tracción en pendiente",
-  "paso baliza previa alta velocidad",
-  "incumple artículo 221 RGC"
+  "No iniciar una reducción inmediata de velocidad desde la baliza previa de la señal avanzada, incumpliendo la Carta Circular de Reglamentación Nº 11, de 2007-07-06.",
+  "Paso por las balizas previa y de pie de señal de la avanzada a 108 km/h y 119 km/h, respectivamente, por continuar aplicando tracción y existir pendiente.",
+  "Paso por la baliza previa de la señal de entrada a 102 km/h, velocidad mayor de 60 km/h, incumpliendo el artículo 221 del RGC.",
+  "Rebase de la señal de entrada y avance de 60 metros, incumpliendo el artículo 217 del RGC.",
+  "Despiste del maquinista del tren 22126, según su propia declaración."
  ],
  "mitigaciones": [
   "frenado emergencia ASFA activado",
@@ -69,7 +70,9 @@
   "no comunica suceso al CTC",
   "retroceso tras colisión indebido"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-04-17",
  "hora": "18:40",

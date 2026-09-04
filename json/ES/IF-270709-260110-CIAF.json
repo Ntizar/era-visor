@@ -49,10 +49,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebase autorizado de señal de avanzada",
-  "Establecimiento de itinerario al tren precedente",
-  "Curva impide divisar tren precedente",
-  "Aumento de velocidad del tren"
+  "Existencia de curva cerrada que impedía divisar el tren precedente.",
+  "Situación dentro de un túnel.",
+  "La señal E2 disponía de baliza previa desde la cual no era visible la señal.",
+  "El puesto de mando estableció itinerario al tren 25552, provocando que el tren 15052 recibiera vía libre en la baliza previa de E2.",
+  "El maquinista aumentó la velocidad al no divisar el tren precedente.",
+  "El freno de emergencia se actuó demasiado tarde y el tren recorrió 24 metros hasta detenerse tras la señal."
  ],
  "mitigaciones": [
   "Funcionamiento correcto de ASFA",

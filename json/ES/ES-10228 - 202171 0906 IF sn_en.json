@@ -13,7 +13,11 @@
   "estacion": "Prat de Llobregat",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "Línea 200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França"
+  "linea": "Línea 200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+  "lat": 41.330903949140435,
+  "lng": 2.089316137206529,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de El Prat de Llobregat"
  },
  "entidades": [
   "ADIF",

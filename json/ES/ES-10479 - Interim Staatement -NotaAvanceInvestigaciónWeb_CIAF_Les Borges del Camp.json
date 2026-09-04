@@ -37,10 +37,9 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "Instalación de software con fallo",
-  "Puesta en servicio de señalización",
-  "Fallo en secuencia de señales",
-  "Distancia de frenado insuficiente"
+  "Insuficiente distancia de frenado entre la señal de entrada E1 y la señal de salida S1/1 de la estación",
+  "Fallo en el procedimiento de desarrollo del software por parte del tecnólogo (Alstom)",
+  "Insuficiencia en las pruebas realizadas para la comprobación de la funcionalidad del software (pruebas FAT, pruebas de concordancia y pruebas conjuntas con ADIF)"
  ],
  "mitigaciones": [
   "Freno de emergencia accionado",

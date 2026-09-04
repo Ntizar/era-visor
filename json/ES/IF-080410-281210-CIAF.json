@@ -51,10 +51,13 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No comunicación continua durante maniobra",
-  "No informa distancias entre cortes",
-  "No detención inmediata ante aproximación",
-  "Posición inadecuada del agente"
+  "La comunicación no fue continuada ni permanente durante la aproximación.",
+  "No se informó al personal de conducción de las distancias existentes entre los cortes de material.",
+  "En la locomotora no se recibió comunicación alguna desde que se inició el retroceso hasta el topetazo, transcurriendo casi un minuto.",
+  "No se realizó ninguna detención inmediata en ese periodo.",
+  "La velocidad en el momento de unir topes era excesiva (14 km/h).",
+  "La visibilidad del maquinista era reducida por conducir desde la parte trasera de la composición, con morro largo y en trazado curvo.",
+  "El agente fallecido se encontraba entre los topes en un lugar inadecuado."
  ],
  "mitigaciones": [
   "Grabación de conversaciones de maniobras",
@@ -68,7 +71,9 @@
   "Incumplimiento procedimiento operativo POP/20",
   "No detención inmediata por conductor"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "día soleado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2010-04-08",
  "hora": "11:25",

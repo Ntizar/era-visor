@@ -37,9 +37,12 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "falta de atención del maquinista",
-  "escasa experiencia en la vía",
-  "superación tiempo conducción continuada"
+  "Escasa experiencia del maquinista (titular desde 08/09/2015, solo 6 pasos por la vía general de Río Huerva).",
+  "No haber circulado con anterioridad por la vía de apartado de Río Huerva (ni durante la formación).",
+  "Posible fatiga: 10 horas 34 minutos de servicio y 8 horas 14 minutos de conducción en el momento del rebase.",
+  "Superación del tiempo máximo de conducción continuada (7h07min hasta Tardienta sin descanso de 45 min; 8h14min acumulados hasta Río Huerva).",
+  "Confusión del maquinista con las señales de la LAV 050 paralela (aunque la CIAF no lo considera probable tras análisis de visibilidad).",
+  "No haber sido informado de que sería apartado en Río Huerva."
  ],
  "mitigaciones": [
   "parada tren Transfesa ante señal entrada",
@@ -50,7 +53,9 @@
   "desconocimiento particularidades estación",
   "incumplimiento límites tiempos conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, despejado, sin condiciones meteorológicas adversas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2015-10-22",
  "provincia": "Zaragoza",

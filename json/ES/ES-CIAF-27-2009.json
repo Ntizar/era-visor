@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Madrid Chamartín",
   "provincia": "Madrid",
-  "lat": 40.524098,
-  "lng": -3.882556
+  "lat": 40.4743225,
+  "lng": -3.6818956,
+  "metodo_geo": "via_pk"
  },
  "pk": "P.K. 0+00, vía 10",
  "linea": "100 Hendaya – Madrid Chamartín",

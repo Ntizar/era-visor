@@ -51,9 +51,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "tránsito por lugar no autorizado",
-  "víctima circula por vía",
-  "vía sin vallar"
+  "La víctima padecía la enfermedad de Alzheimer",
+  "Vía sin vallar en el tramo del accidente",
+  "Adif consideró el accidente como suicidio"
  ],
  "mitigaciones": [
   "uso del silbato",
@@ -66,7 +66,9 @@
   "persona no autorizada en vía",
   "maquinista actúa correctamente"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado en el momento del arrollamiento"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-05-11",
  "hora": "17:53",

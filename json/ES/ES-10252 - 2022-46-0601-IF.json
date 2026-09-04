@@ -13,7 +13,11 @@
   "estacion": "Apeadero de El Papiol",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.43536729469257,
+  "lng": 2.002585140404447,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apeadero de El Papiol (APD)"
  },
  "entidades": [
   "Renfe Viajeros",
@@ -57,10 +61,18 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Uso de dispositivos electronicos durante maniobras",
-  "Conduccion bajo condiciones psicofisicas no aptas",
-  "Inicio sin confirmacion adecuada informacion servicio",
-  "Falta procedimientos retorno trabajo tras baja larga"
+  "Desvío del foco atencional durante el cambio de cabina por uso de dispositivo electrónico",
+  "Situación psico-personal transitoria de M-77721",
+  "Largo periodo de inactividad laboral (~8 meses) previo al incidente",
+  "Primera vez que M-77721 realizaba la rotación en Castellbisbal tras la reincorporación",
+  "Posible déficit de formación: no identificación del apeadero tras sobrepasar la señal 'A'; rotación en plena vía",
+  "Confusión de la señal permisiva E'4 con una señal absoluta de salida",
+  "Inicio de la marcha por la vía I (impar) siendo tren con numeración par (77622)",
+  "No notificación al RC de que el tren estaba dispuesto (entrada en banda)",
+  "Falta de chequeos adecuados antes del reinicio de la marcha",
+  "Imposibilidad de comunicación con M-77721 por tren-tierra (numeración cambiada) ni por teléfono corporativo (no lo llevaba)",
+  "Listas de comprobación con opción 'todo leído' que no obligan a verificación elemento por elemento",
+  "No se incluyó disponibilidad del móvil corporativo en las listas de chequeo"
  ],
  "mitigaciones": [
   "Procedimientos prevencion factores humanos Renfe",
@@ -74,7 +86,9 @@
   "Insuficiente comunicacion mentor-maquinista",
   "Limitaciones disponibilidad personal experimentado"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "De día, sin condiciones meteorológicas adversas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2022-06-01",
  "provincia": "Barcelona",

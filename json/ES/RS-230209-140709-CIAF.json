@@ -13,7 +13,11 @@
   "estacion": "Soto Dueñas",
   "provincia": null,
   "pk": null,
-  "linea": "Línea 21 Oviedo-Santander"
+  "linea": "Línea 21 Oviedo-Santander",
+  "lat": 43.35813345352158,
+  "lng": -5.226745124809324,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Soto de Dueñas"
  },
  "entidades": [
   "Feve"

@@ -13,7 +13,11 @@
   "estacion": "Heras",
   "provincia": "Cantabria",
   "pk": "545+009",
-  "linea": "24 Santander - Bilbao"
+  "linea": "24 Santander - Bilbao",
+  "lat": 43.40107157960485,
+  "lng": -3.7665081147257196,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Heras"
  },
  "entidades": [
   "Feve"
@@ -49,10 +53,13 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No respetar señal de parada",
-  "Velocidad excesiva al pasar agujas",
-  "Redución insuficiente tras aviso parada",
-  "Frenado tardío de emergencia"
+  "No prestar la debida atención durante la conducción (incumplimiento art. 2/27/00 RCT)",
+  "Pasar por la aguja de entrada a velocidad superior a la permitida (37,5 km/h vs 30 km/h límite con anuncio de precaución) (incumplimiento art. 2/02/00 RS)",
+  "Reducir insuficientemente la velocidad ante señal E2 en aviso de parada, no poniéndose en condiciones de detenerse ante la siguiente señal (incumplimiento art. 2/03/00 RS)",
+  "Iniciar el frenado a una distancia sustancialmente inferior a la visibilidad de la señal (40 m frente a 180 m de visibilidad)",
+  "Carril húmedo por lluvia que redujo la deceleración del frenado de emergencia por debajo del mínimo de la NBSM",
+  "Presencia de un agente comercial y de trenes en cabina durante la conducción",
+  "Longitud considerable del tren (385 m, 25 vagones, 2 locomotoras)"
  ],
  "mitigaciones": [
   "ASFA activó frenado emergencia",
@@ -66,7 +73,9 @@
   "Redución insuficiente de velocidad",
   "Presencia agente en cabina"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Nublado y con lluvia; carril muy húmedo"
+ ],
  "enriquecido_v2": true,
  "fecha": "2012-04-18",
  "hora": "10:54",

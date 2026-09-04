@@ -50,10 +50,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Maniobra libra señal R3",
-  "Cambio de mandos",
-  "CTC autoriza entrada tren 28708",
-  "Retromarcha hacia vía cuatro"
+  "Cambio de mandos en cabina tras librar la señal R3, lo que pudo generar confusión en el maquinista sobre la indicación de la señal",
+  "El maquinista interpretó erróneamente la señal R3 como rebase autorizado cuando estaba en indicación de parada",
+  "El itinerario establecido por el CTC para la maniobra la encaminaba de nuevo a vía 4, lo que sorprendió al maquinista"
  ],
  "mitigaciones": [
   "Parada inmediata por focos",

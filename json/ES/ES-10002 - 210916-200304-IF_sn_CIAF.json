@@ -39,10 +39,10 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Fallo aguja A1 estación Xeraco",
-  "Regulador no asegura bloqueo",
-  "No desactiva GRP Tavernes",
-  "GRP bloquea itinerario contrario"
+  "Avería y falta de comprobación del desvío A1 de la estación de Xeraco (embrague del motor de accionamiento en deficiente estado), que originó la situación degradada de operación.",
+  "Consigna GRP AOI 28/17 no establece claramente que se deba desconectar el automatismo en las estaciones colaterales a aquella donde se produce una avería, generando ambigüedad.",
+  "Confianza del RC en que el bloqueo Xeraco-Tavernes (tomado por el 24272) se mantendría para la salida del 24294.",
+  "Carga de trabajo relativamente alta en el momento del suceso (avería de aguja + otras operaciones en la banda)."
  ],
  "mitigaciones": [
   "Ordena detener ambos trenes",
@@ -56,7 +56,9 @@
   "Normativa GRP ambigua",
   "Falta formación desactivar GRP"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche. Buenas condiciones de visibilidad. Meteorología favorable. Sin condiciones adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2020-03-04",
  "provincia": "Valencia",

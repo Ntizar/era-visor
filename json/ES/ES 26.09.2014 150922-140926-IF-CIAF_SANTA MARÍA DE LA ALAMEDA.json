@@ -39,10 +39,9 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Tren detenido en plena vía",
-  "Se segrega locomotora para socorro",
-  "PM ordena marcha a la vista",
-  "No cumple adecuadamente la orden"
+  "Visibilidad reducida por las características del trazado (salida de túnel nº 6, curva a la izquierda, trinchera, rampa de 20,90‰).",
+  "El maquinista declaró posible influencia de la fatiga por horas estacionado y despiste al buscar los puntos kilométricos que no se veían bien.",
+  "La locomotora aumentó progresivamente la velocidad hasta 67 km/h antes de reducir, lo que indica que no se ajustó la velocidad a la distancia de frenado visible."
  ],
  "mitigaciones": [
   "Activación de seta de emergencia",
@@ -54,7 +53,9 @@
   "Despiste al buscar puntos kilométricos",
   "No cumplimentar adecuadamente la orden"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "De noche. No existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2014-09-26",
  "hora": "06:48:10",

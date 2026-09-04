@@ -51,8 +51,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Maquinista no detuvo tren ante señal roja",
-  "Falta de atención a indicaciones de señales"
+  "El tren 81811 circulaba a 40 km/h en la estación y a 30 km/h al pasar la baliza de S1/1, lo que no permitió detenerse a tiempo tras la activación del ASFA.",
+  "Ausencia de baliza previa en la señal de salida S1/1 en el momento del incidente (se instaló posteriormente), lo que limitó la información anticipada al maquinista.",
+  "La señal S1/1 se encontraba en curva y rampa de subida, lo que según el maquinista dificultaba la percepción (aunque el videográfico confirma que la señal estaba en rojo y tenía buena visibilidad).",
+  "No existía ninguna señal intermedia entre el tren 81811 y el 17301 que pudiera ordenar parada al primero tras el rebase.",
+  "El BLAD no permitía abrir S1/1 hasta que el tren precedente llegara a Sigüenza, lo que mantenía la señal en rojo de forma prolongada."
  ],
  "mitigaciones": [
   "Activación automática freno emergencia ASFA",
@@ -62,7 +65,9 @@
   "Incumplimiento normas RGC por maquinista",
   "Pérdida concentración en conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "No existían condiciones meteorológicas adversas en el momento del suceso."
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-08-14",
  "hora": "08:58",

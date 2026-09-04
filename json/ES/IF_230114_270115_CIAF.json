@@ -39,9 +39,8 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": "Mantenimiento",
  "precursores": [
-  "Bloqueo incorrecto de la vía I",
-  "Error humano en operación CTC",
-  "Ausencia de barra de shuntado"
+  "Carga de trabajo del jefe del CTC: varios cortes de vía en el turno y varios trenes en la banda (seis en total), lo que pudo influir en la confusión.",
+  "Ausencia de protección mediante barra de shuntado o útiles de cortocircuito en la zona de trabajos, medida no obligatoria en la Consigna C Experimental nº 58 pero que podría haber evitado el suceso."
  ],
  "mitigaciones": [
   "Retirada operarios por encargado",
@@ -53,7 +52,9 @@
   "Operación circulación incorrecta",
   "Confusión entre vías bloqueadas"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Nublado con buena visibilidad."
+ ],
  "enriquecido_v2": true,
  "fecha": "2014-01-23",
  "hora": "11:43:53",

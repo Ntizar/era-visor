@@ -51,9 +51,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Pastor invade galibo de vía",
-  "Rebaño intercepta la vía",
-  "Ausencia de cerramiento en tramo"
+  "El pastor estaba de espaldas al sentido de la marcha del tren, despistado en el momento de la aproximación del tren.",
+  "Ausencia de cerramiento en el tramo, permitiendo el acceso de ganado y personas a la caja de la vía.",
+  "La velocidad del tren (138 km/h) impidió detenerlo a pesar de la actuación del freno de emergencia."
  ],
  "mitigaciones": [
   "Uso de silbato por maquinista",
@@ -67,7 +67,9 @@
   "Maquinista actúa correctamente",
   "Alcoholemia negativa del maquinista"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado y con viento"
+ ],
  "enriquecido_v2": true,
  "fecha": "2008-11-26",
  "hora": "15:21",

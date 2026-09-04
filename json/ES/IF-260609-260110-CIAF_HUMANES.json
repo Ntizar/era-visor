@@ -52,10 +52,11 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Establecer itinerario con aguja incorrecta",
-  "Expedir tren sin señal abierta",
-  "Desconocer condiciones de bloqueo",
-  "Mover aguja para itinerario incompatible"
+  "La jefa de circulación dispuso la entrada del tren LU110 moviendo la aguja 4 a normal, creando un itinerario incompatible con la circulación del HU171 (incumplimiento art. 310 RGC).",
+  "Avería en el contador de ejes del tramo Humanes-Illescas que obligó a establecer bloqueo telefónico supletorio, cambiando las condiciones habituales de operación.",
+  "La jefa de circulación estaba destinada en la estación de Humanes desde solo 12 días antes del incidente (desde el 14/06/09).",
+  "La señal de rebase autorizado E6 era de nueva puesta en funcionamiento.",
+  "Situación de BT (bloqueo telefónico) con Illescas y trenes especiales continuamente con/sin servicio, generando condiciones no habituales."
  ],
  "mitigaciones": [
   "Parada inmediata por maquinista",
@@ -69,7 +70,9 @@
   "Formación insuficiente en condiciones no habituales",
   "Desconocimiento de condiciones de bloqueo"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo atmosférico despejado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-06-26",
  "hora": "10:29",

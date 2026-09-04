@@ -53,8 +53,7 @@
  "circulation_type": "via_unica",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No percibe señal salida roja",
-  "Incumple reglamento circulación trenes"
+  "El maquinista reconoció la señal de entrada E1 en amarillo, pero no se percató de que la señal de salida S1/3 lucía en rojo."
  ],
  "mitigaciones": [
   "ASFA provoca freno emergencia",
@@ -67,7 +66,9 @@
   "Incumple reglamento señales Feve",
   "Actitudes comportamientos fuentes riesgo"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Tiempo lluvioso y con nieve."
+ ],
  "enriquecido_v2": true,
  "fecha": "2009-01-20",
  "hora": "12:08",

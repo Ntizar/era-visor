@@ -14,8 +14,9 @@
   "provincia": "Madrid",
   "pk": "37/893",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": 40.6263825,
-  "lng": -4.0081534
+  "lat": 40.62622523,
+  "lng": -4.00813515,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",
@@ -38,10 +39,9 @@
  "circulation_type": null,
  "fase_ciclo_vida": null,
  "precursores": [
-  "viajero permanece en andén",
-  "viajero corre junto tren",
-  "viajero intenta abrir puerta",
-  "lluvia reduce visibilidad"
+  "Lluvia y visibilidad reducida en el andén",
+  "Espejo retrovisor del maquinista mojado por la lluvia, dificultando la visión",
+  "La víctima se encontraba en el andén sin hacer ademán de subir, lo que pudo llevar al maquinista a no prever su intención"
  ],
  "mitigaciones": [
   "maquinista detiene tren",
@@ -55,7 +55,9 @@
   "visibilidad reducida por lluvia",
   "espejo retrovisor mojado"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Lluvia en el momento del accidente, visibilidad reducida. El espejo retrovisor del maquinista se encontraba mojado."
+ ],
  "enriquecido_v2": true,
  "fecha": "2007-04-06",
  "hora": "20:53",

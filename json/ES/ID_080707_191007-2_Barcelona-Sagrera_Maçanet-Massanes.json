@@ -13,7 +13,10 @@
   "estacion": "Arenys de Mar",
   "provincia": "Barcelona",
   "pk": "37/325",
-  "linea": "Barcelona-Sagrera a Maçanet-Massanes"
+  "linea": "Barcelona-Sagrera a Maçanet-Massanes",
+  "lat": 41.6827592,
+  "lng": 2.28876901,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

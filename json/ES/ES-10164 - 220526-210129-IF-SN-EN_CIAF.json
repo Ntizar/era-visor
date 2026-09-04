@@ -39,10 +39,15 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Avería ASFA no resuelta",
-  "Salida con ASFA averiado",
-  "Comunicación CG RC imprecisa",
-  "Cambio material en apeadero"
+  "Comunicación incorrecta y no eficaz entre el CG de Renfe Viajeros y el RC del CTC, que llevó a confundir la operativa con un simple cambio de maquinistas",
+  "Cambio de número de tren en los sistemas tren-tierra por parte de los maquinistas sin conocimiento del PM, dificultando el entendimiento de la situación",
+  "Delegación de facto por el RC del CTC en el CG de las órdenes de parada no prescrita",
+  "Asunción errónea por los maquinistas de que el PM había invertido el bloqueo automático banalizado (imposible reglamentaria y técnicamente con vía ocupada)",
+  "Desconocimiento del RC del CTC de la avería y desconexión del ASFA Digital del tren 14423",
+  "Desconocimiento o incumplimiento por los maquinistas de las prescripciones del Art. 3.6.2.2 del RCF (solicitud y orden de retroceso)",
+  "Comunicación directa del CG a los maquinistas impartiendo instrucciones que corresponden exclusivamente al RC del CTC",
+  "Voluntarismo de los maquinistas M1 y M2 por solventar prematuramente la incidencia obviando prescripciones reglamentarias",
+  "Presión de tiempos en la ejecución de la operación (parada casi inmediata requerida)"
  ],
  "mitigaciones": [
   "Detención inmediata ante tren",
@@ -56,7 +61,9 @@
   "Ignorancia normas de retroceso",
   "Comunicación deficiente entre CG PM"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Noche, condiciones meteorológicas normales"
+ ],
  "enriquecido_v2": true,
  "fecha": "2021-01-29",
  "provincia": "Valencia",

@@ -54,10 +54,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "autorizacion de rebase por telefonema",
-  "colaboracion con personal instalaciones",
-  "no verificar ocupacion del circuito",
-  "accionamiento de aguja 12"
+  "Carga de trabajo del personal de circulación al tener que autorizar rebases a circulaciones de cercanías y colaborar con el personal de instalaciones en la reparación de la avería.",
+  "Avería en el circuito de vía A4 de las agujas 4, 6 y 12, que obligaba a actuar sobre las agujas por emergencia.",
+  "No verificar la no ocupación del circuito de vía A4 antes de accionar la aguja."
  ],
  "mitigaciones": [
   "velocidad no supera 25 km/h",

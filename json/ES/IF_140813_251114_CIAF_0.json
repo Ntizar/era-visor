@@ -34,8 +34,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Maquinista no detuvo tren ante señal roja",
-  "Falta de atención a indicaciones de señales"
+  "La señal S1/1 permanecía en parada por el bloqueo de liberación automático (BLAD) hasta que el tren precedente llegara a Sigüenza.",
+  "No existía ninguna señal que ordenase parada entre los dos trenes tras el rebase, lo que originó el conato de colisión.",
+  "Según la declaración del maquinista, la señal S1/1 se encontraba en curva y rampa de subida y carecía de baliza previa; Adif dotó posteriormente a la señal de baliza previa."
  ],
  "mitigaciones": [
   "Activación automática freno emergencia ASFA",
@@ -45,7 +46,9 @@
   "Incumplimiento normas RGC por maquinista",
   "Fallo humano en conducción"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "No existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-08-14",
  "hora": "08:58",

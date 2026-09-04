@@ -37,10 +37,9 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Falta de atención del maquinista",
-  "No anticipar parada señal salida",
-  "Ignorar diferencia aceleración locomotora",
-  "Circular locomotora aislada sin precaución"
+  "El maquinista no tuvo en cuenta la diferencia de aceleración entre una locomotora aislada y un tren de mercancías cargado.",
+  "La locomotora aislada aceleró más que en las circulaciones habituales con trenes de unas 1.000 toneladas, reduciendo el tiempo empleado entre las señales B101 y B107-3.",
+  "El freno de emergencia por ASFA no pudo evitar el rebase indebido, que se produjo unos 80 metros después de la baliza de pie de la señal."
  ],
  "mitigaciones": [
   "Pautas conducción locomotoras aisladas",
@@ -54,7 +53,9 @@
   "Desconocimiento comportamiento locomotora",
   "Ausencia procedimiento SGS habilitaciones"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Condiciones meteorológicas normales."
+ ],
  "enriquecido_v2": true,
  "fecha": "2015-05-22",
  "provincia": "Madrid",

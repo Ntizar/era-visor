@@ -11,7 +11,11 @@
  "gravedad": "menor",
  "ubicacion": {
   "estacion": "Torelló",
-  "provincia": "Madrid"
+  "provincia": "Madrid",
+  "lat": 42.052026688493136,
+  "lng": 2.2599996380436496,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Torelló"
  },
  "pk": null,
  "linea": null,

@@ -49,10 +49,8 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "falta de atención en conducción",
-  "consulta libro horario tren",
-  "circular con velocidad prefijada",
-  "no adoptar marcha maniobras"
+  "Circulación con velocidad prefijada incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+  "Curva a la izquierda y pilares que impedían la visibilidad de la parte posterior del andén de la vía 7, según la declaración del maquinista."
  ],
  "mitigaciones": [
   "aplicación freno de urgencia",

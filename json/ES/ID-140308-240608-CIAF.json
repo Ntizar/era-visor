@@ -13,7 +13,10 @@
   "estacion": "Llinars del Vallés",
   "provincia": "Barcelona",
   "pk": "148/000",
-  "linea": "270 Barcelona-Cerbere"
+  "linea": "270 Barcelona-Cerbere",
+  "lat": 41.64428171853211,
+  "lng": 2.415786751559633,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

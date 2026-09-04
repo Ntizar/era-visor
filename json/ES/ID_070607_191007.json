@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Castellón",
   "pk": "61/700",
-  "linea": "Línea 600 Valencia Nord – San Vicente Calders"
+  "linea": "Línea 600 Valencia Nord – San Vicente Calders",
+  "lat": 39.89753496525424,
+  "lng": -0.10322594940677964,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

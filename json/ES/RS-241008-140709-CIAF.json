@@ -13,7 +13,11 @@
   "estacion": "Moncófar",
   "provincia": null,
   "pk": null,
-  "linea": "600 Valencia Estación del Nord - San Vicente de Calders"
+  "linea": "600 Valencia Estación del Nord - San Vicente de Calders",
+  "lat": 39.82084356003867,
+  "lng": -0.16260953918317042,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de Moncofar"
  },
  "entidades": [
   "Renfe Operadora",

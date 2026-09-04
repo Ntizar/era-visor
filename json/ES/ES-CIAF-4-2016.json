@@ -12,8 +12,9 @@
  "ubicacion": {
   "estacion": "Elx Parc",
   "provincia": "Alicante",
-  "lat": 38.257694,
-  "lng": -0.720584
+  "lat": 38.273177899152174,
+  "lng": -0.688688175076087,
+  "metodo_geo": "via_pk"
  },
  "pk": "PK 20+094 (Señal E1) y PK 20+346 (Señal R1)",
  "linea": "336 El Reguerón a Alacant Terminal",

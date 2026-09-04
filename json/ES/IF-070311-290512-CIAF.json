@@ -55,10 +55,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "ASFA embarcado indica vía libre",
-  "Maquinista actúa según ASFA",
-  "No reduce velocidad ante parada",
-  "Tren rebasa señal avanzada parada"
+  "Funcionamiento anómalo del sistema ASFA por discrepancia entre la indicación de la señal intermedia 2268 (anuncio de parada) y la indicación del ASFA embarcado (vía libre).",
+  "El maquinista atendió la indicación del ASFA en cabina en lugar de la indicación real de la señal.",
+  "No se puso el tren en condiciones de parar ante la señal siguiente, incumpliendo el artículo 213 del Reglamento General de Circulación.",
+  "No se comunicó al puesto de mando el rebase de la señal E'2, incumpliendo el artículo 279 del Reglamento General de Circulación."
  ],
  "mitigaciones": [
   "Maquinista aplica freno de urgencia",
@@ -72,7 +72,9 @@
   "No comunica rebase al mando",
   "No reduce velocidad ante parada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Era de noche y no existían condiciones meteorológicas adversas."
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-03-07",
  "hora": "21:22",

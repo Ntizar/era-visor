@@ -13,7 +13,11 @@
   "estacion": "Arahal",
   "provincia": "Sevilla",
   "pk": null,
-  "linea": "Línea 422 (Arahal – Fuente de Piedra)"
+  "linea": "Línea 422 (Arahal – Fuente de Piedra)",
+  "lat": 37.268135262186135,
+  "lng": -5.548391850327429,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Arahal"
  },
  "entidades": [
   "ADIF",
@@ -37,9 +41,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "No respetar señal de precaución",
-  "Entrada a vía desviada excesiva velocidad",
-  "Ausencia sistema protección tren"
+  "Inexistencia de sistema de protección del tren (ASFA digital) en el tramo Arahal-Fuente de Piedra de la línea 422 que mitigue errores del factor humano",
+  "El maquinista estaba pendiente del paso a nivel y del responsable de circulación para la orden de paso, lo que le impidió reaccionar ante la señal E1",
+  "Intento fallido del maquinista de comunicar su aproximación por radiotelefonía (consigna CO 891) sin obtener respuesta del responsable de circulación",
+  "Enclavamiento mecánico parcial por cerraduras Bouré con accionamiento manual a 20 m del gabinete, que impide modificar el itinerario una vez el tren ha rebasado la señal avanzada"
  ],
  "mitigaciones": [
   "Aplicación freno emergencia",
@@ -51,7 +56,9 @@
   "Incumplimiento reglamento circulación",
   "Pérdida atención señales vía"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Horas diurnas sin condiciones meteorológicas adversas. No se constatan anomalías en visibilidad, conservación y limpieza de las señales."
+ ],
  "enriquecido_v2": true,
  "fecha": "2017-01-15",
  "provincia": "SEVILLA",

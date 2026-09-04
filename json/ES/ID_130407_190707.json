@@ -13,7 +13,10 @@
   "estacion": "Apeadero de El Tejar",
   "provincia": "Madrid",
   "pk": "18/200",
-  "linea": "Línea 100 Madrid-Chamartín-Hendaya"
+  "linea": "Línea 100 Madrid-Chamartín-Hendaya",
+  "lat": 40.51085717,
+  "lng": -3.85572066,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

@@ -13,7 +13,11 @@
   "estacion": "Mataró",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.53337861693792,
+  "lng": 2.4455153941150596,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Mataró"
  },
  "entidades": [
   "ADIF"

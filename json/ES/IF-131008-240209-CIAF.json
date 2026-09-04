@@ -13,7 +13,11 @@
   "estacion": "La Encina",
   "provincia": "Alicante",
   "pk": "375,740",
-  "linea": "300 Madrid - Chamartín - Valencia – Estación Nord"
+  "linea": "300 Madrid - Chamartín - Valencia – Estación Nord",
+  "lat": 38.765391625566366,
+  "lng": -0.954272721182974,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de La Encina"
  },
  "entidades": [
   "Renfe Operadora",

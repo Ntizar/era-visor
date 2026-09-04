@@ -54,7 +54,9 @@
   "Despiste al reanudar marcha",
   "Cumplimiento de requisitos personales"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Sin condiciones meteorológicas adversas"
+ ],
  "enriquecido_v2": true,
  "fecha": "2013-10-27",
  "hora": "08:31",

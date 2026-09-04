@@ -51,9 +51,10 @@
  "circulation_type": "via_multiple",
  "fase_ciclo_vida": null,
  "precursores": [
-  "Rebase indebido señal parada",
-  "Retroceso sin autorización tren",
-  "Incumplimiento ordenes señales"
+  "Incumplimiento del artículo 217.1 del RGC (rebase de señal en parada)",
+  "Incumplimiento del artículo 475.1 del RGC (retroceso sin autorización)",
+  "Incumplimiento del artículo 279 del RGC (no informar adecuadamente al CTC, negar el retroceso)",
+  "Exceso de velocidad sobre la limitación temporal (38 km/h frente a 30 km/h permitidos) antes de la estación, incumpliendo la Consigna Serie B nº 10"
  ],
  "mitigaciones": [
   "Actuación frenado urgencia ASFA",
@@ -64,7 +65,9 @@
   "No informar adecuadamente incidente",
   "Negar maniobra retroceso realizada"
  ],
- "meteorologia": [],
+ "meteorologia": [
+  "Día despejado y soleado"
+ ],
  "enriquecido_v2": true,
  "fecha": "2011-10-26",
  "hora": "16:24",

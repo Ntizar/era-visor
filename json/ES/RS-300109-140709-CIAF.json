@@ -13,7 +13,11 @@
   "estacion": "Sodupe",
   "provincia": null,
   "pk": null,
-  "linea": "Línea 24 Santander - Bilbao"
+  "linea": "Línea 24 Santander - Bilbao",
+  "lat": 43.20199998968792,
+  "lng": -3.0504156898327897,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Sodupe"
  },
  "entidades": [
   "CIAF"
