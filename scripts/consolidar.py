@@ -137,6 +137,15 @@ def main(codigo: str):
             for campo in campos_v2:
                 if pierde.get(campo) and not gana.get(campo):
                     gana[campo] = pierde[campo]
+            # consecuencias del analisis v3 mandan sobre el JSON base (v3 fue
+            # extraido del PDF completo: mas fiable que la primera pasada)
+            cons = ((gana.get("v3") or {}).get("consecuencias") or {})
+            if cons.get("fallecidos") is not None:
+                gana["fallecidos"] = cons["fallecidos"]
+            if cons.get("heridos_graves") is not None:
+                gana["heridos_graves"] = cons["heridos_graves"]
+            if cons.get("heridos_leves") is not None:
+                gana["heridos_leves"] = cons["heridos_leves"]
             if gana is rec:
                 idx = registros.index(existente)
                 registros[idx] = rec
@@ -159,6 +168,17 @@ def main(codigo: str):
     db = RAIZ / "data" / "db"
     (db / "reports").mkdir(parents=True, exist_ok=True)
     (db / "recs").mkdir(parents=True, exist_ok=True)
+
+    # normalizacion final: consecuencias del v3 mandan (para TODOS los registros)
+    for r in registros:
+        cons = ((r.get("v3") or {}).get("consecuencias") or {})
+        if cons.get("fallecidos") is not None:
+            r["fallecidos"] = cons["fallecidos"]
+        if cons.get("heridos_graves") is not None:
+            r["heridos_graves"] = cons["heridos_graves"]
+        if cons.get("heridos_leves") is not None:
+            r["heridos_leves"] = cons["heridos_leves"]
+
     (db / "reports" / f"{codigo}.json").write_text(
         json.dumps(registros, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (db / "recs" / f"{codigo}.json").write_text(
