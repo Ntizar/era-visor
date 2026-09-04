@@ -31,14 +31,15 @@
  "provincia": "Pontevedra",
  "estacion": "O Porriño",
  "tipo": "accidente ferroviario",
- "meteorologia": [
-  "Buenas condiciones meteorológicas, excelente visibilidad. Día despejado. Sol a baja altura (~12° elevación, azimut 94°), incidiendo perpendicularmente a la línea visual, sin producir deslumbramiento. Distancia de visibilidad de las señales: ~400 m."
- ],
- "precursores": [
-  "El maquinista no cumplió la orden de la señal 1532 (anuncio de precaución, 30 km/h).",
-  "El maquinista reconoció las señales ópticas y acústicas del ASFA sin tomar ninguna acción de frenado, lo que impidió la aplicación del freno de emergencia por este equipo.",
-  "Falta de atención en la conducción (hipótesis más verosímil, no demostrable por ausencia de grabaciones de audio/vídeo en cabina).",
-  "El maquinista no respetó la LTV a 30 km/h entre PK 157+750 y 157+700, pasando a 51-55 km/h.",
-  "El impacto contra el estribo del paso superior de la N-120 agravó las consecuencias del descarrilamiento inicial."
- ]
+ "meteorologia": [],
+ "precursores": [],
+ "subsistema": null,
+ "sistema_proteccion": null,
+ "tipo_red": null,
+ "explotacion": null,
+ "circulation_type": null,
+ "fase_ciclo_vida": null,
+ "mitigaciones": [],
+ "factores_humanos": [],
+ "enriquecido_v2": true
 }

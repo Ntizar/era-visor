@@ -1,0 +1,64 @@
+{
+ "id": "ES-2023-114-231126-if_ciaf",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/2023-114-231126-if_ciaf.pdf",
+ "url_pdf": null,
+ "erail_id": null,
+ "expediente": "114/2023",
+ "titulo": "Descarrilamiento de tren en la estación de Atocha-Cercanías (Madrid) el 26 de noviembre de 2023",
+ "fecha_suceso": "2023-11-26",
+ "tipo_informe": "final",
+ "tipo_suceso": "descarrilamiento",
+ "ubicacion": {
+  "estacion": "Atocha-Cercanías",
+  "provincia": "Madrid",
+  "pk": null,
+  "linea": null
+ },
+ "entidades": [
+  "Renfe Viajeros",
+  "ADIF"
+ ],
+ "resumen": "El 26 de noviembre de 2023, el tren 00271 de Renfe Viajeros, entre Almería y Madrid-Chamartín, sufrió un descarrilamiento parcial al salir de la vía 4 de la estación de Atocha-Cercanías, al pasar por la travesía T10. Las dos locomotoras y los tres primeros rodales circularon correctamente, pero los rodales cuarto y octavo descarrilaron y los dos últimos fueron encaminados incorrectamente a la vía II del túnel de Recoletos. La hipótesis adoptada es que el espadín derecho T10A se fracturó tras el paso del tercer rodal, creando un perfil no uniforme. Como consecuencia hubo 14 heridos leves y daños materiales en infraestructura y material rodante.",
+ "causa_directa": "Rotura del espadín derecho T10A de la travesía T10 en la estación de Atocha-Cercanías, que generó un perfil no uniforme y permitió el descarrilamiento y el encaminamiento incorrecto de parte de la composición.",
+ "causas_sistemicas": "Alta intensidad de tráfico en la travesía T10, características de diseño por la dificultad de garantizar la continuidad entre la estación y el túnel, y gestión del ciclo de vida de elementos en puntos críticos.",
+ "recomendaciones": [
+  "Identificar puntos críticos de la red con características similares al lugar del suceso y adoptar medidas de mejora en ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+  "Revisar y optimizar los procedimientos de control y mantenimiento preventivo de aparatos de vía en puntos críticos, adaptándolos a sus particularidades funcionales y estructurales.",
+  "Establecer la periodicidad de las auscultaciones y sus modificaciones en función de estudios de riesgo, no de la disponibilidad de medios materiales."
+ ],
+ "fallecidos": 0,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {},
+ "heridos_leves": 14,
+ "danos_materiales": true,
+ "gravedad": "grave",
+ "hora": "23:59",
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Alta intensidad de tráfico",
+  "Diseño de continuidad difícil",
+  "Gestión del ciclo de vida",
+  "Mantenimiento preventivo no adaptado"
+ ],
+ "mitigaciones": [
+  "Interceptación de la vía",
+  "Plan de emergencias interno-externo",
+  "Revisar mantenimiento preventivo",
+  "Auscultaciones basadas en riesgo"
+ ],
+ "factores_humanos": [
+  "Gestión del ciclo de vida",
+  "Mantenimiento preventivo no adaptado",
+  "Auscultaciones por disponibilidad",
+  "Diseño del aparato de vía"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true
+}

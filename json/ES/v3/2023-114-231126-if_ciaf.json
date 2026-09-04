@@ -1,0 +1,142 @@
+{
+ "titulo_normalizado": "Descarrilamiento parcial en la estación de Atocha-Cercanías por rotura del espadín de la travesía T10",
+ "idioma_original": "es",
+ "resumen": "El 26 de noviembre de 2023, el tren 00271 de Renfe Viajeros descarriló parcialmente al salir de la vía 4 de la estación de Atocha-Cercanías, en la travesía T10, con dirección a la vía I del túnel de Recoletos. La hipótesis adoptada es que se fracturó el espadín interior derecho T10A tras el paso del tercer rodal de los coches remolcados, generando un perfil no uniforme que provocó el descarrilamiento de los rodales entre la cuarta y octava posición y el encarrilamiento erróneo de los dos últimos rodales hacia la vía II. Como consecuencia hubo 14 heridos leves y daños materiales estimados en 936.536 euros. La investigación apunta a la rotura del espadín como factor causal, con contribuyentes como la alta intensidad de tráfico y el diseño de la travesía, y un factor sistémico relacionado con la gestión del ciclo de vida de elementos en puntos singulares.",
+ "hechos": "El día 26 de noviembre de 2023, a las 14:24 horas, el tren 00271 de Renfe Viajeros, con trayecto Almería - Madrid-Chamartín Clara Campoamor, salió de la vía 4 de la estación de Atocha-Cercanías hacia la vía I del túnel de Recoletos. La composición estaba formada por dos locomotoras de la serie 334, números 010 y 006, y nueve coches Talgo de la Serie 6, rama 6B10, con 159 metros de longitud y 317 toneladas de peso. El Responsable de Circulación estableció correctamente el itinerario de salida y la verificación no detectó anomalías en los aparatos de vía implicados.\n\nLas dos locomotoras y los tres primeros rodales de los coches remolcados circularon correctamente por la vía I. Sin embargo, tras el paso del tercer rodal, se produjo la rotura del espadín interior derecho T10A de la travesía T10. La punta del espadín, unida al tirante, quedó separada de la contraaguja, mientras que el resto retornó a su posición de reposo sobre la contraaguja. Esta configuración anómala generó un perfil no uniforme.\n\nComo resultado, los rodales comprendidos entre la cuarta y la octava posición descarrilaron, y los dos últimos rodales, noveno y décimo, fueron encarrilados erróneamente hacia la vía II del túnel de Recoletos. El suceso se produjo en un entorno de tramo en túnel, con condiciones habituales de visibilidad y ambientales para esa infraestructura. Tras el accidente, quedaron interceptadas las vías I y II del túnel entre Atocha-Cercanías y Recoletos.",
+ "lugar": {
+  "tipo": "estacion",
+  "estacion": "Atocha-Cercanías",
+  "pk": "0,150",
+  "linea": "900 Madrid Chamartín - Madrid Atocha Cercanías",
+  "provincia": "Madrid",
+  "descripcion_lugar": "Travesía T10, a la salida de la vía 4 de la estación de Atocha-Cercanías, en dirección a la vía I del túnel de Recoletos."
+ },
+ "cronologia": [
+  {
+   "hora": "14:21",
+   "evento": "El tren 00271 realizó una parada comercial en la vía 4 de la estación de Atocha-Cercanías, con 38 minutos de retraso respecto al horario previsto."
+  },
+  {
+   "hora": "14:24",
+   "evento": "El tren salió de la vía 4 hacia la vía I del túnel de Recoletos con señal de salida en vía libre; se produjo el descarrilamiento parcial al pasar por la travesía T10."
+  },
+  {
+   "hora": "14:28",
+   "evento": "El maquinista comunicó el accidente al Responsable de Circulación de Atocha; el análisis del suceso registra el paso por la travesía T10 a 32 km/h."
+  },
+  {
+   "hora": "15:20",
+   "evento": "La CIAF recibió la notificación del accidente mediante SMS remitido por el área de investigación de ADIF."
+  },
+  {
+   "hora": "22:00",
+   "evento": "Un equipo de tres técnicos de la CIAF se desplazó al lugar del accidente en la estación de Atocha."
+  },
+  {
+   "hora": "02:35",
+   "evento": "El 28 de noviembre de 2023 quedó restablecido el tráfico por la vía II del túnel de Recoletos."
+  },
+  {
+   "hora": "02:02",
+   "evento": "El 29 de noviembre de 2023 quedó restablecido el tráfico por la vía I del túnel de Recoletos."
+  }
+ ],
+ "trenes": [
+  {
+   "numero": "00271",
+   "tipo": "Tren de viajeros Almería - Madrid-Chamartín Clara Campoamor, compuesto por dos locomotoras y nueve coches Talgo",
+   "operador": "Renfe Viajeros",
+   "danos": "5 coches afectados; costes totales de reparación del material rodante estimados en 810.707 euros."
+  }
+ ],
+ "personal": [
+  {
+   "rol": "Maquinista del tren 00271",
+   "implicacion": "Comunicó el accidente al Responsable de Circulación tras el descarrilamiento."
+  },
+  {
+   "rol": "Responsable de Circulación de Atocha-Cercanías",
+   "implicacion": "Estableció el itinerario de salida desde la vía 4 hacia la vía I del túnel de Recoletos; la verificación no detectó anomalías."
+  },
+  {
+   "rol": "Personal de ADIF",
+   "implicacion": "Movilización de recursos, inspección, protocolos de seguridad, reparación temporal y sustitución de espadines."
+  },
+  {
+   "rol": "Personal de Renfe Viajeros y Talgo",
+   "implicacion": "Acudió para valorar el material accidentado."
+  },
+  {
+   "rol": "Servicios públicos de emergencia",
+   "implicacion": "Bomberos, SAMUR-Protección Civil, Policía Municipal y Policía Nacional fueron movilizados por el plan de emergencias."
+  }
+ ],
+ "infraestructura": {
+  "senalizacion": "BAB con CTC y sistema ASFA",
+  "tipo_via": "Vía en placa en la travesía T10; el aparato anterior estaba sobre vía en balasto",
+  "velocidad_maxima": null,
+  "ancho": "Ancho ibérico 1668 mm; coches Talgo remolcados con sistema de ancho variable 1668/1435",
+  "electrificacion": "3 kV",
+  "estado_via": "Travesía T10 de unión doble con rotura del espadín interior derecho T10A; se detectó una fisura en el espadín T10B y se sustituyó.",
+  "otro": "PK 0,150 de la Línea 900; salida de vía 4 de Atocha-Cercanías hacia vía I del túnel de Recoletos; entorno de tramo en túnel."
+ },
+ "material_rodante": {
+  "series": "Locomotoras serie 334, números 010 y 006; coches Talgo Serie 6, rama 6B10",
+  "averia": "No se identificó ninguna anomalía técnica ni influencia de los parámetros de rodadura del material móvil; resultaron afectados 5 coches.",
+  "mantenimiento": null
+ },
+ "clima": null,
+ "causas": {
+  "directa": "Rotura del espadín interior derecho T10A de la travesía T10, como consecuencia de tensiones ejercidas por el tirante, que generó una configuración anómala del aparato de vía.",
+  "contribuyentes": [
+   "La intensidad de tráfico que soporta la travesía T10, con una media de 2.641 circulaciones semanales en el tramo Atocha-Cercanías - Chamartín por el túnel de Recoletos.",
+   "Las características del diseño de la travesía T10 por la dificultad de dar continuidad a la vía entre la estación y el túnel.",
+   "La mayor rigidez estructural derivada de la sustitución de vía en balasto por vía en placa, que pudo incrementar tensiones locales en componentes sensibles como los espadines.",
+   "Posible fractura por fatiga del espadín, aunque no se pudo determinar de forma concluyente el origen concreto de la rotura."
+  ],
+  "sistemicas": [
+   "La gestión del ciclo de vida de elementos en puntos singulares, por tráfico, diseño o condiciones del entorno.",
+   "Deficiencias en procedimientos de control y mantenimiento preventivo de aparatos de vía en puntos críticos.",
+   "Planificación de auscultaciones basada en disponibilidad de medios materiales en lugar de estudios de riesgo.",
+   "Debilidades en vigilancia interna del administrador de infraestructuras y en supervisión y auditoría de la AESF."
+  ]
+ },
+ "consecuencias": {
+  "fallecidos": null,
+  "heridos_graves": null,
+  "heridos_leves": 14,
+  "danos_materiales": "Daños materiales totales estimados en 936.536 euros: 810.707 euros en material rodante, con 5 coches afectados, y 125.829 euros en infraestructura e instalaciones.",
+  "afectacion_servicio": "Quedaron interceptadas las vías I y II del túnel de Recoletos entre Atocha-Cercanías y Recoletos; la vía II se restableció el 28 de noviembre de 2023 a las 02:35 y la vía I el 29 de noviembre de 2023 a las 02:02."
+ },
+ "lecciones": [],
+ "recomendaciones": [
+  {
+   "texto": "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso, en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+   "destinatario": "AESF, para implementación por ADIF"
+  },
+  {
+   "texto": "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos.",
+   "destinatario": "AESF, para implementación por ADIF"
+  },
+  {
+   "texto": "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales.",
+   "destinatario": "AESF, para implementación por ADIF"
+  }
+ ],
+ "tags": [
+  "descarrilamiento",
+  "espadín",
+  "travesía t10",
+  "atocha-cercanías",
+  "túnel de recoletos",
+  "rotura por fatiga",
+  "intensidad de tráfico",
+  "ciclo de vida",
+  "auscultación",
+  "mantenimiento preventivo",
+  "renfe viajeros",
+  "adif"
+ ],
+ "v3_completo": true,
+ "id": "ES-2023-114-231126-if_ciaf"
+}
