@@ -283,7 +283,10 @@
             .kpi-row { grid-template-columns: repeat(2, 1fr); }
             .detail-panel { width: 100vw; }
         }
-    </style>
+    
+.detail-tags{display:flex;flex-wrap:wrap;gap:6px}
+.detail-tag{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:999px;font-size:12px;color:var(--muted-foreground);background:var(--card)}
+</style>
 </head>
 <body>
 
@@ -485,6 +488,7 @@
     <div class="detail-panel-header">
         <div>
             <h2 id="dpTitulo"></h2>
+            <p id="dpSubtitulo" style="color:var(--muted-foreground);font-size:13px;margin:2px 0 0 0"></p>
             <div class="detail-id" id="dpId"></div>
         </div>
         <button class="detail-panel-close" onclick="cerrarDetalle()">✕</button>
@@ -501,6 +505,61 @@ const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
 };
+
+/* ===== CATEGORIAS OFICIALES DE TIPO DE SUCESO =====
+   Directiva (UE) 2016/79 / ERA: colisiones, descarrilamientos, accidentes en pasos a
+   nivel, daños a personas por material rodante en movimiento, incendios, otros.
+   Subcategorias permitidas dentro de cada categoria. */
+const CATEGORIAS = {
+    "colisiones": "Colisiones",
+    "descarrilamientos": "Descarrilamientos",
+    "pasos_a_nivel": "Accidentes en pasos a nivel",
+    "personas_material_rodante": "Daños a personas por material rodante en movimiento",
+    "incendios": "Incendios",
+    "otros": "Otros"
+};
+/* mapeo de los tipos crudos del pipeline (LLM/CIAF) -> categoria oficial */
+const TIPO_A_CATEGORIA = {
+    "colision": "colisiones", "colision_alcance": "colisiones", "colision_frontal": "colisiones",
+    "colision_obstaculo": "colisiones", "conato_colision": "colisiones", "alcance": "colisiones",
+    "descarrilamiento": "descarrilamientos", "descarrilamiento_escape": "descarrilamientos",
+    "paso_a_nivel": "pasos_a_nivel", "accidente_paso_a_nivel": "pasos_a_nivel",
+    "arrollamiento": "personas_material_rodante", "arrollamiento_persona": "personas_material_rodante",
+    "arrollamiento_vehiculo": "personas_material_rodante", "atropello": "personas_material_rodante",
+    "incendio": "incendios",
+    "otro": "otros", "otro_accidente": "otros", "otro_incidente": "otros", "accidente": "otros",
+    "incidente": "otros", "fallos_senal": "otros", "rebase_senal": "otros", "fallos_material": "otros",
+    "corte_tension": "otros", "retroceso": "otros", "suicidio": "otros"
+};
+/* subetiquetas: tipo fino que se muestra como detalle dentro de la categoria */
+const SUBTIPO_ES = {
+    "colision": "Colisión entre trenes", "colision_alcance": "Alcance", "colision_frontal": "Frontal",
+    "colision_obstaculo": "Con obstáculo", "conato_colision": "Conato de colisión",
+    "descarrilamiento": "En plena vía o estación", "descarrilamiento_escape": "Por escape de material",
+    "paso_a_nivel": "En paso a nivel",
+    "arrollamiento": "Arrollamiento", "arrollamiento_persona": "Arrollamiento a persona",
+    "arrollamiento_vehiculo": "Arrollamiento a vehículo", "atropello": "Atropello",
+    "incendio": "Incendio de material rodante",
+    "fallos_senal": "Fallo de señalización", "rebase_senal": "Rebase de señal",
+    "fallos_material": "Fallo de material", "corte_tension": "Corte de tensión",
+    "retroceso": "Retroceso no autorizado", "otro_accidente": "Otro accidente",
+    "otro_incidente": "Otro incidente", "accidente": "Accidente", "incidente": "Incidente"
+};
+function categoriaDe(tipo) {
+    if (!tipo) return "otros";
+    if (CATEGORIAS[tipo]) return tipo;
+    return TIPO_A_CATEGORIA[tipo] || "otros";
+}
+function etiquetaTipo(tipo) { return TIPOS_ES[tipo] || SUBTIPO_ES[tipo] || tipo; }
+/* titulo siempre como IF con su codigo: 'IF 41/2025' (con titulo descriptivo de apoyo) */
+function tituloIF(reg) {
+    const exp = (reg.expediente || '').trim();
+    if (exp && /\d/.test(exp)) return `IF ${exp.replace(/^0+/, '').replace(/^N[oº]\s*/i, '')}`;
+    const m = /^IF\s*(\d+\/\d{4})/i.exec(reg.titulo || '');
+    if (m) return `IF ${m[1]}`;
+    return reg.titulo || reg.id;
+}
+
 let TODO = [];
 let VISTA = [];
 let mapa, cluster;
@@ -511,17 +570,27 @@ let ordenTabla = { k: 'fecha', asc: false };
 let capasBase = {};
 function initMapa() {
     mapa = L.map('map').setView([48, 8], 4);
-    capasBase.osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 18, attribution: '© OpenStreetMap'
+    // Mapa base IGN (CC BY 4.0) — cartografía oficial pública
+    capasBase.ignGris = L.tileLayer('https://www.ign.es/wmts/ign-base?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=IGNBase-gris&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg', {
+        maxZoom: 19, attribution: '© IGN — Instituto Geográfico Nacional (CC BY 4.0)'
     }).addTo(mapa);
+    capasBase.ignTopo = L.tileLayer('https://www.ign.es/wmts/ign-base?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=IGNBaseTodo&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg', {
+        maxZoom: 19, attribution: '© IGN — Instituto Geográfico Nacional (CC BY 4.0)'
+    });
+    capasBase.ignOrto = L.tileLayer('https://www.ign.es/wmts/ign-base?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=IGNBaseOrto&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg', {
+        maxZoom: 19, attribution: '© IGN — Instituto Geográfico Nacional (CC BY 4.0)'
+    });
     // Capas ADIF (WMS) — red ferroviaria española con trazado real
     capasBase.vias = L.tileLayer.wms('https://ideadif.adif.es/gservices/Tramificacion/wms', {
         layers: 'TramificacionComun', format: 'image/png', transparent: true,
         version: '1.3.0', opacity: 0.9, attribution: 'IDEADIF © Adif'
     }).addTo(mapa);
-    // Selector de capas (vías ADIF como overlay activable)
-    L.control.layers({ 'OpenStreetMap': capasBase.osm }, { 'Vías ADIF': capasBase.vias },
-        { collapsed: true }).addTo(mapa);
+    // Selector de capas
+    L.control.layers({
+        'IGN gris (oficial)': capasBase.ignGris,
+        'IGN topográfico': capasBase.ignTopo,
+        'IGN ortofoto': capasBase.ignOrto
+    }, { 'Vías ADIF': capasBase.vias }, { collapsed: true }).addTo(mapa);
     cluster = L.markerClusterGroup();
     mapa.addLayer(cluster);
 }
@@ -542,7 +611,7 @@ function pintarMapa() {
                 radius: 6 + Math.min(10, (r.fallecidos || 0) * 2),
                 color: '#fff', weight: 1.5, fillColor: colorPunto(r), fillOpacity: 0.85
             }).bindPopup(`<div class="popup-content">
-                <h4>${r.titulo || 'Informe'}</h4>
+                <h4>${tituloIF(r)}</h4>
                 <p><span class="detail-label">${r.fecha || ''} · ${r.pais}</span></p>
                 <p>${r.estacion || r.ubicacion_nombre || ''}</p>
                 <span class="popup-link" onclick='verDetalle("${r.id}")'>Ver ficha completa</span>
@@ -570,7 +639,7 @@ function aplicaFiltros() {
     VISTA = TODO.filter(r => {
         const a = +(r.fecha || '').slice(0, 4);
         if (pais && r.pais !== pais) return false;
-        if (tipo && r.tipo !== tipo) return false;
+        if (tipo && categoriaDe(r.tipo) !== tipo) return false;
         if (a && (a < a1 || a > a2)) return false;
         if (conVic && !((r.fallecidos || 0) > 0 || (r.heridos_graves || 0) > 0)) return false;
         if (conInf && !r.url_pdf) return false;
@@ -643,7 +712,7 @@ function pintaDashboard() {
 
     // por tipo
     const porTipo = {};
-    for (const r of VISTA) { const t = TIPOS_ES[r.tipo] || r.tipo || 'Otro'; porTipo[t] = (porTipo[t] || 0) + 1; }
+    for (const r of VISTA) { const t = CATEGORIAS[categoriaDe(r.tipo)]; porTipo[t] = (porTipo[t] || 0) + 1; }
     const tt = Object.entries(porTipo).sort((a, b) => b[1] - a[1]).slice(0, 10);
     if (chartTipo) chartTipo.destroy();
     chartTipo = new Chart(document.getElementById('chTipo'), {
@@ -748,8 +817,8 @@ function pintaTabla() {
         const sev = r.fallecidos > 0 ? '<span class="badge badge-mortal">' + r.fallecidos + '</span>'
             : r.heridos_graves > 0 ? '<span class="badge badge-grave">' + r.heridos_graves + '</span>'
             : '<span class="badge badge-sin">0</span>';
-        tr.innerHTML = `<td>${r.fecha || '—'}</td><td>${r.pais}</td><td>${(r.titulo || '').slice(0, 100)}</td>
-            <td>${TIPOS_ES[r.tipo] || r.tipo || '—'}</td>
+        tr.innerHTML = `<td>${r.fecha || '—'}</td><td>${r.pais}</td><td>${tituloIF(r)}</td>
+            <td>${CATEGORIAS[categoriaDe(r.tipo)]}</td>
             <td style="text-align:center">${sev}</td>
             <td style="text-align:center">${r.heridos_graves || 0}</td>
             <td>${r.url_pdf ? '<a href="' + r.url_pdf + '" target="_blank" onclick="event.stopPropagation()">PDF ↗</a>' : ''}</td>`;
@@ -771,7 +840,8 @@ async function verDetalle(id) {
         }
     } catch (e) {}
     const er = full.erail || {};
-    document.getElementById('dpTitulo').textContent = full.titulo || r.titulo || 'Informe';
+    document.getElementById('dpTitulo').textContent = tituloIF(full.titulo ? {...full, titulo: full.titulo} : r);
+    document.getElementById('dpSubtitulo').textContent = full.titulo || r.titulo || '';
     document.getElementById('dpId').textContent = `${full.expediente || r.expediente || r.id} · ${r.pais} · ${r.fecha || full.fecha_suceso || ''}`;
     const info = (l, v) => v ? `<div class="detail-info-item"><div class="di-label">${l}</div><div class="di-value">${v}</div></div>` : '';
     const seccion = (t, c) => c ? `<div class="detail-section"><h3>${t}</h3>${c}</div>` : '';
@@ -783,7 +853,7 @@ async function verDetalle(id) {
     document.getElementById('dpBody').innerHTML = `
         ${full.resumen ? seccion('Resumen', `<div class="detail-resumen">${full.resumen}</div>`) : ''}
         <div class="detail-section"><h3>Datos del suceso</h3><div class="detail-info-grid">
-            ${info('Tipo', TIPOS_ES[full.tipo] || full.tipo)}
+            ${info('Tipo', CATEGORIAS[categoriaDe(full.tipo)] + (SUBTIPO_ES[full.tipo] && SUBTIPO_ES[full.tipo] !== CATEGORIAS[categoriaDe(full.tipo)] ? ' — ' + SUBTIPO_ES[full.tipo] : ''))}
             ${info('Fecha', full.fecha || full.fecha_suceso)}
             ${info('Hora', full.hora)}
             ${info('Ubicación', [full.estacion, full.provincia, full.pk ? 'PK ' + full.pk : ''].filter(Boolean).join(' · ') || full.ubicacion_nombre)}
@@ -840,7 +910,8 @@ function cerrarDetalle() {
 /* ===== EXPORT ===== */
 function exportarExcel() {
     const ws = XLSX.utils.json_to_sheet(VISTA.map(r => ({
-        'Fecha': r.fecha, 'País': r.pais, 'Título': r.titulo, 'Tipo': TIPOS_ES[r.tipo] || r.tipo,
+        'Fecha': r.fecha, 'País': r.pais, 'Título': r.titulo, 'Tipo': CATEGORIAS[categoriaDe(r.tipo)],
+        'Subtipo': SUBTIPO_ES[r.tipo] || '',
         'Estación': r.estacion, 'Provincia': r.provincia, 'PK': r.pk, 'Línea': r.linea,
         'Fallecidos': r.fallecidos || 0, 'Heridos graves': r.heridos_graves || 0,
         'Informe (PDF)': r.url_pdf || '', 'ID eRAIL': r.erail_id || ''
@@ -885,9 +956,9 @@ async function cargar() {
     // filtros
     const selP = document.getElementById('filterPais');
     for (const p of paises) selP.insertAdjacentHTML('beforeend', `<option>${p}</option>`);
-    const tipos = [...new Set(TODO.map(r => r.tipo))].sort();
+    const tipos = [...new Set(TODO.map(r => categoriaDe(r.tipo)))].sort();
     const selT = document.getElementById('filterType');
-    for (const t of tipos) selT.insertAdjacentHTML('beforeend', `<option value="${t}">${TIPOS_ES[t] || t}</option>`);
+    for (const t of tipos) selT.insertAdjacentHTML('beforeend', `<option value="${t}">${CATEGORIAS[t]}</option>`);
     // años: doble tirador sobre una sola barra
     const anios = TODO.map(r => +(r.fecha || '').slice(0, 4)).filter(Boolean);
     const amin = Math.min(...anios), amax = Math.max(...anios);
