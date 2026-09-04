@@ -501,6 +501,8 @@
 </footer>
 
 <script>
+/* bump para refrescar cache de la DB en cada despliegue */
+const VERSION_DATOS = '2026-09-04b';
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -833,7 +835,7 @@ async function verDetalle(id) {
     // el JSON completo vive en data/db/reports/ES.json (cargado al inicio) o en json/
     let full = r;
     try {
-        const resp = await fetch(`../data/db/reports/${r.pais}.json`);
+        const resp = await fetch(`../data/db/reports/${r.pais}.json?v=` + VERSION_DATOS);
         if (resp.ok) {
             const regs = await resp.json();
             full = regs.find(x => x.id === id) || r;
@@ -945,11 +947,11 @@ function resetFilters() {
 
 /* ===== CARGA ===== */
 async function cargar() {
-    const idx = await (await fetch('../data/db/index.json')).json();
+    const idx = await (await fetch('../data/db/index.json?v=' + VERSION_DATOS)).json();
     const paises = [...new Set(idx.map(r => r.pais))];
     for (const p of paises) {
         try {
-            const d = await (await fetch(`../data/db/reports/${p}.json`)).json();
+            const d = await (await fetch(`../data/db/reports/${p}.json?v=` + VERSION_DATOS)).json();
             TODO = TODO.concat(d);
         } catch (e) {}
     }
