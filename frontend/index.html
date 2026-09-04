@@ -344,6 +344,8 @@
         <label>Protección de tren</label>
         <select id="filterATP"><option value="">Todos</option></select>
         <label>Tipo de red</label>
+        <label>Entidad implicada</label>
+        <select id="filterEntidad"><option value="">Todas</option></select>
         <select id="filterRed"><option value="">Todas</option></select>
         <label>Explotación</label>
         <select id="filterExplot"><option value="">Todas</option></select>
@@ -634,6 +636,7 @@ function aplicaFiltros() {
     const subs = document.getElementById('filterSubsistema').value;
     const atp = document.getElementById('filterATP').value;
     const red = document.getElementById('filterRed').value;
+    const entidad = document.getElementById('filterEntidad').value;
     const expl = document.getElementById('filterExplot').value;
     const q = (document.getElementById('filterSearch').value || '').toLowerCase();
     const q2 = (document.getElementById('tableSearch').value || '').toLowerCase();
@@ -648,6 +651,7 @@ function aplicaFiltros() {
         if (subs && r.subsistema !== subs) return false;
         if (atp && r.sistema_proteccion !== atp) return false;
         if (red && r.tipo_red !== red) return false;
+    if (entidad && !(r.entidades || []).includes(entidad)) return false;
         if (expl && r.explotacion !== expl) return false;
         const texto = `${r.titulo} ${r.estacion || ''} ${r.provincia || ''} ${r.ubicacion_nombre || ''} ${(r.precursores || []).join(' ')}`.toLowerCase();
         if (q && !texto.includes(q)) return false;
@@ -933,6 +937,7 @@ function resetFilters() {
     document.getElementById('tableSearch').value = '';
     document.getElementById('filterSubsistema').value = '';
     document.getElementById('filterATP').value = '';
+    document.getElementById('filterEntidad').value = '';
     document.getElementById('filterRed').value = '';
     document.getElementById('filterExplot').value = '';
     const rMin = document.getElementById('yearMin'), rMax = document.getElementById('yearMax');
@@ -981,7 +986,7 @@ async function cargar() {
         document.getElementById('yearLabel').textContent = (lo <= amin && hi >= amax) ? 'todos' : (lo + '–' + hi);
     }
     [rMin, rMax].forEach(el => el.oninput = () => { pintaFill(); aplicaFiltros(); });
-    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme'].forEach(id =>
+    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme', 'filterEntidad', 'filterSubsistema', 'filterATP', 'filterRed', 'filterExplot'].forEach(id =>
         document.getElementById(id).onchange = aplicaFiltros);
     document.getElementById('filterSearch').oninput = aplicaFiltros;
     document.getElementById('tableSearch').oninput = aplicaFiltros;
@@ -993,6 +998,8 @@ async function cargar() {
     const uniq = arr => [...new Set(arr.filter(Boolean))].sort();
     for (const v of uniq(TODO.map(r => r.subsistema))) selSubs.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
     for (const v of uniq(TODO.map(r => r.sistema_proteccion))) selATP.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
+    const selEnt = document.getElementById('filterEntidad');
+    for (const v of uniq(TODO.flatMap(r => r.entidades || [])).sort()) selEnt.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
     for (const v of uniq(TODO.map(r => r.tipo_red))) selRed.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
     for (const v of uniq(TODO.map(r => r.explotacion))) selExpl.insertAdjacentHTML('beforeend', `<option>${v}</option>`);
     [selSubs, selATP, selRed, selExpl].forEach(el => el.onchange = aplicaFiltros);

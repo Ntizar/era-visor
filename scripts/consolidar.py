@@ -112,16 +112,38 @@ def main(codigo: str):
                     anio = ("20" + anio) if int(anio) < 30 else ("19" + anio)
                 clave = f"{int(m.group(1))}/{anio}"
         existente = por_expediente.get(clave) if clave else None
-        if existente and existente["fuente"] == "CIAF-visor" and not es_ciaf:
-            # el CIAF manda, pero los campos v2 (enriquecimiento IA) son aditivos:
-            # fusionarlos en el registro CIAF en vez de descartar el trabajo LLM
+        if existente:
+            # dedupe bidireccional: un solo registro por expediente.
+            # gana el que tenga analisis v3/hechos; si empata, CIAF.
+            # el perdedor aporta los campos que el ganador no tenga.
             campos_v2 = ("subsistema", "sistema_proteccion", "tipo_red", "explotacion",
                          "precursores", "mitigaciones", "factores_humanos", "meteorologia",
-                         "circulation_type", "fase_ciclo_vida", "v3", "hechos")
+                         "circulation_type", "fase_ciclo_vida", "v3", "hechos",
+                         "resumen", "causa_directa", "conclusiones", "recomendaciones", "tags",
+                         "trenes", "entidades", "lat", "lng", "metodo_geo", "pk", "linea",
+                         "estacion", "provincia", "gravedad", "danos_materiales", "hora")
+            def tiene_analisis(x):
+                return bool(x.get("hechos") or x.get("v3"))
+            if tiene_analisis(rec) and not tiene_analisis(existente):
+                gana, pierde = rec, existente
+            elif tiene_analisis(existente) and not tiene_analisis(rec):
+                gana, pierde = existente, rec
+            else:
+                # empate: CIAF verificado manda
+                if es_ciaf and existente["fuente"] != "CIAF-visor":
+                    gana, pierde = rec, existente
+                else:
+                    gana, pierde = existente, rec
             for campo in campos_v2:
-                if rec.get(campo) and not existente.get(campo):
-                    existente[campo] = rec[campo]
-            continue  # CIAF ya está, no pisar con LLM
+                if pierde.get(campo) and not gana.get(campo):
+                    gana[campo] = pierde[campo]
+            if gana is rec:
+                idx = registros.index(existente)
+                registros[idx] = rec
+                if rec["id"] is None:
+                    rec["id"] = f"{codigo}-{f.stem}"
+                por_expediente[clave] = rec
+            continue
         if rec["id"] is None:
             rec["id"] = f"{codigo}-{f.stem}"
         registros.append(rec)

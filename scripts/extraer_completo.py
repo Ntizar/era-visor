@@ -181,6 +181,9 @@ def main():
     if "--limite" in sys.argv:
         limite = int(sys.argv[sys.argv.index("--limite") + 1])
     force = "--force" in sys.argv
+    solo = None
+    if "--solo" in sys.argv:
+        solo = sys.argv[sys.argv.index("--solo") + 1]  # filtro por subcadena del stem
 
     carpeta_v3 = os.path.join(RAIZ, "json", codigo, "v3")
     os.makedirs(carpeta_v3, exist_ok=True)
@@ -191,6 +194,8 @@ def main():
     n = 0
     for jf in jsons:
         stem = os.path.splitext(os.path.basename(jf))[0]
+        if solo and solo.lower() not in stem.lower():
+            continue
         ruta_v3 = os.path.join(carpeta_v3, stem + ".json")
         if os.path.exists(ruta_v3) and not force_flag:
             omitidos += 1
