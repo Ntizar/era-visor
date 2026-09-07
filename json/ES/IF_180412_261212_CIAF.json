@@ -14,9 +14,9 @@
   "provincia": "Cantabria",
   "pk": "545+009",
   "linea": "24 Santander - Bilbao",
-  "lat": 43.40107157960485,
-  "lng": -3.7665081147257196,
-  "metodo_geo": "estacion_ign",
+  "lat": 43.39973517,
+  "lng": -3.76985244,
+  "metodo_geo": "via_pkteorico",
   "estacion_ign": "Estación de Heras"
  },
  "entidades": [

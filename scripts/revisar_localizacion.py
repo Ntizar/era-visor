@@ -12,6 +12,7 @@ Uso: python revisar_localizacion.py ES
 import json
 import math
 import os
+import re
 import sys
 import unicodedata
 
@@ -66,16 +67,37 @@ def distancia_m(lat1, lng1, lat2, lng2):
     return math.hypot(x, y)
 
 
+def code_linea_de(linea_str):
+    """Código de línea declarado en el informe ('Línea 130 ...' → '130')."""
+    if not linea_str:
+        return None
+    s = str(linea_str).strip()
+    s = re.sub(r"^(?:l[ií]nea|lv|lin(?:e|í)a)\s+|^n[º°]?\s+", "", s, flags=re.I)
+    m = re.match(r"^(\d{3,4})\b", s)
+    return m.group(1) if m else None
+
+
 def main():
     ruta_db = os.path.join(RAIZ, "data", "db", "reports", f"{CODIGO}.json")
     ruta_pk = os.path.join(RAIZ, "data", "adif-pkteoricos.geojson")
+    ruta_tr = os.path.join(RAIZ, "data", "adif-tramos.geojson")
 
     with open(ruta_db, encoding="utf-8") as f:
         informes = json.load(f)
     with open(ruta_pk, encoding="utf-8") as f:
         pk_datos = json.load(f)
 
-    # Puntos PK precalcados
+    # PK precalcados + línea (segmento [2:5] del codtramo y cod_linea del tramo)
+    linea_de_tramo = {}
+    if os.path.exists(ruta_tr):
+        with open(ruta_tr, encoding="utf-8") as f:
+            tr = json.load(f)
+        for feat in tr.get("features", []):
+            props = feat.get("properties") or {}
+            ct = props.get("codtramo") or ""
+            if ct:
+                m = re.match(r"^(\d{3,4})-", props.get("cod_linea") or "")
+                linea_de_tramo[ct] = m.group(1) if m else ""
     puntos = []
     for feat in pk_datos["features"]:
         props = feat.get("properties") or {}
@@ -83,11 +105,14 @@ def main():
         coords = geom.get("coordinates")
         if not coords or len(coords) != 2:
             continue
+        ct = props.get("codtramo") or ""
         puntos.append({
             "lat": float(coords[1]),
             "lng": float(coords[0]),
             "pk": props.get("pk"),
-            "codtramo": props.get("codtramo"),
+            "codtramo": ct,
+            "cod_linea_pk": ct[2:5] if re.fullmatch(r"\d{9}", ct) else "",
+            "cod_linea_tramo": linea_de_tramo.get(ct, ""),
             "provincia": str(props.get("id_provinc") or "").zfill(2),
         })
     print(f"[REV] {len(informes)} informes | {len(puntos)} puntos PK ADIF")
@@ -95,6 +120,14 @@ def main():
     revision = []
     conteo = {"bien": 0, "duda": 0, "mal": 0, "sin_coords": 0,
               "provincia_ok": 0, "provincia_mal": 0, "provincia_nd": 0}
+
+    # conjunto de códigos de línea numéricos por punto PK
+    for p in puntos:
+        codes = set()
+        for c in (p["cod_linea_pk"], p["cod_linea_tramo"]):
+            if c and c.isdigit():
+                codes.add(int(c))
+        p["lineas"] = codes
 
     for r in informes:
         lat, lng = r.get("lat"), r.get("lng")
@@ -110,12 +143,25 @@ def main():
             revision.append(entrada)
             continue
 
-        # PK más cercano (barrido simple; 300 x 17k es asumible)
+        # PK más cercano (global y de la línea declarada) en un solo barrido
+        # líneas candidatas: ubi.linea y raiz.linea pueden diferir (LLM vs CIAF);
+        # basta con que ALGUNA casado con la red para validar la ubicación
+        linea_cands = set()
+        linea_inf = None
+        for src in (r.get("linea"), (r.get("ubicacion") or {}).get("linea") if isinstance(r.get("ubicacion"), dict) else None):
+            lc = code_linea_de(src)
+            if lc and lc.isdigit():
+                linea_cands.add(int(lc))
+                linea_inf = linea_inf or lc
+        li_num = min(linea_cands) if linea_cands else None  # el más específico (3 dígitos)
         mejor, mejor_d = None, 1e18
+        mejor_linea, mejor_linea_d = None, 1e18
         for p in puntos:
             d = distancia_m(lat, lng, p["lat"], p["lng"])
             if d < mejor_d:
                 mejor_d, mejor = d, p
+            if linea_cands and p["lineas"] and (linea_cands & p["lineas"]) and d < mejor_linea_d:
+                mejor_linea_d, mejor_linea = d, p
 
         entrada["dist_via_m"] = round(mejor_d)
         entrada["pk_cercano"] = mejor["pk"]
@@ -123,17 +169,35 @@ def main():
         entrada["coord_pkcercano"] = [mejor["lat"], mejor["lng"]]
         entrada["codtramo_cercano"] = mejor["codtramo"]
 
-        if mejor_d <= OK_VIA:
+        if li_num is not None:
+            # caso Caleyo: las coords caen pegadas a OTRA línea. Si existe la
+            # línea declarada en la red, MANDAN las distancias sobre ella.
+            if linea_inf:
+                entrada["linea_declarada"] = linea_inf
+            if mejor_linea:
+                entrada["dist_linea_m"] = round(mejor_linea_d)
+                entrada["pk_linea_cercano"] = mejor_linea["pk"]
+                d_ref, p_ref = mejor_linea_d, mejor_linea
+            else:
+                # la línea declarada no existe en la red ADIF (metropolitana,
+                # LV sin PK teóricos…): sin señal, usar distancia global con
+                # umbral estricto y marcarlo para el revisor
+                entrada["linea_no_en_red"] = True
+                d_ref, p_ref = mejor_d, mejor
+        else:
+            d_ref, p_ref = mejor_d, mejor
+
+        if d_ref <= OK_VIA:
             entrada["veredicto"] = "bien"
             conteo["bien"] += 1
-        elif mejor_d <= DUDA_VIA:
+        elif d_ref <= DUDA_VIA:
             entrada["veredicto"] = "duda"
             conteo["duda"] += 1
         else:
             entrada["veredicto"] = "mal"
             conteo["mal"] += 1
 
-        eq = coinciden_provincia(r.get("provincia"), mejor["provincia"])
+        eq = coinciden_provincia(r.get("provincia"), p_ref["provincia"])
         if eq is True:
             entrada["provincia_ok"] = True
             conteo["provincia_ok"] += 1

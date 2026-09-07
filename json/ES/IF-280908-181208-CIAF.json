@@ -14,9 +14,9 @@
   "provincia": "Cádiz",
   "pk": "140,750",
   "linea": "400 Alcázar de San Juan-Cádiz",
-  "lat": 39.24304876,
-  "lng": -3.87870455,
-  "metodo_geo": "via_pkteorico"
+  "lat": 36.48509452540124,
+  "lng": -6.169923726851851,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

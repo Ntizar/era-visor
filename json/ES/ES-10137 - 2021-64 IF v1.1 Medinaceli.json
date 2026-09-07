@@ -14,9 +14,9 @@
   "provincia": "Soria",
   "pk": "161+300 - 161+500",
   "linea": "Línea 200 Madrid-Chamartín a Barcelona-França",
-  "lat": 42.41342408,
-  "lng": -5.92223184,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.133688453333335,
+  "lng": -2.449848542222222,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",

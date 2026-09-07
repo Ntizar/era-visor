@@ -14,9 +14,9 @@
   "provincia": null,
   "pk": "9+606",
   "linea": "720 Abando Indalecio Prieto a Santurtzi",
-  "lat": 43.3062593,
-  "lng": -2.99235033,
-  "metodo_geo": "via_pkteorico"
+  "lat": 43.30909310748077,
+  "lng": -2.994990582076923,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Tracción Rail",

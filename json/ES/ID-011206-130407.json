@@ -14,8 +14,9 @@
   "provincia": "Madrid",
   "pk": "11,907",
   "linea": "Hortaleza Bifurcación-Pitis",
-  "lat": 40.416782,
-  "lng": -3.703507
+  "lat": 40.49917835,
+  "lng": -3.71917801,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

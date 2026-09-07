@@ -14,9 +14,9 @@
   "provincia": "Guipúzcoa",
   "pk": "581+060",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": 43.04601475,
-  "lng": -2.2000157,
-  "metodo_geo": "via_pkteorico"
+  "lat": 43.048579694675155,
+  "lng": -2.21899393555414,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

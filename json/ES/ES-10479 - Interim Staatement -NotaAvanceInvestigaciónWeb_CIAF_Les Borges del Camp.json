@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "573+750",
   "linea": "línea 210",
-  "lat": 43.39185047,
-  "lng": -3.46741369,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.175582885020745,
+  "lng": 1.041174530746888,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "RENFE",

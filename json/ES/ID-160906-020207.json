@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "353,200",
   "linea": "Línea 220 Lérida-Barcelona",
-  "lat": 41.48112048,
-  "lng": 2.16554242,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.48131768181818,
+  "lng": 2.167568249090909,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe",

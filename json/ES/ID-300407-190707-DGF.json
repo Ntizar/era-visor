@@ -16,7 +16,7 @@
   "linea": "Línea 100 Madrid-Hendaya",
   "lat": 43.31767335,
   "lng": -1.97664386,
-  "metodo_geo": "via_pkteorico"
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

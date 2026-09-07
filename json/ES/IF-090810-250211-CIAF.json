@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Cantabria",
   "pk": "489+795",
-  "linea": "1021 Oviedo - Santander"
+  "linea": "1021 Oviedo - Santander",
+  "lat": 43.33320052,
+  "lng": -4.18560191,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Feve"

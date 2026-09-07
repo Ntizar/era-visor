@@ -14,9 +14,9 @@
   "provincia": "Lleida",
   "pk": "196,070",
   "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat",
-  "lat": 41.63162863,
-  "lng": 0.77346763,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.6312483234375,
+  "lng": 0.7689072638750001,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif"

@@ -65,8 +65,8 @@ def main(codigo: str):
             "gravedad": d.get("gravedad"),
             "estacion": loc.get("estacion") or d.get("estacion"),
             "provincia": loc.get("provincia") or d.get("provincia"),
-            "pk": d.get("pk") or loc.get("pk"),
-            "linea": d.get("linea") or loc.get("linea"),
+            "pk": loc.get("pk") or d.get("pk"),
+            "linea": loc.get("linea") or d.get("linea"),
             "ubicacion_nombre": erail.get("Location name"),
             "trenes": d.get("trenes") or [],
             "entidades": d.get("entidades") or [],
@@ -195,10 +195,14 @@ def main(codigo: str):
     idx_path = db / "index.json"
     merged = index
     if idx_path.exists():
-        prev = {x["id"]: x for x in json.loads(idx_path.read_text(encoding="utf-8"))}
+        prev = json.loads(idx_path.read_text(encoding="utf-8"))
+        # conservar SOLO los de otros países: fusionar por id dejaba registros
+        # fantasmas de expedientes archivados/deduplicados (619 vs 349 en ES)
+        otros = [x for x in prev if x.get("pais") != codigo]
+        por_id = {x["id"]: x for x in otros}
         for x in index:
-            prev[x["id"]] = x
-        merged = list(prev.values())
+            por_id[x["id"]] = x
+        merged = list(por_id.values())
     idx_path.write_text(json.dumps(merged, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
     tam = sum(f.stat().st_size for f in db.rglob("*.json"))

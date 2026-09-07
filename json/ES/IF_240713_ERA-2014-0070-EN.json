@@ -16,7 +16,7 @@
   "linea": "Línea 082 Coto da Torre - A Grandeira",
   "lat": 42.85768368,
   "lng": -8.53312749,
-  "metodo_geo": "via_pkteorico"
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

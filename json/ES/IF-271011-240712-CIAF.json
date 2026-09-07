@@ -14,9 +14,9 @@
   "provincia": "Cantabria",
   "pk": "540+782",
   "linea": "Línea 24 Santander - Bilbao",
-  "lat": 43.40391300860647,
-  "lng": -3.8208257437133573,
-  "metodo_geo": "estacion_ign",
+  "lat": 43.39860059,
+  "lng": -3.8154691,
+  "metodo_geo": "via_pkteorico",
   "estacion_ign": "Estación de Astillero"
  },
  "entidades": [

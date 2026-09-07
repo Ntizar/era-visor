@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "94+316",
   "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
-  "lat": 41.36161049,
-  "lng": 2.09069503,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.36085728237576,
+  "lng": 2.088278415438384,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

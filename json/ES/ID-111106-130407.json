@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "10,450",
   "linea": "Línea 246 Castellbisball-Mollet Sant Fost",
-  "lat": 41.37955027,
-  "lng": 2.02640032,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.48535916196581,
+  "lng": 2.0901151202564106,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

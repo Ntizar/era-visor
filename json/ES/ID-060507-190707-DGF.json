@@ -14,8 +14,9 @@
   "provincia": "Barcelona",
   "pk": "632,800",
   "linea": "Línea 200 Madrid-Barcelona",
-  "lat": 41.3825802,
-  "lng": 2.177073
+  "lat": 41.208197978,
+  "lng": 1.7027232199999995,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",

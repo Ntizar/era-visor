@@ -14,9 +14,9 @@
   "provincia": "Madrid",
   "pk": "9,800",
   "linea": "Línea 300 Madrid Atocha-Valencia Nord",
-  "lat": 40.44683235,
-  "lng": -3.60163633,
-  "metodo_geo": "via_pkteorico"
+  "lat": 40.332379248275856,
+  "lng": -3.695777463448276,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

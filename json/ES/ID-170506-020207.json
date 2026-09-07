@@ -14,9 +14,9 @@
   "provincia": "Murcia",
   "pk": "0,385",
   "linea": "Línea 322 Murcia Cargas-Águilas",
-  "lat": 37.61337533,
-  "lng": -0.96421996,
-  "metodo_geo": "via_pkteorico"
+  "lat": 37.96951901,
+  "lng": -1.19493687,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

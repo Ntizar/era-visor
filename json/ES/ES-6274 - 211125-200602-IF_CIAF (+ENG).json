@@ -14,9 +14,9 @@
   "provincia": "Zamora",
   "pk": "10+251",
   "linea": "línea 822 Zamora-A Coruña",
-  "lat": 41.5646341,
-  "lng": -5.81347981,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.568994311287334,
+  "lng": -5.817844407234761,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Viajeros",

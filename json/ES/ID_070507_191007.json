@@ -14,9 +14,9 @@
   "provincia": "Valencia",
   "pk": "81,454",
   "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
-  "lat": 39.94556331,
-  "lng": -3.41265301,
-  "metodo_geo": "via_pkteorico"
+  "lat": 39.20286383798664,
+  "lng": -0.4401810931173278,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

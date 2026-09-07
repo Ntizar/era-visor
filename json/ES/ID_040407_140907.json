@@ -14,9 +14,9 @@
   "provincia": "Oviedo",
   "pk": "134+410",
   "linea": "Línea 130 Venta de Baños a Gijón Cercanías",
-  "lat": 40.99324136,
-  "lng": -2.52419274,
-  "metodo_geo": "via_pkteorico"
+  "lat": 43.3275969444,
+  "lng": -5.8749741988,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

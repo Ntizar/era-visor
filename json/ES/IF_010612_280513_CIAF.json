@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "558+049",
   "linea": "210 Miraflores - Tarragona",
-  "lat": 43.02755369,
-  "lng": -2.33519691,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.13310108106224,
+  "lng": 0.8554309627219917,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

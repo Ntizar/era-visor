@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Sevilla",
   "pk": "20+350",
-  "linea": "El Sorbito-Arahal"
+  "linea": "El Sorbito-Arahal",
+  "lat": 37.6844263,
+  "lng": -4.99590233,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif"

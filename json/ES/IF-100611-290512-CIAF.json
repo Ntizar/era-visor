@@ -14,9 +14,9 @@
   "provincia": "Madrid",
   "pk": "11+100",
   "linea": "LAV 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
-  "lat": 40.33222802735849,
-  "lng": -3.6515523886792454,
-  "metodo_geo": "via_pk"
+  "lat": 40.32452808,
+  "lng": -3.64842388,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Adif",

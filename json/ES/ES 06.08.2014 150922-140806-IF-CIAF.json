@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Huesca",
   "pk": "390+500",
-  "linea": "Línea 050 Madrid - Puerta de Atocha a Límite Adif TP-Ferro"
+  "linea": "Línea 050 Madrid - Puerta de Atocha a Límite Adif TP-Ferro",
+  "lat": 41.53268464410148,
+  "lng": 0.04177004904862575,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Viajeros",

@@ -13,7 +13,11 @@
   "estacion": "A Susana",
   "provincia": "A Coruña",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 42.82955362226464,
+  "lng": -8.486154680264521,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de A Susana"
  },
  "entidades": [
   "Adif",

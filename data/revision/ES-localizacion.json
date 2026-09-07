@@ -47,10 +47,19 @@
   "provincia": "Sevilla",
   "pk": "20+350",
   "linea": "El Sorbito-Arahal",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 37.6844263,
+  "lng": -4.99590233,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 20.3,
+  "provincia_ine": "Sevilla",
+  "coord_pkcercano": [
+   37.6844263,
+   -4.99590233
+  ],
+  "codtramo_cercano": "140300020",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-200421-010718-IF-SN_CIAF_",
@@ -68,7 +77,7 @@
   "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0046/2018 OCURRIDO EL DÍA ",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "220",
+  "linea": "Línea 220 Lleida Pirineus - L'Hospitalet de Llobregat",
   "lat": 41.60189003213619,
   "lng": 1.894037061232588,
   "metodo": "estacion_ign",
@@ -80,6 +89,9 @@
    1.89435833
   ],
   "codtramo_cercano": "022200060",
+  "linea_declarada": "220",
+  "dist_linea_m": 62,
+  "pk_linea_cercano": 319.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -161,7 +173,7 @@
   "titulo": "Descarrilamiento de tren de mercancías entre Unquera (Cantabria) y Colombres (Asturias)",
   "provincia": "Asturias",
   "pk": "451+557",
-  "linea": "RAM 770 Santander – Oviedo",
+  "linea": "RAM 770 Santander - Oviedo",
   "lat": 43.38296419,
   "lng": -4.55275167,
   "metodo": "via_pkteorico",
@@ -201,7 +213,7 @@
   "titulo": "Descarrilamiento del tren 35188 entre Puerto de Navacerrada y Collado Albo (Madrid)",
   "provincia": "Madrid",
   "pk": "7+855",
-  "linea": "116 Los Cotos - Cercedilla",
+  "linea": "Línea 116 Los Cotos - Cercedilla",
   "lat": 40.764579152126124,
   "lng": -4.025053012522522,
   "metodo": "via_pk",
@@ -213,6 +225,9 @@
    -4.02338495
   ],
   "codtramo_cercano": "011160010",
+  "linea_declarada": "116",
+  "dist_linea_m": 265,
+  "pk_linea_cercano": 8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -252,7 +267,7 @@
   "titulo": "Conato de colisión entre trenes en plena vía entre Boo y Mortera (Cantabria)",
   "provincia": "Cantabria",
   "pk": "519+301",
-  "linea": "770 RAM Santander – Oviedo",
+  "linea": "Línea 770 Santander-Oviedo, tramo Mogro-Bezana",
   "lat": 43.43244703807229,
   "lng": -3.931810173146988,
   "metodo": "via_pk",
@@ -264,6 +279,9 @@
    -3.9327722
   ],
   "codtramo_cercano": "087700140",
+  "linea_declarada": "770",
+  "dist_linea_m": 79,
+  "pk_linea_cercano": 519.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -303,11 +321,23 @@
   "titulo": "Incendio en locomotora serie 252 del tren 922 entre Ballobar y Peñalba (Huesca)",
   "provincia": "Huesca",
   "pk": "390+500",
-  "linea": "050 Madrid – Puerta de Atocha a Límite Adif TP-Ferro",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "linea": "Línea 050 Madrid - Puerta de Atocha a Límite Adif TP-Ferro",
+  "lat": 41.53268464410148,
+  "lng": 0.04177004904862575,
+  "metodo": "via_pk",
+  "dist_via_m": 14,
+  "pk_cercano": 389.6,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   41.53261655,
+   0.04162468
+  ],
+  "codtramo_cercano": "120500130",
+  "linea_declarada": "050",
+  "dist_linea_m": 14,
+  "pk_linea_cercano": 389.6,
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 07 04 2013 IF-070413-240315-CIAF",
@@ -315,19 +345,19 @@
   "provincia": "Ciudad Real",
   "pk": "257+000",
   "linea": "Línea de Alta Velocidad Madrid-Sevilla",
-  "lat": 42.31415736,
-  "lng": 3.06816127,
+  "lat": 38.96629937,
+  "lng": -3.86961087,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 257,
-  "provincia_ine": "Girona",
+  "pk_cercano": 257.1,
+  "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
-   42.31415736,
-   3.06816127
+   38.96629937,
+   -3.86961087
   ],
-  "codtramo_cercano": "022700150",
+  "codtramo_cercano": "045220020",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 09.02.2015 160927150209IFCIAF",
@@ -335,10 +365,19 @@
   "provincia": "A Coruña",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.82955362226464,
+  "lng": -8.486154680264521,
+  "metodo": "estacion_ign",
+  "dist_via_m": 254,
+  "pk_cercano": 367.5,
+  "provincia_ine": "A Coruña",
+  "coord_pkcercano": [
+   42.83121934,
+   -8.48828975
+  ],
+  "codtramo_cercano": "068220111",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 09.09.2016 190329-160909-IF-CIAF",
@@ -356,7 +395,7 @@
   "titulo": "Arrollamiento de un vehículo en paso a nivel entre Los Milanos y Calañas (Huelva)",
   "provincia": "Huelva",
   "pk": "130+742",
-  "linea": "512 Zafra – Huelva Cargas",
+  "linea": "línea 512 Zafra – Huelva Cargas",
   "lat": 37.64546225760649,
   "lng": -6.877609507779459,
   "metodo": "via_pk",
@@ -368,6 +407,9 @@
    -6.87964346
   ],
   "codtramo_cercano": "045120050",
+  "linea_declarada": "512",
+  "dist_linea_m": 262,
+  "pk_linea_cercano": 130.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -375,8 +417,8 @@
   "id": "ES-ES 10 07 2014 150428-140710-IF-CIAF",
   "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0037/2014 OCURRIDO EL DÍA 10.07.2014 EN LA",
   "provincia": "Tarragona",
-  "pk": "25+379",
-  "linea": "240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
+  "pk": "PK 25+379",
+  "linea": "Línea 240 Sant Vicenç de Calders a L’Hospitalet de Llobregat",
   "lat": 41.19065286134838,
   "lng": 1.5337823675290323,
   "metodo": "via_pk",
@@ -388,6 +430,9 @@
    1.53374739
   ],
   "codtramo_cercano": "022400010",
+  "linea_declarada": "240",
+  "dist_linea_m": 47,
+  "pk_linea_cercano": 25.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -407,7 +452,7 @@
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2014 OCURRIDO EL DÍA 11.07.2014 EN LA",
   "provincia": "Madrid",
   "pk": "4+569",
-  "linea": "110 Segovia a Villalba de Guadarrama",
+  "linea": "Línea 110 Segovia a Villalba de Guadarrama",
   "lat": 40.660724117177665,
   "lng": -4.0408428792284266,
   "metodo": "via_pk",
@@ -419,6 +464,9 @@
    -4.03873023
   ],
   "codtramo_cercano": "011100010",
+  "linea_declarada": "110",
+  "dist_linea_m": 199,
+  "pk_linea_cercano": 5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -447,11 +495,11 @@
   "titulo": "Descarrilamiento de vagón vacío en apartadero de Sestao (Bilbao)",
   "provincia": null,
   "pk": "9+606",
-  "linea": "720",
-  "lat": 43.3062593,
-  "lng": -2.99235033,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
+  "linea": "720 Abando Indalecio Prieto a Santurtzi",
+  "lat": 43.30909310748077,
+  "lng": -2.994990582076923,
+  "metodo": "via_pk",
+  "dist_via_m": 381,
   "pk_cercano": 9.3,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -459,6 +507,9 @@
    -2.99235033
   ],
   "codtramo_cercano": "017200070",
+  "linea_declarada": "720",
+  "dist_linea_m": 381,
+  "pk_linea_cercano": 9.3,
   "veredicto": "bien",
   "provincia_ok": null
  },
@@ -477,8 +528,8 @@
   "id": "ES-ES 12.08.2013 IF_120813_100215_CIAF",
   "titulo": "Descarrilamiento de vagoneta de electrificación entre Salomó y Valls por rotura de eje",
   "provincia": null,
-  "pk": "PK 18+920",
-  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+  "pk": "18+920",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia",
   "lat": 40.443878126042556,
   "lng": -3.5292592803829788,
   "metodo": "via_pk",
@@ -490,6 +541,9 @@
    -3.53410058
   ],
   "codtramo_cercano": "022000050",
+  "linea_declarada": "200",
+  "dist_linea_m": 426,
+  "pk_linea_cercano": 15.9,
   "veredicto": "bien",
   "provincia_ok": null
  },
@@ -497,7 +551,7 @@
   "id": "ES-ES 13.02.2015 160531150213IFCIAF",
   "titulo": "Informe final de la CIAF (IF) sobre el accidente ferroviario nº 0010/2015 ocurrido el día ",
   "provincia": "Barcelona",
-  "pk": "PK 684+991",
+  "pk": "684+991",
   "linea": "vía 3",
   "lat": 41.38511466,
   "lng": 2.19128363,
@@ -518,7 +572,7 @@
   "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL ACCIDENTE FERROVIARIO Nº 0012/2017 OCURRIDO EL DÍA ",
   "provincia": "Toledo",
   "pk": "90+594",
-  "linea": "500 Bifurcación Planetario a Valencia de Alcántara",
+  "linea": "Línea 500 Bifurcación Planetario a Valencia de Alcántara",
   "lat": 39.97594883929918,
   "lng": -4.3471818329836065,
   "metodo": "via_pk",
@@ -530,6 +584,9 @@
    -4.3524909
   ],
   "codtramo_cercano": "055000110",
+  "linea_declarada": "500",
+  "dist_linea_m": 465,
+  "pk_linea_cercano": 91.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -538,7 +595,7 @@
   "titulo": "Descarrilamiento en Capçanes (Tarragona) por fallo de infraestructura en la línea 210, tra",
   "provincia": "Tarragona",
   "pk": null,
-  "linea": "210",
+  "linea": "Línea 210 (tramo Flix-Reus)",
   "lat": 41.10207929422881,
   "lng": 0.7803393959222966,
   "metodo": "estacion_ign",
@@ -550,6 +607,9 @@
    0.78366989
   ],
   "codtramo_cercano": "022100120",
+  "linea_declarada": "210",
+  "dist_linea_m": 284,
+  "pk_linea_cercano": 544.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -578,7 +638,7 @@
   "titulo": "Descarrilamiento de tren de mercancías en el cambio nº 6 de la bifurcación Arcade, Ponteve",
   "provincia": "Pontevedra",
   "pk": "17+896",
-  "linea": "824 Redondela de Galicia a Santiago de Compostela",
+  "linea": "línea 824 Redondela de Galicia - Santiago de Compostela",
   "lat": 42.33946187,
   "lng": -8.61042967,
   "metodo": "via_pk",
@@ -590,6 +650,9 @@
    -8.61042967
   ],
   "codtramo_cercano": "068240008",
+  "linea_declarada": "824",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 17.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -598,7 +661,7 @@
   "titulo": "Incidente del tren 13903 por exceso de velocidad al entrar por vía desviada en la estación",
   "provincia": "Sevilla",
   "pk": null,
-  "linea": "422",
+  "linea": "Línea 422 (Arahal – Fuente de Piedra)",
   "lat": 37.268135262186135,
   "lng": -5.548391850327429,
   "metodo": "estacion_ign",
@@ -610,6 +673,9 @@
    -5.54850487
   ],
   "codtramo_cercano": "044220020",
+  "linea_declarada": "422",
+  "dist_linea_m": 15,
+  "pk_linea_cercano": 27,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -638,7 +704,7 @@
   "titulo": "Conato de colisión entre trenes de mercancías en la estación de Torrejón de Ardoz (Madrid)",
   "provincia": "Madrid",
   "pk": null,
-  "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+  "linea": "Línea 200 Madrid Chamartín a Barcelona Estación de Francia",
   "lat": 40.454727282787054,
   "lng": -3.479909276798526,
   "metodo": "estacion_ign",
@@ -650,6 +716,9 @@
    -3.47986611
   ],
   "codtramo_cercano": "022000075",
+  "linea_declarada": "200",
+  "dist_linea_m": 13,
+  "pk_linea_cercano": 23,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -719,41 +788,44 @@
   "id": "ES-ES 18.11.2014 151124-141118-IF-CIAF",
   "titulo": "Descarrilamiento de tren de mercancías en vía EV de Tarragona Clasificación (Tarragona), 1",
   "provincia": "Tarragona",
-  "pk": "0+571",
-  "linea": "622",
-  "lat": 36.71535394,
-  "lng": -4.42654595,
+  "pk": "PK 0+571",
+  "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",
+  "lat": 41.3062436,
+  "lng": 1.1950401,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 0.6,
-  "provincia_ine": "Málaga",
+  "pk_cercano": 68.6,
+  "provincia_ine": "Tarragona",
   "coord_pkcercano": [
-   36.71535394,
-   -4.42654595
+   41.3062436,
+   1.1950401
   ],
-  "codtramo_cercano": "044360003",
-  "veredicto": "bien",
+  "codtramo_cercano": "022000440",
+  "linea_declarada": "622",
+  "dist_linea_m": 21884,
+  "pk_linea_cercano": 273,
+  "veredicto": "mal",
   "provincia_ok": false
  },
  {
   "id": "ES-ES 20.11.2015 170131-151120-IF-CIAF",
   "titulo": "Descarrilamiento de vagones por fallo en caja de grasa entre Palencia y Monzón de Campos",
   "provincia": "Palencia",
-  "pk": "303/340",
+  "pk": "309+474",
   "linea": "Tramo entre estaciones de Palencia y Monzón de Campos",
-  "lat": 39.54610931,
-  "lng": -1.33834346,
+  "lat": 42.03280153,
+  "lng": -4.27241676,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 309.5,
-  "provincia_ine": "Valencia",
+  "pk_cercano": 308.9,
+  "provincia_ine": "Palencia",
   "coord_pkcercano": [
-   39.54610931,
-   -1.33834346
+   42.03280153,
+   -4.27241676
   ],
-  "codtramo_cercano": "130400100",
+  "codtramo_cercano": "011000220",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 21.08.2017 190726-170821-IF-SN_CIAF ",
@@ -803,39 +875,42 @@
   "provincia": "Burgos",
   "pk": "422+950",
   "linea": "Tramo entre Calzada de Bureba y Briviesca",
-  "lat": 39.43908561,
-  "lng": -7.26171121,
+  "lat": 42.59229042,
+  "lng": -3.29398956,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 423,
-  "provincia_ine": "Cáceres",
+  "pk_cercano": 422.7,
+  "provincia_ine": "Burgos",
   "coord_pkcercano": [
-   39.43908561,
-   -7.26171121
+   42.59229042,
+   -3.29398956
   ],
-  "codtramo_cercano": "055020010",
+  "codtramo_cercano": "011000280",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 23.01.2016 170919-160123-IF-CIAF",
   "titulo": "Descarrilamiento de tren de mercancías en la estación de Ascó (Tarragona) por fallo de inf",
   "provincia": "Tarragona",
   "pk": "518+063",
-  "linea": "210",
-  "lat": 37.65392219,
-  "lng": -0.98848827,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 518.3,
-  "provincia_ine": "Murcia",
+  "linea": "Línea 210",
+  "lat": 41.18657169324873,
+  "lng": 0.5693621652588833,
+  "metodo": "via_pk",
+  "dist_via_m": 397,
+  "pk_cercano": 517.6,
+  "provincia_ine": "Tarragona",
   "coord_pkcercano": [
-   37.65392219,
-   -0.98848827
+   41.19012099,
+   0.56976699
   ],
-  "codtramo_cercano": "033520010",
+  "codtramo_cercano": "022100110",
+  "linea_declarada": "210",
+  "dist_linea_m": 397,
+  "pk_linea_cercano": 517.6,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 23.05.2017 181219-170523-IF-SN_CIAF",
@@ -874,8 +949,11 @@
    2.08545133
   ],
   "codtramo_cercano": "022200070",
-  "veredicto": "duda",
-  "provincia_ok": false
+  "linea_declarada": "336",
+  "dist_linea_m": 421542,
+  "pk_linea_cercano": 0.0,
+  "veredicto": "mal",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 25.07.2017 190426-170725-IF-SN-CIAF_",
@@ -894,19 +972,19 @@
   "provincia": "Madrid",
   "pk": "73+885",
   "linea": null,
-  "lat": 41.91216995,
-  "lng": -0.32524527,
+  "lat": 40.94424447,
+  "lng": -3.72383668,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 73.9,
-  "provincia_ine": "Huesca",
+  "pk_cercano": 74,
+  "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   41.91216995,
-   -0.32524527
+   40.94424447,
+   -3.72383668
   ],
-  "codtramo_cercano": "022000350",
+  "codtramo_cercano": "011020090",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA",
@@ -966,7 +1044,7 @@
   "titulo": "Descarrilamiento de un tren de mercancías en la estación de Medina del Campo (Valladolid)",
   "provincia": "Valladolid",
   "pk": "206+831",
-  "linea": "100 Madrid – Hendaya",
+  "linea": "Línea 100 Madrid – Hendaya",
   "lat": 41.32042407206,
   "lng": -4.90904766502,
   "metodo": "via_pk",
@@ -978,6 +1056,9 @@
    -4.91026883
   ],
   "codtramo_cercano": "011200003",
+  "linea_declarada": "100",
+  "dist_linea_m": 353,
+  "pk_linea_cercano": 206.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1018,7 +1099,10 @@
    -0.91072851
   ],
   "codtramo_cercano": "022000260",
-  "veredicto": "bien",
+  "linea_declarada": "060",
+  "dist_linea_m": 1478,
+  "pk_linea_cercano": 305.3,
+  "veredicto": "duda",
   "provincia_ok": true
  },
  {
@@ -1078,21 +1162,24 @@
   "id": "ES-ES-10137 - 2021-64 IF v1.1 Medinaceli",
   "titulo": "Fallo de cargamento en el p.k. 161 de la línea 200 en Medinaceli (Soria)",
   "provincia": "Soria",
-  "pk": "161+300 a 161+500",
-  "linea": "200",
-  "lat": 42.41342408,
-  "lng": -5.92223184,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 161.5,
-  "provincia_ine": "León",
+  "pk": "161+300 - 161+500",
+  "linea": "Línea 200 Madrid-Chamartín a Barcelona-França",
+  "lat": 41.133688453333335,
+  "lng": -2.449848542222222,
+  "metodo": "via_pk",
+  "dist_via_m": 250,
+  "pk_cercano": 161.7,
+  "provincia_ine": "Soria",
   "coord_pkcercano": [
-   42.41342408,
-   -5.92223184
+   41.13396556,
+   -2.44688638
   ],
-  "codtramo_cercano": "068000050",
+  "codtramo_cercano": "022000150",
+  "linea_declarada": "200",
+  "dist_linea_m": 250,
+  "pk_linea_cercano": 161.7,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10164 - 220526-210129-IF-SN-EN_CIAF",
@@ -1121,7 +1208,7 @@
   "titulo": "Descarrilamiento del tren de Rodalies 25542 en el desvío nº 4 de la estación de Prat de Ll",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+  "linea": "Línea 200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
   "lat": 41.330903949140435,
   "lng": 2.089316137206529,
   "metodo": "estacion_ign",
@@ -1133,6 +1220,9 @@
    2.08927252
   ],
   "codtramo_cercano": "022000520",
+  "linea_declarada": "200",
+  "dist_linea_m": 9,
+  "pk_linea_cercano": 670,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1141,7 +1231,7 @@
   "titulo": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022 en Bifurcación Vila-seca (T",
   "provincia": "Tarragona",
   "pk": null,
-  "linea": "210 “Miraflores - Sant Vicenç de Calders”",
+  "linea": "Línea 210 Miraflores - Sant Vicenç de Calders",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -1172,7 +1262,7 @@
   "titulo": "Incidente operacional con riesgo de colisión ocurrido el 15 de agosto de 2022 en la estaci",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "línea 220 – Lleida-Pirineus– Bifurcación Vilanova",
+  "linea": "Línea 220 Lleida-Pirineus–Bifurcación Vilanova",
   "lat": 41.72436986263043,
   "lng": 1.8339858927232613,
   "metodo": "estacion_ign",
@@ -1184,6 +1274,9 @@
    1.82645241
   ],
   "codtramo_cercano": "022200050",
+  "linea_declarada": "220",
+  "dist_linea_m": 775,
+  "pk_linea_cercano": 301.7,
   "veredicto": "duda",
   "provincia_ok": true
  },
@@ -1193,19 +1286,22 @@
   "provincia": "Tarragona",
   "pk": "535,45",
   "linea": "210",
-  "lat": 42.89483148,
-  "lng": -2.18139149,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 535.5,
-  "provincia_ine": "Navarra",
+  "lat": 41.10479578659751,
+  "lng": 0.7024898375933614,
+  "metodo": "via_pk",
+  "dist_via_m": 148,
+  "pk_cercano": 536.3,
+  "provincia_ine": "Tarragona",
   "coord_pkcercano": [
-   42.89483148,
-   -2.18139149
+   41.10574375,
+   0.70372789
   ],
-  "codtramo_cercano": "011000370",
+  "codtramo_cercano": "022100120",
+  "linea_declarada": "210",
+  "dist_linea_m": 148,
+  "pk_linea_cercano": 536.3,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10382 - 2022-108-1105-IF",
@@ -1235,7 +1331,7 @@
   "linea": "408",
   "lat": 37.92467369,
   "lng": -4.69199066,
-  "metodo": "via_pkteorico",
+  "metodo": "via_pk",
   "dist_via_m": 0,
   "pk_cercano": 0.0,
   "provincia_ine": "Córdoba",
@@ -1244,6 +1340,9 @@
    -4.69199066
   ],
   "codtramo_cercano": "140220010",
+  "linea_declarada": "408",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 0.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1252,7 +1351,7 @@
   "titulo": "Fallo de señalización en Les Borges del Camp (Tarragona), ocurrido el 18 de mayo de 2023",
   "provincia": "Tarragona",
   "pk": "573+750",
-  "linea": "210",
+  "linea": "línea 210",
   "lat": 41.16643198983535,
   "lng": 1.0221273461563143,
   "metodo": "estacion_ign",
@@ -1264,6 +1363,9 @@
    1.02577058
   ],
   "codtramo_cercano": "022100120",
+  "linea_declarada": "210",
+  "dist_linea_m": 400,
+  "pk_linea_cercano": 572.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1283,7 +1385,7 @@
   "titulo": "Colisión de tren con obstáculo y descarrilamiento en Álora (Málaga) el 29 de octubre de 20",
   "provincia": "Málaga",
   "pk": "124/573",
-  "linea": "030 Málaga High-Speed Junction – Málaga María Zambrano",
+  "linea": "Línea 030 Málaga Alta Velocidad – Málaga María Zambrano",
   "lat": 36.80335135694504,
   "lng": -4.6659909961260775,
   "metodo": "via_pk",
@@ -1295,6 +1397,9 @@
    -4.66749928
   ],
   "codtramo_cercano": "140300075",
+  "linea_declarada": "030",
+  "dist_linea_m": 501,
+  "pk_linea_cercano": 127.6,
   "veredicto": "duda",
   "provincia_ok": true
  },
@@ -1325,7 +1430,7 @@
   "titulo": "Accidente ferroviario ocurrido el día 24 de enero de 2020 en Bifurcación Cerrato (Palencia",
   "provincia": "Palencia",
   "pk": null,
-  "linea": "LAV Madrid - Valladolid – León",
+  "linea": "LAV Madrid - Valladolid - León",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -1356,18 +1461,21 @@
   "titulo": "Accidente ferroviario en La Hiniesta (Zamora), ocurrido el 02 de junio de 2020.",
   "provincia": "Zamora",
   "pk": "10+251",
-  "linea": "822",
-  "lat": 41.5646341,
-  "lng": -5.81347981,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 9.9,
+  "linea": "línea 822 Zamora-A Coruña",
+  "lat": 41.568994311287334,
+  "lng": -5.817844407234761,
+  "metodo": "via_pk",
+  "dist_via_m": 393,
+  "pk_cercano": 10.9,
   "provincia_ine": "Zamora",
   "coord_pkcercano": [
-   41.5646341,
-   -5.81347981
+   41.57210482,
+   -5.82007448
   ],
   "codtramo_cercano": "068220015",
+  "linea_declarada": "822",
+  "dist_linea_m": 393,
+  "pk_linea_cercano": 10.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1377,17 +1485,20 @@
   "provincia": "Guipúzcoa",
   "pk": "581+060",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": 43.04601475,
-  "lng": -2.2000157,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 580.5,
+  "lat": 43.048579694675155,
+  "lng": -2.21899393555414,
+  "metodo": "via_pk",
+  "dist_via_m": 22,
+  "pk_cercano": 578.5,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
-   43.04601475,
-   -2.2000157
+   43.048772,
+   -2.21902424
   ],
   "codtramo_cercano": "011000410",
+  "linea_declarada": "100",
+  "dist_linea_m": 22,
+  "pk_linea_cercano": 578.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1396,7 +1507,7 @@
   "titulo": "Arrollamiento de persona por tren de Media Distancia entre Valchillón y Córdoba El Higueró",
   "provincia": "Córdoba",
   "pk": "5/350",
-  "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
+  "linea": "Línea 430 Bifurcación Córdoba El Higuerón a Málaga",
   "lat": 37.852245124375,
   "lng": -4.8240487492187505,
   "metodo": "via_pk",
@@ -1408,6 +1519,9 @@
    -4.82414813
   ],
   "codtramo_cercano": "044300030",
+  "linea_declarada": "430",
+  "dist_linea_m": 194,
+  "pk_linea_cercano": 5.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1417,17 +1531,17 @@
   "provincia": "Madrid",
   "pk": "11,907",
   "linea": "Hortaleza Bifurcación-Pitis",
-  "lat": 40.416782,
-  "lng": -3.703507,
-  "metodo": null,
-  "dist_via_m": 287,
-  "pk_cercano": 1.5,
+  "lat": 40.49917835,
+  "lng": -3.71917801,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 11.7,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.41420678,
-   -3.70353919
+   40.49917835,
+   -3.71917801
   ],
-  "codtramo_cercano": "033000010",
+  "codtramo_cercano": "029020005",
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1436,7 +1550,7 @@
   "titulo": "Arrollamiento de dos personas por tren de mercancías entre las señales Avanzada y de Entra",
   "provincia": "Asturias",
   "pk": "7,755",
-  "linea": "154 Tudela Veguín-Lugo de Llanera",
+  "linea": "Línea 154 Tudela Veguín-Lugo de Llanera",
   "lat": 43.39048961731343,
   "lng": -5.786674060716418,
   "metodo": "via_pk",
@@ -1448,6 +1562,9 @@
    -5.7858264
   ],
   "codtramo_cercano": "061540020",
+  "linea_declarada": "154",
+  "dist_linea_m": 172,
+  "pk_linea_cercano": 7.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1456,7 +1573,7 @@
   "titulo": "Arrollamiento de una persona en paso a nivel de Veguellina de Orbigo, León",
   "provincia": "León",
   "pk": "157,671",
-  "linea": "800 León - La Coruña S.D.",
+  "linea": "800 León-La Coruña SD",
   "lat": 42.4233559270358,
   "lng": -5.905043495126491,
   "metodo": "via_pk",
@@ -1468,6 +1585,9 @@
    -5.90308505
   ],
   "codtramo_cercano": "068000050",
+  "linea_declarada": "800",
+  "dist_linea_m": 204,
+  "pk_linea_cercano": 159.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1488,6 +1608,9 @@
    -3.70964922
   ],
   "codtramo_cercano": "033000070",
+  "linea_declarada": "300",
+  "dist_linea_m": 70,
+  "pk_linea_cercano": 12,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1496,7 +1619,7 @@
   "titulo": "Informe definitivo sobre la investigación del accidente ferroviario Nº 0032/2006 ocurrido ",
   "provincia": "Cantabria",
   "pk": "459/200",
-  "linea": "160 Santander-Palencia",
+  "linea": "Línea 160 Santander-Palencia",
   "lat": 43.128788025714286,
   "lng": -4.057899598095238,
   "metodo": "via_pk",
@@ -1508,6 +1631,9 @@
    -4.05972685
   ],
   "codtramo_cercano": "061600050",
+  "linea_declarada": "160",
+  "dist_linea_m": 224,
+  "pk_linea_cercano": 459.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1535,7 +1661,7 @@
   "id": "ES-ID-060108-240608-CIAF",
   "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0022/2008 OCURRIDO ",
   "provincia": "Madrid",
-  "pk": "P.K. 20,100",
+  "pk": "20,100",
   "linea": "100 Madrid-Hendaya",
   "lat": 40.512458866,
   "lng": -3.875652692,
@@ -1548,6 +1674,9 @@
    -3.8773228
   ],
   "codtramo_cercano": "011000040",
+  "linea_declarada": "100",
+  "dist_linea_m": 231,
+  "pk_linea_cercano": 20.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1576,7 +1705,7 @@
   "titulo": "Arrollamiento mortal de un viajero en la estación de Villalba de Guadarrama (Madrid)",
   "provincia": "Madrid",
   "pk": "37/893",
-  "linea": "100 Madrid-Hendaya",
+  "linea": "Línea 100 Madrid-Hendaya",
   "lat": 40.62622523,
   "lng": -4.00813515,
   "metodo": "via_pk",
@@ -1588,6 +1717,9 @@
    -4.00813515
   ],
   "codtramo_cercano": "011000060",
+  "linea_declarada": "100",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 37.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1597,18 +1729,21 @@
   "provincia": "Barcelona",
   "pk": "632,800",
   "linea": "Línea 200 Madrid-Barcelona",
-  "lat": 41.3825802,
-  "lng": 2.177073,
-  "metodo": null,
-  "dist_via_m": 728,
-  "pk_cercano": 685.4,
+  "lat": 41.208197978,
+  "lng": 1.7027232199999995,
+  "metodo": "via_pk",
+  "dist_via_m": 198,
+  "pk_cercano": 633,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.38422082,
-   2.1855107
+   41.2082514,
+   1.70036384
   ],
-  "codtramo_cercano": "022000585",
-  "veredicto": "duda",
+  "codtramo_cercano": "022000490",
+  "linea_declarada": "200",
+  "dist_linea_m": 198,
+  "pk_linea_cercano": 633,
+  "veredicto": "bien",
   "provincia_ok": true
  },
  {
@@ -1616,18 +1751,21 @@
   "titulo": "Arrollamiento de persona por tren Altaria entre San Cristóbal de los Ángeles y San Cristób",
   "provincia": "Madrid",
   "pk": "9,670",
-  "linea": "Línea 300 Madrid Atocha-Valencia Nord",
-  "lat": 40.416782,
-  "lng": -3.703507,
-  "metodo": null,
-  "dist_via_m": 287,
-  "pk_cercano": 1.5,
+  "linea": "Línea 300 Madrid Atocha-Valencia Nord (vía G3)",
+  "lat": 40.33262325482759,
+  "lng": -3.694158768275862,
+  "metodo": "via_pk",
+  "dist_via_m": 339,
+  "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.41420678,
-   -3.70353919
+   40.33192845,
+   -3.69805124
   ],
-  "codtramo_cercano": "033000010",
+  "codtramo_cercano": "039360010",
+  "linea_declarada": "300",
+  "dist_linea_m": 397,
+  "pk_linea_cercano": 10,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1656,7 +1794,7 @@
   "titulo": "Arrollamiento de una persona en el apeadero de Sant Ildefons de Cornellá (Barcelona), líne",
   "provincia": "Barcelona",
   "pk": "93,900",
-  "linea": "240 Sant Vicenç de Calders-L´Hospitalet de Llobregat",
+  "linea": "Línea 240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
   "lat": 41.35835550767676,
   "lng": 2.0827991812121214,
   "metodo": "via_pk",
@@ -1668,6 +1806,9 @@
    2.08023001
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 249,
+  "pk_linea_cercano": 93.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1717,17 +1858,20 @@
   "provincia": "Madrid",
   "pk": "9,550",
   "linea": "Línea 300 Madrid Atocha-Valencia Nord",
-  "lat": 40.54524543,
-  "lng": -3.70779206,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 9.5,
+  "lat": 40.33279098275862,
+  "lng": -3.692452827586207,
+  "metodo": "via_pk",
+  "dist_via_m": 418,
+  "pk_cercano": 9.1,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.54524543,
-   -3.70779206
+   40.33421437,
+   -3.68789015
   ],
-  "codtramo_cercano": "110800020",
+  "codtramo_cercano": "033000060",
+  "linea_declarada": "300",
+  "dist_linea_m": 418,
+  "pk_linea_cercano": 9.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1736,7 +1880,7 @@
   "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0046/2006 OCURRIDO ",
   "provincia": "Barcelona",
   "pk": "231,500",
-  "linea": "270 Barcelona-Portbou",
+  "linea": "Línea 270 Barcelona-Portbou",
   "lat": 42.1223151279422,
   "lng": 2.9653769833804136,
   "metodo": "estacion_ign",
@@ -1748,6 +1892,9 @@
    2.96577976
   ],
   "codtramo_cercano": "022700130",
+  "linea_declarada": "270",
+  "dist_linea_m": 36,
+  "pk_linea_cercano": 230.6,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -1757,17 +1904,20 @@
   "provincia": "Barcelona",
   "pk": "10,450",
   "linea": "Línea 246 Castellbisball-Mollet Sant Fost",
-  "lat": 41.37955027,
-  "lng": 2.02640032,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 10.2,
+  "lat": 41.48535916196581,
+  "lng": 2.0901151202564106,
+  "metodo": "via_pk",
+  "dist_via_m": 331,
+  "pk_cercano": 10.8,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.37955027,
-   2.02640032
+   41.48384196,
+   2.08670036
   ],
-  "codtramo_cercano": "022380020",
+  "codtramo_cercano": "022460015",
+  "linea_declarada": "246",
+  "dist_linea_m": 331,
+  "pk_linea_cercano": 10.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1795,12 +1945,12 @@
   "id": "ES-ID-120506-020207",
   "titulo": "Informe definitivo sobre la investigación del accidente ferroviario Nº 0020/2006 ocurrido ",
   "provincia": "Cantabria",
-  "pk": "494,403",
-  "linea": "160 Santander-Palencia",
-  "lat": 43.35587309758421,
-  "lng": -3.9542160561855257,
+  "pk": "494,174",
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": 43.357013380723686,
+  "lng": -3.956551260313158,
   "metodo": "via_pk",
-  "dist_via_m": 114,
+  "dist_via_m": 113,
   "pk_cercano": 494.3,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -1808,6 +1958,9 @@
    -3.95538637
   ],
   "codtramo_cercano": "061600090",
+  "linea_declarada": "160",
+  "dist_linea_m": 113,
+  "pk_linea_cercano": 494.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1816,7 +1969,7 @@
   "titulo": "Arrollamiento mortal de un peatón por tren Altaria en la línea La Encina-Alicante, pk 394,",
   "provincia": "Alicante",
   "pk": "394,075",
-  "linea": "La Encina - Alicante",
+  "linea": "La Encina-Alicante",
   "lat": 38.64777251,
   "lng": -0.87813764,
   "metodo": "via_pkteorico",
@@ -1848,6 +2001,9 @@
    2.41755876
   ],
   "codtramo_cercano": "120500255",
+  "linea_declarada": "270",
+  "dist_linea_m": 454,
+  "pk_linea_cercano": 148.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1877,26 +2033,26 @@
   "provincia": "Ciudad Real",
   "pk": "239,544",
   "linea": "Alcázar de San Juan-Cádiz",
-  "lat": 42.28876862,
-  "lng": -7.85519245,
+  "lat": 38.68067131,
+  "lng": -4.39640378,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 239.5,
-  "provincia_ine": "Ourense",
+  "pk_cercano": 240,
+  "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
-   42.28876862,
-   -7.85519245
+   38.68067131,
+   -4.39640378
   ],
-  "codtramo_cercano": "068220060",
+  "codtramo_cercano": "045200060",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-151006-150107-SFELIU_ES-24",
   "titulo": "Arrollamiento mortal de peatón en paso a nivel de San Feliu de Llobregat (Barcelona)",
   "provincia": "Barcelona",
   "pk": "88,906",
-  "linea": "240 Tarragona-Barcelona-Francia",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia",
   "lat": 41.38696604629091,
   "lng": 2.043226305521212,
   "metodo": "via_pk",
@@ -1908,6 +2064,9 @@
    2.04207467
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 174,
+  "pk_linea_cercano": 88.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1917,19 +2076,19 @@
   "provincia": "Valencia",
   "pk": "28,363",
   "linea": "Silla-Gandía",
-  "lat": 41.78044188,
-  "lng": -1.15269505,
+  "lat": 39.63649596,
+  "lng": -0.29138292,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 28.4,
-  "provincia_ine": "Zaragoza",
+  "pk_cercano": 28.6,
+  "provincia_ine": "Valencia",
   "coord_pkcercano": [
-   41.78044188,
-   -1.15269505
+   39.63649596,
+   -0.29138292
   ],
-  "codtramo_cercano": "017000010",
+  "codtramo_cercano": "036000050",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-160506-020307",
@@ -1937,19 +2096,22 @@
   "provincia": "Castellón",
   "pk": "62,363",
   "linea": "Línea 600 Valencia-Tarragona",
-  "lat": 41.19613164120046,
-  "lng": -1.2869911143059072,
-  "metodo": "estacion_ign",
-  "dist_via_m": 278,
-  "pk_cercano": 45.7,
-  "provincia_ine": "Zaragoza",
+  "lat": 39.902366377175845,
+  "lng": -0.10216183177372883,
+  "metodo": "via_pk",
+  "dist_via_m": 4,
+  "pk_cercano": 62.7,
+  "provincia_ine": "Castellón",
   "coord_pkcercano": [
-   41.1986225,
-   -1.28728934
+   39.90233238,
+   -0.1021603
   ],
-  "codtramo_cercano": "026100040",
+  "codtramo_cercano": "036000080",
+  "linea_declarada": "600",
+  "dist_linea_m": 4,
+  "pk_linea_cercano": 62.7,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-160906-020207",
@@ -1957,10 +2119,10 @@
   "provincia": "Barcelona",
   "pk": "353,200",
   "linea": "Línea 220 Lérida-Barcelona",
-  "lat": 41.48112048,
-  "lng": 2.16554242,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
+  "lat": 41.48131768181818,
+  "lng": 2.167568249090909,
+  "metodo": "via_pk",
+  "dist_via_m": 170,
   "pk_cercano": 353.2,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1968,6 +2130,9 @@
    2.16554242
   ],
   "codtramo_cercano": "022200080",
+  "linea_declarada": "220",
+  "dist_linea_m": 170,
+  "pk_linea_cercano": 353.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -1977,19 +2142,19 @@
   "provincia": "Guadalajara",
   "pk": "139,840",
   "linea": "Madrid-Barcelona",
-  "lat": 39.94283508,
-  "lng": -4.88676355,
+  "lat": 41.07143245,
+  "lng": -2.64658469,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 140.2,
-  "provincia_ine": "Toledo",
+  "pk_cercano": 139.7,
+  "provincia_ine": "Guadalajara",
   "coord_pkcercano": [
-   39.94283508,
-   -4.88676355
+   41.07143245,
+   -2.64658469
   ],
-  "codtramo_cercano": "055000115",
+  "codtramo_cercano": "022000130",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-170506-020207",
@@ -1997,18 +2162,21 @@
   "provincia": "Murcia",
   "pk": "0,385",
   "linea": "Línea 322 Murcia Cargas-Águilas",
-  "lat": 37.61337533,
-  "lng": -0.96421996,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 0.6,
-  "provincia_ine": "Murcia",
+  "lat": 37.96951901,
+  "lng": -1.19493687,
+  "metodo": "via_pk",
+  "dist_via_m": 2,
+  "pk_cercano": 454.3,
+  "provincia_ine": "00",
   "coord_pkcercano": [
-   37.61337533,
-   -0.96421996
+   37.96953592,
+   -1.19494121
   ],
-  "codtramo_cercano": "033240010",
-  "veredicto": "bien",
+  "codtramo_cercano": "033200055",
+  "linea_declarada": "322",
+  "dist_linea_m": 2021,
+  "pk_linea_cercano": 0.9,
+  "veredicto": "mal",
   "provincia_ok": true
  },
  {
@@ -2016,7 +2184,7 @@
   "titulo": "Arrollamiento mortal de un peatón en paso a nivel de Sant Feliu de Llobregat (Barcelona)",
   "provincia": "Barcelona",
   "pk": "88,906",
-  "linea": "240 Tarragona-Barcelona-Francia",
+  "linea": "Línea 240 Tarragona-Barcelona-Francia",
   "lat": 41.38696604629091,
   "lng": 2.043226305521212,
   "metodo": "via_pk",
@@ -2028,6 +2196,9 @@
    2.04207467
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 174,
+  "pk_linea_cercano": 88.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2037,19 +2208,22 @@
   "provincia": "Guipúzcoa",
   "pk": "615/644",
   "linea": "Línea 100 Madrid-Hendaya",
-  "lat": 41.18236178,
-  "lng": 1.49790056,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 615.7,
-  "provincia_ine": "Tarragona",
+  "lat": 43.270794750787566,
+  "lng": -1.9689040103626947,
+  "metodo": "via_pk",
+  "dist_via_m": 187,
+  "pk_cercano": 615.9,
+  "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
-   41.18236178,
-   1.49790056
+   43.27151372,
+   -1.96682453
   ],
-  "codtramo_cercano": "022000470",
+  "codtramo_cercano": "011000415",
+  "linea_declarada": "100",
+  "dist_linea_m": 187,
+  "pk_linea_cercano": 615.9,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-180406-020207",
@@ -2057,17 +2231,20 @@
   "provincia": "Madrid",
   "pk": "9,900",
   "linea": "Línea 300 Madrid Atocha-Valencia Nord",
-  "lat": 40.44683235,
-  "lng": -3.60163633,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 9.8,
+  "lat": 40.332120862413795,
+  "lng": -3.697076545172414,
+  "metodo": "via_pk",
+  "dist_via_m": 85,
+  "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.44683235,
-   -3.60163633
+   40.33192845,
+   -3.69805124
   ],
-  "codtramo_cercano": "022000030",
+  "codtramo_cercano": "039360010",
+  "linea_declarada": "300",
+  "dist_linea_m": 143,
+  "pk_linea_cercano": 10,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2088,6 +2265,9 @@
    -8.61550045
   ],
   "codtramo_cercano": "068100060",
+  "linea_declarada": "810",
+  "dist_linea_m": 440,
+  "pk_linea_cercano": 165.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2096,7 +2276,7 @@
   "titulo": "Arrollamiento de un vehículo por tren en paso a nivel entre Briviesca y Calzada de Bureba ",
   "provincia": "Burgos",
   "pk": "420,623",
-  "linea": "100 Madrid-Hendaya",
+  "linea": "Línea 100 Madrid-Hendaya",
   "lat": 42.57461359537533,
   "lng": -3.3021414176361237,
   "metodo": "via_pk",
@@ -2108,6 +2288,9 @@
    -3.30160407
   ],
   "codtramo_cercano": "011000280",
+  "linea_declarada": "100",
+  "dist_linea_m": 108,
+  "pk_linea_cercano": 420.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2117,19 +2300,22 @@
   "provincia": "Palencia",
   "pk": "5,800",
   "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
-  "lat": 43.20389671,
-  "lng": -3.16290411,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 5.8,
-  "provincia_ine": "Vizcaya",
+  "lat": 42.0500259656087,
+  "lng": -4.585356111913043,
+  "metodo": "via_pk",
+  "dist_via_m": 267,
+  "pk_cercano": 6,
+  "provincia_ine": "Palencia",
   "coord_pkcercano": [
-   43.20389671,
-   -3.16290411
+   42.05161669,
+   -4.58778018
   ],
-  "codtramo_cercano": "087900110",
+  "codtramo_cercano": "061300030",
+  "linea_declarada": "130",
+  "dist_linea_m": 267,
+  "pk_linea_cercano": 6,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-210806-131106-PLG (003)",
@@ -2188,7 +2374,10 @@
    -4.06086573
   ],
   "codtramo_cercano": "110800150",
-  "veredicto": "bien",
+  "linea_declarada": "600",
+  "dist_linea_m": 414891,
+  "pk_linea_cercano": 120.8,
+  "veredicto": "mal",
   "provincia_ok": false
  },
  {
@@ -2208,6 +2397,9 @@
    -2.99760257
   ],
   "codtramo_cercano": "017000140",
+  "linea_declarada": "700",
+  "dist_linea_m": 468,
+  "pk_linea_cercano": 217.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2236,7 +2428,7 @@
   "titulo": "Arrollamiento de una persona por tren de Cercanías a la entrada de la estación de Madrid-A",
   "provincia": "Madrid",
   "pk": "0,619",
-  "linea": "920 Móstoles El Soto-Parla",
+  "linea": "Línea 920 Móstoles El Soto-Parla",
   "lat": 40.39335852941,
   "lng": -3.67693582613,
   "metodo": "via_pk",
@@ -2248,6 +2440,9 @@
    -3.67740493
   ],
   "codtramo_cercano": "059200030",
+  "linea_declarada": "920",
+  "dist_linea_m": 111,
+  "pk_linea_cercano": 2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2276,7 +2471,7 @@
   "titulo": "Arrollamiento de una persona por tren de cercanías en línea 930 Madrid-San Fernando de Hen",
   "provincia": "Madrid",
   "pk": "5,200",
-  "linea": "930 Madrid- San Fernando de Henares",
+  "linea": "930 Madrid-San Fernando de Henares",
   "lat": 40.376257012941174,
   "lng": -3.656882491764706,
   "metodo": "via_pk",
@@ -2288,6 +2483,9 @@
    -3.65829331
   ],
   "codtramo_cercano": "029300020",
+  "linea_declarada": "930",
+  "dist_linea_m": 123,
+  "pk_linea_cercano": 4.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2308,6 +2506,9 @@
    -7.12461618
   ],
   "codtramo_cercano": "068000120",
+  "linea_declarada": "800",
+  "dist_linea_m": 342,
+  "pk_linea_cercano": 310.7,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -2328,6 +2529,9 @@
    2.04207467
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 174,
+  "pk_linea_cercano": 88.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2336,7 +2540,7 @@
   "titulo": "Arrollamiento de una persona en el paso entre andenes de la estación de Sant Vicenç de Cal",
   "provincia": "Barcelona",
   "pk": "618,000",
-  "linea": "Madrid-Barcelona",
+  "linea": "Línea Madrid-Barcelona",
   "lat": 41.36287189,
   "lng": 2.11638884,
   "metodo": "via_pkteorico",
@@ -2357,17 +2561,20 @@
   "provincia": "Madrid",
   "pk": "9,850",
   "linea": "Línea 300 Madrid Atocha-Valencia Nord",
-  "lat": 40.44683235,
-  "lng": -3.60163633,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 9.8,
+  "lat": 40.332273252068966,
+  "lng": -3.696319605862069,
+  "metodo": "via_pk",
+  "dist_via_m": 152,
+  "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.44683235,
-   -3.60163633
+   40.33192845,
+   -3.69805124
   ],
-  "codtramo_cercano": "022000030",
+  "codtramo_cercano": "039360010",
+  "linea_declarada": "300",
+  "dist_linea_m": 210,
+  "pk_linea_cercano": 10,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2376,7 +2583,7 @@
   "titulo": "Arrollamiento de persona en paso a nivel entre Villafría y Burgos, línea Madrid-Hendaya",
   "provincia": "Burgos",
   "pk": "371,068",
-  "linea": "100 Madrid-Hendaya",
+  "linea": "Línea 100 Madrid-Hendaya",
   "lat": 42.3677341708,
   "lng": -3.697217558,
   "metodo": "via_pk",
@@ -2388,6 +2595,9 @@
    -3.69738387
   ],
   "codtramo_cercano": "011000240",
+  "linea_declarada": "100",
+  "dist_linea_m": 14,
+  "pk_linea_cercano": 370.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2396,19 +2606,22 @@
   "titulo": "Arrollamiento de una persona por un tren de mercancías en la estación de Torredembarra, Ta",
   "provincia": "Tarragona",
   "pk": "13,550",
-  "linea": "Línea 600 Valencia Norte – San Vicente de Calders",
-  "lat": 40.58366657,
-  "lng": -3.71061584,
+  "linea": "Línea 600 Valencia Norte - San Vicente de Calders",
+  "lat": 41.24316451,
+  "lng": 1.30824589,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 13.6,
-  "provincia_ine": "Madrid",
+  "pk_cercano": 13.1,
+  "provincia_ine": "Tarragona",
   "coord_pkcercano": [
-   40.58366657,
-   -3.71061584
+   41.24316451,
+   1.30824589
   ],
-  "codtramo_cercano": "011020050",
-  "veredicto": "bien",
+  "codtramo_cercano": "022000460",
+  "linea_declarada": "600",
+  "dist_linea_m": 16273,
+  "pk_linea_cercano": 254.1,
+  "veredicto": "mal",
   "provincia_ok": false
  },
  {
@@ -2417,17 +2630,20 @@
   "provincia": "Madrid",
   "pk": "9,800",
   "linea": "Línea 300 Madrid Atocha-Valencia Nord",
-  "lat": 40.44683235,
-  "lng": -3.60163633,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 9.8,
+  "lat": 40.332379248275856,
+  "lng": -3.695777463448276,
+  "metodo": "via_pk",
+  "dist_via_m": 199,
+  "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.44683235,
-   -3.60163633
+   40.33192845,
+   -3.69805124
   ],
-  "codtramo_cercano": "022000030",
+  "codtramo_cercano": "039360010",
+  "linea_declarada": "300",
+  "dist_linea_m": 257,
+  "pk_linea_cercano": 10,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2468,6 +2684,9 @@
    -2.88445233
   ],
   "codtramo_cercano": "017000170",
+  "linea_declarada": "700",
+  "dist_linea_m": 178,
+  "pk_linea_cercano": 241.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2477,19 +2696,22 @@
   "provincia": "Valencia",
   "pk": "4/465",
   "linea": "Línea 310 Aranjuez - Valencia",
-  "lat": 41.64115425,
-  "lng": -1.04477843,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 4.5,
-  "provincia_ine": "Zaragoza",
+  "lat": 39.54310050327391,
+  "lng": -1.166176228973913,
+  "metodo": "via_pk",
+  "dist_via_m": 449,
+  "pk_cercano": 4,
+  "provincia_ine": "Valencia",
   "coord_pkcercano": [
-   41.64115425,
-   -1.04477843
+   39.54521796,
+   -1.17063424
   ],
-  "codtramo_cercano": "022180020",
+  "codtramo_cercano": "033100080",
+  "linea_declarada": "310",
+  "dist_linea_m": 449,
+  "pk_linea_cercano": 4,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-300407-190707-DGF",
@@ -2499,7 +2721,7 @@
   "linea": "Línea 100 Madrid-Hendaya",
   "lat": 43.31767335,
   "lng": -1.97664386,
-  "metodo": "via_pkteorico",
+  "metodo": "via_pk",
   "dist_via_m": 0,
   "pk_cercano": 622.5,
   "provincia_ine": "Guipúzcoa",
@@ -2508,6 +2730,9 @@
    -1.97664386
   ],
   "codtramo_cercano": "011000425",
+  "linea_declarada": "100",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 622.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2537,19 +2762,19 @@
   "provincia": "Pontevedra",
   "pk": "10,320",
   "linea": "Redondela-Santiago de Compostela",
-  "lat": 40.95017468,
-  "lng": -5.73470756,
+  "lat": 42.27051518,
+  "lng": -8.60537286,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 10.3,
-  "provincia_ine": "Salamanca",
+  "pk_cercano": 10,
+  "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
-   40.95017468,
-   -5.73470756
+   42.27051518,
+   -8.60537286
   ],
-  "codtramo_cercano": "011200070",
+  "codtramo_cercano": "068500010",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID-311206-130407",
@@ -2557,19 +2782,22 @@
   "provincia": "Barcelona",
   "pk": "171,039",
   "linea": "Línea 270 Barcelona-Portbou",
-  "lat": 41.74775798678219,
-  "lng": 2.6316507703402148,
-  "metodo": "estacion_ign",
-  "dist_via_m": 31,
-  "pk_cercano": 683,
-  "provincia_ine": "Girona",
+  "lat": 41.71800191,
+  "lng": 2.53898083,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 162.5,
+  "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.74800039,
-   2.6314658
+   41.71800191,
+   2.53898083
   ],
-  "codtramo_cercano": "120500277",
+  "codtramo_cercano": "022700080",
+  "linea_declarada": "270",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 162.5,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_040407_140907",
@@ -2577,17 +2805,20 @@
   "provincia": "Oviedo",
   "pk": "134+410",
   "linea": "Línea 130 Venta de Baños a Gijón Cercanías",
-  "lat": 40.99324136,
-  "lng": -2.52419274,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 134.4,
-  "provincia_ine": "Guadalajara",
+  "lat": 43.3275969444,
+  "lng": -5.8749741988,
+  "metodo": "via_pk",
+  "dist_via_m": 476,
+  "pk_cercano": 133.6,
+  "provincia_ine": "Asturias",
   "coord_pkcercano": [
-   40.99324136,
-   -2.52419274
+   43.32357202,
+   -5.87694331
   ],
-  "codtramo_cercano": "120500040",
+  "codtramo_cercano": "061300210",
+  "linea_declarada": "130",
+  "dist_linea_m": 476,
+  "pk_linea_cercano": 133.6,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -2595,8 +2826,8 @@
   "id": "ES-ID_050407_140907",
   "titulo": "Arrollamiento de una persona en paso a nivel peatonal en la estación de La Garriga (Barcel",
   "provincia": "Barcelona",
-  "pk": "37,492",
-  "linea": "222 Barcelona-Ripoll",
+  "pk": "37+492",
+  "linea": "Línea 222 Barcelona-Ripoll",
   "lat": 41.68375847285161,
   "lng": 2.2886860416,
   "metodo": "via_pk",
@@ -2608,6 +2839,9 @@
    2.28861854
   ],
   "codtramo_cercano": "022220040",
+  "linea_declarada": "222",
+  "dist_linea_m": 89,
+  "pk_linea_cercano": 37.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2617,26 +2851,29 @@
   "provincia": "Valencia",
   "pk": "81,454",
   "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
-  "lat": 39.94556331,
-  "lng": -3.41265301,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 81.5,
-  "provincia_ine": "Toledo",
+  "lat": 39.20286383798664,
+  "lng": -0.4401810931173278,
+  "metodo": "via_pk",
+  "dist_via_m": 240,
+  "pk_cercano": 80.7,
+  "provincia_ine": "Valencia",
   "coord_pkcercano": [
-   39.94556331,
-   -3.41265301
+   39.2007111,
+   -0.44019806
   ],
-  "codtramo_cercano": "130400060",
+  "codtramo_cercano": "033000270",
+  "linea_declarada": "300",
+  "dist_linea_m": 240,
+  "pk_linea_cercano": 80.7,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-ID_070607_191007",
   "titulo": "Informe definitivo sobre la investigación del accidente ferroviario Nº 0036/2007 ocurrido ",
   "provincia": "Castellón",
   "pk": "61/700",
-  "linea": "600 Valencia Nord – San Vicente Calders",
+  "linea": "Línea 600 Valencia Nord – San Vicente Calders",
   "lat": 39.89753496525424,
   "lng": -0.10322594940677964,
   "metodo": "via_pk",
@@ -2648,6 +2885,9 @@
    -0.10634554
   ],
   "codtramo_cercano": "036000080",
+  "linea_declarada": "600",
+  "dist_linea_m": 439,
+  "pk_linea_cercano": 61.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2676,7 +2916,7 @@
   "titulo": "Arrollamiento de una persona por tren entre Neda y Ferrol, en el puente Ponte do Couto, lí",
   "provincia": "A Coruña",
   "pk": "37/600",
-  "linea": "Betanzos – Infesta a Ferrol",
+  "linea": "Betanzos-Infesta a Ferrol",
   "lat": 43.60417619,
   "lng": -7.92379915,
   "metodo": "via_pkteorico",
@@ -2716,7 +2956,7 @@
   "titulo": "Arrollamiento de una persona por tren en paso vicioso cerca del apeadero de Camargo, Canta",
   "provincia": "Cantabria",
   "pk": "508+180",
-  "linea": "160 Santander-Palencia",
+  "linea": "Línea 160 Santander-Palencia",
   "lat": 43.41729212,
   "lng": -3.8420821,
   "metodo": "via_pk",
@@ -2728,6 +2968,9 @@
    -3.84138892
   ],
   "codtramo_cercano": "087740010",
+  "linea_declarada": "160",
+  "dist_linea_m": 406,
+  "pk_linea_cercano": 507.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2735,12 +2978,12 @@
   "id": "ES-ID_130407_190707",
   "titulo": "Arrollamiento de una persona por tren de Cercanías en el apeadero de El Tejar (Madrid)",
   "provincia": "Madrid",
-  "pk": "18/190",
+  "pk": "18/200",
   "linea": "Línea 100 Madrid-Chamartín-Hendaya",
-  "lat": 40.51085717,
-  "lng": -3.85572066,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
+  "lat": 40.510585773076926,
+  "lng": -3.8543362007692306,
+  "metodo": "via_pk",
+  "dist_via_m": 121,
   "pk_cercano": 18.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -2748,6 +2991,9 @@
    -3.85572066
   ],
   "codtramo_cercano": "011000025",
+  "linea_declarada": "100",
+  "dist_linea_m": 121,
+  "pk_linea_cercano": 18.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2776,7 +3022,7 @@
   "titulo": "Arrollamiento de una persona por tren de Cercanías cerca del apeadero de Castelldefels Pla",
   "provincia": "Barcelona",
   "pk": "656/750",
-  "linea": "200 Madrid-Barcelona",
+  "linea": "Línea 200 Madrid-Barcelona",
   "lat": 41.268040741442306,
   "lng": 1.9638771393589745,
   "metodo": "via_pk",
@@ -2788,6 +3034,9 @@
    1.96577511
   ],
   "codtramo_cercano": "022000510",
+  "linea_declarada": "200",
+  "dist_linea_m": 175,
+  "pk_linea_cercano": 657.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2797,10 +3046,10 @@
   "provincia": "Lleida",
   "pk": "196,070",
   "linea": "Línea 220 Lleida-L'Hospitalet de Llobregat",
-  "lat": 41.63162863,
-  "lng": 0.77346763,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
+  "lat": 41.6312483234375,
+  "lng": 0.7689072638750001,
+  "metodo": "via_pk",
+  "dist_via_m": 382,
   "pk_cercano": 195.7,
   "provincia_ine": "Lleida",
   "coord_pkcercano": [
@@ -2808,6 +3057,9 @@
    0.77346763
   ],
   "codtramo_cercano": "022200012",
+  "linea_declarada": "220",
+  "dist_linea_m": 382,
+  "pk_linea_cercano": 195.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2816,7 +3068,7 @@
   "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 38/2007 OCURRIDO EL",
   "provincia": "Valencia",
   "pk": "146+805",
-  "linea": "600 Valencia Nord – San Viçenc de Calders",
+  "linea": "600 Valencia Nord - San Vicenç de Calders",
   "lat": 40.47171918,
   "lng": 0.45551574,
   "metodo": "via_pkteorico",
@@ -2828,6 +3080,9 @@
    0.45551574
   ],
   "codtramo_cercano": "036000120",
+  "linea_declarada": "600",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 146.8,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -2835,12 +3090,12 @@
   "id": "ES-ID_250407_171207",
   "titulo": "Arrollamiento de un vehículo automóvil por tren en paso a nivel en el trayecto Catoira-Pue",
   "provincia": "Pontevedra",
-  "pk": "66/722",
+  "pk": "66,722",
   "linea": "824 Redondela-Santiago de Compostela",
-  "lat": 42.704636841584616,
-  "lng": -8.733244909687693,
+  "lat": 42.7024033,
+  "lng": -8.73517166,
   "metodo": "via_pk",
-  "dist_via_m": 294,
+  "dist_via_m": 0,
   "pk_cercano": 66.4,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -2848,6 +3103,9 @@
    -8.73517166
   ],
   "codtramo_cercano": "068240042",
+  "linea_declarada": "824",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 66.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2856,7 +3114,7 @@
   "titulo": "Arrollamiento mortal de una persona en paso vicioso entre Montroig del Camp y L'Hospitalet",
   "provincia": "Tarragona",
   "pk": "244,350",
-  "linea": "Valencia a San Vicente de Calders",
+  "linea": "Valencia - San Vicente de Calders",
   "lat": 41.50375781,
   "lng": -1.47917779,
   "metodo": "via_pkteorico",
@@ -2877,17 +3135,20 @@
   "provincia": "Murcia",
   "pk": "467,110",
   "linea": "320 Chinchilla a Cartagena",
-  "lat": 37.99059787,
-  "lng": -1.06071288,
+  "lat": 37.97462816,
+  "lng": -1.13158089,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 467.3,
+  "pk_cercano": 459.9,
   "provincia_ine": "Murcia",
   "coord_pkcercano": [
-   37.99059787,
-   -1.06071288
+   37.97462816,
+   -1.13158089
   ],
-  "codtramo_cercano": "033520010",
+  "codtramo_cercano": "033200070",
+  "linea_declarada": "320",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 459.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2896,20 +3157,22 @@
   "titulo": "Arrollamiento de ciclista en paso entarimado estación Tocón-Montefrío (Granada)",
   "provincia": "Granada",
   "pk": "88,612",
-  "linea": "426 Granada – Fuente de Piedra",
-  "lat": 40.0746111,
-  "lng": 0.1293638,
+  "linea": "Línea 426 Granada – Fuente de Piedra",
+  "lat": 37.23289156,
+  "lng": -3.96178988,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 88.6,
-  "provincia_ine": "Castellón",
+  "pk_cercano": 88.3,
+  "provincia_ine": "Granada",
   "coord_pkcercano": [
-   40.0746111,
-   0.1293638
+   37.23289156,
+   -3.96178988
   ],
-  "codtramo_cercano": "036000110",
+  "codtramo_cercano": "044640010",
+  "linea_declarada": "426",
+  "linea_no_en_red": true,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-010109-190509-CIAF",
@@ -2928,6 +3191,9 @@
    1.80974408
   ],
   "codtramo_cercano": "022000500",
+  "linea_declarada": "200",
+  "dist_linea_m": 59,
+  "pk_linea_cercano": 643.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2935,8 +3201,8 @@
   "id": "ES-IF-010611-310112-CIAF",
   "titulo": "Escape de ocho plataformas portabobinas vacías en la estación de Trasona (Asturias) tras d",
   "provincia": "Asturias",
-  "pk": "PK 27+510",
-  "linea": "11 Ferrol - Gijón",
+  "pk": "27+510",
+  "linea": "Línea 11 Ferrol - Gijón",
   "lat": 43.35708836,
   "lng": -5.64382329,
   "metodo": "via_pkteorico",
@@ -2956,7 +3222,7 @@
   "titulo": "Informe final sobre la investigación del accidente ferroviario nº 0038/2008 ocurrido el dí",
   "provincia": "Palencia",
   "pk": "279,000",
-  "linea": "100 Hendaya Madrid-Chamartín",
+  "linea": "Línea 100 Hendaya Madrid-Chamartín",
   "lat": 41.87618604234043,
   "lng": -4.540363625957447,
   "metodo": "via_pk",
@@ -2968,6 +3234,9 @@
    -4.54041058
   ],
   "codtramo_cercano": "011000200",
+  "linea_declarada": "100",
+  "dist_linea_m": 193,
+  "pk_linea_cercano": 279.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2988,6 +3257,9 @@
    -8.62004345
   ],
   "codtramo_cercano": "068100060",
+  "linea_declarada": "810",
+  "dist_linea_m": 492,
+  "pk_linea_cercano": 152.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -2996,7 +3268,7 @@
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2009 OCURRIDO EL DÍA 02.02.2009 ENTRE",
   "provincia": "Guipúzcoa",
   "pk": "551+790",
-  "linea": "100 Madrid-Hendaya",
+  "linea": "Línea 100 Madrid-Hendaya",
   "lat": 42.956206659598365,
   "lng": -2.304161344221311,
   "metodo": "via_pk",
@@ -3008,6 +3280,9 @@
    -2.30580102
   ],
   "codtramo_cercano": "011000390",
+  "linea_declarada": "100",
+  "dist_linea_m": 486,
+  "pk_linea_cercano": 550,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3017,19 +3292,19 @@
   "provincia": "León",
   "pk": "53,725",
   "linea": "31 León-Bilbao",
-  "lat": 37.89511007,
-  "lng": -3.29051424,
+  "lat": 42.30917037,
+  "lng": -5.00817423,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 53.6,
-  "provincia_ine": "Jaén",
+  "pk_cercano": 54,
+  "provincia_ine": "León",
   "coord_pkcercano": [
-   37.89511007,
-   -3.29051424
+   42.30917037,
+   -5.00817423
   ],
-  "codtramo_cercano": "044100010",
+  "codtramo_cercano": "061300045",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-021108-240209-CIAF",
@@ -3048,6 +3323,9 @@
    2.62589652
   ],
   "codtramo_cercano": "022700090",
+  "linea_declarada": "270",
+  "dist_linea_m": 31,
+  "pk_linea_cercano": 170.5,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -3056,7 +3334,7 @@
   "titulo": "Arrollamiento de un automóvil por un tren de mercancías en paso a nivel tipo P entre El Pr",
   "provincia": "Sevilla",
   "pk": "511,635",
-  "linea": "400 Alcázar de San Juan-Cádiz",
+  "linea": "Línea 400 Alcázar de San Juan-Cádiz",
   "lat": 37.67429782448238,
   "lng": -5.494827870253304,
   "metodo": "via_pk",
@@ -3068,6 +3346,9 @@
    -5.49274266
   ],
   "codtramo_cercano": "044000180",
+  "linea_declarada": "400",
+  "dist_linea_m": 214,
+  "pk_linea_cercano": 511.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3088,6 +3369,9 @@
    2.96897025
   ],
   "codtramo_cercano": "022700150",
+  "linea_declarada": "270",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 247,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -3108,6 +3392,9 @@
    2.36720427
   ],
   "codtramo_cercano": "022700070",
+  "linea_declarada": "270",
+  "dist_linea_m": 77,
+  "pk_linea_cercano": 144.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3116,7 +3403,7 @@
   "titulo": "Arrollamiento de furgoneta por tren de mercancías en paso a nivel entre Espeja y Fuentes d",
   "provincia": "Salamanca",
   "pk": "122+116",
-  "linea": "120 Vilar Formoso – Medina del Campo",
+  "linea": "120 Vilar Formoso - Medina del Campo",
   "lat": 40.59437168727412,
   "lng": -6.828483117785304,
   "metodo": "via_pk",
@@ -3128,6 +3415,9 @@
    -6.82672465
   ],
   "codtramo_cercano": "011200090",
+  "linea_declarada": "120",
+  "dist_linea_m": 268,
+  "pk_linea_cercano": 123,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3135,8 +3425,8 @@
   "id": "ES-IF-040111-200911-CIAF",
   "titulo": "Descarrilamiento del tren 621 de Renfe Operadora en el cambiador de ancho de Zaragoza Deli",
   "provincia": "Zaragoza",
-  "pk": "305+740",
-  "linea": "060 Cambiador de Zaragoza Delicias a Bifurcación Cambiador de Zaragoza Delicias",
+  "pk": "PK 305+740",
+  "linea": "060 Cambiador de Zaragoza Delicias - Bifurcación Cambiador de Zaragoza Delicias",
   "lat": 41.66883892,
   "lng": -0.92945469,
   "metodo": "via_pk",
@@ -3148,6 +3438,9 @@
    -0.92945469
   ],
   "codtramo_cercano": "120600010",
+  "linea_declarada": "060",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 304.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3168,6 +3461,9 @@
    1.96577511
   ],
   "codtramo_cercano": "022000510",
+  "linea_declarada": "200",
+  "dist_linea_m": 263,
+  "pk_linea_cercano": 657.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3176,7 +3472,7 @@
   "titulo": "Informe final sobre la investigación del incidente ferroviario nº 0040/2008 ocurrido el dí",
   "provincia": null,
   "pk": null,
-  "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+  "linea": "Línea 270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
   "lat": 41.68575456964276,
   "lng": 2.490717576267924,
   "metodo": "estacion_ign",
@@ -3188,6 +3484,9 @@
    2.49087141
   ],
   "codtramo_cercano": "022700070",
+  "linea_declarada": "270",
+  "dist_linea_m": 16,
+  "pk_linea_cercano": 157.1,
   "veredicto": "bien",
   "provincia_ok": null
  },
@@ -3196,7 +3495,7 @@
   "titulo": "Informe final sobre el accidente ferroviario nº 0014/2010 ocurrido el día 05.03.2010 en Du",
   "provincia": "Palencia",
   "pk": "278+952",
-  "linea": "100 Madrid Chamartín – Hendaya",
+  "linea": "Línea 100 Madrid Chamartín – Hendaya",
   "lat": 41.8758948853617,
   "lng": -4.540395140042553,
   "metodo": "via_pk",
@@ -3208,6 +3507,9 @@
    -4.54041058
   ],
   "codtramo_cercano": "011000200",
+  "linea_declarada": "100",
+  "dist_linea_m": 161,
+  "pk_linea_cercano": 279.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3228,6 +3530,9 @@
    2.03815826
   ],
   "codtramo_cercano": "022460015",
+  "linea_declarada": "246",
+  "dist_linea_m": 287,
+  "pk_linea_cercano": 6.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3248,6 +3553,9 @@
    2.67314515
   ],
   "codtramo_cercano": "022700090",
+  "linea_declarada": "270",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 175.9,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -3268,6 +3576,9 @@
    -4.91007411
   ],
   "codtramo_cercano": "011000140",
+  "linea_declarada": "100",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 206.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3276,7 +3587,7 @@
   "titulo": "Informe final sobre el incidente ferroviario nº 0033/2010 ocurrido el día 05.07.2010 en la",
   "provincia": "Madrid",
   "pk": "20+655",
-  "linea": "920 Móstoles - El Soto - Parla",
+  "linea": "920 Móstoles-El Soto - Parla",
   "lat": 40.252760258978256,
   "lng": -3.7413625401521737,
   "metodo": "via_pk",
@@ -3288,6 +3599,9 @@
    -3.74170263
   ],
   "codtramo_cercano": "059200065",
+  "linea_declarada": "920",
+  "dist_linea_m": 332,
+  "pk_linea_cercano": 21,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3296,7 +3610,7 @@
   "titulo": "Rebase de señal en parada en Bifurcación Sagrera (Barcelona) con conato de colisión entre ",
   "provincia": "Barcelona",
   "pk": "110+311",
-  "linea": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+  "linea": "268 Bif. Aragó-Barcelona Sant Andreu Comtal",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -3307,7 +3621,7 @@
   "titulo": "Caída de persona a la vía al apearse en marcha del tren 15015 en estación de Fabara (Zarag",
   "provincia": "Zaragoza",
   "pk": "470+754",
-  "linea": "210 de Miraflores a Tarragona",
+  "linea": "Línea 210 Miraflores-Tarragona",
   "lat": 41.23339154995161,
   "lng": 0.13730240008709693,
   "metodo": "via_pk",
@@ -3319,6 +3633,9 @@
    0.13666278
   ],
   "codtramo_cercano": "022100090",
+  "linea_declarada": "210",
+  "dist_linea_m": 59,
+  "pk_linea_cercano": 470,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3339,6 +3656,9 @@
    -5.13756187
   ],
   "codtramo_cercano": "044200030",
+  "linea_declarada": "420",
+  "dist_linea_m": 303,
+  "pk_linea_cercano": 68,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3359,15 +3679,18 @@
    -6.61296633
   ],
   "codtramo_cercano": "045140020",
-  "veredicto": "bien",
-  "provincia_ok": true
+  "linea_declarada": "510",
+  "dist_linea_m": 66225,
+  "pk_linea_cercano": 141.5,
+  "veredicto": "mal",
+  "provincia_ok": false
  },
  {
   "id": "ES-IF-061209-290610-CIAF",
   "titulo": "Conato de colisión entre trenes en la salida de la estación de Granollers Centre (Barcelon",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "270",
+  "linea": "Línea 270 Cerbère-Barcelona Sant Andreu Comtal",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -3390,6 +3713,9 @@
    2.96458597
   ],
   "codtramo_cercano": "022700130",
+  "linea_declarada": "270",
+  "dist_linea_m": 490,
+  "pk_linea_cercano": 223.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3398,7 +3724,7 @@
   "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0019/2009 OCURRIDO EL DÍ",
   "provincia": "Ávila",
   "pk": "83,700",
-  "linea": "100 Madrid - Hendaya",
+  "linea": "Línea 100 Madrid - Hendaya",
   "lat": 40.58797353403846,
   "lng": -4.351164275384615,
   "metodo": "via_pk",
@@ -3410,6 +3736,9 @@
    -4.34984719
   ],
   "codtramo_cercano": "011000090",
+  "linea_declarada": "100",
+  "dist_linea_m": 111,
+  "pk_linea_cercano": 82.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3418,20 +3747,22 @@
   "titulo": "Arrollamiento mortal de una mujer en paso a nivel entre Aranguren y Zalla (Vizcaya)",
   "provincia": "Vizcaya",
   "pk": "0+388",
-  "linea": "1031 León – Bilbao",
-  "lat": 40.41994121,
-  "lng": -3.71789406,
+  "linea": "1031 León - Bilbao",
+  "lat": 43.20995328,
+  "lng": -3.11930655,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 0.4,
-  "provincia_ine": "Madrid",
+  "pk_cercano": 0.8,
+  "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
-   40.41994121,
-   -3.71789406
+   43.20995328,
+   -3.11930655
   ],
-  "codtramo_cercano": "019100030",
+  "codtramo_cercano": "087900110",
+  "linea_declarada": "1031",
+  "linea_no_en_red": true,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-080410-281210-CIAF",
@@ -3450,10 +3781,10 @@
   "provincia": "Cantabria",
   "pk": "551+254",
   "linea": "24 Santander - Bilbao",
-  "lat": 43.41131917980821,
-  "lng": -3.703613422609303,
-  "metodo": "estacion_ign",
-  "dist_via_m": 347,
+  "lat": 43.40950309,
+  "lng": -3.70709332,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
   "pk_cercano": 550.8,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -3469,7 +3800,7 @@
   "titulo": "Arrollamiento de una persona por tren de mercancías en paso a nivel clase C entre Monforte",
   "provincia": "Lugo",
   "pk": "0+851",
-  "linea": "810 Vigo – Monforte de Lemos",
+  "linea": "810 Vigo-Monforte de Lemos",
   "lat": 42.52256481123227,
   "lng": -7.505545460130142,
   "metodo": "via_pk",
@@ -3481,6 +3812,9 @@
    -7.50650995
   ],
   "codtramo_cercano": "068100010",
+  "linea_declarada": "810",
+  "dist_linea_m": 198,
+  "pk_linea_cercano": 1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3501,6 +3835,9 @@
    -1.59693015
   ],
   "codtramo_cercano": "017000030",
+  "linea_declarada": "700",
+  "dist_linea_m": 225,
+  "pk_linea_cercano": 77.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3521,15 +3858,18 @@
    2.27503201
   ],
   "codtramo_cercano": "022220010",
-  "veredicto": "bien",
-  "provincia_ok": true
+  "linea_declarada": "276",
+  "dist_linea_m": 14527,
+  "pk_linea_cercano": 121.1,
+  "veredicto": "mal",
+  "provincia_ok": false
  },
  {
   "id": "ES-IF-090508-300908-CIAF",
   "titulo": "Arrollamiento de vehículo por tren en paso a nivel tipo A, línea Madrid-Barcelona, P.K. 21",
   "provincia": "Zaragoza",
   "pk": "214,220",
-  "linea": "200 Madrid-Barcelona",
+  "linea": "Línea 200 Madrid-Barcelona",
   "lat": 41.2961878732141,
   "lng": -1.9675598602821158,
   "metodo": "via_pk",
@@ -3541,6 +3881,9 @@
    -1.96803946
   ],
   "codtramo_cercano": "022000180",
+  "linea_declarada": "200",
+  "dist_linea_m": 40,
+  "pk_linea_cercano": 213,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -3549,11 +3892,22 @@
   "titulo": "Arrollamiento de un vehículo agrícola en un paso a nivel en Cabezón de la Sal (Cantabria)",
   "provincia": "Cantabria",
   "pk": "489+795",
-  "linea": "1021 Oviedo – Santander",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "linea": "1021 Oviedo - Santander",
+  "lat": 43.33320052,
+  "lng": -4.18560191,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 490.1,
+  "provincia_ine": "Cantabria",
+  "coord_pkcercano": [
+   43.33320052,
+   -4.18560191
+  ],
+  "codtramo_cercano": "087700120",
+  "linea_declarada": "1021",
+  "linea_no_en_red": true,
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-091108-240209-CIAF",
@@ -3572,6 +3926,9 @@
    -3.6456061
   ],
   "codtramo_cercano": "045220010",
+  "linea_declarada": "522",
+  "dist_linea_m": 253,
+  "pk_linea_cercano": 227.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3592,6 +3949,9 @@
    -4.66560085
   ],
   "codtramo_cercano": "044000120",
+  "linea_declarada": "400",
+  "dist_linea_m": 220,
+  "pk_linea_cercano": 429.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3612,6 +3972,9 @@
    -5.9531407
   ],
   "codtramo_cercano": "044000240",
+  "linea_declarada": "400",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 568,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3632,6 +3995,9 @@
    -2.44088586
   ],
   "codtramo_cercano": "017000070",
+  "linea_declarada": "700",
+  "dist_linea_m": 11,
+  "pk_linea_cercano": 76.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3639,17 +4005,17 @@
   "id": "ES-IF-100611-290512-CIAF",
   "titulo": "Informe final sobre el accidente ferroviario nº 0028/2011 ocurrido el día 10.06.2011 en el",
   "provincia": "Madrid",
-  "pk": "PK 11+100",
-  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
-  "lat": 40.33222802735849,
-  "lng": -3.6515523886792454,
-  "metodo": "via_pk",
-  "dist_via_m": 83,
-  "pk_cercano": 9.8,
+  "pk": "11+100",
+  "linea": "LAV 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "lat": 40.32452808,
+  "lng": -3.64842388,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 10.8,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
-   40.33287987,
-   -3.65203634
+   40.32452808,
+   -3.64842388
   ],
   "codtramo_cercano": "140100030",
   "veredicto": "bien",
@@ -3672,6 +4038,9 @@
    -2.94347071
   ],
   "codtramo_cercano": "017000160",
+  "linea_declarada": "700",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 229.2,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -3692,6 +4061,9 @@
    -0.1021603
   ],
   "codtramo_cercano": "036000080",
+  "linea_declarada": "600",
+  "dist_linea_m": 225,
+  "pk_linea_cercano": 62.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3699,7 +4071,7 @@
   "id": "ES-IF-101108-240209-CIAF_ES-607",
   "titulo": "Informe final sobre la investigación del accidente ferroviario Nº 0061/2008 ocurrido el dí",
   "provincia": "Lugo",
-  "pk": "P.K. 2,455",
+  "pk": "2,455",
   "linea": "810 Vigo - Monforte de Lemos",
   "lat": 42.51204623995035,
   "lng": -7.520432731904256,
@@ -3712,6 +4084,9 @@
    -7.52531221
   ],
   "codtramo_cercano": "068100010",
+  "linea_declarada": "810",
+  "dist_linea_m": 456,
+  "pk_linea_cercano": 3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3721,19 +4096,19 @@
   "provincia": "Asturias",
   "pk": "40,996",
   "linea": "61 Gijón-Laviana",
-  "lat": 42.21800134,
-  "lng": -4.92291721,
+  "lat": 43.15903706,
+  "lng": -5.62028661,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 41,
-  "provincia_ine": "Palencia",
+  "pk_cercano": 41.2,
+  "provincia_ine": "Asturias",
   "coord_pkcercano": [
-   42.21800134,
-   -4.92291721
+   43.15903706,
+   -5.62028661
   ],
-  "codtramo_cercano": "061300030",
+  "codtramo_cercano": "087640070",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-101110-270411-CIAF",
@@ -3752,6 +4127,9 @@
    -8.22596121
   ],
   "codtramo_cercano": "068000170",
+  "linea_declarada": "800",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 524.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3760,7 +4138,7 @@
   "titulo": "Descarrilamiento del tren 27239 en la estación de Pinar de Las Rozas (Madrid)",
   "provincia": "Madrid",
   "pk": "20+658",
-  "linea": "100 Madrid - Hendaya",
+  "linea": "Línea 100 Madrid - Hendaya",
   "lat": 40.51478497064,
   "lng": -3.8778012144800003,
   "metodo": "via_pk",
@@ -3772,6 +4150,9 @@
    -3.8773228
   ],
   "codtramo_cercano": "011000040",
+  "linea_declarada": "100",
+  "dist_linea_m": 87,
+  "pk_linea_cercano": 20.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3812,6 +4193,9 @@
    -2.61665705
   ],
   "codtramo_cercano": "033000150",
+  "linea_declarada": "300",
+  "dist_linea_m": 301,
+  "pk_linea_cercano": 202.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3820,7 +4204,7 @@
   "titulo": "Descarrilamiento de tren de mercancías 54583 en el túnel nº6 'el Caracol' entre Jaca y Can",
   "provincia": "Huesca",
   "pk": "11+758",
-  "linea": "204 Bif. Canfranc - Canfranc",
+  "linea": "Línea 204 Bif. Canfranc - Canfranc (tramo Jaca - Canfranc)",
   "lat": 42.65602929923077,
   "lng": -0.5473721958591093,
   "metodo": "via_pk",
@@ -3832,6 +4216,9 @@
    -0.5479734
   ],
   "codtramo_cercano": "022040050",
+  "linea_declarada": "204",
+  "dist_linea_m": 123,
+  "pk_linea_cercano": 12,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3839,8 +4226,8 @@
   "id": "ES-IF-111110-280611-CIAF",
   "titulo": "Descarrilamiento del tren de mercancías COX26 entre Algemesí y Benifaió (Valencia)",
   "provincia": "Valencia",
-  "pk": "PK 89+850",
-  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+  "pk": "89+850",
+  "linea": "Línea 300 Madrid Chamartín - Valencia Estació del Nord, tramo Xátiva - Silla",
   "lat": 39.27931643803758,
   "lng": -0.4303546384133612,
   "metodo": "via_pk",
@@ -3852,6 +4239,9 @@
    -0.43022283
   ],
   "codtramo_cercano": "033000270",
+  "linea_declarada": "300",
+  "dist_linea_m": 380,
+  "pk_linea_cercano": 90.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3872,6 +4262,9 @@
    -3.94951772
   ],
   "codtramo_cercano": "061600100",
+  "linea_declarada": "160",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 494.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3880,7 +4273,7 @@
   "titulo": "Colisión frontal y descarrilamiento por rebase de señal en la estación de San Claudio (Ovi",
   "provincia": "Asturias",
   "pk": "5+265",
-  "linea": "12 Oviedo – San Esteban",
+  "linea": "Línea 12 Oviedo - San Esteban (tramo 71 Oviedo-Trubia)",
   "lat": 43.31978686,
   "lng": -5.80750288,
   "metodo": "via_pkteorico",
@@ -3900,7 +4293,7 @@
   "titulo": "Conato de colisión entre maquinaria de vía de Adif y tren de mercancías en Cerdanyola del ",
   "provincia": "Barcelona",
   "pk": "351+200",
-  "linea": "224",
+  "linea": "Línea 224 Cerdanyola Universitat - Cerdanyola del Vallés",
   "lat": 41.4926046,
   "lng": 2.14766031,
   "metodo": "via_pkteorico",
@@ -3912,6 +4305,9 @@
    2.14766031
   ],
   "codtramo_cercano": "022200080",
+  "linea_declarada": "224",
+  "dist_linea_m": 109,
+  "pk_linea_cercano": 3.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3920,7 +4316,7 @@
   "titulo": "Arrollamiento de persona por tren de mercancías en paso enmaderado de la estación de Marto",
   "provincia": "Barcelona",
   "pk": "73,130",
-  "linea": "240 San Vicente de Calders –L’Hospitalet de Llobregat",
+  "linea": "240 San Vicente de Calders – L’Hospitalet de Llobregat",
   "lat": 41.47886781466667,
   "lng": 1.9259291026666667,
   "metodo": "via_pk",
@@ -3932,6 +4328,9 @@
    1.92618033
   ],
   "codtramo_cercano": "022400070",
+  "linea_declarada": "240",
+  "dist_linea_m": 23,
+  "pk_linea_cercano": 73.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3940,7 +4339,7 @@
   "titulo": "Arrollamiento de persona por tren de mercancías en maniobras en la estación de Pravia (Ast",
   "provincia": "Asturias",
   "pk": "0,287",
-  "linea": "11 Ferrol-Gijón",
+  "linea": "Línea 11 Ferrol-Gijón",
   "lat": 43.33433974,
   "lng": -5.76278129,
   "metodo": "via_pkteorico",
@@ -3972,6 +4371,9 @@
    2.98030366
   ],
   "codtramo_cercano": "022700130",
+  "linea_declarada": "270",
+  "dist_linea_m": 319,
+  "pk_linea_cercano": 240.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -3992,6 +4394,9 @@
    -2.09379023
   ],
   "codtramo_cercano": "011000410",
+  "linea_declarada": "100",
+  "dist_linea_m": 366,
+  "pk_linea_cercano": 593.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4012,6 +4417,9 @@
    -1.9740081
   ],
   "codtramo_cercano": "011000415",
+  "linea_declarada": "100",
+  "dist_linea_m": 264,
+  "pk_linea_cercano": 614.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4032,6 +4440,9 @@
    -0.38572548
   ],
   "codtramo_cercano": "022040040",
+  "linea_declarada": "204",
+  "dist_linea_m": 461,
+  "pk_linea_cercano": 95.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4052,6 +4463,9 @@
    -1.07270468
   ],
   "codtramo_cercano": "026100090",
+  "linea_declarada": "610",
+  "dist_linea_m": 199,
+  "pk_linea_cercano": 137.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4072,6 +4486,9 @@
    -0.95414274
   ],
   "codtramo_cercano": "033000200",
+  "linea_declarada": "300",
+  "dist_linea_m": 13,
+  "pk_linea_cercano": 376.4,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -4092,6 +4509,9 @@
    -2.66055155
   ],
   "codtramo_cercano": "011000340",
+  "linea_declarada": "100",
+  "dist_linea_m": 318,
+  "pk_linea_cercano": 493.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4112,6 +4532,9 @@
    2.54946552
   ],
   "codtramo_cercano": "022760120",
+  "linea_declarada": "276",
+  "dist_linea_m": 110,
+  "pk_linea_cercano": 38,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -4132,6 +4555,9 @@
    -4.66536964
   ],
   "codtramo_cercano": "011000110",
+  "linea_declarada": "100",
+  "dist_linea_m": 111,
+  "pk_linea_cercano": 165.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4152,6 +4578,9 @@
    -5.90960011
   ],
   "codtramo_cercano": "061440020",
+  "linea_declarada": "144",
+  "dist_linea_m": 478,
+  "pk_linea_cercano": 15.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4159,8 +4588,8 @@
   "id": "ES-IF-140209-290909-CIAF",
   "titulo": "Rebase de señal de salida en rojo en Lieres con talonamiento de desvío y conato de colisió",
   "provincia": "Asturias",
-  "pk": "P.K.340, 807",
-  "linea": "21 Oviedo-Santander",
+  "pk": "340,807",
+  "linea": "Línea 21 Oviedo-Santander",
   "lat": 43.37944713,
   "lng": -5.58018254,
   "metodo": "via_pkteorico",
@@ -4192,6 +4621,9 @@
    -6.75618085
   ],
   "codtramo_cercano": "068000085",
+  "linea_declarada": "800",
+  "dist_linea_m": 198,
+  "pk_linea_cercano": 264,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4200,7 +4632,7 @@
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2010 OCURRIDO EL DÍA 14.06.2010 ENTRE",
   "provincia": "A Coruña",
   "pk": "43+559",
-  "linea": "11 Ferrol - Gijón",
+  "linea": "Línea 11 Ferrol - Gijón",
   "lat": 43.64794811,
   "lng": -7.91150686,
   "metodo": "via_pkteorico",
@@ -4219,8 +4651,8 @@
   "id": "ES-IF-140710-250211-CIAF",
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0038/2010 OCURRIDO EL DÍA 14.07.2010 ENTRE",
   "provincia": "Lugo",
-  "pk": "P.K. 148+845",
-  "linea": "11 Ferrol - Gijón",
+  "pk": "148+845",
+  "linea": "Línea 11 Ferrol-Gijón, tramo 10 Ferrol-Pravia",
   "lat": 43.51152141,
   "lng": -7.0518895,
   "metodo": "via_pkteorico",
@@ -4240,7 +4672,7 @@
   "titulo": "Informe Final sobre la investigación del accidente ferroviario nº 0070/2008 ocurrido el dí",
   "provincia": "Madrid",
   "pk": "13,171",
-  "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, tramo Villaverde Alto - Leganés",
   "lat": 40.329243949974995,
   "lng": -3.771059764325,
   "metodo": "via_pk",
@@ -4252,6 +4684,9 @@
    -3.77126752
   ],
   "codtramo_cercano": "055000040",
+  "linea_declarada": "500",
+  "dist_linea_m": 33,
+  "pk_linea_cercano": 13.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4259,8 +4694,8 @@
   "id": "ES-IF-150110-310510-CIAF-GETAFE",
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0003/2010 OCURRIDO EL DÍA 15.01.2010 EN LA",
   "provincia": "Madrid",
-  "pk": "P.K. 13+860",
-  "linea": "300 Madrid – Valencia",
+  "pk": "13+860",
+  "linea": "Línea 300 Madrid – Valencia",
   "lat": 40.31235153945794,
   "lng": -3.7086026837943926,
   "metodo": "via_pk",
@@ -4272,6 +4707,9 @@
    -3.70818779
   ],
   "codtramo_cercano": "033000070",
+  "linea_declarada": "300",
+  "dist_linea_m": 305,
+  "pk_linea_cercano": 13,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4292,6 +4730,9 @@
    -0.1021603
   ],
   "codtramo_cercano": "036000080",
+  "linea_declarada": "600",
+  "dist_linea_m": 453,
+  "pk_linea_cercano": 62.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4299,21 +4740,21 @@
   "id": "ES-IF-150112-221012-CIAF",
   "titulo": "Descarrilamiento del tren de mercancías EB904 de Feve en la estación de Trubia, Asturias",
   "provincia": "Asturias",
-  "pk": "298+108",
-  "linea": "12 San Esteban de Pravia - Collanzo",
-  "lat": 42.02234348,
-  "lng": -4.542186,
+  "pk": "PK 298+108",
+  "linea": "Línea 12 San Esteban de Pravia - Collanzo",
+  "lat": 43.34861323,
+  "lng": -5.96765136,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 298.3,
-  "provincia_ine": "Palencia",
+  "pk_cercano": 297.9,
+  "provincia_ine": "Asturias",
   "coord_pkcercano": [
-   42.02234348,
-   -4.542186
+   43.34861323,
+   -5.96765136
   ],
-  "codtramo_cercano": "061600010",
+  "codtramo_cercano": "087620005",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-151008-240209-CIAF",
@@ -4332,6 +4773,9 @@
    -5.87694331
   ],
   "codtramo_cercano": "061300210",
+  "linea_declarada": "130",
+  "dist_linea_m": 467,
+  "pk_linea_cercano": 133.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4339,8 +4783,8 @@
   "id": "ES-IF-151209-270410-CIAF",
   "titulo": "Colisión y descarrilamiento del tren FEVE 3102 por desprendimiento de rocas entre Navia y ",
   "provincia": "Asturias",
-  "pk": "P.K. 191+222",
-  "linea": "11 Ferrol-Oviedo",
+  "pk": "191+222",
+  "linea": "Línea 11 Ferrol-Oviedo",
   "lat": 43.52625938,
   "lng": -6.7169445,
   "metodo": "via_pkteorico",
@@ -4372,6 +4816,9 @@
    -0.40775475
   ],
   "codtramo_cercano": "033100090",
+  "linea_declarada": "310",
+  "dist_linea_m": 297,
+  "pk_linea_cercano": 85,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4392,6 +4839,9 @@
    -4.93658786
   ],
   "codtramo_cercano": "044220040",
+  "linea_declarada": "422",
+  "dist_linea_m": 304,
+  "pk_linea_cercano": 90.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4412,6 +4862,9 @@
    1.92058137
   ],
   "codtramo_cercano": "022200060",
+  "linea_declarada": "220",
+  "dist_linea_m": 356,
+  "pk_linea_cercano": 322.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4432,6 +4885,9 @@
    2.04207467
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 174,
+  "pk_linea_cercano": 88.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4439,8 +4895,8 @@
   "id": "ES-IF-160511-280212-CIAF",
   "titulo": "Conato de colisión entre trenes 5180 y 8182 por rebase de señal de parada en estación de L",
   "provincia": "Madrid",
-  "pk": "PK 12+379",
-  "linea": "10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
+  "pk": "12+379",
+  "linea": "Línea 10 Madrid-Puerta de Atocha a Sevilla-Santa Justa",
   "lat": 40.31742524413962,
   "lng": -3.6490396114301884,
   "metodo": "via_pk",
@@ -4472,6 +4928,9 @@
    -0.38890254
   ],
   "codtramo_cercano": "033000285",
+  "linea_declarada": "300",
+  "dist_linea_m": 17,
+  "pk_linea_cercano": 108.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4512,6 +4971,9 @@
    -0.39274183
   ],
   "codtramo_cercano": "033040010",
+  "linea_declarada": "300",
+  "dist_linea_m": 256,
+  "pk_linea_cercano": 107.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4532,6 +4994,9 @@
    -5.6881808
   ],
   "codtramo_cercano": "061400040",
+  "linea_declarada": "140",
+  "dist_linea_m": 259,
+  "pk_linea_cercano": 17.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4540,7 +5005,7 @@
   "titulo": "Colisión frontal tras rebase de señal en la estación de El Caleyo (Asturias)",
   "provincia": "Asturias",
   "pk": "134+961",
-  "linea": "130 Gijón Cercanías – Venta de Baños",
+  "linea": "Línea 130 Gijón Cercanías – Venta de Baños",
   "lat": 43.33063733530667,
   "lng": -5.870666808533333,
   "metodo": "via_pk",
@@ -4552,6 +5017,9 @@
    -5.87043777
   ],
   "codtramo_cercano": "061300210",
+  "linea_declarada": "130",
+  "dist_linea_m": 34,
+  "pk_linea_cercano": 134.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4572,6 +5040,9 @@
    -6.60202612
   ],
   "codtramo_cercano": "068000085",
+  "linea_declarada": "800",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 251,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4592,6 +5063,9 @@
    -2.31161646
   ],
   "codtramo_cercano": "011000410",
+  "linea_declarada": "100",
+  "dist_linea_m": 192,
+  "pk_linea_cercano": 566.5,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4612,6 +5086,9 @@
    -3.6818956
   ],
   "codtramo_cercano": "011000010",
+  "linea_declarada": "100",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 0.0,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4632,6 +5109,9 @@
    -5.73106666
   ],
   "codtramo_cercano": "044220010",
+  "linea_declarada": "422",
+  "dist_linea_m": 404,
+  "pk_linea_cercano": 8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4652,6 +5132,9 @@
    2.96897025
   ],
   "codtramo_cercano": "022700150",
+  "linea_declarada": "270",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 247,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -4671,7 +5154,7 @@
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 06/2012 OCURRIDO EL DÍA 19.01.2012 EN PARR",
   "provincia": "Asturias",
   "pk": "378+049",
-  "linea": "21 Oviedo – Santander",
+  "linea": "Línea 21 Oviedo – Santander",
   "lat": 43.36485171,
   "lng": -5.20763906,
   "metodo": "via_pkteorico",
@@ -4692,26 +5175,26 @@
   "provincia": "Asturias",
   "pk": "1+057",
   "linea": "61 Gijón - Laviana",
-  "lat": 41.9822262,
-  "lng": -4.50534836,
+  "lat": 43.44857581,
+  "lng": -5.05262751,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
   "pk_cercano": 1,
-  "provincia_ine": "Palencia",
+  "provincia_ine": "Asturias",
   "coord_pkcercano": [
-   41.9822262,
-   -4.50534836
+   43.44857581,
+   -5.05262751
   ],
-  "codtramo_cercano": "011640004",
+  "codtramo_cercano": "087760010",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-191211-240712-CIAF",
   "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0061/2011 OCURRIDO EL DÍA 19.12.2011 EN LA",
   "provincia": "Madrid",
   "pk": null,
-  "linea": "900 Madrid-Chamartín a Madrid–Atocha Cercanías",
+  "linea": "Línea 900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -4721,8 +5204,8 @@
   "id": "ES-IF-200109-190509-CIAF-LA FLORIDA",
   "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL INCIDENTE FERROVIARIO Nº 0003/2009 OCURRIDO EL DÍ",
   "provincia": "Asturias",
-  "pk": "PK 15,057",
-  "linea": "61 Gijón - Laviana",
+  "pk": "15,057",
+  "linea": "Línea 61 Gijón - Laviana",
   "lat": 43.27076226,
   "lng": -5.8111025,
   "metodo": "via_pkteorico",
@@ -4742,7 +5225,7 @@
   "titulo": "Arrollamiento de una persona por tren de cercanías entre Tordera y Blanes (Barcelona)",
   "provincia": "Barcelona",
   "pk": "64,810",
-  "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+  "linea": "276 Barcelona Sagrera a Macanet-Massanes, tramo Blanes-Macanet Massanes",
   "lat": 41.56175477198107,
   "lng": 2.5105977792260776,
   "metodo": "via_pk",
@@ -4754,6 +5237,9 @@
    2.54946552
   ],
   "codtramo_cercano": "022760120",
+  "linea_declarada": "276",
+  "dist_linea_m": 3681,
+  "pk_linea_cercano": 38,
   "veredicto": "mal",
   "provincia_ok": false
  },
@@ -4774,6 +5260,9 @@
    -4.09274833
   ],
   "codtramo_cercano": "055000100",
+  "linea_declarada": "500",
+  "dist_linea_m": 268,
+  "pk_linea_cercano": 68.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4794,6 +5283,9 @@
    -2.17878925
   ],
   "codtramo_cercano": "022000160",
+  "linea_declarada": "200",
+  "dist_linea_m": 121,
+  "pk_linea_cercano": 192,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4814,7 +5306,10 @@
    1.24043051
   ],
   "codtramo_cercano": "126400020",
-  "veredicto": "bien",
+  "linea_declarada": "600",
+  "dist_linea_m": 7984,
+  "pk_linea_cercano": 254.1,
+  "veredicto": "mal",
   "provincia_ok": false
  },
  {
@@ -4822,7 +5317,7 @@
   "titulo": "Accidente ferroviario 0066/2009: arrollamiento de un niño en paso a nivel de Sant Guim de ",
   "provincia": "Lérida",
   "pk": "253+775",
-  "linea": "220 Lérida Pirineos – L’Hospitalet de Llobregat",
+  "linea": "220 Lérida Pirineos - L'Hospitalet de Llobregat",
   "lat": 41.65476707246403,
   "lng": 1.4187411067985614,
   "metodo": "via_pk",
@@ -4834,6 +5329,9 @@
    1.42068911
   ],
   "codtramo_cercano": "022200040",
+  "linea_declarada": "220",
+  "dist_linea_m": 199,
+  "pk_linea_cercano": 254,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -4854,8 +5352,11 @@
    2.19428568
   ],
   "codtramo_cercano": "022700008",
-  "veredicto": "bien",
-  "provincia_ok": true
+  "linea_declarada": "276",
+  "dist_linea_m": 557,
+  "pk_linea_cercano": 106.5,
+  "veredicto": "duda",
+  "provincia_ok": false
  },
  {
   "id": "ES-IF-220109-190509-CIAF",
@@ -4874,6 +5375,9 @@
    2.01276847
   ],
   "codtramo_cercano": "022000520",
+  "linea_declarada": "200",
+  "dist_linea_m": 311,
+  "pk_linea_cercano": 662.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4881,21 +5385,24 @@
   "id": "ES-IF-220209-140709-CIAF",
   "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2009 OCURRIDO EL DÍ",
   "provincia": "Pontevedra",
-  "pk": "PK 175,050",
-  "linea": "810 Vigo – Monforte de Lemos",
-  "lat": 39.32440222,
-  "lng": -2.91260246,
+  "pk": "175,050",
+  "linea": "810 Vigo - Monforte de Lemos",
+  "lat": 42.27824122,
+  "lng": -8.61550045,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 175.1,
-  "provincia_ine": "Ciudad Real",
+  "pk_cercano": 165.6,
+  "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
-   39.32440222,
-   -2.91260246
+   42.27824122,
+   -8.61550045
   ],
-  "codtramo_cercano": "033000140",
+  "codtramo_cercano": "068100060",
+  "linea_declarada": "810",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 165.6,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-220408-220708-CIAF",
@@ -4914,6 +5421,9 @@
    -2.97210843
   ],
   "codtramo_cercano": "017200050",
+  "linea_declarada": "720",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 5.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4923,16 +5433,28 @@
   "provincia": "Huesca",
   "pk": "149,950",
   "linea": "200 Madrid-Barcelona",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.762157014,
+  "lng": 0.4045000433333331,
+  "metodo": "via_pk",
+  "dist_via_m": 284,
+  "pk_cercano": 152.3,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   41.76155055,
+   0.40782163
+  ],
+  "codtramo_cercano": "022000390",
+  "linea_declarada": "200",
+  "dist_linea_m": 284,
+  "pk_linea_cercano": 152.3,
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-220609-221209-CIAF",
   "titulo": "Arrollamiento de un peatón en el paso a nivel de Infiesto (Asturias)",
   "provincia": "Asturias",
-  "pk": "P.K.361+975",
+  "pk": "361+975",
   "linea": "21 Oviedo - Santander",
   "lat": 43.35122946,
   "lng": -5.36697933,
@@ -4952,8 +5474,8 @@
   "id": "ES-IF-221108-2-240209-CIAF- Alcalá de Henares",
   "titulo": "Arrollamiento de una persona por tren de media distancia en la estación de Alcalá de Henar",
   "provincia": "Madrid",
-  "pk": "P.K 32,800",
-  "linea": "200 Madrid- Barcelona",
+  "pk": "32,800",
+  "linea": "Línea 200 Madrid-Barcelona",
   "lat": 40.483952816666665,
   "lng": -3.3821584566666667,
   "metodo": "via_pk",
@@ -4965,6 +5487,9 @@
    -3.38231206
   ],
   "codtramo_cercano": "022000075",
+  "linea_declarada": "200",
+  "dist_linea_m": 14,
+  "pk_linea_cercano": 32,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4985,6 +5510,9 @@
    -5.59969086
   ],
   "codtramo_cercano": "011220030",
+  "linea_declarada": "122",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 106.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -4993,27 +5521,27 @@
   "titulo": "Descarrilamiento de tren de Feve entre apeadero de Ozanes y estación de Soto Dueñas, Astur",
   "provincia": "Asturias",
   "pk": "378,130",
-  "linea": "21 Oviedo Santander",
-  "lat": 42.66589147,
-  "lng": -4.291303,
+  "linea": "Línea 21 Oviedo-Santander",
+  "lat": 43.36485171,
+  "lng": -5.20763906,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 378.3,
-  "provincia_ine": "Palencia",
+  "pk_cercano": 377.9,
+  "provincia_ine": "Asturias",
   "coord_pkcercano": [
-   42.66589147,
-   -4.291303
+   43.36485171,
+   -5.20763906
   ],
-  "codtramo_cercano": "061600020",
+  "codtramo_cercano": "087700060",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-230411-271211-CIAF",
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0017/2011 OCURRIDO EL DÍA 23.04.2011 ENTRE",
   "provincia": "Barcelona",
   "pk": "675+220",
-  "linea": "200 Barcelona Sants – Madrid Chamartín",
+  "linea": "200 Barcelona Sants - Madrid Chamartín",
   "lat": 41.36619164619355,
   "lng": 2.1169708127741935,
   "metodo": "via_pk",
@@ -5025,6 +5553,9 @@
    2.11626557
   ],
   "codtramo_cercano": "022000560",
+  "linea_declarada": "200",
+  "dist_linea_m": 345,
+  "pk_linea_cercano": 674.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5045,6 +5576,9 @@
    -3.76537032
   ],
   "codtramo_cercano": "019100040",
+  "linea_declarada": "910",
+  "dist_linea_m": 305,
+  "pk_linea_cercano": 5.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5053,7 +5587,7 @@
   "titulo": "Arrollamiento de personas que cruzaban vías en el apeadero de Platja de Castelldefels (Bar",
   "provincia": "Barcelona",
   "pk": "656+598",
-  "linea": "200 Madrid Chamartín – Barcelona Sants",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Sants",
   "lat": 41.267794101976925,
   "lng": 1.9628569563205127,
   "metodo": "via_pk",
@@ -5065,6 +5599,9 @@
    1.96577511
   ],
   "codtramo_cercano": "022000510",
+  "linea_declarada": "200",
+  "dist_linea_m": 264,
+  "pk_linea_cercano": 657.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5073,7 +5610,7 @@
   "titulo": "Rebase de señal de entrada en la estación de Villalba de Guadarrama por locomotora en prác",
   "provincia": "Madrid",
   "pk": "38,748",
-  "linea": "100 Madrid - Hendaya",
+  "linea": "Línea 100 Madrid - Hendaya, tramo Villalba de Guadarrama - El Escorial",
   "lat": 40.62559197246452,
   "lng": -4.015090596283871,
   "metodo": "via_pk",
@@ -5085,6 +5622,9 @@
    -4.01894212
   ],
   "codtramo_cercano": "011000070",
+  "linea_declarada": "100",
+  "dist_linea_m": 387,
+  "pk_linea_cercano": 38.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5093,11 +5633,11 @@
   "titulo": "Arrollamiento de una persona por un tren de cercanías entre L'Hospitalet de Llobregat y Co",
   "provincia": "Barcelona",
   "pk": "94+316",
-  "linea": "Sant Vicent de Calders – L’Hospitalet de Llobregat",
-  "lat": 41.36161049,
-  "lng": 2.09069503,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
+  "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+  "lat": 41.36085728237576,
+  "lng": 2.088278415438384,
+  "metodo": "via_pk",
+  "dist_via_m": 219,
   "pk_cercano": 94.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5105,6 +5645,9 @@
    2.09069503
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 219,
+  "pk_linea_cercano": 94.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5125,6 +5668,9 @@
    -0.44019806
   ],
   "codtramo_cercano": "033000270",
+  "linea_declarada": "300",
+  "dist_linea_m": 275,
+  "pk_linea_cercano": 80.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5145,6 +5691,9 @@
    -3.77963023
   ],
   "codtramo_cercano": "044020030",
+  "linea_declarada": "402",
+  "dist_linea_m": 321,
+  "pk_linea_cercano": 127,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5165,6 +5714,9 @@
    -6.19303028
   ],
   "codtramo_cercano": "044400035",
+  "linea_declarada": "440",
+  "dist_linea_m": 323,
+  "pk_linea_cercano": 24.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5185,6 +5737,9 @@
    -0.86373339
   ],
   "codtramo_cercano": "033300025",
+  "linea_declarada": "330",
+  "dist_linea_m": 421,
+  "pk_linea_cercano": 397.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5205,6 +5760,9 @@
    -5.65613704
   ],
   "codtramo_cercano": "061300140",
+  "linea_declarada": "130",
+  "dist_linea_m": 76,
+  "pk_linea_cercano": 45,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5225,8 +5783,11 @@
    2.27202133
   ],
   "codtramo_cercano": "022220010",
-  "veredicto": "bien",
-  "provincia_ok": true
+  "linea_declarada": "276",
+  "dist_linea_m": 12697,
+  "pk_linea_cercano": 120.1,
+  "veredicto": "mal",
+  "provincia_ok": false
  },
  {
   "id": "ES-IF-240809-260110-CIAF",
@@ -5245,6 +5806,9 @@
    2.04207467
   ],
   "codtramo_cercano": "022400130",
+  "linea_declarada": "240",
+  "dist_linea_m": 406,
+  "pk_linea_cercano": 88.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5254,10 +5818,10 @@
   "provincia": "Cantabria",
   "pk": "527+485",
   "linea": "Oviedo-Santander (L-21)",
-  "lat": 43.455257996589275,
-  "lng": -3.841609052040695,
-  "metodo": "estacion_ign",
-  "dist_via_m": 24,
+  "lat": 43.45516145,
+  "lng": -3.84134262,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
   "pk_cercano": 527.3,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -5285,6 +5849,9 @@
    -0.17889741
   ],
   "codtramo_cercano": "036000080",
+  "linea_declarada": "600",
+  "dist_linea_m": 466,
+  "pk_linea_cercano": 48.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5292,8 +5859,8 @@
   "id": "ES-IF-250908-190509-CIAF_Balmaseda Mercancías",
   "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0044/2008 OCURRIDO EL DÍ",
   "provincia": "Vizcaya",
-  "pk": "P.K. 284,050",
-  "linea": "31 León-Bilbao",
+  "pk": "284,050",
+  "linea": "Línea 31 León-Bilbao",
   "lat": 41.73359843,
   "lng": 1.64436243,
   "metodo": "via_pkteorico",
@@ -5325,6 +5892,8 @@
    -4.49747083
   ],
   "codtramo_cercano": "044360030",
+  "linea_declarada": "426",
+  "linea_no_en_red": true,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5333,7 +5902,7 @@
   "titulo": "Colisión por alcance entre trenes de mercancías 58242 y 58244 cerca de Arévalo (Ávila)",
   "provincia": "Ávila",
   "pk": "172+050",
-  "linea": "100 Madrid Chamartín – Hendaya",
+  "linea": "Línea 100 Madrid Chamartín - Hendaya",
   "lat": 41.062653241348315,
   "lng": -4.7076881214606745,
   "metodo": "via_pk",
@@ -5345,6 +5914,9 @@
    -4.70844069
   ],
   "codtramo_cercano": "011000120",
+  "linea_declarada": "100",
+  "dist_linea_m": 228,
+  "pk_linea_cercano": 173,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5353,7 +5925,7 @@
   "titulo": "Colisión por retroceso indebido de tren de cercanías en la estación de Aluche (Madrid)",
   "provincia": "Madrid",
   "pk": "7+612",
-  "linea": "L/920, Móstoles – El Soto Parla",
+  "linea": "L/920, Móstoles – El Soto Parla (tramo Cuatro Vientos - Madrid Atocha)",
   "lat": 40.51357259,
   "lng": -3.68366018,
   "metodo": "via_pkteorico",
@@ -5372,8 +5944,8 @@
   "id": "ES-IF-260609-260110-CIAF_HUMANES",
   "titulo": "Conato de colisión entre trenes HU171 y LU110 en la estación de Humanes (Madrid)",
   "provincia": "Madrid",
-  "pk": "22+800",
-  "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+  "pk": "PK 22+800, vía 1",
+  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara; tramo Humanes-Fuenlabrada",
   "lat": 40.25561844,
   "lng": -3.82846006,
   "metodo": "via_pk",
@@ -5385,6 +5957,9 @@
    -3.82846006
   ],
   "codtramo_cercano": "055000070",
+  "linea_declarada": "500",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 22.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5405,6 +5980,9 @@
    -2.67268418
   ],
   "codtramo_cercano": "011000330",
+  "linea_declarada": "100",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 492.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5412,8 +5990,8 @@
   "id": "ES-IF-261011-290512-CIAF",
   "titulo": "Descarrilamiento tras rebase de señal y conato de colisión en la estación de Sant Pol de M",
   "provincia": "Barcelona",
-  "pk": "44+703",
-  "linea": "276 Bifurcación Sagrera a Maçanet-Massanes",
+  "pk": "PK 44+703",
+  "linea": "Línea 276 Bifurcación Sagrera a Maçanet-Massanes, tramo Arenys de Mar a Calella",
   "lat": 41.59013661273738,
   "lng": 2.5914624801102804,
   "metodo": "via_pk",
@@ -5425,6 +6003,9 @@
    2.59001261
   ],
   "codtramo_cercano": "022760120",
+  "linea_declarada": "276",
+  "dist_linea_m": 135,
+  "pk_linea_cercano": 41.7,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -5433,7 +6014,7 @@
   "titulo": "Arrollamiento de un pastor y un rebaño por tren 18073 entre Ribaforada y Tudela de Navarra",
   "provincia": "Navarra",
   "pk": "70,200",
-  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+  "linea": "700 Casetas-Intermodal Abando Indalecio Prieto, tramo Cortes Navarra–Tudela Navarra",
   "lat": 42.01218597561086,
   "lng": -1.5442458039366516,
   "metodo": "via_pk",
@@ -5445,6 +6026,9 @@
    -1.54370067
   ],
   "codtramo_cercano": "017000030",
+  "linea_declarada": "700",
+  "dist_linea_m": 51,
+  "pk_linea_cercano": 70.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5465,6 +6049,9 @@
    -3.25275051
   ],
   "codtramo_cercano": "033100010",
+  "linea_declarada": "310",
+  "dist_linea_m": 320,
+  "pk_linea_cercano": 37,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5496,6 +6083,9 @@
    2.29131789
   ],
   "codtramo_cercano": "022700060",
+  "linea_declarada": "270",
+  "dist_linea_m": 339,
+  "pk_linea_cercano": 135.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5503,17 +6093,17 @@
   "id": "ES-IF-271011-240712-CIAF",
   "titulo": "Informe final sobre el accidente ferroviario nº 0050/2011 ocurrido el día 27.10.2011 en la",
   "provincia": "Cantabria",
-  "pk": "540+075",
-  "linea": "24 Santander - Bilbao",
-  "lat": 43.40391300860647,
-  "lng": -3.8208257437133573,
-  "metodo": "estacion_ign",
-  "dist_via_m": 244,
-  "pk_cercano": 539.9,
+  "pk": "540+782",
+  "linea": "Línea 24 Santander - Bilbao",
+  "lat": 43.39860059,
+  "lng": -3.8154691,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 540.9,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
-   43.40507951,
-   -3.82338277
+   43.39860059,
+   -3.8154691
   ],
   "codtramo_cercano": "087800030",
   "veredicto": "bien",
@@ -5536,14 +6126,17 @@
    -0.91072851
   ],
   "codtramo_cercano": "022000260",
-  "veredicto": "bien",
+  "linea_declarada": "060",
+  "dist_linea_m": 1478,
+  "pk_linea_cercano": 305.3,
+  "veredicto": "duda",
   "provincia_ok": true
  },
  {
   "id": "ES-IF-280411-271211-CIAF",
   "titulo": "Colisión por alcance entre trenes de cercanías en el apeadero de El Clot-Aragó (Barcelona)",
   "provincia": "Barcelona",
-  "pk": "PK 110+000",
+  "pk": "110+000",
   "linea": "262 Barcelona Sagrera – Bifurcación Clot",
   "lat": null,
   "lng": null,
@@ -5555,7 +6148,7 @@
   "titulo": "Descarrilamiento del tren 18160 de Renfe Operadora en la estación de El Rebollar (Valencia",
   "provincia": "Valencia",
   "pk": "22+600",
-  "linea": "310 Aranjuez/Valencia- Estación del Nord",
+  "linea": "310 Aranjuez/Valencia-Estación del Nord, tramo Utiel-Buñol",
   "lat": 39.468301483913045,
   "lng": -0.9959805450434782,
   "metodo": "via_pk",
@@ -5567,6 +6160,9 @@
    -0.99760373
   ],
   "codtramo_cercano": "033100080",
+  "linea_declarada": "310",
+  "dist_linea_m": 145,
+  "pk_linea_cercano": 24,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5575,27 +6171,30 @@
   "titulo": "Arrollamiento de una persona por tren 23219 en P.K. 140,750 de la línea 400 Alcázar de San",
   "provincia": "Cádiz",
   "pk": "140,750",
-  "linea": "400 Alcázar de San Juan – Cádiz",
-  "lat": 39.24304876,
-  "lng": -3.87870455,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 140.7,
-  "provincia_ine": "Ciudad Real",
+  "linea": "400 Alcázar de San Juan-Cádiz",
+  "lat": 36.48509452540124,
+  "lng": -6.169923726851851,
+  "metodo": "via_pk",
+  "dist_via_m": 18,
+  "pk_cercano": 141.4,
+  "provincia_ine": "Cádiz",
   "coord_pkcercano": [
-   39.24304876,
-   -3.87870455
+   36.48517256,
+   -6.16974911
   ],
-  "codtramo_cercano": "140100070",
+  "codtramo_cercano": "044000344",
+  "linea_declarada": "400",
+  "dist_linea_m": 18,
+  "pk_linea_cercano": 141.4,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-280909-230210-CIAF",
   "titulo": "Arrollamiento de un automóvil en el paso a nivel Los Limoneros, línea Cartagena-Los Nietos",
   "provincia": "Murcia",
   "pk": "16+708",
-  "linea": "Cartagena – Los Nietos",
+  "linea": "Línea 45 Cartagena - Los Nietos",
   "lat": 37.87607558,
   "lng": -1.35912531,
   "metodo": "via_pkteorico",
@@ -5615,7 +6214,7 @@
   "titulo": "Descarrilamiento del tren 13924 en la estación de Pedrera (Sevilla)",
   "provincia": "Sevilla",
   "pk": "94+716",
-  "linea": "244 Bif. Utrera – Fuente de Piedra",
+  "linea": "422 Bif. Utrera-Puente de Piedra",
   "lat": 37.21903151277647,
   "lng": -4.880863913423529,
   "metodo": "via_pk",
@@ -5627,6 +6226,9 @@
    -4.87759778
   ],
   "codtramo_cercano": "044220040",
+  "linea_declarada": "422",
+  "dist_linea_m": 290,
+  "pk_linea_cercano": 96.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5635,7 +6237,7 @@
   "titulo": "Conato de colisión entre maniobra de material vacío y tren de cercanías en la estación de ",
   "provincia": "Barcelona",
   "pk": "361+100",
-  "linea": "220 Lleida-Pirineus/ Hospitalet de Llobregat",
+  "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
   "lat": 41.456385440344825,
   "lng": 2.1869750982758625,
   "metodo": "via_pk",
@@ -5647,6 +6249,9 @@
    2.18820297
   ],
   "codtramo_cercano": "022200090",
+  "linea_declarada": "220",
+  "dist_linea_m": 216,
+  "pk_linea_cercano": 358.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5655,7 +6260,7 @@
   "titulo": "Arrollamiento de una persona en el paso enmaderado del apeadero de Segur de Calafell (Tarr",
   "provincia": "Tarragona",
   "pk": "624,800",
-  "linea": "200 Madrid Chamartín – Barcelona-Sants",
+  "linea": "200 Madrid-Chamartín-Barcelona-Sants",
   "lat": 41.19273172222222,
   "lng": 1.6099074135555551,
   "metodo": "via_pk",
@@ -5667,6 +6272,9 @@
    1.60812766
   ],
   "codtramo_cercano": "022000480",
+  "linea_declarada": "200",
+  "dist_linea_m": 150,
+  "pk_linea_cercano": 625,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5675,20 +6283,23 @@
   "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0066/2008 OCURRIDO EL DÍ",
   "provincia": "Toledo",
   "pk": "101,270",
-  "linea": "300 Madrid Chamartín - Valencia Nord",
-  "lat": 39.366139258800004,
-  "lng": -0.41331044485714286,
+  "linea": "Línea 300 Madrid Chamartín - Valencia Nord (tramo Castillejo Añover - Villacañas)",
+  "lat": 39.735802706114285,
+  "lng": -3.5063643661857142,
   "metodo": "via_pk",
-  "dist_via_m": 498,
-  "pk_cercano": 101.6,
-  "provincia_ine": "Valencia",
+  "dist_via_m": 262,
+  "pk_cercano": 99.2,
+  "provincia_ine": "Toledo",
   "coord_pkcercano": [
-   39.37039272,
-   -0.41151976
+   39.73786211,
+   -3.50784178
   ],
-  "codtramo_cercano": "033000280",
+  "codtramo_cercano": "033000100",
+  "linea_declarada": "300",
+  "dist_linea_m": 262,
+  "pk_linea_cercano": 99.2,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-300109-140709-CIAF",
@@ -5696,26 +6307,26 @@
   "provincia": "Vizcaya",
   "pk": "631,562",
   "linea": "24 Santander - Bilbao",
-  "lat": 43.31160126,
-  "lng": -1.87703081,
+  "lat": 43.20333744,
+  "lng": -3.04850991,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 631.6,
-  "provincia_ine": "Guipúzcoa",
+  "pk_cercano": 631.7,
+  "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
-   43.31160126,
-   -1.87703081
+   43.20333744,
+   -3.04850991
   ],
-  "codtramo_cercano": "011000440",
+  "codtramo_cercano": "087800080",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-300511-270312-CIAF",
   "titulo": "Descarrilamiento del tren 8476 de Renfe Operadora en la entrada de la estación de Calatayu",
   "provincia": "Zaragoza",
   "pk": "224+556",
-  "linea": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro",
+  "linea": "50 Madrid Puerta de Atocha a Límite Adif-TP Ferro",
   "lat": 41.36573675915969,
   "lng": -1.606915392815504,
   "metodo": "via_pk",
@@ -5734,7 +6345,7 @@
   "id": "ES-IF-300608-281008-CIAF",
   "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008 OCURRIDO EL DÍ",
   "provincia": "Burgos",
-  "pk": "P.K.146,950",
+  "pk": "146,950",
   "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
   "lat": 42.688971765,
   "lng": -2.948283985,
@@ -5747,6 +6358,9 @@
    -2.94994333
   ],
   "codtramo_cercano": "017000110",
+  "linea_declarada": "700",
+  "dist_linea_m": 145,
+  "pk_linea_cercano": 146.4,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5754,7 +6368,7 @@
   "id": "ES-IF-300611-240412-CIAF",
   "titulo": "Descarrilamiento de trenes en la línea 116 Los Cotos-Cercedilla, entre Siete Picos y Puert",
   "provincia": "Madrid",
-  "pk": "7+165",
+  "pk": "PK 7+165",
   "linea": "116 Los Cotos a Cercedilla",
   "lat": 40.75964684326126,
   "lng": -4.032788418702703,
@@ -5767,6 +6381,9 @@
    -4.03110611
   ],
   "codtramo_cercano": "011160010",
+  "linea_declarada": "116",
+  "dist_linea_m": 169,
+  "pk_linea_cercano": 7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5787,6 +6404,9 @@
    -4.48159663
   ],
   "codtramo_cercano": "044360030",
+  "linea_declarada": "436",
+  "dist_linea_m": 293,
+  "pk_linea_cercano": 11.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5795,7 +6415,7 @@
   "titulo": "Arrollamiento de una persona por un tren de mercancías en el apeadero de Andoaín Centro, G",
   "provincia": "Guipúzcoa",
   "pk": "608+155",
-  "linea": "100 Madrid-Hendaya",
+  "linea": "línea 100 Madrid-Hendaya",
   "lat": 43.214792282344554,
   "lng": -2.020395006826425,
   "metodo": "via_pk",
@@ -5807,6 +6427,9 @@
    -2.02085778
   ],
   "codtramo_cercano": "011000415",
+  "linea_declarada": "100",
+  "dist_linea_m": 129,
+  "pk_linea_cercano": 607.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5814,8 +6437,8 @@
   "id": "ES-IF-300910-280611-CIAF",
   "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2010 OCURRIDO EL DÍA 30.09.2010 EN LA",
   "provincia": "Pontevedra",
-  "pk": "166+601",
-  "linea": "810 Vigo – Monforte de Lemos",
+  "pk": "PK 166+601",
+  "linea": "Línea 810 Vigo - Monforte de Lemos",
   "lat": 42.28628432,
   "lng": -8.61942505,
   "metodo": "via_pk",
@@ -5827,6 +6450,9 @@
    -8.61942505
   ],
   "codtramo_cercano": "068100060",
+  "linea_declarada": "810",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 166.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5847,6 +6473,9 @@
    -2.58679933
   ],
   "codtramo_cercano": "017000080",
+  "linea_declarada": "700",
+  "dist_linea_m": 324,
+  "pk_linea_cercano": 92.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5855,7 +6484,7 @@
   "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0047/2009 OCURRIDO EL DÍA 31.08.2009 EN LA",
   "provincia": "Madrid",
   "pk": "10+200",
-  "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+  "linea": "Línea 300 Madrid Chamartín – Valencia Estación del Nord",
   "lat": 40.33179066,
   "lng": -3.69871014,
   "metodo": "via_pk",
@@ -5867,6 +6496,9 @@
    -3.69871014
   ],
   "codtramo_cercano": "033000060",
+  "linea_declarada": "300",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 10,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5874,21 +6506,24 @@
   "id": "ES-IF_010612_280513_CIAF",
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0041/2012 OCURRIDO EL DÍA 01.06.2012 ENTRE",
   "provincia": "Tarragona",
-  "pk": "PK 558+049",
+  "pk": "558+049",
   "linea": "210 Miraflores - Tarragona",
-  "lat": 43.02755369,
-  "lng": -2.33519691,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 558.2,
-  "provincia_ine": "Guipúzcoa",
+  "lat": 41.13310108106224,
+  "lng": 0.8554309627219917,
+  "metodo": "via_pk",
+  "dist_via_m": 469,
+  "pk_cercano": 556.3,
+  "provincia_ine": "Tarragona",
   "coord_pkcercano": [
-   43.02755369,
-   -2.33519691
+   41.1329468,
+   0.86102535
   ],
-  "codtramo_cercano": "011000400",
+  "codtramo_cercano": "022100120",
+  "linea_declarada": "210",
+  "dist_linea_m": 469,
+  "pk_linea_cercano": 556.3,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF_010712_280513_CIAF",
@@ -5907,6 +6542,9 @@
    -0.93146983
   ],
   "codtramo_cercano": "022000260",
+  "linea_declarada": "060",
+  "dist_linea_m": 223,
+  "pk_linea_cercano": 304.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5914,7 +6552,7 @@
   "id": "ES-IF_040613_230914_CIAF",
   "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0043/2013 OCURRIDO EL DÍA 04.06.2013 ENTRE",
   "provincia": null,
-  "pk": "64+073",
+  "pk": "PK 64+073",
   "linea": "Tramo Sant Sadurní d'Anoia–Martorell",
   "lat": 41.04557711,
   "lng": -5.53466911,
@@ -5935,20 +6573,23 @@
   "titulo": "Descarrilamiento de vagón porta-automóviles entre Almudévar y Tardienta (Huesca)",
   "provincia": "Huesca",
   "pk": "51+800",
-  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
-  "lat": 41.397073052765954,
-  "lng": 1.1090898704255319,
+  "linea": "Línea 200 Madrid Chamartín - Barcelona Estación de Francia",
+  "lat": 41.98127675076923,
+  "lng": -0.548532526923077,
   "metodo": "via_pk",
-  "dist_via_m": 266,
-  "pk_cercano": 53.4,
-  "provincia_ine": "Tarragona",
+  "dist_via_m": 65,
+  "pk_cercano": 51.8,
+  "provincia_ine": "Huesca",
   "coord_pkcercano": [
-   41.3985372,
-   1.10657326
+   41.98165173,
+   -0.54913944
   ],
-  "codtramo_cercano": "022000440",
+  "codtramo_cercano": "022000340",
+  "linea_declarada": "200",
+  "dist_linea_m": 65,
+  "pk_linea_cercano": 51.8,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF_061212_170913_CIAF",
@@ -5974,8 +6615,8 @@
   "id": "ES-IF_070313_140714_CIAF",
   "titulo": "Incidente ferroviario: tren Renfe rebasa señales en parada en estación Viana de Cega (Vall",
   "provincia": "Valladolid",
-  "pk": "234+843",
-  "linea": "100 Madrid - Hendaya",
+  "pk": "PK 234+843",
+  "linea": "Línea 100 Madrid - Hendaya",
   "lat": 41.51586729209565,
   "lng": -4.754132521878261,
   "metodo": "via_pk",
@@ -5987,6 +6628,9 @@
    -4.75433435
   ],
   "codtramo_cercano": "011000150",
+  "linea_declarada": "100",
+  "dist_linea_m": 424,
+  "pk_linea_cercano": 234.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -5994,20 +6638,23 @@
   "id": "ES-IF_081012_250613_CIAF",
   "titulo": "Rotura de eje del tren 15640 entre Villanueva de Gállego y Zuera, Huesca",
   "provincia": "Huesca",
-  "pk": "25+100",
-  "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
-  "lat": 41.18857889159292,
-  "lng": 1.4000861411504426,
-  "metodo": "via_pk",
-  "dist_via_m": 90,
-  "pk_cercano": 25.1,
-  "provincia_ine": "Tarragona",
+  "pk": "PK 25+100",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia, tramo San Juan de Mozarrifar - Zuera",
+  "lat": 42.20494793,
+  "lng": -0.66156067,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "pk_cercano": 25.3,
+  "provincia_ine": "Huesca",
   "coord_pkcercano": [
-   41.18853175,
-   1.39901159
+   42.20494793,
+   -0.66156067
   ],
-  "codtramo_cercano": "022000460",
-  "veredicto": "bien",
+  "codtramo_cercano": "022040020",
+  "linea_declarada": "200",
+  "dist_linea_m": 23301,
+  "pk_linea_cercano": 43.7,
+  "veredicto": "mal",
   "provincia_ok": false
  },
  {
@@ -6027,6 +6674,9 @@
    -4.51076084
   ],
   "codtramo_cercano": "044000120",
+  "linea_declarada": "400",
+  "dist_linea_m": 98,
+  "pk_linea_cercano": 413.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6034,12 +6684,12 @@
   "id": "ES-IF_090512_261212_CIAF",
   "titulo": "Incidente ferroviario: rebase indebido de señal S1/1L en la estación de Astillero (Cantabr",
   "provincia": "Cantabria",
-  "pk": "PK 540+075",
+  "pk": "540+075",
   "linea": "24 Santander - Bilbao",
-  "lat": 43.40391300860647,
-  "lng": -3.8208257437133573,
-  "metodo": "estacion_ign",
-  "dist_via_m": 244,
+  "lat": 43.40507951,
+  "lng": -3.82338277,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
   "pk_cercano": 539.9,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -6054,8 +6704,8 @@
   "id": "ES-IF_100213_240614_CIAF",
   "titulo": "Descarrilamiento del tren de mercancías 9681 en la estación de Maliaño (Cantabria)",
   "provincia": "Cantabria",
-  "pk": "PK 537+005",
-  "linea": "780 Santander – Bilbao La Concordia",
+  "pk": "537+005",
+  "linea": "Línea 780 Bilbao Concordia – Santander",
   "lat": 43.422718064499996,
   "lng": -3.838129452,
   "metodo": "via_pk",
@@ -6067,6 +6717,9 @@
    -3.83910994
   ],
   "codtramo_cercano": "087800020",
+  "linea_declarada": "780",
+  "dist_linea_m": 140,
+  "pk_linea_cercano": 537.3,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6074,8 +6727,8 @@
   "id": "ES-IF_110512_290113_CIAF",
   "titulo": "Colisión y descarrilamiento del tren 1903 de Feve con un árbol caído entre Xubia y Ferrerí",
   "provincia": "La Coruña",
-  "pk": "PK 8+645",
-  "linea": "11 Ferrol - Gijón",
+  "pk": "8+645",
+  "linea": "Línea 11 Ferrol - Gijón",
   "lat": 39.96998027,
   "lng": -6.15331224,
   "metodo": "via_pkteorico",
@@ -6095,7 +6748,7 @@
   "titulo": "Rebase de señal en parada con conato de colisión en la estación de Lleida Pirineus (Lleida",
   "provincia": "Lleida",
   "pk": null,
-  "linea": "200 Madrid Chamartín - Barcelona Estació de França",
+  "linea": "Línea 200 Madrid Chamartín - Barcelona Estació de França",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -6106,11 +6759,11 @@
   "titulo": "Colisión del tren 222 con señal y herramientas en vía 2 de la estación de Socuéllamos",
   "provincia": "Ciudad Real",
   "pk": "188+690",
-  "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
-  "lat": 39.27852938,
-  "lng": -2.77540415,
+  "linea": "Línea 300 Madrid Chamartín – Valencia Estació del Nord",
+  "lat": 39.27850679535468,
+  "lng": -2.7755062200197043,
   "metodo": "via_pk",
-  "dist_via_m": 0,
+  "dist_via_m": 9,
   "pk_cercano": 188.7,
   "provincia_ine": "Albacete",
   "coord_pkcercano": [
@@ -6118,6 +6771,9 @@
    -2.77540415
   ],
   "codtramo_cercano": "033000150",
+  "linea_declarada": "300",
+  "dist_linea_m": 9,
+  "pk_linea_cercano": 188.7,
   "veredicto": "bien",
   "provincia_ok": false
  },
@@ -6126,7 +6782,7 @@
   "titulo": "Incidente ferroviario en estación de Torralba (Soria): rebase de señal y conato de colisió",
   "provincia": "Soria",
   "pk": null,
-  "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+  "linea": "Línea 200 Madrid Chamartín – Barcelona Estació de França",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -6136,12 +6792,12 @@
   "id": "ES-IF_150612_290413_CIAF",
   "titulo": "Conato de colisión por alcance entre trenes de mercancías 90602 y 82202 en la estación de ",
   "provincia": "Ávila",
-  "pk": "169+893",
+  "pk": "169+839",
   "linea": "100 Madrid - Hendaya",
-  "lat": 41.038126919678575,
-  "lng": -4.6963910779999996,
+  "lat": 41.037801096303575,
+  "lng": -4.69607090175,
   "metodo": "via_pk",
-  "dist_via_m": 316,
+  "dist_via_m": 271,
   "pk_cercano": 169.6,
   "provincia_ine": "Ávila",
   "coord_pkcercano": [
@@ -6149,6 +6805,9 @@
    -4.69414874
   ],
   "codtramo_cercano": "011000110",
+  "linea_declarada": "100",
+  "dist_linea_m": 271,
+  "pk_linea_cercano": 169.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6158,10 +6817,10 @@
   "provincia": "Cantabria",
   "pk": "545+009",
   "linea": "24 Santander - Bilbao",
-  "lat": 43.40107157960485,
-  "lng": -3.7665081147257196,
-  "metodo": "estacion_ign",
-  "dist_via_m": 309,
+  "lat": 43.39973517,
+  "lng": -3.76985244,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
   "pk_cercano": 545,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -6189,6 +6848,9 @@
    -4.348988
   ],
   "codtramo_cercano": "044000120",
+  "linea_declarada": "400",
+  "dist_linea_m": 397,
+  "pk_linea_cercano": 393.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6197,7 +6859,7 @@
   "titulo": "Arrollamiento de una persona en el apeadero de Anoeta (Guipúzcoa) por tren de larga distan",
   "provincia": "Guipúzcoa",
   "pk": "600+148",
-  "linea": "100 Hendaya – Madrid-Chamartín",
+  "linea": "Línea 100 Hendaya – Madrid-Chamartín",
   "lat": 43.16447061410363,
   "lng": -2.0715698905284974,
   "metodo": "via_pk",
@@ -6209,6 +6871,9 @@
    -2.07073299
   ],
   "codtramo_cercano": "011000415",
+  "linea_declarada": "100",
+  "dist_linea_m": 480,
+  "pk_linea_cercano": 600.9,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6229,6 +6894,9 @@
    -6.38794189
   ],
   "codtramo_cercano": "045160010",
+  "linea_declarada": "516",
+  "dist_linea_m": 215,
+  "pk_linea_cercano": 24,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6237,7 +6905,7 @@
   "titulo": "Colisión por alcance y descarrilamiento en la estación de Barcelona Sants",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
   "lat": null,
   "lng": null,
   "metodo": null,
@@ -6268,7 +6936,7 @@
   "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0076/2012 OCURRIDO EL DÍA 21.12.2012 EN LA",
   "provincia": "Valencia",
   "pk": "2+000",
-  "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+  "linea": "Línea 600 Valencia – Estació del Nord a Sant Vicenç de Calders",
   "lat": 39.448538382,
   "lng": -0.38271832,
   "metodo": "via_pk",
@@ -6280,6 +6948,9 @@
    -0.3829797
   ],
   "codtramo_cercano": "130440010",
+  "linea_declarada": "600",
+  "dist_linea_m": 128,
+  "pk_linea_cercano": 2.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6289,29 +6960,31 @@
   "provincia": "Granada",
   "pk": "88+612",
   "linea": "426 Granada a Fuente de Piedra",
-  "lat": 40.0746111,
-  "lng": 0.1293638,
+  "lat": 37.23289156,
+  "lng": -3.96178988,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
-  "pk_cercano": 88.6,
-  "provincia_ine": "Castellón",
+  "pk_cercano": 88.3,
+  "provincia_ine": "Granada",
   "coord_pkcercano": [
-   40.0746111,
-   0.1293638
+   37.23289156,
+   -3.96178988
   ],
-  "codtramo_cercano": "036000110",
+  "codtramo_cercano": "044640010",
+  "linea_declarada": "426",
+  "linea_no_en_red": true,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": true
  },
  {
   "id": "ES-IF_240713_200514_CIAF",
   "titulo": "Accidente grave ferroviario en las proximidades de la estación de Santiago de Compostela (",
   "provincia": "A Coruña",
   "pk": "85.0",
-  "linea": "082",
+  "linea": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira",
   "lat": 42.85768368,
   "lng": -8.53312749,
-  "metodo": "via_pkteorico",
+  "metodo": "via_pk",
   "dist_via_m": 0,
   "pk_cercano": 375.4,
   "provincia_ine": "A Coruña",
@@ -6320,6 +6993,9 @@
    -8.53312749
   ],
   "codtramo_cercano": "068220111",
+  "linea_declarada": "082",
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 85,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6340,6 +7016,9 @@
    -2.98195366
   ],
   "codtramo_cercano": "017000120",
+  "linea_declarada": "700",
+  "dist_linea_m": 42,
+  "pk_linea_cercano": 195,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6360,6 +7039,9 @@
    -3.55561442
   ],
   "codtramo_cercano": "029300050",
+  "linea_declarada": "930",
+  "dist_linea_m": 423,
+  "pk_linea_cercano": 16,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6368,7 +7050,7 @@
   "titulo": "Descarrilamiento de perfiladora por rotura de eje motriz entre Urda y Malagón (Toledo)",
   "provincia": "Toledo",
   "pk": "122+450",
-  "linea": "010 Madrid Puerta de Atocha – Sevilla Santa Justa",
+  "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa",
   "lat": 39.396019707499995,
   "lng": -3.8323499473214286,
   "metodo": "via_pk",
@@ -6380,6 +7062,9 @@
    -3.83371802
   ],
   "codtramo_cercano": "140100060",
+  "linea_declarada": "010",
+  "dist_linea_m": 241,
+  "pk_linea_cercano": 122.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6400,6 +7085,9 @@
    -0.88594114
   ],
   "codtramo_cercano": "120500100",
+  "linea_declarada": "214",
+  "dist_linea_m": 400,
+  "pk_linea_cercano": 17,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6407,8 +7095,8 @@
   "id": "ES-IF_260513_140714_CIAF",
   "titulo": "Descarrilamiento y colisión en estación Sevilla Santa Justa por fallo de infraestructura",
   "provincia": "Sevilla",
-  "pk": "PK 570+580",
-  "linea": "400 Alcázar de San Juan a Cádiz",
+  "pk": "570+580",
+  "linea": "Línea 400 Alcázar de San Juan a Cádiz",
   "lat": 37.39926831967742,
   "lng": -5.9659553570967745,
   "metodo": "via_pk",
@@ -6420,6 +7108,9 @@
    -5.9659868
   ],
   "codtramo_cercano": "140100180",
+  "linea_declarada": "400",
+  "dist_linea_m": 96,
+  "pk_linea_cercano": 570,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6428,7 +7119,7 @@
   "titulo": "Conato de colisión entre trenes por autorización indebida de rebase en Atocha-Cercanías (M",
   "provincia": "Madrid",
   "pk": "0+448",
-  "linea": "900 Madrid Chamartín a Madrid Atocha-Cercanías",
+  "linea": "900 Madrid – Chamartín / Madrid – Atocha Cercanías",
   "lat": 40.408069151012654,
   "lng": -3.691108621898734,
   "metodo": "via_pk",
@@ -6440,6 +7131,9 @@
    -3.69214616
   ],
   "codtramo_cercano": "059200020",
+  "linea_declarada": "900",
+  "dist_linea_m": 278,
+  "pk_linea_cercano": 0.0,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6448,7 +7142,7 @@
   "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0016/2013 OCURRIDO EL DÍA 27.02.2013 ENTRE",
   "provincia": "Madrid",
   "pk": "15+600",
-  "linea": "100 Hendaya – Madrid Chamartín",
+  "linea": "100 Hendaya - Madrid Chamartín",
   "lat": 40.50678042953846,
   "lng": -3.8229010276923074,
   "metodo": "via_pk",
@@ -6460,6 +7154,9 @@
    -3.82169659
   ],
   "codtramo_cercano": "011000025",
+  "linea_declarada": "100",
+  "dist_linea_m": 107,
+  "pk_linea_cercano": 15.2,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6468,7 +7165,7 @@
   "titulo": "Informe final sobre el accidente ferroviario nº 0069/2013 ocurrido el día 27.10.2013 en la",
   "provincia": "Barcelona",
   "pk": "361+098",
-  "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+  "linea": "Línea 220 Lleida Pirineus – L’Hospitalet de Llobregat",
   "lat": 41.45638945313104,
   "lng": 2.186970649944828,
   "metodo": "via_pk",
@@ -6480,6 +7177,9 @@
    2.18820297
   ],
   "codtramo_cercano": "022200090",
+  "linea_declarada": "220",
+  "dist_linea_m": 216,
+  "pk_linea_cercano": 358.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6488,7 +7188,7 @@
   "titulo": "Incidente en estación de Zalla (Vizcaya): rebase indebido de señal y conato de colisión en",
   "provincia": "Vizcaya",
   "pk": "2+057",
-  "linea": "790",
+  "linea": "790 RAM La Asunción Universidad – Aranguren",
   "lat": 43.20444529025,
   "lng": -3.1705617591875,
   "metodo": "via_pk",
@@ -6500,6 +7200,9 @@
    -3.17055067
   ],
   "codtramo_cercano": "087900110",
+  "linea_declarada": "790",
+  "dist_linea_m": 3,
+  "pk_linea_cercano": 6.8,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6508,18 +7211,21 @@
   "titulo": "Colisión por alcance del tren 7601 entre los apeaderos de Otero y La Mata de la Riba (León",
   "provincia": "León",
   "pk": "26+700",
-  "linea": "790",
-  "lat": 42.82893307,
-  "lng": -5.51863306,
-  "metodo": "via_pkteorico",
-  "dist_via_m": 0,
-  "pk_cercano": 26.7,
+  "linea": "790 La Asunción Universidad (León) - Aranguren",
+  "lat": 42.836244912727274,
+  "lng": -5.524716658181818,
+  "metodo": "via_pk",
+  "dist_via_m": 31,
+  "pk_cercano": 27.7,
   "provincia_ine": "León",
   "coord_pkcercano": [
-   42.82893307,
-   -5.51863306
+   42.83652349,
+   -5.52470296
   ],
   "codtramo_cercano": "087900020",
+  "linea_declarada": "790",
+  "dist_linea_m": 31,
+  "pk_linea_cercano": 27.7,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6540,6 +7246,9 @@
    -3.88100069
   ],
   "codtramo_cercano": "045220020",
+  "linea_declarada": "522",
+  "dist_linea_m": 325,
+  "pk_linea_cercano": 258.1,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6547,7 +7256,7 @@
   "id": "ES-IF_310113_291013_CIAF",
   "titulo": "Descarrilamiento del tren de mercancías 9565 entre Unquera y Pesués (Cantabria)",
   "provincia": "Cantabria",
-  "pk": "PK 457+381",
+  "pk": "457+381",
   "linea": "770 Valdecilla - La Marga a Oviedo",
   "lat": 43.370312088927875,
   "lng": -4.480203352357377,
@@ -6560,6 +7269,9 @@
    -4.48135594
   ],
   "codtramo_cercano": "087700110",
+  "linea_declarada": "770",
+  "dist_linea_m": 98,
+  "pk_linea_cercano": 457.6,
   "veredicto": "bien",
   "provincia_ok": true
  },
@@ -6568,7 +7280,7 @@
   "titulo": "Descarrilamiento en el desvío 514 de la estación de Brazatortas (Ciudad Real)",
   "provincia": "Ciudad Real",
   "pk": "225+965",
-  "linea": "010 Madrid Puerta de Atocha a Sevilla Santa Justa",
+  "linea": "Línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa",
   "lat": 38.66972348212781,
   "lng": -4.270509638435233,
   "metodo": "via_pk",
@@ -6580,6 +7292,9 @@
    -4.27070666
   ],
   "codtramo_cercano": "140100105",
+  "linea_declarada": "010",
+  "dist_linea_m": 17,
+  "pk_linea_cercano": 224.4,
   "veredicto": "bien",
   "provincia_ok": true
  }

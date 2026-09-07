@@ -14,9 +14,9 @@
   "provincia": "León",
   "pk": "26+700",
   "linea": "790 La Asunción Universidad (León) - Aranguren",
-  "lat": 42.82893307,
-  "lng": -5.51863306,
-  "metodo_geo": "via_pkteorico"
+  "lat": 42.836244912727274,
+  "lng": -5.524716658181818,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

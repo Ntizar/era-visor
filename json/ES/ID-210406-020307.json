@@ -14,9 +14,9 @@
   "provincia": "Palencia",
   "pk": "5,800",
   "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
-  "lat": 43.20389671,
-  "lng": -3.16290411,
-  "metodo_geo": "via_pkteorico"
+  "lat": 42.0500259656087,
+  "lng": -4.585356111913043,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",

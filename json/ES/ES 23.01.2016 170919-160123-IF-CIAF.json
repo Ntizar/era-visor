@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "518+063",
   "linea": "Línea 210",
-  "lat": 37.65392219,
-  "lng": -0.98848827,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.18657169324873,
+  "lng": 0.5693621652588833,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "TRANSFESA RAIL",

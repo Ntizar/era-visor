@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "535,45",
   "linea": "210",
-  "lat": 42.89483148,
-  "lng": -2.18139149,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.10479578659751,
+  "lng": 0.7024898375933614,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Mercancías",

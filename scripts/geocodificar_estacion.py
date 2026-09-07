@@ -52,16 +52,43 @@ def distancia_m(lat1, lng1, lat2, lng2):
     return math.hypot(x, y)
 
 
+def centroides_provincial():
+    """Centroide (lat,lng) de la red de PK teóricos por código INE de provincia.
+
+    Da referencia geográfica para desambiguar estaciones con el mismo nombre
+    en distintas provincias (el dataset IGN no trae id_prov).
+    """
+    p = os.path.join(RAIZ, "data", "adif-pkteoricos.geojson")
+    if not os.path.exists(p):
+        return {}
+    gj = json.load(open(p, encoding="utf-8"))
+    acc = {}
+    for feat in gj.get("features", []):
+        props = feat.get("properties") or {}
+        geom = feat.get("geometry") or {}
+        coords = geom.get("coordinates")
+        idp = str(props.get("id_provinc") or "").strip().zfill(2)
+        if not coords or idp in ("", "00"):
+            continue
+        x, y = coords[0], coords[1]
+        s = acc.setdefault(idp, [0.0, 0.0, 0])
+        s[0] += y
+        s[1] += x
+        s[2] += 1
+    return {k: (v[0] / v[2], v[1] / v[2]) for k, v in acc.items() if v[2]}
+
+
 def main():
     codigo = sys.argv[1] if len(sys.argv) > 1 else "ES"
 
-    # cargar estaciones IGN (2 paginas ya descargadas en Temp)
-    tmp = os.environ.get("LOCALAPPDATA") + "/Temp"
+    # cargar estaciones IGN (dataset RedFerrocarrilesIGN, CC-BY 4.0) — versionado
+    # en data/ para que el script sea reproducible (antes vivía en Temp/ y se perdía)
     estaciones = []
-    for nombre_arch in ("ign-estaciones.json", "ign-estaciones2.json"):
-        p = os.path.join(tmp, nombre_arch)
-        if not os.path.exists(p):
-            continue
+    rutas = sorted(glob.glob(os.path.join(RAIZ, "data", "ign-estaciones*.json")))
+    if not rutas:
+        print("[EST] ERROR: faltan data/ign-estaciones*.json")
+        return
+    for p in rutas:
         datos = json.load(open(p, encoding="utf-8"))
         for feat in datos.get("features", []):
             a = feat.get("attributes") or {}
@@ -75,6 +102,8 @@ def main():
                 "tipo": a.get("tipo_estfd", ""),
             })
     print(f"[EST] {len(estaciones)} estaciones IGN cargadas")
+    centros = centroides_provincial()
+    print(f"[EST] {len(centros)} centroides provinciales (ADIF)")
 
     jsons = sorted(glob.glob(os.path.join(RAIZ, "json", codigo, "*.json")))
     hechos = 0
@@ -102,12 +131,14 @@ def main():
                           if palabras and all(p in e["norm"].split() for p in palabras)]
         if not candidatos:
             continue
-        # desempate: distancia a alguna referencia provincial (centroide de la red PK ADIF de esa provincia)
-        if len(candidatos) > 1 and cod_prov:
-            en_prov = [e for e in candidatos
-                       if str(int(cod_prov)) in str(e.get("id_prov") or "")]
-            if en_prov:
-                candidatos = en_prov
+        # desempate: el candidato más cercano al centroide de la red ADIF de la
+        # provincia del informe (a >120 km se considera otra provincia: descartar)
+        if len(candidatos) > 1 and cod_prov and cod_prov in centros:
+            cLat, cLng = centros[cod_prov]
+            cerca = [e for e in candidatos
+                     if distancia_m(cLat, cLng, e["lat"], e["lng"]) <= 120_000]
+            if cerca:
+                candidatos = cerca
         # si tras desempate hay varios, ABSTENERSE (no inventar)
         if len(candidatos) != 1:
             continue

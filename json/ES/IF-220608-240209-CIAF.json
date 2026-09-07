@@ -13,7 +13,10 @@
   "estacion": null,
   "provincia": "Huesca",
   "pk": "149,950",
-  "linea": "200 Madrid-Barcelona"
+  "linea": "200 Madrid-Barcelona",
+  "lat": 41.762157014,
+  "lng": 0.4045000433333331,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",
