@@ -1349,8 +1349,8 @@
   "linea_declarada": "220",
   "dist_linea_m": 775,
   "pk_linea_cercano": 301.7,
-  "motivo": "cae sobre OTRA vía: a 604 m del tramo 022200050 (línea 220), la declarada 220 está a 604 m",
-  "veredicto": "duda",
+  "veredicto": "bien",
+  "motivo": "nodo de estación: a 604 m del eje de la línea declarada 220 (recinto, no error de ubicación)",
   "provincia_ok": true
  },
  {

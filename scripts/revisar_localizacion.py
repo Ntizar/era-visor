@@ -40,6 +40,10 @@ PROVINCIAS_INE = {
 # Umbrales en metros
 OK_VIA = 500          # < 500 m del PK más cercano: bien ubicado
 DUDA_VIA = 2000       # 500-2000 m: revisar; > 2000 m: mal ubicado
+# El nodo IGN de una estación marca el RECINTO (manojo de vías + andenes). La
+# geometría de tramos ADIF solo tiene el EJE en línea, que pasa por un lado:
+# Manresa 70/2022 cayó a 604 m de su propia línea 220 sin estar mal ubicado.
+ESTACION_RADIO = 1200
 
 
 def normalizar(t):
@@ -272,6 +276,28 @@ def main():
         else:
             # motivo legible para el informe de verificación: por qué NO cuadra
             linea_cercana = (t_g["ct"][2:5] if t_g and re.fullmatch(r"\d{9}", t_g["ct"]) else "?")
+            # MISMA-LÍNEA + nodo de estación: el punto no cae sobre "otra vía" —
+            # es la vía declarada, y la geometría de tramos solo tiene el EJE en
+            # línea, no el manojo de la estación. Manresa 70/2022: 604 m del eje
+            # de su propia línea 220 = bien ubicado, falso positivo del umbral.
+            misma_linea = bool(t_g and linea_cands and (t_g.get("lineas") or set()) & linea_cands)
+            es_est = str(entrada.get("metodo") or "").startswith("estacion")
+            if misma_linea and es_est and d_ref_geo <= ESTACION_RADIO:
+                entrada["veredicto"] = "bien"
+                entrada["motivo"] = (f"nodo de estación: a {round(d_ref_geo)} m del eje de la "
+                                     f"línea declarada {linea_inf} (recinto, no error de ubicación)")
+                conteo["bien"] += 1
+                revision.append(entrada)
+                eq = coinciden_provincia(r.get("provincia"), p_ref["provincia"])
+                if eq is True:
+                    entrada["provincia_ok"] = True
+                    conteo["provincia_ok"] += 1
+                elif eq is False:
+                    entrada["provincia_ok"] = False
+                    conteo["provincia_mal"] += 1
+                else:
+                    entrada["provincia_ok"] = None
+                continue
             if entrada.get("linea_no_en_red"):
                 motivo = (f"línea declarada {linea_inf} no existe en red ADIF; "
                           f"coordenada a {round(dg)} m de la vía más cercana")

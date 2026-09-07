@@ -1,6 +1,6 @@
 # Informe de verificación — ES
 
-> `scripts/verificar_todo.py` · 2026-09-07 21:53 · **APTO** · 4 avisos · 13 checks OK
+> `scripts/verificar_todo.py` · 2026-09-07 22:46 · **APTO** · 4 avisos · 13 checks OK
 
 ## 1. Integridad de la cadena PDF ↔ md ↔ json ↔ DB
 
@@ -30,7 +30,7 @@
 
 ## 5. Auditoría geográfica — los mal geolocalizados, SIEMPRE a la vista
 
-- **[AVISO]** veredictos: 349 informes auditados: bien=298 · duda=3 · mal=9 · sin_coords=39
+- **[AVISO]** veredictos: 349 informes auditados: bien=299 · duda=2 · mal=9 · sin_coords=39
 - **[AVISO]** provincia: 20 con provincia declarada ≠ provincia de la red
 
 **MAL GEOLocalIZADOS — 9 informes** (verificar contra el PDF original):
@@ -48,15 +48,14 @@
 | `ES-IF_081012_250613_CIAF` | Huesca | PK 25+100 | Línea 200 Madrid Chamartín | 0 m | cae sobre OTRA vía: a 0 m del tramo 022040020 (línea 204), la declarada 200 está a 23125 m |
 
 
-**DUDOSOS — 3 informes** (verificar contra el PDF original):
+**DUDOSOS — 2 informes** (verificar contra el PDF original):
 
 | Informe | Provincia | PK | Línea | A la vía | Motivo |
 |---|---|---|---|---|---|
-| `ES-ES-10306- 202270 0815 IF Manresa (english version)` | Barcelona | — | Línea 220 Lleida-Pirineus– | 775 m | cae sobre OTRA vía: a 604 m del tramo 022200050 (línea 220), la declarada 220 está a 604 m |
 | `ES-ES IF_060613_281014_CIAF` | Zaragoza | — | 060 Bifurcación Cambiador  | 11 m | cae sobre OTRA vía: a 11 m del tramo 022000260 (línea 200), la declarada 060 está a 1475 m |
 | `ES-IF-271211-250912-CIAF` | Zaragoza | — | 060 Bifurcación Cambiador  | 11 m | cae sobre OTRA vía: a 11 m del tramo 022000260 (línea 200), la declarada 060 está a 1475 m |
 
 
 ## 6. Cache-busting del frontend
 
-- **[OK]** VERSION_DATOS: 2026-09-07-1 cubre la DB (2026-09-07)
+- **[OK]** VERSION_DATOS: 2026-09-07-2 cubre la DB (2026-09-07)
