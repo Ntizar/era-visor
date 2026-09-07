@@ -235,6 +235,10 @@
             letter-spacing: 0.7px; font-weight: 650;
         }
         .detail-info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.55rem 1rem; }
+        .geo-warn { display: inline-block; font-size: 0.62rem; font-weight: 600; color: var(--rojo); background: #fee2e2; border: 1px solid #fecaca; border-radius: 999px; padding: 1px 7px; margin-left: 6px; vertical-align: 1px; }
+        .geo-warn.duda { color: #b45309; background: #fef3c7; border-color: #fde68a; }
+        .geo-aviso { display: flex; gap: 0.5rem; align-items: flex-start; font-size: 0.8rem; color: #b45309; background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 0.6rem 0.75rem; margin-bottom: 1.15rem; }
+        .geo-aviso.mal { color: var(--rojo); background: #fef2f2; border-color: #fecaca; }
         .detail-info-item { font-size: 0.82rem; }
         .detail-info-item .di-label { font-weight: 550; color: var(--texto-suave); font-size: 0.69rem; text-transform: uppercase; letter-spacing: 0.4px; }
         .detail-info-item .di-value { color: var(--texto); margin-top: 0.1rem; }
@@ -337,6 +341,15 @@
         <h3>Víctimas</h3>
         <div class="chk"><input type="checkbox" id="filterVictimas"> Solo con víctimas</div>
         <div class="chk"><input type="checkbox" id="filterInforme"> Solo con informe PDF</div>
+
+        <h3>Geolocalización</h3>
+        <select id="filterGeo">
+            <option value="">Todas</option>
+            <option value="mal">⚠ Solo mal ubicados</option>
+            <option value="duda">Solo dudosos</option>
+            <option value="sin_coords">Solo sin coordenadas</option>
+            <option value="bien">Solo verificados</option>
+        </select>
 
         <h3>Análisis v2 (IA)</h3>
         <label>Subsistema implicado</label>
@@ -504,7 +517,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-04-3";
+const VERSION_DATOS = "2026-09-07-2";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -613,11 +626,16 @@ function pintarMapa() {
             n++;
             L.circleMarker([r.lat, r.lng], {
                 radius: 6 + Math.min(10, (r.fallecidos || 0) * 2),
-                color: '#fff', weight: 1.5, fillColor: colorPunto(r), fillOpacity: 0.85
+                color: r.geo_veredicto === 'mal' ? '#dc2626' : '#fff',
+                weight: r.geo_veredicto === 'mal' ? 2 : 1.5,
+                dashArray: r.geo_veredicto === 'mal' ? '3,3' : (r.geo_veredicto === 'duda' ? '5,3' : null),
+                fillColor: colorPunto(r), fillOpacity: 0.85
             }).bindPopup(`<div class="popup-content">
                 <h4>${tituloIF(r)}</h4>
                 <p><span class="detail-label">${r.fecha || ''} · ${r.pais}</span></p>
                 <p>${r.estacion || r.ubicacion_nombre || ''}</p>
+                ${r.geo_veredicto === 'mal' ? '<p style="color:#dc2626;font-size:0.75rem;margin:0.3rem 0 0">⚠ Ubicación no verificada (a ' + (r.geo_dist_m || '?') + ' m de la vía)</p>' : ''}
+                ${r.geo_veredicto === 'duda' ? '<p style="color:#b45309;font-size:0.75rem;margin:0.3rem 0 0">? Ubicación dudosa</p>' : ''}
                 <span class="popup-link" onclick='verDetalle("${r.id}")'>Ver ficha completa</span>
             </div>`).addTo(cluster);
         }
@@ -633,6 +651,7 @@ function aplicaFiltros() {
     const a2 = Math.max(+elMin.value, +elMax.value);
     const conVic = document.getElementById('filterVictimas').checked;
     const conInf = document.getElementById('filterInforme').checked;
+    const geo = document.getElementById('filterGeo').value;
     const subs = document.getElementById('filterSubsistema').value;
     const atp = document.getElementById('filterATP').value;
     const red = document.getElementById('filterRed').value;
@@ -648,6 +667,7 @@ function aplicaFiltros() {
         if (a && (a < a1 || a > a2)) return false;
         if (conVic && !((r.fallecidos || 0) > 0 || (r.heridos_graves || 0) > 0)) return false;
         if (conInf && !r.url_pdf) return false;
+        if (geo && (r.geo_veredicto || 'sin_coords') !== geo) return false;
         if (subs && r.subsistema !== subs) return false;
         if (atp && r.sistema_proteccion !== atp) return false;
         if (red && r.tipo_red !== red) return false;
@@ -823,7 +843,9 @@ function pintaTabla() {
         const sev = r.fallecidos > 0 ? '<span class="badge badge-mortal">' + r.fallecidos + '</span>'
             : r.heridos_graves > 0 ? '<span class="badge badge-grave">' + r.heridos_graves + '</span>'
             : '<span class="badge badge-sin">0</span>';
-        tr.innerHTML = `<td>${r.fecha || '—'}</td><td>${r.pais}</td><td>${tituloIF(r)}</td>
+        const geoMal = r.geo_veredicto === 'mal' ? '<span class="geo-warn" title="' + (r.geo_motivo || 'mal geolocalizado') + '">⚠ ubicación</span>'
+            : r.geo_veredicto === 'duda' ? '<span class="geo-warn duda" title="' + (r.geo_motivo || 'ubicación dudosa') + '">? ubicación</span>' : '';
+        tr.innerHTML = `<td>${r.fecha || '—'}</td><td>${r.pais}</td><td>${tituloIF(r)}${geoMal}</td>
             <td>${CATEGORIAS[categoriaDe(r.tipo)]}</td>
             <td style="text-align:center">${sev}</td>
             <td style="text-align:center">${r.heridos_graves || 0}</td>
@@ -857,6 +879,7 @@ async function verDetalle(id) {
     const trenes = (full.trenes || []).map(t =>
         `<div class="di-value">🚆 ${t.tipo || 'Tren'} ${t.numero || ''}${t.operador ? ' — ' + t.operador : ''}</div>`).join('');
     document.getElementById('dpBody').innerHTML = `
+        ${full.geo_veredicto === 'mal' || full.geo_veredicto === 'duda' ? `<div class="geo-aviso ${full.geo_veredicto === 'mal' ? 'mal' : ''}"><span>${full.geo_veredicto === 'mal' ? '⚠' : '?'}</span><span><b>Ubicación ${full.geo_veredicto === 'mal' ? 'no verificada' : 'dudosa'}.</b> ${full.geo_motivo || ('La coordenada marcada está a ' + (full.geo_dist_m || '?') + ' m de la vía ADIF más cercana.')} Puede que el punto en el mapa no refleje el lugar real del suceso.</span></div>` : ''}
         ${full.resumen ? seccion('Resumen', `<div class="detail-resumen">${full.resumen}</div>`) : ''}
         <div class="detail-section"><h3>Datos del suceso</h3><div class="detail-info-grid">
             ${info('Tipo', CATEGORIAS[categoriaDe(full.tipo)] + (SUBTIPO_ES[full.tipo] && SUBTIPO_ES[full.tipo] !== CATEGORIAS[categoriaDe(full.tipo)] ? ' — ' + SUBTIPO_ES[full.tipo] : ''))}
@@ -933,6 +956,7 @@ function resetFilters() {
     document.getElementById('filterType').value = '';
     document.getElementById('filterVictimas').checked = false;
     document.getElementById('filterInforme').checked = false;
+    document.getElementById('filterGeo').value = '';
     document.getElementById('filterSearch').value = '';
     document.getElementById('tableSearch').value = '';
     document.getElementById('filterSubsistema').value = '';
@@ -986,7 +1010,7 @@ async function cargar() {
         document.getElementById('yearLabel').textContent = (lo <= amin && hi >= amax) ? 'todos' : (lo + '–' + hi);
     }
     [rMin, rMax].forEach(el => el.oninput = () => { pintaFill(); aplicaFiltros(); });
-    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme', 'filterEntidad', 'filterSubsistema', 'filterATP', 'filterRed', 'filterExplot'].forEach(id =>
+    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme', 'filterGeo', 'filterEntidad', 'filterSubsistema', 'filterATP', 'filterRed', 'filterExplot'].forEach(id =>
         document.getElementById(id).onchange = aplicaFiltros);
     document.getElementById('filterSearch').oninput = aplicaFiltros;
     document.getElementById('tableSearch').oninput = aplicaFiltros;

@@ -52,8 +52,8 @@ def normalizar(t):
 
 def coinciden_provincia(declarada, ine):
     """True si la provincia declarada coincide (o es compatible) con la INE."""
-    if not declarada or not ine:
-        return None  # no comparable
+    if not declarada or not ine or ine == "00":
+        return None  # no comparable ('00' = tramo ADIF sin provincia asignada)
     a, b = normalizar(declarada), normalizar(PROVINCIAS_INE.get(ine, ine))
     if not a or not b:
         return None
@@ -65,6 +65,45 @@ def distancia_m(lat1, lng1, lat2, lng2):
     y = (lat2 - lat1) * 111_320.0
     x = (lng2 - lng1) * 111_320.0 * math.cos(math.radians((lat1 + lat2) / 2))
     return math.hypot(x, y)
+
+
+def _seg_d(lat, lon, a, b):
+    """Distancia de (lat,lon) al segmento a-b ([lon,lat]); válida a escala <10 km."""
+    ml = 111_320.0 * math.cos(math.radians(lat))
+    ax, ay = (a[0] - lon) * ml, (a[1] - lat) * 110_540.0
+    bx, by = (b[0] - lon) * ml, (b[1] - lat) * 110_540.0
+    dx, dy = bx - ax, by - ay
+    L2 = dx * dx + dy * dy
+    if L2 == 0:
+        return math.hypot(ax, ay)
+    t = max(0.0, min(1.0, -(ax * dx + ay * dy) / L2))
+    return math.hypot(ax + t * dx, ay + t * dy)
+
+
+def _bb_d(lat, lon, bb):
+    x0, y0, x1, y1 = bb
+    ml = 111_320.0 * math.cos(math.radians(lat))
+    return math.hypot(max(x0 - lon, 0.0, lon - x1) * ml,
+                      max(y0 - lat, 0.0, lat - y1) * 110_540.0)
+
+
+def dist_geo(lat, lon, subset):
+    """(metros, tramo más cercano) a la geometría de vía de `subset`.
+
+    Mide la distancia REAL a la línea (polilíneas de los tramos ADIF), no al
+    marcador PKTeoricos más cercano — los marcadores son escasos (portales de
+    túnel, tramos largos) y provocaban falsos dudosos tipo Álora 111/2024:
+    coordenada pegada a la línea declarada pero a 501 m del marcador."""
+    best, bt = 1e18, None
+    for t in subset:
+        if _bb_d(lat, lon, t["bb"]) > best:
+            continue
+        for seg in t["segs"]:
+            for i in range(len(seg) - 1):
+                d = _seg_d(lat, lon, seg[i], seg[i + 1])
+                if d < best:
+                    best, bt = d, t
+    return best, bt
 
 
 def code_linea_de(linea_str):
@@ -89,15 +128,34 @@ def main():
 
     # PK precalcados + línea (segmento [2:5] del codtramo y cod_linea del tramo)
     linea_de_tramo = {}
+    TRAMOS = []  # geometría de vía para distancia real (no marcadores escasos)
     if os.path.exists(ruta_tr):
         with open(ruta_tr, encoding="utf-8") as f:
             tr = json.load(f)
         for feat in tr.get("features", []):
             props = feat.get("properties") or {}
             ct = props.get("codtramo") or ""
+            m = re.match(r"^(\d{3,4})-", props.get("cod_linea") or "")
             if ct:
-                m = re.match(r"^(\d{3,4})-", props.get("cod_linea") or "")
                 linea_de_tramo[ct] = m.group(1) if m else ""
+            geom = feat.get("geometry") or {}
+            gtype = geom.get("type")
+            if gtype not in ("LineString", "MultiLineString"):
+                continue
+            segs = geom["coordinates"] if gtype == "MultiLineString" else [geom["coordinates"]]
+            xs = [pt[0] for seg in segs for pt in seg]
+            ys = [pt[1] for seg in segs for pt in seg]
+            if not xs:
+                continue
+            lineas = set()
+            for c in ((ct[2:5] if re.fullmatch(r"\d{9}", ct) else ""),
+                      (m.group(1) if m else "")):
+                if c and c.isdigit():
+                    lineas.add(int(c))
+            TRAMOS.append({"ct": ct, "lineas": lineas, "segs": segs,
+                           "bb": (min(xs), min(ys), max(xs), max(ys)),
+                           "provincia": str(props.get("id_provinc") or "").zfill(2)})
+    print(f"[REV] {len(TRAMOS)} tramos con geometría")
     puntos = []
     for feat in pk_datos["features"]:
         props = feat.get("properties") or {}
@@ -163,39 +221,73 @@ def main():
             if linea_cands and p["lineas"] and (linea_cands & p["lineas"]) and d < mejor_linea_d:
                 mejor_linea_d, mejor_linea = d, p
 
-        entrada["dist_via_m"] = round(mejor_d)
+        # DISTANCIA GEOMÉTRICA REAL a la vía (polilíneas de tramos), no al
+        # marcador PKTeoricos más cercano: los marcadores son escasos y un suceso
+        # perfectamente sobre la vía (Álora 111/2024, PK 124,573 línea 030) queda
+        # a +500 m de su marcador por falta de densidad → falso "duda".
+        dg, t_g = dist_geo(lat, lng, TRAMOS)
+        linea_subset = ([t for t in TRAMOS if linea_cands and t["lineas"] & linea_cands]
+                        if linea_cands else [])
+        if linea_subset:
+            dgl, _t_gl = dist_geo(lat, lng, linea_subset)
+        else:
+            dgl = None
+
+        entrada["dist_via_m"] = round(mejor_d)          # proxy marcador (densidad)
+        entrada["dist_via_geo_m"] = round(dg)           # geometría real
+        if dgl is not None:
+            entrada["dist_linea_geo_m"] = round(dgl)
         entrada["pk_cercano"] = mejor["pk"]
         entrada["provincia_ine"] = PROVINCIAS_INE.get(mejor["provincia"], mejor["provincia"])
         entrada["coord_pkcercano"] = [mejor["lat"], mejor["lng"]]
         entrada["codtramo_cercano"] = mejor["codtramo"]
 
         if li_num is not None:
-            # caso Caleyo: las coords caen pegadas a OTRA línea. Si existe la
-            # línea declarada en la red, MANDAN las distancias sobre ella.
+            # caso Caleyo: si las coords caen pegadas a OTRA vía, la distancia
+            # geométrica a la línea DECLARADA lo delata (será grande). Manda la
+            # métrica geométrica sobre el proxy de marcadores (escasos → falsos
+            # dudosos como Álora 111/2024: 0 m de vía real, 501 m del marcador).
             if linea_inf:
                 entrada["linea_declarada"] = linea_inf
-            if mejor_linea:
-                entrada["dist_linea_m"] = round(mejor_linea_d)
-                entrada["pk_linea_cercano"] = mejor_linea["pk"]
-                d_ref, p_ref = mejor_linea_d, mejor_linea
+            if linea_subset:
+                if mejor_linea:
+                    entrada["dist_linea_m"] = round(mejor_linea_d)
+                    entrada["pk_linea_cercano"] = mejor_linea["pk"]
+                # el veredicto lo manda la distancia geométrica a la línea
+                # DECLARADA (dgl): si cae sobre otra vía, dgl será grande y el
+                # caso Caleyo sigue detectado; dg solo alimenta el motivo.
+                p_ref, d_ref_geo = (mejor_linea or mejor), dgl
             else:
                 # la línea declarada no existe en la red ADIF (metropolitana,
                 # LV sin PK teóricos…): sin señal, usar distancia global con
                 # umbral estricto y marcarlo para el revisor
                 entrada["linea_no_en_red"] = True
-                d_ref, p_ref = mejor_d, mejor
+                p_ref, d_ref_geo = mejor, dg
         else:
-            d_ref, p_ref = mejor_d, mejor
+            p_ref, d_ref_geo = mejor, dg
 
-        if d_ref <= OK_VIA:
+        if d_ref_geo <= OK_VIA:
             entrada["veredicto"] = "bien"
             conteo["bien"] += 1
-        elif d_ref <= DUDA_VIA:
-            entrada["veredicto"] = "duda"
-            conteo["duda"] += 1
         else:
-            entrada["veredicto"] = "mal"
-            conteo["mal"] += 1
+            # motivo legible para el informe de verificación: por qué NO cuadra
+            linea_cercana = (t_g["ct"][2:5] if t_g and re.fullmatch(r"\d{9}", t_g["ct"]) else "?")
+            if entrada.get("linea_no_en_red"):
+                motivo = (f"línea declarada {linea_inf} no existe en red ADIF; "
+                          f"coordenada a {round(dg)} m de la vía más cercana")
+            elif li_num is not None and linea_subset:
+                motivo = (f"cae sobre OTRA vía: a {round(dg)} m del tramo "
+                          f"{t_g['ct'] if t_g else '?'} (línea {linea_cercana}), "
+                          f"la declarada {linea_inf} está a {round(dgl)} m")
+            else:
+                motivo = f"coordenada a {round(dg)} m de la vía ADIF más cercana"
+            entrada["motivo"] = motivo
+            if d_ref_geo <= DUDA_VIA:
+                entrada["veredicto"] = "duda"
+                conteo["duda"] += 1
+            else:
+                entrada["veredicto"] = "mal"
+                conteo["mal"] += 1
 
         eq = coinciden_provincia(r.get("provincia"), p_ref["provincia"])
         if eq is True:

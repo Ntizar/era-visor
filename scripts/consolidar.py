@@ -179,6 +179,22 @@ def main(codigo: str):
         if cons.get("heridos_leves") is not None:
             r["heridos_leves"] = cons["heridos_leves"]
 
+    # propagar el veredicto del auditor geográfico: los mal geolocalizados deben
+    # ser visibles y filtrables EN EL VISOR, no solo en data/revision/
+    rev_path = RAIZ / "data" / "revision" / f"{codigo}-localizacion.json"
+    if rev_path.exists():
+        rev = {e["id"]: e for e in json.loads(rev_path.read_text(encoding="utf-8"))}
+        n_geo = 0
+        for r in registros:
+            e = rev.get(r["id"])
+            if e:
+                r["geo_veredicto"] = e.get("veredicto")
+                r["geo_dist_m"] = e.get("dist_via_m")
+                r["geo_motivo"] = e.get("motivo")
+                if e.get("veredicto") in ("mal", "duda"):
+                    n_geo += 1
+        print(f"[{codigo}] auditoría geográfica propagada: {n_geo} registros con mal/duda")
+
     (db / "reports" / f"{codigo}.json").write_text(
         json.dumps(registros, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (db / "recs" / f"{codigo}.json").write_text(

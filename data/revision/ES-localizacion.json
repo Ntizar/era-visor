@@ -31,6 +31,7 @@
   "lng": 2.1853245084615467,
   "metodo": "estacion_ign",
   "dist_via_m": 28,
+  "dist_via_geo_m": 28,
   "pk_cercano": 685.4,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -51,6 +52,7 @@
   "lng": -4.99590233,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 20.3,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -82,6 +84,8 @@
   "lng": 1.894037061232588,
   "metodo": "estacion_ign",
   "dist_via_m": 62,
+  "dist_via_geo_m": 8,
+  "dist_linea_geo_m": 8,
   "pk_cercano": 319.6,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -105,6 +109,7 @@
   "lng": 2.0705423026775787,
   "metodo": "estacion_ign",
   "dist_via_m": 168,
+  "dist_via_geo_m": 10,
   "pk_cercano": 92.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -158,6 +163,7 @@
   "lng": -0.99916507,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 369.2,
   "provincia_ine": "Albacete",
   "coord_pkcercano": [
@@ -178,6 +184,7 @@
   "lng": -4.55275167,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 451.1,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -198,6 +205,7 @@
   "lng": -1.62859834,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 165.3,
   "provincia_ine": "Navarra",
   "coord_pkcercano": [
@@ -218,6 +226,8 @@
   "lng": -4.025053012522522,
   "metodo": "via_pk",
   "dist_via_m": 265,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 8,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -252,6 +262,7 @@
   "lng": 2.10091765811538,
   "metodo": "estacion_ign",
   "dist_via_m": 13,
+  "dist_via_geo_m": 13,
   "pk_cercano": 95.2,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -260,7 +271,7 @@
   ],
   "codtramo_cercano": "022760200",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-ES 05.09.2013 IF_050913_270115_CIAF",
@@ -272,6 +283,8 @@
   "lng": -3.931810173146988,
   "metodo": "via_pk",
   "dist_via_m": 79,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 519.3,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -306,6 +319,7 @@
   "lng": -2.82226351,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 477,
   "provincia_ine": "Álava",
   "coord_pkcercano": [
@@ -326,6 +340,8 @@
   "lng": 0.04177004904862575,
   "metodo": "via_pk",
   "dist_via_m": 14,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 389.6,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -349,6 +365,7 @@
   "lng": -3.86961087,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 257.1,
   "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
@@ -369,6 +386,7 @@
   "lng": -8.486154680264521,
   "metodo": "estacion_ign",
   "dist_via_m": 254,
+  "dist_via_geo_m": 17,
   "pk_cercano": 367.5,
   "provincia_ine": "A Coruña",
   "coord_pkcercano": [
@@ -400,6 +418,8 @@
   "lng": -6.877609507779459,
   "metodo": "via_pk",
   "dist_via_m": 262,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 130.9,
   "provincia_ine": "Huelva",
   "coord_pkcercano": [
@@ -423,6 +443,8 @@
   "lng": 1.5337823675290323,
   "metodo": "via_pk",
   "dist_via_m": 47,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 25.1,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -457,6 +479,8 @@
   "lng": -4.0408428792284266,
   "metodo": "via_pk",
   "dist_via_m": 199,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 5,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -480,6 +504,7 @@
   "lng": -3.14106749,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 436.7,
   "provincia_ine": "Burgos",
   "coord_pkcercano": [
@@ -500,6 +525,8 @@
   "lng": -2.994990582076923,
   "metodo": "via_pk",
   "dist_via_m": 381,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 9.3,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -534,6 +561,8 @@
   "lng": -3.5292592803829788,
   "metodo": "via_pk",
   "dist_via_m": 426,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 15.9,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -557,6 +586,7 @@
   "lng": 2.19128363,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 684.8,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -577,6 +607,8 @@
   "lng": -4.3471818329836065,
   "metodo": "via_pk",
   "dist_via_m": 465,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 91.4,
   "provincia_ine": "Toledo",
   "coord_pkcercano": [
@@ -600,6 +632,8 @@
   "lng": 0.7803393959222966,
   "metodo": "estacion_ign",
   "dist_via_m": 284,
+  "dist_via_geo_m": 5,
+  "dist_linea_geo_m": 5,
   "pk_cercano": 544.3,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -623,6 +657,7 @@
   "lng": -5.504545155869749,
   "metodo": "estacion_ign",
   "dist_via_m": 339,
+  "dist_via_geo_m": 9,
   "pk_cercano": 68.4,
   "provincia_ine": "Zamora",
   "coord_pkcercano": [
@@ -643,6 +678,8 @@
   "lng": -8.61042967,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 17.9,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -666,6 +703,8 @@
   "lng": -5.548391850327429,
   "metodo": "estacion_ign",
   "dist_via_m": 15,
+  "dist_via_geo_m": 15,
+  "dist_linea_geo_m": 15,
   "pk_cercano": 27,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -689,6 +728,7 @@
   "lng": -4.47475266,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 247.5,
   "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
@@ -709,6 +749,8 @@
   "lng": -3.479909276798526,
   "metodo": "estacion_ign",
   "dist_via_m": 13,
+  "dist_via_geo_m": 13,
+  "dist_linea_geo_m": 13,
   "pk_cercano": 23,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -743,6 +785,7 @@
   "lng": -1.9637417916863846,
   "metodo": "estacion_ign",
   "dist_via_m": 29,
+  "dist_via_geo_m": 10,
   "pk_cercano": 616.2,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -774,6 +817,7 @@
   "lng": -5.32860514338468,
   "metodo": "estacion_ign",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 30.2,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -794,6 +838,8 @@
   "lng": 1.1950401,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 21679,
   "pk_cercano": 68.6,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -804,8 +850,9 @@
   "linea_declarada": "622",
   "dist_linea_m": 21884,
   "pk_linea_cercano": 273,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022000440 (línea 200), la declarada 622 está a 21679 m",
   "veredicto": "mal",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-ES 20.11.2015 170131-151120-IF-CIAF",
@@ -817,6 +864,7 @@
   "lng": -4.27241676,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 308.9,
   "provincia_ine": "Palencia",
   "coord_pkcercano": [
@@ -837,6 +885,7 @@
   "lng": 0.6327862838576273,
   "metodo": "estacion_ign",
   "dist_via_m": 10,
+  "dist_via_geo_m": 10,
   "pk_cercano": 442.1,
   "provincia_ine": "Lleida",
   "coord_pkcercano": [
@@ -879,6 +928,7 @@
   "lng": -3.29398956,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 422.7,
   "provincia_ine": "Burgos",
   "coord_pkcercano": [
@@ -899,6 +949,8 @@
   "lng": 0.5693621652588833,
   "metodo": "via_pk",
   "dist_via_m": 397,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 517.6,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -922,6 +974,7 @@
   "lng": -2.90608207,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 184,
   "provincia_ine": "Álava",
   "coord_pkcercano": [
@@ -942,6 +995,8 @@
   "lng": 2.089973378804382,
   "metodo": "estacion_ign",
   "dist_via_m": 987,
+  "dist_via_geo_m": 948,
+  "dist_linea_geo_m": 416640,
   "pk_cercano": 339.7,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -952,6 +1007,7 @@
   "linea_declarada": "336",
   "dist_linea_m": 421542,
   "pk_linea_cercano": 0.0,
+  "motivo": "cae sobre OTRA vía: a 948 m del tramo 022200070 (línea 220), la declarada 336 está a 416640 m",
   "veredicto": "mal",
   "provincia_ok": true
  },
@@ -976,6 +1032,7 @@
   "lng": -3.72383668,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 74,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1018,6 +1075,7 @@
   "lng": 1.7308048458270808,
   "metodo": "estacion_ign",
   "dist_via_m": 41,
+  "dist_via_geo_m": 41,
   "pk_cercano": 636,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1049,6 +1107,8 @@
   "lng": -4.90904766502,
   "metodo": "via_pk",
   "dist_via_m": 348,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 0.0,
   "provincia_ine": "Valladolid",
   "coord_pkcercano": [
@@ -1072,6 +1132,7 @@
   "lng": -0.9107746835482805,
   "metodo": "estacion_ign",
   "dist_via_m": 11,
+  "dist_via_geo_m": 11,
   "pk_cercano": 339.4,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -1092,6 +1153,8 @@
   "lng": -0.9107746835482805,
   "metodo": "estacion_ign",
   "dist_via_m": 11,
+  "dist_via_geo_m": 11,
+  "dist_linea_geo_m": 1475,
   "pk_cercano": 339.4,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -1102,6 +1165,7 @@
   "linea_declarada": "060",
   "dist_linea_m": 1478,
   "pk_linea_cercano": 305.3,
+  "motivo": "cae sobre OTRA vía: a 11 m del tramo 022000260 (línea 200), la declarada 060 está a 1475 m",
   "veredicto": "duda",
   "provincia_ok": true
  },
@@ -1137,6 +1201,7 @@
   "lng": 2.769168104374994,
   "metodo": "estacion_ign",
   "dist_via_m": 11,
+  "dist_via_geo_m": 11,
   "pk_cercano": 60.1,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -1145,7 +1210,7 @@
   ],
   "codtramo_cercano": "022760100",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-ES-10126 - 220429-210702-if_ciaf",
@@ -1168,6 +1233,8 @@
   "lng": -2.449848542222222,
   "metodo": "via_pk",
   "dist_via_m": 250,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 161.7,
   "provincia_ine": "Soria",
   "coord_pkcercano": [
@@ -1213,6 +1280,8 @@
   "lng": 2.089316137206529,
   "metodo": "estacion_ign",
   "dist_via_m": 9,
+  "dist_via_geo_m": 9,
+  "dist_linea_geo_m": 9,
   "pk_cercano": 670,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1247,6 +1316,7 @@
   "lng": 2.002585140404447,
   "metodo": "estacion_ign",
   "dist_via_m": 12,
+  "dist_via_geo_m": 12,
   "pk_cercano": 82,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1267,6 +1337,8 @@
   "lng": 1.8339858927232613,
   "metodo": "estacion_ign",
   "dist_via_m": 775,
+  "dist_via_geo_m": 604,
+  "dist_linea_geo_m": 604,
   "pk_cercano": 301.7,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1277,6 +1349,7 @@
   "linea_declarada": "220",
   "dist_linea_m": 775,
   "pk_linea_cercano": 301.7,
+  "motivo": "cae sobre OTRA vía: a 604 m del tramo 022200050 (línea 220), la declarada 220 está a 604 m",
   "veredicto": "duda",
   "provincia_ok": true
  },
@@ -1290,6 +1363,8 @@
   "lng": 0.7024898375933614,
   "metodo": "via_pk",
   "dist_via_m": 148,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 536.3,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -1313,6 +1388,7 @@
   "lng": 2.2599996380436496,
   "metodo": "estacion_ign",
   "dist_via_m": 51,
+  "dist_via_geo_m": 10,
   "pk_cercano": 85,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1333,6 +1409,8 @@
   "lng": -4.69199066,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 0.0,
   "provincia_ine": "Córdoba",
   "coord_pkcercano": [
@@ -1356,6 +1434,8 @@
   "lng": 1.0221273461563143,
   "metodo": "estacion_ign",
   "dist_via_m": 400,
+  "dist_via_geo_m": 15,
+  "dist_linea_geo_m": 15,
   "pk_cercano": 572.3,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -1390,6 +1470,8 @@
   "lng": -4.6659909961260775,
   "metodo": "via_pk",
   "dist_via_m": 501,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 127.6,
   "provincia_ine": "Málaga",
   "coord_pkcercano": [
@@ -1400,7 +1482,7 @@
   "linea_declarada": "030",
   "dist_linea_m": 501,
   "pk_linea_cercano": 127.6,
-  "veredicto": "duda",
+  "veredicto": "bien",
   "provincia_ok": true
  },
  {
@@ -1446,6 +1528,7 @@
   "lng": 2.4455153941150596,
   "metodo": "estacion_ign",
   "dist_via_m": 17,
+  "dist_via_geo_m": 17,
   "pk_cercano": 133.1,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -1454,7 +1537,7 @@
   ],
   "codtramo_cercano": "022760140",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-ES-6274 - 211125-200602-IF_CIAF (+ENG)",
@@ -1466,6 +1549,8 @@
   "lng": -5.817844407234761,
   "metodo": "via_pk",
   "dist_via_m": 393,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 10.9,
   "provincia_ine": "Zamora",
   "coord_pkcercano": [
@@ -1489,6 +1574,8 @@
   "lng": -2.21899393555414,
   "metodo": "via_pk",
   "dist_via_m": 22,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 578.5,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -1512,6 +1599,8 @@
   "lng": -4.8240487492187505,
   "metodo": "via_pk",
   "dist_via_m": 194,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 5.3,
   "provincia_ine": "Córdoba",
   "coord_pkcercano": [
@@ -1535,6 +1624,7 @@
   "lng": -3.71917801,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 11.7,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1555,6 +1645,8 @@
   "lng": -5.786674060716418,
   "metodo": "via_pk",
   "dist_via_m": 172,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 7.4,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -1578,6 +1670,8 @@
   "lng": -5.905043495126491,
   "metodo": "via_pk",
   "dist_via_m": 204,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 159.5,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -1601,6 +1695,8 @@
   "lng": -3.709557977196262,
   "metodo": "via_pk",
   "dist_via_m": 70,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 12,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1624,6 +1720,8 @@
   "lng": -4.057899598095238,
   "metodo": "via_pk",
   "dist_via_m": 224,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 459.4,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -1647,6 +1745,7 @@
   "lng": 1.53601482,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 28.1,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -1667,6 +1766,8 @@
   "lng": -3.875652692,
   "metodo": "via_pk",
   "dist_via_m": 231,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 20.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1690,6 +1791,7 @@
   "lng": -0.39707631,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 105.6,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -1710,6 +1812,8 @@
   "lng": -4.00813515,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 37.9,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1733,6 +1837,8 @@
   "lng": 1.7027232199999995,
   "metodo": "via_pk",
   "dist_via_m": 198,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 633,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1756,6 +1862,8 @@
   "lng": -3.694158768275862,
   "metodo": "via_pk",
   "dist_via_m": 339,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1779,6 +1887,7 @@
   "lng": -0.8728919,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 395.1,
   "provincia_ine": "Alicante",
   "coord_pkcercano": [
@@ -1799,6 +1908,8 @@
   "lng": 2.0827991812121214,
   "metodo": "via_pk",
   "dist_via_m": 249,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 93.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1822,6 +1933,7 @@
   "lng": -1.1108045,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 132,
   "provincia_ine": "Teruel",
   "coord_pkcercano": [
@@ -1842,6 +1954,7 @@
   "lng": 2.17486274,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 625,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1862,6 +1975,8 @@
   "lng": -3.692452827586207,
   "metodo": "via_pk",
   "dist_via_m": 418,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 9.1,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -1885,6 +2000,8 @@
   "lng": 2.9653769833804136,
   "metodo": "estacion_ign",
   "dist_via_m": 36,
+  "dist_via_geo_m": 22,
+  "dist_linea_geo_m": 22,
   "pk_cercano": 230.6,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -1908,6 +2025,8 @@
   "lng": 2.0901151202564106,
   "metodo": "via_pk",
   "dist_via_m": 331,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 10.8,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1931,6 +2050,7 @@
   "lng": 1.73090962,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 636,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -1951,6 +2071,8 @@
   "lng": -3.956551260313158,
   "metodo": "via_pk",
   "dist_via_m": 113,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 494.3,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -1974,6 +2096,7 @@
   "lng": -0.87813764,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 394.1,
   "provincia_ine": "Alicante",
   "coord_pkcercano": [
@@ -1994,6 +2117,8 @@
   "lng": 2.415786751559633,
   "metodo": "via_pk",
   "dist_via_m": 172,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 661.5,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2017,6 +2142,7 @@
   "lng": -4.06968939,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 262.6,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -2025,7 +2151,7 @@
   ],
   "codtramo_cercano": "110800150",
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-ID-151006-020307-STACRUZ",
@@ -2037,6 +2163,7 @@
   "lng": -4.39640378,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 240,
   "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
@@ -2057,6 +2184,8 @@
   "lng": 2.043226305521212,
   "metodo": "via_pk",
   "dist_via_m": 174,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2080,6 +2209,7 @@
   "lng": -0.29138292,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 28.6,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -2100,6 +2230,8 @@
   "lng": -0.10216183177372883,
   "metodo": "via_pk",
   "dist_via_m": 4,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 62.7,
   "provincia_ine": "Castellón",
   "coord_pkcercano": [
@@ -2123,6 +2255,8 @@
   "lng": 2.167568249090909,
   "metodo": "via_pk",
   "dist_via_m": 170,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 353.2,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2146,6 +2280,7 @@
   "lng": -2.64658469,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 139.7,
   "provincia_ine": "Guadalajara",
   "coord_pkcercano": [
@@ -2166,6 +2301,8 @@
   "lng": -1.19493687,
   "metodo": "via_pk",
   "dist_via_m": 2,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 454.3,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -2176,7 +2313,7 @@
   "linea_declarada": "322",
   "dist_linea_m": 2021,
   "pk_linea_cercano": 0.9,
-  "veredicto": "mal",
+  "veredicto": "bien",
   "provincia_ok": true
  },
  {
@@ -2189,6 +2326,8 @@
   "lng": 2.043226305521212,
   "metodo": "via_pk",
   "dist_via_m": 174,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2212,6 +2351,8 @@
   "lng": -1.9689040103626947,
   "metodo": "via_pk",
   "dist_via_m": 187,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 615.9,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -2235,6 +2376,8 @@
   "lng": -3.697076545172414,
   "metodo": "via_pk",
   "dist_via_m": 85,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -2258,6 +2401,8 @@
   "lng": -8.613707896460317,
   "metodo": "via_pk",
   "dist_via_m": 440,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 165.6,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -2281,6 +2426,8 @@
   "lng": -3.3021414176361237,
   "metodo": "via_pk",
   "dist_via_m": 108,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 420.7,
   "provincia_ine": "Burgos",
   "coord_pkcercano": [
@@ -2304,6 +2451,8 @@
   "lng": -4.585356111913043,
   "metodo": "via_pk",
   "dist_via_m": 267,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 6,
   "provincia_ine": "Palencia",
   "coord_pkcercano": [
@@ -2327,6 +2476,7 @@
   "lng": -3.25765287,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 46.2,
   "provincia_ine": "Guadalajara",
   "coord_pkcercano": [
@@ -2347,6 +2497,7 @@
   "lng": -0.29128504,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 77.9,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -2367,6 +2518,8 @@
   "lng": -4.06086573,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 409467,
   "pk_cercano": 263.6,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -2377,6 +2530,7 @@
   "linea_declarada": "600",
   "dist_linea_m": 414891,
   "pk_linea_cercano": 120.8,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 110800150 (línea 080), la declarada 600 está a 409467 m",
   "veredicto": "mal",
   "provincia_ok": false
  },
@@ -2390,6 +2544,8 @@
   "lng": -2.9995139348363637,
   "metodo": "via_pk",
   "dist_via_m": 468,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 217.9,
   "provincia_ine": "Álava",
   "coord_pkcercano": [
@@ -2413,6 +2569,7 @@
   "lng": -0.28963806,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 430.4,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -2433,6 +2590,8 @@
   "lng": -3.67693582613,
   "metodo": "via_pk",
   "dist_via_m": 111,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -2456,6 +2615,7 @@
   "lng": 2.21958301,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 93,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2476,6 +2636,8 @@
   "lng": -3.656882491764706,
   "metodo": "via_pk",
   "dist_via_m": 123,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 4.8,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -2499,6 +2661,8 @@
   "lng": -7.121087454789105,
   "metodo": "via_pk",
   "dist_via_m": 342,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 310.7,
   "provincia_ine": "Lugo",
   "coord_pkcercano": [
@@ -2522,6 +2686,8 @@
   "lng": 2.043226305521212,
   "metodo": "via_pk",
   "dist_via_m": 174,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2545,6 +2711,7 @@
   "lng": 2.11638884,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 618,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2565,6 +2732,8 @@
   "lng": -3.696319605862069,
   "metodo": "via_pk",
   "dist_via_m": 152,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -2588,6 +2757,8 @@
   "lng": -3.697217558,
   "metodo": "via_pk",
   "dist_via_m": 14,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 370.8,
   "provincia_ine": "Burgos",
   "coord_pkcercano": [
@@ -2611,6 +2782,8 @@
   "lng": 1.30824589,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 16210,
   "pk_cercano": 13.1,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -2621,8 +2794,9 @@
   "linea_declarada": "600",
   "dist_linea_m": 16273,
   "pk_linea_cercano": 254.1,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022000460 (línea 200), la declarada 600 está a 16210 m",
   "veredicto": "mal",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-ID-281106-020307",
@@ -2634,6 +2808,8 @@
   "lng": -3.695777463448276,
   "metodo": "via_pk",
   "dist_via_m": 199,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -2657,6 +2833,7 @@
   "lng": -0.95943613,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 54.1,
   "provincia_ine": "Alicante",
   "coord_pkcercano": [
@@ -2677,6 +2854,8 @@
   "lng": -2.88655127152381,
   "metodo": "via_pk",
   "dist_via_m": 178,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 241.6,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -2700,6 +2879,8 @@
   "lng": -1.166176228973913,
   "metodo": "via_pk",
   "dist_via_m": 449,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 4,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -2723,6 +2904,8 @@
   "lng": -1.97664386,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 622.5,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -2746,6 +2929,7 @@
   "lng": -4.4960483,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 285.3,
   "provincia_ine": "Palencia",
   "coord_pkcercano": [
@@ -2766,6 +2950,7 @@
   "lng": -8.60537286,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 10,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -2786,6 +2971,8 @@
   "lng": 2.53898083,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 162.5,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2809,6 +2996,8 @@
   "lng": -5.8749741988,
   "metodo": "via_pk",
   "dist_via_m": 476,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 133.6,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -2832,6 +3021,8 @@
   "lng": 2.2886860416,
   "metodo": "via_pk",
   "dist_via_m": 89,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 37.6,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2855,6 +3046,8 @@
   "lng": -0.4401810931173278,
   "metodo": "via_pk",
   "dist_via_m": 240,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 80.7,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -2878,6 +3071,8 @@
   "lng": -0.10322594940677964,
   "metodo": "via_pk",
   "dist_via_m": 439,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 61.7,
   "provincia_ine": "Castellón",
   "coord_pkcercano": [
@@ -2901,6 +3096,7 @@
   "lng": 2.28876901,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 37.4,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -2921,6 +3117,7 @@
   "lng": -7.92379915,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 37.6,
   "provincia_ine": "A Coruña",
   "coord_pkcercano": [
@@ -2941,6 +3138,7 @@
   "lng": -5.70309225,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 19.3,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -2961,6 +3159,8 @@
   "lng": -3.8420821,
   "metodo": "via_pk",
   "dist_via_m": 60,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 0.0,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -2984,6 +3184,8 @@
   "lng": -3.8543362007692306,
   "metodo": "via_pk",
   "dist_via_m": 121,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 18.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -3007,6 +3209,7 @@
   "lng": 1.14246444,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 93.3,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -3027,6 +3230,8 @@
   "lng": 1.9638771393589745,
   "metodo": "via_pk",
   "dist_via_m": 175,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 657.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3050,6 +3255,8 @@
   "lng": 0.7689072638750001,
   "metodo": "via_pk",
   "dist_via_m": 382,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 195.7,
   "provincia_ine": "Lleida",
   "coord_pkcercano": [
@@ -3073,6 +3280,8 @@
   "lng": 0.45551574,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 146.8,
   "provincia_ine": "Castellón",
   "coord_pkcercano": [
@@ -3096,6 +3305,8 @@
   "lng": -8.73517166,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 66.4,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -3119,6 +3330,7 @@
   "lng": -1.47917779,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 244.3,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -3139,6 +3351,8 @@
   "lng": -1.13158089,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 459.9,
   "provincia_ine": "Murcia",
   "coord_pkcercano": [
@@ -3162,6 +3376,7 @@
   "lng": -3.96178988,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Granada",
   "coord_pkcercano": [
@@ -3184,6 +3399,8 @@
   "lng": 1.8090553367123292,
   "metodo": "via_pk",
   "dist_via_m": 59,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 643.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3207,6 +3424,7 @@
   "lng": -5.64382329,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 27.2,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -3227,6 +3445,8 @@
   "lng": -4.540363625957447,
   "metodo": "via_pk",
   "dist_via_m": 193,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 279.2,
   "provincia_ine": "Palencia",
   "coord_pkcercano": [
@@ -3250,6 +3470,8 @@
   "lng": -8.621816170544047,
   "metodo": "via_pk",
   "dist_via_m": 492,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 152.6,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -3273,6 +3495,8 @@
   "lng": -2.304161344221311,
   "metodo": "via_pk",
   "dist_via_m": 486,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 550,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -3296,6 +3520,7 @@
   "lng": -5.00817423,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 54,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -3316,6 +3541,8 @@
   "lng": 2.626188554029851,
   "metodo": "via_pk",
   "dist_via_m": 31,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 170.5,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -3339,6 +3566,8 @@
   "lng": -5.494827870253304,
   "metodo": "via_pk",
   "dist_via_m": 214,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 511.8,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -3362,6 +3591,8 @@
   "lng": 2.96897025,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 247,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -3385,6 +3616,8 @@
   "lng": 2.366371941004587,
   "metodo": "via_pk",
   "dist_via_m": 77,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 144.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3408,6 +3641,8 @@
   "lng": -6.828483117785304,
   "metodo": "via_pk",
   "dist_via_m": 268,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 123,
   "provincia_ine": "Salamanca",
   "coord_pkcercano": [
@@ -3431,6 +3666,8 @@
   "lng": -0.92945469,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 304.9,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -3454,6 +3691,8 @@
   "lng": 1.9628715021794876,
   "metodo": "via_pk",
   "dist_via_m": 263,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 657.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3477,6 +3716,8 @@
   "lng": 2.490717576267924,
   "metodo": "estacion_ign",
   "dist_via_m": 16,
+  "dist_via_geo_m": 16,
+  "dist_linea_geo_m": 16,
   "pk_cercano": 157.1,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3500,6 +3741,8 @@
   "lng": -4.540395140042553,
   "metodo": "via_pk",
   "dist_via_m": 161,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 279.2,
   "provincia_ine": "Palencia",
   "coord_pkcercano": [
@@ -3523,6 +3766,8 @@
   "lng": 2.034718962905983,
   "metodo": "via_pk",
   "dist_via_m": 287,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 6.8,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3546,6 +3791,8 @@
   "lng": 2.67314515,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 175.9,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -3569,6 +3816,8 @@
   "lng": -4.91007411,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 206.3,
   "provincia_ine": "Valladolid",
   "coord_pkcercano": [
@@ -3592,6 +3841,8 @@
   "lng": -3.7413625401521737,
   "metodo": "via_pk",
   "dist_via_m": 332,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 21,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -3626,6 +3877,8 @@
   "lng": 0.13730240008709693,
   "metodo": "via_pk",
   "dist_via_m": 59,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 470,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -3649,6 +3902,8 @@
   "lng": -5.1408323634999995,
   "metodo": "via_pk",
   "dist_via_m": 303,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 68,
   "provincia_ine": "Málaga",
   "coord_pkcercano": [
@@ -3672,6 +3927,8 @@
   "lng": -6.61296633,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 65811,
   "pk_cercano": 24.1,
   "provincia_ine": "Badajoz",
   "coord_pkcercano": [
@@ -3682,8 +3939,9 @@
   "linea_declarada": "510",
   "dist_linea_m": 66225,
   "pk_linea_cercano": 141.5,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 045140020 (línea 514), la declarada 510 está a 65811 m",
   "veredicto": "mal",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-061209-290610-CIAF",
@@ -3706,6 +3964,8 @@
   "lng": 2.9629995374566667,
   "metodo": "via_pk",
   "dist_via_m": 490,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 223.6,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -3729,6 +3989,8 @@
   "lng": -4.351164275384615,
   "metodo": "via_pk",
   "dist_via_m": 111,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 82.8,
   "provincia_ine": "Ávila",
   "coord_pkcercano": [
@@ -3752,6 +4014,7 @@
   "lng": -3.11930655,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 0.8,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -3785,6 +4048,7 @@
   "lng": -3.70709332,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 550.8,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -3805,6 +4069,8 @@
   "lng": -7.505545460130142,
   "metodo": "via_pk",
   "dist_via_m": 198,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 1,
   "provincia_ine": "Lugo",
   "coord_pkcercano": [
@@ -3828,6 +4094,8 @@
   "lng": -1.5952802681447964,
   "metodo": "via_pk",
   "dist_via_m": 225,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 77.3,
   "provincia_ine": "Navarra",
   "coord_pkcercano": [
@@ -3851,6 +4119,8 @@
   "lng": 2.27503201,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 14427,
   "pk_cercano": 28,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -3861,8 +4131,9 @@
   "linea_declarada": "276",
   "dist_linea_m": 14527,
   "pk_linea_cercano": 121.1,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022220010 (línea 222), la declarada 276 está a 14427 m",
   "veredicto": "mal",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-090508-300908-CIAF",
@@ -3874,6 +4145,8 @@
   "lng": -1.9675598602821158,
   "metodo": "via_pk",
   "dist_via_m": 40,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 213,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -3885,7 +4158,7 @@
   "dist_linea_m": 40,
   "pk_linea_cercano": 213,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-090810-250211-CIAF",
@@ -3897,6 +4170,7 @@
   "lng": -4.18560191,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 490.1,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -3919,6 +4193,8 @@
   "lng": -3.6446067882495328,
   "metodo": "via_pk",
   "dist_via_m": 253,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 227.3,
   "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
@@ -3942,6 +4218,8 @@
   "lng": -4.663323791015936,
   "metodo": "via_pk",
   "dist_via_m": 220,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 429.7,
   "provincia_ine": "Córdoba",
   "coord_pkcercano": [
@@ -3965,6 +4243,8 @@
   "lng": -5.9531407,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 568,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -3988,6 +4268,8 @@
   "lng": -2.4407558626572436,
   "metodo": "via_pk",
   "dist_via_m": 11,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 76.4,
   "provincia_ine": "La Rioja",
   "coord_pkcercano": [
@@ -4011,6 +4293,7 @@
   "lng": -3.64842388,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 10.8,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -4031,6 +4314,8 @@
   "lng": -2.94347071,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 229.2,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -4054,6 +4339,8 @@
   "lng": -0.10217351268855931,
   "metodo": "via_pk",
   "dist_via_m": 225,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 62.7,
   "provincia_ine": "Castellón",
   "coord_pkcercano": [
@@ -4077,6 +4364,8 @@
   "lng": -7.520432731904256,
   "metodo": "via_pk",
   "dist_via_m": 456,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 3,
   "provincia_ine": "Lugo",
   "coord_pkcercano": [
@@ -4100,6 +4389,7 @@
   "lng": -5.62028661,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 41.2,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4120,6 +4410,8 @@
   "lng": -8.22596121,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 524.5,
   "provincia_ine": "A Coruña",
   "coord_pkcercano": [
@@ -4143,6 +4435,8 @@
   "lng": -3.8778012144800003,
   "metodo": "via_pk",
   "dist_via_m": 87,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 20.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -4166,6 +4460,7 @@
   "lng": -5.55579403,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 5,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -4186,6 +4481,8 @@
   "lng": -2.6196749921153843,
   "metodo": "via_pk",
   "dist_via_m": 301,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 202.7,
   "provincia_ine": "Albacete",
   "coord_pkcercano": [
@@ -4209,6 +4506,8 @@
   "lng": -0.5473721958591093,
   "metodo": "via_pk",
   "dist_via_m": 123,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 12,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -4232,6 +4531,8 @@
   "lng": -0.4303546384133612,
   "metodo": "via_pk",
   "dist_via_m": 380,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 90.7,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -4255,6 +4556,8 @@
   "lng": -3.94951772,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 494.9,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -4278,6 +4581,7 @@
   "lng": -5.80750288,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 5.3,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4298,6 +4602,8 @@
   "lng": 2.14766031,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 109,
   "pk_cercano": 351.2,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -4321,6 +4627,8 @@
   "lng": 1.9259291026666667,
   "metodo": "via_pk",
   "dist_via_m": 23,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 73.2,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -4344,6 +4652,7 @@
   "lng": -5.76278129,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 0.5,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4364,6 +4673,8 @@
   "lng": 2.979579887221111,
   "metodo": "via_pk",
   "dist_via_m": 319,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 240.6,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -4387,6 +4698,8 @@
   "lng": -2.091853378076433,
   "metodo": "via_pk",
   "dist_via_m": 366,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 593.5,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -4410,6 +4723,8 @@
   "lng": -1.9725681128860104,
   "metodo": "via_pk",
   "dist_via_m": 264,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 614.9,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -4433,6 +4748,8 @@
   "lng": -0.3809051376147887,
   "metodo": "via_pk",
   "dist_via_m": 461,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 95.4,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -4456,6 +4773,8 @@
   "lng": -1.0707939325828024,
   "metodo": "via_pk",
   "dist_via_m": 199,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 137.2,
   "provincia_ine": "Teruel",
   "coord_pkcercano": [
@@ -4479,6 +4798,8 @@
   "lng": -0.954272721182974,
   "metodo": "estacion_ign",
   "dist_via_m": 13,
+  "dist_via_geo_m": 13,
+  "dist_linea_geo_m": 13,
   "pk_cercano": 376.4,
   "provincia_ine": "Albacete",
   "coord_pkcercano": [
@@ -4502,6 +4823,8 @@
   "lng": -2.6567569552916668,
   "metodo": "via_pk",
   "dist_via_m": 318,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 493.4,
   "provincia_ine": "Álava",
   "coord_pkcercano": [
@@ -4525,6 +4848,8 @@
   "lng": 2.5505530272261683,
   "metodo": "via_pk",
   "dist_via_m": 110,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 38,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -4536,7 +4861,7 @@
   "dist_linea_m": 110,
   "pk_linea_cercano": 38,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-131209-270410-CIAF",
@@ -4548,6 +4873,8 @@
   "lng": -4.666131580242063,
   "metodo": "via_pk",
   "dist_via_m": 111,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 165.6,
   "provincia_ine": "Ávila",
   "coord_pkcercano": [
@@ -4571,6 +4898,8 @@
   "lng": -5.91393910612,
   "metodo": "via_pk",
   "dist_via_m": 478,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 15.7,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4594,6 +4923,7 @@
   "lng": -5.58018254,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 341,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4614,6 +4944,8 @@
   "lng": -6.7583889436,
   "metodo": "via_pk",
   "dist_via_m": 198,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 264,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -4637,6 +4969,7 @@
   "lng": -7.91150686,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 43.6,
   "provincia_ine": "A Coruña",
   "coord_pkcercano": [
@@ -4657,6 +4990,7 @@
   "lng": -7.0518895,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 149.3,
   "provincia_ine": "Lugo",
   "coord_pkcercano": [
@@ -4677,6 +5011,8 @@
   "lng": -3.771059764325,
   "metodo": "via_pk",
   "dist_via_m": 33,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 13.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -4700,6 +5036,8 @@
   "lng": -3.7086026837943926,
   "metodo": "via_pk",
   "dist_via_m": 305,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 13,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -4723,6 +5061,8 @@
   "lng": -0.10232131195677965,
   "metodo": "via_pk",
   "dist_via_m": 453,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 62.7,
   "provincia_ine": "Castellón",
   "coord_pkcercano": [
@@ -4746,6 +5086,7 @@
   "lng": -5.96765136,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 297.9,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4766,6 +5107,8 @@
   "lng": -5.8750298113333335,
   "metodo": "via_pk",
   "dist_via_m": 467,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 133.6,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4789,6 +5132,7 @@
   "lng": -6.7169445,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 191.7,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -4809,6 +5153,8 @@
   "lng": -0.4094864320687023,
   "metodo": "via_pk",
   "dist_via_m": 297,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 85,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -4832,6 +5178,8 @@
   "lng": -4.933650032214706,
   "metodo": "via_pk",
   "dist_via_m": 304,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 90.3,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -4855,6 +5203,8 @@
   "lng": 1.9169821750290457,
   "metodo": "via_pk",
   "dist_via_m": 356,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 322.6,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -4878,6 +5228,8 @@
   "lng": 2.043226305521212,
   "metodo": "via_pk",
   "dist_via_m": 174,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -4901,6 +5253,7 @@
   "lng": -3.6490396114301884,
   "metodo": "via_pk",
   "dist_via_m": 186,
+  "dist_via_geo_m": 0,
   "pk_cercano": 4,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -4921,6 +5274,8 @@
   "lng": -0.3888389628342857,
   "metodo": "via_pk",
   "dist_via_m": 17,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 108.6,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -4944,6 +5299,7 @@
   "lng": -4.76060461,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 167.9,
   "provincia_ine": "Valladolid",
   "coord_pkcercano": [
@@ -4964,6 +5320,8 @@
   "lng": -0.39193452693714287,
   "metodo": "via_pk",
   "dist_via_m": 256,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 107.6,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -4987,6 +5345,8 @@
   "lng": -5.689778543363636,
   "metodo": "via_pk",
   "dist_via_m": 259,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 17.4,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5010,6 +5370,8 @@
   "lng": -5.870666808533333,
   "metodo": "via_pk",
   "dist_via_m": 34,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 134.6,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5033,6 +5395,8 @@
   "lng": -6.60202612,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 251,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -5056,6 +5420,8 @@
   "lng": -2.3123242835299367,
   "metodo": "via_pk",
   "dist_via_m": 192,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 566.5,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -5079,6 +5445,8 @@
   "lng": -3.6818956,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 0.0,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -5102,6 +5470,8 @@
   "lng": -5.726908902066667,
   "metodo": "via_pk",
   "dist_via_m": 404,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 8,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -5125,6 +5495,8 @@
   "lng": 2.96897025,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 247,
   "provincia_ine": "Girona",
   "coord_pkcercano": [
@@ -5159,6 +5531,7 @@
   "lng": -5.20763906,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 377.9,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5179,6 +5552,7 @@
   "lng": -5.05262751,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 1,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5210,6 +5584,7 @@
   "lng": -5.8111025,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 15.1,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5230,6 +5605,8 @@
   "lng": 2.5105977792260776,
   "metodo": "via_pk",
   "dist_via_m": 3681,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 38,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -5240,8 +5617,8 @@
   "linea_declarada": "276",
   "dist_linea_m": 3681,
   "pk_linea_cercano": 38,
-  "veredicto": "mal",
-  "provincia_ok": false
+  "veredicto": "bien",
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-200711-260612-CIAF",
@@ -5253,6 +5630,8 @@
   "lng": -4.089643018302521,
   "metodo": "via_pk",
   "dist_via_m": 268,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 68.7,
   "provincia_ine": "Toledo",
   "coord_pkcercano": [
@@ -5276,6 +5655,8 @@
   "lng": -2.1796480465782175,
   "metodo": "via_pk",
   "dist_via_m": 121,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 192,
   "provincia_ine": "Soria",
   "coord_pkcercano": [
@@ -5299,6 +5680,8 @@
   "lng": 1.24043051,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 7957,
   "pk_cercano": 263.2,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -5309,8 +5692,9 @@
   "linea_declarada": "600",
   "dist_linea_m": 7984,
   "pk_linea_cercano": 254.1,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 126400020 (línea 640), la declarada 600 está a 7957 m",
   "veredicto": "mal",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-201209-310510-CIAF",
@@ -5322,6 +5706,8 @@
   "lng": 1.4187411067985614,
   "metodo": "via_pk",
   "dist_via_m": 199,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 254,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5345,6 +5731,8 @@
   "lng": 2.19428568,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 10,
   "pk_cercano": 3.1,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5355,8 +5743,8 @@
   "linea_declarada": "276",
   "dist_linea_m": 557,
   "pk_linea_cercano": 106.5,
-  "veredicto": "duda",
-  "provincia_ok": false
+  "veredicto": "bien",
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-220109-190509-CIAF",
@@ -5368,6 +5756,8 @@
   "lng": 2.0161290627027033,
   "metodo": "via_pk",
   "dist_via_m": 311,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 662.9,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5391,6 +5781,8 @@
   "lng": -8.61550045,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 165.6,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -5414,6 +5806,8 @@
   "lng": -2.97210843,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 5.4,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -5437,6 +5831,8 @@
   "lng": 0.4045000433333331,
   "metodo": "via_pk",
   "dist_via_m": 284,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 152.3,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -5460,6 +5856,7 @@
   "lng": -5.36697933,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 361.8,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5480,6 +5877,8 @@
   "lng": -3.3821584566666667,
   "metodo": "via_pk",
   "dist_via_m": 14,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 32,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -5503,6 +5902,8 @@
   "lng": -5.5996883927851115,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 106.8,
   "provincia_ine": "Salamanca",
   "coord_pkcercano": [
@@ -5526,6 +5927,7 @@
   "lng": -5.20763906,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 377.9,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -5546,6 +5948,8 @@
   "lng": 2.1169708127741935,
   "metodo": "via_pk",
   "dist_via_m": 345,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 674.8,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5569,6 +5973,8 @@
   "lng": -3.768576713387654,
   "metodo": "via_pk",
   "dist_via_m": 305,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 5.1,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -5592,6 +5998,8 @@
   "lng": 1.9628569563205127,
   "metodo": "via_pk",
   "dist_via_m": 264,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 657.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5615,6 +6023,8 @@
   "lng": -4.015090596283871,
   "metodo": "via_pk",
   "dist_via_m": 387,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 38.9,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -5638,6 +6048,8 @@
   "lng": 2.088278415438384,
   "metodo": "via_pk",
   "dist_via_m": 219,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 94.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5661,6 +6073,8 @@
   "lng": -0.4401787931565762,
   "metodo": "via_pk",
   "dist_via_m": 275,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 80.7,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -5684,6 +6098,8 @@
   "lng": -3.77744099924375,
   "metodo": "via_pk",
   "dist_via_m": 321,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 127,
   "provincia_ine": "Jaén",
   "coord_pkcercano": [
@@ -5707,6 +6123,8 @@
   "lng": -6.1954711760087715,
   "metodo": "via_pk",
   "dist_via_m": 323,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 24.6,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -5730,6 +6148,8 @@
   "lng": -0.865082698840156,
   "metodo": "via_pk",
   "dist_via_m": 421,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 397.1,
   "provincia_ine": "Alicante",
   "coord_pkcercano": [
@@ -5753,6 +6173,8 @@
   "lng": -5.6561660826950355,
   "metodo": "via_pk",
   "dist_via_m": 76,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 45,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -5776,6 +6198,8 @@
   "lng": 2.27202133,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 12606,
   "pk_cercano": 26,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5786,8 +6210,9 @@
   "linea_declarada": "276",
   "dist_linea_m": 12697,
   "pk_linea_cercano": 120.1,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022220010 (línea 222), la declarada 276 está a 12606 m",
   "veredicto": "mal",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-240809-260110-CIAF",
@@ -5799,6 +6224,8 @@
   "lng": 2.0450831177777777,
   "metodo": "via_pk",
   "dist_via_m": 406,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5822,6 +6249,7 @@
   "lng": -3.84134262,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 527.3,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -5842,6 +6270,8 @@
   "lng": -0.18184550627796614,
   "metodo": "via_pk",
   "dist_via_m": 466,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 48.7,
   "provincia_ine": "Castellón",
   "coord_pkcercano": [
@@ -5865,6 +6295,7 @@
   "lng": 1.64436243,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 284,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -5885,6 +6316,7 @@
   "lng": -4.49747083,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 14.1,
   "provincia_ine": "Málaga",
   "coord_pkcercano": [
@@ -5907,6 +6339,8 @@
   "lng": -4.7076881214606745,
   "metodo": "via_pk",
   "dist_via_m": 228,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 173,
   "provincia_ine": "Ávila",
   "coord_pkcercano": [
@@ -5930,6 +6364,7 @@
   "lng": -3.68366018,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 7.7,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -5950,6 +6385,8 @@
   "lng": -3.82846006,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 22.8,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -5973,6 +6410,8 @@
   "lng": -2.67268418,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 492.4,
   "provincia_ine": "Álava",
   "coord_pkcercano": [
@@ -5996,6 +6435,8 @@
   "lng": 2.5914624801102804,
   "metodo": "via_pk",
   "dist_via_m": 135,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 41.7,
   "provincia_ine": "00",
   "coord_pkcercano": [
@@ -6007,7 +6448,7 @@
   "dist_linea_m": 135,
   "pk_linea_cercano": 41.7,
   "veredicto": "bien",
-  "provincia_ok": false
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-261108-310309-CIAF",
@@ -6019,6 +6460,8 @@
   "lng": -1.5442458039366516,
   "metodo": "via_pk",
   "dist_via_m": 51,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 70.3,
   "provincia_ine": "Navarra",
   "coord_pkcercano": [
@@ -6042,6 +6485,8 @@
   "lng": -3.256421917972665,
   "metodo": "via_pk",
   "dist_via_m": 320,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 37,
   "provincia_ine": "Toledo",
   "coord_pkcercano": [
@@ -6076,6 +6521,8 @@
   "lng": 2.2908313996571428,
   "metodo": "via_pk",
   "dist_via_m": 339,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 135.1,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -6099,6 +6546,7 @@
   "lng": -3.8154691,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 540.9,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -6119,6 +6567,8 @@
   "lng": -0.9107746835482805,
   "metodo": "estacion_ign",
   "dist_via_m": 11,
+  "dist_via_geo_m": 11,
+  "dist_linea_geo_m": 1475,
   "pk_cercano": 339.4,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -6129,6 +6579,7 @@
   "linea_declarada": "060",
   "dist_linea_m": 1478,
   "pk_linea_cercano": 305.3,
+  "motivo": "cae sobre OTRA vía: a 11 m del tramo 022000260 (línea 200), la declarada 060 está a 1475 m",
   "veredicto": "duda",
   "provincia_ok": true
  },
@@ -6153,6 +6604,8 @@
   "lng": -0.9959805450434782,
   "metodo": "via_pk",
   "dist_via_m": 145,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 24,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -6176,6 +6629,8 @@
   "lng": -6.169923726851851,
   "metodo": "via_pk",
   "dist_via_m": 18,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 141.4,
   "provincia_ine": "Cádiz",
   "coord_pkcercano": [
@@ -6199,6 +6654,7 @@
   "lng": -1.35912531,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 16.9,
   "provincia_ine": "Murcia",
   "coord_pkcercano": [
@@ -6219,6 +6675,8 @@
   "lng": -4.880863913423529,
   "metodo": "via_pk",
   "dist_via_m": 290,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 96.3,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -6242,6 +6700,8 @@
   "lng": 2.1869750982758625,
   "metodo": "via_pk",
   "dist_via_m": 216,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 358.7,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -6265,6 +6725,8 @@
   "lng": 1.6099074135555551,
   "metodo": "via_pk",
   "dist_via_m": 150,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 625,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -6288,6 +6750,8 @@
   "lng": -3.5063643661857142,
   "metodo": "via_pk",
   "dist_via_m": 262,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 99.2,
   "provincia_ine": "Toledo",
   "coord_pkcercano": [
@@ -6311,6 +6775,7 @@
   "lng": -3.04850991,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 631.7,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -6331,6 +6796,7 @@
   "lng": -1.606915392815504,
   "metodo": "via_pk",
   "dist_via_m": 387,
+  "dist_via_geo_m": 0,
   "pk_cercano": 224.3,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -6351,6 +6817,8 @@
   "lng": -2.948283985,
   "metodo": "via_pk",
   "dist_via_m": 145,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 146.4,
   "provincia_ine": "Burgos",
   "coord_pkcercano": [
@@ -6374,6 +6842,8 @@
   "lng": -4.032788418702703,
   "metodo": "via_pk",
   "dist_via_m": 169,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 7,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -6397,6 +6867,8 @@
   "lng": -4.483023307103448,
   "metodo": "via_pk",
   "dist_via_m": 293,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 11.1,
   "provincia_ine": "Málaga",
   "coord_pkcercano": [
@@ -6420,6 +6892,8 @@
   "lng": -2.020395006826425,
   "metodo": "via_pk",
   "dist_via_m": 129,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 607.9,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -6443,6 +6917,8 @@
   "lng": -8.61942505,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 166.8,
   "provincia_ine": "Pontevedra",
   "coord_pkcercano": [
@@ -6466,6 +6942,8 @@
   "lng": -2.5868551547659573,
   "metodo": "via_pk",
   "dist_via_m": 324,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 92.1,
   "provincia_ine": "La Rioja",
   "coord_pkcercano": [
@@ -6489,6 +6967,8 @@
   "lng": -3.69871014,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 10,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -6512,6 +6992,8 @@
   "lng": 0.8554309627219917,
   "metodo": "via_pk",
   "dist_via_m": 469,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 556.3,
   "provincia_ine": "Tarragona",
   "coord_pkcercano": [
@@ -6535,6 +7017,8 @@
   "lng": -0.93146983,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 222,
   "pk_cercano": 337.1,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -6558,6 +7042,7 @@
   "lng": -5.53466911,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 64.1,
   "provincia_ine": "Salamanca",
   "coord_pkcercano": [
@@ -6578,6 +7063,8 @@
   "lng": -0.548532526923077,
   "metodo": "via_pk",
   "dist_via_m": 65,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 51.8,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -6601,6 +7088,7 @@
   "lng": -5.5648419,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 49.7,
   "provincia_ine": "Asturias",
   "coord_pkcercano": [
@@ -6621,6 +7109,8 @@
   "lng": -4.754132521878261,
   "metodo": "via_pk",
   "dist_via_m": 424,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 234.3,
   "provincia_ine": "Valladolid",
   "coord_pkcercano": [
@@ -6644,6 +7134,8 @@
   "lng": -0.66156067,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 23125,
   "pk_cercano": 25.3,
   "provincia_ine": "Huesca",
   "coord_pkcercano": [
@@ -6654,6 +7146,7 @@
   "linea_declarada": "200",
   "dist_linea_m": 23301,
   "pk_linea_cercano": 43.7,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022040020 (línea 204), la declarada 200 está a 23125 m",
   "veredicto": "mal",
   "provincia_ok": false
  },
@@ -6667,6 +7160,8 @@
   "lng": -4.511792119192032,
   "metodo": "via_pk",
   "dist_via_m": 98,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 413.7,
   "provincia_ine": "Córdoba",
   "coord_pkcercano": [
@@ -6690,6 +7185,7 @@
   "lng": -3.82338277,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 539.9,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -6710,6 +7206,8 @@
   "lng": -3.838129452,
   "metodo": "via_pk",
   "dist_via_m": 140,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 537.3,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -6733,6 +7231,7 @@
   "lng": -6.15331224,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 8.6,
   "provincia_ine": "Cáceres",
   "coord_pkcercano": [
@@ -6764,6 +7263,8 @@
   "lng": -2.7755062200197043,
   "metodo": "via_pk",
   "dist_via_m": 9,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 188.7,
   "provincia_ine": "Albacete",
   "coord_pkcercano": [
@@ -6798,6 +7299,8 @@
   "lng": -4.69607090175,
   "metodo": "via_pk",
   "dist_via_m": 271,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 169.6,
   "provincia_ine": "Ávila",
   "coord_pkcercano": [
@@ -6821,6 +7324,7 @@
   "lng": -3.76985244,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 545,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -6841,6 +7345,8 @@
   "lng": -4.351333623486056,
   "metodo": "via_pk",
   "dist_via_m": 397,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 393.7,
   "provincia_ine": "Córdoba",
   "coord_pkcercano": [
@@ -6864,6 +7370,8 @@
   "lng": -2.0715698905284974,
   "metodo": "via_pk",
   "dist_via_m": 480,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 600.9,
   "provincia_ine": "Guipúzcoa",
   "coord_pkcercano": [
@@ -6887,6 +7395,8 @@
   "lng": -6.388539789123312,
   "metodo": "via_pk",
   "dist_via_m": 215,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 24,
   "provincia_ine": "Badajoz",
   "coord_pkcercano": [
@@ -6921,6 +7431,7 @@
   "lng": -1.22812208,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 1.4,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -6941,6 +7452,8 @@
   "lng": -0.38271832,
   "metodo": "via_pk",
   "dist_via_m": 128,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 2.1,
   "provincia_ine": "Valencia",
   "coord_pkcercano": [
@@ -6964,6 +7477,7 @@
   "lng": -3.96178988,
   "metodo": "via_pkteorico",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
   "pk_cercano": 88.3,
   "provincia_ine": "Granada",
   "coord_pkcercano": [
@@ -6986,6 +7500,8 @@
   "lng": -8.53312749,
   "metodo": "via_pk",
   "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 375.4,
   "provincia_ine": "A Coruña",
   "coord_pkcercano": [
@@ -7009,6 +7525,8 @@
   "lng": -2.9820087451488333,
   "metodo": "via_pk",
   "dist_via_m": 42,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 195,
   "provincia_ine": "Álava",
   "coord_pkcercano": [
@@ -7032,6 +7550,8 @@
   "lng": -3.55253528,
   "metodo": "via_pk",
   "dist_via_m": 423,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 16,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -7055,6 +7575,8 @@
   "lng": -3.8323499473214286,
   "metodo": "via_pk",
   "dist_via_m": 241,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 122.7,
   "provincia_ine": "Toledo",
   "coord_pkcercano": [
@@ -7078,6 +7600,8 @@
   "lng": -0.8849042237539823,
   "metodo": "via_pk",
   "dist_via_m": 87,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 307.6,
   "provincia_ine": "Zaragoza",
   "coord_pkcercano": [
@@ -7101,6 +7625,8 @@
   "lng": -5.9659553570967745,
   "metodo": "via_pk",
   "dist_via_m": 19,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 469.4,
   "provincia_ine": "Sevilla",
   "coord_pkcercano": [
@@ -7124,6 +7650,8 @@
   "lng": -3.691108621898734,
   "metodo": "via_pk",
   "dist_via_m": 113,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 0.3,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -7147,6 +7675,8 @@
   "lng": -3.8229010276923074,
   "metodo": "via_pk",
   "dist_via_m": 107,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 15.2,
   "provincia_ine": "Madrid",
   "coord_pkcercano": [
@@ -7170,6 +7700,8 @@
   "lng": 2.186970649944828,
   "metodo": "via_pk",
   "dist_via_m": 216,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 358.7,
   "provincia_ine": "Barcelona",
   "coord_pkcercano": [
@@ -7193,6 +7725,8 @@
   "lng": -3.1705617591875,
   "metodo": "via_pk",
   "dist_via_m": 3,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 6.8,
   "provincia_ine": "Vizcaya",
   "coord_pkcercano": [
@@ -7216,6 +7750,8 @@
   "lng": -5.524716658181818,
   "metodo": "via_pk",
   "dist_via_m": 31,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 27.7,
   "provincia_ine": "León",
   "coord_pkcercano": [
@@ -7239,6 +7775,8 @@
   "lng": -3.8773295300829016,
   "metodo": "via_pk",
   "dist_via_m": 325,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 258.1,
   "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [
@@ -7262,6 +7800,8 @@
   "lng": -4.480203352357377,
   "metodo": "via_pk",
   "dist_via_m": 98,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 457.6,
   "provincia_ine": "Cantabria",
   "coord_pkcercano": [
@@ -7285,6 +7825,8 @@
   "lng": -4.270509638435233,
   "metodo": "via_pk",
   "dist_via_m": 17,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
   "pk_cercano": 224.4,
   "provincia_ine": "Ciudad Real",
   "coord_pkcercano": [

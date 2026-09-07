@@ -58,12 +58,16 @@ era-visor/
 │   ├── extraer_completo.py      6. análisis v3: hechos, cronología, infraestructura…
 │   ├── geocodificar_via.py      7. PK+línea → coordenadas SOBRE la vía ADIF
 │   ├── geocodificar_estacion.py 7b. sin PK → estación IGN (matcher estricto)
-│   ├── revisar_localizacion.py  8. auditoría: distancia a vía, provincia vs ADIF
+│   ├── revisar_localizacion.py  8. auditoría: distancia a vía + cruce PK↔línea, provincia vs ADIF
 │   ├── revisar_json.py          9. revisor IA: revalida cada JSON contra su .md
 │   ├── importar_ciaf.py         (helper) importa los 269 informes CIAF verificados
 │   ├── extraer_erail.py         (helper) Excel eRAIL → JSON por país
 │   ├── cruce_erail.py           (helper) cruza eRAIL ↔ PDFs descargados
-│   └── consolidar.py            10. json/* → data/db/ (dedupe: CIAF > LLM, fusiona v2/v3)
+│   ├── consolidar.py            10. json/* → data/db/ (dedupe: CIAF > LLM, fusiona v2/v3,
+│   │                                propaga geo_veredicto/geo_motivo del auditor a la DB)
+│   └── verificar_todo.py        11. comprobación integral PDF↔md↔json↔DB + lista de mal
+│                                    geolocalizados → data/revision/XX-verificacion.md
+│                                    (--limpiar archiva duplicados md5, exit≠0 si hay ERROR)
 ├── data/
 │   ├── pdf-manifest/     ← qué PDFs hay por país (ES.json)
 │   ├── erail/            ← Excel eRAIL convertido
@@ -99,9 +103,14 @@ python scripts/enriquecer_ia.py DE        # campos v2 (LLM)
 python scripts/extraer_completo.py DE     # análisis v3 (LLM)
 python scripts/geocodificar_via.py DE     # coords sobre la vía
 python scripts/geocodificar_estacion.py DE # o por estación
-python scripts/revisar_localizacion.py DE # auditoría de localización
+python scripts/revisar_localizacion.py DE # auditoría de localización (veredictos)
 python scripts/revisar_json.py DE         # revisor IA
-python scripts/consolidar.py DE           # → data/db/
+python scripts/consolidar.py DE           # → data/db/ (propaga veredicto geo a la DB)
+python scripts/revisar_localizacion.py DE # AUDITAR LA DB YA GENERADA (orden importa:
+                                          # el auditor lee coords de la DB; tras cualquier
+                                          # cambio de json/ o consolidar, re-auditar)
+python scripts/verificar_todo.py DE       # comprobación integral + informe de mal ubicados
+                                          # (--limpiar archiva duplicados; exit≠0 si ERROR)
 ```
 
 Todo es **reanudable**: si se corta, relanza el mismo comando y continúa donde estaba.
