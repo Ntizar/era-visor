@@ -297,10 +297,20 @@ def main():
             # de su propia línea 220 = bien ubicado, falso positivo del umbral.
             misma_linea = bool(t_g and linea_cands and (t_g.get("lineas") or set()) & linea_cands)
             es_est = str(entrada.get("metodo") or "").startswith("estacion")
-            if misma_linea and es_est and d_ref_geo <= ESTACION_RADIO:
+            # estación SOBRE la red real: la línea declarada puede ser un ramal interno
+            # o truncado en ADIF (Salou pk263 línea 600 truncada; Zaragoza-Delicias ramal
+            # 060 sin geometría). Si el punto por estación está a ≤ESTACION_RADIO de la vía
+            # real, el cruce declarado es una etiqueta de línea, NO un error de ubicación.
+            est_en_red = es_est and dg is not None and dg <= ESTACION_RADIO
+            if (misma_linea and es_est and d_ref_geo <= ESTACION_RADIO) or est_en_red:
                 entrada["veredicto"] = "bien"
-                entrada["motivo"] = (f"nodo de estación: a {round(d_ref_geo)} m del eje de la "
-                                     f"línea declarada {linea_inf} (recinto, no error de ubicación)")
+                if misma_linea:
+                    entrada["motivo"] = (f"nodo de estación: a {round(d_ref_geo)} m del eje de la "
+                                         f"línea declarada {linea_inf} (recinto, no error de ubicación)")
+                else:
+                    entrada["motivo"] = (f"nodo de estación sobre la red real: a {round(dg)} m de la "
+                                         f"vía más cercana (la declarada {linea_inf} es ramal interno/"
+                                         f"truncado en ADIF — p.ej. Salou, Zaragoza-Delicias)")
                 conteo["bien"] += 1
                 revision.append(entrada)
                 eq = coinciden_provincia(r.get("provincia"), p_ref["provincia"])

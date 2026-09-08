@@ -10,14 +10,14 @@
  "tipo_informe": "final",
  "tipo_suceso": "descarrilamiento",
  "ubicacion": {
-  "estacion": "Estación de Tarragona Clasificación",
+  "estacion": "Tarragona Clasificación (Tarragona-Mercaderies)",
   "provincia": "Tarragona",
   "pk": "PK 0+571",
   "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",
-  "lat": 41.1326042,
-  "lng": 1.2295355,
-  "metodo_geo": "estacion_adif",
-  "fuente_geo": "OSM node/2272953656 'Tarragona Clasificación' (OpenData ADIF, CC BY 4.0)"
+  "lat": 41.11105,
+  "lng": 1.22475,
+  "metodo_geo": "estacion_ign",
+  "fuente_geo": "Tarragona-Mercaderies (IGN 41.11105,1.22475, ~380 m de la línea 210); patio de clasificación, vía EV pk 0+571"
  },
  "entidades": [
   "Transfesa Rail",

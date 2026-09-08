@@ -10,14 +10,19 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # substring archivo -> dict a volcar en ubicacion
 FIX = {
-    # 18/2014 via EV "Tarragona Clasificación": nodo exacto en red ADIF
-    "151124-141118": dict(estacion="Estación de Tarragona Clasificación", lat=41.1326042, lng=1.2295355,
-        metodo_geo="estacion_adif", fuente_geo="OSM node/2272953656 'Tarragona Clasificación' (OpenData ADIF, CC BY 4.0)"),
-    # 27/2007 y 08/2009 arrollamientos en estación de Salou (Tarragona)
-    "211207-290408": dict(estacion="Estación de Salou", lat=41.1118033, lng=1.0817892,
-        metodo_geo="estacion_adif", fuente_geo="OSM node/3979687106 'estación de Salou' (OpenData ADIF, CC BY 4.0)"),
-    "201208-210409": dict(estacion="Estación de Salou", lat=41.1118033, lng=1.0817892,
-        metodo_geo="estacion_adif", fuente_geo="OSM node/3979687106 'estación de Salou' (OpenData ADIF, CC BY 4.0)"),
+    # 18/2014 via EV "Tarragona Clasificación": patio de mercancías = IGN 'Tarragona-Mercaderies'
+    # (41.11105,1.22475). El nodo previo (41.1326,1.2295) estaba a 2,4 km de la red.
+    "151124-141118": dict(estacion="Tarragona Clasificación (Tarragona-Mercaderies)", lat=41.11105, lng=1.22475,
+        metodo_geo="estacion_ign", fuente_geo="Tarragona-Mercaderies (IGN 41.11105,1.22475, ~380 m de la línea 210); patio de clasificación, vía EV pk 0+571"),
+    # 27/2007 y 08/2009 arrollamientos en estación de Salou (Tarragona).
+    # OJO: el nodo previo (41.1118,1.0818) estaba a 1,7 km de la vía. La línea 600 de
+    # ADIF se trunca en pk 254 y no llega a Salou (pk 263); la estación real que sirve
+    # Salou hoy es 'Salou-Port Aventura' (IGN 'Apartadero de Port Aventura', 41.08846,
+    # 1.14599), a 0,01 km de la red.
+    "211207-290408": dict(estacion="Salou (Salou-Port Aventura)", lat=41.08846, lng=1.14599,
+        metodo_geo="estacion_ign", fuente_geo="Salou-Port Aventura (IGN 'Apartadero de Port Aventura' 41.08846,1.14599; a 0,01 km de la red); línea 600 truncada en ADIF en pk 254"),
+    "201208-210409": dict(estacion="Salou (Salou-Port Aventura)", lat=41.08846, lng=1.14599,
+        metodo_geo="estacion_ign", fuente_geo="Salou-Port Aventura (IGN 'Apartadero de Port Aventura' 41.08846,1.14599; a 0,01 km de la red); línea 600 truncada en ADIF en pk 254"),
     # 49/2010 PN provisional en TM de Carmonita; estación de la línea 510.
     # OJO: entrada previa (38.7005,-6.1530) NO era Carmonita — estaba ~55 km al sur
     # (cerca de Zafra). La estación no está mapeada en OSM y la línea 510 no tiene

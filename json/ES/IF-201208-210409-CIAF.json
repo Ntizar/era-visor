@@ -10,14 +10,14 @@
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
  "ubicacion": {
-  "estacion": "Estación de Salou",
+  "estacion": "Salou (Salou-Port Aventura)",
   "provincia": "Tarragona",
   "pk": "263,208",
   "linea": "600 Valencia Nord - Sant Vicent de Calders",
-  "lat": 41.1118033,
-  "lng": 1.0817892,
-  "metodo_geo": "estacion_adif",
-  "fuente_geo": "OSM node/3979687106 'estación de Salou' (OpenData ADIF, CC BY 4.0)"
+  "lat": 41.08846,
+  "lng": 1.14599,
+  "metodo_geo": "estacion_ign",
+  "fuente_geo": "Salou-Port Aventura (IGN 'Apartadero de Port Aventura' 41.08846,1.14599; a 0,01 km de la red); línea 600 truncada en ADIF en pk 254"
  },
  "entidades": [
   "Renfe Operadora",

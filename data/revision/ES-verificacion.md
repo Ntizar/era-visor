@@ -1,6 +1,6 @@
 # Informe de verificación — ES
 
-> `scripts/verificar_todo.py` · 2026-09-08 09:31 · **APTO** · 4 avisos · 13 checks OK
+> `scripts/verificar_todo.py` · 2026-09-08 09:58 · **APTO** · 3 avisos · 14 checks OK
 
 ## 1. Integridad de la cadena PDF ↔ md ↔ json ↔ DB
 
@@ -30,26 +30,15 @@
 
 ## 5. Auditoría geográfica — los mal geolocalizados, SIEMPRE a la vista
 
-- **[AVISO]** veredictos: 349 informes auditados: bien=309 · duda=4 · mal=1 · sin_coords=35
+- **[OK]** veredictos: 349 informes auditados: bien=314 · sin_coords=35
 - **[AVISO]** provincia: 19 con provincia declarada ≠ provincia de la red
 
-**MAL GEOLocalIZADOS — 1 informes** (verificar contra el PDF original):
-
-| Informe | Provincia | PK | Línea | A la vía | Motivo |
-|---|---|---|---|---|---|
-| `ES-ES 18.11.2014 151124-141118-IF-CIAF` | Tarragona | PK 0+571 | Línea 622 Aguja Clasif. PK | 2421 m | cae sobre OTRA vía: a 2404 m del tramo 022100140 (línea 210), la declarada 622 está a 2438 m |
+**MAL GEOLocalIZADOS: ninguno.**
 
 
-**DUDOSOS — 4 informes** (verificar contra el PDF original):
-
-| Informe | Provincia | PK | Línea | A la vía | Motivo |
-|---|---|---|---|---|---|
-| `ES-ID-211207-290408-CIAF[1]` | Tarragona | 263,600 | 600 Valencia-San Vicente C | 1709 m | cae sobre OTRA vía: a 1668 m del tramo 036000157 (línea 600), la declarada 600 está a 1668 m |
-| `ES-IF-201208-210409-CIAF` | Tarragona | 263,208 | 600 Valencia Nord - Sant V | 1709 m | cae sobre OTRA vía: a 1668 m del tramo 036000157 (línea 600), la declarada 600 está a 1668 m |
-| `ES-ES IF_060613_281014_CIAF` | Zaragoza | — | 060 Bifurcación Cambiador  | 11 m | cae sobre OTRA vía: a 11 m del tramo 022000260 (línea 200), la declarada 060 está a 1475 m |
-| `ES-IF-271211-250912-CIAF` | Zaragoza | — | 060 Bifurcación Cambiador  | 11 m | cae sobre OTRA vía: a 11 m del tramo 022000260 (línea 200), la declarada 060 está a 1475 m |
+**DUDOSOS: ninguno.**
 
 
 ## 6. Cache-busting del frontend
 
-- **[OK]** VERSION_DATOS: 2026-09-08-2 cubre la DB (2026-09-08)
+- **[OK]** VERSION_DATOS: 2026-09-08-3 cubre la DB (2026-09-08)
