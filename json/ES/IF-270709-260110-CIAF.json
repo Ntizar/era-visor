@@ -13,7 +13,10 @@
   "estacion": "Bifurcación Clot",
   "provincia": "Barcelona",
   "pk": "102+700",
-  "linea": "262 Barcelona Sagrera - Bif. Clot"
+  "linea": "262 Barcelona Sagrera - Bif. Clot",
+  "lat": 36.69622808,
+  "lng": -6.11973826,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",

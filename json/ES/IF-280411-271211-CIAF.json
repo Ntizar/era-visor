@@ -13,7 +13,10 @@
   "estacion": "El Clot-Aragó",
   "provincia": "Barcelona",
   "pk": "110+000",
-  "linea": "262 Barcelona Sagrera – Bifurcación Clot"
+  "linea": "262 Barcelona Sagrera – Bifurcación Clot",
+  "lat": 37.04343836,
+  "lng": -4.5968305,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",

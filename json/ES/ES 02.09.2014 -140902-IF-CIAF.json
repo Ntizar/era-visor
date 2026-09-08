@@ -14,9 +14,9 @@
   "provincia": "Asturias",
   "pk": "451+557",
   "linea": "RAM 770 Santander - Oviedo",
-  "lat": 43.38296419,
-  "lng": -4.55275167,
-  "metodo_geo": "via_pkteorico"
+  "lat": 43.38413818743429,
+  "lng": -4.543689416432653,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Mercancías",

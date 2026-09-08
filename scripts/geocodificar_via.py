@@ -225,6 +225,27 @@ def main(codigo: str):
         # ubicacion manda: es el dato que el geocodificador/verificador ha contrastado
         pk = parse_pk(loc.get("pk") or d.get("pk"))
         cod_linea, _ = parse_linea(loc.get("linea") or d.get("linea"))
+        # La línea puede carecer del código numérico ("Valencia - San Vicente de
+        # Calders") mientras el texto del informe SÍ lo trae ("(600 Valencia-San
+        # Vicente... railway line)"). Recuperarlo evita caer al fallback por provincia
+        # y cruzar de línea (caso 0034/2007 aterrizaba en Zaragoza).
+        if not cod_linea:
+            texto = (
+                str((d.get("erail") or {}).get("Location name") or "") + " "
+                + str(d.get("titulo") or "") + " "
+                + str(d.get("resumen") or "") + " "
+                + json.dumps(loc, ensure_ascii=False)
+            )
+            m = re.search(r"\(\s*(\d{3})\s*[A-Za-z\u00C0-\u024F]", texto)
+            if not m:
+                m = re.search(r"\(\s*(\d{3})[\s\-–]?\s*[A-Za-z\u00C0-\u024F]", texto)
+            if not m:
+                m = re.search(r"\b(?:línea|line|linea)\s*(\d{3})", texto, re.I)
+            if not m:
+                # "(600 Valencia-San ...)" — código seguido de capital con posibilidad de guion
+                m = re.search(r"\(?(\d{3})[\s\-–]+[A-Z\u00C0-\u024F][a-z]", texto)
+            if m:
+                cod_linea = m.group(1).zfill(3)
         punto = None
         metodo = None
 
@@ -285,8 +306,15 @@ def main(codigo: str):
                 for p in pkteor:
                     if abs(p["pk"] - pk) > tol:
                         continue
-                    if idps and to_int(p.get("idp")) not in idps:
-                        continue
+                    if idps:
+                        idp = to_int(p.get("idp"))
+                        # id_provinc desconocido (0/None) NO debe excluir: son puntos
+                        # válidos cuya provincia no está resuelta en INE (p.ej. el PK de
+                        # la línea 600 a 244,350, id_provinc=0, aterrizaba como 'sin
+                        # match' y se conservaba la coord previa errónea — caso Caleyo/
+                        # 0034/2007). Solo excluir provincias CONOCIDAS distintas.
+                        if idp not in (None, 0) and idp not in idps:
+                            continue
                     if cod_linea:
                         ct = p.get("codtramo") or ""
                         li = ct[2:5] if re.fullmatch(r"\d{9}", ct) else ""

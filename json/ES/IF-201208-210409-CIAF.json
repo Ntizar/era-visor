@@ -10,13 +10,14 @@
  "tipo_informe": "final",
  "tipo_suceso": "arrollamiento",
  "ubicacion": {
-  "estacion": "Salou",
+  "estacion": "Estación de Salou",
   "provincia": "Tarragona",
   "pk": "263,208",
   "linea": "600 Valencia Nord - Sant Vicent de Calders",
-  "lat": 41.18874457,
-  "lng": 1.24043051,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.1118033,
+  "lng": 1.0817892,
+  "metodo_geo": "estacion_adif",
+  "fuente_geo": "OSM node/3979687106 'estación de Salou' (OpenData ADIF, CC BY 4.0)"
  },
  "entidades": [
   "Renfe Operadora",

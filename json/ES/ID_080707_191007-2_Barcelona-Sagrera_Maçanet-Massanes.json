@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "37/325",
   "linea": "Barcelona-Sagrera a Maçanet-Massanes",
-  "lat": 41.6827592,
-  "lng": 2.28876901,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.61458299,
+  "lng": 2.66598466,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

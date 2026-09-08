@@ -10,13 +10,14 @@
  "tipo_informe": "final",
  "tipo_suceso": "colision",
  "ubicacion": {
-  "estacion": "Mataró",
+  "estacion": "Estación de Mataró",
   "provincia": "Barcelona",
   "pk": "28+158",
   "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
-  "lat": 41.60523307,
-  "lng": 2.27503201,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.5358357,
+  "lng": 2.4442839,
+  "metodo_geo": "estacion_adif",
+  "fuente_geo": "OSM node/4683201319 'estación de Mataró' (OpenData ADIF, CC BY 4.0)"
  },
  "entidades": [
   "Renfe Operadora",

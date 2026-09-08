@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "93/250",
   "linea": "Madrid - Barcelona vía Caspe",
-  "lat": 41.11992198,
-  "lng": 1.14246444,
-  "metodo_geo": "via_pkteorico"
+  "lat": 40.1148216875,
+  "lng": 0.1479598833125,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

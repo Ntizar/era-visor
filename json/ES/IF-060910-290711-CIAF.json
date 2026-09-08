@@ -10,13 +10,14 @@
  "tipo_informe": "final",
  "tipo_suceso": "paso_a_nivel",
  "ubicacion": {
-  "estacion": null,
+  "estacion": "Estación de Carmonita",
   "provincia": "Badajoz",
   "pk": "24+420",
   "linea": "510 Aljucén - Cáceres",
-  "lat": 38.36301624,
-  "lng": -6.61296633,
-  "metodo_geo": "via_pkteorico"
+  "lat": 38.7005144,
+  "lng": -6.1530109,
+  "metodo_geo": "estacion_adif",
+  "fuente_geo": "OSM node/5436494761 'Estación de Carmonita' (OpenData ADIF, CC BY 4.0)"
  },
  "entidades": [
   "Renfe Operadora",

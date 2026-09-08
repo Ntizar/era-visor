@@ -14,9 +14,9 @@
   "provincia": "Alicante",
   "pk": "394,075",
   "linea": "La Encina-Alicante",
-  "lat": 38.64777251,
-  "lng": -0.87813764,
-  "metodo_geo": "via_pkteorico"
+  "lat": 42.41704208208905,
+  "lng": -3.4339438364726025,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",

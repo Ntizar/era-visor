@@ -17,7 +17,8 @@
   "lat": 41.65868294796719,
   "lng": -0.9107746835482805,
   "metodo_geo": "estacion_ign",
-  "estacion_ign": "Estación de Zaragoza Delicias"
+  "estacion_ign": "Estación de Zaragoza Delicias",
+  "fuente_geo": "Cambiador de ancho Zaragoza-Delicias (41.658683,-0.910775): recodo enlazado a linea 200; ramal 060 no tiene geometria en ADIF"
  },
  "entidades": [
   "Renfe Operadora",

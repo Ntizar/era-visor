@@ -14,9 +14,10 @@
   "provincia": "Barcelona",
   "pk": "26,100",
   "linea": "276 Barcelona Sagrera a Maçanet-Massanes",
-  "lat": 41.58732319,
-  "lng": 2.27202133,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.500487,
+  "lng": 2.389831,
+  "metodo_geo": "estacion_adif",
+  "fuente_geo": "OSM node/7206954494 'Vilassar de Mar' (estación, OpenData ADIF CC BY 4.0); informe 26/2008 PK 26,100 l276 entre Vilassar de Mar y Mataró"
  },
  "entidades": [
   "Renfe Operadora",

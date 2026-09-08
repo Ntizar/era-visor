@@ -13,7 +13,10 @@
   "estacion": "Bifurcación Sagrera",
   "provincia": "Barcelona",
   "pk": "110+311",
-  "linea": "268 Bif. Aragó-Barcelona Sant Andreu Comtal"
+  "linea": "268 Bif. Aragó-Barcelona Sant Andreu Comtal",
+  "lat": 39.2128024,
+  "lng": -6.3618302,
+  "metodo_geo": "via_pkteorico"
  },
  "entidades": [
   "Renfe Operadora",

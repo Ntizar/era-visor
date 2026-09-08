@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "244,350",
   "linea": "Valencia - San Vicente de Calders",
-  "lat": 41.50375781,
-  "lng": -1.47917779,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.091905242012196,
+  "lng": 1.0785407235365854,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "ADIF",
