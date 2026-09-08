@@ -35,7 +35,7 @@ Hecho con ❤️ por David Antizar
 |---|---|
 | Informes en la DB | **349** (2006-2025, CIAF + ERA) |
 | Con análisis v3 completo | **349/349** |
-| Localización auditada | **309 bien · 4 duda · 1 mal · 35 sin coords** |
+| Localización auditada | **314 bien · 0 duda · 0 mal · 35 sin coords** |
 | Veredicto geo por método | `via_pk` 213 · `via_pkteorico` 78 · `estacion_*`/`poblacion` + · `sin_geo` 41 |
 | `VERSION_DATOS` | `2026-09-08-2` (bump en cada despliegue de datos) |
 
