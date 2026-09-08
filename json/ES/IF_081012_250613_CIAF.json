@@ -14,9 +14,9 @@
   "provincia": "Huesca",
   "pk": "PK 25+100",
   "linea": "Línea 200 Madrid Chamartín – Barcelona Estación de Francia, tramo San Juan de Mozarrifar - Zuera",
-  "lat": 42.20494793,
-  "lng": -0.66156067,
-  "metodo_geo": "via_pkteorico"
+  "lat": 41.872231229565216,
+  "lng": -0.7664290597826087,
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Renfe Operadora",

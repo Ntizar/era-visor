@@ -14,9 +14,9 @@
   "provincia": "Alicante",
   "pk": "375,740",
   "linea": "300 Madrid - Chamartín - Valencia – Estación Nord",
-  "lat": 38.765391625566366,
-  "lng": -0.954272721182974,
-  "metodo_geo": "estacion_ign",
+  "lat": 38.768765809956044,
+  "lng": -0.9564476128241758,
+  "metodo_geo": "via_pk",
   "estacion_ign": "Apartadero-cargadero de La Encina"
  },
  "entidades": [

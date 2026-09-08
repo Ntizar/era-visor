@@ -16,7 +16,7 @@
   "linea": "600 Valencia Nord - San Vicenç de Calders",
   "lat": 40.47171918,
   "lng": 0.45551574,
-  "metodo_geo": "via_pkteorico"
+  "metodo_geo": "via_pk"
  },
  "entidades": [
   "Adif",

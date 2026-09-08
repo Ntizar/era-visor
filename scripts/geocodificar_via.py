@@ -252,6 +252,25 @@ def main(codigo: str):
                     xy = interpolar_en_tramo(t, pk)
                     punto, metodo = [xy[1], xy[0]], "via_pk"
                     en_rango = [t]
+            if punto is None and prov and idx.get(cod_linea):
+                # LA PROVINCIA DECLARADA NO CONCUERDA CON LA RED (p.ej. CIAF escribe
+                # "Huesca" para Zuera, que es Zaragoza). Reintentar SIN filtro
+                # provincial, y si el mismo PK existe en varios tramos de la línea
+                # (líneas largas: PK 25 en Madrid Y en Zaragoza), desempatar con la
+                # coord previa: no para perpetuarla, sino para elegir el tramo de la
+                # zona correcta. Si no hay previa, ambiguo -> no tocar.
+                ref0 = (loc.get("lat"), loc.get("lng"))
+                cands2 = []
+                for t in idx[cod_linea]:
+                    if min(t["pki"], t["pkd"]) - 0.3 <= pk <= max(t["pki"], t["pkd"]) + 0.3:
+                        xy = interpolar_en_tramo(t, pk)
+                        cands2.append((t, xy))
+                if len(cands2) == 1:
+                    punto, metodo = [cands2[0][1][1], cands2[0][1][0]], "via_pk"
+                elif len(cands2) > 1 and ref0[0] is not None:
+                    t, xy = min(cands2,
+                                key=lambda e: haversine(ref0[0], ref0[1], e[1][1], e[1][0]))
+                    punto, metodo = [xy[1], xy[0]], "via_pk"
 
         # 2) PK sin resolver → PKTeorico por línea+PK+provincia (sin depender de
         #    la coord vieja: una coord previa errónea no debe perpetuarse)
@@ -277,6 +296,15 @@ def main(codigo: str):
                 return out
 
             matches = puntos_pk(cod_linea, idps, pk) if (cod_linea or idps) else []
+            if not matches and cod_linea and idps and pk is not None:
+                # 2a') la PROVINCIA DECLARADA PUEDE ESTAR MAL (CIAF dice "Huesca"
+                # para Zuera, que es Zaragoza): PK estricto en la línea declarada
+                # sin filtro provincial, y si hay racimo, el más coherente con la
+                # coord previa. Mejor línea+pk mal de provincia que otra línea.
+                matches = puntos_pk(cod_linea, [], pk)
+                if len(matches) > 1 and ref[0]:
+                    matches.sort(key=lambda p: haversine(ref[0], ref[1], p["lat"], p["lng"]))
+                    matches = matches[:1]
             if not matches and cod_linea and idps and pk is not None:
                 # 2b) línea declarada recortada en ADIF (p.ej. 600 acaba en La
                 # Boella y el pk CIAF sigue): relajar a ±10 km de pk en línea+prov

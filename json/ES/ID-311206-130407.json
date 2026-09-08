@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "171,039",
   "linea": "Línea 270 Barcelona-Portbou",
-  "lat": 41.71800191,
-  "lng": 2.53898083,
-  "metodo_geo": "via_pkteorico",
+  "lat": 41.746749343044776,
+  "lng": 2.6272918071582088,
+  "metodo_geo": "via_pk",
   "estacion_ign": "Apeadero de Hostalric (APD)"
  },
  "entidades": [
