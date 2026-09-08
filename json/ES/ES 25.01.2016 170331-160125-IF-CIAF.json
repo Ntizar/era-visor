@@ -10,15 +10,15 @@
  "tipo_informe": "final",
  "tipo_suceso": "colision",
  "ubicacion": {
-  "estacion": "Elx Parc",
+  "estacion": "Elx-Parc",
   "provincia": "Alicante",
   "pk": "435,900",
   "linea": "336 El Reguerón a Alacant Terminal",
-  "lat": 41.5712427103309,
-  "lng": 2.089973378804382,
+  "lat": 38.2721481,
+  "lng": -0.6950608,
   "metodo_geo": "estacion_ign",
   "estacion_ign": "Estación de Sabadell Parc del Nord",
-  "fuente_geo": "PK confirmado 435,900 linea 336 (no 657,718 que corresponde al km 0 del desvio a la 700)"
+  "fuente_geo": "Estación de Elx-Parc (IGN 38.27215,-0.69506); PK 435,900 línea 336 'El Reguerón a Alacant Terminal' (no 657,718 del desvío a la 700)"
  },
  "entidades": [
   "Adif"

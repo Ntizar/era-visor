@@ -10,14 +10,14 @@
  "tipo_informe": "final",
  "tipo_suceso": "paso_a_nivel",
  "ubicacion": {
-  "estacion": "Estación de Carmonita",
+  "estacion": "Carmonita (Badajoz)",
   "provincia": "Badajoz",
   "pk": "24+420",
   "linea": "510 Aljucén - Cáceres",
-  "lat": 38.7005144,
-  "lng": -6.1530109,
-  "metodo_geo": "estacion_adif",
-  "fuente_geo": "OSM node/5436494761 'Estación de Carmonita' (OpenData ADIF, CC BY 4.0)"
+  "lat": 39.1542463,
+  "lng": -6.338543,
+  "metodo_geo": "poblacion",
+  "fuente_geo": "Carmonita, Badajoz (centro urbano, Nominatim/OSM CC BY 4.0); accidente a pk 24,250-24,420 de la línea 510 Aljucén-Cáceres"
  },
  "entidades": [
   "Renfe Operadora",

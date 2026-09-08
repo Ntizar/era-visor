@@ -270,6 +270,21 @@ def main():
         else:
             p_ref, d_ref_geo = mejor, dg
 
+        # Punto por POBLACIÓN (regla de David: "si aparece la población ponlo ahí").
+        # No cae sobre un raíl por diseño: es el centro urbano declarado, usado cuando
+        # la línea no tiene geometría en ADIF (p.ej. 510 Aljucén-Cáceres) o la estación
+        # no está mapeada. NO es un error de ubicación.
+        if (entrada.get("metodo") or "").startswith("poblacion"):
+            entrada["veredicto"] = "bien"
+            entrada["motivo"] = ("ubicación por población declarada en el informe "
+                                 "(no cae sobre vía por diseño; sin geometría de línea en ADIF)")
+            eq = coinciden_provincia(r.get("provincia"), r.get("provincia"))
+            entrada["provincia_ok"] = True
+            conteo["provincia_ok"] += 1
+            conteo["bien"] += 1
+            revision.append(entrada)
+            continue
+
         if d_ref_geo <= OK_VIA:
             entrada["veredicto"] = "bien"
             conteo["bien"] += 1
