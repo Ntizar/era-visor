@@ -1,165 +1,203 @@
 # ERA Visor — Visor europeo de accidentes ferroviarios
 
-![Estado](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-426-green) ![An%C3%A1lisis%20IA](https://img.shields.io/badge/An%C3%A1lisis%20IA-351-orange)
+![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-349-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-349%2F349-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-309-orange)
 
 Visor y base de datos de informes de investigación de accidentes ferroviarios. Convierte los
-PDF oficiales (ERA/eRAIL + organismos nacionales como el CIAF) en una base de datos plana,
-filtrable y auditada, sobre un mapa con la red ferroviaria real de ADIF.
+PDF oficiales (ERA/eRAIL + organismos nacionales como el CIAF) en una **base de datos plana,
+filtrable y auditada**, sobre un mapa con la red ferroviaria real de ADIF.
 
 **Ver el visor:** <https://ntizar.github.io/era-visor/>
 
 Hecho con ❤️ por David Antizar
 
-## Qué hace
+---
+
+## Qué hace (resumen)
 
 1. **Descarga** los informes oficiales por país (scrape de ERA + PDFs originales).
-2. **Extrae** el texto (PyMuPDF, OCR solo cuando hace falta) a `.md` legible.
-3. **Estructura** cada `.md` a un JSON normalizado con LLM (`qwen3.8-flash`).
-4. **Enriquece** con taxonomía v2: subsistema, sistema de protección (ASFA/ERTMS/LZB),
-   tipo de red, explotación, precursores, mitigaciones, factores humanos, meteorología.
-5. **Extrae el análisis v3 completo**: hechos narrativos limpios (sin índices del PDF),
-   cronología minuto a minuto, infraestructura, personal implicado, material rodante,
-   causas (directa/contribuyentes/sistémicas), consecuencias, lecciones y recomendaciones.
-   Anti-invención: si el dato no está en el informe, es `null`.
-6. **Geolocaliza** cada informe sobre la vía: PK + línea → interpolación en la red ADIF
-   (WFS Tramificación); si no hay PK, por estación (IGN, 3.000 estaciones); nunca inventa
-   coordenadas.
-7. **Audita** todo automáticamente: distancia real a la vía, provincia vs red ADIF, y un
-   revisor IA que revalida cada JSON contra su informe original.
-8. **Visualiza**: mapa con vías ADIF, dashboard con 12+ gráficos, tabla filtrable,
-   ficha de detalle completa, export a Excel.
+2. **Extrae** el texto (PyMuPDF; OCR solo cuando hace falta) a `.md` legible.
+3. **Estructura** cada `.md` a un JSON normalizado con LLM (`qwen3.8-flash`, NaN API).
+4. **Enriquece** con taxonomía v2 (subsistema, sistema de protección ASFA/ERTMS/LZB, tipo
+   de red, explotación, precursores, mitigaciones, factores humanos, meteorología).
+5. **Extrae el análisis v3 completo**: hechos narrativos limpios (sin el índice del PDF),
+   cronología minuto a minuto, infraestructura, personal, material rodante, causas
+   (directa/contribuyentes/sistémicas), consecuencias, lecciones y recomendaciones.
+   **Anti-invención estricta**: si el dato no está en el informe, es `null`.
+6. **Geolocaliza** cada informe sobre la vía (métodos en capas, ver abajo).
+7. **Audita** todo: distancia real a la vía, cruce PK↔línea, provincia vs red ADIF, y un revisor
+   IA que revalida cada JSON contra su informe original.
+8. **Visualiza**: mapa con vías ADIF, dashboard con 12+ gráficos, tabla filtrable, ficha de
+   detalle completa, export a Excel.
 
 ## Estado actual (España)
 
 | Métrica | Valor |
 |---|---|
-| Informes en la DB | 426 (2006-2025, CIAF + ERA) |
-| Con análisis v3 completo (cronología, infraestructura, lecciones…) | 351 |
-| Con taxonomía v2 | 352 |
-| Localización auditada | 361 bien · 29 dudosos · 1 mal · 35 sin coords |
-| Sobre la vía ADIF (interpolación PK) | 345 + 129 PK teórico |
-| Por estación IGN | 47 |
+| Informes en la DB | **349** (2006-2025, CIAF + ERA) |
+| Con análisis v3 completo | **349/349** |
+| Localización auditada | **309 bien · 4 duda · 1 mal · 35 sin coords** |
+| Veredicto geo por método | `via_pk` 213 · `via_pkteorico` 78 · `estacion_*`/`poblacion` + · `sin_geo` 41 |
+| `VERSION_DATOS` | `2026-09-08-2` (bump en cada despliegue de datos) |
 
-Residuos conocidos: 35 informes sin PK ni estación en el PDF (no se inventa localización),
-1 informe pendiente de OCR, 1 con error de API persistente.
+**Residuos conocidos:** 35 sin coords (informes sin PK ni estación en el PDF — no se inventa),
+1 pendiente de OCR (`ID_230507_140907`), 1 "mal" que es un patio de clasificación
+(`0061/2014`, Tarragona Clasificación — distancia inherente del recinto).
 
 ## Estructura del proyecto
 
 ```
 era-visor/
-├── frontend/
-│   └── index.html        ← el visor completo (mapa + dashboard + tabla)
-├── scripts/              ← pipeline, en orden de ejecución
-│   ├── scrape_pais.py           1. descubre los informes de un país en ERA
-│   ├── descargar_pdfs.py        2. baja los PDFs (backoff 429, cortesía 8s)
-│   ├── extraer_pais.py          3. PDF → .md (PyMuPDF; OCR solo si hace falta)
-│   ├── estructurar_pais.py      4. .md → .json (LLM, schema v1)
-│   ├── enriquecer_ia.py         5. .json → campos v2 (taxonomía)
-│   ├── extraer_completo.py      6. análisis v3: hechos, cronología, infraestructura…
-│   ├── geocodificar_via.py      7. PK+línea → coordenadas SOBRE la vía ADIF
-│   ├── geocodificar_estacion.py 7b. sin PK → estación IGN (matcher estricto)
-│   ├── revisar_localizacion.py  8. auditoría: distancia a vía + cruce PK↔línea, provincia vs ADIF
-│   ├── revisar_json.py          9. revisor IA: revalida cada JSON contra su .md
-│   ├── importar_ciaf.py         (helper) importa los 269 informes CIAF verificados
-│   ├── extraer_erail.py         (helper) Excel eRAIL → JSON por país
-│   ├── cruce_erail.py           (helper) cruza eRAIL ↔ PDFs descargados
-│   ├── consolidar.py            10. json/* → data/db/ (dedupe: CIAF > LLM, fusiona v2/v3,
-│   │                                propaga geo_veredicto/geo_motivo del auditor a la DB)
-│   └── verificar_todo.py        11. comprobación integral PDF↔md↔json↔DB + lista de mal
-│                                    geolocalizados → data/revision/XX-verificacion.md
-│                                    (--limpiar archiva duplicados md5, exit≠0 si hay ERROR)
+├── frontend/index.html   ← el visor completo (mapa + dashboard + tabla), IGN WMTS
+├── index.html            ← redirect a frontend/index.html (raíz de Pages)
+├── scripts/
+│   ├── scrape_pais.py             1. descubre informes en ERA
+│   ├── descargar_pdfs.py          2. baja PDFs (cortesía 8s, backoff 429)
+│   ├── extraer_pais.py            3. PDF → .md (PyMuPDF, OCR solo si hace falta)
+│   ├── estructurar_pais.py        4. .md → .json (schema v1, LLM)
+│   ├── enriquecer_ia.py           5. .json → campos v2 (taxonomía, LLM)
+│   ├── extraer_completo.py        6. análisis v3 (hechos/cronología/causas/lecciones)
+│   ├── geocodificar_via.py        7a. PK+línea → punto SOBRE la vía ADIF (interpolación)
+│   ├── geocodificar_estacion.py   7b. sin PK → estación IGN (matcher estricto)
+│   ├── corregir_ubicaciones.py    8. correcciones verificadas a mano de los "mal ubicados"
+│   ├── revisar_localizacion.py    9. AUDITOR: distancia a vía, cruce PK↔línea, provincia
+│   ├── revisar_json.py            10. revisor IA: revalida cada JSON contra su .md
+│   ├── consolidar.py              11. json/* → data/db/ (dedupe + propaga geo_veredicto)
+│   ├── verificar_todo.py          12. comprobación integral PDF↔md↔json↔DB (gate)
+│   ├── extraer_erail.py           (helper) Excel eRAIL → JSON por país
+│   ├── cruce_erail.py             (helper) cruza eRAIL ↔ PDFs descargados
+│   └── importar_ciaf.py           (helper) importa los informes CIAF verificados
 ├── data/
-│   ├── pdf-manifest/     ← qué PDFs hay por país (ES.json)
-│   ├── erail/            ← Excel eRAIL convertido
-│   ├── cruce/            ← cruce eRAIL ↔ PDF
-│   ├── adif-*.geojson    ← red ADIF: tramos y PK teóricos (WFS IDEADIF)
-│   ├── revision/         ← informes de auditoría (veredictos de localización)
-│   └── db/               ← SALIDA FINAL: index.json + reports/ES.json + recs/
-├── json/ES/              ← un JSON por informe (+ json/ES/v3/ con el análisis completo)
-├── md/ES/                ← un .md por informe (texto extraído del PDF)
-└── docs/                 ← estructura del informe, taxonomías
+│   ├── pdf-manifest/  ← qué PDFs hay por país (ES.json)
+│   ├── erail/         ← Excel eRAIL convertido a JSON
+│   ├── cruce/         ← cruce eRAIL ↔ PDF
+│   ├── adif-tramos.geojson + adif-pkteoricos.geojson  ← red ADIF (WFS IDEADIF)
+│   ├── ign-estaciones{1,2}.json  ← estaciones IGN (~2.000, FeatureServer)
+│   ├── revision/      ← auditoría: ES-localizacion.json, ES-verificacion.md
+│   └── db/            ← SALIDA FINAL: index.json + reports/ES.json + recs/
+├── json/ES/           ← un JSON por informe (+ /v3/ con el análisis completo)
+├── md/ES/             ← un .md por informe (texto extraído del PDF)
+├── pdfs/              ← PDFs originales (fuera de git, ver .gitignore)
+└── docs/              ← estructura del informe, taxonomías, análisis inicial
 ```
 
-## Cómo usarlo
+### Nota sobre `_duplicados_descartados/`
+En `json/ES/_duplicados_descartados/`, `json/ES/v3/_duplicados_descartados/` y
+`md/ES/_duplicados_descartados/` se archivan los JSON/MD **duplicados descartados por el
+dedupe** (CIAF viejos sin análisis, duplicados por contenido). **Nunca se borran** — quedan
+como evidencia de que no se perdió ningún dato. `verificar_todo.py --limpiar` archiva ahí los
+duplicados por md5.
 
-### Ver el visor
+## Geolocalización (la clave de la calidad)
 
-En línea: <https://ntizar.github.io/era-visor/> · En local:
+La ubicación es lo que más errores ha dado. Se resuelve por capas, de más a menos preciso; el
+`metodo_geo` de cada registro indica cuál se usó:
+
+| `metodo_geo` | Cuándo | Fiabilidad |
+|---|---|---|
+| `via_pk` | PK + línea con código → interpolar en el tramo ADIF de ESA línea | Máxima (punto SOBRE la vía) |
+| `via_pkteorico` | PK sin línea casable → PKTeórico más cercano de la línea+provincia | Alta |
+| `estacion_ign` | Sin PK → estación IGN (matcher estricto por palabra completa) | Media-alta |
+| `estacion_adif` | Estación de la red ADIF (OSM/OpenData) | Media |
+| `poblacion` | Línea sin geometría en ADIF / estación sin mapear → centro urbano declarado | Media (regla de David) |
+| `previa` | Sin match → conserva la coordenada previa (NPI) | Baja → señal de revisión |
+
+### Bugs de geolocalización corregidos (lecciones duras)
+
+- **`codtramo` estructura**: es `eje(2)+línea(3)+seq(4)` (9 dígitos). El código de línea vive en
+  `codtramo[2:5]`, **nunca** en `codtramo[:3]` (cruzaba líneas — Caleyo aterrizaba en Guadalajara).
+- **Línea sin código numérico** (`Valencia - San Vicente de Calders`): `parse_linea` devolvía
+  `None` → el geocodificador no casaba por línea y caía al fallback por provincia, cruzando a
+  OTRA línea (34/2007 → pk 244,350 en la línea 200 de Zaragoza). **Fix**: si la línea no trae
+  código, recuperarlo del texto del informe (`ubicacion_nombre`: "(600 Valencia-San Vicente...
+  railway line)") → interpolación en la línea correcta.
+- **`id_provinc=0` en PKTeóricos**: los PK de líneas correctas a menudo vienen con provincia
+  "desconocida" (0). El filtro `if idps and to_int(idp) not in idps: continue` los descartaba
+  TODOS → match vacío → se conservaba la coord previa stale. **Fix**: solo excluir provincias
+  CONOCIDAS distintas (`idp not in (None,0) and idp not in idps`).
+- **Matcher de estación por substring es peligroso**: "Parc" casó "Elx-Parc" con Sabadell Parc
+  del Nord (Barcelona). Matcher estricto por palabra completa o abstención.
+- **`poblacion` no es un error**: cuando la línea no tiene geometría en ADIF (línea 510
+  Aljucén-Cáceres) o la estación no está mapeada, el punto se pone en el centro urbano
+  declarado (regla de David). El auditor lo marca "bien" — es el método elegido, no un fallo.
+
+## Cómo procesar un país nuevo (ej. Alemania)
 
 ```shell
-cd era-visor
-python -m http.server 8765
-# abre http://localhost:8765/frontend/index.html
+python scripts/scrape_pais.py DE          # 1. descubre informes en ERA
+python scripts/descargar_pdfs.py DE       # 2. baja PDFs (lento: cortesía 8s)
+python scripts/extraer_pais.py DE         # 3. PDF → MD
+python scripts/estructurar_pais.py DE     # 4. MD → JSON (LLM)
+python scripts/enriquecer_ia.py DE        # 5. campos v2 (LLM)
+python scripts/extraer_completo.py DE     # 6. análisis v3 (LLM)
+python scripts/geocodificar_via.py DE     # 7a. coords sobre la vía (← red del país)
+python scripts/geocodificar_estacion.py DE# 7b. o por estación (← dataset del país)
+python scripts/corregir_ubicaciones.py DE # 8. correcciones verificadas a mano
+python scripts/revisar_localizacion.py DE # 9. auditoría (veredictos)
+python scripts/revisar_json.py DE         # 10. revisor IA
+python scripts/consolidar.py DE           # 11. → data/db/ (dedupe + geo_veredicto)
+python scripts/revisar_localizacion.py DE # 12. RE-auditar la DB (el auditor lee coords de la DB)
+python scripts/verificar_todo.py DE       # 13. comprobación integral (gate; --limpiar duplicados)
 ```
 
-### Procesar un país nuevo (ej. Alemania)
+**Orden crítico (ida y vuelta):** geocodificar → consolidar → **auditar** → consolidar →
+verificar_todo. El auditor lee las coords de la DB; tras consolidar hay que re-auditar y
+re-consolidar hasta que las cifras cuadren. Todo es **reanudable** (relanza el mismo comando).
 
-```shell
-python scripts/scrape_pais.py DE          # descubre informes
-python scripts/descargar_pdfs.py DE       # baja PDFs (lento: cortesía 8s)
-python scripts/extraer_pais.py DE         # PDF → MD
-python scripts/estructurar_pais.py DE     # MD → JSON (LLM)
-python scripts/enriquecer_ia.py DE        # campos v2 (LLM)
-python scripts/extraer_completo.py DE     # análisis v3 (LLM)
-python scripts/geocodificar_via.py DE     # coords sobre la vía
-python scripts/geocodificar_estacion.py DE # o por estación
-python scripts/revisar_localizacion.py DE # auditoría de localización (veredictos)
-python scripts/revisar_json.py DE         # revisor IA
-python scripts/consolidar.py DE           # → data/db/ (propaga veredicto geo a la DB)
-python scripts/revisar_localizacion.py DE # AUDITAR LA DB YA GENERADA (orden importa:
-                                          # el auditor lee coords de la DB; tras cualquier
-                                          # cambio de json/ o consolidar, re-auditar)
-python scripts/verificar_todo.py DE       # comprobación integral + informe de mal ubicados
-                                          # (--limpiar archiva duplicados; exit≠0 si ERROR)
-```
-
-Todo es **reanudable**: si se corta, relanza el mismo comando y continúa donde estaba.
+### Nota para países que no son España
+- La red ferrovia para geolocalizar debe descargarse para cada país (ADIF geojson es solo ES).
+  ERA/eRAIL no da coordenadas; hay que interpolar sobre la red nacional.
+- Los informes llegan en el idioma del país. El pipeline extrae `titulo_normalizado` en
+  **castellano** + `idioma_original` (los títulos sin traducir se rechazan). Este es el
+  trabajo pendiente para las fases 2+.
 
 ## El schema del JSON
 
-Cada informe (`json/ES/<id>.json`, con el análisis completo en `json/ES/v3/<id>.json`):
+Cada informe (`json/<PAIS>/<id>.json`, análisis completo en `json/<PAIS>/v3/<id>.json`):
 
 | Campo | Qué es |
 |---|---|
-| `id`, `titulo`, `fecha`, `hora` | identificación del informe |
-| `expediente` | referencia oficial (`0062/2007`) |
+| `id`, `titulo`, `fecha`, `hora` | identificación (+ `titulo_normalizado`, `idioma_original`) |
+| `expediente` | referencia oficial (`0034/2007`) |
 | `provincia`, `estacion`, `pk`, `linea` | localización textual |
-| `lat`, `lng`, `metodo_geo` | coordenadas (`via_pk`, `via_pkteorico`, `estacion_ign`, `previa`) |
-| `fallecidos`, `heridos_graves`, `danos_materiales`, `gravedad` | consecuencias |
+| `lat`, `lng`, `metodo_geo` | coordenadas + método (`via_pk`, `poblacion`, `estacion_ign`…) |
+| `fallecidos`, `heridos_graves`, `heridos_leves`, `danos_materiales`, `gravedad` | consecuencias (v3 MANDÁ sobre el base) |
 | `subsistema`, `sistema_proteccion`, `tipo_red`, `explotacion` | taxonomía v2 |
 | `precursores`, `mitigaciones`, `factores_humanos`, `meteorologia` | causas y contexto v2 |
-| `v3.hechos` | narrativa limpia del suceso (2-4 párrafos, sin índice del PDF) |
+| `v3.hechos` | narrativa limpia (2-4 párrafos, sin el índice del PDF) |
 | `v3.cronologia` | eventos minuto a minuto |
 | `v3.infraestructura` | señalización, tipo de vía, velocidad máx, ancho, electrificación |
 | `v3.personal`, `v3.trenes`, `v3.material_rodante` | implicados |
 | `v3.causas` | directa, contribuyentes, sistémicas |
 | `v3.lecciones`, `v3.recomendaciones` | con destinatario |
-| `url_pdf` | enlace al PDF original (los PDFs nunca van en la DB) |
-
-## Lecciones aprendidas (pipeline)
-
-- **No cruzar por expediente sin año** (`50` ≠ `0050/2009`): corrupción masiva de datos.
-- **Matcher estricto o abstención**: mejor sin coordenada que mal puesta (la contención
-  difusa por nombre puso informes de media España en Salamanca).
-- **PKs con notación variada**: `429,825` (decimal), `368+925` (km+m), `124/573` (CIAF,
-  barra decimal) — el parser debe cubrir los tres.
-- **El LLM no inventa**: anti-invención estricta; `null` si el dato no está en el informe.
-- **El revisor IA paga**: 2.413 correcciones en 370 JSON en una pasada; re-ejecutable
-  siempre.
+| `url_pdf`, `archivo_pdf` | enlace al PDF original (los PDFs nunca van en la DB) |
+| `geo_veredicto`, `geo_dist_m`, `geo_motivo` | del auditor (propagado a la DB por `consolidar.py`) |
 
 ## Despliegue
 
 GitHub Pages vía workflow moderno (`.github/workflows/pages.yml`, `actions/deploy-pages@v4`),
-deploy directo desde `main`. La DB es JSON estático servido tal cual.
+deploy directo desde `main`. La DB es JSON estático servido tal cual por Pages.
+
+**Cache-busting obligatorio:** `VERSION_DATOS` (const en `frontend/index.html`) se bumpa en cada
+despliegue de datos y se añade `?v=` a cada fetch de la DB. Sin esto el navegador cachea el JSON
+de MBs y "sigue saliendo mal" aunque el servidor ya esté bien.
 
 ## Hoja de ruta
 
-- **Fase 1 (actual): España al 100%** — pulir los 29 dudosos y los 35 sin coords,
-  OCR del informe pendiente.
-- Fase 2: Alemania (452 PDFs detectados), Francia, Italia, Polonia.
-- Capas extra: meteorología del día (Open-Meteo histórico), LTV.
-- Traducción de campos cortos EN→ES (batch).
-- API JSON pública (Pages ya sirve `data/db/`).
+- **Fase 1 (actual): España al 100%.** Queda: OCR del informe pendiente, decisión sobre los
+  4 dudosos, y validar los 35 sin coords contra la fuente.
+- **Fase 2: Alemania** (452 PDFs detectados), Francia, Italia, Polonia.
+- **Traducción** de los informes al castellano en el pipeline (`titulo_normalizado` +
+  `idioma_original`), no solo campos cortos.
+- **Capas extra:** meteorología del día del accidente (Open-Meteo histórico), LTV.
+- **API JSON pública** (Pages ya sirve `data/db/`).
+
+## Referencias
+
+- `docs/analisis-inicial.md` — análisis de exploración de la fuente (eRAIL, web ERA, conteos por
+  país) — úsalo como punto de partida para otros países.
+- `docs/taxonomias-kaizen.md` — estructura mínima del informe según RD 929/2020, RD 623/2014 y
+  Reglamento (UE) 2020/572.
+- `docs/estructura-informe-kaizen.docx` — estructura del informe (KAIZEN).
 
 ## Licencia
 
