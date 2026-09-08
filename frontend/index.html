@@ -167,6 +167,7 @@
         }
         .chart-card canvas { width: 100% !important; max-height: 290px; }
         .chart-note { font-size: 0.71rem; color: var(--texto-suave); margin-top: 0.4rem; }
+        .chart-section-title { font-size: 0.78rem; font-weight: 700; color: var(--texto-suave); text-transform: uppercase; letter-spacing: 0.6px; margin: 1.2rem 0 0.6rem; padding-bottom: 0.35rem; border-bottom: 1px solid var(--borde); }
 
         /* ===== TABLE ===== */
         .reports-table-wrapper { padding: 1.1rem; }
@@ -389,23 +390,31 @@
                 <div class="kpi-row" id="kpiRow">
                     <div class="kpi-card">
                         <div class="value" id="kpiTotal">-</div>
-                        <div class="label">Total Informes</div>
+                        <div class="label">Informes</div>
                     </div>
                     <div class="kpi-card rojo">
                         <div class="value" id="kpiFallecidos">-</div>
                         <div class="label">Fallecidos</div>
                     </div>
-                    <div class="kpi-card naranja">
+                    <div class="kpi-card ambar">
                         <div class="value" id="kpiHeridos">-</div>
                         <div class="label">Heridos graves</div>
                     </div>
-                    <div class="kpi-card medio">
+                    <div class="kpi-card verde">
+                        <div class="value" id="kpiHeridosLeves">-</div>
+                        <div class="label">Heridos leves</div>
+                    </div>
+                    <div class="kpi-card azul">
+                        <div class="value" id="kpiVic">-</div>
+                        <div class="label">Con víctimas</div>
+                    </div>
+                    <div class="kpi-card azul">
+                        <div class="value" id="kpiLocaliz">-</div>
+                        <div class="label">Localizados</div>
+                    </div>
+                    <div class="kpi-card ambar">
                         <div class="value" id="kpiRecomendaciones">-</div>
                         <div class="label">Recomendaciones</div>
-                    </div>
-                    <div class="kpi-card claro">
-                        <div class="value" id="kpiPaises">-</div>
-                        <div class="label">Países</div>
                     </div>
                 </div>
                 <div class="chart-row">
@@ -469,6 +478,47 @@
                         <canvas id="chFase"></canvas>
                     </div>
                 </div>
+                <div class="chart-section-title">Datos profundos (análisis v3)</div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Víctimas por categoría (consecuencias)</h3>
+                        <canvas id="chConsecCat"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Hora del día</h3>
+                        <canvas id="chHora"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Causas directas más frecuentes</h3>
+                        <canvas id="chCausas"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Factores humanos / precursores</h3>
+                        <canvas id="chFactores"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Velocidad máxima del tramo</h3>
+                        <canvas id="chVelocidad"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Entidades implicadas</h3>
+                        <canvas id="chEntidades"></canvas>
+                    </div>
+                </div>
+                <div class="chart-row">
+                    <div class="chart-card">
+                        <h3>Top provincias</h3>
+                        <canvas id="chProvincias"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Distribución por mes</h3>
+                        <canvas id="chMes"></canvas>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -517,7 +567,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-08-3";
+const VERSION_DATOS = "2026-09-08-4";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -695,11 +745,16 @@ function pinta() {
 function pintaDashboard() {
     const fall = VISTA.reduce((a, r) => a + (r.fallecidos || 0), 0);
     const her = VISTA.reduce((a, r) => a + (r.heridos_graves || 0), 0);
+    const herL = VISTA.reduce((a, r) => a + (r.heridos_leves || 0), 0);
+    const conVic = VISTA.filter(r => (r.fallecidos || 0) > 0 || (r.heridos_graves || 0) > 0).length;
+    const nLocal = VISTA.filter(r => r.lat && r.lng).length;
     document.getElementById('kpiTotal').textContent = VISTA.length;
     document.getElementById('kpiFallecidos').textContent = fall;
     document.getElementById('kpiHeridos').textContent = her;
-    document.getElementById('kpiPaises').textContent = new Set(VISTA.map(r => r.pais)).size;
-    document.getElementById('kpiRecomendaciones').textContent = '—';
+    document.getElementById('kpiHeridosLeves').textContent = herL;
+    document.getElementById('kpiVic').textContent = conVic;
+    document.getElementById('kpiLocaliz').textContent = nLocal + '/' + VISTA.length;
+    document.getElementById('kpiRecomendaciones').textContent = VISTA.reduce((a, r) => a + ((r.v3 && r.v3.recomendaciones && r.v3.recomendaciones.length) || 0), 0);
 
     // sucesos por año + regresión lineal
     const porAnio = {};
@@ -757,6 +812,7 @@ function pintaDashboard() {
     });
 
     pintaChartsV2();
+    pintaChartsRicos();
 }
 
 /* ===== CHARTS SCHEMA V2 (KAIZEN) ===== */
@@ -826,6 +882,122 @@ function pintaChartsV2() {
     const fase = contar('fase_ciclo_vida');
     if (chartFase) chartFase.destroy();
     chartFase = barrasV2('chFase', fase, '#60a5fa');
+}
+
+/* ===== CHARTS DATOS RICOS (análisis v3) ===== */
+let chartConsecCat, chartHora, chartCausas, chartFactores, chartVelocidad, chartEntidades, chartProvincias, chartMes;
+
+function franjaHora(h) {
+    if (!h) return null;
+    const m = +String(h).split(':')[0];
+    if (m >= 5 && m < 12) return 'Mañana (5-11h)';
+    if (m >= 12 && m < 18) return 'Tarde (12-17h)';
+    if (m >= 18 && m < 24) return 'Noche (18-23h)';
+    return 'Madrugada (0-4h)';
+}
+const MESES = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic'];
+const CAUSA_BUCKETS = [
+    ['Señalización / enclavam.', /señal|señaliz|enclav|aguja|baliz|sem[áa]foro/i],
+    ['Fallo material rodante', /fallo|rueda|bogie|freno|locomotora|vag[oó]n|motor|componente|defecto/i],
+    ['Vía / infraestructura', /v[ií]a|carril|desv[ií]o|rotura|deform|asentamiento|sustituci[oó]n/i],
+    ['Exceso de velocidad', /velocidad/i],
+    ['Factor humano / atención', /distracci|somnol|fatiga|atenc[ií]on|descuido|imprudencia|conductor|maquinista/i],
+    ['Paso a nivel / invasión', /paso a nivel|cruce|invas[ií]|peat[oó]n|viandante|atropello|v[ií]ctima/i],
+    ['Mantenimiento / obras', /mantenimiento|obra|operario|personal de/i],
+    ['Rebase de señal', /rebasa|sobrepasa|rebase|se[ñn]al de parada|pasarse/i],
+];
+function contaCausas() {
+    const c = {};
+    const add = t => { for (const [b, re] of CAUSA_BUCKETS) { if (re.test(t)) { c[b] = (c[b] || 0) + 1; return; } } c['Otras'] = (c['Otras'] || 0) + 1; };
+    for (const r of VISTA) {
+        const cu = (r.v3 || {}).causas || {};
+        if (cu.directa) add(cu.directa);
+        for (const x of (cu.contribuyentes || [])) add(x);
+        for (const x of (cu.sistemicas || [])) add(x);
+        if (r.causa_directa) add(r.causa_directa);
+    }
+    return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 10);
+}
+const FACTOR_BUCKETS = [
+    ['Distracción / no percibe', /distracci|no percibi|no se percata|no percat|atenc[ií]on/i],
+    ['Somnolencia / fatiga', /somnol|fatiga|sue[ñn]o|cansancio|descanso/i],
+    ['Exceso de velocidad', /velocidad/i],
+    ['Alcohol / sustancias', /alcohol|sustancia|droga/i],
+    ['Mantenimiento deficiente', /mantenimiento|revisi[oó]n|inspecci[oó]n|conservaci[oó]n/i],
+    ['No sigue procedimiento', /procedimient|protocolo|norma|regla|permiso/i],
+    ['Formación / experiencia', /formaci[oó]n|experiencia|inexperiencia|conocimiento/i],
+];
+function contaFactores() {
+    const c = {};
+    const add = t => { for (const [b, re] of FACTOR_BUCKETS) { if (re.test(t)) { c[b] = (c[b] || 0) + 1; return; } } };
+    for (const r of VISTA) {
+        for (const x of (r.factores_humanos || [])) add(x);
+        for (const x of (r.precursores || [])) add(x);
+    }
+    return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 8);
+}
+function contaVelocidad() {
+    const bins = { '<60 km/h': 0, '60-100': 0, '100-140': 0, '140-200': 0, '200+ km/h': 0 };
+    for (const r of VISTA) {
+        const vm = ((r.v3 || {}).infraestructura && (r.v3.infraestructura.velocidad_maxima || '')) || '';
+        // primer número 1-3 dígitos (el campo del LLM a veces trae basura concadenada)
+        const m = /(\d{1,3})\s*(?:km\/h|km|km\/hora)?/i.exec(vm);
+        const n = m ? +m[1] : NaN;
+        if (!n || n > 300 || n < 5) continue;
+        if (n < 60) bins['<60 km/h']++; else if (n < 100) bins['60-100']++; else if (n < 140) bins['100-140']++; else if (n < 200) bins['140-200']++; else bins['200+ km/h']++;
+    }
+    return Object.entries(bins).filter(([, v]) => v > 0);
+}
+function contaHora() {
+    const c = {};
+    for (const r of VISTA) { const f = franjaHora(r.hora); if (f) c[f] = (c[f] || 0) + 1; }
+    return Object.entries(c).sort((a, b) => a[0].localeCompare(b[0]));
+}
+function contaMes() {
+    const c = {};
+    for (const r of VISTA) { const m = +(r.fecha || '').slice(5, 7); if (m) c[MESES[m - 1]] = (c[MESES[m - 1]] || 0) + 1; }
+    return MESES.map(k => [k, c[k] || 0]);
+}
+function contaEntidades() {
+    const c = {};
+    // normalizar case (las fuentes alternan 'Adif'/'ADIF'/'Renfe'/'RENFE') sin duplicar
+    const label = t => { const s = String(t).trim(); return s.length <= 2 ? s.toLowerCase() : s.charAt(0) + s.slice(1).toLowerCase(); };
+    for (const r of VISTA) for (const x of (r.entidades || [])) { const k = label(x); c[k] = c[k] || { n: 0 }; c[k].n++; }
+    return Object.entries(c).map(([k, v]) => [k, v.n]).sort((a, b) => b[1] - a[1]).slice(0, 8);
+}
+function contaProvincias() {
+    const c = {};
+    for (const r of VISTA) { const p = r.provincia; if (p) c[p] = (c[p] || 0) + 1; }
+    return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 10);
+}
+function pintaConsecCat() {
+    const cats = {};
+    for (const r of VISTA) {
+        const t = CATEGORIAS[categoriaDe(r.tipo)];
+        cats[t] = cats[t] || { f: 0, h: 0 };
+        cats[t].f += (r.fallecidos || 0);
+        cats[t].h += (r.heridos_graves || 0);
+    }
+    const labels = Object.keys(cats);
+    if (!labels.length) { document.getElementById('chConsecCat').closest('.chart-card').style.opacity = 0.45; return; }
+    if (chartConsecCat) chartConsecCat.destroy();
+    chartConsecCat = new Chart(document.getElementById('chConsecCat'), {
+        type: 'bar',
+        data: { labels, datasets: [
+            { label: 'Fallecidos', data: labels.map(k => cats[k].f), backgroundColor: '#dc2626' },
+            { label: 'Heridos graves', data: labels.map(k => cats[k].h), backgroundColor: '#d97706' }] },
+        options: { scales: { x: { stacked: true }, y: { stacked: true, beginAtZero: true, ticks: { precision: 0 } } }, plugins: { legend: { display: true } } }
+    });
+}
+function pintaChartsRicos() {
+    pintaConsecCat();
+    if (chartHora) chartHora.destroy(); chartHora = barrasV2('chHora', contaHora(), '#3b82f6', null, false);
+    if (chartCausas) chartCausas.destroy(); chartCausas = barrasV2('chCausas', contaCausas(), '#dc2626');
+    if (chartFactores) chartFactores.destroy(); chartFactores = barrasV2('chFactores', contaFactores(), '#d97706');
+    if (chartVelocidad) chartVelocidad.destroy(); chartVelocidad = barrasV2('chVelocidad', contaVelocidad(), '#2563eb', null, false);
+    if (chartEntidades) chartEntidades.destroy(); chartEntidades = barrasV2('chEntidades', contaEntidades(), '#60a5fa');
+    if (chartProvincias) chartProvincias.destroy(); chartProvincias = barrasV2('chProvincias', contaProvincias(), '#1e40af');
+    if (chartMes) chartMes.destroy(); chartMes = barrasV2('chMes', contaMes(), '#3b82f6', null, false);
 }
 
 /* ===== TABLA ===== */
