@@ -1,5 +1,9 @@
 pdfs/
 *.xlsx
+# ...salvo la base de datos global, que ES el entregable: va al repo
+# para que el Excel sea trazable a su crudo y esté publicado en Pages.
+# Los exports sueltos siguen excluidos por *.xlsx.
+!database/data/ciaf_base_global.xlsx
 __pycache__/
 *.pyc
 .DS_Store
