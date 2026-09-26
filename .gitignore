@@ -6,3 +6,6 @@ __pycache__/
 *.tmp
 *.bak
 *.log
+
+# cache del scraping (reproducible con --refrescar)
+database/data/cache_web/
