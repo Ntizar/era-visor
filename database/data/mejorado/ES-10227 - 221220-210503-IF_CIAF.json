@@ -1,0 +1,194 @@
+{
+ "stem": "ES-10227 - 221220-210503-IF_CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF 38/2021",
+   "cita": "INFORME FINAL (IF) 38/2021",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "130-034",
+   "cita": "El tren circulaba en composición simple compuesta por la rama 130-034 de tipo 250B, que bajo la denominación comercial ALVIA 4271",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Remodelación de la zona para hacer pasante la estación de León y implantar un tercer hilo desde León hasta el túnel de Pajares, mediante 4 proyectos distintos: a) Obras de Integración del ferrocarril en León y Enlaces; b) Renovación de vía y supresión de pasos a nivel en la Línea León-Gijón; c) Instalación de Señalización y Telecomunicaciones del tramo comprendido por las obras de Integración del Ferrocarril en León y Enlaces; d) Señalización del tramo León-La Robla.",
+   "cita": "Obras o trabajos en el lugar o cercanías \nEn el momento del suceso se estaba llevando a cabo en la zona una remodelación con objeto de hacer pasante la estación de León, y además implantar un tercer hilo desde León hasta el túnel de Pajares",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

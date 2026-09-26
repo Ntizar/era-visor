@@ -1,0 +1,131 @@
+{
+ "stem": "ID-050208-240608-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "ID-050208-240608-CIAF",
+   "cita": "Informe definitivo \n \nID-050208-240608-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe definitivo",
+   "cita": "Informe definitivo \n \nID-050208-240608-CIAF \n \nPág. 1 de 9",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": "Suicidio (catalogación inicial)",
+   "cita": "que el arrollamiento de una persona en la línea 300- Madrid-Valencia, el 5 \nde febrero de 2008, había sido catalogado como un suicidio.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.3": {
+   "valor": "Nº UIC de la locomotora: 95710334008-0",
+   "cita": "Tren 224 AVE larga-Distancia, con 9 vehículos y 135 Tm de masa total remolcada. \nNº UIC de la locomotora: 95710334008-0",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

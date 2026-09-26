@@ -1,0 +1,194 @@
+{
+ "stem": "ES-6274 - 211125-200602-IF_CIAF (+ENG)",
+ "campos": {
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "1. Deficiencies in the maintenance and inspection of the vehicle restraint system of the overpass. 2. The structure of the vehicle and its position on the tracks after falling from the overpass facilitated the train derailment. 3. The switch 2/4 had an impact on the consequences of the derailment of the power head vehicle, acting as a guide rail. 4. The collision of the power head vehicle against a stack of railway sleepers increased the damage suffered by the train drivers. Systemic contributing factors: 5. Lack of awareness of the potential dangers of inappropriate maintenance of vehicle restraint systems. 6. Procedures to regulate on-site inspection of overpasses by ADIF are required. 7. Overpasses on conventional lines are not equipped with falling objects systems.",
+   "cita": "Contributing factors: 1. Deficiencies in the maintenance and inspection of the vehicle restraint system of the overpass.",
+   "pagina": 53,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "La caída del vehículo sucedió sobre las 14:50 del día 02/06/2020, momento en que el sol estaba alto y las condiciones meteorológicas eran propias de un día despejado. La colisión del tren 11553 con el vehículo accidentado sucedió a las 16:10 del mismo día, momento en que el sol estaba alto y las condiciones meteorológicas eran propias de un día despejado. No se han encontrado indicios de que la posición del sol y las condiciones meteorológicas restasen visibilidad al maquinista.",
+   "cita": "No se han encontrado indicios de que la posición del sol y las condiciones meteorológicas restasen visibilidad al maquinista.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Este tramo no dispone de radiotelefonía Tren-Tierra.",
+   "cita": "Este tramo no dispone de radiotelefonía Tren-Tierra.",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "stem": "ES 11 07 2014 150525-140711-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "150525-140711-IF-CIAF.doc",
+   "cita": "150525-140711-IF-CIAF.doc",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe final",
+   "cita": "Investigación del accidente \nnº 0036/2014 ocurrido el 11.07.2014 \nInforme final",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Serie 450 (Nº UIC: 967194500187)",
+   "cita": "Tren de cercanías 27141, compuesto por automotor eléctrico de la serie 450 (6 coches M-R-R-R-R-M)",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

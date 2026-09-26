@@ -1,0 +1,18 @@
+{
+ "pais": "ES",
+ "informes_crudo": 351,
+ "sincronizados": 351,
+ "match_db": 349,
+ "match_v3": 349,
+ "sin_db": [
+  "",
+  "0013/2007"
+ ],
+ "sin_v3": [
+  "",
+  "0013/2007"
+ ],
+ "con_veredicto_geo": 349,
+ "coords_exactas": 314,
+ "victimas_discrepancia": []
+}

@@ -1,0 +1,194 @@
+{
+ "stem": "ES 25.01.2016 170331-160125-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Perfiladora UIC 99713010305-1; Bateadora UIC 99713034502-5; Locomotora del tren 10171 UIC 95710334014-8",
+   "cita": "en primer lugar la perfiladora UIC 99713010305-1 y en segundo la bateadora UIC 99713034502-5. Total: 137 toneladas, 8 ejes, 44 metros.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "No existían obras en el lugar del suceso ni en las inmediaciones",
+   "cita": "No existían obras en el lugar del suceso ni en las inmediaciones.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso era de noche y el túnel estaba iluminado.",
+   "cita": "En el momento del suceso era de noche y el túnel estaba iluminado.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

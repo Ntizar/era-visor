@@ -1,0 +1,194 @@
+{
+ "stem": "ES-6201 - 210520-200124-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF 04/2020",
+   "cita": "INFORME FINAL DE LA CIAF (IF) 04/2020",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Factores contribuyentes: 1. Ausencia de una comunicación reglada entre el Oficial 1ª y el PSH que asegurase la correcta entrega del desvío nº4 a posición desviada. 2. Escasa experiencia en materia de desvíos entre los miembros de la brigada de desvíos. 3. Descoordinación de la brigada de desvíos con la brigada de señalización. 4. Limitaciones a la hora de disponer de personal con la experiencia exigida en los pliegos y/o requerida para los trabajos en el momento del accidente. Factores contribuyentes sistémicos: 1. En los procedimientos de ADIF de gestión de averías no se detalla la coordinación de diferentes equipos cuando ésta se requiere, ni la definición del agente habilitado y el responsable técnico de los trabajos. 2. Falta de coordinación entre los distintos contratos de mantenimiento que afectan a diferentes subsistemas en materia de mantenimiento correctivo. 3. Ausencia de prescripciones en los documentos del contrato que obliguen a los contratistas a aplicar los Requisitos de Seguridad y de los mecanismos de supervisión de los mismos.",
+   "cita": "Factores contribuyentes \n1. Ausencia de una comunicación reglada entre el Oficial 1ª y el PSH que asegurase la correcta \nentrega del desvío nº4 a posición desviada. Recomendación 04/2020-2.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "121.001",
+   "cita": "El número del vehículo implicado en el accidente es: 121.001. y es de tipo 250A",
+   "pagina": 16,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Infraestructura, vía y aparatos de vía (desvío nº4)",
+   "cita": "el subsistema conformado por la infraestructura (plataforma), vía y aparatos de vía de la \nlínea de Alta Velocidad Madrid Norte",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": "No consta que existiesen obras o trabajos",
+   "cita": "No consta que existiesen obras o trabajos ni en el lugar del accidente (Bifurcación Cerrato) ni en sus proximidades",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

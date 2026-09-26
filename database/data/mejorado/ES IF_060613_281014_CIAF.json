@@ -1,0 +1,194 @@
+{
+ "stem": "ES IF_060613_281014_CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-060613-281014-CIAF",
+   "cita": "IF-060613-281014-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "96719120009",
+   "cita": "rama 96719120009 en cabeza (descarrilada) y rama 96719120005 en cola, compuesto por 8 vehículos",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso era de día y no existían condiciones meteorológicas adversas.",
+   "cita": "2.4. CIRCUNSTANCIAS EXTERNAS\nEn el momento del suceso era de día y no existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista: día 6: 3 horas y 15 minutos (2 horas y 43 minutos de conducción efectiva); día 5: descanso; día 4: 8 horas y 55 minutos (6 horas y 36 minutos de conducción efectiva).",
+   "cita": "Jornada laboral del maquinista del tren 533: - el día 6: 3 horas y 15 minutos (2 horas y 43 minutos de conducción efectiva), - el día 5: descanso, - el día 4: 8 horas y 55 minutos (6 horas y 36 minutos de conducción efectiva).",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Último reconocimiento médico y psicotécnico el 16.12.2009; prueba de alcoholemia con resultado negativo (0,00 mg/1000 ml).",
+   "cita": "Al maquinista, el día del accidente a las 11:55 horas, se le realiza prueba de alcoholemia en aire espirado con resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

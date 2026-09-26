@@ -1,0 +1,131 @@
+{
+ "stem": "ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA",
+ "campos": {
+  "0.2": {
+   "valor": "151022-140926-IF-CIAF",
+   "cita": "Investigación del incidente nº 0053/2014 ocurrido el 26.09.2014 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS 151022-140926-IF-CIAF",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Falta de claridad y consecuentemente mal entendimiento entre el responsable de circulación y el maquinista del material vacío",
+   "cita": "Como causa coadyuvante se apunta la  falta de claridad y consecuentemente mal entendimiento entre el responsable de circulación y el maquinista del  material vacío.",
+   "pagina": 23,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Ninguna",
+   "cita": "Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el mantenimiento del material rodante o de la infraestructura ferroviaria Ninguna.",
+   "pagina": 23,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "UT470120",
+   "cita": "A la hora mencionada el material vacío (maniobra UT470120) de la empresa ferroviaria Renfe Operadora se encuentra en la vía 14",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

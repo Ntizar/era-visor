@@ -1,0 +1,198 @@
+{
+ "stem": "ES 12.01.2015 160223-150112-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0005/2015",
+   "cita": "Investigación del incidente nº 0005/2015 ocurrido el 12.01.2015",
+   "pagina": 18,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "El incumplimiento normativo del maquinista al reiniciar la marcha sin haberse puesto en contacto con el puesto de mando para notificar el rebase de la señal 3646.",
+   "cita": "Como factor coadyuvante se puede considerar el incumplimiento normativo del maquinista al reiniciar la marcha sin haberse puesto en contacto con el puesto de mando para notificar el rebase de la señal 3646.",
+   "pagina": 28,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "1) El personal de conducción tenía 13 días de antigüedad en el servicio que prestaba. 2) La señal 3646 no dispone de baliza previa por carecer de la distancia suficiente para su emplazamiento, según se indica en el AVISO nº 34.",
+   "cita": "El personal de conducción tenía 13 días de antigüedad en el servicio que prestaba. La señal 3646 no dispone de baliza previa por carecer de la distancia suficiente para su emplazamiento, según se indica en el AVISO nº 34.",
+   "pagina": 28,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": [
+    "Adif (para 05/15-1)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF) (para 05/15-2)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF) (para 05/15-3)"
+   ],
+   "cita": "Agencia Estatal de Seguridad Ferroviaria (AESF) Agencia Estatal de Seguridad Ferroviaria (AESF) 05/15-3 Que se concrete a las empresas ferroviarias y a los administradores de infraestructura un plazo máximo en el que las disposiciones",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

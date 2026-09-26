@@ -2,11 +2,11 @@
  "stem": "200723-201118-IF-SN_CIAF",
  "campos": {
   "0.2": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "0046/2018",
+   "cita": "Investigación del accidente nº 0046/2018 ocurrido el 20.11.2018",
+   "pagina": 18,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "0.6": {
    "valor": null,
@@ -37,11 +37,11 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.2.3": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "UT 447082 (cabeza) y UT 447081 (cola)",
+   "cita": "Los tres coches descarrilados de la UT 447082, que circulaba en cabeza, así como el primer coche de la UT 447081 de cola, que también descarriló, sufrieron daños de gran consideración en sus bogies, estructuras y puertas.",
+   "pagina": 24,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "2.2.4": {
    "valor": null,

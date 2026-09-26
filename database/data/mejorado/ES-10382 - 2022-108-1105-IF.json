@@ -1,0 +1,131 @@
+{
+ "stem": "ES-10382 - 2022-108-1105-IF",
+ "campos": {
+  "0.2": {
+   "valor": "108/2022",
+   "cita": "INFORME FINAL (IF) 108/2022",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Los factores contribuyentes fueron: El corte de tensión en la catenaria que provocó la detención de los trenes 78350 y 78355 en sus recorridos de aproximación a la estación de Torelló. La detención del tren 78355 con su primer eje en la zona muerta del CV de audiofrecuencia de entrada a la estación de Torelló habiendo sobrepasado el puesto de conducción la posición de dicha señal. El desconocimiento y la inexistencia de pautas de la condición de uso de los CV de audiofrecuencia, debido a la existencia de una zona muerta en la que no se puede garantizar la ocupación del CV para la detección de los trenes. La disolución del itinerario establecido para el tren 78355 sin verificar su ubicación. La decisión de supresión del tren 78350 en la estación de Torelló donde quedaría temporalmente estacionado. La recuperación de la tensión por el tren 78350 con anterioridad al tren 78355.",
+   "cita": "Los factores contribuyentes fueron: • El corte de tensión en la catenaria que provocó la detención de los trenes 78350 y 78355 en sus recorridos de aproximación a la estación de Torelló.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "447033, 447163, 447111, 447108",
+   "cita": "el tren 78355 estaba compuesto por las unidades 447033 y 447163 y el tren 78350 por las unidades 447111 y 447108.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Catenaria",
+   "cita": "a excepción de la catenaria que sufrió una pérdida de tensión que provocó la detención de los trenes 78350 y 78355.",
+   "pagina": 16,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

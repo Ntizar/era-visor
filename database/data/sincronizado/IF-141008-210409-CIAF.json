@@ -1,0 +1,171 @@
+{
+ "clave": "0070/2008",
+ "id": "IF-141008-210409-CIAF",
+ "pais": "ES",
+ "titulo": "Informe Final sobre la investigación del accidente ferroviario nº 0070/2008 ocurrido el día 14.10.2008 en la estación de Leganés",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/DB83E9AC-8DCA-4875-A236-EC32495C605C/47000/IF141008210409CIAF.pdf",
+ "anio": 2008,
+ "fuentes": {
+  "crudo": "database/data/crudo/IF-141008-210409-CIAF.json",
+  "db": "data/db/reports/ES.json",
+  "v3": "json/ES/<id>.json"
+ },
+ "geolocalizacion": {
+  "lat": 40.329243949974995,
+  "lng": -3.771059764325,
+  "metodo_geo": "via_pk",
+  "veredicto": "bien",
+  "motivo": "",
+  "dist_m": 33,
+  "pk": "13,171",
+  "linea": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, tramo Villaverde Alto - Leganés",
+  "estacion": "Leganés",
+  "provincia": "Madrid",
+  "ubicacion_nombre": "Leganés station (Madrid, 500 Madrid-Valencia de Alcántara railway line.",
+  "exacta": true,
+  "origen": "data/db/reports/ES.json"
+ },
+ "victimas": {
+  "fallecidos": 1,
+  "heridos_graves": 0,
+  "heridos_leves": 0,
+  "danos_materiales": "",
+  "gravedad": "",
+  "origen": "data/db/reports/ES.json",
+  "fuente_db_vs_crudo": "sin_contraste"
+ },
+ "analisis": {
+  "origen": [
+   "data/db/reports/ES.json",
+   "json/ES/<id>.json"
+  ],
+  "causa_directa": "El tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizada para ello.",
+  "tipo": "arrollamiento",
+  "tipo_categoria": "Arrollamiento",
+  "explotacion": "Nominal",
+  "circulation_type": "via_multiple",
+  "precursores": [
+   "Víctima transitó sin autorización",
+   "Caminó por vías tras andenes"
+  ],
+  "mitigaciones": [
+   "Vallado perimetral impide acceso",
+   "Buena visibilidad en tramo",
+   "Equipos de seguridad funcionaban",
+   "Velocidad inferior a máxima"
+  ],
+  "factores_humanos": [
+   "Víctima transitó sin autorización",
+   "Conocimiento del lugar por víctima"
+  ],
+  "meteorologia": [
+   "Despejado"
+  ],
+  "tipo_suceso": "arrollamiento",
+  "tipo_informe": "final",
+  "hora": "14:46",
+  "entidades": [
+   "Renfe Operadora",
+   "Adif"
+  ]
+ },
+ "textos": {
+  "resumen": "El 14 de octubre de 2008, a las 14:46 horas, el tren de cercanías 27398 de Renfe Operadora arrolló a una persona a la entrada de la estación de Leganés, entre las agujas 2 y 4. El maquinista percibió un golpe seco, no observó nada por los espejos y comunicó el suceso; poco después otro tren informó de la presencia del cuerpo. La Policía Nacional confirmó la defunción de la persona, que se encontraba en la vía sin autorización. La investigación concluyó que el accidente tuvo su origen en el tránsito indebido de la víctima y no estableció recomendaciones.",
+  "_origenes": {
+   "resumen": "v3",
+   "hechos": "db",
+   "v3": "db"
+  },
+  "hechos": "A las 14:46 horas, el tren de cercanías 27398 de Renfe Operadora, procedente de Madrid, entraba en la estación de Leganés. A la altura de las agujas 2 y 4, el maquinista percibió un golpe seco en el lateral derecho del tren. Tras verificar los espejos retrovisores sin observar anomalías visibles, comunicó el suceso al puesto de mando de Madrid-Atocha y realizó una parada normal en la estación. Poco después, el tren 19413, que circulaba por el mismo tramo, informó al puesto de mando de la presencia de un hombre tirado junto a un poste de electrificación. La Policía Nacional confirmó posteriormente la defunción de la víctima.",
+  "v3": {
+   "titulo_normalizado": "Arrollamiento de persona en la entrada de la estación de Leganés por tren de cercanías",
+   "idioma_original": "es",
+   "resumen": "El 14 de octubre de 2008, el tren de cercanías 27398 arrolló a una persona no autorizada que se encontraba entre las agujas 2 y 4 de la entrada a la estación de Leganés. La víctima, un varón de 45 años vecino de la zona, falleció en el lugar. El informe concluye que el accidente se debió al tránsito ilegal de la víctima por la vía, sin responsabilidad del personal ferroviario ni fallos técnicos.",
+   "hechos": "A las 14:46 horas, el tren de cercanías 27398 de Renfe Operadora, procedente de Madrid, entraba en la estación de Leganés. A la altura de las agujas 2 y 4, el maquinista percibió un golpe seco en el lateral derecho del tren. Tras verificar los espejos retrovisores sin observar anomalías visibles, comunicó el suceso al puesto de mando de Madrid-Atocha y realizó una parada normal en la estación. Poco después, el tren 19413, que circulaba por el mismo tramo, informó al puesto de mando de la presencia de un hombre tirado junto a un poste de electrificación. La Policía Nacional confirmó posteriormente la defunción de la víctima.",
+   "lugar": {
+    "tipo": "estacion",
+    "estacion": "Leganés",
+    "pk": "13,171",
+    "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Entrada de la estación, entre las agujas 2 y 4, lado Villaverde Alto. Tramo recto con buena visibilidad y totalmente vallado."
+   },
+   "cronologia": [
+    {
+     "hora": "14:46",
+     "evento": "Arrollamiento de la persona por el tren 27398"
+    },
+    {
+     "hora": null,
+     "evento": "Comunicación del golpe seco por parte del maquinista del tren 27398 al puesto de mando"
+    },
+    {
+     "hora": null,
+     "evento": "El tren 19413 informa de la presencia del cuerpo de la víctima"
+    }
+   ],
+   "trenes": [
+    {
+     "numero": "27398",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    },
+    {
+     "numero": "19413",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    }
+   ],
+   "personal": [
+    {
+     "rol": "Maquinista principal",
+     "implicacion": "Condujo el tren 27398. Percibió el impacto, verificó visualmente sin detectar anomalía inmediata y notificó correctamente al puesto de mando. Su actuación fue considerada correcta."
+    }
+   ],
+   "infraestructura": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Si",
+    "estado_via": "Buena visibilidad, tramo recto, totalmente vallado perimetralmente",
+    "otro": "Bloqueo de control automático (BCA). Radiotelefonía modalidad A."
+   },
+   "material_rodante": {
+    "series": "Automotor serie 446 (motores 446139/123)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador"
+   },
+   "clima": "Despejado",
+   "causas": {
+    "directa": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello",
+    "contribuyentes": [],
+    "sistemicas": []
+   },
+   "consecuencias": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura o medio ambiente",
+    "afectacion_servicio": "Retraso total de 36 minutos en varios trenes de cercanías"
+   },
+   "lecciones": [],
+   "recomendaciones": [],
+   "tags": [
+    "arrollamiento",
+    "suicidio",
+    "intrusion",
+    "leganes",
+    "cercanias",
+    "renfe",
+    "adif",
+    "vallado",
+    "sin danos materiales"
+   ],
+   "v3_completo": true,
+   "id": "ES-IF-141008-210409-CIAF"
+  }
+ }
+}

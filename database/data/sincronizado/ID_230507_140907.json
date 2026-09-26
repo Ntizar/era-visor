@@ -1,0 +1,17 @@
+{
+ "clave": "",
+ "id": "ID_230507_140907",
+ "pais": "ES",
+ "titulo": "",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_230507_140907.pdf",
+ "anio": "",
+ "fuentes": {
+  "crudo": "database/data/crudo/ID_230507_140907.json",
+  "db": null,
+  "v3": null
+ },
+ "geolocalizacion": null,
+ "victimas": null,
+ "analisis": null,
+ "textos": null
+}

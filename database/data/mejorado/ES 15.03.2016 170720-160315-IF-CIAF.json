@@ -1,0 +1,194 @@
+{
+ "stem": "ES 15.03.2016 170720-160315-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0012/2016",
+   "cita": "Investigación del accidente \nnº 0012/2016 ocurrido el 15.03.2016 \nInforme final de la CIAF",
+   "pagina": 19,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe final",
+   "cita": "Investigación del accidente \nnº 0012/2016 ocurrido el 15.03.2016 \nInforme final de la CIAF",
+   "pagina": 19,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": "Los episodios de fuertes lluvias que tuvieron lugar en la zona los días anteriores",
+   "cita": "Como factor coadyuvante se consideran los episodios de fuertes lluvias que tuvieron lugar en la zona los días anteriores.",
+   "pagina": 22,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "En las labores de vigilancia y mantenimiento no se pudo advertir la situación del estado de la trinchera. El tramo donde ocurre el desmoronamiento no estaba protegido con gunitado.",
+   "cita": "En las labores de vigilancia y mantenimiento no se pudo advertir la situación del estado de la trinchera. El tramo donde ocurre el desmoronamiento no estaba protegido con gunitado.",
+   "pagina": 22,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.4": {
+   "valor": "Infraestructura",
+   "cita": "Se produce el fallo de la infraestructura al producirse el desmoronamiento de la trinchera en el p.k. 247+490",
+   "pagina": 19,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Viajeros (tren de viajeros de larga distancia Euromed), 260 viajeros",
+   "cita": "Se estableció un plan alternativo de transporte y los 260 viajeros fueron transbordados a otro tren con la ayuda de los bomberos y policía.",
+   "pagina": 21,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

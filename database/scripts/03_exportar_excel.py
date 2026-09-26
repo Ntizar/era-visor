@@ -34,7 +34,14 @@ from openpyxl.utils import get_column_letter
 RAIZ = Path(__file__).resolve().parents[2]
 CRUDO = RAIZ / "database" / "data" / "crudo"
 DATA = RAIZ / "database" / "data"
-SALIDA = DATA / "ciaf_base_global.xlsx"
+SALIDA = DATA / "ciaf_base_global.xlsx"     # v1: sólo fuentes 00-02 (intacto)
+SALIDA_V2 = DATA / "ciaf_base_v2.xlsx"      # v2: + Fase 4A (geo auditada/v3)
+SINC = DATA / "sincronizado"                # salida de 06_sincronizar.py
+V2 = "--v2" in sys.argv
+# columnas que SÓLO existen con --v2 (salen de la Fase 4A)
+COLS_SINC = ["lat", "lng", "veredicto_geo", "metodo_geo", "dist_via_m",
+             "linea_geo", "pk_geo", "provincia_geo", "causa_directa_v3",
+             "tipo_suceso_v3", "gravedad_victimas"]
 # Fase 4B: revisión LLM con cita verificada (opcional — si no existe, el
 # Excel sale idéntico al determinista).
 MEJORADO = DATA / "mejorado"
@@ -250,8 +257,118 @@ def cargar():
     return guia, bases, por_clave, docs, mej
 
 
+def cargar_sinc():
+    """Fase 4A: base canónica sincronizada (06_sincronizar.py).
+
+    Fusiona por expediente el crudo (evidencia) con la geo AUDITADA y el
+    análisis v3, ya verificados — se importa, nunca se re-extrae. Vacío si
+    no existe: así el v1 sale exactamente igual que antes.
+    """
+    sinc = {}
+    if SINC.is_dir():
+        for f in sorted(SINC.glob("*.json")):
+            if f.name.startswith("_"):     # `_resumen.json` auxiliar
+                continue
+            d = json.loads(f.read_text(encoding="utf-8"))
+            clave = d.get("clave") or f.stem
+            sinc[clave] = d
+    return sinc
+
+
+# ------------------------------------------------------ Fase 4A — hojas nuevas
+def _t(v):
+    """A texto SOLO lo escalar: las listas/dict del análisis (precursores,
+    mitigaciones, cronología...) no los admite Excel. No se envuelve todo en
+    `a_texto` porque perdería los números de las hojas Diccionario/Cobertura.
+    """
+    return a_texto(v) if isinstance(v, (list, dict)) else v
+
+
+def hoja_geo(sinc, docs):
+    """COORDENADAS EXACTAS: 1 fila por informe con su veredicto de auditoría.
+
+    Regla del dominio: mejor sin coordenada que mal puesta. Un informe sin
+    geocodificar sale con la fila vacía y el motivo explícito — jamás con un
+    pin inventado. `geo_veredicto` es el que manda (`bien`/`mal`/`sin_geo`).
+    """
+    filas = []
+    for d in docs:
+        clave = d.get("clave") or d.get("id", "")
+        g = (sinc.get(clave) or {}).get("geolocalizacion") or {}
+        filas.append({
+            "clave": clave,
+            "expediente": d.get("expediente", ""),
+            "url_oficial": d.get("url_oficial", ""),
+            "lat": g.get("lat", ""),
+            "lng": g.get("lng", ""),
+            "veredicto": g.get("veredicto", ""),
+            "motivo": g.get("motivo", ""),
+            "metodo_geo": g.get("metodo_geo", ""),
+            "dist_a_via_m": g.get("dist_m", ""),
+            "linea": _t(g.get("linea", "")),
+            "pk": _t(g.get("pk", "")),
+            "estacion": _t(g.get("estacion", "")),
+            "provincia": _t(g.get("provincia", "")),
+            "sincronizado": "sí" if clave in sinc else "no",
+        })
+    return filas
+
+
+def hoja_analisis(sinc, docs):
+    """Taxonomía v3 sincronizada: causas, factores, infraestructura."""
+    filas = []
+    for d in docs:
+        clave = d.get("clave") or d.get("id", "")
+        s = sinc.get(clave) or {}
+        a = s.get("analisis") or {}
+        v = s.get("victimas") or {}
+        filas.append({
+            "clave": clave,
+            "expediente": d.get("expediente", ""),
+            "url_oficial": d.get("url_oficial", ""),
+            "causa_directa": _t(a.get("causa_directa", "")),
+            "causas_sistemicas": _t(a.get("causas_sistemicas", "")),
+            "precursores": _t(a.get("precursores", "")),
+            "mitigaciones": _t(a.get("mitigaciones", "")),
+            "factores_humanos": _t(a.get("factores_humanos", "")),
+            "meteorologia": _t(a.get("meteorologia", "")),
+            "subsistema": _t(a.get("subsistema", "")),
+            "sistema_proteccion": _t(a.get("sistema_proteccion", "")),
+            "tipo_red": _t(a.get("tipo_red", "")),
+            "explotacion": _t(a.get("explotacion", "")),
+            "tipo_suceso": _t(a.get("tipo_suceso", "")),
+            "gravedad": _t(v.get("gravedad", "")),
+            "victimas_cuadran": ("sí" if v.get("cuadra_crudo") else
+                                 ("no" if v.get("cuadra_crudo") is False else "")),
+        })
+    return filas
+
+
+def hoja_textos(sinc, docs):
+    """Textos largos por informe — aparte, para que la hoja `Informes` no se
+    llene de párrafos y siga siendo legible. `lecciones` y `cronologia` salen
+    del bloque v3 (`descripcion`/`conclusiones` NO existen en la fuente:
+    pedirlos daría siempre una columna vacía silenciosa)."""
+    filas = []
+    for d in docs:
+        clave = d.get("clave") or d.get("id", "")
+        s = sinc.get(clave) or {}
+        t = s.get("textos") or {}
+        v3 = t.get("v3") or {}
+        filas.append({
+            "clave": clave,
+            "expediente": d.get("expediente", ""),
+            "url_oficial": d.get("url_oficial", ""),
+            "resumen": t.get("resumen", ""),
+            "hechos": t.get("hechos", ""),
+            "lecciones": a_texto(v3.get("lecciones", "")),
+            "cronologia": a_texto(v3.get("cronologia", "")),
+        })
+    return filas
+
+
 # --------------------------------------------------------------------- hojas
-def filas_informes(guia, por_clave, docs, mej=None):
+def filas_informes(guia, por_clave, docs, mej=None, sinc=None):
     """Una fila por informe: identificación + 70 columnas de guía + derivadas.
 
     REGLA DE ORO 1: un valor LLM sólo puede rellenar un hueco determinista,
@@ -304,6 +421,25 @@ def filas_informes(guia, por_clave, docs, mej=None):
         fila["campos_llm"] = rellenos_llm
         fila["cobertura_pct"] = round(100 * con_cita / max(1, con_valor), 1) \
             if con_valor else 0
+
+        # ---- Fase 4A (sólo con --v2): geo AUDITADA + análisis v3 por
+        # expediente. Nunca rellena nada del crudo: son columnas nuevas.
+        s = (sinc or {}).get(clave) or {}
+        if s:
+            g = s.get("geolocalizacion") or {}
+            a = s.get("analisis") or {}
+            v = s.get("victimas") or {}
+            fila["lat"] = g.get("lat", "")
+            fila["lng"] = g.get("lng", "")
+            fila["veredicto_geo"] = g.get("veredicto", "")
+            fila["metodo_geo"] = g.get("metodo_geo", "")
+            fila["dist_via_m"] = g.get("dist_m", "")
+            fila["linea_geo"] = g.get("linea", "")
+            fila["pk_geo"] = g.get("pk", "")
+            fila["provincia_geo"] = g.get("provincia", "")
+            fila["causa_directa_v3"] = a.get("causa_directa", "")
+            fila["tipo_suceso_v3"] = a.get("tipo_suceso", "")
+            fila["gravedad_victimas"] = v.get("gravedad", "")
 
         # ---- derivadas analíticas (del propio crudo, nunca inventadas)
         lugar = campos.get("2.1.3.C", {})
@@ -580,7 +716,9 @@ def main() -> int:
         print("No hay database/data/crudo/ — corre primero 02_extraer_crudo.py")
         return 1
 
-    refs, filas_inf = filas_informes(guia, por_clave, docs, mej)
+    # Fase 4A sólo con --v2: sin flag, sinc()={} y el v1 sale idéntico
+    sinc = cargar_sinc() if V2 else {}
+    refs, filas_inf = filas_informes(guia, por_clave, docs, mej, sinc)
     # título canónico: un solo formato para todos los años (columna nueva)
     for f in filas_inf:
         f["titulo_normalizado"] = titulo_canonico(f.get("titulo", ""))
@@ -605,9 +743,14 @@ def main() -> int:
     cob = hoja_cobertura(guia, docs)
     tab = hoja_tablas(docs)
     mejo = hoja_mejorado(docs, mej)
+    # ---- Fase 4A (--v2): hojas de la base sincronizada
+    geo_f = hoja_geo(sinc, docs) if sinc else []
+    ana_f = hoja_analisis(sinc, docs) if sinc else []
+    txt_f = hoja_textos(sinc, docs) if sinc else []
+    cols_inf = IDENT + DERIV + refs + (COLS_SINC if sinc else [])
 
     wb = Workbook()
-    escribir_hoja(wb, "Informes", IDENT + DERIV + refs, filas_inf, primero=True)
+    escribir_hoja(wb, "Informes", cols_inf, filas_inf, primero=True)
     escribir_hoja(wb, "Recomendaciones",
                   ["clave", "expediente", "url_oficial", "numero", "destinatario",
                    "implementador", "texto", "pagina", "origen"], rec)
@@ -634,22 +777,44 @@ def main() -> int:
                   ["clave", "expediente", "url_oficial", "ref", "valor",
                    "pagina", "cita", "verificado", "verificacion",
                    "intentos"], mejo)
+    # ---- hojas Fase 4A (--v2)
+    if sinc:
+        escribir_hoja(wb, "Geo",
+                      ["clave", "expediente", "url_oficial", "lat", "lng",
+                       "veredicto", "motivo", "metodo_geo", "dist_a_via_m",
+                       "linea", "pk", "estacion", "provincia",
+                       "sincronizado"], geo_f)
+        escribir_hoja(wb, "Analisis",
+                      ["clave", "expediente", "url_oficial", "causa_directa",
+                       "causas_sistemicas", "precursores", "mitigaciones",
+                       "factores_humanos", "meteorologia", "subsistema",
+                       "sistema_proteccion", "tipo_red", "explotacion",
+                       "tipo_suceso", "gravedad", "victimas_cuadran"], ana_f)
+        escribir_hoja(wb, "Textos",
+                      ["clave", "expediente", "url_oficial", "resumen",
+                       "hechos", "lecciones", "cronologia"], txt_f)
 
-    # ---- GATE H4: url_oficial 100% en TODAS las hojas
+    # ---- GATE H4: url_oficial 100% en TODAS las hojas (las nuevas
+    # incluidas: una hoja que no entra al gate sólo es una promesa)
+    hojas = [("Informes", filas_inf), ("Recomendaciones", rec),
+             ("Entidades", ent), ("Cronologia", cro),
+             ("Trenes", tre), ("Personal", per),
+             ("Tablas", tab), ("Mejorado", mejo)]
+    if sinc:
+        hojas += [("Geo", geo_f), ("Analisis", ana_f), ("Textos", txt_f)]
     fallos = []
-    for hoja, filas in (("Informes", filas_inf), ("Recomendaciones", rec),
-                        ("Entidades", ent), ("Cronologia", cro),
-                        ("Trenes", tre), ("Personal", per),
-                        ("Tablas", tab), ("Mejorado", mejo)):
+    for hoja, filas in hojas:
         sin = [f.get("clave", "?") for f in filas if not f.get("url_oficial")]
         if sin:
             fallos.append(f"{hoja}: {len(sin)} filas sin url_oficial (ej {sin[0]})")
 
-    wb.save(SALIDA)
-    print(f"== Fase 3: base de datos global ==")
-    print(f"  → {SALIDA.relative_to(RAIZ)}")
-    print(f"  hoja Informes : {len(filas_inf)} filas × {len(IDENT)+len(DERIV)+len(refs)} columnas")
-    print(f"    · columnas de guía: {len(refs)} · derivadas: {len(DERIV)}")
+    salida = SALIDA_V2 if V2 else SALIDA
+    wb.save(salida)
+    print(f"== Fase 3: base de datos global {'(v2 — Fase 4A incluida)' if V2 else '(v1)'} ==")
+    print(f"  → {salida.relative_to(RAIZ)}")
+    print(f"  hoja Informes : {len(filas_inf)} filas × {len(cols_inf)} columnas")
+    print(f"    · columnas de guía: {len(refs)} · derivadas: {len(DERIV)}"
+          + (f" · Fase 4A: {len(COLS_SINC)}" if sinc else ""))
     print(f"  Recomendaciones: {len(rec)} · Entidades: {len(ent)} · "
           f"Cronología: {len(cro)} · Trenes: {len(tre)} · Personal: {len(per)}")
     print(f"  Diccionario: {len(dic)} · Cobertura: {len(cob)}")

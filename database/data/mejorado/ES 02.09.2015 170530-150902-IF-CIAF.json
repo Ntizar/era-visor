@@ -1,0 +1,194 @@
+{
+ "stem": "ES 02.09.2015 170530-150902-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0043/2015",
+   "cita": "Investigación del accidente nº 0043/2015 ocurrido el 02.09.2015",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Nº UIC 957102530210 (locomotora Tipo 100N) / tren nº 93565",
+   "cita": "Locomotora propiedad de RENFE OPERADORA Tipo 100N, Nº UIC 957102530210 y Masa 88 Tm.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Acta de trabajos nº 23 (31 agosto–6 septiembre 2015): recogida y descarga de materiales entre Castejón de Ebro y Altsasua, banda 6101. Acta nº 380 (1–5 septiembre): reparación de canalización en paso superior pk 167+834. Descarga de barras el 21 de mayo de 2015 con sustitución de carril programada a partir del 7 de septiembre.",
+   "cita": "El acta de trabajos nº 23 del 31 de agosto al 6 de septiembre de 2015 en la banda 6101 preveía entre Castejón de Ebro y Altsasua la recogida y descarga de materiales por trayectos",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "VEHÍCULOS CARRETERA (vehículos OPEL)",
+   "cita": "La composición, consta de 17 vagones dobles PMA de tres ejes cargados con vehículos OPEL en Grisen",
+   "pagina": 16,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "En el momento del arrollamiento: la jornada laboral es de 5 horas y 26 minutos, de las que 3 horas y 30 minutos habían sido de conducción efectiva. En las 24 anteriores: realiza una jornada de 5 horas y 56 minutos con 3 horas y 42 minutos de conducción. En las 48 horas anteriores: descanso.",
+   "cita": "En el momento del arrollamiento: la jornada laboral es de 5 horas y 26 minutos, de las que 3 horas y 30 minutos habían sido de conducción efectiva.   En las 24 anteriores: realiza una jornada de 5 horas y 56 minutos con 3 horas y 42 minutos de conducción. En las 48 horas anteriores: descanso.",
+   "pagina": 25,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Control de alcoholemia al maquinista del tren 93565 con resultado negativo (0,00 mg de alcohol / 100 cc.)",
+   "cita": "En la fecha del arrollamiento, se practica control de alcoholemia al maquinista del tren 93565 con resultado negativo (0,00 mg de alcohol / 100 cc.)",
+   "pagina": 25,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "cita": "Destinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAGENCIA ESTATAL DE \nSEGURIDAD \nFERROVIARIA (AESF) \nADMINISTRADOR DE \nINFRAESTRUCTURAS \nFERROVIARIAS (ADIF)",
+   "pagina": 29,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

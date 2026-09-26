@@ -1,0 +1,194 @@
+{
+ "stem": "ES-10164 - 220526-210129-IF-SN-EN_CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF 08/2021",
+   "cita": "INFORME FINAL (IF) 08/2021",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Comunicaciones deficientes entre el CG y el RC del CTC; desconocimiento por parte del RC del CTC de la avería en el ASFA durante el recorrido; delegación del RC del CTC en el CG de las órdenes de parada no prescrita; asunción errónea por parte de los maquinistas de la inversión del bloqueo; desconocimiento de las prescripciones de retroceso; cambio de número en el tren-tierra sin conocimiento del RC; comunicaciones del CG a los maquinistas para dar instrucciones que corresponden únicamente al RC del CTC. Sistémicos: falta de procedimientos que regulen detalladamente las comunicaciones entre los CG y los PM y falta de definición concreta de las funciones dentro del PM entre los responsables de circulación y los reguladores.",
+   "cita": "Cabe señalar como factores contribuyentes las comunicaciones deficientes entre el CG y el RC del CTC, el desconocimiento por parte del RC del CTC de la avería en el ASFA durante el recorrido, la delegación del RC del CTC en el CG de las ordenes de parada no prescrita",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "592.205 y 592.216",
+   "cita": "Los números de las ramas implicadas son: 592.205 (tren 14423) y 592.216 (tren 14422)",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Sistema de seguridad ASFA Digital",
+   "cita": "se reprodujo la avería y quedó inoperativo el equipo ASFA del automotor, siendo este hecho el desencadenante inicial del incidente operacional",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": "Línea de Alta Velocidad en construcción en paralelo a la línea 300 entre Carcaixent y Xàtiva",
+   "cita": "Entre Carcaixent y Xàtiva, la línea 300 discurre en paralelo a línea de Alta Velocidad en construcción.",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": "No hubo víctimas ni daños materiales; quedaron afectadas veinte circulaciones, suponiendo una pérdida de 470 minutos.",
+   "cita": "quedaron afectadas veinte circulaciones, suponiendo una pérdida de 470 minutos.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "De noche y condiciones meteorológicas normales.",
+   "cita": "En el momento del accidente era de noche y las condiciones meteorológicas eran normales.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A (canal 61) entre RC del CTC y maquinistas; teléfonos corporativos con el Centro de Gestión de Renfe.",
+   "cita": "Las comunicaciones entre el RC del CTC y los maquinistas se realizan por Radiotelefonía modalidad A (canal 61). Las conversaciones con el Centro de Gestión de Renfe se realizaron mediante el uso de teléfonos corporativos.",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "Sí, el suceso tiene causa directa ligada al Factor Humano: incorrecta asunción de responsabilidades entre el CG, los maquinistas y el PM.",
+   "cita": "debido a la incorrecta asunción de responsabilidades entre el CG, los maquinistas y el PM.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "El tiempo de conducción cumplía con la normativa vigente.",
+   "cita": "El tiempo de conducción cumplía con la normativa vigente. Posee título y habilitación en vigor conforme a la legislación vigente.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

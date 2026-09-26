@@ -2,9 +2,9 @@
  "stem": "201117-091219-IF-SN_CIAF",
  "campos": {
   "0.2": {
-   "valor": "0063/2019",
-   "cita": "Investigación del incidente \nnº 0063/2019 ocurrido el 09.12.2019",
-   "pagina": 17,
+   "valor": "201117-191209-IF-SN_CIAF",
+   "cita": "201117-191209-IF-SN_CIAF",
+   "pagina": 1,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
@@ -16,11 +16,11 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "1.5": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "(fc1) No mantener la marcha a la vista hasta la señal siguiente E1; (fc2) No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E'1, superando la velocidad máxima de 40 km/h; (fc3) Información recibida en cabina por la baliza previa de la señal E1 correspondía al tren 95951 precedente, confundiendo al maquinista del 25045",
+   "cita": "(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa de la señal E1 fuese equivalente a la indicación de la propia señal E1, lo que propicia su rebase indebido.",
+   "pagina": 5,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "1.6": {
    "valor": null,
@@ -37,11 +37,11 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.2.3": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "U/T 465.244 (UIC 92716465244-2) tipo 120A y U/T 447.079",
+   "cita": "formado por la U/T 465.244 (UIC 92716465244-2) tipo 120A, compuesto por 5 vehículos, 12 ejes, con 98 metros de longitud y 203 toneladas de peso. Material vacío 95951 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 447.079",
+   "pagina": 10,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "2.2.4": {
    "valor": null,

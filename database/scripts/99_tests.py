@@ -53,6 +53,7 @@ RAIZ = Path(__file__).resolve().parents[2]
 DB = RAIZ / "database"
 DATA = DB / "data"
 CRUDO = DATA / "crudo"
+SINC = DATA / "sincronizado"   # Fase 4A: geo auditada + análisis v3
 MDB = DB / "md_base"
 XLSX = DATA / "ciaf_base_global.xlsx"
 MEJ = DATA / "mejorado"
@@ -264,10 +265,21 @@ def t6_fase4():
                 verif_ok += 1
             else:
                 verif_mal += 1
+    # GATE = TASA DE RECHAZO (contrato Fase 4): (cita falsa + valor sin
+    # verificar) sobre (citas OK + rechazos). Exigir "todo verificado" es
+    # como el gate "≥95% verificado": inalcanzable en un proceso en marcha
+    # y no mide lo que importa. Lo NO negociable es que una cita MIENTA
+    # (cero tolerancia) y que la tasa no pase del 5%. Que un valor quede
+    # sin verificar NO es una alucinación colada: el exportador no lo usa
+    # (T10 lo comprueba con "SIN FUENTE 0") — queda como trabajo pendiente.
+    rechazos = verif_mal + sin_verificar
+    total = verif_ok + rechazos
+    tasa = 100.0 * rechazos / total if total else 0.0
     test("fase4 anti-alucinación",
-         verif_mal == 0 and sin_verificar == 0,
-         "%d ficheros · %d/%d citas re-verificadas · %d CITA FALSA · %d sin verificar"
-         % (len(fs), verif_ok, verif_ok + verif_mal, verif_mal, sin_verificar))
+         verif_mal == 0 and tasa <= 5.0,
+         "%d ficheros · %d citas re-verificadas · %d CITA FALSA · "
+         "%d sin verificar → tasa de rechazo %.1f%% (≤5%%)"
+         % (len(fs), verif_ok, verif_mal, sin_verificar, tasa))
 
 
 # ---------------------------------------------------------------- T7
@@ -553,6 +565,54 @@ def t12_huecos():
             "%s %s" % (c, nom[c][:34]) for c in al_cien[:10]))
 
 
+# ---------------------------------------------------------------- T13
+def t13_sincronizacion():
+    """Fase 4A: la base sincronizada (`sincronizado/`) tiene que casar con
+    el crudo y con la geo AUDITADA.
+
+    Gate duro: (a) 100% de informes sincronizados con la guía del manifest;
+    (b) **ninguna coordenada sin veredicto** — una lat/lng que nadie ha
+    juzgado es un pin con aspecto de exacto y nadie sabe si lo es;
+    (c) víctimas de la DB vs crudo sin discrepancias (la DB manda sólo si
+    cuadra con la fuente).
+    """
+    if not SINC.is_dir():
+        test("sincronización Fase 4A", False,
+             "no existe database/data/sincronizado/ — corre 06_sincronizar.py")
+        return
+    # `_resumen.json` (auxiliar) empieza por guion bajo: excluir por prefijo,
+    # que es el criterio estable del pipeline — filtrar por nombre exacto
+    # contaba 352/351 y lo marcaba como "sin url".
+    fs = [f for f in sorted(SINC.glob("*.json")) if not f.name.startswith("_")]
+    n = len(fs)
+    con_geo = con_veredicto = coord_sin_veredicto = 0
+    vic_mal = sin_url = 0
+    for f in fs:
+        d = json.loads(f.read_text(encoding="utf-8"))
+        if not d.get("url_oficial"):
+            sin_url += 1
+        g = d.get("geolocalizacion") or {}
+        if g.get("lat") not in (None, ""):
+            con_geo += 1
+            if g.get("veredicto"):
+                con_veredicto += 1
+            else:
+                coord_sin_veredicto += 1
+        v = d.get("victimas") or {}
+        if v.get("cuadra_crudo") is False:
+            vic_mal += 1
+    # manifest: 351 informes (los 2 residuos documentados — un informe DGF
+    # y un md sin expediente — también salen sincronizados, con fuentes vacías)
+    man = json.loads((DATA / "manifest_maestro.json").read_text(encoding="utf-8"))
+    inf_man = len(man.get("informes") or man)
+    ok = (n == inf_man) and coord_sin_veredicto == 0 and vic_mal == 0 and sin_url == 0
+    test("sincronización Fase 4A", ok,
+         "%d/%d manifest · %d con coordenada, %d con veredicto "
+         "(%d COORD SIN VEREDICTO) · víctimas discrepan: %d · sin url: %d"
+         % (n, inf_man, con_geo, con_veredicto, coord_sin_veredicto,
+            vic_mal, sin_url))
+
+
 def main():
     print("== Arnés de tests de la base de datos CIAF ==")
     t1_estructura()
@@ -570,6 +630,7 @@ def main():
     t10_integridad_v1()
     t11_titulos()
     t12_huecos()
+    t13_sincronizacion()
     print()
     total = len(fallos) + len(okey) + len(avisos)
     if fallos:

@@ -3,8 +3,8 @@
  "campos": {
   "0.2": {
    "valor": "200421-180701-IF_CIAF",
-   "cita": "200421-180701-IF_CIAF",
-   "pagina": 1,
+   "cita": "200421-180701-IF_CIAF \nPág. 59 de 62",
+   "pagina": 59,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
@@ -16,16 +16,16 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "1.5": {
-   "valor": "Las condiciones climatológicas adversas de los días precedentes y en el día del suceso, que pudieron haber provocado la fusión del fusible F2 de alimentación de la señal 2N, así como derivaciones en el cableado de señalización existente entre el cuarto técnico del enclavamiento y el armario 2, que alimentaron eléctricamente el foco verde de la señal 2N, haciéndolo lucir.",
-   "cita": "Como factores coadyuvantes, cabe significar las condiciones climatológicas adversas de los días precedentes y en el día del suceso, que pudieron haber provocado la fusión del fusible F2 de alimentación de la señal 2N",
-   "pagina": 6,
+   "valor": "Las condiciones climatológicas adversas de los días precedentes y en el día del suceso, que pudieron haber provocado la fusión del fusible F2 de alimentación de la señal 2N, así como derivaciones en el cableado de señalización existente entre el cuarto técnico del enclavamiento y el armario 2. Además, el uso de un único cable de 52x1 mm2 con 12 hilos empleados para transporte de energía, cuya antigüedad podría producir derivaciones que alimentaran el foco verde de la señal 2N.",
+   "cita": "Como factores coadyuvantes, cabe significar las condiciones climatológicas adversas de los \ndías precedentes y en el día del suceso, que pudieron haber provocado la fusión del fusible \nF2 de alimentación de la señal 2N, así como derivaciones en el cableado de señalización",
+   "pagina": 59,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "1.6": {
-   "valor": "No existe constancia de que se haya procedido a realizar las revisiones a los cables de señalización en la estación de Pedralba conforme a lo establecido el Procedimiento Específico MIN-PE-IS-013: “Mantenimiento de cables de señalización”.",
-   "cita": "Como factores subyacentes cabe indicar: No existe constancia de que se haya procedido a realizar las revisiones a los cables de señalización en la estación de Pedralba conforme a lo establecido el Procedimiento Específico MIN-PE-IS-013",
-   "pagina": 7,
+   "valor": "No existe constancia de que se haya procedido a realizar las revisiones a los cables de señalización en la estación de Pedralba conforme a lo establecido el Procedimiento Específico MIN-PE-IS-013: \"Mantenimiento de cables de señalización\".",
+   "cita": "No existe constancia de que se haya procedido a realizar las revisiones a los cables de \nseñalización en la estación de Pedralba conforme a lo establecido el Procedimiento Específico \nMIN-PE-IS-013: “Mantenimiento de cables de señalización”.",
+   "pagina": 60,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
@@ -37,11 +37,11 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.2.3": {
-   "valor": "730017",
-   "cita": "Tren 258 Larga Distancia de RENFE VIAJEROS, formado por automotor 730017, compuesto por 13 vehículos y 2 cabezas motrices, 185 m de longitud y 384 t de peso.",
-   "pagina": 14,
+   "valor": null,
+   "cita": null,
+   "pagina": null,
    "verificado": true,
-   "verificacion": "cita literal en página"
+   "verificacion": "null honesto: no consta en el informe"
   },
   "2.2.4": {
    "valor": null,
@@ -126,6 +126,69 @@
    "pagina": null,
    "verificado": true,
    "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) | ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF) | 25/2018 - 1 |",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
   }
  }
 }

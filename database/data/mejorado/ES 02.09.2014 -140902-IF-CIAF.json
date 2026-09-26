@@ -2,11 +2,11 @@
  "stem": "ES 02.09.2014 -140902-IF-CIAF",
  "campos": {
   "0.2": {
-   "valor": "0053/2014",
-   "cita": "Investigación del incidente nº 0053/2014 ocurrido el 26.09.2014",
-   "pagina": 19,
+   "valor": null,
+   "cita": null,
+   "pagina": null,
    "verificado": true,
-   "verificacion": "cita literal en página"
+   "verificacion": "null honesto: no consta en el informe"
   },
   "0.6": {
    "valor": null,

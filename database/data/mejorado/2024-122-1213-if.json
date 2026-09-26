@@ -1,6 +1,69 @@
 {
  "stem": "2024-122-1213-if",
  "campos": {
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "La no disposición de calces antideriva en el corte de material estacionado; la pérdida de efectividad del freno automático debido a la pérdida de aire en el circuito de freno por el paso del tiempo; la ineficacia del freno de estacionamiento aplicado al corte de material por el AXC; la existencia de declividad en la estación de León Clasificación.",
+   "cita": "Los factores contribuyentes del suceso fueron: • La no disposición de calces antideriva en el corte de material estacionado. • La pérdida de efectividad del freno automático, debido a la pérdida de aire en el circuito de freno por el paso del tiempo. • La ineficacia del freno de estacionamiento aplicado al corte de material por el AXC. • La existencia de declividad en la estación de León Clasificación.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Locomotora 251.003; vagón con freno de estacionamiento n.º UIC 327145708720; corte compuesto por 10 vagones plataforma (9 MMC + 1 MC).",
+   "cita": "mediante la aplicación del freno de estacionamiento de volante en el segundo vagón por el lado León (n.º UIC 327145708720), así como mediante el freno automático del tren, sin la disposición de calces antideriva",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Mercancías peligrosas (MMPP): UTI con Argón Líquido (ONU 1951/22) en el vagón n.º 1 (lado León) y UTIs con Hidróxido Sódico (ONU 1824/80) en los vagones n.º 3 al n.º 9.",
+   "cita": "La composición trasladada contenía MMPP: el vagón n.º 1, por el lado León, transportaba una UTI con Argón Líquido (ONU 1951/22), mientras que los vagones n.º 3 al n.º 9 transportaban UTIs con Hidróxido Sódico (ONU 1824/80).",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
   "2.3.5": {
    "valor": null,
    "cita": null,
@@ -16,25 +79,25 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.4.3": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "El día del suceso las condiciones meteorológicas y de visibilidad eran favorables.",
+   "cita": "El día del suceso las condiciones meteorológicas y de visibilidad eran favorables.",
+   "pagina": 10,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "3.4.4": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "Los sistemas de control, mando y señalización, así como la infraestructura, las comunicaciones y los equipos de seguridad del tren funcionaron correctamente.",
+   "cita": "Los sistemas de control, mando y señalización, así como la infraestructura, las comunicaciones y los equipos de seguridad del tren funcionaron correctamente.",
+   "pagina": 15,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "3.6.1": {
-   "valor": null,
-   "cita": null,
-   "pagina": null,
+   "valor": "Se ha analizado la intervención del Auxiliar de Circulación de LOGIRAIL, identificándose factores humanos relacionados con el suceso, incluyendo la inmovilización del material con un único freno de estacionamiento sin calces antideriva y la ausencia de retroalimentación para verificar la eficacia del freno.",
+   "cita": "la escasez de calces antideriva, derivada de su desaparición continuada por robos, impidió complementar la inmovilización con otro medio esencial de seguridad.",
+   "pagina": 19,
    "verificado": true,
-   "verificacion": "null honesto: no consta en el informe"
+   "verificacion": "cita literal en página"
   },
   "3.6.2": {
    "valor": null,
@@ -58,6 +121,69 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "3.6.5": {
+   "valor": "El diseño del freno de estacionamiento, accionado mediante un volante sin topes, muescas o indicadores de posición, dificulta al personal verificar visual o funcionalmente que ha sido correctamente aplicado.",
+   "cita": "Su accionamiento se realiza mediante un volante sin topes, muescas o indicadores de posición, lo que impide al personal verificar visual o funcionalmente que ha sido correctamente aplicado.",
+   "pagina": 16,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
    "valor": null,
    "cita": null,
    "pagina": null,

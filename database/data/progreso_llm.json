@@ -31,7 +31,655 @@
    "null_honestos": 24,
    "rechazados": 0,
    "intentos": 1
+  },
+  "200124-291117-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "200421-010718-IF-SN_CIAF_": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "200723-201118-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "201117-091219-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "2023-114-231126-if_ciaf": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "2024-122-1213-if": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "2024-64-0625-if": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 02.07.204 150324-140702-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 02.09.2014 -140902-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 02.09.2015 170530-150902-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 04.03.2015 160531150304IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 04.11.2016 180322161104IFSN_CIAF_CHESTE": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT ": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 05.09.2013 IF_050913_270115_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 05.10.2015 170627-151005-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 06.01.2017 180718-170106-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 06.08.2014 150922-140806-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 07 04 2013 IF-070413-240315-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 09.02.2015 160927150209IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 09.09.2016 190329-160909-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 09.11.2014 151124-141109-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 10 07 2014 150428-140710-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 10.05.2015 161129150510IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 11 07 2014 150525-140711-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 3,
+   "null_honestos": 15,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 11 07 2014 150525-140711-IF-CIAF-1": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 11.08.2014 151022-140811-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 11.10.2014 160628-141011-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 12.01.2015 160223-150112-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 12.08.2013 IF_120813_100215_CIAF": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 0,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 13.02.2015 160531150213IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 13.02.2017 180424-170213-IF-SN-CIAF ": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 13.07.2017 191022-170713-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 14.10.2015 170503-151014-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 15 04 2014 -140415-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 15.01.2017 N181219-170115-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 15.03.2016 170720-160315-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 16.03.2016 170720-160316-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 17.02.2015 151222-150217-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 8,
+   "null_honestos": 10,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 17.04.2016 171017-160417-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 18.03.2015 160531150318IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 18.07.2016 171017-160718-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 18.11.2014 151124-141118-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 4,
+   "null_honestos": 14,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 20.11.2015 170131-151120-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 21.08.2017 190726-170821-IF-SN_CIAF ": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 22.05.2015 160628-150522-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 22.10.2015 160927151022IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 23.01.2014 IF_230114_270115_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 23.01.2016 170919-160123-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 23.05.2017 181219-170523-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 25.01.2016 170331-160125-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 25.07.2017 190426-170725-IF-SN-CIAF_": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 26.09.2014 150922-140926-IF-CIAF_SANTA MARÍA DE LA ALAMEDA": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 4,
+   "null_honestos": 14,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 27.08.2015 161129150827IFCIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 28.05.2016 180223-160528-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 30.09.2016 180525-160930-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 31.03.2015 160223-150331-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES 31.08.2014 150803-140831-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES IF_060613_281014_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES IF_260913_281014_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10002 - 210916-200304-IF_sn_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10111 - 2021-09-0205-IF Blanes": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10126 - 220429-210702-if_ciaf": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10164 - 220526-210129-IF-SN-EN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10227 - 221220-210503-IF_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10228 - 202171 0906 IF sn_en": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10251 - 2022-48-0612-IF": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 3,
+   "null_honestos": 15,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10252 - 2022-46-0601-IF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10306- 202270 0815 IF Manresa (english version)": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10367 - 20230624 2022107 IF ELS GUIAMETS": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10382 - 2022-108-1105-IF": {
+   "estado": "hecho",
+   "campos": 18,
+   "con_cita": 4,
+   "null_honestos": 14,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10383 - 2023-11-0130-IF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10479 - Final Report - 2023-43-0518-IF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-5925 - 210624-190208-if-sn_ciaf": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-6201 - 210520-200124-IF-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-6255-210121-200419-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ES-6274 - 211125-200602-IF_CIAF (+ENG)": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-010207-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-010307-140907-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-011206-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
   }
  },
- "actualizado": "2026-09-26 18:05:13"
+ "actualizado": "2026-09-26 23:58:34"
 }

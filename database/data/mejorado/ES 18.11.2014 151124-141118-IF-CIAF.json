@@ -1,0 +1,131 @@
+{
+ "stem": "ES 18.11.2014 151124-141118-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": "En la zona del accidente estaba establecida una limitación temporal de velocidad a 10 km/h desde el año 2010 debido al estado de la vía.",
+   "cita": "En la zona del accidente estaba establecida una limitación temporal de velocidad a 10 km/h desde el año 2010 debido al estado de la vía.",
+   "pagina": 26,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "95.71.0335.010-5",
+   "cita": "compuesto por la locomotora 95.71.0335.010-5, dos vagones-cisterna limpios (no MMPP, posiciones 1 y 2)",
+   "pagina": 23,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "nueve vagones-cisterna cargados con óxido de propileno (MMPP, posiciones del 3 al 11) y un vagón-cisterna vacío sin limpiar con restos de benceno (MMPP, posición 12)",
+   "cita": "nueve vagones-cisterna cargados con óxido de propileno (MMPP, posiciones del 3 al 11) y un vagón-cisterna vacío sin limpiar con restos de benceno (MMPP, posición 12)",
+   "pagina": 23,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada de conducción del maquinista del tren 87503: día 18: 1 hora y 49 minutos; día 17: descanso; día 16: descanso",
+   "cita": "Jornada de conducción del maquinista del tren 87503: \n- el día 18: 1 hora y 49 minutos. \n- el día 17: descanso. \n- el día 16: descanso.",
+   "pagina": 22,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

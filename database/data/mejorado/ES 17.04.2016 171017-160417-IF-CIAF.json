@@ -1,0 +1,194 @@
+{
+ "stem": "ES 17.04.2016 171017-160417-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0021/2016",
+   "cita": "Investigación del accidente\nnº 0021/2016 ocurrido el 17.04.2016",
+   "pagina": 35,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Como factor coadyuvante, el jefe del CTC no comprobó que la vía 4 tiene una longitud menor a la del tren. De haberse cerciorado de esta circunstancia no hubiera previsto su estacionamiento en ella. Por otro lado, el jefe del CTC incumple el artículo 315 del RGC, al no comprobar de forma fehaciente la liberación del circuito de vía CVA4, máxime al tratarse de una vía de poco uso.",
+   "cita": "Como factor coadyuvante, el jefe del CTC no comprobó que la vía 4 tiene una longitud menor a la del tren. De haberse cerciorado de esta circunstancia no hubiera previsto su estacionamiento en ella.",
+   "pagina": 43,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Los carriles de la vía 4 desde su inicio en la aguja 6, que corresponden al circuito de vía CVA4, presentaban signos de fuerte oxidación, por ser una vía poco utilizada y no haber sido objeto de limpieza y/o especial atención con anterioridad, lo que provocó la falta de shuntado en dicho circuito. También como causa subyacente puede apuntarse la no completa verificación del funcionamiento del circuito CVA4 en la revisión de mantenimiento realizada el 27/1/2014, además de no contemplarse en esta revisión el estado de la superficie del carril.",
+   "cita": "presentaban signos de fuerte oxidación, por ser una vía poco utilizada y no haber sido objeto de limpieza y/o especial atención con anterioridad, lo que provocó la falta de shuntado en dicho circuito.",
+   "pagina": 44,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "837139015173",
+   "cita": "se autorizó, por seguridad en la circulación, el encarrilamiento del vagón de cola (837139015173) del tren 82692 y su estacionamiento correcto en la vía 4.",
+   "pagina": 38,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del accidente era de noche y las condiciones meteorológicas buenas.",
+   "cita": "En el momento del accidente era de noche y las condiciones meteorológicas buenas.",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

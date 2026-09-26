@@ -1,0 +1,131 @@
+{
+ "stem": "ES 17.02.2015 151222-150217-IF-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0011/2015",
+   "cita": "Investigación del incidente nº 0011/2015 ocurrido el 17.02.2015",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": "Con el vehículo detenido delante de la señal EB5, en momentos puntuales, el efecto del reflejo de la luz solar puede inducir a error de percepción del foco blanco de la señal a los maquinistas.",
+   "cita": "Con el vehículo detenido delante de la señal EB5, en momentos puntuales, el efecto del reflejo de la luz solar puede inducir a error de percepción del foco blanco de la señal a los maquinistas.",
+   "pagina": 21,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "UTs 907174461505 y 907174461596 (UT 446150)",
+   "cita": "En el análisis del registrador de seguridad de la UT 446150 perteneciente a la maniobra para tren 21428 se verifica que funcionó correctamente.",
+   "pagina": 21,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Material vacío (de cercanías)",
+   "cita": "material vacío de cercanías UTs 907174461505 y 907174461596",
+   "pagina": 21,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En la visita conjunta Adif-Renfe Viajeros se verificó que, con el vehículo detenido delante de la señal EB5, en momentos puntuales la luz solar incidía sobre el frontal del vehículo y éste reflejaba su color blanco sobre la óptica del foco blanco de la señal, pudiendo inducir a error y hacer pensar a los maquinistas que la señal presenta indicación de rebase autorizado.",
+   "cita": "verificaron que en momentos puntuales la luz incidía sobre el frontal del vehículo y éste reflejaba su color blanco sobre la óptica del foco blanco de la señal",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "Sí, el incidente se produce por fallo humano del personal de conducción de la maniobra para tren 21428 (material vacío de cercanías), concretamente por un error en la percepción de la indicación de la señal EB5, dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario.",
+   "cita": "El incidente se produce por fallo humano del personal de conducción de la maniobra para tren 21428 (material vacío de cercanías UTs 907174461505 y 907174461596)",
+   "pagina": 21,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "La jornada laboral y los tiempos de conducción y descanso cumplen con la normativa vigente.",
+   "cita": "Asimismo, la jornada laboral y los tiempos de conducción y descanso cumplen con la normativa vigente.",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
+   "cita": "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico.",
+   "pagina": 20,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

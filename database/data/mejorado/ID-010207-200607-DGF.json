@@ -1,0 +1,194 @@
+{
+ "stem": "ID-010207-200607-DGF",
+ "campos": {
+  "0.2": {
+   "valor": "ID-010207-200607-DGF",
+   "cita": "ID-010207-200607-DGF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe definitivo",
+   "cita": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 06/2007",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "252029",
+   "cita": "compuesto por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": "Era de noche, el tiempo estaba despejado y existía buena iluminación ambiental",
+   "cita": "En el momento del accidente, era de noche y el tiempo era despejado. En  la inspección del entorno, se constata que existe una buena iluminación ambiental.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "La incidencia tuvo una duración de 17 minutos, provocando 27 minutos de retrasos acumulados en 2 trenes de larga distancia y 55 minutos en 4 trenes de Cercanías",
+   "cita": "La incidencia tuvo una duración de 17 minutos (ya que se restableció el tráfico por vía 4) desde las 18:53 horas hasta las 19:10, provocando un total de 27 minutos de retrasos",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "Tramo en traza recta con buena visibilidad a ambos lados de las vías; de noche, despejado y con buena iluminación ambiental",
+   "cita": "El paso entre andenes, se encuentra situado en traza recta y con  buena visibilidad desde los márgenes del mismo a ambos lados de las vías.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "El maquinista informó al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Protección Civil de ADIF, Gerencias Territoriales de Seguridad, Operador de Larga Distancia, Jefatura Técnica de Operaciones y medios sanitarios",
+   "cita": "El maquinista informó al Puesto de Mando, el cual cursó aviso a Seguridad Corporativa y Protección Civil de ADIF,  Gerencia Territorial de Seguridad en la Circulación Norte del ADIF",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada de conducción del día del accidente de maquinista y ayudante: 04:23 h; los días 31-01 y 30-01-2007: descanso; no se superaron los límites reglamentarios en las 48 h anteriores",
+   "cita": "Se constata que la jornada del maquinista y la del ayudante el día del accidente y en las 48h anteriores no supera los límites reglamentarios.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Tanto el maquinista como su ayudante estaban en perfectas condiciones para el desarrollo de sus funciones; prueba de alcoholemia negativa (0,00mg/1000ml) en ambos",
+   "cita": "Del control de alcoholemia realizado se desprende que tanto el maquinista como su ayudante se encontraban en perfectas condiciones para el desarrollo de sus funciones.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

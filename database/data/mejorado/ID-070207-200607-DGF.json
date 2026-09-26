@@ -1,0 +1,194 @@
+{
+ "stem": "ID-070207-200607-DGF",
+ "campos": {
+  "0.2": {
+   "valor": "ID-070207-200607-DGF",
+   "cita": "ID-070207-200607-DGF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe definitivo",
+   "cita": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0009/2007",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "252040",
+   "cita": "remolcado por locomotora 252040, con 9 vehículos y 140 toneladas",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "140 toneladas",
+   "cita": "El tren de viajeros Altaria nº 77 de la empresa ferroviaria Renfe Operadora, remolcado por locomotora 252040, con 9 vehículos y 140 toneladas",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada el día del accidente, 4:26h. y 3:26h de conducción efectiva. Jornada de conducción el día 6-02-2007, descanso. Jornada de conducción el día 5-02-2007, descanso.",
+   "cita": "Jornada el día del accidente, 4:26h. y 3:26h de conducción efectiva.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "En el año 2006 en las proximidades de esta estación se produjeron cuatro accidentes graves por arrollamiento con fechas 18.04.06, 09.06.06, 27.11.06 y 28.11.06.",
+   "cita": "En el año 2006 en las proximidades de esta estación se produjeron cuatro accidentes graves por arrollamiento con fechas 18.04.06, 09.06.06, 27.11.06 y 28.11.06.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": "Instaurar vigilancia en el apeadero de San Cristóbal de los Ángeles, al igual que se hizo en la estación de San Cristóbal Industrial. Reparar el cerramiento actual y realizar una campaña de exhaustivo seguimiento del estado de conservación de dicho vallado, e intentar agilizar en la medida de lo posible los trámites para que se pueda construir un nuevo cerramiento de mayor consistencia. Intentar coordinar junto con el Ayuntamiento de Madrid algún tipo de transporte o actuación para estas personas, que impida que deambulen por las vías.",
+   "cita": "Instaurar vigilancia en el apeadero de San Cristóbal de los Ángeles, al igual que se hizo en la estación de San Cristóbal Industrial.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

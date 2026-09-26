@@ -1,0 +1,194 @@
+{
+ "stem": "ES-10126 - 220429-210702-if_ciaf",
+ "campos": {
+  "0.2": {
+   "valor": "59/2021",
+   "cita": "INFORME FINAL DE LA CIAF (IF) 59/2021 ",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "La particular disposición en planta de la intersección en la que se encuentra (con la incorporación de una calle secundaria justo antes del paso, y el ángulo muy pronunciado de esa incorporación) puede distorsionar la eficacia de las medidas de señalización y protección del paso",
+   "cita": "Como factor contribuyente se señala que la particular disposición en planta de la intersección en la que se encuentra (con la incorporación de una calle secundaria justo antes del paso, y el ángulo muy pronunciado de esa incorporación) puede distorsionar la eficacia de las medidas de señalización y protección del paso",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Factores causales sistémicos: la problemática generada en los pasos a nivel cuyos trazados viarios incluyen, en el acceso al paso, elementos como intersecciones, giros, incorporaciones y otros similares que complican el acceso de los vehículos de carretera",
+   "cita": "En cuanto a factores causales sistémicos, este suceso desvela la problemática generada en los pasos a nivel cuyos trazados viarios incluyen, en el acceso al paso, elementos como intersecciones, giros, incorporaciones y otros similares que complican el acceso de los vehículos de carretera",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "252.059",
+   "cita": "El convoy estaba formado por la locomotora 252.059 y una composición Talgo 6B5, de 9 vehículos con 10 ejes",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "No existían obras en el lugar del suceso ni en las inmediaciones",
+   "cita": "No existían obras en el lugar del suceso ni en las inmediaciones.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": "No se produjeron daños al medio ambiente.",
+   "cita": "Daños al Medio Ambiente\nNo se produjeron daños al medio ambiente.",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "Sufrieron retrasos 18 trenes, sumando entre todos 1423 minutos perdidos, más los 255 minutos de retraso del tren implicado, para una pérdida total de 1678 minutos (27 horas y 58 minutos). Fueron suprimidos otros 6 trenes, afectando un total de 25 circulaciones.",
+   "cita": "Sufrieron retrasos 18 trenes (6 cercanías, 6 de media distancia, 5 de larga distancia y un mercancías), sumando entre todos 1423 minutos perdidos. A esto hay que sumar los 255 minutos de retraso del tren directamente implicado en el accidente",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "Las condiciones meteorológicas eran buenas: pleno día, con tiempo despejado. El sol se encontraba casi al Oeste (azimut 262,65°), a espaldas de la trayectoria de aproximación del vehículo, a una altura sobre el horizonte de 47,52°.",
+   "cita": "Las condiciones meteorológicas el día del accidente eran buenas: pleno día, con tiempo despejado. El análisis de la posición del sol (de acuerdo con la herramienta de cálculo SunEarthTools.com) revela que en el momento del accidente el sol se encontraba casi al Oeste (azimut 262,65), a espaldas de la trayectoria de aproximación del vehículo al paso a nivel, y a una altura sobre el horizonte de 47,52.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía tren-tierra (modalidad A, canal 69) y telefonía móvil corporativa. Todas las comunicaciones se realizaron sin dificultad.",
+   "cita": "Radiotelefonía tren-tierra (modalidad A, canal 69) y telefonía móvil corporativa. Todas las comunicaciones se realizaron sin dificultad.",
+   "pagina": 19,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "Como causa directa del accidente se considera el fallo humano del conductor del coche accidentado, que habría pasado por alto las últimas señales antes del paso a nivel y la semibarrera bajada.",
+   "cita": "Como causa directa del accidente se considera el fallo humano del conductor del coche accidentado, que habría pasado por alto las últimas señales antes del paso a nivel y la semibarrera bajada, entrando en el paso en el momento en el que llegó el tren",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

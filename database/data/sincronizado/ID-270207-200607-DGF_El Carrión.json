@@ -1,0 +1,17 @@
+{
+ "clave": "0013/2007",
+ "id": "ID-270207-200607-DGF_El Carrión",
+ "pais": "ES",
+ "titulo": "",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-270207-200607-DGF_El%20Carri%C3%B3n.pdf",
+ "anio": 2007,
+ "fuentes": {
+  "crudo": "database/data/crudo/ID-270207-200607-DGF_El Carrión.json",
+  "db": null,
+  "v3": null
+ },
+ "geolocalizacion": null,
+ "victimas": null,
+ "analisis": null,
+ "textos": null
+}

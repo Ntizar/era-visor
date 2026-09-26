@@ -1,0 +1,194 @@
+{
+ "stem": "ES-10479 - Final Report - 2023-43-0518-IF",
+ "campos": {
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Contributing factors: 1. The necessary test to detect the present error was not included in the technologist's testing campaign. See Recommendations 43/2023-2 and 43/2023-3. 2. There was a lack of definition of the scope of the project and the specification of the necessary tests by both Alstom (technologist) and ADIF (infrastructure manager). See Recommendations 43/2023-3 and 43/2003-4.",
+   "cita": "Contributing factors:  \n1. The necessary test to detect the present error was not included in the technologist's testing campaign. See Recommendations 43/2023-2 and 43/2023-3.",
+   "pagina": 25,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Causal factors: 1. The software development was based on erroneous assumptions regarding the scope of the project. See Recommendations 43/2023-1 and 43/2023-4. 2. There was no follow-up or verification of the initial assumptions, so they were taken as valid in later phases of the project. See Recommendations 43/2023-1.",
+   "cita": "Causal factors:  \n1. The software development was based on erroneous assumptions regarding the scope of the project. See Recommendations 43/2023-1 and 43/2023-4.",
+   "pagina": 25,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "Condiciones meteorológicas buenas, permitiendo buena visibilidad, nublado, pero sin lluvia",
+   "cita": "Durante el incidente las condiciones meteorológicas eran buenas, permitiendo buena visibilidad, nublado, pero sin lluvia.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Sistema de comunicación tren-tierra, canal 64",
+   "cita": "El sistema de comunicación es tren-tierra, canal 64.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El maquinista detectó la incoherencia en la secuencia de señales, actuó sobre el freno de emergencia con intención de mitigar el posible riesgo y alertó al personal del CRC",
+   "cita": "En este caso es destacable la actuación del maquinista del tren 51155 al percatarse de la incoherencia en la secuencia de señales.",
+   "pagina": 19,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": "Durante el proceso de investigación de este suceso, se ha detectado que el \"Protocolo de pruebas estándar de bloqueo\", detallado en la IT-205-002-001 carece de un desarrollo que concrete la forma en que se registre cada una de las pruebas realizadas. Análogamente puede extenderse esta carencia al resto de protocolos de prueba incluidos en dicha instrucción técnica. Se aprecia una falta de aplicabilidad de dichos protocolos a las diferentes funciones evaluadas en cada proyecto, así como una dificultad de registro de cada prueba. Así mismo, debe tenerse en cuenta que es necesario que dicho protocolo se pueda aplicar de manera transversal a todos los desarrollos independientemente de las pruebas internas de cada tecnólogo. Ver Recomendación 43/2023-5",
+   "cita": "Durante el proceso de investigación de este suceso, se ha detectado que el “Protocolo de pruebas estándar de bloqueo”, detallado en la IT- 205-002-001 carece de un desarrollo que concrete la forma en que se registre cada una de las pruebas realizadas.",
+   "pagina": 21,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": "ALSTOM y ADIF",
+   "cita": "Destinatario | Implementador final | Número | Recomendación — AESF | ALSTOM | 43/2023-1 … AESF | ADIF | 43/2023-5",
+   "pagina": 22,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}
