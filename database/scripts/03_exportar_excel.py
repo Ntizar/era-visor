@@ -11,11 +11,13 @@ Contrato:
   • `url_oficial` NUNCA vacío (obligatorio de proyecto).
   • Hojas 1-a-N desnormalizadas, enlazadas por `clave` (expediente) y con
     su `url_oficial` en cada fila: Recomendaciones, Entidades, Cronología,
-    Trenes, Personal y Tablas (fila a fila, con página y cita).
+    Trenes, Personal, Tablas (fila a fila, con página y cita) y Mejorado
+    (Fase 4B: revisión LLM celda a celda con su cita literal).
   • Hojas de control: Diccionario (los 70 campos) y Cobertura (% por campo).
 
-Fuente única: database/data/crudo/*.json (Fase 2). El Excel es una EXPORT
-regenerable — nada se calcula aquí que no esté ya en el crudo.
+Fuente única: database/data/crudo/*.json (Fase 2) + database/data/mejorado/
+(Fase 4B, opcional). Un valor LLM SÓLO rellena huecos deterministas: nunca
+pisa un valor con cita (columna `campos_llm` cuenta los rellenados).
 
 Uso: py 03_exportar_excel.py [--solo STEM]
 """
@@ -33,6 +35,9 @@ RAIZ = Path(__file__).resolve().parents[2]
 CRUDO = RAIZ / "database" / "data" / "crudo"
 DATA = RAIZ / "database" / "data"
 SALIDA = DATA / "ciaf_base_global.xlsx"
+# Fase 4B: revisión LLM con cita verificada (opcional — si no existe, el
+# Excel sale idéntico al determinista).
+MEJORADO = DATA / "mejorado"
 
 MAX_CELDA = 32000  # límite real de Excel por celda
 CAB_FONDO = PatternFill("solid", fgColor="DBEAFE")   # azul suave, monocromo
@@ -41,9 +46,10 @@ TITULO = Font(bold=True, size=11, color="111827")
 
 # columnas analíticas de cabecera (siempre presentes, ordenadas primero)
 IDENT = ["clave", "expediente", "anio", "titulo", "titulo_normalizado",
-         "url_oficial", "pdf", "md",
+         "url_oficial", "pdf", "md", "tipo_documento", "n_documentos",
+         "principal",
          "paginas", "estado_cobertura", "campos_con_valor", "campos_con_cita",
-         "cobertura_pct"]
+         "campos_llm", "cobertura_pct"]
 
 DERIV = ["fecha_suceso", "anio_suceso", "hora_suceso", "tipo_suceso",
          "lugar", "estacion", "pk", "linea", "provincia", "municipio",
@@ -94,6 +100,27 @@ def titulo_canonico(titulo: str) -> str:
     if limpio.isupper():
         limpio = limpio.lower().capitalize()
     return limpio
+
+
+def tipo_documento(pdf, md=""):
+    """Documenta QUÉ es el fichero dentro de un expediente.
+
+    21 expedientes tienen DOS documentos (medido): IF (informe final, 10-16
+    pág) vs RS (resumen de 2 pág), Final vs Interim, español vs versión
+    eRAIL en inglés. NUNCA se fusionan — dos fuentes distintas mezcladas en
+    una celda romperían la regla de oro 2 —; se marcan para poder filtrar.
+    """
+    n = (pdf or "").upper()
+    if re.search(r"ERA-\d{4}-\d+", n) or n.rstrip(".JSON").endswith("-EN") \
+            or "-EN." in n or n.endswith("EN.JSON"):
+        return "EN"          # versión eRAIL en inglés
+    if re.search(r"(^|[-_ ])RS[-_ ]", n):
+        return "RS"          # resumen de 2 páginas
+    if "INTERIM" in n or "AVANCE" in n or "STATEMENT" in n:
+        return "INTERIM"     # nota de avance de investigación
+    if "IF" in n:
+        return "IF"          # informe final
+    return "OTRO"
 
 
 def hoja_tablas(docs):
@@ -214,16 +241,30 @@ def cargar():
     docs = []
     for f in sorted(CRUDO.glob("*.json")):
         docs.append(json.loads(f.read_text(encoding="utf-8")))
-    return guia, bases, por_clave, docs
+    # Fase 4B (opcional): {stem: {campos: {ref: {valor, pagina, cita, ...}}}}
+    mej = {}
+    if MEJORADO.is_dir():
+        for f in sorted(MEJORADO.glob("*.json")):
+            d = json.loads(f.read_text(encoding="utf-8"))
+            mej[d.get("stem") or f.stem] = d
+    return guia, bases, por_clave, docs, mej
 
 
 # --------------------------------------------------------------------- hojas
-def filas_informes(guia, por_clave, docs):
-    """Una fila por informe: identificación + 85 columnas de guía + derivadas."""
+def filas_informes(guia, por_clave, docs, mej=None):
+    """Una fila por informe: identificación + 70 columnas de guía + derivadas.
+
+    REGLA DE ORO 1: un valor LLM sólo puede rellenar un hueco determinista,
+    nunca pisar uno existente. Así `valor_fuente` (Fase 2) sigue siendo el
+    que manda y el aporte de la Fase 4 queda contado en `campos_llm`.
+    """
+    mej = mej or {}
     refs = list(guia)
     filas = []
     for d in docs:
         campos = d.get("campos", {})
+        # el fichero de la Fase 4 se llama por el stem del md_base
+        stem = Path(d.get("md") or "").stem or d.get("stem", "")
         reg = por_clave.get(d.get("clave", ""), {}) or \
               por_clave.get(d.get("id", ""), {}) or {}
         clave = d.get("clave") or reg.get("clave") or d.get("id", "")
@@ -238,8 +279,10 @@ def filas_informes(guia, por_clave, docs):
             "md": d.get("md", ""),
             "paginas": d.get("paginas_md", ""),
             "estado_cobertura": reg.get("estado", ""),
+            "tipo_documento": tipo_documento(d.get("pdf", ""),
+                                             d.get("md", "")),
         }
-        con_valor = con_cita = 0
+        con_valor = con_cita = rellenos_llm = 0
         for ref in refs:
             c = campos.get(ref, {})
             val = c.get("valor_fuente")
@@ -247,9 +290,18 @@ def filas_informes(guia, por_clave, docs):
                 con_valor += 1
                 if c.get("pagina"):
                     con_cita += 1
-            fila[ref] = corte(a_texto(val))
+                fila[ref] = corte(a_texto(val))
+                continue
+            # hueco determinista: lo rellena SOLO un valor LLM verificado
+            m = ((mej.get(stem) or {}).get("campos") or {}).get(ref, {})
+            if m.get("verificado") and m.get("valor") not in (None, "", [], {}):
+                fila[ref] = corte(a_texto(m.get("valor")))
+                rellenos_llm += 1
+            else:
+                fila[ref] = ""
         fila["campos_con_valor"] = con_valor
         fila["campos_con_cita"] = con_cita
+        fila["campos_llm"] = rellenos_llm
         fila["cobertura_pct"] = round(100 * con_cita / max(1, con_valor), 1) \
             if con_valor else 0
 
@@ -493,16 +545,57 @@ def escribir_hoja(wb, nombre, columnas, filas, primero=False):
     return ws
 
 
+def hoja_mejorado(docs, mej):
+    """Una fila por (informe, campo) revisado por LLM con su cita y página.
+
+    Es la trazabilidad Celda a Celda de la Fase 4B: sin esta hoja, un valor
+    LLM rellenado en `Informes` sería indistinguible de uno determinista.
+    """
+    # url_oficial/expediente del crudo, indexados por stem del md_base
+    idx = {}
+    for d in docs:
+        stem = Path(d.get("md") or "").stem or d.get("stem", "")
+        idx[stem] = (d.get("clave") or "", d.get("expediente") or "",
+                     d.get("url_oficial") or "")
+    filas = []
+    for stem, doc in sorted(mej.items()):
+        clave, exp, url = idx.get(stem, ("", "", ""))
+        for ref, m in sorted((doc.get("campos") or {}).items()):
+            filas.append({
+                "clave": clave, "expediente": exp, "url_oficial": url,
+                "ref": ref,
+                "valor": a_texto(m.get("valor")),
+                "pagina": m.get("pagina") or "",
+                "cita": corte(m.get("cita") or ""),
+                "verificado": "sí" if m.get("verificado") else "NO",
+                "verificacion": m.get("verificacion") or "",
+                "intentos": m.get("intentos", ""),
+            })
+    return filas
+
+
 def main() -> int:
-    guia, bases, por_clave, docs = cargar()
+    guia, bases, por_clave, docs, mej = cargar()
     if not docs:
         print("No hay database/data/crudo/ — corre primero 02_extraer_crudo.py")
         return 1
 
-    refs, filas_inf = filas_informes(guia, por_clave, docs)
+    refs, filas_inf = filas_informes(guia, por_clave, docs, mej)
     # título canónico: un solo formato para todos los años (columna nueva)
     for f in filas_inf:
         f["titulo_normalizado"] = titulo_canonico(f.get("titulo", ""))
+    # expedientes con DOS documentos (21 medidos: IF+RS, Final+Interim,
+    # es+eRAIL): se marcan y se elige el principal por número de campos.
+    # NO se fusionan nunca — cada fila sigue siendo UN documento.
+    por_exp = {}
+    for i, f in enumerate(filas_inf):
+        por_exp.setdefault(f.get("expediente") or f.get("clave"), []).append(
+            (i, f.get("campos_con_valor", 0) or 0))
+    for lst in por_exp.values():
+        mejor = max(lst, key=lambda t: t[1])[0]
+        for i, _ in lst:
+            filas_inf[i]["n_documentos"] = len(lst)
+            filas_inf[i]["principal"] = "sí" if i == mejor else "no"
     rec = hoja_recomendaciones(docs)
     ent = hoja_lista_simple(docs, "2.1.2", "entidad")
     cro = hoja_cronologia(docs)
@@ -511,6 +604,7 @@ def main() -> int:
     dic = hoja_diccionario(guia, bases)
     cob = hoja_cobertura(guia, docs)
     tab = hoja_tablas(docs)
+    mejo = hoja_mejorado(docs, mej)
 
     wb = Workbook()
     escribir_hoja(wb, "Informes", IDENT + DERIV + refs, filas_inf, primero=True)
@@ -536,13 +630,17 @@ def main() -> int:
     escribir_hoja(wb, "Tablas",
                   ["clave", "expediente", "url_oficial", "pagina", "tabla",
                    "fila", "cabecera", "valores", "tipo", "cita"], tab)
+    escribir_hoja(wb, "Mejorado",
+                  ["clave", "expediente", "url_oficial", "ref", "valor",
+                   "pagina", "cita", "verificado", "verificacion",
+                   "intentos"], mejo)
 
     # ---- GATE H4: url_oficial 100% en TODAS las hojas
     fallos = []
     for hoja, filas in (("Informes", filas_inf), ("Recomendaciones", rec),
                         ("Entidades", ent), ("Cronologia", cro),
                         ("Trenes", tre), ("Personal", per),
-                        ("Tablas", tab)):
+                        ("Tablas", tab), ("Mejorado", mejo)):
         sin = [f.get("clave", "?") for f in filas if not f.get("url_oficial")]
         if sin:
             fallos.append(f"{hoja}: {len(sin)} filas sin url_oficial (ej {sin[0]})")
@@ -555,6 +653,9 @@ def main() -> int:
     print(f"  Recomendaciones: {len(rec)} · Entidades: {len(ent)} · "
           f"Cronología: {len(cro)} · Trenes: {len(tre)} · Personal: {len(per)}")
     print(f"  Diccionario: {len(dic)} · Cobertura: {len(cob)}")
+    print(f"  Mejorado (Fase 4B): {len(mejo)} filas revisadas por LLM "
+          f"→ {sum(1 for f in filas_inf if f.get('campos_llm'))} informes "
+          f"con huecos rellenados ({sum(f.get('campos_llm', 0) for f in filas_inf)} celdas)")
     if fallos:
         for f in fallos:
             print(f"  ✗ {f}")

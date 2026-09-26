@@ -1,0 +1,194 @@
+{
+ "stem": "ES-10137 - 2021-64 IF v1.1 Medinaceli",
+ "campos": {
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Los factores contribuyentes fueron: no haber seguido las directrices de carga de la UIC; la falta de consideración del riesgo por efecto del viento, el ser los contenedores del tipo HC vacíos; y la configuración física en terraplén de la línea ferroviaria.",
+   "cita": "Los factores contribuyentes fueron: no haber seguido las directrices de carga de la UIC; la falta de consideración del riesgo por efecto del viento, el ser los contenedores del tipo HC vacíos; y la configuración física en terraplén de la línea ferroviaria.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Un factor contribuyente sistémico fue la falta de consideración de los riesgos de operación en los análisis de riesgos realizados en los procedimientos de transformación de material ferroviario (pues los vagones había sido objeto de modificación).",
+   "cita": "Un factor contribuyente sistémico fue la falta de consideración de los riesgos de operación en los análisis de riesgos realizados en los procedimientos de transformación de material ferroviario (pues los vagones había sido objeto de modificación).",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Locomotora 333382 y 31 vagones de la serie Kglps del Tren 90666 (LCR)",
+   "cita": "4.- A las 20h54 del 11/08/2021 el tren 90666, compuesto por la locomotora 333382 y por 31 vagones, cargando 33 contenedores, con un total de 685 t de masa y 507 m de longitud, inicia su marcha",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "En el momento del suceso no existían trabajos, restricciones o circunstancias especiales en la circulación de los trenes.",
+   "cita": "En el momento del suceso no existían trabajos, restricciones o circunstancias especiales en la circulación de los trenes.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "31 vagones cargados con 33 contenedores vacíos de 40 pies, de 4t de peso, tipo HC (High Cube) de 9,5 pies de altura (2,895 m), bajo la ATE 105-2/21.",
+   "cita": "Este tren transportaba un total de 31 vagones cargados con 33 contenedores vacíos, de 40 pies y 4t de peso, con un total de 685 t de masa y 507 m de longitud.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "Condiciones meteorológicas adversas consistentes en fuertes vientos y tormentas con lluvias que dificultaban la visibilidad.",
+   "cita": "En el momento del suceso existían condiciones meteorológicas adversas consistentes en fuertes vientos y tormentas con lluvias que dificultaban la visibilidad.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía tren-tierra en canal 69; BLAD y ASFA Digital en toda la línea.",
+   "cita": "La línea 200 de ADIF en el tramo Torralba-Medinaceli dispone de radiotelefonía tren-tierra en su canal 69, y toda la línea está dotada de BLAD y ASFA Digital.",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

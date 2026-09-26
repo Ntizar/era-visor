@@ -1,0 +1,131 @@
+{
+ "stem": "ES 02.07.204 150324-140702-IF-CIAF",
+ "campos": {
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista del tren 4100: el día 2: 6 horas y 14 minutos (3 horas y 24 minutos de conducción efectiva); el día 1: 9 horas y 30 minutos (5 horas y 20 minutos de conducción efectiva); el día 30: 8 horas (3 horas y 1 minuto de conducción efectiva). Jornada laboral del maquinista del tren 5172: el día 2: 8 horas y 45 minutos (6 hora y 2 minutos de conducción efectiva hasta el momento del incidente); el día 1: 7 horas y 20 minutos (2 horas y 7 minutos de conducción efectiva); el día 30: 7 horas y 50 minutos (4 horas y 28 minutos de conducción efectiva). Jornada laboral del responsable de circulación: el día 2: 5 horas y 43 minutos (horario de 14:00 a 22:00 horas); el día 1: 8 horas; el día 30: 8 horas.",
+   "cita": "Jornada laboral del maquinista del tren 4100: - el día 2: 6 horas y 14 minutos horas (3 horas y 24 minutos de conducción efectiva), - el día 1: 9 horas y 30 minutos (5 horas y 20 minutos de conducción efectiva), - el día 30: 8 horas (3 horas y 1 minuto de conducción efectiva). Jornada laboral del maquinista del tren 5172: - el día 2: 8 horas y 45 minutos (6 hora y 2 minutos de conducción efectiva hasta el momento del incidente)",
+   "pagina": 23,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Se realizó prueba de alcoholemia en aire espirado al conductor el día del incidente a las 23:10 horas en Bonete, con resultado negativo (0,00 mg/1000 ml). El personal de conducción y el responsable de circulación cumple la normativa vigente en cuanto a reconocimiento médico y psicotécnico.",
+   "cita": "Al conductor, el día del incidente a las 23:10 horas en Bonete, se le realizó prueba de alcoholemia en aire espirado con resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 23,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

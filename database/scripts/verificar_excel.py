@@ -41,7 +41,7 @@ print("refs duplicadas:", dups if dups else "0")
 # hojas 1-a-N: toda fila debe arrastrar url_oficial (se añade aquí cualquier
 # hoja nueva: si una hoja queda fuera del gate, el "100%" es una promesa)
 HOJAS_1aN = ["Recomendaciones", "Entidades", "Cronologia", "Trenes",
-             "Personal", "Tablas"]
+             "Personal", "Tablas", "Mejorado"]
 for n in HOJAS_1aN:
     w = wb[n]
     f = list(w.iter_rows(values_only=True))

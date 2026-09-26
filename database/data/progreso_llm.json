@@ -1,0 +1,37 @@
+{
+ "informes": {
+  "ES-10137 - 2021-64 IF v1.1 Medinaceli": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "190628-120817-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "191217-230317-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "191217-280717-if-sn_ciaf": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  }
+ },
+ "actualizado": "2026-09-26 18:05:13"
+}
