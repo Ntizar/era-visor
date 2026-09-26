@@ -38,8 +38,11 @@ refs = [c.split(" ")[0] for c in cab if c[:1].isdigit()]
 dups = {r for r in refs if refs.count(r) > 1}
 print("refs duplicadas:", dups if dups else "0")
 
-# hojas 1-a-N: toda fila debe arrastrar url_oficial
-for n in ["Recomendaciones", "Entidades", "Cronologia", "Trenes", "Personal"]:
+# hojas 1-a-N: toda fila debe arrastrar url_oficial (se añade aquí cualquier
+# hoja nueva: si una hoja queda fuera del gate, el "100%" es una promesa)
+HOJAS_1aN = ["Recomendaciones", "Entidades", "Cronologia", "Trenes",
+             "Personal", "Tablas"]
+for n in HOJAS_1aN:
     w = wb[n]
     f = list(w.iter_rows(values_only=True))
     if not f:

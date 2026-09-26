@@ -1,0 +1,358 @@
+{
+  "generado_por": "04_inventario.py",
+  "sin_llm": true,
+  "informes": 372,
+  "md_base": 372,
+  "paginas_totales": 7270,
+  "secciones": {
+    "total": 6594,
+    "sin_regla": 3674,
+    "cubiertas": 2920,
+    "pct_cubiertas": 44.3,
+    "top_sin_regla": [
+      {
+        "titulo": "otras normas",
+        "n": 169
+      },
+      {
+        "titulo": "legislación nacional",
+        "n": 167
+      },
+      {
+        "titulo": "decisión de abrir la investigación",
+        "n": 149
+      },
+      {
+        "titulo": "plan de emergencia interno-externo",
+        "n": 110
+      },
+      {
+        "titulo": "relación de las investigaciones e indagaciones",
+        "n": 108
+      },
+      {
+        "titulo": "hechos inmediatos del suceso",
+        "n": 108
+      },
+      {
+        "titulo": "minutos perdidos. interceptación de la vía",
+        "n": 76
+      },
+      {
+        "titulo": "- 180718-161104-if_ciaf.docx",
+        "n": 66
+      },
+      {
+        "titulo": "comentarios y sugerencias particulares",
+        "n": 64
+      },
+      {
+        "titulo": "ubicación del accidente",
+        "n": 58
+      },
+      {
+        "titulo": "investigación del accidente",
+        "n": 58
+      },
+      {
+        "titulo": "recogida de datos",
+        "n": 57
+      },
+      {
+        "titulo": "velocidad del tren.",
+        "n": 54
+      },
+      {
+        "titulo": "circunstancias del suceso",
+        "n": 48
+      },
+      {
+        "titulo": "deliberación",
+        "n": 47
+      },
+      {
+        "titulo": "sistemas de gestión de la seguridad",
+        "n": 45
+      },
+      {
+        "titulo": "suceso",
+        "n": 44
+      },
+      {
+        "titulo": "víctimas mortales, lesiones y daños materiales",
+        "n": 44
+      },
+      {
+        "titulo": "lugar del suceso.",
+        "n": 44
+      },
+      {
+        "titulo": "infraestructura e instalaciones técnicas",
+        "n": 42
+      },
+      {
+        "titulo": "plan de emergencia externo-interno",
+        "n": 37
+      },
+      {
+        "titulo": "resumen de las declaraciones de los testigos",
+        "n": 32
+      },
+      {
+        "titulo": "funcionamiento",
+        "n": 31
+      },
+      {
+        "titulo": "intercambio de mensajes",
+        "n": 29
+      },
+      {
+        "titulo": "instalaciones técnicas",
+        "n": 28
+      },
+      {
+        "titulo": "datos de tráfico ferroviario",
+        "n": 27
+      },
+      {
+        "titulo": "km/h",
+        "n": 27
+      },
+      {
+        "titulo": "instalaciones técnicas e infraestructura",
+        "n": 26
+      },
+      {
+        "titulo": "interfaz hombre-máquina del personal implicado",
+        "n": 20
+      },
+      {
+        "titulo": "de servicio.",
+        "n": 20
+      },
+      {
+        "titulo": "t",
+        "n": 19
+      },
+      {
+        "titulo": "plan de emergencias interno-externo",
+        "n": 16
+      },
+      {
+        "titulo": "resumen de las declaraciones",
+        "n": 15
+      },
+      {
+        "titulo": "decisión y motivo",
+        "n": 15
+      },
+      {
+        "titulo": "ámbito y límites de la investigación",
+        "n": 15
+      },
+      {
+        "titulo": "canales de comunicación",
+        "n": 15
+      },
+      {
+        "titulo": "infraestructura, instalaciones y comunicaciones",
+        "n": 15
+      },
+      {
+        "titulo": "cometidos y deberes relacionados con el suceso",
+        "n": 15
+      },
+      {
+        "titulo": "hechos",
+        "n": 15
+      },
+      {
+        "titulo": "personas que intervinieron en el accidente",
+        "n": 15
+      }
+    ]
+  },
+  "tablas": {
+    "total": 538,
+    "consumidas_recomendaciones": 341,
+    "sin_consumir": 197,
+    "pct_consumidas": 63.4,
+    "top_sin_consumir": [
+      {
+        "cabecera": "Hora (unificada a CTC) | RC CTC | RC Manresa | Movimientos de trenes",
+        "n": 5
+      },
+      {
+        "cabecera": " | Hora de | | | | | | | Acción que el maquinista",
+        "n": 3
+      },
+      {
+        "cabecera": "INTERLOCUTORES | CONVERSACIÓN",
+        "n": 3
+      },
+      {
+        "cabecera": "Hora (unificada a CTC) | RC CTC RC Manresa | Movimientos de trenes",
+        "n": 3
+      },
+      {
+        "cabecera": "Nº orden composición | Serie | Nº Vehículo UIC | Origen - destino | Me",
+        "n": 2
+      },
+      {
+        "cabecera": "Nº UIC | DESCRIPCIÓN DEL VEHÍCULO",
+        "n": 2
+      },
+      {
+        "cabecera": " | | Hora de | | | Indicación | | Velocidad",
+        "n": 2
+      },
+      {
+        "cabecera": "Agencia Estatal de Seguridad Ferroviaria (AESF) | Agencia Estatal de S",
+        "n": 2
+      },
+      {
+        "cabecera": "Agencia Estatal de Seguridad Ferroviaria (AESF) | Autoridad Portuaria ",
+        "n": 2
+      },
+      {
+        "cabecera": "Estaciones | PK | Vía | Bloqueo | Comunicaciones | Asistencia a la con",
+        "n": 2
+      },
+      {
+        "cabecera": "Hora | Procedencia/Destino | Sentido",
+        "n": 2
+      },
+      {
+        "cabecera": "Hora registrador | Hora CTC | Acción | Señal | Velocidad",
+        "n": 2
+      },
+      {
+        "cabecera": "Día | Horario trenes expedidos por vía 1 | ",
+        "n": 2
+      },
+      {
+        "cabecera": "Telefonema expedido | Telefonema recibido | Hora | | Corresponsal con ",
+        "n": 2
+      },
+      {
+        "cabecera": " | Nº de | Nº de | Hora | Expide | Recibe | Texto",
+        "n": 2
+      },
+      {
+        "cabecera": "Numeración UIC | Tipo de vehículo",
+        "n": 2
+      },
+      {
+        "cabecera": " | | | | | Campo | | | Taller | Campo | | | Taller | Taller",
+        "n": 2
+      },
+      {
+        "cabecera": "Final addressee | Number | Recommendation",
+        "n": 2
+      },
+      {
+        "cabecera": "Bif. | Branch",
+        "n": 2
+      },
+      {
+        "cabecera": "Bifurcación | Branch",
+        "n": 2
+      },
+      {
+        "cabecera": "Señal | Ubicación | Orden",
+        "n": 1
+      },
+      {
+        "cabecera": " | Serie: | 465",
+        "n": 1
+      },
+      {
+        "cabecera": " | Anchura: | 2,94 m",
+        "n": 1
+      },
+      {
+        "cabecera": " | Unidad en cabeza | Unidad en cola",
+        "n": 1
+      },
+      {
+        "cabecera": "Señal: | E’4 | E4 | R4",
+        "n": 1
+      },
+      {
+        "cabecera": "Sant Vicenç de Calders | 6:01",
+        "n": 1
+      },
+      {
+        "cabecera": " | Pasajeros | Tripulación",
+        "n": 1
+      },
+      {
+        "cabecera": "Expediente | Fecha | Estación | Velocidad | Heridos",
+        "n": 1
+      },
+      {
+        "cabecera": " | Hora | | | Indicación | ",
+        "n": 1
+      },
+      {
+        "cabecera": "Canal del registrador | Descripción",
+        "n": 1
+      },
+      {
+        "cabecera": "Manipulación Freno | Indica acción sobre el manipulador de freno (bool",
+        "n": 1
+      },
+      {
+        "cabecera": "Tramo | | Uso de | | Uso de | | Uso de freno de emergencia | Inicio fr",
+        "n": 1
+      },
+      {
+        "cabecera": "Testimonio | Posibilidad de un desmayo | Posibilidad de somnolencia",
+        "n": 1
+      },
+      {
+        "cabecera": "RIESGO DEL PUNTO ALERTAS | Sin Identificar | Medio | Medio-Alto Alto c",
+        "n": 1
+      },
+      {
+        "cabecera": "SEÑALES | | ORDEN",
+        "n": 1
+      },
+      {
+        "cabecera": "Niveles Alerta | Milímetros / 6 horas",
+        "n": 1
+      },
+      {
+        "cabecera": "Nivel 2 | Con alerta. Precipitación entre 40 y 80 mm en el intervalo d",
+        "n": 1
+      },
+      {
+        "cabecera": "Año | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2",
+        "n": 1
+      },
+      {
+        "cabecera": "Día | mm/día | Comentarios",
+        "n": 1
+      },
+      {
+        "cabecera": "SEÑAL | | PK | ORDEN",
+        "n": 1
+      }
+    ]
+  },
+  "campos": {
+    "guia": 70,
+    "estados": {
+      "cita_literal": 9306,
+      "sin_valor": 10273,
+      "solo_procedencia": 6461
+    },
+    "sin_valor_desglose": {
+      "no consta": 10273
+    },
+    "pct_con_cita": 35.7
+  },
+  "pendiente_llm": {
+    "campos_guia_parciales": 27
+  }
+}

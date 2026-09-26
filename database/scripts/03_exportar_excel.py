@@ -4,13 +4,15 @@
 
 Contrato:
   • 1 fila = 1 informe, en la hoja `Informes`.
-  • CADA dato de la guía CIAF en SU propia columna (85 refs: 0.1 … 4.6.3),
-    más las columnas de identificación y las analíticas derivadas.
+  • CADA dato de la guía CIAF en SU propia columna (las 70 refs reales;
+    los 15 títulos de bloque de la guía NO son campos y se excluyen),
+    más las columnas de identificación (incluye `titulo_normalizado`, un
+    único formato para todos los años) y las analíticas derivadas.
   • `url_oficial` NUNCA vacío (obligatorio de proyecto).
   • Hojas 1-a-N desnormalizadas, enlazadas por `clave` (expediente) y con
     su `url_oficial` en cada fila: Recomendaciones, Entidades, Cronología,
-    Trenes, Personal, Causas.
-  • Hojas de control: Diccionario (los 85 campos) y Cobertura (% por campo).
+    Trenes, Personal y Tablas (fila a fila, con página y cita).
+  • Hojas de control: Diccionario (los 70 campos) y Cobertura (% por campo).
 
 Fuente única: database/data/crudo/*.json (Fase 2). El Excel es una EXPORT
 regenerable — nada se calcula aquí que no esté ya en el crudo.
@@ -19,6 +21,7 @@ Uso: py 03_exportar_excel.py [--solo STEM]
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -37,7 +40,8 @@ CAB_LETRA = Font(bold=True, color="1E3A8A", size=10)
 TITULO = Font(bold=True, size=11, color="111827")
 
 # columnas analíticas de cabecera (siempre presentes, ordenadas primero)
-IDENT = ["clave", "expediente", "anio", "titulo", "url_oficial", "pdf", "md",
+IDENT = ["clave", "expediente", "anio", "titulo", "titulo_normalizado",
+         "url_oficial", "pdf", "md",
          "paginas", "estado_cobertura", "campos_con_valor", "campos_con_cita",
          "cobertura_pct"]
 
@@ -50,6 +54,75 @@ DERIV = ["fecha_suceso", "anio_suceso", "hora_suceso", "tipo_suceso",
 # claves preferentes para volcar listas de dicts de forma legible
 CLAVES_TEXTO = ("texto", "evento", "nombre", "rol", "implicacion",
                 "descripcion", "destinatario")
+
+
+# ---------------------------------------------------------------- normalización
+# Los títulos de la DB mezclan dos épocas de redacción y por eso "no todos
+# tienen el mismo formato": los antiguos son cancelería mayúscula con fórmula
+# ("INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
+# Nº 0046/2006 OCURRIDO EL 12.08.2017 ...") y los recientes, frase natural
+# ("Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2 de julio").
+# El título canónico deja UN solo formato y sin la parte redundante: el nº de
+# expediente y la fecha ya están en sus propias columnas.
+# Medido sobre los 349 títulos de la DB: 79 son cancelérica (23%) y el 77%
+# ya son frase natural. Este patrón matchea 79/79 (probado antes de usarlo).
+# V1 fallaba 0/79 porque exigía "SOBRE ... Nº" sin pasar por "DE LA CIAF (IF)".
+RX_PREAMBULO = re.compile(
+    r"^\s*INFORME\b.*?\d{3,4}\s*/\s*\d{2,4}\s*,?\s*", re.I | re.S)
+# El resto es redundante: expediente y fecha ya tienen su propia columna.
+# NO se ancla al final: después del suele venir el sitio ("... en la
+# estación de X"), que es justamente lo que sí aporta al título.
+RX_OCURRECIDO = re.compile(
+    r"^\s*OCURRIDO\s+(?:EL\s+(?:D[ÍI]A\s+)?)?[\d./\-]{4,25}\s*,?\s*",
+    re.I)
+RX_ESPACIOS = re.compile(r"\s{2,}")
+
+
+def titulo_canonico(titulo: str) -> str:
+    """Un único formato para todos los años. NUNCA inventa: si al limpiar no
+    queda texto descriptivo sensato, devuelve el original intacto."""
+    t = RX_ESPACIOS.sub(" ", str(titulo or "")).strip()
+    if not t:
+        return ""
+    limpio = RX_PREAMBULO.sub("", t)
+    limpio = RX_OCURRECIDO.sub("", limpio).strip(" ,;-")
+    # conserva el original si la limpieza no deja nada útil
+    if len(limpio) < 12:
+        return t
+    limpio = RX_ESPACIOS.sub(" ", limpio).strip(" ,-")
+    # si quedó TODO en mayúsculas, a frase normal; si no, se respeta
+    if limpio.isupper():
+        limpio = limpio.lower().capitalize()
+    return limpio
+
+
+def hoja_tablas(docs):
+    """1 fila por FILA de tabla: nada de las 538 tablas se pierde, y cada
+    fila lleva su página y su cita literal para poder verificarla."""
+    filas = []
+    for d in docs:
+        for i, t in enumerate(d.get("tablas", []), 1):
+            cab = [str(c) for c in (t.get("cabecera") or [])]
+            for j, f in enumerate(t.get("filas") or [], 1):
+                if isinstance(f, dict):
+                    vals = [str(f.get(c, "")) for c in cab]
+                else:
+                    vals = [str(x) for x in f]
+                filas.append({
+                    "clave": d.get("clave", ""),
+                    "expediente": d.get("expediente", ""),
+                    "url_oficial": d.get("url_oficial", ""),
+                    "pagina": t.get("pagina", ""),
+                    "tabla": i, "fila": j,
+                    "cabecera": json.dumps(cab, ensure_ascii=False),
+                    "valores": json.dumps(vals, ensure_ascii=False),
+                    "tipo": "recomendaciones"
+                            if ("destinatario" in " ".join(cab).lower()
+                                and "recomend" in " ".join(cab).lower())
+                            else "otra",
+                    "cita": t.get("cita", ""),
+                })
+    return filas
 
 
 # ------------------------------------------------------------------ utilidades
@@ -427,6 +500,9 @@ def main() -> int:
         return 1
 
     refs, filas_inf = filas_informes(guia, por_clave, docs)
+    # título canónico: un solo formato para todos los años (columna nueva)
+    for f in filas_inf:
+        f["titulo_normalizado"] = titulo_canonico(f.get("titulo", ""))
     rec = hoja_recomendaciones(docs)
     ent = hoja_lista_simple(docs, "2.1.2", "entidad")
     cro = hoja_cronologia(docs)
@@ -434,6 +510,7 @@ def main() -> int:
     per = hoja_personal(docs)
     dic = hoja_diccionario(guia, bases)
     cob = hoja_cobertura(guia, docs)
+    tab = hoja_tablas(docs)
 
     wb = Workbook()
     escribir_hoja(wb, "Informes", IDENT + DERIV + refs, filas_inf, primero=True)
@@ -456,12 +533,16 @@ def main() -> int:
                   ["ref", "campo", "bloque", "cumplimentable", "informes",
                    "con_valor", "con_cita", "verificados", "pct_valor",
                    "pct_cita"], cob)
+    escribir_hoja(wb, "Tablas",
+                  ["clave", "expediente", "url_oficial", "pagina", "tabla",
+                   "fila", "cabecera", "valores", "tipo", "cita"], tab)
 
     # ---- GATE H4: url_oficial 100% en TODAS las hojas
     fallos = []
     for hoja, filas in (("Informes", filas_inf), ("Recomendaciones", rec),
                         ("Entidades", ent), ("Cronologia", cro),
-                        ("Trenes", tre), ("Personal", per)):
+                        ("Trenes", tre), ("Personal", per),
+                        ("Tablas", tab)):
         sin = [f.get("clave", "?") for f in filas if not f.get("url_oficial")]
         if sin:
             fallos.append(f"{hoja}: {len(sin)} filas sin url_oficial (ej {sin[0]})")
