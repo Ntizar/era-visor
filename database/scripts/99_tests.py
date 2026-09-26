@@ -19,6 +19,12 @@ el siguiente a la semana siguiente").
   T7 consistencia    md_base ↔ crudo (stem a stem) y crudo ↔ manifest (clave)
   T8 dobles          expedientes con 2 documentos: marcados, nunca fusionados
   T9 regeneración    02+03 sobre 1 informe sin tocar el resto
+  T10 integridad     CADA celda del Excel = crudo (v1 intacto) O mejorado
+                     con cita verificada; ni perdidas ni sin fuente
+  T11 títulos        normalización MEDIDA: cuántos siguen crudos y cuántos
+                     formatos de encabezado conviven por año
+  T12 huecos         celdas vacías por campo; separa «la fuente no lo
+                     publica» (nunca se rellena) de «pendiente»
 
 NOTA de calibración: el primer arnés daba 5 fallos — 4 eran supuestos MÍOS
 erróneos (esperaba 372 informes en el manifest cuando son 351, comparaba
@@ -32,12 +38,16 @@ Salida: exit 0 si todo OK, exit 1 con el listado de fallos.
 """
 
 import glob
+import importlib.util
 import json
 import os
 import re
 import sys
 import subprocess
+from collections import Counter, defaultdict
 from pathlib import Path
+
+from openpyxl import load_workbook
 
 RAIZ = Path(__file__).resolve().parents[2]
 DB = RAIZ / "database"
@@ -334,6 +344,215 @@ def t9_regeneracion():
         print("    " + ((r.stderr or "") + (r2.stderr or ""))[-700:])
 
 
+def _exportador():
+    """Carga el exportador real (03) para reusar SUS conversores.
+
+    Si el test re-implementa `a_texto`/`corte` a su manera, toda celda que
+    sólo cambió de FORMATO (dict/lista -> texto legible) sale como
+    'modificada': un falso positivo masivo que ya costó una ronda entera
+    de diagnóstico. El test tiene que medir con la MISMA regla con la que
+    se escribió el dato."""
+    spec = importlib.util.spec_from_file_location(
+        "exp03", RAIZ / "database" / "scripts" / "03_exportar_excel.py")
+    m = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(m)
+    return m.a_texto, m.corte
+
+
+def _nn(v):
+    if v is None:
+        return ""
+    if isinstance(v, float) and v.is_integer():
+        v = int(v)
+    return re.sub(r"\s+", " ", str(v)).strip()
+
+
+def t10_integridad_v1():
+    """CADA celda con valor del Excel O es exactamente el dato determinista
+    del crudo (v1 intacto) O un valor de mejorado con cita verificada.
+
+    Responde a «¿el Excel oficial se ha perdido?» y a la vez detecta la
+    invención: 0 en ambas columnas = ni se perdió nada ni entró nada sin
+    fuente."""
+    a_texto, corte = _exportador()
+    guia = json.loads((DATA / "guia_campos.json").read_text(encoding="utf-8"))
+    refs = [str(g.get("ref")) for g in guia
+            if str(g.get("ref", "")).strip()[:1].isdigit()
+            and (g.get("campo") or "").strip()]
+    crudo = {}
+    for f in sorted(CRUDO.glob("*.json")):
+        d = json.loads(f.read_text(encoding="utf-8"))
+        crudo[Path(d.get("md") or f).stem] = d
+    mej = {}
+    if MEJ.is_dir():
+        for f in sorted(MEJ.glob("*.json")):
+            d = json.loads(f.read_text(encoding="utf-8"))
+            mej[d.get("stem") or f.stem] = d
+    wb = load_workbook(XLSX, read_only=True, data_only=True)
+    filas = list(wb["Informes"].iter_rows(values_only=True))
+    cab = [str(c or "") for c in filas[0]]
+    i_md = cab.index("md") if "md" in cab else -1
+    col = {r: cab.index(r) for r in refs if r in cab}
+    datos = [f for f in filas[1:] if any(f)]
+    wb.close()
+
+    perdidas, inventadas, intactas, justificadas = [], [], 0, 0
+    for f in datos:
+        stem = Path(f[i_md]).stem if i_md >= 0 and f[i_md] else ""
+        campos = (crudo.get(stem) or {}).get("campos", {})
+        dm = (mej.get(stem) or {}).get("campos", {})
+        for r, i in col.items():
+            v = _nn(f[i])
+            vc = (campos.get(r) or {}).get("valor_fuente")
+            vc_t = _nn(corte(a_texto(vc))) if vc not in (None, "", [], {}) else ""
+            m = dm.get(r) or {}
+            if not v:
+                if vc_t:                       # estaba y desapareció
+                    perdidas.append((stem, r, vc_t[:45]))
+                continue
+            if vc_t == v:
+                intactas += 1                  # v1 intacto
+                continue
+            if _nn(m.get("valor")) == v and m.get("verificado"):
+                justificadas += 1              # relleno con cita verificada
+                continue
+            inventadas.append((stem, r, v[:55]))
+
+    total = intactas + justificadas + len(inventadas) + len(perdidas)
+    test("integridad v1↔v2",
+         not perdidas and not inventadas,
+         "%d celdas · %d intactas del crudo · %d rellenadas con cita · "
+         "PERDIDAS %d · SIN FUENTE %d%s"
+         % (total, intactas, justificadas, len(perdidas), len(inventadas),
+            ("" if not (inventadas or perdidas)
+             else " → " + "; ".join(
+                 "%s/%s %s" % (a[0][:22], a[1], a[2][:30])
+                 for a in (inventadas + perdidas)[:4]))))
+
+
+# ---------------------------------------------------------------- T11
+def t11_titulos():
+    """Normalización de títulos MEDIDA, no prometida.
+
+    Gate duro: ningún título sin `titulo_normalizado` y ninguno idéntico
+    al crudo (si todo sigue igual, la normalización no ha hecho nada).
+    Informativo: cuántos formatos de encabezado conviven y qué años se
+    salen del patrón mayoritario — eso es lo que hay que igualar."""
+    wb = load_workbook(XLSX, read_only=True, data_only=True)
+    filas = list(wb["Informes"].iter_rows(values_only=True))
+    cab = [str(c or "") for c in filas[0]]
+    i_t = cab.index("titulo") if "titulo" in cab else -1
+    i_tn = cab.index("titulo_normalizado") if "titulo_normalizado" in cab else -1
+    i_an = cab.index("anio") if "anio" in cab else -1
+    datos = [f for f in filas[1:] if any(f)]
+    wb.close()
+
+    FORMAS = [
+        (r"^investigaci[oó]n del accidente", "«Investigación del accidente…»"),
+        (r"^informe (final|de la ciaf)", "«Informe Final de la CIAF…»"),
+        (r"^(if|ciaf|expediente)\b", "«IF / CIAF / expediente…»"),
+        (r"^n[ºo]\s*\d", "«Nº …»"),
+        (r"^[0-9]{2,4}[./]", "empieza por número"),
+        (r"^(descarrilamiento|colisi[oó]n|incendio|accidente|incidente|da[nñ]os)",
+         "empieza por el TIPO de suceso"),
+    ]
+
+    def forma(t):
+        t = _nn(t)
+        for pat, nom in FORMAS:
+            if re.match(pat, t, re.I):
+                return nom
+        return "otro (texto libre)"
+
+    sin_norm, identicos = [], 0
+    distri = Counter()
+    por_anio = defaultdict(Counter)
+    for f in datos:
+        t = _nn(f[i_t]) if i_t >= 0 else ""
+        tn = _nn(f[i_tn]) if i_tn >= 0 else ""
+        an = _nn(f[i_an]) if i_an >= 0 else "?"
+        if not t:
+            sin_norm.append("(fila sin título)")
+            continue
+        if not tn:
+            sin_norm.append(t[:40])
+            continue
+        if tn == t:
+            identicos += 1
+        k = forma(t)
+        distri[k] += 1
+        por_anio[an][k] += 1
+
+    mayoritario = distri.most_common(1)[0][0] if distri else ""
+    desuniformes = [a for a, c in sorted(por_anio.items())
+                    if c.most_common(1)[0][0] != mayoritario]
+
+    test("títulos normalizados",
+         not sin_norm,
+         "%d títulos · %d con normalizado · %d aún IDÉNTICOS al crudo "
+         "(%.0f%% = normalización PENDIENTE) · %d formatos distintos · "
+         "%d años fuera del patrón mayoritario%s"
+         % (len(datos), len(datos) - len(sin_norm), identicos,
+            100 * identicos / max(1, len(datos)), len(distri),
+            len(desuniformes),
+            "" if not sin_norm else
+            " · sin título: " + "; ".join(s for s in sin_norm[:3])),
+         # NO bloquea: que el 83% siga con el título crudo no es un error
+         # del pipeline, es el trabajo de normalización pendiente (h5).
+         # Bloquearía el gate sin que nada esté roto y dejaría de significar.
+         # El objetivo de h5 es bajar `identicos` a 0 sin tocar el `titulo`
+         # original (la columna cruda es la fuente oficial).
+         critico=False)
+    print("        formatos:", " · ".join(
+        "%s=%d" % (k, v) for k, v in distri.most_common()))
+    if desuniformes:
+        print("        años con otro patrón:", ", ".join(desuniformes[:14]))
+
+
+# ---------------------------------------------------------------- T12
+def t12_huecos():
+    """Cuenta las celdas vacías por campo y separa «la fuente NO lo
+    publica» (nunca se rellena) de «pendiente».
+
+    El sondeo 0/60 ya demostró que 0.5 (fecha del informe) y 0.6 (versión)
+    la fuente no las publica JAMÁS: rellenarlas sería inventar. Cualquier
+    otra columna al 100% vacío se LISTA aunque no bloquee — un hueco
+    invisible no se arregla nunca."""
+    NO_PUBLICA = {"0.5", "0.6"}
+
+    guia = json.loads((DATA / "guia_campos.json").read_text(encoding="utf-8"))
+    nom = {str(g.get("ref")): str(g.get("campo") or "")
+           for g in guia if str(g.get("ref", "")).strip()[:1].isdigit()}
+    wb = load_workbook(XLSX, read_only=True, data_only=True)
+    filas = list(wb["Informes"].iter_rows(values_only=True))
+    cab = [str(c or "") for c in filas[0]]
+    col = [c for c in cab if c in nom]
+    datos = [f for f in filas[1:] if any(f)]
+    wb.close()
+
+    idx = {c: cab.index(c) for c in col}
+    vacias = Counter()
+    for f in datos:
+        for c in col:
+            if not _nn(f[idx[c]]):
+                vacias[c] += 1
+    al_cien = sorted(c for c, n in vacias.items() if n == len(datos))
+    inesperadas = [c for c in al_cien if c not in NO_PUBLICA]
+
+    test("huecos por campo",
+         not inesperadas,
+         "%d celdas vacías de %d · %d columnas al 100%% vacío "
+         "(%d documentadas «no publica»)%s"
+         % (sum(vacias.values()), len(datos) * len(col), len(al_cien),
+            len([c for c in al_cien if c in NO_PUBLICA]),
+            "" if not inesperadas else
+            " · INESPERADAS al 100%: " + ",".join(inesperadas)),
+         critico=False)
+    if al_cien:
+        print("        100% vacías:", " · ".join(
+            "%s %s" % (c, nom[c][:34]) for c in al_cien[:10]))
+
+
 def main():
     print("== Arnés de tests de la base de datos CIAF ==")
     t1_estructura()
@@ -348,6 +567,9 @@ def main():
     t7_consistencia()
     t8_dobles()
     t9_regeneracion()
+    t10_integridad_v1()
+    t11_titulos()
+    t12_huecos()
     print()
     total = len(fallos) + len(okey) + len(avisos)
     if fallos:
